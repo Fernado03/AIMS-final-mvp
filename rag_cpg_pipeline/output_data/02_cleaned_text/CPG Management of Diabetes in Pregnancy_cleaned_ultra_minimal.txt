@@ -1,0 +1,2972 @@
+CLINICAL PRACTICE GUIDELINES
+27 MOHPIPAKIa53 7160)
+MANAGEMENT OF
+DIABETES IN PREGNANCY
+Management of Diabetes in Pregnancy
+Published by:
+Malaysia Health Technology Assessment Section (MaHTAS)
+Medical Development Division, Ministry of Health Malaysia
+Level 4, Block E1, Precinct 1
+Federal Government Administrative Centre
+62590, Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is MaHTAS. Content may be
+reproduced in any number of copies and in any format or medium
+provided that a copyright acknowledgement to MaHTAS is included and
+the content is not changed, not sold, nor used to promote or endorse
+any product or service, and not used in an inappropriate or misleading
+context.
+ISBN: 978-967-2173-15-1
+Available on the following websites:
+http://www.moh.gov.my
+http://www.acadmed.org.my
+http://www.mems.my
+http://www.perinatal-malaysia.org
+http://www.fms-malaysia.org
+Also available as an app for Android and IOS platform: MyMaHTAS
+STATEMENT OF INTENT
+These clinical practice guidelines (CPG) are meant to be guides for
+clinical practice based on the best available evidence at the time of
+development. Adherence to these guidelines may not necessarily
+guarantee the best outcome in every case. Every healthcare provider is
+responsible for the management of his/her unique patient based on the
+clinical picture presented by the patient and the management options
+available locally.
+Every care is taken to ensure that this publication is correct in every
+detail at the time of publication. However, in the event of errors or
+omissions, corrections will be published in the web version of this
+document, which is the definitive version at all times. This version can
+be found on the websites mentioned above.
+Management of Diabetes in Pregnancy
+UPDATING THE CPG
+These guidelines were issued in 2017 and will be reviewed in a
+minimum period of four years (2021) or sooner if new evidence becomes
+available. When it is due for updating, the Chairman of the CPG or
+National Advisor of the related specialty will be informed about it. A
+discussion will be done on the need for a revision including the scope of
+the revised CPG. A multidisciplinary team will be formed and the latest
+systematic review methodology used by MaHTAS will be employed.
+Management of Diabetes in Pregnancy
+TABLE OF CONTENTS
+No.
+Title
+Page
+Levels of Evidence and Formulation of Recommendation
+i
+Key Recommendations
+ii
+Guidelines Development and Objectives
+v
+Development Group
+viii
+Review Committee
+ix
+External Reviewers
+x
+Algorithm A: Screening and Diagnosis of Diabetes
+xi
+in Pregnancy
+Algorithm B: Intrapartum Glucose Monitoring for Diabetes
+xii
+in Pregnancy in Active Labour
+Algorithm C: Insulin Infusion and Titration
+xiii
+in Active Labour
+1.
+INTRODUCTION
+1
+2.
+SCREENING AND DIAGNOSIS
+1
+2.1 Overt Diabetes in Pregnancy
+2
+3.
+MANAGEMENT OF PREGNANT WOMEN AT RISK OF
+4
+DEVELOPING GESTATIONAL DIABETES MELLITUS
+3.1 Medical Nutrition Therapy
+4
+3.2 Exercise
+6
+4.
+MANAGEMENT OF WOMEN WITH
+7
+PRE-EXISTING DIABETES
+4.1 Preconception Care and Counselling
+7
+4.2 Contraception
+8
+4.3 Glycaemic Control
+8
+4.4 Folic Acid Supplementation
+8
+5.
+ANTENATAL MANAGEMENT OF DIABETES IN
+10
+PREGNANCY
+5.1 Glycaemic Control
+10
+5.2 Medical Nutrition Therapy
+12
+5.3 Oral Antidiabetic Agents
+13
+5.4 Insulin
+14
+5.5 Pre-eclampsia Prophylaxis
+17
+5.6 Assessment of Complications of Diabetes
+18
+5.7 Fetal Surveillance
+19
+5.8 Timing and Mode of Delivery
+Management of Diabetes in Pregnancy
+6.
+INTRAPARTUM GLYCAEMIC CONTROL FOR
+22
+DIABETES IN PREGNANCY
+7.
+POSTPARTUM MANAGEMENT OF DIABETES IN
+23
+PREGNANCY
+7.1 Postpartum Glucose Monitoring
+23
+7.2 Postpartum Use of Metformin
+23
+7.3 Breastfeeding
+24
+7.4 Postpartum Contraception
+24
+7.5 Postpartum Lifestyle Intervention
+24
+8.
+MANAGEMENT OF NEONATES OF MOTHERS WITH
+26
+DIABETES
+9.
+MANAGEMENT OF SPECIAL CONDITIONS IN
+27
+DIABETES IN PREGNANCY
+9.1 Continuous Subcutaneous Insulin Infusion
+27
+9.2 Corticosteroids
+27
+9.3 Fasting
+27
+10.
+REFERRAL TO SECONDARY/TERTIARY CARE
+28
+11. IMPLEMENTING THE GUIDELINES
+29
+REFERENCES
+31
+Appendix 1: Examples of Search Strategy
+37
+Appendix 2: Clinical Questions
+38
+Appendix 3: Carbohydrate Content of Common
+39
+Malaysian Foods
+Food Groups and Exchange Lists
+40
+Glycaemic Index List
+44
+Sample Menu
+45
+Appendix 4: Medication Table
+46
+Appendix 5: Preparation of Insulin Infusion
+48
+List of Abbreviations
+49
+Acknowledgement
+50
+Disclosure Statement
+50
+Source of Funding
+50
+TABLE OF CONTENTS
+No.
+Title
+Page
+Management of Diabetes in Pregnancy
+i
+LEVELS OF EVIDENCE
+SOURCE: US / CANADIAN PREVENTIVE SERVICES TASK FORCE 2001
+FORMULATION OF RECOMMENDATION
+In line with new development in CPG methodology, the CPG Unit of
+MaHTAS is in the process of adapting Grading Recommendations,
+Assessment, Development and Evaluation (GRADE) in its
+work process. The quality of each retrieved evidence and its effect
+size are carefully assessed/reviewed by the CPG Development
+Group. In formulating the recommendations, overall balances of the
+following aspects are considered in determining the strength of the
+recommendations:-
+• overall quality of evidence
+• balance of benefits versus harms
+• values and preferences
+• resource implications
+• equity, feasibility and acceptability
+Level
+I
+II-1
+II-2
+II-3
+III
+Study design
+Evidence from at least one properly randomised controlled trial
+Evidence obtained from well-designed controlled trials without
+randomisation
+Evidence obtained from well-designed cohort or case-control
+analytic studies, preferably from more than one centre or
+group
+Evidence from multiple time series with or without intervention.
+Dramatic results in uncontrolled experiments (such as the
+results of the introduction of penicillin treatment in the 1940s)
+could also be regarded as this type of evidence
+Opinions of respected authorities based on clinical experience;
+descriptive studies and case reports; or reports of expert
+committees
+Management of Diabetes in Pregnancy
+KEY RECOMMENDATIONS
+The following recommendations were highlighted by the guidelines
+Development Group as the key clinical recommendations that should
+be prioritised for implementation.
+Screening
+• Screening for gestational diabetes mellitus based on risk factors
+using 75 gram oral glucose tolerance test (OGTT) should be done at
+booking.
+ If the test is negative, it should be repeated at 24-28 weeks of
+gestation.
+• For women at the age of 25 or more with no other risk factors, OGTT
+should be done at 24-28 weeks of gestation.
+• Overt diabetes in pregnancy should be managed as pre-existing
+diabetes.
+Preconception Care
+• Preconception care of women with pre-existing diabetes which
+involve a multidisciplinary team should be fully implemented in all
+healthcare facilities.
+Antenatal Management of Diabetes in Pregnancy
+• Self-monitoring of blood glucose (SMBG) should be done in diabetes
+in pregnancy. The blood glucose targets should be as the following:
+ fasting or preprandial: ≤5.3 mmol/L
+ 1-hour postprandial: ≤7.8 mmol/L
+ 2-hour postprandial: ≤6.7 mmol/L
+• The frequency of SMBG in diabetes in pregnancy should be
+individualised based on mode of treatment and glycaemic control.
+• Pregnant women with pre-existing diabetes on multiple daily insulin
+(MDI) injection regimen should perform SMBG at least three times
+daily. It can be done at fasting, preprandial, postprandial or bedtime.
+• Women with gestational diabetes mellitus (GDM) on MDI injection
+regimen should perform SMBG two to three times daily, for two to
+three days a week.
+• Pregnant women with type 2 diabetes mellitus or GDM on diet and exercise
+therapy, oral antidiabetic agents (OAD), single-dose intermediate-acting
+or long-acting insulin should perform fasting and postprandial SMBG at
+least once daily until blood glucose targets are reached.
+• Pregnant women who are on insulin or OAD should maintain their
+capillary blood glucose level >4.0 mmol/L.
+Management of Diabetes in Pregnancy
+iii
+• Pregnant women with diabetes should be given individualised
+medical nutrition therapy which includes carbohydrate-controlled
+meal plan and monitoring of gestational weight gain.
+• In gestational diabetes mellitus, metformin should be offered when
+blood glucose targets are not met using changes in diet and exercise
+within 1-2 weeks.
+ It should be prescribed after consultation with specialists.
+• Metformin should be continued in women who are already on the
+treatment before pregnancy.
+• Insulin therapy can be initiated at outpatient setting in pregnant
+women with diabetes.
+• The preferred choice of insulin regime in diabetes in pregnancy is
+multiple daily injections.
+• Insulin analogues should be continued during pregnancy in women
+with pre-existing diabetes who are already on the treatment and
+have established good blood glucose control before pregnancy.
+• Rapid-acting insulin analogue may be considered as an option,
+particularly in patients with frequent hypoglycaemia or postprandial
+hyperglycaemia using human insulin during pregnancy.
+• Pregnant women with pre-existing diabetes should be offered
+ultrasound scan at:
+ 11-14 weeks of gestation for dating and major structural
+malformation
+ 18-20 weeks of gestation for detailed structural anatomy scan (by
+a trained specialist or ultrasonographer)
+• In women with pre-existing diabetes and gestational diabetes
+mellitus, serial growth scan should be performed every four weeks
+from 28 to 36 weeks of gestation.
+• In women with pre-existing diabetes or gestational diabetes mellitus
+who develop maternal or fetal complications, elective delivery before
+37+0 weeks should be considered.
+Intrapartum Management of Diabetes in Pregnancy
+• In women with diabetes, capillary blood glucose should be maintained
+between 4.0-7.0 mmol/L during labour and delivery.
+Management of Diabetes in Pregnancy
+iv
+Postpartum Management of Diabetes in Pregnancy
+• In women with history of gestational diabetes mellitus, oral glucose
+tolerance test should be performed at six weeks after delivery to
+detect diabetes and prediabetes. If negative, annual screening
+should be performed.
+Management of Diabetes in Pregnancy
+v
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+GUIDELINES DEVELOPMENT
+The members of the Development Group (DG) for these CPG were
+from the Ministry of Health (MoH) and Ministry of Higher Education
+(MoHE). There was active involvement of a multidisciplinary Review
+Committee (RC) during the process of the CPG development.
+A systematic literature search was carried out using the following
+electronic databases/platform: Guidelines International Network (G-I-N),
+Medline via Ovid, Cochrane Database of Systemic Reviews (CDSR)
+and Pubmed. Refer to Appendix 1 for Example of Search Strategy.
+The inclusion criteria were all diabetes in pregnancy regardless of
+study design. The search was limited to literature published in the last
+10 years, on humans and in English. In addition, the reference lists of
+all retrieved literature and guidelines were searched and experts in the
+field contacted to identify relevant studies. All searches were conducted
+from 3 October 2015 to 21 March 2016. Literature search was repeated
+for all clinical questions at the end of the CPG development process
+allowing any relevant papers published before 30 June 2017 to be
+included. Future CPG updates will consider evidence published after
+this cut-off date. The details of the search strategy can be obtained
+upon request from the CPG Secretariat.
+Reference was also made to other guidelines as listed below:
+• Ministry of Health Malaysia - CPG on Management of Type 2
+Diabetes Mellitus (5th Edition) (December 2015)
+• National Institute for Clinical Excellence (NICE) - Diabetes in
+Pregnancy: Management of Diabetes and its Complications from
+Preconception to the Postnatal Period (February 2015)
+• New Zealand Guideline Group (NZGG) - Screening, Diagnosis and
+Management of Gestational Diabetes in New Zealand (December
+2014)
+These CPGs were evaluated using the Appraisal of Guidelines for
+Research and Evaluation (AGREE) II prior to it being used as reference.
+A total of 13 clinical questions were developed under different sections.
+Members of the DG were assigned individual questions within
+these sections. Refer to Appendix 2 for Clinical Questions. The
+DG members met 22 times throughout the development of these
+guidelines. All literatures retrieved were appraised by at least two DG
+members using Critical Appraisal Skill Programme checklist, presented
+in evidence tables and further discussed in each DG meetings. All
+statements and recommendations formulated after that were agreed
+upon by both the DG and RC. Where evidence was insufficient, the
+recommendations were made by consensus of the DG and RC. Any
+Management of Diabetes in Pregnancy
+differences in opinion were resolved consensually. The CPG was
+based largely on the findings of systematic reviews, meta-analyses and
+clinical trials, with local practices taken into consideration.
+The literatures used in these guidelines were graded using the US/
+Canadian Preventive Services Task Force Level of Evidence (2001)
+while the grading of recommendation was done using the principles of
+GRADE (refer to the preceding page). The writing of the CPG follows
+strictly the requirement of AGREE II.
+On completion, the draft CPG was reviewed by external reviewers. It
+was also posted on the MoH Malaysia official website for feedback from
+any interested parties. The draft was finally presented to the Technical
+Advisory Committee for CPG, and the HTA and CPG Council MoH
+Malaysia for review and approval. Details on the CPG development
+by MaHTAS can be obtained from Manual on Development and
+Implementation of Evidence-based Clinical Practice Guidelines
+published in 2015 (available at http://www.moh.gov.my/penerbitan/
+mymahtas/CPG_MANUAL_MAHTAS.pdf)
+Management of Diabetes in Pregnancy
+vii
+OBJECTIVES
+The objectives of the CPG are to provide evidence-based recommendations
+on diabetes in pregnancy on these aspects:
+i. Screening and diagnosis
+ii. Management (pre-pregnancy, antenatal, intrapartum and postpartum
+period)
+CLINICAL QUESTIONS
+Refer to Appendix 2
+TARGET POPULATION
+Inclusion Criteria
+i. Women with diabetes planning for pregnancy
+ii. Pregnant women at risk of diabetes
+iii. Pregnant women with pre-existing diabetes and gestational diabetes
+mellitus
+Exclusion Criteria
+Pregnant women with secondary causes of diabetes
+TARGET GROUP/USER
+This CPG intends to guide those involved in the management of
+diabetes in pregnancy either in primary or secondary/tertiary care in
+public and private practice namely:
+i. Medical officers and specialists
+ii. Allied health professionals
+iii. Trainees and medical students
+iv. Patients and their advocates
+v. Professional societies
+HEALTHCARE SETTINGS
+Outpatient, inpatient and community settings
+Management of Diabetes in Pregnancy
+DEVELOPMENT GROUP
+Chairperson
+Dr. Nurain Mohd. Noor
+Consultant Endocrinologist
+Hospital Putrajaya, Putrajaya
+Members (alphabetical order)
+viii
+Assoc. Prof. Dr. Barakatun Nisak
+Mohd Yusof
+Lecturer & Dietician
+Faculty of Medicine and Health
+Sciences
+Universiti Putra Malaysia, Selangor
+Dr. Hanin Farhana Kamaruzaman
+Senior Principal Assistant Director
+Health Technology Assessment Section
+Ministry of Health Malaysia, Putrajaya
+Dr. Hoong Farn Weng Michael
+Consultant Obstetrician & Gynaecologist
+Hospital Wanita & Kanak-kanak Sabah
+Sabah
+Professor Dr. Imelda Balchin
+Consultant Maternal Fetal Medicine
+Faculty of Medicine
+Universiti Malaya, Kuala Lumpur
+Dr. Lili Zuryani Marmuji
+Family Medicine Specialist
+Klinik Kesihatan Gunung Rapat, Perak
+Dr. Mastura Ismail
+Consultant Family Medicine Specialist
+Klinik Kesihatan Seremban 2
+Negeri Sembilan
+Dr. Mohd. Aminuddin Mohd. Yusof
+Head of CPG Unit & Public Health
+Physician
+Health Technology Assessment Section
+Ministry of Health Malaysia, Putrajaya
+Ms. Nazatul Syima Idrus
+Pharmacist & Principal Assistant
+Director
+Pharmaceutical Services Division
+Ministry of Health Malaysia, Selangor
+Dr. Noor Lita Adam
+Consultant Endocrinologist
+Hospital Tuanku Ja’afar, Negeri Sembilan
+Assoc. Prof. Dr. Norasyikin Abdul Wahab
+Lecturer & Consultant Endocrinologist
+Faculty of Medicine
+Universiti Kebangsaan Malaysia
+Kuala Lumpur
+Assoc. Prof. Dr. Norlaila Mustafa
+Lecturer & Consultant Endocrinologist
+Faculty of Medicine
+Universiti Kebangsaan Malaysia
+Kuala Lumpur
+Dr. Ranjit Singh Dhalliwal
+Obstetrician & Gynaecologist
+Hospital Ampang, Selangor
+Assoc. Prof. Dr. Rohana Abdul Ghani
+Lecturer & Consultant Endocrinologist
+Faculty of Medicine
+Universiti Teknologi MARA, Selangor
+Management of Diabetes in Pregnancy
+REVIEW COMMITTEE
+The draft CPG was reviewed by a panel of experts from both public
+and public sectors. They were asked to comment primarily on the
+comprehensiveness and accuracy of the interpretation of evidence
+supporting the recommendations in the CPG.
+Chairperson
+Dr. Zanariah Hussein
+Senior Consultant Endocrinologist &
+National Advisor of Endocrinology Services
+Hospital Putrajaya, Putrajaya
+Members (alphabetical order)
+ix
+Dr. Carol Lim Kar Koong
+Consultant Obstetrician & Gynaecologist
+(Maternal Fetal Medicine)
+Hospital Sultan Haji Ahmad Shah
+Pahang
+Dato’ Dr. Ghazali Ismail
+Senior Consultant Obstetrician &
+Gynaecologist
+Hospital Sultan Ismail, Johor
+Dr. J. Ravichandran Jeganathan
+Senior Consultant Obstetrician &
+Gynaecologist & National Advisor of
+O&G Services
+Hospital Sultanah Aminah, Johor
+Dr. Junainah Sabirin
+Deputy Director & Public Health
+Physician
+Health Technology Assessment Section
+Ministry of Health Malaysia, Putrajaya
+Dr. Noor Aziah Zainal Abidin
+Senior Principal Assistant Director
+Medical Development Services Section
+Ministry of Health Malaysia, Putrajaya
+Ms. Noraini Mohamad
+Deputy Director
+Pharmacy Practice & Development
+Division
+Pharmaceutical Services Programme
+Ministry of Health Malaysia, Selangor
+Dr. Norraliza Md. Zain
+Consultant Family Medicine Specialist
+Klinik Kesihatan Lanang, Sarawak
+Dr. Norzaihan Hassan
+Consultant Family Medicine Specialist
+Klinik Kesihatan Bandar Kota Bharu
+Kelantan
+Professor Dato’ Dr. Sivalingam Nalliah
+Lecturer & Senior
+Consultant Obstetrician & Gynaecologist
+Faculty of Medicine
+International Medical University
+Negeri Sembilan
+Management of Diabetes in Pregnancy
+EXTERNAL REVIEWERS (in alphabetical order)
+The following external reviewers provided feedback on the draft:
+Dr. Ernieda Md Hatah
+Senior Lecturer, Clinical Pharmacy Discipline
+Faculty of Pharmacy, Universiti Kebangsaan Malaysia, Kuala Lumpur
+Assoc. Prof. Dato’ Dr. Hamizah Ismail
+Head of Department & Consultant Obstetrician & Gynaecologist
+Kulliyyah of Medicine, International Islamic University Malaysia, Pahang
+Dr. Iskandar Firzada Osman
+Consultant Family Medicine Specialist
+Klinik Kesihatan Jaya Gading, Kuantan, Pahang
+Professor Dato’ Dr. Mafauzy Mohammed
+Professor of Medicine & Senior Consultant Endocrinologist
+School of Health Sciences, Universiti Sains Malaysia, Kelantan
+Dr. Navin Kumar a/l Loganadan
+Clinical Pharmacist
+Hospital Putrajaya, Putrajaya
+Mdm. Nurul Huda Ibrahim
+Senior Principle Assistant Director (Dietetic)
+Primary Care Sector
+Family Health Development Division, Ministry of Health, Putrajaya
+Dr. Shari Nor
+Maternal Fetal Medicine Specialist & Consultant Obstetrician & Gynaecologist
+Hospital Wanita & Kanak-kanak Sabah, Sabah
+Professor Dr. Siti Zawiah Omar
+Head of Department & Professor of Obstetrics & Gynaecology
+Faculty of Medicine
+Universiti Malaya, Kuala Lumpur
+Professor Dr. Winnie Chee Siew Swee
+Professor of Food Science & Nutrition
+Dean of School of Health Sciences
+International Medical University, Kuala Lumpur
+Professor Dr. Zalilah Mohd Shariff
+Professor of Community Nutrition
+Department of Nutrition and Dietetics
+Faculty of Medicine and Health Sciences, Universiti Putra Malaysia, Selangor
+Management of Diabetes in Pregnancy
+xi
+ALGORITHM A: SCREENING AND DIAGNOSIS OF DIABETES
+IN PREGNANCY
+OGTT results
+OR
+YES
+NO
+YES
+NO
+SCREENING*
+• Women at risk to develop GDM**: at booking/as early as possible
+• Women age ≥25 with no other risk factors: at 24-28 weeks of gestation
+75 g Oral Glucose Tolerance Test
+(OGTT)
+Fasting plasma glucose (FPG): ≥5.1 mmol/L
+2-hours postprandial (2-HPP) ≥7.8 mmol/L
+Gestational Diabetes Mellitus
+(GDM)
+Repeat OGTT at
+24-28 week of gestation
+FPG ≥5.1 mmol/L OR 2-HPP ≥7.8 mmol/L
+Exclude GDM
+• Body mass index >27 kg/m2
+• Previous history of GDM
+• First degree relative with diabetes mellitus
+• History of macrosomia (birth weight >4 kg)
+** Presence of any risk factors:
+• Bad obstetric history
+• Glycosuria ≥2+ on two occasions
+• Current obstetric problems (essential hypertension,
+pregnancy-induced hypertension, polyhydramnios
+and current use of corticosteroids)
+*Overt DM is suspected in the presence of at least one of the following:
+o FPG ≥7.0 mmol/L
+o Random plasma glucose (RPG) ≥11.1 mmol/L
+• However, the diagnosis of overt DM should be confirmed with a second test (FPG/RPG/OGTT).
+Management of Diabetes in Pregnancy
+xii
+ALGORITHM B: INTRAPARTUM GLUCOSE MONITORING FOR
+DIABETES IN PREGNANCY IN ACTIVE LABOUR
+T2DM or
+GDM on insulin/
+metformin
+T1DM
+GDM on diet alone
+Start intravenous (IV)
+dextrose infusion
+Stop subcutaneous
+insulin/metformin
+Check capillary blood glucose
+(CBG) 1- to 2-hourly
+Check CBG 4-hourly
+Refer to
+ALGORITHM C
+*CBG results
+(Target: 4.0-7.0 mmol/L)
+<4.0 mmol/L
+4.0-7.0 mmol/L
+7.1-10.0 mmol/L
+>10.0 mmol/L
+Repeat CBG in 1 hour
+• Inform doctor
+immediately
+• If symptomatic,
+give bolus IV
+(20 ml of D50%)
+• If asymptomatic,
+offer nourishing
+fluid
+• Repeat CBG in
+30 minutes and
+follow CBG
+results (*)
+Continue
+monitoring
+CBG
+as previously
+NO
+YES
+CBG >7.0 mmol/L
+Start IV insulin infusion
+Refer to ALGORITHM C
+T1DM : Type 1 diabetes mellitus
+T2DM : Type 2 diabetes mellitus
+GDM : Gestational diabetes mellitus
+Management of Diabetes in Pregnancy
+xiii
+ALGORITHM C: INSULIN INFUSION AND TITRATION IN
+ACTIVE LABOUR
+Refer to Appendix 5 for preparation of insulin infusion.
+!
+!
+!
+Titration of insulin infusion:
+CBG (mmol/L)
+Action
+Drop >2.0 from
+previous reading
+Reduce by 1.0 unit
+4.0-7.0
+Maintain current dose
+7.1-8.5
+Add 0.5 unit
+8.6-10.0
+Add 1.0 unit
+>10.0
+Add 2.0 unit
+Start intravenous (IV) insulin infusion*
+Check capillary blood
+glucose (CBG) hourly
+CBG results
+(Target: 4.0-7.0 mmol/L)
+<4.0 mmol/L
+≥4.0 mmol/L
+• Withhold insulin infusion
+• Inform doctor immediately
+• If symptomatic, give bolus IV
+(20 ml of D50%)
+• If asymptomatic, offer
+nourishing fluid
+• Repeat CBG in 30 minutes
+Check CBG in 1 hour
+* IV insulin infusion initiation rate
+• Type 1 diabetes mellitus: 0.01-0.02 unit/kg/hour
+• Type 2 diabetes mellitus/gestational diabetes mellitus: 0.05-0.07 unit/kg/hour
+• If requirement exceed 0.1 unit/kg/hour, refer the endocrinologist/physician
+Management of Diabetes in Pregnancy
+Management of Diabetes in Pregnancy
+1. INTRODUCTION
+The National Health Morbidity Survey 2015 showed that the prevalence
+of diabetes was 17.5%. Generally, the prevalence of diabetes increases
+with age.1, level III This is a concern especially in the reproductive age
+group as this will adversely affect their fertility and pregnancy.
+Diabetes in pregnancy is associated with risks to the woman and her
+developing fetus. National Obstetric Report involving 14 tertiary hospitals
+showed the incidence of diabetes in pregnancy was 8.66% in 2011 and
+8.83% in 2012. The caesarean section rates in this group of patients
+were around 13% in 2011 and 2012. In both years approximately 16%
+babies born to diabetic mothers weighed 4 kg and more. There was
+a 2-fold increase in macrosomia in diabetes patients in both years
+as compared to nondiabetes and this could have contributed to the
+increased caesarean section rates. These figures were obtained from
+only a few tertiary hospitals and the actual prevalence was expected to
+be higher.2, level III
+There are variations in local clinical practice management of diabetes
+in pregnancy at different levels of care. To date, there is no specific
+local CPG addressing this issue. This CPG, therefore, provides
+a comprehensive evidence-based guideline in screening and
+management of diabetes and its complications in pregnancy. This CPG
+would assist healthcare providers in delivering high quality care.
+2. SCREENING AND DIAGNOSIS
+Screening for diabetes in pregnant women is important to identify
+asymptomatic patients who may have overt diabetes before they
+manifest symptoms such as excessive thirst and urination, or fatigue.
+Two main screening strategies are ‘universal’ where all women undergo
+a screening test for gestational diabetes mellitus (GDM) and ‘selective’
+where only those women at high risk are screened.
+In a Cochrane systematic review, there was insufficient evidence to
+determine if screening for GDM and types of screening can improve
+maternal and fetal health outcome in view of small studies and poor
+quality evidences. However, one of the included study showed that
+universal screening was better than selective screening at detecting
+GDM (RR=0.44, 95% CI 0.26 to 0.75).3, level I
+Ideally, universal screening should be adhered to. However, if resources
+are limited, selective screening is acceptable focusing on individuals at
+risk of developing GDM.4
+Management of Diabetes in Pregnancy
+• Women at risk to develop GDM include:4
+a. Body mass index (BMI) >27 kg/m2
+b. Previous history of GDM
+c. First-degree relative with diabetes mellitus (DM)
+d. History of macrosomia (birth weight >4 kg)
+e. Bad obstetric history [unexplained intrauterine death, congenital
+anomalies (i.e. neural tube defects, cardiac defects), shoulder
+dystocia]
+f. Glycosuria ≥2+ on two occasions
+g. Current obstetric problems (essential hypertension, pregnancyinduced hypertension, polyhydramnios and current use of
+corticosteroids)
+Increasing age has been associated with an increased risk of developing
+GDM. Based on consensus between RC and DG CPG, pregnant
+women ≥25 years old without other risk factors should have screening
+for GDM at 24-28 weeks.
+Another Cochrane systematic review found that the evidence was
+insufficient to conclude the best strategy to diagnose GDM.5, level I
+However, oral glucose tolerance test (OGTT) has been recommended
+by international guidelines on the issue.6, 7-8, level III It should be done at
+booking for high risk women, and repeated at 24-28 weeks of gestation
+if the initial result was negative4, 6
+There is insufficient evidence to suggest HbA1c alone as a useful
+diagnostic test for GDM and thus, it is not a useful alternative to
+OGTT.9, level III
+In a meta-analysis on screening for GDM, random blood sugar
+measurement was found to be an inadequate test to screen for GDM.
+10, level II-2
+2.1 OVERT DIABETES IN PREGNANCY
+There is no universally accepted definition of overt diabetes in
+pregnancy. However, the diagnosis is made when blood glucose level is
+high (refer to yellow box in page 3) during the first trimester. In the case
+of overt diabetes, a second test either using fasting plasma glucose
+(FPG), untimed random plasma glucose (RPG), HbA1C, or OGTT,
+must be performed on another day to confirm the diagnosis.11, level III
+If results indicate overt diabetes, treatment and follow-up should be
+carried out as for pre-existing diabetes.8, level III; 12
+Management of Diabetes in Pregnancy
+• GDM is diagnosed in the presence of any one of these results:4
+ FPG ≥5.1 mmol/L
+ 2-hour postprandial (2-HPP) ≥7.8 mmol/L
+• Overt DM is suspected in the presence of at least one of the
+following:13
+ FPG ≥7.0 mmol/L
+ RPG ≥11.1 mmol/L with symptoms
+• However, the diagnosis of overt DM is confirmed with a second test
+(FPG/RPG/OGTT).13
+Recommendation 1
+• Screening for gestational diabetes mellitus based on risk factors*
+using 75 gram oral glucose tolerance test (OGTT) should be done at
+booking.
+ If the test is negative, it should be repeated at 24-28 weeks of
+gestation.
+• For women at the age of 25 or more with no other risk factors, OGTT
+should be done at 24-28 weeks of gestation.
+• Overt diabetes in pregnancy should be managed as pre-existing
+diabetes.
+*Refer to the above yellow box on women at risk to develop GDM
+above.
+Management of Diabetes in Pregnancy
+3.
+MANAGEMENT OF PREGNANT WOMEN AT RISK OF
+DEVELOPING GESTATIONAL DIABETES MELLITUS
+There are many adverse effects of obesity on maternal and perinatal
+outcomes. Obesity in pregnancy is associated with a significant risk of
+GDM and hypertensive disorders of pregnancy including pre-eclampsia.
+Caesarean section rates are high and infants of obese mothers
+are at greater risk of large for gestational age (LGA), macrosomia,
+shoulder dystocia, congenital malformation and stillbirth. Thus, lifestyle
+modification strategies such as exercise, diet and weight management
+are important to prevent GDM.
+3.1 MEDICAL NUTRITION THERAPY
+Medical nutrition therapy (MNT) consists of nutritional diagnosis and
+therapy that include dietary intervention and counselling. It is crucial at
+any stage of pregnancy in women who are at risk of GDM. This can be
+achieved by choosing healthy food with appropriate gestational weight
+gain (GWG).14, level III
+Women at risks of GDM should receive individualised MNT as needed,
+preferably by a dietitian. A small group counselling (2-4 women) may
+also be provided. A nonrandomised trial has shown that small group
+counselling produced similar improvement in nutrition knowledge
+compared to individual counselling.15, level II-2
+In a meta-analysis of RCTs among pregnant women (mostly with BMI
+>25 kg/m2), combined dietary intervention and physical activity reduced
+the risk of GDM by 18% (p=0.0091) compared with standard care. The
+benefits were particularly prominent when the intervention was started
+before 15 weeks of gestation.16, level I
+A Cochrane systematic review suggested a possible reduction in GDM
+risk in women receiving dietary intervention compared with standard
+care. However, no significant difference was observed between
+different types of dietary intervention to prevent GDM. There were no
+adverse events reported in all of the included studies.17, level I
+GWG rate which is higher than the recommended range especially
+in early pregnancy may increase the risk of GDM. Excessive GWG
+increases the risk of postpartum weight retention and maternal obesity
+later in life. The recommended weight gain is determined based on
+each woman’s pre-pregnancy BMI (refer to Table 1).18, level III
+Management of Diabetes in Pregnancy
+Table 1: Total and rate of weight gain recommendations
+during pregnancy
+• In the local setting, the BMI criteria for overweight is 23.0-27.4 kg/m2
+and obesity is ≥27.5 kg/m2.19 There is no recommendations on total
+and rates of weight gain for local population. However, targeting
+GWG to the lower range in Table 1 may be recommended to improve
+pregnancy outcomes.
+GWG is the major determinant of incremental energy needs during
+pregnancy. Energy prescription should be individualised based on
+pre-pregnancy BMI, weight gain, fetal growth pattern, physical activity,
+food and blood glucose records.
+• For women with normal pre-pregnancy BMI, energy prescriptions
+(approximately ranges from 30-35 kcal/kg body weight depending on
+activity level) should be given as per normal pregnancy based on the
+Recommended Nutrient Intakes for Malaysia.4
+• For obese women, a 30-33% of calorie restriction of their estimated
+energy needs (approximately 25 kcal/kg body weight) can be
+prescribed to reduce the rate of GWG without inducing maternal
+ketosis and compromising fetal growth or birth weight. The GWG
+must be closely monitored, and the additional energy needs during
+pregnancy should be modified accordingly.20, level III
+• General recommendations on MNT:
+ MNT should be given to pregnant women with these conditions:
+-
+at risk of GDM
+-
+pre-existing diabetes
+-
+at diagnosis of GDM
+-
+at initiation of insulin therapy
+-
+postpartum care
+ MNT should be individualised according to nutritional needs
+and cultural preference to ensure positive maternal and fetal
+outcomes.
+Pre-pregnancy body weight
+status (BMI in kg/m2)
+Total weight gain
+(ranges in kg)
+Rates of weight gain in
+second and third trimester
+[mean (range) in kg/wk]
+Underweight (<18.5 kg/m2)
+Normal weight (18.5-24.9 kg/m2)
+Overweight (25.0-29.9 kg/m2)
+Obese (≥30 kg/m2)
+12.5-18.0
+11.5-16.0
+7.0-11.5
+5.0-9.0
+0.51 (0.44-0.58)
+0.42 (0.35-0.50)
+0.28 (0.23-0.33)
+0.22 (0.17-0.27)
+Management of Diabetes in Pregnancy
+Recommendation 2
+• Pregnant women at risk of gestational diabetes mellitus should
+be offered medical nutrition therapy which includes monitoring of
+gestational weight gain.
+3.2 EXERCISE
+Structured moderate physical exercise programmes during pregnancy
+significantly decrease the risk of Gestational Diabetes Mellitus.
+21-22, level I They also reduce maternal weight gain with no adverse events
+to the mother and neonate.22, level I
+Examples of safe physical activities during pregnancy are:23, level III
+• Brisk walking
+• Modified yoga or pilates
+• Swimming
+• Strength training
+• Stationary cycling
+• Racquet sport
+• Low impact aerobics
+These exercise and physical activities can be performed for at least
+20 to 30 minutes per day on most or all days of the week and adjusted
+accordingly as indicated.23, level III
+Absolute contraindications to aerobic exercise in pregnancy are:23, level III
+• Haemodynamically significant heart disease
+• Restrictive lung disease
+• Cervical incompetence with or without cerclage
+• Multiple gestation at risk for premature labour
+• Persistent second or third trimester bleeding
+• Placenta praevia after 26 weeks gestation
+• Threatened preterm labour
+• Ruptured membranes
+• Pregnancy induced hypertension
+Recommendation 3
+• All pregnant women with uncomplicated pregnancies should
+be encouraged to exercise especially those at risk of developing
+gestational diabetes mellitus.
+Management of Diabetes in Pregnancy
+4.
+MANAGEMENT OF WOMEN WITH PRE-EXISTING DIABETES
+4.1 PRECONCEPTION CARE AND COUNSELLING
+Women with pre-existing Type 1 DM (T1DM) and Type 2 DM (T2DM)
+will benefit from preconception care because it reduces the incidence
+of congenital malformation, preterm delivery and perinatal mortality.
+Preconception care also lowers the HbA1c level of these women in the
+first trimester.24, level II-2 However, the role of preconception care in women
+with history of GDM remains unclear due to lack of evidence.25, level I
+Before conceiving, women with pre-existing diabetes are advised to
+reduce their weight if they are overweight or obese. The recommended
+exercise schedule is 150 minutes per week.4 Blood pressure (<130/80
+mmHg) and HbA1c should be kept to the optimal (<6.5% or 48 mmol/mol).
+Screening for diabetic retinopathy and nephropathy should be organised
+prior to conception. Women with multiple cardiovascular risk factors on
+contraception should undergo cardiovascular risk assessment before
+withdrawal of the contraception. Additionally, folic acid supplementation
+should be given three months before withdrawal of contraception.4
+Preconception care, including counselling on the risk and expected
+management during pregnancy for women with pre-existing diabetes,
+should be provided by a multidisciplinary team.26, level III
+• Preconception care, provided by a multidisciplinary team, consists
+of:6
+ discussion on timeline for pregnancy planning
+ lifestyle advice (diet, physical activities, smoking cessation and
+optimal body weight)
+ folic acid supplementation
+ appropriate contraception
+ full medication review (discontinue potentially teratogenic
+medications)
+ retinal and renal screening
+ relevant blood investigations
+• Women with pre-existing diabetes should be informed of the
+glycaemic control targets and empowered to achieve control before
+conception. They should also be counselled on the risks and
+expected management strategies during pregnancy.
+Management of Diabetes in Pregnancy
+• Medication review
+ Women with T2DM who are planning a pregnancy should switch
+from oral antidiabetic agent (OAD) to insulin for glycaemic control.
+Patients who are already on metformin may continue treatment.6
+ Women with pre-existing diabetes who also have polycystic
+ovarian syndrome may continue metformin for ovulation induction.
+ Prior to conception or upon detection of pregnancy, the following
+medications should be discontinued: angiotensin-converting
+enzyme inhibitors, angiotensin II receptor blockers and statins.6
+4.2 CONTRACEPTION
+Women with pre-existing diabetes are encouraged to have a planned
+pregnancy. Their choice of contraception is based on their own
+preferences and any risk factors according to the Medical Eligibility
+Criteria.6 The use of oral contraceptive pills are allowed. However,
+intrauterine contraceptive device is the preferred method. Caution
+should be exercised when using Depo-Provera since it may worsen
+glycaemic control.27, level III
+4.3 GLYCAEMIC CONTROL
+NICE guidelines recommend that women with pre-existing diabetes
+who plan for pregnancy to aim for HbA1c <6.5% (48 mmol/mol) if
+this is achievable without causing hypoglycaemia. Any reduction in
+HbA1c level towards the target is likely to reduce the risk of congenital
+malformations in the baby. Those with HbA1c level >10% (86 mmol/mol)
+are advised not to get pregnant because of the associated risks.6
+For each 1% decrement in HbA1c, the risk of pre-eclampsia reduces
+by 12% in pre-pregnancy period to 53% at 34 weeks of gestation in
+T1DM.28, level I
+Women with pre-existing diabetes who plan to become pregnant need
+to increase the frequency of self-monitoring of blood glucose (SMBG)
+by including fasting, pre- and postprandial levels.6
+4.4 FOLIC ACID SUPPLEMENTATION
+The synthetic form of folate is folic acid (FA) which is often used in
+supplements and fortified foods. The main function of folate is to act as
+the co-enzyme in one-carbon transfer during the methylation cycle, an
+essential process for the syntheses of nucleic acids, which form part
+of deoxyribonucleic acid and neurotransmitters. Folate also plays an
+Management of Diabetes in Pregnancy
+essential function in protein synthesis, metabolism and other processes
+associated to cell multiplication and tissue growth.29
+Daily FA supplementation (alone or in combination with other
+vitamins and minerals) in women who become pregnant or are ≤12
+weeks pregnant is effective in preventing neural tube defects (NTDs)
+compared with no intervention/placebo or vitamins and minerals
+without FA (RR=0.31, 95% CI 0.17 to 0.58). It also has protective effect
+for recurrence of NTDs (RR=0.34, 95% CI 0.18 to 0.64). However, there
+is no significant evidence of preventive effect on cleft palate, cleft lip,
+congenital cardiovascular defects and miscarriages.30, level I
+Lack of periconceptional (during a month before conception or first three
+months of pregnancy) use of vitamins or supplements that contain FA is
+associated with an excess risk of NTDs in diabetes.31, level II-2
+All women with diabetes should be counselled regarding intake of
+foods high in FA, folate-fortified foods and appropriate FA
+supplementation of 4 to 5 mg per day during the preconception period
+and in the first 12 weeks of gestation.32, level III This is supported by NICE
+and Canadian guidelines.6; 33, level III Local guidelines and Canadian
+guidelines recommend that FA supplementation should be taken at
+least three months prior to conception.4; 33, level III
+Recommendation 4
+• Preconception care of women with pre-existing diabetes which
+involve a multidisciplinary team should be fully implemented in all
+healthcare facilities.
+• Supplement of 5 mg folic acid per day should be given to women
+with diabetes who plan to become pregnant at least three months
+prior to conception and continue until 12 weeks of gestation.
+Management of Diabetes in Pregnancy
+5.
+ANTENATAL MANAGEMENT OF DIABETES IN PREGNANCY
+5.1 GLYCAEMIC CONTROL
+Self-monitoring of blood glucose (SMBG) in all pregnant women with
+pre-existing diabetes or GDM is recommended to achieve glycaemic
+control and improve pregnancy outcomes.6; 11 It serves to assist patients
+in adjustments of their medications particularly multiple daily insulin
+(MDI) therapy to achieve the desired glycaemic targets. Furthermore, it
+helps to prevent hypoglycaemia or hyperglycaemia episodes.
+Monitoring of blood glucose is preferably done at home. The traditional
+blood sugar profile (BSP) performed in the hospital may not reflect the
+actual day-to-day blood sugar levels.4 In local setting when SMBG is
+not feasible, clinic-based BSP may be done to assess the glycaemic
+control. The frequency of BSP is once in two weeks until delivery or
+more frequent.
+In a Cochrane systematic review on pregnant women with pre-existing
+diabetes, there was no significant advantage of any monitoring
+technique on maternal and fetal outcomes.34, level I
+In a meta-analysis on GDM, treatment consisting of diet modification,
+insulin and glucose monitoring was effective in reducing the incidence
+of:
+• pre-eclampsia (RR=0.62, 95% CI 0.43 to 0.89)
+• shoulder dystocia (RR=0.42, 95% CI 0.22 to 0.77)
+• macrosomia (RR=0.50, 95% CI 0.35 to 0.71)
+However, these interventions did not significantly change the rates of
+caesarean section, induction of labour (IOL), small for gestational age
+(SGA) and admission to neonatal intensive care unit (NICU).35, level I
+There is no benefit for glycaemic targets of FPG between 3.33-5.00 mmol/L
+and 4.45-6.38 mmol/L in T1DM. Very tight blood sugar control increases
+the risk of maternal hypoglycaemia (RR=22.0, 95% CI 11.07 to 32.93).
+There is evidence of harm (increased risk of pre-eclampsia, caesarean
+section and LGA) for FPG >7 mmol/L.36, level I
+Glycaemic targets that have been recommended by guidelines are:6; 11; 33
+• fasting: ≤5.3 mmol/L
+• 1-HPP: ≤7.8 mmol/L
+• 2-HPP: ≤6.4-6.7 mmol/L
+Management of Diabetes in Pregnancy
+SMBG should be done at the following times (performed over a few
+days):4
+• fasting (following an 8-hour overnight fast) and preprandial
+• 1 or 2 hours after the start of each meal (postprandial)
+• bedtime and during the night when indicated
+In poorly controlled diabetes, more frequent monitoring is essential.
+Monitoring should be done at home to reflect the actual day-to-day
+blood glucose levels. Refer to Table 2 on self-monitoring blood glucose.
+There is no evidence on the effectiveness of HbA1c monitoring in
+predicting adverse outcomes in pregnancy.
+Table 2: Timing for Self-monitoring Blood Glucose4
+Recommendation 5
+• Self-monitoring of blood glucose (SMBG) should be done in diabetes
+in pregnancy. The blood glucose targets should be as the following:
+ fasting or preprandial: ≤5.3 mmol/L
+ 1-hour postprandial: ≤7.8 mmol/L
+ 2-hour postprandial: ≤6.7 mmol/L
+• The frequency of SMBG in diabetes in pregnancy should be
+individualised based on mode of treatment and glycaemic control.
+• Pregnant women with pre-existing diabetes on multiple daily insulin
+(MDI) injection regimen should perform SMBG at least three times
+daily. It can be done at fasting, preprandial, postprandial or bedtime.
+• Women with gestational diabetes mellitus (GDM) on MDI injection
+regimen should perform SMBG two to three times daily, for two to
+three days a week.
+• Pregnant women with type 2 diabetes mellitus or GDM on diet
+and exercise therapy, oral antidiabetic agents (OAD), single-dose
+intermediate-acting or long-acting insulin should perform fasting and
+postprandial SMBG at least once daily until blood glucose targets
+are reached.
+• Pregnant women who are on insulin or OAD should maintain their
+capillary blood glucose level >4.0 mmol/L.
+Timing of SMBG &
+mode of treatment
+Breakfast
+Lunch
+Dinner
+Pre Post
+Pre
+Pre
+Post
+Post/Prebed
+Diet only
+Multiple dose insulin
+OAD or single dose insulin
+
+
+
+
+
+
+
+
+
+
+
+
+
+Management of Diabetes in Pregnancy
+5.2 MEDICAL NUTRITION THERAPY
+MNT for pregnant women with diabetes focuses on carbohydrate
+(CHO)-controlled meal plan. The aim is to achieve and maintain
+optimum glycaemic levels and appropriate GWG, while meeting
+essential nutrients to promote positive maternal and fetal outcomes.4
+Evidence on the ideal amount of CHO for pregnant women with diabetes
+to achieve good glycaemic control is limited, but a minimum of 175 g
+CHO daily has been recommended.37, level III In a meta-analysis of RCTs
+on GDM, lower CHO diets [40-45% of total energy intake (TEI)] showed
+no significant difference in maternal and neonatal outcomes compared
+with CHO intake of 55-60% TEI. This could be due to the small number
+of studies included.38, level I
+The ideal macronutrients distribution for pregnant women with diabetes
+is not known. Macronutrient distribution should be individualised. A
+general recommendation to promote a balance diet would be 45-60%
+CHO, 15-20% protein and 25-35% fat of total energy requirement.4
+Both the amount and type of CHO influence glycaemic control. The type
+of CHO is best described using glycaemic index (GI) concept. In a metaanalysis on GDM, a low GI diet was more effective in reducing insulin
+requirement (RR=0.767, 95% CI 0.597 to 0.986) compared with high
+GI diet.38, level I In a recent Cochrane systematic review on GDM, lowto-moderate GI showed no significant benefits in maternal outcomes
+(severe hypertension or pre-eclampsia, eclampsia and rate of caesarean
+section) and LGA compared with moderate-high GI diet. However, the
+primary papers used in the review were of low quality.39, level I
+The components of CHO-meal plan include the following:4
+• monitoring of total CHO intake using grams, exchange list, household
+or hand measures as long as it is practical for women to comprehend
+and follow
+• distributing total CHO exchanges according to SMBG, lifestyle and
+medications
+• choosing appropriate type of CHO which is lower in GI
+• sucrose (e.g. sugars) intake must be counted as part of the total
+CHO intake; excess sucrose intake contributes to calories and may
+cause excessive GWG
+• non-nutritive sweeteners do not impact glycaemic level. However, it
+should not exceed the acceptable recommended daily intake.40, level III
+Management of Diabetes in Pregnancy
+Refer to Appendix 3 on CHO food, exchange list and GI diet.
+• MNT provided by a dietitian, SMBG and insulin therapy are effective
+in reducing the rate of serious perinatal complications and tend to
+improve maternal quality of life.41, level I
+• Early nutritional intervention should be initiated at the time of
+diagnosis. Refer to Appendix 3 for suggested menu plan.
+Recommendation 6
+• Pregnant women with diabetes should be given individualised
+medical nutrition therapy which includes carbohydrate-controlled
+meal plan and monitoring of gestational weight gain.
+5.3 ORAL ANTIDIABETIC AGENTS
+Metformin and glibenclamide are OAD that have been used in GDM.
+Glibenclamide has limited human data and should only be used if
+potential benefit outweighs the potential risk. Metformin is labelled as
+FDA pregnancy category B while glibenclamide is in category C.
+A meta-analysis showed that compared with glibenclamide, metformin
+had significantly lower maternal weight gain, neonatal birth weight,
+macrosomia and LGA. However, there was no significant difference in
+glycaemic control (FPG and postprandial plasma glucose), caesarean
+section, preterm birth, stillbirth and neonatal hypoglycaemia.42, level I
+In four meta-analyses on GDM, there was no significant difference in
+glycaemic control between OAD and insulin. Compared with insulin,
+metformin was associated with less maternal weight gain43-46, level I but
+higher incidence of premature birth (<37 weeks gestation).44-46, level I
+Two of the above meta-analyses compared glibenclamide and insulin.
+Glibenclamide was associated with less maternal hypoglycaemia but
+higher maternal weight gain.44, level I For neonatal outcomes, it was
+associated with higher incidence of macrosomia, neonatal birth weight
+and neonatal hypoglycaemia.42, level I; 44, level I
+Category B: Animal studies have failed to demonstrate a risk to the fetus and there
+are no adequate and well-controlled studies in pregnant women.
+Category C: Animal studies have shown an adverse effect on the fetus and adequate
+and well-controlled studies in humans were not available.
+Management of Diabetes in Pregnancy
+NICE guidelines state that metformin should be offered to women with
+GDM if diet and exercise do not control the blood glucose adequately
+within 1-2 weeks.6
+Refer to the medication table in Appendix 4.
+Recommendation 7
+• In gestational diabetes mellitus, metformin should be offered when
+blood glucose targets are not met by modification in diet and exercise
+within 1-2 weeks.
+ It should be prescribed after consultation with specialists.
+• Metformin should be continued in women who are already on the
+treatment before pregnancy.
+5.4 INSULIN
+5.4.1
+Initiating Insulin Therapy
+Common current practice involves hospital admissions for initiation
+of insulin therapy in insulin-naïve pregnant women and GDM. There
+is no evidence to support inpatient or outpatient settings for more
+effective treatment. However, local expert opinion recommends that
+insulin therapy could be initiated in the outpatient setting if the patient
+is agreeable, able to equip herself with adequate SMBG and able to
+titrate the required insulin doses to achieve glycaemic targets without
+hypoglycaemia. This may provide a more practical real-life experience
+in the comfort of her home as she attempts to make the necessary diet
+and lifestyle changes.
+However, specialists may opt for hospital admission if deemed necessary
+due to logistic reasons, the need for referral to other multidisciplinary
+teams, closer monitoring for hyperglycaemia or hypoglycaemia and
+other factors.
+Insulin should be initiated when MNT and/or metformin therapy failed to
+achieve optimum glycaemic control. There are multiple insulin regimes
+available in managing diabetes in pregnancy. However, the preferred
+choice of insulin regime is MDI.4 Initiation and optimisation of insulin
+therapy is illustrated in Appendix 4.
+Insulin should be initiated when:6
+• blood glucose targets are not met after MNT and metformin therapy
+• metformin is contraindicated or unacceptable
+• FPG ≥7.0 mmol/L at diagnosis (with or without metformin)
+• FPG of 6.0-6.9 mmol/L with complications such as macrosomia or
+polyhydramnios (start insulin immediately, with or without metformin).
+Management of Diabetes in Pregnancy
+5.4.2
+Human Insulin
+The use of human insulin, both short acting (regular) and intermediate
+or long acting [Neutral Protamine Hagedorn (NPH)] have been
+established in pregnancy. They are generally considered safe and
+effective and labelled as FDA pregnancy category B. In the local setting,
+human insulin is the preferred choice of insulin in view of its cost and
+availability.
+5.4.3
+Insulin Analogues
+Insulin analogues mimic natural insulin physiology. There are rapid and
+long acting (basal) insulin analogues which are currently used in preexisting diabetes during pregnancy and GDM. Insulin lispro and aspart
+are labelled as FDA pregnancy category B. On the other hand, insulin
+glulisine and glargine are labelled as FDA pregnancy category C (refer
+footnote in page 13).
+A.
+Rapid-acting Insulin Analogues
+i. Insulin lispro
+Insulin lispro significantly improves HbA1c and reduces total insulin
+requirement in pre-existing diabetes in pregnancy compared with
+regular insulin. Apart from that, it is associated with greater mean birth
+weight and lower hyperbilirubinaemia. There is no significant difference
+in other maternal and fetal outcomes.47, level II-2
+ii. Insulin aspart
+Insulin aspart (IAsp) is as effective and safe as regular insulin when
+used in basal-bolus therapy with NPH in pregnant women with T1DM.
+It also offers some benefits in terms of postprandial glucose control
+and preventing severe hypoglycaemia.48, level I Fetal outcomes using
+IAsp is comparable with regular insulin with a tendency towards fewer
+fetal losses, preterm deliveries, congenital malformations and neonatal
+hypoglycaemia.49, level I
+B.
+Long-acting (Basal) Insulin Analogues
+i. Insulin detemir
+There is no difference in HbA1c when comparing insulin detemir with
+NPH in pregnant T1DM women although insulin detemir group has
+significantly lower FPG at 24 and 36 weeks. Insulin requirement and
+rate of hypoglycaemia are similar in both groups.48, level I There is no
+significant difference in the incidence of composite pregnancy outcomes
+which include fetal and perinatal mortality, and major malformations.
+49, level I
+Management of Diabetes in Pregnancy
+ii. Insulin glargine
+In pre-existing diabetes, there is no difference in the glycaemic control
+between insulin glargine and NPH. However, there is significantly lower
+insulin requirement in patients treated with insulin glargine. Maternal
+complications i.e. worsening pre-existing retinopathy and nephropathy,
+pre-eclampsia, and all types of hypoglycaemia are significantly higher
+in NPH-treated patients. Meanwhile in GDM, there is significantly higher
+FPG and insulin dose requirement in NPH-treated patients.50, level II-2
+In a systematic review on diabetes in pregnancy, there were no
+significant differences in main neonatal outcomes between insulin
+glargine and NPH.51, level II-2
+C. Premixed Insulin Analogues
+i. Premixed insulin aspart 30
+The use of premixed insulin aspart 30 in T2DM during pregnancy
+shows no significant difference in glycaemic control, maternal weight
+gain and neonatal outcomes compared with premixed human insulin
+30. However, there is lower mean total insulin dose requirement with
+premixed insulin aspart 30.52, level I
+• Human insulins are the preferred choice in pregnant women who
+need insulin therapy.
+• Both rapid- and long-acting (basal) insulin analogues are as
+efficacious as human insulin in pregnant women with pre-existing
+diabetes and GDM.
+• Insulin analogues are associated with fewer incidences of
+hypoglycaemia.
+• Long-acting analogues have benefit in diabetic pregnant women
+with repeated nocturnal hypoglycaemia.
+• Insulin glulisine and glargine can be given only when potential
+benefit outweigh the potential risk.
+• There is no evidence to support the use of glulisine in pregnancy.
+Management of Diabetes in Pregnancy
+Recommendation 8
+• Insulin therapy can be initiated at outpatient setting in pregnant
+women with diabetes.
+• The preferred choice of insulin regime in diabetes in pregnancy is
+multiple daily injections.
+• Insulin analogues should be continued during pregnancy in women
+with pre-existing diabetes who are already on the treatment and
+have established good blood glucose control before pregnancy.
+• Rapid-acting insulin analogue may be considered as an option,
+particularly in patients with frequent hypoglycaemia or postprandial
+hyperglycaemia using human insulin during pregnancy.
+5.5 PRE-ECLAMPSIA PROPHYLAXIS
+Pregnant women with pre-existing diabetes have a five-fold increased
+risk of pre-eclampsia (OR=5.74, CI 95% 5.31 to 6.20) compared to
+women without diabetes.53, level II-2
+In a large RCT on women with pre-existing diabetes, low dose aspirin
+supplementation (60 mg) did not reduce the risk of pre-eclampsia.
+There was also no evidence of harm to mothers or neonates.54, level I
+However, existing guidelines recommend 75 mg aspirin daily from 12
+weeks of gestation until delivery in patients with high risk of developing
+pre-eclampsia, which includes diabetes.55; 56, level III
+In three multicentre RCTs on women with pre-existing diabetes,
+supplementation of vitamin C and E did not reduce the risk of preeclampsia.57-59, level I In fact, it was significantly associated with the
+following complications:
+• fetal growth restriction59, level I
+• low birth weight59, level I
+• fetal loss or perinatal death (RR=2.20, 95% CI 1.02 to 4.73)57, level I
+• preterm prelabour rupture of membrane (RR=1.97, 95% CI 1.31 to
+2.98)57, level I
+A Cochrane systematic review reported that high dose calcium
+supplementation (>1g/day) reduces the risk of pre-eclampsia (RR=0.45,
+95% CI 0.31 to 0.65), especially for women with low calcium diets and
+those at high risk of pre-eclampsia.60, level I Lower dose calcium may be
+effective, but needs to be confirmed by larger, high quality trials.61, level I
+The World Health Organisation (WHO) recommends calcium
+supplementation with 1.5-2.0 gram elemental calcium daily from 20
+weeks of gestation in populations with low dietary calcium intake, to
+reduce the risk of pre-eclampsia.62-63, level III
+Management of Diabetes in Pregnancy
+Recommendation 9
+• Low dose aspirin (75-150 mg daily) should be given to prevent preeclampsia in women with pre-existing diabetes from 12 weeks of
+gestation until term.
+• Vitamin C and E supplementation should not be given to prevent
+pre-eclampsia in women with diabetes.
+5.6 ASSESSMENT OF COMPLICATIONS OF DIABETES
+5.6.1
+Retinal Assessment during Pregnancy
+Pregnant women with pre-existing diabetes should receive retinal
+assessment at booking, and again at 28 weeks, if initial findings were
+normal.6 If diabetic retinopathy is detected, referral to an ophthalmologist
+is required.
+In a population-based study on pre-existing diabetes during pregnancy,
+25.9% of patients who received two or more retinal assessment
+had progression of retinopathy. Significant factors associated with
+progression of retinopathy were higher systolic blood pressure during
+booking, higher HbA1c at first trimester and greater drop of HbA1c
+between first and third trimester.64, level III
+In women who present with high HbA1c and diabetic retinopathy in
+early pregnancy, rapid optimisation of blood glucose control should still
+be considered.6
+5.6.2
+Renal Assessment during Pregnancy
+If renal assessment has not been done in the preceding three months
+in women with pre-existing diabetes, arrange it during the first antenatal
+visit. Referral to a nephrologist should be considered when:6
+• serum creatinine is abnormal (120 µmol/L or more); estimated
+glomerular filtration rate should not be used during pregnancy
+• the urinary albumin: creatinine ratio (ACR) >30 mg/mmol
+• total protein excretion exceeds 0.5 g/day
+Thromboprophylaxis should be considered for women with nephrotic
+range proteinuria above 5 g/day (ACR >220 mg/mmol).6
+Pregnant women with pre-existing renal disease should be managed in
+a combined clinic by multidisciplinary specialists.
+Management of Diabetes in Pregnancy
+Recommendation 10
+• In women with pre-existing diabetes,
+ retinal assessment should be performed at booking and repeated
+at least once throughout the pregnancy
+ renal assessment should be performed at booking; those with preexisting renal disease should be managed in a combined clinic
+5.7 FETAL SURVEILLANCE
+A meta-analysis of observational studies showed a higher risk of major
+congenital malformations in babies of women with GDM compared with
+reference group (RR=1.16, 95% CI 1.07 to 1.25). The risk was higher
+in women with pre-existing diabetes compared with reference group
+(RR=2.66, 95% CI 2.04 to 3.47).65, level II-2
+In women with GDM, ultrasound-guided management reduces the
+risk of LGA/SGA (RR=0.64, 95% CI 0.45 to 0.93) and macrosomia
+(RR=0.32, 95% CI 0.11 to 0.95), but increases the need for insulin
+treatment (RR=1.58, 95% CI 1.14 to 2.20) compared with conventional
+management.66, level I
+Fetal surveillance using ultrasound scan in women with pre-existing
+diabetes is as follows:6
+Parameters
+11-14 weeks
+of gestation
+Timing
+18-20 weeks
+of gestation
+28-36 weeks
+of gestation
+• Early scan is performed to:
+o confirm gestational age using crown-rump length
+measurement
+o assess for major structural malformation including
+acrania and anencephaly
+• Detailed structural anatomy scan which includes the
+spine and heart (four-chamber, outflow tract and
+three-vessel views)
+• Serial growth scan is performed every four weeks to
+assess fetal growth and amniotic fluid volume
+• The rate of fetal growth should be used to facilitate
+decisions with treatment, and timing and mode of
+delivery
+Management of Diabetes in Pregnancy
+Recommendation 11
+• Pregnant women with pre-existing diabetes should be offered
+ultrasound scan at:
+ 11-14 weeks of gestation for dating and assessment of major
+structural malformation
+ 18-20 weeks of gestation for detailed structural anatomy scan (by
+a trained specialist or sonographer)
+•
+In pregnant women with pre-existing diabetes and gestational
+diabetes mellitus, serial growth scan should be performed every
+four weeks from 28 to 36 weeks of gestation.
+5.8 TIMING AND MODE OF DELIVERY
+In two systematic reviews on pregnant women with GDM and pre-existing
+T2DM requiring insulin, active IOL at 38 weeks gestation reduced the risk
+of macrosomia compared with expectant management until 42 weeks
+(RR=0.56, 95% CI 0.32 to 0.98). There was no significant increase in
+rates of caesarean section, shoulder dystocia, neonatal hypoglycaemia
+or perinatal deaths. However, the RCT included had small sample size
+and did not permit firm conclusion to be drawn.67-68, level I
+In a systematic review on GDM, observational studies suggested
+a potential reduction in macrosomia and shoulder dystocia rates
+with elective IOL and caesarean section for estimated fetal weight
+indications. However, the quality of evidence was low.67, level I
+Management of delivery recommended by NICE guidelines in pregnant
+women with:6
+• pre-existing diabetes with no maternal or fetal complications, deliver*
+between 37+0 and 38+6 weeks
+• pre-existing diabetes with maternal and/or fetal complications,
+deliver* before 37+0 weeks
+• GDM with no maternal or fetal complications, deliver* no later than
+40+6 weeks
+• GDM with maternal and/or fetal complications, deliver* before 40+6
+*elective delivery by IOL or caesarean section
+Diabetes itself should not be considered a contraindication to attempting
+vaginal delivery after a previous caesarean section. Pregnant women
+with diabetes who have an ultrasound-diagnosed macrosomic fetus
+should be counselled about the risks and benefits of vaginal delivery,
+IOL and caesarean section.6
+Management of Diabetes in Pregnancy
+Recommendations from other guidelines are:
+• pregnant women with GDM or pre-gestational diabetes should be
+offered IOL between 38-40 weeks depending on their glycaemic
+control and other comorbidities.33, level III
+• for women with GDM,12
+ if ultrasound at 36-37 weeks reports normal fetal growth (<90th
+percentile) and there are no maternal or fetal comorbidities, plan
+delivery at 40 weeks
+ If growth is >90th percentile or there are maternal and/or fetal comorbidities, plan delivery for 38 to 39 weeks
+Antenatal corticosteroids is administered to women who have
+spontaneous or planned preterm delivery to accelerate fetal lung
+development. This will prevent respiratory distress syndrome. However,
+the use of corticosteroids is associated with a significant worsening of
+glycaemic control requiring adjustment in insulin dose.6
+Recommendation 12
+• The following should be planned for pregnant women with preexisting diabetes:
+ without complications, delivery between 37+0 and 38+6 weeks
+ with maternal or fetal complications, delivery before 37+0 weeks
+• The following should be planned for women with gestational
+diabetes:
+ on diet alone with no complications, delivery before 40+0 weeks
+ on oral antidiabetic agents or insulin, delivery between 37+0 and
+38+6 weeks
+ with maternal or fetal complications, deliver before 37+0 weeks
+• Mode of delivery should be individualised, taking into consideration
+the estimated fetal weight and obstetric factors.
+• Women with diabetes who receive antenatal corticosteroids for
+fetal lung maturation should have close monitoring of blood glucose
+levels and insulin dose adjusted accordingly.
+Management of Diabetes in Pregnancy
+6.
+INTRAPARTUM GLYCAEMIC CONTROL FOR DIABETES IN
+PREGNANCY
+Maternal hyperglycaemia during labour increases the risks of neonatal
+hypoglycaemia and fetal distress.6; 33, level III
+Insulin requirements decrease during delivery due to less calories intake
+and increased metabolic demand during the period. Adequate glucose
+must be provided during labour to meet its high requirement.33, level III
+A small RCT among pregnant women with diabetes requiring insulin,
+titrated insulin infusion versus alternating intravenous fluid regime
+with insulin as needed showed no difference in intrapartum maternal
+glycaemic control and neonatal hypoglycaemia.69, level I There is no
+other evidence on the optimal method of maintaining glycaemic control
+during delivery.
+Current recommendations for intrapartum glycaemic control are:6; 33, level III
+• monitor CBG every hour during labour and delivery, and ensure that
+it is maintained at 4.0-7.0 mmol/L
+• use IV dextrose and insulin for women with
+ T1DM from the onset of established labour
+ CBG >7.0 mmol/L
+For intrapartum glycaemic management in women with pre-existing
+diabetes and GDM, refer to Algorithm B and C.
+Recommendation 13
+• In women with diabetes, capillary blood glucose should be
+maintained at 4.0-7.0 mmol/L during labour and delivery.
+• Monitoring of capillary blood glucose during labour and delivery in
+women with diabetes should be done:
+ 1- to 2-hourly in women on insulin treatment
+ 4-hourly in women not on insulin treatment
+Management of Diabetes in Pregnancy
+7.
+POSTPARTUM MANAGEMENT OF DIABETES IN PREGNANCY
+Postpartum management is important in both GDM and pre-existing
+diabetes. This section covers aspects in glucose monitoring, diabetes
+prevention, pharmacotherapy, contraception, breastfeeding and lifestyle
+modification in the postnatal period.
+7.1 POSTPARTUM GLUCOSE MONITORING
+• Women with insulin-treated pre-existing diabetes should reduce
+their insulin immediately after birth and monitor their blood glucose
+levels carefully to establish the appropriate dose.6
+• Most women diagnosed with GDM should be able to discontinue
+their insulin immediately after delivery.4
+• Explain to women with insulin-treated pre-existing diabetes that
+they are at increased risk of hypoglycaemia in the postnatal period,
+especially when breastfeeding, and advise them to have a meal or
+snack available before or during feeds.6
+In women with history of GDM,
+• postpartum 75 g OGTT within one year of delivery yields higher
+detection rate of diabetes and pre-diabetes compared with FPG
+alone.70, level III
+• FPG (≥6.1 mmol/L) has a sensitivity of 90% and specificity of 91%
+for detection of diabetes. However, it will miss those with abnormally
+high 2-hour glucose levels post glucose challenge [diabetes >11.1
+mmol/L and impaired glucose tolerance (IGT) >7.8 mmol/L] with
+sensitivity of 61% and specificity of 93%.71, level II-3
+• postpartum HbA1c is inferior to OGTT in the detection of diabetes
+and pre-diabetes.72-73, level III However, the use of HbA1c (>5.7%)
+in addition to OGTT provides an additional detection of 10.6% of
+patients with pre-diabetes.74, level III
+• FPG test is offered at 6-13 weeks after delivery to exclude diabetes,
+preferably during the 6-week postnatal follow-up.6
+• annual screening for diabetes should be performed.4
+• OGTT should be performed six weeks postnatally.4
+7.2 POSTPARTUM USE OF METFORMIN
+Postpartum metformin therapy significantly prevents newly-diagnosed
+diabetes in women with history of GDM compared with placebo (risk
+reduction=50.4%).75, level I However, there is no significant benefit on
+weight loss or achievement of pre-pregnancy weight.76, level I
+Management of Diabetes in Pregnancy
+7.3 BREASTFEEDING
+Breastfeeding of more than three months in women with history of
+GDM is associated with lower risk of diabetes (HR=0.55, 95% CI 0.35
+to 0.85).77, level II-2 Breastfeeding of more than nine months is associated
+with lower incidence of metabolic syndrome (p=0.03) compared with
+shorter duration.78, level II-2 Breastfeeding reduces the odds of abnormal
+OGTT at 12 weeks compared with bottle-feeding (OR=0.418, 95% CI
+0.199 to 0.888).79, level II-2
+The optimum duration for breastfeeding is unknown. Breastfeeding
+for at least three months is recommended and longer duration is
+encouraged to reduce the risk of diabetes.
+7.4 POSTPARTUM CONTRACEPTION
+In pre-existing diabetes, there is insufficient evidence to demonstrate
+any significant difference in contraceptive efficacy and diabetes control
+between hormonal and non-hormonal contraceptions.80, level I
+There is limited data to demonstrate that Levonorgestrel-intrauterine
+system does not negatively affect glucose tolerance, i.e. IFG and IGT,
+compared with copper intrauterine device or tubal sterilisation in women
+with history of GDM.81, level III
+7.5 POSTPARTUM LIFESTYLE INTERVENTION
+Postpartum lifestyle intervention includes MNT, physical activity and
+behavioural modification. It has been shown to be effective in reducing
+weight and insulin resistance, and development of T2DM among
+women with history of GDM.82, level I
+Intensive lifestyle intervention (addition of moderate physical activity,
+50-60 minutes, four days per week) is effective in reducing cumulative
+incidence of diabetes during a 3-year study compared with conventional
+care (p=0.003).83, level I It is also effective in reducing postpartum weight
+retention, waist circumference, insulin resistance, LDL-cholesterol
+and triglycerides, and increase intensity of vigorous physical activity
+level.83-84, level I
+Postpartum weight loss of more than 2 kg is significantly associated
+with smaller increase in FPG and reduction in 2-hour glucose levels
+post glucose challenge.85, level I
+In an RCT, intensive lifestyle intervention delivered via educational
+programme showed no significant differences in waist circumference,
+fasting blood glucose and lipids. This may be due to low subjects
+participation to the scheduled visits.86, level I
+Management of Diabetes in Pregnancy
+Recommendation 14
+• In women with history of gestational diabetes mellitus,
+ oral glucose tolerance test should be performed at six weeks
+after delivery to detect diabetes and pre-diabetes; If the result is
+negative, annual screening should be performed
+ metformin and intensive lifestyle intervention during postpartum
+period should be considered to prevent diabetes
+ breastfeeding of at least three months or longer should be
+encouraged to reduce the risk of diabetes
+Management of Diabetes in Pregnancy
+8.
+MANAGEMENT OF NEONATES OF MOTHERS WITH DIABETES
+Optimal glycaemic control during pregnancy reduces the incidence of
+perinatal morbidity and mortality. Recognised neonatal complications
+of mothers with diabetes include macrosomia, traumatic birth injuries,
+neonatal hypoglycaemia and hyperbilirubinemia. Women with diabetes
+should deliver in hospitals where neonatal resuscitation services are
+available.
+Management of neonates of mothers with diabetes are listed below:6
+• The neonates should stay with their mothers unless there are clinical
+complications or signs that warrant admission for special or intensive
+care.
+• Perform blood glucose testing routinely in neonates at 2-4 hours after
+birth to detect hypoglycaemia. Perform blood tests for polycythaemia,
+hyperbilirubinaemia, hypocalcaemia and hypomagnesaemia if
+clinical signs present.
+• Only discharge neonates after 24 hours of delivery, provided that
+they are maintaining satisfactory CBG levels and feeding well.
+Management of Diabetes in Pregnancy
+9.
+MANAGEMENT OF SPECIAL CONDITIONS IN DIABETES IN
+PREGNANCY
+9.1 CONTINUOUS SUBCUTANEOUS INSULIN INFUSION
+Insulin pump or continuous subcutaneous insulin infusion (CSII)
+is a small device that is used to administer subcutaneous insulin
+continuously. It has been used in non-pregnant diabetes patients
+especially in T1DM.
+In a Cochrane systematic review, there is no evidence to support the
+use of CSII over multiple doses insulin for pregnant women with preexisting diabetes and GDM. The RCTs used in the review were small
+and of low quality.87, level I
+• CSII does not confer additional maternal or fetal benefits compared
+with MDI. However, those who are already using the device can
+continue it throughout pregnancy.
+9.2 CORTICOSTEROIDS
+Corticosteroids are administered during pregnancy to accelerate fetal
+lung maturation. It is known to elevate plasma glucose levels and
+worsen glycaemic control of diabetes in pregnancy.
+In two observational studies, both fasting and postprandial plasma glucose
+were elevated after corticosteroids administration in pregnant women with
+diabetes.88-89, level III Most of them had to increase the insulin doses to less
+than double of their regular doses.88, level III
+There is no evidence on the use of oral or inhaled corticosteroids for
+other indications in diabetes with pregnancy.
+• Women with diabetes who are given corticosteroids during
+pregnancy need regular plasma glucose monitoring (at least four
+times a day, for 48 hours from the first dose) and adjustment of their
+insulin dose accordingly.
+9.3 FASTING
+Pregnant women with diabetes should be strongly advised against
+fasting during Ramadhan. However, some of them might wish to
+observe the religious obligation.90
+In a local study on pregnant women with diabetes who fasted during
+Ramadhan, most of them who were on NPH insulin (79.2%) were
+able to fast for more than 15 days without any hypoglycaemia or
+Management of Diabetes in Pregnancy
+fetal complications. Thus, once or twice daily NPH insulin is safe and
+tolerable for this group of pregnant women.91, level III
+Women with pre-existing diabetes and GDM with good glycaemic
+control prior to Ramadhan continue to have good control throughout
+and after Ramadhan.92, level II-2
+Recommendation 15
+• Pregnant diabetes women should consult their healthcare providers
+if they wish to observe fasting.
+10. REFERRAL TO SECONDARY/TERTIARY CARE
+All women with pre-existing diabetes should receive continuous
+specialist care to detect complications, review medications and optimise
+glycaemic control.33, level III Similarly, women with GDM who have poor
+glycaemic control and fetal complications should receive specialist
+care.
+Referral to a dietitian is necessary to ensure balanced diet and
+achievement of good glycaemic control. Assessment for retinopathy
+and nephropathy should be performed regularly during pregnancy.6
+At postpartum, these women should be referred back to their health
+facilities to continue with their diabetes care. Ophthalmology review
+should be performed at least six months after delivery.6
+Recommendation 16
+• Pregnant women with pre-existing diabetes and women with GDM
+who have poor glycaemic control or fetal complications should be
+referred to secondary or tertiary care.
+Management of Diabetes in Pregnancy
+11. IMPLEMENTING THE GUIDELINES
+Implementation of CPG is important as it helps in providing quality
+healthcare services based on best available evidence applied to local
+scenario and expertise. Various factors and resource implications
+should be considered for the success of the uptake in the CPG
+recommendations.
+11.1 Facilitating and Limiting Factors
+The existing facilitating factors in implementing the recommendations
+in the CPG are:
+• availability of CPG to healthcare providers (hardcopies and
+softcopies)
+• regular conferences and updates on management of diabetes in
+pregnancy involving professional societies or bodies (Malaysian
+Endocrine and Metabolic Society, Obstetrics and Gynaecology
+Society of Malaysia, Family Medicine Specialist Association, Academy
+of Family Physician Malaysia, National Diabetes Institute, etc.)
+• public awareness campaigns on diabetes in pregnancy during World
+Diabetes Day, etc.
+The existing limiting factors in implementing the recommendations in
+the CPG are:
+• different levels of care and wide variation in practice due to expertise,
+facilities and financial constraints
+• lack of awareness among high risk women on the risk of developing
+diabetes in pregnancy
+11.2 Potential Resource Implications
+To implement the CPG, there must be dedicated efforts to:
+• ensure widespread distribution of CPG to healthcare providers
+• provide regular training to healthcare providers via effective seminars
+and workshops
+• involve multidisciplinary team at all levels of health care
+• strengthen the National Obstetric Registry
+Management of Diabetes in Pregnancy
+To assist in the implementation of the CPG, the following are proposed
+as clinical audit indicators for quality management:
+1. Screening at booking in women at risk of GDM
+2. Postpartum OGTT in women with GDM
+Implementation strategies will be developed following the approval of
+the CPG by MoH which include Quick Reference and Training Module.
+=
+X 100%
+Percentage
+of women at
+risk of GDM
+screened with
+75-g OGTT at
+booking
+(target >85%)
+Total number of women at risk of GDM
+at booking in the same period
+Number of women at risk of GDM
+screened with 75-g OGTT
+at booking in a period
+Percentage
+of women with
+GDM who
+had OGTT
+at six weeks
+postpartum
+(target >70%)
+=
+X 100%
+Total number of women with GDM
+Number of women with GDM who had
+OGTT at six weeks postpartum
+Management of Diabetes in Pregnancy
+REFERENCES
+1.
+Institute for Public Health. National Health and Morbidity Survey 2015. Volume.
+II: Non-Communicable Diseases, Risk Factors & Other Health Problems; 2015.
+2.
+Ravichandran J, Shamala DK. 3rd Report of National Obstetric Registry (20112012). Malaysia: Ministry of Health. 2012. (Available at: http://www. acrm.org.
+my/ nor/doc/reports/NOR_REPORT_2012.pdf)
+3.
+Tieu J, McPhee AJ, Crowther CA, et al. Screening and subsequent management
+for gestational diabetes for improving maternal and infant health. Cochrane
+Database Syst Rev. 2014;(2):CD007222.
+4.
+Malaysian Endocrine & Metabolic Society and Ministry of Health Malaysia.
+Management of Type 2 Diabetes Mellitus (5th Edition). Kuala Lumpur: MEMS &
+MOH; 2015.
+5.
+Farrar D, Duley L, Medley N, et al. Different strategies for diagnosing gestational
+diabetes to improve maternal and infant health. Cochrane Database Syst Rev.
+2015; 1:CD007122.
+6.
+National Collaborating Centre for Women’s and Children’s Health (UK). Diabetes
+in pregnancy: management of diabetes and its complications from preconception
+to the postnatal period. London: NICE; 2015.
+7.
+American Diabetes Association. 2. Classification and diagnosis of diabetes.
+Diabetes care. 2015;38(Supplement 1):S8-16.
+8.
+International Association of Diabetes and Pregnancy Study Groups Consensus
+Panel. International association of diabetes and pregnancy study groups
+recommendations on the diagnosis and classification of hyperglycemia in
+pregnancy. Diabetes care. 2010;33(3):676-682.
+9.
+Lowe LP, Metzger BE, Dyer AR, et al. Hyperglycemia and Adverse Pregnancy
+Outcome (HAPO) Study: associations of maternal A1C and glucose with
+pregnancy outcomes. Diabetes Care. 2012;35(3):574-580.
+10. van Leeuwen M, Opmeer BC, Yilmaz Y, et al. Accuracy of the random glucose
+test as screening test for gestational diabetes mellitus: a systematic review. Eur
+J Obstet Gynecol Reprod Biol. 2011;154(2):130-135.
+11. Blumer I, Hadar E, Hadden DR, et al. Diabetes and pregnancy: an endocrine
+society clinical practice guideline. J Clin Endocrinol Metab. 2013;98(11):42274249.
+12. Ministry of Health. Screening, Diagnosis and Management of Gestational
+Diabetes in New Zealand: A clinical practice guideline. Wellington: Ministry of
+Health. 2014.
+13. Blumer I, Hadar E, Hadden DR, et al. Diabetes and pregnancy: an endocrine
+society clinical practice guideline. J Clin Endocrinol Metab. 2013;98(11):42274249.
+14. “In pregnant women at risk for GDM, what is the effectiveness of MNT intervention
+by an RDN to prevent the development of GDM”. Academy of Nutrition and Dietetics.
+(Available at: https://www.andeal.org/topic.cfm?menu=5288&cat=5698).
+15. Murphy A, Guilar A, Donat D. Nutrition education for women with newly
+diagnosed gestational diabetes mellitus: small-group vs. individual counselling.
+Can J Diabetes. 2004;28(2):00-0.
+16. Song C, Li J, Leng J, et al. Lifestyle intervention can reduce the risk of
+gestational diabetes: a meta-analysis of randomized controlled trials. Obes Rev.
+2016;17(10):960-969.
+17. Tieu J, Shepherd E, Middleton P, et al. Dietary advice interventions in pregnancy
+for preventing gestational diabetes mellitus. Cochrane Database Syst Rev.
+2017;1:CD006674.
+18. Keely E, Barbour LA. Management of diabetes in pregnancy. Updated on 14
+February 2014. (Available at: https://www.ncbi.nlm.nih.gov/books/NBK279010/)
+19. Malaysian Endocrine & Metabolic Society and Ministry of Health Malaysia.
+Management of Obesity. Kuala Lumpur: MEMS & MOH; 2004.
+Management of Diabetes in Pregnancy
+20. “In women with GDM, what is the effect of caloric consumption on fetal/neonatal
+and maternal outcomes?”. Academy of Nutrition and Dietetics. (Available
+at:https://www.andeal.org/topic.cfm?cat=5503&conclusion_statement_
+id=252481).
+21. Bruno R, Petrella E, Bertarini V, et al. Adherence to a lifestyle programme in
+overweight/obese pregnant women and effect on gestational diabetes mellitus:
+a randomized controlled trial. Matern Child Nutr. 2017;13(3).
+22. Sanabria-Martínez G, García-Hermoso A, Poyatos-León R, et al. Effectiveness
+of physical activity interventions on preventing gestational diabetes mellitus and
+excessive maternal weight gain: a meta-analysis. BJOG. 2015;122(9):11671174.
+23. ACOG Committee on Obstetric Practice. Committee opinion# 650: Physical
+activity and exercise during pregnancy and the postpartum period. The American
+College of Obstetricians and Gynaecologists. Dec 2015. (Available at: https://
+www.acog.org/-/media/Committee-Opinions/Committee-on-Obstetric-Practice/
+co650.pdf?dmc=1).
+24. Wahabi HA, Alzeidan RA, Bawazeer GA, et al. Preconception care for diabetic
+women for improving maternal and fetal outcomes: a systematic review and
+meta-analysis. BMC Pregnancy Childbirth. 2010;10:63.
+25. Tieu J, Bain E, Middleton P, et al. Interconception care for women with a history
+of gestational diabetes for improving maternal and infant outcomes. Cochrane
+Database Syst Rev. 2013;(6):CD010211.
+26. Kapoor N, Sankaran S, Hyer S, et al. Diabetes in pregnancy: a review of current
+evidence. Curr Opin Obstet Gynecol. 2007;19(6):586-590.
+27. Joslin Diabetes Center and Joslin Clinic Guideline for Detection and Management
+of Diabetes in Pregnancy (Available at: http://www.joslin.org/docs/ PregnancyGuidelines_11-13-2016_corrected_1-11-2017.pdf) Accessed on: 20/09/2016.
+28. Holmes VA, Young IS, Patterson CC, et al.; Diabetes and Pre-eclampsia
+Intervention Trial Study Group. Optimal glycemic control, pre-eclampsia, and
+gestational hypertension in women with type 1 diabetes in the diabetes and preeclampsia intervention trial. Diabetes Care. 2011;34(8):1683-1688.
+29. World Health Organization. Standards for maternal and neonatal care. 2007.
+(Available at: http://apps.who.int/iris/bitstream/10665/69735/1/a91272.pdf).
+30. De-Regil LM, Peña-Rosas JP, Fernández-Gaxiola AC, et al. Effects and safety
+of periconceptional oral folate supplementation for preventing birth defects.
+Cochrane Database Syst Rev. 2015;(12):CD007950.
+31. Correa A, Gilboa SM, Botto LD, Moore CA, et al; National Birth Defects
+Prevention Study. Lack of periconceptional vitamins or supplements that contain
+folic acid and diabetes mellitus-associated birth defects. Am J Obstet Gynecol.
+2012;206(3):218.e1-13.
+32. Allen VM, Armson BA; Genetics Committee; Maternal Fetal Medicine Committee.
+Teratogenicity associated with pre-existing and gestational diabetes. J Obstet
+Gynaecol Can. 2007;29(11):927-934
+33. Canadian Diabetes Association Clinical Practice Guidelines Expert Committee.
+Canadian Diabetes Association 2013 Clinical Practice Guidelines for the
+Prevention and Management of Diabetes in Canada. Can J Diabetes
+2013;37(suppl 1):S1-S212. (update in 2016). (Available at: http://guidelines.
+diabetes.ca/browse/chapter36).
+34. Moy FM, Ray A, Buckley BS. Techniques of monitoring blood glucose during
+pregnancy for women with pre-existing diabetes. Cochrane Database Syst Rev.
+2014;(4):CD009613.
+35. Hartling L, Dryden DM, Guthrie A, et al. Benefits and harms of treating gestational
+diabetes mellitus: a systematic review and meta-analysis for the U.S. Preventive
+Services Task Force and the National Institutes of Health Office of Medical
+Applications of Research. Ann Intern Med. 2013;159(2):123-129.
+Management of Diabetes in Pregnancy
+36. Middleton P, Crowther CA, Simmonds L. Different intensities of glycaemic control
+for pregnant women with pre-existing diabetes. Cochrane Database Syst Rev.
+2016;(5):CD008540.
+37. American Diabetes Association, Bantle JP, Wylie-Rosett J, et al. Nutrition
+recommendations and interventions for diabetes: a position statement of the
+American Diabetes Association. Diabetes Care. 2008;31 Suppl 1:S61-78.
+38. Viana LV, Gross JL, Azevedo MJ. Dietary intervention in patients with gestational
+diabetes mellitus: a systematic review and meta-analysis of randomized clinical
+trials on maternal and newborn outcomes. Diabetes Care. 2014;37(12):33453355.
+39. Han S, Middleton P, Shepherd E, et al. Different types of dietary advice for
+women with gestational diabetes mellitus. Cochrane Database Syst Rev.
+2017;2:CD009275.
+40. Pope E, Koren G, Bozzo P. Sugar substitutes during pregnancy. Can Fam
+Physician. 2014;60(11):1003-1005.
+41. Crowther CA, Hiller JE, Moss JR, et al.; Australian Carbohydrate Intolerance Study
+in Pregnant Women (ACHOIS) Trial Group. Effect of treatment of gestational
+diabetes mellitus on pregnancy outcomes. N Engl J Med. 2005;352(24):24772486.
+42. Balsells M, García-Patterson A, Solà I, et al. Glibenclamide, metformin, and
+insulin for the treatment of gestational diabetes: a systematic review and metaanalysis. BMJ. 2015;350:h102.
+43. Zhu B, Zhang L, Fan YY, et al. Metformin versus insulin in gestational
+diabetes mellitus: a meta-analysis of randomized clinical trials. Ir J Med Sci.
+2016;185(2):371-381.
+44. Jiang YF, Chen XY, Ding T, et al. Comparative efficacy and safety of OADs in
+management of GDM: network meta-analysis of randomized controlled trials. J.
+Clin Endocrinol Metab. 2015;100(5):2071-2080.
+45. Su DF, Wang XY. Metformin vs insulin in the management of gestational
+diabetes: a systematic review and meta-analysis. Diabetes Res Clin Pract.
+2014;104(3):353-357.
+46. Gui J, Liu Q, Feng L. Metformin vs insulin in the management of gestational
+diabetes: a meta-analysis. PLoS One. 2013;8(5):e64585.
+47. Durnwald CP, Landon MB. A comparison f lispro and regular insulin for the
+management of type 1 and type 2 diabetes in pregnancy. J Matern Fetal
+Neonatal Med. 2008;21(5):309-313.
+48. Mathiesen ER, Hod M, Ivanisevic M, et al.; Detemir in Pregnancy Study
+Group. Maternal efficacy and safety outcomes in a randomized, controlled trial
+comparing insulin detemir with NPH insulin in 310 pregnant women with type 1
+diabetes. Diabetes Care. 2012;35(10):2012-2017.
+49. Hod M, Mathiesen ER, Jovanovič L, et al. A randomized trial comparing perinatal
+outcomes using insulin detemir or neutral protamine Hagedorn in type 1 diabetes.
+J Matern Fetal Neonatal Med. 2014;27(1):7-13.
+50. Negrato CA, Rafacho A, Negrato G, et al. Glargine vs. NPH insulin therapy in
+pregnancies complicated by diabetes: an observational cohort study. Diabetes
+Res Clin Pract. 2010;89(1):46-51.
+51. Pollex E, Moretti ME, Koren G, et al. Safety of insulin glargine use in pregnancy:
+a systematic review and meta-analysis. Ann Pharmacother. 2011;45(1):9-16.
+52. Balaji V, Balaji MS, Alexander C, et al. Premixed insulin aspart 30 (BIAsp 30)
+versus premixed human insulin 30 (BHI 30) in gestational diabetes mellitus: a
+randomized open-label controlled study. Gynecol Endocrinol. 2012;28(7):529532.
+53. Persson M, Cnattingius S, Wikström AK, et al. Maternal overweight and obesity
+and risk of pre-eclampsia in women with type 1 diabetes or type 2 diabetes.
+Diabetologia. 2016;59(10):2099-2105.
+Management of Diabetes in Pregnancy
+54. Caritis S, Sibai B, Hauth J, et al. Low-dose aspirin to prevent preeclampsia in
+women at high risk. National Institute of Child Health and Human Development
+Network of Maternal-Fetal Medicine Units. N Engl J Med. 1998;338(11):701-705.
+55. National Collaborating Centre for Women’s and Children’s Health (UK).
+Hypertension in pregnancy: the management of hypertensive disorders during
+pregnancy. London: NICE; 2010.
+56. American College of Obstetricians and Gynecologists. Practice advisory on
+low-dose aspirin and prevention of preeclampsia: Updated recommendations.
+2016. (Available at: https://www.acog.org/About-ACOG/News-Room/PracticeAdvisories/Practice-Advisory-Low-Dose-Aspirin-and-Prevention-of-Preeclampsi
+a-Updated-Recommendations) Accessed on: 17/8/2017.
+57. Xu H, Perez-Cuevas R, Xiong X, et al.; INTAPP study group. An international
+trial of antioxidants in the prevention of preeclampsia (INTAPP). Am J Obstet
+Gynecol. 2010;202(3):239.e1-239.e10.
+58. McCance DR, Holmes VA, Maresh MJ, et al.; Diabetes and Pre-eclampsia
+Intervention Trial (DAPIT) Study Group. Vitamins C and E for prevention of
+pre-eclampsia in women with type 1 diabetes (DAPIT): a randomised placebocontrolled trial. Lancet. 2010;376(9737):259-266.
+59. Poston L, Briley AL, Seed PT, et al.; Vitamins in Pre-eclampsia (VIP) Trial
+Consortium. Vitamin C and vitamin E in pregnant women at risk for pre-eclampsia
+(VIP trial): randomised placebo-controlled trial. Lancet. 2006;367(9517):11451154.
+60. Hofmeyr GJ, Lawrie TA, Atallah AN, et al. Calcium supplementation during
+pregnancy for preventing hypertensive disorders and related problems.
+Cochrane Database Syst Rev. 2014;(6):CD001059.
+61. Hofmeyr GJ, Belizán JM, von Dadelszen P; Calcium and Pre-eclampsia (CAP)
+Study Group. Low-dose calcium supplementation for preventing pre-eclampsia:
+a systematic review and commentary. BJOG. 2014;121(8):951-957.
+62. World Health Organization. WHO Recommendations on antenatal care for a
+positive pregnancy experience. 2016. (Available at: http://apps.who.int/iris/bits tr
+eam/10665/250796/1/9789241549912-eng.pdf).
+63. World Health Organization. Calcium supplementation in pregnant women. 2013.
+(Available at: http://www.who.int/selection_medicines/committees/expert/ 19/
+applications/Calcium_27_A_Ad.pdf).
+64. Egan AM, McVicker L, Heerey A, et al. Diabetic retinopathy in pregnancy: a
+population-based study of women with pregestational diabetes. J Diabetes Res.
+2015;2015:310239.
+65. Balsells M, García-Patterson A, Gich I, et al. Major congenital malformations
+in women with gestational diabetes mellitus: a systematic review and metaanalysis. Diabetes Metab Res Rev. 2012;28(3):252-257.
+66. Balsells M, García-Patterson A, Gich I, et al. Ultrasound-guided compared to
+conventional treatment in gestational diabetes leads to improved birthweight
+but more insulin treatment: systematic review and meta-analysis. Acta Obstet
+Gynecol Scand. 2014;93(2):144-151.
+67. Witkop CT, Neale D, Wilson LM, et al. Active compared with expectant delivery
+management in women with gestational diabetes: a systematic review. Obstet
+Gynecol. 2009;113(1):206-217.
+68. Boulvain M, Stan C, Irion O. Elective delivery in diabetic pregnant women.
+Cochrane Database Syst Rev. 2001;(2):CD001997.
+69. Rosenberg VA, Eglinton GS, Rauch ER, et al. Intrapartum maternal glycemic
+control in women with insulin requiring diabetes: a randomized clinical trial of
+rotating fluids versus insulin drip. Am J Obstet Gynecol. 2006;195(4):1095-1099.
+Action for Diabetes (TRIAD) Study. Diabetes Care. 2009;32(2):269-274.
+Management of Diabetes in Pregnancy
+70. Ferrara A, Peng T, Kim C. Trends in postpartum diabetes screening and
+subsequent diabetes and impaired fasting glucose among women with histories
+of gestational diabetes mellitus: A report from the Translating Research Into
+Action for Diabetes (TRIAD) Study. Diabetes Care. 2009;32(2):269-274.
+71. Myers JE, Hasan X, Maresh MJ. Post-natal assessment of gestational diabetes:
+fasting glucose or full glucose tolerance test? Diabet Med. 2014;31(9):11331137.
+72. Göbl CS, Bozkurt L, Yarragudi R, et al. Is early postpartum HbA1c an appropriate
+risk predictor after pregnancy with gestational diabetes mellitus? Acta Diabetol.
+2014;51(5):715-722.
+73. Su X, Zhang Z, Qu X, et al. Hemoglobin A1c for diagnosis of postpartum
+abnormal glucose tolerance among women with gestational diabetes mellitus:
+diagnostic meta-analysis. PLoS One. 2014;9(7):e102144.
+74. Benaiges D, Chillaron JJ, Pedro-Botet J, et al. Role of A1c in the postpartum
+screening of women with gestational diabetes. Gynecol Endocrinol.
+2013;29(7):687-690.
+75. Ratner RE, Christophi CA, Metzger BE, et al.; Diabetes Prevention Program
+Research Group. Prevention of diabetes in women with a history of gestational
+diabetes: effects of metformin and lifestyle interventions. J Clin Endocrinol
+Metab. 2008;93(12):4774-4779.
+76. Refuerzo JS, Viteri OA, Hutchinson M, et al. The effects of metformin on weight
+loss in women with gestational diabetes: a pilot randomized, placebo-controlled
+trial. Am J Obstet Gynecol. 2015;212(3):389.e1-9.
+77. Ziegler AG, Wallner M, Kaiser I, et al. Long-term protective effect of lactation on
+the development of type 2 diabetes in women with recent gestational diabetes
+mellitus. Diabetes. 2012;61(12):3167-3171.
+78. Gunderson EP, Jacobs DR Jr, Chiang V, et al. Duration of lactation and
+incidence of the metabolic syndrome in women of reproductive age according
+to gestational diabetes mellitus status: a 20-Year prospective study in CARDIA
+(Coronary Artery Risk Development in Young Adults). Diabetes. 2010;59(2):495504.
+79. O’Reilly MW, Avalos G, Dennedy MC, et al. Atlantic DIP: high prevalence of
+abnormal glucose tolerance post partum is reduced by breast-feeding in women
+with prior gestational diabetes mellitus. Eur J Endocrinol. 2011;165(6):953-959.
+80. Visser J, Snel M, Van Vliet HA. Hormonal versus non-hormonal contraceptives
+in women with diabetes mellitus type 1 and 2. Cochrane Database Syst Rev.
+2013;(3):CD003990.
+81. Kiley JW, Hammond C, Niznik C, et al. Postpartum glucose tolerance in women
+with gestational diabetes using levonorgestrel intrauterine contraception.
+Contraception. 2015;91(1):67-70.
+82. Guo J, Chen JL, Whittemore R, et al. Postpartum Lifestyle Interventions to
+Prevent Type 2 Diabetes Among Women with History of Gestational Diabetes: A
+Systematic Review of Randomized Clinical Trials. J Womens Health (Larchmt).
+2016;25(1):38-49.
+83. Ferrara A, Hedderson MM, Brown SD, et al. The Comparative Effectiveness
+of Diabetes Prevention Strategies to Reduce Postpartum Weight Retention
+in Women With Gestational Diabetes Mellitus: The Gestational Diabetes’
+Effects on Moms (GEM) Cluster Randomized Controlled Trial. Diabetes Care.
+2016;39(1):65-74.
+84. Pérez-Ferre N, Del Valle L, Torrejón MJ, et al. Diabetes mellitus and abnormal
+glucose tolerance development after gestational diabetes: A three-year,
+prospective, randomized, clinical-based, Mediterranean lifestyle interventional
+study with parallel groups. Clin Nutr. 2015;34(4):579-585.
+85. Ehrlich SF, Hedderson MM, Quesenberry CP Jr, et al. Post-partum weight loss
+and glucose metabolism in women with gestational diabetes: the DEBI Study.
+Diabet Med. 2014;31(7):862-867.
+Management of Diabetes in Pregnancy
+86. O’Reilly SL, Dunbar JA, Versace V, et al.; MAGDA Study Group. Mothers after
+Gestational Diabetes in Australia (MAGDA): A Randomised Controlled Trial of a
+Postnatal Diabetes Prevention Program. PLoS Med. 2016;13(7):e1002092.
+87. Farrar D, Tuffnell DJ, West J, et al. Continuous subcutaneous insulin infusion
+versus multiple daily injections of insulin for pregnant women with diabetes.
+Cochrane Database Syst Rev. 2016;(6):CD005542.
+88. Kreiner A, Gil K, Lavin J. The effect of antenatal corticosteroids on maternal
+serum glucose in women with diabetes. Open Journal of Obstetrics and
+Gynecology 2. 2012;112-115.
+89. Refuerzo JS, Garg A, Rech B, et al. Continuous glucose monitoring in diabetic
+women following antenatal corticosteroid therapy: a pilot study. Am J Perinatol.
+2012;29(5):335-338.
+90. Ministry of Health Malaysia and Malaysian Endocrine & Metabolic Society.
+Practical guide to diabetes management in Ramadan. Kuala Lumpur: MEMS &
+MOH; 2015.
+91. Nor Azlin MI, Adam R, Sufian SS, et al. Safety and tolerability of once or twice
+daily neutral protamine hagedorn insulin in fasting pregnant women with diabetes
+during Ramadan. J Obstet Gynaecol Res. 2011;37(2):132-137.
+92. Ismail NA, Olaide Raji H, Abd Wahab N, et al. Glycemic Control among Pregnant
+Diabetic Women on Insulin Who Fasted During Ramadan. Iran J Med Sci.
+2011;36(4):254-259.
+Management of Diabetes in Pregnancy
+Appendix 1
+EXAMPLE OF SEARCH STRATEGY
+Clinical Question: What are the effective and safe screening strategies
+for diabetes in pregnancy?
+1. DIABETES, GESTATIONAL/
+2. (gestational adj1 diabetes mellitus).tw.
+3. (diabetes adj1 (pregnancy-induced or pregnancy induced or
+gestational)).tw.
+4. PREGNANCY IN DIABETICS/
+5. pregnancy in diabet*.tw.
+6. DIABETES MELLITUS/
+7. diabetes mellitus.tw.
+8. DM.tw.
+9. DIABETES MELLITUS, TYPE 1/
+10. iddm.tw.
+11. (diabetes mellitus adj1 (insulin-dependent or insulin dependent or
+insulin-dependent 1 or insulin dependent 1 or type 1)).tw.
+12. DIABETES MELLITUS, TYPE 2/
+13. niddm.tw.
+14. (diabetes mellitus adj1 (non-insulin-dependent or noninsulindependent or noninsulin dependent or non insulin dependent or
+type 2)).tw.
+15. 6 or 7 or 8 or 9 or 10 or 11 or 12 or 13 or 14
+16. PREGNANCY/
+17. pregnanc*.tw.
+18. 16 or 17
+19. 15 and 18
+20. 1 or 2 or 3 or 4 or 5 or 19
+21. MASS SCREENING/
+22. screen*.tw.
+23. (mass adj1 screen*).tw.
+24. 21 or 22 or 23
+25. 20 and 24
+26. limit 25 to (english language and humans and yr=”2006 -Current”)
+Management of Diabetes in Pregnancy
+Appendix 2
+CLINICAL QUESTIONS
+1.
+What are the effective and safe screening strategies for diabetes
+in pregnancy?
+2.
+What are the methods to diagnose GDM?
+3.
+Are the following interventions effective and safe in pre-existing
+diabetes? (preconception care and counselling, exercise,
+contraception, glycaemic/metabolic control, supplementations)
+4.
+Are the following antenatal management effective and safe in
+non-diabetes pregnant women at risk of gestational diabetes?
+(lifestyle modification, exercise, medical nutrition therapy [MNT])
+5.
+Are the following antenatal management effective and safe in
+pre-existing diabetes and gestational diabetes? (glycaemic/
+metabolic control, timing and mode of delivery, pre-eclampsia
+prophylaxis, MNT, fetal surveillance, screening for congenital
+malformation)
+6.
+Are oral antidiabetic agents effective and safe in pre-existing
+diabetes and gestational diabetes?
+7.
+Is insulin analogue effective and safe in pre-existing diabetes and
+gestational diabetes?
+8.
+Are the following intrapartum management (spontaneous vaginal
+delivery/caesarean section) effective and safe in pre-existing
+diabetes and gestational diabetes? (blood glucose target, insulin
+regime)
+9.
+Are the following postpartum management effective and safe
+in pre-existing diabetes and gestational diabetes? (postpartum
+glucose monitoring, modification of the treatment, breastfeeding,
+contraception counselling)
+10. What are the effective and safe management of specific conditions
+in pregnancy? (use of corticosteroids, use of insulin pumps,
+fasting)
+11. What are the effective and safe management for infants of diabetic
+mothers?
+12. What are the indications for referral to secondary/tertiary care?
+Management of Diabetes in Pregnancy
+Appendix 3
+CARBOHYDRATE CONTENT OF COMMON MALAYSIAN FOODS
+*1 CHO food exchange = 15 g
+tbsp = tablespoon
+Sources: 1. Tee ES, Mohd Ismail N, Mohd Nasir A, et al. Nutrient Composition
+of Malaysian Foods. Kuala Lumpur: Institute for Medical Research
+(IMR);1997.
+2. Shahar S, Yusoff NM, Safii NS, et al. Atlas of food exchanges & portion
+sizes (3rd edition). Kuala Lumpur: MDC Publishers; 2015.
+Foods
+Serving
+Calories
+(kcal)
+CHO
+Approx. CHO
+exchanges*
+207
+48
+3
+Roti canai
+301
+46
+3
+Chappati
+300
+47
+3
+Curry mee
+549
+55
+4
+Fried noodles
+(mee/mee hoon)
+281
+41
+3
+Bread (white/
+wholemeal)
+70
+15
+1
+Biscuits, unsweetened
+80
+14
+1
+Curry puff
+128
+17
+>1
+Potato
+90
+16
+1
+Dhal (raw)
+98
+64
+4
+Full cream milk
+187
+18
+1
+Low fat milk
+131
+12
+1
+Skim milk powder
+100
+16
+1
+Condensed milk,
+sweetened
+126
+21
+1.5
+Apple/orange
+40
+9
+<1
+Banana (pisang mas)
+40
+9
+<1
+Star fruit
+56
+11
+1
+Durian local
+64
+12
+1
+Langsat/grapes/
+longan
+52
+12
+1
+Guava
+50
+11
+1
+Watermelon/papaya/
+pineapple
+56
+11
+1
+Mango
+50
+11
+1
+1 cup (250 ml)
+1 cup (250 ml)
+4 tbsp (28 g)
+2 tbsp (40 g)
+1 medium (114 g)
+1 small (50 g)
+1 medium (260 g)
+5 small seeds (189 g)
+8 small (233 g)
+1 slice (160 g)
+1 small (100 g)
+1 piece (95 g)
+1 piece (100 g)
+1 bowl (450 g)
+1 plate (30 g)
+1 slice (30 g)
+2 pieces (18 g)
+1 piece (40 g)
+1 medium (90 g)
+½ cup (98 g)
+½ fruit (100 g)
+Cooked rice
+1 bowl (159 g)
+content (g)
+Management of Diabetes in Pregnancy
+Appendix 3
+FOOD GROUPS AND EXCHANGE LISTS
+Adapted: Malaysian Dietitians’ Association. Medical Nutrition Therapy Guidelines for
+Type 2 Diabetes Mellitus. 2013.
+Rice, white unpolished (cooked)
+Rice porridge
+1 cup
+Kuey teow
+Meehoon
+Tang hoon
+Spaghetti
+Macaroni
+Mee, wet
+⅓ cup
+Idli
+1 piece (60 g)
+Putu mayam
+1 piece (40 g)
+Thosai, diameter 20 cm
+Chappati, diameter 20 cm
+⅓ piece
+Bread (wholemeal, high fibre, white/brown)
+1 slice (30 g)
+Plain roll
+1 small (30 g)
+Burger bun
+½ piece
+Pita bread, diameter 6”
+½ piece
+Oatmeal, cooked
+Oats, uncooked
+3 rounded tbsp
+Muesli
+¼ cup
+Flour (wheat, rice, atta)
+3 rounded tbsp
+Biscuits (plain, unsweetened)
+e.g. cream crackers, Ryvita
+3 pieces
+Small thin, salted biscuits (4.5 x 4.5 cm)
+6 pieces
+*Baked beans, canned
+1/3 cup
+*Lentils
+1/3 cup
+(*Contains more protein than other foods in the list i.e. 5 g/serve)
+Corn kernel (fresh/canned)
+Peas (fresh/canned)
+Sweet potato
+Tapioca
+Yam
+Breadfruit (sukun)
+1 slice (75 g)
+Pumpkin
+1 cup (100 g)
+Corn on the cob, 6 cm length
+1 small
+Potato
+1 small (75 g)
+Potato, mashed
+Waterchestnut
+4 pieces
+• 1 cup = 200 mL in volume = ¾ Chinese rice bowl
+(11.2 cm in diameter x 3.7 cm deep)
+•
+Tablespoon (tbsp) refers to dessert spoon level (equivalent to 2 teaspoons)
+½ cup
+½ cup
+½ cup
+½ cup (45 g)
+¼ cup
+½ piece
+½ cup or ⅓ Chinese rice bowl
+½ cup or ⅓ Chinese rice bowl
+Cereals, Grain Products and Starchy Vegetables
+(Each item contains 15 g carbohydrate, 2 g protein, 0.5 g fat and 75 calories)
+Cereals, Grain and Bread
+Can be exchanged for
+Starchy Vegetables
+Management of Diabetes in Pregnancy
+Appendix 3
+FOOD GROUPS AND EXCHANGE LISTS (continue)
+Adapted: Malaysian Dietitians’ Association. Medical Nutrition Therapy Guidelines for
+Type 2 Diabetes Mellitus. 2013.
+Fruits
+(Each item contains 15 g carbohydrate and 60 calories)
+Orange
+1 medium
+Can be exchanged for
+Banana
+1 small (60 g)
+Apple
+1 medium
+Custard apple (buah nona)
+Star fruit
+Pear
+Peach
+Persimmon
+Sapodilla (ciku)
+Kiwi
+Hog plum (kedondong)
+6 whole
+Mangosteen
+2 small
+Plum
+2 small
+Duku langsat
+8 pieces
+Grapes
+Langsat
+Longan
+Water apple (jambu air), small
+Lychee
+5 whole
+Rambutan
+5 whole
+Pomelo
+5 slices
+Papaya
+1 slice
+Pineapple
+Watermelon
+Soursop (durian belanda)
+Guava
+½ fruit
+Cempedak
+4 pieces
+Jack fruit (nangka)
+4 pieces
+Prunes
+3 pieces
+Dates (kurma), dries
+2 pieces
+Raisin
+20 g
+Durian
+2 medium seeds
+Mango
+½ small
+Management of Diabetes in Pregnancy
+Appendix 3
+FOOD GROUPS AND EXCHANGE LISTS (continue)
+Adapted: Malaysian Dietitians’ Association. Medical Nutrition Therapy Guidelines for
+Type 2 Diabetes Mellitus. 2013.
+CHO (g)
+Protein (g)
+Fat (g)
+Energy (kcal)
+0
+7
+4
+65
+Fish / shellfish
+0
+7
+1
+35
+Lean Meat
+Chicken (raw, without skin)
+Can be exchanged for
+Lean meat (all varieties)
+1 small serve (40 g)
+Poultry (young)
+40 g raw/30g cooked
+Egg (hen)
+1 medium
+Soya bean curd (taukua)
+½ piece (60 g)
+Soya bean curd (soft, tauhoo)
+¾ piece (90 g)
+Soya bean curd, sheet (fucok)
+1½ sheets (30 g)
+Tempeh
+1 piece (45 g)
+Cheese, cheddar
+2 thin slices (30 g)
+Cottage cheese
+¼ small cup
+Fish (e.g. kembong, selar)
+½ piece (40 g)
+Fish cutlet
+¼ piece (40 g)
+Squid
+1 medium (40 g)
+Crab meat
+Lobster meat
+Prawn meat
+Cockles
+20 small
+Prawn
+6 medium
+Milk
+(Milk contains varying amount of carbohydrate,
+fat and protein depending on the types)
+CHO (g)
+Protein (g)
+Fat (g)
+Energy (kcal)
+15
+8
+Trace
+90
+12
+8
+5
+125
+10
+8
+9
+150
+Fresh cow’s milk
+1 cup (240 ml)
+UHT fresh milk
+Powdered milk (skimmed, full cream)
+4 rounded
+Yogurt (plain/low fat)
+¾ cup
+Evaporated (unsweetened)
+½ cup
+½ drumstick
+¼ cup
+Skimmed (1% fat)
+Low fat (2% fat)
+Full cream
+Lean Meat, Fish and Meat Substitutes
+(Each serving of meat and substitutes contain 7 g of protein.
+These foods contain varying amounts of fat and energy,
+but negligible carbohydrate)
+Lean meat / meat substitutes
+*Beans and lentils are good sources of protein
+but they also contain carbohydrate
+Fish/Shellfish
+Management of Diabetes in Pregnancy
+Appendix 3
+FOOD GROUPS AND EXCHANGE LISTS (continue)
+Adapted: Malaysian Dietitians’ Association. Medical Nutrition Therapy Guidelines for
+Type 2 Diabetes Mellitus. 2013.
+Oil (all types)
+1 level teaspoon (5 g)
+Can be exchanged for
+Butter, margarine
+1 level teaspoon
+Mayonnaise
+Shortening, lard
+Peanut butter (smooth or crunchy)
+2 level teaspoons
+Cream, unwhipped (heavy)
+1 level tbsp
+Cream cheese
+Salad dressing
+Cream, unwhipped (light)
+2 level tbsp
+Coconut, shredded
+Coconut milk (santan)
+Non dairy creamer, powder
+Almond
+6 whole
+Cashew nut
+6 whole
+Walnut
+1 whole
+Peanut
+Sesame seed
+1 level tbsp
+Watermelon seed (kuachi) with shell
+¼ whole
+Fat
+(Each item contains 5 g of fat and 45 calories. Some of the foods
+in the list, e.g. nuts and seeds also contain small amounts
+of carbohydrate and protein)
+20 small
+Management of Diabetes in Pregnancy
+Appendix 3
+GLYCAEMIC INDEX LIST
+Sources: 1. Atkinson FS, Foster-Powell K, Brand-Miller JC. International tables
+of glycemic index and glycemic load values: 2008. Diabetes Care.
+2008;31(12):2281-2283.
+2. Foster-Powell K, Holt SH, Brand-Miller JC. International table of glycemic
+index and glycemic load values: 2002. Am J Clin Nutr. 2002;76(1):5-56.
+3. Mohd Yusof BN, Abd. Talib R, Karim NA, et al. Glycaemic index of four
+commercially available breads in Malaysia. International journal of food
+sciences and nutrition. 2008;60(6):487-496.
+4. Shanita SN, Hasnah H, Khoo C. Amylose and amylopectin in
+selected Malaysian foods and its relationship to glycemic index. Sains
+Malaysiana. 2011;40(8):865-870.
+5. Robert SD, Ismail AA, Winn T, et al. Glycemic index of common
+Malaysian fruits. Asia Pac J Clin Nutr. 2008;17(1):35-3
+Food Category
+Low GI
+(< 55)
+Intermediate Gl
+(56-70)
+High GI
+(>70)
+Rice
+Barley
+Basmati Rice
+Brown rice
+Parboiled rice
+Red rice
+Glutinous rice
+Jasmine rice
+Instant porridge
+White rice
+Sago
+Bread and
+cereals
+products
+All brand
+breakfast
+cereals
+Muesli
+Wholegrain
+bread
+varieties
+Capati
+Idli
+Oatmeal
+Pita bread,
+wholemeal
+Wholemeal barley
+flour bread
+Cornflakes
+Rice crackers
+Roti canai
+White flour bread
+Wholemeal
+(whole wheat)
+Wheat flour bread
+Noodle and
+Pasta
+Lasagne pasta
+sheets,
+Spaghetti, white,
+boiled
+Spaghetti,
+wholemeal,
+boiled
+Spaghetti, white,
+durum
+Wheat semolina
+Udon noodles, plain
+Wheat noodles
+Fried macaroni
+Fried meehoon
+Fried rice noodles
+Rice noodle
+(kuey teow)
+Milk
+Full fat milk
+Low fat milk
+Skimmed milk
+Soy milk (without
+added sugar)
+Yogurt
+Ice cream
+Sweetened
+condensed milk
+Teh tarik
+Fruits
+Apple
+Mango
+Oranges
+Plum
+Banana
+Dates
+Papaya
+Pineapples
+Raisin
+Lychee
+Watermelon
+Legumes
+Baked beans
+Chickpeas
+Lentils
+Mung bean
+Tubers
+Cassava, boiled
+Pumpkins, boiled
+Sweet corn, boiled
+Potato, boiled
+Sweet potato, boiled
+Management of Diabetes in Pregnancy
+Appendix 3
+SAMPLE MENU
+(FOR 2000 KCAL/DAY*)
+(This sample menu provides ~ 48% carbohydrate, 18% protein and
+34% fat from energy)
+*This is a menu planned for women with a normal pre-pregnancy BMI.
+Patients who are underweight, overweight or obese should be referred
+to a dietitian/nutritionist. The same applies to those with excessive
+gestational weight gain.
+Suggested meal
+time
+Suggestion for serving size and foods
+Breakfast
+(8-9 am)
+Morning Tea
+(10-11am)
+Lunch
+(12-2 pm)
+Afternoon Tea
+(4-5 pm)
+Dinner
+(6-8 pm)
+Supper
+(9-10 pm)
+• 1 glass milk
+• 1 cup wheat noodles or spaghetti, preferably soups
+than fried, or
+• 1 piece chapatti/2 pieces idli with dhal curry, or
+• 5 tbsp oats with 1 tbsp powder milk and 1 tbsp fruits
+cutlets
+AND
+• 1 glass (250ml) milk
+• 1 piece curry puff, or
+• Egg sandwich (2 pieces of whole grain bread, 1 boiled
+egg, salads), or
+• 1 container plain yogurt, or
+• 1 glass milk
+• 2 ladles of rice (preferably low-to-medium glycaemic
+index)
+• ½ ekor fish/1 piece (asam rebus, soup)
+• ½ cup tempeh/tauhu (preferable baked)
+• 1 ladle of vegetables
+• ½ piece guava, 1 slice papaya, 1 apple/orange/pear/lai
+• Plain water
+• ½ cup barley water and 1 chickpea, or
+• 1 tab plain yogurt, or
+• 4-5 piece cream cracker with low fat cheese, or
+• 1 glass milk
+• Same as lunch, or
+• 1 cup spaghetti (bolognaise or soup), salads and with
+1 exchange fruit (apple/orange/pear), or
+• Noodles soup with slices of chicken, salads and with
+1 exchange of fruit (apple/orange/pear), or
+• Chicken sandwich (2-3 pieces of whole grain bread,
+1 slices baked chicken, salads) with 1
+(apple/orange/pear)
+Management of Diabetes in Pregnancy
+Appendix 4
+MEDICATION TABLE
+Oral Antidiabetic Agents
+Insulin
+Drugs
+Formulations
+Minimum Dose
+Maximum dose
+Metformin
+Metformin 500 mg tablet
+1000 mg TDS
+Metformin SR 850 mg
+Usual dose 850 mg BD
+850 mg TDS
+Metformin XR 500 mg/750 mg
+Initial dose 500 mg OD
+Usual dose 1500 mg OD
+2000 mg OD
+Initial dose 500 mg OD
+Usual dose 1500 mg OD
+Types of Insulin
+preparation
+Onset of
+Action
+Peak
+Action
+(hours)
+Duration
+of Action
+Timing of
+Administration of
+Insulin
+PRANDIAL
+Short-acting,
+Regular
+Actrapid
+Humulin R
+Insugen R
+Insuman R
+30-60 min
+2-4
+6-10
+Rapid-acting,
+Analogues
+Aspart
+Lispro
+0-20 min
+1-3
+3-5
+5-15 min
+mmediately
+before/after meals
+BASAL
+Intermediate-acting,
+NPH
+1-2 hour
+4-8
+8-12
+Long-acting
+Analogues
+30-60 min
+Less peak
+16-24
+PREMIXED INSULIN
+Mixtard 30
+Humulin 30/70
+Novomix 30
+Humalog mix 25/75
+Humalog mix 50/50
+30 min
+30 min
+10-20 min
+15 min
+15 min
+Dual
+Dual
+1-4
+0.25-2.5
+0.25-2.5
+18-23
+16-18
+16-20
+16-18
+16-18
+30 min
+before meal
+Insulatard
+Humulin N
+Insugen N
+Insuman N
+Pre-breakfast
+/pre-bed
+Glargine
+Determir
+Same time everyday
+(flexible once daily
+injection)
+30-60 min
+before meals
+30-60 min
+before meals
+5-15 min
+before meals
+5-15 min
+before meals
+5-15 min
+before meals
+Management of Diabetes in Pregnancy
+Initiating Insulin Therapy in Pregnancy
+Estimation of total daily insulin requirement by gestation/trimester
+Blood Glucose Targets in Pregnancy
+Sources: 1. Malaysian Endocrine & Metabolic Society and Ministry of Health
+Malaysia. Management of Type 2 Diabetes Mellitus (5th Edition). Kuala
+Lumpur: MEMS & MOH; 2015.
+2. Malaysian Endocrine & Metabolic Society and Ministry of Health Malaysia.
+Practical Guide to Insulin Therapy. Kuala Lumpur: MEMS & MOH; 2011.
+(Available at: http://www.mems.my/file_dir/3308086634dc0e0f9e1c72.
+pdf)
+Glycaemic abnormality
+Suggested Insulin Type and Dose
+FPG >5.3 mmol/L
+1-hour postprandial >7.8 mmol/L
+2-hours postprandial >6.7 mmol/L
+Pregnancy gestation
+Total daily insulin requirement
+1st trimester
+0.7 units/kg/day
+2nd trimester
+0.8 units/kg/day
+3rd trimester
+0.9 units/kg/day
+Start 0.2 units/kg of intermediate-acting insulin at
+bedtime, increase by 2 units every 3 days until targets
+are reached.
+Start 6 units of short-acting insulin, increase by 2 units
+every 3 days until targets are reached. If preprandial
+short-acting insulin dose exceeds 16 units TDS,
+consider adding 6-10 units intermediate-acting insulin
+in the morning and titrate accordingly until targets are
+achieved.
+Timing of Blood Glucose
+Target Value (mmol/L)
+Fasting or preprandial
+5.3
+1-hour after the start of a meal
+7.8
+2-hours after the start of a meal
+6.7
+Management of Diabetes in Pregnancy
+Appendix 5
+PREPARATION OF INSULIN INFUSION
+Principles of infusion:
+Glucose is infused intravenously at a fixed rate. Insulin is administered
+intravenously at a variable rate. CBG is checked hourly and insulin
+infusion rate adjusted accordingly to maintain target CBG range.
+Women with T1DM need to have some insulin in their system at all
+times to avoid diabetic ketoacidosis. Those with T2DM or GDM may
+or may not require insulin infusion. Insulin requirements decrease after
+delivery of the placenta.
+Intravenous insulin infusion protocol
+Dilute insulin to a concentration of 1 unit/mL. Use either 20 units shortacting human insulin (actrapid) made up to 20 mL with 0.9% saline
+solution in a 20 mL syringe or 50 units short-acting human insulin made
+up to 50 mL with 0.9% saline solution in a 50 mL syringe. Administer
+insulin infusion via a syringe pump.
+Based on serum potassium (K+) result, prepare a separate dextrosepotassium chloride (KCl) mixture as below:
+Note: One ampoule of 10 mL KCl 10% contains 13.4 mmol of K+.
+• Initiate IV insulin infusion as detailed in Algorithm C.
+• Maintain a constant infusion of dextrose-KCl over six hours, at a rate
+of 83 mL/hour.
+• The patient would require one dedicated IV cannula with both
+infusions administered concurrently through infusion pumps,
+connected via a 3-way stopcock to the IV cannula.
+K+ result
+Amount of KCl to add to 500 mL of 5% dextrose solution
+<3.5 mmol/L
+3 g (39 mmol)
+3.5-4.5 mmol/L
+2 g (26 mmol)
+>4.5 mmol/L
+1 g (13 mmol)
+Management of Diabetes in Pregnancy
+LIST OF ABBREVIATIONS
+ACR
+albumin:creatinine ratio
+BD
+twice daily
+BMI
+body mass index
+CBG
+capillary blood glucose
+CI
+confidence interval
+CPG
+Clinical Practice Guidelines
+CSII
+continuous subcutaneous insulin infusion
+DG
+Development Group
+FA
+folic acid
+FPG
+fasting plasma glucose
+GDM
+gestational diabetes mellitus
+HbA1c
+glycosylated haemoglobin
+HPP
+hours postprandial
+HPT
+hypertension
+HR
+hazard ratio
+IAsp
+insulin aspart
+IOL
+induction of labour
+IV
+intravenous
+LGA
+large for gestational age
+MaHTAS
+Malaysian Health Technology Assessment Section
+MDI
+multiple dose injections
+NICE
+National Institute for Health and Care Excellence
+NICU
+neonatal intensive care unit
+NPH
+Neutral Protamine Hagedorn
+OAD
+oral antidiabetic agents
+OGTT
+oral glucose tolerance test
+OD
+once daily
+PG
+plasma glucose
+PIH
+pregnancy-induced hypertension
+RC
+Review Committee
+RCT
+randomised controlled trial
+RPG
+random plasma glucose
+RR
+relative risk / risk ratio
+SC
+subcutaneous
+SGA
+small for gestational age
+SMBG
+self-monitoring blood glucose
+T1DM
+Type 1 Diabetes Mellitus
+T2DM
+Type 2 Diabetes Mellitus
+tbsp
+tablespoon
+TDS
+thrice daily
+Management of Diabetes in Pregnancy
+ACKNOWLEDGEMENT
+The members of CPG DG would like to express their gratitude and
+appreciation to the following for their contributions:
+• Panel of external reviewers who has reviewed the draft
+• Technical Advisory Committee of CPG for their valuable input and
+feedback
+• Madam Rosnani Abdul Latip, Information Specialist, MaHTAS
+• Ms. Noormah Darus, Senior Principal Assistant Director, MaHTAS
+• Dr. Matthew Chong Hon Loon, Neonatologist, Hospital Putrajaya
+• Dr. Ainol Haniza Kherul Anuwar, CPG Unit, MaHTAS
+• Dr. Noor Azizi Mohd Ali, Senior Lecturer, Universiti Putra Malaysia
+for illustrating the front cover of this CPG
+• All those who have contributed directly or indirectly to the
+development of the CPG
+DISCLOSURE STATEMENT
+The panel members of both Development Group and Review Committee
+had completed disclosure forms. None held shares in pharmaceutical
+firms or acts as consultants to such firms (details are available upon
+request from the CPG Secretariat).
+SOURCE OF FUNDING
+The development of the CPG on Management of Diabetes in
+Pregnancy was supported financially by Ministry of Health Malaysia.
+The printing of CPG was funded by Malaysian Endocrine and Metabolic
+Society, Perinatal Society of Malaysia and Family Medicine Specialists
+Association of Malaysia.

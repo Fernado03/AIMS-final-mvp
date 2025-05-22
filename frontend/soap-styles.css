@@ -1,0 +1,441 @@
+/*Navigation Section*/
+.header-container1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 0 20px;
+}
+
+.header-header {
+  width: 100%;
+  max-width: 1320px; 
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.header-nav {
+  width: 95%; 
+  margin: var(--dl-layout-space-unit) auto 0;
+  border-radius: var(--dl-layout-radius-radius40);
+  box-shadow: 0 .25rem .375rem -.0625rem hsla(0,0%,8%,.12), 0 .125rem .25rem -.0625rem hsla(0,0%,8%,.07);
+}
+/*End of Navigation Section*/
+
+/*=====================================================
+                   SOAP Style Start                     
+======================================================*/
+.outline-blue-button-wrapper {
+  display: contents;
+}
+ 
+.outline-blue-button-container {
+  display: flex;
+  position: relative;
+}
+ 
+.outline-blue-button-button {
+  color: var(--dl-color-blue-500);
+  cursor: pointer;
+  background: white;
+  transition: all .15s ease-in;
+  padding-top: var(--dl-layout-space-halfunit);
+  border-color: var(--dl-color-blue-500);
+  border-width: 1px;
+  padding-left: var(--dl-layout-space-doubleunit);
+  border-radius: var(--dl-layout-radius-radius5);
+  padding-right: var(--dl-layout-space-doubleunit);
+  padding-bottom: var(--dl-layout-space-halfunit);
+  background-color: transparent;
+}
+ 
+.outline-blue-button-button:hover {
+  transform: scale(1.02);
+}
+
+.next-button-wrapper {
+  display: contents;
+}
+ 
+.next-button-container {
+  display: flex;
+  position: relative;
+}
+ 
+.next-button-button {
+  color: var(--dl-color-blue-500);
+  display: flex;
+  align-items: center;
+  padding-top: var(--dl-layout-space-halfunit);
+  border-width: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  flex-direction: row;
+  padding-bottom: var(--dl-layout-space-halfunit);
+  background-color: transparent;
+}
+ 
+.next-button-text {
+  font-size: 1.25rem;
+  margin-right: var(--dl-layout-space-halfunit);
+}
+ 
+.next-button-icon1 {
+  fill: var(--dl-color-blue-500);
+  width: var(--dl-layout-size-unit);
+  height: var(--dl-layout-size-unit);
+  transition: 0.3s;
+}
+ 
+.next-button-icon1:hover {
+  transform: translateX(5px);
+}
+
+.primary-blue-button-wrapper {
+  display: contents;
+}
+ 
+.primary-blue-button-container {
+  display: flex;
+  position: relative;
+}
+ 
+.primary-blue-button-button {
+  color: var(--dl-color-gray-white);
+  outline: none;
+  background: linear-gradient(310deg,#2152ff,#21d4fd);
+  box-shadow: 0 4px 7px -1px rgb(0 0 0 / 11%), 0 2px 4px -1px rgb(0 0 0 / 7%);
+  transition: all .15s ease-in;
+  padding-top: var(--dl-layout-space-triplequarterunit);
+  border-width: 0px;
+  padding-left: var(--dl-layout-space-unitandahalfunit);
+  border-radius: 1.875rem;
+  padding-right: var(--dl-layout-space-unitandahalfunit);
+  padding-bottom: var(--dl-layout-space-triplequarterunit);
+}
+ 
+.primary-blue-button-button:hover {
+  cursor: pointer;
+  transform: scale(1.02);
+}
+
+.primary-blue-button-wrapper-dlt8 { 
+  display: contents;
+}
+ 
+.primary-blue-button-container1 { 
+  display: flex;
+  position: relative;
+}
+ 
+.primary-blue-button-button1 { 
+  color: var(--dl-color-gray-white);
+  outline: none;
+  background: linear-gradient(310deg,#2152ff,#21d4fd);
+  box-shadow: 0 4px 7px -1px rgb(0 0 0 / 11%), 0 2px 4px -1px rgb(0 0 0 / 7%);
+  transition: all .15s ease-in;
+  padding-top: var(--dl-layout-space-triplequarterunit);
+  border-width: 0px;
+  padding-left: var(--dl-layout-space-unitandahalfunit);
+  border-radius: 1.875rem;
+  padding-right: var(--dl-layout-space-unitandahalfunit);
+  padding-bottom: var(--dl-layout-space-triplequarterunit);
+}
+ 
+.primary-blue-button-button1:hover { 
+  cursor: pointer;
+  transform: scale(1.02);
+}
+
+.primary-pink-button-wrapper { 
+  display: contents;
+}
+ 
+.primary-pink-button-container { 
+  display: flex;
+  position: relative;
+}
+ 
+.primary-pink-button-button { 
+  color: var(--dl-color-gray-white);
+  outline: none;
+  background: linear-gradient( 310deg ,#7928ca,#ff0080);
+  box-shadow: 0 4px 7px -1px rgb(0 0 0 / 11%), 0 2px 4px -1px rgb(0 0 0 / 7%);
+  transition: all .15s ease-in;
+  padding-top: var(--dl-layout-space-triplequarterunit);
+  border-width: 0px;
+  padding-left: var(--dl-layout-space-unitandahalfunit);
+  border-radius: 1.875rem;
+  padding-right: var(--dl-layout-space-unitandahalfunit);
+  padding-bottom: var(--dl-layout-space-triplequarterunit);
+}
+ 
+.primary-pink-button-button:hover { 
+  cursor: pointer;
+  transform: scale(1.02);
+}
+
+/* Page Back Button Style */
+.page-back-button {
+    display: inline-flex; 
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: var(--dl-color-gray-white);
+    background-color: #adb5bd; 
+    padding-top: var(--dl-layout-space-triplequarterunit);
+    padding-left: var(--dl-layout-space-unitandahalfunit);
+    padding-right: var(--dl-layout-space-unitandahalfunit);
+    padding-bottom: var(--dl-layout-space-triplequarterunit);
+    border-radius: 1.875rem;
+    border-width: 0px;
+    font-weight: 600; 
+    transition: all .15s ease-in;
+    cursor: pointer;
+    box-shadow: 0 4px 7px -1px rgb(0 0 0 / 11%), 0 2px 4px -1px rgb(0 0 0 / 7%);
+}
+
+.page-back-button:hover {
+    transform: scale(1.02);
+    background-color: #868e96; 
+}
+
+.page-back-button .button {
+    color: inherit; 
+    background-color: transparent; 
+    border: none;
+    padding: 0; 
+    outline: none;
+    font-weight: inherit; 
+}
+
+/* Button Navigation Layout Styles */
+.button-navigation-controls {
+    display: flex;
+    align-items: center; 
+}
+
+.button-navigation-controls > * { 
+    margin-right: 10px; 
+}
+
+.button-navigation-controls > *:last-child {
+    margin-right: 0; 
+}
+
+/*=====================================================
+                     SOAP Style End                      
+======================================================*/
+
+/*Container for SOAP Input*/
+.audio-recorder-container, .transcript-container {
+  margin: 0;
+  padding: 15px;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+/*End of Container for SOAP Input*/
+
+/* Textarea styles for SOAP note pages */
+.transcript-container textarea {
+    width: 100%;
+    max-width: 100%;
+    min-height: 200px;
+    padding: 15px;
+    border-radius: 6px;
+    resize: vertical;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: #333;
+    border: 1px solid #ced4da;
+    background-color: #f8f9fa;
+    transition: border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    box-shadow: inset 0 1px 2px rgba(0,0,0,0.075);
+}
+
+.transcript-container textarea:focus {
+    outline: none;
+    border-color: #86b7fe;
+    background-color: #fff;
+    box-shadow: inset 0 1px 2px rgba(0,0,0,0.075), 0 0 0 0.25rem rgba(13,110,253,0.25);
+}
+
+.transcript-container textarea::placeholder {
+    color: #6c757d;
+    opacity: 1;
+}
+
+.transcript-container textarea[readonly] {
+    background-color: #e9ecef;
+    cursor: default;
+}
+
+
+body {
+    background-color: #f4f7f9; 
+    color: #333;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.6;
+    margin: 0; 
+    padding: 0; 
+}
+
+/* Common wrapper for the main content area of SOAP pages (e.g., .transcript1-container10) */
+/* This rule will target classes like transcript1-container10, transcript2-container10, etc. */
+/* This rule is now handled by .transcript3-container10 in page-layout.css */
+
+/* Section Headings */
+/* Main section titles like "1. Subjective" */
+/* Standardized to target h1.HeadingOne within .transcript3-form1 or specific form classes */
+.transcript3-form1 h1.HeadingOne,
+.transcript3-form-subjective h1.HeadingOne, /* New specific class for subjective.html if needed */
+.transcript3-form-objective h1.HeadingOne,
+.transcript3-form-assessment h1.HeadingOne,
+.transcript3-form-plan h1.HeadingOne,
+.summary-container3 h1.summary-text10 { /* from summary.html - kept as is for summary page */
+    color: #2c3e50; 
+    font-size: 1.75rem;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid #e0e0e0;
+    text-align: center;
+}
+
+/* Sub-headings within .transcript-container (e.g., "Audio Transcript") */
+.transcript-container h3 {
+    color: #34495e; 
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-bottom: 0.75rem;
+}
+
+/* Form Input Areas / Content Blocks */
+.transcript3-form1 { /* Standardized form container class */
+    padding: 1.5rem; 
+}
+
+/*Objective*/
+.transcript3-form1 > form,
+.transcript3-form-objective,
+.transcript3-form2 {
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding-left: 15px; 
+  padding-right: 15px;
+}
+
+.transcript3-container12 {
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+}
+/*Objective End*/
+
+
+/*Assessment & Plan*/
+/* Ensure form takes full width */
+.transcript3-form-assessment, .transcript3-form-plan {
+  width: 100%;
+}
+/*Assessment End*/
+
+/* --- Button Styling for SOAP Pages --- */
+
+/* Common styles for all action buttons on SOAP pages */
+.button-navigation-controls .button, /* Targets inner button if wrapped in an element with .button */
+.button-navigation-controls > a, /* Targets <a> if it's styled as a button (like .page-back-button) */
+#generateAssessmentButton,
+#generatePlanButton,
+#generateSummaryButton {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.65rem 1.25rem;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.875rem;
+    font-weight: 600;
+    text-align: center;
+    text-decoration: none;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    user-select: none;
+    border: 1px solid transparent;
+    border-radius: 0.375rem; /* Bootstrap-like radius */
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out, transform 0.15s ease-in-out;
+    line-height: 1.5;
+}
+
+/* Primary Action Buttons (NEXT, Summarize, Generate) */
+.primary-blue-button-button, /* Existing class for NEXT/Summarize */
+#generateAssessmentButton,
+#generatePlanButton,
+#generateSummaryButton {
+    color: #fff;
+    background-color: #0d6efd; /* Standard professional blue */
+    border-color: #0d6efd;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.primary-blue-button-button:hover,
+#generateAssessmentButton:hover,
+#generatePlanButton:hover,
+#generateSummaryButton:hover {
+    background-color: #0b5ed7; /* Darker blue on hover */
+    border-color: #0a58ca;
+    transform: translateY(-1px); /* Subtle lift */
+}
+    
+.primary-blue-button-button:disabled,
+#generateAssessmentButton:disabled,
+#generatePlanButton:disabled,
+#generateSummaryButton:disabled {
+    background-color: #0d6efd; /* Keep color but change opacity */
+    border-color: #0d6efd;
+    opacity: 0.65;
+    cursor: not-allowed;
+    transform: none; /* No lift when disabled */
+}
+
+/* Secondary/Back Buttons */
+.page-back-button { /* This is an <a> tag styled as a button */
+    color: #495057; /* Dark gray text */
+    background-color: #e9ecef; /* Light gray background */
+    border-color: #ced4da; /* Slightly darker gray border */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.page-back-button:hover {
+    color: #212529;
+    background-color: #d3d9df;
+    border-color: #b9bfc6;
+    transform: translateY(-1px); /* Subtle lift */
+}
+    
+/* Ensure inner button within .page-back-button (if any) is transparent and inherits styles */
+.page-back-button .button { /* If .page-back-button contains a child with class .button */
+    background-color: transparent !important;
+    border: none !important;
+    color: inherit !important;
+    padding: 0 !important;
+    box-shadow: none !important;
+    font-weight: inherit !important; 
+    line-height: inherit !important; 
+}
+
+/* Spacing and alignment for button groups */
+.button-navigation-controls {
+    display: flex;
+    gap: 0.75rem; 
+    margin-top: 1.5rem; 
+    justify-content: flex-end; 
+    width: 100%; 
+}

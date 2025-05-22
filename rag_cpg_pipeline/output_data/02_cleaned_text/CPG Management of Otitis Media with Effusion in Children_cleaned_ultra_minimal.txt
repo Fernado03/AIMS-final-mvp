@@ -1,0 +1,2954 @@
+CLINICAL PRACTICE GUIDELINES
+moneana3e 2(6U)
+ay 2012
+Management of.
+Otitis Media with Effusion
+in Children
+Management of Otitis Media with Effusion in Children
+Published by:
+Malaysia Health Technology Assessment Section (MaHTAS)
+Medical Development Division, Ministry of Health Malaysia
+Level 4, Block E1, Precinct 1
+Federal Government Administrative Centre
+62590, Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is MaHTAS. Content may be
+reproduced in any number of copies and in any format or medium
+provided that a copyright acknowledgement to MaHTAS is included and
+the content is not changed, not sold, nor used to promote or endorse
+any product or service, and not used in an inappropriate or misleading
+context.
+ISBN:978-967-0399-22-5
+Available on the following websites:
+http://www.moh.gov.my
+http://www.acadmed.org.my
+http://www.msohns.com
+STATEMENT OF INTENT
+These clinical practice guidelines (CPG) are meant to be guides for
+clinical practice, based on the best available evidence at the time of
+development. Adherence to these guidelines may not necessarily
+guarantee the best outcome in every case. Every healthcare provider is
+responsible for the management of his/her unique patient based on the
+clinical picture presented by the patient and the management options
+available locally.
+These guidelines were issued in 2012 and will be reviewed in 2016 or
+sooner if new evidence becomes available.
+Management of Otitis Media with Effusion in Children
+TABLE OF CONTENTS
+No.
+TITLE
+Page
+Level of Evidence Scale and Grades of
+i
+Recommendation
+Guideline Development and Objectives
+ii - iv
+Guideline Development Group
+v
+Review Committee
+vi
+External Reviewers
+vii
+Algorithm 1: Management of Otitis Media with Effusion
+viii
+(OME) in Children
+Algorithm 2: Management of OME in Special Children
+ix
+(Cleft Palate)
+Algorithm 3: Management of OME in Special Children
+x
+(Down Syndrome)
+1.
+INTRODUCTION
+1
+2.
+EPIDEMIOLOGY
+1
+2.1 Prevalence
+1
+2.2 Risk Factors
+2
+3.
+SCREENING
+4
+4.
+CLINICAL PRESENTATION
+5
+4.1 Symptoms
+5
+4.2 Otoscopic Findings
+6
+4.3 Parental Suspicion
+7
+5.
+DIAGNOSTIC TESTS
+8
+5.1 Otoscopy
+8
+5.2 Pneumatic Otoscopy
+8
+5.3 Acoustic Immitance Measures
+9
+5.4 Pure Tone Audiometry
+12
+5.5 Otoacoustic Emissions
+12
+6.
+PREVENTIVE MEASURES
+14
+7.
+ACTIVE OBSERVATION
+16
+8.
+MANAGEMENT
+18
+8.1 Non-surgical Interventions
+18
+8.2 Surgical Interventions
+21
+8.3 Complications of Ventilation Tube Insertion
+Management of Otitis Media with Effusion in Children
+TABLE OF CONTENTS
+No.
+TITLE
+Page
+9.
+MANAGEMENT OF OME IN SPECIAL CHILDREN
+27
+9.1 Children with Cleft Palate
+27
+9.2 Children with Down Syndrome
+29
+10.
+REFERRAL OF CHILDREN WITH OME
+32
+11.
+PARAMETERS TO BE MONITORED DURING FOLLOW-UP 33
+11.1 Otological Findings
+33
+11.2 Audiological Findings
+33
+11.3 Speech, Language and Academic Development
+34
+12.
+LONG TERM SEQUALAE
+35
+13.
+IMPLEMENTING THE GUIDELINES
+36
+REFERENCES
+38
+Appendix 1 Search Terms
+45
+Appendix 2 Clinical Questions
+47
+Appendix 3 The Conduct of Distraction Test
+48
+Auditory and Speech Development
+Appendix 4 Otoscopy Appearance
+50
+Appendix 5 Types of Tympanogram`
+53
+Audiogram
+Appendix 6 List of Medication Dosages and Side Effects
+55
+in Children with Otitis Media with Effusion
+Appendix 7 Advice to Parents of Children Post-Ventilation Tube
+56
+List of Abbreviations
+58
+Acknowledgements
+59
+Disclosure Statement
+59
+Sources of Funding
+Management of Otitis Media with Effusion in Children
+LEVEL OF EVIDENCE
+SOURCE: US / CANADIAN PREVENTIVE SERVICES TASK FORCE 2001
+A
+B
+C
+At least one meta analysis, systematic review, or RCT, or
+evidence rated as good and directly applicable to the target
+population
+Evidence from well conducted clinical trials, directly applicable
+to the target population, and demonstrating overall consistency
+of results; or evidence extrapolated from meta analysis,
+systematic review, or RCT
+Evidence from expert committee reports, or opinions and /or
+clinical experiences of respected authorities; indicates absence
+of directly applicable clinical studies of good quality
+Level
+I
+II -1
+II-2
+II-3
+III
+Study design
+Evidence from at least one properly randomised controlled trial
+Evidence obtained from well-designed controlled trials without
+randomisation
+Evidence obtained from well-designed cohort or case-control
+analytic studies, preferably from more than one centre or
+group
+Evidence from multiple time series with or without intervention.
+Dramatic results in uncontrolled experiments (such as the
+results of the introduction of penicillin treatment in the 1940s)
+could also be regarded as this type of evidence
+Opinions of respected authorities based on clinical experience;
+descriptive studies and case reports; or reports of expert
+committees
+i
+GRADES OF RECOMMENDATION
+SOURCE: MODIFIED FROM THE SCOTTISH INTERCOLLEGIATE GUIDELINES NETWORK
+(SIGN)
+Note: The grades of recommendation relates to the strength of the
+evidence on which the recommendation is based. It does not reflect the
+clinical importance of the recommendation.
+Management of Otitis Media with Effusion in Children
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+GUIDELINES DEVELOPMENT
+The development group for this Clinical Practice Guidelines (CPG)
+is from the Ministry of Health (MoH), Ministry of Higher Education
+and private sector. The group consists of otorhinolaryngologists,
+paediatrician, family medicine specialists, public health physicians,
+audiologists, a pharmacist and an assistant medical officer. There was
+active involvement of the multidisciplinary Review Committee (RC)
+during the process of development of these guidelines.
+Literature search was carried out at the following electronic databases:
+Guidelines International Network (G-I-N), Pubmed/Medline, Cochrane
+Database of Systemic Reviews (CDSR), Database of Abstracts of
+Reviews of Effectiveness (DARE), Journal full text via OVID search
+engine, International Health Technology Assessment websites (refer to
+Appendix 1 for Search Terms). In addition, the reference lists of all
+retrieved articles were searched to identify relevant studies. Experts
+in the field were also contacted to identify further studies. All searches
+were officially conducted between 17 August 2010 and 11 August 2011.
+Literature searches were repeated for all clinical questions at the end of
+the CPG development process allowing any relevant papers published
+up until 21 February 2012 to be considered. Future CPG updates will
+consider evidence published after this cut-off date. The details of the
+search strategy can be obtained upon request from the CPG secretariat.
+Search was limited to literature published in English.
+Reference was also made to other guidelines on Otitis Media with
+Effusion such as National Collaborating Centre for Women’s and
+Children’s Health – Surgical Management of Children with Otitis Media
+with Effusion (OME) (2008); American Academy of Pediatrics - Clinical
+Practice Guideline, Otitis Media with Effusion. Pediatrics (2004);
+American Academy of Family Physicians (AAFP), American Academy
+of Otorhinolaryngology-Head And Neck Surgery (AAO-HNS), Academy
+of Pediatrics (AAP) Subcommittee on Otitis Media with Effusion -
+Clinical Practice Guideline, Otitis Media with Effusion (2004); Scottish
+Intercollegiate Guidelines Network - Diagnosis and Management of
+Childhood Otitis Media in Primary Care (2003); National Institute for
+Clinical Excellence - Referral Advice, Persistent Otitis Media With
+Effusion (Glue Ear) In Children (2001). These CPGs were evaluated
+using the Appraisal of Guidelines for Research and Evaluation (AGREE)
+prior being used as references.
+Fifteen clinical questions were developed under four sections and
+members of the development group were assigned individual questions
+within these subtopics (refer to Appendix 2 for Clinical Questions).
+Management of Otitis Media with Effusion in Children
+The group members met a total of 20 times throughout the development
+of these guidelines. All literature retrieved was appraised using
+Critical Appraisal Skills Programme (Oxford) by at least two members
+and presented in the form of evidence tables and discussed during
+development group meetings. All statements and recommendations
+formulated then were agreed upon by both the development group
+and RC. Where evidence was insufficient, the recommendations were
+made by consensus of the development group and RC. These CPG are
+based largely on the findings of systematic reviews, meta-analyses and
+clinical trials, with local practices taken into consideration.
+The articles used in theses guidelines were graded using the US/
+Canadian Preventive Services Task Force Level of Evidence (2001),
+while the grading of recommendation was modified from grades of
+recommendation of the Scottish Intercollegiate Guidelines Network
+(SIGN).
+On completion, the draft guidelines was sent for review by external
+reviewers. It was posted on the MoH Malaysia official website for
+comment and feedback from any interested parties. These guidelines
+had also been presented to the Technical Advisory Committee for
+CPG, and the HTA and CPG Council, MoH Malaysia for review and
+approval.
+Management of Otitis Media with Effusion in Children
+OBJECTIVES
+GENERAL OBJECTIVE
+•
+To provide an evidence-based guidance in the management of otitis
+media with effusion (OME) in children
+SPECIFIC OBJECTIVES
+•
+To provide evidence-based guidance for early detection and referral
+in preventing subsequent complication of OME at all levels of
+healthcare
+•
+To provide evidence-based guidance in selecting the appropriate
+diagnostic tool
+•
+To provide evidence-based guidance in selecting treatment options,
+plan and preventive measures available in the treatment of OME
+CLINICAL QUESTIONS
+Refer to Appendix 2
+TARGET POPULATION
+Children with OME (12 years old and below)
+Special consideration:
+Children with Down syndrome and cleft palate
+TARGET GROUP/USER
+This document is intended to guide healthcare professionals at all level
+of health care system including:
+•
+Medical officers
+•
+General practitioners
+•
+Family Medicine Specialists
+•
+Paediatricians
+•
+Otorhinolaryngologists
+•
+Audiologists
+•
+Plastic surgeons
+•
+Dental officers
+•
+Allied health professionals
+•
+Pharmacists
+•
+Programme managers
+•
+Other healthcare providers involved in managing patients with OME
+•
+Healthcare provider trainees and medical students
+•
+Professional societies
+HEALTHCARE SETTINGS
+Outpatient, inpatient and community setting
+Management of Otitis Media with Effusion in Children
+v
+Professor Dr. Asma Abdullah
+Clinical Professor &
+Consultant Otorhinolaryngologist
+Faculty of Medicine, Pusat Perubatan
+Universiti Kebangsaan Malaysia
+Kuala Lumpur
+Dr. Hafeza Ahmad
+Otorhinolaryngologist
+Hospital Putrajaya, Putrajaya
+Ms. Jaclyn Teoh Pei Lee
+Pharmacist
+Bandar Puchong Jaya, Selangor
+Mdm. Juliana Samsudin
+Audiologist
+Hospital Sungai Buloh
+Sungai Buloh, Selangor
+Dr. Mazapuspavina Md. Yasin
+Senior Lecturer &
+Family Medicine Specialist
+Faculty of Medicine
+Universiti Teknologi Mara, Selangor
+Dr. Mohd. Aminuddin Mohd. Yusof
+Head of CPG Unit
+Health Technology Assessment Section
+Ministry of Health
+Dr. Nik Khairulddin Nik Yusoff
+Head of Department &
+Consultant Paediatrician (ID)
+Hospital Raja Perempuan Zainab II
+Kota Bharu, Kelantan
+Dr. Norizzati Bukhary Ismail Bukhary
+Family Medicine Specialist
+Klinik Kesihatan Bandar Baru Bangi
+Selangor
+Dr. Philip Rajan
+Otorhinolaryngologist (Otology)
+Hospital Raja Permaisuri Bainun
+Ipoh, Perak
+Dr. Rafidah Mazlan
+Senior Lecturer & Audiologist
+Faculty of Health Science
+Universiti Kebangsaan Malaysia
+Kuala Lumpur
+Dr. Roza Sarimin
+Public Health Physician
+Health Technology Assessment Section, MoH
+Mr. Shahrom Ab. Rahman
+Audiologist
+Hospital Raja Perempuan Zainab II
+Kota Bharu, Kelantan
+Datin Dr. Siti Sabzah Mohd. Hashim
+Head of Department & Senior Consultant
+Otorhinolaryngologist (Paediatrics ORL)
+Hospital Sultanah Bahiyah
+Alor Star, Kedah
+Dr. Sobani Din
+Head of Department &
+Otorhinolaryngologist (Otology)
+Hospital Sungai Buloh, Sungai Buloh, Selangor
+Mr. Suhaidie Manan
+Assistant Medical Officer
+Otorhinolaryngology Department
+Hospital Kuala Lumpur, Kuala Lumpur
+GUIDELINES DEVELOPMENT GROUP
+Chairperson
+Dr. Zulkiflee Salahuddin
+Head of Department & Consultant Otorhinolaryngologist (Otology)
+Hospital Raja Perempuan Zainab II
+Kota Bharu, Kelantan
+Members (alphabetical order)
+Management of Otitis Media with Effusion in Children
+vi
+REVIEW COMMITTEE
+The draft guidelines were reviewed by a panel of independent expert
+referees from both public and private sectors who were asked to
+comment primarily on the comprehensiveness and accuracy in the
+interpretation of evidence supporting the recommendations in the
+guidelines.
+Chairperson
+Dato’ Dr. Abd. Majid Md. Nasir
+Head of Department & Senior Consultant Otorhinolaryngologist
+Hospital Kuala Lumpur, Kuala Lumpur
+Members (alphabetical order)
+Professor Dr. Din Suhaimi Sidek
+Professor of Otorhinolaryngology & Senior Consultant Otorhinolaryngologist
+School of Medical Science
+Universiti Sains Malaysia, Kelantan
+Dr. Hj. Md. Husain Hj. Said
+Senior Consultant Otorhinolaryngologist
+Sime Darby Medical Centre Subang Jaya, Selangor
+Mdm. Noraini Mohamad
+Senior Principal Assistant Director
+Practice and Development Section
+Pharmaceutical Services Division, Ministry of Health
+Dr. Norzila Zainuddin
+Senior Consultant Paediatrician (Respiratory Paediatrics)
+Hospital Kuala Lumpur, Kuala Lumpur
+Datin Dr. Rugayah Bakri
+Deputy Director
+Health Technology Assessment Section, Medical Development Division
+Ministry of Health
+Professor Dr. Siti Zamratol Maisara Mukhari
+Professor of Audiology & Senior Consultant Audiologist, Faculty of Medicine
+Pusat Perubatan Universiti Kebangsaan Malaysia, Kuala Lumpur
+Dr. Sri Wahyu Taher
+Family Medicine Specialist
+Klinik Kesihatan Simpang Kuala, Alor Star, Kedah
+Brigadier General Dato’ Pahlawan Dr. Zulkaflay Abd. Rahman
+Senior Consultant Otorhinolaryngologist
+Hospital Angkatan Tentera Pangkalan TLDM, Lumut, Perak
+Management of Otitis Media with Effusion in Children
+EXTERNAL REVIEWERS (alphabetical order)
+The following external reviewers provided feedback on the draft:
+Dr. Hairel Anuar Selamat
+Lecturer & Family Medicine Specialist
+Medical Faculty, Cyberjaya University College of Medical Sciences,
+Selangor
+Professor Dr. Henry Tan
+Consultant Otorhinolaryngologist
+KK Women’s and Children’s Hospital, Singapore
+Dr. Matthew Yung
+Consultant Otorhinolaryngologist
+The Ipswich Hospital NHS Trust, Suffolk, United Kingdom
+Dr. Mohd. Normani b. Zakaria
+Lecturer & Audiologist
+School of Health Sciences, Universiti Sains Malaysia
+Dr. Nik Mazlina Mohamad
+Family Medicine Specialist
+Klinik Kesihatan Kajang, Selangor
+Dr. Noor Khatijah Nurani
+President
+Malaysia Paediatrics Association
+Pn. Nur Azyani Amri
+National Head of Audiology Services
+Hospital Sungai Buloh, Sungai Buloh, Selangor
+Dr. Patrick Sheehan
+Consultant & Honorary Senior Lecturer in Paediatric Otolaryngology
+Royal Manchester Children’s Hospital & North Manchester General Hospital /
+School of Medicine, University of Manchester, United Kingdom
+Management of Otitis Media with Effusion in Children
+viii
+ALGORITHM 1: MANAGEMENT OF OTITIS MEDIA WITH
+EFFUSION (OME) IN CHILDREN
+ORL & AUDIOLOGY
+FOLLOW-UP
+Primary care
+Secondary & tertiary care
+No
+No
+OME
+Yes
+No
+Suspected children with
+OME* or parents’/caregiver’s/
+educator’s concern
+PRIMARY CARE/PAEDIATRIC SETTING
+• History
+- Risk factors
+- Clinical features
+• General examination
+• Ear, nose & throat examination
+- Tuning fork : 512Hz (for aged above 4 years)
+- Otoscopy OR preferably pneumatic otoscopy
+- Tympanometry screener (optional)
+Yes
+Yes
+Yes
+Consider other
+diagnosis
+Indication
+for referral
+(refer Section 10)
+ACTIVE OBSERVATION/
+NON-SURGICAL TREATMENT:
+Up to 3 months (refer Section 7)
+OTORHINOLARYNGOLOGY (ORL)
+REFERRAL
+RESOLVED
+SURGICAL INTERVENTION
+ORL ASSESSMENT
+• History
+• General examination
+• Ear, nose & throat examination ± endoscopy
+• Audiological assessment
+• Indication for surgery (refer Section 8.2)
+NON-SURGICAL INTERVENTION:
+• Active observation for 3 months - newly
+diagnosed OME
+• Hearing amplification may be considered
+• Pharmacotherapy:
+o Short course (<6 weeks) intranasal
+steroid for OME with concurrent allergic
+rhinitis or adenoid hypertrophy
+SURGICAL INTERVENTION:
+• Myringotomy with ventilation tube insertion
+• Adenoidectomy may be considered in children
+with hypertrophied adenoids
+DISCHARGE
+No
+* Symptoms suggestive of OME:-
+• hearing impairment
+• speech or language delay
+• associated presentation such as
+recurrent otalgia, upper respiratory
+tract infection or acute otitis media
+• poor school performance
+• lack of concentration or attention
+Management of Otitis Media with Effusion in Children
+ix
+ALGORITHM 2: MANAGEMENT OF OTITIS MEDIA WITH
+EFFUSION (OME) IN SPECIAL CHILDREN
+(CLEFT PALATE)
+Yes
+No
+No
+Children with cleft palate
+Yes
+REFER OTORHINOLARYNGOLOGY (ORL)
+• History
+• General examination
+• Ear, nose & throat examination ± endoscopy
+• Audiological assessment
+OME
+SURGICAL INTERVENTION
+SURGICAL INTERVENTION:
+• Myringotomy with ventilation tube insertion
+• Adenoidectomy (only performed in selected
+cases due to risk of velopharyngeal insufficiency**)
+MULTIDISCIPLINARY
+FOLLOW-UP
+(ORL, AUDIOLOGY,
+SPEECH, PAEDIATRIC
+& PLASTIC)
+NON SURGICAL INTERVENTION:
+• Consider hearing amplification
+**Velopharyngeal
+insufficiency is inability
+to completely close the
+velopharyngeal port
+during speech. This
+results in leakage of air
+into nasal cavity and
+produces hypernasal
+voice resonance and
+nasal air emission.
+Primary care
+Secondary & tertiary care
+Management of Otitis Media with Effusion in Children
+x
+ALGORITHM 3: MANAGEMENT OF OTITIS MEDIA WITH
+EFFUSION (OME) IN SPECIAL CHILDREN
+(DOWN SYNDROME)
+Yes
+No
+No
+Children with Down
+Syndrome (DS)
+Yes
+REFER OTORHINOLARYNGOLOGY (ORL)
+• History
+• General examination
+• Ear, nose & throat examination ± endoscopy
+• Audiological assessment
+OME
+SURGICAL INTERVENTION
+SURGICAL INTERVENTION:
+• Myringotomy with ventilation tube (VT) insertion***
+• Adenoidectomy may be considered in children with
+hypertrophied adenoids
+MULTIDISCIPLINARY
+(ORL, AUDIOLOGY,
+SPEECH, PAEDIATRIC)
+FOLLOW-UP
+NON SURGICAL INTERVENTION:
+• Consider hearing amplification
+Primary care
+Secondary & tertiary care
+Caution: ***Otorrhoea
+following VT
+insertion is
+significantly higher
+in children with DS
+compared to normal
+children. Thus,
+benefits and risks
+need to be weighed
+accordingly.
+Management of Otitis Media with Effusion in Children
+Management of Otitis Media with Effusion in Children
+1. INTRODUCTION
+Otitis media with effusion (OME) is a condition characterised by
+a collection of fluid within the middle ear without signs of acute
+inflammation.
+It is common in young children, with a bimodal peak at two and five
+years of age. Eighty percent of children have at least one episode of
+OME by the age of 10 years.1 In Malaysia, the overall prevalence is
+2.9% with an estimated cases of 761,962.2, level III These figures however
+may not reflect the actual disease burden as confirmatory testing could
+not be done in some children during the field survey. A study among
+preschoolers found that the prevalence rate of OME was 18.3%.3, level IIII
+This disease is also a common ear problem among children especially
+those with craniofacial anomalies including cleft palate and Down
+syndrome (DS). A local study conducted in 1992 showed that the
+incidence of OME in children with cleft palate was 57.6%.4, level III
+OME is known to be a fluctuating condition with symptoms that vary with
+time and age. However, the problem may persist in certain percentage
+of children. The main symptom of OME is impaired hearing.1; 5, level III
+This condition is often underdiagnosed, leading to untreated hearing
+impairment, which can cause speech and language developmental
+delay and poor school performance.6
+While most cases of OME will resolve spontaneously, some children
+will need intervention in the form of educational and social action or
+the provision of hearing aids because of the effects of hearing loss.1
+Long-standing and untreated cases of OME may progress to serious
+conditions such as adhesive otitis media, ossicular chain disruption,
+retraction pockets and cholesteatoma.
+Medical therapy has been widely used to treat the condition although
+evidence-based benefit has yet to be established. Surgical treatment
+options include myringotomy with or without ventilation tube (VT)
+insertion, adenoidectomy or both. Opinions regarding the risks and
+benefits of VT insertion vary and the management of OME therefore
+remains controversial.7, level I; 8, level III
+The need for a local evidence-based CPG is timely due to variation
+in clinical practice, potential negative impact of OME on hearing and
+cognitive function, and to assist healthcare providers in the management
+of this condition.
+Management of Otitis Media with Effusion in Children
+2.
+EPIDEMIOLOGY
+2.1 PREVALENCE
+Prevalence of OME varies between 6.5% to 10.9% among children
+in different countries.9, level II-2; 10, level III; 11, level II-3 Approximately 90% of
+children have OME at some time before school age, most often between
+six months and four years of age.12, level III
+In Malaysia, findings from the National Hearing Survey for hearing and
+ear disorder in 2005 showed that the prevalence of OME was 5.1% in
+general population, 2.9% in children below ten years old and 2.6% in
+children aged 10 to 19 years.2, level III These findings may not reflect the
+actual prevalence of OME in children as the survey was conducted on
+general population including adults. A study by A. Saim et al. reported
+a OME prevalence of 13.8% among preschool children; it was higher
+in Kuala Lumpur (17.9%) compared to the district of Kuala Selangor
+(9.5%).3, level III Both studies reported higher prevalence among the
+Malays and other Bumiputera as compared to the Chinese and Indians
+communities.2 - 3, level III
+2.2 RISK FACTORS
+Significant non-medical risk factors for OME includes age (p<0.005),
+family size (p<0.01), sibling’s history of OME (p<0.05), duration of
+breast feeding (p<0.05), season (autumn/winter/spring) (p<0.001),
+frequent swimming (p=0.034), and passive smoking (OR=1.46, 95%
+CI 1.21 to 1.76) after adjustment for nasal infection.9, level II-2; 10, level III;
+13 - 14, level II-2; 15, level III However, gender and birth weight are not related to
+OME incidence.14, level II-2
+Significant medical risk factors are previous acute otitis media (AOM)
+episodes (OR=5.75, 95% CI 2.60 to 12.69), nasal obstruction (OR=1.67,
+95% CI 1.01 to 2.75) and acute tonsillitis (OR=1.68, 95% CI 1.00 to
+2.80).16, level II-2
+Children with unilateral cleft lip and palate (CLP) demonstrate higher
+prevalence of OME (74.7%) than those without cleft palate anomalies
+(19.4%) with p<0.001.17, level II-2
+The prevalence of OME (based on otoscopy, tympanometry and ageappropriate audiometry) among children with DS range from 92% at
+age one to 73% at age five to six18, level III and 59% at age three.19, level III
+Management of Otitis Media with Effusion in Children
+In a local cohort study conducted in University Malaya Medical Centre
+among children with DS, 55% had type B tympanogram which reflected
+presence of OME.20, level II-2 Another recent local study from Universiti
+Kebangsaan Malaysia Medical Centre found that out of a total of 224
+DS children aged two months to 12 years old (mean 5.7 years), 71.4%
+had conductive hearing loss (CHL), 16.1% sensori-neural hearing loss
+(SNHL), 2.7% mixed hearing loss and 9.6% normal hearing. A total of
+156 (69.6%) study subjects had type B tympanogram.21, level III
+Other risk factors such as race, obesity, allergy and day care attendance
+show inconsistent relationship with OME.9, level II-2; 13 - 14. level II-2; 22 - 23, level II-2
+Risk factors for developing OME
+•
+Non-medical risk factors:
+Ø young age (two to five years old)
+Ø large family size
+Ø history of OME in sibling
+Ø short duration or no
+breast feeding
+Ø passive smoking
+•
+Medical risk factors:
+Ø history of AOM
+Ø nasal obstruction
+Ø history of acute tonsillitis
+Ø craniofacial anomalies
+such as CLP and DS
+Management of Otitis Media with Effusion in Children
+3.
+SCREENING
+As hearing loss is one of the disabilities caused by OME, hearing
+screening may play a role in detecting OME in children. However
+to date, no study have been identified on the role of opportunistic
+screening of OME and CHL in primary care. This is due to variation in
+timing of screening and screening algorithm such as age at testing,
+choice and combination of screening tools, type and training of the
+tester, setting, location, failure criteria, frequency and interval of
+retest.1; 6; 8, level III; 12, level III; 24, level II-2
+Population-based screening for early detection of OME in asymptomatic
+children has not been shown to improve outcomes in terms of
+intelligence, receptive language or expressive language and thus has
+not been recommended.8, level III; 12, level III; 14, level III; 24, level II-2
+•
+Screening for OME in general paediatric population is not
+recommended.
+•
+Hearing assessment should be emphasised in the existing routine
+child developmental assessment to detect hearing loss.
+•
+Hearing assessment may include distraction test, auditory and
+speech development (refer to Appendix 3), and otoacoustic
+emission.
+Recommendation 1
+•
+Otitis media with effusion should be ruled out in a child suspected
+of hearing loss. (Grade C)
+Management of Otitis Media with Effusion in Children
+4.
+CLINICAL PRESENTATION
+Most children have middle ear effusions at some time during childhood
+which are transient and often asymptomatic with fluctuating hearing
+loss.1; 6
+4.1 SYMPTOMS
+Hearing impairment is the commonest presentation (90%) of OME
+at home or in school. The hearing impairment is of conductive type.
+Common associated presentations are otalgia (60%), upper respiratory
+tract infection/URTI (40%), AOM (30%) and tonsillitis (18%).25, level III
+In children with OME, reasons for referral to hospital are speech
+problems (43%), hearing loss (41%) and speech delay (11%).26, level II-3
+OME is an important cause of preventable hearing loss (57.1%), as
+compared to chronic suppurative otitis media (CSOM) and AOM (33.8%
+and 9.1% respectively).27, level III Hearing loss in children with OME may
+impair language and cognitive development. However, retrieved studies
+showed conflicting outcomes between OME and speech and language
+development.
+A meta-analysis of cohort studies evaluated the association of early OME
+on various aspects of speech and language. Receptive and expressive
+language at preschool age (two to five years) were significantly better
+in controls than in children with OME.28, level II-2
+Two papers showed harmful effects of OME on language development
+and academic performance. A study among urban Australian Aborigines
+with OME and hearing loss demonstrated a deleterious effect on
+the development of phonological awareness, reading and spelling
+performance in year one schooling (p<0.01).29, level II-2 A local study by
+Khairi M et al. showed that poor academic performance was associated
+with mild hearing loss (p<0.001). OME accounted for 32.2% of the mild
+hearing loss group.30, level III
+However, other studies showed no association between hearing
+loss due to OME and speech and language parameters in preschool
+children (p=0.67)31, level II-2 or language development in the early school
+years (p<0.10).32, level II-2 Roberts JE et al. similarly found no evidence
+of OME on later language, cognitive and academic performance during
+elementary school years.33, level II-2 ; 34, level II-3
+Management of Otitis Media with Effusion in Children
+Hooper et al. in their paper noted no association between children
+with OME-related hearing loss and attention outcomes. Further
+subanalysis showed those from poor home environments experienced
+greater difficulties on the attention tasks than those from good home
+environments (p<0.05).35, level II-2 OME is a common cause of failed
+newborn hearing screening (64.5%).36, level II-2
+Balance-related symptom often encountered in young children may
+result from chronic OME and this symptoms resolve following ventilation
+of the middle ear. In Bruininks-Oseretsky tests for stability, 61% of
+the study group performed below the expected scores for their age
+as compared to 7% of the controls (p<0.001). A difference was found
+between the results obtained before and after VT insertion in the tests
+(p<0.001).37, level II-2 The presence of fluid in the middle ear impairs the
+condition of the balance system in children. Postural stability and the
+quantity of vestibulospinal reflexes seem to depend on the functional
+condition of the middle ear.38, level II-2
+Allergic symptoms are not associated significantly with OME in children
+aged six to seven years, suggesting limited effect of allergy in the
+pathogenesis of OME in this age group.39, level II-2
+Recommendation 2
+•
+Otitis media with effusion (OME) should be ruled out in a child with
+any of the following symptoms:
+Ø hearing impairment
+Ø speech or language delay
+Ø associated presentation such as recurrent otalgia, upper
+respiratory tract infection or acute otitis media
+Ø poor school performance
+Ø lack of concentration or attention
+Ø balance difficulties (Grade C)
+4.2 OTOSCOPIC FINDINGS
+Normal otoscopy appearance showed pearly tympanic membrane (TM)
+with cone of light and normal position of handle of malleus (refer to
+Appendix 4).
+The typical finding in OME is a dull TM due to distortion or loss of cone
+of light following retraction of the TM. The retraction of TM is mainly
+in the pars tensa with or without pars flaccida (attic or epitympanum)
+retraction. The other findings are the presence of fluid level and/or air
+bubble in the middle ear, variation in TM colour and immobility of TM on
+pneumatic otoscopy (refer to Appendix 4).
+Management of Otitis Media with Effusion in Children
+Retraction may be evident by indrawing handle of malleus or the
+presence of prominent annular fold. Colour changes can be yellow,
+amber or blue. Fluid level or air bubble is relatively uncommon.40, level III
+Opacity (p=0.001) and retraction (p=0.018) are the two characteristics
+of abnormal TM associated with elevated hearing threshold in
+OME.5, level III
+•
+Otoscopic findings of OME:-
+Ø dull TM
+Ø retraction of TM
+Ø fluid level or air bubble
+Ø TM colour changes
+Differences in clinical features and otoscopic findings between OME
+and other common middle ear diseases such as acute otitis media
+(AOM) and chronic suppurative otitis media (CSOM) are illustrated in
+table below.
+Table 1: Clinical Features In Middle Ear Diseases
+4.3 PARENTAL SUSPICION
+Parental suspicion of hearing loss has a low sensitivity (19.7%) and
+high specificity (97.0%), thus it is insufficient as a screening tool for the
+diagnosis of mild hearing loss caused by OME.41, level II-2
+Clinical
+Features
+Pain Fever Otorrhoea Otoscopic findings
+Disease
+No
+(unless
+with
+secondary
+infection)
+Yes
+No
+No
+OME
+Acute otitis
+media (AOM)
+Chronic
+suppurative
+otitis media
+(CSOM)
+Cholestetoma
+(URGENT
+REFERRAL)
+No
+Yes
+No
+No
+No
+Yes
+Yes
+Yes
+(scanty,
+foul
+smelling,
+persistent)
+• dull tympanic
+membrane (TM)
+• retraction of TM
+• fluid level or air bubble
+• TM colour change
+• restricted TM mobility with
+pneumatic otoscopy
+• bulging TM
+• inflammed TM
+• perforated TM
+• mucopurulent
+discharge
+• attic or marginal
+perforation of
+tympanic membrane
+• presence of
+keratin debris
+Management of Otitis Media with Effusion in Children
+5. DIAGNOSTIC TESTS
+A few methods have been used for the diagnosis of OME which include
+pneumatic otoscopy, tympanometry as well as acoustic stapedial reflex
+testing, otoacoutic emission and audiometry testing.
+Rinne and Weber tuning fork tests have variable sensitivity and
+specificity in predicting conductive hearing loss associated with OME
+in children less than 12 years of age. This is due to children being
+less likely than adults to understand and complete the tuning fork
+tests.42, level III
+The presence of effusion during myringotomy was used as a gold
+standard in the majority of studies in determining the test performance of
+each diagnostic tool.43, level III; 44, level II-2; 45 - 47, level III; 48, level II-2 The sensitivity
+and specificity of each diagnostic tool were assessed.
+5.1 OTOSCOPY
+There is no retrievable evidence on the use of clinical otoscopy alone
+(without pneumatic component) in diagnosing OME in children. SIGN
+found no evidence on the most commonly used primary care diagnostic
+tool otoscopy (with or without tuning fork testing).6 National Institute
+of Clinical Excellence (NICE) recommends otoscopy as part of clinical
+examination.1
+5.2 PNEUMATIC OTOSCOPY
+Pneumatic otoscopy is used to determine the appearance and mobility
+of the TM. It measures the mobility of TM by applying a positive and
+negative pressure through a pneumatic bulb that attaches to a standard
+otoscope.
+A meta-analysis of cohort studies assessed the sensitivity and specificity
+of pneumatic otoscopy in predicting the presence of OME by comparing
+its outcomes with those of myringotomy. The results indicated that
+pneumatic otoscopy had a sensitivity of 94% (95% CI 92 to 96) and
+specificity of 80% (95% CI 75 to 86).49, level II-2 In another study on a
+group of children aged one to ten years seeking medical treatment for
+suspected OME, the sensitivity and specificity of pneumatic otoscopy
+were 85% and 100% respectively. A similar study done among the
+Australian Aboriginal children revealed a sensitivity of 89% and a
+specificity of 69%.50, level III
+Management of Otitis Media with Effusion in Children
+Rogers et al. found that the test performance of pneumatic otoscopy
+are related to examiner’s experience. In this study, the sensitivity
+and specificity of pneumatic otoscopy performed by staff pediatric
+otolaryngologist were 68% (95% CI 58 to 78) and 81% (95% CI 74 to
+89) respectively as compared to 58% (95% CI 47 to 69) and 78% (95%
+CI 70 to 86) when performed by junior resident.43, level III
+Earlier, Takahashi H et al. found that the aeration was correlated with
+the eardrum mobility (p<0.01). These results indicate that eardrum
+mobility was a good prognostic indicator of OME and best detected
+using pneumatic otoscopy.51, level II-2
+Accuracy on the pneumatic otoscopy test was noted uniformly greater
+than accuracy with static test (otoscopy alone). The mean relative
+improvement in sensitivity and specificity from static viewing to pneumatic
+viewing were only 24% (95% CI 15% to 33%) and 42% (95% CI 27%
+to 58%) respectively. Accurate identification of both the presence and
+the absence of OME improved after pneumatic assessment of TM
+mobility.52, level I
+5.3 ACOUSTIC IMMITTANCE MEASURES
+Acoustic immittance measurement is an objective technique of assessing
+the integrity and function of the peripheral auditory mechanism.
+Two commonly used acoustic immittance measures in clinical practice
+are tympanometry and acoustic stapedial reflex (ASR). Both tests offer
+a quick and objective assessment. They are routinely used to assess
+the status of the TM and middle ear system. In addition, these two tests
+have proven reliable measures for diagnosing middle ear pathologies
+in children and adults.53, level III
+Conventional tympanometry and ASR tests (probe tone of 226 Hz)
+have become the standard practice in audiology clinics. However, the
+use of 226 Hz tympanometry is not recommended in infants aged less
+than seven months. In testing the middle ear function of young infants,
+a high frequency probe tone tympanometry (probe tone of 678 Hz
+and 1000 Hz) is recommended.54, level III This is because the infant’s
+middle ear has a lower resonant frequency compared to older age
+group.55, level III
+Management of Otitis Media with Effusion in Children
+5.3.1
+Tympanometry
+Tympanometry is an objective test to measure acoustic admittance of
+the middle ear as a function of air pressure change in the external ear
+canal.56, level III It consists of the application of a probe tone of 226 Hz
+while the air pressure is changed within the ear canal. The resulting
+display is called a tympanogram which shows a variation of acoustic
+admittance against ear canal pressure.
+Descriptions of the three common types of tympanogram are provided
+in Appendix 5.
+A. Conventional (226 Hz) Tympanometry
+Tympanometry with a frequency of 226 Hz was found to have high
+sensitivity and specificity in detecting OME in children aged one to ten
+years compared to higher frequency tympanometry. The results of 226
+Hz tympanometry revealed a sensitivity of 80% and a specificity of
+100%. Although the sensitivity for 678 Hz and 1000 Hz was high (95%
+and 100% respectively), the specificity for both frequencies was low at
+54%.45, level III
+In a multi-centre study involving 2,087 children, the sensitivity and
+specificity of Type B and Type C2 tympanograms were investigated
+against various level of hearing (≥15 dB HL, ≥20 dB HL, ≥25 dB HL
+and ≥30 dB HL). The best combination to predict presence of OME
+with sensitivity and specificity of 81% was hearing level of ≥20 dB HL
+and Type B. However at the same hearing level, the inclusion of Type
+C2 increased the sensitivity to 92% but reduced the specificity to
+54%.57, level II-1 Another study showed the sensitivity and specificity of Type
+B at hearing level of ≥25 dB HL were 90% and 68% respectively.50, level III
+Using myringotomy as the gold standard, Nozza et al. found that the
+best tympanometric variable for detecting OME was tympanometric
+width >275 daPa as a fail criterion. The sensitivity and specificity of
+these diagnostic criteria were in the range of 78 - 89% and 81 - 100%
+respectively.47, level III In another study, the same authors found that
+using gradient of ≤0.1 and absent ASR provide the best combination for
+identifying OME with a sensitivity of 90% and a specificity of 86%.48, level II-2
+Management of Otitis Media with Effusion in Children
+B. High Frequency Tympanometry
+i. 678 Hz Tympanometry
+The use of 678 Hz tympanometry in cleft palate children aged between
+two and seven months demonstrated an agreement between Type B
+tympanogram and myringotomy findings in 96.3% of cases.58, level III
+In a study conducted among 84 special care nursery neonates, 678
+Hz tympanometry was found to be a useful diagnostic tool to measure
+the middle ear status in this group of children. Abnormal 678 Hz
+tympanograms was associated with failed transient evoked otoacoustic
+emission (p<0.0001) and absence of ipsilateral ASR (p=0.0002).59, level III
+ii. 1000 Hz Tympanometry
+Williams et al. compared tympanometry findings obtained using three
+different frequency probe tones in infants less than four months of
+age with otomicroscopy and pneumatic otoscopy results as the gold
+standard. The 1000 Hz tympanometry had the best agreement (κ=0.48
+to 0.66) with the gold standard as compared to 678 Hz (κ=0.37 to 0.49)
+and 226 Hz (κ=0.11 to 0.23).60, level III
+A study involving 52 infants with OME found that the agreement
+between computed tomography (CT) scan and 1000 Hz tympanometry
+was almost perfect (κ=0.961) while the agreement between CT and
+226 Hz was poor (κ=0.103).61, level III
+5.3.2
+Acoustic Stapedial Reflex
+The Acoustic Stapedial Reflex (ASR) test is usually performed following
+tympanometry to assess the function of the ear up to the brainstem
+region. This test involves the presentation of tonal and/or noise stimuli
+to elicit a reflex response from the stapedius muscle in the middle
+ear.62, level III
+Absent of ipsilateral ASR is associated with abnormal 678 Hz
+tympanograms (p=0.0002) in detecting presence of OME in
+neonates.59, level III
+The sensitivity of ASR is 88% when compared with both myringotomy
+and pneumatic otoscopy. While its specificity is 85% when compared
+with myringotomy and 82% with pneumatic otoscopy.48, level II-2
+Management of Otitis Media with Effusion in Children
+•
+Type B tympanogram is highly suggestive of OME.
+•
+Type C2 tympanogram combined with absence of ASR may also
+suggest OME.
+5.4 PURE TONE AUDIOMETRY
+Pure Tone Audiometry (PTA) is a behavioural test which is commonly
+used to establish hearing threshold across the range of audible
+frequencies. The results are plotted in a frequency vs intensity graph
+known as an audiogram. Description on the audiogram pattern is
+provided in Appendix 5.
+In children referred for suspected OME, an association was found
+between PTA hearing thresholds and TM appearance obtained using
+pneumatic otoscopy. The mean PTA of patients with OME and bubble
+was lower than those without bubble (27.3 vs 37.4 dB HL, p=0.001).5, level III
+In a study measuring PTA and 226 Hz tympanometry on subjects
+diagnosed with persistent OME, the mean six frequencies of PTA air
+conduction threshold (PTACT) was found to be greater in ears with
+Type B tympanogram than those with Type A tympanogram (29.3 dB
+HL vs 11.5 dB HL, p<0.001).63, level III
+5.5 OTOACOUSTIC EMISSIONS
+Otoacoustic emissions (OAEs) are sounds generated from the cochlea
+which can be recorded by a microphone fitted into the ear canal.
+Hence, this test is commonly used to determine cochlear status. In
+clinical setting, two types of acoustic stimuli are given to evoke the
+OAEs, which are transient evoked otoacoustic emissions (TEOAEs)
+and distortion product otoacoustic emissions (DPOAEs).
+As OAEs are transmitted from the cochlea to the external ear canal via
+the middle ear, the condition of middle ear system directly influence
+the OAEs findings. Therefore, presence of effusion in the middle ear is
+associated with absent OAEs. Other cause of absence OAE is SNHL.
+In two studies, high failure rates of OAEs were found in cases of
+abnormal tympanograms. TEOAEs were absent in 93.5% of children
+diagnosed with OME pre-operatively. Improvement of all TEOAEs
+parameters were found six weeks (p<0.01) and six months (p<0.01)
+post-operatively.44, level II-3 An association between TEOAEs failure and
+abnormal tympanogram was noted in a group of special care neonates
+(p<0.0001).59, level III
+Management of Otitis Media with Effusion in Children
+Recommendation 3
+•
+Otoscopy should be performed in suspected cases of otitis media
+with effusion (OME). Pneumatic otoscopy is preferred and should
+be made widely available. (Grade C)
+•
+In all suspected cases of OME in places with trained personnel, the
+following tests should be performed:
+Ø Tympanometry (in infant less than seven months, high frequency
+tympanometry [678 Hz or 1000 Hz] should be used if available).
+(Grade C)
+Ø Pure Tone Audiometry (measurement of both air and bone
+conduction thresholds). (Grade C)
+Management of Otitis Media with Effusion in Children
+6.
+PREVENTIVE MEASURES
+There are very few studies on prevention of OME in children.
+These studies are limited to the role of pneumococcal and influenza
+vaccination.
+Two randomised controlled trials (RCTs) found that pneumococcal
+vaccination did not protect children against OME (OR=0.90, 95% CI
+0.69 to 1.19).64 - 65, level I It also did not prevent recurrence of OME in
+those previously known to have persistent OME (RR=0.91, 95%CI 0.60
+to 1.38).66, level I A subgroup analysis suggested benefit in children who
+had not been exposed earlier to the infection such as children with no
+older siblings (OR=0.58, 95%CI 0.38 to 0.91).65, level I
+The role of influenza vaccine was studied in two prospective cohort
+studies. These studies which were conducted among young children
+attending day-care in temperate regions found that influenza vaccine
+was significantly effective in reducing OME episodes especially during
+influenza season.67 - 68, level II-2 The effectiveness of the vaccine in tropical
+climate like Malaysia (where influenza season is not clearly identified)
+has not been studied. In addition, influenza vaccination requires yearly
+injection (to remain effective) and its cost-effectiveness locally need to
+be studied.
+•
+Pneumococcal vaccination has no role in preventing otitis media
+with effusion (OME) as opposed to acute otitis media. Influenza
+vaccination is effective in preventing OME in temperate countries.
+Avoidance of known risk factors such as passive smoking and bottle
+feeding could theoretically reduce the risk of developing OME. A
+meta-analysis of epidemiological studies found that passive smoking
+increased risk of middle ear disease by 35% (OR=1.35, 95% CI 1.23
+to 1.49) for household smoking and 46% (OR=1.46, 95% CI 1.21 to
+1.76) for maternal smoking.69, level II-2 Formula-fed infants have 2-fold
+increase risk of first OME compared with infants breastfed for six
+months (RR=2.06, 95% CI 1.01 to 4.18).70, level II-2 Although there is no
+direct evidence on modification to the above risk factors in reducing
+OME, breastfeeding and avoidance of passive smoking in children are
+advocated.
+A cross-sectional study found that the risk of developing OME reduced
+by 40% in those taking regular chewing gums (OR=0.60, 95% CI 0.39
+to 0.93).71, level III However, no further studies were identified to support
+this finding.
+Management of Otitis Media with Effusion in Children
+Recommendation 4
+• Parents should be informed that breastfeeding for six months may
+reduce the risk of otitis media with effusion (OME) in their children.
+(Grade C)
+• Parents should be advised that smoking may increase the risk of
+middle ear disease. (Grade C)
+Management of Otitis Media with Effusion in Children
+7.
+ACTIVE OBSERVATION
+A systematic review (SR) examined the natural history and spontaneous
+resolution of OME in children. In children with newly diagnosed OME
+of unknown duration, the study found cumulative resolution rates of
+56%, 72% and 81% at three, six and nine months respectively (using
+resolution criterion as change of tympanogram from type B to non-B).
+Lower resolution rates were also noted using other criteria for resolution.
+In contrast, children with documented chronic (defined as >3 months)
+bilateral OME had much lower resolution rates (19%, 25% and 31% at
+three, six and twelve months respectively).72, level II-2
+A few RCTs examined the role of early vs delayed VT insertion. Some
+of the trials involving children with persistent but uncomplicated OME
+found prompt insertion of ventilation tube (VT) as compared to delayed
+insertion (nine months) did not measurably improve speech, language,
+cognition and psychosocial developmental outcomes.73 - 77, level I
+However, two trials conducted in more severely affected children
+[bilateral OME and significant hearing loss (25 - 75 dB) for >3 months]
+found some benefits from early VT insertion for expressive language,
+verbal comprehension and behavioural problems.78 - 79, level I The subtle
+benefits appeared to persist up to age seven to eight years.80, level I
+A period of continued observation will allow resolution of many cases
+of OME without the need for surgical intervention. During this period,
+parents and caregivers should be given advice on strategies to limit the
+effects of hearing loss in the child.6; 8, level III
+Active observation is a period whereby patient is being observed for
+three months following diagnosis prior to surgical intervention.
+Advice on educational and behavioural strategies to minimise
+impact of hearing loss during active observation:-6; 8, level III
+•
+Face the child when speaking
+•
+Get the child’s attention before starting to talk
+•
+Reduce background noise to the minimal
+•
+Speak clearly with normal rhythm and volume; use visual cues
+(such as hands and pictures) in addition to speech
+•
+Read to or with the child (explain pictures and ask questions)
+•
+Repeat words, phrases, and questions when misunderstood
+•
+In the classroom, the child should preferably be seated in the
+front row or near the teacher
+Management of Otitis Media with Effusion in Children
+Recommendation 5
+•
+Children with newly diagnosed otitis media with effusion (OME)
+should undergo active observation for at least three months from
+the time of diagnosis as spontaneous resolution of OME may occur.
+(Grade A)
+Ø Specific advice* to improve communication should be offered.
+(Grade C)
+•
+Children with documented persistent OME (>3 months) and hearing
+loss should be considered for surgical intervention. (Grade B)
+* Refer to yellow box above
+Management of Otitis Media with Effusion in Children
+8.
+INTERVENTION
+Interventions in OME management consist of non-surgical and surgical
+interventions.
+8.1 NON-SURGICAL INTERVENTION
+OME is a common condition in children which is usually mild
+with spontaneous resolution occuring in 56% of cases at three
+months.72, level II-2 However, it can be recurrent and persistent after that.
+Non-surgical intervention is beneficial if it could speed the resolution
+of an episode of OME. Medical therapy has been commonly used in
+the practice as the first-line treatment with variation in the treatment of
+choice.
+8.1.1 Steroids
+Topical intranasal steroid is beneficial either alone or with antibiotic
+in treating OME at one month. At three months, there is conflicting
+evidence in its effectiveness. However, the findings are not statistically
+significant.81 - 82, level I
+In a RCT on patients with OME and adenoid hypertrophy, intranasal
+steroid spray was found to be effective at six weeks (p<0.001).83, level I
+A Cochrane review showed faster resolution of OME when oral steroid
+was used alone (OR=0.22, 95% CI 0.08 to 0.63) or in combination
+with an antibiotic (OR=0.37, 95% CI 0.25 to 0.56) at two weeks when
+compared to control. No evidence of benefit beyond two weeks of
+treatment was noted.82, level I
+In another RCT, no difference was demonstrated in the resolution rates
+of OME at three months follow-up between steroid, antihistamine and
+antibiotic alone or in combination (p>0.05).84, level I
+No significant or lasting adverse events have been reported on topical
+intranasal or short term oral steroid use.81 - 82, level I However, prolonged
+use of oral steroid may lead to adverse side effects such as growth
+retardation.
+Refer to Appendix 6 for suggested medication dosages and side
+effects.
+Management of Otitis Media with Effusion in Children
+•
+Intranasal steroid should not be used for children less than two
+years old.
+8.1.2
+Antibiotics
+Use of antibiotics leads to significantly lower rates in persistent OME in
+both ears and one or both ears in the antibiotic group (53% and 77%)
+compared to the controls (84% and 93%) after two weeks of followup.85, level I
+However, a meta-analysis of 16 RCTs failed to support the continued
+use of antibiotics in the treatment of OME. Placebo-controlled trials did
+not show antibiotic efficacy (RD=0.043, 95% CI -0.001 to 0.086).86, level I
+Short term use of antibiotics with oral steroid led to a faster resolution
+of OME as compared to antibiotic alone (OR=0.37, 95% CI 0.25 to
+0.56).82, level I
+Both NICE and SIGN guidelines do not recommend the use of antibiotics
+in children with OME.1; 6
+8.1.3 Antihistamine or Decongestant
+As OME may occur with allergic rhinitis, antihistamine and decongestant
+are widely used as symptomatic treatment in children with OME in the
+local practice.
+However, a Cochrane SR in 2006 on children with OME showed no
+benefit of its use:87, level I
+• Decongestant alone did not resolve OME at one month or less
+(RR=1.06, 95% CI 0.92 to 1.22).
+•
+Antihistamine or combination with decongestant up to three
+months also did not resolve OME compared to placebo with
+RR=0.94 (95% CI 0.65 to 1.36) and 0.97 (95% CI 0.89 to 1.04)
+respectively.
+•
+Neither antihistamine, decongestant nor the combination
+treatment lessened hearing loss at one month (RR=1.08, 95%
+CI 0.93 to 1.27) or one year (RR=1.50, 95% CI 0.63 to 3.56). All
+the treatment groups reported more side effects at or before one
+month (RR=2.70, 95% CI 1.37 to 1.88).
+An update of the above review in 2011 showed no statistical or clinical
+benefit on the use of antihistamine or decongestant.88, level I
+Management of Otitis Media with Effusion in Children
+Both NICE and SIGN guidelines do not recommend use of antihistamine
+and decongestant in children with OME.1; 6
+•
+Continuous use of topical intranasal decongestant more than two
+weeks may lead to rhinitis medicamentosa.
+8.1.4
+Autoinflation
+A SR on autoinflation in children with OME showed no improvement in
+tympanometry and audiometry outcomes:89, level I
+•
+Tympanometry at less than one month (RRI=1.65, 95% CI 0.49
+to 5.61) or longer than one month (RRI=1.89, 95% CI 0.77 to
+4.67)
+•
+Audiometry (WMD=7.02, 95% CI -6.92 to 20.96)
+8.1.5 Homeopathy and Mucolytic
+There is no good quality evidence for homeopathy and bromhexine in
+children with OME.
+8.1.6 Hearing Aid
+Hearing aid is an option to amplify hearing in OME. It is generally
+acceptable to parents and children as it provides a non-invasive way
+of managing the problems associated with OME.90 - 91, level III However,
+there is no evidence to support its use as the first line of treatment in
+children with OME.
+Hearing aid should be offered to children with persistent bilateral OME
+and hearing loss as an alternative to surgical intervention where surgery
+is contraindicated or not acceptable.1 However, potential noise trauma
+is the main concern associated with continuous use after resolution of
+OME.92, level III
+•
+There is no role of topical ear drops in treating otitis media with
+effusion (OME).
+Management of Otitis Media with Effusion in Children
+Recommendation 6
+•
+Short term (less than six weeks) intranasal steroid can be used for
+otitis media with effusion (OME) with concurrent allergic rhinitis and
+adenoid hypertrophy. (Grade A)
+•
+In children with OME, the following treatment is not recommended:
+Ø oral steroid (Grade A)
+Ø prolonged intranasal steroid (Grade A)
+Ø antibiotic (Grade A)
+Ø antihistamine or decongestant (Grade A)
+Ø autoinflation (Grade A)
+Ø homeopathy and mucolytic (Grade C)
+•
+Hearing aids may be considered in persistent bilateral OME and
+hearing loss where surgery is contraindicated or not acceptable.
+(Grade C)
+8.2 SURGICAL INTERVENTION
+The main reason for considering surgery in OME is persistence of
+hearing loss. It is conducted to improve hearing and minimise the risk
+of OME recurrence.
+The mainstay of surgical intervention is myringotomy with VT insertion
+to ventilate the middle ear. This will lead to normalisation of middle
+ear pressure. The choice of surgical intervention must be balanced
+between its risks and benefits.
+Certain medical diseases such as bleeding disorder and other medical
+conditions which render patient unfit for general anaesthesia should be
+ascertained prior to surgery.
+8.2.1 Timing of Surgical Intervention
+OME exhibits a fluctuating pattern in its presentation and a number
+of cases will resolve spontaneously. The duration of the disease at
+first presentation is often uncertain. Thus, the decision for surgical
+intervention in OME is based on several factors such as duration of
+disease and presence of structural or functional complication.
+Different guidelines and studies vary in their recommendations on
+timing of surgical intervention. Waiting time of three to six months
+before the intervention on persistent disease with hearing impairment
+of more than 25 dB or structural changes to the tympanic membrane is
+recommended.1; 8, level III; 93, level III; 94, level II-2
+Management of Otitis Media with Effusion in Children
+In children with significant hearing loss (>25 dB for three months or
+more), there is some benefit from VT insertion in expressive language,
+verbal comprehension and behavioural problems.78 - 79, level I
+Recommendation 7
+•
+Surgical intervention should be considered after three months of
+persistent otitis media with effusion with:
+Ø hearing loss >25 dB (at three frequency average) (Grade A)
+AND/OR
+Ø *structural changes to the tympanic membrane or middle ear.
+(Grade C)
+* Refer to Appendix 4
+8.2.2 Options of Surgical Intervention
+A. Myringotomy
+There is no retrievable evidence on myringotomy alone in the
+management of OME.
+B. Myringotomy with VT
+VT improves the hearing level in persistent bilateral OME. The effect
+of VT on hearing is significantly improved by 9 - 10 dB in the first six
+months compared to watchful waiting (WW) and diminishes but remains
+significance after this period.95 - 97, level I The improvement in hearing is
+greater in those with hearing threshold of >25 dB compared to <25
+dB.98, level I
+Patients with VT have shorter mean time with effusion (p=0.0001)98, level l
+and fewer bilateral OME in all visits97, level I up to 12 months of follow-up
+compared to WW group.
+Improvement in hearing level in children with VT is better in those aged
+≤3 years attending day-care and those aged ≥4 years with a hearing
+level of ≥25 dBHL in both ears persisting for at least 12 weeks.98, level I
+There is no statistically significant difference in developmental outcomes
+such as language, cognitive, behaviour and quality of life in VT insertion
+compared with WW.95 - 96, level I
+The percentage of functioning VT in situ reduce over time from 92%
+to 30% (from three to 12 months follow-up).97, level I PhosphorylcholineManagement of Otitis Media with Effusion in Children
+coated fluoroplastic VT do not offer any advantages over uncoated
+standard fluoroplastic tympanostomy tubes.99, level I
+Repeated VT insertion for recurrent AOM or OME early in life will not be
+detrimental in the long-term hearing outcome.100, level II-2
+C. Myringotomy with VT plus adenoidectomy
+Adjuvant adenoidectomy along with VT insertion is routinely performed
+in many countries including Malaysia for recurrent episodes of OME
+and chronic persistent OME.
+The benefit of adenoidectomy in reducing the recurrent AOM or
+persistent OME was found in patients with hypertrophied adenoids
+abutting the torus tobaris (p<0.05). However, adenoidectomy had no
+significant benefit in the nonabutting group.101, level I A cohort study
+showed that VT with adenoidectomy or adenotonsillectomy reduced
+risk of further VT surgery (p<0.001)102, level II-2
+A meta-analyses showed that VT alone gave 6 to 9 dB hearing
+improvement compared to an additional of 1 to 4 dB in VT with
+adenoidectomy.96, level I
+Adenoidectomy in young children aged 24 - 47 months does not add
+any further benefit in the reduction of OME recurrence and average
+rates of AOM or otorrhoea episodes, and requirement of additional
+surgical procedure.103, level I
+D. Long-term VT
+Long-term VT may be indicated when short term VT and additional
+measures such as adenoidectomy to improve eustachian tube function
+fail. It should be used in selective and individualised basis as the rate of
+complications such as recurrent otorrhoea and persistent perforation is
+high.104 - 105, level III A meta analysis of cohort studies showed that longterm tube increased the risk of perforation (RR=3.5, 95% CI 1.5 to 7.1)
+and cholestetoma (RR=2.6, 95% CI 1.5 to 4.4) compared to short term
+tube.106, level II-2
+E. Other options
+Laser myringotomy is a safe method to treat chronic OME in children
+and can be performed under local anaesthesia. However, laser
+myringotomy alone is a less effective treatment than myringotomy with
+VT.107, level I
+Management of Otitis Media with Effusion in Children
+Refer to Appendix 7 on Advice to Parents of Children Post-Ventilation
+Tube
+Recommendation 8
+•
+Myringotomy with ventilation tube (VT) insertion is the treatment of
+choice for surgical treatment in otitis media with effusion (OME).
+(Grade A)
+•
+Myringotomy with VT insertion combined with adenoidectomy should
+be considered in children with persistent OME and hypertrophied
+adenoids abutting the torus tobaris. (Grade A)
+8.3 COMPLICATIONS OF VENTILATION TUBE INSERTION
+Complications of VT can be divided into early and late complications.
+8.3.1
+Early Complications
+The prevalence of otorrhoea is 4.9% to 15% in children less than 13
+years of age with myringotomy and VT.108, level III; 109, level II-2
+Another complication with myringotomy and VT is OME recurrence
+which has a prevalence of 11.2%.108, level III This complication is related
+to extrusion time of VT. The longer the extrusion time, the lower is
+the recurrence rate. The rate is 36.5% in group with retention time <6
+months, compared to 17.7% in 6 - 12 months group (p=0.02) and 9.1%
+in >12 months group (p=0.001).110, level III
+8.3.2
+Long-Term Complications
+The prevalence of myringosclerosis is 32.3% in children aged 3 to 16
+years. Initial age of VT insertion and gender are not significant factors
+for the development of myringosclerosis after extrusion of VT.110, level III
+VT increases the prevalence of myringosclerosis and late
+atrophy109, level II-2; 111, level II-2 but these do not significantly affect
+hearing.112, level II-1 Frequency of VT insertion is associated with
+increased prevalence of myringosclerosis, retraction pocket and
+negative tympanometric peak pressure (p=0.002, p=0.01, and p=0.008
+respectively). However, the sequalae of VT such as myringosclerosis,
+atrophy, TM perforation and hearing loss typically developed
+earlier rather than later in disease and its treatment.111, level II-2
+Management of Otitis Media with Effusion in Children
+Following VT extrusion, the prevalence of residual TM perforation is
+only 1.7% to 3.0%.100, level II-1; 108, level III; 111, level II-2 In a study of 78 children
+aged 2 to 10 years with myringotomy and VT, the prevalence of lateonset otorrhea was 16.1%.108, level III Intra-operative saline irrigation of
+the middle ear has been described in a study as an effective mean in
+preventing post-operative purulent otorrhea (p<0.005).113, level I However,
+this is not practiced in local setting.
+•
+Recurrence of OME is part of the disease process which may occur
+at any point of time and not a complication of VT insertion.
+•
+Advices to patients post-VT insertion:-
+Ø Keep ear dry
+Ø Use ear plug when swimming or bathing (especially when
+washing hair using shampoo or soap)
+Ø Do not insert object into the ear
+8.3.3
+Management of Complications
+There is no specific treatment for myringosclerosis,110, level III as it does
+not significantly affect hearing.112, level II-1
+Children with residual perforation should be considered for
+myringoplasty. In a cohort study, Yung M et al. found no difference in
+the surgical outcome between the younger age group (4 to 8 years)
+and the older age group (9 to 13 years) (p=0.23).114, level II-2 However in
+another study, this operation was more likely to fail in younger children
+(p<0.0047) and those with anterior TM perforation (p<0.0038).115, level III
+Fat plug myringoplasty is an option for small perforation.116, level II-3 In
+the local clinical practice, myringoplasty is offered to children above the
+age of 10.
+In post-VT otorrhoea with recurrent acute otitis media, topical antibiotic
+is effective in children under three years of age with tube associated
+otorrhea. Systemic oral antibiotic is indicated in the presence of fever
+and otalgia. It is preferable to perform a bacterial culture of the discharge
+before commencing antibiotics.113, level I; 117, level I
+There is no retrievable evidence on when to remove VT in cases of
+persistent otorrhoea. In the current practice, VT is removed when there
+is persistent otorrhoea despite optimum medical treatment.
+Management of Otitis Media with Effusion in Children
+Recommendation 9
+•
+Myringotomy and ventilation tube (VT) insertion should be offered
+to children with otitis media with effusion as it is a safe procedure.
+(Grade C)
+•
+Myringoplasty may be considered in residual perforation of TM in
+children. (Grade C)
+•
+In post-VT otorrhoea, topical and oral antibiotic should be instituted.
+(Grade A)
+Ø Following failure antibiotic treatment, removal of VT should be
+considered. (Grade C)
+Management of Otitis Media with Effusion in Children
+9.
+MANAGEMENT OF OME IN SPECIAL CHILDREN
+9.1 CHILDREN WITH CLEFT PALATE
+Children with unilateral cleft lip and palate demonstrate higher prevalence
+of OME (74.7%) than those without clefts (19.4%) with p<0.001.118, level II-2
+A local study by Sakinah MS in 2007 found the prevalence of OME in
+cleft palate children at 55.4%.119, level III
+In children with cleft palate, failure of palatal fusion during development
+results in abnormal insertion of the tensor veli palatine and levator veli
+palatine muscles in the soft palate. This will lead to improper opening
+of the eustachian tube which compromises ventilatory and muco-ciliary
+clearance functions of the middle ear. Thus it predisposes the children
+to early onset of OME. Despite palatal repair surgery, the functions of
+the eustachian tube cannot be completely restored. Therefore these
+children are at risk of persistent and longer course of OME.
+OME in children with cleft palate is often intervened by early insertion of
+VT to improve hearing impairment, speech and language development,
+and to prevent long-term sequelae.
+All children with cleft palate should be managed by a multidisciplinary
+team comprising of professionals from otorhinolaryngology (ORL),
+audiology, speech therapy, paediatrics, plastic and reconstructive
+surgery, maxillo-facial surgery, occupational therapy and medical
+genetics disciplines, and social welfare department.
+9.1.1
+Timing of VT
+At six years follow-up, a cohort study of early placement of VT before
+the age of seven months for both cleft palate and control groups showed
+that hearing level improved with means PTA of 8.9 dBHL and 7.7 dBHL
+respectively.120, level II-2 However in a recent SR of 18 papers with various
+study design and quality, there was inconsistent evidence to support
+the beneficial effect of early routine insertion of VT for treatment of
+OME in children with cleft palate.121, level I
+Good compliance to hearing aid was associated with good hearing,
+speech and language development in 51.6% of children with cleft
+palate either with or without VT. However, those with VT (38.4%)
+were also found to have higher otological complications such as TM
+perforation and persistent otorrhea compared to those without VT
+Management of Otitis Media with Effusion in Children
+(4.5%) with p<0.005.122, level III In another study, there was no difference
+noted in otological outcomes (healed TM, retracted TM, perforated TM,
+persistent OME and VT in situ) when comparison was made between
+cleft palate and non-cleft group (p=0.2).120, level II-2
+9.1.2
+Hearing Threshold for VT
+There is no good evidence retrieved on hearing threshold level to
+decide on VT insertion in children with OME and cleft palate. However
+in local practice, the threshold level to intervene is similar with normal
+children with OME.
+9.1.3
+Numbers of VT
+Children with cleft palate often require multiple insertions of VT. Means
+number of VT insertions per ear are 1.7 and 2.1.122, level III; 123, level II-2
+Greater number of VT insertions are associated with abnormal TM
+appearance (p<0.05) and reduced hearing (p<0.05).123, level II-2
+9.1.4
+Use of Long-Term VT
+There is no evidence to support the use of long-term VT in children with
+cleft palate at the first VT insertion.122, level III; 123 , level II-2
+9.1.5
+Hearing Screening
+Newborns with cleft palate are at higher risk of failing newborn hearing
+screening compared with healthy neonates. Those who fail hearing
+screening have higher incidence of permanent CHL or SNHL compared
+to those who pass (43% vs 3%).124, level II-2
+The incidence of SNHL in ears with OME in CLP or cleft palate children
+is 1.8%.123, level II-2 Factors predicting persistent hearing impairment
+include cleft palate alone, female and presence of an associated
+syndrome.124, level II-2
+9.1.6
+CLP or cleft palate with associated syndrome
+Associated syndrome is seen in 15.7% to 38.0% of CLP or cleft palate
+children122, level III; 124, level II-2 with 5.4-fold higher risk of hearing loss
+(p=0.05) compared to those without associated syndrome.124, level II-2
+Thirty percent of infants with cleft palate and CLP associated syndrome
+may have underlying SNHL.125, level II-2
+Management of Otitis Media with Effusion in Children
+Recommendation 10
+•
+All children with cleft palate should be managed by a multidisciplinary
+team. (Grade C)
+•
+Hearing assessment should be performed early and six-monthly in
+all children with cleft palate or cleft lip and palate (CLP). (Grade C)
+•
+Early ventilation tube insertion should be performed at the time of
+palatal repair in cleft palate or CLP infants with auditory brainstem
+response threshold level of ≥25 dBHL and after otological
+assessment. (Grade C)
+•
+Hearing amplification may be considered as an option in cases of
+mixed (conductive and sensorineural) and moderate hearing loss in
+children with cleft palate. (Grade C)
+9.2 CHILDREN WITH DOWN SYNDROME
+Down syndrome (DS) is the most common genetic disorders and
+occuring in about 1 in 600 to 1 in 1000 live births. The incidence of
+DS in Hospital Kuala Lumpur, Malaysia was 1 in 950 live births. The
+incidence among Malays was 1 in 981, Chinese 1 in 940 and Indians
+1 in 860.126 - 127, level III Various studies have shown that children with DS
+had higher incidence of OME. Clin Mol Teratol.18 - 19. level III; 20, level II-2; 21, level III
+Characteristically, children with DS have mid-face hypoplasia,
+malformation of the eustachian tube, narrow nasopharynx, delayed
+motor development, generalised hypotonia and delayed maturation of
+immune system. These factors not only predispose them to develop
+OME at early age but also persistent and longer episodes of OME.
+In a retrospective study, the mean age of children with DS diagnosed
+with OME referred to ORL clinic was 3.6 years (range 2 - 8). In these
+children, the diagnosis of OME was the commonest secondary finding
+(63.7%) and primary diagnosis of OME was only made in 17.2% of
+cases.128, level III
+Children with DS have a significant higher incidence of hearing loss
+than the general population (37 - 78% vs 2.5%) and OME is the most
+common cause of hearing loss among them. In this group, even a mild
+degree of hearing impairment can have major consequences on speech
+perception and language development.129, level III
+Management of Otitis Media with Effusion in Children
+9.2.1
+VT insertion
+In a cohort study conducted in Japan, the mean age of VT insertion in
+children with DS was 5.4 ± 2.4 years (range 2 - 13).130, level II-2 In a later
+study, 83% had first placement of VT at a younger age (range 6 and 18
+months).131, level II-2
+Many children with DS require multiple insertions of VT up to five
+times.128, level III Slightly more than half need more than single VT insertion
+(42.5% require two, 7.5% three and 5% four times).131, level II-2 The mean
+interval between the first insertion and last extrusion of VT is 22.9±15.9
+months in children with DS as compared to 27.5±23.6 months in normal
+children.130, level II-2
+Persistent hearing loss after VT insertion was noted higher in children
+with DS (40%) when compared to normal children (9%).132, level II-2
+However in another five-year longitudinal study, 98% of children with
+DS achieved normal to borderline normal hearing level after meticulous
+surgical or medical treatment. The study concluded that early diagnosis
+and aggressive treatment, started soon after birth, provided improvement
+in hearing.133, level II-2
+Otorrhoea following VT insertion was found higher in children with
+DS compared to normal children (p<0.01). Similarly, the incidence
+of complications after extrusion of VT (cholesteatoma, permanent
+perforation and atelectasis) was also higher among them than normal
+children (p<0.05).130, level II-2 Another study showed that seven of 11
+children with DS had persistent otorrhoea after VT insertion with limited
+improvement in hearing.134, level III Following VT extrusion, only 26%
+children with DS had normal TM appearance or slight retraction as
+compared to 78% in normal children (p<0.05).130, level II-2
+VT insertion in children requires general anaesthesia and can be done
+as day care surgery. However, it is not suitable for children with DS due
+to risk of developing complications such as poor oral intake and upper
+airway obstruction.128, level III
+The following factors should be considered in the child before VT is
+offered as an option to hearing aids:1
+• severity of hearing loss
+• age
+• practicality, risks and chances of early extrusion of VT
+Management of Otitis Media with Effusion in Children
+9.2.2
+Hearing Amplification
+Forty percent of children with DS have stenotic ear canals and 80% of
+them have OME. Fitting of hearing aid in the stenotic ear canals is a
+challenge and even when it is well-fitted, it can be difficult to achieve
+compliance among them.135, level III
+Hearing aids should normally be offered to DS children with hearing
+loss.1 There is no retrievable evidence to compare the benefits of
+conventional hearing aids to VT among children with DS and OME.
+Bone conduction hearing aids and bone anchored hearing aid (BAHA)
+are other forms of hearing amplification methods. Two studies showed
+that OME was the second most common indication for BAHA after
+chronic otitis media among children with DS. Most patients and parents
+were satisfied with the result of better hearing with BAHA. Both studies
+concluded that BAHA had a role in overall management of children with
+DS after conventional hearing aids and/or ventilation tubes had been
+considered.134, level III; 136, level III
+Recommendation 11
+•
+All children with Down syndrome (DS) should be managed by a
+multidisciplinary team. (Grade C)
+•
+Hearing assessment should be performed early and six-monthly in
+all children with DS. (Grade C)
+•
+Hearing amplification should be considered in children with DS who
+have otitis media with effusion (OME) and either:
+Ø stenotic ear canal
+Ø mixed hearing loss
+Ø as an alternative to VT where necessary (Grade C)
+•
+VT should be considered in DS with OME after weighing its risks
+and benefits. (Grade C)
+Management of Otitis Media with Effusion in Children
+10. REFERRAL
+To date, there is lack of direct evidence on referral of children with
+OME. Therefore, recommendations are derived from several existing
+guidelines, local expert consensus and other sections of these
+CPG.1; 6; 8, level III; 12, level III; 137, level III
+Recommendation 12
+•
+Children with any of the following features should be referred to
+an otorhinolaryngologist for diagnosis and management of otitis
+media with effusion (OME):
+Ø hearing impairment or hearing loss due to uncertain causes
+Ø recurrent episodes of acute otitis media or otalgia
+Ø speech and language development not appropriate for age
+Ø impaired social or educational development and behavioural
+symptoms (lack of concentration or attention) associated with
+hearing impairment
+Ø underlying craniofacial anomalies, Down’s Syndrome and cleft
+lip and/or palate
+Ø otoscopic findings such as colour changes, opacity or retraction
+of tympanic membrane and presence of fluid level or air
+bubble persisted after three months of active observation.
+(Grade C)
+•
+Children with persistent OME after active observation for three
+months should also be referred to ORL. (Grade C)
+•
+URGENT REFERRAL is required in the presence of cholesteatoma
+(refer to Appendix 4). (Grade C)
+•
+Features of cholesteatoma
+Ø Persistent, scanty, foul-smelling ear discharge
+Ø Attic or marginal perforation of tympanic membrane
+Ø Presence of keratin debris
+Ø Hearing impairment
+Management of Otitis Media with Effusion in Children
+11. PARAMETERS TO BE MONITORED DURING FOLLOW-UP
+There are parameters that need to be monitored during follow-up of
+children with OME following treatment. They are TM appearance,
+presence of ear discharge, hearing level, middle ear impedance and
+speech and language development, education and behaviour.
+11.1
+OTOLOGICAL FINDINGS
+Majority (67.3%) of the VT-treated ears are healed after five years of
+follow-up.112, level II-2 However, common abnormalities that have been
+reported are TM atrophy, myringosclerosis, TM retraction and otorrhea.
+Less common abnormalities include TM perforation, persistent OME
+and VT in place.111 - 112, level II-2; 138, level Il-2
+•
+In post-VT, the presence of the following abnormalities require ORL
+consultation:
+Ø Otorrhea
+Ø TM retraction
+Ø TM perforation
+Ø Persistent hearing loss (this may be due to SNHL or ossicular
+erosion)
+11.2
+AUDIOLOGICAL FINDINGS
+Audiological tests in combination with otoscopic examination play a
+major role in diagnosing OME. The tests are as follows:
+11.2.1 Pure Tone Audiometry
+PTA shows improvement in hearing with mean difference of 10.3 dB
+after myringotomy at five years follow-up (p<0.001). TM perforations,
+ongoing episodes of OME and pars tensa retractions are associated with
+mild conductive hearing loss (p<0.0005). Atrophy and myringosclerosis
+of TM are not associated with hearing impairment.112, level II-2
+11.2.2 Tympanometry
+In a cohort study, an eight years follow-up post-VT showed the prevalence
+of low static admittance (SA) and broad-peaked tympanograms (Type
+B) declined from 38% to 8%, while high SA and narrow peaked
+tympanograms (Type A) increased from 23% to 64%.111, level II-2
+Management of Otitis Media with Effusion in Children
+11.2.3 Auditory Brainstem Response
+Auditory Brainstem Response (ABR) is only available at certain
+hospitals with audiology services.
+ABR techniques are useful in estimating hearing loss in children with
+OME who are difficult to be tested by behavioural audiometry.139, level II-2
+Following VT insertion, ABR shows improvement in mean peak I, III and
+V latencies in the effusion present group (p<0.0001). Mean hearing loss
+improves from 22 dBnHL to 11 dBnHL after VT (p<0.0001).139, level II-2
+11.3
+SPEECH, LANGUAGE AND ACADEMIC DEVELOPMENT
+RCTs conducted in children with severe OME children found some
+benefits from early VT insertion for expressive language, verbal
+comprehension and behavioural problems.78 - 79, level l
+OME accounts for 32.2% of mild hearing loss, which is associated with
+poor academic performance (p<0.001).30, level III
+Recommendation 13
+•
+Children with otitis media with effusion (OME) should be followed-up
+for otological and audiological assessment regularly. (Grade C)
+•
+Children with OME post-ventilation tube should be followed-up
+within the first month of surgery followed by six-monthly interval till
+recovery. (Grade C)
+Management of Otitis Media with Effusion in Children
+12. LONG-TERM SEQUELAE
+There is no established time frame as to what constitutes long-term
+sequelae. In Section 4 on clinical presentation, structural changes and
+functional disability have been discussed in length.
+The search for evidence on the long-term sequelae of OME without any
+intervention provides no retrievable results. This is likely due to the fact
+that the attending physician will intervene in cases with structural or
+functional deficits to prevent complications.
+Despite VT insertion, there is evidence of long-term structural and
+functional sequelae. In a cohort study, organised OME (granulation
+or cyst) in the mastoids on CT scan three months after VT insertion
+was associated with a higher incidence of attic retraction, sclerotic and
+poorly pneumatised mastoids (p<0.05). However, the study population
+consisted of both children and adults.140, level II-2
+In another study on patients who had VT insertion during their childhood,
+higher prevalence of severe retraction (p=0.02), severe atrophy and
+hearing loss (p<0.01) was noted after 9 to 23 years compared to four
+years after treatment.141, level III
+A review found that 20% of patients with cholesteatoma had a past
+history of OME with VT insertion. Evolution of OME into cholesteatoma
+occured in not more than 0.5% of OME cases, whether or not VT were
+inserted.142, level III
+•
+OME can result in long-term structural changes to the tympanic
+membrane and middle ear (such as severe retraction, cholesteatoma
+and poorly developed mastoids) and functional impairment (such as
+hearing loss).
+Management of Otitis Media with Effusion in Children
+13. IMPLEMENTING THE GUIDELINES
+In assisting healthcare provider and patient in the management of
+specific clinical circumstances, it is important not only to develop valid
+CPG by a sound methodology, but also to ensure the implementation
+of the evidence-based recommendations in it. There is often a gap
+between the development and implementation into practice of a CPG.
+Each implementation strategy is effective under different circumstances
+and a multifaceted approach is most likely to achieve change. The
+approach should be tailored to suit local circumstances and address
+local barriers. Successful strategies to change practice need to be
+adequately resourced including people with adequate knowledge and
+skills. Team work and co-operation between primary and secondary/
+tertiary care is paramount to achieve this.
+13.1
+EXISTING FACILITATORS AND BARRIERS
+Existing facilitators for application of the recommendations in the CPG
+include:
+a. Hearing assessment in child developmental assessment in the
+primary care and the School Health Programme
+b. High Risk Newborn Hearing Screening Programme in hospitals
+with ORL and audiology services
+c. Universal Newborn Hearing Screening in selected hospitals
+d. Database on OME based on National Hearing Registry
+Existing barriers for application of the recommendations of the CPG
+include:
+a. Poor understanding/limited knowledge of OME
+b. Inadequate training during undergraduate and housemanship
+training
+c. Insufficient resources in diagnosing OME
+d. No specific data registry on OME
+13.2
+POTENTIAL RESOURCE IMPLICATIONS
+To implement the recommendations in the CPG, the following factors
+are identified to have potential resource implications:
+a. Widespread distribution of the CPG to healthcare personnel via
+printed copies
+b. Re-enforce training of healthcare personnel especially in
+primary care via regular seminars or workshops to ensure active
+dissemination of information
+Management of Otitis Media with Effusion in Children
+c. Improve resources to diagnose OME including trained personnel
+and diagnostic and assessment tools such as:
+i. pneumatic otoscope, noise stick and tympanometry screener
+should be made available in all health clinics, School Health
+Team and paediatric clinics. Although pneumatic otoscope
+is a good instrument and easily used, it is not available in
+all centres. Additional cost is implicated if a new set or an
+accessory to the existing otoscope is required.
+ii. multifrequency tympanometry and OAE/ABR screener
+should be made available or adequate in all centres with
+audiology service.
+d. Develop multidisciplinary teams at secondary/tertiary care level
+in the management of OME with CLP or DS
+e. Facilitate the provision of hearing amplification device to the
+required group of children with OME
+f. Strengthen the database of OME as part of the National Hearing
+Registry
+To assist in the implementation of the CPG, the following are proposed
+as clinical audit indicators for quality management:
+* children: excluding Down syndrome
+• Percentage of
+hearing assessment
+in children with cleft
+palate/CLP/DS
+=
+Number of children with cleft palate/
+CLP/DS screened for hearing in a year
+x 100%
+Total number of children with cleft palate/
+CLP/DS diagnosed in the same period
+• Percentage of
+children with
+documented
+persistent OME (>3
+months) and hearing
+loss undergo
+myringtomy and VT
+=
+Number of children* with newly
+diagnosed persistent OME (>3 months)
+with hearing loss undergo myringtomy
+and VT in a year
+x 100%
+Number of children with newly diagnosed
+persistent OME (>3 months) with hearing
+loss in the same period
+Management of Otitis Media with Effusion in Children
+REFERENCES
+1.
+National Collaborating Centre for Women’s and Children’s Health. Surgical management of
+otitis media with effusion in children. London: RCOG Press; 2008.
+2.
+Institute of Public Health, Malaysia. Findings of the national hearing and ear disorders survey.
+Kuala Lumpur: IPH; 2009.
+3.
+Saim A, Saim L, Saim S, et al. Prevalence of otitis media with effusion amongst pre-school
+children in Malaysia. Int J Pediatr Otorhinolaryngol. 1997 Jul 18;41(1):21-8.
+4.
+Lokman S, Loh T, Said H, et al. Incidence and management of middle ear effusion in cleft
+palate patients. Med J Malaysia. 1992 Mar;47(1):51-5.
+5.
+Ungkanont K, Charuluxananan S, Komoltri C. Association of otoscopic findings and hearing
+level in pediatric patients with otitis media with effusion. Int J Pediatric Otorhinolaryngol. 2010
+Sep;74(9):1063-6.
+6.
+Scottish Intercollegiate Guidelines Network. Diagnosis and management of childhood otitis
+media in primary care. Edinburgh: SIGN; 2003.
+7.
+Lous J, Burton MJ, Felding JU, et al. Grommets (ventilation tubes) for hearing loss associated
+with otitis media with effusion in children. Cochrane Database of Systematic Reviews.
+2005(1):CD001801.
+8.
+Neff MJ, AAP, AAFP, et al. AAP, AAFP, AAO-HNS release guideline on diagnosis and
+management of otitis media with effusion. Am Fam Physician. 2004 Jun;15(69(12)):2929-31.
+9.
+Gultekin E, Develioglu ON, Yener M, et al. Prevalence and risk factors for persistent otitis
+media with effusion in primary school children in Istanbul, Turkey. Auris, Nasus, Larynx. 2010
+Apr;37(2):145-9.
+10.
+Apostolopoulos K, Xenelis J, Tzagaroulakis A, et al. The point prevalence of otitis media
+with effusion among school children in Greece. Int J Pediatr Otorhinolaryngol. 1998 Aug
+1;44(3):207-14.
+11.
+el-Sayed Y, Zakzouk S. Point prevalence of type B tympanogram in Riyadh. Int J Pediatr
+Otorhinolaryngol. 1995 Jan;31(1):53-61.
+12.
+American Academy of Family Physicians, American Academy of Otolaryngology-Head Neck,
+Surgery, American Academy of Pediatrics Subcommittee on Otitis Media With Effusion. Otitis
+media with effusion. Pediatrics. 2004 May;113(5):1412-29.
+13.
+Engel J, Anteunis L, Volovics A, et al. Risk factors of otitis media with effusion during infancy.
+Int J Pediatr Otorhinolaryngol. 1999 May 25;48(3):239-49.
+14.
+Zielhuis GA, Heuvelmans-Heinen EW, Rach GH, et al. Environmental risk factors for otitis
+media with effusion in preschool children. Scand J Prim Health Care. 1989 Mar;7(1):33-8.
+15.
+Royal College of Physicians. Passive smoking and children. London: Royal College of
+Physicians; 2010.
+16.
+Tong MC, Yue V, Ku PK, et al. Risk factors for otitis media with effusion in Chinese schoolchildren:
+a nested case-control study and review of the literature. Int J Pediatr Otorhinolaryngol. 2006
+Feb;70(2):213-9.
+17.
+Flynn T, Moller C, Jonsson R et al. The high prevalence of otitis media with effusion in children
+with cleft lip and palate as compared to children without clefts. Int J Pediatr Otorhinolaryngol.
+2009 Oct;73(10):1441-6.
+18.
+Barr E, Dungworth J, Hunter K, et al. The prevalence of ENT disorders in pre-school children
+with Down Syndrome. Clin Otolaryngol. 2007 Dec;32(6):510-11.
+19.
+Schwartz DM, Schwartz RH. Acoustic impedance and otoscopic findings in young children with
+Down’s syndrome. Arch Otolaryngol. 1978 Nov;104(11):652-6.
+20.
+Satwant S, Subramaniam KN, Prepageran N et al. Otological disorders in Down’s Syndrome.
+Med J Malaysia. 2002 Sep;57(3):278-82.
+21.
+Zabri S. Hearing loss in Down Syndrome children (thesis). Kuala Lumpur: Universiti
+Kebangsaan Malaysia; 2008.
+Management of Otitis Media with Effusion in Children
+22.
+Kim JB, Park DC, Cha CI, et al. Relationship between pediatric obesity and otitis media with
+effusion. Arch Otolaryngol Head Neck Surg. 2007 Apr;133(4):379-82.
+23.
+Ilicali OC, Keles N, Deger K, et al. Relationship of passive cigarette smoking to otitis media.
+Arch Otolaryngol Head Neck Surg. 1999 Jul;125(7):758-62.
+24.
+New Zealand Health Technology Assessment (NZHTA). Screening programmes for the
+detection of otitis media with effusion and conductive hearing loss in pre-school and new
+entrant school children1998 Jun: Available from: http://www.otago.ac.nz/christchurch/research/
+nzhta/.
+25.
+Shah N. Glue ear: diagnosis and management. Proc R Soc Med. 1975 Jan;68(1):37-8.
+26.
+Shah N. Otitis media and its sequelae. J R Soc Med. 1991 Oct;84(10):581-6.
+27.
+Olusesi AD. Otitis media as a cause of significant hearing loss among Nigerians. Int J Pediatr
+Otorhinolaryngol. 2008 Jun;72(6):787-92.
+28.
+Roberts JE, Rosenfeld RM, Zeisel SA, et al. Otitis media and speech and language: a metaanalysis of prospective studies. Pediatrics. 2004 Mar;113(3 Pt 1):e238-48.
+29.
+Walker N, Wigglesworth G. The effect of conductive hearing loss on phonological awareness,
+reading and spelling of urban Aboriginal children. Aust N Z J Audiol. 2001;23:37-51.
+30.
+Khairi Md Daud M, Noor RM, Rahman NA, et al. The effect of mild hearing loss on academic
+performance in primary school children. Int J Pediatr Otorhinolaryngol. 2010 Jan;74(1):67-70.
+31.
+Serbetcioglu B, Ugurtay O, Kirkim G, et al. No association between hearing loss due to
+bilateral otitis media with effusion and Denver-II test results in preschool children. Int J Pediatr
+Otorhinolaryngol. 2008 Feb;72(2):215-22.
+32.
+Johnson DL, McCormick DP, Baldwin CD. Early middle ear effusion and language at age
+seven. J Commun Disord. 2008 Jan-Feb;41(1):20-32.
+33.
+Roberts J, Burchinal M, Zeisel S. Otitis media in early childhood in relation to children’s schoolage language and academic skills. Pediatrics. 2002 Oct;110(4):696-706.
+34.
+Robert J, Burchinal M, Medley L, et al. Otitis media, hearing sensitivity, and maternal
+responsiveness in relation to language during infancy. J Pediatr. 1995 Mar;126(3):481-9.
+35.
+Hooper SR, Ashley TA, Roberts JE, et al. The relationship of otitis media in early childhood
+to attention dimensions during the early elementary school years. J Dev Behav Pediatr. 2006
+Aug;27(4):281-9.
+36.
+Boone RT, Bower CM, Martin PF. Failed newborn hearing screens as presentation for
+otitis media with effusion in the newborn population. Int J Pediatr Otorhinolaryngol. 2005
+Mar;69(3):393-7.
+37.
+Golz A, Angel-Yeger B, Parush S. Evaluation of balance disturbances in children with middle
+ear effusion. Int J Pediatr Otorhinolaryngol. 1998 Feb;43(1):21-6.
+38.
+Gawron W, Pospiech L, Orendorz-Fraczkowska K. An evaluation of postural stability and the
+effects of middle-ear drainage on vestibulo-spinal reflexes of children with chronic otitis media
+with effusion. Int J Pediatr Otorhinolaryngol. 2004 Sep;68(9):1175-9.
+39.
+Souter MA, Mills NA, Mahadevan M, et al. The prevalence of atopic symptoms in children with
+otitis media with effusion. Otolaryngol Head Neck Surg. 2009 Jul;141(1):104-7.
+40.
+Browning GG. A step further than the NICE surgical otitis media with effusion guidelines; time to
+consider ventilation tubes being a once only operation. Clin Otolaryngol. 2008 Dec;33(6):606.
+41.
+Lo PS, Tong MC, Wong EM, et al. Parental suspicion of hearing loss in children with otitis
+media with effusion. Eur J Pediatr. 2006 Dec;165(12):851-7.
+42.
+Behn A, Westerberg BD, Zhang H, et al. Accuracy of the Weber and Rinne tuning fork tests in
+evaluation of children with otitis media with effusion. J Otolaryngol. 2007 Aug;36(4):197-202.
+43.
+Rogers DJ, Boseley ME, Adams MT, et al. Prospective comparison of handheld pneumatic
+otoscopy, binocular microscopy, and tympanometry in identifying middle ear effusions in
+children. Int J Pediatr Otorhinolaryngol. 2010 Oct;74(10):1140-3.
+44.
+Dragicevic D, Vlaski L, Komazec Z, et al. Transient evoked otoacoustic emissions in young
+children with otitis media with effusion before and after surgery. Auris Nasus Larynx. 2010
+Jun;37(3):281-5.
+Management of Otitis Media with Effusion in Children
+45.
+Harris P, Hutchinson K, Moravec J. The use of tympanometry and pneumatic otoscopy for
+predicting middle ear disease. Am J Audiol. 2005 Jun;14(1):3-13.
+46.
+Lee D, Yeo S. Clinical diagnostic accuracy of otitis media with effusion in children, and
+significance of myringotomy: diagnostic or therapeutic? J Korean Med Sci. 2004 Oct;19(5):73943.
+47.
+Nozza R, Bluestone C, Kardatzke D, et al. Identification of middle ear effusion by aural acoustic
+admittance and otoscopy. Ear Hear. 1994 Aug;15(4):310-23.
+48.
+Nozza RJ, Bluestone CD, Kardatzke D, et al. Towards the validation of aural acoustic immittance
+measures for diagnosis of middle ear effusion in children. Ear Hear. 1992 Dec;13(6):442-53.
+49.
+Takata GS, Chan LS, Morphew T, et al. Evidence assessment of the accuracy of methods
+of diagnosing middle ear effusion in children with otitis media with effusion. Pediatrics. 2003
+Dec;112(6 Pt 1):1379-87.
+50.
+Nienhuys TG, Boswell JB, McConnel FB. Middle ear measures as predictors of hearing loss in
+Australian aboriginal schoolchildren. Int J Pediatr Otorhinolaryngol. 1994 Jul;30(1):15-27.
+51.
+Takahashi H, Honjo I, Hasebe S, et al. The diagnostic and prognostic value of eardrum mobility
+in otitis media with effusion. Eur Arch Otorhinolaryngol. 1999;256(4):189-91.
+52.
+Jones WS, Kaleida PH. How helpful is pneumatic otoscopy in improving diagnostic accuracy?
+Pediatrics. 2003 Sep;112(3 Pt 1):510-3.
+53.
+Wiley TL & Fowler C. Acoustic Immittance Measures in Clinical Audiology. San Diego: Singular
+Publishing Group; 1997.
+54.
+Madell JR & Flexer CA. Pediatric audiology: Diagnosis, technology, and management. New
+York: Thieme; 2008.
+55.
+Holte L, Margolis RH, Cavanaugh RM Jr. Developmental changes in multifrequency
+tympanograms. Audiology. 1991;30(1):1-24.
+56.
+American National Standards Institute. American national standard specifications for
+instruments to measure aural acoustic impedance and admittance (aural acoustic immittance).
+ANSI S3.391. New York: ANSI; 1987.57.
+57.
+Sensitivity, specificity and predictive value of tympanometry in predicting a hearing impairment
+in otitis media with effusion. MRC Multi-Centre Otitis Media Study Group. Clin Otolaryngol
+Allied Sci. 1999 Aug;24(4):294-300.
+58.
+Wimmer E, Toleti B, Berghaus A, et al. Impedance audiometry in infants with a cleft palate: the
+standard 226-Hz probe tone has no predictive value for the middle ear condition. Int J Pediatr
+Otorhinolaryngol. 2010 Jun;74(6):586-90.
+59.
+Sutton GJ, Gleadle P, Rowe SJ. Tympanometry and otoacoustic emissions in a cohort of
+special care neonates.[Erratum appears in Br J Audiol 1996 Apr;30(2):152]. Br J Audiol. 1996
+Feb;30(1):9-17.
+60.
+Williams M, Purdy S, Barber C. High frequency probe tone tympanometry in infants with
+middle ear effusion. Aust J Otolaryngol. 1995;2(2):169-73.
+61.
+Zhiqi L, Kun Y, Zhiwu H. Tympanometry in infants with middle ear effusion having been
+identified using spiral computerized tomography. Am J Otolaryngol. 2010 Mar-Apr;31(2):96103.
+62.
+SA G. The acoustic reflex. In: Katz J. Handbook of clinical audiology. 5th ed. New York:
+Lippincott Williams & Wilkins; 2002.
+63.
+Kazanas SG, Maw AR. Tympanometry, stapedius reflex and hearing impairment in children
+with otitis media with effusion. Acta Otolaryngol. 1994 Jul;114(4):410-4.
+64.
+Le TM, Rovers MM, Veenhoven RH, et al. Effect of pneumococcal vaccination on otitis media
+with effusion in children older than 1 year. Eur J Pediatr. 2007 Oct;166(10):1049-52.
+65.
+Straetemans M, Palmu A, Auranen K, et al. The effect of a pneumococcal conjugate vaccine on
+the risk of otitis media with effusion at 7 and 24 months of age. Int J Pediatr Otorhinolaryngol.
+2003 Nov;67(11):1235-42.
+Management of Otitis Media with Effusion in Children
+66.
+van Heerbeek N, Straetemans M, Wiertsema SP, et al. Effect of combined pneumococcal
+conjugate and polysaccharide vaccination on recurrent otitis media with effusion. Pediatrics.
+2006 Mar;117(3):603-8.
+67.
+Ozgur SK, Beyazova U, Kemaloglu YK, et al. Effectiveness of inactivated influenza vaccine for
+prevention of otitis media in children. Pediatr Infect Dis J. 2006 May;25(5):401-4.
+68.
+Clements DA, Langdon L, Bland C, et al. Influenza A vaccine decreases the incidence of
+otitis media in 6- to 30-month-old children in day care. Arch Pediatr Adolesc Med. 1995
+Oct;149(10):1113-7.
+69.
+Royal College of Physicians. Passive smoking and children. A report by the Tobacco Advisory
+Group. London: RCP; 2010.
+70.
+Duffy LC, Faden H, Wasielewski R, et al. Exclusive breastfeeding protects against bacterial
+colonization and day care exposure to otitis media. Pediatrics. 1997 Oct;100(4):E7.
+71.
+Kouwen HB, DeJonckere PH. Prevalence of OME is reduced in young children using chewing
+gum. Ear Hear. 2007 Aug;28(4):451-5.
+72.
+Rosenfeld RM, Kay D. Natural history of untreated otitis media. Laryngoscope. 2003
+Oct;113(10):1645-57.
+73.
+Paradise JL, Feldman HM, Campbell TF, et al. Tympanostomy tubes and developmental
+outcomes at 9 to 11 years of age. N Eng J Med. 2007 Jan 18;356(3):248-61.
+74.
+Paradise JL, Campbell TF, Dollaghan CA, et al. Developmental outcomes after early or
+delayed insertion of tympanostomy tubes. N Eng J Med. 2005 Aug 11;353(6):576-86.
+75.
+Paradise JL, Feldman HM, Campbell TF, et al. Effect of early or delayed insertion of
+tympanostomy tubes for persistent otitis media on developmental outcomes at the age of
+three years.[Summary for patients in Curr Allergy Asthma Rep. 2002 Jul;2(4):295-6; PMID:
+12044263]. N Eng J Med. 2001 Apr 19;344(16):1179-87.
+76.
+Rovers MM, Krabbe PF, Straatman H, et al. Randomised controlled trial of the effect of ventilation
+tubes (grommets) on quality of life at age 1-2 years. Arch Dis Child. 2001 Jan;84(1):45-9.
+77.
+Rovers MM, Straatman H, Ingels K, et al. The effect of ventilation tubes on language
+development in infants with otitis media with effusion: A randomized trial. Pediatrics. 2000
+Sep;106(3):E42.
+78.
+Maw R, Wilks J, Harvey I, et al. Early surgery compared with watchful waiting for glue ear and
+effect on language development in preschool children: a randomised trial.[Erratum appears in
+Lancet 1999 Oct 16;354(9187):1392]. Lancet. 1999 Mar 20;353(9157):960-3.
+79.
+Wilks J, Maw R, Peters TJ, et al. Randomised controlled trial of early surgery versus watchful
+waiting for glue ear: the effect on behavioural problems in pre-school children. Clin Otolaryngol
+Allied Sci. 2000 Jun;25(3):209-14.
+80.
+Hall AJ, Maw AR, Steer CD. Developmental outcomes in early compared with delayed
+surgery for glue ear up to age 7 years: a randomised controlled trial. Clin Otolaryngol. 2009
+Feb;34(1):12-20.
+81.
+Williamson I, Benge S, Barton S, et al. Topical intranasal corticosteroids in 4-11 year old
+children with persistent bilateral otitis media with effusion in primary care: double blind
+randomised placebo controlled trial. BMJ. 2009;339:b4984.
+82.
+Thomas CL, Simpson S, Butler CC, et al. Oral or topical nasal steroids for hearing loss
+associated with otitis media with effusion in children. Cochrane Database of Systematic
+Reviews. 2006(3):CD001935.
+83.
+Cengel S, Akyol MU. The role of topical nasal steroids in the treatment of children with
+otitis media with effusion and/or adenoid hypertrophy. Int J Pediatr Otorhinolaryngol. 2006
+Apr;70(4):639-45.
+84.
+Choung YH, Shin YR, Choi SJ, et al. Management for the children with otitis media with
+effusion in the tertiary hospital. Clin Exp Otorhinolaryngol. 2008 Dec;1(4):201-5.
+85.
+van Balen FA, de Melker RA, Touw-Otten FW. Double-blind randomised trial of co-amoxiclav
+versus placebo for persistent otitis media with effusion in general practice. Lancet. 1996 Sep
+14;348(9029):713-6.
+Management of Otitis Media with Effusion in Children
+86.
+Cantekin EI, McGuire TW. Antibiotics are not effective for otitis media with effusion: reanalysis
+of meta-analyses. Otorhinolaryngol Nova. 1998;8:214-22.
+87.
+Griffin GH, Flynn C, Bailey, RE, et al. Antihistamines and/or decongestants for otitis media with
+effusion (OME) in children. Cochrane Database of Systematic Reviews. 2006(4):CD003423.
+88.
+Griffin GH, Flynn C, Bailey RE, et al. Antihistamines and/or decongestants for otitis media with
+effusion (OME) in children. Cochrane Database of Systematic Reviews. 2011(9):CD003423.
+89.
+Perera R, Haynes J, Glasziou P, et al. Autoinflation for hearing loss associated with otitis media
+with effusion. Cochrane Database of Systematic Reviews. 2006(4):CD006285.
+90.
+Jardine AH, Griffiths MV, Midgley E. The acceptance of hearing aids for children with otitis
+media with effusion. J Laryngol Otol. 1999 Apr;113(4):314-7.
+91.
+Flanagan PM, Knight LC, Thomas A, et al. Hearing aids and glue ear. Clin Otolaryngol Allied
+Sci. 1996 Aug;21(4):297-300.
+92.
+Gleeson MJ, Browning GG, Burton MJ, et al., eds. Scott-Brown’s Otorhinolaryngology, Head
+and Neck Surgery. 7th ed. London: Hooder Arnolds; 2008.
+93.
+Lous J. Which children would benefit most from tympanostomy tubes (grommets)? A personal
+evidence-based review. Int J Pediatr Otorhinolaryngol. 2008 Jun;72(6):731-6.
+94.
+Buckley G, Hinton A. Otitis media with effusion in children shows a progressive resolution with
+time. Clin Otolaryngol Allied Sci. 1991 Aug;16(4):354-7.
+95.
+Browning GG, Rovers MM, Williamson I, et al. Grommets (ventilation tubes) for hearing loss
+associated with otitis media with effusion in children. Cochrane Database of Systematic
+Reviews. 2010(10):CD001801.
+96.
+Lous J, Burton MJ, Felding JU, et al. Grommets (ventilation tubes) for hearing loss associated
+with otitis media with effusion in children. Cochrane Database of Systematic Reviews.
+2005(1):CD001801.
+97.
+Rovers MM, Straatman H, Ingels K, et al. The effect of short-term ventilation tubes versus
+watchful waiting on hearing in young children with persistent otitis media with effusion: a
+randomized trial. Ear Hear. 2001 Jun;22(3):191-9.
+98.
+Rovers MM, Black N, Browning GG, et al. Grommets in otitis media with effusion: an individual
+patient data meta-analysis. Arch Dis Child. 2005 May;90(5):480-5.
+99.
+Hong P, Smith N, Johnson LB, et al. A randomized double-blind controlled trial of
+phosphorylcholine-coated tympanostomy tube versus standard tympanostomy tube in children
+with recurrent acute and chronic otitis media. Laryngoscope. 2011 Jan;121(1):214-9.
+100. Valtonen H, Tuomilehto H, Qvarnberg Y, et al. A 14-year prospective follow-up study of children
+treated early in life with tympanostomy tubes: Part 2: Hearing outcomes. Arch Otolaryngol
+Head Neck Surg. 2005 Apr;131(4):299-303.
+101. Nguyen LHP, Manoukian JJ, Yoskovitch A, et al. Adenoidectomy: selection criteria for surgical
+cases of otitis media. Laryngoscope. 2004 May;114(5):863-6.
+102. Kadhim AL, Spilsbury K, Semmens JB, et al. Adenoidectomy for middle ear effusion: a study
+of 50,000 children over 24 years. Laryngoscope. 2007 Mar;117(3):427-33.
+103. Casselbrant ML, Mandel EM, Rockette HE, et al. Adenoidectomy for otitis media with effusion
+in 2-3-year-old children. Int J Pediatr Otorhinolaryngol. 2009 Dec;73(12):1718-24.
+104. Van Heerbeek N, De Saar GM, Mulder JJ. Long-term ventilation tubes: results of 726 insertions.
+Clin Otolaryngol Allied Sci. 2002 Oct;27(5):378-83.
+105. Prichard AJ, Marshall J, Skinner DW, et al. Long-term results of Goode’s tympanostomy tubes
+in children. Int J Pediatr Otorhinolaryngol. 1992 Nov;24(3):227-33.
+106. Kay DJ, Nelson M, Rosenfeld RM. Meta-analysis of tympanostomy tube sequelae. Otolaryngol
+Head Neck Surg. 2001 Apr;124(4):374-80.
+107. Koopman JP, Reuchlin AG, Kummer EE, et al. Laser myringotomy versus ventilation
+tubes in children with otitis media with effusion: a randomized trial. Laryngoscope. 2004
+May;114(5):844-9.
+108. Escamilla Y, Aguila AF, Saiz JM, et al. [Tympanostomy tube placement in children with
+secretory otitis media: analysis of effects and complications]. Acta Otorrinolaringol Esp. 2009
+Mar-Apr;60(2):84-9.
+Management of Otitis Media with Effusion in Children
+109. Caye-Thomasen P, Stangerup SE, Jorgensen G, et al. Myringotomy versus ventilation tubes
+in secretory otitis media: eardrum pathology, hearing, and eustachian tube function 25 years
+after treatment. Otol Neurotol. 2008 Aug;29(5):649-57.
+110. Yaman H, Guclu E, Yilmaz S, et al. Myringosclerosis after tympanostomy tube insertion:
+relation with tube retention time and gender. Auris Nasus Larynx. 2010 Dec;37(6):676-9.
+111. Daly KA, Hunter LL, Lindgren BR, et al. Chronic otitis media with effusion sequelae in children
+treated with tubes. Arch Otolaryngol Head Neck Surg. 2003 May;129(5):517-22.
+112. Valtonen HJ, Qvarnberg YH, Nuutinen J. Otological and audiological outcomes five years after
+tympanostomy in early childhood. Laryngoscope. 2002 Apr;112(4):669-75.
+113. Kocaturk S, Yardimci S, Yildirim A, et al. Preventive therapy for postoperative purulent otorrhea
+after ventilation tube insertion. Am J Otolaryngol. 2005 Mar-Apr;26(2):123-7.
+114. Yung M, Neumann C, Vowler SL. A longitudinal study on pediatric myringoplasty. Otology &
+Neurotology. 2007 Apr;28(3):353-5.
+115. Kumar S, Acharya A, Hadjihannas E, et al. Pediatric myringoplasty: definition of “success” and
+factors affecting outcome. Otol Neurotol. 2010 Dec;31(9):1417-20.
+116. Liew L, Daudia A, Narula AA. Synchronous fat plug myringoplasty and tympanostomy tube
+removal in the management of refractory otorrhoea in younger patients. International Journal
+of Pediatric Otorhinolaryngology. 2002 Dec 2;66(3):291-6.
+117. Granath A, Rynnel-Dagoo B, Backheden M, et al. Tube associated otorrhea in children with
+recurrent acute otitis media; results of a prospective randomized study on bacteriology and
+topical treatment with or without systemic antibiotics. Int J Pediatr Otorhinolaryngol. 2008
+Aug;72(8):1225-33.
+118. Flynn T, Moller C, Jonsson R, et al. The high prevalence of otitis media with effusion in children
+with cleft lip and palate as compared to children without clefts. Int J Pediatr Otorhinolaryngol.
+2009 Oct;73(10):1441-6.
+119. Sakina MS. Retrospective review on the prevalence of middle ear effusion in cleft palate
+children and management outcome In Hospital Universiti Kebangsaan Malaysia (thesis).
+Kuala Lumpur: Universiti Kebangsaan Malaysia; 2007.
+120. Valtonen H, Dietz A, Qvarnberg Y. Long-term clinical, audiologic, and radiologic outcomes in
+palate cleft children treated with early tympanostomy for otitis media with effusion: a controlled
+prospective study. Laryngoscope. 2005 Aug;115(8):1512-6.
+121. Ponduri S, Bradley R, Ellis PE, et al. The management of otitis media with early routine
+insertion of grommets in children with cleft palate -- a systematic review. Cleft Palate Craniofac
+J. 2009 Jan;46(1):30-8.
+122. Maheshwar AA, Milling MAP, Kumar M, et al. Use of hearing aids in the management of
+children with cleft palate. Intl J Pediatr Otorhinolaryngol. 2002 Oct 21;66(1):55-62.
+123. Sheahan P, Blayney AW, Sheahan JN, et al. Sequelae of otitis media with effusion among
+children with cleft lip and/or cleft palate. Clin Otolaryngol Allied Sci. 2002 Dec;27(6):494-500.
+124. Chen JL, Messner AH, Curtin G. Newborn hearing screening in infants with cleft palates. Otol
+Neurotol. 2008 Sep;29(6):812-5.
+125. Andrews PJ, Chorbachi R, Sirimanna T, et al. Evaluation of hearing thresholds in 3-month-old
+children with a cleft palate: the basis for a selective policy for ventilation tube insertion at time
+of palate repair. Clin Otolaryngol Allied Sci. 2004 Feb;29(1):10-7.
+126. Parker SE, Mai CT, Canfield MA, et al. Updated National Birth Prevalence estimates for
+selected birth defects in the United States, 2004-2006. Birth Defects Res A Clin Mol Teratol.
+2010 Dec;88(12):1008-16.
+127. Hoe TS, Boo NY, Clyde MM. Incidence of Down’s syndrome in a large Malaysian maternity
+hospital over an 18 month period. Singapore Med J. 1989 Jun;30(3):246-8.
+128. Mitchell RB, Call E, Kelly J. Ear, nose and throat disorders in children with Down syndrome.
+Laryngoscope. 2003 Feb;113(2):259-63.
+129. Sheehan PZ, Hans PS. UK and Ireland experience of bone anchored hearing aids (BAHA) in
+individuals with Down syndrome. Int J Pediatr Otorhinolaryngol. 2006 Jun;70(6):981-6.
+Management of Otitis Media with Effusion in Children
+130. Iino Y, Imamura Y, Harigai S, et al. Efficacy of tympanostomy tube insertion for otitis media
+with effusion in children with Down syndrome. Int J Pediatr Otorhinolaryngol. 1999 Aug
+5;49(2):143-9.
+131. Shott SR. Down syndrome: common otolaryngologic manifestations. Am J Med Genet. 2006
+Aug 15;Part C, Seminars in Medical Genetics. 142C(3):131-40.
+132. Selikowitz M. Short-term efficacy of tympanostomy tubes for secretory otitis media in children
+with Down syndrome. Dev Med Child Neurol. 1993 Jun;35(6):511-5.
+133. Shott SR, Joseph A, Heithaus D. Hearing loss in children with Down syndrome. Int J Pediatr
+Otorhinolaryngol. 2001 Dec 1;61(3):199-205.
+134. McDermott A-L, Williams J, Kuo MJ, et al. The role of bone anchored hearing aids in children
+with Down syndrome. Int J Pediatr Otorhinolaryngol. 2008 Jun;72(6):751-7.
+135. Shott SR. Down syndrome: common otolaryngologic manifestations. Am J Med Genet C
+Semin Med Genet. 2006 Aug 15;Part C, Seminars in Medical Genetics. 142C(3):131-40.
+136. McDermott AL, Sheehan P. Bone anchored hearing aids in children. Curr Opin Otolaryngol
+Head Neck Surg. 2009 Dec;17(6):488-93.
+137. Gunasekera H, O’Connor TE, Vijayasekaran S, et al. Primary care management of otitis media
+among Australian children. Med J Aust. 2009 Nov 2;191(9 Suppl):S55-9.
+138. Pereira MB, Pereira DR, Costa SS. Tympanostomy tube sequelae in children with otitis media
+with effusion: a three-year follow-up study. Braz J Otorhinolaryngol. 2005 Jul-Aug;71(4):41520.
+139. Owen MJ, Baldwin CD, Swank PR, et al. Relation of infant feeding practices, cigarette smoke
+exposure, and group child care to the onset and duration of otitis media with effusion in the first
+two years of life. J Pediatr. 1993 Nov;123(5):702-11.
+140. Hasebe S, Takahashi H, Honjo I, et al. Organic change of effusion in the mastoid in otitis
+media with effusion and its relation to attic retraction. Int J Pediatr Otorhinolaryngol. 2000 Jun
+9;53(1):17-24.
+141. Daly KA, Hunter LL, Levine SC, et al. Relationships between otitis media sequelae and age.
+Laryngoscope. 1998 Sep;108(9):1306-10.
+142. van Cauwenberge P, Watelet JB, Dhooge I. Uncommon and unusual complications of otitis
+media with effusion. Int J Pediatr Otorhinolaryngol. 1999 Oct 5;49 Suppl 1:S119-25.
+Management of Otitis Media with Effusion in Children
+Appendix 1
+SEARCH TERMS
+The following MeSH terms or free text terms were used either singly or
+in combination:
+“Otitis Media with Effusion”[Mesh] OR “middle ear effusion” OR “glue
+ear” OR “serous otitis media” OR “secretory otitis media” OR “OME”
+AND “prevalence” OR “incidence”, “risk factors”, “Down Syndrome”,
+“cleft palate”, “prevalence” OR “incidence” OR “risk factors”, AND
+“screening programme” OR “mass screening” OR “screening method”,
+“sensitivity and specificity”, AND “clinical presentation” OR “symptom”
+OR “sign” OR “hearing loss” OR “hearing impairment”, OR “deafness”
+OR “hypoacusis” OR “hypoacuses” OR “conductive hearing loss” OR
+“poor school performance” OR “poor educational progress” OR “speech
+delay” OR “delayed language development” OR “indistinct speech” OR
+“language development disorder” OR “speech development disorder”
+OR “semantic pragmatic disorder” OR “poor school performance” OR
+“speech delay” OR “behavioral problems”.
+“Otitis Media with Effusion”[Mesh] OR “middle ear effusion” [All Fields]
+OR “glue ear” OR “serous otitis media” OR “secretory otitis media”
+OR “OME” AND “tympanometry” OR “impedance audiometry” OR
+“impedance acoustic test”, “acoustic admittance”, “pure tone audiometry”,
+“acoustic reflex”, “pneumatic otoscopy”, “otoscopy”,”tuning fork tests”,
+“Rinnes and Webers test”, AND “observ*” OR “watchful waiting” OR
+conservative OR “natural history” AND “prevent*” OR “prevention” OR
+“preventive measure” , “Vaccine” OR “vaccination” OR “immunization”
+OR “immunization” , “Smok*” OR “tobacco” OR “cigarette”, “breastfeed*”
+OR “breastmilk”, “pacifier” OR “teat” OR “dummies” OR “soother”,
+“xylitol” OR “chewing gum”.
+“Otitis Media with Effusion”[Mesh] OR “middle ear effusion” [All Fields]
+OR “glue ear” OR “serous otitis media” OR “secretory otitis media”
+AND “Steroids”[Mesh] OR “oral steroid” OR “nasal steroid”, “antibiotic”
+OR “antimicrobial”OR “antibacterial” OR “antibacterial prophylaxis” OR
+“amoxycillin” OR “clavulanic acid” OR “macrolide” OR “cephalosporin”,
+AND “mucolytic agent” OR “Acetylcysteine”, AND “supplement” OR
+“vitamin”, AND “homeopathy” OR “herbs” OR “acupuncture” OR
+“traditional medicine” OR “complementary medicine”, AND “autoinflation
+device” OR “hearing aids” OR “probiotics”, AND “antihistamine” OR
+“decongestant”.
+Management of Otitis Media with Effusion in Children
+“Otitis Media with Effusion”[Mesh] OR “middle ear effusion” [All Fields]
+OR “glue ear” OR “serous otitis media” OR “secretory otitis media”
+AND “time of surgery” OR “timing” OR “time of intervention”, AND
+“surgery” OR “myringotomy”OR “myringotomy with ventilation tube”
+OR “adenoidectomy” OR “adenoidectomy and myringotomy with
+ventilation tube”. “Middle Ear Ventilation”[Mesh] OR “ventilation tube”
+AND “serous otitis media” OR “middle ear effusion” OR “secretory otitis
+media” OR “glue ear” OR “ventilation tube” AND “adverse event” OR
+“complication”.
+“cleft palate”[MeSH] AND “Otitis Media with Effusion”[Mesh] OR
+“glue ear” OR “serous otitis media” OR “middle ear effusion” OR
+“secretory otitis media. Otitis Media with Effusion”[Mesh] OR “glue
+ear” OR “serous otitis media” OR “middle ear effusion” OR “secretory
+otitis media” AND “down syndrome” “[MeSH]. “Otitis Media with
+Effusion”[Mesh] OR “Middle Ear Ventilation”[Mesh]OR “Otitis Media
+with Effusion”[Mesh]OR “glue ear” OR “serous otitis media” OR “middle
+ear effusion” OR “secretory otitis media” OR “OME” AND ”Referral
+and Consultation”[Mesh] OR “Physician Self-Referral”[Mesh]. “Otitis
+Media with Effusion”[Mesh] OR “glue ear” OR “serous otitis media” OR
+“middle ear effusion” OR “secretory otitis media” AND “follow up” OR
+“audiological test” OR “hearing assessment” OR “Auditory Brainstem
+Response”.
+Management of Otitis Media with Effusion in Children
+Appendix 2
+CLINICAL QUESTIONS
+A. INTRODUCTION
+1. What are the epidemiological characteristics and risk factors for
+OME in children?
+2. What is the role of screening for OME in children?
+B. ASSESSMENT AND DIAGNOSIS
+1. What are the clinical presentations or symptoms suggestive of
+OME in children?
+2. How to diagnose a child with OME?
+3. What is the test performance of the various method of diagnosis?
+(Diagnostic tests: tuning fork test, otoscopy, pneumatic otoscopy,
+pure tone audiometry (PTA), tympanometry)
+C. PRINCIPLES OF MANAGEMENT
+1. What is the role of preventive measures?
+2. What are the treatment options?
+2.1 Non surgical intervention
+2.1.1 What is the role of active observation?
+2.1.2 What are the roles, clinical effectiveness and safety
+of various non surgical interventions? (steroids,
+antihistamine
+and/or
+decongestants,
+antibiotics,
+autoinflation, hearing aids)
+2.2 Surgical intervention
+2.2.1 When is the appropriate time for surgical intervention?
+2.2.2 What is the clinical effectiveness of various surgical
+procedures:
+i. Myringotomy
+ii. Myringotomy with ventilation tube
+iii. Myringotomy with ventilation tube and adenoidectomy
+iv. Other options
+2.2.3 What are the complications of ventilation tube insertion
+and their management?
+2.3 How OME in children with Down’s syndrome and cleft palate be
+managed?
+D. REFERRAL AND FOLLOW-UP
+1. When should a patient with OME be referred to an otorhinolaryngologist?
+2. What parameters are to be monitored during follow-up?
+3. What are the long-term sequelae in OME patients?
+Management of Otitis Media with Effusion in Children
+Appendix 3
+THE CONDUCT OF A DISTRACTION TEST
+The Distraction Test is a behavioural hearing test which is used as a
+screening tool for babies of six to nine months. It may also be used
+with older children if they are still at the developmental stage for the
+test. Test techniques may have to be modified but the rigour must be
+maintained.
+ð
+•
+The child is required to sit on the parent’s lap.
+•
+Different signals, like speech sounds /s/, /sh/ and /m/, sounds
+generated by noise stick, high frequency rattle, chime bar, drum,
+cup and spoon are presented randomly at 0.5 to 1 meter distance,
+next to the child’s ears.
+•
+Sharp and reliable head-turn responses or eye movements
+towards the direction of sound source are expected to be noted
+during the test.
+•
+The sound levels presented should be monitored and checked
+using a sound level meter.
+Sources:
+•
+Ewing IR, Ewing AWG. The ascertainment of deafness in infancy
+and early childhood. J Laryngol Otol. 1944;59:309-338
+•
+McCormick B. 1994. Screening for Hearing Impairment in Young
+Children. London: Whurr Publishers; 1994
+•
+Bellman S. Screening and Surveillance for Hearing-Impairment
+in Young Children. Arch Dis Child. 1989 July; 64(7): 1100
+Management of Otitis Media with Effusion in Children
+AUDITORY AND SPEECH DEVELOPMENT
+In utero
+Birth - 3 months
+4 - 6 months
+7 months
+- 1 year
+1 - 2 years
+2 - 3 years
+3 - 4 years
+4 - 6 years
+• hearing develops early
+in fetal development
+and is fully functioning
+at birth
+• smile or quiet when
+hear sounds
+• startle when hear loud
+noise
+• moving the eyes to the
+direction of sound give
+different respond to
+various sounds
+• turning head to the
+direction of sound
+• identify body parts
+when asked
+• understanding two
+words instruction e.g.
+go toilet
+• can answer simple
+question for common
+activities, e.g. playing
+ball
+• points to common
+objects described by
+their use
+• answer simple ‘how?’
+questions
+• tell two events in order
+of occurrence
+• answer ‘why?’ question
+with an explanation
+-
+• babble “ooing” or
+“yooing”
+• smiles at familiar
+faces e.g. parents
+• imitates different sounds
+• saying one word e.g.
+“mama”, “baba” or
+“mummy”
+• uses two words
+sentences meaningfully
+e.g. “nak makan”
+• uses three words or
+more
+• names familiar
+environmental
+sounds
+• asks questions, e.g.
+what is this/that?
+• uses four word
+sentences or more
+• able to carries on a
+simple conversation
+• uses last night
+oryesterday
+and tommorrow
+meaningfully
+• able to tell a simple
+story
+Chronological
+age
+Hearing development
+Speech development
+Management of Otitis Media with Effusion in Children
+Appendix 4
+OTOSCOPIC APPEARANCE OF OME
+Pneumatic otoscopy
+Fig. 1 Normal otoscopy of
+Left Tympanic Membrane (TM)
+Translucent pearly white TM with a cone of
+light reflex at the anterior-inferior quadrant:
+1. Cone of light at the antero-inferior quadrant
+2. Handle of malleus
+3. Lateral process of malleus
+Otoscopic findings in Otitis Media with Effusion (OME)
+Fig. 2a Retracted Left TM
+Prominent lateral process of malleus and
+attic retraction
+Fig. 2b Fluid in the right middle ear
+The TM is retracted with a prominent
+malleus (M) and incus (I) with dullness
+of TM and loss of light reflex. The middle
+ear cavity is filled with fluid (below the red
+dotted line)
+Fig. 2c Fluid with air bubbles in the
+right middle ear
+Management of Otitis Media with Effusion in Children
+Fig. 3 Right TM with VT in-situ
+Otoscopic findings of other common middle ear diseases
+Fig. 4 Myringosclerosis of left TM
+Chalk-white patches on the TM (arrow)
+Fig. 5 Acute otitis media
+The TM is bulging and inflamed (arrow).
+Patient may present with otalgia, fever and
+URTI. As disease progress, the TM may
+rupture resulting in mucopus otorrhoea
+and pain relief.
+Fig. 6 Perforated TM
+Large central perforation of left TM
+Fig. 7 Cholesteatoma of Right Ear
+Foul smelling discharge with whitish keratin
+debris from an attic (superior) perforation
+(arrow). This case needs urgent referral.
+Images courtesy of Dr. Philip Rajan, Dr. Sobani Din,
+Assoc. Prof. Dr. Rahmat Omar & Prof. Dr. Prepageran Narayanan
+Management of Otitis Media with Effusion in Children
+CLASSIFICATION OF PARS TENSA RETRACTION (SADE)
+CLASSIFICATION OF PARS FLACCIDA RETRACTION (TOSS)
+Grade I
+Slight retraction of the TM over
+the annulus
+Grade Il
+The TM touches the long process
+of the incus (arrow)
+Grade III (Atelactasis)
+The TM touches the promontory
+(arrow)
+Grade IV (Adhesive)
+The TM is adherent to the
+promontory (arrow)
+Grade 0
+Normal right TM
+Grade 1
+Slight dimple of pars flaccid, not
+touching the neck of malleus (arrow)
+Grade 2
+Pars flaccida (Shrapnell’s
+membrane) retracted
+maximally & draped over
+the neck of the malleus
+(arrow)
+Grade 3
+Stage 2 + erosion of the
+scutum (outer attic wall)
+Grade 4
+Full blown retraction
+pocket (arrow). Deep
+retraction, keratin cannot
+be reached by suction
+clearance.
+Management of Otitis Media with Effusion in Children
+Appendix 5
+TYPES OF TYMPANOGRAM
+(Jerger Classification 1970)
+1. Type A tympanogram
+In type A, the peak compliance
+occurs at/or near atmosphere
+pressure (0 daPa) indicating
+normal pressure within the
+middle ear.
+This indicates normal middle
+ear pressure.
+2. Type B tympanogram
+In type B, there is no sharp
+peak (flat) with little or no
+variation in the impedance.
+This
+indicates
+presence
+of fluid in the middle ear
+(OME), tympanic membrane
+perforation
+or
+ear
+wax
+occluding the external ear
+canal.
+In OME, the ear canal volume
+is normal.
+3. Type C tympanogram
+In
+type
+C,
+the
+peak
+compliance
+is
+significantly
+below 0 (usually ≤ -150 daPa)
+indicating negative pressure
+within the middle ear.
+This
+indicates
+Eustachian
+tube dysfunction.
+Management of Otitis Media with Effusion in Children
+AUDIOGRAM
+The audiogram is a graph showing the results of the pure-tone hearing
+tests. It illustrates the type, degree and configuration of hearing loss.
+The frequency or pitch of the sound is referred to in Hertz (Hz). The
+intensity or loudness of the sound is measured in decibels (dB). The
+responses are recorded on a chart called an audiogram that shows
+intensity levels for each frequency tested.
+Sources:
+•
+American Speech-Language-Hearing Association (ASHA) Working
+Group on Aural Acoustic-Immittance Measurements, Committee on
+Audiologic Evaluation. Tympanometry. Available from http://www.
+asha.org/docs/pdf/RP1988-00027.pdf
+•
+American
+Speech-Language-Hearing
+Association
+(ASHA).
+Audiometric Symbols. Available from http://www.asha.org/docs/
+html/GL1990-00006.html
+Management of Otitis Media with Effusion in Children
+Appendix 6
+LIST OF MEDICATION DOSAGES AND SIDE EFFECTS IN
+CHILDREN WITH OTITIS MEDIA WITH EFFUSION
+Source:
+•
+Lacy C, Armstrong LL, Goldman MP. Drug Information Handbook
+International (18th Edition). Hudson: Lexi-Comp; 2006
+Drug
+Recommended
+Dosages
+Side
+Effects
+Steroids
+Intranasal
+Mometasone
+Furoate
+1 spray (50 mcg)
+in each nostril daily
+Intranasal
+Beclomethasone
+Dipropionate
+6 - 12 years of age:
+start with 1 spray
+(42 mcg) in each
+nostril twice daily;
+may increase to 2
+inhalations in each
+nostril.
+Epistaxis,
+localised
+Candida
+infection
+May cause
+growth
+retardation in
+children
+Not
+recommended
+for children below
+6 years of age
+Intranasal
+Fluticasone
+Furoate
+1 spray (27.5 mcg)
+in each nostril daily
+(TDD = 55 mcg).
+Can increase to 2
+sprays in each
+nostril daily
+(TDD=110 mcg)
+Nasal
+ulceration,
+epistaxis,
+cough,
+nausea
+Not
+recommended
+for children below
+2 years of age
+Drug
+Class
+Cautions and
+Contraindications
+Comments
+Headache,
+cough,
+viral infection,
+epistaxis
+Not recommended
+to be used in
+children below 2
+years old
+May cause suppression
+of hypothalamicpituitary-adrenal axis,
+particularly in younger
+children or in patients
+receiving high doses
+for prolonged
+periods
+Management of Otitis Media with Effusion in Children
+Appendix 7
+INFORMATION FOR PATIENT ON MYRINGOTOMY AND
+VENTILATION TUBE INSERTION
+What is myringotomy?
+A myringotomy is the making of a small opening in the tympanic
+membrane (eardrum). The operation is performed through the ear
+without external incision.
+What is a ventilation tube (grommet)?
+A ventilation tube is a small tube (ranging from 1.04 - 1.54 mm in
+diameter) which is inserted onto the tympanic membrane.
+Why does a child need this operation?
+This operation is performed to ventilate (aerate) the middle ear, to drain
+the middle ear fluid and to prevent the fluid reaccumulation. This should
+improve the hearing if the hearing loss is due to OME.
+How long does the ventilation tube stay in-situ?
+It depends on the type of ventilation tube. The short term ventilation
+tube usually will come out on its own after 3 to 6 months.
+What type of anaesthetic will a child require?
+The operation is usually performed under general anaesthesia.
+What should be expected after the operation?
+The child may be drowsy for a few hours post-operatively.
+What are the risks and consequences after the operation?
+Most operations are safe; however there is a small chance of side
+effects/complications such as:
+•
+Ear pain
+There will be slight discomfort or mild ear pain which will usually
+subsides within 1 - 2 days and does not require analgesics.
+Paracetamol can be given for analgesia.
+Management of Otitis Media with Effusion in Children
+•
+Discharge from ears
+Minimal blood-stained discharge may be present for a few days.
+If mucopurulent discharge occurs, medical attention is required.
+•
+Side effects of anaesthesia
+The child may feel drowsy, nauseated and vomiting due to the
+anaesthetic medications.
+•
+Fever
+A low grade fever (less than 38
+0C) is normal after surgery.
+What are the post-operative instructions?
+•
+Do not insert anything into the ear canal to clean the discharge.
+Outer ear can be wiped with clean and dry cloth.
+•
+The ears should remain dry. Avoid water entering the ears by
+plugging the ear with vaseline-smeared cotton or ear plug while
+taking bath. Swimming should be avoided for a few weeks. After
+that, children are encouraged to wear ear plugs and a properlyfitting cap whenever they are swimming.
+•
+Most children can return to day care or school once they are fully
+recovered from the anaesthetic effect.
+•
+A child who develops upper respiratory tract infection should be
+managed the usual manner. Minimal clear ear discharge can be
+expected.
+•
+There is no contraindication for air travel. The ventilation tube will
+protect the ears from any pressure-related pain
+When should the child seen by a doctor?
+•
+High grade fever of more than 38
+0C
+•
+Continuous ear bleeding or discharge
+•
+Severe pain not relieved with analgesics
+Management of Otitis Media with Effusion in Children
+LIST OF ABBREVIATIONS
+ABR
+auditory brainstem response
+AOM
+Acute Otitis Media
+ASR
+acoustic stapedial reflex
+CHL
+conductive hearing loss
+CI
+confidence interval
+CLP
+cleft lip and palate
+CPG
+clinical practice guidelines
+CSOM
+Chronic Suppurative Otitis Media
+CT
+computed tomography
+daPa
+dekapascal
+dB
+decibel
+dB HL
+decibel hearing level
+dBnHL
+decibel normalised hearing level
+DPOAE(s)
+distortion product otoacoustic emission(s)
+DS
+Down syndrome
+Hz
+hertz
+mcg
+microgram
+MoH
+Ministry of Health
+NICE
+National Institute for Clinical Excellence
+OAE(s)
+otoacoustic emission(s)
+OME
+Otitis Media with Effusion
+OR
+odds ratio
+ORL
+Otorhinolaringology
+PTA
+pure tone audiometry
+PTACT
+PTA air conduction threshold
+RC
+Review Committee
+RCT(s)
+randomised controlled trial(s)
+RD
+risk difference
+RR
+relative risk
+RRI
+relative risk of improvement
+SA
+static admittance
+SIGN
+Scottish Intercollegiate Guideline Network
+SNHL
+sensorineural hearing loss
+SR
+systematic review
+TEOAE(s)
+transient evoked otoacoustic emission(s)
+TM
+tympanic membrane
+TDD
+total daily dose
+URTI
+Upper respiratory tract infection
+vs
+versus
+VT
+ventilation tube
+WMD
+weighted mean difference
+WW
+watchful waiting
+Management of Otitis Media with Effusion in Children
+ACKNOWLEDGEMENT
+The members of development group of these guidelines would like
+to express their gratitude and appreciation to the following for their
+contributions:
+• Panel of external reviewers who reviewed the draft
+• Mdm Zalina Ahmad, Mdm Sin Lian Thye and Ms Loong Ah Moi of
+Health Technology Assessment Unit, Medical Development Division,
+MOH
+• Technical Advisory Committee for CPG for their valuable input and
+feedback
+• All those who have contributed directly or indirectly to the development
+of the CPG
+DISCLOSURE STATEMENT
+The panel members had completed disclosure forms. None held shares
+in pharmaceutical firms or acts as consultants to such firms. (Details
+are available upon request from the CPG Secretariat)
+SOURCES OF FUNDING
+The development of the CPG on Management of Otitis Media
+with Effusion in Children was supported financially in its entirety
+by the Ministry of Health Malaysia without any involvement of the
+pharmaceutical industry.
+Management of Otitis Media with Effusion in Children

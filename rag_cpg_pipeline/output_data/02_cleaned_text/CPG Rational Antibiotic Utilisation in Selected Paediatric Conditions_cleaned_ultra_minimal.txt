@@ -1,0 +1,1380 @@
+CLINICAL PRACTICE GUIDELINES
+December 2004
+MOH/P/PAK/82.04(GU)
+i
+RATIONAL ANTIBIOTIC UTILISATION
+IN SELECTED PAERDIATRIC
+CONDITIONS
+MINISTRY O
+ALAYSIA
+ACADE
+F HEALTH M
+MY OF MEDICINE MALAYSIA
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+Statement of Intent
+This clinical practice guideline is meant to be a guide for clinical practice based on the
+best available evidence at the time of development. Adherence to these guidelines may
+not necessarily ensure the best outcome in very case. Every health care provider is
+responsible for the management of his/her unique patient based on the clinical picture
+presented by the patient and the management options available locally
+Review of Guidelines
+This guideline was issued in 2004 and will be reviewed in 2006 or sooner if new
+evidence becomes available
+Health Technology Assessment Unit
+Medical Development Division
+Ministry of Health Malaysia
+Level 4, Block E1, Precinct 1
+Government Office Complex
+62590, Putrajaya
+Available on the following website: http://www.moh.gov.my
+http://www.acadmed.org.my
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+Guidelines Development
+The work group for the development of these guidelines comprised paediatricians and a
+pharmacist from various Ministry of Health facilities. These guidelines are based on the
+findings of health technology assessment on the same topic, as well as a systematic
+review of current medical literature, taking into consideration local medical practice and
+local microbiology patterns and trends of antimicrobial resistance. The ranking of
+evidence is based on a modified version of that suggested by the Catalonia Agency for
+Health Technology Assessment and Research (CAHTAR) Spain, while the grading of
+recommendations in these guidelines emulates those used by the Scottish Intercollegiate
+Guidelines Network (SIGN). The draft guidelines were posted on both the Ministry of
+Health Malaysia and Academy of Medicine, Malaysia websites for comment and
+feedback. These guidelines have also been presented to the Technical Advisory
+Committee for Clinical Practice Guidelines and Health Technology Assessment and
+Clinical Practice Guidelines Council, Ministry of Health Malaysia for review and
+approval.
+Objectives
+The aim of this guideline is to aid doctors in general practice and pediatricians in clinical
+decision making by providing well-balanced evidence based information on the rational
+utilisation of antibiotics in selected paediatric conditions.
+Clinical Questions
+The clinical questions for these guidelines are:
+(i)
+Which are the situations in selected paediatric conditions where antibiotic
+use should be considered?
+(ii)
+Which are the antibiotics recommended to be used in selected paediatric
+conditions?
+Target Population
+These guidelines are applicable to paediatric patients with specific conditions.
+Target Group
+These guidelines are meant for all health care providers who provide clinical
+management of children.
+General Principles of Antibiotics Administration
+1.
+The choice of antibiotics should be based on the local prevalence of infecting
+bacterial pathogens and antimicrobial resistance patterns, toxicity of antibiotics, results of
+clinical trials, and host factors such as degree of severity and ease of administration
+[Grade C].
+2.
+Initial antibiotic therapy should be continued for at least 3-5 days for Febrile
+Neutropenia and for 2 -3 days in Meningitis, Community Acquired Pneumonia, Sepsis in
+children and neonates to determine its effectiveness [Grade C].
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+3.
+The choice of subsequent antibiotics should be guided by clinical response and
+result of cultures and susceptibility [Grade C].
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+GUIDELINES COMMITTEE
+1.
+Dr Tan Kah Kee
+Chairman
+Consultant Paediatrician
+Department of Paediatrics
+Seremban Hospital
+2.
+Dr N Nachal
+Consultant Paediatrician
+Department of Paediatrics
+Tengku Ampuan Rahimah Hospital, Klang
+3.
+Dr Soo Min Hong
+Consultant Paediatrician
+Department of Paediatrics
+Kajang Hospital
+4.
+Dr Wan Jazilah Wan Ismail
+Consultant Paediatrician
+Department of Paediatrics
+Kuala Lumpur Hospital
+5.
+Dr Syed Zulkifli Syed Zakaria
+Consultant Paediatrician
+Department of Paediatrics
+National University of Malaysia Hospital
+6
+Cik Hadijah Mohd Taib
+Pharmacist
+Kuala Lumpur Hospital
+Guidelines Coordinator
+Ms Sin Lian Thye
+Nursing Officer
+Health Technology Assessment Unit
+Ministry of Health Malaysia
+Reviewed and edited by
+Dr S Sivalal
+Head, Health Technology Assessment Unit
+Deputy Director
+Medical Development Division
+Ministry of Health Malaysia
+Acknowledgement
+The contribution of the following is deeply appreciated:
+1.
+Dr N Jayeseelan, Consultant Paediatrician, Teluk Intan Hospital, Dr Hung Liang Choo, Consultant
+Paediatrician, Kuala Lumpur Hospital for their valuable input in the preparation of the health technology
+assessment report on which this guideline is based.
+2.
+All those who had provided valuable input and feedback on the draft guidelines.
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+LEVELS OF EVIDENCE SCALE
+Level
+Strength of evidence
+Study design
+1
+Good
+Meta-analysis of RCT, Systematic review
+2
+Good
+Large sample RCT
+3
+Small sample RCT
+4
+Good to Fair
+Non-randomised controlled prospective trial
+5
+Fair
+Non-randomised controlled prospective trial with
+historical control
+6
+Fair
+Cohort studies
+7
+Poor
+Case-control studies
+8
+Poor
+Non-controlled clinical series, descriptive studies
+multi-centre
+9
+Poor
+Expert committees, consensus, case reports,
+anecdotes
+(Adapted from Catalonian Agency for Health Technology Assessment & Research, [CAHTAR] Spain)
+GRADE OF RECOMMENDATIONS
+A At least one meta analysis, systematic review, or RCT, or evidence rated as
+good and directly applicable to the target population
+B Evidence from well conducted clinical trials, directly applicable to the target
+population, and demonstrating overall consistency of results; or evidence
+extrapolated from meta analysis, systematic review, or RCT
+C Evidence from expert committee reports, or opinions and /or clinical
+experiences of respected authorities; indicates absence of directly applicable
+clinical studies of good quality
+(Adapted from Scottish Intercollegiate Guidelines Network [SIGN])
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+TABLE OF CONTENTS
+1.
+INTRODUCTION
+1
+2.
+RECOMMENDATIONS
+1
+Algorithm for initial management of Febrile Neutropenia
+3
+REFERENCES
+4
+COMMUNITY ACQUIRED PNEUMONIA
+1.
+INTRODUCTION
+5
+2.
+AETIOLOGY
+5
+2.1
+Bacterial Aetiological Agents
+5
+2.2
+Viral Aetiological Agents
+5
+3.
+CLINICAL ASSESSMENT AND INVESTIGATION
+5
+3.1
+Clinical Diagnosis
+5
+3.2
+Laboratory Diagnosis
+6
+4.
+MANAGEMENT
+6
+4.1
+Empirical Treatment
+6
+4.2
+Specific Treatment
+7
+Algorithm for management of Community Acquired Pneumonias
+8
+REFERENCES
+9
+BACTERIAL MENINGITIS
+1.
+INTRODUCTION
+11
+1.1
+Bacterial meningitis
+11
+2.
+EFFECTIVENESS OF ANTIBIOTIC USE
+11
+2.1
+Haemophilus Influenza type b Meningitis
+11
+2.2
+Streptococcus Pneumoniae Meningitis
+11
+2.3
+Penicillin Resistant Streptococcus Pneumoniae Meningitis
+12
+2.4
+Neisseria Meningitides Meningitis
+12
+3.
+ADJUVANT DEXAMETHASONE ADMINISTRATION IN BACTERIAL
+MENINGITIS
+12
+4.
+RECOMMENDATIONS
+13
+Algorithm for treatment of Bacterial Meningitis
+14
+REFERENCES
+15
+SEPSIS IN CHILDREN
+1.
+INTRODUCTION
+17
+2.
+INVESTIGATIONS
+17
+3.
+MANAGEMENT
+17
+3.1
+Community Acquired Bacterial Sepsis in Previously Healthy Children
+17
+3.2
+Nosocomial Sepsis
+17
+3.3
+Adjuvant therapy
+17
+4.
+RECOMMENDATIONS
+18
+Algorithm for treatment of Sepsis In Children
+19
+REFERENCES
+20
+NEONATAL SEPSIS
+1.
+INTRODUCTION
+21
+2.
+CLINICAL PRESENTATION
+21
+3.
+DIAGNOSIS AND INVESTIGATIONS
+21
+4.
+MANAGEMENT
+21
+5.
+RECOMMENDATIONS
+23
+Algorithm for treatment of Neonatal Sepsis
+24
+REFERENCES
+25
+Appendix 1 - RECOMMENDED DOSAGES OF SELECTED ANTIBIOTICS
+28
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+1.
+INTRODUCTION
+Febrile neutropenia is a common consequence of anticancer chemotherapy, fever being
+defined as a single oral temperature of more than or equal to 38.3°C with a neutrophil
+count of less than 500 cells/mm3 (Hughes et al, 1997, level 2). Cancer patients receiving
+myelosuppressive chemotherapy develop severe neutropenia and are at a high risk of
+developing life-threatening infections (Charnas, Luthi & Ruch, 1997, level 1; Cometta et
+al, 1996). Bacterial infections are a common cause of morbidity and mortality in
+neutropenic cancer patients (Freifeld & Pizzo, 1997, level 9), with a microbiologic cause
+for the febrile episode being demonstrated in approximately 40% cases (Charnas, Luthi &
+Ruch, 1997, level 1). These patients are at risk of endogenous flora, especially aerobic
+Gram-negative bacteria residing in the gastrointestinal tract and also those pathogens
+colonizing on normal or damaged mucosa or skin surfaces, like Gram-negative bacilli
+(Enterobacteriaceae, Klebsiella pneumoniae) or Gram-positive cocci (Staphylococcus
+aureus, Staphylococcus epidermidis and viridans streptococci) (Charnas, Luthi & Ruch,
+1997, level 1; Patrick, 1997).
+Since febrile neutropenic patients fail to mount a full inflammatory response, and the
+current diagnostic tests are not sufficiently rapid, sensitive or specific for identifying or
+excluding the microbial cause of a febrile episode, these patients may have to be treated
+empirically. The risk of infection increases ten-fold with declining neutrophil counts. It
+has been shown that with absolute neutrophil counts between 100 and 500/mm3,
+infection rates rise from 0.5 to 5 infections per 100 days, while 16 - 20% of patients with
+neutrophil counts less than 100/mm3 have bacteremia (Hughes et al, 1997, level 1). The
+prompt institution of empiric antibiotic therapy for febrile neutropenic patients, without
+waiting 24 to 48 hours for the results of blood cultures, has been shown to dramatically
+reduce infection-related morbidity and mortality in the cancer population undergoing
+chemotherapy (Freifeld & Pizzo, 1997, level 9). Empiric antibiotic therapy has become a
+standard of care for the febrile neutropenic patient. Numerous clinical trials have
+demonstrated that any one of a number of empiric antibiotic regimens may preserve the
+patient through the critical time of fever and neutropenia, including a variety of antibiotic
+combinations and more recently potent antibiotic monotherapies (Freifeld & Pizzo, 1997,
+level 9). Consequently, there is universal agreement in the literature that broad spectrum
+antibiotics should be instituted for all cases of febrile neutropenia because of the
+significant morbidity and mortality associated with bacterial sepsis in patients with fever
+and cancer (Freifeld & Pizzo, 1997, level 9 ).
+2.
+RECOMMENDATIONS
+i.
+Empirical broad spectrum antibiotics, covering both gram-positive and gram-
+negative pathogens, should be commenced for all febrile neutropenic patients
+[ Grade A].The choice of initial empirical antibiotics, however, remains
+controversial (Ministry of Health Malaysia, 2003, level 1;Mustafa et al, 2001,
+level 3; Duzova et al, 2001, level 3; Fleischack et al, 2001, level 2; Kebudi et al,
+2001, level 3; Furno et al, 2000, level 2; Petrilli et al, 2000, level 3).
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+ii. Monotherapy with third-generation cephalosporins such as Ceftazidime (Ministry
+of Health Malaysia, 2003, level 1;Kebudi et al, 2001, level 3) and Ceftriaxone
+(Ministry of Health Malaysia, 2003, level 1;Karthaus et al, 1998, level 3) or
+fourth-generation cephalosporins such as Cefepime (Ministry of Health Malaysia,
+2003, level 1;Mustafa et al, 2001, level 3), or Imipenem (Raad et al, 1998, level 9)
+and Meropenem (Ministry of Health Malaysia, 2003, level 1;Duzova et al, 2001,
+level 3) are equally efficacious and safe compared to combination chemotherapy
+with antipseudomonal beta-lactams and aminoglycosides [Grade A ]
+iii. Instead of monotherapy, combination therapy with a beta-lactam antibiotic and an
+aminoglycoside can also be initiated, like combinations of Ceftazidime and
+Amikacin (Ministry of Health Malaysia, 2003, level 1; Hughes et al, 1997, level
+2), Ceftriaxone and Amikacin (Ministry of Health Malaysia, 2003, level
+1;Charnas, Luthi & Ruch, 1997, level 1) and Piperacillin and Amikacin (Ministry
+of Health Malaysia, 2003, level 1;Hughes et al, 1997, level 2 ) [Grade A ] .
+iv. In centers where Methicillin Resistant Staphylococcal areus(MRSA) is prevalent,
+Vancomycin (Ministry of Health Malaysia, 2003, level 1; Hughes et al, 1997,
+level 2) may be considered in addition to broad gram-negative coverage with third
+generation
+cephalosporins
+such
+as
+Ceftazidime,
+or
+fourth-generation
+cephalosporins such as Cefepime [Grade C].
+.
+v. Antifungal therapy may be considered after 5-7 days of persistent fever in cancer
+patients with febrile neutropenia who have received adequate and appropriate
+antibacterial therapy [Grade B ].
+vi. Routine antiviral therapy at the onset of febrile neutropenia is not recommended
+[Grade C ].
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+ALGORITHM FOR MANAGEMENT OF FEBRILE NEUTROPENIA
+Fever (temperature ≥ 38.30 C) & Neutropenia ( < 500 neutrophils/mm3 )
+Start initial empirical antibiotic
+Monotherapy with
+1) Ceftazidime
+2) Cefepime
+3) Imipenem
+4) Meropenem
+OR
+Add
+Vancomycin
+if MRSA
+suspected
+Consider local
+prevalence &
+susceptibility pattern
+Combination therapy with
+1) Ceftazidime +
+Amikacin
+2) Ceftriaxone +
+Amikacin
+3) Piperacillin +
+Amikacin
+Reassess after 3-5 days
+(Earlier if necessary)
+Continue antibiotics
+(pending cultures) if
+patient responding
+clinically
+Adjust antibiotics if
+culture results available
+Consider
+antifungal therapy
+after 5-7 days if
+fever persistent
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+REFERENCES
+1. Charnas R, Luthi AR, Ruch W. (1997) Once daily ceftriaxone plus amikacin vs three
+times daily ceftazidime plus amikacin for treatment of febrile neutropenic children
+with cancer. Pediatr Infect Dis J;16, pp 346-53.
+2. Cometta A, Viscoli C, Castagnola E , Massimo L et al, .(1996) Empirical treatment
+fever In neutropenic children: the role of the carbapenems. Pediatr Infect Dis J, 15,
+pp 744-8.
+3. Duzova A, Kutluk T, Kanra G, B uyukpamukcu M, Akyuz C, Secmeer G et al,. (2001)
+Monotherapy with meropenem versus therapy with piperacillin plus amikacin as
+empiric therapy for neutropenic fever in children with lymphoma and solid tumors.
+Turk J Pediatr ; 43, pp105-9.
+4. Fleischack G, Hartmann C, Simon A, Wulff B, Havers W, Marklein G et al.(2001)
+Meropenem versus ceftazidime as empirical monotherapy in febrile neutropenia of
+paediatric patients with cancer. J Antimicrob Chemother, 47, pp 841-53.
+5. Freifeld A, Pizzo P. (1997) Use of fluoroquinolones for empiral management of
+febrile neutropenia in pediatric cancer patients. Pediatr Infect Dis J,16, pp140-6.
+6. Furno P, Dionisi MS, Bucaneve G, Menichetti F, Del Favero A.(2000) Ceftriaxone
+versus beta-lactams with antipseudomonal activity for empirical,combined antibiotic
+therapy in febrile neutropenia:a meta-analysis. Supportive Care in Cancer, 8, pp 293301.
+7. Hughes WT , Armstrong D, Bodey GP, Brown AE, Edwards JE, Feld R et al,. (1997).
+Guidelines for the use of antimicrobial agents in neutropenic patients with
+unexplained fever. Clin Infect Dis; 25, pp 551-73.
+8. Karthaus M, Wolf HH, Kampfe D, Egerer G, Ritter J, Peters G et al.(1998)
+Ceftriaxone monotherapy in the treatment of low-risk febrile neutropenia. Chemother
+44, pp 343-54.
+9. Kebudi R, Gorgun O, Ayan I, Gurler N, Akia F, Torea K. (2001) Randomized
+comparison of cefepime versus ceftazidime monotherapy for fever and neutropenia in
+children with solid tumors. Med Pediatr Oncol, 36, pp 434-41.
+10. Ministry of Health Malaysia (2003) Rational Antibiotic Utilisation in Selected
+Paediatric Conditions, Health Technology Assessment
+11. Mustafa MM, Carlson L, Tkaczewski I, McCracken Gh, Buchanan GRet al. (2001)
+Comparative study of cefepime versus ceftazidime in the empiric treatment of
+pediatric cancer patients with cancer and neutropenia. Pediatr Infect Dis J, 20, pp
+362-9.
+12. Patrick CC. (1997) Use of fluoroquinolones as prophylactic agents in patients with
+neutropenia. Pediatr Infect Dis J, 16, pp135-9.
+13. Petrilli AS, Dantas LS, Campos MC, Tanaka C, Ginani VC, Seber (2000) A. Oral
+ciprofloxacin vs. intravenous ceftriaxone administered in an outpatient setting for
+fever and neutropenia in low-risk pediatric oncology patients: randomized
+prospective trial. Med Pediatr Oncol 34(2), Feb, pp 87-91.
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+COMMUNITY ACQUIRED PNEUMONIA
+1.
+INTRODUCTION
+Community acquired pneumonia may be defined as the presence of clinical signs and
+symptoms of pneumonia in a previously healthy child due to an infection acquired
+outside the hospital (British Thoracic Society, 2002). However, definitive information
+about causative organisms is seldom available at clinical presentation (McCracken, 2000),
+and current diagnostic techniques are not sufficiently sensitive to detect all relevant
+pathogens.
+.
+2.
+AETIOLOGY
+A causative pathogen is identified in 43% - 85% of community acquired pneumonias in
+childhood (Wubbel et al, 1999, level 3; Juven et al, 2000; level 8), with a significant
+proportion (8% - 40%) being mixed infections. Studies have shown prevalence of
+particular pathogens at specific age groups as indicated below:
+2.1
+Bacterial Aetiological Agents
+Streptococcus pneumoniae while being the most common bacterial cause of pneumonia
+in children under 2 years (Drummond et al, 2000, level 8), remains an important
+organism in the aetiology of community acquired pneumonias in children of all ages.
+Mycoplasma pneumoniae and Chlamydia pneumoniae become more prevalent with
+increasing age from above 5 years (Heiskanen-Kosma et al, 1998, level 5;Wubbel et al,
+1999, level 3).
+2.2
+Viral Aetiological Agents
+Respiratory syncytial virus (RSV) is the commonest cause of lower respiratory infections
+in infants and younger children (Sonoda et al, 1999, level 5; Videla et al, 1998, level 8;
+Hijazi et al, 1997, level 8), while other viruses are Parainfluenza, Influenza, Adenovirus
+(Juven et al, 2000, level 8;; Chan et al, 1999).
+3.
+CLINICAL ASSESSMENT AND INVESTIGATION
+3.1
+Clinical Diagnosis
+Viral and bacterial pneumonia cannot be distinguished on clinical features alone.
+However, clinical signs such as tachypnoea (defined by WHO’s ARI case management
+guideline as respiratory rate > 60/min.in infants under 2 months, > 50/min in infants 2 –
+12 months and > 40/min for children more than 12 months) is a useful sign, where the
+severity of the tachypnoea relates to the severity of the illness. In children older than 3
+years, pneumonia can occur even in the absence of tachypnoea.
+Fever is an important clinical sign. A young child with mild symptoms and low grade
+temperature is most likely to have a viral infection, whereas, high fever of more than
+39°C with a history of rapid onset, with signs and symptoms of respiratory distress is
+suggestive of pneumonia of bacterial origin.
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+Wheezing is likely to be associated with viral lower respiratory infection in younger
+children. However, when wheezing is present in older school-going children associated
+with fever, headache, arthralgia and cough, mycoplasma infection has to be considered.
+While auscultatory findings are not useful in differentiating viral from bacterial causes,
+the presence of staphylococcal skin infections or history of contact may point to the
+probable cause causative agent.
+3.2
+Laboratory Diagnosis
+Laboratory investigations to establish the aetiological agent are not indicated in children
+with community acquired pneumonias well enough to receive ambulatory treatment.
+However, in children with pneumonias requiring inpatient treatment, investigations to
+identify the probable aetiological agents should be carried out:
+i. Culture of lung aspirate/pleural fluids, nasopharyngeal secretions and blood
+sample. Invasive procedures like biopsy or needle aspirate of lung tissues are
+rarely carried out in children with acute pneumonias. Where significant pleural
+effusion is present, the pleural fluid is aspirated for culture, direct microscopic
+examination and antigen detection. Nasopharyngeal bacterial secretions correlate
+poorly while viral culture is time consuming. Blood culture should be done for
+any ill child with pneumonia, for which most studies report not more than 10%
+positive results.
+ii. Rapid antigen identification for viral pathogens especially RSV should be
+carried out for young infants with lower respiratory tract infections.
+iii. Serological testing for Mycoplasma pneumonie, if available, may be
+considered to assist in the management of suspected cases.
+4.
+MANAGEMENT
+Pneumonia in young children with mild symptoms of lower respiratory infections are
+likely to be viral in aetiology and hence antibiotics need not be used [Grade B ]
+4.1
+Empirical Treatment
+Children of all age groups who are toxic, febrile (temperature >39°C) and with
+respiratory distress (tachypnoea or difficulty in breathing) are most likely to have
+bacterial pneumonias that warrant empirical antibiotic therapy.
+For ambulatory treatment, oral Amoxicillin is recommended for children aged 5 years or
+below, and Macrolides for older children and adolescents (Ministry of Health Malaysia,
+2003, level 1;Grant & Ingram, 2000, level 9) [Grade B ]
+For hospitalized patients, Penicillin, Macrolides or Cefuroxime plus Macrolides are
+recommended (Ministry of Health Malaysia, 2003, level 1;Ruskanen & Mertsole, 1999,
+level 9). In ill young patients where Staphylococcus pneumonia is suspected, intravenous
+Cloxacillin or Flucloxacillin should be added ( Ministry of Health Malaysia, 2003, level 1;
+Straus et al, 1998, level 1) [Grade A]
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+4.2
+Specific Treatment
+Specific therapy can be instituted if the causative organism is identified by culture or
+antigen detection.
+a) Pneumonia due to Pneumococcus, Group A Streptococcus, Haemophilus influenzae b
+- Amoxycillin-Clavulanate , Amoxycillin, Penicillin G or Cefuroxime ( Ministry
+of Health Malaysia, 2003, level 1; Olivier, 2000, level 9; Wubbel et al, 1999, level 1;
+Grimwood et al, 1997, level 9) [Grade B]
+b) Pneumonia due to penicillin resistant Streptococcus pneumoniae
+- No significant difference in response to conventional antibiotic regimes
+( Ministry of Health Malaysia, 2003, level 1; Tan et al, 1998, level 8)
+c) Mycoplasma pneumoniae and Chlamydia pneumoniae
+- Macrolides is recommended as empirical antimicrobial treatment in children 5
+years and above. Of the Macrolides, Azithromycin has better eradication of C.
+pneumoniae and M .pneumoniae (Ministry of Health Malaysia, 2003, level 1;
+Harris et al, 1998, level 1). Macrolides is considered since C pneumoniae is an
+important cause of community acquired pneumonia in school children (Ministry
+of Health Malaysia, 2003, level 1; Heiskanan–Kosma et al, 1999, level 8) [Grade
+B]
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+ALGORITHM MANAGEMENT OF COMMUNITY ACQUIRED PNEUMONIAS
+Children with Community Acquired Pneumonias
+Clinical Assessment
++/- Investigations
+(Lab & X rays)
+Viral
+-young infants
+-wheeze,
+recession
+-± tachypnoea
+-low grade temp
+Bacterial
+-temp > 38.5°C
+-tachypnoeic
+-recession
+-SOB in older child
+Outpatient
+Inpatient
+Below 5 years
+5 years & above
+-Amoxycillin
+-Amoxycillin
+clavulanate
+± macrolides
+-Macrolides
+-Penicillin
+-Macrolides
+- Cefuroxime + Macrolides
+Add
+Cloxacillin or Flucloxacillin
+if Staph aureus is suspected
+Antibiotic not needed
+Empirical Antibiotic
+-Continue
+antibiotics(pending
+culture) if patient
+responding clinically
+-Adjust antibiotics if
+culture results available
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+REFERENCES
+1. BTS Guideline for Management of Community Acquired Pneumonias in
+Childhood 2002 ; Thorax, 57 , pp i1-i24
+2. Chan PW, Goh AY, Chua KB, Kharullah NS, Hooi PS (1999) Viral aetiology of
+lower respiratory tract infection in young Malaysian children. J Paed Child
+Health, 35(3), Jun, pp 287-90
+3. Drummond P, Clark J, Wheeler J, Galloway A, Freeman R, Cant A (2000)
+Community acquired pneumonia – a prospective UK study. Arch Dis Child, 83(5),
+Nov, pp 408-12
+4. Grant CC, Ingram RJ (2000) Outpatient treatment of pneumonia NZ Med J, 13
+(1104), Feb 25, pp 58-62
+5. Grimwood K, Collignon PJ, Currie BJ, Ferson MJ, Gilbert GL, Hogg GG, Isaacs
+D, McIntyre PB (1997) Antibiotic management of pneumoccal infections in an
+era of increased resistance. J Paediatric Child Health, 33 (4), Aug, pp 287-95
+Evidence table CAP
+6. Harris JA, Kolokathis A, Campbell M, Cassell GH, Hammerschlag MR( 1998)
+Safety and efficacy of Azithromycin in the treatment of community acquired
+pneumonia in children. Pediatr Infect Dis J, 17(10) Oct, pp 865-71
+7. Heiskanen-Kosma T, Korppi M, Jokinen C, Kurki S, Heiskanen L, Juvonen H,
+Kallinen S, Sten M, Ttarkiainen A, Ronnbergh PR, Kleemola M, Makela PH,
+Leinonen M (1998) Etiology of childhood pneumonia: serologic results of a
+prospective, population based study. Pediatr Infect Dis J, 17(11), Nov, pp 986-91
+8. Hijazi Z, Pacsa A, el-Gharbawy F, Chugh TD, Essa S, el Shazli A, Abd el-Salam
+r (1997) Acute lower respiratory tract infections in children in Kuwait . Ann Trop
+Paediatr 17(2), Jun, pp 127-34
+9. Juvan T, Mertsola, Waris M, Leinonen M, Meurman O, Roivainen M, Eskola J,
+Saikku P, Ruuskanen O (2000) Etiology of community acquired pneumonia in
+254 hospitalized children. Pediatr Infect Dis. J, 19(4),Apr, pp 293-8
+10. McCracken GH (2000) Etiology and treatment of pneumonia. Pediatr Iinfect Dis
+J, 19(4), Apr, pp 373-7
+11. Ministry of Health Malaysia (2003) Rational Antibiotic Utilisation in Selected
+Paediatric Conditions. Health Technology Assessment
+12. Olivier C (2000) Clinical Use of cefuroxime in paediatric community acquired
+pneumonia. Paediatr Drug, 2(5), Sep-Oct, pp 331-43
+13. Ruuskanen O, Mertsole J (1999) Childhood community acquired pneumonia.
+Semin Respir Infect, 14(2), Jun, pp 163-72
+14. Sonoda S, Gotoh Y, Bann F, Nakayama T (1999) Acute lower respiratory
+infections in hospitalized children over a 6 year period in Tokyo. Pediat Int,
+41(5), Oct, pp 519-24
+15. Straus WL, Qazi SA, Kundi Z, Nomani NK, Schwartz B (998) Co-trimoxazole
+study Group. Pakistan antimicrobial resistance and clinical effectiveness of cotrimoxazole versus amoxicillin for pneumonia among children in Pakistan;
+randomized controlled trial. Lancet, 352(9124), Jul 25, pp 270-4
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+16. Tan TQ, Mason, EO, Barson WJ, Wald ER, Schutze GE, Bradley JS, Arditi M,
+Givner LB, Yogev R, Kim KS, Kaplan SL (1998) Clinical characteristics and
+outcome of children with pneumonia attributable to penicillin susceptible and
+penicillin non-susceptible Streptococcus pneumoniae Pediatric Infectious Disease.
+Pediatr, 102(6) Dec, pp 1369-75
+17. Videla C, Carballal G, Misirlian A, Aguilar M, (1998) Acute lower respiratory
+infections due to respiratory syncytial virus and adenovirus among hospitalized
+children from Argentina . Clin Diagn Virol, 10(1), May1, pp 17-23
+18. Wubbel L, Muniz L, Ahmed A, Trujillo M, Carubelli C, McCoig C, Abramo T,
+Leinonen M, McCracken GH (1999) Etiology and treatment of community
+acquired pneumonia in ambulatory children Pediatr Infect Dis J, 18(2), Feb, pp
+98-104
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+BACTERIAL MENINGITIS
+1.
+INTRODUCTION
+Bacterial meningitis is defined as an inflammation of the pia – arachnoid meninges and
+the fluid residing in the space that it encloses. The infective agent upon entry will extend
+to all the sub-arachnoid space, which is continuous around the brain, spinal cord and
+optic nerves. The ventricular fluid becomes infected as well.
+Aseptic meningitis refers to meningitis with CSF pleocytosis but an aetiological agent is
+not apparent on CSF gram stain and bacterial culture. Clinicians who assess children with
+aseptic meningitis recognize that the majority of cases are caused by viruses but are often
+faced with having to exclude partially treated bacterial meningitis in children who had
+been on oral antibiotics.
+1.1
+Bacterial meningitis
+Bacterial meningitis in children between 2 months to 12 years of age in Malaysia is
+usually due to Haemophilus influenza type B Streptococcus pneumoniae or Neisseria
+meningitides (Limcangco et al, 2000, level 8; Uduman et al, 2000, level 8; Lee, 1998,
+level 8; Hussein et al, 1998, level 8; Almuneef et al, 1998, level 8) If there are alterations
+of host defense mechanisms there is an increased risk of meningitis from less common
+pathogens such as Pseudomonas aeroginosa, Staphylococcus aureus, Staphylococcus
+epidermidis, Salmonella and Listeria monocytogenes.
+2.
+EFFECTIVENESS OF ANTIBIOTIC USE
+2.1
+Haemophilus Influenza type b Meningitis
+Local data from the 1970’s through mid 1990’s have revealed Haemophilus influenza
+type b as the leading pathogen in childhood bacterial meningitis (Ministry of Health
+Malaysia, 2003, level 1; Hussein et al, 1998; level 8; Choo et al, 1990; level 8).
+Antibiotics like Cefotaxime, Ceftriaxone, Ampicillin and Chloramphenicol all cross the
+blood brain barrier during acute inflammation in concentrations adequate to render them
+effective.
+Recent reviews from Taiwan (Ma et al, 2000; level 7), USA (Dawson et al 1999, level 7),
+Canada (Gold, 1999, level 7), Greece (Syriopoulou et al, 2000, level 7) and Italy (Principi,
+2000, level 7) have reported a marked decline in the incidence of Haemophilus influenza
+meningitis following the success of the conjugate HIB vaccines.
+2.2
+Streptococcus pneumoniae Meningitis
+Streptococcus pneumoniae is the leading cause of bacterial meningitis in USA, Canada
+and several European countries. Historically, penicillin, a cheap and safe antibiotic , has
+been the treatment of choice. Chloramphenicol monotherapy has been used in the past but
+treatment failures have been reported (Ministry of Health Malaysia, 2003, level 1; Jadavji,
+1986, level 6)
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+2.3
+Penicillin Resistant Streptococcus Pneumoniae Meningitis
+The incidence of reported Penicillin resistant Streptococcus pneumoniae infections (not
+exclusive to meningitis alone) from various countries are 1% in Taiwan, 10.2% in Italy,
+11% in Sweden, 12.7% in USA, and 13% in Canada in 1998. In Malaysia there has been
+an increase from 2.4% to 7% in 1978-1988 to 8% in 1995 - 1996 (Ministry of Health
+Malaysia, 2003, level 1; Ma et al, 2000, level 7, Principi, 2000, level 7; Eriksson et al,
+2000, level 7; Moshe Arditi et al, 1998, level 5; Scheifele et al, 2000, level 7).
+In response to the increasing trend of penicillin resistant Streptococcus pneumoniae, both
+the American Academy of Paediatrics and the Canadian Paediatric Society have
+recommended empirical antibiotics for suspected bacterial meningitis, comprising a
+combination of IV Vancomycin plus either IV Cefotaxime or Ceftriaxone for all children
+1 month or more in age with probable or definite meningitis (Ministry of Health Malaysia,
+2003, level 1; Infectious Diseases and Immunization Committee, Canadian Paediatric
+Society 2001, level 4).
+The third generation cephalosporins such as Ceftriaxone and Cefotaxime are the next
+antibiotic of choice, with approximately 50% penicillin resistant Streptococcus
+pneumoniae being also resistant to both Ceftriaxone and Cefotaxime (Ministry of Health
+Malaysia, 2003, level 1; Infectious Diseases and Immunization Committee, Canadian
+Paediatric Society, 2001, level 4).
+New vaccination strategies against pneumococcus are being developed, but are facing
+difficulties due to the significant variation in the population of isolates. A 23 valent
+vaccine has been available since the 1980s but provokes less antibody response in
+children less than 2 years (Ministry of Health Malaysia, 2003, level 1; Scheifele, 2000,
+level 7).
+2.4
+Neisseria Meningitides Meningitis
+Neisseria meningitides serogroup A, B and C are the causative organisms for meningitis.
+While N. meningitides meningitis is not common in Malaysia, occasionally children may
+be at risk of exposure from their relatives who have returned after performing the Haj.
+Intravenous Penicillin remains the drug of choice. Chloramphenicol still provides
+effective treatment for patients who are allergic to Penicillin. In 2000, it was reported that
+there were 38 cases of serogroup W135 Neisseria meningitides in England and Wales, of
+whom 80% that had died had received serogroup C vaccine previously (Ministry of
+Health Malaysia, 2003, level 1; Bolt et al 2001 level 8). This has highlighted the need for
+continuing epidemiological vigilance. The quadrivalent A, C, Y, W 135 is replacing the
+previously bivalent vaccine.
+3.
+ADJUVANT DEXAMETHASONE ADMINISTRATION IN BACTERIAL
+MENINGITIS.
+Dexamethasone reduces the inflammatory response in CSF in bacterial meningitis, but
+also reduces the penetration of antibiotics, especially Vancomycin and Ceftriaxone, into
+the CSF. A meta-analysis supports the use of Dexamethasone only for Haemophilus
+influenza meningitis whether administered before or after antibiotic treatment (Ministry
+of Health Malaysia, 2003, level 1; McIntyre et al, 1997, level 1). While those receiving
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+Dexamethasone had less hearing deficit episodes, this was of no benefit in reducing the
+incidences of neurological deficits. A similar finding has been reported for Streptococcus
+pneumoniae meningitis (Moshe et al, 1998, level 7). There is no evidence to support
+Dexamethasone use for Neisseria meningitis (Ministry of Health Malaysia, 2003, level 1;
+McIntyre et al, 1997, level 1).
+4.
+RECOMMENDATIONS
+i
+Empirical treatment of bacterial meningitis should be a combination of crystalline
+Penicillin and a third generation cephalosporin [Grade B]
+ii
+Definitive therapy and duration of therapy should be guided by susceptibility
+results of the organism identified [Grade C]
+iii. Penicillin is recommended for meningitis caused by penicillin-susceptible
+Pneumococcus and Neisseria meningitides.[Grade B]
+iv.. For penicillin-resistant pneumococcal meningitis, a combination of vancomycin
+and third-generation cephalosporin such as cefotaxime or ceftriaxone is
+recommended. [Grade B]
+v. For Hib meningitis , cefotaxime or ceftriaxone or ampicillin(non-beta lactamase
+producer) or chloramphenicol is recommended. [Grade B]
+vi.
+It is difficult to recommend the routine use of dexamethasone as the causative
+organism is not known in most cases, and the initial dose of dexamethasone is
+effective mainly for Haemophilus influenza meningitis. [Grade A]
+Recommended doses of antibiotics are indicated in Appendix 1
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+ALGORITHM FOR TREATMENT OF BACTERIAL MENINGITIS
+Clinical suspicion of meningitis
+IV C. Penicillin +
+IV
+Cefotaxime/Ceftriaxone
+CSF examination
+available
+CSF examination
+not available
+IV C Penicillin
+Strep pneumoniae
+IV C. Penicillin
+IV Cefotaxime or IV Ceftriaxone
+or CMC or Ampicillin
+IV C Penicillin +
+IV Cefotaxime or
+Ceftriaxone
+CSF biochemistry and/or
+cytology suggestive of
+meningitis but identification of
+organism not successful by
+culture or latex agglutination
+H. influenza
+Neisseria meningitidis
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+REFERENCES
+1.
+AlmuneefM, Memish Z, Khan Y et al (1998) Childhood bacterial meningitis in
+Saudi Arabia. J Infect, 36(2), pp 157-60
+2.
+Bolt P, Britto J, Nadel S, Levin M (2001) Meningococcal disease due to W135;
+fresh public concerns. Arch Dis Child, 84(1), Jan, pp 90-1
+3.
+Choo KE, WA Ariffin T Ahmad, Lim WL, AK (1990) Gururaj Pyogenic
+meningitis in hospitalized children in Kelantan Malaysia. Ann Trop Paed 10, pp
+89-98
+4.
+Dawson KG. Emerson JC, Burns JL (1999) Fifteen years of experience with
+bacterial meningitis. Pediatr Inf Dis J, 18(9), Sep, pp 816-22
+5.
+Eriksson M. Henriques B, Ekdahl K (2000) Epidemiology of pneumococcal
+infections in Swedish children. Acta Paediatr Suppl 89 (435), Dec, pp 35-9
+6.
+Gold R (1999) Epidemiology of bacterial meningitis. Infect Dis Clin North Am,
+13(3), Sep, pp 515-25
+7.
+Hussain IH Ismail ,Sofiah Ali, Ong LC, Choo KE, Musa MN, Teh KH, Ng HP
+(1998). Haemophilus influenza meningitis in Malaysia. Pediatr Infect Dis J 17(9),
+S189, pp 1-4
+8.
+Jadavji T, Biggar WD, Gold R, Prober CG (1986) Sequelae of acute bacterial
+meningitis in children treated for seven days. Pediatrics, 78, pp 21-5
+9.
+Limcangco Mr, Salole EG, Armour CL (2000) Epidemiology of haemophilus
+influenza type b meningitis in Manila, Philipines 1994-1996. Pediatr Infect Dis,
+Mar-Apr, pp 165-70
+10. Ma JS, Chen PY, Chi CS, Lin JF (2000) Invasive Streptococcus pneumonia
+infections of children in central Taiwan. J Microbiol Immunol Infect, 33(3), pp
+169-75
+11. McIntyre PB, Berkey CS, King SM et al (1997) Dexamethasone as adjunctive
+therapy in bacterial meningitis. A meta-analysis of randomized clinical trials since
+1988. JAMA, 278, pp925-31
+12. Ministry of Health Malaysia (2003) Rational Antibiotic Utilisation in Selected
+Paediatric Conditions. Health Technology Assessment
+13. Moshe A, Mason EO, Bradley JS et al, (1998)Three year multicenter surveillance
+of pneumococcal meningitis in children, clinical characteristics and outcome
+related to penicillin susceptibility and dexamethasone use. Pediatrics, 102(5), pp
+1087-97
+14. Paediatric Society (CPS) (2001) Infectious Diseases and Immunization Committee,
+Canadian. Paediatrics and Child Health, 6(3), pp 147-52
+15. Principi N, Marhisio P et al. (2000) Epidemiology of Streptococcus pneumonia
+infections in Italian children. Acta Paediatr Suppl, 89 (435), Dec, pp 40-3
+16. Scheifele D, Halperin S, Pellitier L et al.(2000) Invasive pneumococcal infections
+in Canadian children, 1991-1998: implications for new vaccination strategies.
+Canadian Paediatric Society/Laboratory Center for Disease Control Immunization
+Monitoring Program, Active (IMPACT). Clin Infect Dis; 319 (1), July, pp 58-64
+17. Syriopoulou V, Daikos GL, Sailes K. (2000) Epidemiology of invasive
+pneumococcal infections in Greece. Acta Paediatr Suppl , 89 (435), Dec, pp 30-4
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+18. Uduman SA, Adeyani e, El Khadir A (2000) H Influenza type b meningitis still
+remains a leading cause of meningitis among unvaccinated children: Prospecitve
+CSF analysis study, J Trop Paediatr, 46(96), Dec, pp 331-4
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+SEPSIS IN CHILDREN
+1.
+INTRODUCTION
+Sepsis and septic shock constitute an important cause of morbidity and mortality in
+critically ill children, with approximately 2% of all hospitalized patients having sepsis.
+The outcome is affected by the causative agents, with infections due to gram negative
+rods having a significantly higher mortality (25%) than gram-positive bacteria (10%)
+(Oda & Matsuo, 2000, level 7). In Kuwait it was found that 52% of the 70 deaths in
+patients were due to nosocomial bacteremia (Jamal & El-Din, 1999, level 7).
+2.
+INVESTIGATIONS
+Rapid identification of the causative agents in septicaemia is crucial for selecting
+appropriate antimicrobial agents. It has been suggested that Fluorescent in-situ
+hybridization (FISH) with ribosomal RNA targeted fluorescently labeled oligonucleotide
+probes be used for the rapid detection and identification of pathogens, without cultivation
+and biotyping (Ministry of Health Malaysia, 2003, level 1; Kempf & Volkhard, 2000,
+level 9).
+3.
+MANAGEMENT
+With respect to management, apart from antibiotic administration, supportive strategies
+are essential to optimize outcome.
+3.1
+Community Acquired Bacterial Sepsis in Previously Healthy Children
+(i)
+Sepsis with no obvious source or with respiratory or urinary tract infection, or
+central nervous system involvement
+Though the commonly used antibiotics are cloxacillin/penicillin and a third
+generation cephalosporin/gentamycin, no evidence could be obtained related to their
+use (Grade C).
+(ii)
+Sepsis with genito-urinary or gastrointestinal tract involvement
+The commonly used antibiotics are a third generation cephalosporin or gentamycin
+with metronidazole for intra-abdominal infections, but again no evidence could be
+obtained related to their use (Grade C).
+3.2
+Nosocomial Sepsis
+There are multiple causative agents that cause nosocomial sepsis in children. It is
+therefore recommended that the use of antibiotics be dependent on the causative agents.
+3.3
+Adjuvant therapy
+It has been found that Polyclonal Intravenous Immunoglobulin significantly reduces
+mortality and can be used as adjuvant treatment for sepsis and septic shock, but the
+number of patients involved in this study was small ( Ministry of Health Malaysia, 2003,
+level 1, Alejandria et al, 2001, level 1).
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+4.
+RECOMMENDATIONS
+i.
+For sepsis with no obvious source or with respiratory or urinary tract
+infection, or central nervous system involvement, cloxacillin or penicillin
+and a third generation cephalosporin or gentamycin are recommended
+( Grade C )
+ii.
+For sepsis with genito-urinary or gastrointestinal tract involvement, a third
+generation cephalosporin or gentamycin with metronidazole for intra
+abdominal infections is recommended ( Grade C )
+iii.
+Polyclonal Intravenous Immunoglobulin can be used as an adjuvant
+treatment for sepsis and septic shock ( Grade A)
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+ALGORITHM FOR TREATMENT OF SEPSIS IN CHILDREN
+Sepsis in children
+Investigation
+Sepsis with genitourinary or GIT
+involvement
+Sepsis with no obvious source
+or with Respiratory./renal/CNS
+involvement
+Cloxa/Peniillin + Ceph 3 or
+gentamycin
+Ceph 3 or gentamycin with
+metronidazole
+for
+intraabdominal infections
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+REFERENCES
+1.
+Alejandria MM, Lansang MA, Dans LF, Mantaring JBV (2001) Intravenous
+immunoglobulin for treating sepsis and septic shock (Cochrane Review) The
+Cochrane Library, Issue 4,
+2.
+Jamal WY, El-Din K (1999) An analysis of hospital acquired bacteremia in
+intensive care unit patients in a university hospital in Kuwait. J Hosp Infect.;
+43(1), Sep, pp 49-56
+3.
+Kempf, Volkhard AJ (2000) Rapid Identification of pathogens in blood. Ann.
+Intern Med. 132(4), Feb 15, pp 330-331
+4.
+Ministry of Health Malaysia (2003) Rational Antibiotic Utilisation in Selected
+Paediatric Conditions. Health Technology Assessment
+5.
+Oda K, Matsuo Y (2000) Sepsis in Children Pediatr Int,42 (5), Oct, pp 528-33
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+NEONATAL SEPSIS
+1.
+INTRODUCTION
+Neonates, especially premature babies, are predisposed to infection as they are deficient
+in host defences and are at risk of acquiring infections from mothers during the perinatal
+period (Anwer et al, 2000, level 8). In order to rationalise the use of antibiotics,
+continuous surveillance is recommended with emphasis on primary prevention and
+prevention of cross infection (Musoke, 1997, level 9).
+2.
+CLINICAL PRESENTATION
+Early clinical presentation of sepsis in newborn includes hypothermia, hyperthermia,
+poor feeding, poor weight gain, lethargy, hypotonia, pallor, mottled skin, irritability,
+jaundice, vomiting, ileus, pseudoparalysis, apnea, tachypnoea, cardiovascular signs,
+hemorrhagic diasthesis and sclerema. Late signs are usually specific to a single organ
+system. Septicemic shock and death often occur within 12 hours of the first sign of illness
+(Anwer et al, 2000, level 8).
+3.
+DIAGNOSIS AND INVESTIGATIONS
+Early diagnosis and therapy initiated on the basis of clinical suspicion is important.
+Criteria for treatment could be defined by limited predictors or parameters as follows:
+1. Maternal fever, chorioamniotis, initial neonatal examination and absolute count.
+(Escobar, Li & Armstrong , 2000, level 5)
+2. Abnormal immature to total neutrophil ratio (I: T), followed by an abnormal
+immature to mature neutrophil (I: M) ratio, thrombocytopenia (Ghosh, Mittal &
+Jaganathan, 2001, level 9).
+While blood culture is the gold standard for the diagnosis of sepsis (Aggarwal et al, 2001,
+level 9), rapid identification systems help in the early identification of neonatal
+bacteraemia (within 24- 30 hours) (Ministry of Health Malaysia, 2003, level 1; Pauli et al,
+1999, level 9).
+Other investigations found to be useful are:
+♦ C-reactive protein (CRP) (Ministry of Health Malaysia, 2003, level 1; Dollner,
+Vatten & Austgulen , 2001, level 9; Icagasloglu et al, 2002).
+♦ Neutrophil CD64 expression - the addition of interleukin-6 (IL-6) or CRP further
+enhances the sensitivity and negative predictivity (Ministry of Health Malaysia, 2003,
+level 1; Ng, 2002, level 9)
+♦ Interleukins (IL) (Ministry of Health Malaysia, 2003, level 1; Santana et al, 2001,
+level 7; Martin, Olander & Norman 2001, level 9; Krueger et al, 2001, level 7;
+Gonzalez et al, 2003 level 8; Icagasloglu et al, 2002, level 9) - diagnostic accuracy is
+improved by combining CRP and IL-6 (Dollner, Vatten & Austgulen, 2001, level 9).
+4.
+MANAGEMENT
+The appropriate antibiotics for the treatment of infections in neonates would vary from
+centre to centre as would the organisms causing the various infections (Chang Chien et al,
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+2000, level 9). Hence, local data on aetiology of sepsis and the sensitivity of the
+organisms need to be reviewed.
+Group B streptococcus was the major pathogen of early onset septicemia (Ministry of
+Health Malaysia, 2003, level 1; Berger et al, 1998, level 9; Luck et al, 2003, level 9;
+Mehr et al, 2002, level 9; Yurdakok, 1998, Ronnestad et al, 1998, level 9). Penicillin is
+the drug of choice for group B Streptococcus infections (Ministry of Health Malaysia,
+2003, level 1; Lin et al, 2000, level 9;Aitmhand & Moustaoui, 2000, level 9). Other
+organisms implicated in early onset sepsis are Enterobactericaea and Listeria, (Yurdakok,,
+1998), E. coli (Ministry of Health Malaysia, 2003, level ; Kuruvilla et al 1998, level 9;
+Ronnestad et al 1998, level 9), Coagulase-negative Staphylococci (CoNS), anaerobic
+bacteria(Ministry of Health Malaysia, 2003, level 1; Ronnestad et al, 1998, level 9),
+Klebsiella species, Enterococcus (Ministry of Health Malaysia, 2003, level 1;Anwer et al,
+2000, level 8).
+Empiric therapy for neonates who develop sepsis beyond the first day of life must cover
+Gram positive organisms like Staph. aureus (Ministry of Health Malaysia, 2003, level 1;
+Karunasekara & Pathirana, 1999, level 8; Ronnestad et al 1998, level 9; Yurdakok, 1998;
+Anwer et al, 2000, level 8), Coagulase negative staphylococcus (Ministry of Health
+Malaysia, 2003, level 1; Ho, 2001, level 9; Berger et al, 1998, level 9; Mehr et al, 2002,
+level 9); S. epidermidis (Anwer et al, 2000, level 8) For Staphylococcus, penicillinase
+resistant penicillin e.g. Oxacillin, Nafcillin and Methicillin and for resistant strains of
+Staphylococcus, Vancomycin is recommended (Ministry of Health Malaysia, 2003, level
+1;Yurdakok, 1998, Ronnestad et al, 1998, level 9). Enterococci must also be covered
+(Yurdakok, 1998, Kuruvillla et al, 1998), with Ampicillin and Gentamicin for sensitive
+strains and Vancomycin for Gentamicin resistant strains (Ministry of Health Malaysia,
+2003, level 1; Bhat, Paul & Bhat, 1997, level 9; Yurdakok, 1998).
+Therapy must also cover Gram negative organisms like Klebsiella (Karunasekara &
+Buescher, 1999, Kuruvillla et al, 1998, Ho, 2001), using Imipenem which is a good drug
+for neonatal Klebsiella pneumonia (Ministry of Health Malaysia, 2003, level 1; Oral,
+Akisu & Kultursay 1998, level 9; Roilides & Kyriakides, 2000, level 9), and Ciprofloxcin
+as an alternative in multidrug resistant Klebsiella pneumonia (Ministry of Health
+Malaysia, 2003, level 1; Khaneja & Naprawa, 1999, level 9; Roilides & Kyriakides, 2000,
+level 9). Other combinations include Cefotaxime or Ceftazidime and Ampicillin
+(Akindele & Rotilu 1997, level 9), Ciprofloxacillin and Gentamicin (Ministry of Health
+Malaysia, 2003, level 1; Khaneja & Naprawa, 1999, level 9), aminoglycoside and a third
+generation cephalosporin such as Cefotaxime (Ministry of Health Malaysia, 2003, level
+1,), and Imipenem or Ciprofloxacin (Ministry of Health Malaysia, 2003, level 1; Roilides
+& Kyriakides, 2000, level 9).
+For Pseudomonas. sp. (Ministry of Health Malaysia, 2003, level 1; Karlowicz, Buescher
+& Surlear, 2000, level 5; Yurdakok, 1998) especially in fulminant sepsis, treatment with
+Piperacillin and Azlocillin, Cefoperazone and Ceftazidime were the most active against
+Pseudomonas (Ministry of Health Malaysia, 2003, level 1;Yurdakok, 1998). Treatment
+for E. coli is also important (Ministry of Health Malaysia, 2003, level 1; Ronnestad et al,
+1998, level 9).
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+There has generally been an increase in the resistance of gram-negative bacteria to
+Cephalosporins and Gentamicin (Ministry of Health Malaysia, 2003, level 1; Joshi et al
+2000, level 9). Ciprofloxacillin was found to be useful for these resistant bacteria
+(Ministry of Health Malaysia, 2003, level 1; Joshi et al 2000, level 8; Van den Vever &
+Vers teegh, 1998, level 8; Yurdakok, 1998)
+Imipenam cilastin is effective in premature babies and newborns with serious nosocomial
+infections even after failure of other broad-spectrum antibiotics (Ministry of Health
+Malaysia, 2003, level 1; Boswald, Dobig & Kandler , 1999, level 9)
+In a local study, the incidence of nososcomial sepsis was 32.6% of whom 43.3% died,
+and 80% of the babies had gram negative organisms (Halder et al, 1999, level 9)
+Fungal:
+For treatment of Candida species (Ronnestad et al, 1998, level 9), amphotericin has been
+found to be effective in babies at risk for fungal infections and blood culture confirmed
+sepsis (Ministry of Health Malaysia, 2003, level 1; Benjamin, Ross & McKinney, 2000,
+level 5, Rowen & Tate, 1998). Liposomal Amphotericin B has also been found to be
+effective and safe for the treatment of fungal infections (Ministry of Health Malaysia,
+2003, level 1; Scarcella & Pasquariello, 1998, level 9; Weitkamp & Poets, 1998, level 9).
+5.
+RECOMMENDATIONS
+i.
+For early onset sepsis, penicillin or ampicillin and gentamicin are
+recommended [Grade C]
+ii.
+For late onset gram positive sepsis, cloxacillin is recommended in
+sensitive strains of Staph aureus. Combination of ampicillin and
+gentamicin is recommended for sensitive enterococcal infections.
+Vancomycin
+is
+recommended
+for
+MRSA,
+Coagulase
+negative
+staphylococcus (CONS) and resistant enterococal infections. [ Grade C]
+.
+iii
+For late-onset gram negative sepsis, carbapenems or third generation
+cephalosporins are recommended [Grade C]
+v
+Amphotericin B is recommended for babies at risk for fungal infections
+and blood culture confirmed sepsis(Grade C).
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+ALGORITHM FOR TREATMENT OF NEONATAL SEPSIS
+Enterococci
+Gram positive
+Staph aureus
+Gram
+negative
+Carbapenem or
+Third generation
+cephalosporins
+Early onset
+Penicillin/ampicillin &
+gentamicin
+Late onset
+Neonatal Sepsis
+enterococci
+Sensitive
+enterococci
+Resistance
+MSSA
+MRSA
+Cloxacillin
+Vancomycin
+Ampicillin
++
+Gentamicin
+Vancomycin
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+REFENRCES
+1. Aggarwal R, Sarkar N, Deorari AK, Paul VK. (2001) Sepsis in the newborn.
+Indian J Pediatr, 68(12), Dec, pp1143-7.
+2.
+Aitmhand & Moustaoui R, Moustaoui N (2000) Serotypes & antimicrobial
+susceptibility of group B streptococcus isolated from neonates in Casablanca
+Scand .J Infect Dis , 32(3), pp 339-40
+3.
+Akindele JA, Rotilu IO (1997) Outbreak of neonatal Klebsiella septicemia a
+review of antimicrobial sensitivities. Afr. J. Med.Sci,26 (1-2), May –June, pp51-3
+4.
+Anwer, SK, Mustafa S, Pariyani S, Ashraf S, Taufiq KM. (2000) Neonatal sepsis:
+an etiological study. J Pak Med Assoc, 50(3), Mar, pp 91-4.
+5.
+Anwer, SK, Mustafa S (2000) Rapid identification of neonatal sepsis J.Pak. Med
+Assoc, 50(3), Mar, pp 94-8
+6.
+Benjamin, Ross & Mc Kinney OK; Ross K; Mc Kinney RE (2000) When to
+suspect fungal infection in neonates: A clinical comparison of Candida albicans &
+C. parapsiloss fungemia with coagulase negative staphylococcal bacteremia.
+Pediatrics, 106 (4), Oct, pp 712-8
+7.
+Berger A, Salzer HR, Weninger M, Sageder B, Aspock C (1998) Septicaemia in
+an Austrian neonatal intensive care unit: a 7-year analysis. Acta Paediatr, 87(10):
+Oct, pp 1066-9..
+8.
+Bhat KG, Paul C, Bhat MG (1997) Neonatalbacteremia due to high level
+aminoglycoside resistant (HLAR) enterococci. Indian j Paediatric, 64(4), Jul-
+Aug, pp 537-9
+9.
+Boswald, Dobig & Kandler M, Dobig C, Kandler C (1999) Pharmokinetic &
+clinical evaluation of serious infections in premature & newborn infants under
+therapy with impenam and cilastatin. Infection, 27 (4-5), pp 299-304
+10. Chang Chien HY, Chiu NC, Li WC (2000) Characteristics of neonatal bacterial
+meningitis in teaching hospitals in Taiwan from 1984-1997. J. Microbial Immunol
+Infectio, 33(2), Jun, pp100-4
+11. Dollner, Vatten & Austgulen H, Vatten L, Austgulen R. (2001) Early diagnostic
+markers for neonatal sepsis: comparing C-reactive protein, interleukin-6, soluble
+tumour necrosis factor receptors and soluble adhesion molecules. J Clin
+Epidemiol. 54(12) Dec, pp 1251-7.
+12. Escobar, Li & ArmstrongGJ, Li DK, Armstrong MA (2000) Neonatal sepsis
+workups in infants >/=2000gm at birth. A population based study Pediatric, 106
+(2 pt 1), Aug, pp 256:63
+13. Ghosh, Mittal & Jaganathan S, Mittal M, Jaganathan G. (2001) Early diagnosis of
+neonatal sepsis using a hematological scoring system. Indian J Med Sci, 55(9),
+Sep, pp 495-500.
+14. Halder,D, Haque ME, Zabidi MH, Kamaruzzaman A. (1999) Nosocomial
+bacterial sepsis in babies weighing 1000-1499 g in Kelantan. Med J Malaysia.
+54(1): Mar, pp 52-7.
+15. Icagasioglu D, Caksen H, Sutcu I, Cevit O. (2002) Serum C-reactive protein and
+interleukin6 levels in neonatal sepsis. Acta Medica (Hradec Kralove), 45(3), pp
+111-3.
+16. Jacqueline Judith Ho (2001) Late onset infection in very low birth weight infants
+in Malaysian level 3 nurseries. Paed Infectious Journal, 20 (60), Jun, pp 557-560
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+17. Joshi SG; Ghole VS; Niphadkar KB (2000) Neonatal gram negative bacteremia
+Indian Journal of Pediatrics ; 67 (1), Jan, pp 27-32
+18. Karlowicz MG, Buescher ES, Surlear A/E (2000) Fulminant late onset sepsis in a
+neonatal ICU and the impact of avoiding empiric vancomycin therapy. Pediatrics,
+106(6), Dec, pp1387-90
+19. Karunasekera KA; Pathirana D (1999) A preliminary study on neonatal
+septicemia in a 3 ‘ referral Paediatric Unit. Ceylon Med J, 44(2), Jun, pp 81-6
+20. Khaneja M, Naprawa J (1999) Successful treatment of late onset infection due to
+resistant Klebsiella pneumonia in an extremely LBW infant using ciprofloxacin J.
+Perinatology, 19 (4), Jun, pp 311-4
+21. Krueger , M, Nauck MS, Sang S, Hentschel R, Wieland H, Berner R. (2001) Cord
+blood levels of interleukin-6 and interleukin-8 for the immediate diagnosis of
+early-onset infection in premature infants. Biol Neonate, 80(2), Aug, pp 118-23.
+22. Kuruvilla KA, Pillai S, Jesudason M, Jana AK. (1998) Bacterial profile of sepsis
+in a neonatal unit in south India. Indian Pediatr, 35(9), Sep, pp851-8.
+Gonzalez BE, Mercado CK, Johnson L, Brodsky NL, Bhandari V. (2003) Early
+markers of late-onset sepsis in premature neonates: clinical, hematological and
+cytokine profile. J Perinat Med, 31(1), pp 60-8.
+23. Lin FY, Mureen PJ, Azimi PH, Weisman LE, Philips JB, Regan J (2000)
+Antibiotics susceptibility profiles for group B streptocooi isolated from neonates
+1995-1998. Clin. Infect. Disc, 31(1),Jul , pp 76-9
+24. Luck S, Torny M, d'Agapeyeff K, Pitt A, Heath P, Breathnach A, Russell
+AB.(2003) Estimated early-onset group B streptococcal neonatal disease. Lancet
+361(9373), Jun, pp 71953-4.
+25. Martin, Olander & Norman H, Olander B, Norman M. (2001) Reactive hyperemia
+and interleukin 6, interleukin 8, and tumor necrosis factor-alpha in the diagnosis
+of early-onset neonatal sepsis. Pediatrics. 108(4), Oct, pp E61
+26. Mehr SS, Sadowsky JL, Doyle LW, Carr J. (2002) Sepsis in neonatal intensive
+care in the late 1990s. J Paediatr Child Health, 38(3), Jun, pp 246-51.
+27. Ministry of Health Malaysia (2003) Rational Antibiotic Utilisation in Selected
+Paediatric Conditions. Health Technology Assessment
+28. Musoke RN, Revathi G (2000) Emergence of multidrug resistant gram negative
+organisms in a neonatal unit and the therapeutic implications. J. Tropical
+Pediatrics, 46 (2), Apr, pp 86-91
+29. Ng PC, Li K, Wong RP, Chui KM, Wong E, Fok TF. (2002) Neutrophil CD64
+expression: a sensitive diagnostic marker for late-onset nosocomial infection in
+very low birthweight infants. Pediatr Res. 51(3), Mar, pp 296-303.
+30. Oral R; Akisu M; Kultursay N (1998) Neonatal Klebsiella pneumonia sepsis and
+imipenem/cilastin. Indian J Pediatrics. 65(1), Jan –Feb, pp 121-9
+31. Pauli I, Shekhawat P, Kehl S (1999) Early detection of bacteremia in the neonatal
+ICU using BACTEC system J. Perinatal.; 19(2), Mar, pp 127-31
+32. Roiledes E, Kyriakides G (2000) Septicemia due to multiresistant Klebsiella
+pneumonia in a neonatal unit. A case control study. Am J. Perinatal,; 17(1), pp
+35-9
+33. Ronnestad A, Abrahamsen TG, Gaustad P, Finne PH. (1998) Blood culture
+isolates during 6 years in a tertiary neonatal intensive care unit. Scand J Infect Dis.
+30(3), pp 245-51
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+34. Rowen JL, Tate JM (1998) Management of neonatal candidiasis. Neonatal
+candidiasis study Group. Ped.Infect. Dis J. 17(11), Nov, pp 1007-11
+35. Santana C, Guindeo MC, Gonzalez G, Garcia-Munoz F, Saavedra P, Domenech E.
+(2001) Cord blood levels of cytokines as predictors of early neonatal sepsis. Acta
+Paediatr. 90(10), Oct, pp1176-81.
+36. Scarcella A, Pasquariello MB (1998) Liposomal amphotericin B treatment for
+neonatal fungal infections. Pediatr Infect Dis J, 17 (2), Feb, pp146-8
+37. Van den Vever HL; Vers teegh FG (1998) Ciprofloxacin in preterm neonates: a
+case report & review of literature. Eur J. Pediatr, 157 (10), Oct; pp 843-5
+38. Weitkamp JH, Poets CF (1998) Candida infection in VLBW infants - outcome
+and nephrotoxicity of treatment with liposomal amphotericin B. Infectio, (1), Jan
+–Fen 26, pp 11-5
+39. Yurdakok M (1998 )Antibiotic use in neonatal sepsis. Turk J.Pediatr, 40(1), JanMar, pp 17-33
+40. Gonzalez BE, Mercado CK, Johnson L, Brodsky NL, Bhandari V. (2003) Early
+markers of late-onset sepsis in premature neonates: clinical hematological and
+cytokine profile. J Perinat Med. 31(1), pp 60-8.
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+Appendix 1
+RECOMMENDED DOSAGE OF ANTIBIOTICS
+Antibiotic
+Dosage
+Amikacin ( I/V)
+Neonates :
+0-4 weeks,<1200g: 7.5 mg/kg/dose q18-24 hours
+Postnatal age < 7 days :
+1200-2000g : 7.5 mg/kg/dose q12 hours
+>2000g : 7.5-10 mg/kg/dose q12 hours
+Postnatal age > 7 days :
+1200-2000g : 7.5-10 mg/kg/dose q 8-12 hours
+> 2000g : 10 mg/kg/dose q 8 hours
+Infants & Children : 15-22.5 mg/kg/day q 8 hours
+Amoxicillin (PO)
+Infants < 3 months : 20-30 mg/kg/day q 12 hours
+Infants > 3 months & children : 25-50 mg/kg/day q 8 hours
+Amoxycillin clavulanate
+(PO/IV)
+PO : Based on amoxycillin component
+30 mg/kg/day q 8 hours ( 4:1 formulation)
+45 mg/kg/day q 12 hours ( 7:1 formulation)
+IV : 10-25 mg/kg/dose q 8 hours
+Ampicillin (PO/IV)
+PO :
+Children : 50-100 mg/kg/day q 6 hours (max. 2-3 g/day)
+IV :
+Neonates :
+Postnatal age < 7 days :
+< 2000g : 50 mg/kg/day q 12 hours
+100 mg/kg/day q 12 hours (meningitis)
+> 2000g : 75 mg/kg/day q 8 hours
+150 mg/kg/day q 8 hours (meningitis)
+Postnatal age > 7 days :
+<1200g : 50 mg/kg/day q 12 hours
+100 mg/kg/day q 12 hours (meningitis)
+1200-2000g : 75 mg/kg/day q 8 hours
+150 mg/kg/day q8 hours(meningitis)
+> 2000g : 100 mg/kg/day q 6 hours
+200 mg/kg/day q 6 hours(meningitis)
+Infants & Children : 100-200 mg/kg/day q 6 hours
+200-400
+mg/kg/day
+q
+6
+hours(meningitis)(max.
+dose:12g/day)
+Azithromycin (PO)
+10 mg/kg/day x 3 days
+Cefepime (IV)
+50 mg/kg/dose q 8 hours ( febrile neutropenia)
+Cefotaxime(IV)
+Neonates: 0-4 weeks : <1200g : 100mg/kg/day q 12 hours
+Postnatal age < 7 days :
+1200-2000g : 100mg/kg/day q12 hours
+>2000g : 100-150 mg/kg/day q8-12 hours
+Postnatal age > 7 days :
+1200-2000g : 150 mg/kg/day q 8 hours
+>2000g : 150-200 mg/kg/day q6-8 hours
+Infants & Children 1 mth-12 years :
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+Antibiotic
+Dosage
+<50kg : 100-200 mg/kg/day q 6-8 hours
+Meningitis : 200 mg/kg/day q6 hours
+>50kg : Moderate-severe infection : 1-2 g q 6-8 hours
+Ceftazidime(I/V)
+Neonates : 0-4 weeks : <1200g : 100mg/kg/day q 12 hours
+Postnatal age < 7 days : 1200-2000g : 100 mg/kg/day q 12 hours
+>2000g : 100-150 mg/kg/day q 8-12 hours
+Postnatal age > 7 days : > 1200g : 150 mg/kg/day q 8 hours
+Infants & Children 1 mth-12 yrs : 100-150 mg/kg/day q 8 hours (Max. 6g/day)
+Meningitis : 150 mg/kg/day q 8 hours(max. dose
+6g/day)
+Ceftriaxone(I/V)
+Neonates : Postnatal age < 7 days : 50 mg/kg/day q 24 hours
+Postnatal age > 7 days : <2000g : 50 mg/kg/day q 24 hours
+> 2000g : 50-75 mg/kg/day q 24 hours
+Infants & Children : 50-75 mg/kg/day q 12-24 hours q 12-24 hours
+Meningitis : 100 mg/kg/day q 12 -24 hours
+Cefuroxime(I/V& PO)
+I/V : Neonates : 50-100 mg/kg/day q 12 hours
+Children : 75-150 mg/kg/day q 8 hours (max. 6g/day)
+PO : 20-30 mg/kg/day bid
+Chloramphenicol(I/V)
+100 mg/kg/day q 6 hours
+Cloxacillin (1/V & PO)
+I/V : Neonates < 7 days : < 2000g : 50 mg/kg/day q 12 hours
+:>2000g : 75 mg/kg/day q 8 hours
+8-28 days : < 2000g : 75 mg/kg/day q 8 hours
+>2000g : 150 mg/kg/day q 6 hours
+Infants & Children : 150-200 mg/kg/day q 6 hours
+PO : Infants & Children : 50-100 mg/kg/day q 6 hours
+Dexamethasone (IV) for
+Hib meningitis
+0.6 mg/kg/day q 6 hours for 2-4 days
+OR 0.8 mg/kg/day q 12 hours for 2-4 days
+Erythromycin ( PO / IV)
+PO : EES : 40 mg/kg/day q 8 hours
+IV : Erythromycin lactobionate 20-40 mg/kg/day q 6 hours
+Imipenem ( IV)
+Neonates : 0-4 weeks,<1200g : 20 mg/kg/dose q18-24 hours
+<7 days,1200-1500g : 40 mg/kg/day q 12 hrs
+<7 days , >1500 g : 50 mg/kg/day q 12 hours
+> 7 days , 1200-1500g : 40 mg/kg/day q 12 hours
+> 7 days , >1500g : 75 mg/kg/day q 8 hours
+Children & Infants < 40kg : 15 mg/kg/dose q 6 hours
+Meropenem(IV)
+Neonates : Postnatal age 0-7 days : 20 mg/kg/dose q 12 hours
+Postnatal age > 7 days : 1200-2000g : 20 mg/kg/dose q 12 hours
+>2000g : 20 mg/kg/dose q 8 hours
+Children > 3 months : 60 mg/kg/day q 8 hours
+Metronidazole(IV)
+Neonates : <2000g , 0-7 days : 7.5mg/kg/day q 24 hours
+8-28 Days : 15mg/kg/day q 12 hours
+>2000g , 0-7 days : 15 mg/kg/day q 12 hours
+8-28 days : 30 mg/kg/day q 12 hours
+Children : 30 mg/kg/day q 6 hours
+Rational Antibiotic Utilisation in Selected Paediatric Conditions
+Antibiotic
+Dosage
+Penicillin G (IV)
+Neonates:<2000g , 0-7 days : 50,000 u/kg/day q 12 hours
+Meningitis : 100,000 u/kg/day q 12 hours
+>2000g , 0-7 days : 75,000 u/kg/day q 8 hours
+Meningitis : 150,000 u/kg/day q 8 hours
+<1200g , >7 days : 50,000 u/kg/day q 12 hours
+Meningitis : 100,000 u/kg/day q 12 hours
+1200-2000g : 75,000 u/kg/day q 8 hours
+>2000g : 100,000 u/kg/day q 6 hours
+Meningitis : 200,000 u/kg/day q 6 hours
+Infants & Children : 100,000-250,000 u/kg/day q 4-6 hours
+Severe infections : 250,000-400,000 u/kg/day q 4-6 hours
+Severe infections : (max. dose : 24 million u/day)
+Piperacillin(IV)
+Neonates < 7 days : 150 mg/kg/day q 8 hours
+>7 days : 200 mg/kg/day q 6 hours
+Infants & Children : 200-300 mg/kg/day q 4-6 hours (Max. dose:24 g/day)
+Vancomycin(IV)
+Neonates < 7 days , <1200g : 15 mg/kg/day q 24 hours
+1200-2000g : 10-15 mg/kg/dose q 12-18 hours
+>2000g : 10-15 mg/kg/dose q 8-12 hours
+>7 days , <1200g : 15 mg/kg/day q 24 hours
+1200-2000g : 10-15 mg/kg/dose q 8 hours
+>2000g : 15-20 mg/kg/dose q 8 hours
+For meningitis : the larger dose is recommended
+Infants > 1 month & Children : 40 mg/kg/day q 6-8 hours
+Meningitis : 60 mg/kg/day q 6 hours
+Source :
+Nelson JD,Bradley JS :Nelson 's Pocket Book of Pediatric Antimicrobial Therapy,14th ed, 2000
+Pediatric Lexi-Drugs Online
+Red Book 2000 , American Academy of Pediatrics

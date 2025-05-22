@@ -1,0 +1,3754 @@
+STATEMENT OF INTENT
+This guideline was developed to be a guide for best clinical practice
+in the role and management of percutaneous coronary intervention
+(PCI) in patients with coronary artery disease. It is based on the best
+available evidence at the time of development. Adherence to this
+guideline does not necessarily lead to the best clinical outcome in
+individual patient care. Thus, every health care provider is responsible
+for the management of his/her unique patient, based on the clinical
+presentation and management options available locally.
+REVIEW OF THE GUIDELINE
+This guideline was issued in 2009 and will be reviewed in 2013 or
+earlier if important new evidence becomes available.
+CPG Secretariat
+Health Technology Assessment Unit
+Medical Development Division
+Level 4, Block EI, Parcel E
+Government Offices Complex
+62590 Putrajaya, Malaysia
+Available on the following websites:
+http://www.malaysianheart.org
+http://www.moh.gov.my
+http://www.acadmed.org.my
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+2
+MESSAGE FROM THE DIRECTOR GENERAL OF HEALTH
+Clinical Practice Guidelines for PCI
+Treatment of ischemic heart disease has evolved rapidly over
+the last decade. In Malaysia, we have now published Guidelines
+on treatment of various aspects of heart disease, including
+hypertension and myocardial infarction.
+Percutaneous coronary intervention (PCI) is now an established
+method of treating atherosclerotic coronary artery disease. The
+advent of modern stents, delivery systems and allied technologies
+has allowed interventional cardiologists in the country to improve
+their means of delivering a PCI service.
+The wealth of evidence on PCI, both local and international, has led
+to an expert panel of interventional cardiologists being convened
+to draw up these Guidelines. Clinical evidence, technical ‘tips and
+tricks’ and information on other aspects of cardiovascular disease
+management, make these Guidelines useful for cardiologists and
+non-cardiologists alike.
+While PCI is still a popular option for many Malaysian patients with
+documented obstructive coronary artery disease, it is not the only
+option. Aggressive pharmacotherapy and coronary artery bypass
+surgery are two other important avenues of treatment. Hence, these
+Guidelines serve to aid clinicians to help patients make informed
+consent about their treatment.
+I congratulate the panel and the National Heart Association of
+Malaysia on these Guidelines, which I believe will be an important
+resource for all concerned.
+Y. Bhg Tan Sri Datuk Dr Hj Mohd Ismail Merican
+Director General of Health Malaysia
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+3
+FOREWORD FROM THE PRESIDENT,
+AMERICAN COLLEGE OF CARDIOLOGY
+The American College of Cardiology supports the use of Clinical
+Practice Guidelines to help improve the quality of care for all patients
+with cardiovascular disease. We believe these are particularly
+important steps in efforts to achieve better patient outcomes in those
+patients with serious disease. I congratulate the writing committee
+on this comprehensive set of guidelines. The National Heart
+Association of Malaysia has been a strong affiliate of the College.
+It has also been involved with clinical care registries to measure
+performance and adherence to Guidelines. This guideline provides
+recommendations for the use of percutaneous intervention in both
+stable and unstable coronary artery disease. The document is
+easy to read, contains key messages and also provides specific
+technique suggestions for complicated procedures.
+The American College of Cardiology looks forward to further
+collaboration with the National Heart Association of Malaysia on
+future efforts to improve the care that we provide our patients with
+cardiovascular disease.
+W. Douglas Weaver, MD, FACC
+President (2008)
+American College of Cardiology
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+4
+Members of the Expert Panel
+Chairperson:
+Dr Robaayah Zambahari
+Consultant Cardiologist,
+Institut Jantung Negara
+Secretary:
+Dr. Jeyamalar Rajadurai
+Consultant Cardiologist,
+Sime Darby Medical Center
+Members (in alphabetical order)
+Dr. Aris Chandran
+Consultant Physician,
+Hospital Sultanah Bainun
+Dr. Choo Gim Hooi
+Consultant Cardiologist,
+KPJ Selangor Specialist Hospital
+Dr. Omar Ismail
+Consultant Cardiologist,
+Hospital Besar Pulau Pinang
+Dr. Rosli Mohd. Ali
+Consultant Cardiologist,
+Institut Jantung Negara
+Dr. Sree Raman
+Consultant Physician,
+Hospital Tuanku Jaafar
+Dr. Sim Kui Hian
+Consultant Cardiologist,
+Sarawak General Hospital
+Dr. Wan Azman
+Consultant Cardiologist,
+University Malaya Medical Center
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+5
+External Reviewers (in alphabetical order):
+Physicians
+Dr. Chan Hiang Chuan
+Emergency Care Physician
+Sarawak General Hospital
+Professor Chia Yook Chin
+Consultant Family Physician
+University Malaya Medical Center
+Dr. Kauthaman Mahendran
+Consultant Physician
+Malacca General Hospital
+Dr Paranthaman
+Family Physician
+Klinik Kesihatan Jelapang, Ipoh
+Dr Shanta Kumari
+Consultant Physician
+Hospital Tuanku Ampuan Rahimah
+Cardiologists
+Dr. David Chew
+Consultant Cardiologist
+Institut Jantung Negara
+Dr. Tan Kim Heung
+Consultant Cardiologist
+Sunway Medical Center
+Dr. Oteh Maskon
+Consultant Cardiologist
+Hospital UKM
+Dr. Zurkurnai Yusof
+Consultant Cardiologist
+Hospital USM
+Cardiac Surgeons
+Mr. Abdul Rahman Ismail
+Consultant Cardiac Surgeon
+Hospital Sultanah Aminah,
+Johore Baru
+Mr. Prashant Joshi
+Consultant Cardiac Surgeon
+Sarawak General Hospital
+Mr. Venugopal Balchand
+Consultant Cardiac Surgeon
+Institut Jantung Negara
+Cardiac Anaesthesiologist
+Dr Jahizah Hassan
+Consultant Cardiac Anaesthesiologist
+Hospital Besar Pulau Pinang
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+6
+RATIONALE AND PROCESS OF GUIDELINE DEVELOPMENT
+Rationale:
+Coronary artery disease (CAD) is an important cause of morbidity and
+mortality in Malaysia. It can be treated by optimal medical therapy,
+percutaneous coronary interventions (PCI) and coronary artery bypass
+graft surgery (CABG). Recently there has been an increase in the
+number and complexity of PCI cases being performed in this country.
+Objectives:
+The objectives of this guideline are to critically evaluate the use of PCI in
+the management of CAD based on currently available literature. It aims to:
+• assist health care providers in clinical decision making regarding
+the appropriate use of coronary revascularisation procedures
+• improve patient outcomes following PCI
+• improve the standard of care in patients undergoing PCI
+This Clinical Practice Guideline (CPG) has been drawn up by a
+committee appointed by the National Heart Association of Malaysia,
+Ministry of Health and the Academy of Medicine. It comprises
+cardiologists and general physicians from the government and private
+sectors as well as from the Universities.
+Process:
+Evidence was obtained by systematic review of current medical
+literature on PCI for CAD using the usual search engines – PubMed,
+Medscape and Ovid. The other international guidelines (American and
+European) on PCI were also studied. After much discussion, the draft
+was then drawn up by the members of the Expert Panel and submitted
+to the Technical Advisory Committee for Clinical Practice Guidelines,
+Ministry of Health Malaysia and key health personnel in the major
+hospitals of the Ministry Of Health and the Private Sector for review
+and feedback.
+The clinical questions were divided into major subgroups and
+members of the Expert Panel were assigned individual topics. The
+group members met several times throughout the development of the
+guideline. All retrieved literature were appraised by individual members
+and subsequently presented for discussion during group meetings. All
+statements and recommendations formulated were agreed collectively
+by members of the Expert Panel. Where the evidence was insufficient
+the recommendations were derived by consensus of the Panel. The
+draft was then sent to local external reviewers for comments. It was
+also sent to members of the American College of Cardiology and the
+European Society of Cardiology for feedback.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+7
+The level of recommendation and the grading of evidence used in this
+guideline was adapted from the American Heart Association and the
+European Society of Cardiology (ACC/ESC) and outlined on page 8.
+In the text, this is written in black on the outer margin.
+Clinical Questions Addressed:
+• What is the best management of patients with CAD based on
+currently available evidence?
+• What is the role of optimal medical therapy, PCI and CABG in the
+management of CAD?
+Target Group:
+This guideline is directed at general practitioners, general and family
+physicians, medical officers, cardiologists as well as cardiac surgeons
+and anaesthesiologists.
+Target Population:
+All patients with CAD.
+Period of Validity of the Guidelines:
+This guideline needs to be revised at least every 5 years to keep
+abreast with recent developments and knowledge that is being learnt
+regarding PCI.
+Implementation of the Guidelines:
+The implementation of the recommendations of a CPG is part of good
+clinical governance. To ensure successful implementation of this CPG
+we suggest:
+• Increasing public awareness of CAD and its therapies.
+• Continuing medical education and training of healthcare providers
+on the roles of optimal medical management, PCI and CABG in the
+management of CAD.
+• Clinical audit by the National Cardiovascular Disease Database
+– PCI Registry on all interventional cardiac procedures being
+performed in the country, both in public and in private hospitals.
+• All mortality and morbidity following PCI should be investigated and
+reviewed by a selective in-house committee.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+8
+GRADES OF RECOMMENDATIONS AND
+LEVELS OF EVIDENCE
+Adapted from the American Heart Association /
+American College of Cardiology (AHA/ACC) and
+the European Society of Cardiology (ESC)
+GRADES OF RECOMMENDATION
+Conditions for which there is evidence and/or general agreement
+that a given procedure/therapy is beneficial, useful and/or
+effective.
+Conditions for which there is conflicting evidence and/or
+divergence of opinion about the usefulness/efficacy of a
+procedure/therapy.
+Weight of evidence/opinion is in favor of its usefulness/efficacy.
+Usefulness/efficacy is less well established by evidence/opinion.
+Conditions for which there is evidence and/or general agreement
+that a procedure/therapy is not useful/effective and in some
+cases may be harmful.
+LEVELS OF EVIDENCE
+Data derived from multiple randomised clinical trials or meta
+analyses.
+Data derived from a single randomised clinical trial or large non
+randomised studies.
+Only consensus of opinions of experts, case studies or standard
+of care.
+I
+II
+II-a
+II-b
+III
+A
+B
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+9
+Table of Contents
+Statement of Intent
+1
+Review of Guidelines
+1
+Message from the Director General of Health
+2
+Foreword from the President, American College of Cardiology
+3
+Members of the Expert Panel
+4
+External Reviewers
+5
+Rational and Process of Guideline Development
+6-7
+Grades of Recommendation and Levels of Evidence
+8
+Table of Contents
+9-11
+Table 1: Indications for PCI in STEMI
+12
+Table 2: Indications for PCI in UA/NSTEMI
+13
+Table 3: Indications for PCI in Stable CAD
+14
+1. Introduction
+15
+PART A: THE ROLE OF PCI IN THE MANAGEMENT OF PATIENTS WITH CAD
+2. Indications for PCI
+2.1 ST Elevation Myocardial Infarction (STEMI)
+16-23
+2.1.1 Indications for Primary PCI
+16-18
+2.1.2 Transfer of Patient
+18
+2.1.3 PCI Post Fibrinolysis
+18-20
+2.1.4 Technical considerations during Primary PCI
+20-21
+2.1.5 Cardiogenic Shock
+22
+Flow Chart 1: Management of patients presenting with STEMI
+23
+2.2 Unstable Angina/ Non St Elevation Myocardial Infarction 24-27
+(UA/NSTEMI)
+2.2.1 Risk Stratification
+24
+2.2.2 Management Strategy
+24-26
+Flow Chart 2: Management of patients presenting with
+27
+UA/NSTEMI
+2.3 Stable coronary artery disease 28-30
+2.3.1 PCI versus medical therapy
+28-29
+2.3.2 PCI versus CABG
+29-30
+2.4 Non cardiac surgery in the Post PCI patient
+31
+3. Adjunctive Therapies in PCI
+32-36
+3.1 Antiplatelet Agents
+32-33
+3.1.1
+Oral Antiplatelet Agents
+32-33
+3.1.2
+Intravenous Antiplatelet Agents
+33
+3.2 Anti Thrombotic Agents
+33-35
+3.3 Other Agents
+35
+4. Specific clinical conditions
+37-42
+4.1 Diabetes
+37-38
+4.2 Chronic Kidney Disease
+38-41
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+10
+4.2.1
+Prognosis
+38
+4.2.2
+Acute renal failure post intervention
+38-39
+4.2.3 Bleeding Risks
+39
+4.3 Women
+41
+4.4 Elderly
+41-42
+4.5 History of bleeding diasthesis,bleeding gastrointestinal or
+42
+Previous haemorrhagic stroke
+PART B: TECHNICAL ASPECTS OF PCI AS A REVASCULARISATION STRATEGY
+5. PCI Devices
+43-48
+5.1 Balloon catheters
+43-44
+5.1.1
+Cutting balloons
+43-44
+5.1.2 Focus force (Safe cut) balloons
+44
+5.1.3
+Drug-eluting balloons
+44
+5.2 Stents
+44-46
+5.2.1 Bare Metal stents (BMS)
+45
+5.2.2
+Drug Eluting Stents (DES)
+45
+5.2.3
+Endothelial Progenitor Cell Capture Stents
+45-46
+5.2.4
+Covered Stents
+46
+5.2.5 Biodegradable (Bioabsorbable) stents and polymers
+46
+5.3 Rotational atherectomy
+46
+5.4 Directional atherectomy
+47
+5.5 Microcatheters
+47
+5.6 Thromboaspiration catheters
+47
+5.7 Thromboectomy Devices
+47
+5.8 Protection Devices
+47
+5.9 Laser Therapy
+47
+5.10 Coil Embolization
+48
+5.11 Intravascular Imaging Devices
+48
+5.11.1 Intravascular Ultrasound
+48
+5.11.2 Optical Coherence Tomography
+48
+5.11.3 Virtual Histology
+48
+5.11.4 Angioscopy
+48
+5.12 Others
+48
+5.12.1 Pressure Wire
+48
+6. Lesion/Device Specific Conditions
+49-58
+6.1 Left Main Stem Disease
+49
+6.1.1 Technical considerations
+49
+6.2 Multivessel Disease
+49-50
+6.2.1
+Stable coronary artery disease
+49-50
+6.2.2 Acute coronary syndrome (UA/NSTEMI)
+50
+6.2.3 STEMI
+50
+6.3 Chronic Total Occlusions
+50-51
+6.3.1 Technical considerations
+51
+6.4 Bifurcation lesions
+51-52
+6.4.1
+Classification
+52
+6.4.2 Technical considerations
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+11
+6.5 Ostial lesions
+52-53
+6.5.1
+Technical considerations
+53
+6.6 Saphenous Vein Grafts
+53-54
+6.6.1 Technical considerations
+54
+6.6.2 Arterial Conduit- Internal Mammary Artery (IMA)
+54
+6.7 Coronary Aneurysms
+54-55
+6.8 Stent Related Complications
+55-58
+6.8.1 Stent Thrombosis (ST)
+55-57
+6.8.2 In-stent restenosis (ISR)
+57-58
+7. Post Procedure complications
+58-59
+7.1 Vascular Access Complications
+58-59
+7.1.1 Retroperitoneal hematoma
+58
+7.1.2 Pseudoaneurysms
+58
+7.1.3
+Arterio-Venous fistula
+58-59
+7.2 Acute Renal Failure Post Intervention
+59
+8. Long term follow up and care
+59
+8.1 Evaluation of Ischemia
+59
+8.2 Secondary Prevention
+59
+9. Radiation protection
+59
+References
+60-75
+Appendix : I-XIII:
+76-85
+Appendix I: Contraindications to Fibrinolytic therapy
+76
+Appendix II: Classification of TIMI Flow grade
+77
+Appendix III: Classification of TIMI Myocardial Perfusion grade(TMP)
+77
+Appendix IV: Classification of Unstable Angina
+78
+Appendix V: TIMI Risk Score for UA/NSTEMI
+79
+Appendix VI: Classification of Angina Severity
+80
+Appendix VII: Risk factor goals in patients with CAD
+80
+Appendix VIII: Calculation of creatinine clearance
+81
+Appendix IX: Commonly used iodinated contrast agents
+81
+Appendix X: Patient and lesion characteristics for recanalisation
+82
+Success (EURO CTO Club)
+Appendix XI: Medina Classification of Bifurcation Lesions
+83
+Appendix XII: Classification of Instent Restenosis (ISR)
+84
+Appendix XIII: Grade of recommendation and level of evidence for
+85
+Secondary prevention of CAD
+Acknowledgements
+86
+Disclosure statement
+86
+Source of funding
+86
+Abbreviations
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+12
+Primary PCI in patients presenting < 12 hours of
+chest pain and :
+  < 3 hours and PCI time delay is < 60 mins
+  3-12 hours in a PCI center or PCI transfer
+delay < 2 hours
+Primary PCI in patients presenting more than
+12 hours of chest pain and continuing signs of :
+  Cardiac ischaemia, LVF and/or
+hemodynamic instability
+Primary PCI in patients who have:
+high risk features - section 2.1.1.(b)
+contraindications to fibrinolytics
+Rescue PCI in patients with failed fibrinolysis
+and have continuing signs of :
+  Chest pain, LVF, hemodynamic instability
+and/or persistent hyperacute changes in the
+ECG
+Facilitated PCI
+Post fibrinolysis and :
+  Routine invasive angiography with view to
+PCI and stenting < in 24 hours in all patients
+  Delayed selective angiography depending on
+presence of hemodynamic instability or
+residual ischemia
+PCI of totally occluded vessel 3-28 days after MI
+and no reversible ischemia
+PCI in Cardiogenic shock and:
+  Age < 75 years
+  Age > 75 years
+ACC/ESC
+Classification
+I, A
+I, A
+IIa, C
+I, A
+I, C
+I, A
+III, A
+IIa, A
+I, A
+III, B
+IIa, B
+IIb, B
+TABLE 1: INDICATIONS FOR PCI IN STEMI
+INDICATIONS
+v
+v
+v
+v
+v
+v
+v
+v
+v
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+13
+High Risk Patients:
+Routine Invasive angiography in all high risk
+patients prior to hospital discharge
+Delayed selective angiography depending upon
+presence of residual ischemia and hemodynamic
+instability
+Low Risk Patients:
+- Routine invasive angiography in all patients who
+at low risk (negative cardiac biomarkers, normal
+ECG and/or TIMI score <3*)
+- Only a small area of myocardium at risk
+- Insignificant disease (less than 50% coronary
+stenosis)
+I, A
+I, A
+IIb, C
+III, C
+III, C
+* see Appendix V, page 79
+TABLE 2: INDICATIONS FOR PCI IN UA/NSTEMI
+INDICATIONS
+ACC/ESC
+Classification
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+14
+In patients requiring revascularization, PCI may be
+considered in:
+- 1 or 2 vessel disease with lesion(s) amenable to
+PCI and a high likelihood of success
+- 3 vessel disease and :
+discrete lesions suitable for PCI
+complex lesions and ineligible for CABG
+complex lesions and eligible for CABG
+diabetes
+- restenosis after PCI
+- chronic total occlusions
+- unprotected left main and:
+high surgical risk and not eligible for CABG
+eligible for CABG
+reduced LV function and eligible for CABG
+associated 3-vessel disease
+I, A
+IIa, B
+IIa, B
+IIb, B
+IIb, B
+IIb, B
+IIb, B
+IIa, B
+IIb, B
+IIb, C
+IIb, C
+* The treatment of choice for patients with significant left main stem
+disease and 3- vessel disease is CABG89,91.
+v
+v
+v
+v
+v
+v
+v
+v
+TABLE 3: INDICATIONS FOR PCI IN STABLE CAD*
+I
+C
+P
+R
+O
+F
+N
+O
+I
+T
+A
+C
+I
+D
+N
+I
+C
+S
+E
+/
+C
+C
+A
+Classification
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+15
+1.
+INTRODUCTION
+Cardiovascular disease (CVD) is an important cause of morbidity and
+mortality in Malaysia1. It accounted for about a fifth of the total burden
+of disease (admissions in government hospitals) in 2000. Coronary
+artery disease (CAD) and cerebrovascular disease accounted for 50%
+and 32% of the cardiovascular burden respectively1. In 2006, CVD was
+the commonest cause of deaths in government hospitals accounting
+for 24.2% of total deaths2.
+Management of CAD includes aggressive risk factor modification and
+lifestyle changes, medical therapy and revascularisation procedures.
+Revascularisation is by percutaneous coronary intervention (PCI) and
+coronary artery bypass graft (CABG) surgery.
+In Malaysia, there has been an increase in the number of diagnostic
+and interventional cardiac procedures performed over the last few
+years. With technical improvement in devices and skills, more complex
+PCI cases are now being addressed.
+The National Cardiovascular Disease (NCVD) - PCI Registry was
+initiated in 2006 to obtain data and for clinical audit.
+The objectives of this clinical practice guideline are to critically evaluate
+the use of PCI in the management of CAD based on currently available
+literature. It aims to:
+•
+assist health care providers in clinical decision making regarding
+the appropriate use of coronary revascularisation procedures
+•
+improve patient outcomes following PCI
+•
+improve the standard of care in patients undergoing PCI
+For this purpose, this guideline is divided into 2 parts:
+•
+Part A: The role of PCI in the management of patients with CAD
+•
+Part B: Technical aspects of PCI as a revascularisation strategy
+Guidelines help in the management of patients. Not all eligible
+patients will have access to all the recommendations stated in
+this guideline. Patient care should be individualised and clinical
+judgement plays an important role in decision making.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+16
+PART A: THE ROLE OF PCI IN THE MANAGEMENT OF
+PATIENTS WITH CAD
+2.
+INDICATIONS FOR PCI
+2.1. ST Elevation Myocardial Infarction (STEMI)
+Definition:
+Myocardial infarction is myocardial necrosis due to acute total
+occlusion of the coronary artery.
+The culprit vessel should be reopened as early as possible to
+prevent cell death and for myocardial salvage. Reperfusion may
+be achieved by either primary PCI or fibrinolytic therapy. Primary
+PCI is defined as intervention in the culprit vessel without prior
+thrombolytic therapy. (see Flow Chart 1, page 23)
+When compared to fibrinolysis, patients with STEMI treated by
+primary PCI have consistently been shown to have3:
+• lower short term mortality
+• fewer non fatal reinfarctions
+• fewer intracranial hemorrhages and strokes
+High risk patients have the greatest mortality benefit with
+primary PCI. The short term benefits persisted during long term
+(6-18months) follow–up4,5.
+Timing is one of several factors that should be considered when
+determining the appropriate reperfusion strategy. In patients
+undergoing primary PCI, the optimal door to balloon time should
+be within 90 minutes. However, with every 15 minute delay in
+the time between arrival at the door and restoration of TIMI 3
+flow, mortality increases6.
+The mortality benefits of primary PCI is seen when the
+incremental delay to PCI (door to balloon time minus door to
+needle time) is no more than 60 minutes of the patient’s arrival
+at the hospital7. A more recent study suggests that even if the
+incremental delay is up to 2 hours, primary PCI has mortality
+benefits beyond fibrinolytic therapy8.
+“TIME IS MYOCARDIUM”
+Most of the trials comparing primary PCI to fibrinolytic therapy
+have been carried out by experienced operators with skilled
+support staff. Thus to obtain the same benefits as seen in these
+trials, it is important that primary PCI be performed promptly by
+experienced operators and in centers performing a sufficient
+number of primary PCI procedures.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+17
+2.1.1. Indications for Primary PCI (Table 1, page 12)
+The following factors help guide the choice of reperfusion
+strategies:
+• Time from symptom onset to first medical contact
+• Time to hospital fibrinolysis (time from hospital arrival to
+administration of fibrinolytic therapy “door to needle time”)
+• PCI time delay (time from hospital arrival to balloon dilatation
+“door to balloon time” minus “ door to needle time”)
+• Contraindications to fibrinolytic therapy (Appendix I, page 76)
+• The presence of high risk features (section B)
+The best reperfusion strategy will depend upon:
+A) Time from onset of symptoms
+Early presentation (within 3 hours)
+If both PCI and fibrinolytic treatment options are readily available,
+they have been shown to be equally effective9,10 except for
+the following situations where primary PCI is the preferred
+strategy:
+• fibrinolytic therapy is contraindicated (Appendix I, page 76)
+• presence of high-risk features [as listed in section 2.1.1.(B)]
+• PCI time delay [(door-to-balloon time) minus (door-to-needle
+time)] is less than 60 minutes7
+Late presentation (3 to 12 hours)
+Primary PCI is preferred 3,10. The door to balloon time should be
+within 90 min if the patient presents at a PCI capable facility7.
+If transferred from a center with no PCI facilities, it should be
+less than 2 hours (including transfer delay)11,12
+If the time delay to primary PCI is longer than as mentioned
+above, then fibrinolytic therapy should be given.
+Very late presentation (> 12 hours)
+Both primary PCI and fibrinolytic therapy are not routinely
+recommended except for the following patients:
+• Severe HF
+• Hemodynamic or electrical instability
+• Evidence of persistence ischaemia
+B) Presence of High risk features
+These include:
+• Large infarcts
+• Anterior infarcts
+• LV failure
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+18
+•
+Hemodynamic or electrical instability
+•
+Cardiogenic shock
+•
+Elderly patients
+•
+Post revascularisation (post CABG and post PCI)
+•
+Post infarct angina
+•
+Previous MI
+Primary PCI is the preferred strategy in these patients13,14,15.
+The fibrinolytic agents available in Malaysia are streptokinase,
+tissue plasminogen activator and tenecteplase. (Refer 2nd CPG
+STEMI 2007)
+2.1.2.
+Transfer of patient
+Transfer of patients with STEMI to PCI capable centers should
+be considered in the following situations:
+•
+when
+fibrinolytic
+therapy
+is
+contraindicated
+or
+unsuccessful16,17,18
+•
+when cardiogenic shock occurs13,14
+•
+when symptoms have been present for more than 3 hours
+and PCI can be performed within 2 hours
+•
+in patients with high risk patients [listed in section 2.1.1 (B)]
+given thrombolysis within 6 hours at a non-PCI centre 19,20
+2.1.3.
+PCI Post Fibrinolysis
+Following fibrinolysis, PCI may be performed as21,22 :
+•
+rescue PCI - for ongoing/recurrent ischemia
+•
+immediate PCI [Facilitated PCI] - performed routinely
+immediately after fibrinolysis
+•
+delayed routine PCI – stable patients undergo angiography
+and PCI irrespective of the absence or presence of
+myocardial ischaemia or viability
+•
+delayed selective PCI – only patients with spontaneous or
+inducible ischaemia undergo angiography and PCI
+2.1.3.1. Rescue PCI
+Rescue PCI is initiated as soon as there are features indicating
+failed fibrinolytic therapy manifested as:
+•
+ongoing chest pains
+•
+persistent hyper-acute ECG changes (< 50% resolution of
+ST elevation in the lead showing the greatest degree of ST
+elevation at presentation)
+•
+hemodynamic and electrical instability
+•
+heart failure
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+19
+Rescue PCI is associated with a reduction in heart failure,
+reinfarction and a trend towards reduction in mortality, but with
+increased risk of bleeding and stroke16,17,18. Hence these patients
+should be individually evaluated.
+2.1.3.2. Facilitated PCI
+Facilitated PCI refers to a strategy of planned immediate PCI after
+an initial pharmacologic regimen consisting of either a fibrinolytic
+agent, glycoprotein (GP) IIb/IIIa inhibitors or a combination of
+these agents. The purpose is to bridge the delay between first
+medical contact and primary PCI.
+This strategy however has not been shown to reduce infarct size
+or improve patient outcomes. It is also associated with an increase
+in mortality, recurrent ischaemia, reinfarction rates and major
+bleeding. It is thus not recommended 22-26.
+2.1.3.3. Delayed routine angiography and PCI
+This refers to stable patients post fibrinolysis undergoing
+angiography and PCI irrespective of the absence or presence of
+myocardial ischaemia or viability.
+Recent studies show that routine angiography and PCI with stent
+implantation (as opposed to routine balloon PCI only) in the early
+hours after fibrinolysis improved patient outcomes as compared to
+symptom or ischaemia guided delayed intervention16-19,21,27-32.
+This strategy of immediate or early angiography with the intent to
+perform PCI with stenting as necessary, within hours of fibrinolysis
+(< 24 hours), has resulted in a significant reduction in mortality
+and reinfarction rates without an increase in adverse events. The
+optimal timing interval between fibrinolytic therapy and PCI is
+however still unknown.
+2.1.3. 4. Delayed selective angiography and PCI
+This strategy refers to patients undergoing angiography and PCI
+only if there is spontaneous or inducible ischaemia.
+Stable patients who are at low risk and who did not undergo early
+(< 24 hours) angiography should undergo stress testing33,34. If
+spontaneous or inducible ischaemia is present, then angiography
+and appropriate revascularisation should be performed.
+Routine PCI of totally occluded coronary arteries 3-28 days
+after STEMI is not recommended unless there is ischaemia
+demonstrated35.
+However if the patient is admitted to a non PCI center and is stable
+post fibrinolysis, an initial conservative approach with delayed
+selective angiography and PCI may be adopted guided by the
+attending physician’s discretion.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+20
+2.1.4.
+Technical considerations during primary PCI
+For a favourable outcome, it is important to obtain good TIMI 3
+epicardial flow as well as optimum reperfusion of the myocardial
+microvasculature (TIMI myocardial perfusion grade – TMP).
+(Appendix II and III, page 77)
+2.1.4.1. Pre-procedure
+• If breathless, the patient should be treated appropriately before
+being taken to the catheterisation laboratory.
+• Optimise patient’s haemodynamics and oxygen saturation.
+• oral aspirin 300 mg
+• clopidogrel 300-600 mg
+• anti-thrombotic therapy:
+- heparin or
+- bivalirudin
+(For dosages see Table 5 & 8, page 36 and 41)
+• Femoral access is usually preferred because this allows for the
+use of larger devices if necessary and the use of intra-aortic
+balloon pump (IABP) when indicated.
+2.1.4.2. Technical Tips during Procedure
+• Primary PCI should only be performed on the infarct related
+artery (IRA) because dilating a non-IRA at the same sitting may
+cause stress on too much of the myocardium acutely.
+• Occasionally, complete revascularisation may be attempted on
+significant lesions in non culprit vessels when time and patient
+safety permit36.
+• A soft or floppy-tipped 0.014 inch streerable guide wire is preferred.
+• When flow is re-established, reperfusion arrhythmias may occur.
+• If thrombus is present, consider the use of an aspiration
+catheter.
+• The first balloon is usually a smaller balloon than the reference
+vessel.
+• Consider giving intra-coronary nitroglycerine to ensure that the
+vessel is not vasospastic and for appropriate stent sizing.
+• Randomised trials have shown that bare metal stents (BMS)
+reduced restenosis and target vessel revascularisation (TVR)
+when compared to plain balloon angioplasty (POBA) but did
+not improve mortality or ventricular function37,38. Stents have
+become the strategy of choice for primary PCI.
+2.1.4.3. Drug Eluting Stents (DES) vs BMS for STEMI
+Both DES and BMS are effective in the setting of STEMI.
+Randomised trials have not shown any mortality advantage of
+DES over BMS. However, DES is associated with lower TVR
+without an increase in all cause mortality39,40.
+2.1.4.4. Distal Embolisation and the Use of Adjunctive
+Devices and Pharmacotherapy.
+Thrombus burden is usually large if the patient presents late or the
+IRA is ectatic. Predictors of slow flow (TIMI 1 and 2 – Appendix II,
+page 77) and no-reflow (TIMI 0) of the IRA are41:
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+21
+•
+vessel diameter ≥ 3.5 mm
+•
+treatment of the right coronary artery
+•
+higher TIMI thrombus score42
+•
+angiographic findings such as :
+-
+“cut-off” sign (ie abrupt occlusion of the epicardial vessel)
+seen on the coronary angiogram
+-
+persistent contrast stasis just proximal and/or distal to the
+obstruction
+-
+longer lesions
+-
+accumulated thrombus of > 5 mm proximal to occlusion
+-
+floating thrombus
+To prevent distal embolization the following devices have been
+studied:
+•
+aspiration catheter:- In recent studies, aspiration of thrombus
+prior to PCI was associated with improved tissue reperfusion
+(TMP grade – Appendix III, page 77) and medium term survival
+when compared with conventional PCI43,44,45.
+•
+distal embolic protection:- meta-analysis showed that these
+devices had a neutral effect on mortality43
+•
+Glycoprotein (GP) IIb/IIIa inhibitors - Abciximab therapy during
+primary PCI showed short term benefit especially in high risk
+patients46-50. The data on its effect on long term survival is
+however conflicting.
+2.1.4.5. Management of No Reflow
+No reflow (TIMI 0) or slow reflow (TIMI 1 and 2) may occur transiently
+or may persist after primary PCI.
+No-reflow may occur as a consequence of:
+•
+microvascular dysfunction from vasospasm
+•
+distal embolisation
+•
+endothelial injury
+It is associated with poor recovery of LV function and a higher
+incidence of post MI complications.
+Management includes:
+•
+Intracoronary (IC) Nitroglycerin
+•
+IC Verapamil 100 – 200 µg boluses
+•
+IC Adenosine 100 – 200 µg boluses
+•
+IC Nitroprusside 50 – 100 µg boluses
+•
+Others: IC Papaverine, IC Nicorandil
+2.1.5. Cardiogenic Shock
+Cardiogenic shock is defined as a systolic BP of < 90 mmHg
+associated with signs of tissue hypoperfusion, and central filling
+pressure [pulmonary capillary wedge pressure (PCWP)] of >20mmHg
+or cardiac index of <1.8L/min/m.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+22
+KEY MESSAGES:
+•
+Primary PCI is the treatment of choice in STEMI for all patients
+with high risk features and in those presenting between 3-12
+hours of symptom onset.
+•
+In patients presenting <3 hours, both primary PCI and fibrinolytic
+therapy are equally effective except in patients with high risk
+features and in those where the PCI time delay is < 60 minutes.
+In these cases, the treatment of choice is primary PCI.
+Cardiogenic shock may occur after STEMI or Non ST Elevation
+MI (NSTEMI) and carries a very high mortality rate. It may be
+present at admission or may develop during hospitalisation
+(in-hospital onset). In Europe, the rate of cardiogenic shock at
+admission has remained the same but the rate of in-hospital
+onset has decreased. This was due to increased rates of primary
+PCI51.
+Cardiogenic shock is usually due to left ventricular pump failure
+although occasionally it may be due to right ventricular infarction
+or mechanical complications such as acute valvular insufficiency
+and ventricular septal rupture. Mechanical complications should be
+considered for early surgical repair although surgical risks are high.
+Emergency PCI or urgent CABG is the treatment of choice and
+should be considered early. Patients who are less than 75 years
+of age should be considered for PCI13,52 whatever the time delay;
+the earlier the intervention the better the outcome.
+Recent data seem to indicate that selected patients older than 75
+years also do better with primary PCI if this is done early51,53,54.
+2.1.5.1. Technical considerations in Cardiogenic Shock
+Patients in cardiogenic shock should be treated appropriately
+with the early use of mechanical ventilation, inotropes and
+vasopressors. An IABP should be used early (preferably even
+before starting the procedure) to help maintain perfusion and to
+augment LV performance. In a number of small clinical studies,it
+has been shown to improve survival even in patients not
+undergoing PCI 55-58. A recent meta-analysis however, showed
+mixed results59. The role of IABP in the management of patients
+in cardiogenic is currently being addressed in an ongoing trial60.
+Patients in cardiogenic shock often have multivessel disease
+and all critical lesions besides the culprit lesion, should be
+dilated taking into consideration the amount of contrast used
+and the length of the procedure. This is in contrast to the usual
+recommendation to only treat the culprit vessel in primary PCI
+for STEMI without cardiogenic shock. If multivessel PCI is not
+possible, then the patient should be evaluated for urgent CABG.
+The use of stents and GP IIb/IIIa inhibitors has been associated
+with improved outcomes36.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+24
+2.2.
+Unstable Angina / Non ST segment Elevation
+Myocardial Infarction (UA/NSTEMI)
+Definition:
+Unstable angina may be defined as61: (Appendix IV, page 78)
+1. new onset of severe angina or accelerated angina; no
+rest pain
+2. angina at rest within past month but not within preceding
+48 hour (angina at rest, subacute)
+3. angina at rest within 48 hour (angina at rest, acute).
+It may be further classified according to clinical circumstances
+into either:
+a) primary – absence of extracardiac disease
+b) secondary – presence of extracardiac disease
+c) post-infarct – chest pains occuring within 2 weeks of an
+acute MI
+NSTEMI may be defined as MI as indicated by the history and
+elevation of cardiac biomarkers but with the absence of ST
+elevation in the ECG.
+2.2.1. Risk stratification
+Patients with UA/NSTEMI should be risk stratified as outlined
+in the CPG for UA/NSTEMI. The TIMI risk score is yet another
+risk stratification model that can be used to assist in decision
+making. This risk score is based on the patient’s clinical condition
+at admission. (Appendix V, page 79)
+Risk stratification is important because it will help decide:
+•
+site of care – general ward or critical care ward
+•
+intensity of medical therapy (e.g. need for GP IIb/IIIa inhibitors)
+•
+invasive versus conservative strategy
+2.2.2. Management strategy (Flow chart 2, page 27)
+2.2.2.1. Invasive strategy (Table 2, page 13)
+Patients requiring early angiography with view to revascularisation
+(invasive strategy) are those:
+• at very high risk – in these patients urgent angiography
+may be necessary within 24 hours of admission
+• at high risk – early angiography within hospital admission
+The following high risk patients should be considered for an
+invasive strategy:
+• elevated cardiac biomarkers (troponins and/or CKMB
+levels)
+• dynamic ST segment changes
+• heart failure
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+25
+The following high risk patients should also be considered for an
+invasive strategy:
+• Recurrent resting chest pain despite optimum medical therapy
+• Worsening mitral regurgitation
+• Reduced LV systolic function (LVEF< 35%)
+• Haemodynamic instability
+• Major arrhythmias (ventricular tachycardia, ventricular fibrillation)
+• History of known coronary artery disease (CAD), previous
+MI, prior PCI or CABG
+These high risk patients require early angiography following
+intensive antithrombotic and anti ischaemic medications to “cool
+off” the plaque.
+The value of medical stabilisation before angiography and
+the timing of intervention in these high risk patients have been
+assessed in 3 studies. In one study, patients randomised to
+immediate angiography (< 24 hours) had fewer deaths and MI’s
+at 30 days compared to those whose angiograms were deferred
+to a mean of 86 hours62.
+Two recent studies however, have shown that even in moderate to
+high risk patients both the early invasive strategy (<24 hours) and
+the delayed invasive strategy (>24 hours but within that hospital
+admission) were equally effective and safe 63,64.
+2.2.2.2. Conservative strategy
+A conservative strategy involves optimal medical therapy and
+consideration for selective coronary angiography in those:
+• who have recurrent chest pains at rest or on minimal exertion
+• abnormal resting ECG, stress ECG or other tests for
+myocardial ischaemia
+There have been a number of studies addressing the issue of
+routine early invasive therapy versus a conservative strategy with
+selective coronary angiography.
+Meta-analysis of recent randomised trials of UA/NSTEMI have
+shown mortality and morbidity benefits in the routine early invasive
+strategy with appropriate revascularisation. This is as opposed to
+a conservative strategy with selective coronary angiography only
+in those with ischaemia65,66,67.
+It has also been found to be beneficial in women as well as in the
+elderly68,69.
+If the patient is admitted to a non PCI center with limitations for
+immediate/early transfer, guided by the attending physician’s
+discretion and patient preferences, an initial conservative
+approach may be adopted70.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+26
+These patients should have tests for myocardial ischaemia
+(stress tests, nuclear scans etc) and LV function. The presence
+of significant residual ischaemia (large anterior or multiple
+perfusion defects) and a depressed LV function is an indication
+for angiography and revascularisation.
+Low risk patients (negative cardiac biomarkers, normal ECG
+and/or TIMI risk score <3) can be treated conservatively.
+However a coronary or computer tomographic (CT) angiogram
+may be considered for diagnostic and prognostic purposes and
+for planning management strategy.
+KEY MESSAGES:
+•
+All patients with UA/NSTEMI should be risk stratified.
+•
+High risk patients should undergo early (in-hospital)
+coronary angiography and appropriate revascularisation.
+•
+Low risk patients (negative cardiac biomarkers and normal
+ECG and/or TIMI score <3) can be treated conservatively
+and undergo non invasive tests for ischaemia.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+27
+* TIMI risk score – Appendix V, page 79
+** High Risk Features
+-
+Recurrent resting chest pain despite optimum
+medical therapy Continue medical
+-
+Heart failure symptoms and or worsening mitral
+regurgitation therapy
+-
+Reduced LV systolic function (LVEF< 35%)
+-
+Hemodynamic instability
+-
+Major arrythmias (ventricular tachycardia,
+ventricular fibrillation)
+-
+History of known CAD, previous MI, prior PCI
+or CABG
+Flow chart 2: MANAGEMENT OF PATIENTS
+PRESENTING WITH UA/NSTEMI
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+28
+2.3.
+Stable Coronary Artery Disease (CAD)
+Stable CAD refers to stable angina, asymptomatic myocardial
+ischaemia and coronary atherosclerosis detected by coronary or
+CT angiogram. Stable angina is defined as a clinical syndrome
+characterized by discomfort in the chest, jaw, shoulder, back or
+arms, typically elicited by exertion or emotional stress and relieved
+by rest or nitroglycerine. (Appendix VI, page 80)
+The objectives of treatment of stable CAD are to:
+• minimise or relieve symptoms
+• slow down /prevent progression of disease
+• improve prognosis by preventing myocardial infarction and
+death
+Treatment strategies include:
+• medical therapy
+• PCI
+• CABG surgery
+The choice of treatment strategy will depend on the:
+• severity of symptoms (Appendix VI, page 80)
+• degree of myocardial ischaemia
+• coronary anatomy, severity and complexity of coronary stenosis
+and lesion morphology
+2.3.1. PCI vs medical therapy
+Meta-analysis of randomised trials comparing PCI vs medical
+therapy in patients with stable CAD concluded that PCI71,77,73.
+• was more effective than medical therapy alone in relieving
+angina
+• was associated with better exercise tolerance
+• did not reduce the risk of death or myocardial infarction (MI)
+A recent large study (done in the stent era) comparing an initial
+management strategy of PCI in combination with optimal medical
+therapy to optimal medical therapy alone showed that the invasive
+strategy:
+• did not reduce the risk of death, MI, or other major cardiovascular
+events74
+• provided small but significant incremental benefits in quality of
+life75 i.e angina stability, angina frequency or limitation of exercise
+capacity. These benefits however disappeared by 36 months.
+• provided a greater benefit (symptom relief) in those patients
+with more severe ischaemia and more frequent angina75
+Thus patients with stable CAD should be treated with
+optimal medical therapy using a combination of antiplatelet
+agents, statins, β-blockers and angiotensin converting
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+29
+enzyme inhibitors (ACE-I)76. These medications have been shown
+to improve long term survival by preventing death, MI and other
+major cardiovascular events. The survival of patients post MI
+who were on all 4 medications (aspirin, β-blockers, statins and
+ACE-I) was greater than those on zero, one, two or three of these
+medications only77,78.
+Nitrates, calcium channel blockers and other anti ischaemic agents
+(such as trimetazidine and ivabradine) may also be added for
+relief of angina and for reducing myocardial ischaemia. Reduction
+in ischaemia was associated with a significant reduction in risk
+and better long term outcomes79.
+It is important to achieve risk factor treatment goals (Appendix VII,
+page 80). Patients who attained these treatment goals generally
+did better78,80. These medications should be continued long term
+provided that there are no contraindications.
+2.3.1.1. Indications for revascularisation
+The following individuals should be considered for revascularisation:
+• patients with significant and/or disabling angina especially
+within 3 months of a recent MI81
+• patients with large areas of ischaemia on non invasive testing
+• those whose symptoms were initially well controlled but with
+recurrence of symptoms or objective evidence of worsening
+ischaemia on non invasive testing74
+In general, all stable asymptomatic or minimally symptomatic
+patients should undergo testing for reversible ischaemia prior to
+coronary angiography.
+If this was not done, certain coronary angiographic features may
+help decide the need for revascularisation81:
+• Subtotal occlusions supplying non infarcted myocardium
+• Stenosis greater than 90%
+• Significant complex lesions that are prone to develop total
+occlusions
+• Reduced fractional flow reserve (< 0.8)82,83
+• Minimal Luminal Area (MLA) <4.0 mm2 in proximal 2/3 of epicardial
+vessels as assessed by intra-vascular ultrasound (IVUS)84
+2.3.2. PCI versus CABG
+Both strategies are equally effective for the treatment of symptoms.
+There is also no significant difference in mortality between the 2
+strategies in randomised patients in clinical trials at 1, 3, 8 years85
+and 10 years86. To obtain the same long term clinical benefits as
+seen in patients undergoing CABG, it is important that patients
+undergoing PCI have complete revascularisation87. In general,
+repeat revascularisation procedures are less with CABG. With the
+use of stents, however, the need for repeat procedures following
+PCI has also been reduced by as much as 50%88.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+30
+CABG has been shown to have a survival benefit in high risk
+individuals with complex coronary anatomy (e.g. left main stem,
+triple vessel disease) 89,90. These patients were often not included
+in the randomised clinical trials done in the pre-stent era.
+In the early trials done in the pre – DES era, CABG has been
+shown to have a lower 5 year risk of death in patients with:
+• diabetes85,88,91 (see section on Diabetes)
+• multi-vessel disease with impaired Left Ventricular (LV) systolic
+function (LVEF < 35%)
+Patients with impaired LV function were not randomised in most
+of the trials. These patients are traditionally better treated with
+CABG although treatment needs to be individualised.
+When compared to medical therapy, patients with significant
+left main stem narrowing (> 50%) do better with CABG. Most of
+the early trials of PCI for left main stem disease have used bare
+metal stents. Procedural success was high but there was high
+early restenosis and mortality92,93. More recent trials using DES
+have had more promising results91. When left main stem disease
+is associated with poor LV function, CABG is the preferred
+revascularisation strategy (see section on Left main stem disease).
+A recent large trial comparing PCI (with DES) and CABG for
+patients with triple vessel CAD and left main stem disease
+showed that both procedures were equally effective in reducing
+death and MI91. Patients undergoing PCI however, had more
+repeat revascularisation procedures. Generally patients with
+more complex disease (higher “SYNTAX” scores94) did better
+with CABG. There was a lower incidence of strokes in patients
+undergoing PCI85,91.
+Ideally, the best strategy for revascularisation in a patient with
+CAD should be made by mutual discussion by a “heart team”
+consisting of cardiologists and surgeons taking into consideration
+the coronary anatomy, the presence of co-morbidity and the
+patient’s preferences89. The patient and family must be informed of
+the advantages and disadvantages of each of the strategies90,95.
+Registry data indicate that when the choice of revascularisation
+strategy is guided by physician selection, the long term outcome
+is similar irrespective of the choice of revascularisation strategy –
+i.e. PCI or CABG96,97,98.
+2.3.2.1.
+Indications for PCI as a revascularisation
+strategy- Table 3, page 14
+KEY MESSAGES:
+• All patients with stable CAD should receive optimal medical
+therapy consisting of antiplatelet agents, β-blockers, ACE-I,
+statins and anti-ischaemic drug therapy.
+• Patients with significant angina or large areas of reversible
+ischaemia on non invasive testing should undergo appropriate
+revascularisation.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+31
+KEY MESSAGES:
+• Patients with DES should be managed optimally by the
+physician, cardiologist, surgeon and the anaesthesiologist
+prior to non cardiac surgery.
+• Dual anti-platelet therapy should not be discontinued
+prematurely in patients with DES.
+2.4.
+Non-cardiac surgery in the post PCI patient
+Patients with significant cardiac disease (unstable CAD, significant
+arrhythmias, decompensated HF and severe valvular stenosis) should
+be properly evaluated and treated prior to non cardiac surgery99.
+In patients with CAD, routine prophylactic coronary angiography
+and PCI is not recommended in stable patients undergoing noncardiac surgery100.
+Patients with UA/NSTEMI, recent MI and Class III and IV
+angina (Appendix VI, page 80) should undergo appropriate
+revascularisation prior to elective surgery. Where PCI is the chosen
+revascularisation strategy, POBA or if stents are necessary, BMS
+should be used instead of DES.
+Patients post PCI with DES requiring elective or emergency
+surgeries pose significant challenges. These patients are exposed
+to the risks of either:
+• possible life threatening surgical bleeding due to the
+continuation of their anti platelet therapy
+• acute MI and cardiac death due to stent thrombosis resulting
+from the premature or inappropriate discontinuation of antiplatelet therapy.
+The situation is aggravated by surgery itself which creates a
+prothrombotic and pro–inflammatory state. These risks must be
+carefully balanced against the risk of delaying the operation to
+such time as is considered safe to stop antiplatelet therapy101,102.
+Antiplatelet therapy should not be stopped casually.
+The peri-operative physicians, anaesthesiologists and surgeons
+should contact the patient’s cardiologist prior to surgery to discuss
+optimal patient management. Patients should also be advised
+to inform any healthcare provider who instructs them to stop
+antiplatelet therapy to consult their cardiologist first.
+Low risk surgical procedures where bleeding is minimal or can
+be easily controlled such as routine dental procedures or simple
+surgical operations such as removal of skin cysts/ lumps should
+not justify cessation of dual antiplatelet therapy.
+Wherever possible, elective surgery should be deferred for at least
+4-6 weeks after BMS implantation and at least for a year after DES
+implantation.
+If surgery cannot be delayed, clopidogrel should be stopped for a
+minimum of 5 days and preferably for 7 days prior to surgery and
+restarted as soon as possible after the procedure. Aspirin should
+be continued throughout the surgery if possible103,104,105.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+32
+3. ADJUNCTIVE THERAPIES FOR PCI
+3.1.
+Antiplatelet agents
+3.1.1. Oral Antiplatelet Therapy
+3.1.1.1.
+Aspirin
+• Patients on long term aspirin therapy undergoing elective PCI
+should continue taking their usual dose before the PCI procedure.
+• Patients not on aspirin therapy should be given 300mg of
+aspirin at least 2 hours and preferably 24 hours before the PCI
+procedure. Enteric coated aspirin should not be given because
+of the slow onset of action.
+• After the PCI procedure, patients should be on life long aspirin
+therapy106.
+• The daily long term aspirin dose should be 100-150mg
+indefinitely106.
+• The optimal loading dose and maintenance dose of aspirin
+following PCI is being addressed in an ongoing study
+(CURRENT/OASIS-7).
+3.1.1.2. Thienopyridines
+a) Clopidogrel
+• A loading dose of clopidogrel 300-600mg should be administered
+before PCI107-111. This loading dose is important in patients
+admitted with STEMI and ACS111,112.
+• However, in patients with chronic stable angina undergoing PCI,
+a recent study found no benefit in pretreating with clopidogrel. It
+was found that giving clopidogrel in the catheterisation lab just
+prior to ad-hoc PCI did not result in an increase in ischaemic
+complications113,114.
+• In patients who have undergone PCI, clopidogrel 75mg daily
+should be given for at least 1 month after bare-metal stent
+implantation (unless the patient is at increased risk of bleeding;
+then it should be given for a minimum of 2 weeks)115.
+• After DES, clopidogrel should be given at 75mg daily for at least
+a year116,117.
+• In patients with an absolute contraindication to aspirin, it is
+reasonable to give a 300-600mg loading dose of clopidogrel,
+administered at least 6 hours before PCI. This is followed by a
+maintenance dose of 75-150 mg daily.
+• The dose of clopidogrel may be increased to 150 mg per day if
+platelet aggregration studies show that there is less than 50%
+inhibition of platelet aggregation118.
+• Patients who are at high risk of very late stent thrombosis (eg.
+multiple overlapping stents, long stents, small vessels, ostial
+or bifurcation lesions, LMS, sub-optimal stent result), may be
+considered for long term dual antiplatelet therapy (beyond a
+year)102.
+b) Ticlopidine
+• It may be considered as an alternative to clopidogrel following
+POBA or BMS implantation. It has however, not been investigated
+following implantation of DES.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+33
+• It is associated with neutropenia in 1% of patients119. Due to this
+safety reason, it is not commonly used in patients following PCI.
+Patients on ticlopidine should have their total white cell count
+monitored regularly for the initial 3 months.
+• Patients who are not on ticlopidine should be given 250mg b.i.d.
+for at least 3 days prior to procedure.
+• Patients not on maintenance dose of ticlopidine may be given a
+loading dose of 500mg.
+• Patients already on long term ticlopidine undergoing PCI may be
+continued at a dose of 250mg b.i.d120,121,122.
+• In patients who have undergone PCI, ticlopidine 250mg b.i.d.
+should be given together with aspirin for at least 1 month after
+bare-metal stent implantation (unless the patient is at increased
+risk of bleeding; then it should be given for a minimum of 2
+weeks)121,122,123.
+c) Prasugrel
+• A new antiplatelet agent, prasugrel, has been shown to be more
+effective than clopidogrel in reducing ischaemic events but was
+associated with increased bleeding124,125.
+• In a recent study, prasugrel was found to be more effective
+than clopidogrel in reducing cardiovascular death, non fatal MI
+and non fatal stroke in patients with STEMI. Only patients who
+subsequently went on to CABG had increased bleeding with
+prasugrel126.
+3.1.2. Intravenous Antiplatelet Therapy – Glycoprotein (GP)
+IIb/IIIa Inhibitors
+• If clopidogrel is given at the time of an ad-hoc procedure,
+supplementation with GP IIb/IIIa inhibitors can be beneficial
+to facilitate earlier platelet inhibition than with clopidogrel
+alone127,128.
+• In STEMI, GPIIb/IIIa inhibitors may be given in the presence of
+intra-coronary thrombus.
+• In a recent small study, tirofiban administered in the pre-hospital
+setting prior to primary PCI, was found to be associated with
+significant ST segment resolution129.
+• In patients with high risk ACS, it may be administered as
+an upstream therapy or in the catheterisation laboratory (inlab)130,131.
+• A recent study showed that patients with NSTEMI treated with
+aspirin, clopidogrel, and heparin, there was no benefit to the
+upstream use of the GP IIb/IIIa inhibitor, eptifibatide compared
+with provisional use immediately prior to PCI. Routine upstream
+use of eptifibatide increased major bleeding as well as the need
+for transfusion132.
+• In low to intermediate risk elective PCI patients, GP IIb/IIIa
+inhibitors do not confer additional benefits in those who are
+already pre-loaded with 600mg clopidogrel133.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+34
+• A meta analysis indicated that diabetics undergoing PCI
+benefited from abciximab134.
+For dosages see Table 4, page 35
+3.2.
+Antithrombotic Therapy
+These include:
+- Unfractionated Heparin (UFH)
+- Low Molecular Weight Heparin (LMWH)
+- Bivalirudin
+- Fondaparinux
+• Unfractionated heparin (UFH) should be administered to
+patients undergoing PCI.
+• Bivalirudin may be used as a substitute for heparin in patients
+with heparin-induced thrombocytopenia (HIT)135.
+• It is reasonable to use bivalirudin as an alternative to UFH
+and GP IIb/IIIa inhibitors in patients undergoing elective
+PCI127,136,137,138.
+• In patients with STEMI, the use of bivalirudin instead of UFH
+was associated with lower major bleeding and all cause
+mortality but with a small increase in stent thrombosis137.
+• Low-molecular-weight heparin (LMWH) is a reasonable
+alternative to UFH in patients with UA/NSTEMI undergoing
+PCI139. A dose of enoxaparin at 0.75 mg per kilogram given
+intravenously (IV) yields bleeding rates similar to those for
+unfractionated heparin, with more predictable anticoagulation
+levels140.
+• Fondaparinux is best used in UA/NSTEMI and STEMI patients
+treated conservatively.
+• Fondaparinux is associated with an increase in catheter-related
+thrombus and coronary angiographic complications. It is not
+recommended as the sole anticoagulant during PCI141,142.
+• If fondaparinux is used in UA/NSTEMI and the patient requires
+an invasive strategy, UFH should be given during the procedure.
+When used in PCI, it is associated with lower bleeding rates
+than LMWH141,142,143.
+• No benefit was seen with the use of fondaparinux in Primary
+PCI142.
+For dosages refer table 5, page 36.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+35
+TABLE 4: RECOMMENDED DOSAGES OF GP IIb / IIIa
+RECEPTOR ANTAGONISTS IN UA / NSTEMI AND DURING PCI*
+3.3. Other Agents
+3.3.1 Cilostazol
+•
+Cilostazol, a phosphodiesterase inhibitor, was shown to
+result in reduced rates of stent thrombosis when given as
+part of a triple anti platelet regime in patients with BMS144.
+•
+Studies have also shown that cilostazol at a dose of 100 mg
+bid resulted in significantly reduced rates of restenosis and
+TVR at 6 months without an increase in the rate of bleeding
+or stent thrombosis145-148.
+3.3.2 Statins
+•
+Pre-treatment with statins 7 days prior to elective PCI has
+been shown to reduce post-procedure MI149.
+•
+A loading dose of statin pre-procedure has also been
+shown to reduce post-procedure MI in statin-naive150 and in
+patients already on regular statins151.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+36
+TABLE 5: DOSES OF ANTI-THROMBOTIC AGENTS IN UA/
+NSTEMI AND DURING PCI*
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+37
+4. SPECIAL CLINICAL CONDITIONS
+4.1. Diabetes
+Diabetics have higher cardiovascular morbidity and mortality
+following both CABG and PCI. Early studies showed that
+CABG [with left internal mammary artery (LIMA) to left anterior
+descending artery] was associated with a better long term survival
+than POBA152,153,154. This was due to:
+• accelerated
+atherosclerosis.
+New
+lesions
+(plaque
+progression) were more frequent among diabetics. This
+occurred more commonly in arteries that were dilated during
+the initial procedure155. Accelerated disease progression has
+also been seen after surgical revascularisation.
+• restenosis: restenosis rates were higher in diabetics and
+these frequently presented as occlusive restenosis156,157. The
+long term survival of these patients was worse than those
+diabetics without restenosis or those who presented with
+non-occlusive restenosis158.
+Diabetics especially insulin dependent diabetics with poor
+glycemic control (HbA1c > 7%) were more likely to have restenosis
+and adverse outcomes following PCI159. They also have worse
+outcomes following primary PCI for STEMI, the higher the blood
+glucose levels, the worse the prognosis160.
+The prognosis of diabetic patients following PCI has improved
+with the use of:
+• GP IIb/IIIa inhibitors: In a meta-analysis, the use of abciximab,
+resulted in 1 year mortality rates in diabetic patients being the
+same as placebo-treated non-diabetics134.
+• stents: Stents, especially DES, has resulted in significant
+reduction in restenosis rates in diabetics although it still
+remains higher than in non-diabetics88,91,161-164.
+PCI in diabetic patients:
+• is appropriate in “less severe” disease165,166 i.e. 1 or 2 vessel
+disease with discrete lesions in combination with stents and
+GP IIb/IIIa inhibitors167,168,169.
+• with multi vessel disease – The optimal method of
+revascularisation is still being addressed in ongoing trials
+(e.g. BARI 2, FREEDOM). More recent trials comparing PCI
+with DES to CABG found that the 3 year combined rates of
+death, MI and stroke were similar for diabetics treated by
+stenting or by surgery. The diabetics however had a higher
+rate of repeat revascularisation91,170,171,172.
+Lesion characteristics, vessel size and clinical judgement can help
+guide the choice of revascularisation strategy. Generally patients
+with discrete high grade stenosis in large vessels do well with
+PCI. On the other hand, patients with long stenosis in diffusely
+diseased calcified vessels do better with CABG88,91.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+38
+4.1.1. Technical considerations
+• Wherever possible, stents, preferably DES, should be used.
+• If there are no contraindications, abciximab should be used.
+4.2. Chronic Kidney Disease (CKD)
+4.2.1. Prognosis
+In patients with CKD:
+• PCI was associated with a higher in-hospital and long term
+mortality compared to patients without CKD; the higher the serum
+creatinine, the worse the outcome173,174. Even patients with a serum
+creatinine of 1.1 and 1.2 mg/100ml (96.8 and 105.6 µmol/l) had a
+non-significant trend towards higher mortality175.
+• and on renal replacement therapy (dialysis) CABG was associated
+with a better 2 year survival compared to PCI176.
+• the use of stents was associated with significantly better
+survival175,177.
+There is insufficient data at present on the best means of revascularisation
+in patients with less advanced stages of CKD.
+In patients with ACS, the presence of CKD is an additional high-risk
+feature associated with increased mortality, the more severe the CKD,
+the higher the mortality. A recent meta-analysis showed that patients
+presenting as UA/NSTEMI and treated with an early invasive strategy
+had better outcomes178.
+All patients with CAD should be screened for kidney disease by estimating
+their glomerular filtration rate (GFR), looking for microalbuminuria and
+measuring the urine albumin: creatinine ratio. Estimated GFR can be
+calculated using the Cockroft-Gault formula (Appendix VIII, page 81).
+Patients with CKD are at increased risk of:
+• Acute Renal Failure Post Intervention
+• Bleeding
+4.2.2. Acute Renal Failure Post Intervention
+Acute renal failure (ARF) following PCI is defined as 0.5mg/100ml (44.2
+µmol/l) rise in serum creatinine levels from baseline or a relative increase
+of ≥25% from baseline, 2 to 7 days following contrast administration179.
+Diabetic patients with baseline serum creatinine values <2.0 mg/100ml
+(<176 µmol/l) are at higher risk than non-diabetic patients, whereas all
+patients with a serum creatinine >2.0 mg/100ml (>176 µmol/l) and poor
+LV function are at high risk for ARF180,181.
+Acute renal failure following PCI, is an independent predictor of 30 day
+and long term mortality and morbidity180,181.
+Possible causes of ARF include contrast nephropathy and cholesterol
+embolisation.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+39
+4.2.2.1.
+Contrast induced nephropathy
+Acute renal failure due to contrast nephropathy is generally reversible.
+The serum creatinine peaks between 2 and 5 days after contrast
+exposure and returns to normal within 14 days182.
+Contrast induced nephropathy (CIN) is more likely to occur in:
+• the elderly
+• diabetics
+• pre-existing renal impairment
+• hypotension
+• poor LV function
+• dehydration
+The optimal strategy to prevent CIN is uncertain. Preventive measures
+include182: (Table 6 and 7, page 40)
+• using iso-osmolar, non-ionic, contrast medium183 . A recent trial
+showed that low osmolar contrast medium was as safe as isoosmolar agents184,185. (Appendix IX, page 81)
+• discontinuation of nephrotoxic drugs, such as non-steroidal antiinflammatory medications and metformin
+• use of a minimum volume of contrast including staging of
+procedure
+• provision of intravenous hydration
+• administration of N-acetylcysteine186,187
+• use of sodium bicarbonate188,189. The renoprotective effect of sodium
+bicarbonate is hypothesized as being due to urinary alkalinization
+making it less amenable to the formation of free radicals.
+4.2.2.2.
+Cholesterol Embolisation
+Acute renal failure may occur due to microembolisation of cholesterol
+particles into the renal vessels. It is often associated with cholesterol
+embolisation to other visceral organs and the peripheral vessels. It is
+associated with a high mortality.
+4.2.3. Bleeding Risks
+Patients with CKD have increased bleeding risks. This is partly due to
+platelet dysfunction and also because many cardiac drugs especially
+some anti thrombotic agents are excreted by the kidneys. In patients
+with CKD, their doses need to be adjusted to avoid excessive bleeding
+(Table 8, page 41). Bivalirudin and fondaparinux seem to be associated
+with less bleeding than heparin or enoxaparin138,190.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+40
+TABLE 6: PREVENTION OF CONTRAST INDUCED
+NEPHROPATHY
+TABLE 7: PREVENTION OF CONTRAST INDUCED
+NEPHROPATHY
+154mEq/L in
+5%dextrose in
+water (154ml of
+1000mEq/l of
+sodium bicarbonate
++ 850ml of 5%
+Dextrose)
+Rate of 1.0-1.5 ml/kg/hr
+for 3h-12h before and
+6h-24h after the
+procedure ensuring a
+urine flow rate of
+150ml/hour
+Reduce rate to
+0.5ml/kg/hr if LVEF<40%
+3ml/kg/hr for 1 hour
+before the contrast
+followed by an infusion
+of 1ml/kg/hr for 6 hours
+after the procedure
+1200mg twice daily,
+one day before and
+one day after the
+contrast
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+41
+TABLE 8: DOSAGES OF ANTITHROMBOTIC
+AGENTS IN CKD
+4.3. Women
+Women undergoing PCI:
+• tend to be older and have a higher incidence of diabetes and other
+co-morbid illnesses.
+• especially those less than 50 years of age had a much higher
+mortality following PCI than men 191,192.
+• with ACS who were biomarker positive had better outcomes than
+when treated with a conservative strategy68
+A recent large retrospective study over 25 years found that the procedural
+success rate following PCI was similar in both gender193. After adjusting
+for age and risk factors, however there were no gender differences in
+survival rates.
+Women tend to have smaller coronary arteries and thus higher
+restenosis rates after POBA194. Coronary dissection and acute coronary
+occlusion are also more common in women. These complications are
+effectively managed with the use of stents. In fact, it has been suggested
+that stenting may be the primary reason for the improvement in cardiac
+outcomes with PCI in women195.
+4.3.1. Technical considerations
+Women’s smaller blood vessels predispose them to more vascular
+access site complications.
+They also tend to have more bleeding complications with the use of antithrombotic agents and GP IIb/IIIa inhibitors.
+4.4. Elderly
+The elderly tend to have a higher rate of complications following both
+PCI196,197 and CABG198. This includes death, MI, strokes, renal failure
+and vascular complications196. This is partly due to their more extensive
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+42
+disease with calcified vessels. They also tend to have lower left
+ventricular function and more co-morbidity.
+With the use of stents, procedural success is higher than with POBA and
+restenosis rates are comparable to that of younger patients197,199,200.
+Elderly patients presenting with ACS have better outcomes with
+PCI69,199,200. However the bleeding and vascular complication rates are
+higher.
+Clinical decision should take into consideration the biological age rather
+than the chronological age.
+4.4.1. Technical considerations
+In view of their often calcified vessels, rotablation may sometimes be
+necessary prior to stent deployment.
+Anti-thrombotic agents, GPIIb/IIIa inhibitors and X-ray contrast agents
+must be used judiciously.
+4.5. History of bleeding diasthesis, bleeding gastrointestinal or
+previous hemorrhagic stroke
+In these patients the choice of revascularisation strategy should be
+carefully balanced against the risks associated with bleeding. If PCI is
+the chosen strategy, POBA or using BMS should be considered.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+43
+PART B: TECHNICAL ASPECTS OF PCI AS A
+REVASCULARISATION STRATEGY
+5. PCI DEVICES
+5.1. Balloon catheters
+Balloon catheters come in different sizes and lengths. The diameter
+sizes are between 1.25 to 5.0mm and lengths of between 5 to 30mm.
+Their main uses are:
+• to predilate a lesion to prepare for other device therapy eg stent
+deployment
+• as a definitive therapy with successful POBA treatment being
+defined as < 50% residual stenosis
+• to deploy balloon expandable stents
+• post stent dilatation for better stent apposition
+• to add support for wire and guiding catheter in treating complex
+lesions e.g. chronic total occlusions (CTO)
+There are two terms that are frequently used in balloon dilatation:
+• Nominal Pressure – this is the pressure at which the balloon attains
+its stated size e.g. a 3.0 mm balloon attaining this size at 8 Atm
+• Rated burst pressure – it is the pressure beyond which there is a
+high probability that the balloon will burst
+There are 2 different balloon systems:
+• Monorail (Rapid exchange) – it is easy to use
+• Over the wire (OTW) – it has the following advantages:
+- it gives better support especially in treating difficult lesions like
+crossing a total occlusion
+- it allows wire exchange which cannot be performed with the
+rapid exchange system
+- contrast may be injected directly into it to visualize distal flow
+- medications may be given through it
+There are 2 types of coronary balloons:
+• Semi-compliant balloon – this is the main workhorse balloon. It can
+increase in size by up to 0.25 to 0.5 mm at higher pressures. Its
+rated burst pressure is lower, typically between 12 to 16 Atm.
+• Non-compliant balloon – this balloon minimally increases in size
+and its rated burst pressure can be as high as between 24 to 26
+Atm. It is usually used to post dilate a stent for optimal results and
+to “crack” open hard lesions e.g. calcified or fibrotic lesions. The
+balloon profile is poor after initial dilatation and deflation. As such it
+may not be reusable.
+5.1.1. Cutting Balloons
+This device has 3 to 4 very fine blades within the folds of the balloon.
+When the balloon is expanded, the blades will cut into the tissue and
+produce controlled dissections. This in turn leads to less inflammatory
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+44
+response and reduced neo-intimal proliferation. Conflicting results
+have been obtained in the treatment of de novo lesions with the cutting
+balloon as compared to POBA 201,202.
+It is useful in:
+• treating resistant lesions that may not “give way” to normal balloon
+dilatation
+• treating focal in-stent restenosis (ISR). It avoids the occurrence
+of “watermelon seeding” (balloon slippage) that commonly occurs
+when a regular balloon is used. It was however found to be non
+superior to POBA203.
+• the treatment of bifurcation and ostial side-branch lesions as it
+results in less plaque shifting.
+5.1.2. Focus force (Safe cut) Balloons
+This balloon is used in the same way as a cutting balloon. It utilizes the
+very same guidewire in the artery to cut into the tissue. It may not cut as
+effectively as a cutting balloon but it has a lower crossing profile.
+5.1.3. Drug-eluting Balloons
+This balloon is coated with an anti-proliferative drug with a special coating
+to retain the drug whilst the balloon is being delivered to the target site.
+At present only the balloons coated with paclitaxel are available. Since
+the drug is coated onto a balloon it gives a more homogenous drug
+delivery to the tissue as compared to a DES whereby the drug is located
+only on the stent struts.
+It has been shown to be better than POBA and the Taxus DES in the
+treatment of ISR with lower late loss, target lesion revascularization
+(TLR) and major adverse coronary events at 6 months and better event
+free survival at 12 months 204,205,206.
+It may be useful in the treatment of small vessel disease. Studies are
+ongoing in the treatment of subsets of high risk patients e.g. in multivessel disease, diabetics and bifurcation lesions.
+5.2. Stents
+This metallic device is used to scaffold the vessel. Its uses include:
+• treating dissections to prevent abrupt/acute closure
+• preventing restenosis following suboptimal results after balloon
+dilatation – residual stenosis of > 30% following POBA.
+• preventing restenosis in high risk lesions (e.g. chronic total occlusion,
+left main stem lesions and saphenous vein graft lesions)
+Stenting reduces recurrence of ischaemic symptoms and re-intervention
+but do not affect mortality outcomes36-40,207,208.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+45
+5.2.1. Bare Metal Stents (BMS)
+Currently available coronary stents are made of either stainless steel
+316L or cobalt chromium. The latter has thinner struts thus resulting in
+lower risk of restenosis. It is more flexible and conformable whilst at the
+same time having similar radial strength as the stainless steel stents.
+However it is less radio-opaque.
+Coronary stents come in different sizes ranging from 2.25 to 5.0 mm in
+diameter and from 8 to 38 mm in length. Larger and longer stents are
+less deliverable. When dealing with a tortuous vessel, it is better to use
+a shorter stent.
+Another consideration in the choice of a stent will be its side branch
+access. Good side branch access allows easier passage of devices
+through the stent struts.
+Most stents can be delivered through a 5F guiding catheter (except for
+the larger stents which are >3.5 mm in diameter). Generally, for the
+simultaneous deployment of 2 stents, the minimum size of the guiding
+catheter should be 7F.
+5.2.2. Drug Eluting Stents (DES)
+The Achilles heel of angioplasty and stenting has been restenosis as a
+result of neointimal proliferation. If substantial, it can lead to significant
+in-stent restenosis (ISR). The rates of restenosis with BMS can be as
+high as 50% in certain situations e.g. CTO, long lesions, small vessels,
+diabetics, ostial and bifurcation lesions. In large vessels (>3.5 mm) with
+discrete lesions the restenosis rates with BMS is low.
+Stents may be coated with antiproliferative agents to inhibit neointimal
+proliferation and therefore reduce the risk of restenosis. They act on
+specific sites in the cell growth cycle. The current agents used are the
+limus group e.g. sirolimus, everolimus, zotarolimus and biolimus and the
+taxol group i.e. paclitaxel.
+The clinical studies were mainly conducted in uncomplicated (i.e. type
+A and B lesions). In the real world setting however, it is mainly used in
+complex lesions with a higher tendency for restenosis.
+There are several concerns with DES:
+• Cost consideration – DES generally cost more than BMS.
+• Stent Thrombosis – section 6.8.1 (page. 55)
+In making a choice between a BMS and DES, it is important to take into
+consideration the patient’s risk for stent thrombosis, ISR and bleeding. If
+the patient is unlikely to comply with long term dual antiplatelet therapy,
+is at increased risk of bleeding or may need a non-cardiac operation in
+the near future, one should consider alternative strategies such as using
+BMS, endothelial progenitor cell capture stents or refer for CABG.
+5.2.3. Endothelial Progenitor Cell Capture Stents
+This stent is coated with antibody that captures circulating endothelial
+progenitor cells. These cells rapidly transform into endothelial cells. This
+leads to rapid healing with a functional endothelium. With this stent,
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+46
+dual antiplatelet therapy is recommended for only a month followed by
+long term aspirin therapy.
+A recent study however, showed that it was inferior to BMS in patients
+with STEMI due to a high incidence of adverse events, late lumen loss
+and stent thrombosis at 6 months209.
+5.2.4. Covered stents
+These are useful for sealing coronary perforations and excluding
+aneurysms. They have a higher profile and are less trackable. They are
+also associated with higher rates of stent thrombosis and restenosis.
+These patients require long term dual anti platelet therapy.
+5.2.5. Biodegradable (Bioabsorbable) polymers and stents
+5.2.5.1. Biodegradable Polymer
+One of the concerns with polymer based stents is the risk of inflammation
+that may predispose to stent thrombosis. Biodegradable polymer
+reduces this risk. A study has shown that they are as efficacious as
+other first generation DES but they have not been shown to be any safer
+at 1 year210.
+5.2.5.2. Biodegradable DES
+The potential advantage of this type of stent is the avoidance of
+stent thrombosis. It also offers the possibility of allowing that stented
+segment to be grafted during CABG after it has degraded. Typically an
+ideal biodegradable DES will be degraded over 18 to 24 months after
+overcoming the problem of elastic recoil and neointimal proliferation.
+These stents are currently being evaluated in ongoing trials.
+5.3. Rotational Atherectomy (Rotablator)
+This device rotates at very high speeds (target usually between
+140,000 to 200,000 rotations per minute) to selectively break down
+the atheromatous plaque into very small particles which is then
+washed downstream. There is a steep learning curve in utilizing this
+technology.
+Its use is now mainly limited to:
+• debulking calcified lesions that may impede delivery of devices and
+good stent deployment
+• pre-treating uncrossable and undilatable lesions prior to stenting
+Adjunctive devices like a temporary pacemaker is required to avoid
+bradyarrhythmias particularly when dealing with right coronary artery
+and dominant left circumflex lesions.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+47
+5.4. Directional Atherectomy
+This device is able to cut though atheromatous plaque and the
+“shavings” are then brought out from the catheter. It is used mainly for
+bulky lesions especially for LMS and ostial lesions. However directional
+atherectomy is rather cumbersome to use and the advent of DES has
+limited its usage.
+5.5. Microcatheters
+These catheters are mainly used in the treatment of CTO lesions. It
+lends support for the wire in crossing the CTO and also facilitates wire
+exchange.
+5.6. Thromboaspiration catheters
+These devices are useful in the treatment of thrombus-laden lesions
+especially during primary PCI. These catheters are effective in removing
+the thrombus and improving TIMI flow and myocardial perfusion (TMP
+flow) post-procedure. A recent meta-analysis showed that catheter
+thrombus aspiration during STEMI reduces mortality over a mean
+follow-up of 5 months43,44,45.
+5.7. Thrombectomy Devices
+These devices are used in decimating thrombus during primary PCI
+for the same purpose as thromboaspiration catheters. Mechanical
+thrombectomy appeared to increase mortality during primary PCI43.
+5.8. Protection Devices
+These devices help to protect the distal vessels to reduce distal
+embolization. Situations in which these devices are useful are in the
+treatment of thrombus laden vessels (especially in primary PCI) and in
+degenerated SVG intervention211,212.
+Protection devices may be placed either distal or proximal to the lesion.
+Distal protection devices come in the form of balloon occlusive devices
+and filter devices. Proximal protection devices are useful for distal SVG
+lesions that do not have an adequate landing zone. However this device
+cannot be used for ostial SVG lesions.
+When used during Primary PCI, these distal protection devices had a
+neutral effect on mortality43.
+5.9. Laser Therapy
+Besides being used in primary PCI to lyse thrombus, the laser device
+can be used in CTO lesions to create a channel to facilitate balloon
+passage before subsequent balloon dilatation and stent deployment.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+48
+5.10.
+Coil Embolisation
+Coils are used to seal off persistent perforations created by wire
+manipulation and for closure of arterio-venous (AV) fistulae. These are
+delivered through a large lumen microcatheter.
+5.11.
+Intravascular Imaging Devices
+5.11.1. Intravascular Ultrasound (IVUS)
+IVUS is the most common imaging device introduced on the guidewire.
+Its uses are:
+• assessing the severity of borderline lesions
+• assessing the degree of calcification
+• assessing vessel size especially in small vessels, LMS
+• aiding stent size selection and assessing results post-stent
+deployment eg stent apposition and deployment, edge dissections,
+coverage of ostial lesions, stent malapposition
+• guiding wire crossing in CTO lesions
+5.11.2. Optical Coherence Tomography
+This device gives a more detailed imaging of the vessel wall as compared
+to images obtained from IVUS. It gives a clearer image of red and white
+thrombus, plaque rupture, plaque protrusion through stent struts and
+stent malapposition. However the depth of image tissue penetration is
+lower than those obtained from IVUS.
+5.11.3. Virtual Histology
+This imaging modality uses the same IVUS catheter but a special software
+program allows lesion characterization to be made. Atherosclerotic
+lesions can be divided into fibrous, fatty, necrotic, calcified and fibrocalcified components. Presently it is used mainly as a research tool for
+identifying vulnerable plaques.
+5.11.4. Angioscopy
+This is mainly an investigative tool. It allows direct visualisation of the
+vessel and can be used to observe thrombus, plaque, inflammation
+and stent apposition. However in order to visualise the vessel a balloon
+needs to be dilated proximally to obstruct flow during the whole duration
+of imaging. Thus care needs to be given to prevent the occurrence of
+ventricular fibrillation.
+5.12.
+Others
+5.12.1. Pressure Wire
+Pressure wire is useful in the assessment of borderline lesions. The wire
+has a small transducer at the tip of a 0.014 inch wire which can be used
+as a regular guidewire.
+Following bolus intracoronary adenosine injections, the pressure
+difference between the aorta and distal to the lesion is measured. A
+value of < 0.8 indicates a significant lesion82,83.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+49
+6. LESION / DEVICE SPECIFIC CONDITIONS
+6.1. Left Main Stem (LMS) Disease
+The conventional treatment for unprotected LMS (>50%) is
+CABG. PCI of unprotected LMS is feasible and promising but
+the early studies have showed high morbidity and mortality
+rates91,92,213-218.
+With the use of DES, the results have improved and the incidence
+of adverse events has decreased. In a recent trial comparing the
+use of DES and CABG, both treatment strategies had similar
+rates of death and MI at 1 year91.
+When undertaking PCI for unprotected LMS disease the following
+are important considerations:
+• anatomical location of the lesion – the results of PCI with
+DES for ostial and body lesions are better as compared to
+distal lesions involving the bifurcation
+• LV function – in the presence of depressed LV function,
+CABG is the preferred strategy
+• associated multi vessel disease – CABG is a better option
+(Table 3, page 14 for recommendations and grading)
+6.1.1.
+Technical considerations
+PCI of the unprotected LMS should be done by skillful operators
+in high volume centers with surgical back-up.
+PCI should be performed preferably with DES216,217,218. If a DES
+is used for a vessel that is >4.0 mm then it should be upsized
+appropriately. The stent must be well deployed and apposed.
+An IVUS is highly recommended to ensure optimal stent
+deployment.
+If the LV function is depressed and when dealing with high risk
+unprotected LMS lesions, IABP support is recommended.
+Close surveillance either by coronary or CT angiogram is
+recommended at about 3 to 9 months after the procedure.
+Long term dual antiplatelet therapy is recommended.
+6.2. Multi-vessel disease
+An important factor determining treatment strategies in a patient
+with multi-vessel disease is the clinical status of the patient i.e.
+elective versus an urgent procedure.
+6.2.1.
+Stable Coronary Artery Disease
+The choice of strategy would depend upon:
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+50
+• lesion characteristics – discrete lesions in multi vessels do well with
+PCI while long calcified lesions are better treated with CABG
+• LV function – in the presence of depressed LV function, CABG is
+the preferred option
+• diabetes – generally diabetics have higher restenosis rates with
+PCI (see section on diabetes)
+• renal impairment – an important consideration is contrast
+nephropathy
+• surgical risk and patient’s co-morbidities
+• cost constraints – the cost of multiple stents and the possibility of
+• repeat revascularisation for restenosis versus CABG. A procedure
+with 2-3 DES may cost as much as CABG.
+• patient’s preferences
+(Table 3, page 14 for recommendations and grading)
+It is important that patients treated with PCI have complete
+revascularisation to obtain the same mortality benefits as seen with
+CABG87,219.
+All lesions may be dealt with at the same time or it may be staged
+depending upon the duration of the procedure, amount of contrast used
+and patient comfort and safety.
+6.2.2. UA/NSTEMI
+In the setting of ACS, it is recommended to treat the culprit lesion and
+stage the procedure. However in certain situations where the patient
+is stable and the anticipated procedure is uncomplicated, complete
+revascularisation may be attempted at the same sitting36.
+6.2.3. STEMI
+In STEMI, where the patient is noted to require CABG as a definitive
+procedure, PCI of the infarct related vessel may serve as a bridge to
+stabilise the patient. Wherever possible, use of a BMS is advocated in
+this setting to avoid the risk of peri-operative (CABG) stent thrombosis.
+The culprit lesion is usually identified by the site of the MI on the resting
+ECG and the presence of an ulcerated plaque with thrombus. Occasionally
+it may be difficult to identify the culprit lesion angiographically.
+6.3. Chronic Total Occlusions (CTO)
+CTO is defined as coronary occlusion of >3 months duration.
+Patients with CTO and having significant ischemia should be
+revascularised. Studies have shown that this improves the symptoms and
+exercise tolerance, enhances LV function and improves survival220,221.
+The indications for PCI in CTO include:
+• presence of symptoms (angina or heart failure) and/or
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+51
+• objective evidence of ischemia in CTO territory with other vessels
+suitable for PCI
+• absence of significant LMS disease
+• contraindications for CABG
+PCI for CTO has a steep learning curve with the use of additional
+hardware and different techniques. It is also associated with a higher
+complication rate (e.g. coronary perforation and cardiac tamponade).
+Hence it requires experienced, skillful operators performing in high
+volume centers with cardiothoracic surgical back-up.
+Certain lesion characteristics favor successful recanalisation with PCI.
+(Appendix X, page 82)
+6.3.1. Technical Considerations
+Generally an antegrade approach is utilised aided with contra-lateral
+injections of contrast to delineate the distal segment. Retrograde and
+Control Antegrade and Retrograde Techniques (CART) techniques
+should be performed only by experienced operators.
+Challenges in CTO intervention include:
+• good guide support – sometimes “mother and child” technique (2
+guiding catheters – 1 bigger and 1 smaller) is utilised for better
+support
+• wires for crossing the lesion – these include 0.010 inch tip,
+intermediate wire, stiff hydrophilic or polymer coated wire (from the
+Miracle and Conquest series). These special wires are used for
+penetration of CTO lesion with innovative techniques which include
+parallel wire and anchor balloon.
+• devices for crossing the lesion – these include OTW and small
+balloons, microcatheter, Tornus, rotablation
+• IVUS guidance may be used to help identify the true lumen
+Radiation dose to the operator can be reduced by lower dose (kV)
+setting, extra shield, pulsed fluoroscopy and extra collimation. Radiation
+dose to the patient can be reduced by lower dose (kV) setting and
+avoiding extreme angulations.
+Indications for stopping the attempted procedure:
+• Excessive contrast (> 600 ml in non-diabetic with normal renal
+function)
+• Complications (false lumen, excessive staining)
+• Long procedure
+DES is preferred for CTO222.
+6.4. Bifurcation Lesions
+About 15-20% of PCIs involve a bifurcation lesion223. Generally, these
+are technically more challenging with greater complication rates and
+poorer long term outcomes.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+52
+6.4.1. Classification
+There are many different classifications for bifurcation lesions. The
+preferred is the Medina classification224. It however does not provide
+details of the angle of bifurcation and the size of the proximal healthy
+segment which are important determinants of success and long term
+outcome. (Appendix XI, page 83)
+It is important to make the distinction of whether it is a ‘true’ bifurcation
+or a ‘non-true’ bifurcation lesion.
+6.4.2. Technical Considerations
+A number of strategies have been described and used to treat bifurcation
+disease223. These include:
+• simple strategy – one that involves a single-stent.
+• complex strategies – involve double (or multiple) stents for bi-/trifurcation lesions
+• dedicated bifurcation stent – still in development
+Different techniques which are often utilized are:
+• V stenting
+• T stenting
+• Culotte
+• simultaneous kissing stents
+• minicrush, reversed crush
+Most bifurcations can be treated with a single-stent strategy in the main
+vessel with a provisional plan for a second stent implantation in the
+side-branch in the event of suboptimal results223,225,226. The definition of
+suboptimal result varied among the different trials. It will depend upon
+the size of the side-branch223.
+The 2-stent strategy tends to be more time-consuming, uses more
+contrast and is related to more biomarker release. It may look better
+angiographically immediately after the procedure, but, in the long
+term is associated with greater restenosis, TVR rates and stent
+thrombosis226,227,228.
+If the 2-stent strategy is utilised, DESs are preferred223. In post stent
+deployment it is crucial to have kissing balloon inflation especially in
+the crush and Cullote techniques229,230. There are some studies that
+suggest that simultaneous kissing balloon inflation after each stent
+deployment may further improve long term result (Double Kissing-Crush
+technique)231.
+An IVUS is generally recommended when a large area of myocardium
+is at risk e.g. LMS bifurcation disease.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+53
+6.5. Ostial Lesions
+Ostial lesions are usually defined as lesions within 3mm of the takeoff of a major coronary artery. Native aorto-ostial, aorto-graft-ostial and
+branch-ostial lesions can be distinguished.
+Treating ostial lesions is technically difficult and is associated with a
+higher risk of complication and re-stensosis rates.
+6.5.1. Technical considerations
+• Precise placement of the stent is important to ensure that the ostium
+is well covered and to avoid excessive jutting of the stent struts into
+the main vessel.
+• Ideally the ostium needs to be ‘well prepared’ prior to stent
+deployment.
+• The vessel needs to be dilated appropriately (balloon sized to the
+vessel size) before stent deployment to allow for good stent expansion.
+This will reduce the risk of re-stenosis.
+• Directional atherectomy may be useful to debulk the lesion first.
+• DES is preferred.
+Problems that may occur include:
+• fall in BP when engaging the vessels – a smaller size guiding catheter
+or the use of side holes may help alleviate this.
+• risk of dissection – the dissection may spiral down the vessel and
+occasionally it can occur retrogradely into the aortic root. This
+complication may be due to guiding catheter manipulation.
+6.6. Saphenous Vein Grafts (SVG)
+Following CABG:
+• between one and six years, the annual graft attrition rate is 1% to 2%
+and becomes 4% to 6% per year after that, so that about half of SVGs
+have significant stenosis or are occluded after 10 years.
+• up to 15% of SVGs are closed within 1 year232,233,234 and by 10 years,
+nearly a third of patients require repeat revascularisation235.
+This could be due to new disease in vessels not previously bypassed,
+progressive disease in native vessels beyond the graft anastomosis, or
+disease in the bypass grafts themselves.
+Treatment options for Saphenous Vein Graft Disease include:
+1. Redo-CABG
+• Redo-CABG is associated with 2- to 4-fold higher risk than the
+initial CABG, with periprocedural deaths in 2-5% and myocardial
+infarctions in 2-8% of patients. Five- and 10-year survival rates are
+84-94% and 75%, respectively236,237.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+54
+• Difficulties in redo-CABG include:
+- risk of injuring the other patent grafts especially the
+internal mammary artery
+- patient subsets who tend to be older and sicker with more
+diseased target vessels, poorer LV function, availability of
+conduit and serious co-morbid medical problems
+2. PCI
+• the main limitation of POBA in SVGs is the high restenosis
+rates of up to 23-73% of patients within 6 months and the
+risk of distal embolisation
+• DES is a reasonable option but its definite role remains to
+be defined
+• PTFE-covered stents may be useful for treatment of graft
+rupture or aneurysm
+Some trials comparing PCI and repeat CABG demonstrated
+less in-hospital death and MI after PTCA, but more complete
+revascularisation and less target lesion revascularisation (TLR)
+at 4 years after repeat CABG238,239.
+6.6.1.
+Technical considerations during SVG
+Percutaneous Intervention:
+Degenerated SVGs are characterised by friable plaques
+with overlying thrombus which increases the procedural
+risks of distal embolisation manifesting as slow or no-reflow
+phenomenon. As such the use of protection devices is strongly
+recommended211,212, 240. (section 5.8, page 47) Thrombectomy
+devices may be considered when there is a significant thrombus
+burden is present.
+GP IIb/IIIa inhibitors have not been found to be helpful in SVG
+intervention241,242. Vasodilators eg. adenosine, verapamil, sodium
+nitroprusside may be used for situations of slow-flow or no-reflow.
+6.6.2.
+Arterial conduit – Internal Mammary Artery (IMA)
+Angioplasty and stenting procedure to the IMA has high success rates
+with less acute complications of abrupt closure, distal embolisation,
+acute myocardial infarction or need for emergency surgery.
+Technical issues related to IMA percutaneous intervention include:
+• good guiding catheter support
+• IMA tortuosity
+• danger of dissecting the ostia of the IMA
+• may require shorter guiding catheters and longer wires and
+balloon catheters to reach a distal lesion
+6. 7. Coronary Artery Aneurysm
+The optimal treatment of coronary aneurysms remains
+controversial. Coronary aneurysm may lead to ischemia and MI.
+Surgical therapy is the treatment of choice243,244.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+55
+Percutaneous intervention is an emerging strategy using autologous
+vein graft–coated stents245 and PTFE-coated stents246 with a good
+short-term angiographic result. It is associated with stent thrombosis
+and these patients should be on long term dual antiplatelet therapy.
+6.8.
+Stent Related Complications
+6.8.1. Stent Thrombosis
+Stent thrombosis is a serious complication as it may result in MI and
+death. The mortality rate can be as high as 45%247. It can be classified
+as definite, possible or probable according to the Academic Reseach
+Consortium (ARC) classification248.(Table 9, page 55)
+* The incidental angiographic documentation of stent occlusion in the absence
+of clinical signs or symptoms (silent occlusion) is (for this purpose) not
+considered a confirmed stent thrombosis.
+It may occur as:
+TABLE 9: Definition of Stent Thrombosis as proposed by the
+Academic Research Consortium (ARC)248
+It is diagnosed when either angiographic or pathological
+confirmation is present
+- Angiographic confirmation of ST*:
+The presence of a thrombus originating in the stent or
+in the segment 5 mm proximal or distal to the stented
+region and at least one of the following criteria within a
+48-h time window:
+• Acute onset of ischemic symptoms at rest (typical
+chest pain of 20 min)
+• New ischemic ECG changes suggestive of acute
+ischemia
+• Typical rise and fall in cardiac biomarkers
+- Pathological confirmation of stent thrombosis:
+Evidence of recent thrombus within the stent determined
+at autopsy
+It is diagnosed after intracoronary stenting in the following
+cases:
+• Any unexplained death within the first 30 days,
+regardless of the time after the index procedure
+• any MI that is related to documented acute ischemia
+in the territory of the implanted stent without
+angiographic confirmation of ST and in the absence
+of any other obvious cause
+It is diagnosed with any unexplained death from 30 days
+after intracoronary stenting until the end of trial follow-up
+Definite stent
+thrombosis
+Probable
+stent
+thrombosis
+Possible
+stent
+thrombosis
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+56
+• acute (occurring within 24 hrs) – this is mainly due to mechanical
+causes e.g. stent not well deployed or not well apposed or
+undetected edge dissection. The incidence is less than 1%249
+• Sub-acute (1 to 30 days) – this may be due to mechanical causes,
+platelet resistance or premature discontinuation of dual antiplatelet
+agents. The incidence is less than 1 %249
+• Late stent thrombosis (LST) - 30 days to 1 year
+• Very late stent thrombosis (VLST) - > 1 year
+Acute and subacute stent thrombosis may occur with both BMS and DES.
+LST and VLST may be due to various factors:
+• discontinuation of antiplatelet agents
+• stent factors (late stent malapposition, aneurysm formation,
+hypersensitivity to polymer)
+• vessel (non-healing with poor endothelisation)
+The annualized risk for VLST is 0.6% per year250,251. It is more common
+with DES than BMS252.
+6.8.1.1.
+Management of Stent thrombosis
+Urgent re-PCI is the treatment of choice253. Most thrombotic stent
+occlusions can be treated with balloon angioplasty alone, aided
+by thrombus aspiration. Glycoprotein IIb/IIIa antagonists may be
+administered to improve microvascular reperfusion and to overcome
+increased platelet aggregation253.
+Systemic fibrinolysis should be considered in the presence of ongoing
+significant ischemia and unavailability of prompt PCI. If platelet
+aggregation studies reveal insufficient (<50%) inhibition of platelet
+aggregation with standard dual antiplatelet therapy, a higher dose
+clopidogrel - 150 mg/day- should be considered119.
+Additional stent implantation should be limited to bail out significant
+residual dissections. The implantation of a second stent for stent
+thrombosis is associated with a worse 6 month outcome254.
+PCI for stent thrombosis due to either BMS or DES have similar
+poor outcomes with low rates of reperfusion and high rates of death
+and adverse cardiac events254. This further highlights the importance
+of preventing stent thrombosis and choosing the appropriate
+revascularisation strategy for the individual patient.
+In preventing stent thrombosis, it is important to consider253:
+• Patient factors: Patient compliance and absence of contraindication to
+dual antiplatelet therapy is pivotal during the decision making process
+for stent selection254.
+• Technique: The stent must be well deployed and fully
+expanded throughout its entire length. This can be done
+using a short non compliant balloon at high pressure. Care
+should be taken to avoid dissections. If it occurs, it should be
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+57
+treated appropriately. It is important to avoid excessive stent length
+and usage of multiple overlapping stent255 since this correlates with
+stent thrombosis.
+• Anti platelet therapy: It is crucial that dual antiplatelet therapy not
+be discontinued prematurely256. It should be continued for at least a
+year and in some complex cases, long term.
+6.8.2. In-stent Restenosis (ISR)
+Balloon angioplasty is associated with up to 40% risk of restenosis207.
+BMS have reduced the risk of restenosis but the rates of ISR remains
+considerable (17-32%)208.
+With DES, the rates of restenosis have been further reduced
+(0-9.1%)257,258 depending on the complexity of the lesion and the type
+of stent used.
+Restenosis may be due to elastic recoil, vascular remodelling and neointimal hyperplasia. It may be:
+• focal
+• diffuse
+• proliferative
+(Appendix XII, page 84)
+Some predictors of ISR are:
+• diabetes mellitus
+• acute coronary syndromes
+• Small vessel
+• Long lesions requiring long or multiple overlapping stents
+• SVG
+• CTO
+• Ostial lesion
+• Bifurcation lesion
+Prevention of ISR involves using DES and optimal stent implantation
+techniques. These include:
+• adequate stent coverage of all segments pre-treated with balloon
+dilatation
+• high pressure balloon dilatation to ensure adequate stent wall
+apposition
+• prevention of stent edge injury with careful balloon post-dilatation
+within stent margins using shorter post-dilatation balloon
+• using IVUS to optimise results
+In managing ISR it is important to use IVUS to ascertain if the stent
+is well deployed. It will also allow the assessment of plaque volume
+which will help determine management strategy. Management includes
+using:
+• POBA – may be adequate for treating focal ISR259,260
+• cutting balloon – results are variable and is useful to prevent
+“watermelon seeding” (balloon slippage)203.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+58
+• rotational atherectomy– results are variable261,262.
+• directional atherectomy – results are no better than POBA259.
+• DES implantation - superior to POBA and in some instances better
+than brachytherapy263,264,265. For DES ISR, the use of another DES
+with a different drug group may be considered.
+• Drug Eluting Balloon204,205,206 – section 5.1.3,page 44
+• Brachytherapy – both catheter based gamma and beta irradiation
+have been shown to reduce ISR by about 50-60% when compared
+to POBA266,267,268,269. Radiation therapy however is associated with
+increased risk of edge restenosis (“candy-wrapper effect”) and
+LST.
+7. POST PROCEDURE COMPLICATIONS
+The femoral arterial sheath may be removed if the ACT is < 180secs.
+In patients, who had received enoxaparin, sheath removal may be
+performed 4 hours after the last intravenous dose or 6-8 hours after
+the last subcutaneous dose. Use of closure devices e.g. Angioseal,
+Perclose allow immediate removal of sheaths.
+7.1.
+Vascular access complications
+7.1.1. Retro-peritoneal hematoma
+This is more common after a ‘high’ groin puncture. It may not be
+detected early as the bleeding occurs in the retro-peritoneal space. One
+should suspect this complication if the patient develops unexplained
+tachycardia, pallor or hypotension after the procedure. This can be
+confirmed by ultrasound or computed tomogram (CT) scan of the
+abdomen.
+Management includes:
+• IV fluids
+• blood transfusion
+• reversal of coagulopathy may be considered
+• using a covered stent to seal off the femoral site perforation
+• vascular surgical consult may be necessary if there is persistent or
+recurrent hypotension
+7.1.2. Pseudo-aneurysm
+Pseudo-aneurysm may be suspected if there is a bruit over the
+puncture site. It can be confirmed by ultrasound. Most times this can be
+managed conservatively by prolonged compression preferably guided
+by ultrasound. Occasionally, vascular consult may be necessary.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+59
+7.1.3. Arterio-Venous (A-V) Fistula
+This can be prevented by avoiding a through-and-through puncture of
+the artery and vein. Most A-V fistula can be treated conservatively.
+Most of these access site complications are more common with femoral
+rather than with radial punctures. Thus radial punctures are generally
+preferred270,271. However the radial artery is also a good arterial conduit
+during CABG with good long term results272,273. Thus the choice of
+access will depend upon the patient characteristics, the operator and
+the institution.
+7.2 Acute Renal Failure Post Intervention
+Section 4.2.2, page 38
+8. LONG TERM FOLLOW UP AND CARE
+The objectives of follow-up post-PCI patients are:
+• to look for recurrent symptoms
+• for secondary prevention
+8.1. Evaluation of Ischemia
+Neither exercise testing nor any form of imaging has been proven to be
+beneficial for the routine, periodic monitoring of asymptomatic patients
+after PCI without specific indications.
+For high risk patients (e.g. diabetes mellitus and suboptimal PCI results)
+stress imaging is preferred to evaluate for ischemia after PCI.
+8.2. Secondary Prevention
+It is important that the patient should adhere to medical therapies
+and secondary prevention programs to prevent progressive disease.
+(Appendix XIII, page 85)
+9. RADIATION PROTECTION
+The largest source of radiation comes from medical radiation and the
+largest users of medical radiation are interventional cardiologists. It is
+important to be know the biohazards of radiation.
+Interventional cardiologists should be aware of radiation protection. This
+entails reducing the radiation exposure to as low a level as reasonably
+achievable to patients, medical staff and themselves.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+60
+1.
+Health Prioritization: Burden of disease approach. Division of burden of disease,
+Institute of Public Health, National Institute of Health, Ministry of Health, Malaysia 2004.
+2.
+Number of discharges and deaths in government hospitals. Information and
+Documentation System Unit. Ministry of Health, Putrajaya 2008.
+3.
+Keeley EC, Bovia JF, Grines CL. Primary angioplasty versus intravenous
+thrombolytic therapy for acute myocardial infarction: a qualitative review of 23 randomized
+trials. Lancet 2003; 361 : 12-20.
+4.
+Grines C, Patel A, Zijlstra F et al. Primary coronary angioplasty compared with
+intravenous thrombolytic therapy for acute myocardial infarction: six month follow up and
+analysis of individual patient data from randomized trials. Am Heart J 2003; 145 : 47-57.
+5.
+Zijlstra F, Hoorntje JC, de Boer MJ et al. Long term benefit of primary angioplasty as
+compared with thrombolytic therapy for acute myocardial infarction. N Engl J Med 1999;
+341: 1413-1419.
+6.
+Juliard JM, Feldman LJ, Golmard JL et al. Relation of mortality of primary angioplasty
+during acute myocardial infarction to door – to – Thrombolysis in Myocardial Infarction
+(TIMI) time. Am J Cardiol 2003; 91 : 1401-5.
+7.
+Nallamuthu BK, Bates ER. Percutaneous coronary intervention versus fibrinolytic
+therapy in acute myocardial infarction, is timing (almost) everything? Am J Cardiol 2003;
+92 : 824-6.
+8.
+Boersma E, for the Primary Coronary Angioplasty vs. Thrombolysis Group. Does
+time matter? A pooled analysis of randomized clinical trials comparing primary
+percutaneous coronary intervention and in-hospital fibrinolysis in acute myocardial
+infarction patients. Eur Heart J 2006; 27 : 779–788.
+9.
+Bonne Foy E, Lapostolle F, Leizorovicz A et al for the Comparison of Angioplasty and
+Pre hospital Thrombolysis in Acute Myocardial Infarction study group. Primary angioplasty
+versus prehospital fibrinolysis in acute myocardial infarction: a randomized study. Lancet
+2002; 360 : 825-9.
+10. Widimsky P, Budensinsky T, Vorac D et al. Long distance transport for primary
+angioplasty vs immediate thrombolysis in acute myocardial infarction: final results of the
+randomized national multicentre trial: PRAGUE 2. Eur Heart J 2003; 24 : 94-104.
+11. Aversano T, Aversano LT, Passamani E et al for the Atlantic Cardiovascular Patient
+Outcomes Research Team (C-PORT). Thrombolytic therapy vs primary percutaneous
+coronary intervention for myocardial infarction in patients presenting to hospitals without
+onsite cardiac surgery: a randomized controlled trial. JAMA 2002; 287 : 1943-51
+12. Andersen HR, Nielsen TT, Rasmussen K, et al for the DANAMI-2 Investigators. A
+comparison of coronary angioplasty with fibrinolytic therapy in acute myocardial infarction.
+N Engl J Med 2003; 349 : 733-42.
+13. Hochman JS, Sleeper LA, Webb JG et al. for the Should We Emergently
+revascularise Occluded Coronaries for Cardiogenic Shock. Early revascularization in acute
+myocardial infarction complicated by cardiogenic shock. N Engl J Med 1999; 341 : 625-34.
+14. Wu AH, Parsons L, Every NR et al. for the Second National Registry of Myocardial
+Infarction. Hospital outcomes in patients presenting with congestive heart failure
+complicating acute myocardial infarction: a report from the Second National registry of
+Myocardial Infarction (NRMI-2) J Am Coll Cardiol 2002; 40 : 1389-94.
+15. Zahn R, Schiele R, Schneider S et al. Primary angioplasty versus intravenous
+thrombolysis in acute myocardial infarction: Results from the pooled data of the maximal
+individual therapy in acute myocardial infarction registry and the myocardial infarction
+registry. J Am Coll Cardiol 2001; 37 : 1827-35.
+16. Gershlick AH, Stephens– Lloyd A, Hughes S et al for the REACT Trial Investigators.
+Rescue Angioplasty after failed thrombolytic therapy for acute myocardial infarction. N
+Engl J Med 2005; 353 : 2758-68.
+REFERENCES
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+61
+17. Collet JP, Montalescot G, Le May M et al. Percutaneous coronary intervention after
+fibrinolysis: a multiple meta-analyses approach according to the type of strategy. J Am Coll
+Cardiol 2006; 48 : 1326–1335.
+18. Wijeysundera HC, Vijayaraghavan R, Nallamothu BK, et al. Rescue angioplasty or
+repeat fibrinolysis after failed fibrinolytic therapy for ST-segment myocardial infarction: a
+meta-analysis of randomized trials. J Am Coll Cardiol 2007; 49 : 422–30.
+19. Di Mario C, Dudek D, Piscione F, et al. Immediate Angioplasty Versus Standard
+Therapy With Rescue Angioplasty After Thrombolysis in the Combined Abciximab
+REteplase Stent Study in Acute Myocardial Infarction (CARESS-in-AMI): An Open,
+Prospective, Randomised, Multicentre Trial. Lancet 2008; 371: 559-568.
+20. Cantor W . Trial of Routine ANgioplasty and Stenting After Fibrinolysis to Enhance
+Reperfusion in Acute Myocardial Infarction (TRANSFER-AMI).Presented at the SCAI-ACC
+i2 Summit/American College of Cardiology Annual Scientific Session, Chicago, IL,
+March/April 2008.
+21. Stone GW. Angioplasty Strategies in ST-Segment–Elevation Myocardial Infarction:
+Part I: Primary Percutaneous Coronary Intervention. Circulation 2008; 118 : 538-551.
+22. Stone GW. Angioplasty Strategies in ST-Segment–Elevation Myocardial Infarction:
+Part II: Intervention After Fibrinolytic Therapy, Integrated Treatment Recommendations,
+and Future Directions. Circulation 2008; 118 : 552-566.
+23. Borden WB, Faxon DP. Facilitated Percutaneous Coronary Intervention. J Am Coll
+Cardiol 2006; 48 : 1120-8.
+24. The ASSENT 4 Investigators. Assessment of the safety and efficacy of a new
+treatment strategy with percutaneous coronary intervention in patients with ST-segment
+elevation acute myocardial infarction (ASSENT 4 PCI): randomized trial. Lancet 2006; 367
+: 569-78.
+25. Ellis SG, Tendera M, de Belder MA, et al., on behalf of the FINESSE Investigators.
+Facilitated PCI in patients with ST-elevation myocardial infarction. N Engl J Med 2008; 358
+: 2205-2217.
+26. Keeley EC, Boura JA, Grines CL. Comparison of primary and facilitated
+percutaneous coronary interventions for ST-elevation myocardial infarction: quantitative
+review of randomised trials. Lancet 2006; 367 : 579–88.
+27. Scheller B, Hennen B, Hammer B et al. Beneficial effects of immediate stenting after
+thrombolysis in acute myocardial infarction. J Am Coll Cardiol 2003; 42 : 634-41.
+28. Fernandez – Aviles F, Alonso JJ, Castro-Beiras A et al. Routine invasive strategy
+within 24 hours of thrombolysis versus ischaemia guided conservative approach for acute
+myocardial infarction with ST segment elevation (GRACIA-1): a randomized controlled
+trial. Lancet 2004; 364 : 1045 – 53.
+29. Widimský P, Groch L, Zelízko M et al. Multicentre randomized trial comparing
+transport to primary angioplasty vs. immediate thrombolysis vs. combined strategy for
+patients with acute myocardial infarction presenting to a community hospital without a
+catheterization laboratory. Eur Heart J 2000; 21 : 823–831.
+30. Armstrong PW, for the WEST Steering Committee. A comparison of pharmacologic
+therapy with/without timely coronary intervention vs. primary percutaneous intervention
+early after ST-elevation myocardial infarction. Eur Heart J 2006; 27 : 1530–1538.
+31. Thiele H, Engelmann L, Elsner K et al. Comparison of pre-hospital combinationfibrinolysis plus conventional care with pre-hospital combination-fibrinolysis plus facilitated
+percutaneous coronary intervention in acute myocardial infarction. Eur Heart J 2005; 26 :
+1956–1963.
+32. Le May MR, Wells GA, Labinaz M et al. Combined angioplasty and pharmacological
+intervention versus thrombolysis alone in acute myocardial infarction. J Am Coll Cardiol
+2005; 46 : 417–424.
+33. Madsen JK, Grande P, Saunamaki K et al. Danish Multicenter randomized study of
+invasive versus conservative treatment in patients with inducible ischemia after
+thrombolysis in acute myocardial infarction (DANAMI). DANish trial in Acute Myocardial
+Infarction. Circulation 1997; 96 : 748-55.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+62
+34. Erne P, Schoenenberger AW, Burckhardt D, et al. Effects of percutaneous coronary
+interventions in silent ischaemia after myocardial infarction: the SWISSI II randomized
+controlled trial. JAMA 2007; 297 : 1985-1991.
+35. Hochman JS, Lamas GA, Buller CE et al. Coronary Intervention for persistent
+occlusion after myocardial infarction. N Engl J Med 2006; 355 : 2395-407.
+36. Qarawani D, Nahir M, Abboud M et al.Culprit only versus complete coronary
+revascularization during primary PCI. Int J Cardiol 2008; 123 : 288–292.
+37. Grines CL, Cox DA, Stone GW, et al. Coronary angioplasty with or without stent
+implantation for acute myocardial infarction. N Engl J Med 1999; 341 : 1949-6.
+38. DeLuca G, Suryapranata H, Stone GW, et al.Coronary stenting versus balloon
+angioplasty for acute myocardial infarction: a meta-regression analysis of randomized
+trials. Int J Cardiol 2008; 126 : 37-44.
+39. Kastrati A, Dibra A, Spaulding C, et al. Meta-analysis of randomized trials on drugeluting stents vs. bare metal stents in patients with acute myocardial infarction. Eur Heart J
+2007; 28 : 2706-13.
+40. Pasceri V, Patti G, Speciale G et al. Meta-analysis of clinical trials on use of drugeluting stents for treatment of acute myocardial infarction. Am Heart J 2007; 153 : 749-54.
+41. Napadano M, Ramondo A, Tarantini G et al. Predictors and time related impact of
+distal embolization during primary angioplasty. Eur Heart J 2009; 30 : 305-313.
+42. Gibson CM, de Lemos JA, Murphy SA et al. Combination therapy with abciximab
+reduces angiographically evident thrombus in acute myocardial infarction: a TIMI 14
+substudy. Circulation 2001; 103 : 2550-2554.
+43. Bavry AA, Kumbhani DJ, Bhatt DL et al. Role of adjunctive thrombectomy and
+embolic protection devices in acute myocardial infarction: a comprehensive meta-analysis
+of randomized trials. Eur Heart J 2008: 29: 2989-3001.
+44. Vlaar PJ, Svilaas T, van der Horst IC et al. Cardiac death and reinfarction after 1 year
+in the Thrombus Aspiration during Percutaneous coronary intervention in Acute myocardial
+infarction Study (TAPAS)): a 1 year follow-up study. Lancet 2008 : 371 : 1915-1920.
+45. Sardella G, Mancone M, Bucciarelli-Ducci C et al. Thrombus Aspiration During
+Primary Percutaneous Coronary Intervention Improves Myocardial Reperfusion and
+Reduces Infarct Size: The EXPIRA (Thrombectomy With Export Catheter in Infarct-Related
+Artery During Primary Percutaneous Coronary Intervention) Prospective, Randomized
+Trial. J Am Coll Cardiol 2009; 53 : 309 - 315.
+46. De Luca G, Suryapranata H, Stone GW et al. Abciximab as Adjunctive Therapy to
+Reperfusion in Acute ST-Segment Elevation Myocardial Infarction: A Meta-analysis of
+Randomized Trials. JAMA. 2005; 293 : 1759-1765.
+47. Ortolani P, Marzocchi A, Marrozzini C et al. Long-term effectiveness of early
+administration of glycoprotein IIb/IIIa agents to real-world patients undergoing primary
+percutaneous interventions: results of a registry study in an ST-elevation myocardial
+infarction network. Eur Heart J 2009; 30 : 33-43.
+48. Frans Van de Werf*, Bax J, Betriu A et al . Management of acute myocardial
+infarction in patients presenting with persistent ST-segment elevation.The Task Force on
+the management of ST-segment elevation acute myocardial infarction of the European
+Society of Cardiology. Eur Heart J 2008; 29 : 2909-2945
+49. Antman EA, Hand M, Armstrong PW et al. 2007 Focused Update of the ACC/AHA
+2004 Guidelines for the Management of Patients With ST-Elevation Myocardial Infarction.
+A Report of the American College of Cardiology/American Heart Association Task Force
+on Practice Guidelines: Developed in Collaboration With the Canadian Cardiovascular
+Society Endorsed by the American Academy of Family Physicians: 2007 Writing Group to
+Review New Evidence and Update the ACC/AHA 2004 Guidelines for the Management of
+Patients With ST-Elevation Myocardial Infarction, Writing on Behalf of the 2004 Writing
+Committee. Circulation 2008; 117 : 296-329.
+50. De Luca. Adjunctive antithrombotic therapy during primary percutaneous coronary
+intervention. Eur Heart J Suppl 2008;10 : J2-J14.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+63
+51. Jeger RV, Radovanovic D, Hunziker PR, et al. Ten-year trends in the incidence and
+treatment of cardiogenic shock. Ann Intern Med 2008; 149: 618-626.
+52. Urban P, Stauffer JC, Bleed D et al. A randomized evaluation of early
+revascularization to treat shock complicating acute myocardial infarction. The (Swiss)
+Multicenter Trial of Angioplasty for Shock (S)MASH. Eur Heart J 1999; 20 : 1030-8.
+53. Dzavik V, Sleeper LA, Cocke TP et al for the SHOCK Investigators. Early
+revascularization is associated with improved survival in elderly patients with acute
+myocardial infarction complicated by cardiogenic shock: a report from the SHOCK Trial
+Registry. Eur Heart J 2003; 24 : 828-837.
+54. Prasad A, Lennon RJ, Rihal CS et al. Outcomes of elderly patients with cardiogenic
+treated with early percutaneous revascularisation. Am Heart J 2004; 147: 1066-70.
+55. Reynolds HR, Hochman JS. Cardiogenic Shock: Current Concepts and Improving
+Outcomes. Circulation. 2008;117:686-697
+56. Ohman EM, George BS, White CJ, et al. Use of aortic counterpulsation to improve
+sustained coronary artery patency during acute myocardial infarction: results of a
+randomized trial: the Randomized IABP Study Group. Circulation 1994; 90 : 792-9.
+57. Stone GW, Marsalese D, Brodie BR, et al. A prospective, randomized evaluation of
+prophylactic intraaortic balloon counterpulsation in high risk patients with acute myocardial
+infarction treated with primary angioplasty: Second Primary Angioplasty in Myocardial
+Infarction (PAMI-II) Trial Investigators. J Am Coll Cardiol 1997; 29 : 1459-67.
+58. Barron HV, Every NR, Parsons LS et al. For the Investigators in the National Registry
+of Myocardial Infarction 2. The Use of Intra-Aortic Balloon Counterpulsation in Patients
+With Cardiogenic Shock Complicating Acute Myocardial Infarction: Data From the National
+Registry of Myocardial Infarction 2. Am Heart J 2001; 141 : 933-939.
+59. Sjauw KD, Engstrom AE, Vis MM et al. A systemic review and meta-analysis of intraaortic balloon pump therapy in ST elevation myocardial infarction: should we change the
+guidelines? Eur Heart J 2009; 30 : 459-468.
+60. Prondzinsky R, Lemm H, Swyter M et al. A prospective randomized evaluation of
+intraaortic balloon counterpulsation for the prevention of multiorgan dysfunction and –
+failure in patients with acute myocardial infarction complicated by cardiogenic shock.
+Circulation 2006; 114 : II-2668.
+61. Hamm CW, Braunwald E. A classification of unstable angina revisited. Circulation
+2000; 102 : 118-22.
+62. Neumann FJ, Kastrati A, Pogatsa-Murray G, et al. Evaluation of prolonged
+antithrombotic pretreatment ("cooling-off" strategy) before intervention in patients with
+unstable coronary syndromes: a randomized controlled trial. JAMA 2003; 290 : 1593-1599.
+63. Mehta S. Timing of Intervention in Patients With Acute Coronary Syndromes
+(TIMACS )— Presented at American Heart Association meeting New Orleans, Louisiana,
+November 2008.
+64. Montalescot G . Immediate Versus Next Day Catheterization in Non-ST Elevation
+Acute Coronary Syndrome: Results of the Multicenter Randomized ABOARD Study.
+Presented at ACC.09/i2 Orlando, Florida, March 2009.
+65. Bavry AA, Kumbhani DJ, Rassi AN et al. Benefit of early invasive therapy in acute
+coronary syndromes: a meta-analysis of contemporary randomized clinical trials. J Am Coll
+Cardiol 2006; 48 : 1319-1325.
+66. Mehta SR, Cannon CP, Fox KA, et al. Routine vs selective invasive strategies in
+patients with acute coronary syndromes: a collaborative meta-analysis of randomized
+trials. JAMA 2005; 293 : 2908-2917.
+67. Biondi-Zoccai GG, Abbate A, Agostoni P, et al. Long-term benefits of an early
+invasive management in acute coronary syndromes depend on intracoronary stenting and
+aggressive antiplatelet treatment: a metaregression. Am Heart J 2005; 149 : 504-511.
+68. O'Donoghue M, Boden WE, Braunwald E, Cannon CP, et al. Early invasive vs
+conservative treatment strategies in women and men with unstable angina and non-STsegment elevation myocardial infarction: a meta-analysis. JAMA 2008;300:71-80
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+64
+69. Bauer T, Koeth O, Junger C, et al. Effect of an invasive strategy on in-hospital
+outcome in elderly patients with non-ST-elevation myocardial infarction Eur Heart J 2007;
+28 : 2873-2878.
+70. de Winter RJ, Windhausen F, Cornel JH, et al. Early invasive versus selectively
+invasive management for acute coronary syndromes. N Engl J Med. 353: 2005; 1095–104.
+71. Katritsis DG, Ioannidis JP. Percutaneous coronary interventions versus conservative
+therapy in nonacute coronary artery disease: a meta-analysis. Circulation 2005; 111 :
+2906-12.
+72. Katritsis DG, Ioannidis JP. PCI for stable coronary disease. N Engl J Med 2007; 357 :
+414-5.
+73. Holmes DR, Gersh BJ, Whitlow P et al. Percutaneous Coronary Intervention for
+Chronic Stable angina J Am Coll Cardiol Intv 2008; 1 ; 34-43.
+74. Boden WE, O’ Rouke RA, Teo KK et al. Optimum medical therapy with or without
+PCI for stable coronary disease. N Engl J Med 2007 : 356 : 1503-16.
+75. Weintraub WS, Spertus JA, Kolm P et al. Effect of PCI on Quality of Live in Patients
+with Stable Coronary Disease . N Engl J Med 2008 : 359 : 677-687.
+76. Fraker TD Jr, Fihn SD writing on behalf of the 2002 Chronic Stable Angina Writing
+committee. 2007 Chronic Angina Focused Update of the ACC/AHA 2002 Guidelines for
+the Management of patients with Chronic Stable Angina. A report of the American College
+of Cardiology/American Heart Association Task Force on practice guidelines Writing Group
+to Develop the Focused Update of the 2002 Guidelines for the Management of Patients
+with Chronic Stable Angina; J Am Coll Cardiol 2007; 50; 2264-2274.
+77. Sleight P, Pouleur H and Zannad F. Benefits, challenges, and registerability of the
+polypill. Eur Heart J 2006: 27 :1651-1656.
+78. Schuster S, Koch A, Burczyk U et al. Early treatment of acute myocardial infarct:
+implementation of therapy guidelines in routine clinical practice, MITRA pilot phase. Z
+Kardiol 1997; 86 : 273–283.
+79. Shaw LJ, Berman DS, Maren DJ et al. Optimal Medical Therapy with or without
+Percutaneous Coronary Intervention to Reduce Ischaemic Burden : Results from the
+Clinical Outcome Utilizing Revascularization and Aggressive Drug Evaluation (COURAGE)
+Trial Nuclear Substudy. Circulation 2008 : 117 ; 1283-1891.
+80. Danchin N, Cambou JP, Hanania G et al. USIC 2000 Investigators. Impact of
+combined secondary prevention therapy after myocardial infarction: data from a nationwide
+French registry. Am Heart J 2005; 150 : 1147–1153.
+81. Katritsis DG, Meier B. Percutaneous coronary intervention for stable coronary artery
+disease. J am Coll Cardiol 2008; 52 : 889-893.
+82. Tonino PAL, De Bruyne B, Pijls NHJ, et al. Fractional flow reserve versus
+angiography for guiding percutaneous coronary intervention. N Engl J Med 2009; 360 :
+213-24.
+83. Legalery P, Schiele F, Seronde MF, et al. One-Year Outcome of Patients Submitted
+to Routine Fractional Flow Reserve Assessment to Determine the Need for Angioplasty.
+Eur Heart J 2005; 26 : 2623-2629.
+84. Abizaid AS, Mintz GS, Mehran R et al et al.Long term follow-up after percutaneous
+transluminal coronary angioplasty was not performed based on intravascular ultrasound
+findings:importance of lumen dimensions. Circulation 1999; 100 : 256-261.
+85. Hoffman SN, TenBrook JA, Wolf MP et al. A meta-analysis of randomized controlled
+trials comparing coronary artery bypass graft with percutaneous transluminal coronary
+angioplasty: one to eight year outcomes. J Am Coll Cardiol 2003; 41 : 1293-1304.
+86. Bravata DM, Gienger AL, McDonald KM et al. Systematic Review: The Comparative
+Effectiveness of Percutaneous Coronary Interventions and Coronary Artery Bypass Graft
+Surgery. 2007; 147 : 703-716.
+87. van den Brand MJ, Rensing BJ, Morel MA et al. The effect of completeness of
+revascularization on event-free survival at one year in the ARTS trial. J Am Coll Cardiol
+2002 ; 39 : 559-64.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+65
+88. Serruys PW, Unger F, Sousa JE et al. Comparison of coronary artery bypass surgery
+and stenting for the treatment of multivessel disease. Circulation 2004; 109 : 1114-20.
+89. Patel M, Dehmar GJ, Hirshfield JW et al .ACCF/SCAI/STS/AATS/AHA/ASNC 2009
+Appropriateness Criteria for Coronary Revascularization. A Report by the American
+College of Cardiology Foundation Appropriateness Criteria Task Force, Society for
+Cardiovascular Angiography and Interventions, Society of Thoracic Surgeons, American
+Association for Thoracic Surgery, American Heart Association, and the American Society
+of Nuclear Cardiology. Endorsed by the American Society of Echocardiography, the Heart
+Failure Society of America, and the Society of Cardiovascular Computed Tomography. J
+Am Coll Cardiol 2009; 53 : 530-553.
+90. Taggart DP. Thomas B. Ferguson Lecture. Coronary Artery Bypass Grafting is Still
+the Best Treatment for Multivessel and Left Main Disease, But Patients Need to Know.
+Ann Thorac Surg 2006; 82 : 1966-1975.
+91. Serruys P, Morice M-C, Kappetein P et al for the SYNTAX Investigators.
+Percutaneous Coronary Intervention versus Coronary Artery Bypass grafting for severe
+coronary artery disease.The SYNTAX Study. N Engl J Med 2009 360 : 961-972.
+92. Tan WA, Tamai H, Park SJ et al. Long term clinical outcomes after unprotected left
+main trunk percutaneous coronary revascularization in 279 patients. Circulation 2001; 104
+: 1609-14.
+93. Takagi T, Stankovic G, Finci L et al. Results and long term predictors of adverse
+clinical events after elective percutaneous coronary interventions on unprotected left main
+coronary artery. Circulation 2002; 106 : 698- 702.
+94. Sianos G, Morel M-A, Kappetein P et al. The SYNTAX Score: an angiographic tool
+grading the complexity of coronary artery disease. EuroInterv 2005; 1 : 219-227.
+95. Lange RA, Hillis LD . Coronary revascularization in context. N Engl J Med 2009; 360
+: 1024-1026.
+96. Feit F, Brooks MM, Sopko G, et al. Long-term clinical outcome in the Bypass
+Angioplasty Revascularization Investigation Registry: comparison with the randomized
+trial. BARI Investigators. Circulation. 2000; 101: 2795–2802.
+97. Srinivas VS, Brooks MM,; Detre KM et al. Contemporary Percutaneous Coronary
+Intervention Versus Balloon Angioplasty for Multivessel Coronary Artery Disease.
+Circulation. 2002; 106 : 1627-1633.
+98. Sedlis SP, Morrison DA, Lorin JD et al. Investigators of the Dept. of Veterans Affairs
+Cooperative Study, the Angina With Extremely Serious Operative Mortality Evaluation
+(AWESOME). Percutaneous coronary intervention versus coronary bypass graft surgery
+for diabetic patients with unstable angina and risk factors for adverse outcomes with
+bypass: outcome of diabetic patients in the AWESOME randomized trial and registry. J Am
+Coll Cardiol. 2002; 40 : 1555-66.
+99. Fleisher LA, Beckman JA, Brown KA et al ACC/AHA 2007 Guidelines on
+Perioperative Cardiovascular Evaluation and Care for Noncardiac Surgery.A Report of the
+American College of Cardiology/American Heart Association Task Force on Practice
+Guidelines (Writing Committee to Revise the 2002 Guidelines on Perioperative
+Cardiovascular Evaluation for Noncardiac Surgery) Developed in Collaboration With the
+American Society of Echocardiography, American Society of Nuclear Cardiology, Heart
+Rhythm Society, Society of Cardiovascular Anesthesiologists, Society for Cardiovascular
+Angiography and Interventions, Society for Vascular Medicine and Biology, and Society for
+Vascular Surgery. J Am Coll Cardiol 2007; 59 : 159-242.
+100. Poldermans D, Hoeks SE, Feringa HH. Pre-Operative Risk Assessment and Risk
+Reduction Before Surgery. J Am Coll Cardiol 2008 ; 51:1913-1924
+101. Newsome LT, Weller RS, Gerancher JC et al. Coronary Artery stents: Part II.
+Perioperative considerations and management. Anesth Analg. 2008 ; 107 : 570-590.
+102. Grines CL, Bonow RO, Casey Jr DE et al. Prevention of Premature Discontinuation
+of Dual Antiplatelet Therapy in Patients With Coronary Artery Stents. A Science Advisory
+From the American Heart Association, American College of Cardiology, Society for
+Cardiovascular Angiography and Interventions, American College of Surgeons, and
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+66
+American Dental Association, With Representation From the American College of
+Physicians J Am Coll Cardiol 2007; 49 : 734-739.
+103. Biondi-Zoccai GG, Lotrionte M, Agostoni P, et al. A systematic review and metaanalysis on the hazards of discontinuing or not adhering to aspirin among 50,279 patients
+at risk for coronary artery disease. Eur Heart J 2006; 27 : 2667-2674.
+104. King SB III, Smith SC, Hirshfield JW et al Writing on Behalf of the 2005 Writing
+Committee. 2007 Focused Update of the ACC/AHA/SCAI 2005 Guideline Update for
+Percutaneous Coronary Intervention.American College of Cardiology/American Heart
+Association Task Force on Practice Guidelines 2007 Writing Group to Review New
+Evidence and Update the ACC/AHA/SCAI 2005 Guideline Update for Percutaneous
+Coronary Intervention. J Am Coll Cardiol 2008; 51 : 172-209.
+105. Burger W, Chemnitius JM, Kneissl GD, Rucker G. Low-dose aspirin for secondary
+cardiovascular prevention—cardiovascular risks after its perioperative withdrawal versus
+bleeding risks with its continuation—review and meta-analysis. J Intern Med 2005; 257 :
+399-414.
+106. Antithrombotic Trialists' Collaboration. Collaborative meta-analysis of randomised
+trials of antiplatelet therapy for prevention of death, myocardial infarction, and stroke in
+high-risk patients. Br Med J 2002; 324 : 71-86.
+107. Yusuf S, Zhao F, Mehta SR, et al. Effects of clopidogrel in addition to aspirin in
+patients with acute coronary syndromes without ST-segment elevation. N Engl J Med.
+2001; 345 : 494-502.
+108. Sabatine MS, Cannon CP, Gibson CM, et al. Addition of clopidogrel to aspirin and
+fibrinolytic therapy for myocardial infarction with ST-segment elevation. N Engl J Med.
+2005; 352 : 1179-89.
+109. Mehta SR, Yusuf S, Peters RJ, et al. Effects of pretreatment with clopidogrel and
+aspirin followed by long-term therapy in patients undergoing percutaneous coronary
+intervention: the PCI-CURE study. Lancet. 2001; 358 (9281) : 527-33.
+110. Patti G, Colonna G, Pasceri V et al. Randomized Trial of High Loading Dose of
+Clopidogrel for Reduction of Periprocedural Myocardial Infarction in Patients Undergoing
+Coronary Intervention .Results From the ARMYDA-2 (Antiplatelet therapy for Reduction of
+MYocardial Damage during Angioplasty) Study. Circulation. 2005; 111 : 2099-2106.
+111. Lotrionte M, Biondi-Zoccai GGL, Agostino P et al. Meta-Analysis Appraising High
+Clopidogrel Loading in Patients Undergoing Percutaneous Coronary Intervention. Am J
+Cardiol 2007; 100 : 1199-1206.
+112. Vlaar PJ, Svilaas T, Damman K et al. Impact of Pretreatment With Clopidogrel on
+Initial Patency and Outcome in Patients Treated With Primary Percutaneous Coronary
+Intervention for ST-Segment Elevation Myocardial Infarction. Circulation 2008; 118 : 18281836.
+113. Widimsky P, Motovska Z, Simek S on behalf of the PRAGUE-8 Investigators.
+Clopidogrel pre-treatment in stable angina: for all patients >6 h before elective coronary
+angiography or only for angiographically selected patients a few minutes before PCI? A
+randomized multicentre trial PRAGUE-8. Eur Heart J 2008; 29 : 1495-1503.
+114. Kandzari DE, Berger PB, Kastrati A et al. ISAR-REACT Study Investigators Influence
+of treatment duration with a 600-mg dose of clopidogrel before percutaneous coronary
+revascularization. J Am Coll Cardiol 2004; 44 : 2133–2136.
+115. Collet J-P, Silvain J, Landivier A et al. Dose Effect of Clopidogrel Reloading in
+Patients Already on 75-mg Maintenance Dose: The Reload With Clopidogrel Before
+Coronary Angioplasty in Subjects Treated Long Term With Dual Antiplatelet Therapy
+(RELOAD) Study. Circulation 2008; 118 : 1225 - 1233.
+116. Bertrand ME, Rupprecht HJ, Urban P, Gershlick AH, for the CLASSICS Investigators.
+Double-blind study of the safety of clopidogrel with and without a loading dose in
+combination with aspirin compared with ticlopidine in combination with aspirin after
+coronary stenting: the CLopidogrel ASpirin Stent International Cooperative Study
+(CLASSICS). Circulation 2000; 102 : 624–629.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+67
+117. Ho PM, Peterson ED, Wang L, et al. Incidence of death and acute myocardial
+infarction associated with stopping clopidogrel after acute coronary syndrome JAMA 2008;
+299 : 532-539.
+118. Angiolillo DJ, Shoemaker SB, Desai B, et al. Randomized comparison of a high
+clopidogrel maintenance dose in patients with diabetes mellitus and coronary artery
+disease: results of the Optimizing Antiplatelet Therapy in Diabetes Mellitus (OPTIMUS)
+study. Circulation 2007; 115 : 708-16.
+119. Bennett JS.: Novel platelet inhibitors. Annu. Rev Med 2001; 52: 161.
+120. Schömig A, Neumann F-J, Kastrati A et al. A Randomized Comparison of Antiplatelet
+and Anticoagulant Therapy after the Placement of Coronary-Artery Stents. N Engl J Med
+1996; 334 : 1084-9.
+121. Leon MB, Baim DS, Gordon P et al. Clinical and angiographic results from the Stent
+Anticoagulation Regimen Study (STARS). Circulation. 1996;94(suppl I):I-685. Abstract.
+122. Bertrand ME, Legrand V, Boland J, et al. Randomized multicenter comparison of
+conventional anticoagulation versus antiplatelet therapy in unplanned and elective
+coronary stenting. The full anticoagulation versus aspirin and ticlopidine (FANTASTIC)
+study. Circulation 1998; 98 :1597-603.
+123. Schuhlen H, Kastrati A, Pache J.u. et al. Incidence of thrombotic occlusion and major
+adverse cardiac events between two and four weeks after coronary stent placement:
+analysis of 5,678 patients with a four-week ticlopidine regimen. J Am Coll. Cardiol 2001;
+37: 2066 - 2073.
+124. Wiviott SD, Trenk D, Frelinger AL, et al., on behalf of the PRINCIPLE-TIMI 44
+Investigators. Prasugrel Compared With High Loading- and Maintenance-Dose Clopidogrel
+in Patients With Planned Percutaneous Coronary Intervention: The Prasugrel in
+Comparison to Clopidogrel for Inhibition of Platelet Activation and Aggregation–
+Thrombolysis in Myocardial Infarction 44 Trial. Circulation 2007; 116 : 2923-2932.
+125. Wiviott SD, Braunwald E, McCabe CH, et al. Prasugrel versus clopidogrel in patients
+with acute coronary syndromes. N Engl J Med 2007; 357: 2001-15.
+126. Montalescot G, Wiviott SD, Braunwald E et al for the TRITON-TIMI 38 Investigators.
+Prasugrel compared with clopidogrel in patients undergoing percutaneous coronary
+intervention for ST –elevation myocardial infarction (TRITON-TIMI 38): double blind,
+randomized controlled trial. Lancet 2009; 373 : 723-731.
+127. Kastrati A, Neumann F-J, Mehilli J, et al. ISAR-REACT 3 Trial Investigators
+Bivalirudin versus unfractionated heparin during percutaneous coronary intervention. N
+Engl J Med 2008; 359 : 688-696.
+128. Giugliano RP,Braunwald E. The year in Non STEMI. J Am Coll Cardiol 2008; 52 :
+1095-1103.
+129. Van’t Hof AW, Ten Berg J, Heestermans T, et al., on behalf of the Ongoing Tirofiban
+In Myocardial infarction Evaluation (On-TIME) 2 Study Group. Prehospital initiation of
+tirofiban in patients with ST-elevation myocardial infarction undergoing primary angioplasty
+(On-TIME 2): a multicentre, double-blind, randomized controlled trial. Lancet 2008; 372 :
+537-46.
+130. Cannon CP, Weintraub WS, Demopoulos LA, et al. Comparison of early invasive and
+conservative strategies in patients with unstable coronary syndromes treated with the
+glycoprotein IIb/IIIa inhibitor Tirofiban. N Engl J Med 2001; 344: 1879–87.
+131. The PURSUIT Trial Investigators. Inhibition of platelet glycoprotein IIb/IIIa with
+eptifibatide in patients with acute coronary syndromes. N Engl J Med 1998; 339: 436–43.
+132. Giugliano RP, White JA, Bode C, et al., on behalf of the EARLY ACS Investigators.
+Early versus delayed, provisional eptifibatide in acute coronary syndromes. N Engl J Med
+2009; March 30: Epub ahead of print)
+133. Stone GW, Ware JH, Betrand ME et al for the ACUITY Investigators. Antithrombotic
+strategies in patients with acute coronary syndromes undergoing early invasive
+management: one-year results from the ACUITY trial. JAMA 2007; 298 : 2497-2506.
+134. Bhatt DL, Marso SP, Lincoff AM et al. Abciximab reduces mortality in diabetics
+following percutaneous coronary interventions. J Am Coll Cardiol 2000; 35 : 922-8.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+68
+135. Gurbuz AT, Elliot WG, Zia AA. Heparin-induced thrombocytopenia in the
+cardiovascular patient: diagnostic and treatment guidelines. Eur J Cardiothorac Surg 2005;
+27 : 138-149.
+136. Lincoff AM, Bitti JA, Harrington RA for the REPLACE-2 Investigators. Randomized
+Evaluation of PCI Linking Angiomax to Reduced Clinical Events (REPLACE 2). JAMA
+2003; 289 : 853-863.
+137. Stone GW, Ware JH, Betrand ME et al for the ACUITY Investigators. Antithrombotic
+strategies in patients with acute coronary syndromes undergoing early invasive
+management: one-year results from the ACUITY trial. JAMA 2007; 298 : 2497-2506.
+138. Stone GW, Witzenbichler B, Guagliumi G et al for the HORIZONS-AMI Trial
+Investigators. Bivalirudin during primary PCI in acute myocardial infarction. N Engl J Med
+2008; 358 : 2218–2230.
+139. Montalescot G, White HD, Gallo R et al. Enoxaparin versus Unfractionated Heparin
+in Elective Percutaneous Coronary Intervention. N Engl J Med 2006; 355: 1006-1017.
+140. Mahaffey KW, Cohen M, Garg J et al for the SYNERGY Trial Investigators. High-Risk
+Patients With Acute Coronary Syndromes Treated With Low-Molecular-Weight or
+Unfractionated Heparin : Outcomes at 6 Months and 1 Year in the SYNERGY Trial .
+JAMA. 2005; 294 : 2594-2600.
+141. Mehta S, Granger C , Eikelboom J et.al. Efficacy and Safety of Fondaparinux Versus
+Enoxaparin in Patients With Acute Coronary Syndromes Undergoing Percutaneous
+Coronary Intervention. Results From the OASIS-5 Trial. J Am Coll Cardiol 2007; 50 :17421751.
+142. Yusuf S, Mehta SR, Chrolavicius S, et al. Effects of fondaparinux on mortality and
+reinfarction in patients with acute ST-segment elevation myocardial infarction: the OASIS-6
+randomized trial. JAMA 2006; 295 : 1519–30.
+143. Mehta SR, Boden WE, Eikelboom JW, et al., on behalf of the OASIS 5 and 6
+Investigators Antithrombotic Therapy With Fondaparinux in Relation to Interventional
+Management Strategy in Patients With ST- and Non-ST-Segment Elevation Acute
+Coronary Syndromes. An Individual Patient-Level Combined Analysis of the Fifth and Sixth
+Organization to Assess Strategies in Ischemic Syndromes (OASIS 5 and 6) Randomized
+Trials. Circulation 2008; 118 : 2038-2046.
+144. Lee SW, Park SW, Hong MK, et al. Triple versus dual antiplatelet therapy after
+coronary stenting: impact on stent thrombosis. J Am Coll Cardiol 2005; 46 : 1833-1837.
+145. Douglas JS, Holmes DR, Kereiakes DJ, et.al. Coronary Stent Restenosis in Patients
+Treated With Cilostazol for the Cilostazol for Restenosis Trial (CREST) Investigators.
+Circulation 2005; 112 : 2826-2832.
+146. Lee SW, Park SW, Kim YH, et.al. Comparison of triple versus dual antiplatelet
+therapy after drug-eluting stent implantation (from the DECLARE-Long trial). Am J Cardiol
+2007; 100 : 1103-8.
+147. Lee SW, Park SW, Kim YH, et al. Drug-eluting stenting followed by cilostazol
+treatment reduces late restenosis in patients with diabetes mellitus the DECLAREDIABETES Trial (A Randomized Comparison of Triple Antiplatelet Therapy with Dual
+Antiplatelet Therapy After Drug-Eluting Stent Implantation in Diabetic Patients). J Am Coll
+Cardiol 2008; 51 : 1181-7.
+148. Biondi-Zoccai GGL, Lotrionte M, Anselmino M, Moretti C, et.al. Systematic Review
+and Meta-Analysis of Randomized Clinical Trials Appraising the Impact of Cilostazol After
+Percutaneous Coronary Intervention. Am Heart J 2008; 155: 1081-1089.
+149. Pasceri V, Patti G, Nusca A, et al. Randomized trial of atorvastatin for reduction of
+myocardial damage during coronary intervention. Results from the ARMYDA (Atorvastatin
+for Reduction of MYocardial Damage during Angioplasty) study. Circulation 2004;110 :
+674-8.
+150. Briguori C. Novel Approaches for Preventing or Limiting Events (NAPLES) II Trial:
+Impact of Loading Dose of Atorvastatin on Periprocedural Myocardial Infarction. Presented
+at ACC.09/i2, Orlando, Florida, March 2009.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+69
+151. DiSciascio G. Efficacy of Atorvastatin Reload in Patients on Chronic Statin Therapy
+Undergoing Percutaneous Coronary Intervention. Preliminary Results of the ARMYDARECAPTURE (Atorvastatin for Reduction of Myocardial Damage during Angioplasty)
+Randomized Trial. Presented at ACC.09/i2, Orlando, Florida, March 2009.
+152. The BARI Investigators. Influence of diabetes on 5 year mortality and morbidity in a
+randomized trial comparing CABG and PTCA in patients with multivessel disease. The
+Bypass Angioplasty Revascularization Investigation (BARI). Circulation 1997; 96 : 176169.
+153. King SBIII, Kosinski AS, Guyton RA et al. Eight year mortality in the Emory
+Angioplasty versus Surgery Trial (EAST). J Am Coll Cardiol 2000; 35 : 1116-21.
+154. Kurbaan AS, Bowker TJ, Ilseley CD et al. Differences in the mortality of the CABRI
+diabetic and nondiabetic populations and its realtion to coronary artery disease and the
+revascularization mode (Abstr). J Am Coll Cardiol 2001; 87 : 947-50.
+155. Rozenman Y, Sapoznikov D, Mosseri M et al. Long term angiographic follow –up of
+coronary balloon angioplasty in patients with diabetes mellitus. A clue to the explanation of
+the results of the BARI study. Balloon Angioplasty Revascularization Investigators. J Am
+Coll Cardiol 1997; 30 : 1420-25.
+156. Van Belle E, Abolmaali K, Bauters C et al. Restenosis, late vessel occlusion and left
+ventricular function 6 months after balloon angioplasty in diabetic patients. J Am Coll
+Cardiol 1999; 94 : 1818-25.
+157. Van Belle E, Bauters C, Hubert E et al. Restenosis rates in diabetic patients: A
+comparison of coronary stenting and balloon angioplasty in native coronary vessels.
+Circulation 1997; 96 : 1454-60.
+158. Van Belle E, Ketelers R, Bauters C et al. Patency of percutaneous transluminal
+coronary angioplasty sites at 6 months angiographic follow – up: A key determinant of
+survival in diabetics after coronary balloon angioplasty. Circulation 2001; 103 : 1218-24.
+159. Corpus RA, George PB, House JA, et al. Optimal glycemic control is associated with
+a lower rate of target vessel revascularization in treated type II diabetic patients
+undergoing elective percutaneous coronary intervention. J Am Coll Cardiol 2004; 43 : 8-14.
+160. Fefer P, Hod H, Ilany J et al. Comparison of Myocardial Reperfusion in Patients With
+Fasting Blood Glucose 100, 101 to 125, and >125 mg/dl and ST-Elevation Myocardial
+Infarction With Percutaneous Coronary Intervention. Am J Cardiol 2008; 102 : 1457-1462.
+161. Serruys PW, Unger F, Sousa JE et al. Comparison of coronary artery bypass surgery
+and stenting for the treatment of multivessel disease. N Engl J Med 2001; 344 : 1117-24.
+162. Serruys PW, Unger F, Crean PA et al. Arterial Revascularization Therapy Study
+(ARTS): A randomized randomized trial of stenting in multivessel coronary disease versus
+bypass surgery. Two year results. Eur Heart J 2001: 22 (suppl): 232 .
+163. Stone GW, Ellis SG, Cox DA et al. A polymer based paclitaxel-eluting stent in
+patients with coronary artery disease. N Engl J Med 2004; 350 : 221-31.
+164. Holmes DR Jr, Leon MB, Moses JW et al. Analysis of 1-Year Clinical Outcomes in
+the SIRIUS Trial .A Randomized Trial of a Sirolimus-Eluting Stent Versus a Standard Stent
+in Patients at High Risk for Coronary Restenosis . Circulation 2004; 109 : 634-640.
+165. Weintraub WS, Stein B, Kosinski A et al. Outcome of coronary bypass surgery
+versus coronary angioplasty in diabetic patients with multivessel coronary artery disease. J
+Am Coll Cardiol 1998; 31 : 10-19.
+166. Kuntz RE. Importance of considering atherosclerosis progression when choosing a
+coronary revascularization strategy: the diabetes –percutaneous transluminal coronary
+angioplasty dilemma. Circulation 1999; 99 : 847-51.
+167. The EPIC Investigators. Use of a monoclonal antibody directed against the platelet
+glycoprotein IIb/IIIa receptors in high risk coronary angioplasty. The EPIC investigation. N
+Engl J Med 1994; 330 : 956-61.
+168. The EPILOG Investigators. Platelet glycoprotein IIb / IIIa receptor blockade and low
+dose heparin during percutaneous coronary revascularization. N Engl J Med 1997; 336 :
+1689-96.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+70
+169. The Epistent Investigators. Randomized placebo controlled and balloon angioplasty
+controlled trail to assess safety of coronary stenting with use of platelet glycoprotein IIb/IIIa
+blockade. Lancet 1998; 352 : 87-92.
+170. Abizaid A, Cosat MA,Centemero M et al. Clinical and economic impact of diabetes
+mellitus on percutaneous and surgical treatment of multivessel coronary disease patients:
+insight from the Arterial Revascularization Therapy Study (ARTS) trial. Circulation 2001;
+104 : 533-8.
+171. Sedlis SP, Morrison DA, Lorin DA eta l. Percutaneous coronary intervention versus
+coronary bypass graft surgery for diabetic patients with unstable angina and risk factors for
+adverse outcomes with bypass: outcome of diabetic patients in the AWESOME
+randomized trial and registry. J Am Coll Cardiol 2002; 40 : 1555-66.
+172. Coronary artery bypass surgery versus percutaneous coronary intervention with stent
+implantation in patients with multivessel coronary artery disease (the Stent or Surgery
+trial). Lancet 2003; 360,965-70.
+173. Rubenstein MH, Sheynberg BV, Harrel LC et al. Effectiveness of and adverse events
+after percutaneous coronary intervention in patients with mild versus severe renal failure.
+Am J Cardiol 2001; 87 : 856-60.
+174. Best PJ, Lennon R, Ting HH et al. The impact of renal insufficency on clinical
+outcomes in patients undergoing percutaneous coronary intervention. J Am Coll Cardiol
+2002; 39 : 1113-9.
+175. Reinecke H, Trey T, Matzkies F et al. Grade of chronic renal failure and acute and
+long term outcome after percutaneous coronary intervention. Kidney Int 2003; 63 : 696-70.
+176. Herzog CA, Ma JZ, Collins AJ. Comparative survival of dialysis patients in the United
+States after coronary angioplasty, coronary artery stenting and coronary artery bypass
+surgery and the impact of diabetes. Circulation 2002; 106 : 2207-11.
+177. Gruberg L, Weissman NJ, Waksman R et al. Comparison of outcomes after
+percutaneous coronary revacularization with stents in patients with and without mild
+chronic renal insufficiency. Am J Cardiol 2002; 89 : 54-7.
+178. McCullough PA, Adam A, Becker CR et al. Epidemiology and prognostic implications
+of contrast induced nephropathy. Am J Cardiol 2006; 98 : 5-13.
+179. Rihal CS, Textor CS, Grill DE et al. Incidence and prognostic importance of acute
+renal failure after percutaneous coronary intervention. Circulation 2002; 105 : 2259-64.
+180. Roghi A, Savonitto S, Cavallini C et al. Impact of acute renal failure following
+percutaneous coronary intervention on long-term mortality. J Cardiovasc Med 2008; 9 :
+375-81.
+181. Gupta R, Gurm HS, Bhatt DL et al. Renal Failure after percutaneous coronary
+intervention is associated with high mortality. Catheter Cardiovasc Interv 2005; 64 : 44950.
+182. Mc Cullough PA. Contrast induced acute kidney damage. J Am Coll Cardiol 2008; 51
+: 1419-28.
+183. McCullough PA, Bertrand ME, Brinker JA, Stacul F. A meta-analysis of the renal
+safety of isosmolar iodixanol compared with low-osmolar contrast media. J Am Coll
+Cardiol. 48: 2006; 692–9.
+184. Pannu N, Wiebe N, Tonelli M for the Alberta Kidney Disease Network. Prophylaxis
+Strategies for Contrast-Induced Nephropathy JAMA. 2006; 295 : 2765-2779.
+185. Wessely R . Randomized Clinical Trial to Compare the Nephrotoxic Effects of IsoOsmolar Versus Low-Osmolar Contrast Medium in Patients With Impaired Renal Function
+Undergoing Percutaneous Coronary Intervention: The COntrast Media and NephroToxicity
+Following Coronary Revascularization by AngioplaSTy (CONTRAST) Study. Presented at
+ACC Annual Scientific Session Chicago, USA, March 2008.
+186. Tepel M, Van der Giet M, Schwarzfeld C et al. Prevention of radiographic-contrastagent-induced reductions in renal function by acetylcysteine. N Engl J Med. 2000; 343:
+180–184.
+187. Briguori C, Colombo A, Violante A et al. Standard vs double dose of N-acetylcysteine
+to prevent contrast agent associated nephrotoxicity. Eur Heart J 2004; 25 : 206-211.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+71
+188. Merten GJ, Burgess WP, Gray LV et al. Prevention of contrast-induced nephropathy
+with sodium bicarbonate: a randomized controlled trial. JAMA. 2004; 291: 2328–2334.
+189. Briguori C, Airoldi F, D’Andrea D et al .Renal Insufficiency Following Contrast Media
+Administration Trial (REMEDIAL): A Randomized Comparison of 3 Preventive Strategies.
+Circulation 2007; 115: 1211 - 1217.
+190. Fox KA, Bassand JP, Mehta SR, et al. Influence of renal function on the efficacy and
+safety of fondaparinux relative to enoxaparin in non ST-segment elevation acute coronary
+syndromes. Ann Intern Med 2007; 147 : 304-310.
+191. Radovanovic D, Erne P, Urban P et al. Gender differences in management and
+outconmes in [patients with acute coronary syndromes: results on 20,290 patients from the
+AMIS Plus Registry. Heart 2007; 93 : 1369-75.
+192. Cowley MJ, Mullin SM, Kelsey SF et al. Sex differences in early and long term results
+of coronary angioplasty in the NHLBI PTCA registry. Circulation 1985; 71 : 90- 7.
+193. Singh M, Rihal CS, Gersh BJ et al. Mortality differences between men and women
+after percutaneous coronary interventions: 25 year, single center experience. J Am Coll
+Cardiol 2008; 51 : 2313 -20.
+194. Dodge JT, Brown BJ, Bolson EL et al. Lumen diameter of normal human coronary
+arteries: influence of age, sex, anatomic variation and left ventricular hypertrophy or
+dilation. Circulation 1992; 86 : 232-46.
+195. Wilson RF, Raveendran G . What’s good for the gander is now good for the goose. J
+Am Coll Cardiol 2008; 51 : 2321-22.
+196. Batchelor WB, Anstrom KJ, Muhlbaier LH et al for the National Cardiovascular
+Network Collaboration. Contemporary outcome trends in the elderly undergoing
+percutaneous coronary interventions: results in 7472 octogenarians. J Am Coll Cardiol
+2000; 36 : 723-30.
+197. Assali AR, Moustapha A, Sdringola S et al. The dilemma of success: percutaneous
+coronary intervention in patients > or = 75 years of age – successful but associated with
+higher vascular complications and cardiac mortality. Catheter Cardiovasc Interv 2003; 59 :
+195-9.
+198. Tsai TP, Chaux A, Kass RM et al. Aortocoronary bypass surgery in septuagenarians
+and octogenarians. Cardiovasc Surg ( Torino) 1989; 30 : 364-8.
+199. The TIME Investigators. Trial of invasive versus medical therapy in elderly patients
+with chronic symptomatic coronary artery disease (TIME): A randomized trial. Lancet 2001;
+358 : 951-7.
+200. Cohen HA, Wiliams DO, Holmes DR Jr et al. Impact of age on procedural and 1 year
+outcome in percutaneous transluminal coronary angioplasty: a report from the NHLBI
+Dynamic registry. Am Heart J 2003; 146 : 513-9.
+201. Izumi M, Tsuchikane E, Funamoto M, et al. Final results of the CAPAS trial. Am
+Heart J 2001;142 : 782-789.
+202. Bonan R, Roose P, Suttorp M, et al. cutting balloon global randomized trial:
+Restenosis and revascularization rate (Abstr). Circulation 1997; 96 : I-324.
+203. Albiero R, Silber S, Di Mario C,et. Al. Cutting Balloon Versus Conventional Balloon
+Angioplasty for the Treatment of In-Stent Restenosis: Results of the Restenosis Cutting
+Balloon Evaluation Trial (RESCUT). J Am Coll Cardiol 2004; 43 : 943–9.
+204. Scheller B, Hehrlein C, Bocksch W, et al. Treatment of coronary in-stent restenosis
+with a paclitaxel-coated balloon catheter. N Engl J Med 2006; 355 : 2113-24.
+205. Scheller B. PACCOCATH ISR 1 and 2: A Prospective, Randomized Trial of a
+Paclitaxel-Eluting Balloon in In-Stent Restenosis: 2-Year Results. Presented at TCT
+Washington, October 2008.
+206. Unverdorben M. Paclitaxel-Eluting PTCA-Balloon Catheter in Coronary Artery
+Disease II-In-Stent Restenosis (PEPCAD II-ISR) study. Presented at SCAI Annual
+Scientific Sessions in Partnership with ACC i2 Summit (SCAI-ACCi2) Chicago, March
+2008.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+72
+207. Serruys PW, de Jaegere P, Kiemeneij F, et al. A comparison of balloon-expandablestent implantation with balloon angioplasty in patients with coronary artery disease:
+Benestent Study Group. N Engl J Med 1994; 331 : 489-95.
+208. Fischman DL, Leon MB, Baim DS, et al. A randomized comparison of coronary-stent
+placement and balloon angioplasty in the treatment of coronary artery disease: Stent
+Restenosis Study Investigators. N Engl J Med 1994;331:496-501.
+209. Cervinka P. A Randomized Comparison of Genous Stent Versus Chromium-Cobalt
+Stent for Treatment of ST-Elevation Myocardial Infarction: A 6-Month Clinical,
+Angiographic, and IVUS Follow-up: GENIUS-STEMI trial. Presented at ACC.09/i2,
+Orlando, Florida, March 2009.
+210. Windecker S, Serruys PW, Wandel S, et al. Biolimus-eluting stent with biodegradable
+polymer versus sirolimus-eluting stent with durable polymer for coronary revascularization
+(LEADERS): a randomized noninferiority trial. Lancet 2008; 372 : 1163-73.
+211. Baim DS, Wahr D, George B, et al on behalf of the SAFER Trial Investigators.
+Randomized trial of a distal embolic protection device during percutaneous intervention of
+saphenous vein aorto-coronary bypass grafts. Circulation 2002; 105 : 1285–1290.
+212. Kereiakes DJ, Turco MA, Breall J etal. A novel filter based embolic protection device
+for percutaneous intervention of saphenous vein graft lesions: results of the AMEthyst
+randomized controlled trial. J Am Coll Cardiol Intv 2008 : 1 : 248-257.
+213. Silvestri M, Barragan P, Sainsous J, et al. Unprotected left main coronary artery
+stenting: immediate and medium-term outcomes of 140 elective procedures. J Am Coll
+Cardiol 2000; 35 : 1543-50.
+214. Kelley MP, Klugherz BD, Hashemi SM, et al. One-year clinical outcomes of protected
+and unprotected left main coronary artery stenting. Eur Heart J 2003; 24 : 1554-9.
+215. Park SJ, Park SW, Hong MK, et al. Long-term (three-year) outcomes after stenting of
+unprotected left main coronary artery stenosis in patients with normal left ventricular
+function. Am J Cardiol 2003; 91: 12-6
+216. Park SJ, Kim YH, Lee BK, et al. Sirolimus-eluting stent implantation for unprotected
+left main coronary artery stenosis: comparison with bare metal stent implantation. J Am
+Coll Cardiol 2005; 45 : 351-6.
+217. Valgimigli M, Van Mieghem CA, Ong AT, et al. Short- and longterm clinical outcome
+after drug-eluting stent implantation for the percutaneous treatment of left main coronary
+artery disease: insights from the Rapamycin-Eluting and Taxus Stent Evaluated At
+Rotterdam Cardiology Hospital registries (RESEARCH and TSEARCH). Circulation
+2005;111: 1383-9.
+218. Chieffo A, Stankovic G, Bonizzoni E, et al. Early and mid-term results of drug-eluting
+stent implantation in unprotected left main. Circulation 2005; 111: 791-5.
+219. Palmer ND, Causer MD, Ramsdale DR et al. Effect of Completeness of
+Revascularization on Clinical Outcome in Patients with Multivessel Disease Presenting
+with Unstable Angina Who Undergo Percutaneous Coronary Intervention. J Invasive
+Cardiol 2004; 16:185-188.
+220. Suero JA, Marso SP, Jones PG, et al. Procedural outcomes and long-term survival
+among patients undergoing percutaneous coronary intervention of a chronic total occlusion
+in native coronary arteries: a 20-year experience. J Am Coll Cardiol. 2001;38 : 409–414.
+221. Simes PA, Myreng Y, Molstad P et al. Improvement in left ventricular ejection fraction
+and wall motion after successful recanalization of chronic coronray opclusions. Eur Heart J
+1998; 19 : 273-81.
+222. Suttorp MJ, Laarman GJ, Rahel BM et al. Primary Stenting of Totally Occluded
+Native Coronary Arteries II (PRISON II). A Randomized Comparison of Bare Metal Stent
+Implantation With Sirolimus-Eluting Stent Implantation for the Treatment of Total Coronary
+Occlusions. Circulation 2006; 114 : 921-928.
+223. Latib A, Colombo A. Bifurcation Disease: What Do We Know, What Should We Do?
+J. Am. Coll. Cardiol. Intv. 2008; 1 ; 218-226.
+224. Medina A, Suarez de Lezo J, Pan M. A new classification of coronary bifurcation
+lesions. Rev. Esp. Cardiol 2006; 59: 183 .
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+73
+225. Steigen TK, Maeng M, Wiseth R et al. Randomized study on simple versus complex
+stenting of coronary artery bifurcation lesions. Cathet Cardiovasc Diagn 1996; 37 : 311313.
+226. Routledge HC, Morice M-C, LeFevre T et al. 2 year outcome of patients treated for
+bifurcation coronary disease with provisional side branch T stenting using drug eluting
+stents. J Am Coll Cardiol Intv 2008; 1 : 358-365.
+227. Finn AV, Kolodgie FD, Harnek J et al. Differential response of delayed healing and
+persistent inflammation at sites of overlapping sirolimus or paclitaxel eluting stents.
+Circulation 2005; 112 : 270-278.
+228. Daemon J, Wenaweser P, Tsuchida K et al. Early and late coronary stent thrombosis
+of sirolimus-eluting and pcalitaxel-eluting stents in routine clinical practice: data froma
+large two institutional cohort study. Lancet 2007; 369 : 667-678.
+229. Waksman R, Bonello L. The 5 T’s of Bifurcation Intervention: Type, Technique, Two
+stents, T-stenting, Trials. J Am Coll Cardiol Intv 2008; 1: 366-368.
+230. Ge L, Airoldi F, Iokovou I et al. Clinical and angiographic outcome after implantation
+of drug-eluting stents in bifurcation lesions with the crush stent technique: importance of
+final kissing balloon post dilatation. J Am Coll Cardiol 2005; 46 : 613-620.
+231. Ormiston JA, Webster MW, Webber B et al. The Crush Technique for coronary artery
+bifurcation stenting: Insights from micro-computed tomographic imaging of bench
+deployments. J Am Coll Cardiol Intv 2008; 1 : 351-357.
+232. Campeau L, Enjalbert M, Lesperance J, et al. The relation of risk factors to the
+development of atherosclerosis in saphenous vein bypass grafts and the progression of
+disease in the native circulation. N Engl J of Med 1984; 311 : 1329-1332.
+233. Bourassa M. Fate of venous grafts: the past, the present and the future. J Am Coll
+Cardiol 1991; 5 : 1081–3.
+234. Fitzgibbon G, Kafka H, Leach A, et al. Coronary bypass graft fate and patient
+outcome: angiographic follow-up of 5,065 grafts related to survival and reoperation in
+1,338 patients during 25 years. J Am Coll Cardiol 1996; 28 : 616 –26.
+235. Weintraub W, Jones E, Craver J, et al. Frequency of repeat coronary bypass or
+coronary angioplasty after coronary artery bypass surgery using saphenous venous grafts.
+Am J Cardiol 1994; 73 : 103–12.
+236. Foster E, Fisher L, Kaiser G, et al. Comparison of operative mortality and morbidity
+for initial and repeat coronary artery bypass grafting: The CASS Registry Experience. Ann
+Thorac Surg 1984; 38 : 563-570.
+237. Schaff H, Orszulak T, Gersh B, et al. The morbidity and mortality of reoperation for
+coronary artery disease and analysis of late results with use of actuarial estimate of
+eventfree interval. J Thorac Cardiovasc Surg 1983; 85 : 508-515.
+238. Weintraub WS, Jones EL, Morris DC et al. Outcome of reoperative coronary bypass
+surgery versus coronary angioplasty after previous bypass surgery. Circulation 1997; 95 :
+868-877.
+239. Stephan WJ, O’Keefe JH, Piehler JM, et.al. Coronary angioplasty versus repeat
+coronary artery bypass grafting for patients with previous bypass surgery. J Am Coll
+Cardiol 1996; 28 : 1140-1146.
+240. Stone GW, Rogers C, Hermiller J, et al. Randomized comparison of distal protection
+with a filter-based catheter and a balloon occlusion and aspiration system during
+percutaneous intervention of diseased saphenous vein aorto-coronary bypass grafts.
+Circulation 2003;108:548–553.
+241. Ellis SG, Linkoff AM, Miller D, et al. Reduction in complications of angioplasty with
+abciximab occurs largely independent of baseline lesion morphology. J Am Coll Cardiol
+1998; 32 : 1619–23.
+242. Roffi M, Mukherjee D, Chew DP et al. Lack of benefit from intravenous platelet
+glycoprotein IIb/IIIa receptor inhibition as adjunctive treatment for percutaneous
+interventions of aortocoronary bypass grafts: a pooled analysis of five randomized clinical
+trials. Circulation 2002; 106 : 3063- 3067.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+74
+243. Tanaka H, Narisawa T, Hirano J, et al. Coronary artery bypass grafting for coronary
+aneurysms due to Kawasaki disease. Ann Thorac Cardiovasc Surg. 2001; 7 : 307–310.
+244. Bauer M, Redzepagic S, Weng Y, et al. Successful surgical treatment of a giant
+aneurysm of the right coronary artery. Thorac Cardiovasc Surg.1998; 46 : 152–154.
+245. Clarke, NR; Banning, AP. Obliteration of a coronary artery aneurysm with a covered
+coronary stent. Heart 2001; 86 :198.
+246. Briguori C, Sarais C, Sivieri G, et al. Polytetrafluoroethylene-covered stent and
+coronary artery aneurysms.Cathet Cardiovasc Intervent 2002 ; 55 : 326 –330.
+247. Iakovou I, Schmidt T, Bonizzoni E, et al. Incidence, predictors, and outcome of
+thrombosis after successful implantation of drug-eluting stents. JAMA 2005; 293 : 21262130.
+248. Cutlip DE, Windecker S, Mehran R, et al. Clinical end points in coronary stent trials: a
+case for standardized definitions. Circulation 2007; 115 : 2344-2351.
+249. Mauri L, Hsieh WH, Massaro JM, et al. Stent thrombosis in randomized clinical trials
+of drug-eluting stents N Engl J Med 2007; 356 : 1020-10.
+250. Stone GW, Moses JW, Ellis SG, et al. Safety and efficacy of sirolimus- and
+paclitaxel-eluting coronary stents N Engl J Med 2007; 356 : 998-1008.
+251. Jaffe, R., Strauss, B. H. Late and Very Late Thrombosis of Drug-Eluting Stents:
+Evolving Concepts and Perspectives. J Am Coll Cardiol 2007; 50: 119-127.
+252. Lagerqvist B, James SK, Stenestrand U et al. Long-term outcomes with drug eluting
+stents versus bare-metal stents in Sweden. N Engl J Med 2007; 356 : 1009-1019.
+253. Windecker S, Meier B. Late Coronary Stent Thrombosis. Circulation 2007; 116 :
+1952-1965.
+254. Burzotta F, Parma A, Pristipino C et al. Angiographic and clinical outcome of
+invasively managed patients with thrombosed coronary bare metal or drug-eluting stents:
+the OPTIMIST study. Eur Heart J 2008; 29 : 2011-3021.
+255. Orford JL, Lennon R, Melby S et al. Frequency and correlates of coronary stent
+thrombosis in the modern era. J Am Coll Cardiol. 2002; 40: 1567–1572.
+256. Chieffo QA, Briguori C, Melzi EGG et al. Incidence and Predictors of Drug-Eluting
+Stent Thrombosis During and After Discontinuation of Thienopyridine Treatment.
+Circulation 2007;116 : 745-754.
+257. Morice MC, Serruys PW, Sousa JE,et al RAVEL Study Group. Randomized Study
+with the Sirolimus-Coated Bx Velocity Balloon-Expandable Stent in the Treatment of
+Patients with de Novo Native Coronary Artery Lesions. A randomized comparison of a
+sirolimus-eluting stent with a standard stent for coronary revascularization. N Engl J Med.
+2002; 346 : 1773–1780.
+258. Dawkins KD, Grube E, Guagliumi G et al. Clinical efficacy of polymer-based
+paclitaxel-eluting stents in the treatment of complex, long coronary artery lesions from a
+multicenter, randomized trial: support for the use of drug-eluting stents in contemporary
+clinical practice. Circulation 2005; 112 : 3306-13.
+259. Radke PW, Kaiser A, Frost C, Sigwart U. Outcome after treatment of coronary instent restenosis; results from a systematic review using meta-analysis techniques. Eur
+Heart J 2003; 24 : 266-73.
+260. Mehran R, Mintz GS, Popma JJ, et al. Mechanisms and results of balloon
+angioplasty for the treatment of in-stent restenosis. Am J Cardiol 1996; 78 : 618-22.
+261. Sharma SK, Annapoorna SK, King T, et al. Multivariate predictors of target lesion
+revascularization in the Randomized Trial of PTCA versus Rotablator for Diffuse In-Stent
+Restenosis (ROSTER). J Am Coll Cardiol. 2001; 37 : 55A. Abstract.
+262. Vom Dahl J, Dietz U, Haager PK, et al. Rotational atherectomy does not reduce
+recurrent in-stent restenosis: results of the angioplasty versus rotational atherectomy for
+treatment of diffuse in-stent restenosis trial (ARTIST). Circulation 2002; 105 : 583-8.
+263. Neumann FJ, Desmet W, Grube E, et al. Effectiveness and safety of sirolimus-eluting
+stents in the treatment of restenosis after coronary stent placement. Circulation 2005; 111 :
+2107-11.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+75
+264. Holmes DR, Tierstein P, Satler L et al for the SISR Investiagtors. Sirolimus-Eluting
+Stents vs Vascular Brachytherapy for In-Stent Restenosis Within Bare-Metal Stents. The
+SISR Randomized Trial. JAMA 2006; 295 : 1264-1273.
+265. Ellis SG, O’Shaughnessy CD, Martin SL, et al. Two-year clinical outcomes after
+paclitaxel eluting stent or brachytherapy treatment for bare metal stent restenosis: the
+TAXUS V ISR trial Eur Heart J 2008; 29: 1625–1634.
+266. Teirstein PS, Massullo V, Jani S, et al. Catheter-based radiotherapy to inhibit
+restenosis after coronary stenting (SCRIPPS). N Engl J Med 1997; 336 : 1697-703.
+267. Waksman R, White RL, Chan RC, et al. Intracoronary gamma radiation therapy after
+angioplasty inhibits recurrence in patients with in-stent restenosis (WRIST). Circulation
+2000; 101 : 2165-71.
+268. Waksman R, Raizner AE, Yeung AC, et al on behalf of the INHIBIT Investigators.
+Use of localized intracoronary radiation in the treatment of instent restenosis: the INHIBIT
+randomized controlled trial. Lancet 2002; 359 : 551-7.
+269. Raizner AE, Oesterle SN, Waksman R, et al. Inhibition of restenosis with betaemitting radiotherapy: report of the proliferation reduction with vascular energy trial
+(PREVENT). Circulation 2000;102:951-8.
+270. Hamon M, Nolan J. Should radial artery access be the "gold standard" for PCI? Heart
+2008 ; 94 : 1530-1532.
+271. Chase AJ, Fretz EB, Warburton WP, et al.. Association of arterial access site at
+angioplasty with transfusion and mortality. The M.O.R.T.A.L study: (Mortality benefit Of
+Reduced Transfusion after percutaneous coronary intervention via the Arm or Leg). Heart
+2008; 94 :1019–25.
+272. Desai ND, Cohen EA, Naylor CD, et al. Radial Artery Patency Study Investigators. A
+randomized comparison of radial-artery and saphenous-vein coronary bypass grafts. N
+Engl J Med 2004; 351 : 2302–9.
+273. Collins, P., Webb, C. M., Chong, C. F., et al. for the Radial Artery Versus Saphenous
+Vein Patency. Radial Artery Versus Saphenous Vein Patency Randomized Trial: Five-Year
+Angiographic Follow-Up. Circulation 2008; 117 : 2859-2864.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+76
+APPENDIX I: CONTRAINDICATIONS TO
+FIBRINOLYTIC THERAPY
+Absolute contraindications
+Risk of Intracranial haemorrhage
+Any history of intracranial haemorrhage
+Ischaemic stroke within 3 months
+Known structural cerebral vascular lesion (e.g. arteriovenous
+malformation)
+Known intracranial neoplasm
+Risk of bleeding
+Active bleeding or bleeding diathesis (excluding menses)
+Significant head trauma within 3 months
+Suspected aortic dissection
+Relative contraindications
+Risk of intracranial haemorrhage
+Severe uncontrolled hypertension on presentation (BP >
+180/110 mm Hg)*
+Ischaemic stroke more than 3 months ago
+History of chronic, severe uncontrolled hypertension
+Risk of Bleeding
+Current use of anticoagulation in therapeutic doses
+(INR > 2)
+Recent major surgery < 3 weeks
+Traumatic or prolonged CPR >10 minutes
+Recent internal bleeding (e.g. gastrointestinal or urinary tract
+haemorrhage) within 4 weeks
+Non-compressible vascular puncture
+Active peptic ulcer
+Others
+Pregnancy
+Prior exposure (>5 days and within 12 months of first usage)
+to streptokinase (if planning to use same agent)
+* The blood pressure should be reduced prior to institution of
+fibrinolytic therapy.
+Adapted from : 2nd CPG STEMI 2007
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+77
+APPENDIX II: CLASSIFICATION OF TIMI FLOW
+APPENDIX III: CLASSIFICATION OF TIMI MYOCARDIAL
+PERFUSION GRADE(TMP)
+The TIMI Study Group. The Thrombolysis in Myocardial Infarction (TIMI) trial. N Engl J
+Med. 1985; 312: 932–936.
+Gibson CM, Cannon CP, Murphy SA, et al, for the TIMI study group. Relationship of
+TIMI myocardial perfusion grade to mortality after administration of thrombolytic drugs.
+Circulation. 2000;101:125–130.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+78
+APPENDIX IV : CLASSIFICATION OF UNSTABLE ANGINA*
+UA : Unstable angina; T : Tropinins
+*Hamm CW, Braunwald E. A classification of unstable angina revisited. Circulation. 2000
+;102 :118-22.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+79
+APPENDIX V : TIMI RISK SCORE FOR UA/NSTEMI
+The TIMI risk score is determined by the sum of the presence of 7
+variables at admission:
+1 point is given for each of the following variables:
+•
+Age 65 y or older
+•
+At least 3 risk factors for CAD ( family history of premature
+CAD, hypertension,elevated cholesterols, active smoker,
+diabetes)
+•
+Known CAD (coronary stenosis of ≥ 50%)
+•
+Use of aspirin in prior 7 days
+•
+ST-segment deviation (≥0.5mm) on ECG
+•
+At least 2 anginal episodes in prior 24 h
+•
+Elevated serum cardiac biomarkers
+Total Score = 7 points
+Low Risk : ≤ 2 point
+Moderate Risk: 3-4 points
+High Risk : ≥5 points
+Adapted from :
+•
+Antman EM, Cohen M, Bernink PJ, et al. The TIMI risk score for unstable angina/
+non-ST elevation MI: a method for prognostication and therapeutic decision
+making. JAMA 2000; 284 : 835–42 .
+•
+Sabatine MS, Morrow DA, Giugliano RP, et al. Implications of upstream glycoprotein
+IIb/IIIa inhibition and coronary artery stenting in the invasive management of
+unstable angina/non ST elevation myocardial infarction. A comparison of the
+Thrombolysis in Myocardial Infarction (TIMI) IIIB trial and the Treat angina with
+Aggrastat and determine Cost of Therapy with Invasive or Conservative Strategy
+(TACTICS)-TIMI 18 trial. Circulation 2004; 109 : 874-880.
+All-Cause Mortality, New or Recurrent
+MI, or Severe Recurrent Ischemia
+Requiring Urgent Revascularization
+Through 14 d After Randomization, %
+4.7
+8.3
+13.2
+19.9
+26.2
+40.9
+TIMI Risk Score
+0-1
+2
+3
+4
+5
+6-7
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+80
+APPENDIX VI : CLASSIFICATION OF ANGINA SEVERITY
+APPENDIX VII: RISK FACTOR GOALS IN PATIENTS
+WITH CAD
+* the lower the better.
+In clinical trials, plaque regression was seen when LDL-C was <1.8mmol/l.
+In patients with progressive disease, one should aim for LDL-C <1.8mmol/l.
+** in patients with significant co-morbidities and complex CAD, an alternative target of <
+7% is acceptable
+Classification of angina severity according to the Canadian
+Cardiovascular Society
+Level of symptoms
+“Ordinary activity does not cause angina”.
+Angina with strenuous or rapid or prolonged exertion
+only.
+“Slight limitation of ordinary activity”.
+Angina on walking or climbing stairs rapidly, walking
+uphill or exertion after meals, in cold weather, when
+under emotional stress, or only during the first few
+hours after awakening.
+“Marked limitation of ordinary physical activity”. Angina
+on walking one or two blocks* on the level or one flight
+of stairs at a normal pace under normal conditions.
+“Inability to carry out any physical activity without
+discomfort” or “angina at rest”
+Class
+Class I
+Class II
+Class III
+Class IV
+* Equivalent to 100-200 m
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+81
+APPENDIX VIII : CALCULATION OF CREATININE
+CLEARANCE
+APPENDIX IX: COMMONLY USED IODINATED CONTRAST
+AGENTS
+Estimated GFR (ml/min) = (140-age) x weight or 1.2 (140-age)
+(0.814 x SCr [µmol/L ]) SCr [µmol/L ]
+SCr : serum creatinine
+Women: multiplication with 0.85
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+82
+APPENDIX X: PATIENT AND LESION CHARACTERISTICS
+FOR RECANALISATION SUCCESS (EURO CTO CLUB*)
+* European perspective in the recanalisation of Chronic Total Occlusions (CTO):
+Consensus document from the EuroCTO Club. EuroInterv2007; 3 : 30-43
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+83
+APPENDIX XI: MEDINA CLASSIFICATION OF BIFURCATION
+LESIONS
+Adapted from Medina A, Suarez de Lezo J, Pan M. A new classification of coronary
+bifurcation lesions. Rev. Esp. Cardiol. 59(2), 183 (2006).
+In the Medina classification a binary value (1,0) is given to each of the
+3 components of a bifurcation (main branch proximal, main branch
+distal, and the side branch) according to whether each of these
+segments is compromised (1) or not (0).
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+84
+APPENDIX XII: CLASSIFICATION OF INSTENT RESTENOSIS
+(ISR)
+Adapted from Mehran R, Dangas G, Abizaid AS, et al. Angiographic Patterns of InStent Restenosis : Classification and Implications for Long-Term Outcome. Circulation
+1999;100;1872-1878
+Class I: Focal ISR group. Lesions are ≤10 mm in length and are
+positioned at the unscaffolded segment (ie, articulation or
+gap), the body of the stent, the proximal or distal margin (but
+not both), or a combination of these sites (multifocal ISR)
+Class II: “Diffuse intrastent” ISR. Lesions are > 10 mm in length
+and are confined to the stent(s), without extending outside the
+margins of the stent(s).
+Class III: “Diffuse proliferative” ISR. Lesions are >10 mm in length
+and extend beyond the margin(s) of the stent(s).
+Class IV: ISR with “total occlusion.” Lesions have a TIMI flow grade
+of 0.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+85
+APPENDIX XIII: GRADE OF RECOMMENDATION AND LEVEL
+OF EVIDENCE* FOR SECONDARY PREVENTION OF CAD
+* ACC/AHA and ESC Classification
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+86
+ACKNOWLEDGMENTS
+The committee of this guideline would like to express their gratitude
+and appreciation to the following for their contribution:
+•
+Technical Advisory Committee, Clinical Practice Guidelines,
+Ministry of Health for their valuable input and feedback
+•
+Panel of external reviewers who reviewed the draft
+•
+Secretariat from sanofi-aventis
+DISCLOSURE STATEMENT
+The panel members have no potential conflict of interest to disclose.
+SOURCES OF FUNDING
+This CPG was made possible by an unrestricted educational grant
+from Sanofi-Aventis (M) Sdn Bhd.
+Clinical Practice Guidelines on
+management of percutaneous
+coronary intervention (PCI) 2009
+87
+ABBREVIATIONS

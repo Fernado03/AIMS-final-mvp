@@ -1,0 +1,3192 @@
+CLINICAL PRACTICE GUIDELINES
+ERECTILE
+DYSFUNCTION
+2 PY
+Y
+Management of Erectile Dysfunction
+Published by:
+Malaysian Health Technology Assessment Section (MaHTAS)
+Medical Development Division, Ministry of Health Malaysia
+Level 4, Block E1, Precinct 1
+Federal Government Administrative Centre
+62590 Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is MaHTAS. Content may be
+reproduced in any number of copies and in any format or medium
+provided that a copyright acknowledgement to MaHTAS is included
+and the content is not changed, not sold, or used to promote or endorse
+any product or service, and not used in an inappropriate or misleading
+context.
+eISBN: 978-967-2887-75-1
+Available on the following websites:
+https://www.moh.gov.my
+https://www.acadmed.org.my
+Also available as an app for Android and IOS platform: MyMaHTAS
+STATEMENT OF INTENT
+This clinical practice guidelines (CPG) is meant to be a guide for
+clinical practice based on the best available evidence at the time of
+development. The guideline should not override the responsibility of
+the practitioners to make decision appropriate to the circumstances of
+the individual. This should be done in consultation with the patients and
+their families or guardians, taking into account the management options
+available locally.
+UPDATING THE CPG
+These guidelines were issued in 2024 and will be reviewed in a minimum
+period of four years (2028) or sooner if there is a need to do so. When
+it is due for updating, the Chairman of the CPG or National Advisor of
+the related specialty will be informed about it. A discussion will be done
+on the need for a revision including the scope of the revised CPG. A
+multidisciplinary team will be formed and the latest systematic review
+methodology used by MaHTAS will be employed. Every care is taken
+to ensure that this publication is correct in every detail at the time of
+publication. However, in the event of errors or omissions, corrections
+will be published in the web version of this document, which is the
+deﬁnitive version at all times. This version can be found on the websites
+mentioned above.
+Management of Erectile Dysfunction
+TABLE OF CONTENTS
+No.
+Title
+Page
+Levels of Evidence and Formulation of Recommendation
+i
+Key Recommendations
+ii
+Guidelines Development and Objectives
+iii
+Development Group
+vii
+Review Committee
+viii
+External Reviewers
+ix
+Algorithm 1: Diagnosis and Treatment of ED
+x
+Algorithm 2: Classification for ED Patients with
+xi
+Cardiovascular Disease
+1.
+INTRODUCTION
+1
+2.
+RISK FACTORS
+3
+3.
+DIAGNOSIS AND ASSESSMENT
+8
+4.
+TREATMENT
+14
+4.1 Lifestyle Intervention
+14
+4.2 Pharmacological Treatment
+15
+4.3 Mechanical Treatment
+20
+4.4 Surgical Intervention
+21
+4.5 Psychological Intervention
+23
+5.
+TRADITIONAL AND COMPLEMENTARY MEDICINE
+26
+6.
+FOLLOW-UP
+27
+7.
+REFERRAL
+28
+8.
+SPECIAL POPULATIONS
+29
+8.1 Patients with Cardiac Disease
+29
+8.2 Patients with Diabetes Mellitus
+30
+8.3 Patients with Pelvic Surgery or Prostate
+30
+Cancer Treatment
+8.4 Spinal Cord Injury Survivors
+31
+9.
+IMPLEMENTING THE GUIDELINES
+33
+9.1 Facilitating and Limiting Factors
+33
+9.2 Potential Resource Implications
+Management of Erectile Dysfunction
+TABLE OF CONTENTS
+No.
+Title
+Page
+REFERENCES
+35
+Appendix 1 Example of Search Strategy
+41
+Appendix 2 Clinical Questions
+42
+Appendix 3 Relevant History Taking in Patients with
+44
+Symptoms of ED
+Appendix 4 5-item Version of International Index of Erectile 45
+Function (IIEF-5)
+Appendix 5 Erection Hardness Score
+47
+Appendix 6 Treatment in ED
+48
+Appendix 7 Application of Vacuum Erectile Device (VED)
+53
+Appendix 8 Low-intensity Extracorporeal
+54
+Shockwave Therapy
+Appendix 9 Examples of Penile Prosthesis
+55
+List of Abbreviations 56
+Acknowledgement 58
+Disclosure Statement 58
+Source of Funding 58
+Management of Erectile Dysfunction
+i
+Level
+I
+II-1
+II-2
+II-3
+III
+Study design
+Properly powered and conducted randomised controlled
+trial; well-conducted systematic review or meta-analysis of
+homogeneous randomised controlled trials
+Well-designed controlled trial without randomisation
+Well-designed cohort or case-control analysis study
+Multiple time series, with or without the intervention; results
+from uncontrolled studies that yield results of large magnitude
+Opinions of respected authorities, based on clinical experience;
+descriptive studies or case reports; reports of expert committees
+LEVELS OF EVIDENCE
+SOURCE: U.S. Preventive Services Task Force. U.S. Preventive Services Task Force Procedure
+Manual. Rockville, MD: USPSTF; 2015.
+FORMULATION OF RECOMMENDATION
+• In line with the new development in CPG methodology, the
+CPG Unit of MaHTAS is adapting Grading Recommendations,
+Assessment, Development and Evaluation (GRADE) in its
+work process. The quality of body of evidence and related effect
+size are carefully assessed/reviewed by the CPG DG.
+• Recommendations are formulated based on certainty of
+evidence and the wording used denotes the strength of
+recommendations. This takes into account:
+ quality and level of the evidence
+ balance of benefits and harms of the options
+ patient’s preference and values
+ resource implications
+ relevancy and applicability to the local target population
+• The more criteria being fulfilled, the more certain is the evidence
+leading to strong recommendations using the word “should”
+being considered. Otherwise, weak recommendations use the
+word “may” in proposing an action to be made.
+• In the CPG, a yellow box highlights important message(s) in
+the management while a blue box contains evidence-based
+recommendation(s) for the particular condition.
+Management of Erectile Dysfunction
+ii
+KEY RECOMMENDATIONS
+The following recommendations are highlighted by the CPG DG as the
+key recommendations that answer the main questions addressed in the
+CPG and should be prioritised for implementation.
+DIAGNOSIS AND ASSESSMENT
+• A comprehensive medical, psychosocial and sexual history should
+be taken in every patient presenting with erectile dysfunction (ED).
+• A validated questionnaire related to ED should be used to assess
+all sexual function domains (e.g. International Index of Erectile
+Function).
+• A focused physical examination in the initial assessment of men
+with ED should be done to identify underlying medical conditions
+and co-morbid genital disorders that may be associated with ED.
+• Routine laboratory tests should be performed to identify modiﬁable
+risk factors of ED.
+• Patients with ED should have cardiac risk assessment and vice
+versa.
+TREATMENT
+• All patients with erectile dysfunction (ED) should be advised on
+lifestyle and risk factor modiﬁcations.
+• Phosphodiesterase-5-inhibitor should be offered to all patients with
+ED unless contraindicated.
+• Mechanical devices (e.g. using vacuum erection device or
+shockwave therapy) may be offered in ED. Low-intensity
+extracorporeal shockwave therapy should be performed by
+urologists for mild to moderate ED.
+• Penile prothesis may be offered to patients with ED who have
+failed other interventions.
+• An integrated and collaborative approach with psychological
+interventions should be considered in the treatment of ED.
+Management of Erectile Dysfunction
+iii
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+GUIDELINES DEVELOPMENT
+The members of the DG for this CPG were from the Ministry of Health
+(MoH), the Ministry of Higher Education and the private sector. There
+was active involvement of a multidisciplinary Review Committee (RC)
+during the process of the CPG development.
+A systematic literature search was carried out using the following
+electronic databases/platforms: mainly Medline via Ovid and others
+e.g. PubMed (refer to Appendix 1 for Example of Search Strategy).
+The inclusion criteria are all adults at risk and with erectile dysfunction
+(ED) regardless of study design. The ﬁrst search was limited to
+literature published in the last 15 years (2007 until 2022) for all clinical
+questions, on humans and in English. In addition, the reference lists of
+all retrieved literature and guidelines were searched to further identify
+relevant studies. Experts in the ﬁeld were also contacted for studies
+related to the issues addressed. All searches were conducted from 2
+to 17 August 2022. The literature search was repeated for all clinical
+questions at the end of the CPG development process allowing any
+relevant papers published before 9 January 2024 to be included. Future
+CPG updates will consider evidence published after this cut-off date.
+The details of the search strategy can be obtained upon request from
+the CPG Secretariat.
+References were also made to other guidelines on ED as listed below:
+• American Urological Association (AUA) - Erectile Dysfunction: AUA
+Guideline (2018)
+• European Association of Urology (EAU) - EAU Guidelines on
+Sexual and Reproductive Health (2023)
+A total of 12 main clinical questions were developed under different
+sections. Members of the DG were assigned individual questions within
+these sections. Refer to Appendix 2 for Clinical Questions. The DG
+members met 21 times throughout the development of these guidelines.
+All literature retrieved was appraised by at least two DG members using
+the Critical Appraisal Skill Programme checklist, presented in evidence
+tables and further discussed in each DG meeting. All statements and
+recommendations formulated after that were agreed upon by both the
+DG and RC. Where evidence was insufﬁcient, the recommendations
+were made by consensus of the DG and RC. Any differences in opinion
+are resolved consensually. The CPG was based largely on the ﬁndings
+of systematic reviews/meta-analyses and clinical trials, with local
+practices taken into consideration.
+Management of Erectile Dysfunction
+iv
+The literatures used in these guidelines were graded using the U. S.
+Preventive Services Task Force Level of Evidence (2015) while the
+grading of recommendation was done using the principles of GRADE
+as much as possible (refer to the preceding page). The writing of the
+CPG followed strictly the requirement of Appraisal of Guidelines for
+Research and Evaluation (AGREE) II.
+Upon completion, the draft CPG was reviewed by external reviewers. It
+was also posted on the MoH Malaysia ofﬁcial website for feedback from
+any interested parties. The draft was ﬁnally presented to the Technical
+Advisory Committee for CPG and, the Health Technology Assessment
+(HTA) and CPG Council, MoH Malaysia, for review and approval.
+Details on the CPG development by MaHTAS can be obtained from the
+Manual on Development and Implementation of Evidence-based
+Clinical Practice Guidelines published in 2015 (available at https://
+www.moh.gov.my/moh/resources/CPG_MANUAL_MAHTAS.pdf).
+Management of Erectile Dysfunction
+v
+OBJECTIVES
+The objectives of the CPG are to provide evidence-based
+recommendations on the management of ED on the following aspects:
+• risk and aggravating factors
+• screening, diagnosis and assessment
+• treatment
+• monitoring and referral
+CLINICAL QUESTIONS
+Refer to Appendix 2.
+TARGET POPULATION
+Inclusion Criteria
+• Patients with ED
+• Special groups
+ ED patients with cardiac disease
+ ED patients with pelvic surgery or prostate cancer treatment
+ Spinal cord injury survivors
+Exclusion Criteria
+• Patients with disorders of ejaculation
+• Patients with low sexual desire and male hypoactive sexual desire
+disorder
+• Patients with genital anomalies or lesions
+TARGET GROUP/USER
+This document is intended to guide health professionals and relevant
+stakeholders in primary and secondary/tertiary care of both the public
+and private sectors in the management of ED including:
+i. medical doctors
+ii. allied health professionals
+iii. trainees and medical students
+iv. patients, partners and their advocates
+v. professional societies
+vi. policy makers
+HEALTHCARE SETTINGS
+Primary, secondary and tertiary care
+Management of Erectile Dysfunction
+vii
+DEVELOPMENT GROUP
+Chairperson
+Dr. Arun Arunasalam Poraviappan
+Consultant Urologist
+Thomson Hospital, Kota Damansara, Selangor
+Members (alphabetical order)
+Dr. Abdul Muizz Abd Malek
+Consultant Cardiologist
+Hospital Sultan Idris Shah, Serdang
+Selangor
+Dr. Adam Firdaus Dahlan
+Family Medicine Specialist
+Klinik Kesihatan Sungai Besi,
+Kuala Lumpur
+Dr. Ahmad Faizal Shamsuddin@
+Suddin
+Psychiatrist
+Hospital Putrajaya, Putrajaya
+Dr. Ahmad Nazran Fadzli
+Senior Lecturer &
+Consultant Urologist
+Faculty of Medicine
+Universiti Malaya, Kuala Lumpur
+Dr. Devindran Manoharan
+Consultant Urologist
+Island Hospital, Pulau Pinang
+Dr. Jasmin Aqilah Zahari
+Family Medicine Specialist
+Klinik Kesihatan Batu Muda,
+Kuala Lumpur
+Dr. Mohd. Aminuddin Mohd. Yusof
+Head of CPG Unit &
+Public Health Physician
+Health Technology Assessment Section
+Ministry of Health, Putrajaya
+Dr. Nadzirah Ahmad Basri
+Assistant Professor &
+Clinical Psychologist
+Kuliyyah of Medicine
+International Islamic University Malaysia
+Pahang
+Dr. Saari Mohamed Yatim
+Head of Specialty &
+Consultant Rehabilitation Physician
+Hospital Sultan Idris Shah, Serdang,
+Selangor
+Ms. Syaza Zuhairah Suhaimi
+Pharmacist
+Hospital Sultan Idris Shah, Serdang,
+Selangor
+Dr. Tengku Noor Farhana Tengku Khalid
+Public Health Physician
+Health Technology Assessment Section
+Ministry of Health, Putrajaya
+Management of Erectile Dysfunction
+viii
+REVIEW COMMITTEE
+The draft guidelines were reviewed by a panel of experts. They were
+asked to comment primarily on the comprehensiveness and accuracy
+of the interpretation of evidence supporting the recommendations in the
+guidelines.
+Chairperson
+Dato’ Dr. Rohan Malek Dato’ Dr. Johan
+Consultant Urologist & Renal Transplant Surgeon
+Hospital Pakar Damansara 2, Kuala Lumpur
+Members (in alphabetical order)
+Dato’ Dr. Asri Ranga Abdullah Ramaiah
+Senior Consultant Cardiologist
+Hospital Sultan Idris Shah, Serdang
+Selangor
+Professor Dr. Christopher Ho Chee Kong
+Consultant Urologist
+Oriental Melaka Straits Medical Centre
+Melaka
+Dr. Izzuna Mudla Mohamed Ghazali
+Deputy Director &
+Public Health Physician
+Health Technology Assessment Section
+Ministry of Health, Putrajaya
+Dr. Mohd Izmi Ahmad@Ibrahim
+Consultant Rehabilitation Physician
+Hospital Rehabilitasi Cheras
+Kuala Lumpur
+Ms. Ng Hui Wen
+Pharmacist
+Hospital Selayang, Selangor
+Associate Professor Dr. Nora Mat Zin
+Senior Lecturer & Consultant Psychiatrist
+Kuliyyah of Medicine
+International Islamic University Malaysia
+Pahang
+Professor Dr. Shaiful Bahari Ismail
+Senior Professor &
+Consultant Family Medicine
+School of Medical Science
+Universiti Sains Malaysia, Kelantan
+Datuk Dr. Zanariah Hussein
+Senior Consultant Endocrinologist
+Hospital Putrajaya, Putrajaya
+Professor Dato’ Dr. Zulkifli Md Zainuddin
+Senior Lecturer & Consultant Urologist
+Faculty of Medicine
+Universiti Kebangsaan Malaysia
+Kuala Lumpur
+Management of Erectile Dysfunction
+ix
+EXTERNAL REVIEWERS (in alphabetical order)
+The following external reviewers provided feedback on the draft:
+Associate Professor Dr. Ahmad
+Syadi Mahmood Zuhdi
+Senior Consultant Cardiologist
+Faculty of Medicine,
+Universiti Malaya, Kuala Lumpur
+Dr. Akmal Hafizah Zamli
+Consultant Rehabilitation Physician
+Hospital Sungai Buloh, Selangor
+Dr. Fadzlan Zamalin Zainal Ashirin
+General Practitioner
+Klinik Dr Fadzlan Al Ashirin
+Kuala Terengganu, Terengganu
+Ms. Fatimah Tul Zahraa’
+Mahmud Pathi
+Pharmacist
+Klinik Kesihatan Sungai Pelek,
+Selangor
+Professor Dr. Hatta Sidi
+Academic Gig Lecturer,
+Faculty of Medicine
+Universiti Kebangsaan Malaysia
+Kuala Lumpur &
+Consultant Psychiatrist
+Klinik Hasnida & Rakan-Rakan,
+Cheras, Selangor
+Dr. Lee Yeow Siong
+Consultant Family Medicine
+Klinik Kesihatan Selayang Baru,
+Selangor
+Mr. Mohd. Fadzil Mohd Irwan
+Patient Advocate
+Dr. Naemah Sharifuddin
+Consultant Family Medicine
+Klinik Kesihatan Bandar Seri Putra, Selangor
+Associate Professor Dr. Ranjith Ramasamy
+Consultant Urologist &
+Director of Reproductive Urology
+Miller School of Medicine,
+University of Miami, Miami, United States
+Associate Professor Dr. Saharuddin Ahmad
+Consultant Family Medicine
+Faculty of Medicine
+Universiti Kebangsaan Malaysia
+Kuala Lumpur
+Associate Professor Dr. Shanggar
+Kuppusamy
+Consultant Urologist
+Faculty of Medicine
+Universiti Malaya, Kuala Lumpur
+Ms. Siti Aminah Omar
+Senior Lecturer & Clinical Psychologist
+Faculty of Medicine
+Universiti Teknologi MARA, Selangor
+Management of Erectile Dysfunction
+ALGORITHM 1: DIAGNOSIS AND TREATMENT OF ED
+May consider
+ED = erectile dysfunction
+IIEF-5 = 5-item version of International Index of Erectile Function
+x
+History taking (medical, psychological and sexual), preferably with partner
+Assessment using IIEF-5
+Focused physical examination
+± Laboratory investigation
+± Imaging
+Patients with
+symptoms of ED
+Diagnosis of ED
+Organic ED
+Psychogenic ED
+Type of ED*
+Severity of ED
+(based on
+IIEF-5)**
+Severe
+(Score 5 - 7)
+Mild/moderate
+(Score 8 - 21)
+• Lifestyle modiﬁcation
+± Pharmacotherapy***
+Refer urologist for
+mechanical devices/
+surgical intervention
+Refer to urologist:
+• Lifestyle modiﬁcation
+± Pharmacotherapy***
+± Mechanical devices
+± Surgical intervention
+• Lifestyle modiﬁcation
+± Pharmacotherapy***
+Refer to mental health
+professionals for
+psychological intervention
+*Some cases may present with mixed
+ED. It is best to categorise the severity
+of mixed ED according to IIEF-5.
+Management of mixed ED may follow
+organic or psychogenic ED.
+**IIEF-5 scoring:
+22 - 25 = Normal
+17 - 21 = Mild
+12 - 16 = Mild-moderate
+8 - 11 = Moderate
+5 - 7 = Severe
+***Co-morbidities should be considered
+No improvement
+Management of Erectile Dysfunction
+ALGORITHM 2: CLASSIFICATION FOR ED PATIENTS WITH
+CARDIOVASCULAR DISEASE
+ASCVD = atherosclerotic cardiovascular disease; ED = erectile
+dysfunction; PDE5i = phosphodiesterase-5 inhibitors
+a Exercise ability is used to guide physician estimating cardiovascular risk
+associated with sexual activity and should be established before the
+initiation of ED treatment. Sexual activity is equivalent to walking 1.6
+kilometre (1 mile) on the flat in 20 minutes or briskly climbing two flights
+of stairs in 10 seconds.
+b Sexual activity is equivalent to 4 minutes of the Bruce treadmill protocol.
+Pass is defined as completion of the test without symptoms, arrhythmias
+or a fall in systolic blood pressure.
+If vasculogenic ED,
+for ASCVD risk
+score assessment
+Patients with
+conﬁrmed ED
+Exercise abilitya
+*Refer to Table 1 for
+Cardiac risk stratiﬁcation
+for patients with ED
+based on 2nd and 3rd
+Princeton Consensus
+Cardiac risk
+stratiﬁcation
+(according to
+Princeton Consensus)*
+Low risk
+Intermediate risk
+High risk
+Stress testb
+Results?
+High risk
+For further
+cardiac
+assessment
+For advice and
+treatment by
+primary team
+Low risk
+Is nitrate
+necessary?
+Patients
+prescribed
+with nitrate/
+riociguat?
+Non-PDE5i treatment
+Consider stopping
+nitrate, then for PDE5i
+PDE5i
+Yes
+Yes
+No
+No
+Pass
+Fail
+Elective risk
+assessment
+Management of Erectile Dysfunction
+Management of Erectile Dysfunction
+1.
+INTRODUCTION
+Erectile dysfunction (ED) is a prevalent and multifaceted medical
+condition characterised by the persistent inability to achieve or
+maintain an erection sufficient for satisfactory sexual performance. As a
+widespread health concern, ED substantially impacts the quality of life
+of affected individuals and their partners, leading to emotional distress,
+strained relationships and diminished overall well-being.1, level III
+ED can manifest in various forms which can be due to organic,
+psychogenic and mixed aetiologies.2 Organic ED may result
+from vascular, neurogenic, hormonal or anatomical factors, while
+psychogenic ED is often associated with psychosocial issues. Mixed
+ED involves a combination of both organic and psychogenic factors,
+making a comprehensive understanding of the condition crucial for
+effective management.
+The pathophysiology of ED is complex, involving intricate interplay
+between vascular, neurologic, hormonal and psychological factors.
+Vascular insufficiency, endothelial dysfunction and altered smooth
+muscle tone are common contributors. Understanding these
+mechanisms is essential for tailoring therapeutic interventions to the
+specific needs of the patient.
+In 1995, approximately 150 million men worldwide were estimated to be
+affected by ED and this is likely to double by 2025.3, level III Throughout
+Asia, there is variation in the prevalence rate of ED ranging between
+2.0% and 81.8%.4, level III A local study at five government primary care
+clinics in Petaling District showed that the prevalence of ED for males
+aged 40 to 79 years old was 69.5%. It increased with age from 49.7%
+of men in their 40s to 66.5%, 92.8% and 93.9% of men in their 50s, 60s
+and 70s respectively.5, level III A recent study based on National Health
+and Morbidity Survey 2019 data revealed a prevalence of moderate
+to severe ED in men aged ≥18 years at 31.6% (95% CI 28.8 to
+34.6).6, level III
+The burden of ED extends beyond its physical manifestations, impacting
+the mental and emotional well-being of individuals. It is associated with
+co- morbidities e.g. diabetes mellitus (DM), cardiovascular diseases
+(CVDs) and depression. Moreover, ED is known to be an early marker
+of systemic vascular dysfunction, emphasising the importance of timely
+diagnosis and intervention.2
+Clinical practices for the diagnosis and treatment of ED can vary
+significantly, reflecting differences in healthcare systems, cultural
+perceptions and access to resources. Recognising and addressing
+these variations is crucial to ensure equitable and effective care for the
+affected individuals.
+Management of Erectile Dysfunction
+In conclusion, this CPG on Management of ED endeavours to provide
+a systematic and culturally sensitive approach to the diagnosis and
+treatment of ED. It is hoped that this CPG can help in optimising
+resource utilisation by providing evidence-based recommendations
+for efficient and safe management of ED. Eventually, this will lead to
+standardised care, improved patient outcomes and reduced the burden
+of ED on affected individuals, their partners and the healthcare system.
+Management of Erectile Dysfunction
+2.
+RISK FACTORS
+There are various risk factors associated with ED e.g. age, lifestyle
+behaviours, cardiovascular, metabolic, neurological, psychological and
+hormonal risks. A person may have more than one risk factor at a time.
+2.1
+Age
+In a local study on moderate to severe ED, all age groups of patients
+above 18 years old and sexually active were substantially affected by
+the condition. The prevalence was 32.7% in those 18 - 30 years old,
+26.3% in 31 - 59 years old and 64.1% in ≥60 years old. Men aged ≥60
+years were strongly associated with moderate-to-severe ED with an OR
+of 3.04 (95% CI 2.27 to 4.10).6, level III
+2.2
+Lifestyle behaviours
+a) Diet
+In a meta-analysis on behaviour factors (including diet) in ED, fruit
+and vegetable consumption revealed mixed results on the risk of
+ED. Meanwhile, increased consumption of flavonoids reduced the
+risk.7, level II-2
+A prospective cohort study on the association between the
+Mediterranean diet and ED reported highest category of Mediterranean
+Diet Score was inversely associated with incidence of ED in those aged
+<60 years (HR=0.78 95% CI 0.66 to 0.92) and 60 - 70 years (HR=0.82,
+95% CI 0.76 to 0.89).8, level II-2
+b) Physical activity
+In males aged ≥20 years, a cross-sectional study showed physical
+activity of at least moderate intensity was associated with lower odds
+of ED compared with no physical activity in a week as demonstrated
+below:9, level III
+• 1 - 2 days/week (OR=0.58, 95% CI 0.44 to 0.76)
+• 3 - 4 days/week (OR=0.57, 95% CI 0.44 to 0.75)
+• 5 - 7 days/week (OR=0.50, 95% CI 0.40 to 0.64)
+The benefits of physical activity was shown in another cross-sectional
+study on diabetic patients where higher activity was inversely associated
+with moderate-to-severe ED and severe ED (OR=0.42, 95% CI 0.21 to
+0.85 and OR=0.38, 95% CI 0.19 to 0.73 respectively).10, level III
+A cross-sectional study showed that higher cardiovascular (CV)
+exercise levels (based on weekly metabolic equivalents time
+[MET]-hours) in physically active men were inversely associated
+with ED based on self-reported data of the respondents (p for
+trend=0.03).11, level III
+Management of Erectile Dysfunction
+However, a meta-analysis of five cross-sectional studies showed that
+cyclists had higher odds of having ED compared with non-cyclists
+(OR=2.00, 95% CI 1.57 to 2.55). Quality assessment showed that the
+primary studies were of fair to poor quality.12, level III
+c) Obesity
+A cross-sectional study in an andrology clinic showed that obese men
+(body mass index [BMI] ≥29 kg/m2) had a higher risk of ED (OR=1.78,
+95% CI 1.10 to 2.90) compared with those non-obese.13, level III
+d) Smoking
+A cross-sectional study among men showed that cigarette smoking
+was an independent risk factor for ED (OR=1.41, 95% CI 1.09 to 1.81).
+A dose-response was also exhibited (p=0.005).14, level III
+e) Alcohol
+In a meta-analysis of 24 cross-sectional studies, alcohol consumption
+was not associated with ED. Further analysis showed that when
+compared with non-drinkers, light to moderate consumption exhibited
+a beneficial effect on the risk of ED (OR=0.71, 95% CI 0.59 to 0.86)
+whereas high consumption did not. Heterogeneity in the analysis
+was significant.15, level III There was no report on quality assessment of
+primary papers.
+f) Recreational drugs
+A systematic review of behaviour factors in relation to ED showed
+that users of recreational drugs (amphetamine, cannabis, opioid
+and ecstasy) had an increased risk of ED compared with non-user.
+According to the Newcastle-Ottawa Scale, the primary papers scored
+moderate to high quality.7, level II-2
+g) Pornography
+A cross-sectional study on the association between problematic
+pornography consumption and ED using an internet-based questionnaire
+showed higher cyber pornography addiction test scores resulted in a
+higher probability of ED by 1.06 (95% CI 1.03 to 1.08).16, level III
+In another cross-sectional study, the analysis demonstrated that men
+who preferred masturbation with pornography vs partnered sex without
+pornography were at a significantly increased risk of having ED.17, level III
+h) Partner’s sexual dysfunction
+A meta-analysis was conducted to assess evidence on female sexual
+dysfunction (FSD) and its impact on male partners. The findings based
+on six cross-sectional studies revealed that the likelihood of ED is almost
+four times higher when the female partner had FSD compared with men
+who have partners without FSD (OR=3.80, 95% CI 1.96 to 7.38). Based
+Management of Erectile Dysfunction
+on McMaster Critical Review Form for Quantitative Studies, the risk of
+bias for the primary studies were scored 82 - 100%.18, level III
+2.3
+Co-morbidities
+a) Diabetes mellitus
+In a large meta-analysis on the prevalence of ED, the overall prevalence
+among diabetic patients was 59.1% (95% CI 55.5 to 62.7) while the
+odds of prevalence in diabetic patients vs healthy controls was 3.62
+(95% CI 2.53 to 5.16).19, level III
+b) Hypertension
+In a meta-analysis of eight high-quality cross-sectional studies,
+hypertension was a risk factor for ED based on the International Index
+of Erectile Function (IIEF) (OR=1.61, 95% CI 1.30 to 2.00). However,
+the heterogeneity of primary studies was high.20, level III
+c) Cardiovascular diseases
+A local cross-sectional study reported a prevalence of various severity
+ED among patients with established ischaemic heart disease (IHD) at
+90.4%. The mean age of patients was 60.5±9.58 years with two-thirds
+of them having moderate to severe ED.21, level III
+In another cross-sectional study, the prevalence of ED among patients
+with post-myocardial infarction (MI) was 62%. Arterial hypertension
+(CVD risk) was significantly associated with ED.22, level III
+d) End-stage renal disease
+In a meta-analysis on the prevalence of ED in patients with end-stage
+renal disease (ESRD), the overall pooled prevalence was 71% (95% CI
+67 to 74). Further subgroup analyses showed that pooled prevalence
+among patients with ESRD pre-dialysis (82%) was the highest compared
+with those who were on haemodialysis (79%), peritoneal dialysis (71%)
+and renal transplant recipients (59%).23, level II-2
+e) Hyperuricaemia
+A meta-analysis demonstrated an association between hyperuricaemia
+and risk of ED based on study design i.e.:24, level II-2
+• five cohort studies (OR=1.45, 95% CI 1.11 to 1.89)
+• six cross-sectional studies (OR=1.76, 95% CI 1.17 to 2.65)
+The same meta-analysis of three cohort studies also reported that
+urate-lowering therapy reduced the risk among hyperuricaemic patients
+(OR=1.27, 95% CI 1.43 to 1.41).
+f) Obstructive sleep apnoea
+A systematic review of observational studies assessed the association
+between obstructive sleep apnoea (OSA) and ED. It reported the
+Management of Erectile Dysfunction
+prevalence of ED among patients with OSA ranged from 40.9% to 80%.
+There were mixed findings on the association between risk of ED and
+OSA severity (using Apnea-Hypopnea Index), oxygen saturation <90%
+during sleep or waketime sleepiness.25, level II-2
+g) Chronic prostatitis/chronic pelvic pain syndrome
+In a meta-analysis, a subgroup analysis based on observational
+studies showed chronic prostatitis/chronic pelvic pain syndrome had
+a higher risk of ED compared with controls (OR=2.68, 95% CI 2.23 to
+3.22).26, level II-2
+h) Depression and anxiety
+In a meta-analysis of three cohort studies, the odds of having ED
+among depressed patients was 2.55 (95% CI 2.12 to 3.06) compared
+with non-depressed patients.27, level II-2
+A systematic review of anxiety disorders found that the median
+prevalence of ED was 20.0% (IQR 5.1 to 41.2) based on IIEF-5,
+International Classification of Diseases, Ninth Revision (ICD-9) and
+Diagnostic and Statistical Manual of Mental Disorders, 4th Edition
+(DSM-IV) criteria and 17.6% (IQR 13.88 to 20.88) based on IIEF-5
+alone.28, level III
+i) Hypogonadism
+In a cross-sectional study assessing the adverse health outcomes of
+testicular cancer survivors post-chemotherapy, those with secondary
+hypogonadism reported a higher risk of ED compared with those
+without the condition (19.6% vs 11.9%, p=0.018).29, level III
+j) Traumatic brain injuries
+A cohort study on the association of traumatic brain injuries (TBIs) and
+ED showed:30, level II-2
+• incidence rate of ED was higher in the TBI group compared with
+the non-TBI group (24.66 per 100,000 vs 19.07 per 100,000) after
+a 10-year follow-up
+• higher risk of ED for the TBI group after adjustment of confounding
+factors (HR=2.569, 95% CI 1.890 to 3.492)
+• higher severity of TBI increased the risk of ED (dose-dependent) -
+ mild (HR=2.305, 95% CI 1.672 to 3.124)
+ moderate (HR=2.551, 95% CI 1.884 to 3.331)
+ severe (HR=5.467, 95% CI 2.452 to 7.706)
+2.4
+Medications
+a) Antihypertensives
+Thiazide diuretics and beta-blockers (β-blockers) are usually associated
+with drug-induced ED.2
+Management of Erectile Dysfunction
+However, a network meta-analysis showed NS difference in
+erectile function (EF) based on pairwise comparisons of all major
+antihypertensive classes (angiotensin-converting enzyme inhibitors,
+angiotensin receptor blockers, β-blockers, calcium channel blocker and
+thiazide diuretics) and also with placebo. Further analysis of different
+β-blockers on EF demonstrated that:31, level I
+• nebivolol had beneficial effect compared with non-vasodilatory
+β-blockers (OR=2.92, 95% CI 1.3 to 6.5)
+• NS difference between carvedilol and non-vasodilatory β-blockers
+b) Statins
+In a meta-analysis that consisted of three randomised controlled trials
+(RCTs) on patients with established CVD or CVD risk factors, there was
+no association found between statins and the incidence of ED.32, level I
+c) Finasteride
+A meta-analysis of nine RCTs on androgenetic alopecia showed an
+increased risk of ED compared with placebo among patients who
+were on finasteride 1 mg/day (OR=1.99, 95% CI 1.10 to 3.60) but no
+association with dutasteride 0.5 mg/day.33, level I
+A more recent meta-analysis showed that based on the safety profile,
+there was an NS difference in the risk of developing ED between
+finasteride and dutasteride.34, level I
+Treatment for benign prostatic hyperplasia (BPH) includes 5-α-reductase
+inhibitors which are among the associated risk factors for druginduced ED.2
+d) Psychotropic agents
+A large retrospective cohort study demonstrated that males with
+serotogenic antidepressants were associated with increased risk for
+ED compared with those without serotogenic antidepressants (OR=3.2,
+95% CI 2.3 to 4.4).35, level II-2
+Antidepressants (e.g. selective serotonin reuptake inhibitors and
+tricyclics) and antipsychotics are among the risk factors for druginduced ED.2
+Management of Erectile Dysfunction
+3.
+DIAGNOSIS AND ASSESSMENT
+Assessment and diagnosis of ED should always begin with a detailed
+medical, sexual and psychological history of the patients and, when
+available, their partners. The history should include information about
+past and current sexual relationships, previous consultations and
+treatments.
+3.1
+Medical History, Physical Examination and Laboratory
+Testing
+a) History
+A detailed history aided by validated questionnaires, e.g. the 15-item
+version of IIEF (IIEF-15), or its short version IIEF-5,36, level III help to
+assess the different sexual function domains (i.e. sexual desire, EF,
+orgasmic function, intercourse satisfaction and overall satisfaction),
+as well as the potential impact of a specific treatment modality. In a
+systematic review on the IIEF-15 and IIEF-5 measurement properties,
+both had comparable sensitivity and specificity at different cut-off points
+in evaluating ED.37, level III
+Assessment of penile rigidity in practice and research can be supported
+by the use of the Erectile Hardness Score (EHS). A validation study of
+EHS showed that it had a fairly good correlation with IIEF in all domains
+(ranging between 0.63 to 0.86) except the sexual desire domain.38, level III
+The assessment of IIEF-5 and EHS helps to determine severity of ED,
+hence guiding the physician in choosing the appropriate management.
+Patients should always be screened for symptoms of possible
+hypogonadism, including decreased energy and libido. Potential risk
+factors for ED e.g. DM (refer to Chapter 2) should be screened for and
+identified.
+Refer to Appendix 3 for Relevant History-taking in Patients with
+Symptoms of ED, Appendix 4 for 5-item Version of International
+Index of Erectile Function (IIEF-5) and Appendix 5 for Erection
+Hardness Score.
+b) Physical examination
+Patients should undergo physical examination focusing on the
+genitourinary (including prostate), endocrine, vascular and neurological
+systems. Blood pressure, heart rate and BMI or waist circumference
+should be measured during clinical examination as part of cardiovascular
+risk assessment.
+Management of Erectile Dysfunction
+A physical examination may reveal penile abnormalities, e.g. Peyronie’s
+disease, pre-malignant or malignant genital lesions, prostatic
+enlargement and signs suggestive of hypogonadism (e.g. small testes
+or alterations in secondary sexual characteristics).2
+c) Laboratory testing
+Laboratory testing must be tailored to the patient’s symptoms and risk
+factors. The tests are performed to identify and treat any modifiable risk
+factors. Fasting blood glucose or haemoglobin A1C (HbA1c) and lipid
+profile should be performed as part of the CV risk assessment.2
+Additional laboratory tests may be considered on a case-to-case basis
+e.g. hormonal tests which include early morning total testosterone, total
+prostate-specific antigen (PSA), prolactin and luteinizing hormone.2
+d) Advanced work-up
+Most patients with ED can be managed based on their medical and
+sexual history; conversely, some patients may need specific diagnostic
+tests as discussed below.
+i.
+Nocturnal penile tumescence and rigidity test
+The nocturnal penile tumescence and rigidity (NPTR) device has to be
+worn by the patient overnight for at least two separate nights and gives
+the following information:
+• number of erectile episodes
+• tumescence (circumference change by strain gauges)
+• maximal penile rigidity
+• duration of nocturnal erections
+An erectile event lasting ≥10 minutes and with at least 60% stiffness
+observed on the tip of the penis is indicative of a functional erectile
+mechanism. NPTR monitoring can help to differentiate between organic
+and psychogenic ED objectively; patients with psychogenic ED usually
+have normal findings. However, its routine use in the diagnosis of ED
+may be limited due to potential confounding factors (e.g. dreams) which
+may affect nocturnal erection.2
+ii. Intracavernous injection test
+The intracavernous injection test is performed with or without dynamic
+duplex Doppler ultrasound. The ultrasonography can help confirm
+potential vasculogenic aetiology of ED. Peak systolic blood flow >30
+cm/s, end-diastolic velocity <3 cm/s and resistance index >0.8 are
+considered normal.2
+Management of Erectile Dysfunction
+iii. Arteriography
+Patients who are being considered for penile revascularisation should
+have penile pudendal arteriography. For patients with ED and isolated
+penile artery stenosis, computed tomography angiography is advocated
+prior to penile artery angioplasty.2
+The specific diagnostic tests for ED listed above are indicated for the
+following conditions:2
+• primary ED (not caused by acquired organic disease or
+psychogenic disorder)
+• young patients with a history of pelvic or perineal trauma suspected
+to have vasculogenic ED
+• patients with penile deformities that might require surgical
+correction (e.g. Peyronie’s disease and congenital penile
+curvature)
+• patients with complex endocrine disorders
+• patients with complex psychiatric or psychosexual disorders
+• medico-legal reasons [e.g. implantation of penile prosthesis (PP)
+to document end-stage ED and sexual abuse]
+3.2
+Cardiovascular Risk Assessment
+• ED could be the initial manifestation of a spectrum of clinical
+conditions that eventually lead to coronary artery disease (CAD) and
+peripheral vascular disease.
+• The prevalence of ED is >70% among men with CVD.39, level III
+A cohort study on patients with ED showed:40, level II-2
+• severe ED predicted major adverse cardiac event (MACE) with
+HR of 1.75 (95% CI 1.10 to 2.78)
+• lower penile blood flow before and after prostaglandin-E1
+stimulation was associated with an increased risk of MACE -
+ in flaccid conditions (peak systolic velocity [PSV] <13 cm/s),
+the HR was 2.67 (95% CI 1.42 to 5.04)
+ in dynamic conditions (PSV <25 cm/s), the HR was 1.57 (95%
+CI 1.01 to 2.47)
+A meta-analysis of cohort studies suggested that ED was associated
+with risk of:41, level II-2
+• coronary heart disease (RR=1.46, 95% CI 1.31 to 1.63)
+• stroke (RR=1.35, 95% CI 1.19 to 1.54)
+• all-cause mortality (RR=1.19, 95% CI 1.05 to 1.34)
+The above analysis showed NS heterogeneity. However, there was no
+report on the quality assessment of primary studies.
+Management of Erectile Dysfunction
+A cross-sectional study on three different CV risk engines among
+patients referred for sexual dysfunction showed that the AUC was 0.762,
+0.716 and 0.667 for Progetto Cuore, Framingham and Prospective
+Cardiovascular Münster (PROCAM) engines respectively.42, level III
+Patients with predominantly vasculogenic ED are suggested to be
+assessed using 2019 American College of Cardiology/American
+Heart Association atherosclerotic CVD (ASCVD) risk score based on
+recommendation by Princeton IV consensus guidelines. It provides
+estimation of patients with major CV events within the next 10 years and
+can be accessed online via https://tools.acc.org/ascvd-risk-estimatorplus/#!/calculate/estimate/. Depending on ASCVD score, patients may
+require for further cardiologist assessment.43
+European Association of Urology (EAU) Guidelines 2023 categorise the
+cardiac risk stratification among patients with ED based on the 2nd
+and 3rd Princeton Consensus. The characteristics and management for
+each risk are as follows (Table 1).2; 44
+Table 1: Cardiac risk stratification for patients with ED based on
+2nd and 3rd Princeton Consensus
+Characteristics
+Asymptomatic, <3
+risk factors* for CAD
+(excluding sex)
+≥3 risk factors* for CAD
+(excluding sex)
+High-risk arrhythmias
+Mild, stable angina
+(evaluated and/or being
+treated)
+Moderate, stable
+angina
+Unstable or refractory
+angina
+Uncomplicated previous
+MI
+Recent MI (>2, <6
+weeks)
+Recent MI (<2 weeks)
+LVD/CHF (NYHA class
+I or II)
+LVD/CHF (NYHA class
+III)
+LVD/CHF (NYHA class
+IV)
+Post-successful
+coronary
+revascularisation
+Controlled hypertension
+Mild vascular disease
+Non-cardiac sequelae
+of atherosclerotic
+disease (e.g. stroke,
+peripheral vascular
+disease)
+Hypertrophic
+obstructive and other
+cardiomyopathies
+Uncontrolled
+hypertension
+Moderate-to-severe
+valvular disease
+Car-
+Low-risk
+Intermediate-
+High-risk
+diac
+category
+risk category
+category
+risk
+Management of Erectile Dysfunction
+CAD = coronary artery disease; CHF = congestive heart failure; ED = erectile
+dysfunction; LVD = left ventricular dysfunction; MI = myocardial infarction; NYHA =
+New York Heart Association
+*Risk factors for CAD include high blood pressure, high low-density lipoprotein (LDL)
+cholesterol, DM, smoking and/or second-hand smoke exposure, obesity, unhealthy
+diet and physical inactivity.45, level III
+3.3
+Psychological and Sexual Assessment
+Psychosocial and sexual history is important for thorough and
+comprehensive assessment. These can be assessed through clinical
+interviews and objective measurements on specific areas of history
+which include:2; 46
+• current psychological state and co-morbid psychiatry conditions
+(e.g. anxiety, depression)
+• relationship history - issues, dynamics, durations and partner
+history
+• partner’s sexual functioning (e.g. FSD)
+• life stressors and coping abilities
+• cognitive factors -
+ dysfunctional thinking style
+ expectations on sexuality and sexual performance, and
+treatment preferences
+• sexual related factors -
+ education
+ trauma
+ experience (e.g. masturbation, pornography usage)
+ cultural and religious aspects
+ gender dysphoria and sexual orientation
+• co-morbid sexual dysfunction (e.g. premature ejaculation)
+Management
+Manage within a
+primary care setting
+Review treatment
+options with the patient
+and their partner (where
+possible)
+Specialised evaluation
+recommended (e.g.
+exercise stress
+test for angina,
+echocardiogram for a
+murmur)
+Patient to be placed
+in high or low-risk
+category depending
+upon the outcome of
+testing
+Refer for specialised
+cardiac evaluation and
+management
+Treatment for ED to be
+deferred until cardiac
+condition stabilised
+and/or specialist
+evaluation completed
+Car-
+Low-risk
+Intermediate-
+High-risk
+diac
+category
+risk category
+category
+risk
+Management of Erectile Dysfunction
+Recommendation 1
+• A comprehensive medical, psychosocial and sexual history should
+be taken in every patient presenting with erectile dysfunction (ED).
+• A validated questionnaire related to ED should be used to assess all
+sexual function domains (e.g. International Index of Erectile
+Function).
+• A focused physical examination in the initial assessment of men with
+ED should be done to identify underlying medical conditions and comorbid genital disorders that may be associated with ED.
+• Routine laboratory tests should be performed to identify modifiable
+risk factors of ED.
+• Specific diagnostic tests may be performed when it is indicated*.
+• Patients with ED should have cardiac risk assessment and vice
+versa.
+*Refer to preceding text in Subchapter 3.1 (d).
+Management of Erectile Dysfunction
+4.
+TREATMENT
+ED can be treated with multiple therapeutic options. These include
+lifestyle modifications, pharmacological agents, mechanical devices,
+surgeries and psychological interventions. It should be a dynamic
+process resulting in a patient-centred treatment strategy that depends
+on the effectiveness, safety and cost of the treatment. In this context,
+shared decision-making (preferably with a partner) is essential
+throughout the management of ED.
+4.1
+Lifestyle Intervention
+ED is strongly associated with lifestyle risk factors. Addressing these
+factors is important in the treatment of ED.
+A systematic review of patients with ED ± treatment of ED showed
+that modifications of CV risk factors which included physical activity,
+Mediterranean diet and weight loss improved IIEF-5 score compared
+with those not receiving the interventions (MD=2.40, 95% CI 1.19 to
+3.61). Overall, the studies had moderate to good methodological
+quality.47, level I
+Another systematic review of 10 clinical trials demonstrated that
+aerobic exercise of moderate-vigorous intensity (≥3 times/week for ≥30
+minutes/ session) improved IIEF or IIEF-5 for men with arterial ED due
+to physical inactivity, obesity, hypertension, metabolic syndrome and/or
+CVD compared with controls. In general, the risk of bias for each study
+was estimated to be moderate.48, level I
+Weight loss regimen which included low-energy diet and physical
+exercises among overweight or obese man improved EF (MD of
+IIEF score=1.99, 95% 0.85 to 3.13) based on a meta-analysis of five
+moderate-to-high quality RCTs.49, level I In relation to weight loss, a prepost study on ED patients with obesity (BMI ≥40 kg/m2 or ≥35 kg/m2
+with other co-morbidities), bariatric surgery significantly improved their
+EF based on IIEF scores.50, level II-3
+The male pelvic floor muscles have three major functions i.e. to support
+the abdominal content, coordinate contraction with sphincters for faeces
+and urine elimination, and to facilitate the erection and ejaculatory
+processes. A systematic review among patients with ED on pelvic floor
+muscle training under therapist supervision in 5 - 20 sessions for 3 -
+4 months showed 35 - 47% of cure in ED from baseline. The mean
+methodological quality of the trials was 70% based on Crowe Critical
+Appraisal Tool score.51, level II-3
+Management of Erectile Dysfunction
+Another pre-post study on smoking cessation showed that quit smoking
+significantly improved ED irrespective of pack-years of smoking and
+severity of ED.52, level II-3
+In a recent pre-post study on patients with alcohol use disorder and
+ED, IIEF-5 scores improved after three months of abstinence from
+alcohol (p<0.001). Multivariate analysis showed that age, alcoholic liver
+disease and number of standard drinks per day were associated with
+the improvement of ED.53, level II-2
+A cross-sectional study found significantly higher perceived stress in
+patients with ED than healthy controls.54, level III In managing stress,
+counselling is helpful as an initial step to provide support and guidance
+regarding ED.
+Psychotherapy, on the other hand, goes one step further and is directed
+towards gaining insights into chronic and recurrent emotional and
+cognitive patterns, and their contribution to ED (refer to Subchapter
+4.5).55, level III
+EAU Guidelines 2023 recommends to modify risk factors and commence
+lifestyle changes prior to or concurrently with ED treatments.2
+Recommendation 2
+• All patients with erectile dysfunction should be advised on lifestyle
+and risk factor modifications.
+4.2
+Pharmacological Treatment
+The main pharmacological agents for ED are phosphodiesterase-5
+inhibitors (PDE5is). These agents cause corporeal smooth muscle
+relaxation, increased arterial blood flow and compression of sub-tunical
+venous plexus leading to erection. Therefore, they are contraindicated
+in patients taking nitric oxide (NO) donors, organic nitrates or organic
+nitrites (e.g. glyceryl trinitrate). As they are not initiators of erection,
+PDE5is require environmental and psychological cues for sufficient
+sexual arousal and stimulation to facilitate an erection. The U. S. Food
+and Drug Administration (FDA)-approved PDE5is will be discussed
+below. Refer to Appendix 6 for Pharmacological Treatment in ED.
+a) Phosphodiesterase-5 inhibitor
+i.
+Sildenafil
+Sildenafil was the first available PDE5i in the market. The recommended
+initial dose is 50 mg and may be adjusted according to its responses
+and adverse events (AEs). The onset is 30 - 60 minutes and the effect
+persists up to 12 hours after administration.2
+Management of Erectile Dysfunction
+In a pre-post study on ED patients with DM and/or hypertension
+treated with flexible-dose sildenafil of 25 - 100 mg on-demand/
+once daily, the medication significantly improved mean IIEF-5
+score from 13.6±5.7 at baseline to 21.7±4.1 at week 12. Sildenafil
+was generally safe and well-tolerated. The most common reported
+AEs were headache (5.5%), flushing (1.9%) and nasal congestion
+(1.3%).56, level II-3
+A meta-analysis of RCTs on the effectiveness and tolerability of sildenafil
+compared with placebo in patients with DM-associated ED showed that
+sildenafil:57, level I
+• improved IIEF-5 Question 3 score (WMD=1.14, 95% CI 0.73 to
+1.50) and IIEF-5 Question 4 (WMD=1.13, 95% CI 0.85 to 1.42)
+• increased overall sexual performance satisfaction based on global
+efficacy question (RR=3.99, 95% CI 2.58 to 6.18)
+• led to more successful intercourse (RR=3.34, 95% CI 2.10 to 5.31)
+with higher number of patients reporting at least one successful
+attempt of intercourse in the last four weeks of treatment (RR=2.86,
+95% CI 2.25 to 3.65)
+The most common AEs reported were headache, dyspepsia and
+flushing. Overall, the risk of bias of the primary studies was moderate
+to high.
+A large network meta-analysis on the effectiveness and safety of PDE5i
+in ED showed that sildenafil at low doses (25 or 50 mg) followed by
+tadalafil (10 or 20 mg) were the first therapeutic options for ED.58, level I
+ii. Tadalafil
+In a meta-analysis of 13 RCTs on lower urinary tract symptoms (LUTS)/
+BPH/ED, tadalafil 5 mg once daily was more effective than placebo in
+terms of:59, level I
+• IIEF score (SMD=5.18, 95% CI 4.13 to 6.23)
+• Sexual Encounter Profile (SEP)2 score (OR=5.46, 95% CI 3.53 to
+8.46)
+• SEP3 score (OR= 4.14, 95% CI 3.11 to 5.50)
+Tadalafil was well tolerated although the AEs were not specified. The
+primary papers were of low risk of bias.
+Two meta-analyses compared the effectiveness and safety of tadalafil
+5 - 10 mg once-a-day and tadalafil 10 - 20 mg on-demand dosing
+regimen in ED patients. In the first meta-analysis, the once-a-day
+regimen improved IIEF-EF scores compared with on-demand at 12
+weeks (WMD=1.82, 95% CI 0.85 to 2.80). A secondary sub-analysis on
+four RCTs showed that tadalafil 5 mg once-a-day was more effective in
+IIEF-EF than 20 mg on-demand at 12 weeks (WMD=1.51, 95% CI 0.49
+to 2.53).60, level I However, the analysis showed NS differences in IIEFEF scores between the two regimens regardless of different end-point
+Management of Erectile Dysfunction
+of study duration.60 - 61, level I There was NS difference in AEs between
+both groups.61, level I The quality of RCTs in both meta-analyses was
+variable.
+A large meta-analysis of RCTs compared the effectiveness and
+safety of tadalafil vs sildenafil in the treatment of ED. The findings
+showed:62, level I
+• NS differences in means of IIEF (IIEF-EF, IIEF-intercourse
+satisfaction, IIEF-overall satisfaction and IIEF-sexual desire)
+• tadalafil had significantly better Self-Esteem and Relationship
+(SEAR) Confidence, SEAR Sexual Relationship and Erectile
+Dysfunction Inventory of Treatment Satisfaction (EDITS) total
+scores
+Although there was NS difference in overall AEs between the two
+agents, tadalafil had significantly higher risk of myalgia and back pain,
+and lower risk of flushing. Most of the studies scored two on the Jadad
+score (low quality).
+iii. Avanafil
+Avanafil (100 mg and 200 mg) was compared with placebo in the metaanalysis of eight RCTs among patients with ED. It was more effective
+in terms of:63, level I
+• higher IIEF-EF score (MD=4.57, 95% CI 3.68 to 5.46)
+• successful vaginal penetration (RR=3.20, 95% CI 2.60 to 3.95)
+• successful intercourse (RR=2.53, 95% CI 2.19 to 2.92)
+In a sub-group analysis, the 200 mg dose was significantly better than
+100 mg in IIEF score and successful intercourse. For AEs, avanafil had
+a higher risk compared with placebo (RR=1.78, 95% CI 1.38 to 2.31).
+However, there was NS difference in AEs between the two doses of
+avanafil. The methodological quality of primary studies was generally
+high.
+In a 12-weeks, multi-centre, double-blind, placebo-controlled RCT of
+men with DM and ED, avanafil (100 and 200 mg) was more effective
+than placebo in improving IIEF score and successful intercourse which
+could be initiated in ≤15 minutes through >6 hours. The most commonly
+reported AEs with avanafil were headache, nasopharyngitis, flushing
+and sinus congestion.64, level I
+iv. Vardenafil
+The effectiveness of vardenafil vs placebo in ED was studied in a
+meta-analysis of RCTs. The former was significantly more effective in
+IIEF-overall satisfaction, SEP2 and SEP3 scores. No safety profile was
+reported. The mean Jadad score was 3.54, indicating that all included
+studies were of high quality.65, level I However, vardenafil is not registered
+yet in Malaysia.
+Management of Erectile Dysfunction
+• Patients with ED should stop PDE5i and seek immediate medical
+care when there is a sudden loss of vision in one or both eyes which
+could be a sign of non-arteritic anterior ischaemic optic neuropathy
+(NAION).66, level III
+• However, patients with a history of NAION may be prescribed PDE5i
+with caution.
+Recommendation 3
+• Phosphodiesterase-5-inhibitor should be offered to all patients with
+erectile dysfunction unless contraindicated.
+ The choice of agent is individualised.
+b) Combination therapy vs monotherapy
+A meta-analysis showed that the combination of PDE5i with various
+agents (mainly alpha-blocker, testosterone and antioxidants) was more
+effective than PDE5i monotherapy in the subgroup of patients that have
+ED (WMD in IIEF score=1.76, 95% CI 1.27 to 2.24). However, there
+was NS difference in treatment-related AEs. GRADE gave a moderate
+quality assessment of the outcomes. The heterogeneity of the primary
+papers was significant.67, level I
+On the treatment of ED, EAU Guidelines 2023 recommends PDE5is
+as a first-line therapeutic option for the specific condition. The choice
+of drug depends on the frequency of intercourse and the patient’s
+personal experience.2
+c) Other medications
+•
+Intracavernosal injection
+Intracavernosal injections (ICIs) were the first medical treatment for
+ED. The only FDA-approved preparation is alprostadil. There are
+many combination preparations that include either one or more of the
+following combinations of phentolamine, papaverine or atropine but
+none have obtained FDA approval, making standardisation of dosing
+difficult. Apart from that, patients and their partners need to learn the
+injection technique under supervision by trained medical personnel.
+In a cohort study of Korean ED patients who received ICI at least twice,
+adequate penile rigidity was restored in 60.2% of patients. AEs occurred
+in 25.5% of patients which were due to:68, level II-2
+• pain during self-injection (45.9%), longer erections than expected
+(23.0%), penile curvature (14.9%), palpable plaque (10.8%) and
+subcutaneous haematoma (5.4%) in the withdrawal group
+• prolonged erection (44.4%) as the most common AE in the
+continuing group
+Management of Erectile Dysfunction
+There was no incidence of injection site infection. Overall satisfaction
+was 40.1%.
+In patients on anticoagulation, caution should be exercised when ICI
+is used. A cross-sectional study found that the rate of bleeding events
+was higher on patients with anticoagulation compared with those not
+on the medication although it was NS.69, level III However, the study may
+be underpowered.
+Novel intracavernosal therapies including stem cell and platelet-rich
+plasma have shown promising results but require more robust studies
+before they can be recommended.2
+•
+Intraurethral alprostadil
+For patients who are concerned with the AEs of PDE5is or refuse
+ICIs, intraurethral alprostadil is an alternative. There are two methods
+of administration. The first method is the Medicated Urethral System
+for Erection (MUSE) where a pellet of alprostadil is inserted into the
+urethra. A recent method uses topical cream that can be applied into
+the urethra meatus or onto the glans penis.
+In a systematic review, five RCTs showed significant improvement in
+erection which was sufficient for intercourse in MUSE compared with
+placebo. However, MUSE was shown to be inferior to ICIs. In one
+of the RCTs on patients post-bilateral nerve sparing prostatectomy,
+MUSE was comparable to sildenafil in effectiveness but had lower
+compliance.70, level I There was no mention on quality assessment of the
+primary papers.
+In a multi-centre pre-post study on ED, 74% of patients demonstrated
+overall improvement in EF with topical alprostadil. About 12% of patients
+discontinued the treatment due to hypo-/hyper-responsiveness while
+<5% did so because of AEs.71, level II-3
+The most common AEs with topical alprostadil are local pain (29 - 41%)
+and dizziness with possible hypotension (1.9 - 14%). Penile fibrosis
+and priapism are rare (<1%). Urethral bleeding (5%) and urinary tract
+infections (0.2%) may occur if it is administered into the urethra.2
+• ICI and intraurethral alprostadil are options in the treatment of ED.
+However, both are not available locally yet.
+Management of Erectile Dysfunction
+4.3
+Mechanical Treatment
+In the landscape of evolving treatment options for ED, mechanical
+devices have been used with success and safe to maintain an erection
+as discussed below. The common mechanical devices available are
+vacuum erection devices (VEDs) and low-intensity extracorporeal
+shockwave therapy (Li-ESWT). Refer to Appendix 6 for Mechanical
+Treatment in ED.
+a) Vacuum erection device
+A pre-post study to investigate satisfaction with VED for middleaged and older male veterans with ED and their female partners
+showed:72, level II-3
+• majority of patients achieved favourable outcomes i.e. -
+ 96.0% reported the ability to maintain an erection and 90.7%
+were able to engage with intercourse; however, the older age
+group (>65 years) was associated with significant difficulty in
+obtaining erections and engaging in sexual intercourse
+ 92.0% had improved intercourse
+ 93.9% mentioned that their sexual relationship with partner
+was satisfactory or very satisfactory
+• 83.8% of female partners rated sex as better
+• 23% of patients reported physical discomfort (e.g. difficulties
+placing the bands on the cylinder, sliding them on the penis,
+removing them after sex or pain)
+• 9.1% reported having psychological discomfort (e.g. frustration
+and lack of spontaneity)
+In an RCT of men with type 2 DM and ED treated with either combination
+of sildenafil 100 mg and VED, and sildenafil 100 mg alone, the former
+showed:73, level I
+• significantly higher IIEF scores at one month (14.86±2.17 vs
+12.41±2.63) and three months (17.53±2.95 vs 14.29±2.81)
+• significantly higher rates of successful penetration (73.3% vs
+46.6%) and successful intercourse (70.0% vs 46.6%) at three
+months
+The AEs (e.g. penile bruising and numbness for VED) were mostly mild
+and did not affect the patients’ daily life.
+Refer to Appendix 7 for Application of Vacuum Erectile Device
+(VED).
+b) Shockwave therapy
+An RCT showed that Li-ESWT improved the EF of young patients with
+vasculogenic mild ED compared with placebo. The findings showed that
+Li-ESWT increased the mean IIEF-EF scores at three months follow-up
+(p=0.003) apart from successful penetration (SEP2) and intercourse
+Management of Erectile Dysfunction
+(SEP3) in >50% of attempts (p=0.001).74, level I There were limitations in
+the methodological quality of this RCT.
+Two pre-post studies on moderate ED showed that Li-ESWT significantly
+improved EF post-treatment.75 - 76, level II-3 It was also found to be safe
+as patients reported no irritative urinary symptoms and intracutaneous
+activity after undergoing the treatment.75, level II-3
+A local technology review on the effectiveness and safety of Li-ESWT
+among patients with ED showed that the intervention:77, level I
+• was mostly benefited in younger men with mild to moderate ED
+and those with fewer co-morbidities
+• was effective from three to six months
+• enhanced the medication responses in PDE5i non-responders
+• when used with adjuvant daily therapy, increased its effectiveness
+and duration of effect
+• was also safe and well tolerated with modest improvement
+The treatment was recommended to be performed only by the urologists.
+This is because they are involved in the entire holistic management
+of the patients and understand the mechanisms of action to tailor the
+treatment plan.
+Refer to Appendix 8 for Low-intensity Extracorporeal Shockwave
+Therapy.
+Recommendation 4
+• Mechanical devices (e.g. using vacuum erection device or shockwave
+therapy) may be offered in erectile dysfunction (ED).
+• Low-intensity
+extracorporeal
+shockwave
+therapy
+should
+be
+performed by urologists for mild to moderate ED.
+4.4
+Surgical Intervention
+Surgical interventions in ED include penile revascularisation surgery
+and PP.
+a) Penile revascularisation surgery
+Vascular ED can be subcategorised as arterial insufficiency (AI),
+veno-occlusive disease (VOD) or mixed, with VOD being the most
+common finding. Generally, the affected patients tend to develop ED
+at a younger age and may have a history of preceding trauma. Penile
+revascularisation is usually done in a very specialised centre outside
+of Malaysia.
+Management of Erectile Dysfunction
+•
+Arterial insufficiency
+AI occurs when there is inadequate arterial blood to the penis at the time
+of erection and may result if the artery cannot dilate appropriately after
+neurochemical signalling or if the upstream vascular flow is restricted.
+Consensus guidelines by the International Consultation on Sexual
+Medicine (ICSM) recommend that men with ED who satisfy the criteria
+of the index patient (<55 years with recently acquired ED from focal
+arterial occlusive disease in the absence of other risk factors e.g.
+smoking, DM) can be considered for penile revascularisation procedures
+(microsurgery or endovascular intervention). However, current data do
+not support one procedure over another in terms of effectiveness.78
+Short- and long-term complications of microsurgery include wound
+infection (2.8%), urinary tract infection (2.6%), inguinal hernias (2.8%),
+sepsis (3.5%), wound haematoma (7.8 - 25%), loss of penile length
+(28%), decreased penile sensitivity (24.7%) and glans hyperaemia
+(4 - 21%).78
+Potential complications of endovascular treatment (balloon angioplasty
+with or without stent insertion) include vascular injury, puncture site
+aneurysm, infection, contrast-induced nephropathy. ICSM consensus
+guidelines reports NS AEs.78
+•
+Veno-occlusive disease
+VOD occurs when an erection cannot be achieved or maintained despite
+an adequate arterial supply. It is most likely results from endothelial and
+smooth muscle dysfunction leading to inadequate sinusoidal expansion
+and insufficient closure of emissary veins.
+Both consensus guidelines of ICSM and EAU Guidelines 2023 do not
+recommend venous surgery or embolisation for VOD.2; 78
+• Vascular ED should be suspected in patients with ED at a younger
+age with the absence of other risk factors.
+b) Penile prosthesis
+In Malaysia, PP is usually used when other treatment modalities have
+failed. There are several types including malleable, 2-piece inflatable
+and 3-piece inflatable systems.
+In a pre-post study of ED patients with failure of medical treatment who
+received inflatable PP, overall patients’ and partners’ satisfaction was
+85% and 76% respectively.79, level II-3
+Management of Erectile Dysfunction
+A meta-analysis with low-to-moderate risk of bias of primary studies on
+men with ED of any aetiology showed that 52.9% inflatable PP device
+survived at 20 years.80, level II-3
+Main AEs include mechanical failure (<5% in five years) and infection
+(2 - 3% in low-risk patients). High-risk patients include patients
+undergoing revision surgery, those with impaired host defences (e.g.
+immunosuppression, DM or spinal cord injury [SCI]) or those with penile
+corporal fibrosis. Other AEs include implant erosion (1 - 6%) as well as
+glans ischaemia and necrosis.2
+Refer to Appendix 9 for Examples of Penile Prosthesis.
+Recommendation 5
+• Penile prothesis may be offered to patients with erectile dysfunction
+who have failed other interventions.
+4.5
+Psychological Intervention
+Psychosocial intervention plays a vital role in ED treatment because
+both psychological and social factors predispose and perpetuate
+erectile problems. It is recommended to involve the partner in this
+management of ED as it may help to identify sexual difficulties among the
+partners.18, level III; 55, level III The main components of psychosocial
+treatment of ED include psychoeducation, cognitive and behavioural
+techniques, aimed at reducing anxiety, challenging dysfunctional
+beliefs, increasing sexual stimulation, disrupting sexual avoidance and,
+increasing intimacy and communication skills in a relational context.
+Sex therapy is a specific type of psychotherapy, focusing specifically on
+sexual experiences.55, level III
+In a Cochrane systematic review on the effectiveness of psychosocial
+interventions for the treatment of ED, the findings were:81, level I
+• focused sex-group therapy was more effective in reducing the
+persistence of ED than control (no treatment) (RR=0.13, 95% CI
+0.04 to 0.43)
+• group therapy with sildenafil showed increased reduction of
+persistent ED compared with sildenafil alone (RR=0.46, 95% CI
+0.24 to 0.88)
+• NS difference in effectiveness between psychosocial interventions
+vs local injection and vacuum devices
+However, there were limitations in the methodological quality of the
+primary studies.
+The above findings were supported by a later meta-analysis.82, level I
+Management of Erectile Dysfunction
+Another meta-analysis of RCTs looked into the effectiveness of the
+following comparisons in the treatment of ED:83, level I
+• a specific psychological intervention vs wait-list
+• two specific psychological interventions against each other
+• a combination of psychological treatment and medication vs
+medication only
+The psychological interventions included sex therapy, marital therapy,
+educational intervention and other psychotherapies. The findings
+revealed moderate improvement in the symptom severity and sexual
+satisfaction of ED participants, however it was not significant.83, level I
+The primary studies were of low-to-moderate quality.
+A meta-analysis assessed the effectiveness of psychological
+interventions alone, PDE5i alone and their combination in the
+treatment of ED. The psychological intervention comprised of
+counselling, sex therapy, cognitive-behavioural sex therapy (CBST)
+and psychoeducation, delivered on an individual basis, with couples,
+in group settings or via the internet. The analysis was reported as
+below.84, level I
+• Combined treatment had a superior effect on ED symptoms than
+PDE5i or psychological intervention alone (Cohen’s d=0.45, 95%
+CI 0.02 to 0.89).
+• There were NS differences between psychological intervention
+alone and PDE5is alone with respect to impact on ED symptoms.
+• The effectiveness of the combined treatment remained consistent,
+regardless of the level of intensity in the psychological intervention.
+However, the quality of the primary studies was low.
+An umbrella review of meta-analyses on ED also supported the finding
+that combined treatment of PDE5i and psychological intervention was
+more effective than PDE5i alone (RR=2.26, 95% CI 1.04 to 4.92). Other
+findings were:85, level I
+• group psychotherapy was superior to wait-list (RR=2.50, 95% CI
+1.09 to 5.72)
+• non-pharmacological treatments rarely reported any AEs
+Based on GRADE, the quality of primary studies was very low.
+In a recent systematic review of RCTs comparing the effectiveness
+of PDE5i alone, psychological intervention alone or a combination of
+both interventions in psychogenic ED, the combined interventions were
+more effective than the monotherapies in EF which was mainly based
+on IIEF scores. Examples of the psychological interventions assessed
+in the review were individual cognitive behaviour therapy (CBT)/CBST,
+group therapy and counselling and, couple CBST.86, level I
+Qualitative findings in a mixed method study among patients with
+situational ED who received mindfulness-based group treatment
+Management of Erectile Dysfunction
+consisting of daily home-practice activities and, integrated elements
+of psychoeducation, sex therapy and mindfulness skills showed that
+patients:87, level II-3
+• perceived the group treatment as safe and supportive, and
+validated their own experience which led to a reduction of
+stigmatisation for male sexual dysfunction
+• were able to identify and reduce their performance anxiety
+• reported improvements in self-efficacy and acceptance regarding
+their conditions
+• had better insights into the significance of communicating and
+gaining support from their partners
+A meta-analysis which included four RCTs on ED and one on both
+ED and premature ejaculation compared internet- and mobile-based
+psychological interventions (IMIs) with control. IMIs were more
+effective but with small effect sizes (Hedge’s g=0.18) in improving
+sexual functioning in men. All IMIs were based on the principle of
+CBT together with elements of sexual therapy including treatment
+components e.g. psychosexual education, cognitive restructuring,
+sensate focus, communication, etc. Based on Risk of Bias 2 (RoB 2)
+tool by the Cochrane Collaboration, all five RCTs have some concerns
+risk of bias.88, level I
+Recommendation 6
+• An integrated and collaborative approach with psychological
+interventions should be considered in the treatment of erectile
+dysfunction.
+Management of Erectile Dysfunction
+5.
+TRADITIONAL AND COMPLEMENTARY MEDICINE
+Traditional and complementary medicine (TCM) has been used for the
+prevention and treatment of ED for many years. The mechanisms of
+action remain unclear and warrant further clinical investigations.
+A meta-analysis on nine RCTs comparing combination therapy of PDE5i
+and antioxidants (e.g. propionyl-L-carnitine or L-arginine) with PDE5i
+monotherapy in patients mainly with ED showed that the combination
+therapy was more effective based on IIEF score (WMD=1.99, 95% CI
+1.34 to 2.63) without increasing AEs. The nine RCTs were mainly of
+low-risk of bias category.67, level I
+A systematic review assessed various TCMs in the management of ED.
+A meta-analysis of seven RCTs demonstrated the effectiveness of red
+ginseng in the treatment of ED compared with placebo in:89, level I
+• response rate (based on IIEF score) with RR of 2.40 (95% CI 1.65
+to 3.51)
+• psychogenic ED (based on global efficacy question) with RR of
+2.05 (95% CI 1.33 to 3.16)
+• sexual function (based on IIEF and Watts sexual function score)
+with SMD of 0.79 (95% CI 0.46 to 1.12)
+However, the methodological quality of the included RCTs was
+averagely low.
+Apart from the above, the other findings of the review were:89, level I
+• yohimbine was a reasonable therapeutic option compared with
+placebo and, had infrequent and reversible AEs
+• acupuncture was inconclusive in ED treatment due to scarce
+evidence
+• There is insufficient evidence to recommend the use of TCM
+including Tongkat Ali in the treatment of ED.
+Management of Erectile Dysfunction
+6.
+FOLLOW-UP
+The follow-up for a patient with ED depends on the individual case and
+the initial treatment plan. Generally:2; 90, level III
+• short-term follow-up -
+For patients initiating treatment with oral medications, a short-term
+follow-up within a few weeks to a couple of months may be appropriate
+to assess response and tolerance to the medication.
+• long-term follow-up -
+Once a treatment plan has been established, long-term follow-up may
+be scheduled at regular intervals. This allows for ongoing assessment
+of treatment effectiveness, potential adjustments to the treatment plan
+and monitoring for any emerging health issues.
+• as needed follow-up -
+For patients using on-demand treatments or lifestyle modifications,
+follow-up may be scheduled on an as-needed basis, depending on their
+progress and any changes in their health status.
+• referral back to primary care -
+If a urologist has been involved in the initial evaluation and management,
+the urologist may refer the patient back to his primary care physician for
+ongoing follow-up if the ED is stable and well-managed.
+It is important to note that these are specific follow-up plans and will
+vary based on the patient’s individual circumstances and response
+to treatment. Regular communication and collaboration between the
+primary care physician and the urologist, if involved, are key components
+of effective care for individuals with ED.
+Management of Erectile Dysfunction
+7.
+REFERRAL
+Referring a patient with ED to a urologist or other relevant specialist is
+typically considered when/at:
+• Primary care evaluation: The primary care physician has assessed
+the patient, taken a detailed medical history and performed a
+physical examination. If the underlying cause of ED is not evident
+or if there are concerns about specific urological issues, a referral
+may be appropriate.
+• Treatment failure or complexity: If initial treatments, e.g. lifestyle
+changes, oral medications (like PDE5i) or other conservative
+measures, do not yield satisfactory results or if a case is complex
+and may require specialised interventions (e.g. penile injections,
+VEDs or surgical options), a urologist may be consulted.
+• Underlying medical conditions: Presence of co-morbidities that
+might contribute to or exacerbate ED e.g. diabetes mellitus,
+CVD, or hormonal disorders, consultation with a urologist and/or
+endocrinologist/cardiologist may be warranted.
+• Psychological factors: If psychological factors are suspected to
+be a significant contributor to the ED, collaboration with a mental
+health professional may be necessary. However, urologists may
+still play a role in addressing any physical aspects of the condition.
+Management of Erectile Dysfunction
+8.
+SPECIAL POPULATIONS
+8.1
+Patients with Cardiac Disease
+Managing ED in patients with cardiac disease requires a comprehensive
+approach. Patients with atrial fibrillation showed an ED prevalence of
+57% (95% CI 50 to 64) based on a meta-analysis.91, level II-2
+In a cohort study among patients attending an exercise stress test
+(EST) clinic, it was found that patients with negative EST were less
+likely to have ED compared with those with positive EST (OR=0.18,
+p<0.001).92, level II-2
+Based on a large network meta-analysis on PDE5i and its doses in ED,
+sildenafil 50 mg was the most effective (84% probability in SUCRA) in
+improving IIEF scores when compared with placebo among patients
+with CV disorders. In terms of safety, vardenafil and udenafil had the
+best benefit-risk profiles in these studies.58, level I Udenafil is not available
+locally yet.
+In addition, a pre-post study among patients with ED with their CV
+risk based on Framingham risk score showed that tadalafil 10 mg ondemand improved IIEF scores in all risk groups (p<0.001). However,
+a few factors were associated with the failure of tadalafil to achieve
+complete responsiveness i.e.:93, level II-3
+• increased high-density lipoprotein (HDL) level by every 1 mg/dL
+(OR=1.022, 95% CI 1.013 to 1.053)
+• presence of hypertension (OR=2.217, 95% CI 1.015 to 2.987)
+• higher Framingham score (OR=4.127, 95% CI 1.423 to 4.873)
+• severe ED at the beginning of treatment (OR=3.102, 95% CI
+1.325 to 5.450)
+In an RCT comparing the effectiveness of sexual rehabilitation (physical
+exercise, pelvic floor exercise and psychoeducational consultation) with
+usual care among patients with ED and with either IHD and/or CAD, the
+former was superior in terms of:94, level I
+• improved sexual function with a mean difference in IIEF score of
+6.7 (95% CI 3.1 to 10.4) at four months and 6.7 (95% CI 3.2 to
+10.1) at six months
+• improved exercise capacity on cycle ergometer measured by
+Watt max (MD=10.3, 95% CI 3.6 to 16.9) and pelvic floor strength
+(p<0.01)
+Management of Erectile Dysfunction
+• Certain drugs used for the management of cardiac conditions may
+need to be assessed in patients with ED.
+ The use of PDE5i is contraindicated in patients taking nitrates for
+cardiac conditions due to the risk of hypotension.66, level III; 95, level III
+• The appropriateness of using PDE5i is based on patient’s cardiac
+status and medication regimen.
+• A multidisciplinary team consisting of cardiologist, urologist, family
+medicine specialist, psychiatrist and/or rehabilitative physician are
+important in managing patients with ED and cardiac disease.
+8.2
+Patients with Diabetes Mellitus
+The prevalence of ED among patients with DM is relatively high, thus
+they should be regularly screened for the medical condition and vice
+versa. Optimisation of glycaemic control and other risk factors should
+be advocated as the treatment of ED. Refer to CPG on Management of
+Type 2 Diabetes Mellitus (6th Edition).96
+8.3
+Patients with Pelvic Surgery or Prostate Cancer Treatment
+ED is a well-known complication of pelvic surgery especially for cancers
+e.g. rectal, prostate and bladder cancer. Potential mechanisms include
+direct injury to the neurovascular bundles (e.g. fibrosis and ischaemia)
+that control the complex mechanism of the erectile response.
+Radical treatment for prostate cancer includes radical prostatectomy,
+brachytherapy and external beam radiotherapy (EBRT) which can
+damage the neurovascular bundles.
+A cohort study on patients diagnosed with locoregional prostate cancer
+treated with surgery or radiation showed:97, level II-2
+• ED was more prevalent in patients having prostatectomy compared
+with those receiving radiation (65.3% vs 33.8%, p<0.001)
+• radiation group had a greater median time to ED diagnosis (346
+vs 133 days, p<0.001)
+A systematic review reported a prevalence of ED ranging from
+25 - 100% post-radical prostatectomy.98, level III This is supported by a
+narrative review that showed that the incidence was between 29% and-
+88%.99, level III Factors predicting preservation of EF post-operatively
+include the patient’s age, baseline EF and tumour size.2
+Patients being considered for nerve-sparing radical prostatectomy
+should have good EF pre-operatively. Post-operative EF recovery
+can occur up to 48 months after radical prostatectomy. It has been
+suggested that post-operative therapy of any type should be initiated
+as soon as possible after the surgery.2
+Management of Erectile Dysfunction
+A Cochrane systematic review found that PDE5i was more effective than
+placebo in ED treatment post-nerve sparing open radical prostatectomy
+(OR=10.09, 95% CI 6.2 to 16.43). Analysis of two RCTs post-EBRT
+showed that PDE5i was also more effective than placebo in improving
+EF. However, the quality assessment for the RCTs on both outcomes
+was poor.100, level I
+In another meta-analysis mentioned earlier, a subgroup analysis on
+the effectiveness of tadalafil 5 mg once-a-day and tadalafil 20 mg ondemand dosing regimen in post-treatment for prostate cancer reported
+NS in IIEF-EF domain score but significant difference favouring the
+once-a-day regimen in SEP2.61, level I
+In an RCT on men treated for ED after bilateral nerve-sparing
+prostatectomy, combination of VED and tadalafil 20 mg vs tadalafil 20
+mg alone was compared. It showed that the combination treatment had
+significantly higher:101, level I
+• IIEF scores at 6 - 12 months
+• penile hardness scores after 6 - 9 months
+• percentage of successful vaginal penetration at 3 - 9 months
+• percentage of ability to have intercourse to orgasm at six and
+12 months
+The AEs of VED were minor local discomfort and that of tadalafil was
+headache, flushing and muscle ache.
+• Multimodal penile rehabilitation with nerve sparing approach may
+help to improve EF post-radical prostatectomy.
+8.4
+Spinal Cord Injury Survivors
+SCI may lead to sensory, motor and autonomic abnormalities below the
+spinal lesion and complex urologic conditions. Approximately about 20
+- 30% of SCI patients have either no erections or erection not sufficient
+for sexual intercourse.102, level I They are usually young individuals where
+sexuality and reproduction are important.
+A systematic review outlined the following ED treatment options in
+patients with SCI:102, level I
+Management of Erectile Dysfunction
+• All of the above treatments may trigger autonomic dysreflexia* which
+can potentially be life-threatening in SCI patients.
+Autonomic dysreflexia is a dangerous syndrome involving an
+overreaction of the autonomic nervous system. It causes a sudden and
+severe rise of blood pressure in addition to other symptoms (unopposed
+sympathetic responses e.g. shortness of breath, chest tightness,
+flushing, throbbing headache and goosebumps).
+Treatment option
+Effectiveness
+Safety
+Phosphodiesterase-5inhibitors (PDE5i)
+Improved erection, frequency of
+sexual intercourse, satisfaction,
+enjoyment, sexual desire, overall
+sex life, sexual relationship
+and self-conﬁdence in erection
+Most common AEs were
+headache, dyspepsia,
+dizziness and rash
+Intracavernosal
+injection (ICI)
+82 - 100% rate of adequate
+penile erection for sexual
+intercourse
+It is associated with a
+high incidence of AEs
+which include priapism,
+pain, penile bruising or
+swelling.
+Vacuum erection
+device (VED)
+Successful vaginal penetration
+at 70 - 93%
+I s s u e w i t h l a c k o f
+spontaneity, uncomfortable
+and sensation of the cold
+penis
+Penile prosthesis
+(PP)
+Satisfaction rate up to 79%
+Complications include
+infection and mechanical
+failures. Malleable implant
+is not recommended in
+men with spinal cord injury
+due to risk of erosion from
+lack of sensation.
+Sacral
+neuromodulation
+<50% effectiveness
+No AEs have been reported
+Management of Erectile Dysfunction
+9.
+IMPLEMENTING THE GUIDELINES
+Implementation of this CPG is important as it helps in providing quality
+healthcare services based on the best and most recent available
+evidence applied to local scenario and expertise. Various factors and
+resource implications should be considered for the successful uptake of
+the CPG recommendations.
+9.1
+Facilitating and Limiting Factors
+The facilitating factors in implementing the CPG are:
+i)
+online availability of CPG on multiple websites for healthcare
+providers
+ii) conferences and updates on the management of ED including
+those involving professional bodies (e.g. Malaysian Urological
+Association and Malaysian Society of Andrology and the Study of
+the Aging Male)
+iii) public awareness campaigns on ED (e.g. Men’s Health Day)
+Limiting factors in the CPG implementation include:
+i)
+different levels of expertise and wide variation in practice due to
+resource constraints
+ii) limited awareness and knowledge in the management of ED among
+healthcare providers
+iii) lack of confidence among healthcare providers in discussing ED
+with patients
+iv) social stigmatisation of ED among patients
+9.2
+Potential Resource Implications
+The prevalence of ED is increasing which renders it to become an
+emerging public health concern. This is made worse by the public and
+healthcare providers shying away from identifying and discussing the
+matter in the clinical practice. In diagnosing ED, healthcare providers
+require expertise (knowledge and skills) to elicit the problem and
+provide further management on it. Rigorous work-up and cardiovascular
+assessment further complicate diagnosing ED. Treatment-wise,
+the limited availability of pharmacotherapy and mechanical devices
+makes treating ED even more difficult. There is also an obvious lack
+of urologists and clinical psychologists especially in the public sector to
+help manage such cases.
+In line with the key recommendations in this CPG, the following is
+proposed as clinical audit indicator for the quality management of ED:
+Management of Erectile Dysfunction
+Target of 100%
+Target of 70%
+Implementation strategies will be developed following the approval of
+the CPG by MoH which include Quick Reference and Training Module
+and they are available in the MoH and AMM websites after development.
+Percentage of
+patients newly
+diagnosed with
+ED assessed
+using IIEF-5
+=
+Total number of newly diagnosed ED
+patients in the same period
+Number of newly diagnosed ED patients
+assessed with IIEF-5 in a period
+x100%
+Percentage of
+ED patients
+with high
+cardiac risk
+based on
+Princeton
+Consensus
+referred to the
+cardiologist
+=
+Total number of ED patients with high
+cardiac risk based on Princeton Consensus
+in the same period
+Number of ED patients with high cardiac risk
+based on Princeton Consensus referred to
+the cardiologist in a period
+x100%
+Management of Erectile Dysfunction
+REFERENCES
+1.
+Leslie SW, Sooriyamoorthy T. Erectile Dysfunction. Treasure Island, Florida:
+StatPearls Publishing; 2024.
+2.
+Salonia A, Bettocchi C, Capogrosso P, et al. EAU Guidelines on Sexual and
+Reproductive Health. EAU Guidelines Office, Arnhem, The Netherlands:
+European Association of Urology; 2023.
+3.
+Kalsi J, Muneer A. Erectile dysfunction – an update of current practice and future
+strategies. J Clin Urol. 2013;6(4):210-219.
+4.
+Nordin RB, Soni T, Kaur A, et al. Prevalence and predictors of erectile dysfunction
+in adult male outpatient clinic attendees in Johor, Malaysia. Singapore Med J.
+2019;60(1):40-47.
+5.
+Ab Rahman AA, Al-Sadat N, Yun Low W. Prevalence of erectile dysfunction in
+primary care setting, Malaysia. J Mens Health. 2011;8(S1):S50-S53.
+6.
+Rezali MS, Mohamad Anuar MF, Abd Razak MA, et al. Prevalence and
+associated factors of moderate to severe erectile dysfunction among adult men
+in Malaysia. Sci Rep. 2023;13(1):21483.
+7.
+Sivaratnam L, Selimin DS, Abd Ghani SR, et al. Behavior-Related Erectile
+Dysfunction: A Systematic Review and Meta-Analysis. J Sex Med.
+2020;18(1):121- 143.
+8.
+Bauer SR, Breyer BN, Stampfer MJ, et al. Association of Diet With Erectile
+Dysfunction Among Men in the Health Professionals Follow-up Study. JAMA
+Netw Open. 2020;3(11):e2021701.u
+9.
+El-Shahawy O, Shah T, Obisesan OH, et al. Association of E-Cigarettes With
+Erectile Dysfunction: The Population Assessment of Tobacco and Health Study.
+Am J Prev Med. 2021;62(1):26-38.
+10. Minami H, Furukawa S, Sakai T, et al. Physical activity and prevalence of erectile
+dysfunction in Japanese patients with type 2 diabetes mellitus: The Dogo Study.
+J Diabetes Investig. 2018;9(1):193-198.
+11. Fergus KB, Gaither TW, Baradaran N, et al. Exercise Improves Self-Reported
+Sexual Function Among Physically Active Adults. J Sex Med. 2019;16(8):12361245.
+12. Gan ZS, Ehlers ME, Lin FC, et al. Systematic Review and Meta-Analysis of
+Cycling and Erectile Dysfunction. Sex Med Rev. 2021;9(2):304-311.
+13. Liu Y, Hu X, Xiong M, et al. Association of BMI with erectile dysfunction: A cross-
+sectional study of men from an andrology clinic. Front Endocrinol (Lausanne).
+2023;14:1135024.
+14. He J, Reynolds K, Chen J, et al. Cigarette smoking and erectile dysfunction
+among Chinese men without clinical vascular disease. Am J Epidemiol.
+2007;166(7):803- 809.
+15. Wang XM, Bai YJ, Yang YB, et al. Alcohol intake and risk of erectile dysfunction:
+a dose-response meta-analysis of observational studies. Int J Impot Res.
+2018;30(6):342-351.
+16. Jacobs T, Geysemans B, Van Hal G, et al. Associations Between Online
+Pornography Consumption and Sexual Dysfunction in Young Men: Multivariate
+Analysis Based on an International Web-Based Survey. JMIR Public Health
+Surveill. 2021;7(10):e32542.
+17. Berger JH, Kehoe JE, Doan AP, et al. Survey of Sexual Function and
+Pornography. Mil Med. 2019;184(11-12):731-737.18.
+Chew PY, Choy CL,
+Sidi HB, et al. The Association Between Female Sexual Dysfunction and Sexual
+Dysfunction in the Male Partner: A Systematic Review and Meta-Analysis. J Sex
+Med. 2020;18(1):99-112.
+Management of Erectile Dysfunction
+18. Chew Py, Choy CL, Sidi HB, et al. The Association Between Female Sexual
+Dysfunction and Sexual Dysfunction in the Male Partner: A Systematic Review
+and Meta-Analysis. J Sex Med. 2020;18(1):99-112.
+19. Kouidrat Y, Pizzol D, Cosco T, et al. High prevalence of erectile dysfunction in
+diabetes: a systematic review and meta-analysis of 145 studies. Diabet Med.
+2017;34(9):1185-1192.
+20. Wang XY, Huang W, Zhang Y. Relation between hypertension and erectile
+dysfunction: a meta-analysisof cross-section studies. Int J Impot Res.
+2018;30(3):141-146.
+21. Koh KC. Prevalence of erectile dysfunction in men with ischemic heart disease
+in a tertiary hospital in malaysia. Med J Malaysia. 2013;68(4):301-304.
+22. Rinkuniene E, Gimzauskaite S, Badariene J, et al. The Prevalence of Erectile
+Dysfunction and Its Association with Cardiovascular Risk Factors in Patients
+after Myocardial Infarction. Medicina (Kaunas). 2021;57(10).
+23. Pyrgidis N, Mykoniatis I, Nigdelis MP, et al. Prevalence of Erectile Dysfunction
+in Patients With End-Stage Renal Disease: A Systematic Review and MetaAnalysis. J Sex Med. 2020;18(1):113-120.
+24. Wang W, Jing Z, Liu W, et al. Hyperuricaemia is an important risk factor of
+the erectile dysfunction: A systematic review and meta-analysis. Andrologia.
+2022;54(5):e14384.
+25. Kellesarian SV, Malignaggi VR, Feng C, et al. Association between obstructive
+sleep apnea and erectile dysfunction: a systematic review and meta-analysis. Int
+J Impot Res. 2018;30(3):129-140.
+26. Chen X, Zhou Z, Qiu X, et al. The Effect of Chronic Prostatitis/Chronic Pelvic
+Pain Syndrome (CP/CPPS) on Erectile Function: A Systematic Review and
+Meta- Analysis. PloS One. 2015;10(10):e0141447.
+27. Liu Q, Zhang Y, Wang J, et al. Erectile Dysfunction and Depression: A Systematic
+Review and Meta-Analysis. J Sex Med. 2018;15(8):1073-1082.
+28. Velurajah R, Brunckhorst O, Waqar M, et al. Erectile dysfunction in patients with
+anxiety disorders: a systematic review. Int J Impot Res. 2022;34(2):177-186.
+29. Abu Zaid M, Dinh PC, Monahan PO, et al. Adverse Health Outcomes in
+Relationship to Hypogonadism After Chemotherapy: A Multicenter Study of
+Testicular Cancer Survivors. J Natl Compr Canc Netw. 2019;17(5):459-468.
+30. Yang YJ, Chien WC, Chung CH, et al. Risk of Erectile Dysfunction After Traumatic
+Brain Injury: A Nationwide Population-Based Cohort study in Taiwan. Am J Mens
+Health. 2018;12(4):913-925.
+31. Farmakis IT, Pyrgidis N, Doundoulakis I, et al. Effects of Major Antihypertensive
+Drug Classes on Erectile Function: a Network Meta-analysis. Cardiovasc Drugs
+Ther. 2022;36(5):903-914.
+32. Elgendy AY, Elgendy IY, Mahmoud AN, et al. Statin Use in Men and New Onset
+of Erectile Dysfunction: A Systematic Review and Meta-Analysis. Am J Med.
+2018;131(4):387-394.
+33. Lee S, Lee YB, Choe SJ, et al. Adverse Sexual Effects of Treatment with
+Finasteride or Dutasteride for Male Androgenetic Alopecia: A Systematic Review
+and Meta- analysis. Acta Derm Venereol. 2019;99(1):12-17.
+34. Zhou Z, Song S, Gao Z, et al. The efficacy and safety of dutasteride compared
+with finasteride in treating men with androgenetic alopecia: a systematic review
+and meta-analysis. Clin Interv Aging. 2019;14:399-406.
+35. Ben-Sheetrit J, Hermon Y, Birkenfeld S, et al. Estimating the risk of irreversible
+post-SSRI sexual dysfunction (PSSD) due to serotonergic antidepressants. Ann
+Gen Psychiatry. 2023;22(1):15.
+Management of Erectile Dysfunction
+36. Rosen RC, Cappelleri JC, Smith MD, et al. Development and evaluation of an
+abridged, 5-item version of the International Index of Erectile Function (IIEF-5)
+as a diagnostic tool for erectile dysfunction. Int J Impot Res. 1999;11(6):319-326.
+37. Neijenhuijs KI, Holtmaat K, Aaronson NK, et al. The International Index of
+Erectile Function (IIEF)-A Systematic Review of Measurement Properties. J Sex
+Med. 2019;16(7):1078-1091.
+38. Mulhall JP, Goldstein I, Bushmakin AG, et al. Validation of the erection hardness
+score. J Sex Med. 2007;4(6):1626-1634.
+39. Terentes-Printzios D, Ioakeimidis N, Rokkas K, et al. Interactions between
+erectile dysfunction, cardiovascular disease and cardiovascular drugs. Nat Rev
+Cardiol. 2022;19(1):59-74.
+40. Corona G, Monami M, Boddi V, et al. Male sexuality and cardiovascular risk. A
+cohort study in patients with erectile dysfunction. J Sex Med. 2010;7(5):19181927.
+41. Dong JY, Zhang YH, Qin LQ. Erectile dysfunction and risk of cardiovascular
+disease: meta-analysis of prospective cohort studies. J Am Coll Cardiol.
+2011;58(13):1378- 1385.
+42. Corona G, Mannucci E, Fisher AD, et al. Cardiovascular risk engines can help in
+selecting patients to be evaluated by dynamic penile color doppler ultrasound. J
+Endocrinol Invest. 2008;31(12):1058-1062.
+43. Kloner RA, Burnett AL, Miner M, et al. Princeton IV consensus guidelines: PDE5
+inhibitors and cardiac health. J Sex Med. 2023;21(2):90-116.
+44. Nehra A, Jackson G, Miner M, et al. The Princeton III Consensus recommendations
+for the management of erectile dysfunction and cardiovascular disease. Mayo
+Clin Proc. 2012;87(8):766-778.
+45. Centers for Disease Control and Prevention. Heart Disease and Stroke
+(accessed online on 20 November 2023). CDC; 2022. [Available at: https://
+www.cdc.gov/ chronicdisease/resources/publications/factsheets/heart-diseasestroke.htm]
+46. Burnett AL, Nehra A, Breau RH, et al. Erectile Dysfunction: AUA Guideline. J
+Urol. 2018;200(3):633-641.
+47. Gupta BP, Murad MH, Clifton MM, et al. The effect of lifestyle modification and
+cardiovascular risk factor reduction on erectile dysfunction: a systematic review
+and meta-analysis. Arch Intern Med. 2011;171(20):1797-1803.
+48. Gerbild H, Larsen CM, Graugaard C, et al. Physical Activity to Improve Erectile
+Function: A Systematic Review of Intervention Studies. Sex Med. 2018;6(2):75-
+89.
+49. Li H, Xu W, Wang T, et al. Effect of weight loss on erectile function in men
+with overweight or obesity: A meta-analysis of randomised controlled trials.
+Andrologia. 2022;54(1):e14250.
+50. Sarhan MD, Khattab M, Sarhan MD, et al. Impact of Bariatric Surgery on Male
+Sexual Health: a Prospective Study. Obes Surg. 2021;31(9):4064-4069.
+51. Myers C, Smith M. Pelvic floor muscle training improves erectile dysfunction and
+premature ejaculation: a systematic review. Physiotherapy. 2019;105(2):235-
+243.
+52. Sahin MO, Sen V, Gunduz G, et al. Effect of smoking cessation on sexual
+functions in men aged 30 to 60 years. Int Braz J Urol. 2020;46(4):642-648.
+53. Karunakaran A, Michael JP. The Impact of Abstinence From Alcohol on Erectile
+Dysfunction: A Prospective Follow up in Patients With Alcohol Use Disorder. J
+Sex Med. 2022;19(4):581-589.
+54. Kumar R, Malik D, Nehra DK, et al. Perceived stress and emotional intelligence
+in patients with erectile dysfunction: A preliminary study. Indian Journal of Health
+and Wellbeing. 2013;4(9):1704.
+Management of Erectile Dysfunction
+55. Dewitte M, Bettocchi C, Carvalho J, et al. A Psychosocial Approach to Erectile
+Dysfunction: Position Statements from the European Society of Sexual Medicine
+(ESSM). Sex Med. 2021;9(6):100434.
+56. El-Sakka AI, Anis T, Khadr N, et al. Sildenafil for erectile dysfunction in the Middle
+East: observational analysis of patients with diabetes and/or hypertension
+treated in the clinical practice setting. J Int Med Res. 2011;39(2):558-568.
+57. Shah PC, Trivedi NA. A meta-analysis on efficacy and tolerability of sildenafil for
+erectile dysfunction in patients with diabetes mellitus. Indian J Sex Transm Dis
+AIDS. 2018;39(1):1-6.
+58. Madeira CR, Tonin FS, Fachi MM, et al. Efficacy and safety of oral
+phosphodiesterase 5 inhibitors for erectile dysfunction: a network meta-analysis
+and multicriteria decision analysis. World J Urol. 2020;39(3):953-962.
+59. Wang Y, Bao Y, Liu J, et al. Tadalafil 5 mg Once Daily Improves Lower Urinary
+Tract Symptoms and Erectile Dysfunction: A Systematic Review and Metaanalysis. Low Urin Tract Symptoms. 2016;10(1):84-92.
+60. Bansal UK, Jones C, Fuller TW, et al. The Efficacy of Tadalafil Daily vs on
+Demand in the Treatment of Erectile Dysfunction: A Systematic Review and
+Meta-analysis. Urology. 2018;112:6-11.
+61. Peng Z, Yang L, Dong Q, et al. Efficacy and Safety of Tadalafil Once-a-Day
+versus Tadalafil On-Demand in Patients with Erectile Dysfunction: A Systematic
+Review and Meta-Analyses. Urol Int. 2017;99(3):343-352.
+62. Gong B, Ma M, Xie W, et al. Direct comparison of tadalafil with sildenafil for the
+treatment of erectile dysfunction: a systematic review and meta-analysis. Int Urol
+Nephrol. 2017;49(10):1731-1740.
+63. Li J, Peng L, Cao D, et al. Avanafil for the Treatment of men With Erectile
+Dysfunction: A Systematic Review and Meta-analysis of Randomized Controlled
+Trials. Am J Mens Health. 2019;13(5):1557988319880764.
+64. Goldstein I, Jones LA, Belkoff LH, et al. Avanafil for the treatment of erectile
+dysfunction: a multicenter, randomized, double-blind study in men with diabetes
+mellitus. Mayo Clin Proc. 2012;87(9):843-852.
+65. Wang H, Guo B, Huang Z, et al. Vardenafil in the Treatment of Male
+Erectile Dysfunction: A Systematic Review and Meta-Analysis. Adv Ther.
+2021;38(2):1301- 1313.
+66. U.S. Food & Drug Administration. PRESCRIBING INFORMATION: CIALIS®:
+USFDA; 2023.
+67. Mykoniatis I, Pyrgidis N, Sokolakis I, et al. Assessment of Combination
+Therapies vs Monotherapy for Erectile Dysfunction: A Systematic Review and
+Meta-analysis. JAMA Netw Open. 2021;4(2):e2036337.
+68. Sung HH, Ahn JS, Kim JJ, et al. The role of intracavernosal injection therapy and
+the reasons of withdrawal from therapy in patients with erectile dysfunction in the
+era of PDE5 inhibitors. Andrology. 2014;2(1):45-50.
+69. Blum KA, Mehr JP, Green T, et al. Complication Rates in Patients Using
+Intracavernosal Injection Therapy for Erectile Dysfunction With or Without
+Concurrent Anticoagulant Use-A Single-Center, Retrospective Pilot Study. Sex
+Med. 2022;10(4):100535.
+70. Costa P, Potempa AJ. Intraurethral alprostadil for erectile dysfunction: a review
+of the literature. Drugs. 2012;72(17):2243-2254.
+71. Rooney M, Pfister W, Mahoney M, et al. Long-term, multicenter study of the
+safety and efficacy of topical alprostadil cream in male patients with erectile
+dysfunction. J Sex Med. 2009;6(2):520-534.
+72. Beaudreau SA, Van Moorleghem K, Dodd SM, et al. Satisfaction with a Vacuum
+Constriction Device for Erectile Dysfunction among Middle-Aged and Older
+Veterans. Clin Gerontol. 2020;44(3):307-315.
+Management of Erectile Dysfunction
+73. Sun L, Peng FL, Yu ZL, et al. Combined sildenafil with vacuum erection device
+therapy in the management of diabetic men with erectile dysfunction after failure
+of first-line sildenafil monotherapy. Int J Urol. 2014;21(12):1263-1267.
+74. Ortac M, Ozmez A, Cilesiz NC, et al. The impact of extracorporeal shock wave
+therapy for the treatment of young patients with vasculogenic mild erectile
+dysfunction: A prospective randomized single-blind, sham controlled study.
+Andrology. 2021;9(5):1571-1578.
+75. Geyik S. A single-centre result of two courses of low-intensity shockwave therapy
+(Li-SWT) in erectile dysfunction. Andrologia. 2022;54(2):e14324.
+76. Scroppo FI, Pezzoni F, Gaeta F, et al. Li-Eswt improves hemodynamic
+parameters thus suggesting neoangiogenesis in patients with vascular erectile
+dysfunction. Int J Impot Res. 2021;34(3):237-242.
+77. Md Fuzi S, Mohamed Ghazali I. Extracorporeal shockwave therapy for the
+treatment of erectile dysfunction. Technology Review. Putrajaya: MoH Malaysia;
+2023.
+78. Trost LW, Munarriz R, Wang R, et al. External Mechanical Devices and Vascular
+Surgery for Erectile Dysfunction. J Sex Med. 2016;13(11):1579-1617.
+79. Lux M, Reyes-Vallejo L, Morgentaler A, et al. Outcomes and satisfaction rates for
+the redesigned 2-piece penile prosthesis. J Urol. 2007;177(1):262-266.
+80. Miller LE, Khera M, Bhattacharyya S, et al. Long-Term Survival Rates of Inflatable
+Penile Prostheses: Systematic Review and Meta-Analysis. Urology. 2022;166:6-
+10.
+81. Melnik T, Soares BG, Nasselo AG. Psychosocial interventions for erectile
+dysfunction. Cochrane Database Syst Rev. 2007;2007(3):Cd004825.
+82. Melnik T, Soares BG, Nasello AG. The effectiveness of psychological
+interventions for the treatment of erectile dysfunction: systematic review and
+meta-analysis, including comparisons to sildenafil treatment, intracavernosal
+injection, and vacuum devices. J Sex Med. 2008;5(11):2562-2574.
+83. Fruhauf S, Gerger H, Schmidt HM, et al. Efficacy of psychological interventions
+for sexual dysfunction: a systematic review and meta-analysis. Arch Sex Behav.
+2013;42(6):915-933.
+84. Schmidt HM, Munder T, Gerger H, et al. Combination of psychological intervention
+and phosphodiesterase-5 inhibitors for erectile dysfunction: a narrative review
+and meta-analysis. J Sex Med. 2014;11(6):1376-1391.
+85. Allen MS, Walter EE. Erectile Dysfunction: An Umbrella Review of MetaAnalyses of Risk-Factors, Treatment, and Prevalence Outcomes. J Sex Med.
+2019;16(4):531- 541.
+86. Atallah S, Haydar A, Jabbour T, et al. The effectiveness of psychological
+interventions alone, or in combination with phosphodiesterase-5 inhibitors,
+for the treatment of erectile dysfunction:A systematic review. Arab J Urol.
+2021;19(3):310-322.
+87. Bossio JA, Basson R, Driscoll M, et al. Mindfulness-Based Group Therapy for
+Men With Situational Erectile Dysfunction: A Mixed-Methods Feasibility Analysis
+and Pilot Study. J Sex Med. 2018;15(10):1478-1490.
+88. Zarski AC, Velten J, Knauer J, et al. Internet- and mobile-based psychological
+interventions for sexual dysfunctions: a systematic review and meta-analysis.
+NPJ Digit Med. 2022;5(1):139.
+89. Ernst E, Posadzki P, Lee MS. Complementary and alternative medicine (CAM)
+for sexual dysfunction and erectile dysfunction in older men and women: an
+overview of systematic reviews. Maturitas. 2011;70(1):37-41.
+90. Sadovsky R. The role of the primary care clinician in the management of erectile
+dysfunction. Rev Urol. 2002;4 Suppl 3(Suppl 3):S54-S63.
+Management of Erectile Dysfunction
+91. Chokesuwattanaskul R, Thongprayoon C, Pachariyanon P, et al. Erectile
+dysfunction and atrial fibrillation: A systematic review and meta-analysis. Int J
+Urol. 2018;25(8):752-757.
+92. Ahmed Memon S, Adil M, Raja Khan F, et al. Association between erectile
+dysfunction, cardiovascular risk factors, and coronary artery disease: Role of
+exercise stress testing and International Index of Erectile Function (IIEF-5)
+questionnaire. Int J Cardiol Heart Vasc. 2022;40:101033.
+93. Selvi I, Baydilli N, Akinsal EC. The effect of cardiovascular morbidity on clinical
+response provided by tadalafil in patients with erectile dysfunction. Andrologia.
+2021;53(2):e13904.
+94. Palm P, Zwisler AO, Svendsen JH, et al. Sexual rehabilitation for cardiac patients
+with erectile dysfunction: a randomised clinical trial. Heart. 2018;105(10):775782.
+95. Carella MC, Forleo C, Stanca A, et al. Heart Failure and Erectile Dysfunction: a
+Review of the Current Evidence and Clinical Implications. Curr Heart Fail Rep.
+2023;20(6):530-541.
+96. Malaysian Endocrine and Metabolic Society. Clinical Practice Guidelines on
+Management of Type 2 Diabetes Mellitus. 6th ed. Kuala Lumpur: MEMS; 2020.
+97. Shen C, Jain K, Shah T, et al. Relationships between erectile dysfunction,
+prostate cancer treatment type and inflatable penile prosthesis implantation.
+Investig Clin Urol. 2022;63(3):316-324.
+98. Burnett AL, Aus G, Canby-Hagino ED, et al. Erectile function outcome reporting
+after clinically localized prostate cancer treatment. J Urol. 2007;178(2):597-601.
+99. Bennett N, Huang IS. Inflatable penile prosthesis in the radical prostatectomy
+patient: a review. F1000Res. 2018;7:770.
+100. Miles CL, Candy B, Jones L, et al. Interventions for sexual dysfunction following
+treatments for cancer. Cochrane Database Syst Rev. 2007(4):CD005540.
+101. Engel JD. Effect on sexual function of a vacuum erection device postprostatectomy. Can J Urol. 2011;18(3):5721-5725.
+102. Afferi L, Pannek J, Louis Burnett A, et al. Performance and safety of treatment
+options for erectile dysfunction in patients with spinal cord injury: A review of the
+literature. Andrology. 2020;8(6):1660-1673.
+Management of Erectile Dysfunction
+Appendix 1
+EXAMPLE OF SEARCH STRATEGY
+Clinical Question: What are the safe and effective pharmacological
+treatments in ED?
+• phosphodiesterase-5-inhibitors
+1.
+ERECTILE DYSFUNCTION/
+2.
+(erectile adj1 dysfunction).tw.
+3.
+impotence.tw.
+4.
+(male adj1 impotence).tw.
+5.
+(male adj2 sexual impotence).tw.
+6.
+1 or 2 or 3 or 4 or 5
+7.
+PHOSPHODIESTERASE 5 INHIBITORS/
+8.
+(phosphodiesterase 5 adj2 inhibitor*).tw.
+9.
+((pde5 or pde-5) adj1 inhibitor*).tw.
+10. pde 5 inhibitor*.tw.
+11. phosphodiesterase type 5 inhibitor*.tw.
+12. SILDENAFIL CITRATE/
+13. (sildenafil adj1 (citrate or lactate)).tw.
+14. homosildenafil.tw.
+15. hydroxyhomosildenafil.tw.
+16. sildenafil.tw.
+17. nglis.tw.
+18. TADALAFIL/
+19. nglis.tw.
+20. VARDENAFIL DIHYDROCHLORIDE/
+21. vardenafil.tw.
+22. ((anhydrous or trihydrate) adj2 vardenafil hydrochloride).tw.
+23. (vardenafil adj1 (dihydrochloride or hydrochloride)).tw.
+24. nglish.tw.
+25. avanafil.tw.
+26. 7 or 8 or 9 or 10 or 11 or 12 or 13 or 14 or 15 or 16 or 17 or 18 or
+19 or 20 or 21 or 22 or 23 or 24 or 25
+27. 6 and 26
+28. limit 27 to (nglish language and humans)
+29. limit 28 to last 15 years
+30. limit 29 to “systematic review”
+Management of Erectile Dysfunction
+Appendix 2
+CLINICAL QUESTIONS
+a)
+Risk factor, diagnosis and assessment
+• What are the risk and aggravating factors for ED?
+• What are the accurate screening tools for ED?
+• What are the accurate methods used to assess ED?
+• What are the accurate cardiovascular risk assessments in ED?
+• How can the diagnosis of ED be accurately made?
+b) Treatment
+• What are the safe and effective non-pharmacological treatments
+in ED?
+ life-style changes to modify risk factors
+- smoking
+- diet
+- alcohol consumption
+- obesity
+- stress
+- physical activity
+- metabolic syndrome
+ device (second stage)
+- vacuum pump
+- shockwave therapy
+ psychosocial/psychopathological treatment
+• What are the safe and effective pharmacological treatments in
+ED?
+ oral medications e.g. phosphodiesterase-5-inhibitors
+ topical/intraurethral alprostadil (vasoactive agents)
+ intra-cavernous penile injection with vasoactive agents
+• What are the safe and effective surgical interventions in ED?
+ penile prosthesis
+ surgery for penile revascularisation
+c)
+Traditional and complementary medicine
+• What are the safe and effective treatment and complementary
+medicine (TCM) in ED?
+d) Follow-up, monitoring and referral
+• What is the effective follow-up and monitoring schedule for ED?
+• When should patient with ED be referred for secondary/tertiary
+care?
+ urologist
+ cardiologist
+Management of Erectile Dysfunction
+ neurologist
+ endocrinologist
+ psychiatrist
+ shared-care concept/multidisciplinary
+e)
+Special Groups
+• What are the safe and effective treatment modalities in ED for
+the following special groups?
+ patients with cardiac disease
+ patients with pelvic surgery or prostate cancer treatment
+ spinal cord injury survivors
+Management of Erectile Dysfunction
+Appendix 3
+RELEVANT HISTORY TAKING IN PATIENTS WITH
+SYMPTOMS OF ED
+CVD = cardiovascular disease; DM = diabetes mellitus; ED = erectile dysfunction;
+PDE5i = phosphodiesterase-5-inhibitor
+History of presenting
+complaint
+Patients with suspected ED will primarily complain of
+difﬁculties initiating or sustaining an erection.
+Further details surrounding these issues should be
+explored:
+● Onset of sexual dysfunction (i.e. acute, gradual)
+● Duration of sexual dysfunction
+● Lack of libido
+● Rigidity of erection
+● Duration of sexual stimulation
+● Difﬁculties with ejaculation/orgasm
+● Absence of morning erection
+Past medical/
+surgical history
+Previous sexual dysfunction, CVD, metabolic syndrome
+(i.e. hypertension, DM, obesity and dyslipidaemia) and
+pelvic surgery
+Medication history
+Antihypertensives, antidepressants, antipsychotics,
+anticonvulsants, nitrates and PDE5i
+Psychiatric history
+Current or previous psychological problems (e.g.
+depression, anxiety), stress, coping abilities, cognitive
+factors and previous trauma
+Social history
+Smoking, alcohol consumption, illicit drug use, diet,
+exercise, cultural and religious aspects
+Sexual history
+Current sexual partner(s), relationship status, partner’s
+perception to ED, gender dysphoria or sexual orientation,
+sexual exposure and experience (e.g. masturbation,
+pornography consumption), plan for children
+History components
+Questions
+Management of Erectile Dysfunction
+Appendix 4
+5-ITEM VERSION OF INTERNATIONAL INDEX OF ERECTILE
+FUNCTION (IIEF-5)
+A) English version
+Patient Name:
+Date of Birth:
+Date Completed:
+Total score: __________
+Source: Rosen RC, Cappelleri JC, Smith MD, et al. Development and evaluation of an
+abridged, 5-item version of the International Index of Erectile Function (IIEF-5)
+as a diagnostic tool for erectile dysfunction. Int J Impot Res. 1999;11(6):319-26.
+Over the past 6 months:
+IIEF-5 scoring
+:
+The IIEF-5 score is the sum of the ordinal responses to the 5 items.
+22 - 25: No erectile dysfunction
+17 - 21: Mild erectile dysfunction
+12 - 16: Mild to moderate erectile dysfunction
+8 - 11 : Moderate erectile dysfunction
+5 - 7 : Severe erectile dysfunction
+1
+Very Low
+2
+Low
+3
+Moderate
+4
+High
+5
+Very high
+1
+Extremely
+difficult
+2
+Very difficult
+3
+Difficult
+4
+Slightly
+difficult
+5
+Not difficult
+1. How do you rate
+your confidence
+that you could
+get and keep
+an erection?
+2. When you had
+erections with sexual
+stimulation, how
+often were your
+erections hard
+enough for
+penetration?
+3. During sexual
+intercourse, how
+often were you able
+to maintain your
+erection after you
+had penetrated
+(entered) your
+partner?
+4. During sexual
+intercourse, how
+difficult was it to
+maintain your erection
+to completion of
+intercourse?
+5. When you attempted
+sexual intercourse,
+how often was it
+satisfactory for you?
+1
+Almost never/
+Never
+2
+A few times
+(much less
+than half
+the time)
+3
+Sometimes
+(about half
+the time)
+4
+Most times
+(much more
+than half
+the time)
+5
+Almost
+always/
+Always
+1
+Almost never/
+Never
+2
+A few times
+(much less
+than half
+the time)
+3
+Sometimes
+(about half
+the time)
+4
+Most times
+(much more
+than half
+the time)
+5
+Almost
+always/
+Always
+1
+Almost never/
+Never
+2
+A few times
+(much less
+than half
+the time)
+3
+Sometimes
+(about half
+the time)
+4
+Most times
+(much more
+than half
+the time)
+5
+Almost
+always/
+Always
+Management of Erectile Dysfunction
+Di sepanjang 6 bulan yang lalu:
+Pemarkahan IIEF-5:
+:
+Pemarkahan skor IIEF-5 adalah jumlah markah bagi 5 soalan di atas.
+22 - 25: Tiada masalah lemah tenaga batin (erectile dysfunction)
+17 - 21: Masalah lemah tenaga batin tahap ringan
+12 - 16: Masalah lemah tenaga batin tahap ringan ke sederhana
+8 - 11 : Masalah lemah tenaga batin tahap sederhana
+5 - 7 : Masalah lemah tenaga batin yang serius
+1
+Sangat
+rendah
+2
+Rendah
+3
+Sederhana
+4
+Tinggi
+5
+Sangat
+tinggi
+1
+Tersangat
+sukar
+2
+Sangat
+sukar
+3
+Sukar
+4
+Sukar
+sedikit
+5
+Tidak
+sukar
+1. Pada penilaian anda,
+sejauh manakah
+tahap keyakinan
+anda, yang anda
+boleh mencapai serta
+mengekalkan
+ketegangan zakar
+(kemaluan atau
+‘batang’ keras)?
+2. Apabila anda
+mengalami
+ketegangan zakar
+(kemaluan atau
+‘batang’ keras)
+menerusi rangsangan
+seks, berapa kerap
+ketegangan itu cukup
+keras untuk
+persetubuhan?
+3. Sewaktu bersetubuh,
+berapa kerap anda
+dapat mengekalkan
+ketegangan zakar
+(kemaluan atau
+‘batang’ keras)?
+4. Sewaktu bersetubuh
+berapa sukarkah
+untuk mengekalkan
+ketegangan sehingga
+selesai persetubuhan?
+5. Apabila anda cuba
+melakukan
+persetubuhan, berapa
+kerap anda berasa
+puas hati?
+1
+Tidak pernah
+atau hampir
+tidak pernah
+2
+Beberapa
+kali (kurang
+dari 50%)
+3
+Kadangkadang
+(kira- kira
+50%)
+4
+Sering kali
+(lebih dari
+50%)
+5
+Setiap kali
+atau hampir
+setiap kali
+1
+Tidak pernah
+atau hampir
+tidak pernah
+2
+Beberapa
+kali (kurang
+dari 50%)
+3
+Kadangkadang
+(kira- kira
+50%)
+4
+Sering kali
+(lebih dari
+50%)
+5
+Setiap kali
+atau hampir
+setiap kali
+1
+Tidak pernah
+atau hampir
+tidak pernah
+2
+Beberapa
+kali (kurang
+dari 50%)
+3
+Kadangkadang
+(kira- kira
+50%)
+4
+Sering
+kali (lebih
+dari 50%)
+5
+Setiap kali
+atau hampir
+setiap kali
+B) Malay version
+Nama Pesakit :
+Tarikh Lahir :
+Tarikh Penilaian :
+Jumlah markah: __________
+Adapted: Lim TO, Das A, Rampal S, et al. Cross-cultural adaptation and validation of
+the English version of the International Index of Erectile Function (IIEF) for
+use in Malaysia. Int J Impot Res. 2003;15(5):329-336.
+Management of Erectile Dysfunction
+Appendix 5
+ERECTION HARDNESS SCORE (EHS)
+Erection Hardness Score*
+0 : Penis does not enlarge.
+1 : Penis is larger but not hard.
+2 : Penis is hard but not hard enough for penetration.
+3 : Penis is hard enough for penetration but not completely hard.
+4 : Penis is completely hard and fully rigid.
+*“How would you rate the hardness of your erection?”
+Source: Mulhall JP, Goldstein I, Bushmakin AG, et al. Validation of the erection
+hardness score. J Sex Med. 2007;4(6):1626-1634.
+Management of Erectile Dysfunction
+Appendix 6
+TREATMENT IN ED
+A) Mechanical Treatment
+Source:
+1. Beaudreau SA, Van Moorleghem K, Dodd SM, et al. Satisfaction with a Vacuum Constriction Device for Erectile Dysfunction among Middle-Aged and
+Older Veterans. Clin Gerontol. 2020;44(3):307-315.
+2. Ortac M, Ozmez A, Cilesiz NC, et al. The impact of extracorporeal shock wave therapy for the treatment of young patients with vasculogenic mild
+erectile dysfunction: A prospective randomized single-blind, sham controlled study. Andrology. 2021;9(5):1571-1578.
+3. Salonia A, Bettocchi C, Capogrosso P, et al. EAU Guidelines on Sexual and Reproductive Health. EAU Guidelines Office, Arnhem, The Netherlands:
+European Association of Urology; 2023.
+Device
+When/How to apply
+Adverse events
+Precautions
+Vacuum Erectile
+Devices
+5 - 10 minutes before intercourse
+Issues with lack of spontaneity,
+uncomfortable and sensation of cold
+penis
+Priapism
+Antiplatelets and anticoagulants -
+may cause bleeding and bruising
+Low-intensity
+Extracorporeal
+Shockwave
+Therapy
+20 - 30 minutes for each session, once or twice/week for at
+least 6 sessions
+Pain at the site, bleeding and bruising,
+haematuria, skin infection, painful
+erection, worsening penile curvature
+Antiplatelets and anticoagulants -
+may cause bleeding and bruising
+Management of Erectile Dysfunction
+B) Pharmacological Treatment
+Dose adjustment:
+Renal impairment: CrCl <30 ml/min or HD - Starting dose 25 mg
+Hepatic impairment: Starting dose 25 mg
+Geriatric use: Starting dose 25 mg
+Co-medications:
+Alpha-blockers - Starting dose 25 mg
+Ritonavir - Maximum 25 mg over 48 hours
+CYP3A4 inhibitors - Starting dose 25 mg
+Patients should seek emergency
+treatment if an erection lasts >4 hours.
+Use PDE5i with caution in patients
+predisposed to priapism.
+Patients to stop taking PDE5i and
+seek prompt medical attention in the
+event of sudden decrease or loss of
+hearing.
+Time required from last dose to
+administration of a nitrate (e.g.
+glyceryl trinitrate): 24 hours
+Tadalafil
+Initial dose:
+As needed:
+10 mg to be taken at least 30 minutes before sexual activity,
+effective for up to 36 hours after administration
+Once daily use:
+2.5 mg once daily without regard to timing of sexual activity
+(Half-life: 17.5 hours)
+Common:
+Headache, flushing, dyspepsia, nasal
+congestion, nasopharyngitis, back
+pain, myalgia, visual abnormalities
+Rare: NAION
+Patients should seek emergency
+treatment if an erection lasts >4 hours.
+Use PDE5i with caution in patients
+predisposed to priapism.
+Patients to stop taking PDE5i and
+seek prompt medical attention in the
+event of sudden decrease or loss of
+hearing.
+Known hypersensitivity to PDE5i
+or any component of tablet
+Concurrent use of PDE5i with
+NO donors, organic nitrates or
+organic nitrites (e.g. glyceryl
+trinitrate)
+Time required from last dose to
+administration of a nitrate (e.g.
+glyceryl trinitrate): 48 hours
+Administration with guanylate
+cyclase (GC) stimulators e.g.
+riociguat
+Dose range:
+As needed:
+5 - 20 mg of maximum once a day
+Once daily use:
+2.5 - 5 mg
+Drug
+Recommended Dose
+Adverse events
+Contraindications/Precautions
+Sildenafil
+Initial dose:
+50 mg to be taken approximately 1 hour before sexual activity,
+effective 30 minutes to 4 hours after administration
+(Half-life: 4 hours)
+Common:
+Headache, flushing, dyspepsia, nasal
+congestion, nasopharyngitis, back
+pain, myalgia, visual abnormalities
+Rare: NAION
+Known hypersensitivity to PDE5i
+or any component of tablet
+Concurrent use of PDE5i with
+NO donors, organic nitrates or
+organic nitrites (e.g. glyceryl
+trinitrate)
+Dose range:
+25 - 100 mg of maximum once a day
+Management of Erectile Dysfunction
+Drug
+Recommended Dose
+Adverse events
+Contraindications/Precautions
+Dose adjustment
+As needed:
+Renal impairment:
+CrCl 30 - 50 ml/min: Starting dose 5 mg, maximum dose 10 mg over
+48 hours
+CrCl <30 ml/min or HD: Maximum 5 mg over 72 hours
+Hepatic impairment:
+Child Pugh Class A or B: Maximum dose 10 mg per day
+Child Pugh Class C: Not recommended
+CYP3A4 inhibitors: Maximum 10 mg over 72 hours
+Once daily use:
+Renal impairment:
+CrCl <30 ml/min or HD: Not recommended
+Hepatic impairment:
+Child Pugh Class A or B: Caution is advised when prescribing
+Child Pugh Class C: Not recommended
+CYP3A4 inhibitors: Maximum 2.5 mg
+As needed & once daily dose:
+Alpha-blockers:
+Patient should be on stable dose prior to initiation of tadalafil and
+initiated at the lowest recommended dose
+Avanafil
+Initial dose:
+100 mg to be taken approximately 30 minutes before sexual activity
+(Half-life: 5 hours)
+Common:
+Headache, flushing, dyspepsia, nasal
+congestion, nasopharyngitis, back
+pain, myalgia, visual abnormalities
+Rare: NAION
+Known hypersensitivity to PDE5i
+or any component of tablet
+Concurrent use of PDE5i with
+NO donors, organic nitrates or
+organic nitrites (e.g. glyceryl
+trinitrate)
+Dose range:
+50 - 200 mg of maximum once a day
+Management of Erectile Dysfunction
+Headache, flushing, dyspepsia, nasal
+congestion, nasopharyngitis, back
+pain, myalgia, visual abnormalities
+Serious:
+QT prolongation
+Rare: NAION
+Patients should seek emergency
+treatment if an erection lasts >4 hours.
+Use PDE5i with caution in patients
+predisposed to priapism.
+Patients to stop taking PDE5i and
+seek prompt medical attention in the
+event of sudden decrease or loss of
+hearing.
+Concurrent use of PDE5i with
+NO donors, organic nitrates or
+organic nitrites (e.g. glyceryl
+trinitrate)
+Time required from last dose to
+administration of a nitrate (e.g.
+glyceryl trinitrate): 24 hours
+Administration
+with
+GC
+stimulators, such as riociguat
+Patients with congenital QT
+syndrome or taking class IA (e.g.
+quinidine, procainamide) or class
+III (e.g. amiodarone, sotalol),
+antiarrhythmics
+Dose range:
+5 - 20 mg of maximum once a day
+Dose adjustment:
+Renal impairment: HD: Do not use
+Hepatic impairment:
+Child Pugh B: Starting dose 5 mg, maximum dose 10 mg
+Child Pugh C: Do not use
+CYP3A4 inhibitors:
+Ritonavir: Maximum 2.5 mg over 72 hours
+Indinavir, saquinavir, atazanavir, ketoconazole 400 mg daily,
+itraconazole 400 mg daily, clarithromycin: Maximum 2.5 mg over 24
+hours
+Ketoconazole 200 mg daily, itraconazole 200 mg daily,
+erythromycin: Maximum 5 mg over 24 hours
+Drug
+Recommended Dose
+Adverse events
+Contraindications/Precautions
+Patients should seek emergency
+treatment if an erection lasts >4 hours.
+Use PDE5i with caution in patients
+predisposed to priapism.
+Patients to stop taking PDE5i and
+seek prompt medical attention in the
+event of sudden decrease or loss of
+hearing.
+Time required from last dose to
+administration of a nitrate (e.g.
+glyceryl trinitrate): 12 hours
+CYP3A4 inhibitors:
+Contraindicated
+in
+strong
+inhibitors
+(e.g.
+ketoconazole,
+ritonavir,
+itraconazole,
+clarithromycin)
+Dose adjustment:
+Renal impairment: CrCl <30 ml/min or HD - Do not use
+Hepatic impairment: Child Pugh C - Do not use
+CYP3A4 inhibitors:
+Moderate inhibitors (e.g. erythromycin, diltiazem, fluconazole,
+verapamil) - Maximum 50 mg over 24 hours
+Alpha-blockers:
+Patient should be on stable dose prior to initiation of tadalafil and
+should be initiated at 50 mg dose
+Vardenafil
+Initial dose:
+10 mg to be taken approximately 60 minutes before sexual activity
+(Half-life: 4 - 5 hours)
+Common:
+Known hypersensitivity to PDE5i
+or any component of tablet
+Management of Erectile Dysfunction
+CrCl = creatinine clearance; ED = erectile dysfunction; HD = haemodialysis; GC = guanylate cyclase; mg = milligram; ml/min = millilitre per minute; NAION
+= non-arteritic anterior ischemic optic neuropathy; NO = nitric oxide; PDE5i = phosphodiesterase-5-inhibitors
+Source:
+1. Salonia A, Bettocchi C, Capogrosso P, et al. EAU Guidelines on Sexual and Reproductive Health. EAU Guidelines Office, Arnhem, The Netherlands:
+European Association of Urology; 2023.
+2. U.S. Food & Drug Administration. PRESCRIBING INFORMATION: CIALIS®: USFDA; 2023.
+3. U.S. Food & Drug Administration. PRESCRIBING INFORMATION: LEVITRA®: USFDA; 2015.
+4. U.S. Food & Drug Administration. PRESCRIBING INFORMATION: STENDRA®: USFDA; 2012.
+5. U.S. Food & Drug Administration. PRESCRIBING INFORMATION: VIAGRA®: USFDA; 2014.
+Alpha-blockers:
+Patient should be on stable dose prior to initiation of tadalafil and
+should be initiated at 5 mg dose
+Geriatric populations (≥65 years of age): Starting dose 5 mg
+Drug
+Recommended Dose
+Adverse events
+Contraindications/Precautions
+Management of Erectile Dysfunction
+Appendix 7
+APPLICATION OF VACUUM ERECTILE DEVICE (VED)
+Source: Nadig PW. Vacuum erection devices: a review. World J Urol. 1990;8:114-117.
+•
+The equipment consists of a
+vacuum chamber, a vacuum
+pump, and a constricting ring or
+band.
+•
+The pump can be operated
+manually as shown, but usually
+battery-operated for easy use.
+•
+An elastic band is used to
+constrict the base of the penis
+to maintain erection after it is
+achieved.
+•
+Before the device is used, the
+constricting band is lubricated
+with a water-soluble jelly and
+placed around the chamber
+near its open end.
+•
+The
+jelly
+is
+next
+applied
+generously to the base of the
+penis to assure an air-tight seal.
+•
+The penis is placed in the
+chamber and the vacuum is
+applied for 3 - 6 minutes or until
+it becomes rigid.
+•
+The constricting band is slid
+off the end of the chamber to
+constrict the base of the penis.
+•
+The vacuum is then released
+and the chamber removed.
+Sexual
+intercourse
+can
+be
+performed immediately after.
+•
+The band should not be left on
+longer than 30 minutes.
+Management of Erectile Dysfunction
+Appendix 8
+LOW-INTENSITY EXTRACORPOREAL SHOCKWAVE THERAPY
+How it works?
+•
+While the patient is lying down, ultrasound gel is applied to the applicator head and/or the treatment area.
+•
+The applicator head is applied to areas of the penile shaft and crus.
+•
+The shockwave technology skilfully creates waves that treat a broad area from the superficial surface of the penile shaft to the deeper erectile
+tissues of the crura.
+•
+It is currently recommended that this treatment to be conducted once or twice a week, for at least 6 sessions.
+•
+The waves stimulate tissue and do not cause any pain or external scarring. Patients can resume daily regular activity after the procedure. Side
+effects (if any) are usually mild and temporary.
+•
+Most patients report progress after 3 - 4 sessions.
+1. Glans penis; 2. Corpus cavernosum; 3. Corpus spongiosum; 4. Bulbospongiosus muscle; 5. Ischiocavernosus muscle; Treatment area
+Management of Erectile Dysfunction
+Appendix 9
+EXAMPLES OF PENILE PROSTHESIS
+Three-piece inflatable penile
+prosthesis
+Two-piece inflatable device
+Malleable prosthesis
+Source: Levine LA, Becher E, Bella A, et al. Penile prosthesis surgery: current
+recommendations from the international consultation on sexual medicine. J
+Sex Med. 2016;13(4):489-518.
+Management of Erectile Dysfunction
+LIST OF ABBREVIATIONS
+adverse event
+Appraisal of Guidelines for Research and Evaluation
+arterial insufficiency
+atherosclerotic cardiovascular disease
+American Urological Association
+area under the curve
+beta-blocker
+body mass index
+benign prostatic hyperplasia
+coronary artery disease
+cognitive-behavioural sex therapy
+cognitive behaviour therapy
+Centers for Disease Control and Prevention
+confidence interval
+centimetre per second
+congestive heart failure
+clinical practice guidelines
+creatinine clearance
+cardiovascular
+cardiovascular disease
+development group
+diabetes mellitus
+Diagnostic and Statistical Manual of Mental Disorders,
+4th Edition
+for example
+European Association of Urology
+external beam radiotherapy
+erectile dysfunction
+Erectile Dysfunction Inventory of Treatment Satisfaction
+erectile function
+Erectile Hardness Score
+end-stage renal disease
+exercise stress test
+Food and Drug Administration
+female sexual dysfunction
+Grading Recommendations, Assessment, Development and Evaluation
+haemoglobin A1C
+high-density lipoprotein
+hazard ratio
+Health Technology Assessment
+that is
+International Classification of Diseases, Ninth Revision
+intracavernosal injection
+International Consultation on Sexual Medicine
+ischaemic heart disease
+International Index of Erectile Function
+5-item version of International Index of Erectile Function
+15-item version of International Index of Erectile Function
+International Index of Erectile Function-erectile function
+internet- and mobile-based psychological intervention
+AE
+AGREE
+AI
+ASCVD
+AUA
+AUC
+β-blocker
+BMI
+BPH
+CAD
+CBST
+CBT
+CDC
+CI
+cm/s
+CHF
+CPG
+CrCl
+CV
+CVD
+DG
+DM
+DSM-IV
+e.g.
+EAU
+EBRT
+ED
+EDITS
+EF
+EHS
+ESRD
+EST
+FDA
+FSD
+GRADE
+HbA1c
+HDL
+HR
+HTA
+i.e.
+ICD-9
+ICI
+ICSM
+IHD
+IIEF
+IIEF-5
+IIEF-15
+IIEF-EF
+Management of Erectile Dysfunction
+interquartile range
+kilogram per meter square
+low-density lipoprotein
+low-intensity extracorporeal shockwave therapy
+lower urinary tract symptoms
+left ventricular dysfunction
+major adverse cardiac event
+Malaysian Health Technology Assessment Section
+mean difference
+metabolic equivalents time
+milligram
+milligram per decilitre
+myocardial infarction
+Ministry of Health
+Medicated Urethral System for Erection
+non-arteritic anterior ischemic optic neuropathy
+nitric oxide
+nocturnal penile tumescence and rigidity
+no significant
+New York Heart Association
+odds ratio
+obstructive sleep apnoea
+phosphodiesterase-5-inhibitor
+penile prosthesis
+Prospective Cardiovascular Münster
+prostate-specific antigen
+peak systolic velocity
+review committee
+randomised controlled trial
+Risk of Bias
+relative risk / risk ratio
+spinal cord injury
+Self-Esteem and Relationship
+Sexual Encounter Profile
+standardised mean difference
+surface under the cumulative ranking curve
+traumatic brain injury
+traditional and complementary medicine
+United States
+U. S. Preventive Services Task Force
+vacuum erection device
+veno-occlusive disease
+weighted mean difference
+IQR
+kg/m2
+LDL
+Li-ESWT
+LUTS
+LVD
+MACE
+MaHTAS
+MD
+MET
+mg
+mg/dL
+MI
+MoH
+MUSE
+NAION
+NO
+NPTR
+NS
+NYHA
+OR
+OSA
+PDE5i
+PP
+PROCAM
+PSA
+PSV
+RC
+RCT
+RoB
+RR
+SCI
+SEAR
+SEP
+SMD
+SUCRA
+TBI
+TCM
+U.S.
+USPSTF
+VED
+VOD
+WMD
+Management of Erectile Dysfunction
+ACKNOWLEDGEMENT
+The members of CPG DG would like to express their gratitude and
+appreciation to the following for their contributions:
+• Panel of external reviewers who reviewed the draft technically
+• Technical Advisory Committee of CPG for their valuable input and
+feedback
+• HTA and CPG Council for approval of the CPG
+• Mr. Mohamad Farhan Huszaimi M. Pajar for analysis and synthesis
+of evidence
+• Ms. Zamilah Mat Jusoh @ Yusof for the retrieval of evidence
+• Dr. Ahmad Shamil Semanat for the cover design
+• All those who have contributed directly or indirectly to the
+development of the CPG
+DISCLOSURE STATEMENT
+The panel members of both DG and RC had completed disclosure forms.
+None hold shares in pharmaceutical firms or act as consultants to such
+firms. Details are available upon request from the CPG Secretariat.
+SOURCE OF FUNDING
+The development of the CPG on Management of Erectile Dysfunction
+was supported mainly by the MoH Malaysia and partly by the Malaysian
+Urological Association and Malaysian Family Medicine Specialists’
+Association.

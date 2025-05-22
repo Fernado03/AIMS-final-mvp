@@ -1,0 +1,1929 @@
+22 MoH/P/PAK/SS2Z8CUPe
+CLINICAL PRACTICE GUIDELINES
+MANAGEMENT OF
+ANTERIOR CROSSBITE
+IN MIXED DENTITION
+3RD EDITION
+tay MINISTRY OF HEALTH MALAYSIA
+Management of Anterior Crossbite (3rd Edition)
+Published by:
+Oral Health Technology Section
+Oral Health Programme
+Ministry of Health Malaysia
+Level 5, Block E10, Precinct 1
+Federal Government Administrative Centre
+62590 Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is Oral Health Programme
+(OHP), Ministry of Health Malaysia. Content may be reproduced in any
+number of copies and in any format or medium provided that a copyright
+acknowledgement to OHP is included and the content is not changed,
+not sold, nor used to promote or endorse any product or service and not
+used inappropriately or misleading context.
+ISBN: 978-629-99918-0-9
+Available on the following websites:
+http://www.moh.gov.my
+http://www.acadmed.org.my
+https://hq.moh.gov.my/ohp/ms/
+Also available as an app for Android and iOS platform: MyMaHTAS
+STATEMENT OF INTENT
+These guidelines update and supplant the previous guidelines
+developed in 2013 and are based on the best available contemporary
+evidence. They are intended as a guide for the best clinical practice in
+the management of anterior crossbite in the mixed dentition presently.
+However, it must be noted that adherence to these guidelines do not
+necessarily lead to the best clinical outcome in individual patient care,
+as every health care provider is responsible for the management of his/
+her unique patient based on the clinical presentation and management
+options available locally.
+REVIEW OF THE GUIDELINES
+These guidelines were issued in November 2023 and will be reviewed
+in 2028 or earlier if important new evidence becomes available. When
+it is due for updating, the head of the related specialty will be informed
+about it. A multidisciplinary team will be formed and discussion will
+be done on the need for a revision including the scope of the revised
+CPG. The systematic review methodology used by the Malaysia
+Health Technology Assessment Section (MaHTAS) will be employed in
+reviewing the guidelines.
+Every care is taken to ensure that this publication is correct in every
+detail at the time of publication. However, in the event of errors or
+omissions, corrections will be published in the web version of this
+document, which is the definitive version at all times.
+Management of Anterior Crossbite (3rd Edition)
+TABLE OF CONTENTS
+No.
+Title
+Page
+LEVELS OF EVIDENCE
+i
+FORMULATION OF RECOMMENDATION
+i
+LIST OF KEY MESSAGES
+ii
+LIST OF RECOMMENDATIONS
+iv
+GUIDELINES DEVELOPMENT
+v
+GENERAL OBJECTIVE, SPECIFIC OBJECTIVES
+vii
+CLINICAL QUESTIONS, TARGET POPULATION,
+TARGET GROUP / USER AND SETTINGS
+MEMBERS OF THE GUIDELINES DEVELOPMENT GROUP viii
+MEMBERS OF THE INTERNAL REVIEWERS
+ix
+MEMBERS OF THE EXTERNAL REVIEWERS
+x
+ALGORITHM: Management of Anterior Crossbite
+xi
+In Mixed Dentition
+1.0
+INTRODUCTION
+1
+2.0
+AETIOLOGY
+3
+2.1 Dental and Local Factors
+3
+2.2 Functional
+3
+2.3 Skeletal
+3
+3.0
+TYPES OF ANTERIOR CROSSBITE
+4
+3.1 Dental Anterior Crossbite
+4
+3.2 Functional Anterior Crossbite (Pseudo Class III)
+4
+3.3 Skeletal Anterior Crossbite
+4
+4.0
+EARLY INTERVENTION
+5
+4.1 Implication of delayed or no treatment
+5
+4.2 Consideration before embarking on early intervention
+5
+5.0
+EXAMINATION & DIAGNOSIS
+7
+5.1 History Taking
+7
+5.2 Extra-oral & Intra-oral Examination
+7
+5.3 Radiographic Examination
+8
+5.4 Study Model
+10
+5.5 Clinical Photographs
+10
+6.0
+TREATMENT
+12
+6.1 Treatment Modalities for Dental Anterior Crossbite
+12
+6.1.1 Upper Removable Appliance
+13
+6.1.2 Lower Inclined Bite Plane
+16
+6.1.3 Cemented Bite Pads
+16
+6.1.4 Fixed Appliance
+Management of Anterior Crossbite (3rd Edition)
+TABLE OF CONTENTS
+No.
+Title
+Page
+6.2 Treatment Modalities for Functional Anterior
+19
+Crossbite (Pseudo Class III)
+6.3 Treatment Modalities for Skeletal Anterior Crossbite
+19
+6.3.1 Protraction Facemask
+19
+6.3.2 Chin Cup
+22
+6.3.3 Skeletal Anchored Class III Elastics
+23
+6.3.4 Functional Appliance
+24
+6.3.5 Tandem Traction Bow Appliance
+25
+7.0
+IMPLEMENTING THE GUIDELINES
+27
+7.1 Facilitating and limiting factors
+27
+7.2 Potential resource implications
+27
+7.3 Proposed clinical audit indicators
+28
+APPENDIX 1: Search strategy
+29
+APPENDIX 2: Clinical questions
+30
+APPENDIX 3: Summary of treatment modalities
+31
+for anterior crossbite
+APPENDIX 4: Appliance fabrication laboratory form
+32
+(Example of URA design)
+APPENDIX 5: Instructions for Removable Appliance
+23
+APPENDIX 6: Photo of Treatment Modalities for
+34
+Anterior Crossbite of Skeletal Origin
+List of Abbreviations
+35
+ACKNOWLEDGEMENTS, DISCLOSURE STATEMENT,
+36
+SOURCE OF FUNDING
+REFERENCES
+Management of Anterior Crossbite (3rd Edition)
+i
+Level
+I
+II-1
+II-2
+II-3
+III
+Study design
+Evidence obtained from at least one properly designed
+randomised controlled trial.
+Evidence obtained from well-designed controlled trials
+without randomisation.
+Evidence obtained from well-designed cohort or case-control
+analytic studies, preferably from more than one center or
+research group.
+Evidence obtained from multiple time series studies, with
+or without intervention. Dramatic results in uncontrolled
+experiments (such as the results of the introduction of
+penicillin treatment in the 1940s) could also be regarded as
+this type of evidence.
+Opinions or respected authorities, based on clinical
+experience; descriptive studies and case reports; or reports
+of expert committees.
+Source: Adapted from Harris RP, Helfand M, Woolf SH, Lohr KN, Mulrow CD, Teutsch SM, Atkins
+D. Current Methods of the U.S. Preventive Services Task Force: A Review of the Process.
+Am J Prev Med. 2001;20 (suppl 3):21-35.
+FORMULATION OF RECOMMENDATION
+• In line with the new development in CPG methodology, the
+Grading Recommendations, Assessment, Development
+and Evaluation (GRADE) was adapted in its work process. The
+quality of body of evidence and related effect size are carefully
+assessed /reviewed by the CPG Development Group (DG).
+• In formulating the recommendations, overall balances of the
+following aspects are considered in determining the strength of
+the recommendations which includes:
+ overall quality and level of the evidence
+ balance of benefits and harms of the options
+ patient’s preference and values
+ resource implications
+ equity, feasibility and acceptability to the local target population
+• The more criteria being fulfilled, the more certain is the evidence
+leading to strong recommendations using the word “should”
+being considered. Otherwise, weak recommendations use the
+word “may” in proposing an action to be made.
+• In the CPG, a yellow box highlights important message(s)
+in the management while a blue box contains evidencebased recommendation(s) for the particular condition.
+LEVELS OF EVIDENCE
+Management of Anterior Crossbite (3rd Edition)
+ii
+LIST OF KEY MESSAGES
+Key Message 1
+Important signs to look for when patients present with anterior
+crossbite:
+• Enamel wear - attrition of the upper or lower incisors
+• Periodontal problems (labial gingival recession associated with
+traumatic occlusion, probing depth and bone dehiscence)
+• Tooth mobility due to traumatic occlusion
+• Presence of mandibular displacement that may occur when closing
+in the retruded contact position (RCP) into the intercuspal position
+(ICP) due to premature contact
+• Patient’s ability to achieve an edge-to-edge incisor relationship
+Key Message 2
+• Comprehensive
+history
+taking,
+clinical
+examination,
+and
+radiographs are important to determine the nature of the crossbite,
+whether dental, functional or skeletal in origin.
+Key Message 3
+• The management of anterior crossbite requires a proper diagnosis.
+• Record taking is crucial for evaluation, monitoring treatment
+progress and medico-legal purposes.
+Key Message 4
+The criteria for achieving successful treatment of anterior crossbite:
+• Overall oral health
+• Age and timing of treatment
+• Patient’s growth potential, i.e. magnitude and direction of
+mandibular growth
+• Severity of malocclusion
+• Adequate space in the arch to align the tooth/ to correct anterior
+crossbite
+• Sufficient overbite to hold the tooth in position following correction
+• Incisors inclination before treatment
+• Patient’s compliance
+• Clinician’s skill and experience
+• Cost
+• Safety
+Management of Anterior Crossbite (3rd Edition)
+iii
+Key Message 5
+• Protraction facemask (PFM) alone is sufficient to be used in the
+correction of anterior crossbite in mild Class III skeletal patterns
+with maxillary hypoplasia among growing patients in mixed
+dentition.
+• If there is a problem with maxillary constriction or if the maxillary
+arch needs to be expanded, PFM can be utilised with RME.
+• PFM treatment need to be carried out by an orthodontist.
+• PFM bulkiness and soft tissue irritation can compromise patient’s
+compliance.
+• The assessment of treatment stability is usually done after the
+patient has completed their growth spurt.
+Key Message 6
+The factors that determine good outcome of functional appliance
+treatment in anterior crossbite correction:
+• Growing patients with Class III skeletal pattern
+• Cases with no or minimal dentoalveolar compensation
+• Good patient motivation
+Key Message 7
+• Functional appliance may be provided by an orthodontist for
+correction of skeletal anterior crossbite in mixed dentition.
+Management of Anterior Crossbite (3rd Edition)
+iv
+LIST OF KEY RECOMMENDATIONS
+Recommendation 1
+• Anterior crossbite among patients in mixed dentition should be
+corrected early to prevent unwanted implications.
+Recommendation 2
+• An upper removable appliance, a lower inclined bite plane
+and cemented bite pads may be used to correct dental anterior
+crossbite in patients with mixed dentition based on the clinician’s
+skill, preferences and patient’s compliance.
+Recommendation 3
+• Correction of anterior crossbite using fixed appliances should be
+carried out by orthodontist.
+Recommendation 4
+• Protraction facemask therapy may be used to correct skeletal
+anterior crossbite in growing patients with Class III malocclusion.
+Management of Anterior Crossbite (3rd Edition)
+v
+GUIDELINES DEVELOPMENT
+These clinical practice guidelines (CPG) were developed by a
+multidisciplinary expert committee consisting of Orthodontists, a
+Paediatric Dental Specialist, Dental Public Health Specialists and
+Dental Officers from the Ministry of Health.
+The previous edition of the CPG on Management of Anterior Crossbite
+in the Mixed Dentition (2013) was used as the basis for the development
+of these guidelines. The recommendations were formulated taking into
+consideration the best available evidence and local practices. Several
+improvements have been introduced in this edition. The scope has
+been expanded to include new and updated information. In addition,
+clinical audit indicators have also been identified for the purpose of
+monitoring and evaluating outcomes.
+Literature search was carried out using the following electronic
+databases: Medline, PubMed, Cochrane Database of Systematic
+Reviews (CDSR) and Embase while full text journal articles were
+retrieved from these databases. The literature search was limited to
+human study, English language and published articles from 2012 to
+April 2023. In addition, the reference lists of all retrieved literature and
+guidelines were searched to further identify relevant studies. Future
+CPG updates will consider evidence published after this cut-off date.
+An example of the search strategy used can be found in Appendix 1.
+Details of the search strategy can be obtained upon request from the
+CPG Secretariat.
+There were five (5) clinical questions which were assigned to members
+of the development group. The group members met a total of 13
+times throughout the development of these guidelines. All retrieved
+articles were appraised using the Critical Appraisal Skill Programme
+(CASP) checklist by at least two (2) members, presented in the form of
+evidence tables and discussed during group meetings. All statements
+and recommendations formulated were agreed upon by both the
+development group and reviewers. This CPG is based on the findings
+of systematic reviews, randomised controlled trials, observational
+studies and case reports, with local practices taken into consideration.
+However, when there was lack of evidence, recommendations were
+based on consensus of group members. Although ideally patients’
+views and preferences need to be considered in the development of
+CPGs, in this instance, it was not feasible.
+The literature used in these guidelines were graded using the US /
+Canadian Preventive Services Task Force Level of Evidence (2001),
+while the formulation of recommendation was done using the principles
+Management of Anterior Crossbite (3rd Edition)
+vi
+of GRADE. The writing of the CPG strictly follows the requirements of
+Appraisal of Guidelines Research and Evaluation (AGREE II).
+The draft was reviewed by a panel of internal and external reviewers.
+Recommendations were presented to the Technical Advisory Committee
+for CPGs, and finally to the HTA and CPG Council, Ministry of Health,
+Malaysia for approval.
+Management of Anterior Crossbite (3rd Edition)
+vii
+GENERAL OBJECTIVE
+To provide evidence-based recommendations for the best management
+practices of anterior crossbite among patients in mixed dentition.
+SPECIFIC OBJECTIVES
+The objectives of the CPG are to provide recommendations on the
+management of anterior crossbite among patients in mixed dentition on
+following aspects:
+• early detection and referral
+• assessment and diagnosis
+• treatment modalities and stability
+CLINICAL QUESTIONS
+The clinical questions addressed by these guidelines can be found in
+Appendix 2.
+TARGET POPULATION
+The primary target group is mixed dentition with anterior crossbite
+which affects one or more permanent teeth.
+Inclusion criteria
+Children with anterior crossbite in the mixed dentition
+Exclusion criteria
+Children with anterior crossbite who have cleft lip and palate or other
+cranio-facial deformity
+TARGET GROUP / USER
+This document is intended to guide those involved in the management
+of anterior crossbite at any healthcare level including:
+• Dental practitioners
+• Medical practitioners
+• Dental and medical students
+• Patients and their advocates
+• Professional societies
+SETTINGS
+Primary and specialist healthcare settings.
+Management of Anterior Crossbite (3rd Edition)
+viii
+DEVELOPMENT GROUP
+Chairperson
+Dr. Hjh Yatimah Othman
+Consultant Orthodontist
+Unit Ortodontik
+Klinik Pergigian Presint 18, WP Putrajaya
+Members
+Dr. Ong Siang Ching
+(co-chairperson)
+Orthodontic Specialist
+Unit Ortodontik
+Klinik Pergigian Kota Bharu
+Kelantan
+Dr. Yap Kin Teen
+Orthodontic Specialist
+Semarak Uptown Dental Clinic
+Seremban,
+Negeri Sembilan
+Dr. Nurulnazra Mohd Areffin
+Paediatric Dental Specialist
+Jabatan Pergigian Pediatrik
+Hospital Tunku Azizah
+WP Kuala Lumpur
+Dr. Enny Esdayantey Abdul Manab
+Dental Public Health Specialist
+Bahagian Kesihatan Pergigian
+Jabatan Kesihatan
+Negeri Pulau Pinang
+Pulau Pinang
+Dr. Nurhafizah Abdul Rahim
+Dental Officer in Charge
+Klinik Pergigian Seksyen 19
+Shah Alam,
+Selangor
+Dr. Ooi Ee Fen (secretary)
+Orthodontic Specialist
+Unit Ortodontik
+Klinik Pergigian Sungai Petani
+Kedah
+Dr. Malathi Deva Tata
+Orthodontic Specialist
+Unit Ortodontik
+Klinik Pergigian Bandar Botanik
+Klang, Selangor
+Dr. Norhayati Jabar
+Orthodontic Specialist
+Unit Ortodontik
+Klinik Pergigian Alor Gajah
+Melaka
+Dr. Azura Abdullah
+Dental Public Health Specialist
+Pejabat Kesihatan Pergigian Daerah
+Lembah Pantai,
+WP Kuala Lumpur
+Dr. Parveen Thanabalen
+Senior Principal Assistant Director
+Cawangan Teknologi Kesihatan
+Pergigian
+Program Kesihatan Pergigian
+Kementerian Kesihatan Malaysia
+Management of Anterior Crossbite (3rd Edition)
+ix
+INTERNAL REVIEWERS
+The draft guidelines were reviewed by a panel of experts. They were
+asked to comment primarily on the comprehensiveness and accuracy
+of the interpretation of evidence supporting the recommendations in the
+guidelines.
+Chairperson
+Profesor Dr. Rohaya Megat Abdul Wahab
+Senior Consultant Orthodontist
+Jabatan Kesihatan Pergigian Keluarga
+Fakulti Pergigian,
+Universiti Kebangsaan Malaysia
+Members (in alphabetical order)
+Dr. Bahruddin Saripudin
+Senior Consultant In Paediatric Dentistry
+Jabatan Pergigian Pediatrik,
+Hospital Tunku Azizah, Kuala Lumpur
+50300 Kuala Lumpur
+Dr. Lor Yen Fang
+General Practitioner
+Surgeri Pergigian Toothmate Dental & Co
+Lot No 2F-75, Second Floor
+Paradigm Mall,
+Jalan Mewah Ria 2,
+Taman Bukit Mewah,
+81200, Johor Bharu, Johor
+Dr. Mohd Zambri Mohamed Makhbul
+Orthodontic Specialist
+Unit Ortodontik
+Klinik Pergigian Cahaya Suria,
+Kuala Lumpur
+Colonel (Dr.) Nik Seridaiyana Nik
+Omar Al Haded
+Principal Dental Officer/ Specialist
+Orthodontist
+Markas Divisyen Kedua Infantri Malaysia
+Kem Tun Razak, Pulau Pinang
+Dr. Sofiah Mat Ripen
+Dental Public Health Specialist
+Deputy Director
+Cawangan Teknologi Kesihatan
+Pergigian
+Program Kesihatan Pergigian
+Kementerian Kesihatan Malaysia
+Dr. Suzana Sharif
+Dental Public Health Specialist
+Cawangan Epidemiologi & Penyelidikan
+Kesihatan Pergigian
+Program Kesihatan Pergigian
+Kementerian Kesihatan Malaysia
+Associate Prof. Dr. Wan Nurazreena
+Wan Hassan
+Consultant Orthodontist
+Jabatan Pergigian Pediatrik & Ortodontik
+Fakulti Pergigian, Universiti Malaya
+Management of Anterior Crossbite (3rd Edition)
+x
+EXTERNAL REVIEWERS (in alphabetical order)
+Assoc Prof Dr. Annapurny Venkiteswaran
+Centre For Paediatric Dentistry & Orthodontics Studies
+Faculty of Dentistry
+University Teknologi MARA (UiTM)
+Sg Buloh Campus, Malaysia
+Asst. Prof Dr. Cheong Joo Ming
+Lecturer & Orthodontist
+Kulliyyah of Dentistry
+International Islamic University Malaysia (IIUM)
+Kuantan Campus, Pahang
+Dr. Goh Ai Hwa
+Former Consultant Orthodontist
+Pusat Pakar Pergigian Seremban
+Jalan Zaaba, Negeri Sembilan
+Datuk Dr. Kalaiarasu M Peariasamy
+Senior Consultant In Paediatric Dentistry
+Former ICR NIH Director &
+Adjunct Professor, Taylor’s School of Medicine, Malaysia
+Colonel (Dr.) Shalene Kereshanan
+Timbalan Ketua Kepakaran Pergigian
+Angkatan Tentera Malaysia &
+President Malaysian Association of Orthodontists
+Datin Dr. Surguna Devi Muniandy
+Orthodontic Specialist
+Prince Court Medical Centre
+Kuala Lumpur
+Management of Anterior Crossbite (3rd Edition)
+ALGORITHM ON MANAGEMENT OF ANTERIOR CROSSBITE IN
+THE MIXED DENTITION
+xi
+Referral to Orthodontist
+• Fixed Appliance
+• Protraction Facemask
+• Chin Cup
+• Skeletal Anchored
+• Class III Elastics
+• Functional Appliance
+• Tandem Traction Bow
+Appliance (TTBA) /
+Modified TTBA
+Yes
+• Cemented bite pads
+• Lower inclined bite plane
+• Upper Removable
+Appliance (URA)
+Yes
+No
+No
+No
+No
+No
+Anterior Crossbite in
+Mixed Dentition
+Skeletal
+Discrepancy
+Occlusal
+Interference
+Yes
+Dental Anterior
+Crossbite
+Crowding
+(Lack of space)
+Functional Anterior
+Crossbite
+(Pseudo Class III)
+Extraction of adjacent
+deciduous tooth *
+No
+Yes
+Yes
+Yes
+Spontaneous
+correction
+Compliant
+Patient
+Crossbite corrected
+with adequate overbite
+Discharge
+* Need to consult orthodontist
+/ paediatric dental specialist
+Management of Anterior Crossbite (3rd Edition)
+1
+1.0
+INTRODUCTION
+An anterior crossbite is defined as the misalignment of the upper and
+lower front teeth, with the lower teeth overlapping the upper teeth. This
+may involve one or more anterior teeth and can occur during primary or
+mixed dentition phase, when the child has a combination of deciduous
+and permanent teeth. It is common for children with Class III skeletal
+pattern to have anterior crossbite, especially crossbite of all the incisors.(1)
+Anterior crossbite in the primary dentition is rare but when it occurs,
+it is an indication that the child will develop a more severe Class III
+skeletal pattern as the child grows. Rarely this problem will need to be
+corrected at the primary dentition stage; rather the child’s jaw growth
+and anterior bite will have to be monitored during the onset of early
+permanent dentition stage.
+The prevalence of anterior crossbite differs among regions and
+ethnicities. Between 2.2 and 11.0% of people in the European region
+are experiencing anterior crossbite. A study conducted in Shanghai
+found that 10.5% of children between the ages of 7 and 9 had anterior
+crossbite.(2) According to a cross-sectional study in Malaysia, 7.7% of
+12-year-old Malay students had an anterior crossbite.(3)
+Anterior crossbite in mixed dentition can lead to several functional and
+aesthetic issues that can impact a child’s oral health and overall wellbeing. It can affect the child’s ability to bite and chew food properly.
+In addition to functional challenges, the abnormal tooth alignment can
+cause tooth wear and enamel damage. Gingival recession and loss
+of periodontal attachment may also occur due to the improper forces
+exerted on the gingiva as a result of the malpositioned teeth. Furthermore,
+anterior crossbite can contribute to mandibular displacement, where
+the lower jaw shifts to accommodate the malalignment. An anterior
+crossbite also may reveal an underlying jaw problem that is best
+addressed at a young age, while the face and jaws are still developing.(4)
+Therefore, anterior crossbite should be treated early in order to avoid a
+more complex and complicated treatment for the patient in the future.
+Early intervention can address anterior crossbite in mixed dentition.
+Depending on the severity of the anterior crossbite, the child’s age, and
+other factors, various orthodontic appliances may be used, including
+removable appliances, fixed appliances, or protraction facemasks and
+others. These appliances gradually shift the misaligned teeth into their
+proper positions, promoting improved function and aesthetics.
+With new developments in the management of patients with anterior
+crossbite in mixed dentition, this CPG is updated to include latest
+evidence on the management of anterior crossbite of dental origin
+in mixed dentition using different treatment modalities such as lower
+Management of Anterior Crossbite (3rd Edition)
+2
+inclined bite plane and cemented bite pads. This CPG also includes
+documented evidence for the treatment of anterior crossbites of skeletal
+origin, including class III malocclusions using protraction masks with or
+without RME and skeletal anchored Class III elastics.
+This CPG aims to provide evidence-based recommendations to help
+healthcare providers at all levels of care make appropriate clinical
+judgments in the management of patients with anterior crossbite in the
+mixed dentition. It is to provide a valuable resource for the effective
+management of patients with this condition.
+Management of Anterior Crossbite (3rd Edition)
+3
+2.0
+AETIOLOGY
+According to Littlewood and Mitchell (2019), an anterior crossbite
+occurs when one or more of the upper incisors are in linguo-occlusion
+position compared to the lower arch.(6) The aetiology of the anterior
+crossbite can be divided as below:
+2.1
+Dental and Local Factors
+Dental anterior crossbite is solely due to displacement of teeth. It could
+be due to:
+• crowding of teeth that can cause the maxillary incisors to be displaced
+lingually(1, 5)
+• presence of supernumerary teeth that interferes with the eruption of
+maxillary tooth(1, 5)
+• traumatic injuries to the primary dentition can cause lingual
+displacement of the maxillary permanent tooth bud.(5)
+• trauma to permanent teeth can cause them to be displaced, resulting
+in anterior crossbite(5)
+• over-retained primary incisors can cause the permanent teeth to
+erupt lingually, leading to anterior crossbite(1, 5)
+2.2
+Functional
+A change in anterior function during closure from centric relation to
+centric occlusion due to habit of placing the mandible forward can lead
+to an anterior crossbite. It may be the result of premature occlusal
+interference that forces the lower jaw to move forward or laterally to
+achieve maximum occlusion.(5)
+2.3
+Skeletal
+Skeletal anterior crossbite usually results from retarded maxillary
+growth or excessive mandibular growth or the combination of both.
+Generally, the more anterior teeth in crossbite, the more severe the
+underlying skeletal problem.(6)
+It can be associated with the following factors:
+• strong familial inheritance contributes to the development of a Class
+III skeletal pattern, which can lead to anterior crossbite(5)
+• scar tissue from cleft lip and palate repair can restrain the growth of
+the maxilla, resulting in a narrow maxilla and anterior crossbite(5)
+• overdevelopment of mandible in craniofacial dysostosis, cleidocranial
+dysplasia and hormonal disturbances such as acromegaly and
+gigantism(5)
+• trauma or fractures to the jaws can cause skeletal abnormalities and
+anterior crossbite
+Management of Anterior Crossbite (3rd Edition)
+4
+3.0
+TYPES OF ANTERIOR CROSSBITE
+According to aetiological factors, anterior crossbite can be classified
+into three types;(5)
+3.1
+Dental Anterior Crossbite
+Dental anterior crossbite are generally localised in nature, involving
+lingually displaced maxillary central or lateral incisors. It does not have
+underlying skeletal problems.(1, 5)
+3.2
+Functional Anterior Crossbite (Pseudo Class III)
+This is a type of anterior crossbite caused by occlusal interferences
+between upper and lower incisor(s) which leads to forward displacement
+of the mandible in order to achieve maximum intercuspation.
+3.3
+Skeletal Anterior Crossbite
+This is an anterior crossbite as a result of skeletal discrepancies due to
+retrognathic maxilla or the prognathic mandible or combination of both.
+The greater the number of teeth in crossbite, the greater the skeletal
+component of the aetiology.(6) Early treatment may not be successful
+in all patient with Class III skeletal problem due to the unpredictability
+of the growth patterns, hence consultation with a specialist is required.
+Management of Anterior Crossbite (3rd Edition)
+5
+4.0
+EARLY INTERVENTION
+Anterior crossbite may potentially have a detrimental effect on the
+development of skeletal and dentoalveolar structures. Therefore,
+early correction around 6-10 years old is important to prevent the
+problem from worsening and becoming more difficult to manage. Early
+intervention typically starts when the permanent incisor(s) are erupting
+in a crossbite position (7-8 years old).
+The rationale for early intervention are:
+• a crossbite has little possibility of self-correction
+• a crossbite in the primary dentition may lead to development of
+crossbite in the permanent dentition(7)
+• postponing treatment may result in prolonged treatment of greater
+complexity(7)
+• a functional crossbite can develop from cuspal interference, resulting
+in a mandibular shift(7)
+• to improve maxillary lip posture and facial appearance(7)
+4.1
+Implications of delayed or no treatment
+If left untreated, anterior crossbite may lead to:(7)
+• damage to the teeth in crossbite through attrition.
+• mobility of the lower incisor due to labial displacement of this tooth
+accompanied by loss of gingival attachment labially.
+• gingival recession and loss of alveolar bone support to the opposing
+lower incisor.
+• the potential adverse growth influences on the mandible and anterior
+portion of the maxilla.
+• constant protrusion of the mandibular condyle from the fossa may
+stimulate growth of the mandible.
+4.2 Consideration before embarking on early intervention
+(interceptive treatment) :
+The following factors need to be considered before early intervention of
+anterior crossbite in mixed dentition:(7)
+• oral hygiene status
+• the severity of the underlying skeletal discrepancy
+• the amount of dentoalveolar compensation that has taken place
+(proclined upper incisors and retroclined lower incisors)
+• the amount of overbite present
+• patient’s compliance
+• patient’s overall health condition
+Management of Anterior Crossbite (3rd Edition)
+6
+Recommendation 1
+Anterior crossbite among patients in mixed dentition should be corrected
+early to prevent unwanted complications
+Management of Anterior Crossbite (3rd Edition)
+7
+5.0
+EXAMINATION AND DIAGNOSIS
+Early recognition and correct diagnosis of anterior crossbite are essential
+to determine suitable treatment and subsequently achieve a successful
+outcome. It is crucial for the clinician to be able to differentiate between
+the different types of anterior crossbite as management depends on
+the aetiology and severity of the condition. For example, dental anterior
+crossbite can be managed by using simple orthodontic appliances
+while functional and skeletal anterior crossbite require more complex
+treatment modalities. Crossbite can be diagnosed through appropriate
+case history, clinical examination and cephalometric analysis to develop
+an appropriate treatment plan for patients.
+5.1
+History Taking
+Patient’s assessment starts with addressing the patient’s complaint,
+thorough history taking, comprehensive physical examination and
+radiographic investigations.
+History taking should include:
+• patient’s complaint or parents’ concern
+• medical history - any relevant medical illness / syndrome
+• dental history - any history of trauma to teeth / jaw, age when trauma
+occur
+• family history - any family member with mandibular prognathism or
+Class III skeletal pattern
+• social history to access patient motivation and compliance to
+treatment
+• habit
+5.2
+Extra-oral and Intra-oral Examination
+Diagnosis of anterior crossbite can be done from routine clinical
+examination as summarised below:
+1. EXTRA-ORAL EXAMINATION
+• Clicking / crepitus
+• Tenderness
+• Deviation and displacement upon mouth opening and
+closing
+• In three planes i.e. anterior-posterior (A-P), vertical
+and transverse
+Temporomandibular
+joint (TMJ)
+Skeletal pattern
+• Facial profile - straight / convex / concave
+• Lip competency
+Soft tissue
+Management of Anterior Crossbite (3rd Edition)
+8
+• Oral hygiene and DMF status
+• Gingival health
+• Gingival recession
+• Tooth mobility
+• Tooth attrition
+General condition
+• Severity of crowding
+• Spacing availability for alignment
+• Upper and lower incisors inclination
+Assessment of the
+arches
+• Number of teeth involved in crossbite
+• Overjet and overbite
+• Able to achieve edge-to-edge incisor relationship
+• Any mandibular displacement in closure
+• Centreline discrepancy
+• Buccal segment relationship
+In occlusion
+2. INTRA-ORAL EXAMINATION
+Key Message 1
+Important signs to look for when patients present with anterior crossbite:
+• Enamel wear - attrition of the upper or lower incisors
+• Periodontal problems (labial gingival recession associate with
+traumatic occlusion, probing depth and bone dehiscence)
+• Tooth mobility due to traumatic occlusion
+• Presence of mandibular displacement that may occur when closing
+in the retruded contact position (RCP) into the intercuspal position
+(ICP) due to premature contact
+• Patient’s ability to achieve an edge-to-edge incisor relationship
+5.3
+Radiographic Examination
+• to assess skeletal relationship
+• to measure the inclination for the upper and lower
+incisors
+• Deviation and displacement upon mouth opening and
+• to determine the aetiology of the malocclusion
+• to confirm the presence / absence of teeth
+• to assess general condition of teeth and supporting
+tissues
+Lateral Cephalogram
+Orthopantomogram
+(OPG)
+• to detect any supernumerary teeth or other pathology
+in the anterior region
+Standard Upper
+Anterior Occlusal
+(if necessary)
+Management of Anterior Crossbite (3rd Edition)
+9
+Figure 1:
+Dental Anterior Crossbite
+and Functional Anterior
+Crossbite
+(Pseudo Class III)
+Figure 2:
+Skeletal Anterior
+crossbite
+Figure 1:
+Dental Anterior Crossbite
+and Functional Anterior
+Crossbite
+(Pseudo Class III)
+Figure 2:
+Skeletal Anterior
+crossbite
+Aetiology
+• Lack of space / crowding
+in the dental arches
+• No size discrepancy
+between maxilla and
+mandible
+• Genetic or hereditary in
+most cases
+• Size discrepancy between
+maxilla and mandible
+Maxillary incisors
+inclination
+• Upright or retroclined
+• Proclined
+Mandibular growth
+pattern
+• Normal
+• Unfavourable growth
+pattern
+Number of teeth
+in crossbite
+• One or more teeth
+• Segmental crossbite
+Transverse
+discrepancy
+• Not present
+• If present, may be
+associated with mandibular
+displacement (Functional
+crossbite / Pseudo
+Class III)
+• Can be associated with
+posterior crossbite
+Mandibular incisors
+inclination
+• Proclined or upright
+• Retroclined
+Key Message 2
+Comprehensive history taking, clinical examination, and radiographs
+are important to determine the nature of the crossbite, whether it is
+dental, functional, or skeletal in origin.
+Features To Differentiate Types of Anterior Crossbite
+Management of Anterior Crossbite (3rd Edition)
+10
+5.4
+Study Model
+Study model and wax bite registration is taken for diagnosis and
+treatment planning. It is also for medicolegal and research purposes.(7)
+With the advance of technology, digital models are gaining acceptance
+as an alternative to traditional study models. The advantages of the
+digital models eliminate problems of storage, easier communication
+between specialists, significant time saving in performing necessary
+occlusal measurement.(8)
+5.5
+Clinical Photographs
+Clinical photographs taken both extraorally and intraorally with
+standardised settings for pre- and post-treatment records are advisable.
+An example of clinical photograph is shown in Figure 4a and 4b.
+Figure 4a: Extraoral photos
+Management of Anterior Crossbite (3rd Edition)
+11
+Figure 4b: Intraoral photos
+Key Message 3
+• The management of anterior crossbite requires a proper diagnosis.
+• Record taking is crucial for evaluation, monitoring treatment progress
+and medico-legal purposes.
+Management of Anterior Crossbite (3rd Edition)
+12
+6.0
+TREATMENT
+The main aim of anterior crossbite treatment is to correct the relationship
+between the affected maxillary tooth or teeth to a point of a stable
+overbite relationship to prevent relapse. Simple interceptive treatment,
+such as extraction of adjacent primary teeth (under specialist advice)
+can sometimes help to prevent the development of a crossbite, if
+treated early. A detailed examination and diagnosis should be carried
+out to establish a tailored treatment plan for the patient.
+Positive outcome for the correction of anterior crossbite is achieved
+through the following:
+• dentoalveolar compensation i.e. proclination of upper teeth alone or
+combination of proclination of upper teeth and retroclination of lower
+teeth
+• forward maxillary protraction
+• backward rotation of the mandible
+Key Message 4
+The criteria for achieving successful treatment of anterior crossbite:
+• Overall oral health
+• Age and timing of treatment
+• Patient’s growth potential, i.e. magnitude and direction of mandibular
+growth
+• Severity of malocclusion
+• Adequate space in the arch to align the tooth/ to correct anterior
+crossbite
+• Sufficient overbite to hold the tooth in position following correction
+• Incisors inclination before treatment
+• Patients’ compliance
+• Clinician’s skill and experience
+• Cost
+• Safety
+Treatment modalities should be considered carefully by taking into
+account the underlying aetiology of crossbite, clinician’s skill and
+preference, the availability of technical support and patient’s motivation
+and compliance.
+6.1
+Treatment Modalities for Dental Anterior Crossbite
+Dental anterior crossbite can be corrected by using simple treatment
+modalities such as upper removable appliance (URA), fixed appliance,
+lower inclined bite plane and cemented bite pad. (Refer Appendix 3 for
+summary). Apart from achieving a correct diagnosis, it is also important
+Management of Anterior Crossbite (3rd Edition)
+13
+to assess the patient’s compliance and motivation before deciding the
+treatment that best suits the patient.
+6.1.1 Upper Removable Appliance (URA)
+Removable appliance is an appliance that is not attached to the teeth
+and can be removed by the patient for the purpose of cleaning. It is
+usually used to move teeth and correct the problem. The appliance
+is typically fitted in the upper arch and consists of an acrylic (plastic)
+plate, wire components for tooth movement, as well as retention of the
+appliance in the mouth (examples in Figure 5a and Figure 5b). The
+fabrication of this appliance is done in a laboratory using the Appliance
+Fabrication Laboratory Form (Refer Appendix 4). Advantages and
+disadvantages are summarised in Table 3.
+Figure 5a: Frontal view Figure 5b: Occlusal view
+with URA with URA
+Table 3: Advantages and disadvantages of URA in correcting
+anterior crossbite
+ADVANTAGES
+DISADVANTAGES
+Simple
+Can be removed for oral hygiene
+purposes
+Reduce chairside time
+Efficient at tipping movement
+Highly dependent on patient’s
+compliance
+Need good laboratory support
+Slurring of speech
+Inefficient at rotation and bodily tooth
+movement
+Management of Anterior Crossbite (3rd Edition)
+14
+i
+Designing Removable Appliance
+Designing a successful removable appliance requires a simple and
+functional design. It consists of four important components:
+To date, there is no evidence suggesting any particular design is more
+effective than the other in treating anterior crossbite in the mixed
+dentition. Thus, the design of the URA should be customised according
+to the patient’s malocclusion, clinicians’ preferences and technicians’
+skills.
+ii
+Management of Removable Appliance
+Removable appliance management involves monitoring and maintaining
+removable appliance throughout the patient’s treatment period. This
+includes all responsibilities and processes necessary to ensure proper
+care and handling of the appliance.
+a. Fitting of Removable Appliance
+During the appliance fitting appointment, the clinician should ensure
+the appliance fits properly and is comfortable for the patient to wear.
+In addition, clear instructions for inserting, removing and care of the
+appliance should be explained and demonstrated to the patient and
+parents.
+1. Before placing a removable appliance in the patient’s mouth,
+ensure that it is the correct appliance for the patient and the design
+is followed.
+2. Explain to the patient how the appliance works.
+COMPONENTS
+FUNCTION
+• Provide forces to move teeth. Mainly by applying
+tipping force to the tooth / teeth forward.
+• Eg: Z spring, recurved spring, expansion screw etc
+Active
+component
+• A source of resistance to the reaction from the active
+components
+• Eg: Baseplate, retentive components
+Anchorage
+component
+Baseplate
+• Ensure the appliance is retentive and comfortable to
+wear
+• Facilitate the active component(s) stay in place to
+function efficiently
+• Eg: Adam’s clasp, Southend clasp, Ball-ended clasp etc
+Retentive
+component
+• Hold together the other components of the appliance.
+• Can be incorporated with a posterior bite plane to free
+the occlusion and allow the tooth in crossbite to move
+forward effectively.
+Management of Anterior Crossbite (3rd Edition)
+15
+3. Ensure there is no roughness on the fitting surfaces.
+4. Ensure free movement of the active component, i.e. no restriction
+from acrylic.
+5. Demonstrate to the patient how to insert and remove the appliance
+and get the patient to practice doing it.
+6. Give clear instructions to the patient and parents/guardian, stressing
+on the importance of full-time wear. (refer Appendix 5)
+7. Arrange for review appointment.
+b. Review appointment
+Ideally, patients with removable appliance should be seen every 4-6
+weeks. During the review appointment, the most important aspect is to
+assess the patient’s compliance. The signs for the lack of compliance
+include:
+• presence of lisping
+• pooling of saliva
+• absence of appliance looks very new and absence of wear and tear
+marks
+• no appliance imprint in the mouth
+• frequent breakages
+• inability to insert and remove the appliance unaided
+• active component is still active
+If the patient’s compliance is good, examine for:
+• oral hygiene status, presence of caries or gingivitis
+• overjet and overbite
+• correction/ improvement of the crossbite
+If the crossbite is not fully corrected, the clinician needs to continue
+activation of the active components. Successful correction of
+anterior crossbite should be achieved within 6-9 months. If there
+is no improvement after 9 months, referral to a specialist for further
+management is needed. Positive overbite is essential to maintain
+stable results. No retainer is required if sufficient overbite is achieved to
+maintain the correction.(7)
+Figure 6: Pre-treatment
+Figure 7: Post-treatment frontal
+frontal photo
+photo showing corrected anterior
+crossbite with sufficient overbite
+Management of Anterior Crossbite (3rd Edition)
+16
+6.1.2 Lower Inclined Bite Plane
+Lower inclined bite plane is an appliance uses natural forces which
+creates a slight lingual movement in the mandibular teeth, while
+generating labial movement in the maxillary teeth.(9, 10) It can be removed
+or cemented to the mandibular incisors with luting glass ionomer
+cement or composite [Refer Figure 8(11)]. This can be used in patients
+who are unable to tolerate or have poor compliance to URA. One of the
+commonly used lower inclined bite planes is Catlan’s appliance.
+Figure 8: Correction of anterior crossbite using lower inclined bite plane
+In a systematic review, one RCT reported that the Catlan’s appliance
+had the longest treatment duration (21 days) compared with the URA (15
+days) and fixed appliances (11 days).(12) Patients with Catlan’s appliances
+also had communication problems during treatment.(13), level I However,
+this RCT had unclear methods for generating random sequences, as
+well as blinding and allocation concealment.
+6.1.3 Cemented Bite Pads
+Cemented bite pads, also known as bite risers which are resinreinforced glass ionomer cement that are placed on lower first molars to
+disengage the occlusion. [refer Figure 9(14)] It disengages the anterior
+teeth in crossbite to allow them to move freely over the bite by tongue
+pressure. It is a simple treatment option that is effective in the correction
+of anterior crossbite. It may be used especially for those patients who
+cannot tolerate wearing a removable appliance, uncooperative when
+wearing a removable appliance, have inadequate oral hygiene or are
+susceptible to removable appliance-induced stomatitis.
+Management of Anterior Crossbite (3rd Edition)
+17
+Figure 9a: Pre-treatment frontal photo
+Figure 9b: Occlusal view with cemented bite pads on
+mandibular 1st molars
+Figure 9c: Frontal view with bite opening
+In a systematic review, an RCT showed that cemented bite planes using
+resin-reinforced glass ionomer cement equally effective in treating
+anterior dental crossbite with and without functional shift, compared
+to URA. No significant difference between the two groups in terms of
+increased overjet, mandibular intercanine width, maxillary intercanine
+width and upper incisor inclination. By using the Brazilian version of
+the Child Perception Questionnaire (CPQ), the quality of life at the end
+of treatment improved with cemented bite pad group.(13), level I However,
+this RCT was of moderate quality due to the unclear risk of bias.
+Recommendation 2
+An upper removable appliance, a lower inclined bite plane and
+cemented bite pads may be used to correct dental anterior crossbite in
+patients with mixed dentition based on the clinician’s skill, preferences
+and patient’s compliance.
+Management of Anterior Crossbite (3rd Edition)
+18
+6.1.4 Fixed Appliance
+Fixed appliance (refer Figure 10) are orthodontic device / braces which
+are attached onto the surfaces of teeth and cannot be removed by the
+patient. In treating anterior crossbite, a simple sectional fixed appliance
+is preferred when three-dimensional tooth movement including bodily
+movement, root torquing, derotation and movement of multiple teeth is
+needed.(15)
+Figure 10: Fixed appliances on anterior crossbite
+In a recent systematic review, an RCT on treatment of anterior crossbite
+with functional shift in mixed dentition using 8 bonded-brackets fixed
+appliance and removable appliance, found that treatment time for fixed
+appliance (5.5 months) was significantly shorter compared to removable
+appliance (6.9 months). Furthermore, fixed appliance produces
+significantly greater effectiveness in terms of increased overjet (p<0.05)
+and arch length measurements (p<0.01) (arch length to incisal edge
+and arch length gingival) compared to removable appliance. Both
+appliances cause a low to moderate pain intensity, but generally were
+well tolerated. No significant difference was found in 2-years treatment
+stability with both fixed and removable appliances.(13) level I However,
+included primary studies were of low to moderate quality.
+A small RCT from a recent systematic review, estimating treatment
+duration and comfort equation between fixed, removable and functional
+appliances to correct a developing single tooth crossbite showed
+shortest treatment duration with fixed appliance (11 days) compared
+to functional appliance (21 days) and removable appliance (15 days).
+Comfort equation (communication, mastication, oral hygiene, pain and
+discomfort) was also better with fixed appliances.(13) level I
+Recommendation 3
+Correction of anterior crossbite using fixed appliances should be carried
+out by orthodontists.
+Management of Anterior Crossbite (3rd Edition)
+19
+6.2
+Treatment Modalities for Functional Anterior Crossbite
+(Pseudo Class III)
+The treatment modalities for functional anterior crossbite are similar as
+treatment modalities for dental anterior crossbite.
+6.3
+Treatment Modalities for Skeletal Anterior Crossbite
+Treatment of skeletal anterior crossbite during growth period aims
+to encourage maxillary growth and/or restrain or redirect mandibular
+growth.(6) The treatment of anterior crossbites due to skeletal origin is
+more complicated, so the treatment of these cases must be performed
+by an orthodontist. The choice of treatment depends on the clinician’s
+assessment and expertise. (Refer Appendix 3 for summary)
+6.3.1 Protraction Facemask
+Protraction facemask (PFM), also known as reverse-pull headgear
+is an interceptive orthopaedic device used to treat young children in
+early mixed dentition with maxillary deficiency preferably around the
+age 8 to 9 years old.(16-18) Facemask can be used either as a standalone treatment or in conjunction with other maxillary arch expansion
+appliances. Alternate rapid maxillary expansion and constriction
+combined with protraction facemask (Alt-RAMEC/PFM) is a treatment
+approach that involves using a device to gradually widen the upper jaw,
+followed by a period of constriction to stabilise the expansion. [refer
+Figure 11b and 11c(19)]
+Figure 11a: Protraction Facemask
+Figure 11b: Bonded Maxillary Expander
+Management of Anterior Crossbite (3rd Edition)
+20
+Figure 11c: Hyrax Maxillary Expansion Appliance
+i
+Skeletal effect
+PFM applies extraoral force that induces skeletal modifications by
+forward displacement of maxilla, backward displacement of mandible,
+clockwise rotation of the mandibular plane and counter-clockwise
+rotation of the maxillary plane.
+A Cochrane Review of seven RCTs between PFM treatment and control
+group demonstrated a significant improvement of skeletal parameters
+in terms of increased ANB angle (MD= 3.93º, 95% CI 3.46 to 4.39) and
+Wits (MD= -3.84mm, 95% CI -5.31 to -2.37) after one year review. The
+ANB angle showed some relapse after three years follow up (MD= 1.4º,
+95% CI 0.43 to 2.37).(20) level I
+A later meta-analysis consisting of three good to moderate quality RCTs
+showed PFM without RME group have significant improvement in ANB
+(MD = 4.42º, 95% CI 3.30 to 5.94), SNA (MD = 2.57º, 95% CI 1.60 to
+3.54) and SNB (MD = -1.82º, 95% CI -2.77 to -0.87) as compared to
+untreated patients.(21) level I
+In the same meta-analysis, when group that used PFM in conjunction
+with rapid maxillary expander compared to the untreated group, similar
+significant improvements were seen in both ANB (MD = 2.97º 95% CI
+1.84 to 4.09) and SNB (MD = -1.28º, 95% CI -1.88 to -0.68).(21), level I
+Both studies concluded that the preliminary use of RME in the facemask
+therapy did not improve the effectiveness of facemask.(20), level I; (21), level I
+The effect of Alt-RAMEC/PFM was compared with RME/PFM in a
+meta-analysis with four RCTs. At minimum of ten months follow up,
+Alt-RAMEC/PFM group showed significant improvement in SNA angle
+(1.16°; 95% CI 0.65 to 1.66), SNB angle (0.67°; 95% CI 0.32 to 1.02)
+and ANB angle (0.66°; 95% CI 0.08 to 1.25) when compared with RME/
+PFM.(22) level I
+Management of Anterior Crossbite (3rd Edition)
+21
+ii
+Dentoalveolar effect
+PFM can facilitate the correction of the overjet (OJ) in Class III growing
+patients. When compared with untreated group, the patients who have
+had PFM demonstrated significant OJ improvement (MD= 4.1mm, 95%
+CI 3.04 to 5.16).(20) level I Another meta-analysis also showed similar OJ
+improvement of 3.94mm (95% CI 2.17 to 5.71).(23) level I
+Only one RCT from a meta-analysis showed significant OJ changes
+in both Alt-RAMEC/PFM and RME/PFM groups respectively. This
+significance was in favor of Alt-RAMEC/PFM group (p<0.001). However,
+it need to be interpreted with caution due to the high risk of bias.(22) level I
+iii Psychological benefit
+An RCT comparing early Class III PFM treatment with a control group
+using Pier-Harris Questionnaire, measured self-esteem and Oral
+Aesthetic Subjective Impact Score (OASIS) which assessed the impact
+of concern on the appearance of teeth showing no significant difference
+between both groups. Thus, it does not seem to confer a clinically
+significant psychosocial benefit in early treatment.(24) level I
+iv Temporomandibular joint
+Effect of morphology changes in the temporomandibular joint (TMJ)
+following short term wear (6 to 15 months) of PFM was reported in
+a systematic review with 13 moderate to good quality studies. They
+found that there were significant morphological changes in the condylar
+growth (p<0.001), bone remodelling (p<0.05) and significant condylar
+displacement in the posterior (1.13 mm ±1.46 mm, p=0.007) and
+superior (−0.97 mm ± 0.96 mm, p=0.001) direction in the PFM group.
+The occurrence of TMJ dysfunction was not significant between the
+PFM and the control group. This could be due to the patient’s adaptive
+ability to achieve centric relation (CR) and maximum intercuspation (MI)
+positions.(25) level I
+v
+Stability and Relapse
+The stability of Class III skeletal pattern correction using PFM is highly
+dependent on the growth pattern, particularly the late mandibular
+growth.
+A systematic review of five studies assessing the mid-term stability at
+six years follow-up of PFM therapy showed skeletal relapse with:(26), level I
+• SNB value increased between 1.3° to 2.0°
+• ANB value reduced between 2.0° to 2.6°
+Management of Anterior Crossbite (3rd Edition)
+22
+Another meta-analysis with four studies evaluated the stability of
+treatment effects of maxillary protraction therapy in Class III children
+demonstrated skeletal relapse after 2 to 3.5 years with:(23) level I
+• SNA (MD= -0.75°, 95% CI -1.38 to -0.11)
+• ANB (MD= -0.80°, 95% CI -1.45 to -0.15)
+• SNB (MD= -0.06°, 95% CI -0.71 to 0.60)
+Dentoalveolar relapse can be seen in terms of OJ (MD= -0.69mm; 95%
+CI -1.28 to -0.09)(23) level I and another study showed 40% subjects in the
+treatment group did not maintain a positive OJ.(26) level I
+Key message 5
+• Protraction facemask (PFM) alone is sufficient to be used in the
+correction of anterior crossbite in mild Class III skeletal patterns
+with maxillary hypoplasia among growing patients in mixed dentition.
+• If there is a problem with maxillary constriction or if the maxillary arch
+needs to be expanded, PFM can be utilised with RME.
+• PFM treatment need to be carried out by an orthodontist.
+• PFM bulkiness and soft-tissue irritation can compromise patient’s
+compliance.
+• The assessment of treatment stability is usually done after the patient
+has completed their growth spurt.
+Recommendation 4
+Protraction facemask therapy may be used to correct skeletal anterior
+crossbite in growing patients with Class III malocclusion.
+6.3.2 Chin Cup
+Orthodontic chin cup appliance is a device outside of the mouth (extra
+oral appliance) that covers the chin and is attached to elastic bands that
+usually fit over the head. (refer Appendix 6). It is used to help reduce
+or correct mandibular prognathism in growing children. It is mainly used
+to restrict the forward and downward growth of the mandible by placing
+force on the lower jaw.(27)
+Two meta-analyses assessing the effectiveness chin cup treatment in
+pre-pubertal Class III malocclusion patients compared with no treatment
+at short-term showed improvement in:
+a. Skeletal:
+• ANB (MD=1.96°, 95% CI 1.58 to 2.34)(20), level I
+• Wits appraisal (MD=3.62 mm, 95% CI 1.32 to 5.92)(28), level II-1
+(MD=4.96 mm, 95% CI 4.45 to 5.42)(20), level I
+• Gonial angle (MD= -0.799°, 95% CI -1.523 to -0.075)(28),level II-1
+Management of Anterior Crossbite (3rd Edition)
+23
+b. Dental:
+• Overjet (SMD=2.623 mm, 95% CI 1.061 to 4.185)(28), level II-1
+Although chin cup therapy showed a general improvement in the facial
+profile, skeletal and dentoalveolar changes but various responses
+can occur depending on the facial skeletal pattern and growth of the
+patients.
+As for stability, not all effects from chin cup will be sustainable in the
+long term until patient growth completion.
+The role of chin cup therapy in the retardation of mandibular growth in
+the long term is not conclusive. There are insufficient articles reported
+for the long-term effect of chin cup therapy and it is difficult to obtain
+long term cooperation from patients to wear chin cup until the growth is
+complete. In addition, chin cup therapy is not suitable for patients with
+open bite or significant reverse OJ.
+6.3.3 Skeletal Anchored Class III Elastics
+Skeletal anchored Class III elastics involves class III elastics applied from
+infra-zygomatic mini-plates / mini-screws in the maxilla to symphyseal
+mini-plates / mini-screws in the mandible.(1) (refer Appendix 6)
+A meta-analysis, with 9 moderate quality studies (8 case-control studies
+and 1 controlled clinical study), reported that skeletal anchorage group,
+when compared to no treatment control groups showed significantly
+increased in Wits values effect size (WDM= 7.8mm, 95% CI 7.19 to
+8.14), overjet effect size (WDM= 6.52mm, 95% CI 6.17 to 6.88), ANB
+(WDM= 6.07°, 95% CI 5.56 to 6.58) and SNA (WDM= 2.70°, 95% CI
+2.16 to 3.24). The SNB was reported to decrease in skeletal anchorage
+group (WDM= 3.07° , 95% CI -3.52 to -2.62).(29) level I
+From another similar meta-analysis, skeletal anchorage when
+compared with more traditional treatment methods, i.e. expander and
+face mask, there was no significant difference between two groups in
+terms of overjet, ANB or SNB effect size. However, there was a slight
+increment in Wits values effect size (WDM= 1.28mm, 95% CI 0.28 to
+2.28, p=0.012) and SNA (WDM=0.60°, 95% CI 0.13 to 1.07).(29) level I
+A non-randomised clinical trial comparing skeletal and facemask
+treatment among 7 to 12 years old patients reported that there was no
+significant difference in terms of overjet, SNA, ANB and Wits values.
+However, the median time of treatment was significantly shorter in the
+mini-implant group (12.5 months vs 16 months, p=0.025). The failure
+rate of mini-implant was reported as 16.7%. More implant failure
+reported in 11-12 year old group compared to 9-10 year old group
+Management of Anterior Crossbite (3rd Edition)
+24
+(4.2% vs 29.2%, p= 0.048) There was no association between site of
+insertion or sex with the implant failure.(30) level I
+In conclusion, skeletal anchored Class III elastic can be an effective
+treatment modality in improving skeletal class III malocclusion.
+However, the precautions need to be taken while inserting the
+miniplates especially for patients below the 10 years old considering
+the developing mandibular canine germ.(1)
+6.3.4 Functional Appliance
+Functional appliance was a classic method of treatment used in a Class
+III skeletal pattern growing patients, primarily to enhance the growth of
+the maxilla and restrict the growth of the mandible. The two functional
+appliances used for Class III correction are Fränkel Functional
+Regulator III Appliance (FR III) and Reverse Twin Block Appliance.
+(refer Appendix 6)
+i
+Fränkel Functional Regulator III Appliance
+Fränkel Functional Regulator III appliance (FR III) (refer Appendix 6)
+has been used for correction of anterior crossbite in skeletall Class III
+patients. A meta-analysis with 7 moderate cohort studies showed FR
+III therapy produced significant short-term (two to three years followup) skeletal effects among patients with anterior crossbite(31) level II-2.
+Participants wearing the FR III demonstrated significant difference in
+terms of SNA (MD = 1.02°; 95% CI, 0.53 to 1.51), SNB (MD = 1.62°;
+95% CI, 2.62 to 0.62), ANB (MD =1.84° ; 95% CI, 0.96 to 2.71) and Wits
+appraisal (MD = 2.70 mm; 95% CI, 1.88 to 3.52). Apart from that, FR
+III also cause dentoalveolar effect as seen on the significant increase
+in the overjet (MD = 3.47 mm; 95% CI, 2.93 to 4.01). However, these
+changes only can be maintained long term (eight to nine years) in the
+SNB value (MD = 1.50°; 95% CI, 2.12 to 0.88) and overjet (MD = 4.56
+mm; 95% CI, 3.78 to 5.35). No significant changes in the overbite were
+observed in both short- and long-term among the participants.
+ii
+Reverse Twin Block Appliance
+Reverse Twin Block appliance (RTB) is also used in crossbite correction
+in Class III skeletal pattern patients. An RCT with 13 patients aged
+between 6 to 12 years old demonstrated that when use in conjunction
+with rapid maxillary expander (RME) for 9 months, RTB with RME
+patients showed significant improvement in ANB angle and Wits
+appraisal compared to the control group.(32) level I
+Management of Anterior Crossbite (3rd Edition)
+25
+Key message 6
+The factors that determine good outcome of functional appliance
+treatment in anterior crossbite correction:
+• growing patients with Class III skeletal pattern
+• cases with no or minimal dentoalveolar compensation
+• good patient motivation
+Early correction of anterior crossbite in skeletal Class III patients with
+functional appliance was found to be effective for short-term. However,
+the long-term stability is highly dependent on favourable growth
+and excellent compliance by the patients. Other factors to take in
+consideration are the fabrication cost and the patient’s motivation.
+Key message 7
+Functional appliance may be provided by an orthodontist for correction
+of skeletal anterior crossbite in mixed dentition.
+6.3.5 Tandem traction bow appliance
+Tandem traction bow appliance (TTBA) is an intraoral appliance with
+upper splint attached to RME and lower splint with headgear tubes
+connected by traction bow and elastic. The elastic wear is attached
+intraorally.
+A small in vivo study to support the use of intra oral TTBA in early
+treatment of skeletal Class III malocclusion for patients (6 to 12 years
+old) with mild maxillary deficiency found that there were significant
+improvements in terms of:(33) level II-3
+• Skeletal: point A moved forward (MD=2.2 mm; p=0.005), SNA
+moved forward (MD=2.8°; p<0.005), SNB moved backwards (MD=
+0.4°; p<0.005), ANB increased (MD=3.2°; p value <0.005)
+• Dental: upper incisal angulations decreased (MD= 8.3°; p<0.005)
+and lower incisal angulation decreased (MD=3.6°; p value =0.007)
+However, this study was conducted in small sample size, and there is
+no consideration on growth related changes in post treatment followup.
+TTBA can also be used in combination with extra oral headgear and
+extra oral elastic (Modified TTBA). In a Cochrane Systematic Review
+published in 2013, a small RCT found that children and adolescents
+with prominent lower front teeth treated with modified TTBA had shown
+effective improvement in the overjet (MD=3.30 mm, 95% CI 2.46 to
+Management of Anterior Crossbite (3rd Edition)
+26
+4.14) and ANB (MD=1.70°, 95% CI 1.09 to 2.31) when compared to the
+untreated.(20) level I
+In a meta-analysis, an RCT showed that PFM (Petit-type) therapy was
+significantly effective compared to modified tandem appliance (Modified
+TTBA) (p=0.04) in improving OJ among patients with skeletal class III
+malocclusion (7 to 10 years old).(18) level I
+Furthermore, the construction and method of wearing of modified TTBA
+is more complicated for operator and patient. Hence, PFM treatment is
+more convenient and effective than modified TTBA.
+Management of Anterior Crossbite (3rd Edition)
+27
+7.0
+IMPLEMENTING THE GUIDELINES
+The management of anterior crossbite in mixed dentition should be
+guided by an evidence-based approach in order to provide quality care.
+Clinicians are required to keep abreast with current knowledge through
+continuing professional education as well as understanding patients’
+expectations.
+Therefore, it is important for these guidelines to be disseminated to
+all healthcare professionals in primary and secondary healthcare
+facilities. This can be facilitated through the development of appropriate
+training modules and quick references. Several factors may affect the
+implementation of the recommendations of the CPG.
+7.1
+Facilitating and Limiting Factors
+Existing facilitators for application of the recommendations in the CPG
+include:
+• wide dissemination of the CPG to healthcare professionals and
+teaching institutions via printed and electronic copies
+• continuing professional education on the management of anterior
+crossbite in mixed dentition for healthcare professionals
+• adequate facilities at primary and secondary care level for diagnosing
+and treating anterior crossbite in mixed dentition.
+• Existing barriers for application of the recommendations of the CPG
+include:
+• lack of understanding or limited knowledge on the management of
+anterior crossbite in mixed dentition.
+• variation in skills and treatment practices.
+• constraints in equipment and facilities
+7.2
+Potential Resource Implications
+This CPG recommends early detection and referral, comprehensive
+assessment and treatment of anterior crossbite in mixed dentition. This
+requires increased awareness among healthcare providers and the
+public to establish early diagnosis and uninterrupted various forms of
+treatment as well as support to the patients and their caregivers.
+To implement the CPG, there must be strong commitment to:
+• ensure widespread distribution of the CPG in hard and soft copy
+to healthcare professionals in primary and secondary healthcare
+facilities
+• strengthen training of healthcare professionals to ensure knowledge
+and information is up to date
+Management of Anterior Crossbite (3rd Edition)
+28
+7.3
+Proposed Clinical Audit Indicators
+To assist in the implementation of the CPG, the following are proposed
+as clinical audit indicators for quality management of anterior crossbite
+in mixed dentition.
+X
+= Number of referred cases in mixed dentition (6-10 years
+old) with anterior crossbite
+Y
+= Total number of referred cases with anterior crossbite
+X/Y
+x 100%
+Target ≥ 70%
+Number of referred cases in mixed
+dentition with anterior crossbite
+Total number of referred cases with
+anterior crossbite
+X 100%
+Early referral of
+=
+anterior crossbite
+Management of Anterior Crossbite (3rd Edition)
+29
+Appendix 1
+SEARCH STRATEGY
+Literature search was carried out using the following electronic
+databases: Medline, Pubmed, Cochrane Database of Systematic
+Reviews (CDSR) and Embase while full text journal articles were
+retrieved from these databases. The following Medical Subject Heading
+terms of free text terms were used either singly or in combination. The
+literature search was limited to human study, English language and
+published articles from inception of databases from 2012 to April 2023
+Clinical Question:
+Is fixed appliance safe and effective in treating anterior crossbite among
+mixed dentition?
+Ovid MEDLINE(R) ALL <1946 to July 18, 2023>
+1.
+(bite, cross or bites, cross or cross bite or cross bites).mp. 616
+2.
+(anterior adj1 crossbite).tw. 584
+3.
+Malocclusion, Angle Class III/ 4102
+4.
+1 or 2 or 3 5099
+5.
+Dentition, Mixed/ 2174
+6.
+4 and 5 190
+7.
+Orthodontic Appliances, Fixed/ 461
+8.
+(appliance, fixed or appliance, fixed functional or appliance, fixed
+orthodontic or appliances, fixed or appliances, fixed functional or
+appliances, fixed orthodontic or bonded retainer or bonded retainers
+or fixed appliance or fixed appliances or fixed functional appliance
+or fixed functional appliances or fixed orthodontic appliance or fixed
+retainer or fixed retainers or functional appliance, fixed or functional
+appliances, fixed or orthodontic appliance, fixed or orthodontic
+appliances, fixed or permanent retainer or permanent retainers or
+retainer, bonded or retainer, fixed or retainer, permanent or retainers,
+bonded or retainers, fixed or retainers, permanent).mp. 3179
+9.
+7 or 8 3179
+10. 6 and 9 18
+11. limit 10 to (English language and humans and yr=”2012 - 2023”) 13
+Management of Anterior Crossbite (3rd Edition)
+30
+Appendix 2
+CLINICAL QUESTIONS
+1.
+What is the aetiology/predisposing factors of anterior crossbite in
+mixed dentition?
+2.
+What are the classifications of anterior crossbite in mixed dentition?
+3.
+What are the accurate methods to diagnose anterior crossbite in
+mixed dentition?
+4.
+What are the effective and safe treatment modalities for anterior
+crossbite in mixed dentition?
+a.
+Fixed appliance
+b.
+Upper Removable Appliance
+c.
+Inclined Bite Plane (Catlan’s Appliance)
+d.
+Cemented Bite Pads
+e.
+Protraction Facemask
+f.
+Chin cup
+g.
+Mini implant / miniscrew / TAD/ miniplate
+h.
+Tandem traction bow appliance (TTBA)
+i.
+Functional appliance
+Management of Anterior Crossbite (3rd Edition)
+31
+Appendix 3
+SUMMARY OF TREATMENT MODALITIES OF ANTERIOR CROSSBITE
+An appliance that is not attached to the teeth and can be removed by the
+patient. The active component can be Z spring, recurved spring or
+expansion screw.
+Inclined plane either removable or cemented can be placed at the lower
+incisors for non-compliant patients
+It is a bite riser that are placed on lower first molars to disengage the
+occlusion.
+Orthodontic devices / braces which are attached onto the surface of teeth
+and cannot be removed by the patient. It is used for cases that need
+three-dimensional tooth movement.
+It is an orthopaedic device used in early mixed dentition to protract the
+maxilla. It can be stand-alone treatment or in conjunction with other
+maxillary arch expansion appliances.
+It is a device outside of the mouth (extra oral appliance) that covers the
+chin and is attached to elastic bands that usually fit over the head. It is
+used to restrict the forward and downward growth of the mandible.
+It is Class III elastics applied from infra-zygomatic mini-plates / mini-screws
+in the maxilla to symphyseal mini-plates / mini-screws in the mandible.
+Removable appliance used in a Class III skeletal pattern growing patients.
+It is an intraoral appliance with upper splint attached to a RME and a lower
+splint with headgear tubes connected by a traction bow and intraoral
+elastics.
+Similar with treatment modalities for dental anterior crossbite
+Fixed Appliance
+Cemented Bite Pads
+Lower Inclined Bite Plane
+Upper Removable Appliance
+(URA)
+Protraction facemask
+Chin Cup
+Skeletal Anchored Class III
+Elastics
+Functional Appliance
+Tandem Traction Bow Appliance
+TREATMENT MODALITIES
+FOR DENTAL ANTERIOR
+CROSSBITE
+TREATMENT MODALITIES
+FOR SKELETAL ANTERIOR
+CROSSBITE
+TREATMENT MODALITIES
+FOR FUNCTIONAL ANTERIOR
+CROSSBITE
+(PSEUDO CLASS III)
+Management of Anterior Crossbite (3rd Edition)
+32
+Appendix 4
+APPLIANCE FABRICATION LABORATORY FORM
+(Example of URA design)*
+* This is an example of the URA design. The design of URA needs to
+be tailored according to patient’s malocclusion
+Management of Anterior Crossbite (3rd Edition)
+33
+Appendix 5
+INSTRUCTIONS FOR REMOVABLE APPLIANCE
+1.
+The appliance should be worn at all times, including meals and in
+bed at night.
+2.
+The appliance should only be removed during tooth brushing and
+playing contact sports. It must then be replaced in the mouth at the
+earliest opportunity.
+3.
+It is very common to feel discomfort, pooling of saliva and altered
+speech initially, but it should pass in a few days once you get used
+to the appliance.
+4.
+It is important to take care of oral hygiene during the treatment.
+5.
+Avoid hard, sticky, sweet foods and carbonated/ higher sugar
+contained drinks.
+6.
+If there be any problem with the appliance, please contact the
+Orthodontic Department as soon as possible. The contact number
+is ………………….
+Management of Anterior Crossbite (3rd Edition)
+34
+Appendix 6
+PHOTOS OF TREATMENT MODALITIES FOR ANTERIOR
+CROSSBITE OF SKELETAL ORIGIN
+Chip Cup(34)
+Skeletal Anchored Class III Elastics(35)
+Fränkel Functional Regulator III Appliance(36)
+Tandem Traction Bow Appliance (TTBA)(37)
+Management of Anterior Crossbite (3rd Edition)
+35
+LIST OF ABBREVIATIONS
+AGREE
+Appraisal of Guidelines Research and Evaluation
+Alt-RAMEC
+Alternate Rapid Maxillary Expansion and Constriction
+ANB
+Angle between the line A point to Nasion and B point to Nasion on
+a lateral cephalogram
+A-P
+Anteroposterior
+CASP
+Critical Appraisal Skill Programme
+CDSR
+Cochrane Database of Systematic Reviews
+CI
+Confidence Interval
+CPG
+Clinical Practice Guidelines
+CPQ
+Child Perception Questionnaire
+CR
+Centric Relation
+DMF
+Decay Missing Filling
+FM
+Facemask
+FR III
+Fränkel Functional Regulator III Appliance
+GRADE
+Grading Recommendations, Assessment, Development and Evaluation
+HTA
+Health Technology Assessment
+MD
+Mean Difference
+MI
+Maximum Intercuspation
+mm
+millimeter
+MyMAHTAS
+Malaysia Health Technology Assessment Section
+OASIS
+Oral Aesthetic Subjective Impact Score
+OB
+Overbite
+OH
+Oral Hygiene
+OHP
+Oral Health Program
+OJ
+Overjet
+OPG
+Orthopantomogram
+PFM
+Protraction Face Mask
+RCT(s)
+Randomised Control Trial
+RME
+Rapid Maxillary Expander
+RTB
+Reverse Twin Block appliance
+SMD
+Standard Mean Difference
+SNA
+Angle between the line Sella to Nasion and A point to Nasion on a
+lateral cephalogram
+SNB
+Angle between the line Sella to Nasion and B point to Nasion on a
+lateral cephalogram
+TAD(s)
+Temporary Anchorage Device
+TMD
+Temporomandibular disorder
+TMJ
+Temporomandibular joint
+TTBA
+Tandem Traction Bow Appliance
+URA
+Upper Removable Appliance
+WDM
+Weighted Mean Difference
+Management of Anterior Crossbite (3rd Edition)
+36
+ACKNOWLEDGEMENTS
+The members of the development group of these guidelines would
+like to express their gratitude and appreciation to the following for their
+contributions:
+• Panel of internal and external reviewers
+• Technical Advisory Committee for CPG for their valuable input and
+feedback
+• HTA and CPG Council for approval of the CPG
+• Dr. Mohd Aminuddin bin Mohd Yusof and CPG Unit, Malaysian
+Health Technology Assessment Section, Medical Development
+Division, Ministry of Health Malaysia
+• Dr. Maryana bt Musa and Dr. Aina Najwa bt Mohd Khairuddin
+• Dr. Chin Mei H’uah for the clinical photos
+• Dr. Soh Yi Yong for the clinical photos
+• All those who have contributed directly or indirectly to the
+development of the CPG
+DISCLOSURE STATEMENT
+The panel members had completed disclosure forms. None held shares
+in pharmaceutical firms or acted as consultants to such firms. (Details
+are available upon request from the CPG Secretariat)
+SOURCES OF FUNDING
+The development of the CPG on “Management of Anterior Crossbite”
+was supported financially in its entirety by the Ministry of Health Malaysia
+and was developed without any involvement of the pharmaceutical
+industry.
+Management of Anterior Crossbite (3rd Edition)
+37
+REFERENCES
+1.
+Proffit WR, Fields H, Larson B, Sarver DM. Contemporary orthodontics-e-book.
+Elsevier Health Sciences; 2018.
+2.
+Yu X, Zhang H, Sun L, Pan J, Liu Y, Chen L. Prevalence of malocclusion
+and occlusal traits in the early mixed dentition in Shanghai, China. PeerJ.
+2019;7:e6630.
+3.
+Elfseyie M, Mohammed Abdullah N, Abu Hassan MI. Occlusal features of 12
+years old Malaysian Malay school-children in Shah Alam/Majda TM Elfseyie,
+Nagham Mohammed Abdullah and Mohamed Ibrahim Abu Hassan. Compendium
+of Oral Science. 2014;1:6-12.
+4.
+AAO. American Association of Orthodontists. Understanding crossbites: what
+are they and how are they treated? Available at: https://aaoinfoorg/whatstrending/what-is-a-crossbite/ 2019.
+5.
+S Gowri Sankar Pvavrv. Text book of orthodontics. Hyderabad, Paras Medical
+Publisher. 2016.
+6.
+Littlewood SJ, Mitchell L. An introduction to orthodontics. Oxford University
+Press. 2019.
+7.
+MOH. Ministry of Health Malaysia. Management of anterior crossbite in
+mixed dentition (second edition). Available at: https://wwwmohgovmy/moh/
+attachments/CPG%202014/CPG_Management_of_Anterior_Crossbite_with_
+Mixed_Dentitionpdf 2013.
+8.
+MOH. Ministry of Health Malaysia. Technology review of digital software for
+orthodontic records keeping. . Available at: https://wwwmohgovmy/indexphp/
+database_stores/store_view_page/30/265 (Accessed: July 4, 2023). 2015.
+9.
+Vangala R, Kumar VP, Ujwala T, Varma NS, Navya P. The use of catlan’s
+appliance for rapid correction of pseudo class III malocclusion. Annals Essences
+of Dentistry. 2013;5(1):35-7.
+10. Yildirim C, Akgun O, Basak F. Use of catlan’s appliance to correct anterior
+crossbite: two cases. Scholars Journal of Medical Case Reports. 2014;2(4):270-2.
+11. Bayrak S, Tunc ES. Treatment of anterior dental crossbite using bonded resincomposite slopes: case reports. European Journal of Dentistry. 2008;2(4):303-6.
+12. JoySon M, JaIganeSh I, ShaRanya R, Vignesh KC. Estimation of total time
+duration and comfort equation of three different appliances used to manage
+the condition of single tooth developing anterior crossbite in children. Journal of
+Clinical and Diagnostic Research. 2018;12(13):ZC05-ZC9.
+13. Khalaf K, Mando M. Removable appliances to correct anterior crossbites in
+the mixed dentition: a systematic review. Acta Odontologica Scandinavica.
+2020;78(2):118-25.
+14. Cosgun A, Altan H. Treatment of anterior dental crossbite with different methods
+in the early mixed dentition period: Report of two cases. Journal of Pediatric
+Dentistry. 2020;6(2):61.
+15. Sockalingam SNM, Khan KAM, Kuppusamy E. Interceptive correction of anterior
+crossbite using short-span wire-fixed orthodontic appliance: a report of three
+cases. Case Reports in Dentistry. 2018;2018(1):4323945.
+16. Seehra J, Fleming P, Mandall N, Dibiase A. A comparison of two different
+techniques for early correction of Class III malocclusion. The Angle Orthodontist.
+2012;82(1):96-101.
+17. Husson AH, Burhan AS, Salma FB, Nawaya FR. Dentoskeletal effects of the
+modified tandem appliance vs the facemask appliance in the treatment of
+skeletal class iii malocclusion: a single-center, randomized controlled trial.
+Journal of Contemporary Dental Practice. 2016;17(7):522-9.
+Management of Anterior Crossbite (3rd Edition)
+38
+18. Farhadian N, Soheilifar S, Abolvardi M, Miresmailei A, Mohammadi Y. Effects of
+facemasks versus intraoral appliances in treating maxillary deficiency in growing
+patients: a systematic review and meta-analysis. Dental and Medical Problems.
+2019;56(4):401-10.
+19. Giuntini V, Camporesi M, Barone V, Marino Merlo M, Nardi C, Franceschi D, et al.
+Postpubertal effects of the rapid maxillary expansion and facial mask versus the
+removable mandibular retractor for the early treatment of class iii malocclusion:
+a study on lateral cephalograms. Applied Sciences. 2021;11(18):8393.
+20. Watkinson S, Harrison JE, Furness S, Worthington HV. Orthodontic treatment
+for prominent lower front teeth (class III malocclusion) in children. The Cochrane
+Database of Systematic Reviews. 2013(9):Cd003451.
+21. Cordasco G, Matarese G, Rustico L, Fastuca S, Caprioglio A, Lindauer SJ, et
+al. Efficacy of orthopedic treatment with protraction facemask on skeletal Class
+III malocclusion: a systematic review and meta-analysis. Orthodontics and
+Craniofacial Research. 2014;17(3):133-43.
+22. Almuzian M, McConnell E, Darendeliler MA, Alharbi F, Mohammed H. The
+effectiveness of alternating rapid maxillary expansion and constriction combined
+with maxillary protraction in the treatment of patients with a class III malocclusion:
+a systematic review and meta-analysis. Journal of Orthodontics. 2018;45(4):250-9.
+23. Lin Y, Guo R, Hou L, Fu Z, Li W. Stability of maxillary protraction therapy in
+children with Class III malocclusion: a systematic review and meta-analysis.
+Clinical Oral Investigations. 2018;22(7):2639-52.
+24. Mandall N, DiBiase A, Littlewood S, Nute S, Stivaros N, McDowall R, et al. Is early
+Class III protraction facemask treatment effective? A multicentre, randomized,
+controlled trial: 15-month follow-up. Journal of orthodontics. 2010;37(3):149-61.
+25. Huang X, Cen X, Liu J. Effect of protraction facemask on the temporomandibular
+joint: a systematic review. BMC Oral Health. 2018;18(1):38.
+26. Kakali L, Christopoulou I, Tsolakis IA, Sabaziotis D, Alexiou A, Sanoudos M, et al.
+Mid-term follow up effectiveness of facemask treatment in class III malocclusion:
+A systematic review. International Orthodontics. 2021;19(3):365-76.
+27. Naidu S, Suresh A. Effects of chin cup in the management of class III
+malocclusion. Journal of Indian Dental Association. 2018;12(10):39-42.
+28. Chatzoudi MI, Ioannidou-Marathiotou I, Papadopoulos MA. Clinical effectiveness
+of chin cup treatment for the management of Class III malocclusion in pre-pubertal
+patients: a systematic review and meta-analysis. Progress in Orthodontics.
+2014;15(1):62.
+29. Rodríguez de Guzmán-Barrera J, Sáez Martínez C, Boronat-Catalá M, MontielCompany JM, Paredes-Gallardo V, Gandía-Franco JL, et al. Effectiveness of
+interceptive treatment of class III malocclusions with skeletal anchorage: A
+systematic review and meta-analysis. PLoS ONE. 2017;12(3):e0173875.
+30. de Souza RA, Rino Neto J, de Paiva JB. Maxillary protraction with rapid
+maxillary expansion and facemask versus skeletal anchorage with mini-implants
+in class III patients: a non-randomized clinical trial. Progress in Orthodontics.
+2019;20(1):35.
+31. Yang X, Li C, Bai D, Su N, Chen T, Xu Y, et al. Treatment effectiveness of
+Fränkel function regulator on the Class III malocclusion: a systematic review and
+meta-analysis. American Journal of Orthodontics and Dentofacial Orthopedics :
+official publication of the American Association of Orthodontists, its constituent
+societies, and the American Board of Orthodontics. 2014;146(2):143-54.
+32. Minase RA, Bhad WA, Doshi UH. Effectiveness of reverse twin block with
+lip pads-RME and face mask with RME in the early treatment of class III
+malocclusion. Progress in Orthodontics. 2019;20(1):14.
+Management of Anterior Crossbite (3rd Edition)
+39
+33. Udeshi PS, Kuttappa M, Ravi M, US NK. Tandem Traction Bow Appliance for the
+Treatment of Skeletal Class III Malocclusion. Journal of Health Allied Sciences
+NU. 2018;8(01):27-34.
+34. Torres FC, Almeida RR, Almeida-Pedrin RR, Pedrin F, Paranhos LR.
+Dentoalveolar comparative study between removable and fixed cribs, associated
+to chincup, in anterior open bite treatment. Journal of Applied Oral Science :
+revista FOB. 2012;20(5):531-7.
+35. Baccetti T, De Clerck HJ, Cevidanes LH, Franchi L. Morphometric analysis of
+treatment effects of bone-anchored maxillary protraction in growing class III
+patients. European Journal of Orthodontics. 2011;33(2):121-5.
+36. Ji L-L, Sun D-X, Shi L-B, Kyung H-M, Bing L, Wu X-PJIJoM. Morphological
+changes of frankel functional regulator III in mixed dentition with class III
+malocclusion. International Journal of Morphology. 2020;38(4):1053-9.
+37. Klempner L. Early treatment of skeletal Class III open bite with the tandem
+appliance. Journal of Clinical Orthodontics : JCO. 2011;45(6):308-16; quiz 39.
+Management of Anterior Crossbite (3rd Edition)
+‘nt Tecnology Seton

@@ -1,0 +1,2096 @@
+CLINICAL PRACTICE GUIDELINES
+MOHLPIPAK3E.I6;GU)
+Management of Rhinosinusitis in Adolescents and Adults
+Published by:
+Malaysia Health Technology Assessment Section (MaHTAS)
+Medical Development Division, Ministry of Health Malaysia
+Level 4, Block E1, Precinct 1
+Federal Government Administrative Centre
+62590, Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is MaHTAS. Content may be
+reproduced in any number of copies and in any format or medium
+provided that a copyright acknowledgement to MaHTAS is included and
+the content is not changed, not sold, nor used to promote or endorse
+any product or service, and not used in an inappropriate or misleading
+context.
+ISBN: 978-967-0769-63-9
+Available on the following websites:
+http://www.moh.gov.my
+http://www.acadmed.org.my
+http://www.msohns.com
+Also available as an apps for Android and IOS platform: MyMaHTAS
+STATEMENT OF INTENT
+These clinical practice guidelines (CPG) are meant to be guides for
+clinical practice, based on the best available evidence at the time of
+development. Adherence to these guidelines may not necessarily
+guarantee the best outcome in every case. Every healthcare provider is
+responsible for the management of his/her unique patient based on the
+clinical picture presented by the patient and the management options
+available locally.
+These guidelines were issued in 2016 and will be reviewed in 2020 or
+sooner if new evidence becomes available. When it is due for updating,
+the Chairman of the CPG or National Advisor of the related specialty
+will be informed about it. A discussion will be done on the need for
+a revision including the scope of the revised CPG. A multidisciplinary
+team will be formed and the latest systematic review methodology used
+by MaHTAS will be employed.
+Every care is taken to ensure that this publication is correct in every
+detail at the time of publication. However, in the event of errors or
+omissions, corrections will be published in the web version of this
+document, which is the definitive version at all times. This version can
+be found on the websites mentioned above.
+Management of Rhinosinusitis in Adolescents and Adults
+KEY RECOMMENDATIONS
+The following recommendations are highlighted by the CPG
+Development Group as the key recommendations that answer the
+main questions addressed in the CPG and should be prioritised for
+implementation.
+ DIAGNOSIS
+•
+Anterior rhinoscopy should be performed as part of clinical
+assessment of suspected acute rhinosinusitis in primary care
+setting.
+•
+Nasal endoscopy should be performed to diagnose rhinosinusitis at
+otorhinolaringology centre.
+ LABORATORY TESTS
+•
+Nasal swab should not be performed in rhinosinusitis.
+•
+In otorhinolaryngology centres, culture and susceptibility test may
+be considered in patients who do not respond to antibiotic treatment
+after 72 hours in acute rhinosinusitis.
+•
+Endoscopically-directed middle meatal culture may be used to
+obtain specimen for culture and susceptibility tests in diagnosing
+unresolved bacterial rhinosinusitis by otorhinolaryngologists.
+ ANTIBIOTICS
+•
+Antibiotic may be prescribed in acute bacterial rhinosinusitis after
+weighing benefits against potential side effects.
+•
+Antibiotic should not be used routinely in chronic rhinosinusitis.
+ CORTICOSTEROIDS
+•
+Intranasal corticosteroids:
+○ should be considered for 2 - 3 weeks in acute rhinosinusitis
+○ should be given for 16 - 52 weeks in chronic rhinosinusitis
+ NASAL SALINE IRRIGATION
+•
+Saline irrigation should be used as an adjunct therapy in patients
+with rhinosinusitis.
+ SURGERY
+•
+Surgery should be considered in acute rhinosinusitis with orbital or
+intracranial complications.
+Management of Rhinosinusitis in Adolescents and Adults
+TABLE OF CONTENTS
+No.
+Title
+Page
+Levels of Evidence and Formulation of Recommendation
+i
+Guidelines Development and Objectives
+ii
+Development Group
+iv
+Review Committee
+v
+External Reviewers
+vi
+Algorithm 1 Management of Acute Rhinosinusitis for
+vii
+Primary Care and Non-Otorhinolaryngology
+(ORL) Centre
+Algorithm 2 Management of Chronic Rhinosinusitis for
+viii
+Primary Care and Non-ORL Centre
+Algorithm 3 Indications of Referral to ORL Centre
+ix
+Algorithm 4 Management of ARS for ORL Centre
+x
+Algorithm 5 Management of CRS for ORL Centre
+xi
+1.
+INTRODUCTION
+1
+2.
+EPIDEMIOLOGY
+1
+3.
+PREDISPOSING/RISK FACTORS
+1
+4.
+DIAGNOSIS
+3
+4.1 Clinical Diagnosis
+3
+4.1.1 Acute vs Chronic RS
+3
+4.1.2 Viral vs Bacterial RS
+4
+4.2 Anterior Rhinoscopy and Nasal Endoscopy
+5
+4.2.1 Anterior Rhinoscopy
+5
+4.2.2 Nasal Endoscopy
+5
+4.3 Imaging
+9
+4.4 Laboratory Tests
+9
+5.
+DIFFERENTIAL DIAGNOSIS
+12
+6.
+REFERRAL
+12
+6.1 Acute Rhinosinusitis
+12
+6.2 Chronic Rhinosinusitis
+13
+7.
+MANAGEMENT
+14
+7.1 Pharmacological Treatment
+14
+7.1.1 Antibiotic
+14
+7.1.2 Corticosteroids
+16
+7.1.3 Saline Irrigation
+17
+7.1.4 Antihistamine
+18
+7.1.5 Other Medications
+18
+7.2 Surgical Interventions
+Management of Rhinosinusitis in Adolescents and Adults
+No.
+Title
+Page
+8.
+COMPLEMENTARY AND ALTERNATIVE MEDICINES
+21
+9.
+IMPLEMENTING THE GUIDELINES
+21
+9.1 Facilitating and Limiting Factors
+21
+9.2 Resource Implications
+21
+REFERENCES 19
+Appendix 1 Examples of Search Strategy
+23
+Appendix 2 Clinical Questions
+26
+Appendix 3 Sino-Nasal Outcome Test (Snot-22)
+27
+Appendix 4 Proper Use of Nasal Spray
+28
+Appendix 5 Medication Dosage, Indications and
+27
+Special Precautions in RS
+List of Abbreviations
+33
+Acknowledgement
+34
+Disclosure Statement
+34
+Source of Funding
+Management of Rhinosinusitis in Adolescents and Adults
+LEVELS OF EVIDENCE
+SOURCE: US / CANADIAN PREVENTIVE SERVICES TASK FORCE 2001
+In line with the current development in CPG methodology, the CPG Unit
+of MaHTAS is in the process of adapting Grading Recommendations,
+Assessment, Development and Evaluation (GRADE) in its
+work process. The quality of each retrieved evidence and its effect
+size are carefully assessed/reviewed by the CPG Development
+Group. In formulating the recommendations, overall balances of the
+following aspects are considered in determining the strength of the
+recommendations:-
+•
+overall quality of evidence
+•
+balance of benefits versus harms
+•
+values and preferences
+•
+resource implications
+•
+equity, feasibility and acceptability
+Level
+I
+II-1
+II-2
+II-3
+III
+Study design
+Evidence from at least one properly randomised controlled trial
+Evidence obtained from well-designed controlled trials without
+randomisation
+Evidence obtained from well-designed cohort or case-control
+analytic studies, preferably from more than one centre or
+group
+Evidence from multiple time series with or without intervention.
+Dramatic results in uncontrolled experiments (such as the
+results of the introduction of penicillin treatment in the 1940s)
+could also be regarded as this type of evidence
+Opinions of respected authorities based on clinical experience;
+descriptive studies and case reports; or reports of expert
+committees
+Management of Rhinosinusitis in Adolescents and Adults
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+GUIDELINES DEVELOPMENT
+The members of the Development Group (DG) for these CPG were
+from the Ministry of Health (MoH) and Ministry of Education (MoE).
+There was active involvement of a multidisciplinary Review Committee
+(RC) during the process of the CPG development.
+A systematic literature search was carried out using the following
+electronic databases/platform: Guidelines International Network
+(G-I-N), Medline via Ovid, Cochrane Database of Systemic Reviews
+(CDSR) and PubMed (refer to Appendix 1 for Example of Search
+Strategy). The inclusion criteria are all adolescents and adults (age
+more than 12 years) with rhinosinusitis regardless of study design.
+The search was limited to literature published in the last ten years
+and on humans and in English. In addition, the reference lists of all
+retrieved literature and guidelines were searched and experts in the
+field contacted to identify relevant studies. All searches were conducted
+from 12 May 2014 to 12 June 2014. Literature search was repeated
+for all clinical questions at the end of the CPG development process
+allowing any relevant papers published before 28 February 2015 to be
+included. Future CPG updates will consider evidence published after
+this cut-off date. The details of the search strategy can be obtained
+upon request from the CPG Secretariat.
+Reference was also made to European Position Paper on Rhinosinusitis
+and Nasal Polyps developed by International Rhinology Society in 2012.
+The CPG was evaluated using the Appraisal of Guidelines for Research
+and Evaluation (AGREE) II prior to it being used as reference.
+A total of 24 clinical questions were developed under different
+sections. Members of the DG were assigned individual questions
+within these sections (refer to Appendix 2 for Clinical Questions).
+The DG members met 25 times throughout the development of these
+guidelines. All literatures retrieved were appraised by at least two DG
+members using Critical Appraisal Skill Programme checklist, presented
+in evidence tables and further discussed in each DG meetings. All
+statements and recommendations formulated after that were agreed
+upon by both the DG and RC. Where evidence was insufficient, the
+recommendations were made by consensus of the DG and RC. Any
+differences in opinion are resolved consensually. The CPG was based
+largely on the findings of systematic reviews, meta-analyses and clinical
+trials, with local practices taken into consideration.
+The literatures used in these guidelines were graded using the US/
+Canadian Preventive Services Task Force Level of Evidence (2001)
+Management of Rhinosinusitis in Adolescents and Adults
+iii
+while the grading of recommendation was done using the principles of
+GRADE (refer to the preceding page).
+On completion, the draft CPG was reviewed by external reviewers. It
+was also posted on the MoH Malaysia official website for feedback from
+any interested parties. The draft was finally presented to the Technical
+Advisory Committee for CPG, and the HTA and CPG Council MoH
+Malaysia for review and approval.
+OBJECTIVES
+The objectives of the CPG are to provide evidence-based
+recommendations on the following:
+a) early diagnosis
+b) treatment
+c) prevention
+CLINICAL QUESTIONS
+Refer to Appendix 2
+TARGET POPULATION
+All adolescents and adults (patients aged >12 years old) with
+rhinosinusitis (RS)
+TARGET GROUP/USER
+This CPG is intended to guide those involved in the management of RS
+in adolescents and adults either in primary or secondary/tertiary care
+namely:
+i.
+Medical officers and specialists
+ii. Allied health professionals
+iii. Trainees and medical students
+iv. Patients and their advocates
+v. Professional societies
+HEALTHCARE SETTINGS
+Outpatient, inpatient and community settings
+Management of Rhinosinusitis in Adolescents and Adults
+GUIDELINES DEVELOPMENT GROUP
+Chairperson
+Associate Professor Dr. Salina Husain
+Senior Lecturer & Consultant Otorhinolaryngologist
+Hospital Canselor Tuanku Muhriz
+Universiti Kebangsaan Malaysia Medical Centre, Kuala Lumpur
+Members (alphabetical order)
+iv
+Dr. Amilia Hazreena Hamidon
+Family Medicine Specialist
+Klinik Kesihatan Greentown, Perak
+Dr. Ana Fizalinda Abdullah Sani
+Senior Principal Director
+Health Technology Assessment Section
+Ministry of Health, Putrajaya
+Dr. Farah Dayana Zahedi
+Lecturer & Otorhinolaryngologist
+Hospital Canselor Tuanku Muhriz
+Universiti Kebangsaan Malaysia
+Medical Centre, Kuala Lumpur
+Dr. Ida Sadja’ah Sachlin
+Consultant Otorhinolaryngologist
+Hospital Sultanah Bahiyah, Kedah
+Dr. Lailatul Akmar Mat Nor
+Clinical Microbiologist
+Hospital Serdang, Selangor
+Mr. Leow Wooi Leong
+Pharmacist
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Mohd. Aminuddin Mohd. Yusof
+Head of CPG Unit
+Health Technology Assessment Section
+Ministry of Health, Putrajaya
+Dr. Nurhayati Mohd Marzuki
+Consultant Respiratory Physician
+Institute of Respiratory Medicine
+Kuala Lumpur
+Dr. Rosdi Ramli
+Consultant Otorhinolaryngologist
+Hospital Raja Perempuan Zainab II
+Kelantan
+Dr. Rosli Mohd Noor
+Consultant Otorhinolaryngologist
+Hospital Raja Perempuan Zainab II
+Kelantan
+Dr. Siti Aishah Johari
+Family Medicine Specialist
+Klinik Kesihatan Bandar Alor Setar
+Kedah
+Management of Rhinosinusitis in Adolescents and Adults
+REVIEW COMMITTEE
+The draft CPG was reviewed by a panel of experts from both public
+and private sectors. They were asked to comment primarily on the
+comprehensiveness and accuracy of the interpretation of evidence
+supporting the recommendations in the CPG.
+Chairperson
+Datin Dr. Siti Sabzah Hashim
+Senior Consultant Otorhinolaryngologist &
+National Head of Otorhinolaryngology Services
+Hospital Sultanah Bahiyah, Alor Setar, Kedah
+Members (alphabetical order)
+v
+Dato’ Dr. Hj Abdul Razak Muttalif
+Senior Consultant Respiratory Physician
+Institute of Respiratory Medicine, Kuala Lumpur
+Professor Dato’ Dr. Balwant Singh Gendeh
+Senior Lecturer & Senior Consultant Otorhinolaryngologist - Head and Neck Surgeon
+Hospital Canselor Tuanku Muhriz
+Universiti Kebangsaan Malaysia Medical Centre, Kuala Lumpur
+Dr. Hanisah Arshad
+Family Medicine Specialist
+Klinik Kesihatan Bakri, Johor
+Dr. Irmi Zarina Ismail
+Senior Lecturer & Family Medicine Specialist
+Universiti Putra Malaysia, Selangor
+Dr. Junainah Sabirin
+Deputy Director
+Health Technology Assessment Section, Ministry of Health, Putrajaya
+Associate Professor Dr. Mohd Zulkiflee Abu Bakar
+Lecturer & Consultant Otorhinolaryngologist
+University Malaya Medical Centre, Kuala Lumpur
+Dato’ Dr. Narizan Ariffin
+Consultant Otorhinolaryngologist
+KPJ Ampang Puteri Medical Centre, Kuala Lumpur
+Professor Dr. Primuharsa Putra Sabir Husin Athar
+Lecturer & Consultant Otorhinolaryngologist – Head and Neck Surgeon
+KPJ - Seremban Specialist Hospital
+KPJ Healthcare University College, Negeri Sembilan
+Dr. Zubaidah Abdul Wahab
+Senior Consultant Clinical Microbiologist
+Hospital Sg Buloh, Selangor
+Management of Rhinosinusitis in Adolescents and Adults
+EXTERNAL REVIEWERS (in alphabetical order)
+The following external reviewers provided feedback on the draft:
+Dr. Mastura Ismail
+Consultant Family Medicine Specialist
+Klinik Kesihatan Seremban 2, Negeri Sembilan
+Dr. Mat Zuki Mat Jaeb
+Consultant Respiratory Physician
+Hospital Raja Perempuan Zainab II, Kelantan
+Professor Dr. Richard R. Orlandi
+Director, Rhinology and Skull Base Surgery Program
+Professor, Otolaryngology – Head and Neck Surgery
+University of Utah, United States of America
+Associate Professor Dr. Rina A/P N. Karunakaran
+Consultant Microbiologist
+University Malaya Medical Centre, Kuala Lumpur
+Dr. Sri Wahyu Taher
+Consultant Family Medicine Specialist
+Klinik Kesihatan Simpang Kuala, Kedah
+Professor Dr. Valerie Lund CBE
+Professor of Rhinology, Ear Institute, University of London
+Honorary Consultant ENT Surgeon, Royal National Throat
+Nose and Ear Hospital & Imperial College
+London, United Kingdom
+Management of Rhinosinusitis in Adolescents and Adults
+vii
+ALGORITHM 1
+Management of Acute Rhinosinusitis for
+Primary Care and Non-Otorhinolaryngology (ORL) Centre
+Modified: Fokkens WJ, Lund VJ, Mullol J, et al. EPOS 2012: European position
+paper on rhinosinusitis and nasal polyps 2012. A summary for
+otorhinolaryngologists. Rhinology. 2012 Mar;50(1):1-12
+No
+Yes
+Presence of ≥2 symptoms one of which should
+be nasal obstruction or purulent/greenish nasal discharge
+± facial pain, headache
+± smell disturbance
+Examination: anterior rhinoscopy
+Symptoms increasing after 5 days or
+persistent after 10 days
+Common cold
+Treat
+accordingly
+Mild* ARS
+VAS = 0 to 3
+Moderate* ARS
+VAS >3 to 7
+Symptomatic relief
+medication**
++ topical steroid
+Severe* ARS
+VAS >7 to 10
+Symptomatic relief
+medication**
++ topical steroid
++ consider antibiotic***
+Symptomatic relief
+medication**
+Topical steroid
+No improvement
+after 14 days treatment
+No improvement
+after 10 days or worsening
+after 5 days
+Improvement
+within 3 days
+Consider
+referral to
+specialist
+Refer to
+specialist
+*based on visual
+analogue score (VAS)
+**may include
+analgesics, nasal
+saline irrigation &
+decongestants
+***at least 3 of:
+• purulent/greenish
+nasal discharge
+• severe local pain
+• fever
+• elevated erythrocyte
+sedimentation rate/
+C-reactive protein
+• “double sickening”
+Symptoms <5 days or improving
+thereafter
+Continue
+treatment
+7 - 14 days
+Management of Rhinosinusitis in Adolescents and Adults
+viii
+ALGORITHM 2
+Management of Chronic Rhinosinusitis for
+Primary Care and Non-ORL Centre
+Modified: Fokkens WJ, Lund VJ, Mullol J, et al. EPOS 2012: European position
+paper on rhinosinusitis and nasal polyps 2012. A summary for
+otorhinolaryngologists. Rhinology. 2012 Mar;50(1):1-12
+Presence of ≥2 symptoms (duration ≥12 weeks):
+One of which should be nasal obstruction or
+purulent/greenish nasal discharge
+± facial pain, headache
+± smell disturbance
+Examination: anterior rhinoscopy
+(plain X-ray is NOT recommended)
+Topical steroids
+Nasal irrigation
+Re-evaluation after four weeks
+Improvement
+of symptom(s)
+Continue therapy
+Refer to ORL specialist
+Yes
+No
+Management of Rhinosinusitis in Adolescents and Adults
+ix
+ALGORITHM 3
+Indications of Referral to ORL Centre
+Indication of Referral
+ACUTE RHINOSINUSITIS
+CHRONIC RHINOSINUSITIS
+Early referral*:
+Ø persistent of
+symptoms despite
+optimal therapy
+Ø frequent recurrence
+(≥4 per year)
+Ø suspected malignancy
+Ø immunodeficiencies
+Early referral*:
+Ø failed a course of
+optimal medical
+therapy
+Ø >3 sinus
+infections/year
+Ø suspected fungal
+infections,
+granulomatous disease
+or malignancy
+Ø immunodeficiencies
+Urgent referral**:
+Ø periorbital oedema/
+erythema
+Ø displaced globe
+Ø double vision
+Ø ophtalmoplegia/
+restricted eye
+movement
+Ø reduced visual acuity
+Ø severe frontal
+headache
+Ø forehead swelling
+Ø neurological
+manifestation e.g.
+meningitis, altered
+consciousness,
+seizure
+Ø septicaemia
+Urgent referral**:
+Ø severe pain or
+swelling of the sinus
+areas (lower
+threshold for
+immunecompromised
+patients e.g.
+uncontrolled
+diabetes, end stage
+renal failure, HIV)
+*Early referral : within 2 weeks
+**Urgent referral : within 24 hours
+Management of Rhinosinusitis in Adolescents and Adults
+x
+ALGORITHM 4
+Management of ARS for ORL Centre
+Modified: Fokkens WJ, Lund VJ, Mullol J, et al. EPOS 2012: European position
+paper on rhinosinusitis and nasal polyps 2012. A summary for
+otorhinolaryngologists. Rhinology. 2012 Mar;50(1):1-12
+Referral from primary care and
+non-ORL centre
+Moderate ARS with
+no improvement of
+symptoms after 14 days
+of treatment
+Severe ARS with
+no improvement of
+symptoms within 3 days
+ARS with orbital or
+intracranial
+complications
+1. Nasal endoscopy
+2. Culture and sensitivity
+3. Symptomatic relief
+4. Topical corticosteroids
+5. Oral antibiotics
+1. Hospital admission
+2. Nasal endoscopy
+3. CT and/or MRI scan
+4. Culture and sensitivity
+5. Symptomatic relief
+6. Topical corticosteroids
+7. Intravenous antibiotics
+8. Consider surgery if
+medical therapy fails
+after 48 hours
+1. Hospital admission
+2. Nasal endoscopy
+3. CT and/or MRI scan
+4. Culture and sensitivity
+5. Symptomatic relief
+6. Topical steroids
+7. Intravenous antibiotics
+and/or surgery
+Management of Rhinosinusitis in Adolescents and Adults
+ALGORITHM 5
+Management of CRS for ORL Centre
+Referral from primary care and non-ORL centre
+History and investigations
+• Nasal endoscopy
+• Skin Prick Test (if indicated)
+• Consider other diagnosis and predisposing factors e.g.
+bronchial asthma, smoking
+Treatments
+• Topical steroids
+• Nasal irrigation
+• Short-term oral corticosteroids
+• Consider oral antibiotic as immunomodulator (if serum IgE
+is low or normal)
+Improvement of symptoms
+Continue follow-up with ORL centres:
+Topical steroids
+Nasal irrigation
+Short-term oral corticosteroids
+CT scan of paranasal
+sinuses
+Consider endoscopic sinus
+surgery
+Continue follow-up with ORL centres:
+Topical steroids
+Nasal irrigation
+Short-term oral corticosteroids
+Yes
+No
+Management of Rhinosinusitis in Adolescents and Adults
+1
+1. INTRODUCTION AND DEFINITION
+Sinusitis is a common health problem characterised by mucosal
+inflammation of the paranasal sinuses. However, it often coexists with
+rhinitis in most patients. Hence the current accepted terminology is
+rhinosinusitis.
+Rhinosinusitis (RS) can be divided into two subtypes: acute and chronic
+based on the duration of the symptoms. The clinical presentation
+includes nasal obstruction, rhinorrhea, headache, decreased sense of
+smell, postnasal drip, facial pressure or pain, fever, sore throat and
+cough. Predisposing factors for RS are multifactorial, which includes
+infection, allergies, and air pollution.
+RS poses a major health problem. The disease and its effect on
+quality of life, productivity, and finances are substantial. Although it is a
+common illness, RS presents a number of diagnostic and management
+challenges to the practicing clinician.
+The aim of this guideline is to help the healthcare providers in both
+government and private practice to manage RS and its subtypes,
+including acute rhinosinusitis (ARS) and chronic rhinosinusitis (CRS)
+with or without nasal polyposis.
+2. EPIDEMIOLOGY
+ARS is common disease worldwide with a reported prevalence rate
+ranging from 6 - 15%.1, level III
+The prevalence rate of CRS, in Europe, United States of America and
+Brazil is between 5 - 15%.1, level III Meanwhile in the Asian region the
+prevalence rate reported in Korea, China and Singapore are 7%, 8%
+and 2.7% respectively.2, level III
+3. PREDISPOSING/RISK FACTORS
+Active smokers with concurrent allergic inflammation have an increased
+susceptibility to ARS compared to non-smokers. Both exposure to
+cigarette smoke and allergic inflammation has been shown to impair
+ciliary function.1, level III
+There is a higher risk of CRS in patients with current and past exposure
+to second hand smoke (SHS) compared with no exposure (OR=2.33,
+95% CI 1.02 to 5.34).4, level II-2 A dose-response relationship is also
+demonstrated in SHS (OR=2.03, 95% CI 1.55 to 2.66).3, level II-2
+Management of Rhinosinusitis in Adolescents and Adults
+Other significant risk or associated factors for CRS are:
+• positive family history4, level II-2
+• asthma (OR=3.47, 95% CI 3.20 to 3.76)5, level III especially with the
+presence of CRS with nasal polyps (CRSwNP)6, level II-2
+• allergies, chronic bronchitis and emphysema4, level II-2
+• ARS6, level II-2
+• chronic rhinitis6, level II-2
+• gastroesophageal reflux disease6, level II-2
+• sleep apnoea6, level II-2
+• adenotonsillitis6, level II-2
+There is no evidence for a causal correlation between nasal anatomic
+variations in general and the incidence of CRS.1, level III
+Smoking (active and passive), family history of chronic rhinosinusitis,
+asthma and gastroesophageal reflux disease are important risk factors for
+rhinosinusitis.
+Management of Rhinosinusitis in Adolescents and Adults
+3
+4. DIAGNOSIS
+The diagnosis of RS is usually based on clinical symptoms supported
+by diagnostic imaging or nasal endoscopy.1, level III
+4.1 Clinical Diagnosis
+• Clinical definition of rhinosinusitis in adults is defined as:
+ Inflammation of the nose and the paranasal sinuses characterised
+by two or more symptoms, one of which should be either nasal
+blockage/obstruction/congestion or nasal discharge (anterior/
+posterior nasal drip):
+- ± facial pain/pressure
+- ± reduction or loss of smell
+AND at least one of the following:
+• Endoscopic signs of:
+- nasal polyps, and/or
+- mucopurulent discharge primarily from middle meatus and/or
+- oedema/mucosal obstruction primarily in middle meatus
+• CT changes:
+- mucosal changes within the ostiomeatal complex and/or
+sinuses
+• Past medical history of CRS (medically diagnosed)
+Modified: Fokkens WJ, Lund VJ, Mullol J, et al. EPOS 2012: European position paper on
+rhinosinusitis and nasal polyps 2012. A summary for otorhinolaryngologists.
+Rhinology. 2012 Mar;50(1):1-12
+4.1.1 Acute vs Chronic RS
+ARS is defined as worsening of symptoms after five days or symptoms
+persist after 10 days and less than 12 weeks. If the duration of symptoms
+is less than five days, it is diagnosed as acute viral RS or commonly
+known as common cold (Figure 1).1, level III
+Severity of RS can be divided into the following based on total severity
+visual analogue scale (VAS) score (0-10) cm:1, level III
+• mild = 0 - 3
+• moderate = >3 - 7
+• severe = >7 - 10
+In contrast, CRS is defined as symptoms persisting for more than 12
+weeks.8, level III
+Nasal endoscopy or computed tomography (CT) scan is one the
+requirement to diagnose RS, however both are not readily available in
+most primary healthcare (PHC) setting. Therefore, in PHC, obtaining a
+Management of Rhinosinusitis in Adolescents and Adults
+past medical history of CRS is sufficient to make a diagnosis based on
+the following evidence:
+• When symptoms criteria alone (mucopurulent drainage, nasal
+obstruction, facial pain and decreased sense of smell) are used
+to diagnose CRS with CT scan as the gold standard, the overall
+accuracy is only 42.8%. The accuracy improves to 69.1% when
+these criteria are combined with nasal endoscopic findings
+(clinical-based CRS diagnosis).9, level III
+• Adding past medical history of CRS (medically-treated or doctordiagnosed) to symptoms criteria of European Position Paper
+on Rhinosinusitis and Nasal Polyps (EPOS212) improves the
+agreement between symptoms criteria and clinical-based CRS
+diagnosis (ĸ increases from 47.08 to 57.65).10, level II-2 Most symptoms
+considered to be typical for CRS are non-specific.11, level III
+• In acute rhinosinusitis, the duration is <12 weeks with complete
+resolution of symptoms while in chronic rhinosinusitis, the duration
+take ≥12 weeks without complete resolution of symptoms.1, level III
+Figure 1. Definition of Acute Rhinosinusitis
+Modified from: Fokkens WJ, Lund VJ, Mullol J et al. European Position Paper on
+Rhinosinusitis and Nasal Polyps 2012. Rhinol Suppl. 2012 Mar (23):
+1-298
+4.1.2 Viral vs Bacterial RS
+Majority of ARS cases are viral in origin with only 0.5 - 2.0%
+complicated by bacterial infection.1, level III In clinical practice, it is
+difficult to differentiate whether RS is bacterial or viral in origin. This
+may lead to unnecessary antibiotic use for patients and increase the
+incidence of antibiotic resistance. Symptoms such as fever, facial pain,
+purulent nasal discharge and durations of symptoms have been used
+to differentiate bacterial from viral RS.
+Management of Rhinosinusitis in Adolescents and Adults
+5
+Meta-analysis of randomised controlled trials (RCT) found that most
+common signs and symptoms (such as previous common cold, purulent
+nasal discharge, unilateral facial pain, toothache, pain on bending or
+chewing, purulent discharge in the pharynx) do not help to distinguish a
+bacterial from a viral infection. Duration of symptoms of >10 days were
+not significantly associated with bacterial RS.12, level I
+A systematic review assessing symptoms of fever and dental pain in
+RS also showed non-significant association with bacterial infection.
+Although the risk of acute bacterial rhinosinusitis (ABRS) in patients
+presenting with purulent nasal discharge was increased in one study
+(OR=2.69, 95% CI 1.39 to 5.18), there was insufficient evidence to
+support purulent nasal discharge in distinguishing a viral from bacterial
+infection.13, level III
+Despite the lack of evidence, the CPG DG and RC have adapted
+the clinical features of ABRS from European Position Paper on
+Rhinosinusitis and Nasal Polyps developed by International Rhinology
+Society as shown in the following box.1, level III
+• Acute bacterial rhinosinusitis is suggested when there are at least
+three symptoms/signs of:
+ discoloured discharge (with unilateral predominance) and purulent
+secretion in the nasal cavity
+ severe local pain (with unilateral predominance)
+ fever (>38ºC)
+ elevated erythrocyte sedimentation rate/C-reactive protein
+ deterioration of symptoms and signs
+4.2 Anterior Rhinoscopy and Nasal Endoscopy
+4.2.1 Anterior Rhinoscopy
+Anterior rhinoscopy should be performed as part of clinical assessment
+of suspected ARS in primary care setting, albeit a rather limited role.
+It may reveal findings such as mucosal oedema, nasal inflammation,
+purulent nasal discharge, polyps and anatomical abnormalities.1, level III
+Anterior rhinoscopy has a limited value in diagnosing CRS as opposed
+to nasal endoscopy which provides better visualisation of nasal
+pathologies including anatomical variations, mucosal inflammation,
+polyps and nasal discharge.1, level III
+4.2.2 Nasal Endoscopy
+Two types of nasal endoscope are available, rigid and flexible nasal
+endoscope (Figure 2 and 3). There is no current evidence comparing
+Management of Rhinosinusitis in Adolescents and Adults
+the two types of endoscope. However the rigid nasal endoscope is
+preferred by local otorhinolaringologists because it provides superior
+image clarity and better patients’ comfort. In addition, it facilitates
+culture and tissues sampling and enables the endoscopist to perform
+procedures such as nasal toileting.
+Nasal endoscopy is not required in diagnosing ARS in primary care.1, level III
+However it is necessary to be performed in ORL setting as part of clinical
+examination of RS.
+In the diagnosis of ABRS, the sensitivity and specificity of flexible nasal
+endoscopy in reference of sinus radiograph are 97.7% (95% CI 72.41
+to 92.97) and 67.3% (95% CI 54.56 to 80.06) respectively.14, level III
+The diagnostic values of nasal endoscopy in CRS compared with CT
+scan as a gold standard are:
+• sensitivity and specificity of 29 to 38% and 93 to 95% respectively15, level III
+• accuracy of positive symptoms at 69.1%9, level III
+• PPV ranging from 0.56 to 0.89 and NPV ranging from 0.30 to
+0.7615, level III; 16, level I
+Nasal endoscopy is an operator dependant procedure (Figure 4). The
+agreement between different endoscopists is substantial for nasal
+polyps (κ=0.693, p<0.001) and fair to moderate for the other signs.
+17, level III
+Types of endoscope and its use
+Figure 2. Rigid Nasal Endoscope
+Management of Rhinosinusitis in Adolescents and Adults
+7
+Figure 3. Flexible Nasal Endoscope
+Figure 4. Nasal Endoscopic Examination
+Management of Rhinosinusitis in Adolescents and Adults
+Endoscopic Findings
+Figure 5. Acute Rhinosinusitis
+Endoscopic view of right nasal cavity shows mucopurulent discharge
+trickling down from middle meatus.
+Figure 6. Chronic Rhinosinusits without Nasal Polyposis (CRSsNP)
+Endoscopic view of left nasal cavity shows mucopurulent discharge
+in the middle meatus.
+Figure 7. Chronic Rhinosinusitis with Nasal Polyposis (CRSwNP)
+Endoscopic view of right nasal cavity shows nasal polyps arising from
+middle meatus extending to the floor of the nose (Grade III nasal polyps).
+Mucopurulent
+discharge
+Mucopurulent
+discharge
+Nasal polyp
+Management of Rhinosinusitis in Adolescents and Adults
+9
+Recommendation 1
+• Anterior rhinoscopy should be performed as part of clinical
+assessment of suspected acute rhinosinusitis in primary care setting.
+• Nasal endoscopy should be performed to diagnose rhinosinusitis at
+otorhinolaringology centre.
+4.3 Imaging
+Imaging modalities for the paranasal sinuses include plain radiography,
+CT scan and magnetic resonance imaging (MRI).
+Plain radiography has no role in the routine management of
+rhinosinusitis.18, level III
+CT scan is the gold standard for radiographic evaluation of the paranasal
+sinuses19, level III and had been used in many studies as a reference in
+diagnosing bacterial rhinosinusitis.20 - 21, level III It can quantify the extent of
+inflammatory disease based on opacification of the paranasal sinuses.
+Indications for CT scan in RS are:18, level III
+• failed medical therapy
+• planned for surgery
+• atypical or severe disease, i.e. unilateral symptoms, blood-stained
+discharge, displacement of the eye and severe pain
+MRI may be useful in cases of diagnostic uncertainty or when intracranial
+complications are suspected.1, level III
+Recommendation 2
+• Plain radiography is not recommended in the management of
+rhinosinusitis.
+• Computed tomography scan of the paranasal sinuses should be
+considered in rhinosinusitis when:
+ medical therapy fails
+ surgery is planned
+ complications are suspected
+4.4 Laboratory Tests
+Laboratory culture and antibiotic susceptibility (C&S) tests aim to
+document bacterial infection and resistance pattern in bacterial RS.
+It is important to ensure these tests have appropriate indications and
+sampling methods.
+Management of Rhinosinusitis in Adolescents and Adults
+In ABRS, patients who do not respond to first- and second-line
+antibiotics, sinus or meatal culture for pathogen-specific therapy is
+recommended.22, level III
+Nasal swab cultures are of little predictive value in diagnosing ABRS and
+CRS. When necessary, bacterial cultures in CRS should be performed
+either via endoscopic culture of the middle meatus or maxillary tap but
+not by simple nasal swab.23, level III
+Maxillary Sinus Taps (MST) for sinus puncture and aspiration is the
+goal standard method in determining the aetiology of ABRS but is rarely
+performed due to its invasive nature. Endoscopically-directed middle
+meatal culture (EDMMC) is less invasive in obtaining specimen when
+compared with MST. In two meta-analyses, EDMMC was as accurate
+as MST:
+• The pooled accuracy calculated per culture and per isolate was
+comparable at 73%, (95% CI 50 to 88) and 82% (95% CI 65 to 92)
+respectively in acute and chronic RS.24,level III
+• An accuracy of 87.0% (95% CI 81.3 to 92.8) was obtained when
+detecting main pathogenic bacteria (Streptococcus pneumoniae,
+Haemophilus influenzae and Moraxella catarrhalis) in ABRS.
+However, the accuracy reduced in the detection of all bacteria
+(76.3%, 95% CI 69.1 to 83.6).25, level III
+EDMMC has comparable performance with sinus CT scan as gold
+standard in the diagnosis of bacterial RS (sensitivity of 92.8%, specificity
+of 80.0% and accuracy of 90.2%).21, level III
+• In rhinosinusitis,23, level lll
+ two main causative infectious bacteria implicated in acute
+bacterial rhinosinusitis (ABRS) are Streptococcus pneumoniae
+and Haemophilus influenzae.
+ Moraxella catarrhalis is infrequently isolated from the adult
+population, but is more common in children.
+ bacteriology of chronic rhinosinusitis is different from that of
+ABRS.
+ the main pathogens recovered in chronic sinusitis include
+Staphylococcus aureus, Enterobacteriaceae spp and Pseudomonas
+spp.
+ anaerobic organisms are predominant in acute sinusitis with
+dental origin.
+Management of Rhinosinusitis in Adolescents and Adults
+11
+Recommendation 3
+• Nasal swab should not be performed in rhinosinusitis.
+• Culture and susceptibility test may be considered in patients who
+do not respond to antibiotic treatment after 72 hours in acute
+rhinosinusitis.
+• Endoscopically-directed middle meatal culture may be used to
+obtain specimen for culture and susceptibility tests in diagnosing
+unresolved bacterial rhinosinusitis by otorhinolaryngologists.
+Management of Rhinosinusitis in Adolescents and Adults
+5. DIFFERENTIAL DIAGNOSIS
+The following are clinical features to differentiate between rhinosinusitis
+with other ORL condition with similar presentation.
+(+) yes
+(-) no
+(±) possible
+6. REFERRAL
+There is no specific criteria for referral based on current available
+evidence. This chapter is written based on other guidelines and expert
+opinion of the CPG DG and RC.
+6.1 Acute Rhinosinusitis
+Indications for early referral (within one week) are:1, level lll; 23, level III
+• persistent symptoms despite optimal therapy in particular
+immunocompromised patients such as uncontrolled diabetes, endstage renal failure, patient with human immunodeficiency virus (HIV)
+• frequent recurrence (≥4 episodes per year)
+• anatomical defects causing obstruction
+• suspected malignancy
+Urgent referral (within 24 hours) is required in the presence of:1, level lll; 23, level III
+• orbital complications (Figure 8)
+ periorbital oedema/erythema
+ displaced globe
+ double vision
+ ophtalmoplegia/restricted eye movement
+ reduced visual acuity
+• severe frontal/retro-orbital headache
+• forehead swelling (subperiosteal abscess)
+• neurological manifestations e.g. meningitis, altered consciousness,
+seizure
+• septicaemia
+Allergic Rhinitis
+Rhinosinusitis
+Allergic Fungal
+Rhinosinusitis
+Nasal discharge
+clear
+mucopurulent
+mucin
+Facial pain
+-
++ (acute)
+±
+Nasal itchiness
++
+-
+±
+Sneezing
++
+-
+±
+Nasal obstruction
++
++
++
+Smell
+disturbance
+±
+±
+±
+Fever
+-
++ (acute)
+-
+Management of Rhinosinusitis in Adolescents and Adults
+13
+Figure 8. ARS with Orbital Complication
+6.2 Chronic Rhinosinusitis
+Indications for early referral (within one week) are:1, level lll; 23, level III
+• failed a course of optimal medical therapy
+• >3 sinus infections/year
+• suspected fungal infections, granulomatous disease or malignancy
+Indications for urgent referral (within 24 hours):1, level lll; 23, level III
+• severe pain or swelling of the sinus areas in particular
+immunocompromised patients such as uncontrolled diabetes, endstage renal failure, patient with human immunodeficiency virus (HIV)
+Management of Rhinosinusitis in Adolescents and Adults
+7. MANAGEMENT
+Acute RS, either viral or bacterial in origin, is usually treated medically.
+Viral RS is a self-limiting disease that is managed symptomatically with
+analgesic or antipyretic. The use of antibiotic in ABRS will be discussed
+in the next section.
+Surgical options may be offered in the following conditions:
+• ARS with complications such as orbital or intracranial involvement
+• failed optimal medical treatment in acute and chronic rhinosinusitis
+7.1 Pharmacological Treatment
+The aims of pharmacotherapy in RS are to reduce severity of symptoms
+and to prevent complications. Medications used among others may
+include antibiotics, corticosteroids and nasal saline irrigation.
+7.1.1 Antibiotics
+a. ARS
+The use of antibiotics in ARS provide minimal to moderate benefits:
+• A 2009 Cochrane meta-analysis reported a reduced risk of
+treatment failure in antibiotics comparing to placebo by 34% within
+7 to 15 days (RR=0.66, 95% CI 0.44 to 0.98). However 80% of
+cases resolved without antibiotics.26, level I
+• In a more recent Cochrane meta-analysis, a favourable overall
+treatment effect of antibiotics against placebo was shown
+(OR=1.25, 95% CI 1.02 to 1.53; NNT=18).27, level I
+• A large prospective cohort study also demonstrated a reduced risk
+of treatment failure in patients treated with antibiotics vs without
+antibiotics (HR=0.3, 95% CI 0.21 to 0.42). Patients with poor orodental condition and those with previous use of antibiotics in the
+past two months benefited most from this (HR of 0.04 and 0.09
+respectively).28, level II-2
+Antibiotics have higher incidence of adverse events compared with
+placebo; gastrointestinal upsets being the most common (OR=2.10,
+95% CI 1.60 to 2.77; NNH=9).27, level I
+In Europe, antibiotics overuse has been reported to have directly
+resulted in an increased prevalence of antimicrobial resistance in the
+region.1, level III Although there are no available data for the Asian region,
+antimicrobial resistance due to overuse of antibiotics is an international
+health issue.
+Based on the National Surveillance of Antibiotic Resistance (NSAR)
+Report by Ministry of Health, Malaysia, both Streptococcus pneumoniae
+and Haemophilus influenzae (two of the most common causative
+Management of Rhinosinusitis in Adolescents and Adults
+15
+pathogens of ARS have shown an increase in antibiotic resistance from
+2010 to 2014 (Table 1 and 2).
+Table 1. Antibiotic Resistance for Streptococcus pneumoniae
+from 2010 to 2014
+Source:
+i. National Surveillance of Antibiotic Resistance (NSAR) Report, MoH Malaysia, 2010
+29
+ii. NSAR Report, MoH Malaysia, 2014
+30
+Table 2. Antibiotic Resistance for Haemophilus influenzae
+from 2011 to 2014
+Source:
+ii. NSAR Report, MoH Malaysia, 2014
+30
+iii. NSAR Report, MoH Malaysia, 2011
+31
+There is no significant difference in efficacy between different antibiotics
+in ARS.26, level I In National Antibiotics Guidelines Second Edition 2014,
+the preferred antibiotics are amoxicillin and amoxicillin/clavulanate.30, level lll
+Duration of antibiotic therapy should be as short as possible to reduce
+possible side effects. A meta-analysis showed that a shorter course of
+antibiotics (three to seven days) was as efficacious as a longer one (six
+to 10 days).32, level I
+b. CRS
+A 2011 Cochrane systematic review of one study reported improvement
+in subjective and objective outcomes in patients with CRS on antibiotic
+(i.e. roxithromycin, a macrolide) compared with those on placebo.33, level I
+• Mean reduction of patient response scale score at 12 weeks=0.73
+points; 95% CI 0.32 to 1.14.
+• Mean change in SNOT-20* score from baseline at 12 weeks=0.46
+points; 95% CI 0.36 to 0.56.
+Antibiotic
+Percentage of Resistance
+2010i
+2014ii
+Erythromycin
+30.9
+35.7
+Tetracycline
+35.1
+39.3
+Trimethoprim/Sulfamethoxazole
+39.3
+40.7
+Chloramphenicol
+6.1
+12.0
+Clindamycin
+15.5
+17.5
+Penicillin
+N/A
+1.4
+Antibiotic
+Percentage of Resistance
+2011iii
+2014ii
+Ampicillin
+18.4
+23.2
+Amoxicillin/Clavulanate
+12.2
+9.6
+Cefotaxime
+3.8
+2.8
+Cefuroxime
+8.0
+2.5
+Chloramphenicol
+5.4
+14.7
+Trimethoprim/Sulfamethoxazole
+41.7
+45.5
+Management of Rhinosinusitis in Adolescents and Adults
+• Mean change at three months post-treatment, both groups were
+not statistically significant=0.27 points; 95% CI -0.24 to 0.78.
+However, this systematic review used only one small RCT with high
+risk of bias.
+*Refer to Appendix 3 for Sino-Nasal Outcome Test (SNOT-22).
+There are some studies which report improvement in symptoms and
+reduction in inflammatory markers using long-term macrolides such as
+azithromycin, clarithromycin and erythromycin at low doses in CRS.
+However, those studies are not placebo-controlled.1, level III
+There is insufficient strong evidence to support the routine use of
+antibiotics in CRS. However macrolides have been prescribed by ORL
+specialists in CRS for its anti-inflammatory properties.
+Recommendations 4
+• Antibiotics may be prescribed in acute bacterial rhinosinusitis after
+weighing benefits against potential side effects.
+ The preferred antibiotics is amoxicillin 500 mg 8-hourly for five to
+seven days or amoxicillin/clavulanate 625 mg 8-hourly for five to
+seven days.
+• Antibiotics should not be used routinely in chronic rhinosinusitis.
+7.1.2 Corticosteroids
+Corticosteroids
+especially
+intranasal
+corticosteroids
+(INS)
+are
+commonly used in RS. It reduces the inflammation and oedema of the
+nasal mucous membrane rendering resolution of RS symptoms.
+a. Intranasal Corticosteroids
+ARS
+Two good meta-analyses showed that INS significantly improved
+symptoms of acute rhinosinusitis compared with placebo in 14 - 21
+days. However, the effects were small. Higher doses of mometasone
+furoate led to better improvement of symptoms. The side effects were
+mild to moderate.34 - 35, level I
+CRS
+Two meta-analyses found that INS given between 16 and 52 weeks
+duration was more efficacious than placebo in CRS with the following
+outcomes:
+• reduction in polyp size with a mean difference of 0.43 (95% CI
+0.25 to 0.61)36, level I
+• improvement of symptoms, SMD= - 0.37 (95% CI - 0.60 to - 0.13)37, level I
+• there was no difference in side effect between the INS group and
+placebo37, level I
+Management of Rhinosinusitis in Adolescents and Adults
+17
+However, there was no difference in endoscopic score between the two
+groups (SMD= -0.37, 95% CI -0.84 to 0.11).37, level I
+b. Oral Corticosteroids
+ARS
+In ARS, oral steroids (30 mg/day for seven days) is significantly more
+effective than placebo in improvement of symptoms up to 12 days. Side
+effects of oral steroids are limited and mild.38 - 39, level I In local practice,
+oral steroids are not given due to the possibility of exacerbation of
+bacterial infection.
+CRS
+Short-term oral steroids (25mg/day for two weeks) are significantly more
+effective than placebo in reduction of nasal polyp size and hyposmia
+score up to 10 weeks. Oral steroid caused transient suppression of
+adrenal function and increase bone turnover.40, level I In local practice,
+oral steroids are only prescribed in ORL centres.
+Recommendation 5
+• Intranasal corticosteroids:
+ should be considered for 14 - 21 days in acute rhinosinusitis
+ should be given for 16 - 52 weeks in chronic rhinosinusitis
+• Short-term oral corticosteroids should ONLY be given in chronic
+rhinosinusitis at Otorhinolaryngology centre.
+Refer to Appendix 4 on Proper Use of Nasal Spray.
+7.1.3 Nasal Saline Irrigation
+Buffered saline irrigation facilitates mechanical removal of mucus,
+infective agents and inflammatory mediators. It also decreases crusting
+in the nasal cavity and increases mucociliary clearance (MCC).
+Nasal saline irrigation is recommended to be used in ARS.1, level III Refer
+to Figure 9 on its application.
+A recent Cochrane systematic review reported that saline irrigation was
+efficacious as a treatment adjunct for managing the symptoms of CRS
+(SMD=1.42, 95% CI 1.01 to 1.84). There was no difference in the
+efficacy between isotonic and hypertonic saline irrigation (p= 0.14).41, level I
+Adverse events of saline irrigation are minor. These include nasal
+burning, irritation and nausea.41, level I
+Recommendation 6
+• Saline irrigation should be used as an adjunct therapy in patients
+with rhinosinusitis.
+Management of Rhinosinusitis in Adolescents and Adults
+Figure 9. Nasal Saline Irrigation
+7.1.4 Anti-histamine
+There is an increase prevalence of allergic rhinitis (AR) in patients with
+CRS, although the role of allergy in the development of CRS remains
+unclear.23, level III Antihistamine controls sinusitis symptoms in AR.
+There is improvement in sneezing after 14 days (p=0.003) and nasal
+obstruction after 28 days of treatment (p=0.002).42, level I
+Current data yields insufficient evidence to recommend antihistamines
+for treatment of CRS in non-allergic rhinitis patients.1, level III; 23, level III; 42, level I
+Recommendation 7
+• Antihistamines should be prescribed in rhinosinusitis with associated
+symptoms suggestive of allergic rhinitis (sneezing, nasal itchiness,
+nasal obstruction and rhinorrhoea).
+7.1.5 Other Medications
+There is insufficient recent evidence on the following treatment in
+rhinosinusitis described below.
+a. Analgesics
+Analgesics like paracetamol or non-steroidal anti-inflammatory drugs
+may provide symptomatic relief in both viral and bacterial infections
+of the upper respiratory passages in RS.23, level III The selection of
+analgesics should be based on the severity of pain.43, level III
+b. Decongestants
+The nasal MCC is significantly slower in patients with ABRS than normal
+subjects (p<0.05). MCC improves significantly with oxymetazoline
+after 20 minutes.44, level II-2 Topical or systemic decongestants may offer
+additional symptomatic relief in VRS. However their ability to prevent
+Management of Rhinosinusitis in Adolescents and Adults
+19
+ABRS is unproven.19, level III In local context, decongestants is prescribed
+in ARS.
+• Topical decongestants should not be prescribed for more than two
+weeks due to rebound phenomenon. Oral decongestants should
+be cautiously prescribed in those with medical conditions such as
+diabetes mellitus, cardiovascular diseases, glaucoma and benign
+prostate hyperplasia.
+c. Mucolytics
+There is no evidence to support the use of mucolytics in RS.1, level III
+d. Antiviral Agents
+There is no evidence of antiviral agents in treating patients with RS.
+Pharmacological treatment for patients with RS is summarised in Table
+3 below.
+Table 3. Treatment and Recommendations for Adults with RS
+Modified: Fokkens WJ, Lund VJ, Mullol J, et al. EPOS 2012: European position paper on
+rhinosinusitis and nasal polyps 2012. A summary for otorhinolaryngologists.
+Rhinology. 2012 Mar; 50(1):1-12
+Refer to Appendix 5 for Medication Dosage, Indications and Special
+Precautions in RS.
+Therapy
+Relevance
+ARS
+CRS
+Antibiotic
+Yes
+Consider in low or
+normal IgE level
+Topical corticosteroids
+Yes
+Yes
+Addition of topical corticosteroids to
+antibiotics
+Yes
+Yes
+Addition of oral corticosteroids to
+antibiotics
+Yes
+Yes
+Saline irrigation
+Yes
+Yes
+Antihistamine, analgesic &
+decongestant combination
+Yes
+No
+Oral antihistamine added in allergic
+patients
+Yes
+Yes
+Paracetamol
+Yes
+No
+Decongestants
+Yes
+No
+Mucolytics
+No
+No
+Management of Rhinosinusitis in Adolescents and Adults
+7.2 Surgical Interventions
+Functional endoscopic sinus surgery (FESS) is the most common
+surgical treatment in CRS. It is a minimally invasive technique that
+uses an endoscope to enlarge the drainage pathways resulting in
+improvement of ventilation and restoration of nasal cavity and paranasal
+sinuses physiological function.
+Surgical intervention is considered when optimum medical therapy fails
+in CRS or ARS with orbital or intracranial complications, despite the
+absence of high level evidence due to ethical concerns in RCTs on
+surgical procedures.
+Indications for surgery in ARS are presence of orbital or intracranial
+abscess on CT scan or no clinical improvement after 24 - 48 hours of
+intravenous antibiotics.1, level III
+A high quality Health Technology Assessment (HTA) found that clinical
+symptoms improve following FESS compared with conventional
+procedures (simple polypectomy, intranasal ethmoidectomy and
+Caldwell-Luc procedure) in CRS. There were relatively few complications
+with FESS. However, there were some methodological limitations in the
+evidence. There is a clear need for quality-controlled trials to assess the
+effectiveness of FESS.45, level I
+FESS significantly reduces nasal obstruction, loss of smell and polyp
+size compared with medical treatment in CRSwNP.46, level I Apart from
+nasal obstruction, FESS also improves postnasal drip and headache
+significantly in CRSwNP.47, level II-3 Patients with CRSwNP have better
+quality of life post-operatively compared with those without polyps
+(p=0.044).48, level II-3
+Optimal medical therapy is as equally effective as FESS in CRSsNP.49, level I
+A Cochrane systematic review and a HTA showed that FESS is a
+safe surgical procedure with minor complications ranging from 1.1 to
+20.8%.45, level I; 49, level I
+Recommendation 8
+• Surgery should be considered in acute rhinosinusitis with orbital or
+intracranial complications.
+• Functional endoscopic sinus surgery should be offered in patients
+with chronic rhinosinusitis who fail optimal medical treatment.
+Management of Rhinosinusitis in Adolescents and Adults
+21
+8. COMPLEMENTARY AND ALTERNATIVE MEDICINES
+There is limited evidence of herbal medications use as adjunct treatment
+in ARS.50, level I
+Acupuncture shows no significant improvement in symptoms score,
+quality of life and CT scan findings compared with conventional
+treatment in chronic rhinosinusitis.51, level I
+• There is insufficient evidence to support the use of complementary
+alternative medicines in rhinosinusitis.
+9. IMPLEMENTING THE GUIDELINES
+Implementation of CPG is important as it helps in providing quality
+healthcare services based on best available evidence applied to local
+scenario and expertise. Various factors and resource implications
+should be considered for the success of the uptake in the CPG
+recommendations.
+9.1 Facilitating and Limiting Factors
+The facilitating factors in implementing the CPG are:
+• availability of CPG to healthcare providers (hardcopies and
+softcopies)
+• conferences and updates on management of RS
+Limiting factors in the CPG implementation include:
+• limited awareness in managing and referrals of RS among
+healthcare providers
+• inadequate RS training at all levels of healthcare providers
+• variation in RS treatment at different levels of care due to
+administrative and financial constraints
+• lacking continuum of RS care at all levels of healthcare, both in
+public and private settings
+9.2 Potential Resource Implications
+To implement the CPG, there must be strong commitments to:
+• ensure widespread distribution of CPG to healthcare providers via
+printed copies and easy online accessibility
+• reinforce training of healthcare providers via regular seminars and
+workshops
+• develop a multidisciplinary team in all levels of health care
+Management of Rhinosinusitis in Adolescents and Adults
+To assist in the implementation of the CPG, the following are proposed
+as clinical audit indicators for quality management:
+Implementation strategies will be developed following the approval of
+the CPG by MoH which include Quick Reference and Training Module.
+Percentage of
+CRS patients
+treated with
+corticosteroids
+(intranasal or
+oral)
+Number of CRS patients treated with
+corticosteroids in a period
+Number of patients diagnosed with CRS
+in the same period
+=
+x 100%
+Percentage of
+RS patients
+treated with
+saline irrigation
+as an adjunct
+therapy
+Number of RS patients treated with saline
+irrigation as an adjunct therapy in a period
+Number of patients diagnosed with RS
+in the same period
+=
+x 100%
+Management of Rhinosinusitis in Adolescents and Adults
+23
+REFERENCES
+1.
+Fokkens WJ, Lund VJ, Mullol J, et al. EPOS 2012: European position paper on rhinosinusitis and
+nasal polyps 2012. Rhinology. 2012 Mar;50(23):1-305
+2.
+Shi JB, Fu QL, Zhang H, et al. Epidemiology of chronic rhinosinusitis: results from a crosssectional survey in seven Chinese cities. Allergy. 2015;70(5):533–9
+3.
+Tammemagi CM, Davis RM, Benninger MS, et al. Secondhand Smoke as a Potential Cause of
+Chronic Rhinosinusitis A Case-Control Study. Arch Surg. 2010;145(4):327–34
+4.
+Reh DD, Lin SY, Clipp SL, et al. Secondhand tobacco smoke exposure and chronic rhinosinusitis:
+A population-based case-control study. Am J Rhinol Allergy. 2009;23(6):562–7
+5.
+Jarvis D, Newson R, Lotvall J, et al. Asthma in adults and its association with chronic rhinosinusitis:
+The GA2LEN survey in Europe. Allergy Eur J Allergy Clin Immunol. 2012;67(1):91–8
+6.
+Tan BK, Chandra RK, Pollak J, et al. Incidence and associated premorbid diagnoses of patients
+with chronic rhinosinusitis. J Allergy Clin Immunol; 2013;131(5):1350–60
+7.
+Fokkens WJ, Lund VJ, Mullol J, et al. EPOS 2012: European position paper on rhinosinusitis and
+nasal polyps 2012. A summary for otorhinolaryngologists. Rhinology. 2012 Mar;50(1):1-12
+8.
+Thomas M, Yawn B, Price D, et al. EPOS primary care guidelines: European Position Paper
+on the primary care diagnosis and management of Rhinosinusitis and Nasal Polyps 2007 - A
+summary. Prim Care Respir J. General Practice Airways Group; 2008;17(2):79–89
+9.
+Bhattacharyya N, Lee LN. Symptom Outcomes After Endoscopic Sinus Surgery for Chronic
+Rhinosinusitis. Arch Otolaryngol Neck Surg. 2004;130(3):329
+10. Lange B, Thilsing T, Baelum J, et al. Diagnosing chronic rhinosinusitis: Comparing questionnairebased and clinical-based diagnosis. Rhinology. 2013;51(2):128–36
+11. Ferguson BJ, Narita M, Yu VL, et al. Prospective observational study of chronic rhinosinusitis:
+Environmental triggers and antibiotic implications. Clin Infect Dis. 2012;54(1):62–8
+12. Young J, De Sutter A, Merenstein D, et al. Antibiotics for adults with clinically diagnosed acute
+rhinosinusitis: a meta-analysis of individual patient data. Lancet. 2008;371(9616):908–14
+13. Hauer AJ, Luiten EL, Erp NF Van, et al. No Evidence for Distinguishing Bacterial from Viral Acute
+Rhinosinusitis Using Fever and Facial/Dental Pain A Systematic Review of the Evidence Base.
+Otolaryngol -- Head Neck Surg 2014;150(1):28–33
+14. Berger G, Berger RL. The contribution of flexible endoscopy for diagnosis of acute bacterial
+rhinosinusitis. Eur Arch Oto-Rhino-Laryngology. 2011;268(2):235–40
+15. Amine M, Lininger L, Fargo KN, et al. Outcomes of endoscopy and computed tomography in
+patients with chronic rhinosinusitis. Int Forum Allergy Rhinol. 2012;00(0):1–7
+16. Wuister AMH, Goto N a, Oostveen EJ, et al. Nasal Endoscopy Is Recommended for Diagnosing
+Adults with Chronic Rhinosinusitis. Otolaryngol -- Head Neck Surg 2014;150(3):359–64
+17. Raithatha R, Anand VK, Mace JC, et al. Interrater agreement of nasal endoscopy for chronic
+rhinosinusitis. Int Forum Allergy Rhinol. 2012;2(2):144–50
+18. Scadding GK, Durham SR, Mirakian R, et al. BSACI guidelines for the management of
+rhinosinusitis and nasal polyposis. Clin Exp Allergy. 2008;38(2):260–75
+19. Rosenfeld RM, Piccirillo JF, Chandrasekhar SS, et al. Clinical practice guideline (update): Adult
+sinusitis. Otolaryngol - Head Neck Surg (United States) 2015;152:S1–39
+20. Kenny TJ, Duncavage J, Bracikowski J, et al. Prospective analysis of sinus symptoms and
+correlation with paranasal computed tomography scan. Otolaryngol - Head Neck Surg.
+2001;125(1):40–3
+21. Elwany S, Helmy SAS, El-Reweny EM, et al. Endoscopically directed middle meatal cultures vs
+computed tomographic scans in the diagnosis of bacterial sinusitis in intensive care units. J Crit
+Care Elsevier Inc.; 2012;27(3):315.e1–315.e5
+22. Chow AW, Benninger MS BI et al. IDSA Clinical Practice Guideline for Acute Bacterial
+Rhinosinusitis in Children and Adults. Clin Infect Dis. 2012;54(8):e72–112
+23. Desrosiers M, Evans G a., Keith PK, et al. Canadian Clinical Practice Guidelines for Acute and
+Chronic Rhinosinusitis. J Otolaryngol - Head Neck Surg BioMed Central Ltd; 2011;40(SUPPL.
+2):99–142
+Management of Rhinosinusitis in Adolescents and Adults
+24. Dubin MG, Ebert CS CC et al. Concordance of middle meatal swab and maxillary sinus aspirate
+in acute and chronic sinusitis: a meta-analysis. Am J Rhinol. 2005;19(5):462–70
+25. Benninger MS, Payne SC FB et al. Endoscopically directed middle meatal cultures versus
+maxillary sinus taps in acute bacterial maxillary rhinosinusitis: a meta-analysis. Otolaryngol Head
+Neck Surg. 2006;134(1):3–9
+26. Ahovuo-Saloranta A, Borisenko OV, Kovanen N, et al. Antibiotics for acute maxillary sinusitis.
+Cochrane Database Syst Rev. 2008; 2014 Feb 11;2:CD000243
+27. Lemiengre MB, van Driel ML, Merenstein D, et al. Antibiotics for clinically diagnosed acute
+rhinosinusitis in adults. Cochrane database Syst Rev 2012;10(10):CD006089
+28. Blin P, Blazejewski S, Lignot S, et al. Effectiveness of antibiotics for acute sinusitis in real-life
+medical practice. Br J Clin Pharmacol. 2010;70(3):418–28
+29. Ministry of Health M. National Surveillance of Antibiotic Resistance (NSAR). 2010
+30. Ministry of Health M. National Surveillance of Antibiotic Resistance (NSAR) Report. 2014
+31. Ministry of Health M. National Surveillance of Antibiotic Resistance (NSAR) Report. 2011
+32. Falagas ME, Karageorgopoulos DE, Grammatikos AP, et al. Effectiveness and safety of short
+vs. long duration of antibiotic therapy for acute bacterial sinusitis: A meta-analysis of randomized
+trials. Br J Clin Pharmacol. 2009;67(2):161–71
+33. Piromchai P, Thanaviratananich S, Laopaiboon M. Systemic antibiotics for chronic rhinosinusitis
+without nasal polyps in adults ( Review ) Summary Of Findings For The Main Comparison.
+2011;(5):CD008233
+34. Zalmanovici Trestioreanu A YJ. Steroids for acute sinusitis ( Review ). Cochrane Database Syst
+Rev 2013;(4):CD005149
+35. Hayward G, Heneghan C, Perera R, et al. Intranasal corticosteroids in management of acute
+sinusitis: A systematic review and meta-analysis. Ann Fam Med. 2012;10(3):241–9
+36. Joe SA, Thambi R, Huang J. A systematic review of the use of intranasal steroids in the treatment
+of chronic rhinosinusitis. Otolaryngol - Head Neck Surg. 2008;139(3):340–7
+37. Snidvongs K, Kalish L, Sacks R, et al. Topical steroid for chronic rhinosinusitis without polyps
+(Review ) Topical steroid for chronic rhinosinusitis without polyps. 2011;(8) :CD009274
+38. Venekamp RP, Rovers MM, Verheij TJM, et al. Treatment of acute rhinosinusitis: Discrepancy
+between guideline recommendations and clinical practice. Fam Pract. 2012;29(6):706–12
+39. Venekamp RP, Bonten MJM, Rovers MM, et al. Systemic corticosteroid monotherapy for clinically
+diagnosed acute rhinosinusitis: a randomized controlled trial. CMAJ 2012;184(14):E751–7
+40. Trial AR, Lipworth B. Original Research Treatment of Chronic Rhinosinusitis With Nasal
+Polyposis With Oral Steroids Followed by Topical Steroids. 2011
+41. Harvey R, Hannan S, Badia L, et al. Cochrane review: Nasal saline irrigations for the symptoms
+of chronic rhinosinusitis. Evidence-Based Child Heal A Cochrane Rev J 2008;3(3):459–
+95:CD006394
+42. Braun JJ, Alabert JP, Michel FB, et al. Adjunct effect of loratadine in the treatment of acute
+sinusitis in patients with allergic rhinitis. Allergy. 1997;52(6):650–5
+43. Aring AM, Chan MM. Acute rhinosinusitis in adults. Am Fam Physician. 2011;83(9):1057–63
+44. Inanli S, Oztürk O, Korkmaz M, et al. The effects of topical agents of fluticasone propionate,
+oxymetazoline, and 3% and 0.9% sodium chloride solutions on mucociliary clearance in the
+therapy of acute bacterial rhinosinusitis in vivo. Laryngoscope. 2002;112(2):320–5
+45.
+Dalziel K, Stein K, Round A, et al. Systematic review of endoscopic sinus surgery for
+nasal polyps. Health Technol Assess. 2003;7(17):iii, 1-159
+46. Smith TL, Mendolia-Loffredo S, et al. Predictive factors and outcomes in endoscopic sinus
+surgery for chronic rhinosinusitis. Laryngoscope. 2005;115(12):2199–205
+47. Damm M, Quante G, Jungehuelsing M, et al. Impact of functional endoscopic sinus surgery on
+symptoms and quality of life in chronic rhinosinusitis. Laryngoscope. 2002;112(2):310–5
+48. Smith TL, Batra PS, Seiden AM, et al. Evidence supporting endoscopic sinus surgery in the
+management of adult chronic rhinosinusitis: a systematic review. Am J Rhinol 2011;19(6):537–43
+49. Khalil HS, Nunez DA. Functional endoscopic sinus surgery for chronic rhinosinusitis. Cochrane
+database Syst Rev 2006;(3):CD004458
+50. Guo R, Canter PH, Ernst E. Herbal medicines for the treatment of rhinosinusitis: A systematic
+review. Otolaryngol - Head Neck Surg. 2006;135(4):496–506
+Management of Rhinosinusitis in Adolescents and Adults
+25
+51. Rössberg E, Larsson PG, Birkeflet O, et al. Comparison of traditional Chinese acupuncture,
+minimal acupuncture at non-acupoints and conventional treatment for chronic sinusitis.
+Complement Ther Med. 2005;13(1):4–10
+52.
+Ministry of Health Medicines Formulary - 3/2015 (available at http://www.pharmacy.gov.my/v2/
+sites/default/files/document-upload/ministry-health-medicines-formulary-1-2015.pdf
+Management of Rhinosinusitis in Adolescents and Adults
+Appendix 1
+EXAMPLE OF SEARCH STRATEGY
+The following MeSH terms or free text terms were used either singly or
+in combination, search was limit to English, human and last 10 years:
+1.
+Sinusitis/
+2.
+sinusiti*.tw.
+3.
+Ethmoid Sinusitis/
+4.
+(ethmoid* adj1 rhiniti*).tw.
+5.
+Frontal Sinusitis/
+6.
+(frontal adj1 sinusiti*).tw.
+7.
+Maxillary Sinusitis/
+8.
+(maxillary adj1 sinusiti*).tw.
+9.
+Sphenoid Sinusitis/
+10. (sphenoid* adj1 sinusiti*).tw.
+11. Rhinitis/
+12. rhiniti*.tw.
+13. (nasal adj1 catarrh*).tw.
+14. Rhinitis, Allergic, Perennial/
+15. (rhinitis, allergic adj (perennial or nonseasonal)).tw.
+16. Rhinitis, Allergic, Seasonal/
+17. (seasonal adj1 (allergic rhiniti* or rhinit* allergic)).tw.
+18. (seasonal allergic adj rhiniti*).tw.
+19. (pollen adj1 allerg*).tw.
+20. pollinos*.tw.
+21. (hay adj1 fever).tw.
+22. hayfever.tw.
+23. Rhinitis, Atrophic/
+24. (atrophic adj1 rhiniti*).tw.
+25. ozena*.tw.
+26. Rhinitis, Vasomotor/
+27. (vasomotor adj1 rhiniti*).tw.
+28. /or 1 - 27
+29. Anti-Bacterial Agents/
+30. (agent* adj1 (anti-bacterial or antibacterial or anti bacterial or
+anti-mycobacterial or antimycobacterial or anti mycobacterial or
+bacteriocidal)).tw.
+31. antibiotic*.tw.
+32. bacteriocides.tw.
+33. 29 or 30 or 31 or 32
+34. 28 and 33
+Management of Rhinosinusitis in Adolescents and Adults
+27
+Appendix 2
+CLINICAL QUESTIONS
+1.
+What are the diagnostic criteria for acute/chronic rhinosinusitis?
+2.
+What are the diagnostic criteria to differentiate between acute viral
+and bacterial rhinosinusitis?
+3.
+What are the risk/predisposing factors in diagnosing rhinosinusitis?
+4.
+Is anterior rhinoscopy/nasal endoscopic examination accurate in
+diagnosing rhinosinusitis?
+5.
+What are the indications for culture and sensitivity in diagnosing
+rhinosinusitis?
+6.
+What are the reliable methods in obtaining specimens for culture
+and sensitivity in diagnosing rhinosinusitis?
+7.
+What are the accurate imaging modalities in diagnosing
+rhinosinusitis?
+8.
+What are the indications for referral to ORL service in rhinosinusitis?
+9.
+When is antibiotic indicated in treating acute rhinosinusitis?
+10. Is empirical or second-line antibiotic safe and effective in treating
+acute rhinosinusitis?
+11. What is the duration of antibiotic in acute rhinosinusitis?
+12. When is antibiotic is indicated in chronic rhinosinusitis?
+13. Is antibiotic safe and effective in chronic rhinosinusitis?
+14. What is the duration of antibiotic in chronic rhinosinusitis?
+15. Is intranasal/oral corticosteroid safe and effective in rhinosinusitis?
+16. Is analgesic safe and effective in rhinosinusitis?
+17. Is decongestant safe and effective in rhinosinusitis?
+18. Is mucolytic safe and effective in rhinosinusitis?
+19. Is antihistamine safe and effective in rhinosinusitis?
+20. Is saline irrigation safe and effective in rhinosinusitis?
+21. Is anti-viral safe and effective in acute rhinosinusitis?
+22. When is surgery indicated for rhinosinusitis?
+23. Is surgery safe and effective in chronic rhinosinusitis?
+24. Is traditional complementary medicine/alternative safe and
+effective in rhinosinusitis?
+Management of Rhinosinusitis in Adolescents and Adults
+Appendix 3
+SINO-NASAL OUTCOME TEST (SNOT-22)
+I.D :_______________ DATE: ________________
+Below you will find a list of symptoms and social/emotional
+consequences of your rhinosinusitis. We would like to know more about
+these problems and would appreciate your answering the following
+questions to the best your ability. There is no right or wrong answers,
+and only you can provide us with this information. Please rate your
+problems as they have been over the past two weeks. Thank you for
+your participation. Do not hesitate to ask for assistance if necessary.
+2. Please mark the most important items affecting your
+health (maximum of 5 items)_____
+SNOT-20 Copyright © 1996 by Jay F. Piccirillo, MD., Washington University School
+of Medicine, St. Louis, Missouri
+SNOT-22 Developed from modification of SNOT-20 by National Comparative Audit
+of Surgery for Nasal Polyposis and Rhinosinusitis
+Source: Reproduced with permission from Washington University (available at
+http://www.canvasc.ca/pdf/SNOT22.pdf)
+1. Considering how severe the problem is
+when you experience it and how often it
+happens, please rate each item below
+on how “bad” it is by circling the
+number that corresponds with how you
+feel using this scale :
+No Problem
+Very Mild Problem
+Mild or slight Problem
+Moderate Problem
+Severe Problem
+Problem as bad as it
+can be
+5 Most Important
+Items
+1. Need to blow nose
+0
+1
+2
+3
+4
+5
+2. Nasal Blockage
+0
+1
+2
+3
+4
+5
+3. Sneezing
+0
+1
+2
+3
+4
+5
+4. Runny nose
+0
+1
+2
+3
+4
+5
+5. Cough
+0
+1
+2
+3
+4
+5
+6. Post-nasal discharge
+0
+1
+2
+3
+5
+7. Thick nasal discharge
+0
+1
+2
+3
+4
+5
+8. Ear fullness
+0
+1
+2
+3
+4
+5
+9. Dizziness
+0
+1
+2
+3
+4
+5
+10. Ear pain
+0
+1
+2
+3
+4
+5
+11. Facial pain/pressure
+0
+1
+2
+3
+4
+5
+12. Decreased Sense of Smell/Taste
+0
+1
+2
+3
+4
+5
+13. Difficulty falling asleep
+0
+1
+2
+3
+4
+5
+14. Wake up at night
+0
+1
+2
+3
+4
+5
+15. Lack of a good night’s sleep
+0
+1
+2
+3
+4
+5
+16. Wake up tired
+0
+1
+2
+3
+4
+5
+17. Fatigue
+0
+1
+2
+3
+4
+5
+18. Reduced productivity
+0
+1
+2
+3
+4
+5
+19. Reduced concentration
+0
+1
+2
+3
+4
+5
+20. Frustrated/restless/irritable
+0
+1
+2
+3
+4
+5
+21. Sad
+0
+1
+2
+3
+4
+5
+22. Embarrassed
+0
+1
+2
+3
+4
+5
+Management of Rhinosinusitis in Adolescents and Adults
+29
+Appendix 4
+PROPER USE OF NASAL SPRAY
+Introduction
+Nasal spray is used to treat symptoms rhinosinusitis and allergic rhinitis.
+A correct technique is essential for effective delivery of the medicines.
+Different nasal spray requires slightly different techniques (for example,
+priming technique or holding position). Hence, it is very important to
+follow the instructions from your healthcare providers and refer to the
+product labels.
+Nasal sprays are only intended for use in the nose. Do not spray it into
+any other parts of the body.
+Usage of Nasal Spray for the First Time (Priming)
+1. Remove the dust cap (Picture A).
+2. Shake the nasal spray bottle.
+3. Picture B shows how to hold nasal spray correctly. Press down a
+few times until you see a fine mist of spray comes out (You might
+need to press 3 - 5 times depending on the nasal spray). This
+process is called Priming.
+4. Priming is only done once for every nasal spray. However, if the
+nasal spray has not been used for more than 1 - 2 weeks, the
+priming step has to be repeated.
+Dust Cap
+Applicator
+Applicator Tip
+Management of Rhinosinusitis in Adolescents and Adults
+Usage of Nasal Spray after Priming
+1. Gently blow your nose to clear the mucous (Picture C).
+2. Remove the dust cap.
+3. Close one nostril with your finger. Bend your head slightly forward.
+Carefully insert the applicator tip ¼ or ½ inch into the other nostril
+(point the applicator tip slightly outwards, away from the centre of
+the nose) (Picture D).
+4. Press down the nasal spray once and at the same time breathe in
+slowly through your nostril. (Picture E)
+5. Repeat step 4 in the other nostril.
+6. Do not tilt your head backwards to prevent backflow into your
+throat.
+7. If the medicine drips into your throat, you will feel a slightly bitter
+sensation in your mouth. This is normal.
+8. Once you are done using the nasal spray, wipe the applicator tip
+with a clean tissue or cloth and put on the dust cap.
+9. Try not to sneeze or blow your nose immediately after using the
+nasal spray.
+Tips While Using the Nasal Spray
+1. Do not breathe in strongly and quickly to prevent the medication
+from going into your throat.
+2. If the nasal spray is used correctly, the medicine will not drip from
+your nose nor will it drip into your oral cavity.
+3. Please use the nasal spray as directed by your healthcare
+providers.
+4. If you experience any nosebleed following the used of nasal sprays,
+stop using the nasal spray and seek medical attention.
+Keep the nasal spray away from direct sunlight and children.
+Source: Adapted from Malaysian Official Portal MyHealth, available at: http://www.
+myhealth.gov.my/en/how-to-use-nasal-spray/
+Management of Rhinosinusitis in Adolescents and Adults
+31
+Appendix 5
+MEDICATION DOSAGE, INDICATIONS AND SPECIAL PRECAUTIONS IN ARS
+a. Antibiotics
+Generic Drug Name
+Recommended Dosage
+Special precautions
+Amoxicillin
+250 - 500 mg PO q8hr x 5 - 10 days or
+500 - 875 mg PO q12hr x 5 - 10 days
+• Preferred antibiotics in ABRS
+• Penicillin allergy, infectious mononucleosis, renal impairment, pregnancy and lactation
+Amoxicillin and
+Clavulanic acid
+500/125 mg PO q8hr x 5 - 7 days or
+875/125 mg PO q12hr x 5 - 7 days
+• Preferred antibiotics in ABRS
+• Allergy to beta-lactam antibiotics, mononucleosis, renal and hepatic impairment, pregnancy and lactation
+Cefuroxime axetil
+250 - 500 mg PO q12hr x 5 - 10 days
+• Penicillin allergy, gastrointestinal disease (particularly colitis), renal impairment, pregnancy and lactation
+Azithromycin
+500 mg PO q24hr x 3 days
+•
+May increase the risk of torsades de pointes and fatal heart arrhythmias in patients with prolonged QT interval,
+low K or Mg blood levels, slow heart rate and medication treating abnormal heart rhythms. Impaired hepatic
+and renal function. Pregnancy and lactation
+Clarithromycin
+250 - 500 mg PO q12hr x 7 - 14 days
+• Patient with coronary artery disease, severe cardiac insufficiency, hypomagnesaemia, bradycardia (<50 bpm).
+May exacerbate symptoms of myasthenia gravis. Renal and hepatic impairment. Pregnancy and lactation.
+Ciprofloxacin
+(Use with caution)
+500 - 750 mg PO q12hr x 7 - 14 days
+• Patient with epilepsy, history of CNS disorders, G6PD deficiency, known prolongation of QT interval, with risk
+factors for QT interval prolongation or torsades de pointes (e.g. congenital long QT syndrome, uncorrected
+electrolyte imbalance, cardiac disease). May exacerbate myasthenia gravis symptoms. Kidney, heart or lung
+transplant recipients. Hepatic and renal impairment. Pregnancy and lactation.
+Levofloxacin
+(Use with caution)
+500 mg PO q24hr x 10 - 14 days
+•
+Patient with known or suspected CNS disorders (e.g. severe cerebral arteriosclerosis, epilepsy) or other risk
+factors that predispose to seizures or lower the seizure threshold, history of psychiatric disease and tendon
+disorder, history of prolonged QT interval, uncorrected electrolyte disorders (e.g. hypokalaemia), latent or
+actual defects in G6PD, DM. Kidney, heart or lung transplant recipients. May exacerbate myasthenia gravis.
+Renal impairment. Pregnancy and lactation.
+Moxifloxacin
+(Use with caution)
+400 mg PO q24hr x 5 - 21 days
+• Patient with previous tendon disorders (e.g. rheumatoid arthritis), significant bradycardia or acute myocardial
+ischaemia, heart failure with reduced LVEF, known history of symptomatic arrhythmias, known or suspected
+CNS disorders (e.g. severe cerebral arteriosclerosis, epilepsy) or other risk factors that predispose to
+seizures; diabetes. Kidney, heart or lung transplant recipients. Hepatic impairment. Pregnancy and lactation.
+Management of Rhinosinusitis in Adolescents and Adults
+b. Corticosteroids
+Oral steroids (prednisolone): 30 mg daily for 7 days in ARS and 25 mg daily for 14 days in CRS
+Intranasal corticosteroids:
+Generic Drug Name
+Indications
+Dosage
+Budesonide
+64 mcg/dose
+nasal spray
+• Seasonal and perennial allergic
+rhinitis and nasal polyposis
+• Treatment and prevention of
+nasal polyps
+Adults and children 6 years and older:
+• Rhinitis: 2 sprays into each nostril once daily in the morning or 1 spray into each nostril twice daily
+• Nasal polyps: 2 sprays twice daily
+Fluticasone propionate
+50 mcg/dose nasal spray
+•
+Prophylaxis and treatment of
+seasonal and perennial allergic
+rhinitis
+•
+Management of associated sinus
+pain and pressure
+•
+Adults/adolescents ( 12 years): 2 sprays in each nostril once daily
+•
+Maximum daily dose 4 sprays in each nostril
+Mometasone furoate
+50 mcg/dose
+aqueous nasal spray
+•
+Symptomatic treatment
+associated with acute
+rhinosinusitis and treatment of
+nasal polyps
+Allergic Rhinitis
+Adults and children over 12 years:
+• 100 mcg/day (2 sprays) to each nostril once daily
+• Maximum 200 mcg (4 sprays) once daily
+• Reduce to 50 mcg (1 spray) once daily when control achieved
+Acute Rhinosinusitis
+•
+2 sprays in each nostril twice daily (total 400 mcg/day)
+Nasal polyphosis
+•
+2 sprays in each nostril twice daily (total 400 mcg/day), reduced to 2 sprays each nostril once daily
+when symptoms are adequately controlled
+Source: Ministry of Health Medicines Formulary - 3/2015
+(available at http://www.pharmacy.gov.my/v2/sites/default/files/document-upload/ministry-health-medicinesformulary-1-2015.pdf)
+Management of Rhinosinusitis in Adolescents and Adults
+33
+LIST OF ABBREVIATIONS
+ABRS
+acute bacterial rhinosinusitis
+AR
+allergy rhinitis
+ARS
+acute rhinosinusitis
+C&S
+culture and susceptibility
+CAM
+complementary and alternative medicine
+CI
+confidence interval
+CPG
+clinical practice guidelines
+CRP
+c-reactive protein
+CRS
+chronic rhinosinusitis
+CRSsNP
+chronic rhinosinusitis without nasal polyps
+CRSwNP
+chronic rhinosinusitis with nasal polyps
+CT
+computerised tomography
+DG
+development group
+EDMMC
+endoscopically-directed middle meatal cultures
+ESR
+erythrocyte sedimentation rate
+EPOS
+European Position Paper on Rhinosinusitis and Nasal Polyps
+FESS
+functional endoscopic sinus surgery
+HIV
+human immunodeficiency virus
+HR
+hazard ratio
+HTA
+health technology assessment
+Ig
+immunoglobulin
+INS
+intranasal corticosteroids
+MaHTAS
+Malaysia Health Technology Assessment Section
+MCC
+mucociliary clearance
+MoE
+Ministry of Education
+MoH
+Ministry of Health
+MRI
+magnetic resonance imaging
+MSA
+maxillary sinus aspirate
+MST
+maxillary sinus taps
+NSAR
+National Surveillance of Antibiotic Resistance
+NNT
+number to treat
+NPV
+negative predictive value
+NSAIDs
+non-steroidal anti-inflammatory drug(s)
+OR
+odds ratio
+PHC
+primary healthcare
+PPV
+positive predictive value
+RC
+review committee
+RCT(s)
+randomised controlled trial(s)
+RR
+relative risk
+RS
+rhinosinusitis
+SMD
+standardised mean difference
+SHS
+second-hand smoke
+VAS
+visual analogue score
+VRS
+viral rhinosinusitis
+vs
+versus
+Management of Rhinosinusitis in Adolescents and Adults
+ACKNOWLEDGEMENT
+The members of CPG DG would like to express their gratitude and
+appreciation to the following for their contributions:
+• Dato’ Dr. Abdul Majid Md Nasir, former Chairman of Review
+Committee
+• Dato' Dr. Narizan Ariffin, Consultant Otorhinolaringologist, KPJ
+Ampang Puteri Specialist Hospital, Kuala Lumpur
+• Datin Dr. Rugayah Bakri, former Deputy Director, MaHTAS
+• Dr. Aneeza Khairiyah Wan Hamizan, Lecturer and Otorhinolaringologist,
+Hospital Canselor Tuanku Muhriz, Universiti Kebangsaan Malaysia
+Medical Centre, Kuala Lumpur
+• Dr. Muventhiran a/l Ruthranesan, former Respiratory Physician at
+Institute of Respiratory Medicine
+• Panel of external reviewers who have reviewed the draft
+• Technical Advisory Committee for CPG for their valuable input and
+feedback
+• All those who have contributed directly or indirectly to the
+development of the CPG
+DISCLOSURE STATEMENT
+The panel members of both Development Group and Review Committee
+had completed disclosure forms. None held shares in pharmaceutical
+firms or acts as consultants to such firms. (Details are available upon
+request from the CPG Secretariat)
+SOURCE OF FUNDING
+The development of the CPG on Management of Rhinosinusitis In
+Adolescent and Adults was supported financially in its entirety by the
+Ministry of Health Malaysia.

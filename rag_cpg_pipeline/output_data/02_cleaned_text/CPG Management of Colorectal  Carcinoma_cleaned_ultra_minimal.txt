@@ -1,0 +1,3404 @@
+CLINICAL PRACTICE GUIDELINES
+2017 MOHIPIPAKI352,17(GU)
+MANAGEMENT, OF
+\
+¥ y
+COLORECTAL
+CARCINOMA
+Management of Colorectal Carcinoma
+Published by:
+Malaysia Health Technology Assessment Section (MaHTAS)
+Medical Development Division, Ministry of Health Malaysia
+Level 4, Block E1, Precinct 1
+Federal Government Administrative Centre
+62590, Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is MaHTAS. Content may be
+reproduced in any number of copies and in any format or medium
+provided that a copyright acknowledgement to MaHTAS is included and
+the content is not changed, not sold, nor used to promote or endorse
+any product or service, and not used in an inappropriate or misleading
+context.
+ISBN: 978-967-2173-16-8
+Available on the following websites:
+http://www.moh.gov.my
+http://www.acadmed.org.my
+http://www.colorectalmy.org
+http://www.msgh.org.my
+http://www.malaysiaoncology.org
+Also available as an app for Android and IOS platform: MyMaHTAS
+STATEMENT OF INTENT
+These clinical practice guidelines (CPG) are meant to be guides for
+clinical practice, based on the best available evidence at the time of
+development. Adherence to these guidelines may not necessarily
+guarantee the best outcome in every case. Every healthcare provider is
+responsible for the management of his/her unique patient based on the
+clinical picture presented by the patient and the management options
+available locally.
+Management of Colorectal Carcinoma
+UPDATING THE CPG
+These guidelines were issued in 2017 and will be reviewed in a minimum period of four years (2021) or sooner if new evidence becomes
+available. When it is due for updating, the Chairman of the CPG or
+National Advisor of the related specialty will be informed about it. A
+discussion will be done on the need for a revision including the scope
+of the revised CPG. A multidisciplinary team will be formed and the latest systematic review methodology used by MaHTAS will be employed.
+Every care is taken to ensure that this publication is correct in every
+detail at the time of publication. However, in the event of errors or omissions, corrections will be published in the web version of this document,
+which is the definitive version at all times. This version can be found on
+the websites mentioned above.
+Management of Colorectal Carcinoma
+TABLE OF CONTENTS
+No.
+Title
+Page
+Levels of Evidence and Formulation of Recommendation
+i
+Key Recommendations
+ii
+Guidelines Development and Objectives
+vi
+Development Group
+vii
+Review Committee
+viii
+External Reviewers
+x
+Algorithm A : Screening for Colorectal Carcinoma
+xi
+Algorithm B : Primary Care Referral for Symptoms of
+xii
+Colorectal Carcinoma
+Algorithm C : Treatment for Colon Carcinoma
+xiii
+Algorithm D : Treatment for Rectal Carcinoma
+xiv
+1.
+INTRODUCTION
+1
+2.
+SCREENING AND SURVEILLANCE
+1
+2.1 Screening in Average Risk Population
+1
+2.2 Screening Modalities
+2
+2.3 Screening/Surveillance in Moderate and High Risk Groups 5
+2.4 Genetic Counselling and Testing
+11
+3.
+PRIMARY CARE AND REFERRAL
+12
+4.
+DIAGNOSTIC AND RADIOLOGICAL INVESTIGATIONS
+13
+FOR STAGING
+4.1 Diagnostic Investigations
+13
+4.2 Radiological Investigations for Staging
+14
+4.3 Histopathological Examinations
+17
+5.
+SURGICAL MANAGEMENT
+21
+5.1 Pre-operative Preparations
+21
+5.2 Techniques in Colorectal Surgery
+22
+5.3 Surgical Treatment of Metastatic Colorectal Carcinoma 24
+5.4 Cancer-Related Emergencies
+26
+6.
+CHEMOTHERAPY AND RADIOTHERAPY
+28
+6.1 Colon Carcinoma
+28
+6.2 Rectal Carcinoma
+30
+6.3 Metastatic or Locally Advanced Colorectal Carcinoma
+32
+7.
+FOLLOW-UP AND SURVEILLANCE
+Management of Colorectal Carcinoma
+TABLE OF CONTENTS
+No.
+Title
+Page
+8.
+PREVENTION OF COLORECTAL CARCINOMA
+36
+IN GENERAL POPULATION
+9.
+IMPLEMENTING THE GUIDELINES
+37
+10. REFERENCES
+38
+Appendix 1 Examples of Search Strategy
+46
+Appendix 2 Clinical Questions
+47
+Appendix 3 Radiological Images of Colorectal Carcinoma
+48
+Appendix 4 WHO Classification of Colorectal Carcinoma 2010 50
+and TNM Classification of Tumours of the Colon
+and Rectum (7th Edition)
+Appendix 5 Histopathology Proforma for Colorectal Carcinoma 51
+Appendix 6 Chemotherapy Drugs and Common/Important 54
+Side Effects
+Appendix 7 Potential Indications for Post-operative CCRT
+55
+if Pre-operative CCRT Not Given
+List of Abbreviations
+56
+Acknowledgement
+57
+Disclosure Statement
+57
+Source of Funding
+Management of Colorectal Carcinoma
+i
+LEVELS OF EVIDENCE
+SOURCE: US / CANADIAN PREVENTIVE SERVICES TASK FORCE 2001
+FORMULATION OF RECOMMENDATION
+In line with new development in CPG methodology, the CPG Unit of
+MaHTAS is in the process of adapting Grading Recommendations,
+Assessment, Development and Evaluation (GRADE) in its
+work process. The quality of each retrieved evidence and its effect
+size are carefully assessed/reviewed by the CPG Development
+Group. In formulating the recommendations, overall balances of the
+following aspects are considered in determining the strength of the
+recommendations:-
+• overall quality of evidence
+• balance of benefits versus harms
+• values and preferences
+• resource implications
+• equity, feasibility and acceptability
+Level
+I
+II-1
+II-2
+II-3
+III
+Study design
+Evidence from at least one properly randomised controlled trial
+Evidence obtained from well-designed controlled trials without
+randomisation
+Evidence obtained from well-designed cohort or case-control
+analytic studies, preferably from more than one centre or
+group
+Evidence from multiple time series with or without intervention.
+Dramatic results in uncontrolled experiments (such as the
+results of the introduction of penicillin treatment in the 1940s)
+could also be regarded as this type of evidence
+Opinions of respected authorities based on clinical experience;
+descriptive studies and case reports; or reports of expert
+committees
+Management of Colorectal Carcinoma
+ii
+KEY RECOMMENDATIONS
+The following recommendations were highlighted by the guidelines
+Development Group as the key clinical recommendations that should
+be prioritised for implementation.
+Screening in Average Risk Population
+• Screening of colorectal carcinoma (CRC) should be offered at the
+age of 50 years and continues until 75 years old for average risk
+population.
+• Immunochemical faecal occult blood test (iFOBT) is the preferred
+method to screen for CRC in average risk population.
+ If iFOBT is positive, an early colonoscopy is necessary.
+ If iFOBT is negative, yearly test should be performed.
+Screening/Surveillance in Moderate and High Risk Groups
+• Asymptomatic individuals with positive family history should be
+screened for colorectal carcinoma.
+• All individuals whose family history is suggestive of a hereditary
+colorectal cancer syndrome should be referred to a clinical genetics
+service for genetic risk assessment, where accessible.
+Diagnostic and Radiological Investigations for Staging
+• Computed tomography scan should be used for staging and
+surveillance of colorectal carcinoma.
+• Magnetic resonance imaging is the modality of choice in diagnosing
+and staging of rectal carcinoma.
+• In colorectal carcinoma, standardised histopathology reporting
+proforma incorporating tumour-node-metastasis (TNM) staging
+system should be used.
+Management of Colorectal Carcinoma
+iii
+Surgical Management
+• Patients undergoing colorectal carcinoma surgery should have:
+ antibiotic prophylaxis
+ venous thromboembolism prophylaxis
+• A thorough surgical exploration should be performed at the time of
+resection in colorectal carcinoma.
+• Low rectal surgery should be performed by surgeons credentialed in
+the management of rectal carcinoma.
+• Total mesorectal excision should be performed for middle and low
+rectal carcinoma.
+• If abdominoperineal resection (APR) is required, it should be
+performed as cylindrical APR.
+Chemotherapy and Radiotherapy
+• Adjuvant chemotherapy may be considered for stage II colon
+carcinoma with high risk features. Patient should be carefully selected
+and counselled.
+• Fluorouracil/leucovorin (5-FU/LV) with oxaliplatin should be given in
+stage III colon carcinoma.
+• Neoadjuvant chemoradiotherapy should be offered to T3-T4 or node
+positive rectal carcinoma.
+• Palliative chemotherapy may be considered in metastatic colorectal
+carcinoma.
+ Combination chemotherapy is the preferred regime.
+Management of Colorectal Carcinoma
+iv
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+GUIDELINES DEVELOPMENT
+The members of the Development Group (DG) for these CPG were
+from the Ministry of Health (MoH) and Ministry of Higher Education
+(MoHE). There was active involvement of a multidisciplinary Review
+Committee (RC) during the process of the CPG development.
+A systematic literature search was carried out using the following
+electronic databases/platforms: Guidelines International Network
+(G-I-N), Medline via Ovid, Cochrane Database of Systemic Reviews
+(CDSR) and Pubmed. Refer to Appendix 1 for Example of Search
+Strategy. The inclusion criteria are all patients with colorectal
+carcinoma regardless of study design. The search was limited to
+literature published in the last 20 years and on humans and in English.
+In addition, the reference lists of all retrieved literature and guidelines
+were searched and experts in the field contacted to identify relevant
+studies. All searches were conducted from 7 May 2015 to 28 January
+2016. Literature search was repeated for all clinical questions at the
+end of the CPG development process allowing any relevant papers
+published before 30 April 2017 to be included. Future CPG updates
+will consider evidence published after this cut-off date. The details
+of the search strategy can be obtained upon request from the CPG
+Secretariat.
+Reference was also made to other guidelines as listed below:
+• Scottish Intercollegiate Guidelines Network (SIGN) - Diagnosis and
+Management of Colorectal Cancer (December 2011)
+• New Zealand Guideline Group (NZGG) - Management of Early
+Colorectal Cancer (May 2011)
+• National Institute for Health and Clinical Excellence (NICE) - The
+Diagnosis and Management of Colorectal Cancer (November 2011)
+The CPGs were evaluated using the Appraisal of Guidelines for
+Research and Evaluation (AGREE) II prior to it being used as reference.
+A total of 14 clinical questions were developed under different
+sections. Members of the DG were assigned individual questions
+within these sections. Refer to Appendix 2 for Clinical Questions.
+The DG members met 23 times throughout the development of these
+guidelines. All literatures retrieved were appraised by at least two DG
+members using Critical Appraisal Skill Programme checklist, presented
+in evidence tables and further discussed in each DG meetings. All
+statements and recommendations formulated after that were agreed
+upon by both the DG and RC. Where evidence was insufficient, the
+recommendations were made by consensus of the DG and RC. Any
+differences in opinion are resolved consensually. The CPG was based
+Management of Colorectal Carcinoma
+v
+largely on the findings of systematic reviews, meta-analyses and clinical
+trials, with local practices taken into consideration.
+The literatures used in these guidelines were graded using the US/
+Canadian Preventive Services Task Force Level of Evidence (2001)
+while the grading of recommendation was done using the principles of
+GRADE (refer to the preceding page). The writing of the CPG follows
+strictly the requirement of AGREE II.
+On completion, the draft CPG was reviewed by external reviewers. It
+was also posted on the MoH Malaysia official website for feedback from
+any interested parties. The draft was finally presented to the Technical
+Advisory Committee for CPG, and the HTA and CPG Council MoH
+Malaysia for review and approval. Details on the CPG development
+by MaHTAS can be obtained from Manual on Development and
+Implementation of Evidence-based Clinical Practice Guidelines
+published in 2015 (available at: http://www.moh.gov.my/penerbitan/
+mymahtas/CPG_MANUAL_MAHTAS.pdf)
+Management of Colorectal Carcinoma
+vi
+OBJECTIVES
+The objectives of the CPG are to provide evidence-based
+recommendations on colorectal carcinoma (CRC) on these aspects:
+• Screening in average risk population
+• Surveillance of moderate and high risk groups
+• Diagnosis and staging
+• Treatment and follow-up
+CLINICAL QUESTIONS
+Refer to Appendix 2
+TARGET POPULATION
+Inclusion Criteria
+• Healthy population for screening programme
+• High risk population for surveillance
+• Lynch
+syndrome/Hereditary
+non-polyposis
+colorectal
+cancer
+(HNPCC)
+• Familial adenomatous polyposis (FAP)
+• Inflammatory bowel disease
+• Peutz-Jegher syndrome
+• MUTYH-associated polyposis (MAP)
+• Juvenile polyposis
+• All patients with CRC
+Exclusion criteria
+CRC other than adenocarcinoma such as gastrointestinal stromal
+tumour (GIST), neuroendocrine tumour (NET) and lymphoma
+TARGET GROUP/USER
+This CPG is intended to guide those involved in the management
+of CRC either in primary or secondary/tertiary care (all in public and
+private practice) namely:
+• Medical officers and specialists
+• Trainees and medical students
+• Patients and their advocates
+• Professional societies
+HEALTHCARE SETTINGS
+Outpatient, inpatient and community settings
+Management of Colorectal Carcinoma
+DEVELOPMENT GROUP
+Chairperson
+Co-chairperson
+Members (alphabetical order)
+vii
+Assoc. Professor Dr. Ahmad Najib Azmi
+Lecturer & Gastroenterologist
+Faculty of Medicine & Health Sciences
+Universiti Sains Islam Malaysia
+Negeri Sembilan
+Dr. Ahmad Shanwani Mohamed Sidek
+Consultant Colorectal Surgeon
+Hospital Raja Perempuan Zainab II,
+Kelantan
+Dr. Ch’ng Gaik Siew
+Consultant Clinical Geneticist &
+Paediatrician
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Fauziah Jaya
+Consultant Gastroenterologist
+Hospital Raja Permaisuri Bainun, Perak
+Dr. Hafizah Zaharah Ahmad
+Clinical Oncologist
+Institut Kanser Negara, Putrajaya
+Dr. Hanin Farhana Kamaruzaman
+Senior Principal Assistant Director
+Health Technology Assessment Section
+Ministry of Health Malaysia, Putrajaya
+Dr. Ibtisam Muhamad Nor
+Clinical Oncologist
+Hospital Kuala Lumpur,
+Kuala Lumpur
+Dr. Mohd. Aminuddin Mohd. Yusof
+Head of CPG Unit
+Health Technology Assessment Section
+Ministry of Health Malaysia, Putrajaya
+Dr. Noraini Abdul Rahim
+Consultant Radiologist
+Institut Kanser Negara, Putrajaya
+Ms. Nik Nuradlina Nik Adnan
+Pharmacist
+Institut Kanser Negara, Putrajaya
+Dr. Salahudin Baharom
+Consultant Colorectal Surgeon
+Hospital Selayang, Selangor
+Dr. Salmi Abdullah
+Pathologist (Anatomic Pathology)
+Hospital Selayang, Selangor
+Dr. Siti Aminah Akbar Merican
+Consultant Family Medicine
+Klinik Kesihatan Batu Rakit, Terengganu
+Dr. Tee Hoi Poh
+Consultant Gastroenterologist
+KPJ Pahang Specialist Hospital,
+Pahang
+Dr. Tengku Norita Tengku Yazid
+Consultant Pathologist
+(Chemical Pathology)
+Hospital Selayang, Selangor
+Dr. Zalwani Zainuddin
+Consultant Gastroenterologist
+Hospital Sultanah Bahiyah, Kedah
+Dr. Nil Amri Mohamed Kamil
+Consultant Colorectal Surgeon
+Hospital Sultanah Bahiyah, Kedah
+Dr. Hjh. Rosaida Hj. Md. Said
+Consultant Gastroenterologist
+Hospital Ampang, Selangor
+Management of Colorectal Carcinoma
+REVIEW COMMITTEE
+The draft CPG was reviewed by a panel of experts from both public
+and private sectors. They were asked to comment primarily on the
+comprehensiveness and accuracy of the interpretation of evidence
+supporting the recommendations in the CPG.
+Chairperson
+Dato’ Dr. Fitjerald Henry
+Senior Consultant Colorectal Surgeon
+(National Head of Clinical Service Colorectal Surgery)
+Hospital Selayang, Selangor
+Members (alphabetical order)
+viii
+Dato’ Dr. Abdul Jamil Abdullah
+Senior Consultant General Surgeon
+Hospital Sultanah Nur Zahirah, Terengganu
+Dr. Akhtar Qureshi
+Consultant Colorectal Surgeon
+Sunway Medical Centre, Selangor
+Professor Dr. Azmi Md. Nor
+Dean & Consultant Colorectal Surgeon
+Kulliyyah of Medicine
+International Islamic University Malaysia
+Mr. Hamzan Arshad
+Patient Advocate
+(Survivor of Colorectal Carcinoma)
+Dr. Junainah Sabirin
+Deputy Director
+Health Technology Assessment Section
+Ministry of Health Malaysia, Putrajaya
+Dato’ Dr. Mahendra Raj
+Consultant Gastroenterologist
+Hospital Pantai Kuala Lumpur, Kuala Lumpur
+Dr. Manisekar Subramaniam
+Consultant Hepatobiliary Surgeon
+(National Head of Clinical Service Hepatobiliary Surgery)
+Hospital Sultanah Bahiyah, Kedah
+Management of Colorectal Carcinoma
+Dato’ Dr. Mohamed Yusof Abdul Wahab
+Senior Consultant General Surgeon
+(National Head of Clinical Service General Surgery)
+Hospital Tengku Ampuan Rahimah, Selangor
+Dr. Mohd Roslan Haron
+Senior Consultant Clinical Oncologist
+Hospital Sultan Ismail, Johor
+Dato’ Dr. Muhammad Radzi Abu Hassan
+Senior Consultant Gastroenterologist
+(National Head of Clinical Service Gastroenterology & Hepatology)
+Hospital Sultanah Bahiyah, Kedah
+Datin Dr. Nik Raihan Nik Mustapha
+Consultant Pathologist (Histopathology)
+Hospital Sultanah Bahiyah, Kedah
+Dr. Ros Suzanna Ahmad Bustamam
+Consultant Clinical Oncologist
+(National Head of Clinical Service Oncology)
+Hospital Kuala Lumpur, Kuala Lumpur
+Mdm. Rosminah Din
+Deputy Director
+Formulary & Pharmacoeconomics
+Pharmacy Practice & Development
+Ministry of Health, Selangor
+Professor Dr. Tong Seng Fah
+Lecturer & Consultant Family Medicine Specialist
+Faculty of Medicine
+Universiti Kebangsaan Malaysia, Kuala Lumpur
+Dato’ Dr. Wan Khamizar Wan Khazim
+Senior Consultant Colorectal Surgeon
+Hospital Sultanah Bahiyah, Kedah
+Dr. Yun Sii Ing
+Consultant Radiologist
+Hospital Sungai Buloh, Selangor
+Management of Colorectal Carcinoma
+EXTERNAL REVIEWERS (in alphabetical order)
+The following external reviewers provided feedback on the draft:
+Professor Dr. Angelo Vanzulli
+Consultant Radiologist
+University of Milan, Italy
+Professor Dr. Aw Tar Choon
+Senior Consultant in Laboratory Medicine
+Changi General Hospital, Singapore
+Dr. Azura Deniel
+Consultant Oncologist
+KPJ Ampang Puteri Specialist Hospital, Kuala Lumpur
+Dr. Baizury Bashah
+Consultant Family Medicine
+Klinik Kesihatan Kuala Lumpur, Kuala Lumpur
+Adj. Assoc. Professor Dr. Charles Tsang Bih-Shiou
+Senior Consultant General Surgeon
+Yong Loo Lin School of Medicine
+National University of Singapore &
+Medical Director
+Colorectal Clinic Associates International, Singapore
+Professor Dr. Chucheep Sahakitrungruang
+Consultant Colorectal Surgeon
+Bumrungrad International Hospital, Thailand
+Dr. Clement Edward A/L Thaumanavar
+Head of Department & Consultant General Surgeon
+Hospital Tuanku Fauziah, Perlis
+Professor Dato’ Dr. Fuad Ismail
+Senior Consultant Oncologist
+Pusat Perubatan Universiti Kebangsaan Malaysia, Kuala Lumpur
+Dr. Leow Voon Meng
+Consultant Hepato-Pancreato-Biliary & General Surgeon & Lecturer
+Advanced Medical and Dental Institute
+Universiti Sains Malaysia, Pulau Pinang
+Management of Colorectal Carcinoma
+Associate Professor Dr. Lim Kiat Hon
+Senior Consultant Pathologist
+Singapore General Hospital, Singapore
+Dato’ Dr. Meheshinder Singh
+President of Malaysian Society of Colorectal Surgeons &
+Consultant General & Colorectal Surgeon
+Pantai Medical Centre Kuala Lumpur, Kuala Lumpur
+Dr. Narasimman Sathiamurthy
+Consultant Thoracic Surgeon
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Nazrila Hairizan Nasir
+Consultant Family Medicine
+Family Health Development Division
+Ministry of Health Malaysia, Putrajaya
+Associate Professor Dr. Raja Affendi Raja Ali
+Consultant Physician & Gastroenterologist
+Pusat Perubatan Universiti Kebangsaan Malaysia, Kuala Lumpur
+Professor Dr. Rajvinder Singh
+Professor of Medicine
+The University of Adelaide &
+Director of Gastroenterology
+The Lyell McEwin & The Modbury Hospitals, Australia
+Professor Dr. Roger Barton
+Provost & CEO, Professor of Clinical Medicine &
+Consultant Gastroenterologist
+Newcastle University Medicine Malaysia, Johor
+Management of Colorectal Carcinoma
+ALGORITHM A: SCREENING FOR COLORECTAL CARCINOMA
+*Symptoms as outlined in Algorithm B.
+**Refer to Table 4 on Risk Categories for Family History with
+Colorectal Carcinoma.
+xi
+ASSESS PATIENT FOR SYMPTOMS OF CRC*
+PRESENCE
+OF
+SYMPTOM(S)
+STRATIFY RISK FOR FAMILY HISTORY
+REFER ALGORITHM B
+CATEGORY 1 -
+AVERAGE RISK**
+CATEGORY 2 -
+MODERATE RISK**
+CATEGORY 3 -
+HIGH RISK**
+IMMUNOFAECAL
+OCCULT BLOOD
+TESTING (IFOBT)
+REFER FOR COLONOSCOPY
+POSITIVE
+NEGATIVE
+REPEAT IFOBT
+YEARLY
+NO
+YES
+Management of Colorectal Carcinoma
+xii
+ALGORITHM B: PRIMARY CARE REFERRAL
+FOR SYMPTOMS OF COLORECTAL CARCINOMA
+Presence of any of the following signs or symptoms:
+• per rectal bleeding
+• mucoid stool
+• loss of weight or appetite
+• abdominal discomfort
+• altered bowel habits
+• perianal symptoms
+• tenesmus
+• constipation
+• anaemia
+• palpable abdominal mass
+• palpable anorectal mass
+• Age and sex
+• Rectal bleeding (colour)
+• Altered bowel habit (alternating constipation
+and diarrhoea)
+• Perianal symptoms (lump, pruritus, pain,
+discharge)
+• Symptoms of anaemia (look for causes)
+• Personal history of colorectal polyps or
+inflammatory bowel disease, or family
+history of CRC
+Focused history
+• Weight
+• Look for signs of anaemia
+• Abdominal examination
+• Digital rectal examination and proctoscopy
+• Full blood count
+Focused physical examination and tests
+Unexplained rectal bleeding with
+≥1 of the following:
+• fresh blood
+• blood mixed with stool
+• with altered bowel habits
+• with significant weight loss
+AND/OR
+Unexplained iron deficiency
+anaemia
+AND/OR
+Palpable abdominal or rectal mass
+All other unexplained signs and symptoms
+that do not meet criteria for urgent referral
+Treat signs or symptoms accordingly
+REFER FOR ELECTIVE
+COLONOSCOPY
+URGENT REFERRAL FOR
+COLONOSCOPY WITHIN TWO WEEKS
+Signs and symptoms not
+resolved in 4-6 weeks
+Management of Colorectal Carcinoma
+xiii
+ALGORITHM C: TREATMENT FOR COLON CARCINOMA
+Yes
+No
+Determine disease stage
+T1-T2 N0 M0
+T3-T4 N0 M0
+T1-T4 N1-N2 M0
+T1-T4 Any N M1
+Surgery
+Surgery
+Surgery
+High risk
+features*
+Adjuvant
+chemotherapy
+SURVEILLANCE
+Adjuvant
+chemotherapy
+Options include:
+• Curative or
+palliative surgery
+• Palliative
+chemotherapy
+• Best supportive
+care
+*High risk features for stage II colon carcinoma are presence of any of the
+following:
+• obstruction
+• perforation
+• T4 disease
+• poorly differentiated tumour
+• lymphovascular invasion
+• perineural invasion
+• inadequate lymph node sampling (<12)
+Management of Colorectal Carcinoma
+ALGORITHM D: TREATMENT FOR RECTAL CARCINOMA
+Determine disease stage
+Surgery
+Adjuvant CCRT
+SURVEILLANCE
+T1-T2 N0 M0
+T1-T4 Any N M1
+Surgery
+Surgery
+Neoadjuvant CCRT
+T3-T4 N0 M0 OR T1-T4 N1-N2 M0
+Preferred option
+Options include:
+• Surgery
+• Palliative
+radiotherapy
+• Palliative
+chemotherapy
+• Best supportive
+care
+CCRT = Concurrent chemoradiotherapy
+CRM = Circumferential resection margins
+*High risk features for stage II rectal carcinoma are presence of any of the
+following:
+• obstruction
+• perforation
+• T4 disease
+• positive CRM
+• poorly differentiated tumour
+• lymphovascular invasion
+• perineural invasion
+• inadequate lymph node sampling (<12)
+• incomplete mesorectum
+Management of Colorectal Carcinoma
+Management of Colorectal Carcinoma
+1. INTRODUCTION
+Colorectal carcinoma (CRC) is the second most common cancer in
+Malaysia (13.2%) as reported in Malaysian National Cancer Registry
+Report 2007-2011.1, level III According to National Cancer Patient Registry
+on Colorectal Cancer 2008-2013, the overall incidence rate for CRC
+was 21.3 cases per 100,000 population. Age-adjusted incidence rate
+was 1.33 times higher among male than female. The incidence was
+highest in Chinese followed by Malay and Indian. Overall mortality rate
+was 9.8 cases per 100,000 population and age-adjusted mortality rate
+was 1.42 times higher in male than female.2, level III
+The most common presenting symptoms of CRC are altered bowel
+habit (41.7%) followed by blood in stool (35.5%), abdominal pain
+(31.5%), weight loss (31.0%), anaemia (9.8%) and intestinal obstruction
+(9.3%).2, level III
+Left-sided carcinoma is the commonest form and constitutes 81.8% of
+all notified cases. Majority of patients are at stage III and IV (54.36%)
+while only 8.4% are diagnosed at stage I according to the tumour-nodemetastasis (TNM) staging.2, level III
+The estimated societal cost of CRC management in government
+hospitals in Malaysia using conventional chemotherapy ranges between
+RM13,622 to RM27,163 based on different stages, with an average of
+RM21,377 per patient. The cost of treatment is higher when combined
+conventional chemotherapy and monoclonal antibody is used.3 With
+increasing number of new cases detected every year, the economic
+burden of CRC management is escalating especially if the patients
+present in advanced stage.
+Management of patients with CRC consists of a comprehensive strategy
+of screening, diagnosis, staging, appropriate treatment and follow-up.
+Hence, this first national CPG on CRC is developed to assist healthcare
+providers in the management of CRC.
+2. SCREENING AND SURVEILLANCE
+2.1 Screening in Average Risk Population
+Average risk population is defined as population with no known risk
+for CRC. There is no retrievable evidence on the age to start CRC
+screening for average risk population. This section is written based on
+recommendation by existing guidelines on CRC and unpublished data
+from international and local cancer registries.
+Management of Colorectal Carcinoma
+Most of the major CRC guidelines recommend screening of CRC to
+start at the age of 50 years old.4-5, level III
+Depending on the method used, the following screening intervals for
+CRC among average risk population recommended by major guidelines
+are shown in the following Table 1.5, level III; 6, level II-2; 7-8, level III
+Table 1. Screening Intervals for CRC Based on Methods
+The US Preventive Task Force recommends screening for CRC to start
+at the age of 50 years and continues until age 75 years. The decision to
+screen for CRC in adults aged 76 to 85 years should be individualised,
+taking into account the patient’s overall health and prior screening
+history.9, level III
+2.2 Screening Modalities
+Most CRC arise from adenomatous polyps that progress from small
+to large polyps and later to cancer. The slow transition from polyps to
+cancers in most patients gives the window of opportunity for screening
+and early cancer detection.
+Multiple tests are available for CRC screening. Each test has its own
+strength and weakness in the attributes of an ideal screening tool.
+a. Faecal Tests
+Faecal test is a non-invasive tool for screening CRC in general
+population. It can detect presence of blood, proteins e.g. enzyme M2PK and DNA.
+Faecal occult blood test (FOBT) has qualitative and quantitative testing
+methods. In a meta-analysis of fair to high quality evidence, the pooled
+sensitivity to detect CRC was 74% (95% CI 62 to 83) for quantitative test
+methods and 79% (95% CI 61 to 90) for qualitative test methods.9, level III
+Immunochemical FOBT (iFOBT) and guaiac-based FOBT (gFOBT)
+are two methods of qualitative FOBT. The sensitivities of iFOBT and
+gFOBT are 0.67 (95% CI 0.61 to 0.73) and 0.54 (95% CI 0.48 to 0.60)
+respectively. The specificities of iFOBT and gFOBT are comparable
+at 0.85 (95% CI 0.83 to 0.87) and 0.80 (95% CI 0.78 to 0.82)
+Methodology
+Faecal occult blood
+Stool DNA test
+CT colonography
+Colonoscopy
+Minimum interval
+Yearly
+3-yearly
+5-yearly
+10-yearly
+Management of Colorectal Carcinoma
+respectively.10, level I Screening with FOBT has a 16% reduction in the
+risk of CRC mortality (RR=0.84, 95% CI 0.78 to 0.90).11, level I
+Faecal M2-PK test has a pooled sensitivity and specificity of 79% (95%
+CI 73 to 83) and 80% (95% CI 73 to 86) respectively.12, level I On the
+other hand, quantitative faecal DNA test has a higher sensitivity at 92%
+(95% CI 84 to 97) to detect CRC.9, level III These two faecal tests for CRC
+screening are, however, not widely used locally in screening for general
+population due to high cost incurred.
+In a health technology assessment (HTA) report by MaHTAS, screening
+programme using iFOBT can be effective for prevention of advanced
+CRC (risk of developing advanced CRC was reduced by 28-46%) and
+reduced mortality by 23-60%. Regular iFOBT can detect pre-cancerous
+lesions and CRC in early stages and thus reduce mortality from
+CRC.13, level II-2
+b. Sigmoidoscopy
+Flexible sigmoidoscopy needs less rigorous bowel preparation and can
+be performed as a clinic-based procedure without the need for sedation.
+Small polyps can be biopsied during procedure but excision of larger
+lesions (>1 cm) may be performed during subsequent colonoscopy.
+Sigmoidoscopy reduces the CRC incidence by 18-32% and mortality
+by 26-38% in general population. There is low incidence of bowel
+perforations associated with it.14-17, level I
+c. Colonoscopy
+Colonoscopy is the screening modality that has the ability to visualise
+the colonic mucosa directly, perform biopsy and excise polyps. It
+can detect proximal lesions that would be missed by screening
+sigmoidoscopy and has been shown to reduce risk of cancer in the
+right colon.18, level II-2; 19, level II-3
+Screening colonoscopy reduces overall CRC incidence significantly by
+56% and death by 68%.20, level II-2 For those who has had colonoscopy
+especially for screening, the risk of CRC is strongly reduced by 91% up
+to 10 years.18, level II-2
+Colonoscopy is a safe modality for colorectal screening in general
+population with low incidence of gastrointestinal bleeding (0.29 to
+1.59 per 1000 colonoscopies) and perforations (0.19 to 0.89 per 1000
+colonoscopies).21-22, level II-2
+Management of Colorectal Carcinoma
+• A good quality colonoscopy should be practised to ensure effective
+and safe screening of CRC.
+d. Colon Capsule Endoscopy
+Colon capsule endoscopy (CCE) is used to obtain images of the
+colon by using video cameras embedded in an ingested capsule. The
+technique is less invasive but does not allow biopsy or polyp removal.
+CCE has a sensitivity of 71% (95% CI 66 to 76) and specificity of 75%
+(95% CI 66 to 83) for polyps of any size. It is a safe screening modality
+for CRC with low rate (4.1%) of mild to moderate side effects such as
+nausea and abdominal pain.23, level II-2
+e. Computed Tomographic Colonography/Virtual Colonoscopy
+Computed Tomographic Colonography (CTC) uses multiple thin slice
+computed tomographic data to construct images of the bowel mucosa
+in two or three dimensions in detecting polyps.
+CTC requires bowel preparation similar to conventional colonoscopy
+(CC) and during the procedure, air or carbon dioxide is introduced into
+the rectum via a rubber catheter. No sedation is required and patient is
+usually able to return to work post procedure.
+The sensitivity and specificity of CTC for the detection of adenomas
+≥6 mm are 82.9% (95% CI 74 to 89) and 91.4% (95% CI 84 to 96)
+respectively. For adenomas ≥10 mm, the sensitivity and specificity
+are higher at 87.9% (95% CI 82 to 92) and 97.6% (95% CI 95 to 99)
+respectively.24, level II-2
+The drawbacks of CTC include radiation exposure and the need for
+colonoscopy after the identification of polyps for excision and tissue
+diagnosis, while smaller lesions need to be followed up by surveillance
+CTC. Flat adenomas are more likely to be missed by CTC than
+colonoscopy.24, level II-2
+f. Carcinoembryonic Antigen
+There is no recommendation made by the US Preventive Services
+Task Force, NICE guidelines and SIGN guidelines on the use of serum
+carcinoembryonic antigen (CEA) test for CRC screening.25-26; 27, level III
+Hence, it should not be relied on as a screening tool.
+Management of Colorectal Carcinoma
+• Based on a local economic evaluation conducted by MaHTAS,
+iFOBT followed by colonoscopy shown to be the most cost-effective
+screening strategy compared with no screening or colonoscopy
+alone with an estimated incremental cost-effectiveness ratio of
+RM9,377.65.28
+Recommendation 1
+• Screening of colorectal carcinoma (CRC) should be offered at age of
+50 years and continues until age 75 years for average risk population.
+• Immunochemical faecal occult blood test (iFOBT) is the preferred
+method to screen for CRC in average risk population.
+• If iFOBT is positive, an early colonoscopy is necessary.
+• If iFOBT is negative, yearly test should be performed.
+2.3 Screening/Surveillance in Moderate and High Risk Groups
+2.3.1 Family History
+Family history is a well-established risk factor for CRC. It is affected
+by first-, second- and third-degree relatives, and might include positive
+family history from both parents.
+a. First-Degree Relatives (FDRs)
+Familial Relative Risk (FRR) of developing CRC increases with greater
+number of affected FDRs irrespective of second-degree relatives
+(SDRs) or third-degree relatives (TDRs) as shown in Table 2.29, level III
+Table 2. Selected FRR Estimates for Probands Considering
+Only FDR Family History
+Besides CRC, asymptomatic patients with one FDR of CRC have
+greater risk of developing pre-cancerous condition i.e. severely
+dysplastic lesions (OR=2.9, 95% CI 1.0 to 7.8).30, level III
+No. of affected FDRs
+0
+1
+≥1
+2
+3
+4
+5
+FRR (95% CI)
+0.89 (0.87 to 0.91)
+1.91 (1.82 to 2.00)
+2.05 (1.96 to 2.14)
+3.01 (2.66 to 3.38)
+4.43 (3.24 to 5.90)
+7.74 (3.71 to 14.24)
+19.86 (7.26 to 43.24)
+Management of Colorectal Carcinoma
+Compared with those without family history, the relative risks (RR) for
+those with family history (≥1 affected FDRs) of CRC are:31, level II-2
+• 1.64 (95% CI 1.26 to 2.14) for 1 affected relative and 2.83 (95% CI
+1.33 to 6.02) for ≥2 affected relatives
+• 1.99 (95% CI 1.51 to 2.61) for colon carcinoma but not significant for
+rectal carcinoma
+b. FRR is affected by FDRs when combined with SDRs and TDRs
+Combination of a positive family history of FDRs, SDRs and TDRs
+significantly increases risk of CRC as shown in Table 3.30, level III
+Table 3. Selected FRR for Probands with 0 or 1 Affected FDRs
+and Various Combinations of Affected SDRs and TDRs
+Those with positive family history who were diagnosed at younger age
+have a higher risk of developing CRC with FRR of:
+• 4.63 (95% CI 1.43 to 15.0) at age of diagnosis <45 years31, level II-2
+• 3.31 (95% CI 2.79 to 3.89) at age of diagnosis <50 years29, level III
+Based on preceding evidences, those with family history of CRC can be
+categorised by risk stratifications as outlined in Table 4.
+0
+0
+0
+0
+0
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+No. of affected
+FDRs
+0
+0
+1
+1
+2
+≥3
+0
+0
+0
+1
+1
+1
+2
+2
+2
+2
+≥3
+≥3
+≥3
+No. of affected
+SDRs
+0
+≥3
+2
+≥3
+≥3
+≥3
+0
+2
+≥3
+0
+2
+≥3
+0
+1
+2
+≥3
+0
+2
+≥3
+No. of affected
+TDRs
+0.83 (0.81 to 0.86)
+1.08 (0.97 to 1.20)
+1.33 (1.13 to 1.55)
+1.21 (0.98 to 1.48)
+1.48 (0.98 to 2.16)
+1.02 (0.41 to 2.09)
+1.76 (1.63 to 1.89)
+1.90 (1.59 to 2.25)
+2.10 (1.61 to 2.47)
+1.88 (1.59 to 2.20)
+2.50 (1.87 to 3.28)
+3.28 (2.44 to 4.31)
+2.37 (1.58 to 3.43)
+1.98 (1.15 to 3.17)
+2.70 (1.44 to 4.62)
+2.38 (1.19 to 4.26)
+2.79 (1.12 to 5.76)
+5.32 (2.14 to 10.96)
+5.20 (2.24 to 10.24)
+FRR (95% CI)
+Management of Colorectal Carcinoma
+Table 4. Risk Categories for Family History with CRC
+Recommendation 2
+• Asymptomatic individuals with positive family history should be
+screened for colorectal carcinoma.
+• Colonoscopy should be performed according to risk category*.
+*Refer to Table 4.
+2.3.2 Post-Adenomatous Polypectomy
+Colonoscopy screening with removal of adenomas is an effective
+strategy in reducing CRC incidence and mortality.32, level III However,
+periodic surveillance with colonoscopy is necessary to identify recurrent
+adenomas after polypectomy.
+Advanced adenomas are typically defined as adenomas >10 mm,
+villous components (villous/tubulo-villous), or with high-grade/severe
+dysplasia. The risk factors associated with recurrence of advanced
+adenoma are:
+Category
+Category 1
+Average risk
+Category 2
+Moderate
+risk
+Category 3
+High risk
+Screening recommendation
+• Perform IFOBT (refer to
+Algorithm A).
+• Stop screening at age 75.9, level III
+• FDR with CRC diagnosed at age
+<60 years, colonoscopy should
+be performed at age 40 or 10
+years younger than affected
+relative (whichever is younger).
+If normal, repeat every 3-5 years.
+• FDR with CRC diagnosed at ≥60
+years, colonoscopy should be
+performed at age 40 years. If
+normal, repeat every 10 years.
+• Stop screening at age 75.9, level III
+• For family history of CRC
+diagnosed at age <50 years,
+colonoscopy should be performed
+at age 40 or 10 years younger
+than affected relative (whichever
+is younger). If normal, repeat
+every 3-5 years. Stop screening
+at age 75.
+• For hereditary colorectal cancer
+syndromes, refer to Table 5.
+Description
+No family history and age
+>50 years
+Family history of CRC
+either:
+• ≥1 FDR
+• 1 FDR and >1 SDR
+• >3 and one of them
+must be FDR
+Family history of:
+• CRC at age <50 years
+• FAP
+• HNPCC
+(Lynch Syndrome)
+• Peutz-Jegher Syndrome
+• Juvenile polyposis
+• MAP
+Management of Colorectal Carcinoma
+i. number of adenomas (1-2 vs 3) (pooled RR=2.52, 95% CI 1.07 to
+5.97)33, level I
+ii. size (<1 cm vs ≥1 cm) (pooled RR=1.39, 95% CI 0.86 to 2.26)33, level I
+iii. villous histology (pooled RR=1.26, 95% CI 0.95 to 1.66)33, level I
+iv. high-grade dysplasia (pooled RR=1.84, 95% CI 1.06 to 3.19)33, level I
+v. proximal location (significantly two times higher risk)34, level II-2
+vi. male gender with large adenomas (RR=1.81, 95% CI 1.42 to 2.31)35, level II-2
+vii. parental history of CRC (RR=2.32, 95% CI 1.77 to 3.04)35, level II-2
+The risk of recurrent advanced adenoma during surveillance
+colonoscopy following polypectomy is 2-3 times significantly higher
+among those with advanced adenoma compared with low risk group.
+33, level I; 36, level II-2; 37, level III
+Surveillance colonoscopy intervals can be scheduled every 10 years for
+low risk and every three years for high risk patients after initial clearing.
+This is because it is estimated that 10% of low risk patients will develop
+advanced metachronous adenomas after 10 years and 10% of high risk
+patients will develop it after three years.35, level II-2 This is supported by
+a consensus update by the US Multi-Society Task Force on Colorectal
+Cancer 2008.27, level III
+Recommendation 3
+• Surveillance colonoscopy should be offered to patients after removal
+of adenomatous polyps every 10 years for low risk and every three
+years for high risk patients for colorectal carcinoma.
+2.3.3 Hereditary Colorectal Cancer Syndromes
+Hereditary colorectal cancer syndromes or defined as genetic
+susceptibility syndromes includes HNPCC, FAP, MAP, juvenile polyposis
+and Peutz-Jegher Syndrome. The risk and surveillance strategies are
+shown in Table 5.
+2.3.4 Inflammatory Bowel Diseases
+The risk of CRC in ulcerative colitis (UC) was found to be 2% at 10
+years, 8% at 20 years and 18% at 30 years, irrespective of disease
+extent.38, level II-2 Surveillance colonoscopy is performed annually in UC
+patients seven to eight years after onset of symptoms.39, level III; 40, level II-2
+The risk of cancer in colonic Crohn’s disease is similar to that in UC.
+Patients with colonic Crohn’s disease should therefore be offered entry
+into a similar surveillance programme to those with UC.40, level II-2
+Management of Colorectal Carcinoma
+Table 5. Hereditary Colorectal Cancer Syndromes Risk
+and Surveillance of CRC
+Colonoscopy
+interval of 1-2
+yearly until
+surgery is
+performed
+42-44,level III
+In FDR without
+identified APC
+mutation,
+2-yearly
+interval until
+age 40. After
+age 40,
+intervals may
+be longer (i.e.
+3-5 years) and
+surveillance
+may
+discontinue at
+age 5044, level III
+Initial
+screening by
+sigmoidoscopy.
+Once adenoma
+detected,
+colonoscopy
+has to be
+performed.
+In attenuated
+FAP,
+colonoscopy is
+recommended
+42-44, level III
+FAP gene
+carriers: 10-14
+years old
+42-44, level III
+Attenuated
+FAP: 18-20
+years old
+42-44, level III
+Risk increased
+by 2.4 times for
+every 10 years
+41, level III
+1-2 yearly
+42-43, level III;
+47-48, level III
+Colonoscopy
+42-43, level III;
+46, level II-2; 47, level III
+20-25 years old
+or 5 years
+before the
+earliest age of
+cancer
+diagnosed in
+the family
+42-43, level III;
+46, level II-2; 47, level III
+Lifetime
+cumulative risk
+to develop
+CRC is 78%
+45, level III
+Lynch
+syndrome/
+Hereditary
+non-polyposis
+colorectal
+cancer
+(HNPCC)
+If polyps are
+found,
+examination is
+repeated every
+3 years. If no
+polyp, repeat
+at age 18
+years and then
+every 3 years
+thereafter
+49, level III
+Colonoscopy
+49, level III
+8 years old
+49, level III
+Cumulative risk:
+39%49, level III
+Peutz-Jeghers
+Syndrome
+2-yearly
+50, level III
+Colonoscopy
+47, level III
+15 years old or
+earlier if
+symptoms
+occur
+especially
+rectal bleeding
+47, level III;
+50, level III
+Cumulative risk:
+38%47, level III
+Juvenile
+Polyposis
+1-2 yearly
+51, level II-2
+Colonoscopy
+51, level II-2
+18-20 years old
+51, level II-2
+Cumulative risk:
+63% at age 60
+years51, level II-2
+MUTYH-
+Associated
+Polyposis (MAP)
+Familial
+Adenomatous
+Polyps (FAP)
+High risk
+condition
+Risk (preferably
+life time risk)
+Initial
+screening age
+Surveillance
+procedures
+Surveillance
+interval
+Management of Colorectal Carcinoma
+Recommendation 4
+• All hereditary colorectal cancer syndromes should be referred and
+managed by colorectal surgeons.
+• Surveillance of moderate and high risk group populations for
+hereditary colorectal cancer syndromes should be based on the risk
+conditions*.
+*Refer to Table 5 and subchapter on Inflammatory Bowel Diseases.
+2.3.5 Other Risk Factors
+Smoking attributes to 16% greater risk of developing CRC compared
+with those who had never smoke. The risk of developing CRC is higher
+if the duration of smoking is more than 25 years (RR=1.23, 95% CI 1.07
+to 1.41).52, level II-2
+Diabetes mellitus is one of the common chronic diseases in general
+population. Besides its own vascular complications, diabetic individuals
+have an increased risk of CRC with RR of 1.27 (95% CI 1.21 to 1.34).53, level II-2
+In relation to body mass index, there is a signiﬁcant positive association
+between overweight or obese and CRC among males.54-55, level II-2
+Alcohol consumption greater than 30 gram/day (g/d) is positively
+associated with risk for CRC (RR=1.23, 95% CI 1.07 to 1.12).56, level II-2
+Meat consumption has received a growing interest in its association
+with CRC. A systematic review on Caucasian population showed that
+increased intake of 100 g/d red meat (OR=1.17, 95% CI 1.05 to 1.31)
+and 25 g/d of processed meat (OR=1.49, 95% CI 1.22 to 1.81) were risk
+factors for CRC.57, level II-2 However, a systematic review on Japanese
+population showed no association between CRC and high intake of red
+meat or high intake of processed meat. The amount of red meat was
+not quantified.58, level II-2 SIGN recommends to keep consumption of red
+meat to less than 500 g (18 ounces) per week and avoid processed
+meat.25 Thus, further evidence is needed before a specific advice can
+be given to general population.
+• It is advisable to avoid processed meat and minimise red meat
+consumption as it may be a risk factor for CRC based on current but
+limited evidence.
+Management of Colorectal Carcinoma
+2.4 Genetic Counselling and Testing
+In the range of 65-75%, CRC are sporadic in nature. Familial CRC
+contributes to 25-30% whereas hereditary colorectal cancer syndromes
+only constitute between 5-8% of all CRCs. Familial CRC is defined as
+having one or more relatives diagnosed with CRC and is related to a
+combination of genetic and environmental factors.
+The hereditary colorectal cancer syndromes are attributed to highly
+penetrant genes and associated with life-time CRC risk that may
+approach 70-90%, whereas familial CRC is associated with a twothreefold increase in the individual’s risk of CRC compared to general
+population.59, level III
+Family history and appropriate genetic testing can provide estimates of
+cancer risk that inform appropriate cancer screening, surveillance and/
+or preventative interventions. Molecular tumour screening, prediction
+models and clinical selection strategies such as Amsterdam Criteria (to
+find a mutation in one of the MMR genes) and Bethesda Guidelines
+(to find microsatellite instability in a tumour) are modalities to identify
+patients with Lynch syndrome.60, level I
+There are limitations in sensitivity and specificity in using Amsterdam
+Criteria and Bethesda Guidelines in identification of patients with Lynch
+syndrome.60, level I Prediction models for the identification of Lynch
+syndrome have been developed to quantify an individual’s risk of
+carrying a mismatch repair gene mutation and help clinicians decide
+for whom further risk assessment and genetic testing is necessary.
+MMRPredict, MMRPro and PREMM1,2,6 models all provide a
+quantitative assessment of the risk of being a MMR gene mutation
+carrier and have superior performance over existing clinical guidelines.
+These models are yet to be used locally.61, level III
+All individuals whose family history is suggestive of a hereditary
+colorectal cancer syndrome should be referred to a clinical genetics
+service for genetic counselling, genetic risk assessment and consideration
+of genetic testing to clarify the risk.25
+Targeting genetic services for patients with a strong family history of
+cancer rather than screening the entire population proved to be costeffective. Predictive or pre-symptomatic testing and identification of
+cancer-predisposing mutations in carriers have shown that surveillance,
+prophylactic and chemoprevention techniques extend survival and are
+cost-effective.62, level I
+Management of Colorectal Carcinoma
+• Refer patients with any of the following to a clinical genetics service for
+further genetic risk evaluation/assessment for hereditary colorectal
+cancer syndromes:25; 63, level III
+○ Personal history of CRC before age 50
+○ Personal history of CRC and endometrial cancer at any age
+○ Personal history of CRC and ovarian cancer at any age
+○ Personal history of CRC and stomach, small bowel, biliary or
+urinary tract cancer at any age
+○ Personal history of CRC and two first-degree relatives with history
+of colorectal, endometrial, or ovarian cancer at any age
+○ Family history of inherited syndromes such as Lynch, FAP or
+familial diffuse gastric cancer
+○ Personal history of 10 or more adenomatous polyps
+○ Personal history of multiple primary colon cancers at any age
+○ Cumulative >5 proximal serrated polyps, at least two >10 mm
+○ Cumulative >20 serrated polyps
+○ ≥2 juvenile or Peutz-Jeghers polyps
+Recommendation 5
+• All individuals whose family history is suggestive of a hereditary
+colorectal cancer syndrome* should be referred to a clinical genetics
+service for genetic risk assessment, where accessible.
+* Refer to yellow box on hereditary colorectal cancer syndromes.
+3. PRIMARY CARE AND REFERRAL
+In Malaysia, CRC screening is done mainly in primary care. Most of
+the patients with symptomatic CRC often present at later stages of
+the disease. In an attempt to improve early detection of CRC, various
+efforts have been done to establish CRC screening programme in
+primary care setting.
+Therefore, one of the objectives of this CPG is to assist Family Medicine
+Specialists and other primary care providers in providing structured
+screening and referral programme according to the symptoms and risk
+stratification (refer to Algorithm A and B).
+Management of Colorectal Carcinoma
+4. DIAGNOSTIC AND RADIOLOGICAL INVESTIGATIONS FOR
+STAGING
+4.1 Diagnostic Investigations
+a. Colonoscopy
+Complete endoscopic colonoscopy is required in all suspected CRC
+cases in order to detect synchronous lesion and obtain biopsy specimen.
+b. Barium Enema
+Barium enema (BE) is the established radiological method to investigate
+patients with symptoms suggestive of CRC or large polyps in clinical
+practice although its utilisation is declining.
+Recent advent of virtual colonoscopy (VC) has shown to have a higher
+sensitivity than BE and patients prefer VC to BE. Detection rate of CRC
+or large polyps is significantly higher with VC than BE group (RR=1.31,
+95% CI 1.01 to 1.68). The rate is higher in large polyps (p=0.0098).64, level I
+c. Computed Tomographic Colonography/Virtual Colonoscopy
+An evidence showed that CTC or VC is effective and safe in identifying
+carcinoma and polyps >10 mm when compared with CC with high
+sensitivity and specificity.65, level II-2
+However, a more recent and larger evidence showed that CTC required
+additional colonic investigation compared with colonoscopy (RR=3.65,
+95% CI 2.87 to 4.65). Almost half of the referrals after CTC were for
+small (<10 mm) polyps or clinical uncertainty. Detection rates of CRC or
+large polyps were 11% for both procedures. CTC missed 1 of 29 CRC
+and colonoscopy missed none (of 55). Serious adverse events were
+rare.66, level I
+Advantages for CTC over CC are the ability to evaluate the whole
+colon, particularly in the presence of a stenosing lesion, detect and
+stage CRC, and identify incidental pathology which may have a bearing
+upon management.
+• CTC is an alternative modality in diagnosing CRC in symptomatic
+patients at high risk of the disease.
+• Radiation exposure from CTC is approximately 20% lower than the
+typical dose for double-contrast BE.
+• CTC is a more sensitive test than BE. It can be the preferred
+radiological test for patients with symptoms suggestive of CRC.
+Management of Colorectal Carcinoma
+d. Carcinoembryonic Antigen
+CEA is a glycoprotein present in normal mucosal cells and elevated
+amount of CEA is associated with adenocarcinoma, especially in CRC.
+Therefore, it has a role as a tumour marker. However, normal level of
+CEA does not indicate absence of CRC.
+• The use of CEA is exclusively confined for monitoring and followup. It is performed pre-operatively in patients with CRC for baseline
+investigation and surveillance.
+4.2 Radiological Investigations for Staging
+Although practice varies between treatment centres, evidence suggests
+that the best method for diagnosing CRC or polyps is direct visualisation
+of bowel mucosa by CC followed by histopathological examination
+(HPE).
+a. Computed Tomography
+Computed tomography (CT) is routinely used and remains the mainstay
+technique for primary staging and disease surveillance in patients with
+CRC. It is used for identification of the location and size of the lesion,
+demonstration of local extension, and detection of distant metastases
+or complications such as perforation, obstruction or pericolic abscess
+formation.67, level III
+Although CT shows only 75% accuracy in identifying both T1 and T2
+carcinoma, it has poor agreement between pre-operative CT staging
+with the histopathology for individual T stages (κ=0.208).67, level III
+For T3 or more, the accuracy is higher at 86%. The accuracy for N stage
+has been reported as high as 80%. Overall, CT scan has a sensitivity
+of 70.2% and specificity of 79.2% for T- and N-staging when compared
+with histopathology staging.67, level III
+• CT accuracy in identifying CRC and nodal metastases depends on
+the stages of the tumour. It is not the best modality for the assessment
+of early CRC.
+• Radiological staging for CRC must include contrasted CT thorax.
+• Radiological report must include pertinent findings for patient's
+optimal management including TNM classification.
+Management of Colorectal Carcinoma
+b. Magnetic Resonance Imaging
+The optimal management of rectal carcinoma requires detailed preoperative planning that includes the assessment of the relation of
+tumour to the mesorectal fascia. Normal anatomy of rectum on magnetic
+resonance imaging (MRI) is as shown in Appendix 3. The presence
+or absence of tumour within 1 mm of the surgical circumferential
+resection margins (CRM) of the excised surgical specimen strongly
+influences outcome and is an independent predictor of survival and
+local recurrence.68, level III
+High resolution MRI consistently shows the mesorectal fascia. It could
+predict tumour at the potential CRM with an accuracy of 94% (95%
+CI 91 to 96) if the tumour is within 1 mm of the mesorectal fascia on
+the scan. Thus, pre-operatively, MRI accurately predicts whether the
+surgical resection margins will be clear or affected by tumour. It is also
+feasible, reproducible and reliable for pre-operative staging.68, level III
+MRI also provides an accurate assessment of cancer local spread preoperatively.
+• MRI staging provides an accurate assessment of rectal carcinoma
+local spread pre-operatively.
+• MRI is the best modality in assessing the relation of the rectal
+carcinoma with the potential CRM. MRI predicts whether the surgical
+resection margins will be clear or affected by the carcinoma.
+MRI in Colorectal Carcinoma with Liver Metastasis
+Accurate assessment of the size, location and segmental distribution
+of liver metastases is critical for selection of patients to undergo
+radical surgery or minimally invasive therapy such as radiofrequency
+ablation (RFA), cryoablation, chemoembolisation or radioembolisation.
+Although practice varies between treatment centres, the best methods
+for detection of liver metastases from CRC are CT and MRI. MRI can
+be used for characterisation of focal liver lesions. For small metastases
+to the liver, MRI with hepatocyte-specific contrast medium will facilitate
+detection because of the high contrast between the avidly enhancing
+normal liver parenchyma and the non-enhancing metastases in the
+hepatocellular phase of contrast uptake.69, level II-2
+In performing the study, combined reading of images from both
+techniques i.e. diffusion-weighted MRI (DW-MRI) with hepatocyte-
+specific MR contrast medium such as gadolinium-ethoxybenzyldiethylenetriaminepentaacetic acid (Gd-EOB-DTPA)-enhanced MRI
+significantly improve the accuracy of colorectal liver metastasis
+detection compared with parenchymal phase Gd-EOB-DTPA-enhanced
+Management of Colorectal Carcinoma
+imaging or DW-MRI images alone. Combining DW-MRI with Gd-EOBDTPA-enhanced imaging set significantly improves the identification
+of liver metastases (AUC=0.96, 0.97) compared with reading of the
+Gd-EOB-DTPA image set (AUC=0.86, 0.89) or the DW-MRI image set
+alone (p<0.016) (AUC=0.93, 0.92).69, level II-2
+• In MRI study, combined reading of DW-MRI images with hepatocytespecific contrast medium in the hepatocellular phase images are
+highly suggested in detecting liver metastasis.
+c. Endorectal Ultrasound
+Two meta-analyses showed that endorectal ultrasound is comparable
+to MRI in rectal carcinoma on:
+• T-staging (sensitivity of 0.88 vs 0.89, specificity of 0.79 vs 0.76)70, level I
+• N-staging (sensitivity of 0.63 vs 0.76, specificity of 0.80 vs 0.77)71, level I
+Endorectal ultrasound has high accuracy (pooled sensitivity of 0.97
+and specificity of 0.96) in assessing early rectal carcinoma and may be
+used with MRI in identifying patients who may benefit from endoscopic
+resection.72, level II-2
+However, endorectal ultrasound use is limited to non-stenosing tumours
+and its accuracy is significantly reduced in T- and N-staging among
+patients who have had neoadjuvant chemotherapy and radiotherapy
+(RT). Thus, MRI of pelvis is still the preferred choice of staging
+investigation of rectal carcinoma.70-71, level I
+d. 18F-fluorodeoxyglucose Positron Emission Tomography CT
+For detection of extrahepatic metastases and local recurrence of CRC,
+CT and 18F-fluorodeoxyglucose positron emission tomography CT
+(FDG PET-CT) are commonly used. FDG PET-CT is more accurate
+in T4 disease, distant metastases and recurrence when compared with
+CT alone.73, level II-2
+PET-CT should not be used routinely for initial staging and surveillance.
+It can be used in conjunction with liver MRI and contrast-enhanced
+CT of the thorax, abdomen and pelvis in patients with high risk of
+metastases.74, level III
+Management of Colorectal Carcinoma
+• Contrast-enhanced FDG PET-CT is preferred as it will provide more
+detailed information as compared with uncontrasted FDG PET-CT
+study.
+• FDG PET-CT has a role in the evaluation of recurrent CRC with
+elevated CEA and often with equivocal/negative CT.
+• In utilising an imaging modality with ionising radiation, the indication
+must be justified in which benefits from the diagnostic information
+obtained outweigh the risks associated with radiation.
+• Basic radiation safety principle “As Low as Reasonably Achievable”
+to minimise radiation doses and employ “reasonable methods”
+to patients must be adhered to at all times. This helps to prevent
+unnecessary exposure and overexposure.
+Recommendation 6
+• Computed tomography scan should be used for staging and
+surveillance of colorectal carcinoma.
+• Magnetic resonance imaging is the modality of choice in diagnosing
+and staging of rectal carcinoma.
+4.3 Histopathological Examination
+HPE of the resected colorectal specimen is essential for patient’s
+management, including the estimation of post-operative outcome and
+the rationale for adjuvant therapy.
+a. Important Pathological Parameters
+Royal College of Pathologists Minimum Pathology Dataset identifies
+significant prognostic factors for 5-year survival in surgically resected
+CRC as follows:75, level III
+• local invasion
+• total number of lymph nodes retrieved
+• nodal stage (number of lymph nodes involved by cancer)
+• extramural vascular invasion
+• peritoneal involvement
+• tumour perforation
+• distance of invasion beyond the muscularis propria
+• CRM involvement and distance to this margin (for rectal carcinoma)
+The World Health Organisation (WHO) Classification of CRC has been
+widely used because of its consistency and uniformity in pathologic
+reporting of colorectal histologic tumour type (refer to Appendix 4).76, level III
+Management of Colorectal Carcinoma
+Most CRC are adenocarcinoma. Some other histologic subtypes such
+as signet-ring and mucin-producing carcinoma have significantly poor
+prognostic features.77-78, level III
+Patients with >12 nodes retrieved have significantly higher survival rate
+compared with those lower nodal yield (53.0% vs 45.4%; p<0.01).75, level III
+Evaluation for Lynch syndrome may include tumour screening for
+mismatch repair (MMR) deficiency. MMR-deficient (or microsatellite
+instability-high)
+carcinoma
+frequently
+demonstrates
+mucinous
+differentiation or medullary features in the form of a solid architecture
+with prominent tumour-infiltrating lymphocytes. MMR status can be
+readily evaluated by immunohistochemistry (IHC). However, given the
+resource implications of implementing this, it is not considered a core
+data item for reporting CRC resection specimen.77, level III
+Tumour differentiation is important for prognosis.77, level III The prognostic
+validity of grade is highly significant, showing a better survival for the
+well-differentiated carcinomas compared with poorly differentiated
+type.79, level III
+In a systematic review, perineural invasion remained an independent
+prognostic factor for five-year disease-free survival (DFS), five-year
+overall survival (OS) and five-year cancer-specific survival.118, level I
+Prognostic factors for local recurrence in rectal carcinoma are:
+• location below the peritoneal reflection and completeness of the
+plane of mesorectal excision77, level III
+• histologic grade of regression after pre-operative therapy77, level III
+• CRM77, level III
+• distal resection margin (DRM) (Hazard ratio (HR) for 5-year local
+recurrence in DRM ≤10 mm=2.33, 95% CI 1.28 to 4.25)80, level III
+Management of Colorectal Carcinoma
+• Histopathological reports of CRC should include core histological
+data, which are:75, level III; 77, level III
+i. Macroscopic core items
+○ Nature of specimen and type of operation
+○ Site of tumour
+○ Maximum tumour diameter
+○ Distance to nearer longitudinal resection margin
+○ Relation of tumour to the peritoneal reflection (rectal tumours
+only)
+○ Grade of plane(s) of surgical excision (total mesorectal excision
+(TME) for anterior resection and abdominoperineal resection
+(APR) specimens)
+ii. Microscopic core items
+○ Histological tumour type
+○ Histological differentiation
+○ Maximum extent of local invasion (pT stage) and maximum
+distance of extramural spread
+○ Grade
+of
+tumour
+regression
+following
+pre-operative
+(neoadjuvant) therapy
+○ Resection margins (longitudinal and circumferential margins)
+○ Lymph nodes status (number present, number involved, highest
+lymph node status)
+○ Venous invasion
+○ Perineural invasion
+Clinical pathological stage is the most significant independent prognostic
+factor in CRC either classified according to the Astler and Coller system
+(with stage D proposed by Turnbull) or pTNM.79, level III
+CRC staging according to TNM is widely used internationally (refer to
+Appendix 4). Major changes between the 5th and 7th editions are in
+the definitions of lymph node involvement. Such changes destabilise
+historical staging data and longitudinal analyses. For these reasons,
+the criteria used in the 5th edition of TNM are retained for colorectal
+reporting.77, level III In local setting, the pathology report include both the
+5th and 7th editions of TNM staging, as well as Dukes’ staging.
+b. Reporting
+Complete and accurate histopathology reports are fundamental in
+providing quality cancer care. A randomised controlled trial (RCT)
+showed that the use of pre-defined forms led to a 24.5% (95% CI 11.0
+to 38.0) increase in complete reporting of a minimum required data for
+patient management.81, level I
+Management of Colorectal Carcinoma
+National electronic template reporting improves the inclusion of important
+key parameters for CRC resection specimen compared with reporting
+by checklists, locally developed electronic templates or free text
+(p<0.05).82, level III
+In view of the importance of high quality reporting of CRC resection
+specimen, Pathology Service of MoH has developed a standardised
+histopathology reporting proforma for this purpose (refer to Appendix 5).
+Recommendation 7
+• In colorectal carcinoma,
+○ reporting of resection surgical specimens should contain core
+macroscopic and microscopic histological items*
+○ standardised histopathology reporting proforma incorporating
+tumor-node-metastasis (TNM) staging system should be used
+○ a minimum of 12 lymph nodes should be aimed for proper
+histopathological examination
+*Refer to yellow box on histopathological report of CRC.
+Management of Colorectal Carcinoma
+5. SURGICAL MANAGEMENT
+• The mainstay of treatment for CRC is surgical resection, which
+offers the best curative outcome. Chemotherapy and RT are used
+to downstage, as adjuvant therapy and for palliative purposes. The
+treatments for colon and rectal carcinoma are outlined in Algorithm C
+and Algorithm D.
+5.1 Pre-Operative Preparation
+Pre-operative preparation is important to reduce peri-operative morbidity
+and mortality.
+a. Antibiotic Prophylaxis
+In a Cochrane systematic review, antibiotic prophylaxis reduced wound
+infections in colorectal surgery by 66% (RR=0.34, 95% CI 0.28 to 0.41).
+Combination of aerobic and anaerobic bacteria coverage showed better
+outcomes compared with the use of aerobic or anaerobic antibiotics
+alone. There was no difference in terms of duration of antibiotic
+prophylaxis.83, level I
+b. Venous Thromboembolism (VTE) Prophylaxis
+Colorectal surgery has a high risk of post-operative thromboembolic
+complications. Heparin significantly prevented deep vein thrombosis
+and/or pulmonary embolism (OR=0.32, 95% CI 0.02 to 0.53). There
+was no difference between unfractionated heparin and low molecular
+weight heparin in the outcomes (OR=1.01, 95% CI 0.67 to 1.52).84, level I
+Combined prophylactic modalities (intermittent pneumatic compression
+and anticoagulants) reduced the incidence of VTE significantly by 61%
+to 84% when compared with single method.85, level I
+c. Bowel Preparation
+A Cochrane systematic review of 15 trials showed no significant difference
+between mechanical bowel preparation and no bowel preparation in
+terms of:86, level I
+• anastomotic leakage
+• peritonitis
+• mortality
+• wound infection
+• re-operation
+In another sub-analysis on rectal surgery, there was no difference
+between mechanical bowel preparation and rectal enema for the above
+outcomes.86, level I
+Management of Colorectal Carcinoma
+Even though there was no difference in post-operative complications
+between mechanical bowel preparation and no bowel preparation,
+consensus among RC and DG agreed that bowel preparation prior to
+rectal carcinoma surgery resulted in lesser morbidity.
+Recommendation 8
+• Patients undergoing colorectal carcinoma surgery should have:
+○ antibiotic prophylaxis
+○ venous thromboembolism prophylaxis
+• Mechanical bowel preparation:
+○ should be performed in rectal carcinoma surgery
+○ may be performed in colon carcinoma surgery
+5.2 Techniques in Colorectal Surgery
+Surgery in CRC involves en-bloc removal of the cancer with clear
+margins and its associated regional lymphatic drainage. The aim is to
+achieve complete resection (R0) of the cancer.
+a. Colon Carcinoma
+A thorough surgical exploration of the abdomen should be performed
+at the time of resection. This is to exclude any possible synchronous
+lesion, assess the extent of primary disease and if there are any distant
+metastases and to exclude any other coexisting pathology.
+The extent of bowel resection for colon carcinoma depends on the
+site of the primary lesion, blood supply and lymphatics to the affected
+segment. Complete mesocolic excision and flush ligation of the colonic
+vessels has demonstrated reduced risk of local recurrence (6.5% vs
+3.6%) and improved five-year survival rate (89.1% vs 82.1%) compared
+with earlier techniques.87, level II-2
+Total number of lymph nodes evaluated at the time of resection has
+been associated with survival.88, level I It is recommended that at least
+12 lymph nodes to be evaluated to assign N0 stage.89 Thus, surgery
+performed should ensure at least 12 lymph nodes are harvested.
+Synchronous colon carcinoma can be treated by two separate
+resections or subtotal colectomy.88, level I
+b. Rectal Carcinoma
+Survival in rectal cancer improves and complication rates decrease
+when credentialed surgeons are involved in the care of CRC patients.
+The surgeons are more likely to perform restorative procedures, leading
+to fewer permanent ostomies.90, level I
+Management of Colorectal Carcinoma
+Treatment of rectal carcinoma is based on clinical disease stage. Patients
+with early stage disease are treated with primary surgery. Treatment of
+locally advanced disease requires a multidisciplinary approach which
+includes neoadjuvant RT or concurrent chemoradiotherapy (CCRT)
+followed by surgery.90, level I
+For cancer of the upper rectum, the mesorectal excision should extend
+5 cm below the distal edge of the cancer, whereas a TME is required for
+cancer of the middle and lower rectum.90, level I
+A positive CRM is an independent predictor of local recurrence and
+decreased survival. Thus, it is critical to obtain an adequate CRM for
+local control.90, level I
+In most rectal carcinoma, resection of 2 cm distal mural margin is
+adequate when combined with a TME. For cancers located at or below
+the mesorectal margin, 1 cm distal mural margin is acceptable.90, level I
+A meta-analysis showed that defunctioning stoma decreased clinical
+anastomotic leak rate and re-operation rate in rectal carcinoma
+(p<0.001).91, level I Thus, it should be considered after low anterior
+resection.
+Loop ileostomy is preferred over loop colostomy because of the ease in
+reversal although the former is associated with an increased incidence
+of high stoma output and dehydration.90, level I
+Currently there is no strong evidence to support the practice of rectal
+washout before an anastomosis in preventing local recurrence in rectal
+carcinoma.92, level II-1 However, it may be performed as it is relatively riskfree and does not prolong the operative time.
+In low rectal carcinoma, cylindrical APR reduced the rate of CRM
+involvement (p<0.013) and intra-operative perforations (p<0.0255)
+compared with traditional APR.93, level III This may help to reduce local
+recurrence of the cancer.
+Choice of procedure would depend largely upon the surgeon’s
+preference and expertise. Options include - TEO (transanal endoscopic
+operation), TEMS (transanal endoscopic microsurgery), TAMIS
+(transanal minimally invasive surgery). Locally advanced rectal
+cancers with involvement of adjacent pelvic organs may require a
+multidisciplinary approach with a multivisceral resection such as pelvic
+exenteration.
+Management of Colorectal Carcinoma
+c. Laparoscopic Surgery in Colorectal Carcinoma
+The same surgical principles applied in both open surgical resection and
+laparoscopy. Two Cochrane systematic reviews showed no significant
+difference in operative mortality or recurrence at primary site between
+laparoscopic and open colorectal resection.94-95, level I
+Significant short-term benefits from laparoscopic procedures compared
+with conventional colorectal surgery were:95-96, level I
+• lesser blood loss
+• lower post-operative ileus rate
+• shorter post-operative hospital
+• lower post-operative wound
+stay
+infections
+• Resection margins of CRC specimens must be tagged for orientation.
+Recommendation 9
+• A thorough surgical exploration should be performed at the time of
+resection in colorectal carcinoma.
+• Low rectal surgery should be performed by surgeons credentialed in
+the management of rectal carcinoma.
+• Total mesorectal excision should be performed for middle and low
+rectal carcinoma.
+• If abdominoperineal resection (APR) is required, it should be
+performed as cylindrical APR.
+5.3 Surgical Treatment of Metastatic Colorectal Carcinoma
+a. Liver Metastases
+Treatment options for liver metastasis consist of hepatectomy, systemic
+chemotherapy, hepatic arterial infusion therapy and thermal coagulation
+therapy. Liver resection comprises of systematic and non-systematic
+(non-anatomical) resection.97, level III
+A Cochrane systematic review on resection of colorectal liver
+metastases (CRLMs) showed insufﬁcient high level evidence to support
+the effectiveness or otherwise of a single approach, either surgical or
+non-surgical, for the management of the condition.98, level I Liver resection
+however has been the mainstay of treatment of resectable colorectal
+liver metastases. Treatment should be individualised and guided by a
+team approach.
+Criteria for liver resection are listed below:97, level III; 99-100, level III
+i. The patient is fit for surgery. Overall health status, organ/liver
+function, and concomitant non-malignant disease must be assessed.
+Management of Colorectal Carcinoma
+ii. The primary cancer has been controlled or can be controlled.
+iii. There are no extrahepatic metastases or they can be controlled.
+iv. The metastatic liver cancer can be completely resected.
+• Resectability includes the expectation that a margin-negative
+resection (R0) of ≥1 mm can be achieved.99-100, level III
+v. The function of the remaining liver will be adequate. This includes:
+• the anticipated ability to preserve two contiguous segments
+• the anticipated ability to preserve adequate vascular inﬂow,
+outﬂow and biliary drainage
+• the anticipated ability to preserve adequate future liver remnant
+volume (25% in normal liver and 35-40% in pre-treated liver with
+chemotherapy, or pre-existing liver damage)101, level III
+RFA has been shown to have a role in the treatment of unresectable
+metastases, sometimes in conjunction with the surgical removal of
+resectable metastases.99, level III However, a Cochrane systematic review
+showed insufficient evidence on the effectiveness of RFA alone as a
+curative treatment of CRLMs.102, level I
+Selective internal radiation therapy (SIRT) has limited evidence to
+demonstrate improvement in clinical response rates, longer median
+time to liver progression and OS when used in combination with first-,
+second- or third-line chemotherapy as well as salvage treatment.
+Selection of patients should be based on a strict criteria.103, level I
+b. Pulmonary Metastases
+A systematic review of observational studies showed that resection
+of colorectal pulmonary metastases can be performed safely with a
+low mortality rate in selected patients. Overall five-year survival rate
+of patients with resection of colorectal pulmonary metastases ranged
+between 41% and 56%.104, level III
+The following conditions should be considered for potentially curative
+resection of pulmonary colorectal metastases:97, level III; 104, level III
+• technically resectable pulmonary metastases
+• patient is fit for surgery
+• primary cancer has been controlled or can be controlled
+• no extrathoracic metastases detected with the exception of
+resectable hepatic lesions
+• remaining lung function is adequate for good quality of life
+c. Hepatopulmonary Metastases
+CRC patients presenting with simultaneous hepatic and pulmonary
+metastases without extrahepatic and extra-pulmonary disease should
+be offered curative resection if physiologically capable, and the primary
+Management of Colorectal Carcinoma
+cancer is controlled. The median survival is 54.2 months with a fiveyear survival rate of 43%.97, level III; 105, level III
+Recommendation 10
+• Treatment for metastatic colorectal carcinoma should be individualised
+and guided by a multidisciplinary approach.
+5.4 Cancer-Related Emergencies
+CRC complications such as bleeding, perforation and obstruction are
+serious and potentially life-threatening conditions. The aims of treatment
+for these conditions are to prevent sepsis and/or shock, to achieve
+the best possible cancer control and to allow initiation of appropriate
+adjuvant or systemic treatment.88, level I
+a. Bleeding
+Surgical resection to stop bleeding from localised colon carcinoma
+should follow the same principles as in elective resection. Chronic blood
+loss is more common than acute massive lower gastrointestinal bleeding
+in this condition. Selective embolisation may play a role in controlling
+acute bleeding, but surgical resection is the definitive treatment. Preoperative or intra-operative efforts should be made to localise the site of
+bleeding. If the bleeding site cannot be determined but a colonic cancer
+is suspected, a subtotal colectomy may be considered.88, level I
+b. Perforation
+The overall prognosis of colon perforation due to a colon carcinoma is
+worse than perforation from other causes due to its association with
+advanced cancer or sepsis. If perforation occurs:88, level I
+• proximal to an obstructing cancer, resection of the cancer should
+be performed whenever possible, in addition to resection of the
+perforated segment
+• at the cancer site but contained by adjacent structures, resection
+should ideally incorporate the adjacent structures en-bloc
+Primary anastomosis (with/without proximal diversion) may be
+considered in patients with minimal contamination, healthy tissue
+quality and clinical stability.88, level I
+c. Obstruction
+The management of patients with an obstructing cancer should be
+individualised but may include a definitive surgical resection. Options
+for treatment of obstructing cancer depend on the site of obstruction
+and presence of proximal colonic distention. It is either:88, level I
+Management of Colorectal Carcinoma
+• resection with/without anastomosis (e.g. right hemicolectomy,
+Hartmann's procedure, etc.)
+• resection of the distended bowel (e.g. subtotal/total colectomy)
+• temporary relief of obstruction (e.g. stoma or stenting)
+Hartmann's procedure offers no survival benefit compared to segmental
+colonic resection with primary anastomosis. It should be considered in
+patients with high surgical risks.106, level III
+Colonic stenting can be considered for those who are not fit for
+immediate resection or in those with advanced disease. In a Cochrane
+systematic review, colonic stenting in malignant colorectal obstruction
+had no advantage over emergency surgery.107, level I
+The prognosis among patients with obstructing cancers may be worse
+than among those without obstruction because of the inherently more
+advanced nature of their disease. However, this does not preclude the
+potential for curative resection.
+Management of Colorectal Carcinoma
+6. CHEMOTHERAPY AND RADIOTHERAPY
+While surgery remained the primary treatment for CRC, the roles
+of chemotherapy and RT are mainly as neoadjuvant, adjuvant and
+palliative options. The treatments for colon and rectal carcinoma are
+outlined in Algorithm C and Algorithm D.
+6.1 Colon Carcinoma
+a. Stage I and II Colon Carcinoma
+In colon carcinoma without lymph node involvement (stage I and II),
+the prognosis is good with surgical intervention alone. Stage II colon
+carcinoma patients have a relatively favourable prognosis. However,
+some patients with high risk stage II disease have a relapse rate
+approaching that of stage III colon carcinoma patients.108, level I
+In a Cochrane systematic review of adjuvant therapy for completely
+resected stage II colon carcinoma, there was no improvement in OS
+(RRR=0.96, 95% CI 0.88 to 1.05). However, the DFS in patients who
+received adjuvant therapy was significantly better than without adjuvant
+therapy (RRR=0.83, 95% CI 0.75 to 0.92). Most trials included in the
+review used the combination of fluorouracil (5-FU) plus folinic acid, with
+or without levamisole.108, level I
+Prognostic indicators correlated with high risk for subsequent failure
+in stage II colon carcinoma include obstruction, poorly differentiated
+tumour, perforation, venous invasion, inadequate lymph node sampling
+(<12) or T4 disease. The benefit of adjuvant systemic chemotherapy in
+patients with high risk features is not well established. The co-morbidities
+and likelihood of tolerating adjuvant systemic chemotherapy should be
+considered as well.108, level I Patients should be counselled carefully on
+the risk of chemotherapy vs a potential small benefit of treatment.
+The addition of oxaliplatin to 5-FU based chemotherapy also failed
+to show benefit of adjuvant chemotherapy for stage II patients. In the
+MOSAIC trial (Multicenter International Study of Oxaliplatin/5-FU/LV in
+the Adjuvant Treatment of Colon Cancer), six months of 5-FU/leucovorin
+(LV) was compared with six months of 5-FU/LV with oxaliplatin (FOLFOX
+regimen). There was no statistically significant improvement in five-year
+DFS and six-year OS in stage II colon carcinoma. In an exploratory
+analysis, the probabilities of DFS at five years and OS at six years in
+high-risk stage II patients were also not statistically significant but there
+was a trend toward improved DFS at five years in this group of patients
+treated with FOLFOX4 compared with 5-FU/LV. Thus, the role of adjuvant
+therapy for stage II colon carcinoma remains controversial.109, level I
+Management of Colorectal Carcinoma
+Similar results from another trial demonstrated an overall benefit in
+DFS (HR=0.8, 95% CI 0.69 to 0.93) for the addition of oxaliplatin to
+5-FU/LV but failed to demonstrate a significant difference in the stage
+II subset.110, level I In both trials above that used oxaliplatin, the relative
+positive effect of adjuvant treatment on DFS was similar for stage II and III
+patients, as denoted by comparable HRs for the subgroups.
+• High risk features for stage II colon carcinoma are presence of any of
+the following:
+○ obstruction
+○ perforation
+○ T4 disease
+○ poorly differentiated tumour
+○ lymphovascular invasion
+○ inadequate lymph node sampling (<12)
+b. Stage III Colon Carcinoma
+For stage III disease, the recurrence rate can exceed 50% and adjuvant
+chemotherapy may have a role to reduce the risk of recurrence.
+The role of 5-FU based chemotherapy in stage III colon carcinoma is
+well established in improving OS. Several 5-FU regimens are available
+either as infusion or bolus regimes, with different side effect profile but
+similar efficacy.
+QUASAR was a large trial of adjuvant chemotherapy for CRC using a
+standard adjuvant cytotoxic chemotherapy regimen, 5-FU and folinic
+acid with or without levamisole, in either a once-weekly or five-day
+course at four-weekly intervals. Both schedules were for six months
+duration. There was no difference in recurrence rates and survival at
+three years as well as mortality rate between the weekly and four-weekly
+schedules. However, four-weekly schedule had higher toxicity with
+more frequent diarrhoea, stomatitis and neutropaenia (p<0.001).111, level I
+The combination of 5-FU and oxaliplatin improved OS even further.
+In MOSAIC trial, FOLFOX4 was more effective than 5-FU/LV in sixyear OS (p=0.023) and five-year DFS (p=0.005) among stage III colon
+carcinoma patients. However, there were more grade 3 side effects in the
+oxaliplatin group including neutropaenia and sensory neuropathy.109, level I
+Oral chemotherapy using capecitabine have been shown to be
+equivalent to 5-FU with a favourable side effect profile. In a large RCT
+comparing oral capecitabine with bolus 5-FU/LV as adjuvant treatment
+for resected stage III colon carcinoma over a period of 24 weeks, the
+Management of Colorectal Carcinoma
+DFS was equivalent between capecitabine and 5-FU/LV. Capecitabine
+improved relapse-free survival (p=0.04) and was associated with
+significantly fewer adverse events compared with 5-FU/LV (p<0.001).112, level I
+In a Cochrane systematic review of adjuvant chemotherapy, there
+was no significant difference in relapse-free survival and OS between
+shorter (three to six months) and longer (nine to 12 months) duration
+chemotherapy. This finding confirmed that adjuvant chemotherapy for
+CRC should not last for more than six months. Prolonged duration
+would result in lower benefit-to-risk ratio.113, level I
+Recommendation 11
+• Adjuvant chemotherapy may be considered for stage II colon
+carcinoma with high risk features. Patient should be carefully
+selected and counselled.
+• Fluorouracil/leucovorin (5-FU/LV) with oxaliplatin should be given in
+stage III colon carcinoma.
+6.2 Rectal Carcinoma
+Adjuvant treatment for low risk rectal cancer (T1-T2 N0) is not indicated
+unless surgical margin is compromised. Locoregional recurrence after
+resection of rectal carcinoma is difficult to treat and associated with
+severe debilitating symptoms. Local recurrence rates were reported to
+be as high as 50% for patients with T3-T4 and/or node positive rectal
+carcinoma before the advent of standard CCRT and TME.114-116, level III
+RT to pelvis with or without chemotherapy plays an important role in
+the management of rectal carcinoma. It may be given as short or long
+course schedule.
+TME has led to improvements in morbidity and survival in rectal
+carcinoma. Dutch Colorectal Cancer Group investigated the value of
+pre-operative short course RT of 25 Gy in five fractions in combination
+with TME in rectal carcinoma. The 10-year cumulative incidence of
+local recurrence was 5% in RT and TME group compared with 11%
+in the TME alone group (p<0.0001). However, there was no difference
+in OS. For patients with TNM stage III cancer with negative CRM, the
+10-year survival was 50% in the pre-operative RT group vs 40% in the
+surgery alone group (p=0.032).117, level I
+• A short course pre-operative RT is a treatment option for rectal
+carcinoma.
+Management of Colorectal Carcinoma
+A large, landmark Swedish Rectal Cancer Trial also showed that when
+compared with surgery alone, the addition of a short course of pelvic
+radiation (25 Gy in five fractions) pre-operatively resulted in a significant
+reduction in local recurrence rate (11% vs 27%) and improvement in OS
+(58% vs 48%) at five-year follow-up in rectal carcinoma.119, level I
+The timing of adjuvant therapy pre- or post-operatively was addressed
+in a large German RCT on stage II to III rectal carcinoma. Patients were
+given either pre-operative CCRT 50.4 Gy with concurrent 5-FU, TME
+and four cycles of adjuvant 5-FU chemotherapy, or the same schedule
+of CCRT used post-operatively except for the delivery of a boost of
+5.4 Gy. The surgery was scheduled six weeks after completion of
+CCRT. The benefits of pre-operative CCRT were:
+• decrease in local failure (6% vs 13%; p=0.006)
+• higher sphincter preservation (39% vs 19%) although not significant
+• lower grade 3 or 4 acute toxicity (27% vs 40%; p=0.001) and lower
+long-term toxicity (14% vs 24%; p=0.01)
+However, there was no significant improvement in OS between the two
+arms.120, level I
+The role of adjuvant chemotherapy in rectal cancer is not well
+established. In two large RCTs on resectable rectal cancer T3 or T4,
+adjuvant chemotherapy after pre-operative CCRT/RT and TME surgery
+alone did not improve DFS and OS.121-122, level I
+Pre-operative CCRT (45 Gy + bolus 5-FU/LV) increases pathological
+complete response (pCR) compared with pre-operative RT alone
+(11.4% vs 3.6%; p<0.05) in addition to receiving four cycles of 5-FU/LV
+adjuvant chemotherapy. CCRT has lower five-year incidence of local
+recurrence (8.1% vs 16.5%; p<0.05) but higher grade 3 or 4 acute
+toxicity (14.6% vs 2.7%; p<0.05). There is no difference in sphincter
+preservation and five-year OS.123, level I In a systematic review of 10
+RCTs, tumour shrinkage after pre-operative RT or CCRT did not result
+in a statistically significant higher anterior resection with sphincter
+preservation rate.124, level I
+• Pre-operative chemoradiotherapy resulted in lower incidence of local
+recurrence compared with RT alone.
+• Long course CCRT may be given pre- or post-operatively.
+• Neoadjuvant CCRT has become the preferred option.
+• Multidisciplinary approach and CRM assessment prior to deciding
+therapy is important.
+T4 cancer with deep local invasion into adjacent structures requires a
+more extensive surgical resection at the expense of major morbidity.
+Management of Colorectal Carcinoma
+Pre-operative RT results in good clinical response and may allow
+potentially curative resection.125-126, level III
+The European Society for Medical Oncology guidelines 2017
+recommend post-operative CCRT if pre-operative CCRT not given in
+selected patients. Refer to Appendix 7 on Potential Indications for
+Post-operative CCRT if Pre-operative CCRT Not Given.
+• High risk features for stage II rectal carcinoma are presence of any of
+the following:26; 75, level III; 77, level III
+○ obstruction
+○ perforation
+○ T4 disease
+○ positive CRM
+○ poorly differentiated tumour
+○ lymphovascular invasion
+○ inadequate lymph node sampling (<12)
+○ incomplete mesorectum
+Recommendation 12
+• Neoadjuvant chemoradiotherapy should be offered to T3-T4 or node
+positive rectal carcinoma.
+6.3 Metastatic or Locally Advanced Colorectal Carcinoma
+Stage IV CRC accounts for a third of total CRC cases in Malaysia.1, level III The
+optimal treatment strategy for metastatic colorectal carcinoma (mCRC)
+involves a multidisciplinary team approach. Management centres
+around palliation and control of symptoms, lengthening progressionfree survival (PFS) and OS. Patients with good performance status,
+marrow reserve and organ functions have a potential for benefits from
+chemotherapy. Patients with poor performance status and significant
+co-morbidities should be considered for supportive care only.127, level III
+Palliative chemotherapy to mCRC patients is effective in prolonging
+time to disease progression (TTP) at 12 months (RR=0.86, 95% CI 0.77
+to 0.96) and OS at 18 months (RR=0.88, 95% CI 0.82 to 0.96).128, level I
+5-FU/LV is used clinically since 1957 and is the standard cytostatic
+agents in CRC. A two-weekly regime which combines 5-FU/LV bolus
+and infusion has longer PFS (p=0.001) and lower grade 3 and 4 toxicity
+(p=0.0004) compared with five-days 5-FU/LV bolus. However, there is
+no significant difference in OS.129, level I
+Management of Colorectal Carcinoma
+The use of combination regime as first-line chemotherapy improves
+response rate and TTP compared with 5-FU/LV alone. A two-weekly
+regime 5-FU/LV bolus and infusion (46 hours) plus irinotecan (FOLFIRI)
+regime has a response rate of 49% (p=0.001) and an improvement of
+3.3 months in OS compared with 5-FU/LV alone (p=0.031).130, level I In
+comparison, a two-weekly regime 5-FU/LV bolus and infusion (day one
+and two) plus oxaliplatin (FOLFOX4) regime has a 50.7% response
+rate (p=0.0001) but with no survival benefit.131, level I Generally, additional
+grade 3 and 4 toxicity are more significantly frequent in the combination
+regimes.130-131, level I
+There is no statistical difference in PFS and OS between FOLFOX6
+and FOLFIRI as first-line chemotherapy in mCRC. However, their
+toxicity profiles are different. Grade 3 sensory neurotoxicity, grade 3 or
+4 neutropaenia and thrombocytopaenia are significantly more frequent
+with FOLFOX6 while grade 3 or 4 febrile neutropaenia, nausea,
+vomiting, mucositis and fatigue are significantly more frequent with
+FOLFIRI. More patients have serious adverse events with FOLFIRI
+than with FOLFOX6 (14% vs 5%, p=0.03).132, level I
+In a large RCT on CRC patients with potentially resectable liver
+metastases, peri-operative chemotherapy with FOLFOX4 (six cycles
+before and six cycles after surgery) improved PFS of resected patients
+(HR=0.73, 95% CI 0.55 to 0.97) compared with surgery alone.133, level I
+Capecitabine, an oral fluoropyrimidine carbamate, results in superior
+response rate, equivalent TTP and OS compared with intravenous
+5-FU/LV.134, level I It also has significantly improved safety profile and
+conveniently used as first-line treatment for mCRC.136, level I Therefore,
+capecitabine offers an alternative to 5-FU/LV. However, compliance
+towards medication is an important factor to obtain the similar results.
+• In potentially resectable liver metastatasis, peri-operative chemotherapy
+with FOLFOX (six cycles before and six cycles after surgery)
+improves PFS.
+a. Targeted Therapy
+Monoclonal antibodies against vascular endothelial growth factor
+(bevacizumab) and against epidermal growth factor receptor (EGFR)
+(cetuximab) have been used in combination with chemotherapy for mCRC.
+Adding bevacizumab to FOLFIRI compared with FOLFIRI alone
+resulted in a significant difference in median PFS (10.6 months vs 6.2
+months) and OS (20.3 months vs 15.6 months).137, level I The survival
+advantage was not evident when bevacizumab was combined with
+Management of Colorectal Carcinoma
+oxaliplatin-based chemotherapy. Bevacizumab plus oxaliplatin-based
+chemotherapy as first-line treatment in mCRC resulted in modest
+improvement of PFS compared with chemotherapy alone (9.4 months
+vs 8 months, p=0.0023). There was no significant difference in OS.135, level I
+KRAS is a protein which involved in cell signalling pathways that control
+cell growth, cell maturation, and cell death. The natural, unchanged
+form of the gene is also called the wild-type KRAS. Patients with wildtype KRAS are likely to response to anti-EGFR therapy. In wild-type
+KRAS mCRC patients, cetuximab plus FOLFIRI and FOLFIRI alone
+showed significant difference in median PFS of 9.9 months and 8.7
+months respectively. However, there was no difference in median
+OS.138, level I
+A HTA report in 2007 concluded that the use of bevacizumab in firstline setting and cetuximab in second-line setting mCRC was not costeffective.139, level I This is supported by an economic evaluation published
+in USA whereby bevacizumab in addition to chemotherapy was not
+cost-effective in both the first- and second-line treatment in mCRC.140, level I
+b. Palliative Pelvic Radiotherapy
+Palliative pelvic RT for symptomatic rectal carcinoma appears to
+provide relief for a variety of pelvic symptoms. A systematic review has
+shown that palliative RT has 75% pooled overall symptom response
+rate among 1084 cases and positive responses were reported for pain
+(78%), bleeding and discharge (81%), mass effect (71%) and other
+pelvic symptoms (72%).141 level I
+Recommendation 13
+• Palliative chemotherapy may be considered in metastatic colorectal
+carcinoma.
+○ Combination chemotherapy is the preferred regime.
+○ Oral chemotherapy may be considered as an alternative.
+Management of Colorectal Carcinoma
+7. FOLLOW-UP AND SURVEILLANCE
+Surveillance should be guided by presumed risk of recurrence and
+functional status of the patient (important within the first two to four
+years). Any new, persistent or worsening symptoms warrant the
+consideration of a recurrence.
+• Follow-up strategies in post-surgery and/or adjuvant treatment
+are:142, level III
+i. History, physical examination and CEA levels every three to six
+months for five years.
+ii. Surveillance colonoscopy at year one and every three to five years
+thereafter, dictated by the findings of the previous investigation.
+○ If a colonoscopy has not been performed before diagnosis, it
+should be done after completion of adjuvant therapy (before
+one year).
+iii. CT scan of thorax, abdomen and pelvis is performed annually for
+three years. For high-risk patients, it is reasonable to consider
+imaging every six to 12 months for the first three years.
+In a cohort study on stage III colon carcinoma, patients treated with
+surgery and adjuvant chemotherapy, and survived without recurrence
+six months after treatments, those who continued to engage in at least
+18-metabolic equivalent task-hours per week of activity (equivalent
+of walking ≥6 hours per week at an average pace) had significant
+improvement in DFS compared with inactive patients at a median
+follow-up of 3.8 years.143, level II-2
+Survivors of CRC should be encouraged to:144, level III
+• maintain an ideal body weight throughout life
+• adopt a physically active lifestyle
+• consume a healthy diet
+• limit alcohol consumption and quit smoking
+• CRC survivors are encouraged to maintain an ideal body weight,
+participate in regular physical activity and consume a well-balanced
+diet.
+Management of Colorectal Carcinoma
+8. PREVENTION OF COLORECTAL CARCINOMA IN GENERAL
+POPULATION
+Acetylsalicylic acid (ASA) such as aspirin and non-steroidal antiinflammatory drugs (NSAIDs) may have protective effect against CRC
+mainly due to reduction in prostaglandin production and induction of
+apoptosis.
+Aspirin had mixed results in prevention of CRC in general population. It
+was not significant in primary prevention145, level I but significant in secondary
+prevention with a reduction of 23 to 28% risk of CRC.145-146, level I There
+was no difference in adverse events including serious ones between
+the treatment and control groups.145, level I
+In a systematic review of observational studies, CRC incidence was
+reduced with non-aspirin NSAIDs. However, the review also reported
+an increased risk of peptic ulceration and gastrointestinal haemorrhage
+with non-ASA NSAIDs use.147, level I
+Even though aspirin and NSAIDs have shown some benefits in the
+prevention of CRC, long-term safety profiles are warranted before any
+recommendation can be made on their use.
+There was no significant benefit from daily consumption of calcium,
+flavanoids or increased dietary fiber in prevention of CRC in general
+population.148-150, level I
+Management of Colorectal Carcinoma
+9. IMPLEMENTING THE GUIDELINES
+Implementation of CPG is important as it helps in providing quality
+healthcare services based on best available evidence applied to local
+scenario and expertise. Various factors and resource implications should
+be considered for the success of the uptake in the CPG recommendations.
+9.1 Facilitating and Limiting Factors
+The facilitating factors in implementing the CPG are:
+1. availability of CPG to healthcare providers (hardcopies and softcopies)
+2. conferences and updates on management of CRC involving
+professional societies or bodies (Malaysian Society of Colorectal
+Surgeons, Malaysian Society of Gastroenterology & Hepatology,
+Malaysian Oncological Society)
+3. public awareness CRC campaign such as World Digestive Day, etc.
+Limiting factors in the CPG implementation include:
+1. limited awareness and knowledge in management of CRC among
+healthcare providers
+2. different levels of CRC care due to expertise, facilities and financial
+constraints
+9.2 Potential Resource Implications
+To implement the CPG, there must be strong commitments to:
+1. ensure widespread distribution of CPG to healthcare providers via
+printed copies and online accessibility
+2. reinforce training of healthcare providers via regular seminars and
+workshops
+3. involve multidisciplinary team at all levels of health care
+4. improve the diagnostic and therapeutic facilities
+5. train more experts in the field of CRC
+6. strengthen the cancer registry
+To assist in the implementation of the CPG, the following is proposed as
+the clinical audit indicator for quality management:
+Implementation strategies will be developed following the approval of
+the CPG by MoH which include Quick Reference and Training Module.
+=
+X 100%
+Percentage of
+patients with
+positive iFOBT or
+with symptoms of
+CRC undergoing
+urgent colonoscopy
+within 2 weeks
+Total number of patients with positive iFOBT
+or with symptoms of CRC
+referred for urgent colonoscopy in
+the same period
+Number of patients with positive iFOBT
+or with symptoms of CRC undergoing
+urgent colonoscopy
+within 2 weeks in a period
+Management of Colorectal Carcinoma
+REFERENCES
+1.
+Zainal Ariffin O, Nor Saleha IT. National cancer registry report 2007. Malaysia:
+Ministry of Health. 2011.
+2.
+Hassan MR, Khazim WK, Othman Z, et al. 2nd Annual Report of the National
+Cancer Patient Registry - Colorectal Cancer. 2008-2013.
+3.
+Ezat SW, Natrah MS, Aljunid S, et al. Economic evaluation of monoclonal
+antibody in the management of colorectal cancer. J Cancer Res Ther. 2013;1:34-9.
+4.
+Sung JJ, Ng SC, Chan FK, et al; Asia Pacific Working Group. An updated Asia
+Pacific Consensus Recommendations on colorectal cancer screening. Gut.
+2015;64(1):121-32.
+5.
+European Colorectal Cancer Screening Guidelines Working Group: von Karsa
+L, Patnick J, Segnan N, et al. European guidelines for quality assurance in
+colorectal cancer screening and diagnosis: overview and introduction to the full
+supplement publication. Endoscopy. 2013;45(1):51-9.
+6.
+Whitlock EP, Lin JS, Liles E, et al. Screening for colorectal cancer: a targeted,
+updated systematic review for the U.S. Preventive Services Task Force. Ann
+Intern Med. 2008;149(9):638-58.
+7.
+Qaseem A, Denberg TD, Hopkins RH Jr, et al; Clinical Guidelines Committee
+of the American College of Physicians. Screening for colorectal cancer: a
+guidance statement from the American College of Physicians. Ann Intern Med.
+2012;156(5):378-86.
+8.
+Rex DK, Johnson DA, Anderson JC, et al; American College of Gastroenterology.
+American College of Gastroenterology guidelines for colorectal cancer screening
+2009 [corrected]. Am J Gastroenterol. 2009;104(3):739-50.
+9.
+Lin JS, Piper MA, Perdue LA, et al. Screening for Colorectal Cancer: Updated
+Evidence Report and Systematic Review for the US Preventive Services Task
+Force. JAMA. 2016;315(23):2576-94.
+10. Zhu MM, Xu XT, Nie F, et al. Comparison of immunochemical and guaiac-based
+fecal occult blood test in screening and surveillance for advanced colorectal
+neoplasms: a meta-analysis. J Dig Dis. 2010;11(3):148-60.
+11. Hewitson P, Glasziou P, Irwig L, et al. Screening for colorectal cancer using
+the faecal occult blood test, Hemoccult. Cochrane Database Syst Rev.
+2007;(1):CD001216.
+12. Uppara M, Adaba F, Askari A, et al. A systematic review and meta-analysis of the
+diagnostic accuracy of pyruvate kinase M2 isoenzymatic assay in diagnosing
+colorectal cancer. World J Surg Oncol. 2015;13:48.
+13. Health Technology Assessment Section (MaHTAS) MDD, Ministry of Health
+Malaysia. Immunochemical Faecal Occult Blood Test (IFOBT) For Colorectal
+Cancer (CRC) Screening. 2011. MOH/P/PAK/233.12(TR).
+14. Holme Ø, Løberg M, Kalager M, et al. Effect of flexible sigmoidoscopy screening
+on colorectal cancer incidence and mortality: a randomized clinical trial. JAMA.
+2014;312(6):606-15.
+15. Schoen RE, Pinsky PF, Weissfeld JL, et al; PLCO Project Team. Colorectalcancer incidence and mortality with screening flexible sigmoidoscopy. N Engl J
+Med. 2012;366(25):2345-57.
+16. Segnan N, Armaroli P, Bonelli L, et al; SCORE Working Group. Once-only
+sigmoidoscopy in colorectal cancer screening: follow-up findings of the Italian
+Randomized Controlled Trial--SCORE. J Natl Cancer Inst. 2011;103(17):1310-22.
+17. Atkin WS, Edwards R, Kralj-Hans I, et al; UK Flexible Sigmoidoscopy Trial
+Investigators. Once-only flexible sigmoidoscopy screening in prevention
+of colorectal cancer: a multicentre randomised controlled trial. Lancet.
+2010;375(9726):1624-33.
+18. Brenner H, Chang-Claude J, Jansen L, et al. Reduced risk of colorectal
+cancer up to 10 years after screening, surveillance, or diagnostic colonoscopy.
+Gastroenterology. 2014;146(3):709-17
+Management of Colorectal Carcinoma
+19. Lieberman DA, Weiss DG, Bond JH, et al. Use of colonoscopy to screen
+asymptomatic adults for colorectal cancer. Veterans Affairs Cooperative Study
+Group 380. N Engl J Med. 2000;343(3):162-8.
+20. Nishihara R, Wu K, Lochhead P, et al. Long-term colorectal-cancer incidence
+and mortality after lower endoscopy. N Engl J Med. 2013;369(12):1095-105.
+21. Castro G, Azrak MF, Seeff LC, et al. Outpatient colonoscopy complications in
+the CDC's Colorectal Cancer Screening Demonstration Program: a prospective
+analysis. Cancer. 2013;119 Suppl 15:2849-54.
+22. Ko CW, Riffle S, Michaels L, et al. Serious complications within 30 days of
+screening and surveillance colonoscopy are uncommon. Clin Gastroenterol
+Hepatol. 2010;8(2):166-73.
+23. Spada C, Hassan C, Marmo R, et al. Meta-analysis shows colon capsule
+endoscopy is effective in detecting colorectal polyps. Clin Gastroenterol Hepatol.
+2010;8(6):516-22.
+24. de Haan MC, van Gelder RE, Graser A, et al. Diagnostic value of CT-colonography
+as compared to colonoscopy in an asymptomatic screening population: a metaanalysis. Eur Radiol. 2011;21(8):1747-63.
+25. Scottish Intercollegiate Guidelines Network (SIGN). Diagnosis and management
+of colorectal cancer. Edinburgh: SIGN; 2011. (SIGN publication no. 126).
+[December 2011]. Available from URL: http://www.sign.ac.uk
+26. National Institute for Health and Care Excellence (NICE). The diagnosis and
+management of colorectal cancer: United Kingdom: NICE; 2011. (CG131).
+[November 2011]. Available from URL: https://www.nice.org.uk/guidance/cg131/
+evidence/full-guideline-pdf-183509677
+27. Levin B, Lieberman DA, McFarland B, et al. Screening and surveillance for
+the early detection of colorectal cancer and adenomatous polyps, 2008: a joint
+guideline from the American Cancer Society, the US Multi-Society Task Force on
+Colorectal Cancer, and the American College of Radiology. CA Cancer J Clin.
+2008;58(3):130-60.
+28. Health Technology Assessment Section (MaHTAS) MDD, Ministry of Health
+Malaysia. Colorectal Cancer Screening Using Colonoscopy And Economic
+Evaluation. 2016. (Technology Review) 010/2016.
+29. Taylor DP, Burt RW, Williams MS, et al. Population-based family historyspecific risks for colorectal cancer: a constellation approach. Gastroenterology.
+2010;138(3):877-85.
+30. Bazzoli F, Fossi S, Sottili S, et al. The risk of adenomatous polyps in asymptomatic
+first-degree relatives of persons with colon cancer. Gastroenterology.
+1995;109(3):783-8.
+31. Fuchs CS, Giovannucci EL, Colditz GA, et al. A prospective study of family
+history and the risk of colorectal cancer. N Engl J Med. 1994;331(25):1669-74.
+32. Winawer S, Fletcher R, Rex D, et al; Gastrointestinal Consortium Panel.
+Colorectal cancer screening and surveillance: clinical guidelines and rationaleUpdate based on new evidence. Gastroenterology. 2003;124(2):544-60.
+33. Saini SD, Kim HM, Schoenfeld P. Incidence of advanced adenomas at
+surveillance colonoscopy in patients with a personal history of colon adenomas:
+a meta-analysis and systematic review. Gastrointest Endosc. 2006;64(4):614-26.
+34. Laiyemo AO, Murphy G, Albert PS, et al. Postpolypectomy colonoscopy
+surveillance guidelines: predictive accuracy for advanced adenoma at 4 years.
+Ann Intern Med. 2008;148(6):419-26.
+35. Laiyemo AO, Pinsky PF, Marcus PM, et al. Utilization and yield of surveillance
+colonoscopy in the continued follow-up study of the polyp prevention trial. Clin
+Gastroenterol Hepatol. 2009;7(5):562-7; quiz 497.
+36. Nusko G, Mansmann U, Kirchner T, et al. Risk related surveillance following
+colorectal polypectomy. Gut. 2002;51(3):424-8.
+37. Morelli MS, Glowinski EA, Juluri R, et al. Yield of the second surveillance
+colonoscopy based on the results of the index and first surveillance
+colonoscopies. Endoscopy. 2013;45(10):821-6
+Management of Colorectal Carcinoma
+38. Eaden JA, Abrams KR, Mayberry JF. The risk of colorectal cancer in ulcerative
+colitis: a meta-analysis. Gut. 2001;48(4):526-35.
+39. Hata K, Watanabe T, Kazama S, et al. Earlier surveillance colonoscopy
+programme improves survival in patients with ulcerative colitis associated
+colorectal cancer: results of a 23-year surveillance programme in the Japanese
+population. Br J Cancer. 2003;89(7):1232-6.
+40. Mpofu C, Watson AJ, Rhodes JM. Strategies for detecting colon cancer and/or
+dysplasia in patients with inflammatory bowel disease. Cochrane Database Syst
+Rev. 2004;(2):CD000279. Review. Update in: Cochrane Database Syst Rev.
+2006;(2):CD000279.
+41. Debinski HS, Love S, Spigelman AD, et al. Colorectal polyp counts and cancer
+risk in familial adenomatous polyposis. Gastroenterology. 1996;110(4):1028-30.
+42. Stoffel EM, Mangu PB, Limburg PJ. Hereditary colorectal cancer syndromes:
+American Society of Clinical Oncology clinical practice guideline endorsement
+of the familial risk-colorectal cancer: European Society for Medical Oncology
+clinical practice guidelines. J Oncol Pract. 2015;11(3):e437-41.
+43. Balmaña J, Balaguer F, Cervantes A, et al; ESMO Guidelines Working Group.
+Familial risk-colorectal cancer: ESMO Clinical Practice Guidelines. Ann Oncol.
+2013;24 Suppl 6:vi73-80.
+44. Vasen HF, Moeslein G, Alonso A, et al. Guidelines for the clinical management of
+familial adenomatous polyposis (FAP). Gut. 2008;57(5):704-13.
+45. Aarnio M, Mecklin JP, Aaltonen LA, et al. Life-time risk of different cancers in
+hereditary non-polyposis colorectal cancer (HNPCC) syndrome. Int J Cancer.
+1995;64(6):430-3.
+46. Järvinen HJ, Aarnio M, Mustonen H, et al. Controlled 15-year trial on screening
+for colorectal cancer in families with hereditary nonpolyposis colorectal cancer.
+Gastroenterology. 2000;118(5):829-34.
+47. Cairns SR, Scholefield JH, Steele RJ, et al; British Society of Gastroenterology;
+Association of Coloproctology for Great Britain and Ireland. Guidelines for
+colorectal cancer screening and surveillance in moderate and high risk groups
+(update from 2002). Gut. 2010;59(5):666-89.
+48. Australian Cancer Network Colorectal Cancer Guidelines Revision Committee.
+Guidelines for the prevention, early detection and management of colorectal
+cancer. The Cancer Council Australia and Australian Cancer Network, Sydney.
+2005;71.
+49. Beggs AD, Latchford AR, Vasen HF, et al. Peutz-Jeghers syndrome: a systematic
+review and recommendations for management. Gut. 2010;59(7):975-86.
+50. Brosens LA, van Hattem A, Hylind LM, et al. Risk of colorectal cancer in juvenile
+polyposis. Gut. 2007;56(7):965-7.
+51. Nieuwenhuis MH, Vogt S, Jones N, et al. Evidence for accelerated colorectal
+adenoma--carcinoma progression in MUTYH-associated polyposis? Gut.
+2012;61(5):734-8.
+52. Huxley RR, Ansary-Moghaddam A, Clifton P, et al. The impact of dietary and
+lifestyle risk factors on risk of colorectal cancer: a quantitative overview of the
+epidemiological evidence. Int J Cancer. 2009;125(1):171-80.
+53. Jiang Y, Ben Q, Shen H, et al. Diabetes mellitus and incidence and mortality of
+colorectal cancer: a systematic review and meta-analysis of cohort studies. Eur
+J Epidemiol. 2011;26(11):863-76.
+54. Dai Z, Xu YC, Niu L. Obesity and colorectal cancer risk: a meta-analysis of
+cohort studies. World J Gastroenterol. 2007;13(31):4199-206.
+55. Matsuo K, Mizoue T, Tanaka K, et al. Association between body mass index and
+the colorectal cancer risk in Japan: pooled analysis of population-based cohort
+studies in Japan. Ann Oncol. 2012;23(2):479-90.
+56. Cho E, Smith-Warner SA, Ritz J, et al. Alcohol intake and colorectal cancer: a
+pooled analysis of 8 cohort studies. Ann Intern Med. 2004;140(8):603-13.
+Management of Colorectal Carcinoma
+57. Sandhu MS, White IR, McPherson K. Systematic review of the prospective
+cohort studies on meat consumption and colorectal cancer risk: a meta-analytical
+approach. Cancer Epidemiol Biomarkers Prev. 2001;10(5):439-46.
+58. Pham NM, Mizoue T, Tanaka K, et al. Meat consumption and colorectal cancer
+risk: an evaluation based on a systematic review of epidemiologic evidence
+among the Japanese population. Jpn J Clin Oncol. 2014;44(7):641-50.
+59. Samadder NJ, Jasperson K, Burt RW. Hereditary and common familial colorectal
+cancer: evidence for colorectal screening. Dig Dis Sci. 2015;60(3):734-47.
+60. Kievit W, de Bruin JH, Adang EM, et al. Current clinical selection strategies
+for identification of hereditary non-polyposis colorectal cancer families are
+inadequate: a meta-analysis. Clin Genet. 2004;65(4):308-16.
+61. Kastrinos F, Balmaña J, Syngal S. Prediction models in Lynch syndrome. Fam
+Cancer. 2013;12(2):217-28.
+62. Griffith GL, Edwards RT, Gray J. Cancer genetics services: a systematic review
+of the economic evidence and issues. Br J Cancer. 2004;90(9):1697-703.
+63. Giardiello FM, Allen JI, Axilbund JE, et al. Guidelines on genetic evaluation
+and management of Lynch syndrome: a consensus statement by the US Multisociety Task Force on colorectal cancer. Am J Gastroenterol. 2014;109(8):1159-79.
+64. Halligan S, Wooldrage K, Dadswell E, et al. Computed tomographic
+colonography versus barium enema for diagnosis of colorectal cancer or large
+polyps in symptomatic patients (SIGGAR): a multicentre randomised trial.
+Lancet. 2013;381(9873):1185-93.
+65. White TJ, Avery GR, Kennan N, et al. Virtual colonoscopy vs conventional
+colonoscopy in patients at high risk of colorectal cancer--a prospective trial of
+150 patients. Colorectal Dis. 2009;11(2):138-45.
+66. Atkin W, Dadswell E, Wooldrage K, et al. Computed tomographic colonography
+versus colonoscopy for investigation of patients with symptoms suggestive
+of colorectal cancer (SIGGAR): a multicentre randomised trial. Lancet.
+2013;381(9873):1194-202.
+67. Lao IH, Chao H, Wang YJ, et al. Computed tomography has low sensitivity for
+the diagnosis of early colon cancer. Colorectal Dis. 2013;15(7):807-11.
+68. MERCURY Study Group. Diagnostic accuracy of preoperative magnetic
+resonance imaging in predicting curative resection of rectal cancer: prospective
+observational study. BMJ. 2006;333(7572):779.
+69. Koh DM, Collins DJ, Wallace T, et al. Combining diffusion-weighted MRI with GdEOB-DTPA-enhanced MRI improves the detection of colorectal liver metastases.
+Br J Radiol. 2012;85(1015):980-9.
+70. Li XT, Zhang XY, Sun YS, et al. Evaluating rectal tumor staging with magnetic
+resonance imaging, computed tomography, and endoluminal ultrasound: A
+meta-analysis. Medicine (Baltimore). 2016;95(44):e5333.
+71. Li XT, Sun YS, Tang L, et al. Evaluating local lymph node metastasis with magnetic
+resonance imaging, endoluminal ultrasound and computed tomography in rectal
+cancer: a meta-analysis. Colorectal Dis. 2015;17(6):O129-35.
+72. Puli SR, Bechtold ML, Reddy JB, et al. Can endoscopic ultrasound predict
+early rectal cancers that can be resected endoscopically? A meta-analysis and
+systematic review. Dig Dis Sci. 2010;55(5):1221-9.
+73. Engelmann BE, Loft A, Kjær A, et al. Positron emission tomography/computed
+tomography for optimized colon cancer staging and follow up. Scand J
+Gastroenterol. 2014;49(2):191-201.
+74. Glynne-Jones R, Wyrwicz L, Tiret E, et al; ESMO Guidelines Committee. Rectal
+cancer: ESMO Clinical Practice Guidelines for diagnosis, treatment and followup. Ann Oncol. 2017;28(suppl_4):iv22-iv40.
+75. Maughan NJ, Morris E, Forman D, et al. The validity of the Royal College of
+Pathologists' colorectal cancer minimum dataset within a population. Br J
+Cancer. 2007;97(10):1393-8.
+Management of Colorectal Carcinoma
+76. Bosman FT, Carneiro F, Hruban RH, et al. WHO classification of tumours of the
+digestive system. World Health Organization; 2010.
+77. Loughrey MB, Quirke P, Shepherd NA. Dataset for colorectal cancer
+histopathology reports. The Royal College of Pathologists. 2014 Jul.
+78. Mulcahy HE, Skelly MM, Husain A, et al. Long-term outcome following curative
+surgery for malignant large bowel obstruction. Br J Surg. 1996;83(1):46-50.
+79. D'Eredita G, Serio G, Neri V, et al. A survival regression analysis of prognostic
+factors in colorectal cancer. Aust N Z J Surg. 1996;66(7):445-51.
+80. Bernstein TE, Endreseth BH, Romundstad P, et al. What is a safe distal resection
+margin in rectal cancer patients treated by low anterior resection without
+preoperative radiotherapy? Colorectal Dis. 2012;14(2):e48-55.
+81. Branston LK, Greening S, Newcombe RG, et al. The implementation of guidelines
+and computerised forms improves the completeness of cancer pathology
+reporting. The CROPS project: a randomised controlled trial in pathology. Eur J
+Cancer. 2002;38(6):764-72.
+82. Haugland HK, Casati B, Dørum LM, et al. Template reporting matters—a
+nationwide study on histopathology reporting on colorectal carcinoma resections.
+Hum Pathol. 2011;42(1):36-40.
+83. Nelson RL, Gladman E, Barbateskovic M. Antimicrobial prophylaxis for colorectal
+surgery. Cochrane Database Syst Rev. 2014;5:CD001181.
+84. Borly L, Wille-Jørgensen P, Rasmussen MS. Systematic review of
+thromboprophylaxis in colorectal surgery -- an update. Colorectal Dis.
+2005;7(2):122-7.
+85. Kakkos SK, Caprini JA, Geroulakos G, et al. Combined intermittent pneumatic
+leg compression and pharmacological prophylaxis for prevention of venous
+thromboembolism in high-risk patients. Cochrane Database Syst Rev.
+2008;(4):CD005258.
+86. Güenaga KF, Matos D, Wille-Jørgensen P. Mechanical bowel preparation for
+elective colorectal surgery. Cochrane Database Syst Rev. 2011;(9):CD001544.
+87. Hohenberger W, Weber K, Matzel K, et al. Standardized surgery for colonic
+cancer: complete mesocolic excision and central ligation–technical notes and
+outcome. Colorectal Dis. 2009;11(4):354-64.
+88. Chang GJ, Kaiser AM, Mills S, et al. Practice parameters for the management of
+colon cancer. Dis Colon Rectum. 2012;55(8):831-43.
+89. Benson A, Bekaii-Saab T, Chan E, et al. NCCN clinical practice guidelines in
+oncology: colon cancer. Fort Washington, PA: National Comprehensive Cancer
+Network. 2013.
+90. Monson JR, Weiser MR, Buie WD, et al. Practice parameters for the management
+of rectal cancer (revised). Dis Colon Rectum. 2013;56(5):535-50.
+91. Tan WS, Tang CL, Shi L, et al. Meta-analysis of defunctioning stomas in low
+anterior resection for rectal cancer. British Journal of Surgery. 2009;96(5):462-72.
+92. Constantinides VA, Cheetham D, Nicholls RJ, et al. Is rectal washout effective
+for preventing localized recurrence after anterior resection for rectal cancer? Dis
+Colon Rectum. 2008;51(9):1339-44.
+93. West NP, Finan PJ, Anderin C, et al. Evidence of the oncologic superiority
+of cylindrical abdominoperineal excision for low rectal cancer. J Clin Oncol.
+2008;26(21):3517-22.
+94. Vennix S, Pelzers L, Bouvy N, et al. Laparoscopic versus open total mesorectal
+excision for rectal cancer. Cochrane Database Syst Rev. 2014;(4):CD005200.
+95. Kuhry E, Schwenk WF, Gaupset R, et al. Long-term results of laparoscopic
+colorectal cancer resection. Cochrane Database Syst Rev. 2008;(2):CD003432.
+96. Schwenk W, Haase O, Neudecker J, et al. Short term benefits for laparoscopic
+colorectal resection. Cochrane Database Syst Rev. 2005;(3):CD003145. Review
+97. Watanabe T, Itabashi M, Shimada Y, et al. Japanese Society for Cancer of the
+Colon and Rectum (JSCCR) Guidelines 2014 for treatment of colorectal cancer.
+Int J Clin Oncol. 2015;20(2):207-39.
+Management of Colorectal Carcinoma
+98. Al-Asfoor A, Fedorowicz Z, Lodge M. Resection versus no intervention or other
+surgical interventions for colorectal cancer liver metastases. Cochrane Database
+Syst Rev. 2008;(2):CD006039.
+99. Tinmouth J, Kennedy E, Baron D, et al. A Quality Initiative of the Program in
+Evidence-Based Care (PEBC), Cancer Care Ontario (CCO) Guideline for
+Colonoscopy Quality Assurance in Ontario. 1966:21.
+100. Adams RB, Aloia TA, Loyer E, et al. Selection for hepatic resection of colorectal
+liver metastases: expert consensus statement. HPB (Oxford). 2013;15(2):91-103.
+101. van Mierlo KM, Schaap FG, Dejong CH, et al. Liver resection for cancer: New
+developments in prediction, prevention and management of postresectional liver
+failure. J Hepatol. 2016;65(6):1217-31.
+102. Cirocchi R, Trastulli S, Boselli C, et al. Radiofrequency ablation in the treatment
+of liver metastases from colorectal cancer. Cochrane Database Syst Rev.
+2012;6:CD006317.
+103. Health Technology Assessment Section (MaHTAS) MDD, Ministry of Health
+Malaysia. Selective Internal Radiation Therapy (SIRT) Using Yttrium-90
+Microspheres for Hepatocellular Carcinoma. 2016. (Technology Review)
+004/2016.
+104. Pfannschmidt J, Dienemann H, Hoffmann H. Surgical resection of pulmonary
+metastases from colorectal cancer: a systematic review of published series. Ann
+Thorac Surg. 2007;84(1):324-38.
+105. Dave RV, Pathak S, White AD, et al. Outcome after liver resection in patients
+presenting with simultaneous hepatopulmonary colorectal metastases. Br J
+Surg. 2015;102(3):261-8.
+106. Ansaloni L, Andersson RE, Bazzoli F, et al. Guidelines in the management of
+obstructing cancer of the left colon: consensus conference of the world society
+of emergency surgery (WSES) and peritoneum and surgery (PnS) society. World
+J Emerg Surg. 2010;5:29.
+107. Sagar J. Colorectal stents for the management of malignant colonic obstructions.
+Cochrane Database Syst Rev. 2011;(11):CD007378.
+108. Figueredo A, Coombes ME, Mukherjee S. Adjuvant therapy for completely
+resected stage II colon cancer. Cochrane Database Syst Rev. 2008;(3):CD005390.
+109. André T, Boni C, Navarro M, et al. Improved overall survival with oxaliplatin,
+fluorouracil, and leucovorin as adjuvant treatment in stage II or III colon cancer
+in the MOSAIC trial. J Clin Oncol. 2009;27(19):3109-16.
+110. Kuebler JP, Wieand HS, O'Connell MJ, et al. Oxaliplatin combined with weekly
+bolus fluorouracil and leucovorin as surgical adjuvant chemotherapy for stage II
+and III colon cancer: results from NSABP C-07. J Clin Oncol. 2007;25(16):2198-204.
+111. Kerr DJ, Gray R, McConkey C, et al. QUASAR Colorectal Cancer Study Group.
+Adjuvant chemotherapy with 5-fluorouracil, L-folinic acid and levamisole for
+patients with colorectal cancer: non-randomised comparison of weekly versus
+four-weekly schedules—less pain, same gain. Ann Oncol. 2000;11(8):947-55.
+112. Twelves C, Wong A, Nowacki MP, et al. Capecitabine as adjuvant treatment for
+stage III colon cancer. N Engl J Med. 2005;352(26):2696-704.
+113. Des Guetz G, Uzzan B, Morere JF, et al. Duration of adjuvant chemotherapy for
+patients with non-metastatic colorectal cancer. Cochrane Database Syst Rev.
+2010;(1):CD007046.
+114. Gunderson LL, Sosin H. Areas of failure found at reoperation (second or
+symptomatic look) following “curative surgery” for adenocarcinoma of the
+rectum. Cancer. 1974;34:1278.
+115. Rich T, Gunderson LL, Lew R, et al. Patterns of recurrence of rectal cancer after
+potentially curative surgery. Cancer. 1983;52(7):1317-29.
+116. Mendenhall MW, Million RR, Pfaff WW. Patterns of recurrence in adenocarcinoma
+of the rectum and rectosigmoid treated with surgery alone: implications in
+treatment planning with adjuvant radiation therapy. Int J Radiat Oncol Biol Phys.
+1983;9(7):977-85.
+Management of Colorectal Carcinoma
+117. van Gijn W, Marijnen CA, Nagtegaal ID, et al: Dutch Colorectal Cancer Group.
+Preoperative radiotherapy combined with total mesorectal excision for resectable
+rectal cancer: 12-year follow-up of the multicentre, randomised controlled TME
+trial. Lancet Oncol. 2011;12(6):575-82.
+118. Knijn N, Mogk SC, Teerenstra S, et al. Perineural Invasion is a Strong
+Prognostic Factor in Colorectal Cancer: A Systematic Review. Am J Surg Pathol.
+2016;40(1):103-12.
+119. Swedish Rectal Cancer Trial, Cedermark B, Dahlberg M, et al. Improved survival
+with preoperative radiotherapy in resectable rectal cancer. N Engl J Med.
+1997;336(14):980-7.
+120. Sauer R, Becker H, Hohenberger W, et al. Preoperative versus postoperative
+chemoradiotherapy for rectal cancer. N Engl J Med. 2004;351(17):1731-40.
+121. Breugom AJ, van Gijn W, Muller EW, et al. Adjuvant chemotherapy for rectal
+cancer patients treated with preoperative (chemo) radiotherapy and total
+mesorectal excision: a Dutch Colorectal Cancer Group (DCCG) randomized
+phase III trial. Ann Oncol. 2015;26(4):696-701.
+122. Bosset JF, Calais G, Mineur L, et al. Fluorouracil-based adjuvant chemotherapy
+after preoperative chemoradiotherapy in rectal cancer: long-term results of the
+EORTC 22921 randomised study. Lancet Oncol. 2014;15(2):184-90.
+123. Gérard JP, Conroy T, Bonnetain F, et al. Preoperative radiotherapy with or
+without concurrent fluorouracil and leucovorin in T3-4 rectal cancers: results of
+FFCD 9203. J Clin Oncol. 2006;24(28):4620-4625-5.
+124. Bujko K, Kepka L, Michalski W, et al. Does rectal cancer shrinkage induced by
+preoperative radio(chemo)therapy increase the likelihood of anterior resection?
+A systematic review of randomised trials. Radiother Oncol. 2006;80(1):4-12.
+125. Dosoretz DE, Gunderson LL, Hedberg S, et al. Preoperative irradiation for
+unresectable rectal and rectosigmoid carcinomas. Cancer. 1983;52(5):814
+126. Emami B, Miller E, Pilepich M, et al. Effect of preoperative irradiation on
+resectability of colorectal carcinomas. Int J Radiat Oncol Biol Phys. 1982;(8):1295
+127. Van Cutsem E, Cervantes A, Nordlinger B, et al. Metastatic colorectal cancer:
+ESMO Clinical Practice Guidelines for diagnosis, treatment and follow-up. Ann
+Oncol. 2014;25 Suppl 3:iii1-9.
+128. Palliative chemotherapy for advanced or metastatic colorectal cancer. Colorectal
+Meta-analysis Collaboration. Cochrane Database Syst Rev. 2000;(2):CD001545.
+129. de Gramont A, Bosset JF, Milan C, et al. Randomized trial comparing monthly
+low-dose leucovorin and fluorouracil bolus with bimonthly high-dose leucovorin
+and fluorouracil bolus plus continuous infusion for advanced colorectal cancer: a
+French intergroup study. J Clin Oncol. 1997;15(2):808-15.
+130. Douillard J, Cunningham D, Roth AD, et al. Irinotecan combined with fluorouracil
+compared with fluorouracil alone as first-line treatment for metastatic colorectal
+cancer: a multicentre randomised trial. Lancet. 2000;355(9209):1041-7.
+131. de Gramont AD, Figer A, Seymour M, et al. Leucovorin and fluorouracil with or
+without oxaliplatin as first-line treatment in advanced colorectal cancer. J Clin
+Oncol. 2000;18(16):2938-47.
+132. Tournigand C, André T, Achille E, et al. FOLFIRI followed by FOLFOX6 or the
+reverse sequence in advanced colorectal cancer: a randomized GERCOR study.
+J Clin Oncol. 2004;22(2):229-37.
+133. Nordlinger B, Sorbye H, Glimelius B, et al. Perioperative chemotherapy with
+FOLFOX4 and surgery versus surgery alone for resectable liver metastases
+from colorectal cancer (EORTC Intergroup trial 40983): a randomised controlled
+trial. Lancet. 2008;371(9617):1007-16.
+134. Van Cutsem E, Hoff PM, Harper P, et al. Oral capecitabine vs intravenous
+5-fluorouracil and leucovorin: integrated efficacy data and novel analyses from
+two large, randomised, phase III trials. Br J Cancer. 2004;90(6):1190-97.
+Management of Colorectal Carcinoma
+135. Saltz LB, Clarke S, Díaz-Rubio E, et al. Bevacizumab in combination with
+oxaliplatin-based chemotherapy as first-line therapy in metastatic colorectal
+cancer: a randomized phase III study. J Clin Oncol. 2008;26(12):2013-9.
+136. Cassidy J, Twelves C, Van Cutsem E, et al. First-line oral capecitabine therapy
+in metastatic colorectal cancer: a favorable safety profile compared with
+intravenous 5-fluorouracil/leucovorin. Ann Oncol. 2002;13(4):566-75.
+137. Hurwitz H, Fehrenbacher L, Novotny W, et al. Bevacizumab plus irinotecan,
+fluorouracil, and leucovorin for metastatic colorectal cancer. N Engl J Med.
+2004;350(23):2335-42
+138. Van Cutsem E, Köhne CH, Hitre E et al. Cetuximab and chemotherapy as initial
+treatment for metastatic colorectal cancer. N Engl J Med. 2009;360(14):1408-17.
+139. Tappenden P, Jones R, Paisley S, et al. Systematic review and economic
+evaluation of bevacizumab and cetuximab for the treatment of metastatic
+colorectal cancer. Health Technol Assess 2007;11(12):1-128, iii-iv.
+140. Goldstein DA, Chen Q, Ayer T, et al. First- and second-line bevacizumab in
+addition to chemotherapy for metastatic colorectal cancer: A United States–
+based cost-effectiveness analysis. J Clin Oncol. 2015;33(10):1112-8.
+141. Cameron MG, Kersten C, Vistad I, et al. Palliative pelvic radiotherapy of
+symptomatic incurable rectal cancer - a systematic review. Acta Oncol.
+2014;53(2):164-73.
+142. Meyerhardt JA, Mangu PB, Flynn PJ, et al. Follow-up care, surveillance protocol,
+and secondary prevention measures for survivors of colorectal cancer: American
+Society of Clinical Oncology clinical practice guideline endorsement. J Clin
+Oncol. 2013;31(35):4465-70.
+143. Meyerhardt JA, Heseltine D, Niedzwiecki D, et al. Impact of physical activity on
+cancer recurrence and survival in patients with stage III colon cancer: findings
+from CALGB 89803. J Clin Oncol. 2006;24(22):3535-41.
+144. Rock CL, Doyle C, Demark-Wahnefried W, et al. Nutrition and physical activity
+guidelines for cancer survivors. CA Cancer J Clin. 2012;62(4):243-74.
+145. Asano TK, McLeod RS. Non steroidal anti-inflammatory drugs (NSAID) and
+Aspirin for preventing colorectal adenomas and carcinomas. Cochrane Database
+Syst Rev. 2008;(2):CD004079.
+146. Cole BF, Logan RF, Halabi S, et al. Aspirin for the chemoprevention of
+colorectal adenomas: meta-analysis of the randomized trials. J Natl Cancer Inst.
+2009;101(4):256-66.
+147. Rostom A, Dubé C, Lewin G, et al; U.S. Preventive Services Task Force.
+Nonsteroidal anti-inflammatory drugs and cyclooxygenase-2 inhibitors for
+primary prevention of colorectal cancer: a systematic review prepared for the
+U.S. Preventive Services Task Force. Ann Intern Med. 2007;146(5):376-89.
+148. Jin H, Leng Q, Li C. Dietary flavonoid for preventing colorectal neoplasms.
+Cochrane Database Syst Rev. 2012;8:CD009350.
+149. Weingarten MA, Zalmanovici A, Yaphe J. Dietary calcium supplementation for
+preventing colorectal cancer and adenomatous polyps. Cochrane Database
+Syst Rev. 2010;(1):CD003548.
+150. Asano T, McLeod RS. Dietary fibre for the prevention of colorectal adenomas
+and carcinomas. Cochrane Database Syst Rev. 2002;(2):CD003430. Review.
+Update in: Cochrane Database Syst Rev. 2017;1:CD003430.
+Management of Colorectal Carcinoma
+Appendix 1
+EXAMPLE OF SEARCH STRATEGY
+1.
+COLORECTAL CANCER/
+2.
+(colorectal or colon* or rect*) adj1 (carcinoma* or tumo?r* or
+cancer* or neoplasm*)).tw.
+3.
+1 or 2
+4.
+MASS SCREENING/
+5.
+(screen* adj1 mass).tw.
+6.
+screen*.tw.
+7.
+EARLY DETECTION OF CANCER/
+8.
+(cancer adj2 (early detection or early diagnosis)).tw.
+9.
+(cancer adj1 (screening or screening test*)).tw.
+10. ((early detection or early diagnosis) adj2 cancer).tw.
+11. (test* adj2 cancer screening).tw.
+12. 4 or 5 or 6 or 7 or 8 or 9 or 10 or 11
+13. OCCULT BLOOD/
+14. (occult adj1 blood).tw.
+15. ((Stool or f?ecal or f?eces) adj1 test*).tw.
+16. GUAIAC/
+17. Guaiac.tw.
+18. IMMUNOLOGIC TESTS/
+19. (diagnos* adj1 immunologic*).tw.
+20. immunodiagnos*.tw.
+21. (test* adj1 immunologic*).tw.
+22. 13 or 14 or 15 or 16 or 17 or 18 or 19 or 20 or 21
+23. 3 and 12 and 22
+24. limit 23 to (English language and humans and "all adult (19 plus
+years)" and last 20 years)
+Management of Colorectal Carcinoma
+Appendix 2
+CLINICAL QUESTIONS
+1.
+What is the appropriate age to start screening for CRC in healthy/
+general population?
+2.
+What is the appropriate interval for screening for CRC in healthy/
+general population?
+3.
+What are the effective and safe screening modalities for CRC in
+general population and risk group?
+4.
+Who are at risk of developing CRC and what are the effective
+surveillance methods for moderate and high risk groups?
+5.
+Who should be offered genetic counselling and/or genetic testing
+in CRC?
+6.
+What are the safe and effective imaging techniques in diagnosing
+and staging investigations for CRC?
+7.
+Does inclusion of pathological parameters in histopathological
+report important in determining the prognosis of CRC?
+8.
+Does template proforma increase the rate of inclusion of minimum
+criteria needed to ensure completeness of the CRC resection
+specimen reporting?
+9.
+What are the effective and safe pre-operative preparations of
+patients with CRC?
+10. What are the safe and effective surgical techniques in CRC?
+11. What
+are
+the
+safe
+and
+effective
+neoadjuvant/adjuvant
+chemoradiotherapy in rectal and colon cancer and its indications?
+12. What are the safe and effective chemotherapy in CRC?
+13. What are the safe and effective measures to prevent CRC in
+general population?
+14. What is the optimum strategy for follow up of CRC patients?
+Management of Colorectal Carcinoma
+Appendix 3
+RADIOLOGICAL IMAGES OF COLORECTAL CARCINOMA
+Figure 1. Normal anatomy of rectum on MRI. The mesorectal fat has high signal
+intensity on both T1- and T2-weighted images. The mesorectal fat is surrounded by
+the mesorectal fascia, which is seen as a fine line of low signal intensity (arrows).
+High resolution T2-images are needed to clearly identify the mesorectal fat. (Source:
+Rectal Cancer - MR staging 2.0, available at http://www.radiologyassistant.nl/en/
+p56195b237699d/rectal-cancer-mr-staging-20.html)
+Figure 2. At initial diagnosis of CRC, sagittal (A) and coronal (B) PET/CT images
+indicate increased metabolic activity of malignant primary (arrows); transaxial
+CT (C) and PET/CT (D) images indicate synchronous bone and liver metastases
+(arrows), leading to change from curative resection to systemic chemotherapy; and
+transaxial CT (E) and PET/CT (F) images at another level indicate primary tumour.
+(Source: Buck AK, Herrmann K, Stargardt T, et al. Economic evaluation of PET and
+PET/CT in oncology: evidence and methodologic approaches. J Nucl Med Technol.
+2010;38(1):6-17)
+Management of Colorectal Carcinoma
+Figure 3. A case of carcinoma rectum post APR, nine months post-surgery with
+increasing CEA. (A) MIP image of the PET scan shows a hypermetabolic focus in
+the pelvis (arrow) (B) Fused PET/CT image shows FDG-avid pre-sacral mass (arrow)
+suspicious for recurrent disease (C) CT image shows a pre-sacral mass. Indeterminate
+whether it is benign fibrosis or disease recurrence. Biopsy confirmed recurrence of
+adenocarcinoma. (Source: Agrawal A, Rangarajan V. Appropriateness criteria of FDG
+PET/CT in oncology. Indian J Radiol Imaging. 2015;25(2):88.)
+Figure 4. Solitary 16 mm pedunculated caecal polyp in a 55-year-old man at average risk
+for colorectal neoplasia. Panel A shows a schematic map of the air-filled colon generated
+from the computed tomographic (CT) scan obtained with the patient in the prone position.
+The green line is the center line that is automatically generated for virtual navigation; the
+red dot is a “bookmark” indicating the location of the polyp within the caecum. Panel
+B, a 3D view from the endoluminal “fly-through” generated from the same CT scan,
+shows the caecal polyp (P) and the appendiceal orifice (arrow) in the background.
+This display was used for the primary detection of polyps. Panel C is an axial, twodimensional CT image obtained with the patient in the prone position; it shows the polyp
+(arrow) on a stalk within the air-filled caecum. The residual luminal fluid is opacified by
+oral contrast agent, which enables the software program to “cleanse” the 3D image.
+This 2D display was used for the confirmation of suspected findings on the 3D view.
+Panel D is a digital photograph from optical colonoscopy performed immediately after CT
+virtual colonoscopy; it shows the caecal polyp (P) and the appendiceal orifice (arrow).
+Histologic examination revealed that the polyp was adenomatous. (Source: Pickhardt
+PJ, Choi JR, Hwang I, et al. Computed tomographic virtual colonoscopy to screen for
+colorectal neoplasia in asymptomatic adults. N Engl J Med. 2003;349(23):2191-200)
+Management of Colorectal Carcinoma
+Appendix 4
+WHO CLASSIFICATION OF COLORECTAL CARCINOMA 2010 AND
+TNM CLASSIFICATION OF TUMOURS OF THE
+COLON AND RECTUM (7TH EDITION)
+Source: Edge SB, Compton CC. The American Joint Committee on Cancer: the 7th
+edition of the AJCC cancer staging manual and the future of TNM. Ann Surg
+Oncol. 2010;17(6):1471-4.
+WHO Classification of Colorectal Carcinoma 201072
+•
+Adenocarcinoma
+o
+Cribriform comedo-type adenocarcinoma
+o
+Medullary carcinoma
+o
+Micropapillary carcinoma
+o
+Mucinous adenocarcicoma
+o
+Serrated adenocarcinoma
+o
+Signet ring cell carcinoma
+•
+Adenosquamous carcinoma
+•
+Spindle cell carcinoma
+•
+Squamous cell carcinoma
+•
+Undifferentiated carcinoma
+TNM Classification of Tumours of the Colon and Rectum (7th Edition)
+T - Primary tumour
+M - Distant metastasis
+TX
+Primary tumour cannot be assessed
+M0
+No distant metastasis
+T0
+No evidence of primary tumour
+M1
+Distant metastasis
+Tis
+Carcinoma in situ: intraepithelial or invasion
+of lamina propria
+M1a
+Metastasis confined to one organ
+M1b
+Metastasis in more than one organ or
+T1
+Tumour invades submucosa
+the peritoneum
+T2
+Tumour invades muscularis propria
+T3
+Tumour invades subserosa or into nonperitonealized pericolic or perirectal tissues
+Stage Grouping
+T4
+Tumour perforates visceral peritoneum
+and/or directly invades other organs or
+structures
+Stage
+T
+N
+M
+Stage 0
+Tis
+N0
+M0
+Stage I
+T1, T2
+N0
+M0
+Stage II
+T3, T4
+N0
+M0
+Stage IIA
+T3
+N0
+M0
+N - Regional lymph nodes
+Stage IIB
+T4a
+N0
+M0
+NX
+Regional lymph nodes cannot be assessed
+Stage IIC
+T4b
+N0
+M0
+Stage III
+Any T
+N1, N2
+M0
+Stage IIIA
+T1, T2
+N1
+M0
+T1
+N2a
+M0
+Stage IIIB
+T3, T4a
+N1
+M0
+T2, T3
+N2a
+M0
+T1, T2
+N2b
+M0
+Stage IIIC
+T4a
+N2a
+M0
+T3, T4a
+N2b
+M0
+T4b
+N1, N2
+M0
+Stage IVA
+Stage IVB
+Any T
+Any T
+Any N
+Any N
+M1a
+M1b
+T4a
+Tumour perforates visceral peritoneum
+T4b
+Tumour directly invades other organ or
+structures
+N0
+No regional lymph-node metastasis
+N1
+Metastasis in 1 to 3 regional lymph nodes
+N1a
+Metastasis in 1 regional lymph node
+N1b
+Metastasis in 2 to 3 regional lymph nodes
+N1c
+Tumour deposit (s), i.e. satellites, in the
+subserosa, or in non-peritonealized pericolic
+or perirectal soft tissue without regional
+lymph-node metastasis
+N2
+N2a
+Metastasis in 4 or more regional lymph
+nodes
+Metastasis in 4 to 6 regional lymph nodes
+N2b
+Metastasis in 7 or more regional lymph
+nodes
+Management of Colorectal Carcinoma
+Appendix 5
+HISTOPATHOLOGY PROFORMA FOR COLORECTAL CARCINOMA
+PERKHIDMATAN PATOLOGI
+HOSPITAL ___________________________________
+COLORECTAL CANCER HISTOPATHOLOGY WORKSHEET
+Name:
+HPE No:
+Specimen container labelled as:
+1.
+GROSS DESCRIPTION
+1.1 Type of specimen:
+Total colectomy
+Subtotal colectomy
+Right hemicolectomy
+Anterior resection (AR)
+Left hemicolectomy
+Hartman's procedure
+Sigmoid colectomy
+Abdominoperineal excision (APE)
+Other (specify): …..................
+1.2 Bowel length:
+1.3 Site of tumour:
+Caecum
+Asc. colon
+Hepatic
+flexure
+Transv.
+colon
+Splenic
+flexure
+Desc. colon
+Sigmoid
+colon
+Rectosigmoid
+Rectum
+Other comment(s):
+1.4 Maximum tumour diameter:
+1.5 Gross subtype (optional):
+Fungating
+Ulcerative
+Infiltrative
+Ulcero-fungating
+1.6 Margins: - Tumour to proximal / nearer (if untagged) longitudinal margin: …………... mm.
+-
+Tumour to distal / opposite (if untagged) longitudinal margin: ……………. mm.
+1.7 Tumour perforation (pT4):
+No
+Yes
+1.8 For rectal tumour:
+•
+Relation to peritoneal reflection:
+above
+astride
+below
+•
+Plane of surgical excision (Total mesorectal excision (TME) for AR and APE):
+Mesorectal fascia (Complete)
+Intramesorectal (Partially Complete)
+Muscularis propria (Incomplete)
+•
+Distance from dentate line (APE specimens): ………………… mm
+•
+Plane of resection of the sphincters (APE specimens):
+Extralevator
+Sphincteric
+Intrasphincteric
+1.9 Polyps:
+No
+Yes (specify number, site, sessile or pedunculated)
+1.10 No. of lymph nodes retrieved: …………. (...….. mm to ……... mm in diameter).
+1.11 Additional comments:
+1.12 Tissue sampling:
+Grossed by:
+Management of Colorectal Carcinoma
+2. HISTOLOGY
+2.1 Microscopic description:
+2.2 Type:
+Adenocarcinoma (NOS/usual-type);
+wellmod-
+poorly-differentiated
+Other (specify e.g. mucinous): _____________________
+2.3 Additional features (optional/non-core data items):
+• Lymphatic invasion
+No
+Yes
+• Perineural invasion
+No
+Yes
+• Leading edge of tumour
+Expansile
+Infiltrative
+Mixed
+• Extracellular mucin (>10% but <50%)*
+No
+Yes
+• Intratumoural lymphocytic infiltrate**
+None
+Yes: (Mild / Marked)
+• Peritumoural lymphoid aggregates***
+None
+Yes: (Mild / Marked)
+Note (guide for pathologist; not included in final report):
+*Not applicable if tumour is mucinous carcinoma
+**Tumour-infiltrating lymphocytes: Mild: 3-15/h.p.f (40x)
+Marked: >15/h.p.f (40x)
+***Peritumoural lymphoid aggregates: Mild: Occasional lymphoid aggregates
+Marked: 2 aggregates with germinal centers per tissue section
+2.4 Local invasion (TNM 7th edition)
+Submucosa (pT1)
+Muscularis propria (pT2)
+Beyond muscularis propria (pT3)
+Tumour penetrates the visceral peritoneal surface (pT4a)
+Tumour directly invades or is adherent to other organs/structures (pT4b)
+Minimal or no regression (extensive residual tumour)
+2.5 Maximum distance of spread beyond muscularis propria (NA if intramural tumour): ………… mm
+2.6 Response to pre-operative (neoadjuvant) therapy:
+Not applicable (pre-op therapy not given/not known to be given)
+No viable tumour cells (fibrosis or mucus lakes only)
+(Entire tumour site and/or scarred area had been submitted for histology)
+Single cells or scattered small groups of cancer cells
+Residual cancer outgrown by fibrosis
+2.7 Tumour involvement of margins:
+• Proximal doughnut
+No
+Yes
+NA
+NS
+• Distal doughnut
+No
+Yes
+NA
+NS
+• Proximal / Nearer longitudinal margin
+No (………mm)
+Yes
+• Distal / Opposite longitudinal margin
+No (………mm)
+Yes
+• Circumferential margin
+No (………mm)
+Yes
+NA
+Note: Circumferential margin of 1 mm is considered involved
+NS – Not submitted by pathologist
+Management of Colorectal Carcinoma
+2.8 Metastatic spread:
+No. of lymph nodes identified: ……………
+• No. of involved lymph nodes: …………..... (pN …………. )
+[pN1a: 1 node; pN1b: 2-3 nodes; pN2a: 4-6 nodes; pN2b: 7+ nodes involved]
+• Highest
+node involved:
+No
+Yes (Dukes C2)
+• Tumour deposits
+No
+Yes (No: ……..)
+[pN1c: Tumour deposits in subserosa/mesentery/pericolic/perirectal tissues without nodal metastasis]
+• Biopsy-confirmed distant metastasis
+NA
+No
+Yes - Site(s)
+[pM1a: Single site; pM1b: Multiple sites or peritoneal surface]
+2.9 Deepest level of venous invasion:
+None
+Submucosal
+Intramural
+Extramural
+2.10 Separate abnormalities:
+No
+Yes : - Polyps (types(s), number, size) / polyposis (specify type) / UC / CD/ Diverticulosis
+- Synchronous carcinoma (separate proforma for each carcinoma)
+2.11 Complete resection (by >1 mm) at all surgical margins:
+Yes (R0)
+No (R1 - microscopic margin involvement)
+No (R2 - macroscopic margin involvement)
+2.12 TNM (7th Edition 2009): pT…… pN…….. pM……..
+OR
+ypT…… ypN…….. ypM……..
+Note: 1. pMX does not exist
+2. pM0 does not exist (except at autopsy)
+3. pM1: Distant metastasis proven microscopically (if suspected metastatic site is negative on biopsy, then it becomes cM0 and NOT pM0)
+For Malaysian National Cancer Patient Registry - Colorectal Cancer:
+- TNM (5th Edition):
+pT…… pN…….. pM……..
+OR ypT…… ypN…….. ypM……..
+2.13 Modified Dukes stage:
+A (Growth limited to wall/muscularis propria, nodes negative)
+B (Growth beyond muscularis propria, nodes negative)
+C1 (Nodes positive, highest node negative)
+C2 (Highest node positive)
+D (Histology-proven distant metastasis)
+NA (No tumour or no lymph nodes identified)
+2.14 Mismatch repair (MMR) immunohistochemistry (if applicable/available)
+Not performed
+Performed:
+MLH 1:
+Normal
+Equivocal
+Loss of protein expression
+MLH 2:
+Normal
+Equivocal
+Loss of protein expression
+MLH 6:
+Normal
+Equivocal
+Loss of protein expression
+PMS 2:
+Normal
+Equivocal
+Loss of protein expression
+3. DIAGNOSTIC SUMMARY
+(Tumour type, differentiation, staging, margins and if present, venous invasion)
+Management of Colorectal Carcinoma
+Appendix 6
+CHEMOTHERAPY DRUGS AND COMMON/IMPORTANT SIDE EFFECTS
+Sources:
+• Xeloda® (capecitabine) [package insert]. South San Francisco, CA: Hoffman-La Roche, Inc; 2015.
+• Micromedex Solutions, Truven Health Analytics Inc. MIMS Gateway Service Portal (Available at http://www.mimsgateway.com/Malaysia/Online.as)
+• Camptosar ® (irinotecan) [package insert]. New York, NY: Pfizer Inc; 2014.
+• Eloxatin ® (oxaliplatin) [package insert]. Bridgewater, NJ: Sanofi-Aventis U.S. LLC; 2011.
+• Ministry of Health & Ministry of Higher Education Malaysia. Systemic Therapy Protocol. Putrajaya: MoH & MoHE; 2016
+Hand-foot syndrome=the palms of the hands and soles of the feet become dry, red, numb, tingling, with/without swelling, blistering, moist desquamation
+or pain
+Medication
+Common and important side effects
+Comments
+Capecitabine
+• Diarrhoea, nausea, vomiting, mucositis, abdominal pain
+• Hand-foot syndrome
+• Fatigue/weakness
+• Hyperbilirubinaemia
+• Cardiotoxicity - uncommon but can be fatal
+• Use cautiously in patients with history of heart disease
+• Dose reduction is required in patients with moderate renal
+dysfunction
+• Monitor for hand-foot syndrome
+Fluorouracil (5-FU)
+• Gastrointestinal (diarrhoea, stomatitis, oesophagitis, heart burn)
+• Blood (anaemia, thrombocytopaenia, neutropaenia)
+• Cardiovascular (angina pectoris, myocardial infarction, arrhythmia, acute
+pulmonary oedema)
+• Dermatological (alopecia, dermatitis, hand-foot syndrome)
+• Prophylactic anti-emetics and corticosteroids should be given
+• Use cautiously in patients with history of heart disease
+• Monitor for hand-foot syndrome
+Irinotecan
+• Gastrointestinal (nausea, vomiting, diarrhoea, abdominal pain, anorexia,
+mucositis)
+• Blood (anaemia, thrombocytopaenia, neutropaenia)
+•
+Fatigue/weakness
+• Prophylactic anti-emetics for moderate emetic risk should be given
+• In early onset diarrhoea and cholinergic symptoms, subcutaneous
+atropine can be used (prophylactic atropine is required in
+subsequent cycles)
+Leucovorin (LV)/calcium
+folinate/folinic acid
+• Allergic reaction, rash, pruritus, erythema, urticarial, nausea, vomiting, pyrexia
+Oxaliplatin
+• Gastrointestinal (nausea, vomiting, mucositis, diarrhoea, hiccup)
+• Blood (anaemia, thrombocytopaenia, neutropaenia)
+• Peripheral sensory neuropathy
+• Pharyngolaryngeal dysesthesia (difficulty in breathing or swallowing seen shortly
+after drug infusion)
+• Liver (increase in transaminases, alkaline phosphatase)
+• Allergic reaction
+• Prophylactic anti-emetics for moderate emetic risk should be given
+• Allergic reactions: Monitor for development of rash, urticaria,
+erythema, pruritis, bronchospasm and hypotension
+• Neuropathy: Reduce the dose or discontinue if necessary
+Management of Colorectal Carcinoma
+Appendix 7
+POTENTIAL INDICATIONS FOR POST-OPERATIVE CCRT IF
+PRE-OPERATIVE CCRT NOT GIVEN
+CRM=circumferential
+resection
+margin;
+LPLN=lateral
+pelvic
+lymph
+node;
+MRF=mesorectal fascia
+Source: Glynne-Jones R, Wyrwicz L, Tiret E, et al. Rectal cancer: ESMO Clinical
+Practice Guidelines for diagnosis, treatment and follow-up. Ann Oncol.
+2017;28(suppl_4):iv22-iv40.
+Sufficient
+• CRM ≤1 mm
+• pT4b
+• pN2 extracapsular spread close to MRF
+• Extranodal deposits (N1c)
+• pN2 if poor mesorectal quality/defects
+• pN2 low tumours within 4 cm of anal verge
+(risk of involved LPLN)
+• Extensive extramural vascular
+invasion/perineural invasion close to MRF
+• pN2 low tumours within 4 cm of anal verge
+(risk of involved LPLN)
+• CRM 1-2 mm
+• Circumferential obstructing tumours
+Borderline sufficient
+• pT1/pT2
+• pT3
+• CRM >2 mm
+• pT4a above peritoneal reflection
+• pN1
+• If good quality smooth intact mesorectum
+Insufficient and
+unnecessary
+Sufficient and necessary
+Management of Colorectal Carcinoma
+LIST OF ABBREVIATIONS
+APR
+abdominoperineal resection
+ASA
+acetylsalicylic acid
+AUC
+area under the curve
+BE
+barium enema
+CEA
+carcinoembryonic antigen
+CC
+conventional colonoscopy
+CCE
+colon capsule endoscopy
+CCRT
+concurrent chemoradiotherapy
+CI
+confidence interval
+CPG
+clinical practice guidelines
+CRC
+colorectal carcinoma
+CRM
+circumferential resection margins
+CRLMs
+colorectal liver metastases
+CT
+computed tomography
+CTC
+computed tomographic colonoscopy
+DFS
+disease-free survival
+DG
+Development Group
+DRM
+distal resection margin
+EGFR
+epidermal growth factor receptor
+FAP
+familial adenomatous polyposis
+FDG PET/CT
+18F-fluorodeoxyglucose Positron Emission Tomography CT
+FDR
+first-degree relatives
+FRR
+familial relative risk
+Gd-EOB-DTPA
+gadolinium-ethoxybenzyl-diethylenetriaminepentaacetic acid
+Gy
+gray
+HNPCC
+hereditary non-polyposis colorectal cancer
+HPE
+histopathological examination
+HR
+hazard ratio
+HTA
+health technology assessment
+IBD
+inflammatory bowel disease
+iFOBT/IFOBT
+immunofaecal occult blood test
+IHC
+immunohistochemistry
+LV
+leucovorin
+MaHTAS
+Malaysian Health Technology Assessment Section
+MAP
+MUTYH-associated polyposis
+mCRC
+metastatic colorectal carcinoma
+MoH
+Ministry of Health
+MMR
+mismatch repair
+MRI
+magnetic resonance imaging
+NSAIDs
+non-steroidal anti-inflammatory drugs
+NICE
+National Institute for Health and Clinical Excellence
+OR
+odds ratio
+OS
+overall survival
+PFS
+progression-free survival
+RC
+Review Committee
+RCT
+randomised controlled trial
+RFA
+radiofrequency ablation
+RR
+relative risk
+RRR
+relative risk ratio
+RT
+radiotherapy
+Management of Colorectal Carcinoma
+ACKNOWLEDGEMENT
+The members of CPG DG would like to express their gratitude and
+appreciation to the following for their contributions:
+• Panel of external reviewers who reviewed the draft
+• Technical Advisory Committee of CPG for their valuable input and
+feedback
+• Dr. Noor Aishah Mohd Yussof, Medical Officer
+• Mr. Mohd. Tholib Ibrahim, Information Specialist of MaHTAS
+• Ms. Noormah Darus, Pharmacist of MaHTAS
+• Dr. Umarani Ann Ranjini A/P Sivarajan, Clinical Radiologist
+• Dr. Vaishnavi A/P Jayasingam, Clinical Oncologist, Hospital
+Kuala Lumpur
+• Dr. Prabhu Ramasamy, General & Colorectal Surgeon, LohGuanLye
+Specialists Centre, Pulau Pinang
+• All those who have contributed directly or indirectly to the
+development of the CPG
+DISCLOSURE STATEMENT
+The panel members of both Development Group and Review Committee
+had completed disclosure forms. None held shares in pharmaceutical
+firms or acts as consultants to such firms. (Details are available upon
+request from the CPG Secretariat)
+SOURCE OF FUNDING
+The development of the CPG on Management of Colorectal Carcinoma
+was supported financially in its entirety by the MoH and the printing of
+the CPG is sponsored by the Malaysian Society of Colorectal Surgeons,
+Malaysian Oncological Society and Digestive Health Malaysia.
+SDR
+second-degree relatives
+SIGN
+Scottish Intercollegiate Guidelines Network
+TDR
+third-degree relatives
+TME
+total mesorectal excision
+TNM
+Tumour-Node-Metastasis
+UC
+ulcerative colitis
+VC
+virtual colonoscopy
+vs
+versus
+VTE
+venous thromboembolism
+WHO
+World Health Organization
+5-FU
+fluorouracil
+Management of Colorectal Carcinoma

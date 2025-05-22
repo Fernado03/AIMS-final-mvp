@@ -1,0 +1,4293 @@
+~
+~ “MANAGEMENT.Q
+Management of Obstructive Sleep Apnoea
+Published by:
+Malaysian Health Technology Assessment Section (MaHTAS)
+Medical Development Division, Ministry of Health Malaysia
+Level 4, Block E1, Precinct 1
+Federal Government Administrative Centre
+62590 Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is MaHTAS. Content may be
+reproduced in any number of copies and in any format or medium
+provided that a copyright acknowledgement to MaHTAS is included and
+the content is not changed, not sold, nor used to promote or endorse
+any product or service, and not used in an inappropriate or misleading
+context.
+e ISBN: 978-967-2887-57-7
+Available on the following websites:
+http://www.moh.gov.my
+http://www.acadmed.org.my
+https://sleepsocietymalaysia.org
+https://mpaeds.my
+Also available as an app for Android and IOS platforms: MyMaHTAS
+STATEMENT OF INTENT
+This clinical practice guideline (CPG) is meant to be a guide for
+clinical practice, based on the best available evidence at the time of
+development. The guideline should not override the responsibility of the
+practitioners to make decisions appropriate to the circumstances of the
+individual patient. This should be done in consultation with the patients
+and their families or guardians, taking into account the management
+options available locally.
+Management of Obstructive Sleep Apnoea
+UPDATING THE CPG
+This guideline was approved in 2022 and will be reviewed in a minimum
+period of four years (2026) or sooner if there is a need to do so. When it
+is due for updating, the Chairperson of the CPG or National Advisor of
+the related specialty will be informed about it. A discussion will be done
+on the need for a revision including the scope of the revised CPG. A
+multidisciplinary team will be formed and the latest systematic review
+methodology used by MaHTAS will be employed. Every care is taken
+to ensure that this publication is correct in every detail at the time of
+publication. However, in the event of errors or omissions, corrections
+will be published in the web version of this document, which is the
+definitive version at all times. This version can be found on the websites
+mentioned above.
+Management of Obstructive Sleep Apnoea
+TABLE OF CONTENTS
+No.
+Title
+Page
+Levels of Evidence and Formulation of Recommendation
+i
+Key Recommendations
+ii
+Guidelines Development and Objectives
+v
+Development Group
+viii
+Review Committee
+x
+External Reviewers
+xi
+Algorithm 1. Management of Obstructive Sleep Apnoea
+xiii
+in Adults
+Algorithm 2. Surgical Treatment in Adults with Obstructive
+xiv
+Sleep Apnoea
+Algorithm 3. Management of Obstructive Sleep Apnoea
+xv
+in Children
+1.
+INTRODUCTION
+1
+2.
+EPIDEMIOLOGY, RISK FACTORS AND CO-MORBIDITIES
+2
+2.1 Epidemiology and Risk Factors
+2
+2.2 Medical complications
+2
+3.
+OBSTRUCTIVE SLEEP APNOEA IN ADULTS
+4
+3.1 Screening
+4
+3.2 Diagnosis
+6
+3.3
+Treatment
+10
+a. Weight Management and Lifestyle Modification
+10
+b. Positive Airway Pressure Therapy
+11
+c. Surgery
+14
+d. Maxillomandibular advancement
+17
+e. Adjunctive Therapy
+19
+f.
+Bariatric Surgery
+22
+3.4
+General Principles of Perioperative Management of
+22
+Suspected and Confirmed OSA
+a. Preoperative Management of Suspected
+22
+and Confirmed OSA
+b. Intraoperative Management of Suspected
+23
+and Confirmed OSA
+c. Postoperative Management of Suspected
+25
+and Confirmed OSA
+3.5 Monitoring and Follow-up
+27
+3.6 Referral
+27
+a. Referral for Sleep Medicine Services
+27
+b. Referral Criteria for Surgical Intervention
+Management of Obstructive Sleep Apnoea
+4.
+OBSTRUCTIVE SLEEP APNOEA IN CHILDREN
+29
+4.1
+Epidemiology and Risk Factors
+29
+4.2
+Diagnosis
+30
+4.3 Airway Assessment
+32
+4.4 Treatment
+32
+a. Pharmacotherapy
+32
+b. Surgery
+33
+c. Continuous positive airway pressure
+34
+d. Adjunctive therapy
+35
+4.5 Perioperative Management
+36
+a. Preoperative assessment
+36
+b. Intraoperative management
+37
+c. Postoperative care
+37
+4.6 Monitoring and follow-up
+38
+5.
+SPECIAL GROUP
+40
+5.1 Pregnancy
+40
+5.2 Craniofacial Anomalies
+41
+5.3 Down Syndrome
+43
+5.4 Obesity Hypoventilation Syndrome
+44
+6.
+IMPLEMENTING THE GUIDELINES
+46
+6.1 Facilitating and limiting factors
+46
+6.2 Potential Resource Implications
+46
+6.3 Clinical Audit Indicators
+47
+REFERENCES
+48
+Appendix 1 Example of Search Strategy
+57
+Appendix 2 Clinical Questions
+58
+Appendix 3 Modified Mallampati
+59
+Appendix 4 Tonsillar Grading
+60
+Appendix 5 Berlin Questionnaire
+61
+Appendix 6 STOP-BANG Questionnaire (English version) 62
+Appendix 7 STOP-BANG Questionnaire (Malay version)
+63
+Appendix 8 Epworth Sleepiness Scale
+65
+Appendix 9 ASA Classification
+66
+Appendix 10 Paediatric Sleep Questionnaire (English version) 68
+Appendix 11 Paediatric Sleep Questionnaire (Malay version) 69
+Appendix 12 Mechanism of Airway Obstruction and
+70
+Principle of Management in Children
+TABLE OF CONTENTS
+No.
+Title
+Page
+Management of Obstructive Sleep Apnoea
+List of Abbreviations
+72
+Acknowledgement
+74
+Disclosure Statement
+74
+Source of Funding
+74
+TABLE OF CONTENTS
+No.
+Title
+Page
+Management of Obstructive Sleep Apnoea
+i
+LEVELS OF EVIDENCE
+SOURCE: US / CANADIAN PREVENTIVE SERVICES TASK FORCE 2001
+FORMULATION OF RECOMMENDATION
+In line with current development in CPG methodology, the CPG Unit of
+MaHTAS is in the process of adapting Grading Recommendations,
+Assessment, Development and Evaluation (GRADE) in its work
+process. The quality of each retrieved evidence and its effect size
+is carefully assessed/reviewed by the CPG Development Group.
+In formulating the recommendations, overall balances of the
+following aspects are considered in determining the strength of the
+recommendations:-
+• overall quality of evidence
+• balance of benefits versus harms
+• values and preferences
+• resource implications
+• equity, feasibility and acceptability
+Level
+I
+II-1
+II-2
+II-3
+III
+Study design
+Evidence from at least one properly randomised controlled trial
+Evidence obtained from well-designed controlled trials without
+randomisation
+Evidence obtained from well-designed cohort or case-control
+analytic studies, preferably from more than one centre or
+group
+Evidence from multiple time series with or without intervention;
+dramatic results in uncontrolled experiments (such as the
+results of the introduction of penicillin treatment in the 1940s)
+could also be regarded as this type of evidence
+Opinions of respected authorities based on clinical experience;
+descriptive studies and case reports; or reports of expert
+committees
+Management of Obstructive Sleep Apnoea
+ii
+KEY RECOMMENDATIONS
+The following recommendations were highlighted by the CPG
+Development Group as the key clinical recommendations that should
+be prioritised for implementation.
+OBSTRUCTIVE SLEEP APNOEA (OSA) IN ADULTS
+Screening
+• STOP-BANG* Questionnaire should be used for screening of adults
+with clinical suspicion of OSA.
+• Epworth Sleepiness Scale (ESS) may be used to assess daytime
+sleepiness.
+* STOP - Snoring, Tiredness, Observed apnoea and high blood
+Pressure
+BANG - BMI, Age, Neck circumference and Gender
+Diagnosis
+• OSA should be diagnosed using polysomnography (PSG) either
+level 1, 2 or 3.
+• In patient with suspected OSA, the PSG should be performed within
+six month of initial consultation.
+ Scoring of PSG should be performed by trained medical personnel
+and its interpretation should be verified by trained specialists.
+Treatment
+• Lifestyle intervention for weight reduction should be advocated in
+OSA.
+• Positive airway pressure (PAP) therapy should be offered to patients
+with OSA upon diagnosis especially in moderate to severe OSA.
+ Nasal mask is the preferred interface.
+• Upper airway surgery may be considered in selected group of OSA
+patients.
+ A follow-up PSG may be considered three months after surgery.
+• Maxillomandibular advancement may be considered in certain
+patients with moderate to severe OSA.
+• Mandibular advancement appliance may be considered for adult
+patients with OSA.
+ The preferred design should be tailored to the patient’s condition.
+• In obese OSA patients (body mass index ≥35 kg/m2), bariatric
+surgery may be considered.
+Management of Obstructive Sleep Apnoea
+iii
+General Principles of Perioperative Management of Suspected
+and Confirmed OSA
+• Patients who are at risk of OSA should be screened for OSA
+preoperatively.
+ The preferred screening tool is STOP-BANG.
+• Patient with or suspected high risk of OSA should be monitored
+closely postoperative.
+• Hospitals should have suitable positive airway pressure devices
+available for perioperative use or ensure patients with OSA bring
+their own device to the hospital.
+Referral
+• Patients with clinical suspicion of OSA with or without cardiometabolic risk factors and STOP-BANG score ≥3 should be referred
+for diagnostic sleep test.
+OBSTRUCTIVE SLEEP APNOEA IN CHILDREN
+Diagnosis
+• Paediatric Sleep Questionnaire (PSQ) should be used as a screening
+tool for OSA in children.
+• PSG level 1 should be considered for diagnosis of OSA in this group
+especially those at risk.
+ If it is not available, overnight pulse oximetry may be used as an
+alternative diagnostic tool.
+Treatment
+• Oral montelukast and/or nasal corticosteroids may be considered in
+children with OSA.
+• Adenotonsillectomy (AT) is the treatment of choice in children with
+OSA due to adenotonsillar hypertrophy.
+ In those with post-AT residual disease, upper airway and multilevel
+obstruction should be reassessed and manage accordingly.
+• Continuous positive airway pressure (CPAP) should be offered to
+children with OSA if they have persistent symptoms or signs after
+surgery or in whom surgery is contraindicated.
+ Nasal CPAP is the preferred option
+ CPAP should be managed by experienced and skilled
+multidisciplinary clinicians
+Management of Obstructive Sleep Apnoea
+Monitoring and Follow-up
+• Children with OSA especially the high-risk group should be followedup by multidisciplinary team trained in sleep medicine.
+• Children with OSA who require long-term use of CPAP should be
+monitored objectively by respiratory paediatrician with paediatric
+sleep experience.
+• Monitoring of CPAP therapy complications is required during followup.
+SPECIAL GROUP
+• Pregnant women with suspected OSA based on symptoms and signs
+should be referred for further management by a multidisciplinary
+specialist team.
+• Patients with OSA and craniofacial anomalies should be assessed
+for the benefit and risk of a surgical intervention.
+• Patients with Down syndrome should be screened for OSA and
+treated accordingly.
+• CPAP is the preferred initial treatment in stable ambulatory patients
+with obesity hypoventilation syndrome and severe OSA.
+Management of Obstructive Sleep Apnoea
+v
+GUIDELINES METHODOLOGY
+a.
+Guidelines Development
+The members of the Development Group (DG) for this CPG were from
+the Ministry of Health (MoH), Ministry of Higher Education and private
+sector. There was active involvement of a multidisciplinary Review
+Committee (RC) during the process of the CPG development.
+A systematic literature search was carried out using the following
+electronic databases/platforms: mainly Medline via Ovid and Cochrane
+Database of Systemic Reviews and others e.g. Pubmed and Guidelines
+International Network. Refer to Appendix 1 for Example of Search
+Strategy. The inclusion criterion was patients suspected and diagnosed
+with OSA. The exclusion criteria were complex sleep apnoea syndrome
+(e.g. overlap syndrome etc.) and other sleep disorders e.g. narcolepsy,
+insomnia etc. The search was limited to literature published in the last
+10 years, on humans and in English. In addition, the reference lists of
+all retrieved literature and guidelines were searched and experts in the
+field contacted to identify relevant studies. All searches were conducted
+from November 2020 to 31 May 2022. The literature search was
+repeated for all clinical questions at the end of the CPG development
+process allowing any relevant papers published before 31 May 2022
+to be included. Future CPG updates will consider evidence published
+after this cut-off date. The details of the search strategy can be obtained
+upon request from the CPG Secretariat.
+References were also made to other guidelines as listed below:
+• Treatment of Adult Obstructive Sleep Apnea with Positive Airway
+Pressure: An American Academy of Sleep Medicine Clinical
+Practice Guideline (2021)
+• Use of polysomnography and home sleep apnea tests for the
+longitudinal management of obstructive sleep apnea in adults: An
+American Academy of Sleep Medicine clinical guidance statement
+(2021)
+• Referral of adults with obstructive sleep apnea for surgical
+consultation: An American Academy of Sleep Medicine clinical
+practice guideline (2021)
+• Evaluation and Management of Obesity Hypoventilation Syndrome:
+An Official American Thoracic Society Clinical Practice Guideline
+(2019)
+• Clinical Practice Guideline for Diagnostic Testing for Adult
+Obstructive Sleep Apnea: An American Academy of Sleep
+Medicine Clinical Practice Guideline (2017)
+• Society of Anesthesia and Sleep Medicine Guidelines on
+Preoperative Screening and Assessment of Adult Patients With
+Obstructive Sleep (2016)
+Management of Obstructive Sleep Apnoea
+vi
+• Practice guidelines for the perioperative management of patients
+with obstructive sleep apnea: An updated report by the American
+Society of Anesthesiologists Task Force on Perioperative
+Management of patients with obstructive sleep apnea (2014)
+• American Academy of Pediatrics: Diagnosis and management of
+childhood obstructive sleep apnea syndrome (2012)
+• Obstructive sleep disordered breathing in 2- to 18-year-old
+children: Diagnosis and management (2016)
+• European Respiratory Society (ERS) statement on obstructive
+sleep disordered breathing in 1- to 23-month-old children (2017)
+The CPGs were evaluated using the Appraisal of Guidelines for
+Research and Evaluation (AGREE) II prior to being used as references.
+A total of 15 main clinical questions were developed under different
+sections. Members of the DG were assigned individual questions
+within these sections. Refer to Appendix 2 for Clinical Questions.
+The DG members met 22 times throughout the development of these
+guidelines. All literature retrieved were appraised by at least two DG
+members using Critical Appraisal Skill Programme checklist, presented
+in evidence tables and further discussed in each DG meeting. All
+statements and recommendations formulated after that were agreed
+upon by both the DG and RC. Where evidence was insufficient, the
+recommendations were made by consensus of the DG and RC. Any
+differences in opinion were resolved consensually. The CPG was
+based largely on the findings of systematic reviews, meta-analyses and
+clinical trials, with local practices taken into consideration.
+Literature used in these guidelines were graded using the US/Canadian
+Preventive Services Task Force Level of Evidence (2001) while the
+grading of recommendation was done using the principles of GRADE
+(refer to page i). The writing of the CPG follows strictly the requirements
+of AGREE II.
+On completion, the draft of the CPG was reviewed by external
+reviewers. It was also posted on the MoH Malaysia official website for
+feedback from any interested parties. The draft was finally presented to
+the Technical Advisory Committee for CPG and, the Health Technology
+Assessment (HTA) and CPG Council, MoH Malaysia, for review and
+approval. Details on the CPG development by MaHTAS can be obtained
+from Manual on Development and Implementation of Evidence-based
+Clinical Practice Guidelines published in 2015 (available at http://www.
+moh.gov.my/moh/resources/CPG_MANUAL_MAHTAS.pdf?mid=634).
+Management of Obstructive Sleep Apnoea
+vii
+b.
+Objectives
+The objectives of the CPG are to provide evidence-based
+recommendations on the management of OSA in adults and children
+based on the following aspects:
+a. screening
+b. diagnosis and assessments
+c. treatment options
+d. monitoring and follow-up
+e. special groups
+c.
+Clinical Questions
+Refer to Appendix 2.
+d.
+Target Population
+Inclusion Criterion
+• All patients suspected and diagnosed with OSA
+Exclusion Criteria
+• Complex sleep apnoea syndrome (e.g. overlap syndrome etc.)
+• Other sleep disorders e.g. narcolepsy, insomnia etc.
+e.
+Target Group/User
+This document is intended to guide healthcare professionals and
+relevant stakeholders in primary and secondary/tertiary care of the
+management of OSA including:
+• doctors and dental surgeons
+• allied health professionals
+• trainees and medical students
+• patients and their advocates
+• professional societies
+f.
+Healthcare Settings
+Primary, secondary and tertiary care
+Management of Obstructive Sleep Apnoea
+DEVELOPMENT GROUP
+Chairperson
+Associate Professor Dr. Ahmad Izuanuddin Ismail
+Deputy Director & Consultant Respiratory Physician
+Hospital Al-Sultan Abdullah Universiti Teknologi Mara (UiTM), Selangor
+Members (in alphabetical order)
+viii
+Dr. Asiah Kassim
+Consultant Paediatric &
+Paediatric Respiratory Physician
+Hospital Tunku Azizah, Kuala Lumpur
+Dr. Farah Hani Hassan
+Otorhinolaryngology, Head & Neck
+Surgeon
+Hospital Kuala Lumpur, Kuala Lumpur
+Associate Professor Dr. Hafizah Zainudin
+Consultant Paediatric &
+Paediatric Respiratory Physician
+Universiti Sultan Zainal Abidin,
+Terengganu
+Dr. Hamidah Ismail
+Consultant Paediatric Anaesthesiologist
+Hospital Tunku Azizah, Kuala Lumpur
+Dr. Lalitha Pereirasamy
+Consultant Respiratory Physician
+Hospital Pulau Pinang, Pulau Pinang
+Dr. Mazlinda Mahadzir
+Head of Department &
+Consultant Otorhinolaryngology - Head
+& Neck Surgery
+Hospital Putrajaya, Putrajaya
+Dr. Mohd. Aminuddin Mohd. Yusof
+Head of CPG Unit & Public Health
+Physician
+Malaysian Health Technology
+Assessment Section (MaHTAS),
+Ministry of Health, Putrajaya
+Dr. Mohd Zambri Mohamed Makhbul
+Orthodontic Specialist
+Klinik Pergigian Cahaya Suria,
+Kuala Lumpur
+Dr. Ng Siew Peng
+Consultant Anaesthesiologist
+Hospital Pulau Pinang, Pulau Pinang
+Dr. Nurainul Hana Shamsuddin
+Family Medicine Specialist
+Hospital Pengajar Universiti Putra Malaysia
+Selangor
+Associate Professor Dr. Rama Krsna Rajandram
+Consultant Oral & Maxillofacial Surgeon
+Hospital Canselor Tuanku Mukhriz Universiti
+Kebangsaan Malaysia, Kuala Lumpur
+Dr. Rashidah Yasin
+Consultant Respiratory Physician
+Oriental Melaka Straits Medical Centre,
+Melaka
+Dr. Rozanah Abd Rahman
+Head of Department &
+Consultant Respiratory Physician
+Hospital Sultanah Aminah, Johor
+Dr. Saraiza Abu Bakar
+Head of Department &
+Consultant Otorhinolaryngology - Head &
+Neck Surgery
+Hospital Serdang, Selangor
+Dr. Sharifah Tahirah Syed Alwi Aljunid
+Head of Department &
+Consultant Oral & Maxillofacial Surgeon
+Hospital Shah Alam, Selangor
+Ms. Siti Mariam Mohtar
+Principal Assistant Director
+MaHTAS, Ministry of Health, Putrajaya
+Management of Obstructive Sleep Apnoea
+Associate Professor Dr. Wan
+Nurazreena Wan Hassan
+Consultant Orthodontist
+Faculty of Dentistry
+Universiti Malaya, Kuala Lumpur
+Dr. Vanitha M Sivanaser
+Consultant Anaesthesiologist
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Zienna Zufida Zainol Rashid
+Family Medicine Specialist
+Klinik Kesihatan Pandamaran, Selangor
+Management of Obstructive Sleep Apnoea
+x
+REVIEW COMMITTEE
+The draft guidelines were reviewed by a panel of experts. They were
+asked to comment primarily on the comprehensiveness and accuracy
+of the interpretation of evidence supporting the recommendations in the
+guidelines.
+Chairperson
+Dr. Irfhan Ali Hyder Ali
+Head of Respiratory Services & Consultant Respiratory Physician
+Hospital Pulau Pinang, Pulau Pinang
+Members (in alphabetical order)
+Professor Dr. Felicia Lim Siew Kiau
+Consultant Paediatric Anaesthesiologist
+Hospital Canselor Tuanku Mukhriz
+Universiti Kebangsaan Malaysia,
+Kuala Lumpur
+Professor Dr. Goh Bee See
+Consultant Otorhinolaryngologist
+Hospital Canselor Tuanku Mukhriz
+Universiti Kebangsaan Malaysia,
+Kuala Lumpur
+Dr. Iskandar Firzada Osman
+Consultant Family Medicine Specialist
+Klinik Kesihatan Jaya Gading,
+Pahang
+Dr. Izzuna Mudla Mohamed
+Deputy Director & Public Health Physician
+MaHTAS, Ministry of Health, Putrajaya
+Dr. Lew Chee Kong
+Consultant Oral & Maxillofacial Surgeon
+TTDI Oral Facial Surgery and
+Ortodontic Specialist Centre,
+Kuala Lumpur
+Professor Dr. Lim Thiam Aun
+Consultant Anaesthesiologist
+Hospital Pengajar Universiti Putra Malaysia,
+Selangor
+Dr. Mohd Ayzam Ahmad
+Consultant Otorhinolaryngologist
+Hospital Sultanah Bahiyah, Kedah
+Dato’ Dr. Rus Anida Awang
+Consultant Paediatric Respiratory Physician
+Hospital Pulau Pinang, Pulau Pinang
+Dato’ Dr. Siti Sabzah Mohd Hashim
+Consultant Otorhinolaryngologist
+Hospital Sultanah Bahiyah, Kedah
+Management of Obstructive Sleep Apnoea
+xi
+EXTERNAL REVIEWERS (in alphabetical order)
+The following external reviewers provided feedback on the draft:
+Professor Dr. Ahmad Fariz Mohamed
+Principal Fellow (Patient Advocate)
+Institute for The Environment and
+Development (LESTARI)
+Universiti Kebangsaan Malaysia
+Bangi, Selangor
+Dr. Amanda J Piper
+Clinical Lead, Respiratory Support
+Service
+Royal Prince Alfred Hospital
+Camperdown, New South Wales,
+Australia
+Professor Dr. Anna Marie Nathan
+Consultant Paediatrician &
+Paediatric Pulmonologist
+Faculty of Medicine
+Universiti Malaya, Kuala Lumpur
+Associate Professor Dr. Arthur Teng
+Head, Department of Sleep Medicine,
+Senior Staff Specialist Sleep and
+Respiratory Pediatrician and Conjoint
+Associate Professor of Medicine
+The University of New South Wales,
+Sydney Australia
+Dr. Audrey Yoon
+Adjunct Assistant Professor/Clinical
+Assistant Professor
+Consultant Orthodontist and Paediatric
+Dentistry
+Stanford Sleep Medicine/University of
+Pacific Orthodontics, San Francisco
+California, United States
+Dr. Chan Giin Cherng
+Family Medicine Specialist/Specialist
+General Practitioner
+Edgewater Medical Centre,
+Maribyrnong Australia
+Associate Professor Dr. Chihiro Tanikawa
+Consultant Orthodontist
+Department of Orthodontics and
+Dentofacial Orthopedics, Graduate
+School of Dentistry Osaka University,
+Japan
+Dr. Haiza Ibrahim
+General Practitioner
+Klinik Dr Marisa dan Rakan
+Dengkil, Selangor
+Dr. Han Yung Wen
+Family Medicine Specialist/General
+Practitioner
+Klinik EcoSoul, Setia Alam, Selangor
+Associate Professor Dr. Hazama
+Mohamad
+Consultant Otorhinolaryngologist
+Universiti Sains Malaysia, Pulau Pinang
+Dr. Ho Bee Kiau
+Consultant Family Medicine Specialist
+Klinik Kesihatan Bandar Botanik Klang
+Klang, Selangor
+Dr. Ismail Kassim
+General Practitioner
+Ismail Klinik and Surgery
+Batu Pahat, Johor
+Professor Dr. Lee Ping Yen
+Adjunct Professor
+UMeHealth Unit
+Faculty of Medicine
+Universiti Malaya. Kuala Lumpur
+Dr. Mahesh Babu Ramamurthy
+Senior Consultant & Head, Division of
+Paediatric Pulmonology and Sleep,
+National University Hospital, Singapore
+Management of Obstructive Sleep Apnoea
+Dr. Mike Yiu Yan Leung
+Assistant Dean (External Relations)
+Postgraduate Programme Director in
+Oral & Maxillofacial Surgery
+Clinical Associate Professor in Oral &
+Maxillofacial Surgery, The University of
+Hong Kong, Hong Kong
+Associate Professor Dr. Naricha
+Chirakalwasan
+Consultant Respiratory Physician
+Chulalongkorn University, Bangkok,
+Thailand
+Associate Professor Dr. Nor Azam
+Kamaruzaman
+Family Medicine Consultant
+Head of IIUM Family Health Clinic
+Department of Family Medicine
+Kulliyyah of Medicine
+International Islamic University Malaysia,
+Pahang
+Dr. Norhaya Mohd Razali
+Consultant Respiratory Physician
+Hospital Sultanah Nur Zahirah,
+Terengganu
+Associate Professor Dr. Rufinah Teo
+Consultant Paediatric Anaesthesiologist
+Hospital Canselor Tuanku Muhriz,
+Universiti Kebangsaan Malaysia, Kuala
+Lumpur
+Honorary Professor Dato’ Dr. Wang Chew Yin
+Consultant Anaesthesiologist
+Faculty of Medicine
+Universiti Malaya, Kuala Lumpur
+Management of Obstructive Sleep Apnoea
+ALGORITHM 1. MANAGEMENT OF OBSTRUCTIVE SLEEP
+APNOEA IN ADULTS
+xiii
+Clinical Suspicion of OSA
+Screening with STOP-BANG
+score of ≥3
+Consider other
+diagnosis &
+treat accordingly
+Still highly suspicious
+of OSA (e.g. presence
+of risk factors, maxillofacial
+abnormalities, etc.)
+Assessment*/referral to
+ORL/respiratory clinic for PSG
+Yes
+No
+Yes
+AHI score ≥5**
+Re-assess for other
+diagnosis & treat
+accordingly
+Lifestyle modifications
+PAP therapy
+± Surgery***
+Tolerate & compliant
+Continue periodic follow-up
+PAP intolerant or non-compliant
+Refer for surgical management
+or oral appliances
+(refer to Algorithm 2)
+No
+OSA: obstructive sleep apnoea
+ORL: otorhinolaryngologist
+STOP-BANG: STOP - Snoring, Tiredness, Observed apnoea and high blood Pressure
+BANG - BMI, Age, Neck circumference and Gender
+AHI: Apnoea-Hypopnoea Index
+PAP: positive airway pressure
+*May include endoscopic upper airway evaluation
+**Preferably cases of OSA are managed by a multidisciplinary team (certain cases may receive
+upper airway surgery earlier)
+***Patient who opts for surgery should follow Algorithm 2
+Management of Obstructive Sleep Apnoea
+ALGORITHM 2. SURGICAL TREATMENT IN ADULTS WITH
+OBSTRUCTIVE SLEEP APNOEA
+xiv
+PAP intolerant or non-compliant
+Consider oral
+appliances
+No
+No
+No
+No
+No
+No
+Yes
+Yes
+Yes
+Yes
+Yes
+BMI ≥35 kg/m2
+Refer for
+bariatric surgery
+Presence of
+dentofacial deformity
+Refer to OMFS
+Refer to ORL
+DISE/FNMM
+Consider oral
+appliances & MFT
+Maxillary expansion
+MMA
+PSG at 3 - 6 months post-surgery
+Significant concentric
+palatal collapse
+Surgery (uni- or multilevel) on
+nasal/palate/oropharyngeal/tongue
+PSG at 3 months post-surgery
+Surgical
+success
+PAP reconsideration
+& follow-up
+Follow-up
+PAP therapy & follow-up
+PAP reconsideration
+Yes
+Surgical
+success
+Follow-up
+BMI: body mass index; DISE: drug-induced sleep endoscopy
+CPAP: continuous positive airway pressure
+FNMM: fiber-optic nasal endoscopy with Muller’s Manoeuvre
+MFT: myofunctional therapy; MMA: maxillomandibular advancement
+OMFS: oral and maxillofacial surgeon; ORL: otorhinolaringologist
+PAP: positive airway pressure; PSG: polysomnography
+Management of Obstructive Sleep Apnoea
+ALGORITHM 3. MANAGEMENT OF OBSTRUCTIVE SLEEP
+APNOEA IN CHILDREN
+xv
+Children with clinical
+suspicion/high risk* of OSA
+Assessment by paediatrician &
+upper airway examination by ORL
+Refer to paediatrician &
+treat accordingly
+PSQ screening with
+score of ≥8
+High risk for OSA*
+Multidisciplinary
+assessment by
+paediatrician/respiratory
+paediatrician/ORL/OMFS/
+orthodontist
+Adenotonsillar
+hypertrophy ± skeletal
+discrepancies
+Yes
+No
+No
+No
+Yes
+Yes
+PSG/overnight pulse oximetry
+PSG/overnight pulse oximetry
+PSG/overnight pulse oximetry
+Moderate/
+severe OSA
+Mild OSA
+AHI 1 – 5/hr
+Moderate OSA
+AHI 5 – 10/hr
+Severe OSA
+AHI >10/hr
+Refer respiratory
+paediatrician for
+further assessment
+Trial of medications
+Adenotonsillectomy
+Refer
+respiratory
+paediatrician
+for CPAP
+Follow-up by
+paediatrician/ORL
+Follow-up by paediatrician/
+respiratory paediatrician/ORL/
+OMFS/orthodontist
+Persistent symptoms & signs of OSA
+Refer to respiratory paediatrician & ORL for reassessment
+CPAP: continuous positive airway pressure
+OMFS: oral and maxillofacial surgeon
+ORL: otorhinolaryngologist
+OSA: obstructive sleep apnoea
+PSQ: Paediatric Sleep Questionnaire
+PSG: polysomnography
+*obesity, craniofacial anomalies, Down syndrome etc. (refer to Subchapter 4.1)
+Management of Obstructive Sleep Apnoea
+1
+1. INTRODUCTION
+Obstructive Sleep Apnoea (OSA) is a common sleep-related breathing
+disorder caused by repetitive upper airway collapse resulting in partial
+or complete breathing cessation. Symptoms include unrefreshed sleep,
+daytime sleepiness, fatigue, insomnia, awakening with a gasping
+or choking sensation and loud snoring. Sleep disordered breathing
+(SDB) and obstructive sleep apnoea syndrome (OSAS) are commonly
+described as OSA in the literature. For the purpose of this document,
+we will use OSA as the referring terminology.
+This disease affects both children and adults and is associated with
+significant morbidity. A recent review estimated that nearly one billion
+adults aged 30 - 69 years worldwide could have OSA. The number
+of people with moderate to severe OSA in whom treatment was
+highly recommended was estimated to be at least 425 million.1, level III
+In children, the prevalence of OSA was reported to be up to 5.7%.
+Obesity was identified as an independent risk factor for OSA in this
+group.2, level I Early recognition and treatment are essential in preventing
+sequelae from OSA. This medical condition increases all cause and
+cardiovascular (CV)-related mortality predominantly among the middleaged group. It is also associated with other co-morbidities including
+metabolic and cognitive consequences. Therefore, it is important to be
+aware of the disease and updated with its management.
+The management of OSA has evolved since its discovery in 1965,
+especially after the introduction of Continuous Positive Airway Pressure
+(CPAP) therapy via nasal mask in 1981 as a form of treatment for OSA.
+To date, there is no specific local CPG addressing the management
+of OSA. Thus, it is timely to have the first Malaysian CPG on OSA to
+guide local healthcare providers in managing this common disorder. It
+will provide a standard framework for the management of OSA based
+on the latest evidence available.
+Management of Obstructive Sleep Apnoea
+2. EPIDEMIOLOGY, RISK FACTORS AND CO-MORBIDITIES
+2.1 Epidemiology and Risk Factors
+The prevalence of OSA varies due to differences in the definition,
+diagnostic methods and sociodemographic features. Using American
+Academy of Sleep Medicine (AASM) 2012 diagnostic criteria, a
+systematic review estimated that globally 936 million adults aged
+30 - 69 years had OSA, in which 45% had moderate to severe
+disease.1, level III In another systematic review, the overall prevalence of
+OSA ranged from 9% to 38% in adults. Evidence showed that advancing
+age, male gender and higher body mass index (BMI) increased the
+prevalence.3, level III However, there are no recent local published studies
+on the prevalence of OSA.
+The established risk factors for OSA include:4
+• age (40 to 70 years old)
+• male gender
+• family history of OSA
+• morbid obesity
+Craniofacial features are a risk factor for OSA. The main craniofacial
+features associated with OSA in adults (based on population of mixed
+ethnicities) include:
+• increased soft palate and tongue thickness5, level I
+• reduced transverse dimension of the maxilla6, level III
+• a reduced pharyngeal airway space5, level I
+• increased vertical skeletal dimensions5, level I
+• reduced skeletal sagittal dimensions5, level I
+• a lowered position of the hyoid5, level I
+2.2 Medical Complications
+Patients with OSA are at risk of developing cardio-metabolic
+complications. A few meta-analyses showed associations between
+both conditions:
+• stroke
+ OR=2.24, 95% CI 1.57 to 3.197, level II-2
+ OR=1.86, 95% CI 1.28 to 2.698, level II-2
+• cardiovascular diseases (CVD) (OR=1.71, 95% CI 1.17 to
+2.17)8, level II-2
+• coronary heart disease (CHD) (OR=1.48, 95% CI 1.06 to
+2.27)8, level II-2
+• metabolic syndrome9, level II-2
+ OR=2.87, 95 % CI 2.41 to 3.42 in cross-sectional studies
+ OR=2.56, 95 % CI 1.98 to 3.31 in case-control studies
+The quality of primary studies in two of the meta-analyses were
+moderate.7 & 9, level II-2
+Management of Obstructive Sleep Apnoea
+3
+Other medical conditions associated with OSA as shown in metaanalyses were:
+• asthma (OR=2.64, 95% CI 1.76 to 3.52)10, level III
+• non-alcoholic fatty liver disease with11, level III
+ abnormal histopathological examination (HPE) findings
+(OR=2.01, 95% CI 1.36 to 2.97)
+ abnormal radiological findings (OR=2.99, 95% CI 1.79 to 4.99)
+ aspartate aminotransferase (AST) elevation (OR=2.36, 95%
+CI 1.46 to 3.82)
+ alanine transaminase (ALT) elevation (OR=2.60, 95% CI 1.88
+to 3.61)
+• chronic kidney disease (CKD) (RR=1.85, 95% CI 1.32 to
+2.59)12, level III
+• all type of cancer13, level II-2
+ mild OSA (RR=1.14, 95% CI 1.04 to 1.25)
+ moderate OSA (RR=1.36, 95% CI 1.24 to 1.50)
+ severe OSA (RR=1.59, 95% CI 1.45 to 1.74)
+• cognitive impairment (RR=1.26, 95% CI 1.05 to 1.50)14, level II-2
+Only one meta-analysis reported good quality of the primary
+papers.11, level III
+Two systematic reviews found associations between OSA and:
+• chronic obstructive pulmonary disease (COPD)15, level II-2
+• major
+depressive
+disorder
+and
+post-traumatic
+stress
+disorder16, level III
+In a large, multinational cross-sectional study on subjects undergoing
+assessment of suspected sleep-disordered breathing, the diagnosis
+and severity of OSA was associated with an increased likelihood
+of a concomitant diagnosis of T2DM. The risk of T2DM increased
+significantly as OSA severity increased i.e. 1.33 (95% CI 1.04 to 1.72)
+in mild, 1.73 (95% CI 1.33 to 2.25) in moderate and 1.87 (95% CI 1.45
+to 2.42) in severe OSA (p<0.001 for trend).17, level III
+Recommendation 1
+• Medical conditions* associated with obstructive sleep apnoea should
+be identified and treated accordingly.
+*Refer to preceding text in Subchapter 2.2
+Management of Obstructive Sleep Apnoea
+3. OBSTRUCTIVE SLEEP APNOEA IN ADULTS
+3.1 Screening
+Adult patients with OSA can present with both daytime and night-time
+symptoms as shown below:
+The clinical findings of OSA may include raised blood pressure, large
+neck circumference, obesity and crowded oropharynx [modified
+Mallampati grade 3 and 4 (refer to Appendix 3 on Modified Mallampati),
+micro/retrognathia, high arch palate, enlarged tonsils (refer to
+Appendix 4 on Tonsillar Grading), macroglossia].
+Screening tools are useful to detect patients at risk for OSA. Early
+detection will lead to early referral and also prioritisation of patients who
+may need a diagnostic tool e.g. an overnight polysomnography (PSG)
+to confirm the diagnosis.
+Several screening tools have been widely used in the adult population
+e.g. the Berlin Questionnaire (BQ) (Appendix 5), STOP-BANG
+Questionnaire (SBQ) (refer to Appendix 6 and 7), STOP Questionnaire
+(SQ) and Epworth Sleepiness Scale (ESS) (Appendix 8).
+A meta-analysis found that the sensitivity and diagnostic odds ratio
+(DOR) of the SBQ were higher than those of the BQ, SQ and ESS in
+detecting mild, moderate and severe OSA. However, the specificity of
+SBQ was lower compared with ESS. Hence the study concluded that
+the SBQ was superior in the detection of various severity of OSA in
+adults compared with the others. The pooled sensitivity and specificity
+are shown in Table 1.18, level III The primary papers included were of
+mixed quality.
+Daytime symptoms
+• Excessive daytime sleepiness
+• Unrefreshed sleep
+• Tiredness/fatigue
+• Early morning headache
+• Dry mouth
+• Poor attention/concentration span
+• Memory impairment
+• Mood disturbance or irritability
+• Decrease libido/erectile
+dysfunction
+Night-time symptoms
+• Snoring
+• Witnessed apnoea (cessation of
+breathing)
+• Gasping/choking
+• Nocturia
+• Difficulty initiating and maintaining
+sleep
+• Fragmented sleep (frequent
+wakening)
+Management of Obstructive Sleep Apnoea
+5
+Table 1. Pooled sensitivity and specificity of different screening
+tools for OSA
+AHI=Apnoea Hypopnoea Index
+A recent meta-analysis evaluating the diagnostic accuracy of various
+screening tools in different clinical cohorts supported the above findings
+and concluded that SBQ had the highest sensitivity to detect OSA with
+highest diagnostic OR in sleep clinic and surgical populations but
+lacked specificity.19, level III The quality of the primary papers included
+were moderate.
+10 items grouped in 3
+categories:
+• symptoms of snoring and
+cessation of breathing
+• symptoms of excessive
+daytime sleepiness
+• presence of hypertension
+with additional information
+on height and weight
+High risk: positive score in 2
+or more categories
+Questionnaire
+Description
+Severity
+of OSA
+Pooled
+Sensitivity
+Pooled
+Specificity
+Berlin
+Questionnaire
+(Appendix 5)
+AHI>5
+76%
+59%
+AHI>10
+76%
+44%
+4 subjective and 4
+demographic items:
+• STOP - Snoring,
+Tiredness, Observed apnoea
+and high blood Pressure
+• BANG - BMI, Age, Neck
+circumference and Gender
+High risk of OSA: Yes to 3 or more
+questions
+Low risk of OSA: Yes to less than 3
+questions
+STOP-BANG
+Questionnaire
+(refer to
+Appendix 6
+and 7)
+AHI>5
+88%
+42%
+AHI>10
+90%
+36%
+AHI>15
+84%
+38%
+AHI>15
+93%
+35%
+4 items consisting of yes/no
+answers:
+STOP - Snore,
+Tiredness/fatigue, Observed
+stopped breathing and high
+blood Pressure
+High risk: 2 or more ‘yes’
+answer
+STOP
+Questionnaire
+AHI>5
+87%
+42%
+AHI>10
+89%
+32%
+AHI>15
+90%
+28%
+8 items measuring the
+likeliness of daytime
+sleepiness in different
+situations, the score ranges
+from 0 - 24.
+High risk: score 11 or more
+Epworth
+Sleepiness
+Scale
+(Appendix 6)
+AHI>5
+54%
+65%
+AHI>10
+47%
+62%
+AHI>15
+58%
+60%
+Management of Obstructive Sleep Apnoea
+This is further supported by another systematic review using subjects
+mostly from sleep clinic populations. The review found the highest
+sensitivity rates for SBQ in the prediction of mild and severe OSA
+(97.55% and 98.7% respectively) while the highest specificity rate was
+for BQ (90% and 80% respectively). For predicting moderate OSA, SQ
+had both the highest sensitivity (100%) and specificity (92.3%).20, level III
+However, the quality assessment on the primary papers included was
+not reported.
+In the era of digital technology, the use of mobile technology and novel
+tools has the potential to aid in the screening and diagnosis of OSA.
+A meta-analysis evaluating the accuracy of smartphones and portable
+devices in screening for OSA found that bed or mattress-based devices
+and contactless devices had the greatest potential for use in screening
+and possibly monitoring OSA. They had the best overall sensitivity of
+0.921 (95% CI 0.870 to 0.953). The overall sensitivity of contactless
+devices to detect OSA was 0.905 (95% CI 0.839 to 0.946). The
+contactless devices used various mechanisms including respiratory
+and body movement obtained either from emission of sound waves,
+emission of low-power radiofrequency energy or use of a piezoelectric
+sensor, photograph images and speech recordings. However, due to
+lack of studies comparing the new tools with gold standard method
+(PSG), more evidence is needed before recommendations can be
+made for these devices in clinical use.21, level III The included primary
+papers were of mixed quality.
+Recommendation 2
+• STOP-BANG* Questionnaire should be used for screening of adults
+with clinical suspicion of obstructive sleep apnoea.
+ Epworth Sleepiness Scale may be used to assess daytime
+sleepiness.
+* STOP - Snoring, Tiredness, Observed apnoea and high blood
+Pressure
+BANG - BMI, Age, Neck circumference and Gender
+3.2 Diagnosis
+• OSA is suspected in the presence of clinical signs and symptoms,
+and a positive screening questionnaire. The diagnosis can only be
+confirmed by PSG (level 1, 2 or 3).
+The diagnosis of OSA cannot be made solely based on clinical signs
+or symptoms identified during sleep-oriented history and physical
+examination. They need to be supported by PSG or home sleep apnea
+testing (HSAT).22
+Management of Obstructive Sleep Apnoea
+7
+OSA is diagnosed through PSG. There are four levels of sleep test
+as described in Table 2. Only level 1 - 3 can be used for diagnostic
+purposes, whilst level 4 is used for screening.
+Table 2. Different level of sleep testing
+Adapted: Hesselbacher SE, Mattewal A, Hirshkowitz M et al. Classification, Technical
+Specifications, and Types of Home Sleep Testing Devices for SleepDisordered Breathing. Sleep Med. Clin. 6 (2011):261-282.
+In the standard PSG, Apnoea-Hypopnoea Index (AHI) is defined as
+apnea+hypopnea/total sleep time while the AHI in the portable monitor
+(PM) is the number of apneas+hypopneas/total recording time. As a
+result, PM are likely to underestimate the severity of respiratory events
+compared with PSG.
+The other disadvantages of PM include its inability to evaluate the
+quality of sleep and other non-respiratory sleep disorders. HSAT and
+PM have the advantage that the patient sleeps in his/her own bed, thus
+the sleep pattern may be more representative of everyday sleep. PM
+reduces health-care costs and waiting times, thus making the diagnosis
+of OSA accessible to centres that do not have conventional PSG.
+The following are recommended for a diagnosis of OSA in adults:22
+• PSG or HSAT can be used in uncomplicated cases presenting
+with signs and symptoms of OSA with an increased risk for
+moderate to severe disease.
+• PSG should be performed if a single HSAT is negative,
+inconclusive or technically inadequate.
+• Full attended PSG (level 1) should be used for patients with
+significant cardiorespiratory disease, potential respiratory muscle
+Level 1
+Level 2
+Level 3
+Level 4
+Parameter
+Portable
+monitor (Partial
+PSG/HSAT)
+Continuous
+single or dual
+bio-parameter
+Minimum of
+one channel:
+O2 saturation,
+respiratory
+effort
+Not measured
+Not measured
+Unattended
+Full unattended
+PSG
+Minimum of
+seven channels:
+EEG, EOG,
+EMG, ECG,
+airflow,
+respiratory
+effort, O2
+saturation
+Measured
+Measured
+Unattended
+Full attended
+PSG
+Minimum of
+seven channels:
+EEG, EOG,
+EMG, ECG,
+airflow,
+respiratory
+effort, O2
+saturation
+Measured
+Measured
+Attended
+Description
+Measures
+Body position
+Leg movement
+Personnel
+Not measured
+Unattended
+Can be
+measured
+Minimum of
+four channels
+(two respiratory
+effort and
+airflow, heart
+rate (HR)/ECG,
+O2 saturation)
+Management of Obstructive Sleep Apnoea
+weakness due to neuromuscular condition, awake hypoventilation
+or suspicion of sleep-related hypoventilation, chronic opioid
+medication use, history of smoking or severe insomnia,
+• A second PSG may be considered if the initial PSG is negative
+and clinical suspicion for OSA remains.
+• Diagnostic criteria for adult OSA23
+(A and B) or C satisfy the criteria
+A. The presence of one or more of the following:
+1. The patient complains of sleepiness, non-restorative sleep,
+fatigue or insomnia symptoms
+2. The patient wakes with breath holding, gasping or choking
+3. The bed partner or other observer reports habitual snoring,
+breathing interruptions or both during the patient’s sleep
+4. The patient has been diagnosed with hypertension, a mood
+disorder, cognitive dysfunction, coronary artery disease,
+stroke, congestive heart failure, atrial fibrillation or type 2
+diabetes mellitus
+B. PSG or out-of-centre sleep testing (OCST) demonstrates:
+1. ≥5 predominantly obstructive respiratory events [obstructive
+and mixed apnoeas, hypopnoeas or respiratory effort-related
+arousals (RERAs)] per hour of sleep during a PSG or per
+hour of monitoring (OCST)
+OR
+C. PSG or OCST demonstrates:
+1. ≥15 predominantly obstructive respiratory events (apnoeas,
+hypopnoeas or RERAs) per hour of sleep during a PSG or
+per hour of monitoring (OCST)
+• The third edition of the International Classification of Sleep Disorders
+(ICSD)-3 defines OSA as:23
+ AHI ≥5/hour associated with the typical symptoms of OSA or
+associated medical/psychiatric disorder
+ AHI ≥15/hour (even in the absence of symptoms or disorders)
+Sleep testing or PSG is a test to evaluate various types of sleep
+disorders and not just OSA. Ideally, PSG should be done either at
+night (overnight) or during the subject’s usual sleep schedule, with a
+recording of no less than 6.5 hours, including at least three hours of
+sleep. A diagnosis of OSA can still be made even if the recording is less
+than the ideal hours provided that it is interpreted by a sleep specialist.
+In a meta-analysis on diagnostic accuracy of 19 high quality studies,
+level 3 portable sleep tests when compared with level 1 PSG showed a
+good diagnostic performance in adult with uncomplicated OSA and no
+Management of Obstructive Sleep Apnoea
+9
+unstable co-morbidities. The ROCs were high, ranging between 0.85
+and 0.99 across different levels of disease severity.24, level III
+Another meta-analysis on the diagnostic accuracy of level 4 portable
+sleep monitors vs PSG for OSA showed that the diagnostic accuracy
+of type 4 portable monitoring varied depending on the type of device,
+number of channels and disease severity.25, level III
+In a systematic review on the value of oxygen desaturation index (ODI)
+with reference to AHI among predominantly middle-aged men without
+co-morbidities, the sensitivities of ODI ranged from 32% to 98.5%,
+whereas specificities ranged from 47.7% to 98% in the diagnosis of
+OSA. Studies reported data for a 4% ODI ≥15/hour showed an improved
+specificity for diagnosing OSA which ranged from 75% to 98%. Thus,
+consideration should be given for diagnosing adult OSA with a 4% ODI
+of ≥15/hour. However, the quality of the primary papers were poor with
+large discrepancies in the definitions of almost all of the variables used
+in the studies.26, level III
+Digital health using smart phones and portable devices had been
+studied to diagnose OSA. A meta-analysis with mixed quality of primary
+papers on sleep-related breathing disorder showed that bed/mattressbased devices had the best overall sensitivity of 0.921 (95% CI 0.870
+to 0.953). On the other hand, contactless devices can detect mild OSA
+with a sensitivity of 0.976 (95% CI 0.899 to 0.995).21, level III
+The CPG DG opines that in patient with suspected OSA, the PSG
+should be performed within six month of initial consultation. Scoring
+of PSG should be performed by trained medical personnel and its
+interpretation should be verified by trained specialists.
+Severity of OSA in adults are shown as below:
+Recommendation 3
+• Obstructive sleep apnoea (OSA) should be diagnosed using
+polysomnography (PSG) either level 1, 2 or 3.
+• In patient with suspected OSA, the PSG should be performed within
+six month of initial consultation.
+ Scoring of PSG should be performed by trained medical personnel
+and its interpretation should be verified by trained specialists.
+AHI
+Severity of OSA
+<5/hr
+5-15/hr
+15-30/hr
+>30/hr
+No OSA
+Mild
+Moderate
+Severe
+Management of Obstructive Sleep Apnoea
+•
+Upper Airway Assessment
+Upper airway assessment is important in deciding the best surgical
+approach to treat OSA. Fiber-optic nasal endoscopy with Muller’s
+Manoeuver (FNMM) has been used as a method to assess upper airway
+obstruction. Drug-induced sleep endoscopy (DISE) has recently been
+introduced for such assessment. However, it requires deep sedation
+and involvement of anaesthetists, and thus may pose challenges in
+carrying out the procedure in the local setting. Three cross-sectional
+studies showed that there were discrepancies between FNMM and
+DISE findings in the degree of obstruction. There were significant
+differences in the detection of retrolingual collapse identified via DISE
+compared with FNMM.27 - 29, level III
+The CPG DG opines that DISE is more accurate than FNMM in
+determining the degree of upper airway obstruction prior to sleep
+surgery based on case series.
+• If DISE is unable to be performed prior to surgery, FNMM may still be
+offered as an alternative procedure to identify the level and degree
+of obstruction.
+3.3 Treatment
+Management of adult OSA patients include lifestyle modification,
+weight management, PAP therapy, oral appliance therapy and surgical
+procedures. Delivery of quality treatment for OSA patients require a
+multidisciplinary approach. Communication among team members is
+essential for effective and holistic OSA management.
+a. Weight Management and Lifestyle Modification
+Obesity is strongly associated with OSA3, level II-2 and there is a potential
+reciprocal role of OSA in obesity.30, level III Thus, weight management and
+lifestyle modification is an important treatment either as an adjunct to
+other treatment or alone i.e. bariatric surgery in OSA with obesity.
+Three meta-analyses showed that lifestyle intervention which include
+diet, exercise or combination of both, improved both AHI and BMI in
+adults with OSA.
+• In the first meta-analysis weight loss through diet and/or physical
+activity decreased AHI compared with control (WMD= -6.04/hour,
+95% CI -11.18 to -0.90). However, diet alone did not show any
+significant difference in the outcome.31, level I
+• The second meta-analysis also supported the finding where
+intensive lifestyle interventions reduced weight (WMD= -13.76 kg,
+95% CI -19.21 to -8.32) and improved both AHI (WMD= -16.09/
+hour, 95% CI -25.64 to -6.54)) and ODI (WMD= -14.18, 95% CI
+-24.23 to -4.13).32, level I
+Management of Obstructive Sleep Apnoea
+11
+• In the recent meta-analysis, combination of diet and exercise
+improved AHI (WMD= -8.09/hour, 95% CI -11.94 to -4.25) and
+BMI (WMD= -2.41 kg/m2, 95% CI -4.09 to -0.73). Apart from that,
+diet alone improved both AHI (WMD= -8.61/hour, 95% CI -15.89
+to -1.33) and BMI (WMD= -3.97, 95% CI -5.77 to -2.18), while
+exercise alone only improved AHI (WMD= -8.08/hour, 95% CI
+-15.78 to -0.42) but not BMI.33, level I
+The primary papers in the meta-analyses were generally of moderate
+quality.
+Recommendation 4
+• Lifestyle intervention for weight reduction should be advocated in
+obstructive sleep apnoea.
+b. Positive Airway Pressure Therapy
+Positive airway pressure (PAP) therapy has become the primary therapy
+to treat adults with OSA across the spectrum of disease severity.
+• PAP therapy refers to the delivery of compressed air which splints
+the collapsed upper airway.
+ It is the gold standard treatment for OSA.34
+ Two types of PAP therapy are continuous PAP (CPAP) and bilevel PAP (BiPAP). Both can be automated (APAP) or fixed
+pressure.
+A meta-analysis showed improvement in physical QoL of patients with
+OSA who had received CPAP compared with controls. However, there
+were no significant difference in overall and psychological QoL35, level I
+i.
+Positive Airway Pressure Therapy and its effect on comorbidities
+CPAP was effective in prevention of stroke in OSA as reported in a
+meta-analysis. Cohort studies demonstrated significant effectiveness
+(OR=0.590, 95% CI 0.350 to 0.994). Although RCT result was nonsignificant on effectiveness, subgroup analysis showed stroke reduction
+with good CPAP adherence (>4 hours and at least 70% of usage days)
+and moderate to severe OSA with OR of 0.530 (95% CI 0.323 to 0.86)
+and 0.505 (95% CI 0.260 to 0.979) respectively. The primary papers
+included were mostly low risk of bias.36, level I
+In another meta-analysis on the prevention of CV events in patients
+with OSA, CPAP therapy did not improve CV outcomes e.g. stroke,
+atrial fibrillation, myocardial infarction and unstable angina. The
+findings need to be taken with caution due to risk of bias of the included
+studies.37, level I
+Management of Obstructive Sleep Apnoea
+Despite unfavourable findings on most major adverse cerebrovascular
+and CV endpoints (MACEs), CPAP therapy in OSA had been shown
+to be effective in improving arterial stiffness measured by pulse wave
+velocity (a marker of vascular damage and an independent predictor of
+CV morbidity and mortality) compared with control (MD= -0.44, 95% CI
+-0.76 to -0.12). The included studies in the meta-analysis had moderate
+risk of bias.38, level I
+In patients with OSA and resistant hypertension, a meta-analysis
+showed that CPAP therapy was associated with clinically significant
+changes in 24-hour systolic blood pressure (SBP) (MD= -5.06 mmHg,
+95% CI -7.89 to -2.13) and 24-hour diastolic blood pressure (MD= - 4.21
+mmHg, 95% CI -6.5 to -1.93). The quality of the evidence was moderate
+or low for most outcomes.39, level I CPAP therapy was more effective in
+treating resistant hypertension than nonresistant hypertension in OSA
+as shown in a systematic review.40, level I
+A meta-analysis looking at CPAP therapy among patients with OSA
+and depression showed significant improvement in psychological
+symptoms especially those who used the therapy for >4 hours/night
+compared with controls.41, level I Most of the studies included were of
+moderate quality.
+ii.
+Automated vs fixed-continuous positive airway pressure
+A meta-analysis of 24 RCTs showed that automated PAP (APAP) had
+increased compliance compared with fixed-CPAP in OSA (MD=0.18
+hours/night, 95% CI, 0.05 to 0.31). However, there was no significant
+difference in AHI reduction. The side effects (SEs) reported were dry
+mouth, air leakage and skin or nasal-oral irritation. There was no
+significant difference in SEs reported in five RCTs comparing APAP
+with fixed CPAP.42, level I The quality of the primary papers in the metaanalysis was moderate.
+However, in a recent meta-analysis, there was no significant difference
+in adherence between APAP and fixed-CPAP.43, level I
+The findings of a recent Cochrane systematic review comparing APAP
+and fixed-CPAP in adults with moderate to severe OSA were:44, level I
+• APAP increased machine usage by 13 minutes/night (MD=0.21
+hours/night, 95% CI 0.11 to 0.31) and reduced daytime sleepiness
+based on Epworth Sleepiness Scale (ESS) by a small amount
+(MD= -0.44 units, 95% CI -0.72 to -0.16) at six weeks; however,
+the reduction in ESS was not clinically significant.
+• fixed-CPAP had slightly lower AHI values (MD=0.48/hour, 95% CI
+0.16 to 0.80)
+Adverse events (AEs) reported were nasal blockage, dry mouth,
+pressure intolerance and mask leak. The tolerability outcome could
+not be compared between the two modalities due to different variables
+Management of Obstructive Sleep Apnoea
+13
+measured. The quality of the primary papers in the review was of
+moderate to high certainty.
+iii. Interface
+CPAP delivery interface includes nasal, intra-nasal (nasal-pillow) and
+oronasal masks.
+In a small Cochrane systematic review, the optimum form of CPAP
+delivery interface remained unclear due to the limited number of
+studies.45, level I
+Nasal mask showed no significant difference in adherence with nasal
+pillow or oronasal mask in meta-analyses of RCTs.43, level I
+According to the 2020 American Thoracic Society Workshop report,
+nasal mask should be the initial option for most patients.46, level III
+iv. Bi-level Positive Airway Pressure
+Indications to switch from CPAP to BiPAP are when:47
+• patient complains of being uncomfortable or intolerant to high
+CPAP pressures
+• CPAP level is ≥15 cm H2O and respiratory disturbances continue
+c.
+Education, Supportive and Behavioural Interventions
+A Cochrane systematic review compared the use of educational,
+supportive, behavioural or mixed (combination of two or more
+intervention types) strategies with control in encouraging compliance
+of CPAP usage in adults with OSA. Supportive interventions included
+office or/and home-based visits or phone check-ins by clinical staff while
+behavioural interventions included psychotherapeutic techniques. The
+findings showed that CPAP usage increased with:48, level I
+• behavioural intervention (MD=1.31 hours/night, 95% CI 0.95 to 1.66)
+• supportive intervention (MD=0.7 hours/night, 95% CI 0.36 to 1.05)
+• educational intervention (MD=0.85 hours/night, 95% CI 0.32 to
+1.39)
+• mixed intervention (MD=0.82 hours/night (95% CI 0.2 to 1.43)
+The primary papers were of varied quality.
+According to AASM guidelines, telemonitoring intervention has been
+shown to improve adherence.34
+Recommendation 5
+• Positive airway pressure (PAP) therapy should be offered to patients
+with obstructive sleep apnoea (OSA) upon diagnosis especially in
+moderate to severe OSA.
+ Nasal mask is the preferred interface.
+Management of Obstructive Sleep Apnoea
+c.
+Surgery
+PAP therapy is the mainstay treatment for OSA, however any major
+structural upper airway obstruction should be treated accordingly.
+Surgical treatment for OSA is one of the treatment options in selected
+group of patients. Surgery is part of continuous care for OSA patients
+who do not tolerate or accept PAP therapy.49 It is also indicated to
+increase PAP compliance in patients with major structural upper airway
+obstruction.
+In deciding the benefits of surgery, surgical success and surgical cure
+have been used. Surgical success in OSA is defined as postoperative
+reduction in the AHI of 50% and/or a postoperative AHI of <20 event/
+hour54, level II-3 whilst surgical cure is defined as an AHI of <5 events/hour
+after any sleep surgery.
+The CPG DG opines that follow-up PSG should be performed three
+months after surgery for reassessment.
+i.
+Nasal surgery
+Nasal breathing is vital for better quality sleep. A non-randomised
+clinical trial showed that combining nose surgery in multilevel surgery
+improved surgical success compared with multilevel surgery without
+nose surgery in OSA (OR=1.8, 95% CI 1.3 to 2.7).50, level II-1
+Evidence from an earlier meta-analysis with moderate quality of
+primary papers showed that isolated nasal surgery in patients
+with OSA and nasal obstruction reduced therapeutic CPAP device
+pressures compared with baseline (MD= -2.66 cmH2O, 95% CI -3.65 to
+-1.67).51, level II-3
+Upper airway surgery may have a moderate effect on decreasing
+therapeutic PAP requirements (i.e. optimal PAP level) and increasing
+PAP adherence although this estimate is based on a small number of
+uncontrolled observational studies.49
+ii.
+Oropharyngeal and velopharyngeal surgery
+There are various surgical techniques to address obstruction at
+velopharyngeal region.
+A meta-analysis comparing barbed reposition pharyngoplasty (BRP)
+and expansion sphincter pharyngoplasty showed no significant
+difference between the two techniques in terms of AHI reduction in
+OSA. However, the quality of primary papers was poor.52, level II-1
+In a meta-analysis evaluating the effects of lingual tonsillectomy
+with palatal surgery in OSA showed improvements postoperatively
+in:53, level II-3
+Management of Obstructive Sleep Apnoea
+15
+• AHI (MD= -18.51/hour, 95% CI -31.72 to -5.31)
+• minimal oxygen saturation (MD= 5.26, 95% CI 0.10 to 10.42)
+• ESS (MD= -5.44, 95% CI -8.69 to -2.18)
+In terms of complications, no postoperative airway compromise was
+reported. However, three of the patients in two included studies had
+significant bleeding which required revision surgeries. The quality of the
+included papers was moderate.
+A recent systematic review showed good outcomes after BRP surgery.
+There was a significant difference between preoperative and postoperative values of AHI and ODI. The surgical success rate reported in
+the included studies ranged between 65.4% and 93%. There were no
+important intraoperative or postoperative complications in all studies.
+BRP has been proven to be safe and effective surgery in OSA.54, level II-3
+Laser-assisted uvulopalatoplasty (LAUP) has been used as a surgical
+option to treat OSA. However, a meta-analysis showed that it only
+reduced AHI by 32% among all patients with only a minimal change in
+lowest oxygen saturation. A meta-analysis concluded that LAUP only
+gave a surgical success rate of 23% and cure rate of 8%, with worsening
+of the AHI among 44% of patients. The meta-analysis recommended
+that LAUP be performed with caution or not performed at all given
+the unfavourable results.55, level I However, quality assessment of the
+primary papers was not reported.
+Temperature controlled radiofrequency tissue ablation (TCRFTA) can
+be applied at the level of the base of tongue, soft palate, or both levels
+depending on the predominant site of obstruction. A meta-analysis
+showed TCRFTA of the tongue base as a stand-alone procedure in
+OSA improved sleep parameters and symptoms at one-year posttreatment:56, level I
+• RDI (respiratory disturbance index) (RoM=0.60, 95 % CI 0.47 to
+0.76)
+• LSAT (lowest oxygen saturation) (RoM=1.05, 95 % CI 1.01 to 1.10)
+• ESS (RoM=0.59, 95 % CI 0.51 to 0.67)
+• Snoring (RoM=0.48, 95 % CI 0.37 to 0.62)
+TCRFTA of soft palate as stand-alone procedure showed no significant
+short-term improvements in RDI or ESS. However, there was significant
+improvement in snoring. On the other hand, TCRFTA of both levels
+showed significant reduction in RDI with symptom improvement (ESS
+and snoring) although the oxygenation parameters were not significantly
+improved at one-year post-treatment.
+iii. Tongue surgery
+Tongue surgery includes conventional glossectomy and transoral
+robotic base-of-tongue surgery.
+Management of Obstructive Sleep Apnoea
+A meta-analysis looked at the outcomes of glossectomy using three
+different techniques (midline glossectomy, lingualplasty and submucosal
+minimally invasive lingual excision) in patients with OSA. The analysis
+showed significant improvement in AHI, ESS, snoring visual analogue
+score and lowest oxygen saturation with glossectomy. It also revealed
+surgical success rate of 59.56% (95% CI, 52.99% to 65.96%) and
+cure rate of 22.5% (95% CI 11.26% to 36.26%) of OSA cases.57, level III
+However, no quality assessment was mentioned.
+Transoral robotic base-of-tongue surgery (TORS BOT) is a newer
+alternative approach for tongue surgery in OSA. Two meta-analyses
+showed that TORS BOT led to a significant improvement in sleeprelated outcomes (AHI, ESS and lowest oxygen saturation) in patients
+with OSA.58, level II-3; 59, level III The surgical success rate using this
+approach was 68.4% (95% CI 63.0 to 73.5) while the surgical cure rate
+was 23.8% (95% CI 19.1 to 29.2).58, level II-3 Quality assessment in both
+meta-analyses were either not appropriate or not mentioned.
+Currently, there is no retrievable evidence on direct comparison of
+effectiveness and cost-effectiveness between conventional glossectomy
+and transoral robotic base-of-tongue surgery.
+Recommendation 6
+• Upper airway surgery may be considered in selected group of
+obstructive sleep apnoea patients.
+ A follow-up polysomnography may be considered three months
+after surgery.
+iv. Maxillary expansion in adults
+Maxillary constriction in a transverse dimension has been shown to be
+one of the pathophysiological risks for OSA. This discrepancy leads to
+increased nasal airflow resistance and displacement of the posterior
+tongue leading to pharyngeal collapse.6, level III
+Maxillary expansion in adults with OSA can be achieved by:
+• surgical-assisted rapid palatal expansion (SARPE)
+• distraction osteogenesis maxillary expansion (DOME)
+These procedures:
+• widen the nasal floor and increase palatal muscles tension to
+prevent palate collapsibility during sleep60, level III
+• increase upper airway volume which improve nasal breathing and
+tongue space61, level III
+• prevent posterior displacement of the tongue61, level III
+A recent meta-analysis showed that SARPE in adults with OSA led to
+significant:6, level III
+• reduction in nasal resistance
+Management of Obstructive Sleep Apnoea
+17
+• improvement of self-reported questionnaire [Nasal Obstruction
+Symptom Evaluation (NOSE) score]
+In another meta-analysis of adults with OSA, maxillary expansion also
+resulted in:60, level III
+• decreased AHI from a mean of 24.3 events/hour (95% CI 15.3 to
+33.3) to 9.9 events/hour (95% CI 5.4 to 14.4)
+• improvement of lowest oxygen saturation from 84.3% (95% CI
+81.7 to 87.0) to 86.9% (95% CI 85.1 to 88.7)
+A cross-sectional study showed that DOME used to treat adult OSA
+patients with narrow maxilla and nasal floor led to significant:62, level III
+• improvement in mean ESS score
+• improvement in AHI
+• reduction in NOSE score
+• increased percentage of rapid eye movement (REM) sleep
+• There is paucity of evidence on the amount of maxillary expansion
+needed to improve respiratory parameters and long-term
+improvements in OSA. However, the surgery can be considered
+in adults with moderate and severe OSA associated with a narrow
+maxilla and nasal floor.
+d.
+Maxillomandibular Advancement
+Maxillomandibular advancement (MMA) is one of the surgical
+interventions for patients with moderate to severe OSA. In a small RCT
+comparing MMA and CPAP in 50 patients with severe OSA, there was
+no significant difference in improvement of AHI and ESS.63, level I However,
+there was no explanation of randomisation or type of analysis done.
+MMA with or without adjunctive surgical procedures had been shown
+to be an effective and predictable surgical treatment option for patients
+with moderate to severe OSA with a surgical success rate of 86% and
+cure rate ranging from 38 - 50%.64 - 65, level II-3
+A recent meta-analysis of eight clinical trials on moderate to severe
+OSA showed that MMA:66, level II-3
+• achieved surgical success with mean final AHI of 12.4/hour (95%
+CI 7.18 to 17.6)
+• increased posterior airway volume (PAV) which correlated with
+improvements in postoperative AHI (r=0.75, 95% CI 0.65 to 0.85)
+In another meta-analysis which examined the impact of MMA in OSA, it
+was shown that:67, level II-3
+• upper airway volume increased in the vertical position (MD=8.909
+mm3, 95% CI 6.614 to 11.204) and supine position (MD=6.047
+mm3, 95% CI 5.539 to 6.565)
+Management of Obstructive Sleep Apnoea
+• AHI reduced (MD=45.596/hour, 95% CI 50.375 to 40.818)
+• RDI reduced (MD=50.474/hour, 95% CI 63.680 to 37.089)
+• oxygen saturation increased (MD=8.990%, 95% CI 5.205 to 12.775)
+• ESS reduced (MD= -10.491, 95% CI -12.519 to -8.464)
+There is no strong evidence to establish the magnitude and direction
+of maxillary or mandibular movement required to cure OSA and thus
+this should be tailored to each individual patient based on clinical
+assessment.
+The stability of improvement in airway parameters with MMA has been
+reported to be sustained significantly over a mean follow-up of 10
+months.68, level II-3
+The revised Stanford Protocol (2019) state that the following patients
+can benefit from MMA:69, level III
+• patients with OSA and concurrent dentofacial deformity
+ those who have a co-existing indication for orthognathic/
+corrective jaw surgery are indicated for proceeding directly to
+MMA surgery to concurrently improve speech and mastication
+function
+• patients with moderate to severe OSA without dentofacial
+deformity with:
+ complete lateral pharyngeal wall collapse on DISE
+ low hyoid position and obtuse cervicomental angle
+ high inclination of the occlusal plane
+Potential complications of MMA have been reported to be low but can
+be divided into:70, level III
+• intraoperative complications
+ bleeding due to injury to the descending palatine artery during
+maxillary downfracture
+ increased risk of unfavourable fracture patterns due to highly
+cortical bone
+• early postoperative complications
+ airway obstruction which should be acutely recognised;
+moderate to severe OSA patients must be monitored in the ICU
+after extubation until the airway is confirmed to be secured
+ due to the large movements, there is increased risk of wound
+dehiscence and exposure of plate leading to possible infected
+plates requiring close postoperative monitoring
+• late postoperative complications
+ malunion of bony segments
+ hardware issues relating to chronic sinusitis, acute infection or
+persistent pain
+ relapse of the OSA symptoms which require revision surgery
+Management of Obstructive Sleep Apnoea
+19
+Recommendation 7
+• Maxillomandibular advancement may be considered in certain
+patients with moderate to severe obstructive sleep apnoea.
+e.
+Adjunctive Therapy
+i.
+Mandibular advancement appliance
+Mandibular advancement appliance (MAA) is a relatively non-invasive
+intra-oral device which is worn overnight to position the mandible
+in a forward and downward direction. In principle, by repositioning
+the mandible forward, the total airway volume during mandibular
+advancement increases, predominantly at the lateral dimensions, in the
+volume of the velopharynx, and to a lesser extent in the volume of the
+hypopharynx. The mechanics of airway volume increase is achieved
+through an increase in the lower anterior facial height, reduction
+in the distance between the hyoid and posterior nasal spine, lateral
+displacement of the parapharyngel fat pads away from the airway and
+anterior movement of the tongue base muscles. Consequently, this
+facilitates a reduction in AHI.71, level III
+The effectiveness and safety of MAA vs other modalities were studied
+in adults with OSA in a meta-analysis and a network meta-analysis.
+CPAP was found to be more effective than MAA in reducing AHI with
+MD of between 8.243 (95% CI 3.354 to 13.132)72, level I and 9.59 (95%
+CrI 3.75 to 15.40).73, level I
+Apart from that, the network meta-analysis of moderate quality papers
+also reported that CPAP was more effective than MAA in:73, level I
+• Increasing lowest oxygen saturation (MD=5.25%, 95% CrI 7.64 to
+3.22)
+• reducing 24-hour SBP (MD=3.22 mmHg, 95% CrI 0.03 to 6.34)
+and daytime SBP (MD=4.58 mmHg, 95% CrI 0.71 to 7.98)
+In another analysis, when compared with control (sham CPAP or
+placebo), MAA was more effective in:
+• reducing AHI (MD=13.91/hour, 95% CrI 21.01 to 7.00)
+• increasing lowest oxygen saturation (MD=3.71%, 95% CrI 1.39 to
+6.42)
+• reducing ESS (MD=1.58, 95% CrI 2.89 to 0.28)
+• improving arousal index (MD=8.32/hour, 95% CrI 12.91 to 4.55)
+MAA was an effective option in patients with poor compliance to CPAP.
+Compliance was significantly lower in CPAP than MAA by 1.1 hour
+per night. The quality of the primary papers in the meta-analysis was
+moderate.72, level I
+The effectiveness of MAA is influenced by its design. Factors considered
+in MAA fabrication are mono-bloc vs dual-bloc, custom-made vs readyManagement of Obstructive Sleep Apnoea
+made and the amount of mandibular advancement. A meta-analysis
+comparing mono-bloc and dual-bloc MAA with success rate measured
+as:
+difference in mean AHI pre- and posttreatment x 100%
+mean AHI pretreatment
+where the former had a higher success rate of 82.1% (95% CI 72.2 to
+88.7) compared with the latter of 54.7% (95% CI 44.3 to 63.7). Monobloc MAAs also showed better improvement in the lowest oxygen
+saturation [10.048% (95% CI 7.733 to 12.363) vs 3.357% (95% CI 2.290
+to 4.423)]. The primary papers included were of moderate quality.74, level I
+Two systematic reviews found custom-made MAA to be more effective
+than ready-made MAA.75 - 76, level I Compared with ready-made MAA,
+custom-made MAA was more effective in:
+• reducing AHI (MD= -3.52/hour, 95% CI -6.36 to -0.69)
+• achieving better treatment response [defined as either partial
+(50% reduction in AHI) or complete (AHI <5/hour)], with an OR of
+0.47 (95% CI 0.28 to 0.78)
+• improving quality of life based on the Functional Outcomes of
+Sleep Questionnaire (MD=0.76, 95% CI 0.14 to 1.38).
+Furthermore, patients preferred custom-made MAA (p <0.001)76, level I
+and had better adherence with it (MD= -1.34, 95% CI -2.02 to -
+0.66).75, level I
+A meta-regression analysis showed that the amount of mandibular
+advancement did not significantly influence the success rate of the
+MAA.77, level I
+The usage of MAA had been associated with mild to moderate side
+effects including excessive salivation, temporomandibular joint (TMJ)
+discomfort, tooth discomfort, sore jaw muscles, dry mouth, occlusal
+change and difficulty chewing in the morning.72, level I
+A meta-analysis found the skeletal changes after the use of MAA were
+rotation of the mandible (downward and forward), and increase in the
+SNA angle by 0.06 ± 0.03o. While occlusal changes were:78, level I
+• increase in the lower incisor proclination by 1.54 ± 0.16o
+• decrease overjet by 0.89 ± 0.04 mm
+• decrease overbite by 0.68 ± 0.04 mm
+Recommendation 8
+• Mandibular advancement appliance may be considered for adult
+patients with obstructive sleep apnoea.
+ The preferred design should be tailored to the patient’s condition.
+Management of Obstructive Sleep Apnoea
+21
+ii.
+Myofunctional therapy
+Myofunctional therapy refers to the combinations of oropharyngeal
+exercises. These combinations include both isotonic and isometric
+exercises which involve several muscles and areas of the mouth,
+pharynx and upper respiratory tract to work on certain functions e.g.
+speaking, breathing, blowing, sucking, chewing and swallowing.
+In a Cochrane systematic review, myofunctional therapy in OSA
+patients:79, level I
+• reduced AHI (MD= -13.20 points, 95% CI -18.48 to -7.93)
+compared with sham therapy based on two studies of lowcertainty evidence
+• reduced AHI (MD= -6.20 points, 95% CI -11.94 to -0.46) compared
+with waiting list based on one study of low-certainty evidence
+• increased AHI (MD= 9.60 points, 95% CI 2.46 to 16.74), compared
+with CPAP based on one study of low-certainty evidence
+• increase AHI (MD=10.50 points, 95% CI 3.43 to 17.57), compared
+with CPAP based on one study of low-certainty evidence
+iii. Pharmacotherapy
+Pharmacotherapy has been used as an adjunct therapy in OSA
+patients with nasal obstruction and residual sleepiness.
+Nasal obstruction is a common complaint in patients with OSA especially
+with concomitant allergic rhinitis. In a Cochrane systematic review, an
+RCT with moderate quality showed that intranasal fluticasone in OSA
+patients with allergic rhinitis significantly reduced AHI compared with
+placebo.80, level I
+A more recent meta-analysis showed that intranasal corticosteroids
+improved AHI in OSA compared with placebo (SMD= -0.73, 95% CI,
+-1.23 to -0.23). The included studies reported only few mild AEs.81, level I
+However, the quality of the included studies was mixed.
+In another meta-analysis on OSA, topical nasal treatments
+(oxymetazoline, xylometazoline and phenylephrine) did not significantly
+improve AHI compared with placebo. The included primary papers were
+of moderate quality.82, level I
+Some OSA patients may have residual excessive daytime sleepiness
+even after using CPAP as first-line treatment. A meta-analysis showed
+that both modafinil and armodafinil improved subjective (based on
+ESS) and objective (sleep latency as measured by the Maintenance of
+Wakefulness Test) day time sleepiness in OSA compared with placebo
+as shown below:83, level I
+Management of Obstructive Sleep Apnoea
+With both medications, the most commonly reported AE was headache
+with RR of 1.78 (95% CI 1.20 to 2.65) in the modaﬁnil group and 2.04
+(95% CI 1.36 to 3.05) in the armodaﬁnil group. Other AEs included were
+nausea, anxiety or nervousness, insomnia and dizziness. The quality of
+primary papers was moderate.83, level I
+In the local setting, intranasal corticosteroids are prescribed to OSA
+patients with symptoms of allergic rhinitis and chronic rhinosinusitis.
+Recommendation 9
+• Intranasal corticosteroids may be prescribed to obstructive sleep
+apnoea patients with symptoms of allergic rhinitis and chronic
+rhinosinusitis.
+f.
+Bariatric Surgery
+AASM recommends that clinicians discuss referral for bariatric surgery
+in OSA patients with obesity (BMI ≥35 kg/m2) who are intolerant or
+unaccepting of PAP. AASM made a strong recommendation in favour of
+bariatric surgery referral based on moderate-quality evidence from two
+RCTs and 28 observational studies.49
+Recommendation 10
+• In obese patients with obstructive sleep apnoea (BMI ≥35 kg/m2),
+bariatric surgery may be considered.
+3.4 General Principles of Perioperative Management of Suspected
+and Confirmed OSA
+a.
+Preoperative Management of Suspected and Confirmed OSA
+Patients with a high probability of OSA based on screening tools are
+at an increased risk of postoperative morbidity. Health care providers
+should consider making OSA screening as part of their standard preanaesthetic evaluation. An evidence-based guideline recommends:84
+• patients with a diagnosis of OSA should be considered to be at
+increased risk for perioperative complications
+• adult patients at risk for OSA should be identified before surgery
+• screening tools e.g. STOP-BANG, perioperative sleep apnea
+prediction (P-SAP) score, Berlin questionnaire and American
+Society of Anesthesiologists (ASA) checklist can be used as
+Medication
+ESS [WMD
+(95% Cl)]
+Maintenance of Wakefulness Test
+[WMD (95% Cl)]
+Modafinil
+Armodafinil
+-2.96 (-3.73 to -2.19)
+-2.63 (-3.40 to -1.85)
+2.51 (1.50 to 3.52)
+2.71 (0.04 to 5.37)
+Management of Obstructive Sleep Apnoea
+23
+preoperative screening tools to identify patients with suspected
+OSA
+• there is insufficient evidence to cancel or delay surgery to confirm
+OSA in patients high risk for OSA, unless there is evidence of
+uncontrolled systemic diseases
+• Surgery should not be cancelled or delayed in patients with high
+risk of OSA preoperatively unless there is evidence of uncontrolled
+systemic disease.
+Majority of OSA patients presenting for surgery are undiagnosed
+and lack sufficient time before surgery to undergo formal diagnostic
+PSG. There is inadequate evidence to recommend mandatory use of
+PSG in the preoperative period. A cross-sectional study showed that
+implementation of a universal screening initiative using STOP-BANG
+incorporated into the electronic medical record improved compliance of
+screening at 66.1% and thus identification of patients at high risk for OSA.
+Nearly 90% of patients in the high STOP-BANG score group (STOPBANG Score of ≥4) were found to have a higher American Society of
+Anesthesiologists (ASA) physical status, higher co-morbidities and a
+mean BMI of 30.18 kg/m2.85, level III
+A prospective cohort study showed a positive correlation between
+STOP-BANG scores of 5 - 8 and AHI >15/hour (ρ=0.38, p<0.01).
+Patients with a STOP-BANG score of 5 - 8 had a higher risk of AHI >15/
+hour than those with a score of 3 - 4 (OR=2.9, 95% CI 1.1 to 7.8). There
+was no correlation between STOP-BANG of 3 - 4 and AHI >15/hour.
+Adding alternative scoring models with specific combinations of factors
+failed to improve the screening of the patients.86, level III
+Recommendation 11
+• Patients who are at risk of obstructive sleep apnoea (OSA) should
+be screened for OSA preoperatively.
+ The preferred screening tool is STOP-BANG.
+b.
+Intraoperative Management of Suspected and Confirmed OSA
+An evidence-based guidelines focusing on airway management
+looking at commonly used anaesthesia-related drugs and anaesthetic
+techniques in patients with OSA recommends:87
+• known or suspected OSA should be considered an independent
+risk factor for difficult intubation, difficult mask ventilation or a
+combination of both; thus adequate difficult airway management
+precautions should be taken
+• those who receive neuromuscular blocking agents may be at
+increased risk on effects of postoperative residual neuromuscular
+Management of Obstructive Sleep Apnoea
+blockade, hypoxaemia or respiratory failure; however, there
+is insufficient evidence to suggest the preference of any
+neuromuscular blocking reversal agent to reduce the risk of these
+complications
+• patients may be at increased risk for adverse respiratory events
+from the use of opioid medication and propofol for procedural
+sedation; thus precaution should be practiced when these agents
+are used
+• there is no specific recommendation on inhalational anaesthesia
+agents because of a lack of evidence in assessment of its residual
+effects
+• patients may be at increased risk for adverse respiratory events
+from intravenous (IV) benzodiazepine sedation; thus it should be
+used with caution
+• when applicable, regional anaesthesia is preferable over general
+anaesthesia
+The difficult airway in OSA patients is a contributing factor to the
+high rate of adverse respiratory events and thus should be managed
+accordingly. A meta-analysis showed that there was 3-fold increase in
+difficult intubation (OR=3.46, 95% CI 2.32 to 5.16) and difficult mask
+ventilation (OR=3.39, 95% CI 2.74 to 4.18) in OSA patients compared
+with non-OSA patients. However, there were no significant difference in
+supraglottic airway failure rates between the groups.88, level II-2
+In a narrative review, presence of OSA was associated with increased
+risk for major complications during and after surgery, including
+respiratory failure-intubation, prolonged mechanical ventilation, CV
+events, neurocognitive disorders, intensive care admission, prolonged
+hospital stay and readmission. These risk factors included excessive
+sedation, opioid-based analgesia, intubation and mechanical ventilation.
+Regional anaesthesia reduced incidence of major complications
+compared with general anesthesia in OSA.89, level III
+Sleep apnoea is associated with negative outcomes following general
+anaesthesia. It has been a practice that short-acting anaesthetic agents
+are preferred to standard agents to reduce this risk. However, a small
+RCT showed that short-acting agents (desflurane-remifentanil) did
+not appear to reduce the impact of general anaesthesia compared
+with standard agents (sevoflurane-fentanyl) in terms of mean values
+of supine AHI on the first and third post perative nights. However, the
+prevalence of severe OSA on the third postoperative night was higher
+than on the preoperative night (OR=7.00, 95% CI 2.07 to 23.60). This
+data suggested that monitoring should be continued up to at least the
+third postoperative night.90, level I The RCT used per protocol analysis on
+certain outcomes.
+Management of Obstructive Sleep Apnoea
+25
+One cross-sectional study analysed the effects of recovery time in
+patients with OSA receiving total intravenous anaesthesia (TIVA) and
+volatile gas anaesthesia for upper airway ambulatory otolaryngology
+surgery. TIVA significantly reduced the time spent in Post-anaesthesia
+Recovery Unit (PACU) across the severity of OSA. There was a strong
+correlation for patients on inhalational anaesthesia to have increased
+recovery times from PACU to the ward as OSA severity increased
+(p<0.001), whereas this was insignificant for those receiving TIVA.91,
+level III
+Another cross-sectional study of bariatric patients undergoing preoperative screening for oesophagogastroduodenoscopy compared
+the use of sealed nasal positive airway pressure mask and passive
+oxygenating devices. Those who used sealed nasal positive airway
+pressure mask significantly had higher BMI and ASA classification
+(Appendix 7), and were more likely to have OSA. They also had
+significantly lower incidence of desaturation events and higher
+median lowest O2 compared with those using passive oxygenating
+devices.92, level III
+• Patients with OSA are at high risk of experiencing anaesthesiarelated respiratory or CV complications.
+• The following are important to be considered when anaesthesia is to
+be given to patients with OSA during the intraoperative period:
+ regional anaesthesia is preferred over general anaesthesia
+where it is applicable
+ TIVA is preferred over volatile anaesthesia
+ IV benzodiazepine should be used with caution during sedation
+• Obstructive sleep apnoea is associated with difficult mask ventilation
+and intubation.
+c.
+Postoperative Management of Suspected and Confirmed OSA
+Higher postoperative adverse outcomes in the presence of OSA have
+been documented in patients undergoing various types of surgeries
+compared to the general population. The majority of OSA patients are
+undiagnosed and untreated during the perioperative period, adversely
+affecting post operative recovery. It has been recommended that
+assessment of patients for possible OSA before surgery is done with
+careful postoperative monitoring for those suspected to be at high risk
+of OSA.84
+The patient and the treating health care team should be aware that
+a high probability of OSA may increase postoperative morbidity. The
+following have been recommended postoperatively in relation to adults
+with OSA.84
+Management of Obstructive Sleep Apnoea
+• Hospitals should have suitable PAP devices available for perioperative use or ensure patients bring their own device to the
+hospital.
+• Patients should wear their PAP device at appropriate times during
+their stay in the hospital, both preoperatively and post-operatively.
+• Untreated OSA patients with optimised co-morbid conditions
+may proceed to surgery, provided strategies to minimise postoperative complications are implemented.
+Patients with OSA are at risk of postoperative AEs because drugs used
+during general anesthesia may increase the risk of prolonged periods
+of apnoea.
+• A meta-analysis showed that surgical patients with OSA were
+at increased risk of postoperative respiratory failure (OR=2.42,
+95% CI 1.53 to 3.84) and cardiac events (OR=1.63, 95% CI
+1.16 to 2.29) compared with non-OSA patients. Additionally, the
+presence of OSA was also associated with 2.5 times higher odds
+of unplanned transfer to an ICU following surgery (OR=2.46, 95%
+CI 1.29 to 4.68).93, level I
+• Another meta-analysis showed that 85% of opioid-induced
+respiratory depression (ORID) occurred postoperatively within
+the first 24 hours. Surgical patients with pre-existing cardiac,
+respiratory disease or OSA were at increased risk for ORID. For
+example, patients with OSA had an OR of 1.4 (95% CI 1.2 to
+1.7). Patients with post-operative OIRD received higher doses of
+morphine equivalent daily doses than controls (MD=2.8, 95% CI
+0.4 to 5.3)94, level II-2
+• A third meta-analysis among adult patients using STOP-BANG
+questionnaire showed that patients with high risk-OSA had 4-fold
+higher risk of post-operative complications compared with those
+with low risk-OSA (OR=3.93, 95% CrI 1.85 to 7.77). Additionally,
+their duration of hospital stay was longer (MD=2.01 days, 95% CrI
+0.77 to 3.24).95, level II-2
+• In a cross-sectional study, adverse respiratory events were
+a common occurrence in the PACU and were more frequently
+observed in high risk OSA (STOP-BANG >3) patients compared
+with low risk OSA (39% vs 10%, p<0.001). Patients with high
+risk OSA presented with mild-moderate hypoxemia and also
+high inability to breathe deeply (34% vs 9%, p=0.001). They
+also had a longer median stay in the PACU (120 min vs 99 min,
+p=0.035).96, level III
+Management of Obstructive Sleep Apnoea
+27
+Recommendation 12
+• Patients with or suspected high risk of obstructive sleep apnoea
+(OSA) should be monitored closely postoperatively.
+• Hospitals should have suitable positive airway pressure devices
+available for perioperative use or ensure patients with OSA bring
+their own device to the hospital.
+3.5 Monitoring and Follow-up
+• Monitoring and follow-up of OSA cases are important in ensuring
+treatment response, adherence and optimisation of medical risk
+factors. AASM recommends periodic follow-up to confirm:34
+ adequacy of treatment via reduction of AHI
+ symptom resolution via objective questionnaire (e.g. sleepiness
+or QoL)
+ treatment adherence via PAP usage data
+• OSA should be ideally managed by a multidisciplinary team
+consisting of respiratory physicians, otolaryngology surgeons,
+oral maxillofacial surgeons, orthodontists, bariatric surgeons and
+dietitians.
+In addition to assessments of treatment effectiveness, AASM also
+recommends addressing issues associated with PAP therapy.34
+Examples are mask interface and humidification.
+Following a surgical procedure and an appropriate period of healing
+(weeks to months), patients should be assessed using PSG or HSAT.
+The patients should be assessed clinically on periodic basis since OSA
+may recur post-operatively.97
+AASM recommends follow-up PSG or HSAT can be considered:97
+• after a 10 - 20% reduction or increase in weight
+• after at least three months of recovery following weight loss
+surgery
+3.6 Referral
+a.
+Referral for Sleep Medicine Services
+Sleep medicine services in Malaysia for the management of OSA are
+offered by multidisciplinary specialties including respiratory medicine,
+otorhinolaryngology (ORL), oral and maxillofacial surgery, and
+orthodontic.
+CPG DG opines that all patients with clinical suspicion of OSA with or
+without cardio-metabolic risk factors and STOP-BANG score ≥3 should
+be referred for diagnostic sleep test.
+Management of Obstructive Sleep Apnoea
+Recommendation 13
+• Patients with clinical suspicion of obstructive sleep apnoea with or
+without cardio-metabolic risk factors and STOP-BANG score ≥3
+should be referred for diagnostic sleep test.
+b.
+Referral Criteria for Surgical Intervention
+CPAP is the mainstay of OSA treatment but its effectiveness can be
+compromised when the patients are unable to adhere to it. Consultation
+with the physician should be made to address barriers to adherence.
+Surgeries can improve adherence of CPAP or complement other
+therapies.
+Surgical referral for alternative treatment options has been
+recommended for adult OSA patients with:49
+• BMI <40 kg/m2 who are intolerant or unaccepting of PAP
+obesity (BMI ≥35 kg/m2) who are intolerant or unaccepting of PAP
+for bariatric surgery
+• BMI <40 kg/m2 and persistent inadequate PAP adherence due to
+pressure-related side effects
+• major upper airway anatomic abnormality (PAP should be offered
+as initial therapy before considering upper airway surgery)
+Management of Obstructive Sleep Apnoea
+29
+4
+OBSTRUCTIVE SLEEP APNOEA IN CHILDREN
+4.1 Epidemiology and Risk Factors
+The prevalence of OSA in children is 1 - 4%.98, level III
+OSA in children is defined by the presence of sleep disordered
+breathing symptoms in combination with AHI >1 events/hour.99
+Clinical presentation of OSA in this group varies from symptoms directly
+related to upper airway obstruction to the complications related to OSA
+itself (refer to Table 3).
+Table 3. Clinical presentation of OSA in children
+Adapted: Joosten KF, Larramona H, Miano S, et al. How do we recognize the child
+with OSAS?. Pediatr Pulmonol. 2017;52(2):260-271.
+Patient with these risks or abnormalities are encouraged to be screened
+for OSA:100, level III
+• obesity
+• prematurity
+• adenotonsillar hypertrophy and family history of adenotonsillar
+hypertrophy
+• nasal septum deviation, allergic rhinitis
+• craniofacial anomalies
+• maxillary (midface) hypoplasia in craniosynostosis syndromes
+• mandibular hypoplasia without or with cleft palate
+• neuromuscular disorder
+• complex disorders: achondroplasia, Chiari malformation, Down
+syndrome, Ehlers–Danlos syndrome, mucopolysaccharidoses,
+Prader–Willi syndrome
+In a cross-sectional study involving infants 0 - 17 months of age with
+a diagnosis of OSA by clinical features and nocturnal PSG, additional
+co-morbidities of OSA found were gastroesophageal reflux, periodic
+limb movements in sleep, laryngomalacia/tracheomalacia and
+epilepsy.101, level III
+Symptoms of upper airway
+obstruction
+Snoring
+Witnessed apnoea
+Difficulty in breathing
+Abnormal sleep posture
+Mouth breathing
+Excessive sweating
+Complications of OSA
+Elevated blood pressure
+Enuresis
+Excessive daytime sleepiness
+Inattention/hyperactivity
+Cognitive deficits
+Academic difficulties
+Failure to thrive
+Morning headache
+Management of Obstructive Sleep Apnoea
+Snoring history is often missed by parents and caregivers of children
+and adolescents with OSA due to adenotonsillar hypertrophy and
+obesity. Although it is easy to elicit, it is not specific to OSA.2
+• Snoring is common among children and adolescents with
+adenotonsillar hypertrophy and obesity. History of snoring should be
+obtained to suspect OSA in this group.
+4.2 Diagnosis
+Recognising and diagnosing OSA in children requires a high index of
+clinical suspicion. A meta-analysis of 10 diagnostic studies on clinical
+assessment of OSA in children showed substantial variation in the
+sensitivity and specificity among different symptoms and signs i.e.
+snoring, observed apnoea, difficulty in breathing, excessive daytime
+somnolence and tonsillar size. Several models using combinations of
+symptoms and signs had been proposed but showed mixed results
+in diagnostic accuracy. One of the models that has been studied was
+Paediatric Sleep Questionnaire (PSQ) by Chervin RD et al. 2000 which
+had a sensitivity of 0.78 and specificity of 0.72.102, level III PSQ score of ≥8
+indicate sleep related breathing disorder. In a recent meta-analysis using
+PSG as the reference standard, PSQ had good sensitivity in screening
+for all severity of OSA in children [sensitivity of 73% (95% CI 67 to 78),
+80% (95% CI 71 to 86) and 89% (95% CI 75 to 97) for mild, moderate
+and severe respectively].103, level III The questionnaire had been validated
+in several languages. In a local study, both English (Appendix 10) and
+Malay PSQ (Appendix 11) had acceptable psychometric measurement
+properties (Cronbach’s α of 0.753 and 0.760 respectively) to assess
+SDB in the Malay speaking population.104, level III
+The gold standard diagnostic test for OSA in children is overnight,
+attended, in-laboratory PSG (PSG level 1). The PSG will demonstrate
+the severity of OSA which helps in short- and long-term management
+of the patients. Specific measuring and scoring criteria for children
+should be used in the interpretation of the PSG results. If level I PSG
+is not available, clinicians may opt for alternative diagnostic tests e.g.
+nocturnal video recording, overnight pulse oximetry, daytime nap PSG
+or ambulatory PSG.2
+• OSA in children is diagnosed in the presence of symptoms
+with:105, level III
+ AHI ≥2 or obstructive apnoea index ≥1
+OR
+ AHI ≥1 (including central events)
+Management of Obstructive Sleep Apnoea
+31
+Severity of OSA in children are shown as below:
+Reference: kaditis A, Kheirandish-Gozal L, Gozal D. Pediatric OSAS: Oximetry can
+provide answers when polysomnography is not available. Sleep Med
+Rev. 2016;27:96-105.
+In Malaysia, diagnostic testing of OSA in children is more challenging
+compared to adult including limited facilities for PSG for children. A
+systematic review studied diagnostic test accuracy (DTA) of different
+tests for OSA in reference to PSG in children. Sleep lab-based
+polygraphy, urinary biomarkers, and rhinomanometry showed excellent
+DTA. However, the quality of the primary studies was generally low.106,
+level III
+A meta-analysis showed good overall diagnostic accuracy of type
+3 PSG compared with full PSG in predicting OSA in children with
+sensitivity of 76% (95% CI 64 to 85%), specificity 76% (95% CI 60%
+to 88%) and AUC of 0.88. However, the methodological quality of the
+primary papers was poor.107, level III
+Overnight pulse oximetry is readily available in the local healthcare
+system. A systematic review on overnight pulse oximetry as a testing
+modality for the diagnosis of OSA in children showed that at least three
+clusters of desaturation events and at least three oxygen saturation
+(SpO2) drop below 90% in a overnight pulse oximetry recording were
+indicative of moderate-to-severe OSA. An ODI4 >2 episodes/hour
+combined with OSA symptoms also exhibited high PPV (84%) for
+AHI >1/hour. Apart from that, McGill Oxymetry Score has shown good
+sensitivity and specificity for OSA. The included studies had moderate
+to high risk of bias.105, level III Pulse oximetry had good sensitivity in
+screening moderate and severe paediatric OSA as shown in a recent
+meta-analysis [sensitivity of 0.83 (95% CI 0.69 to 0.91) and 0.83 (95%
+CI 0.57 to 0.94) respectively]. It also had a good specificity in mild,
+moderate and severe OSA in children (specificity ranged from 0.75 to
+0.86).103, level III
+An overnight pulse oximetry must have the following technical
+requirements:108, level III
+• sufficient recording capacity for overnight monitoring
+• short averaging time (<3 seconds at a heart rate of 80 bpm)
+AHI
+Severity of OSA
+1-5/hr
+5-10/hr
+>10/hr
+Mild
+Moderate
+Severe
+Management of Obstructive Sleep Apnoea
+Recommendation 14
+• Paediatric Sleep Questionnaire (PSQ) should be used as a screening
+tool for obstructive sleep apnoea (OSA) in children.
+• Polysomnography level 1 should be considered for diagnosis of
+OSA in this group especially those at risk.
+ If it is not available, overnight pulse oximetry may be used as an
+alternative diagnostic tool.
+4.3 Airway Assessment
+Flexible fiberoptic nasopharyngoscopy is often used to identify potential
+sites of airway obstruction in children e.g. enlarged nasal turbinates,
+septal deviation, adenoid hypertrophy, lingual tonsil hypertrophy,
+tongue base prolapses and laryngomalacia. The evaluation may be
+limited by several factors. Namely, children may not cooperate and also
+the examination is performed in an upright position on awake patients,
+it may not capture the dynamic upper airway collapse that may occur
+exclusively during sleep.109, level III
+DISE, on the other hand, is commonly performed in children who have
+undergone previous or prior to AT. Typically, this is done in children who
+are at high-risk for persistent OSA including those with obesity, severe
+OSA, Down syndrome, craniofacial anomalies (i.e., Pierre Robin
+sequence, Treacher Collins syndrome), hypotonia and neurologic
+impairment. DISE has been used to decide on definitive management
+of OSA.109, level III
+• DISE allows the surgeon to address multiple levels of airway
+obstruction and decide on definitive management of OSA in children.
+• Craniofacial assessment should be done to rule out the effect of the
+skeletal pattern on the airway dimension (refer to Subchapter 5.2) as
+a contributory factor to OSA.
+4.4 Treatment
+a.
+Pharmacotherapy
+A Cochrane systematic review on the effectiveness and safety of antiinflammatory drugs for OSA treatment in children showed no difference
+between intranasal corticosteroids and placebo on improvement of AHI.
+However, montelukast group had lower AHI compared with placebo
+(MD= -3.41, 95% CI -5.36 to -1.45). AEs of these medications were
+rare and minor e.g. nasal bleeding.110, level I The four RCTs included in
+the review were of moderate quality.
+In a recent meta-analysis of four moderate quality RCTs in children with
+OSA, the following comparisons using oral montelukast showed:111, level I
+Management of Obstructive Sleep Apnoea
+33
+• oral montelukast vs placebo
+oral montelukast improved OAHI (SMD= -0.99/hour, 95% CI -1.40
+to -0.58), ODI (MD=-2.83/hour, 95% CI -3.86 to -1.79), AI (SMD=
+-1.02/hour, 95% CI -1.47 to -0.57) and minimal SpO2 (MD=4.07%,
+95% CI (2.27 to 5.88).
+• oral montelukast + routine drugs vs routine drugs (i.e. antitussive,
+expectorant, antihistamines and antibiotics)
+combination of oral montelukast with routine drugs improved
+AHI (MD= -1.62/hour, 95% CI -2.63 to -0.61) and minimal SpO2
+(MD=2.53%, 95% CI 0.88 to 4.18)
+• oral montelukast + nasal spray of mometasone furoate vs nasal
+spray of mometasone furoate
+combination of oral montelukast with nasal spray of mometasone
+furoate improved AHI (MD=0.46/hour, 95% CI 0.04 to 0.88) and
+minimal SpO2 (MD=2.30%, 95% CI 1.58 to 3.02)
+In terms of safety, AEs reported were headache, nausea and vomiting
+in the oral montelukast group.
+Recommendation 15
+• Oral montelukast and/or nasal corticosteroids may be considered in
+children with obstructive sleep apnoea.
+b.
+Surgery
+Adenotonsillectomy (AT) is the most commonly performed procedure
+in children with adenotonsillar hypertrophy and OSA. In a systematic
+review, children with AT had 75% surgical success.112, level I In a
+large RCT in children with OSA aged 5 - 9 years old, normalisation of
+PSG findings was observed in 79% of children in the early-AT
+group compared with 46% in those of watchful-waiting group
+(p<0.001).113, level I
+In children post-AT, persistent OSA symptoms may be due to multilevel
+obstruction, which is particularly found in children with co-morbidities
+e.g. Down syndrome, obesity and craniofacial abnormalities.112, level I
+Adjunct surgical treatments e.g. lingual tonsillectomy, supraglottoplasty,
+epiglottopexy and tracheostomy can be offered to them. Before
+considering further surgical management, the anatomic location of
+obstruction needs to be determined. This can be undertaken in several
+ways e.g. flexible awake laryngoscopy and DISE.114, level III
+The adenoids may regrow after incomplete adenoidectomy due to
+various factors.
+• smaller nasopharynx in young children
+• method of adenoidectomy - curettage adenoidectomy leaves
+residual adenoid tissue
+• infection leading to inflammation of the residual tissue
+Management of Obstructive Sleep Apnoea
+Hence, revision adenoidectomy is needed and surgical method with
+direct visualization should be used.
+Tonsillar tissue may regrow in the cases when there is residual tissue
+after surgery or in some cases when tonsillotomy was performed.
+Recommendation 16
+• Adenotonsillectomy (AT) is the treatment of choice in children with
+obstructive sleep apnoea due to adenotonsillar hypertrophy.
+ In those with post-AT residual disease, upper airway and multilevel
+obstruction should be reassessed and managed accordingly.
+c.
+Continuous positive airway pressure
+Continuous positive airway pressure (CPAP) is one of the therapies
+in children with OSA. It delivers positive pressure via a nasal mask to
+mechanically stent the airway and improve functional residual capacity.
+CPAP management is challenging in children and only a
+small percentage tolerate therapy. In a systematic review, caregiver
+support was shown to increase adherence to CPAP [longer CPAP
+use/night by 86.60 minutes (95% CI 10.90 to 162.30) and percentage
+of CPAP usage more than 4 hours/ night by 18.10% (95% CI 3.87 to
+32.33)] compared with absence of caregiver support. Mode of PAP
+delivery (BiPAP, CPAP and APAP) did not significantly improve
+adherence.115, level I
+CPAP therapy is indicated in children with OSA if they have persistent
+symptoms or signs after surgery or in whom surgery is contraindicated.
+Some of the relative contraindications for adenotonsillectomy include:2
+• morbid obesity and small tonsils/adenoid
+• bleeding disorder refractory to treatment
+• submucus cleft palate
+It is also recommended that children on CPAP should be managed by
+a clinician with expertise in this field. CPAP pressure must be titrated in
+the sleep laboratory before therapy is being prescribed. During followup, objective monitoring of adherence, presence of side effects and
+any factors causing suboptimal therapy must be assessed and CPAP
+pressure titrated accordingly. Behavioural modification therapy may be
+required to improve adherence especially in young children or those
+with developmental delay. Children grow rapidly and therefore the mask
+fit must be assessed at least six-monthly.2 Complication related to mask
+(e.g. midfacial hypoplasia) can be minimised by close monitoring and
+pro-active approach.116
+Management of Obstructive Sleep Apnoea
+35
+There is no recent evidence on advantage of using BiPAP over CPAP.
+A cross-sectional study showed no difference in adherence between
+automated continuous positive pressure (APAP) and CPAP in paediatric
+group with OSA.117, level III
+Recommendation 17
+• Continuous positive airway pressure (CPAP) should be offered
+to children with obstructive sleep apnoea if they have persistent
+symptoms or signs after surgery or in whom surgery is contraindicated.
+ Nasal CPAP is the preferred option
+ CPAP should be managed by experienced and skilled
+multidisciplinary clinicians
+d.
+Adjunctive therapy
+i.
+Orthodontic functional appliances
+Functional appliance is a type of mandibular advancement appliance
+used for orthodontic correction in growing adolescents (10 - 16 years
+old) for the treatment of mandibular retrognathia.
+A systematic review on children and adolescents (<16 years old) with
+mild to moderate OSA who require orthodontic correction for their
+malocclusion (e.g. mandibular retrognathia, deep bite and crossbite)
+showed limited evidence to suggest that functional appliance result
+in short-term (6 - 12 months) improvement in AHI scores. The AHI
+reductions were significant with:118, level I
+• full time wear of the twin block functional appliances
+• part time wear of modified monoblocs
+• full time wear of a customised mandibular repositioning oral
+appliance
+However, the quality of the primary papers was low.
+In a Cochrane systematic review oral or functional appliances showed
+better reduction in AHI with RR of 0.39 (95% CI 0.20 to 0.76) compared
+with no treatment in children with OSA. The oral appliance also reduced
+daytime and nocturnal symptoms of:119, level I
+• oral breathing (RR=0.16, 95% CI 0.04 to 0.59)
+• nasal stuffiness (RR=0.18, 95% CI 0.05 to 0.69)
+• habitual snoring (RR=0.18, 95% CI 0.06 to 0.55)
+• restless sleep (RR=0.21, 95% CI 0.05 to 0.84)
+However, the quality of primary papers was low.
+ii.
+Maxillary expansion
+Maxillary expansion devices are used to correct transverse skeletal
+discrepancy e.g. narrow maxilla and posterior crossbites in growing
+children.
+Management of Obstructive Sleep Apnoea
+A network meta-analysis did not find rapid maxillary expansion
+(RME) to effectively reduce the AHI compared with controls and other
+types of treatment. In terms of effectiveness in AHI reduction, AT +
+pharyngoplasty was the most effective in reducing AHI (WMD=9.81/
+hour, 95% CI 2.18 to 17.44) when compared with no treatment. RME
+was found to be one of the most effective interventions to improve
+lowest oxygen saturation compared with AT.120, level I However, quality of
+included primary papers were not mentioned.
+In a systematic review comparing pre-and post-treatment, RME was
+found to improve the AHI (MD= -4.84/hour, 95% CI -8.47 to -1.21) and
+lowest oxygen saturation (MD=5.78, 95% CI 1.99 to 9.58).121, level I
+iii. Maxillary skeletal protraction
+Maxillary protraction is used for correction of maxillary retrognathia in
+growing children. Currently, there is no evidence on maxillary protraction
+for the treatment of OSA in children.
+• More strong evidence is warranted before orthodontic appliances
+e.g. functional appliances, RME and maxillary protraction devices
+can be recommended for the treatment of OSA in children. However,
+if an OSA patient presents with skeletal discrepancies, they can be
+considered for orthodontic appliances.
+4.5 Perioperative Management in Paediatric
+An increase in prevalence of paediatric OSA and obesity, surgical
+procedures poses a practical challenge to the anaesthesiologist. In
+general, the principles of perioperative anaesthetic management of a
+paediatric group at high risk or with OSA for surgical procedures are as
+outlined below.98, level III
+a.
+Preoperative assessment
+• Detailed medical history which includes screening questionnaire,
+review of medical record, clinical risk factors and co-morbidity and
+targeted physical examination are mandatory.
+• Severity of OSA, lowest and duration of oxygen desaturation and
+CO2 measurement from the PSG results if available should be
+documented.
+• Patients with lowest oxygen desaturation <70% must be referred
+for further cardiopulmonary assessment.
+• Sedative premedication should be administered with caution and
+those receiving it should be monitored with continuous pulse
+oximetry.
+Management of Obstructive Sleep Apnoea
+37
+b.
+Intraoperative management
+• There is no current evidence or consensus to support any specific
+anaesthesia technique.
+• In cases of potential difficult intubation, appropriate airway adjunct
+i.e. fibreoptic bronchoscope, video laryngoscope and difficult
+airway cart should be made available.
+• Anaesthesia with opioid sparing technique is preferred.
+• Awake extubation is advocated.
+c.
+Postoperative care
+• Continuous monitoring is strongly recommended in OSA patients.
+It can be done in the general or critical care wards.
+• The CPG DG opines that moderate to severe OSA patients with the
+following conditions may require monitoring in critical care wards:
+ patient factor - neuromuscular disorder, craniofacial anomalies,
+requirement of oxygen preoperatively
+ surgical factor - surgery near or above diaphragm
+ anaesthetic factor - postoperative IV narcotic or patient-controlled
+analgesia
+• Postoperative use of BiPAP and CPAP at the preoperative setting
+may be continued.
+• Postoperative analgesia choices include non-steroidal antiinflammatory drug and paracetamol.
+In a practice guideline for the perioperative management of patients
+with OSA, the American Society of Anesthesiologists Task Force
+recommends to consider the use of local peripheral nerve blocks and
+central neuroaxial anaesthesia when indicated. Patients who are at an
+increased perioperative risk from OSA should not be discharged to an
+unmonitored setting following recovery from anaesthesia until they are
+no longer at risk of post operative respiratory complications.122
+Dexmedetomidine is associated with an overall perioperative opioidsparing effect in paediatric patients undergoing AT with a significant
+reduction in perioperative opioid use.123, level III
+Recommendation 18
+• Perioperative assessment should be thoroughly performed in the
+paediatric group at high risk and those diagnosed with obstructive
+sleep apnoea (OSA).
+• Paediatric patients at an increased perioperative risk from OSA
+should be closely monitored following recovery from anaesthesia.
+Management of Obstructive Sleep Apnoea
+4.6 Monitoring and Follow-up
+All paediatric OSA should be monitored and followed-up between six
+weeks to 12 months after each treatment intervention. The parameters
+to be assessed during follow-up include symptoms, severity of OSA
+evaluated objectively, complications from the cardiovascular and central
+nervous system, quality of life, enuresis and paediatric growth rate.
+PSG is the preferred objective method to detect residual OSA after a
+treatment intervention. However, in settings where PSG is not available,
+alternative methods e.g. polygraphy, oximetry and capnography can be
+considered for use.99
+AASM guidelines recommend that all OSA patients with persistent
+signs and symptoms after therapy should be reassessed to determine
+whether further treatment is required.124, level III
+ERS Task Force further describes the criteria and interval of
+reassessment of children with OSA:99
+• persistent SDB symptoms or at risk of persistent OSA preoperatively ≥6 weeks after AT
+• mild OSA treated with montelukast/nasal corticosteroids after 12
+weeks of treatment
+• post-RME at 12 months or earlier if symptoms persist
+The ERS Task Force also recommends repeat titration of PAP therapy
+at least annually or earlier if there is a clinical indication.99
+On follow-up, adherence to PAP therapy is measured objectively within
+three months of treatment initiation. If the therapy is ineffective, measures
+to improve adherence e.g. behavioural modification, treatment of CPAP
+side effects or alternative treatments can be instituted.124, level III
+Children with OSA especially the high-risk group must be under followup by a multidisciplinary team consisting of paediatrician or respiratory
+paediatrician, ORL, craniofacial surgeon, intensivist, orthodontist and
+other relevant specialists trained in sleep medicine.125
+Children with OSA who require long-term use of CPAP must be monitored
+by paediatric respiratory specialist with paediatric sleep experience
+objectively by follow-up PSG to determine CPAP requirement.2
+During follow-up, monitoring of CPAP therapy complications e.g. nasal
+bridge pressure sores, oronasal dryness, eye irritation discomfort
+and flattening of the midface (from long-term use of the interface on
+growing facial structures) may occur and require early recognition for
+intervention by attending clinicians.126
+Management of Obstructive Sleep Apnoea
+39
+Recommendation 19
+• Children with obstructive sleep apnoea (OSA) especially the highrisk group should be followed-up by multidisciplinary team trained in
+sleep medicine.
+• Children with OSA who require long-term use of continuous positive
+airway pressure (CPAP) should be monitored objectively by
+respiratory paediatrician with paediatric sleep experience.
+• Monitoring of CPAP therapy complications is required during followup.
+Management of Obstructive Sleep Apnoea
+5.
+SPECIAL GROUP
+5.1 Pregnancy
+OSA is common in pregnancy and associated with various pregnancyrelated health outcomes. A meta-analysis showed that the worldwide
+prevalence of OSA among pregnant women was 15% (95% CI 12 to
+18). The estimated prevalence for each trimester ranged from 15 - 19%.
+OSA was linked to a higher risk of pregnancy induced hypertension, preeclampsia, gestational diabetes, pulmonary oedema during pregnancy,
+Caesarean-section and postoperative wound complications. The OR
+values were 1.97, 2.35, 1.55, 6.35, 1.42, and 1.87 respectively. OSA
+was also related to an increased risk for preterm birth (OR=1.62) and
+neonatal intensive care unit admission (OR=1.28).127, level II-2
+a.
+Screening and Diagnosis
+Pregnant woman with risk factors especially obesity and craniofacial
+anomalies should be asked about symptoms of OSA. The use of
+screening questionnaires may not be helpful based on the following
+evidence.
+A meta-analysis showed that performance of screening questionnaires
+for OSA during pregnancy were poor to fair.128, level III
+• BQ had pooled sensitivity of 0.66 (95% CI 0.45 to 0.83) and
+specificity of 0.62 (95% CI 0.48 to 0.75)
+• ESS had pooled sensitivity of 0.44 (95% CI 0.33 to 0.56) and
+specificity of 0.62 (95% CI 0.48 to 0.75)
+In one of the included studies, a large cross-sectional study on pregnant
+women in their third trimester showed the overall predictive ability of the
+screening tools (STOP, STOP-BANG, BQ, ASA Checklist and ESS) for
+OSA was modest with AUC of 0.62 to 0.695. However, none of the
+screening tools accurately identified OSA among the patients.
+Diagnosing OSA in a pregnant woman is a challenge for physicians.
+The gold standard for objective testing is level 1 PSG which is timeconsuming, labour-intensive and costly. Unattended, portable home
+PSG is a reasonable alternative among the general population.
+However, the American Academy of Sleep Medicine (AASM) guideline
+for the use of portable home polysomnography excludes pregnant
+women.
+b.
+Treatment
+There is lack of evidence on the treatment of OSA in pregnancy. In a
+small RCT on pregnant women with gestational diabetes, two weeks
+of CPAP treatment resulted in significantly lower rates of preterm
+delivery, unplanned cesarean section and neonatal intensive care unit
+admissions compared with no CPAP. However, there was no OSA
+parameters measured in the study.129, level I
+Management of Obstructive Sleep Apnoea
+41
+A cohort study of pregnant women with hypertensive disorder showed
+that CPAP significantly reduced the incidence of severe forms of
+hypertensive syndrome and improved both lowest oxygen saturation
+and ESS after one month of CPAP usage. The respiratory event index
+was significantly associated with hypertension severity.130, level II-2
+Recommendation 20
+• Pregnant woman with suspected obstructive sleep apnoea based on
+symptoms and signs should be referred for further management by
+a multidisciplinary specialist team.
+5.2 Craniofacial Anomalies
+a.
+Risk of OSA
+Children with craniofacial anomalies (CA), e.g. Pierre Robin Sequence
+(PRS) with micrognathia, retrognathia, glossoptosis with or without cleft
+lip/palate, have an increased risk of OSA due to upper airway obstruction
+as the tongue is relatively large compared to the mandibular structures
+and tends to prolapse backwards. Airway obstruction in these groups
+can be severe and results in intermittent hypoxia that may impair longterm cognitive and intellectual development.131, level III
+Children with midface and mandibular hypoplasia have variable
+severity of OSA which correlates with the degree of hypoplasia. Almost
+30% of paediatric group with syndromic cleft lip or palate are screened
+positive for OSA. The risk of OSA increases due to changes in the
+upper airway structure which include nasal deformities. OSA is more
+severe in PRS patients with cleft palate than those with isolated cleft
+palate.132 - 136, level III
+Children below 18 years old with Class II skeletal pattern, tendency
+for backward growth rotator137, level I and reduced upper airway sagittal
+width are at risk of OSA.138, level II-2
+A meta-analysis on the craniofacial morphological characteristics (refer
+to Figure 1): associated with OSA in non-syndromic paediatric patients
+compared with controls showed.137, level I
+• the cephalometric findings i.e. angle between sella, nasion and B
+point (SNB) and difference between SNA and SNB, where SNA
+is the angle between sella, nasion and A point, while SNB is the
+angle between sella, nasion and B point (ANB) angles, indicated
+more Class II skeletal pattern:
+ SNB (MD= -1.79o, 95% CI -2.61 to -0.97)
+ ANB (MD = 1.38o, 95% CI 0.83 to 1.92)
+• the cephalometric finding i.e. angle between mandibular plane
+and sella nasion line (MP-SN) angle, indicated more vertical
+growth (MD=4.20o, 95% CI 3.32o to 5.07o)
+Management of Obstructive Sleep Apnoea
+In a separate meta-analysis to elucidate the association between
+craniofacial disharmony and paediatric sleep-disordered breathing
+compared with controls showed:138, level II-2
+• the cephalometric finding i.e. ANB angle, indicated a more Class
+II skeletal pattern (MD=1.64, 95% CI 0.88 to 2.41)
+• reduced distances in the distance from the posterior nasal spine
+to the nearest adenoid tissue measured along the PNS-basion
+line (PNS-AD1) and distance from the posterior nasal spine to the
+nearest adenoid tissue measured along the line perpendicular to
+the sella-basion line (PNS-AD2), indicating reduced upper airway
+sagittal width in children with OSAS
+ PNS-AD1 (MD= -4.17, 95% CI -5.85 to -2.50)
+ PNS-AD2 (MD=3.12, 95% CI-4.56 to -1.67)
+Figure 1. Cephalometric references and landmarks used in the metaanalysis: S, Sella; N, nasion; Ba, basion; ANS, anterior nasal spine;
+PNS, posterior nasal spine; PP, palatal plane; A, A-point; B, B-point;
+MP, mandibular plane (gonion-menton); PNS-AD1, distance from PNS
+to the nearest adenoid tissue measured along the line PNS-Ba; PNSAD2, distance from PNS to the nearest adenoid tissue measured along
+the line perpendicular to S-Ba; Ll long axis of the mandibular incisor.
+Abbreviation list:
+ MP-SN: angle between mandibular plane and sella nasion line
+ SNB: angle between sella, nasion and B point
+AD1
+PNS
+AD2
+MP
+ANS
+PP
+N
+Ba
+S
+A
+LI
+B
+Management of Obstructive Sleep Apnoea
+43
+ ANB: difference between SNA and SNB, where SNA is the angle
+between sella, nasion and A point, while SNB is the angle between
+sella, nasion and B point
+ PNS-AD1 (distance from the posterior nasal spine to the nearest
+adenoid tissue measured along the PNS-basion line)
+ PNS-AD2 (distance from the posterior nasal spine to the nearest
+adenoid tissue measured along the line perpendicular to the sellabasion line)
+Adapted: Katyal V, Pamula Y, Martin AJ, et al. Craniofacial and upper airway
+morphology in pediatric sleep-disordered breathing: Systematic review and
+meta-analysis. Am J Orthod Dentofacial Orthop. 2013;143(1):20-30.e3.
+b.
+Treatment
+The principle of treatment of OSA in CA is to secure a safe airway in the
+children especially infants. In neonates or infants with severe airway
+obstruction, a tracheostomy tube to bypass the obstructed upper airway
+is necessary until corrective surgery can be performed.139 - 140, level III
+Surgical treatment of OSA in CA children include mandibular
+distraction osteogenesis, AT and rapid maxillary expansion. Evidence
+have shown that OSA has improved in these children after these
+surgeries.133, level III; 140 - 142, level III
+Recommendation 21
+• Patients with obstructive sleep apnoea and craniofacial anomalies
+should be assessed for the benefit and risk of a surgical intervention.
+Non-surgical treatment using nasal CPAP and oxygen therapy may be
+useful if surgery is not possible or in mild to moderate OSA. Medications
+like proton pump inhibitor may also be used.141; level III; 143 - 144 level III
+5.3 Down Syndrome
+Patients with Down syndromes (DS) are known to be at high risk for
+OSA. The prevalence of OSA in DS varies from 45% to 82%. There are
+multiple factors to explain the increased prevalence of OSA in DS which
+include differences in anatomy and physiology. Soft tissue crowding of
+the pharynx and palate caused by midfacial and mandibular hypoplasia
+is further exacerbated by an increased incidence of adenotonsillar
+hypertrophy, relative macroglossia and glossoptosis, laryngomalacia,
+and subglottic and tracheal stenosis. Due to its high prevalence,
+screening and treatment for this group of patients are strongly
+supported.145, level III
+Management of Obstructive Sleep Apnoea
+A recent study showed no association between age and the severity
+of OSA in DS. However, more infants and children age <2 years had
+more severe disease than those aged ≥2 years (p=0.005). Of those
+with ongoing monitoring, 78.0% had moderate or severe OSA at
+some time.146, level III
+Treatment of OSA in DS includes pharmacotherapy, CPAP and surgery.
+AT is one of the mainstay treatments of OSA in this group. Significant
+improvements in obstructive AHI, and minimum oxygen saturation was
+obtained in DS patients treated with AT. However, almost half of them
+had persistent OSA post operatively.147, level III
+Recommendation 22
+• Patients with Down syndrome should be screened for obstructive
+sleep apnoea and treated accordingly.
+The summary of management for children with OSA is based on the
+level of obstruction as shown in Appendix 12.
+5.4 Obesity Hypoventilation Syndrome
+Obesity hypoventilation syndrome (OHS) is defined as a combination
+of:148; 149
+• obesity (BMI ≥30 kg/m2)
+• daytime hypercapnia [arterial carbon dioxide tension (PaCO2) ≥45
+mmHg]
+• sleep disordered breathing
+• exclusion of alternative causes of alveolar hypoventilation
+OHS is typically diagnosed during an episode of acute-on-chronic
+hypercapnic respiratory failure. Approximately 90% of patients with
+OHS have OSA.
+A systematic review comparing noninvasive ventilation (NIV) vs CPAP
+as initial treatment of OHS with severe OSA showed that:150, level I
+• no death reported within three months and no significant difference
+of death at 5.5 years follow-up (based on low certainty evidence)
+• no significant difference in the resolution of hypercapnia up to
+three months (based on moderate certainty evidence) or three
+years of treatment (based on low certainty evidence)
+• PaO2 improved with both modalities, with no significant difference
+between them up to three months and after three years follow-up
+(based on high certainty evidence)
+• no significant difference in proportion of patients who did not
+require supplemental oxygen after three months and three years
+(based on moderate certainty of evidence)
+• no significant difference in sleep parameters i.e. change in AHI
+at two months (based on moderate certainty evidence) and
+Management of Obstructive Sleep Apnoea
+45
+excessive daytime sleepiness at three months and three years
+(based on low to moderate certainty of evidence)
+CPAP was conditionally recommended over NIV as the first-line
+treatment for stable ambulatory patients with OHS and co-existent
+severe OSA because it had similar effectiveness but less costly and
+required less resources.150, level I
+Recommendation 23
+• Continuous positive airway pressure is the preferred initial treatment
+in stable ambulatory patients with obesity hypoventilation syndrome
+and severe obstructive sleep apnoea.
+Management of Obstructive Sleep Apnoea
+6.
+IMPLEMENTING THE GUIDELINES
+Management of OSA should be guided by the latest evidence and
+availability of local resources to provide quality care to patients. Several
+factors may affect the implementation of recommendations in the
+CPG. OSA is best managed by a multidisciplinary approach to ensure
+success of treatment and reduction of complications.
+6.1 Facilitating and Limiting Factors
+Existing facilitators for application of the recommendations in this CPG
+include:
+• availability of CPG to health care providers (hard copies and soft
+copies/online)
+• regular seminars/conferences/courses for health care providers
+on management of OSA including those involving professional
+bodies (e.g. Sleep Disorder Society Malaysia, Malaysian Thoracic
+Society, Malaysia Society of Oral, Head and Neck Surgery and
+Family Medicine Specialist Association)
+• public awareness activities during World Sleep Day including the
+involvement of governmental/non-governmental organisations
+e.g. Gabungan Persatuan Pemandu Pengangkutan Darat
+Malaysia, Malaysian Pilots Association
+• accessibility to relevant multidisciplinary teams
+Limiting factors in the CPG implementation include:
+• limited awareness and understanding/knowledge in managing
+OSA among health care providers
+• variation in clinical management and preferences
+• insufficient resources in terms of budget, expertise, access to
+diagnostic tests, medications and treatment options
+• misconception about the disease and its management by the
+public
+6.2 Potential Resource Implications
+OSA is a prevalent disease and underdiagnosed in Malaysia. It is a
+chronic disorder associated with several cardio-metabolic complications,
+neurocognitive impairment, increased motor vehicle accidents and
+reduced productivity when untreated. Hence, early diagnosis and
+prompt management of OSA can improve its outcomes.
+As OSA is the commonest sleep-related breathing disorder, its
+management should be emphasised throughout all levels of care.
+Therefore, implementation of nation-wide screening among high-risk
+group e.g. with STOP-BANG questionnaire is important. Those at high
+risk should be provided with health education and advice on lifestyle
+modifications to prevent complications of the disease.
+Management of Obstructive Sleep Apnoea
+47
+PSG is the gold standard to accurately diagnose OSA whilst CPAP
+is the mainstay of treatment. However, there is a lack of availability
+of sleep laboratories, as well as a scarcity of sleep specialists and
+trained sleep technologists in Malaysia. Provision of sleep laboratories,
+trained personnel and PAP therapy in managing OSA requires strong
+consideration and support from all stakeholders involved. Furthermore,
+the treatment cost may be high and not covered by insurance policies
+which will increase the burden on public services in providing effective
+treatment.
+6.3 Clinical Audit Indicators
+The following are proposed as clinical audit indicators for quality
+management of OSA:
+*reduction of AHI by 50% and AHI <20
+Implementation strategies will be developed following the approval of
+the CPG by MoH which include launching of the CPG, Quick Reference
+and Training Module (available at: https://www.moh.gov.my/index.php/
+pages/view/3962?mid=1570).
+• Percentage
+of patients with
+suspected of OSA
+with completed
+PSG (level 1, 2
+or 3) within six
+months
+=
+Number of patients suspected of OSA
+in the same period
+Number of patients suspected of OSA
+with completed PSG (level 1, 2 or 3)
+within six months in a period
+x100%
+• Percentage
+of patients who
+receive PAP
+therapy within six
+months of OSA
+diagnosis
+=
+Number of patients diagnosed with OSA
+in the same period
+Number of patients who receive PAP
+therapy within six months of OSA
+diagnosis in a period
+x100%
+• Percentage of
+surgical success
+rate* of adult
+OSA patients
+(excluding
+bariatric surgery)
+=
+Number of surgeries done on OSA
+patients in the period
+Number of successful surgeries of
+adult OSA patients (excluding bariatric
+surgery) in a period
+x100%
+Management of Obstructive Sleep Apnoea
+References
+1.
+Benjafield AV, Ayas NT, Eastwood PR, et al. Estimation of the global prevalence
+and burden of obstructive sleep apnoea: a literature-based analysis. Lancet
+Respir Med. 2019;7(8):687-698.
+2.
+Marcus CL, Brooks LJ, Draper KA, et al. Diagnosis and management of
+childhood obstructive sleep apnea syndrome. Pediatrics. 2012;130(3):576-584.
+3.
+Senaratna CV, Perret JL, Lodge CJ, et al. Prevalence of obstructive sleep
+apnea in the general population: A systematic review. Sleep Medicine Reviews.
+2017;34:70-81.
+4.
+Semelka M, Wilson J, Floyd R. Diagnosis and Treatment of Obstructive Sleep
+Apnea in Adults. American Family Physician. 2016;94(5):355-360.
+5.
+Neelapu BC, Kharbanda OP, Sardana HK, et al. Craniofacial and upper airway
+morphology in adult obstructive sleep apnea patients: A systematic review and
+meta-analysis of cephalometric studies. Sleep Medicine Reviews. 2017;31:79-90.
+6.
+Calvo-Henriquez C, Megias-Barrera J, Chiesa-Estomba C, et al. The Impact of
+Maxillary Expansion on Adults’ Nasal Breathing: A Systematic Review and MetaAnalysis. Am J Rhinol Allergy. 2021;35(6):923-934.
+7.
+Loke YK, Brown JW, Kwok CS, et al. Association of obstructive sleep apnea with
+risk of serious cardiovascular events: a systematic review and meta-analysis.
+Circulation: Cardiovascular Quality and Outcomes. 2012;5(5):720-728.
+8.
+Salari N, Khazaie H, Abolfathi M, et al. The effect of obstructive sleep apnea
+on the increased risk of cardiovascular disease: a systematic review and metaanalysis. Neurological Sciences. 2022;43(1):219-231.
+9.
+Xu S, Wan Y, Xu M, et al. The association between obstructive sleep apnea and
+metabolic syndrome: a systematic review and meta-analysis. BMC Pulmonary
+Medicine. 2015;15:105.
+10. Kong DL, Qin Z, Shen H, et al. Association of Obstructive Sleep Apnea with
+Asthma: A Meta-Analysis. Scientific Reports. 2017;7(1):4088.
+11. Musso G, Cassader M, Olivetti C, et al. Association of obstructive sleep apnoea
+with the presence and severity of non-alcoholic fatty liver disease. A systematic
+review and meta-analysis. Obesity Reviews. 2013;14(5):417-431.
+12. Liu T, Zhan Y, Wang Y, et al. Obstructive sleep apnea syndrome and risk of renal
+impairment: a systematic review and meta-analysis with trial sequential analysis.
+Sleep Breath. 2021;25(1):17-27.
+13. Cheng H, Li D. Investigation into the association between obstructive sleep
+apnea and incidence of all-type cancers: a systematic review and meta-analysis.
+Sleep Medicine. 2021;88:274-281.
+14. Leng Y, McEvoy CT, Allen IE, et al. Association of Sleep-Disordered Breathing
+With Cognitive Function and Risk of Cognitive Impairment: A Systematic Review
+and Meta-analysis. JAMA Neurol. 2017;74(10):1237-1245.
+15. Shawon MS, Perret JL, Senaratna CV, et al. Current evidence on prevalence and
+clinical outcomes of co-morbid obstructive sleep apnea and chronic obstructive
+pulmonary disease: A systematic review. Sleep Medicine Reviews. 2017;32:58-68.
+16. Gupta MA, Simpson FC. Obstructive sleep apnea and psychiatric disorders: a
+systematic review. Journal of Clinical Sleep Medicine. 2015;11(2):165-175.
+17. Kent BD, Grote L, Ryan S, et al. Diabetes mellitus prevalence and control in
+sleep-disordered breathing: the European Sleep Apnea Cohort (ESADA) study.
+Chest. 2014;146(4):982-990.
+18. Chiu HY, Chen PY, Chuang LP, et al. Diagnostic accuracy of the Berlin
+questionnaire, STOP-BANG, STOP, and Epworth sleepiness scale in detecting
+obstructive sleep apnea: A bivariate meta-analysis. Sleep Medicine Reviews.
+2017;36:57-70.
+Management of Obstructive Sleep Apnoea
+49
+19. Bernhardt L, Brady EM, Freeman SC, et al. Diagnostic accuracy of screening
+questionnaires for obstructive sleep apnoea in adults in different clinical cohorts:
+a systematic review and meta-analysis. Sleep Breath. 2022;26(3):1053-1078.
+20. Amra B, Rahmati B, Soltaninejad F, et al. Screening Questionnaires for
+Obstructive Sleep Apnea: An Updated Systematic Review. Oman Medical
+Journal. 2018;33(3):184-192.
+21. Rosa T, Bellardi K, Viana A, Jr., et al. Digital Health and Sleep-Disordered
+Breathing: A Systematic Review and Meta-Analysis. Journal of Clinical Sleep
+Medicine. 2018;14(9):1605-1620.
+22. Kapur VK, Auckley DH, Chowdhuri S, et al. Clinical Practice Guideline for
+Diagnostic Testing for Adult Obstructive Sleep Apnea: An American Academy of
+Sleep Medicine Clinical Practice Guideline. Journal of Clinical Sleep Medicine.
+2017;13(3):479-504.
+23. American Academy of Sleep Medicine. International classification of
+sleepdisorders, 3rd ed. Darien, IL: American Academy of Sleep Medicine, 2014.
+24. El Shayeb M, Topfer LA, Stafinski T, et al. Diagnostic accuracy of level 3 portable
+sleep tests versus level 1 polysomnography for sleep-disordered breathing: a
+systematic review and meta-analysis. CMAJ: Canadian Medical Association
+Journal. 2014;186(1):E25-51.
+25. Abrahamyan L, Sahakyan Y, Chung S, et al. Diagnostic accuracy of level IV
+portable sleep monitors versus polysomnography for obstructive sleep apnea: a
+systematic review and meta-analysis. Sleep Breath. 2018;22(3):593-611.
+26. Rashid NH, Zaghi S, Scapuccin M, et al. The Value of Oxygen Desaturation Index
+for Diagnosing Obstructive Sleep Apnea: A Systematic Review. Laryngoscope.
+2021;131(2):440-447.
+27. Askar SM, Quriba AS, Hassan EM, et al. Positional Awake Endoscopy
+Versus DISE in Assessment of OSA: A Comparative Study. Laryngoscope.
+2020;130(9):2269-2274.
+28. Cavaliere M, Russo F, Iemma M. Awake versus drug-induced sleep endoscopy:
+evaluation of airway obstruction in obstructive sleep apnea/hypopnoea
+syndrome. Laryngoscope. 2013;123(9):2315-2318.
+29. Soares D, Folbe AJ, Yoo G, et al. Drug-induced sleep endoscopy vs awake
+Müller’s maneuver in the diagnosis of severe upper airway obstruction.
+Otolaryngology and Head and Neck Surgery. 2013;148(1):151-156.
+30. Ong CW, O’Driscoll DM, Truby H, et al. The reciprocal interaction between
+obesity and obstructive sleep apnoea. Sleep Medicine Reviews. 2013;17(2):123131.
+31. Araghi MH, Chen YF, Jagielski A, et al. Effectiveness of lifestyle interventions
+on obstructive sleep apnea (OSA): systematic review and meta-analysis. Sleep.
+2013;36(10):1553-1562, 1562a-1562e.
+32. Mitchell LJ, Davidson ZE, Bonham M, et al. Weight loss from lifestyle interventions
+and severity of sleep apnoea: a systematic review and meta-analysis. Sleep
+Medicine. 2014;15(10):1173-1183.
+33. Edwards BA, Bristow C, O’Driscoll DM, et al. Assessing the impact of diet,
+exercise and the combination of the two as a treatment for OSA: A systematic
+review and meta-analysis. Respirology. 2019;24(8):740-751.
+34. Patil SP, Ayappa IA, Caples SM, et al. Treatment of Adult Obstructive Sleep
+Apnea with Positive Airway Pressure: An American Academy of Sleep Medicine
+Clinical Practice Guideline. Journal of Clinical Sleep Medicine. 2019;15(2):335343.
+35. Timkova V, Nagyova I, Reijneveld SA, et al. Quality of life of obstructive sleep
+apnoea patients receiving continuous positive airway pressure treatment: A
+systematic review and meta-analysis. Heart and Lung. 2020;49(1):10-24.
+Management of Obstructive Sleep Apnoea
+36. Lin HJ, Yeh JH, Hsieh MT, et al. Continuous positive airway pressure with
+good adherence can reduce risk of stroke in patients with moderate to severe
+obstructive sleep apnea: An updated systematic review and meta-analysis.
+Sleep Medicine Reviews. 2020;54:101354.
+37. Labarca G, Dreyse J, Drake L, et al. Efficacy of continuous positive airway
+pressure (CPAP) in the prevention of cardiovascular events in patients with
+obstructive sleep apnea: Systematic review and meta-analysis. Sleep Medicine
+Reviews. 2020;52:101312.
+38. Chalegre ST, Lins-Filho OL, Lustosa TC, et al. Impact of CPAP on arterial
+stiffness in patients with obstructive sleep apnea: a meta-analysis of randomized
+trials. Sleep Breath. 2021;25(3):1195-1202.
+39. Labarca G, Schmidt A, Dreyse J, et al. Efficacy of continuous positive airway
+pressure (CPAP) in patients with obstructive sleep apnea (OSA) and resistant
+hypertension (RH): Systematic review and meta-analysis. Sleep Medicine
+Reviews. 2021;58:101446.
+40. Feldstein CA. Blood pressure effects of CPAP in nonresistant and resistant
+hypertension associated with OSA: A systematic review of randomized clinical
+trials. Clinical and Experimental Hypertension. 2016;38(4):337-346.
+41. Yang X, Yang J, Yang C, et al. Continuous positive airway pressure can improve
+depression in patients with obstructive sleep apnoea syndrome: a metaanalysis based on randomized controlled trials. Journal of International Medical
+Research. 2020;48(3):300060519895096.
+42. Ip S, D’Ambrosio C, Patel K, et al. Auto-titrating versus fixed continuous positive
+airway pressure for the treatment of obstructive sleep apnea: a systematic
+review with meta-analyses. Syst Rev. 2012;1:20.
+43. Patil SP, Ayappa IA, Caples SM, et al. Treatment of Adult Obstructive Sleep
+Apnea With Positive Airway Pressure: An American Academy of Sleep Medicine
+Systematic Review, Meta-Analysis, and GRADE Assessment. Journal of Clinical
+Sleep Medicine. 2019;15(2):301-334.
+44. Kennedy B, Lasserson TJ, Wozniak DR, et al. Pressure modification or
+humidification for improving usage of continuous positive airway pressure
+machines in adults with obstructive sleep apnoea. Cochrane Database of
+Systematic Reviews. 2019;12(12):Cd003531.
+45. Chai CL, Pathinathan A, Smith B. Continuous positive airway pressure delivery
+interfaces for obstructive sleep apnoea. Cochrane Database of Systematic
+Reviews. 2006;2006(4):Cd005308.
+46. Genta PR, Kaminska M, Edwards BA, et al. The Importance of Mask Selection
+on Continuous Positive Airway Pressure Outcomes for Obstructive Sleep Apnea.
+An Official American Thoracic Society Workshop Report. Ann Am Thorac Soc.
+2020;17(10):1177-1185.
+47. Summary of AASM Clinical Guidelines for the Manual Titration of Positive
+Airway Pressure in Patients with Obstructive Sleep Apnea - Updated July 2012:
+American Association of Sleep Technologists; 2012 [Available at:
+https://www.aastweb.org/hubfs/Technical%20Guidelines/Guidelinesummary.
+pdf?t=1496163811483]
+48. Askland K, Wright L, Wozniak DR, et al. Educational, supportive and behavioural
+interventions to improve usage of continuous positive airway pressure machines
+in adults with obstructive sleep apnoea. Cochrane Database of Systematic
+Reviews. 2020;4(4):Cd007736.
+49. Kent D, Stanley J, Aurora RN, et al. Referral of adults with obstructive sleep
+apnea for surgical consultation: an American Academy of Sleep Medicine clinical
+practice guideline. Journal of Clinical Sleep Medicine. 2021;17(12):2499-2505.
+Management of Obstructive Sleep Apnoea
+51
+50. Pang KP, Montevecchi F, Vicini C, et al. Does nasal surgery improve multilevel
+surgical outcome in obstructive sleep apnea: A multicenter study on 735 patients.
+Laryngoscope Investig Otolaryngol. 2020;5(6):1233-1239.
+51. Camacho M, Riaz M, Capasso R, et al. The effect of nasal surgery on continuous
+positive airway pressure device use and therapeutic treatment pressures: a
+systematic review and meta-analysis. Sleep. 2015;38(2):279-286.
+52. Neruntarat C, Khuancharee K, Saengthong P. Barbed Reposition Pharyngoplasty
+versus Expansion Sphincter Pharyngoplasty: A Meta-Analysis. Laryngoscope.
+2021;131(6):1420-1428.
+53. Samutsakorn P, Hirunwiwatkul P, Chaitusaney B, et al. Lingual tonsillectomy
+with palatal surgery for the treatment of obstructive sleep apnea in adults: a
+systematic review and meta-analysis. European Archives of Oto-RhinoLaryngology. 2018;275(4):1005-1013.
+54. Iannella G, Lechien JR, Perrone T, et al. Barbed reposition pharyngoplasty
+(BRP) in obstructive sleep apnea treatment: State of the art. American Journal of
+Otolaryngology. 2022;43(1):103197.
+55. Camacho M, Nesbitt NB, Lambert E, et al. Laser-Assisted Uvulopalatoplasty
+for Obstructive Sleep Apnea: A Systematic Review and Meta-Analysis. Sleep.
+2017;40(3).
+56. Baba RY, Mohan A, Metta VV, et al. Temperature controlled radiofrequency
+ablation at different sites for treatment of obstructive sleep apnea syndrome: a
+systematic review and meta-analysis. Sleep Breath. 2015;19(3):891-910.
+57. Murphey AW, Kandl JA, Nguyen SA, et al. The Effect of Glossectomy
+for Obstructive Sleep Apnea: A Systematic Review and Meta-analysis.
+Otolaryngology and Head and Neck Surgery. 2015;153(3):334-342.
+58. Miller SC, Nguyen SA, Ong AA, et al. Transoral robotic base of tongue
+reduction for obstructive sleep apnea: A systematic review and meta-analysis.
+Laryngoscope. 2017;127(1):258-265.
+59. Meccariello G, Cammaroto G, Montevecchi F, et al. Transoral robotic surgery
+for the management of obstructive sleep apnea: a systematic review and metaanalysis. European Archives of Oto-Rhino-Laryngology. 2017;274(2):647-653.
+60. Abdullatif J, Certal V, Zaghi S, et al. Maxillary expansion and maxillomandibular
+expansion for adult OSA: A systematic review and meta-analysis. Journal of
+Cranio-Maxillo-Facial Surgery. 2016;44(5):574-578.
+61. Awad M, Gouveia C, Zaghi S, et al. Changing practice: Trends in skeletal
+surgery for obstructive sleep apnea. Journal of Cranio-Maxillo-Facial Surgery.
+2019;47(8):1185-1189.
+62. Yoon A, Guilleminault C, Zaghi S, et al. Distraction Osteogenesis Maxillary
+Expansion (DOME) for adult obstructive sleep apnea patients with narrow
+maxilla and nasal floor. Sleep Medicine. 2020;65:172-176.
+63. Vicini C, Dallan I, Campanini A, et al. Surgery vs ventilation in adult severe
+obstructive sleep apnea syndrome. American Journal of Otolaryngology.
+2010;31(1):14-20.
+64. Zaghi S, Holty JE, Certal V, et al. Maxillomandibular Advancement for Treatment
+of Obstructive Sleep Apnea: A Meta-analysis. JAMA Otolaryngol Head Neck
+Surg. 2016;142(1):58-66.
+65. Holty JE, Guilleminault C. Maxillomandibular advancement for the treatment of
+obstructive sleep apnea: a systematic review and meta-analysis. Sleep Medicine
+Reviews. 2010;14(5):287-297.
+66. Giralt-Hernando M, Valls-Ontañón A, Guijarro-Martínez R, et al. Impact of
+surgical maxillomandibular advancement upon pharyngeal airway volume and
+the apnoea-hypopnoea index in the treatment of obstructive sleep apnoea:
+systematic review and meta-analysis. BMJ Open Respir Res. 2019;6(1):e000402.
+Management of Obstructive Sleep Apnoea
+67. Rojo-Sanchis C, Almerich-Silla JM, Paredes-Gallardo V, et al. Impact of
+Bimaxillary Advancement Surgery on the Upper Airway and on Obstructive
+Sleep Apnea Syndrome: a Meta-Analysis. Scientific Reports. 2018;8(1):5756.
+68. AlSaty G, Xiang J, Burns M, et al. Follow-up observation of patients with
+obstructive sleep apnea treated by maxillomandibular advancement. American
+Journal of Orthodontics and Dentofacial Orthopedics. 2020;158(4):527-534.
+69. Liu SY, Awad M, Riley R, et al. The Role of the Revised Stanford Protocol in
+Today’s Precision Medicine. Sleep Medicine Clinics. 2019;14(1):99-107.
+70. Camacho M, Liu SY, Certal V, et al. Large maxillomandibular advancements for
+obstructive sleep apnea: An operative technique evolved over 30 years. Journal
+of Cranio-Maxillo-Facial Surgery. 2015;43(7):1113-1118.
+71. Chan AS, Sutherland K, Schwab RJ, et al. The effect of mandibular advancement
+on upper airway structure in obstructive sleep apnoea. Thorax. 2010;65(8):726732.
+72. Schwartz M, Acosta L, Hung YL, et al. Effects of CPAP and mandibular
+advancement device treatment in obstructive sleep apnea patients: a systematic
+review and meta-analysis. Sleep Breath. 2018;22(3):555-568.
+73. Liu T, Li W, Zhou H, et al. Verifying the Relative Efficacy between Continuous
+Positive Airway Pressure Therapy and Its Alternatives for Obstructive Sleep
+Apnea: A Network Meta-analysis. Frontiers in Neurology. 2017;8.
+74. Bartolucci ML, Bortolotti F, Corazza G, et al. Effectiveness of different mandibular
+advancement device designs in obstructive sleep apnoea therapy: A systematic
+review of randomised controlled trials with meta-analysis. Journal of Oral
+Rehabilitation. 2021;48(4):469-486.
+75. Tallamraju H, Newton JT, Fleming PS, et al. Factors influencing adherence
+to oral appliance therapy in adults with obstructive sleep apnea: a systematic
+review and meta-analysis. Journal of Clinical Sleep Medicine. 2021;17(7):14851498.
+76. Johal A, Agha B. Ready-made versus custom-made mandibular advancement
+appliances in obstructive sleep apnea: A systematic review and meta-analysis.
+Journal of Sleep Research. 2018;27(6):e12660.
+77. Bartolucci ML, Bortolotti F, Raffaelli E, et al. The effectiveness of different
+mandibular advancement amounts in OSA patients: a systematic review and
+meta-regression analysis. Sleep Breath. 2016;20(3):911-919.
+78. Tsolakis IA, Palomo JM, Matthaios S, et al. Dental and Skeletal Side Effects
+of Oral Appliances Used for the Treatment of Obstructive Sleep Apnea and
+Snoring in Adult Patients-A Systematic Review and Meta-Analysis. J Pers Med.
+2022;12(3).
+79. Rueda JR, Mugueta-Aguinaga I, Vilaró J, et al. Myofunctional therapy
+(oropharyngeal exercises) for obstructive sleep apnoea. Cochrane Database of
+Systematic Reviews. 2020(11).
+80. Mason M, Welsh EJ, Smith I. Drug therapy for obstructive sleep apnoea in
+adults. Cochrane Database of Systematic Reviews. 2013(5):Cd003002.
+81. Liu HT, Lin YC, Kuan YC, et al. Intranasal corticosteroid therapy in the treatment
+of obstructive sleep apnea: A meta-analysis of randomized controlled trials. Am
+J Rhinol Allergy. 2016;30(3):215-221.
+82. Nguyen DK, Liang J, Durr M. Topical nasal treatment efficacy on adult obstructive
+sleep apnea severity: a systematic review and meta-analysis. Int Forum Allergy
+Rhinol. 2021;11(2):153-161.
+83. Kuan YC, Wu D, Huang KW, et al. Effects of Modafinil and Armodafinil in Patients
+With Obstructive Sleep Apnea: A Meta-analysis of Randomized Controlled Trials.
+Clinical Therapeutics. 2016;38(4):874-888.
+Management of Obstructive Sleep Apnoea
+53
+84. Chung F, Memtsoudis SG, Ramachandran SK, et al. Society of Anesthesia
+and Sleep Medicine Guidelines on Preoperative Screening and Assessment
+of Adult Patients With Obstructive Sleep Apnea. Anesthesia and Analgesia.
+2016;123(2):452-473.
+85. Stubberud AB, Moon RE, Morgan BT, et al. Using the Electronic Medical Record
+to Improve Preoperative Identification of Patients at Risk for Obstructive Sleep
+Apnea. Journal of Perianesthesia Nursing. 2019;34(1):51-59.
+86. Seguin L, Tamisier R, Deletombe B, et al. Preoperative Screening for Obstructive
+Sleep Apnea Using Alternative Scoring Models of the Sleep Tiredness Observed
+Pressure-Body Mass Index Age Neck Circumference Gender Questionnaire: An
+External Validation. Anesthesia and Analgesia. 2020;131(4):1025-1031.
+87. Memtsoudis SG, Cozowicz C, Nagappa M, et al. Society of Anesthesia and
+Sleep Medicine Guideline on Intraoperative Management of Adult Patients With
+Obstructive Sleep Apnea. Anesthesia and Analgesia. 2018;127(4):967-987.
+88. Nagappa M, Wong DT, Cozowicz C, et al. Is obstructive sleep apnea associated
+with difficult airway? Evidence from a systematic review and meta-analysis of
+prospective and retrospective cohort studies. PloS One. 2018;13(10):e0204904.
+89. Cozowicz C, Stundner O, Memtsoudis SG. Regional anesthesia and pain
+management in patients with sleep apnea: can they improve outcomes? Current
+Opinion in Anaesthesiology. 2019;32(5):683-689.
+90. Albrecht E, Bayon V, Hirotsu C, et al. Impact of short-acting vs. standard
+anaesthetic agents on obstructive sleep apnoea: a randomised, controlled,
+triple-blind trial. Anaesthesia. 2021;76(1):45-53.
+91. Stewart M, Estephan L, Thaler A, et al. Reduced Recovery Times with Total
+Intravenous Anesthesia in Patients with Obstructive Sleep Apnea. Laryngoscope.
+2021;131(4):925-931.
+92. Dimou F, Huynh S, Dakin G, et al. Nasal positive pressure with the SuperNO(2)
+VA™ device decreases sedation-related hypoxemia during pre-bariatric surgery
+EGD. Surgical Endoscopy. 2019;33(11):3828-3832.
+93. Hai F, Porhomayon J, Vermont L, et al. Postoperative complications in patients
+with obstructive sleep apnea: a meta-analysis. Journal of Clinical Anesthesia.
+2014;26(8):591-600.
+94. Gupta K, Nagappa M, Prasad A, et al. Risk factors for opioid-induced respiratory
+depression in surgical patients: a systematic review and meta-analyses. BMJ
+Open. 2018;8(12):e024086.
+95. Nagappa M, Patra J, Wong J, et al. Association of STOP-Bang Questionnaire as
+a Screening Tool for Sleep Apnea and Postoperative Complications: A Systematic
+Review and Bayesian Meta-analysis of Prospective and Retrospective Cohort
+Studies. Anesthesia and Analgesia. 2017;125(4):1301-1308.
+96. Xará D, Mendonça J, Pereira H, et al. Adverse respiratory events after general
+anesthesia in patients at high risk of obstructive sleep apnea syndrome. Braz J
+Anesthesiol. 2015;65(5):359-366.
+97. Caples SM, Anderson WM, Calero K, et al. Use of polysomnography and home
+sleep apnea tests for the longitudinal management of obstructive sleep apnea
+in adults: an American Academy of Sleep Medicine clinical guidance statement.
+Journal of Clinical Sleep Medicine. 2021;17(6):1287-1293.
+98. Patino M, Sadhasivam S, Mahmoud M. Obstructive sleep apnoea in children:
+perioperative considerations. British Journal of Anaesthesia. 2013;111 Suppl
+1:i83-95.
+99. Kaditis AG, Alonso Alvarez ML, Boudewyns A, et al. Obstructive sleep disordered
+breathing in 2- to 18-year-old children: diagnosis and management. European
+Respiratory Journal. 2016;47(1):69-94.
+Management of Obstructive Sleep Apnoea
+100. Joosten KF, Larramona H, Miano S, et al. How do we recognize the child with
+OSAS? Pediatric Pulmonology. 2017;52(2):260-271.
+101. Qubty WF, Mrelashvili A, Kotagal S, et al. Comorbidities in infants with obstructive
+sleep apnea. Journal of Clinical Sleep Medicine. 2014;10(11):1213-1216.
+102. Certal V, Catumbela E, Winck JC, et al. Clinical assessment of pediatric
+obstructive sleep apnea: a systematic review and meta-analysis. Laryngoscope.
+2012;122(9):2105-2114.
+103. Wu CR, Tu YK, Chuang LP, et al. Diagnostic meta-analysis of the Pediatric Sleep
+Questionnaire, OSA-18, and pulse oximetry in detecting pediatric obstructive
+sleep apnea syndrome. Sleep Medicine Reviews. 2020;54:101355.
+104. Hasniah AL, Jamalludin AR, Norrashidah AW, et al. Cross-cultural adaptation
+and reliability of pediatric sleep questionnaire in assessment of sleep-disordered
+breathing in the Malay speaking population. World Journal of Pediatrics.
+2012;8(1):38-42.
+105. Kaditis A, Kheirandish-Gozal L, Gozal D. Pediatric OSAS: Oximetry can provide
+answers when polysomnography is not available. Sleep Medicine Reviews.
+2016;27:96-105.
+106. Brockmann PE, Schaefer C, Poets A, et al. Diagnosis of obstructive sleep apnea
+in children: a systematic review. Sleep Medicine Reviews. 2013;17(5):331-340.
+107. Certal V, Camacho M, Winck JC, et al. Unattended sleep studies in pediatric
+OSA: a systematic review and meta-analysis. Laryngoscope. 2015;125(1):255262.
+108. Twiss J, Chawla J, Davey MJ, et al. Overnight oximetry for evaluating paediatric
+obstructive sleep apnoea: Technical specifications and interpretation guidelines.
+Journal of Paediatrics and Child Health. 2019;55(10):1279.
+109. Wilcox LJ, Bergeron M, Reghunathan S, et al. An updated review of pediatric druginduced sleep endoscopy. Laryngoscope Investig Otolaryngol. 2017;2(6):423431.
+110. Kuhle S, Hoffmann DU, Mitra S, et al. Anti-inflammatory medications for
+obstructive sleep apnoea in children. Cochrane Database of Systematic
+Reviews. 2020;1(1):Cd007074.
+111. Ji T, Lu T, Qiu Y, et al. The efficacy and safety of montelukast in children with
+obstructive sleep apnea: a systematic review and meta-analysis. Sleep Medicine.
+2021;78:193-201.
+112. Pabla L, Duffin J, Flood L, et al. Paediatric obstructive sleep apnoea: is our
+operative management evidence-based? Journal of Laryngology and Otology.
+2018;132(4):293-298.
+113. Marcus CL, Moore RH, Rosen CL, et al. A randomized trial of adenotonsillectomy
+for childhood sleep apnea. New England Journal of Medicine. 2013;368(25):23662376.
+114. Uwiera TC. Considerations in Surgical Management of Pediatric Obstructive
+Sleep Apnea: Tonsillectomy and Beyond. Children (Basel). 2021;8(11).
+115. Sawunyavisuth B, Ngamjarus C, Sawanyawisuth K. Any Effective Intervention
+to Improve CPAP Adherence in Children with Obstructive Sleep Apnea: A
+Systematic Review. Glob Pediatr Health. 2021;8:2333794x211019884.
+116. Fauroux B, Abel F, Amaddeo A, et al. ERS Statement on pediatric long term
+noninvasive respiratory support. European Respiratory Journal. 2021:2101404.
+117. Mulholland GB, Jeffery CC, Ziai H, et al. Multilevel Palate and Tongue Base
+Surgical Treatment of Obstructive Sleep Apnea: A Systematic Review and Metaanalysis. Laryngoscope. 2019;129(7):1712-1721.
+118. Nazarali N, Altalibi M, Nazarali S, et al. Mandibular advancement appliances
+for the treatment of paediatric obstructive sleep apnea: a systematic review.
+European Journal of Orthodontics. 2015;37(6):618-626.
+Management of Obstructive Sleep Apnoea
+55
+119. Carvalho FR, Lentini-Oliveira DA, Prado LB, et al. Oral appliances and functional
+orthopaedic appliances for obstructive sleep apnoea in children. Cochrane
+Database of Systematic Reviews. 2016;10(10):Cd005520.
+120. Lin SY, Su YX, Wu YC, et al. Management of paediatric obstructive sleep
+apnoea: A systematic review and network meta-analysis. International Journal
+of Paediatric Dentistry. 2020;30(2):156-170.
+121. Camacho M, Chang ET, Song SA, et al. Rapid maxillary expansion for pediatric
+obstructive sleep apnea: A systematic review and meta-analysis. Laryngoscope.
+2017;127(7):1712-1719.
+122. Practice guidelines for the perioperative management of patients with obstructive
+sleep apnea: an updated report by the American Society of Anesthesiologists
+Task Force on Perioperative Management of patients with obstructive sleep
+apnea. Anesthesiology. 2014;120(2):268-286.
+123. Adler AC, Daszkowski A, Tan JC, et al. The Association of Dexmedetomidine on
+Perioperative Opioid Consumption in Children Undergoing Adenotonsillectomy
+With and Without Obstructive Sleep Apnea. Anesthesia and Analgesia.
+2021;133(5):1260-1268.
+124. Kothare SV, Rosen CL, Lloyd RM, et al. Quality measures for the care of pediatric
+patients with obstructive sleep apnea. Journal of Clinical Sleep Medicine.
+2015;11(3):385-404.
+125. Kaditis AG, Alonso Alvarez ML, Boudewyns A, et al. ERS statement on
+obstructive sleep disordered breathing in 1- to 23-month-old children. European
+Respiratory Journal. 2017;50(6).
+126. Gozal D, Tan HL, Kheirandish-Gozal L. Treatment of Obstructive Sleep Apnea in
+Children: Handling the Unknown with Precision. J Clin Med. 2020;9(3).
+127. Liu L, Su G, Wang S, et al. The prevalence of obstructive sleep apnea and its
+association with pregnancy-related health outcomes: a systematic review and
+meta-analysis. Sleep Breath. 2019;23(2):399-412.
+128. Tantrakul V, Numthavaj P, Guilleminault C, et al. Performance of screening
+questionnaires for obstructive sleep apnea during pregnancy: A systematic
+review and meta-analysis. Sleep Medicine Reviews. 2017;36:96-106.
+129. Chirakalwasan N, Amnakkittikul S, Wanitcharoenkul E, et al. Continuous
+Positive Airway Pressure Therapy in Gestational Diabetes With Obstructive
+Sleep Apnea: A Randomized Controlled Trial. Journal of Clinical Sleep Medicine.
+2018;14(3):327-336.
+130. Stajić D, Ilić D, Vuković J, et al. The effect of continuous positive airway pressure
+treatment on hypertensive disorder in pregnant women with obstructive sleep
+apnea. Sleep Breath. 2022;26(1):297-305.
+131. Kapp-Simon KA, Krueckeberg S. Mental development in infants with cleft lip
+and/or palate. Cleft Palate-Craniofacial Journal. 2000;37(1):65-70.
+132. Fernandes MBL, Salgueiro A, Bighetti EJB, et al. Symptoms of Obstructive
+Sleep Apnea, Nasal Obstruction, and Enuresis in Children With Nonsyndromic
+Cleft Lip and Palate: A Prevalence Study. Cleft Palate-Craniofacial Journal.
+2019;56(3):307-313.
+133. Cielo CM, Taylor JA, Vossough A, et al. Evolution of Obstructive Sleep Apnea in
+Infants with Cleft Palate and Micrognathia. Journal of Clinical Sleep Medicine.
+2016;12(7):979-987.
+134. Silvestre J, Tahiri Y, Paliga JT, et al. Screening for obstructive sleep apnea in
+children with syndromic cleft lip and/or palate. Journal of Plastic, Reconstructive
+& Aesthetic Surgery. 2014;67(11):1475-1480.
+135. MacLean JE, Fitzsimons D, Fitzgerald DA, et al. The spectrum of sleepdisordered breathing symptoms and respiratory events in infants with cleft lip
+and/or palate. Archives of Disease in Childhood. 2012;97(12):1058-1063.
+Management of Obstructive Sleep Apnoea
+136. Luna-Paredes C, Antón-Pacheco JL, García Hernández G, et al. Screening
+for symptoms of obstructive sleep apnea in children with severe craniofacial
+anomalies: assessment in a multidisciplinary unit. International Journal of
+Pediatric Otorhinolaryngology. 2012;76(12):1767-1770.
+137. Flores-Mir C, Korayem M, Heo G, et al. Craniofacial morphological characteristics
+in children with obstructive sleep apnea syndrome: a systematic review and
+meta-analysis. Journal of the American Dental Association. 2013;144(3):269-277.
+138. Katyal V, Pamula Y, Martin AJ, et al. Craniofacial and upper airway morphology
+in pediatric sleep-disordered breathing: Systematic review and meta-analysis.
+American Journal of Orthodontics and Dentofacial Orthopedics. 2013;143(1):2030.e23.
+139. Rizzi CJ, Amin JD, Isaiah A, et al. Tracheostomy for Severe Pediatric Obstructive
+Sleep Apnea: Indications and Outcomes. Otolaryngology and Head and Neck
+Surgery. 2017;157(2):309-313.
+140. Jenny HE, Massenburg BB, Weissler EH, et al. Neonatal Micrognathia: National
+Trends in Early Mandibular Surgery. Annals of Plastic Surgery. 2017;78(3):338-341.
+141. Moraleda-Cibrián M, Edwards SP, Kasten SJ, et al. Obstructive sleep apnea
+pretreatment and posttreatment in symptomatic children with congenital
+craniofacial malformations. Journal of Clinical Sleep Medicine. 2015;11(1):37-43.
+142. Rachmiel A, Emodi O, Aizenbud D. Management of obstructive sleep apnea in
+pediatric craniofacial anomalies. Ann Maxillofac Surg. 2012;2(2):111-115.
+143. Ramgopal S, Kothare SV, Rana M, et al. Obstructive sleep apnea in infancy:
+a 7-year experience at a pediatric sleep center. Pediatric Pulmonology.
+2014;49(6):554-560.
+144. Rosen D. Management of obstructive sleep apnea associated with Down
+syndrome and other craniofacial dysmorphologies. Current Opinion in Pulmonary
+Medicine. 2011;17(6):431-436.
+145. Nerfeldt P, Sundelin A. Obstructive sleep apnea in children with down syndrome
+- Prevalence and evaluation of surgical treatment. International Journal of
+Pediatric Otorhinolaryngology. 2020;133:109968.
+146. Waters KA, Castro C, Chawla J. The spectrum of obstructive sleep apnea in
+infants and children with Down Syndrome. International Journal of Pediatric
+Otorhinolaryngology. 2020;129:109763.
+147. Maris M, Verhulst S, Wojciechowski M, et al. Outcome of adenotonsillectomy
+in children with Down syndrome and obstructive sleep apnoea. Archives of
+Disease in Childhood. 2017;102(4):331-336.
+148. Mokhlesi B, Masa JF, Brozek JL, et al. Evaluation and Management of Obesity
+Hypoventilation Syndrome. An Official American Thoracic Society Clinical
+Practice Guideline. American Journal of Respiratory and Critical Care Medicine.
+2019;200(3):e6-e24.
+149. Masa JF, Mokhlesi B, Benítez I, et al. Long-term clinical effectiveness of
+continuous positive airway pressure therapy versus non-invasive ventilation
+therapy in patients with obesity hypoventilation syndrome: a multicentre, openlabel, randomised controlled trial. Lancet. 2019;393(10182):1721-1732.
+150. Soghier I, Brożek JL, Afshar M, et al. Noninvasive Ventilation versus CPAP as
+Initial Treatment of Obesity Hypoventilation Syndrome. Ann Am Thorac Soc.
+2019;16(10):1295-1303.
+Management of Obstructive Sleep Apnoea
+57
+Appendix 1
+EXAMPLE OF SEARCH STRATEGY
+Clinical Questions: What are the safe and effective treatment options
+of OSA?
+1.
+SLEEP APNEA, OBSTRUCTIVE/
+2.
+(obstructive adj2 sleep apn#ea*).tw.
+3.
+osahs.tw.
+4.
+(obstructive adj3 sleep apn#ea syndrome).tw.
+5.
+sleep apnea hypopnea syndrome.tw.
+6.
+SLEEP APNEA SYNDROMES/
+7.
+(sleep adj1 apn#ea*).tw.
+8.
+(sleep apn#ea* adj2 syndrome*).tw.
+9.
+((sleep disordered or sleep-disordered) adj2 breathing).tw.
+10. 1 or 2 or 3 or 4 or 5 or 6 or 7 or 8 or 9
+11. CONTINUOUS POSITIVE AIRWAY PRESSURE/
+12. ((bilevel or nasal) adj4 continuous positive airway pressure).tw.
+13. (continuous adj3 positive airway pressure).tw.
+14. (cpap adj1 ventilation).tw.
+15. positive airway pressure.tw.
+16. 11 or 12 or 13 or 14 or 15
+17. 10 and 16
+18. limit 17 to (english language and humans and yr=”2010 -Current”)
+Management of Obstructive Sleep Apnoea
+Appendix 2
+CLINICAL QUESTIONS
+1.
+What is the prevalence/incidence of OSA?
+2.
+Who are at risk of OSA?
+3.
+What is the accuracy of the following screening tools for OSA?
+• Epworth Sleepiness scale
+• STOP-BANG
+• Berlin Questionnaire
+• TUCASA questionnaire
+• Trending of pulse oximetry (McGill oximetry scoring system)
+• Paediatric sleep questionnaire
+4.
+What are the diagnostic criteria of OSA?
+5.
+What are the indications for different levels of polysomnography in
+OSA?
+6.
+What are the clinical assessments for OSA?
+7.
+What are the co-morbidities associated with OSA?
+8.
+What are the safety and effectiveness of the following treatment
+options for OSA?
+• weight management and lifestyle modification
+• Positive airway pressure therapy
+• surgical interventions
+• adjunctive therapy
+ oral devices
+ medications
+9.
+What is the preoperative assessment of suspected and confirmed
+OSA?
+10. What is the intraoperative management of suspected and confirmed
+OSA?
+11. What is the postoperative management of suspected and confirmed
+OSA?
+12. What are the parameters to be assessed at follow-up in OSA?
+13. What are the indications to repeat sleep study assessment postintervention of OSA?
+14. What are the accurate diagnosis and effective treatment of OSA in
+the following conditions?
+• Pregnancy
+• Syndromic patients
+• Obesity hypoventilation disorder
+15. What are the referral criteria of OSA to secondary/tertiary care?
+Management of Obstructive Sleep Apnoea
+59
+Appendix 3
+MODIFIED MALLAMPATI GRADING
+Adapted: Harvey R, O’Brien L, Aronovich S, et al. Friedman tongue position and
+cone beam computed tomography in patients with obstructive sleep apnea.
+Laryngoscope Investig Otolaryngol. 2017;2(5):320-324.
+Grade 1
+soft palate, fauces, uvula,
+anterior and posterior
+pillars visible
+Grade 2
+soft palate, fauces,
+uvula, visible
+Grade 3
+soft palate and base
+of uvula, visible
+Grade 4
+soft palate not visible
+Management of Obstructive Sleep Apnoea
+Appendix 4
+TONSILLAR GRADING
+Source: Friedman M, Salapatas AM, Bonzelaar LB. Updated Friedman Staging
+System for Obstructive Sleep Apnea. Adv Otorhinolaryngol. 2017;80:41-48.
+a Size 0, absence of tonsillar tissue.
+b Size 1, within the pillars.
+c Size 2, extended to the pillars.
+d Size 3, extended past the pillars.
+e Size 4, extended to the midline.
+a
+b
+c
+d
+e
+Management of Obstructive Sleep Apnoea
+61
+Appendix 5
+BERLIN QUESTIONNAIRE
+1) Complete the following:
+height__________ age_____________
+weight__________ male/female______
+2) Do you snore?
+yes
+no
+don’t know
+If you snore:
+3) Your snoring is?
+slightly louder than breathing
+as loud as talking
+louder than talking
+very loud, can be heard in adjacent rooms
+4) How often do you snore?
+nearly everyday
+3 - 4 times a week
+1 - 2 times a week
+1 - 2 times a month
+never or nearly never
+5) Has your snoring ever bothered
+other people?
+yes
+no
+6) Has anyone noticed that you quit
+breathing during your sleep?
+nearly everyday
+3 - 4 times a week
+1 - 2 times a week
+1 - 2 times a month
+never or nearly never
+Scoring Questions:
+Any answer within box outline is a positive response.
+Scoring Categories: Category 1 is positive with 2 or more positive responses
+to questions 2 - 6
+Category 2 is positive with 2 or more positive responses
+to questions 7 - 9
+Category 3 is positive with 1 or more positive responses
+and/or a BMI >30
+Final Results:
+2 or more positive categories indicates a high likelihood of
+sleep disordered breathing.
+Reference: Netzer NC, Stoohs RA, Netzer CM, et al. Using the Berlin Questionnaire
+to identify patients at risk for the sleep apnea syndrome. Annals of internal
+medicine. 1999;131(7):485-491.
+7) How often do you feel tired or
+fatigued after you sleep?
+nearly everyday
+3 - 4 times a week
+1 - 2 times a week
+1 - 2 times a month
+never or nearly never
+8) During your wake time, do you
+feel tired, fatigued or not wake up
+to par?
+nearly everyday
+3 - 4 times a week
+1 - 2 times a week
+1 - 2 times a month
+never or nearly never
+9) Have you ever nodded off or fallen
+asleep while driving a vehicle?
+yes
+no
+If yes, how often does it occur?
+nearly everyday
+3 - 4 times a week
+1 - 2 times a week
+1 - 2 times a month
+never or nearly never
+10)
+Do you have high blood pressure?
+yes
+no
+don’t know
+BMI =
+Management of Obstructive Sleep Apnoea
+Appendix 6
+STOP-BANG QUESTIONNAIRE
+1
+Snoring: Do you snore loudly (loud enough to be heard through
+closed doors)?
+Yes
+No
+2
+Tired: Do you often feel tired, fatigued or sleepy during daytime?
+Yes
+No
+3
+Observed: Has anyone observed you stop breathing during your
+sleep?
+Yes
+No
+4
+Blood Pressure: Do you have or are you being treated for high
+blood pressure?
+Yes
+No
+5
+BMI: BMI more than 35 kg/m2?
+Yes
+No
+6
+Age: Age over 50 years old?
+Yes
+No
+7
+Neck circumference: Neck circumference greater than 40 cm?
+Yes
+No
+8
+Gender: Male?
+Yes
+No
+High risk of OSA: Yes to 3 or more questions
+Low risk of OSA: Yes to less than 3 questions
+Source: Chung F, Yegneswaran B, Liao P, et al. STOP questionnaire: a tool to screen
+patients for obstructive sleep apnea. Anesthesiology. 2008;108(5):812-821.
+Management of Obstructive Sleep Apnoea
+63
+Appendix 7
+STOP-BANG QUESTIONNAIRE (MALAY VERSION)
+STOP-BANG – Soal Selidik Apnea Tidur Obstruktif
+No Rujukan Subjek: ____________ Umur: ________ Jantina: L/P
+1. Berdengkur
+Ya/Tidak
+Adakah anda kuat berdengkur (agak kuat sehingga boleh didengari
+walaupun di belakang pintu tertutup atau pasangan katil anda menyiku
+anda kerana berdengkur pada waktu malam)?
+2. Letih
+Ya/Tidak
+Adakah anda sentiasa berasa penat, lesu atau mengantuk pada siang
+hari?
+(contohnya tertidur semasa memandu)?
+3. Diperhatikan
+Ya/Tidak
+Adakah sesiapa memerhatikan anda berhenti bernafas atau tercekik/
+tercungap-cungap semasa sedang tidur?
+4. Tekanan darah
+Ya/Tidak
+Adakah anda sedang diberi rawatan kerana penyakit darah tinggi?
+5. Indeks berat badan
+Ya/Tidak
+Indeks berat badan lebih daripada 35 kg/m2? (obes)
+6. Umur
+Ya/Tidak
+Berumur lebih daripada 50 tahun?
+7. Ukurlilit leher (diukur melalui halkum)
+Ya/Tidak
+Bagi lelaki, adakah ukuran kolar kemeja anda 17 inci/43 cm atau lebih luas?
+Bagi wanita, adakah ukuran kolar kemeja anda 16 inci/41 cm atau lebih luas?
+8. Jantina Lelaki
+Ya/Tidak
+Management of Obstructive Sleep Apnoea
+MARKAH:
+RISIKO OSA:
+Kriteria pemarkahan Untuk populasi umum
+Risiko rendah terhadap apnia tidur obstruktif (OSA): Ya kepada 0-2
+soalan
+Risiko pertengahan terhadap OSA: Ya kepada 3-4 soalan
+Risiko tinggi OSA: Ya kepada 5-8 soalan
+Atau
+Ya kepada 2 atau lebih daripada 4 terhadap soalan
+STOP + jantina lelaki
+Atau
+Ya kepada 2 atau lebih daripada 4 terhadap Soalan
+STOP + index berat badan >35 kg/m2
+Atau
+Ya kepada 2 atau lebih daripada 4 terhadap soalan
+STOP + ukurlilit leher 17”/43 cm bagi
+lelaki, 16”/41 cm bagi wanita
+Reference: Abdullah B, Idris AI, Mohammad ZW, et al. Validation of Bahasa Malaysia
+STOP-BANG questionnaire for identification of obstructive sleep apnea.
+Sleep Breath. 2018;22(4):1235-1239.
+Management of Obstructive Sleep Apnoea
+65
+Appendix 8
+EPWORTH SLEEPINESS SCALE
+Name: ______________________ Today’s date:_________________
+Your age (Yrs): ______Your sex (Male = M, Female = F): ________
+How likely are you to doze off or fall asleep in the following situations,
+in contrast to feeling just tired?
+This refers to your usual way of life in recent times.
+Even if you haven’t done some of these things recently try to work out
+how they would have affected you.
+Use the following scale to choose the most appropriate number for
+each situation:
+0 = would never doze
+1 = slight chance of dozing
+2 = moderate chance of dozing
+3 = high chance of dozing
+It is important that you answer each question as best as you can.
+Situation
+Chance of Dozing (0-3)
+Sitting and reading
+Watching TV
+Sitting, inactive in a public place
+(e.g. a theatre or a meeting
+As a passenger in a car for an hour
+without a break
+Lying down to rest in the
+afternoon when circumstances permit
+Sitting and talking to someone
+Sitting quietly after a lunch without alcohol
+In a car, while stopped for a few
+minutes in the traffic
+Reference: Johns MW. A new method for measuring daytime sleepiness: the Epworth
+Sleepiness Scale. Sleep, 1991; 14: 50-55.
+Management of Obstructive Sleep Apnoea
+Appendix 9
+ASA PHYSICAL STATUS CLASSIFICATION SYSTEM
+Committee of Oversight: Economics
+(Approved by the ASA House of Delegates on October 15, 2014,
+and last amended on December 13, 2020)
+The ASA Physical Status Classification System has been in use for over
+60 years. The purpose of the system is to assess and communicate
+a patient’s pre-anesthesia medical co-morbidities. The classification
+system alone does not predict the perioperative risks, but used with
+other factors (e.g. type of surgery, frailty, level of deconditioning), it can
+be helpful in predicting perioperative risks.
+The definitions and examples shown in the table below are guidelines
+for the clinician. To improve communication and assessments at a
+specific institution, anesthesiology departments may choose to develop
+institutional-specific examples to supplement the ASA-approved
+examples.
+Assigning a Physical Status Classification level is a clinical decision
+based on multiple factors. While the classification may initially be
+determined at various times during the preoperative assessment of
+the patient, the final assignment of Physical Status Classification is
+made on the day of anaesthesia care by the anaesthesiologist after
+evaluating the patient.
+ASA PS
+Classification
+Definition
+Adult examples,
+including but not
+limited to:
+Paediatric examples,
+including but not
+limited
+Obstetric examples,
+including but not
+limited to:
+Healthy, non-
+smoking, no or
+minimal alcohol use
+Healthy (no acute or
+chronic disease), normal
+BMI percentile for age
+A normal
+healthy patient
+ASA I
+Substantive functional
+limitations; one or more
+moderate to severe
+diseases.
+Poorly controlled
+DM or HTN, COPD,
+morbid obesity (BMI ≥40),
+active hepatitis,
+Uncorrected stable
+congenital cardiac
+abnormality, asthma with
+exacerbation, poorlycontrolled epilepsy,
+insulin dependent DM,
+morbid obesity,
+malnutrition, severe OSA,
+A patient with
+severe systemic
+disease
+ASA III
+ASA Il
+Normal pregnancy*,
+well-controlled
+gestational HTN,
+controlled
+preeclampsia without
+severe features,
+diet-controlled
+gestational DM
+Asymptomatic
+congenital cardiac
+disease, well-controlled
+dysrhythmias, asthma
+without exacerbation,
+well-controlled epilepsy,
+non-insulin dependent
+DM, abnormal BMI
+percentile for age, mild/
+moderate OSA,
+oncologic state in
+remission, autism with
+mild limitations
+Mild diseases only
+without substantive
+functional limitations.
+Current smoker, social
+alcohol drinker,
+pregnancy, obesity
+(30<BMI<40), wellcontrolled DM/HTN,
+mild lung disease
+A patient with
+mild systemic
+disease
+Preeclampsia with
+severe features,
+gestational DM with
+complications or high
+insulin requirements, a
+thrombophilic disease
+requiring anticoagulation
+Management of Obstructive Sleep Apnoea
+67
+ASA PS
+Classification
+Definition
+Adult examples,
+including but not
+limited to:
+Paediatric examples,
+including but not
+limited
+Obstetric examples,
+including but not
+limited to:
+alcohol dependence or
+abuse, implanted
+pacemaker, moderate
+reduction of ejection
+fraction, ESRD
+undergoing regularlyscheduled dialysis,
+history (>3 months)
+of MI, CVA, TIA or
+CAD/stents
+oncologic state, renal
+failure, muscular
+dystrophy, cystic fibrosis,
+history of organ
+transplantation, brain/
+spinal cord malformation,
+symptomatic
+hydrocephalus,
+premature infant postconceptual age <60
+weeks, autism
+with severe limitations,
+metabolic disease,
+difficult airway, long
+term parenteral nutrition.
+Full term infants <6
+weeks of age.
+Ruptured abdominal/
+thoracic aneurysm,
+massive trauma,
+intracranial bleed with
+mass effect, ischemic
+bowel in the face of
+significant cardiac
+pathology or multiple
+organ/system
+dysfunction
+Massive trauma,
+intracranial hemorrhage
+with mass effect, patient
+requiring ECMO,
+respiratory failure or
+arrest, malignant
+hypertension,
+decompensated
+congestive heart failure,
+hepatic encephalopathy,
+ischemic bowel or
+multiple organ/system
+dysfunction
+A moribund
+patient who is
+not expected
+to survive
+without the
+operation
+ASA V
+ASA IV
+Preeclampsia with
+severe features
+complicated by HELLP
+or other adverse event,
+peripartum
+cardiomyopathy with
+EF <40, uncorrected/
+decompensated heart
+disease, acquired or
+congenital
+Symptomatic congenital
+cardiac abnormality,
+congestive heart failure,
+active sequelae of
+prematurity, acute
+hypoxic-ischemic
+encephalopathy, shock,
+sepsis, disseminated
+intravascular coagulation,
+automatic implantable
+cardioverter-defibrillator,
+ventilator dependence,
+endocrinopathy, severe
+trauma, severe
+respiratory distress,
+advanced oncologic state
+Recent (<3 months) MI,
+CVA, TIA or CAD/stents,
+ongoing cardiac
+ischemia or severe valve
+dysfunction, severe
+reduction of ejection
+fraction, shock, sepsis,
+DIC, ARD or
+ESRD not undergoing
+regularly-scheduled
+dialysis
+A patient with
+severe
+systemic
+disease that is
+a constant
+threat to life
+Uterine rupture
+A declared
+brain-dead
+patient whose
+organs are
+being removed
+for donor
+purposes
+ASA VI
+* Although pregnancy is not a disease, the parturient’ s physiologic state is significantly
+altered from the woman is not pregnant, hence the assignment of ASA 2 for a woman
+with uncomplicated pregnancy
+**the addition of “E” denotes emergency surgery (an emergency is defined as existing
+when delay in treatment of the patient would lead to a significant increase in the threat
+to life or body part)
+Reference: American Society of Anesthesiologists, ASA Physical Status Classification
+System. 2020. [Available at: https://www.asahq.org/standards-andguidelines/asa-physical-status-classification-system]
+Management of Obstructive Sleep Apnoea
+Appendix 10
+PAEDIATRIC SLEEP QUESTIONNAIRE
+Responses are “no” = 0, “yes” = 1, and “don’t know”=missing.
+Adapted: Chervin RD, Hedger K, Dillon JE, et al. Pediatric sleep questionnaire (PSQ):
+validity and reliability of scales for sleep-disordered breathing, snoring,
+sleepiness, and behavioral problems. Sleep Med. 2000:1;1(1):21-32.
+Management of Obstructive Sleep Apnoea
+69
+Appendix 11
+PAEDIATRIC SLEEP QUESTIONNAIRE (MALAY VERSION)
+Respon “Tidak” = 0, “Ya=1” dan “tidak tahu”=”missing”
+Reference: Hasniah AL, Jamalludin AR, Norrashidah AW, et al. Cross-cultural
+adaptation and reliability of pediatric sleep questionnaire in assessment
+of sleep-disordered breathing in the Malay speaking population. World J
+Pediatr. 2012;8(1):38-42.
+Management of Obstructive Sleep Apnoea
+Appendix 12
+MECHANISM OF AIRWAY OBSTRUCTION AND PRINCIPLE OF
+MANAGEMENT IN CHILDREN
+MECHANISM OF AIRWAY
+OBSTRUCTION:
+NARROWING OF AIRWAY DUE TO
+SOFT TISSUE, BONE, CARTILAGE
+OR NEUROMUSCULAR DISORDER
+NASO-PHARYNX
+ORO-PHARYNX
+LARYNGO-PHARYNX
+(HYPO-PHARYNX)
+NASO-PHARYNX
+ORO-PHARYNX
+LARYNGO-PHARYNX
+(HYPO-PHARYNX)
+Epiglotis,
+vocal
+cord
+PRINCIPLES OF
+MANAGEMENT
+CORRECTIVE
+SURGERY
+SURGERY
+RELIEF OF
+OBSTRUCTION
+BYPASS AIRWAY
+OBSTRUCTION
+Craniosynostosis
+e.g. Crouzon
+Syndrome
+Maxilliofacial
+Pierre Robin
+Sequence
+Surgery:
+Bone advancement
+e.g. Mandibular distraction
+osteogenesis, rapid
+maxillary expansion
+Nasal septum deviation
+Surgery: Septoplasty
+Adenoid hypertrophy
+Surgery: Adenoidectomy
+Choanal atresia
+Surgery: Tracheostomy
+Adenotonsillar
+hyperthrophy
+Surgery:
+Adenotonsillectomy
+Nasal polyp
+Surgery:
+Polypectomy
+Tonsillar hypertrophy
+surgery: Tonsillectomy
+AV malformation
+e.g. Cystic hygroma
+Surgery: Resection
+Veno-lymphatic malformation
+Surgery: Resection
+Laryngomalacia
+Surgery: Supraglottoplasty
+Laryngomalacia
+Surgery:
+Supraglottoplasty
+Pierre Robin
+Sequence
+Surgery:
+Tracheostomy
+Veno-lymphatic
+malformation
+Surgery:
+Tracheostomy
+Severe Obesity
+Surgery:
+Tracheostomy
+Spasticity
+e.g. Cerebral
+Palsy
+Surgery:
+Tracheostomy
+SITE OF AIRWAY OBSTRUCTION
+Management of Obstructive Sleep Apnoea
+71
+Maxillofacial
+e.g. Pierre Robin
+Sequence
+Treatment:
+CPAP
+Metabolic
+diseases
+e.g. Mucopolysacharidoses
+Treatment:
+CPAP
+Macroglossia
+e.g. Beckwidth
+Wiederman
+Syndrome
+Treatment:
+CPAP
+Down’s
+Syndrome
+Treatment:
+CPAP
+Allergic rhinitis
+Treatment:
+Anti-inflammatory drugs
+e.g. nasal corticosteroids,
+montelukast, anti-histamines
+REDUCE
+OEDEMA AND
+INFLAMMATION
+CONTROL
+DISEASE
+Subglottic hemangioma
+Treatment: Propanolol
+Mild to moderate
+laryngomalacia
+Treatment: CPAP
+RELIEVE
+AIRWAY
+OBSTRUCTION
+Obesity
+Treatment: CPAP
+SPLINT
+CROWDED
+AIRWAY
+CPAP
+MEDICAL
+Hypotonia e.g. Down’s /
+Neuromuscular diseases
+Treatment: CPAP
+SPLINT
+HYPOTONIC
+AIRWAY
+Illustration: Norhazirah Mohd Razali Concept: Mohd Yusran Othman and Asiah Kassim
+Management of Obstructive Sleep Apnoea
+LIST OF ABBREVIATIONS
+AASM
+American Academy of Sleep Medicine
+AE(s)
+adverse event(s)
+AHI
+Apnoea-Hypopnoea Index
+AI
+Arousal index
+ALT
+Alanine Transaminase
+ANB
+difference between SNA and SNB, where SNA is the angle between
+sella, nasion and A point, while SNB is the angle between sella,
+nasion and B point
+APAP
+automated positive airway pressure
+ARD
+acute respiratory distress
+ASA
+American Society of Anesthesiologists
+AST
+Aspartate Aminotransferase
+AT
+adenotonsillectomy
+ATS
+American Thoracic Society
+AUC
+area under the curve
+BiPAP
+bi-level PAP
+BMI
+body mass index
+BRP
+barbed reposition pharyngoplasty
+BQ
+Berlin Questionnaire
+CA
+craniofacial anomalies
+CAD
+coronary artery disease
+CHD
+cardiovascular disease
+CI
+confidence interval
+CKD
+chronic kidney disease
+COPD
+chronic obstructive pulmonary disease
+CPAP
+continuous positive airway pressure
+CV
+cardiovascular
+Crl
+Credible interval
+CVA
+cerebrovascular accident
+CVD
+cardiovascular disease
+DG
+Development Group
+DIC
+disseminated intravascular coagulation
+DISE
+drug-induced sleep endoscopy
+DM
+diabetes mellitus
+DOME
+distraction osteogenesis maxillary expansion
+DTA
+diagnostic test accuracy
+DS
+Down syndrome
+ECG
+electrocardiogram
+ECMO
+extracorporeal membrane oxygenation
+EEG
+electroencephalogram
+EF
+ejection fraction
+EMG
+electromyogram
+EOG
+electrooculogram
+ESRD
+end-stage renal disease
+ESS
+Epworth Sleepiness Scale
+FNMM
+fiber-optic nasal endoscopy with Muller’s Manoeuver
+ERS
+European Respiratory Society
+HELLP
+Hemolysis, Elevated Liver Enzymes and Low Platelets
+HPE
+histopathology examination
+HSAT
+home sleep apnea testing
+HTN
+hypertension
+Management of Obstructive Sleep Apnoea
+73
+ICSD-3
+The third edition of the International Classification of Sleep Disorders
+ICU
+intensive care unit
+LAUP
+laser-assisted uvulopalatoplasty
+LSAT
+lowest oxygen saturation
+MAA
+mandibular advance appliance
+MD
+mean difference
+MI
+myocardial infarction
+MMA
+maxillomandibular advancement
+MP-SN
+angle between mandibular plane and sella nasion line
+NOSE
+nasal obstruction symptom evaluation
+NIV
+noninvasive ventilation
+ODI
+oxygen desaturation index
+ODI4
+Oxyhaemoglobin desaturation (≥4%) index
+OHS
+Obesity Hypoventilation Syndrome
+OSA
+Obstructive Sleep Apnoea
+OR
+odds ratio
+ORID
+opioid-induced respiratory depression
+ORL
+otorhinolaryngology
+PaCO2
+arterial carbon dioxide tension
+PACU
+Post-Anaesthesia Recovery Unit
+PAP
+positive airway pressure
+PAV
+posterior airway volume
+PM
+portable monitor
+PNS-AD1
+distance from the posterior nasal spine to the nearest adenoid tissue
+measured along the PNS- basion line
+PNS-AD2
+distance from the posterior nasal spine to the nearest adenoid tissue
+measured along the line perpendicular to the sella-basion line
+PPV
+positive predictive value
+PRS
+Pierre Robin Sequence
+PSG
+polysomnogram
+PSQ
+Pediatric Sleep Questionnaire
+P-SAP
+perioperative sleep apnea prediction
+QoL
+quality of life
+RCT(s)
+randomized controlled trial(s)
+RDI
+Respiratory Disturbance Index
+RME
+rapid maxillary expansion
+REM
+rapid eye movement
+ROC
+receiver operating characteristic
+RR
+relative risk
+SARPE
+surgical-assisted rapid palatal expansion
+SBQ
+STOP-BANG Questionnaire
+SBP
+systolic blood pressure
+SDB
+sleep disordered breathing
+SMD
+standardised mean difference
+SNB
+angle between sella, nasion and B point
+SE(s)
+side effect(s)
+SpO2 Oxygen saturation
+SQ
+STOP Questionnaire
+T2DM
+type 2 diabetes mellitus
+TCRFTA
+temperature controlled radiofrequency tissue ablation
+TIA
+transient ischaemic attack
+TIVA
+total IV anaesthesia
+TMJ
+temporomandibular joint
+Management of Obstructive Sleep Apnoea
+ACKNOWLEDGEMENT
+The members of CPG DG would like to express their gratitude and
+appreciation to the following for their contributions:
+• Panel of external reviewers who reviewed the draft
+• Technical Advisory Committee of CPG for their valuable input and
+feedback
+• Health Technology Assessment and Clinical Practice Guidelines
+Council for approval of the CPG
+• Ms. Zamilah Mat Jusoh@Yusof and Ms. Subhiyah Ariffin on retrieval
+of evidence
+• Ms. Nazneen Izma Shahrizan for illustrating the background of the
+CPG cover
+• All those who have contributed directly or indirectly to the
+development of the CPG
+DISCLOSURE STATEMENT
+The panel members of both Development Group and Review Committee
+had completed disclosure forms. None hold shares in pharmaceutical
+firms or act as consultants to such firms. Details are available upon
+request from the CPG Secretariat.
+SOURCE OF FUNDING
+The development of the CPG on Management of Obstructive Sleep
+Apnoea was supported financially in its entirety by the MoH Malaysia.
+TORS BOT
+transoral robotic base-of-tongue surgery
+vs
+versus
+WMD
+weighted mean difference
+MALAYSIAN HEALTH TECHNOLOGY

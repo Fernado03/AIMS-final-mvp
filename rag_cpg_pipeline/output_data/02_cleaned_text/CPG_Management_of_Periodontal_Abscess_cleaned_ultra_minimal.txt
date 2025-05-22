@@ -1,0 +1,1615 @@
+MOWIKIGIGN. 17600)
+(ORAL HEALTH DIVISION
+nu OF HEALTH MALAYSIA
+MANAGEMENT OF
+PERIODONTAL ABSCESS
+‘ (Second Edition)
+CLINICAL PRACTICE GUIDELINES
+‘STATEMENT OF INTENT
+‘These guidelines update and supplant the orginal guidelines developed
+in 2004 and are based on the best avalable contemporary evidence.
+‘They are intended as a guide for the best clinical practice in the
+management of periodontal abscess presently. However, I must be
+‘noted that adherence to these guidelines do not necessary lead to the
+‘best clinical outcome in individual patient care, as every health care
+provider is responsible for the management of his/her unique patient
+based on the clinical presentation and management options available
+locally
+REVIEW OF THE GUIDELINES
+‘These guidelines were issued in December 2016 and wil be reviewed in
+202 or earierif important new evidence becomes avaliable.
+Published by:
+(Oral Heaith Technology Section
+(Oral Heath Dision
+‘Ministry of Health Malaysia
+Love 8, Block E10, Precinct 1
+Federal Government Administrative Centre
+(62590 Putrajaya, Malaysia
+Copyright
+‘Tho copyright owner ofthis publication is Oral Heath Division, Ministry
+‘of Health Malaysia. Content may be reproduced in any number of copies
+‘and in any. format or maodum provided that a copyright
+f2cknowedgement to OHO is included and the content is not changed,
+‘ot Sok, nor used to promote or endorse any product or service and not
+Used inappropriately or misleading context
+ISBN: 978-967-0769-80-6
+‘Available onthe folowing websites:
+btz/waw.mah.gowmy
+bnt/wenw.ohd.goumy
+btv/wmw.acadmed.oro.my
+‘Also avaiable as an app for Android and iOS platform: MyMaHTAS,
+Management of Periodontal Abscess
+2016
+TABLES OF CONTENTS
+Page
+LEVELS OF EVIDENCE AND GRADES OF RECOMMENDATION
+i
+GUIDELINE DEVELOPMENT AND OBJECTIVES
+ii
+CLINICAL QUESTIONS, TARGET POPULATION, TARGET GROUP/
+USER AND HEALTHCARE SETTINGS
+iv
+GUIDELINES DEVELOPMENT GROUP
+v
+REVIEW COMMITTEE
+vi
+ALGORITHM FOR MANAGEMENT OF PERIODONTAL ABSCESS
+vii
+LIST OF KEY MESSAGES AND RECOMMENDATIONS
+viii
+1.
+INTRODUCTION
+1
+1.1 The Aetiology, Microbiology and Contributing Factors
+2
+1.2 Pathogenesis of Periodontal Abscess
+3
+2.
+HISTORY TAKING
+4
+2.1 Signs and Symptoms
+4
+2.2 Medical and Dental Histories
+5
+3.
+CLINICAL FEATURES
+6
+3.1 Systemic Manifestation or Involvement
+6
+3.2 Clinical Features
+6
+4.
+INVESTIGATIONS
+8
+4.1 Radiographs
+8
+4.2 Pulp Sensibility Test
+8
+4.3 Microbial Test
+8
+4.4 Others
+8
+5.
+DIAGNOSIS
+8
+6.
+TREATMENT
+16
+6.1 Control of Acute Condition
+16
+6.2 Management of Pre-existing and/or Residual Lesions
+18
+7.
+IMPLEMENTING THE GUIDELINES
+18
+7.1 Facilitating and Limiting Factors
+19
+7.2 Potential Resource Implications
+20
+7.3 Proposed Clinical Audit Indicators
+20
+REFERENCES
+21
+Appendix 1: Clinical Questions: Management of Periodontal
+Abscess
+25
+Appendix 2: Recommended Systemic Antimicrobials
+26
+Appendix 3: Extraction versus Conservation
+27
+ACKNOWLEDGEMENTS
+28
+DISCLOSURE STATEMENT
+28
+SOURCE OF FUNDING
+Management of Periodontal Abscess
+2016
+LEVELS OF EVIDENCE
+GRADES OF RECOMMENDATION
+LEVEL
+STUDY DESIGN
+l
+Evidence obtained from at least one properly designed randomised
+controlled trial.
+ll-1
+Evidence obtained from well-designed controlled trials without
+randomisation.
+ll-2
+Evidence obtained from well-designed cohort or case-control
+analytic studies, preferably from more than one centre or research
+group.
+ll-3
+Evidence obtained from multiple time series studies, with or
+without intervention. Dramatic results in uncontrolled experiments
+(such as the results of the introduction of penicillin treatment in the
+1940s) could also be regarded as this type of evidence.
+lll
+Opinions or respected authorities, based on clinical experience;
+descriptive studies and case reports; or reports of expert
+committees.
+GRADE
+STUDY DESIGN
+A
+At least one meta-analysis, systematic review or RCT or evidence
+rated as good or directly applicable to the target population.
+B
+Evidence from well conducted clinical trials, directly applicable to
+the target population and demonstrating overall consistency of
+results; or evidence extrapolated from meta-analysis, systematic
+reviews or RCT.
+C
+Evidence from expert committee reports, or opinions and/or
+clinical experiences of respected authorities; indicates absence of
+directly applicable clinical studies of good quality.
+Source: Adapted from Harris RP, Helfand M, Woolf SH, Lohr KN, Mulrow CD, Teutsch
+SM, Atkins D. Current Methods of the U.S. Preventive Services Task Force: A Review
+of the Process. Am J Prev Med. 2001;20(suppl 3):21-35.
+Source: Modified from the Scottish Intercollegiate Guidelines Network (SIGN 50). A
+guideline developer’s handbook. Elliott House, 8 -10 Hillside Crescent Edinburgh EH7
+5EA. Revised November 2011. ISBN 978 1 905813 25 4.
+Note: The grades of recommendation relates to the strength of the
+evidence on which the recommendation is based. It does not reflect
+the clinical importance of the recommendation.
+Management of Periodontal Abscess
+2016
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+GUIDELINES DEVELOPMENT
+The Development Group for these Clinical Practice Guidelines (CPG)
+consisted of Periodontists, Oral Medicine and Oral Pathology Specialist,
+Restorative Dental Specialist, Dental Public Health Specialists and
+general dentists. The Review Committee was actively involved in the
+development process of these guidelines.
+The previous edition of the CPG on Management of Periodontal
+Abscess (2004) was used as the basis for the development of these
+guidelines.
+The recommendations were adapted taking into consideration local
+practices.
+Several improvements have been introduced in this edition. In addition
+to the general text and photographic updates, new and updated
+information has been included in the management such as use of
+antimicrobials, key messages and recommendations. Besides this,
+clinical audit indicators have also been identified for the purpose of
+monitoring and evaluating outcomes.
+Evidences were retrieved from publications up to June 2016. Literature
+search was carried out using the following electronic databases:
+PUBMED/MEDLINE; Cochrane Database of Systemic Reviews (CDSR);
+ISI Web of Science; Health Technology Assessment (HTA) and full text
+journal articles via OVID search engine. In addition, the reference
+lists of all relevant articles retrieved were searched to identify further
+studies. The following free text terms or MeSH terms were used either
+singly or in combination to retrieve the articles: periodontal abscess,
+acute periodontal abscess, chronic periodontal abscess, multiple
+periodontal abscess, gingival abscess, pericoronal abscess, perioendo lesions, periodontal probing, aetiology, microbiology, periodontal
+pathogens, oral hygiene, smoking, diabetes mellitus, tooth extractions,
+chemotherapeutic, antibiotics, treatment, debridement, photodynamic
+therapy and supportive periodontal therapy. Only literatures in English
+were retrieved.
+Management of Periodontal Abscess
+2016
+There were 15 clinical questions which were assigned to members
+of the development group. The group members met a total of 11
+times throughout the development of these guidelines. All retrieved
+literature were appraised by at least two members and presented in
+the form of evidence tables and discussed during group meetings.
+All statements and recommendations formulated were agreed upon
+by both the development group and review committee. This CPG is
+based on reference to the findings of randomized controlled trials,
+descriptive studies, clinical experiences, case reports and adapted
+according to local practices. However, when there was lack of
+evidence, recommendations were based on consensus of group
+members. Although ideally patients’ views and preferences need to
+be considered in the development of CPGs, in this instance, it was not
+feasible.
+The levels of evidence of the literature were graded using the modified
+version from the United States (U.S) / Canadian Preventive Services
+Task Force, while the grading of recommendations was based on the
+modified version of the Scottish Intercollegiate Guidelines Network
+(SIGN).
+The draft was reviewed by a team of internal and external reviewers. It
+was made available on the websites of the Ministry of Health, Malaysia
+and Academy of Medicine, Malaysia for comments and feedbacks.
+Recommendations were presented to the Technical Advisory
+Committee for CPGs, and finally to the HTA and CPG Council, Ministry
+of Health, Malaysia for approval.
+Clinical significance of periodontal abscess (PA):
+i. This condition is rampant but has been under-recorded in
+Health Information & Management System (HIMS) data mainly
+due to diagnostic confusion.
+ii. If left untreated, PA may lead to:
+• Tooth loss resulting in reduced oral function and impaired
+quality of life (QoL)
+• Financial implications in replacing missing teeth and oral
+functional rehabilitation
+iii. Interlink between oral-systemic health (periodontal medicine) in
+periodontal conditions and systemic diseases, especially
+bidirectional relationship between diabetes mellitus and
+periodontitis.
+Management of Periodontal Abscess
+2016
+Rationale for the development of the CPG:
+i. To standardise the management of PA at all healthcare levels
+ii. To appropriately manage PA and improve outcomes of
+periodontal therapy
+iii. To ensure better prognosis of affected dentition and reduce
+morbidity
+OBJECTIVE
+To provide evidence-based guidance in the management of periodontal
+abscess.
+SPECIFIC OBJECTIVES
+i. To disseminate and reinforce knowledge on the management of
+periodontal abscess among healthcare professionals
+ii. To guide in the appropriate management of periodontal abscess
+by healthcare professionals
+CLINICAL QUESTIONS
+The clinical questions addressed by these guidelines can be found in
+Appendix 1.
+TARGET POPULATION
+These guidelines are applicable to patients diagnosed with periodontal
+abscess.
+TARGET GROUP/USER
+This CPG is meant for all oral healthcare providers who provide clinical
+management of periodontal abscess which includes:
+i. Dental students
+ii. Dental officers
+iii. General dental / medical practitioners
+iv. Dental specialists
+v. Allied health professionals
+HEALTHCARE SETTINGS
+Primary and specialist oral healthcare settings.
+Management of Periodontal Abscess
+2016
+Chairperson
+Secretary
+Dr Norhani Abd Rani
+Consultant Periodontist
+Unit Pakar Periodontik
+Klinik Pergigian Kota Bharu
+Jalan Mahmood
+15200 Kota Bharu, Kelantan
+Dr Khamiza Zainol Abidin
+Periodontist
+Unit Pakar Periodontik
+Klinik Pergigian Gunung Rapat
+Jalan Raja Dr. Nazrin Shah
+31350 Ipoh, Perak
+Members
+Prof Dr Tara Bai Taiyeb Ali
+Professor and Consultant Periodontist
+Fakulti Pergigian
+Universiti Malaysia
+Jalan Lembah Pantai
+50603 WP Kuala Lumpur
+Datin Dr Indra a/p Nachiappan
+Consultant Periodontist
+Unit Pakar Periodontik
+Klinik Kesihatan Jelapang
+30020 Ipoh, Perak
+Dr Sa’diah Yusoff
+Consultant Periodontist
+Unit Pakar Periodontik
+Klinik Kesihatan Anika
+Jalan Tengku Kelana
+41000 Klang, Selangor
+Dr Zaharah Abdul Rahman
+Periodontist
+Unit Pakar Periodontik
+Klinik Pergigian Pokok Assam
+31000 Taiping, Perak
+Dr Zainab Shamdol
+Dental Public Health Specialist
+Bahagian Kesihatan Pergigian KKM
+Aras 5 Blok E10 Kompleks E
+Presint 1 Pusat Pentadbiran
+Kerajaan Persekutuan
+62590 WP Putrajaya
+Dr Yeo Kian Boon
+General Dental Practitioner
+Gleneagles Hospital
+282 & 286 Jalan Ampang
+50450 WP Kuala Lumpur
+Dr Izrawatie Mardiana Shapeen
+Periodontist
+Unit Pakar Periodontik,
+Klinik Pergigian Cheras
+Aras 2, Jalan Yaakob Latif
+56000 Cheras, WP Kuala Lumpur
+Dr Mohd Faizal Hafez Hidayat
+Senior Lecturer and Periodontist
+Fakulti Pergigian
+Universiti Teknologi Mara (UiTM)
+Kampus Sg. Buloh
+47000 Selangor
+Dr Salleh Zakaria
+Dental Public Health Specialist
+Bahagian Kesihatan Pergigian KKM
+Aras 5 Blok E10 Kompleks E
+Presint 1 Pusat Pentadbiran
+Kerajaan Persekutuan
+62590 WP Putrajaya
+Dr Sumairi Ismail
+Oral Pathology & Oral Medicine Specialist
+Unit Oral Pathology & Oral Medicine
+Jabatan Pembedahan Mulut
+Hospital Sultan Abdul Halim
+Jalan Lencongan Timur, Bandar Aman Jaya
+08000 Sungai Petani, Kedah
+Dr Nor Ziana Ibrahim
+Restorative Dental Specialist
+Unit Pakar Pergigian Restoratif
+Klinik Pergigian Pandamaran
+Persiaran Raja Muda Musa
+42000 Pelabuhan Klang, Selangor
+Dr Norul Nurdiyana Nordin
+Dental Officer
+Unit Pakar Periodontik
+Klinik Kesihatan Anika
+Jalan Tengku Kelana
+41000 Klang, Selangor
+DEVELOPMENT GROUP
+Management of Periodontal Abscess
+2016
+REVIEW COMMITTEE
+These guidelines were reviewed by a panel of independent reviewers
+from both public and private sectors who were asked to comment
+primarily on the comprehensiveness and accuracy of interpretation
+of the evidence supporting the recommendations in this CPG. The
+following internal and external reviewers provided comments and
+feedback on the proposed draft:
+INTERNAL REVIEWERS
+Prof Emeritus Dato’ Dr Wan Mohamad
+Nasir Wan Othman
+Professor & Dental Public Health Specialist
+Faculty of Dentistry,
+Universiti Sains Islam Malaysia
+Level 15, Tower B, Persiaran MPAJ
+Jalan Pandan Utama
+55100, WP Kuala Lumpur
+Dr Adyani bt Md Redzuan
+Coordinator of Master Programme & Clinical
+Pharmacy
+Pejabat Fakulti Farmasi, Tingkat 5, Block B
+Universiti Kebangsaan Malaysia
+Jalan Raja Muda Abdul Aziz
+50300 WP Kuala Lumpur
+Dr Siti Lailatul Akmar Zainuddin
+Lecturer and Periodontist
+Pusat Pengajian Sains Pergigian (PPSG)
+Universiti Sains Malaysia
+Kampus Kesihatan
+16150 Kubang Kerian, Kelantan
+Dr Chan Yoong Kian
+Consultant Periodontist
+Unit Pakar Periodontik
+Klinik Pergigian
+Klinik Kesihatan Mahmoodiah
+80100 Johor Bahru, Johor
+Dr Syamhanin Adnan
+Senior Clinical Pharmacist
+Jabatan Farmasi,
+Hospital Sg Buloh Jalan Hospital
+47000 Sg Buloh, Selangor
+Col. Dr Zaharah Mahmud
+Periodontist
+Jabatan Pergigian
+Hospital Angkatan Tentera Lumut
+Pangkalan TLDM, 32100 Lumut, Perak
+Dr Siti Mardhiah bt. Roslan
+Dental Officer
+Klinik Pergigan Batu Gajah
+Hospital Batu Gajah
+Jln Changkat, Batu Gajah
+31000 Kinta, Perak
+Assoc. Prof Dr Wan Himratul Aznita
+Wan Harun
+Oral Biologist
+Fakulti Pergigian, Universiti Malaya
+Jalan Lembah Pantai
+50603 WP Kuala Lumpur
+EXTERNAL REVIEWERS
+Prof Dr Mark Bartold
+Professor and Director
+Colgate Australian Clinical Dental
+Research Centre
+School of Dentistry
+The University of Adelaide
+Adelaide, South Australia
+5005 Australia
+Associate Prof Dr Lim Lum Peng
+Director, Periodontics
+Faculty of Dentistry
+National University of Singapore
+11 Lower Kent Ridge Road
+Singapore 119083
+Republic of Singapore
+Dr Kelly Yong Hui Ping
+Periodontist
+Yong Periodontal and Dental Clinic
+25-2, PJU 8/5A, Damansara Perdana
+47820 Petaling Jaya, Selangor
+Dr Salmah Kamin
+Periodontist
+KPJ Selangor Specialist Hospital
+Jalan Singa J 20/J, Seksyen 20
+40300 Shah Alam, Selangor
+Dr Nurhamni Hamsan
+Klinik Pergigian Nur
+No. 7 Tkt 1 Jalan Labis Indah 1
+Taman Labis Indah, 85300 Labis Johor
+Management of Periodontal Abscess
+2016
+ALGORITHM FOR MANAGEMENT OF PERIODONTAL ABSCESS
+Initial Assessment
+and Examination
+Acute Periodontal
+Abscess
+Chronic Periodontal
+Abscess
+Extraction of
+‘irrational to treat’/
+hopeless tooth
+• Systemic involvement
+• Spreading infection
+• No systemic involvement
+• Localized infection
+Immediate
+management
+Systemic antibiotics
+and/or refer to specialist
+when necessary
+Review in 24-48 hours
+to evaluate resolution
+of abscess
+Recall in
+3-5 days
+Unresolved lesion
+Control of condition
+• Drainage and root surface debridement
+• Removal of causative factors
+Management of pre-existing / residual
+Lesions
+• Refer to Periodontist
+• Tooth Extraction
+Management of Periodontal Abscess
+2016
+LIST OF KEY MESSAGES AND RECOMMENDATIONS
+Key Message 1
+• History of a traumatic event e.g. impaction of foreign body into the
+periodontium is a clue to aid diagnosis of periodontal abscess.
+• Current heavy smokers and poorly-controlled diabetics are more prone to
+severe periodontal disease with higher prevalence of periodontal abscess.
+Key Message 2
+• Presence of swelling, suppuration, deep periodontal pockets and bleeding on
+probing are the main clinical features of PA.
+Key Message 3
+• Mechanical debridement and drainage through the periodontal pocket
+without antibiotics is usually effective.
+• Mechanical treatment of periodontal pocket is to debride the root surface
+using either a hand or ultrasonic scaler to facilitate drainage.
+• Irrigation aims to remove debris and residual microorganisms.
+Recommendation 4
+• Diabetic patients with acute symptoms should be given prompt treatment.
+25, Level III
+(Grade C)
+• Analgesics should be prescribed to alleviate pain.
+(Grade C)
+Recommendation 1
+• Detailed medical and dental history should be considered in diagnosing PA.
+(Grade C)
+Recommendation 2
+A thorough subgingival scaling and root surface debridement should be carried
+out to treat abscesses in anatomically complex sites (e.g. furcation involvement
+or intrabony pockets).
+(Grade C)
+Recommendation 3
+• Periodontal abscess with systemic spread which is life-threatening
+or not responding to oral antibiotics should be referred to hospital immediately.
+(Grade C)
+• For patients treated with antibiotics, drainage and debridement should be
+carried out within 5 days.
+(Grade C – Development Group’s consensus)
+Management of Periodontal Abscess
+2016
+1. INTRODUCTION
+Periodontal abscess (PA) is a common emergency in the dental clinic,
+being the third most prevalent emergency infection, after acute dentoalveolar abscesses and pericoronitis. 1-3, Level lll
+According to the 1999 Classification of Periodontal Diseases
+and Conditions (AAP World workshop) 4, Level lll “Abscesses of the
+Periodontium” include gingival, periodontal and pericoronal abscess
+(Table 1).
+Table 1: Classification of periodontal diseases and conditions 1999
+Periodontal abscess, which can be acute or chronic, is defined as
+a lesion associated with periodontal breakdown occurring during a
+limited period of time with detectable clinical symptoms, including a
+localised accumulation of pus located within the gingival wall of the
+periodontal pocket. 1,2, Level lll
+A gingival abscess is defined as a localised, painful, rapidly expanding
+lesion involving the marginal gingiva or interdental papilla sometimes
+in a previously disease-free area. 2, Level III
+I:
+Gingival diseases
+A Dental plaque-induced gingival
+diseases
+B Non-plaque-induced gingival
+lesions
+II:
+Chronic periodontitis
+A Localized
+B Generalized
+(>30% of sites are involved)
+III:
+Aggressive periodontitis
+A Localized
+B Generalized
+(>30% of sites are involved)
+IV: Periodontitis as a manifestation of
+systemic diseases
+A Associated with
+hematological disorders
+B Associated with genetic disorders
+C Not otherwise specified
+V:
+Necrotizing periodontal diseases
+A Necrotizing ulcerative gingivitis
+B Necrotizing ulcerative
+periodontitis
+VI: Abscesses of the periodontium
+A Gingival abscess
+B Periodontal abscess
+C Pericoronal abscess
+VII: Periodontitis associated with endodontic
+lesions
+A Combined periodontic–endodontic
+lesions
+VIII: Developmental or acquired
+deformities and conditions
+A Localized tooth-related factors
+that modify or predispose to
+plaque-induced gingival
+diseases ⁄periodontitis
+B Mucogingival deformities and
+conditions around teeth
+C Mucogingival deformities and
+conditions on edentulous ridges
+D Occlusal trauma
+Management of Periodontal Abscess
+2016
+A pericoronal abscess is a localized accumulation of pus within the
+overlying tissue surrounding the crown of an incompletely erupted
+tooth. 2, Level III
+Abscesses occur more often in molar sites representing more than
+50% of cases, 6,49, Level III probably because of the presence of furcation,
+and complex anatomy and root morphology. 2, Level III
+1.1 The Aetiology, Microbiology and Contributing Factors
+An understanding of the aetiology of periodontal abscess is crucial
+to ensure successful outcomes. Periodontal abscess occurs mainly in
+periodontitis sites with deep pockets although it can develop in nonperiodontitis sites.
+Microorganisms are the cause for the periodontal abscess. The
+common microorganisms involved are: 5-7, Level III
+a) Fusobacterium nucleatum
+b) Porphyromonas gingivalis
+c) Tannerella forsythia
+d) Prevotella intermedia/nigrescens
+e) Peptostreptococcus micros
+Lower prevalences were observed for:
+a) Prevotella melaninogenica
+b) Campylobacter rectus
+c) Aggregatibacter actinomycetemcomitans
+Similar proportions of facultative and strict anaerobes were found, of
+which a higher proportion were gram-positive facultative cocci, closely
+followed by gram-negative anaerobic rods. 1,7, Level III
+In periodontitis–affected sites, the mechanisms that may lead to
+abscess formation include: 2, Level III
+a) Exacerbation of a chronic lesion as a consequence of changes
+in the subgingival microbiota composition, with an increase
+in bacterial virulence, or a decrease in host defence. This is
+further aggravated by the existence of tortuous pockets,
+presence of furcation involvements and vertical defects, which
+may result in a reduced capacity to self-drain.
+Management of Periodontal Abscess
+2016
+b) During the course of periodontal therapy:
+• post scaling and root debridement: 8, Level III
+o inadequate scaling may allow calculus to remain in
+deep pockets, whilst the healed marginal gingiva will
+occlude pocket drainage
+o dislodged calculus fragments may be embedded into the
+surrounding tissues
+• post periodontal surgery: 9, Level II-2
+o associated with presence of foreign bodies, such as
+membranes for regenerative procedures or sutures
+• acute
+exacerbation
+during
+supportive
+periodontal
+(maintenance) phase 2, Level III
+c) Post-systemic antibiotic intake in pre-existing periodontitis
+without scaling/root debridement 10, Level II-3; 11, Level III
+d) Acute exacerbation of untreated periodontitis
+Abscess can also occur in non-periodontitis/healthy sites, owing to:
+2, Level III
+a) impaction of foreign bodies including orthodontic elastics, piece
+of dental floss, dislodged cemental tear, fragment of
+toothpick,12,13,
+Level
+III piece
+of
+finger
+nail,14,
+Level
+III
+fish
+bone and piece of popcorn kernel 11, Level III
+b) anatomical variations such as invaginated tooth,15, Level III
+enamel pearls / extensions and palatal groove 16, Level III
+c) alteration of the root surface by different factors such as
+perforation by endodontic instrument,13, Level III crack/fracture
+of the root,
+38, Level II-1 cervical cemental tear 16, Level III and
+external root resorptions
+1.2 Pathogenesis of Periodontal Abscess
+Invasion of bacteria into soft tissues surrounding the periodontal
+pocket will result in an inflammatory process through chemotactic
+factors released by the bacteria. Both lowered tissue resistance,
+and the virulence and number of bacteria will determine the course
+of this infection. The formation of an acute inflammatory infiltrate and
+encapsulation of bacterial mass will lead to extensive connective tissue
+destruction and pus formation. 17-18, Level III
+Management of Periodontal Abscess
+2016
+2. HISTORY TAKING
+The diagnosis of periodontal abscess should be based on overall
+evaluation and interpretation of patient’s symptom, together with the
+clinical and radiological signs found during the oral examination. 2, Level III
+2.1 Signs and Symptoms
+Symptoms of periodontal abscess can range from moderate to severe
+pain (62%) to no pain (10%). 1,5,7, Level III Periodontal abscess may be
+associated with intraoral swelling. The approximate duration of
+swelling in patients can be 1-4 days (40%), between 5-10 days (25%)
+and unknown in 15% of patients. 1, Level III In acute lesions, swellings are
+more defined and localised. Other symptoms range from tenderness
+of gingiva to palpation, 7, Level III tooth mobility, 1, Level III and extrusion of
+teeth (23.3%). 5, Level III
+Acute periodontal abscess is a lesion that progresses dramatically in a
+short period to a crisis 19, Level III with severe pain, distress, and often with
+complaint of tooth elevation as well as tenderness on biting. 20, Level III A
+complaint of fever and discomfort due to regional lymphadenopathy
+indicates systemic spread of infection. 21, Level III
+Chronic periodontal abscess is usually asymptomatic and may be
+associated with sinus tract. 2, Level III
+Signs and symptoms of acute and chronic periodontal abscess
+1, 22, Level III are as in Table 2.
+Table 2: Signs and Symptoms of Periodontal Abscess
+Acute Periodontal Abscess
+Chronic Periodontal Abscess
+•
+Mild to severe discomfort
+•
+Localized red ovoid swelling
+•
+Periodontal pocket
+•
+Mobility
+•
+Tooth elevation in socket
+•
+Tenderness on percussion on biting
+•
+Exudation
+•
+Elevated temperature
+•
+Regional lymphadenopathy
+•
+Tenderness of the gingiva to palpation
+•
+No pain or dull pain
+•
+Localised inflammatory lesion
+•
+Slight tooth elevation
+•
+Intermittent exudation
+•
+Fistulous tract often associated with a
+deep pocket
+•
+Usually without systemic involvement
+Management of Periodontal Abscess
+2016
+2.2 Medical and Dental Histories
+Thorough medical and dental history including medication is important
+in total patient management. 19, Level III Detailed history of periodontitis
+experience and its treatment, particularly history of recent antibiotic
+therapy is also important. Thus, the following points have to be
+considered:
+a) history of periodontitis 1, Level III
+b) history of a traumatic event e.g. impaction of foreign body into the
+periodontium 2, Level III
+c) presence of untreated periodontitis (incidence of 62%) 7, Level III
+d) current periodontal disease status 1, Level III
+e) recent scaling and root planing 1,5, Level III (incidence of 14%) 7, Level III
+f) recent
+dental
+treatment
+(restorative/orthodontic/endodontic)
+2, Level III
+g) recent systemic antibiotic therapy 2, Level III
+h) supportive periodontal (maintenance) phase (incidence of 7%)
+7, Level III
+i) risk factors:
+• smoking status - heavy current smokers are more prone to severe
+periodontal disease and do not respond predictably to treatment
+23, Level lI-2
+• diabetes mellitus - prevalence of periodontal abscess is higher
+in diabetics especially those with poor glycaemic control
+20, 22, Level III
+• others – genetically predispose to severe periodontitis
+(Syndromic and Non-Syndromic Periodontitis) 24, Level III
+Development of periodontal abscess in periodontitis may occur as
+an acute exacerbation of an untreated periodontitis, during active
+periodontal therapy and supportive periodontal (maintenance) phase.
+7, Level III
+Key Message 1
+• History of a traumatic event e.g. impaction of foreign body into
+the periodontium is a clue to aid diagnosis of periodontal
+abscess.
+• Current heavy smokers and poorly-controlled diabetics are
+more prone to severe periodontal disease with higher prevalence
+of periodontal abscess.
+Management of Periodontal Abscess
+2016
+Recommendation 1
+• Detailed medical and dental history should be considered in
+diagnosing PA.
+(Grade C)
+3. CLINICAL FEATURES
+3.1 Systemic Manifestation or Involvement
+Systemic involvement has been reported in some severe cases of
+periodontal abscess which include:
+a) fever
+b) malaise
+c) regional lymphadenopathy (10% of patients)
+d) leucocytosis can be detected in approximately 1/3 of patients.
+6,7,26,27, Level III
+e) features that may indicate on-going systemic diseases, in particular
+compromised immune system 28, Level III
+3.2 Clinical Features
+a) Extra oral
+Periodontal abscess may be associated with:
+• diffuse and tender extra oral swelling with 40% reporting
+that the swelling had occurred 1–4 days before; 25%
+between 5–10 days; 20% between 15–30 days; and 15%
+did not know. 6, 26, 28, 29, Level III
+• trismus 29, Level III
+• large fluctuant area,
+30, Level III redness and sinus
+6, 7, 26, 28, 29 Level III
+b) Intra oral
+Most prominent signs are: 6, Level III
+• ovoid elevation in the gingiva along the lateral part of the
+root 2, 29, Level III
+• swelling (93%), oedema (84%) and redness (75%)
+29, Level III
+• bleeding on probing in 100% of abscesses
+Management of Periodontal Abscess
+2016
+• suppuration in 66% of cases either spontaneously or on
+pressure from gingival sulcus or sinus
+• deep probing depths at sites with severe periodontal
+destruction (62.1% with pockets deeper than 6 mm)
+• tooth mobility in 79.0% of cases 5-7, 26, 29-30, Level III
+• possible tenderness to palpation 29, Level III
+• tooth may be tender to percussion
+Key Message 2
+• Presence of swelling, suppuration, deep periodontal pockets
+and bleeding on probing are the main clinical features of PA.
+(Courtesy: Dr Norhani, Dr Izrawatie)
+Figure 1: Clinical features of Periodontal Abscesses
+Management of Periodontal Abscess
+2016
+4.
+INVESTIGATIONS
+4.1
+Radiographs
+Periapicals and OPG are commonly used for assessment.
+31, 32, Level III In presence of sinus, gutta percha point can be
+placed through the opening to locate the origin of the sinus tract.
+The radiographic examination of periodontal abscess may
+reveal a normal appearance, widening of periodontal ligament
+(PDL) spaces or some degree of radiographic bone loss of the
+tooth involved in cases with pre-existing periodontal pocket.
+2, 5, Level III
+4.2
+Pulp Sensibility Test
+Pulp sensibility test (formerly known as pulp vitality test) could be
+used to assess the vitality of the tooth.
+33, Level III Teeth
+with primary periodontal infection tend to respond positively to
+pulp sensibility test such as thermal test and electric pulp test.
+34, Level III
+4.3
+Microbial Test
+Samples of pus from the sinus, abscess or gingival sulcus could
+be sent for culture and sensitivity test. 5, 32, Level III Culture
+studies have provided a substantial body of information about
+the bacterial aetiology and the species involved. 35, Level III
+4.4
+Others
+Glycaemic level of patients can be assessed through random
+blood glucose, fasting blood glucose or glycosylated
+haemoglobin (HbA1c) level, if indicated to identify undetected
+diabetics and to assess glycaemic control in diabetics.
+32, Level III
+5.
+DIAGNOSIS
+The diagnosis of periodontal abscess should be based on overall
+evaluation which include the relevant medical and dental histories
+along with clinical and radiological findings during the
+examination. 2, Level III
+Management of Periodontal Abscess
+2016
+Possible differential considerations include:
+• Gingival abscess;
+• Periodontal abscess;
+• Periapical abscess;
+• Perio-endo lesion;
+• Endo-perio lesion;
+• Cracked tooth syndrome; and
+• Vertical root fracture.
+The characteristics and clinical / radiographic findings of the above
+lesions for differential diagnosis are given in Table 3.
+Table 3: Differential Diagnosis and Characteristics of Periodontal
+Diseases
+Differential
+Diagnosis
+Characteristics and Clinical / Radiographic Findings
+1. Gingival
+Abscess
+2, level III
+•
+Localized purulent infection involving marginal gingiva
+•
+History of recent trauma
+•
+Localized to the gingiva
+•
+NO periodontal pocketing
+e.g.: Case 1 (Courtesy: Dr Khamiza Zainal Abidin)
+Gingival abscess on buccal aspect of 21 IOPa radiograph did not show
+any significant findings.
+e.g.: Case 2 (Courtesy: Dr Norhani Abd Rani)
+Gingival abscess in
+drug-induced gingival
+enlargement case
+Management of Periodontal Abscess
+2016
+2. Periodontal
+Abscess
+2, 5-7, 26, 29-32,
+level III
+Most prominent clinical signs are:
+•
+ovoid elevation in the gingiva along the lateral part of the root
+•
+swelling, oedema, redness and bleeding on probing
+•
+suppuration either spontaneously or on pressure from gingival
+sulcus or sinus
+•
+deep probing depth at sites with severe periodontal destruction
+•
+tooth mobility
+•
+possible tenderness to palpation, and tooth may be tender to
+percussion
+The radiographic examination: may reveal a normal appearance,
+widening of periodontal ligament (PDL) spaces or some degree
+of radiographic bone loss of the tooth involved in cases with
+pre-existing periodontal pocket.
+e.g.: Case 1 (Courtesy: Dr Norhani Abd Rani )
+Redness, swelling and deep periodontal pocket (9mm) on mesial of 41.
+IOPa radiograph indicating horizontal bone loss
+e.g.: Case 2 (Courtesy: Datin Dr Indra a/p Nachiapan)
+Redness and swelling on
+palatal surfaces of 25 and 26,
+with mobility and deep pockets
+OPG radiograph revealed
+widening of PDL space of teeth
+25 and 26. Bone loss >½ of root
+length, with furcation involvement
+Management of Periodontal Abscess
+2016
+Generalized swelling of gingival
+tissue with suppuration especially
+on mandibular region
+IOPa radiograph showed
+severe bone loss to root tips
+e.g.: Case 3 (Courtesy: Dr Izrawatie Shapeen)
+e.g.: Case 4 (Courtesy: Dr Izrawatie Shapeen)
+Redness, swelling and deep periodontal pocket (9mm) on mesial of 23. IOPa
+radiograph revealed radiolucency at mesial of the tooth indicating bone loss
+e.g.: Case 5
+(Courtesy: Dr Izrawatie Shapeen)
+(Courtesy: Dr Izrawatie Shapeen)
+e.g.: Case 6
+Redness at marginal margin,
+swelling and suppuration at palatal
+surface of 11
+Swelling and redness of gingival
+tissue
+Management of Periodontal Abscess
+2016
+e.g.: Case 7 (Courtesy: Dr Nor Ziana Ibrahim)
+e.g.: Case 8 (Courtesy: Dr Izrawatie Shapeen)
+Swelling, deep pockets and suppuration in drug-induced gingival
+enlargement case
+3. Periapical
+Abscess
+2, level III
+• Formation of purulent exudate involving dental pulp and tissues
+surrounding apex of tooth
+• Located over root apex
+• Non-vital tooth
+• Heavily restored or large filling
+• Large caries with pulpal involvement
+• History of sensitivity to hot or cold food
+• NO sign / symptoms of periodontal disease
+• Periapical radiolucency on intraoral radiographs
+e.g.: Case 1 (Courtesy: Dr Nor Ziana Ibrahim)
+Presence of sinus tract on buccal aspect of 46, traced with gutta percha(GP).
+Swelling of gingival tissue on
+buccal aspect of 36 and 37
+IOPa radiograph showed bone loss
+around the teeth
+Management of Periodontal Abscess
+2016
+Presence of sinus tract on labial surface of 21,
+traced with gutta percha (GP), without presence of
+deep pocket
+Presence of sinus tract on labial surface
+between 16 and 17, traced by gutta percha,
+without presence of deep pocket
+Deep pocket, bleeding on probing (BOP),
+suppuration on non-vital 33.
+IOPa radiograph
+revealed gp traced
+to the apical
+radiolucency of 22
+IOPa radiograph revealed
+gp traced adjacent to the
+periapical radiolucency
+of 16
+IOPa radiograph
+revealed radiolucency
+at middle portion of
+the root extending
+towards apical
+e.g.: Case 2 (Courtesy: Dr Izrawatie Shapeen)
+e.g.: Case 3 (Courtesy: Dr Nor Ziana Ibrahim )
+4. Perio-Endo
+Lesion 37,
+level III / Endo
+–Perio
+Lesion 37,
+level III
+/ Combined
+Lesions
+Perio-Endo :
+•
+Severe periodontal disease with deep pocketing which may
+involve the furcation
+•
+Severe bone loss up to the apex causing pulpal infection
+•
+Non-vital tooth which is sound or minimally restored
+•
+Presence of narrow deep pocket
+Endo-Perio:
+•
+Pulp infection spreading via lateral canals into periodontal
+pockets
+•
+Tooth usually non-vital with periapical radiolucency
+•
+Localized deep pocketing
+e.g.: Case 1 (Courtesy: Dr Izrawatie Shapeen)
+Management of Periodontal Abscess
+2016
+e.g.: Case 2 (Courtesy: Dr Izrawatie Shapeen )
+e.g.: Case 3 (Courtesy: Dr Izrawatie Shapeen)
+5. Cracked
+Tooth
+Syndrome
+38, Level III
+•
+History of pain on mastication
+•
+Crack line noted on the crown
+•
+Possibility of trauma
+•
+Vital tooth
+•
+Pain upon release after biting on cotton roll, rubber disc or
+tooth slooth. Pain relief after placement of orthodontic band
+•
+No relief of pain after root canal treatment
+e.g.: Case 1 (Courtesy: Dr Izrawatie Shapeen)
+Crack line on 32 only visible under UV light (arrow)
+Swelling and
+abscess on
+distal aspect
+of 36.
+IOPa radiograph
+revealed bone
+loss involving
+furcation
+Presence of deep pocket, BOP, and suppuration
+on distal of non-vital 43
+OPG radiograph
+revealed periapical
+radiolucency
+extending to the
+whole root length
+Management of Periodontal Abscess
+2016
+Presence of abscess
+on labial surfaces on
+12 & 11
+IOPa radiograph
+revealed periapical
+radiolucency of mesial
+root 46
+IOPa radiograph
+revealed
+radiolucencies on
+apical region of
+12 & 11
+Deep pocket, BOP
+and suppuration on
+mesiolingual surface of
+mesial root. Upon full
+thickness flap elevation,
+fracture line was visible
+Vertical fracture lines
+were visible on the
+root surfaces
+Vertical
+fracture line on
+mesiolingual
+surface of mesial
+root
+6. Vertical
+Root
+Fracture
+39, level III
+•
+Heavily restored tooth
+•
+Non-vital tooth with mobility
+•
+Post crown with threaded post
+•
+Deep osseous defect (deep probing) alongside the suspected
+fracture for long-standing fracture
+•
+Localized narrow deep pocketing, normally one site only
+•
+Possible fracture line and halo radiolucency around the root in
+periapical radiographs (‘J-shaped’ image)
+•
+Might need an open flap exploration to confirm diagnosis
+e.g.: Case 1 (Courtesy: Dr Nor Ziana Ibrahim)
+e.g.: Case 2 (Courtesy: Dr Izrawatie Shapeen)
+Management of Periodontal Abscess
+2016
+6.
+TREATMENT
+Treatment of periodontal abscess does not differ substantially from
+other odontogenic abscesses. It should include two distinct phases.
+2, Level III
+a) Control of the acute condition to arrest tissue destruction and
+alleviate the symptoms.
+b) Management of pre-existing and/or residual lesion, especially in
+patients with periodontitis.
+6.1
+Control of Acute Condition:
+a) Drainage and debridement with/without antimicrobials
+(systemic or local)
+This includes drainage (by means of scaling of the pocket
+or through an incision) and root surface debridement followed
+by irrigation with normal saline/antiseptics.1, Level III If the
+abscess is associated with a foreign-body impaction, the
+foreign body must be removed. 1, 39, Level III
+Key Message 3
+• Mechanical debridement and drainage through the
+periodontal pocket without antibiotics is usually
+effective.
+• Mechanical treatment of periodontal pocket is to
+debride the root surface using either a hand or ultrasonic
+scaler to facilitate drainage.
+• Irrigation aims to remove debris and residual
+microorganisms.
+Recommendation 2
+A thorough subgingival scaling and root surface
+debridement should be carried out to treat abscesses in
+anatomically complex sites (e.g. furcation involvement or
+intrabony pockets).
+(Grade C)
+Management of Periodontal Abscess
+2016
+Recommendation 3
+• Periodontal abscess with systemic spread which is life threatening
+or not responding to oral antibiotics should be referred to hospital
+immediately.
+(Grade C)
+• For patients treated with antibiotics, drainage and debridement
+should be carried out within 5 days.
+(Grade C – Development Group’s consensus)
+b) Alleviation of pain
+Analgesics should be prescribed to relieve pain. The selection of
+analgesic depends on the patient’s history, allergy profile, and the
+level of discomfort. Options include a non-steroidal antiinflammatory drug (NSAID) and/or an opioid analgesic.52, Level II
+c) Antimicrobials
+Drainage and debridement with an adjunctive antimicrobial should
+be considered if there is systemic involvement.
+2, 40, 41, 43,
+Level III Use of systemic antimicrobials 2, Level III as the sole treatment
+may ONLY be recommended if:
+• there is a need for premedication.
+• the infection is not well localised.
+• adequate drainage cannot be achieved.
+Indications for systemic antimicrobials are as follows: 42, 44-47,
+Level III
+• Patients with deep pockets, progressive or ‘active’ disease, or
+specific microbiological profile.
+• Situations where there is local spread.
+• Systemic involvement is present such as lymphadenopathy,
+fever or malaise or when the infection is not well localised.
+The choice of antibiotics should be based on sound pharmacological
+and microbiological principles (Appendix 2). 48, Level III This antibiotic
+regime should be followed by debridement within 5 days.
+Patients shall be reviewed after 24-48 hours to evaluate resolution of
+abscess. The definitive treatment should be carried out once the acute
+phase has resolved.
+Management of Periodontal Abscess
+2016
+6.2 Management of Pre-existing and/or Residual Lesions
+Management of pre-existing and/or residual lesions are as
+follows:
+ü Refer to periodontist for appropriate non-surgical / surgical
+periodontal treatment
+Surgical therapy has been advocated mainly in abscesses
+associated
+with
+deep
+intrabony
+defects,
+furcation
+involvement, residual calculus and tooth anomalies where
+the resolution of the abscess can be achieved by surgical
+access 1, 2, 8 ,49 Level III
+ü Tooth extraction
+If the tooth has a hopeless prognosis, or is irrational to treat,
+as a result of severe destruction of the periodontium, the tooth
+should be extracted.
+2, 50 Level III Indications for tooth
+extraction are:
+• Tooth with grade III mobility, and
+• Molars and bicuspids with Class III furcation involvement,
+and
+• Tooth with probing pocket depth more than 7 mm, and
+• Tooth with alveolar bone loss more than 65% 51, Level III
+Refer to Appendix 3 on decision making process for tooth retention
+or extraction.
+7. IMPLEMENTING THE GUIDELINES
+It is important to standardise the management of periodontal abscess
+at all healthcare levels in Malaysia using an evidence-based CPG in
+order to manage it appropriately. Recognition of periodontal health
+and periodontal abscess by a clinician, the knowledge of what to
+do when a problem occurs, and the appropriate responses from the
+Recommendation 4
+• Diabetic patients with acute symptoms should be given prompt
+treatment. 25, Level III
+(Grade C)
+• Analgesics should be prescribed to alleviate pain.
+(Grade C)
+Management of Periodontal Abscess
+2016
+health professional are major factors in management of periodontal
+abscess. This professional awareness is influenced by factors such as
+maintaining current understanding of the nature of periodontal abscess,
+the appropriate management, continuing professional education and
+an understanding of patient expectations.
+As the outcomes of periodontal therapy is mostly dependent on the
+timely and appropriate management of the condition, it is important
+to disseminate the knowledge among healthcare providers, as well
+as to the public. This can be facilitated through the development of
+appropriate training modules and quick references.
+Cost implications on management of periodontal abscess vary
+depending on several factors such as patient’s expectations,
+compliance and medical conditions. Successful treatment outcomes
+would require active periodontal and supportive (maintenance) therapy;
+thus involving further cost. Periodontal abscess sometimes results
+in loss of teeth requiring rehabilitation. Appropriate management
+of periodontal abscess would ensure better prognosis of affected
+dentition.
+7.1
+Facilitating and Limiting Factors
+Existing facilitators for application of the recommendations in the CPG
+include:
+a) Wide dissemination of the CPG to healthcare professionals
+and teaching institutions via printed and electronic copies.
+b) Continuing professional education on the management of
+periodontal abscess for healthcare professionals.
+c) Adequate facilities at primary care level for detection and
+recognition of periodontal abscess.
+Existing barriers for application of the recommendations of
+the CPG include:
+a) Lack of understanding or limited knowledge of periodontal
+abscess.
+b) Variation in treatment practice.
+c) Constraints in clinical facilities.
+Management of Periodontal Abscess
+2016
+7.2
+Potential Resource Implications
+To implement the CPG, there must be strong commitment to:
+a) ensure widespread distribution of the CPG to healthcare
+professionals.
+b) detect and recognise periodontal abscess by healthcare
+professionals.
+c) reinforce training of healthcare professionals to ensure
+information is up to date.
+7.3
+Proposed Clinical Audit Indicators
+To assist in the implementation of the CPG, the following are proposed
+as clinical audit indicators for quality management:
+Note: The six months* period was based on Development Group Consensus
+Complete resolution: healing with no further sign and symptoms.
+1. Percentage of teeth
+with periodontal
+abscesses that
+resulted in extraction
+within 6 months*
+2. Percentage of teeth
+with periodontal
+abscesses that
+resulted in complete
+resolution with no
+recurrence after
+6 months*
+Standard:
+a) Specialist care = less than 5%
+b) Primary care = less than 20%
+Note: *excluding teeth with hopeless prognosis
+Standard:
+Specialist care = 70%
+=
+=
+X 100
+X 100
+Number of teeth with
+periodontal abscesses that
+resulted in extraction within
+6 months*
+Number of teeth with periodontal
+abscesses that resulted in
+complete resolution with no
+recurrence after 6 months*
+No. of teeth with periodontal
+abscesses at baseline
+No. of teeth with periodontal
+abscesses at baseline
+Management of Periodontal Abscess
+2016
+REFERENCES
+1. Herrera D, Roldan S, Sanz M. The periodontal abscess: a review. J Clin Periodontol.
+2000: 27: 377–386.
+2. Herrera D, Bettina Alonso, Lorenzo De Arriba, Isabel Santa Cruz, Cristina Serrano &
+Mariano Sanz. Acute periodontal lesions. Periodontology 2000. 2014: Vol. 65. 149–
+177.
+3. Lewis, M. A. O., Meechan, C., MacFarlane, T. W., Lamey, P-J. & Kay, E. Presentation
+and antimicrobial treatment of acute orofacial infections in general dental practice.
+British Journal of Oral and Maxillofacial Surgery. 1990: 28, 359–366.
+4. Armitage GC. Development of a classification system for periodontal diseases and
+conditions. Ann Periodontol. 1999: 4: 1–6.
+5. Jaramillo A, Arce RM, Herrera D, Betancourth M, Botero JE, Contreras A. Clinical
+and microbiological characterization of periodontal abscesses. J Clin Periodontol.
+2005: 32: 1213–1218.
+6. Herrera D, Roidan S, Gonza´lez I, Sanz M: The periodontal abscess (I). Clinical and
+microbiological findings. J Clin Periodontol. 2000. 27(6): 387–394.
+7. Monica Monea Pop, Luminita Lazar, B. Cormos-Suciu. Clinical and microbiological
+aspects of the periodontal abscess. Acta Medica Transilvanica. September 2011;
+2(3)468-471.
+8. Dello Russo NM. The post-prophylaxis periodontal abscess: etiology and treatment.
+Int J Periodontics Restorative Dent. 1985;5(1):28-37.
+9. Garrett S1, Polson AM, Stoller NH, Drisko CL, Caton JG, Harrold CQ, Bogle G,
+Greenwell H, Lowenguth RA, Duke SP, DeRouen TA. Comparison of a bioabsorbable
+GTR barrier to a non-absorbable barrier in treating human class II furcation defects.
+A multi-center parallel design randomized single-blind trial. J Periodontol. 1997
+Jul;68(7):667-75.
+10. Helovuo H1, Hakkarainen K, Paunio K. Changes in the prevalence of subgingival
+enteric rods, staphylococci and yeasts after treatment with penicillin and
+erythromycin. Oral Microbiol Immunol. 1993 Apr;8(2):75-9.
+11. Punit V Patel, Sheela Kumar G, Amrita Patel. Periodontal abscess: a review. Journal
+of Clinical and Diagnostic Research. 2011; Vol-5(2):404-409.
+12. Gillette WB, Van House RL. Ill effects of improper oral hygiene procedure. J Am Dent
+Assoc. 1980 Sep;101(3):476-80.
+13. Abrams H and Kopezyk RA. Gingival sequela from a retained piece of dental floss.
+Journal of the American Dental Association. 1983;10:57-78.
+Management of Periodontal Abscess
+2016
+14. Sousa D1, Pinto D, Araujo R, Rego RO, Moreira-Neto J. Gingival abscess due to an
+unusual nail-biting habit: a case report. J Contemp Dent Pract. 2010 Mar 1;11(2):08591.
+15. Chen RJ1, Yang JF, Chao TC. Invaginated tooth associated with periodontal
+abscess. Oral Surg Oral Med Oral Pathol. 1990 May;69(5):659.
+16. Ishikawa I1, Oda S, Hayashi J, Arakawa S. Cervical cemental tears in older patients
+with adult periodontitis. Case reports. J Periodontol. 1996 Jan;67(1):15-20.
+17. Herrera D, Van Winkelhoff AJ, Sanz M. Abscesses in the periodontium. In: Lang NP &
+Lindhe J.Clinical Periodontology & Implant Denstistry. John Wiley & Sons 6th; 2015
+Chap 24; p463-471.
+18. DeWitt GV, Cobb CM, Killoy WJ. The acute periodontal abscess: Microbial
+penetration of soft tissue wall. Int J Periodontics Restorative Dent. 1985: 5: 39-51.
+19. Corbet EF. Diagnosis of acute periodontal lesions. Periodontology 2000. Vol.34,
+2004;204-216.
+20. Meng HX. Periodontal abscess. Ann Periodontol. 1999:4.79-83.
+21. Newman MG, Takei HH, Klokkevold PR, Carranza FA. Carranza’s Clinical
+Periodontology. Treatment of periodontal abscess. 2012. Chap 42. pg 445.
+22. Philip et al .Treatment of periodontal abscess. Chapter 42 in Carranza’s Clinical
+Periodontology, 11th ed. 2012 (Editors: Newman, Takei, Klokkevold and Carranza).
+23. Georgia K Johnson, Margaret Hill. Cigarette smoking and the periodontal patient.
+State of art review. J Periodontol. 2004;75:196-209.
+24. Scott R Diehl, Chih-Hung Chou, Fengshen Kuo, Ching-Yu Huang. Genetic factors
+and periodontal disease. Chapter 24 in Carranza’s Clinical Periodontology, 11th ed
+2012 (editors: Newman, Takei, Klokkevold and Carranza).
+25. Chapple ILC, Genco R and on behalf of working group 2 of the joint EFP/AAP
+workshop. Diabetes and periodontitis diseases: consensus report of the joint
+EFP/AAP Workshop on Periodontitis and Systemic diseases. J periodontal.
+2013;84(4Suppl.):S112 doi:10.1902/jop.2013.1340011.
+26. Dimitroulis G. A synopsis of minor oral surgery. Chapter 8: Odontogenic infection.
+Reed Education & Professional Publication Lt. 1997.
+27. Chan YK, Tien WS. Clinical parameters of periodontal abscess: a case series of 14
+abscess. Malaysia Dental Journal. Jan-June 2010. Vol 31. No.1.
+28. Carranza FA, JR; Newman MG: Clinical Periodontology 8th edition, Philadelphia
+1996, WB Saunder.
+Management of Periodontal Abscess
+2016
+29. Krithiga Gurumoorthy, Babitha Ajjappa, Shobha Prakash, Multiple acute periodontal
+abscesses due to Clenching. Journal of Interdisciplinary Dentistry. 2011; Vol-1 /
+Issue-1: 37-40.
+30. Nicholas M. Dello Russo, D.M.D., MSc.D. The post-prophylaxis periodontal abscess:
+aetiology and treatment. The International Journal of Penodontic; and Restorative
+Dentistry. I985;5(1): 28-37.
+31. Gutman JL, Dumsha TC, Lovadahl PE, Hovland EJ. Problem solving in endodontics:
+prevention, identification and management. Mosby Year Book.1998.
+32. Wilson TG, Kornman KS, Newman MG. Advances in periodontics. Quintessence
+Publishing Co, Inc 1992.
+33. Jacobsen P. Restorative Dentistry. An integrated approach. Second edition.
+Blackwell Publishing Ltd. 2008.
+34. Jae-Hyung, L., Ji-Hyun, L., Su-Jung, S. Diagnosis and treatment of teeth with
+primary endodontic lesions mimicking periodontal disease: three cases with long term
+follow ups. Restor Dent Endod. 2014 39(1). 56-62.
+35. Siquera, J.F., Rôças, I.N. Microbiology and treatment of acute apical abscesses.
+Clin Microbiol. 2013 Apr;26(2): 255–273.
+36. Al Fouzan KS. A new classification of endodontic-periodontal lesions. International
+Journal of Dentistry. 2014; Article ID 919173, 5 pages.
+37. Berman LH, Kuttler S. Fracture necrosis: diagnosis, prognosis assessment, and
+treatment recommendations. J Endod 2010. 36 (3).442-446.
+38. Tsesis I, Rosen E, Tamse A, Taschieri S, Kfir A. Diagnosis of vertical root fractures
+in endodontically treated teeth based on clinical and radiographic indices: a systematic
+review. J Endod. 2010;36.1455–1458.
+39. Ibbott CG, Kovach RJ, Carlson-Mann LD. Acute periodontal abscess associated
+with an immediate implant site in the maintenance phase: a case report. Int J Oral
+Maxillofac Implants 1993; 8:699-702.
+40. Hafström CA, Wikström MB, Renvert SN, Dahlén GG. Effect of treatment on some
+periodontopathogens and their antibody levels in periodontal abscesses.
+J Periodontol. 1994; 65:1022-1028.
+41. Herrera D, Rolda´n S, O’Connor A, Sanz M: The periodontal abscess (II). Short term
+clinical and microbiological efficacy of 2 systemic antibiotic regimes. J Clin
+Periodontol. 2000;27:395–404.
+42. Herrera D, Sanz M, Jepsen S, Needleman I, Rolda´n S: A systematic review on the
+effect of systemic antimicrobials as an adjunct to scaling and root planing in
+periodontitis patients. J Clin Periodontol 2002; 29(Suppl. 3): 136–159.
+Management of Periodontal Abscess
+2016
+43. S. J. Ellison, The role of phenoxymethylpenicillin, amoxicillin, metronidazole and
+clindamycin in the management of acute dentoalveolar abscesses – a review. British
+Dental Journal. 2009; Volume 206 No. 7.
+44. Bascones Martínez A, Aguirre Urízar JM, Bermejo Fenoll A, Blanco Carrión A, GayEscoda C, González Moles MA, Gutiérrez Pérez JL, Jiménez Soriano Y, Liébana
+Ureña J, López-Marcos JF, Maestre Vera JR, Perea Pérez EJ, Prieto J, Vicente
+Rodríguez JC. Consensus statement on antimicrobial treatment of odontogenic
+bacterial infections. Oral Medicine and Pathology 2004;9:363-76.
+45. Heitz-Mayfield LJA. Systemic antibiotics in periodontal therapy. Australian Dental
+Journal. 2009; 54:(1 Suppl): S96–S101.
+46. Haffajee AD, Socransky SS, Gunsolley JC. Systemic anti-infective periodontal
+therapy. A systematic review. Ann Periodontol. 2003;8:115–181.
+47. Silva GL, Soares RV, Zenóbio EG. Periodontal abscess during supportive periodontal
+therapy: a review of the literature. J Contemp Dent Pract. 2008: 9(6):82-91.
+48. Gunnar Dahlen, Microbiology and treatment of dental abscesses and periodontalendodontic lesions. Periodontology 2000, Vol. 28, 2002, 206–239.
+49. Kareha MJ, Rosenberg Es & DeHaven H. Therapeutic considerations in the
+management of a periodontal abscess with an intrabony defect. J of Clin Periodontal.
+1981; 8; 357-386.
+50. Smith, R. G. and R. M. Davies. Acute lateral periodontal abscesses. British Dental
+Journal. 1986;161(5): 176-178.
+51. Avila G, Galindo-Moreno P, Soehren S, Misch CE, Morelli T, Wang HL. A novel
+decision-making process for tooth retention or extraction. J. Periodontol
+2009;80:476-491.
+52. Melanie SL & Thomas BD. Dental Abscess. In BMJ Best Practice. Last updated
+31 May 2016, page 27 & 30. Retrieved from http://bestpractice.bmj.com
+Management of Periodontal Abscess
+2016
+Appendix 1
+Clinical Questions: Management of Periodontal Abscess
+Introduction
+1. What is the definition of Periodontal Abscess (PA)?
+Etiology and pathogenesis
+1. What are the etiology, microbiology and contributing factors of PA?
+2. What is the pathogenesis of PA?
+Investigation and Diagnosis
+1. What are the common complaints and symptoms of PA?
+2. What are the relevant medical and dental histories of patients with
+PA?
+3. Are there any systemic manifestations or involvement reported in
+patients with PA?
+4. What are the clinical features of PA?
+5. What are the investigations needed to diagnose PA?
+6. What are the differential and definitive diagnoses of PA?
+Treatment
+1. How is the acute condition of PA controlled?
+2. Is there any indication for systemic antimicrobials for patient with
+PA?
+3. What are the effective and safe pharmacological treatments for PA?
+4. When to review the presenting symptoms of PA?
+5. What are the effective and safe treatments of residual / pre-existing
+lesions of PA?
+6. What are the indications for tooth extraction in PA?
+Management of Periodontal Abscess
+2016
+Appendix 2
+Recommended Oral Antimicrobials
+(As indicated in section 6.1c)
+No.
+Antibiotics
+Dose
+Duration
+Note
+Not allergic to Penicillin
+1.
+Metronidazole
+400mg PO
+q8h
+5 or 7 days
+1. Contraindicated for
+pregnant patients
+2. Alcohol consumption is
+prohibited
+2.
+Amoxycillin
+500 mg PO
+q8h
+5 or 7 days
+3.
+Amoxycillin
+and
+Metronidazole
+500 mg PO
+q8h
+200 mg PO
+q8h
+5 or 7 days
+For Aggressive Periodontitis:
+Amoxycillin 500 mg PO q8h
+and Metronidazole
+400 mg PO q8h, 7 days
+(NAG 2015)
+4.
+Amoxycillin/
+clavulanate
+(Augmentin)
+500/125
+mg PO q8h
+5 or 7 days
+Augmentin is only
+recommended for spreading
+infections and infections of
+fascial spaces (with/without
+systemic signs) (NAG 2015)
+Allergic to Penicillin
+1.
+Erythromycin
+250 mg PO
+q6h
+5 or 7 days
+May increase levels
+of anticoagulants,
+antiepileptics,
+antipsychotics, anxiolytics/
+hypnotics, cyclosporine,
+theophylline
+2.
+Clindamycin
+150/300
+mg PO q6h
+5 or 7 days
+3.
+Doxycycline
+100 mg PO
+q12h
+7,10 or 14 days
+Caution in pregnant
+patients, breast-feeding
+women, and children under
+12 years old
+4.
+Azithromycin
+500 mg PO
+q24h
+3 consecutive
+days
+Source: Herrera D et al 2002, Herrera D et al 2000, Bascones MA et al 2004; PV Patel 2011, NAG 2015
+Management of Periodontal Abscess
+2016
+Appendix 3
+Source: Avilla Gustavo Avila,*Pablo Galindo-Moreno, Stephan Soehren, Carl E. Misch, Thiago Morelli, and Hom-Lay Wang.
+A novel decision-making process for tooth retention or extraction. J. Periodontol. 2009;80:476-491.
+Management of Periodontal Abscess
+2016
+List of Abbreviation
+1. PA
+: Periodontal Abscess
+2. PO
+: Per Orem (Per Oral)
+3. q6h
+: every 6 hours
+4. q8h
+: every 8 hours
+5. q12h : every 12 hours
+6. q24h : every 24 hours
+ACKNOWLEDGEMENTS
+The members of the development group of these guidelines would like
+to express their gratitude and appreciation to the following for their
+contributions:
+- Panel of internal and external reviewers
+- Technical Advisory Committee for CPG for their valuable input
+and feedback
+- Dr Noor Hasmin bt Mokhtar for process involved in the
+publication
+- All those who have contributed directly or indirectly to the
+development of the CPG
+DISCLOSURE STATEMENT
+The panel members had completed disclosure forms. None held
+shares in pharmaceutical firms or acts as consultants to such firms.
+(Details are available upon request from the CPG Secretariat)
+SOURCES OF FUNDING
+The development of the CPG on “MANAGEMENT OF PERIODONTAL
+ABSCESS” was supported financially in its entirety by the Ministry of
+Health Malaysia and was developed without any involvement of the
+pharmaceutical industry.
+(ral Heath Technology Section
+‘Sra Heath Divaion
+ioatry of Heath Matoysia
+vata, block E10, Precinct 1
+Fedaral Goverment tens Conte
+162590 Puja, Maayoe

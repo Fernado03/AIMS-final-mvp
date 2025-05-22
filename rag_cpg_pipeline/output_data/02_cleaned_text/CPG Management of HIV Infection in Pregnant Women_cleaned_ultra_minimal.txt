@@ -1,0 +1,2259 @@
+CLINICAL PRACTICE GUIDELINES
+FEBRUARY 2008 [MOHPPAKY 156.08 (GU)
+~
+MANAGEMENT
+OF
+HIV INFECTION
+IN PREGNANT WOMEN
+Meus OF HEATH MALAYA ACAOEMY OF MEDICINE OF MALAYSIA
+This guideline was issued in 2008 and will be reviewed in 2011or
+sooner if new evidence becomes available.
+CPG Secretariat
+Health Technology Assessment Unit
+Medical Development Division
+Ministry of Health Malaysia
+4th floor, Block E1, Parcel E
+62590,Putrajaya.
+Electronic version available on the following website:
+http://www.moh.gov.my
+http://www.acadmed.org.my
+This guideline is meant to be a guide for clinical practice, based
+on the best available evidence at the time of development.
+Adherence to this guideline may not necessarily guarantee the
+best outcome in every case. Every health care provider is
+responsible for the management of his/her unique patient based
+on the clinical picture presented by the patient and the management
+options available locally.
+GUIDELINES
+DEVELOPMENT AND OBJECTIVE
+The development group for this guideline comprised of Obstetricians and
+Gynaecologists, Consultant Physicians (Infectious Disease Specialist) and
+a Family Medicine Specialist from the Ministry of Health and the Ministry of
+Education, Malaysia. During the process of development of this guideline,
+there was active involvement of a review committee who consisted of
+healthcare professionals both from the public and private sector.
+This document is the first Clinical Practice Guidelines (CPG) on The
+Management of HIV infection in Pregnant Women in Malaysia and has been
+developed in parallel with the CPG on Management of HIV Infection in
+Children.
+Literature search was carried out at the following electronic databases,
+International Health Technology Assessment Website, PUBMED, Cochrane
+Database of Systemic Reviews (CDSR) Journal full text via the OVID search
+engine, Cochrane Controlled Trials Registered, CINAHL via EBSCO search
+engine. The search was limited to publications from 1985 – 2007 and for
+articles in the English language. Reference lists of all relevant articles
+retrieved were searched to identify further studies. The following free text
+terms or MeSH terms were used as the keywords: HIV infection AND
+pregnancy, screening, diagnostic test, confirmatory test, rapid test, Western
+Blot, immunoabsorbent assay, immunofluorescent assay, specificity,
+sensitivity, false positive, false negative AND accuracy; management and
+HIV and pregnancy; mother to child transmission and HIV; HIV and pregnancy;
+HIV and MTCT; HIV and membrane rupture; HIV and premature rupture of
+membrane; HIV and prom; HIV and preterm labour, ‘HIV’, ‘pregnancy’, ‘CD4’,
+‘viral load’, ‘monitoring’, ‘disease progression’, ‘vertical transmission’;
+HAART and pregnancy; zidovudine and pregnancy; efarvirenz and pregnancy;
+nevirapine and pregnancy; HIV and postpartum care; HIV and post natal
+care; HIV and nursing care; HIV and breastfeeding; HIV and formula feeding;
+HIV and complications; HIV/ AIDS and contraception. This guideline is based
+largely on the findings of systemic reviews and meta-analysis in the literature.
+Reference was also made to other guidelines namely Management of HIV
+in Pregnancy by the Royal College Obstetricians Gynaecologists (2004),
+Public Health Service Task Force recommendations for Use of Antiretroviral
+Drugs in Pregnant HIV infected women (2006), DHSS Panel on Guidelines
+for the use of ARV agents in HIV-1-infected adults and adolescents (2006),
+Revised CDC guidelines for HIV on counselling, testing and referral (1999),
+World Health Organisation guidelines for antiretroviral drugs for treating
+pregnant women and preventing HIV infection in infants 2006, Centre for
+Disease Control and Prevention (CDC) revised recommendations for HIV
+testing of adults, adolescents and pregnant women in health care settings,
+2001, CDC guidelines on introduction of routine HIV testing in prenatal care
+– Botswana, 2004 and British HIV Association guidelines for the management
+of HIV infection in pregnant women and the prevention of mother-to child
+transmission of HIV, March 2005.
+The articles were graded using the modified version of those used by the
+Catalonian Agency for Health Technology Assessment and Research
+(CAHTAR) Spain, while the grading of recommendation in these guidelines
+was modified from the Scottish Intercollegiate guidelines Network (SIGN).
+The clinical questions were divided into major subgroups and members of
+the development group were assigned individual topics within these
+subgroups. The group members met a total of twenty one times throughout
+the development of the guideline. All literature retrieved were appraised by
+individual members and presented and discussed during group meetings.
+All statements and recommendations formulated were agreed by both the
+development group and review committee. Where the evidence was
+insufficient the recommendations were derived by consensus of the
+development group and review committee.
+The draft guideline was posted on both the Ministry of Health Malaysia and
+Academy of Medicine, Malaysia websites for comment and feedback. This
+guideline has also been presented to the Technical Advisory Committee for
+Clinical Practice Guidelines, and the Health Technology Assessment and
+Clinical Practice Guidelines Council, Ministry of Health Malaysia for review
+and approval.
+OBJECTIVE
+The aim of the guideline is to assist clinicians in making evidence based
+decisions about the appropriate management and treatment of HIV infection
+in pregnant women.
+CLINICAL QUESTIONS
+•
+How to screen and confirm HIV in pregnant women?
+•
+What is the appropriate treatment for HIV in pregnant women?
+•
+How to prevent mother-to-child transmission of HIV?
+EXCLUSION
+This guideline does not cover investigation and counselling during
+pre-pregnancy period.
+TARGET POPULATION
+This guideline is applicable to HIV positive pregnant women.
+TARGET USER
+This guideline is meant for all health care providers that are involved in the
+management of HIV positive pregnant women.
+POSSIBLE CLINICAL INDICATORS FOR QUALITY MANAGEMENT
+iii
+Indicator
+Percentage of pregnant women screened for HIV infection
+during the first antenatal care visit in government facilities.
+Percentage of pregnant women detected HIV positive
+receiving antiretroviral therapy
+Standard
+95%
+100%
+Dr. Leong Chee Loon
+Consultant Physician
+(Infectious Disease)
+Hospital Sg. Buloh, Selangor
+Dr. Mohd Zulkifli Kassim
+Senior Consultant and Head of
+Department Obstetrics &
+Gynaecology Department
+Hospital Kuala Terengganu
+Terengganu
+Dr. Noor Sham Yahya Luddin
+Consultant and Maternal
+Foetal Medicine Specialist
+Obstetrics & Gynaecology
+Department
+Hospital Selayang, Selangor
+Assoc. Prof. Dr. Suhaila Ahmad
+Senior Consultant and Maternal
+Foetal Medicine Specialist
+Hospital Universiti Kebangsaan
+Malaysia,
+Selangor
+Dr. Vickneswari Ayadurai
+Family Medicine Specialist
+Klinik Kesihatan Shah Alam,
+Selangor
+Members (in alphabetical order)
+Dr. Chow Ting Soo
+Consultant Physician
+(Infectious Disease)
+Hospital Pulau Pinang,
+Pulau Pinang
+Dr. Chua Hock Hin
+Clinical Specialist
+(Infectious Disease)
+Hospital Sultanah Aminah
+Johor Baharu, Johor
+Dr. Ker Hong Bee
+Consultant Physician
+(Infectious Disease)
+Hospital Ipoh, Perak
+Dr. H. Krishna Kumar
+Senior Consultant and Maternal
+Foetal Medicine Specialist
+Obstetrics & Gynaecology
+Department
+Hospital Tuanku Jaafar,
+Seremban
+Prof. Dr. Jamiyah Hassan
+Senior Consultant and
+Feto-Maternal Specialist
+Obstetrics & Gynaecology
+Department
+Universiti Malaya Medical Centre
+Kuala Lumpur
+GUIDELINE DEVELOPMENT GROUP
+Chairperson
+Dato’ Dr. Ghazali Ismail,
+Senior Consultant and Head of Department
+Obstetrics & Gynaecology Department
+Hospital Tengku Ampuan Afzan,
+Pahang.
+Coordinators
+Dr. Sheamini Sivasampu
+Principal Assistant Director
+Health Technology Assessment Unit
+Medical Development Division
+Ministry of Health Malaysia
+Ms Mariammah Krishnasamy
+Assistant Director
+Health Technology Assessment Unit
+Medical Development Division
+Ministry of Health Malaysia
+REVIEW COMMITTEE
+The draft guideline was reviewed by a panel of independent expert referees,
+who were asked to comment primarily on the comprehensiveness and
+accuracy of interpretation of the evidence supporting the recommendations
+in the guideline.
+Chairman
+Dr. Mukundan Krishnan
+Head of Services and Senior Consultant
+Obstetrics & Gynaecology Department
+Hospital Ipoh, Perak
+Members (in alphabetical order)
+Dr. Irene Cheah Guat Sim
+Senior Consultant Paediatrician
+(Neonatologist)
+Hospital Kuala Lumpur
+Kuala Lumpur
+Dr. S. Raman
+Consultant Obstetrician and
+Gynaecology and Representative
+of the Malaysian Society of
+Obstetrics and Gynaecology
+Fetal Medicine & Gynaecology
+Centre
+Kuala Lumpur
+Dato’ Dr. Ravindran Jegasothy
+Senior Consultant and Head of
+Department
+Obstetrics & Gynaecology
+Department
+Hospital Tuanku Jaafar,
+Seremban
+Dr. Revathy Nallusamy
+Senior Consultant and Head of
+Department
+Paediatric Department
+Hospital Pulau Pinang
+Dr. Rohani Ali
+Senior Principal Assistant Director
+AIDS/ STD Unit
+Disease Control Division
+Ministry of Health
+Dr. Safurah Jaafar
+Deputy Director
+Family Health Development Division
+Ministry of Health
+Dr. Suresh Kumar
+Consultant Physician
+(Infectious Disease)
+Hospital Sungai Buloh
+Selangor
+Dr. Zainah Sa’at
+Clinical Virologist
+Virology Unit
+Infectious Disease Research Centre
+Institute of Medical Research
+Prof. Dr Zaleha Abdullah Mahdy
+Senior Consultant and Senior
+Lecturer
+Obstetrics & Gynaecology
+Department
+Hospital Universiti Kebangsaan
+Malaysia
+EXTERNAL REVIEWERS
+The draft guideline was also reviewed by a panel of external reviewers.
+Dr. Ravichandran Jeganathan
+Senior Consultant and Head of Department
+Obstetrics & Gynaecology Department
+Hospital Sultanah Aminah
+Johor Baharu
+Dr. Rob Condon
+UNICEF adviser on PMTCT of HIV
+Public Health Physician and Medical
+Epidemiologist
+Australia
+Dr. Christopher Lee Kok Chong
+National Advisor for Infectious Diseases,
+Senior Consultant and Head of Department
+Medical Department
+Hospital Sg Buloh
+Selangor
+Dr. Iskandar Firzada bin Osman
+Family Medicine Specialist
+Polyclinic Jaya Gading
+Kuantan
+Puan Rosiah Binti Harun
+Head Pharmacist
+Hospital Sungai Buloh
+Selangor
+Start ARV therapy
+Pregnant women attending ANC
+Pregnant women in labour
+whose HIV status is
+unknown
+Reactive
+Group Pre -Test Counselling
+Rapid Test /
+EIA
+Pre-test counselling
+And Confirmatory Test
+Confirmed positive
+Post  test counselling
+Contact tracing
+Notification
+Delivery
+Rapid Test
+Reactive
+Non-reactive
+End
+End
+Non-reactive
+High risk group
+Low risk group
+Repeat
+Rapid Test / EIA 12
+weeks after 1st test is
+negative OR before 36
+weeks gestation
+Refer paediatrician
+Pretest counselling
+Confirmatory test immediately post delivery
+Notification
+Contact tracing
+Negative
+Refer to:
+Combined clinic and
+Paediatrician
+Non-reactive
+Footnote: EIA= ELISA
+Reactive
+ALGORITHM 1 - HIV SCREENING FOR PREGNANT WOMEN
+viii
+ALGORTHM 1- HIV SCREENING FOR PREGNANT WOMEN
+Pregnant women attending ANC
+Confirmed positive
+Pre-test counselling
+And Confirmatory Test
+Group Pre-Test Counselling
+Post - test counselling
+Contact tracing
+Notification
+Refer to:
+Combined clinic and
+Paediatrician
+Repeat
+Rapid Test / EIA 12
+weeks after 1st test is
+negative OR before 36
+weeks gestation
+Refer paediatrician
+Pretest counselling
+Confirmatory test immediately post delivery
+Notification
+Contact tracing
+Delivery
+Start ARV therapy
+Rapid Test
+End
+Rapid Test /
+EIA
+End
+Low risk group
+High risk group
+Non-reactive
+Negative
+Reactive
+Non-reactive
+Reactive
+Non-reactive
+Reactive
+Pregnant women in labour
+whose HIV status is
+unknown
+Newly Diagnosed/
+Not on ART
+On HAART
+CD4>250
+CD4<250
+Diagnosed in
+labour no prior
+therapy
+Counselling
+Initiate START  lopinavir/ ritonavir
+ZDV/ 3TC after 1st trimester
+Do VL at 34-36 weeks
+If VL<1000 copies/ ml at 34-36
+weeks, may allow vaginal delivery;
+otherwise ELECTIVE LSCS about
+38 weeks
+During delivery, IP ZDV for mother
+Discuss with ID Physician /
+physician regarding continuing
+ART post delivery
+Counselling
+Initiate HAART combination -ZDV/3TC/NVP
+after 1st trimester
+Do VL baseline and at 34-36 weeks
+If VL<1000 copies/ ml at 34-36 weeks, may
+allow vaginal delivery; otherwise ELECTIVE
+LSCS about 38 weeks
+During delivery, IP ZDV for mother
+Continue ZDV/3TC/NVP post delivery
+Counselling
+Continue HAART
+Refer ID physician
+If VL < 1000 at 34-36 weeks,
+may allow vaginal delivery
+otherwise elective LSCS about
+38 weeks
+During delivery, IP ZDV for
+mother
+Continue HAART post delivery
+IP ZDV + 3TC + single
+dose NVP
+Followed by ZDV + 3TC x
+7 d
+Stable on HAART
+Failing HAART
+Refer ID physician
+Resistance testing if
+available
+ELECTIVE LSCS about 38
+weeks
+During delivery, IP ZDV for
+mother
+HIV POSITIVE MOTHER
+BabyÆ Refer immediately to paediatrician.
+Refer to CPG Management of HIV in Children
+for details
+Mother ÆRefer to ID physician
+IP= intrapartum
+ALGORITHM 2- MEDICAL MANAGEMENT OF HIV POSITIVE MOTHER
+Non-reactive
+ALGORTHM 2- MEDICAL MANAGEMENT OF HIV POSITIVE MOTHER
+ix
+IP=intrapartum
+Stable on HAART
+Counselling
+Continue HAART
+Refer ID Physician
+If VL <1000 at 34-36 weeks,
+may allow vaginal delivery
+otherwiseelevtive LSCS about
+38 weeks.
+During delivery, IP ZDV for
+mother
+Continue HAART post delivery
+HIV POSITIVE MOTHER
+Failing HAART
+CD4<250
+CD4>250
+Newly Diagnosed/
+Not on ART
+Diagnosed in
+labour no prior
+therapy
+On HAART
+IP ZDV + 3TC single
+dose NVP
+Followed by ZDV +3TC x
+7 d
+Counselling
+Initiate START - lopinavir / ritonavir
+ZDV / 3TC after 1st trimester
+Do VL at 34-36 weeks
+If VL<1000 copies / ml at 34-36
+weeks, may allow vaginal delivery;
+otherwise ELECTIVE LSCS about
+38 weeks
+During delivery, IP ZDV for mother
+Discuss with ID Physician /
+physician regarding continuing
+ART post delivery
+Counselling
+Initiate HAART combination - ZDV/3TC/NVP
+after 1st trimester
+Do VL baseline and at 34-36 weeks
+If VL<1000 copies / ml at 34-36 weeks, may
+allow vaginal delivery; otherwise ELECTIVE
+LSCS about 38 weeks
+During delivery, IP ZDV for mother
+Continue ZDV/3TC/NVP post delivery
+Baby
+Refer immediately to paediatrician.
+Refer to CPG Management of HIV in Children
+for details
+Mother
+Refer to ID physician
+Refer ID physician
+Resistance testing if
+available
+ELECTIVE LSCS about 38
+weeks
+During delivery, IP ZDV for
+mother
+TABLE OF CONTENTS
+GUIDELINES DEVELOPMENT AND OBJECTIVE........................................
+I
+GUIDELINES DEVELOPMENT COMMITTEE..............................................
+IV
+REVIEW COMMITTEE................................................................................ VI
+EXTERNAL REVIEWER………………………………................................
+VII
+ALGORITHM 1 - HIV SCREENING FOR PREGNANT MOTHER.................. VIII
+ALGORITHM 2 - MEDICAL MANAGEMENT OF HIV POSITIVE MOTHER...
+IX
+1.0
+GENERAL INTRODUCTION.....……………………………………..............
+1-2
+2.0
+RISK OF TRANSMISSION………………………………………..................
+3
+3.0
+SCREENING………………………....……………………………….............
+4
+3.1
+Counselling…..………...…………………………………................
+4
+3.2
+Recruitment Strategy…...………….....……..……………...............
+4
+3.3
+Timing of screening…………………………...…………................
+4-5
+3.4
+Methods of HIV screening……...………………………................
+5-6
+3.5
+Screening During Labour…………………..…………....................
+6
+3.6
+Notification And Contact Tracing……………………..……...…......
+8
+4.0
+INVESTIGATIONS AND MONITORING……………………………...............
+8
+5.0
+MANAGEMENT OF HIV PREGNANT WOMEN……………………..............
+9
+6.0
+MEDICAL TREATMENT……………………………………………................10-12
+6.1
+CLINICAL SITUATION AND RECOMMENDATIONS FOR THE USE
+OF ARV PROPHYLAXIS……………………………......................... 13
+A.
+Newly Diagnosed HIV Pregnant Women not on ARV……............. 13
+A.1
+HIV women with CD4 T Cell Count < 250 Cells / µL………………
+13
+A.2
+HIV Pregnant women with CD4 T cell count > 250 cells / µL……... 16
+A.3
+Women diagnosed in with labour without prior therapy……….......17
+B.
+HIV positive women who are already on a HAART regime…….... 18
+B.1
+Women stable on HAART……………………………………............ 18
+B.2
+Women failing HAART………………………………………………... 19
+7.0
+OBSTETRIC MANAGEMENT..................................................................... 19
+7.1
+Vaginal Disinfection To Reduce MTCT……………………………… 19
+7.2
+Management of Ruptured Membranes……………………………… 20
+7.3
+Mode Of Delivery And Viral Load………………………………….. 20-21
+7.4
+Safety Issues…………………………………………………………. 21
+8.0
+BREASTFEEDING…………………………………………………............... 21-22
+9.0
+POST NATAL CARE…………………………….....……………................. 22-23
+10.0 CONTRACEPTION……………....………………………………….............. 23-24
+11.0 REFERENCES………………………….……………………………............. 25-32
+APPENDIX 1 - ANTIRETROVIRAL DRUGS …………...........................
+33-34
+APPENDIX 2 - PNEUMOCYSTIS (CARINII) JIROVECI PNEUMONIA (PCP)
+PROPHYLAXIS…………................................................ 35
+APPENDIX 3 - WHO CLINICAL STAGING / AIDS FOR ADULTS AND
+ADOLESCENTS WITH CONFIRMED HIV INFECTION.... 36-37
+LIST OF ABBREVIATIONS....................................................................... 38
+ACKNOWLEDGEMENT………………………………………………………. 39
+DISCLOSURE STATEMENT………………………………………………….... 39
+SOURCES OF FUNDING………………………………………………………. 39
+LEVELS OF EVIDENCE & GRADES OF RECOMMENDATION
+1.0
+GENERAL INTRODUCTION
+Mother-to-child transmission (MTCT) is the most common and important
+source of HIV infection in childhood. In the absence of any intervention,
+between 30% and 45% of children born to HIV positive mothers will become
+infected with HIV; the lower end of the range applies to higher income country
+settings, while the upper end of the range applies to lower income, higher
+prevalence settings1
+Transmission is believed to be uncommon during early pregnancy, but the
+risk increases sharply in late pregnancy and during labour and delivery.
+Overall, about 15-20% of children who acquire HIV infection from their
+mothers are infected during the antenatal period, 50% during delivery and
+33% through breast feeding.2
+In June 2001, through its Declaration of Commitment, the United Nations
+General Assembly Special Session (UNGASS) on HIV/AIDS undertook to
+reduce the proportion of infants infected with HIV by 20% by 2005 and by
+50% by 2010, through a four-pronged strategy:
+I.
+primary prevention of HIV infection in women of reproductive age;
+II.
+prevention of unintended pregnancy in HIV-positive women;
+III. prevention of mother-to-child transmission (PMTCT) of HIV by:
+a.
+providing antiretroviral therapy (ART) during pregnancy,
+b.
+implementing safer delivery practices,
+c.
+providing counselling and support on infant feeding methods
+IV. provision of care, treatment and support to HIV-infected parents,
+infants and families.
+From 1986 till December 2006, there have been 76, 389 cases of HIV
+reported by Ministry of Health (MOH) with 9,155 deaths.3 Although males
+account for more than 93% of all the HIV infections reported in Malaysia to
+date, the proportion of new cases among females has increased sharply,
+from 1.4% in 2000 and 15% in 2006.
+Determination of HIV status enables appropriate counselling, timely ARV
+therapy and management of HIV positive pregnant women to be provided to
+reduce the risk of vertical transmission.4
+The Malaysian Ministry of Health (MOH) initiated a National Prevention of
+Mother-to-Child Transmission of HIV (PMTCT) Program in 1998. The Program
+is based partly on UNGASS “prong” 2 (i.e. detection of HIV infection during
+the antenatal period) and more strongly on UNGASS “prong” 3 (i.e. the
+provision of ARV therapy to mother and baby, safer modes of delivery and
+safer infant feeding practices for HIV positive mothers (through artificial
+feeding).
+Since the introduction of the PMTCT program, a total of 2,925,472 mothers
+were screened for HIV during antenatal period from 1998 until the end of
+2006 in government facilities. The coverage has been good and for the last
+five years, increased from 92.8% (2002) to 99.5% (2006). However the
+percentage of HIV positive pregnant women detected was maintained at
+below 0.04% (graph below). The vertical transmission rate of HIV from 1998
+– 2006 was 3.8%. (* These data do not include the availability or result of
+testing in non-government facilities nor the outcomes in HIV infected pregnant
+women who do not seek antenatal testing or care).
+In Malaysia, any woman in whom HIV infection is detected during pregnancy5
+is entitled to free ARV prophylaxis or, if indicated, highly active anti-retroviral
+therapy (HAART).The dual goals of antiretroviral (ARV) therapy in pregnant
+women are to provide treatment for the mother and to reduce the likelihood
+of transmission of the virus to the foetus or neonate.
+In view of increasing numbers of HIV positive women and advancements in
+management, this guideline will facilitate the care of these women by
+disseminating relevant and contemporary information to all levels of health
+care workers in a systematic fashion.
+*In 2006, the outcome of only 62 babies out of the 170 positive pregnant women is
+presently known.
+In this guideline :
+Women’ refers to pregnant women with HIV infection
+Combined clinic’ refers to a clinic where both obstetrician and physician
+attend jointly to these women.
+START refers to short- term- antiretroviral therapy/ short term HAART for
+the purposes of PMTCT
+HAART- highly active antiretroviral therapy (long term)
+2.0
+RISK OF TRANSMISSION
+The risk of transmission of HIV in pregnancy depends on maternal health
+status (WHO clinical stage of HIV –refer Appendix 3), viral load and a variety
+of obstetrical factors. In general the risk of transmission will be highest if the
+maternal viraemia is high and / or CD4 counts are low.6,level 6;7,Level 6;8 Level 6
+However, transmission has been reported in patients with low viral load of
+less than 1000 copies/ml. There is no evidence at which viral load
+transmission occurs.9,Level 1
+Based on 13 cohort studies the risk of vertical transmission without ARV
+treatment was estimated to be about 15 to 30% worldwide.4 Level 1 As
+maternal health plays an important role in reducing perinatal transmission,
+the strategy to improve HIV-related care for HIV-infected women is crucial
+to reduce HIV infection in children.
+The most important obstetric factors that influence the transmission rate are
+duration of membrane rupture and mode of delivery. Invasive monitoring,
+instrumental delivery and prematurity have also been shown to increase the
+rate of perinatal transmission.10, Level 9 Studies in twins suggest that the first
+born twin is at higher risk of transmission than the second born. This supports
+the evidence that the presence of virus in the genital tract influences vertical
+transmission.11, Level 8
+Any invasive procedure (e.g. amniocentesis, chorionic villus sampling) for
+prenatal diagnosis is not recommended unless the potential benefits outweigh
+the risks.10,Level 9;12 ,Level 9
+Recommendation for reducing risk of transmission
+••••• Invasive procedures (e.g. amniocentesis, chorionic villus sampling)
+in HIV pregnant women are not recommended (Grade C)
+3.0
+SCREENING
+3.1
+Counselling
+Group pre-test counselling has been advocated during booking to shorten
+counselling time.1,Level 8 This is followed by individual pre-test counselling to
+screen-positive pregnant women to enable them to give informed consent
+for confirmatory testing.
+Post-test counselling is provided to ensure these women receive appropriate
+treatment.14, Level 8 The testing-result interval should be as short as possible.15, Level 9
+There remains general consensus that HIV testing should be voluntary and
+performed after obtaining informed consent.9,Level 1;16,Level 2. Women are much
+more likely to get tested if they perceive their provider strongly recommends
+HIV testing.17 ,Level 3
+A meta-analysis of 27 studies concluded that HIV counselling and testing
+was an effective intervention for HIV positive participants. These decreased
+their risk behaviours, however little effect was seen in HIV negative
+participants.18, Level 1
+3.2
+Recruitment strategy
+In a systematic review carried out by The US Preventive Services Task Force
+it was noted that the acceptance rates for voluntary HIV testing among more
+than 174,000 pregnant women ranged from 23% to 100%. The HIV test rates
+during pregnancy appear to be higher using “opt-out” testing policies.9,Level 1
+In order to ensure better coverage, intrapartum testing should be offered to
+women who have not been screened. 19,Level 8
+Opt-out screening is defined as performing a HIV test after notifying the
+patient that the test will be done; consent is inferred unless the patient
+declines.20,Level 9
+3.3
+Timing of Screening
+Health care providers should perform a HIV test as early as possible during
+every pregnancy to ensure informed and timely management. 21,Level 9
+A repeat HIV test is necessary in high risk patients who were first screened
+negative. This is because some women seroconvert during pregnancy after
+first antenatal check-up. This test should be performed between 3 to 18
+weeks after the initial test. 22, Level 9
+High risk factors include:
+• Women whose past or present sexual partners were HIV infected,
+bisexual or IVDU 9, Level 1
+• Women seeking treatment for sexually transmitted disease (STD)
+9,Level 1
+• Commercial sex worker9,Level 1
+• Women with past or present history of intravenous drug use
+(IVDU)9 ,Level 1
+• Women with history of blood transfusion before 1986
+• Unprotected vaginal or anal intercourse with more than one sex
+partner23,Level 9
+3.4
+Methods of HIV testing
+The standard diagnostic testing for HIV infection in adults also applies to
+HIV testing of pregnant women.
+Enzyme immunoassay (EIA), in combination with a confirmatory Western
+Blot is considered the ‘gold standard’ for determining HIV infection. Together,
+these two tests have a sensitivity and specificity greater than 99%. 9 , Level 1
+However in the WHO HIV testing strategy, a reactive Enzyme Linked
+Immunosorbent Assay (ELISA) / Enzyme Immuno Assay (EIA) result is
+followed by Particle Agglutination (PA). A reactive PA test result will then require
+a confirmatory Western Blot test.23 Level 9
+An alternative to the classic Western Blot confirmatory test is the Line
+Immunoassay (LIA). In this assay, recombinant or synthetic peptide antigens
+are applied on a nitrocellulose strip, rather than electrophoresed. Several
+studies have verified the accuracy of LIA is equivalent to the Western Blot
+test.24,Level 4;25 Level 4
+In the Ministry of Health Malaysia (MOH), the Rapid test has been selected
+as a screening test. The MOH bases the selection of the Rapid test on the
+evaluation by IMR that it has a 99.9% sensitivity and 99.8% specificity.
+Despite the high sensitivity and specificity of rapid tests, the issue of
+indeterminate or false-positive results in pregnant women is not resolved. A
+negative test result effectively rules out HIV except in the case of recent
+infection in which antibodies have not yet developed. A positive HIV rapid test
+result still requires a confirmatory test. 27,Level 9
+Some studies have shown that the Rapid test followed by the PA test
+constitutes a reasonable alternative to the standard ELISA / Western Blot
+combination.28, Level 4;29, Level 4
+3.5
+Screening during Labour
+Rapid HIV testing using a highly sensitive test is feasible and delivers
+accurate and quick results for women in labour who have not been previously
+screened. This strategy provides HIV-positive women prompt access to
+intrapartum and neonatal ARV prophylaxis. Median time from blood collection
+to patient notification of result is faster than compared to EIA.30 ,Level 8
+Rapid HIV tests, using similar principles to ELISA / EIA, offer a quick, accurate
+and less resource-intensive alternative to traditional HIV testing methods.26
+,Level 4; 9 Level 1 Therefore they can be used in remote areas where basic laboratory
+infrastructure is lacking.
+There are a few types of Rapid tests used in the United States. The sensitivity
+ranges from 95.8% to 100%, specificity from 98% to 100% with a positive
+predictive value of 33% to 100%.9 Level 1
+Recommendations for antenatal HIV counselling and screening
+• HIV testing should be offered to all pregnant women as part of
+routine antenatal care using the opt-out strategy. (Grade A)
+• Screening should be voluntarily undertaken with the patient’s
+knowledge and consent. (Grade A)
+• Screening should be done as early as possible during every
+pregnancy. (Grade A)
+• Group pre test of counselling is an acceptable method. (Grade C)
+• If the rapid/ screening test is positive, individual pre- and post-test
+counselling are essential elements to enable women to give
+informed consent. (Grade C)
+• In high risk patients, a repeat test should be done preferably after
+12 weeks of the first test if the initial test is negative (Grade C)
+OR
+before 36 weeks of gestation if the initial test is negative. (Grade C)
+• 3 test strategies are required for diagnosis of HIV (Grade C)
+o
+For screening, Rapid test/ Enzyme immunoassay (EIA) /
+Enzyme linked immunosorbent immunoassay (ELISA) is
+recommended. ( Grade A)
+o
+A positive screening test should be followed by a Particle
+Agglutination (PA).(Grade B)
+o
+Final confirmation with LIA / Western Blot is required.(Grade B)
+• Screening during labour
+o
+Rapid test is to be done in patients who have not been screened.
+(Grade C)
+o
+All positive tests should be verified with standard confirmatory
+tests. (Grade A )
+For details, please refer to algorithm on HIV screening for pregnant
+women (pg viii)
+3.6
+Notification and contact tracing
+Under the Infectious Disease Act 342 (1988), health care providers are legally
+bound to notify the local health authority about anyone found to be HIV
+positive.31 Providers should recommend that their partners receive HIV
+testing. Health departments can assist patients by notifying, counselling
+and providing HIV testing for partners without disclosing the patient’s
+identity.32, Level 9; 33, Level 9
+Under the Infectious Disease Act 342 (1988), health care providers are
+legally bound to notify the local health authority anyone found to be HIV
+positive.
+4.0
+INVESTIGATIONS AND MONITORING
+HIV is known to cause progressive impairment of the immune system that
+will put the patient at risk of opportunistic infection and tumours. In pregnancy,
+the progression of the disease will further increase the risk of perinatal
+transmission.
+There are several markers that have been looked into as the best monitoring
+tool, such as plasma viral load (HIV- RNA), CD4 count, â2-microglobulin and
+HIV-1 p24 antigen. 34, level 9; 35, Level 2 Plasma viral load is the best marker as it
+correlates well with disease progression and predicts the risk of perinatal
+transmission.34,Level 2; 36, Level 4; 37, Level 4
+Plasma viral load should be monitored in patients with HIV especially
+those who receive HAART and the test should be done at 36 weeks
+gestation.38, Level 9 The plasma viral load at 36 weeks gestation is the best
+predictor of perinatal transmission and it can also be used to determine
+mode of delivery.
+As HIV increases the risk of opportunistic infection, all patients with HIV
+should be screened for Hepatitis B & C, syphilis, gonorrhoea, toxoplasmosis
+and Chlamydia.39, Level 9; 40, Level 8
+The relationship of bacterial vaginosis and maternal to child transmission
+(MTCT) of HIV is still controversial.41,Level 9;42, Level 8;43,Level 8
+Recommendations for investigations and monitoring
+• Plasma HIV-1 RNA levels should be monitored in all women on
+HAART and START. (Grade A)
+• CD4 counts should be monitored in all women on HAART and
+START. (Grade C)
+• All HIV positive women should be examined for genital infections
+and treated appropriately. If negative, the examination should be
+repeated at 28 weeks.(Grade C)
+• Co-infections (Hepatitis B, Hepatitis C, syphilis, gonorrhoea,
+toxoplasmosis and chlamydia) should also be screened in these
+women. (Grade C)
+5.0
+MANAGEMENT OF HIV PREGNANT WOMEN
+There should be a proper referral pathway for these patients to the combined
+clinic. The availability of an ID physician is an additional option.10, Level 9 Public
+health nurses play a pivotal role in ensuring that these women are compliant
+to their Anti Retroviral Therapy (ART) and antenatal follow-up.
+It is important that all healthcare professionals involved in the management
+of a HIV positive pregnant woman are aware of the diagnosis and the plan of
+her care. Confidentiality must be respected and ensured. Health
+professionals should not presume that the woman’s partner or her relatives
+are aware of her illness even though they may attend clinics as well as the
+delivery. 10, Level 9
+Interventions to reduce the risk of HIV transmission should be discussed
+with the women. These measures would include the use of ARV therapy,
+elective caesarean delivery and avoidance of breastfeeding. The
+implementation of these 3 interventions will reduce the vertical transmission
+risk to below 2%. 44, Level 2;45 Level 8; 46,Level 9;10, Level 9
+Multidisciplinary team should comprise of an obstetrician, physician,
+family medicine specialist and paediatrician. Optional members in the
+team would include the ID physician, specialist midwives, social workers,
+psychiatrist, clinical psychologist, counsellors and relevant non
+government organisation (NGO’s).
+Modified from 10, Level 9
+Recommendations for management of HIV pregnant women
+• Women with HIV positive in pregnancy should be managed by a
+multidisciplinary team including community healthcare personnel.
+(Grade C)
+• Women diagnosed as HIV positive after 28 weeks gestation should be
+referred to hospital URGENTLY for initiation of antiretroviral therapy.
+(Grade C)
+• Women should be informed that use of antiretroviral therapy, elective
+caesarean delivery and avoidance of breastfeeding can reduce the
+mother to child transmission rates to <2%. (Grade A)
+• After delivery, the patient should be followed up by the physician.
+(Grade C)
+• The baby will be followed up by a paediatrician*. (Grade C)
+* Please refer to the MOH CPG on Management of HIV Infection in Children
+(2008) for further details
+6.0
+MEDICAL TREATMENT
+Introduction
+ARV therapy is given for two reasons during pregnancy; first for the prevention
+of MTCT and secondly for the treatment of mother to prevent maternal disease
+progression (therapy continued indefinitely after delivery). 10, Level 9;47,Level 9;38,
+Level 9
+The current treatment of pregnant women infected with HIV has evolved from
+monotherapy to Highly Active Anti-Retroviral Therapy (HAART). Zidovudine
+(ZDV) has been the most extensively studied ARV in pregnant women and
+forms a component of treatment in most trials.
+PACTG 07644,Level 2 was the first major study that demonstrated the
+effectiveness of a 3-part regimen (antepartum, intrapartum and postpartum)
+in reducing MTCT from 22.6% to 7.6%. The vertical transmission rate was
+further reduced to < 2 % when elective Caesarean Section was performed
+and breastfeeding was not permitted.48,Level 6; 49,Level 6
+In a systematic review of 4 RCTs comparing ZDV with placebo, it was
+demonstrated that ZDV significantly reduced MTCT. 50,Level 1 There is also
+no evidence ZDV influences the incidence of premature delivery or low birth
+weight.
+Development of ZDV drug resistance with PACTG 076 ZDV regimen alone
+appears uncommon in women with higher CD4 count and low viral load.
+51,Level 8; 52, Level 9 It has been demonstrated to be more common in women who
+have more advanced disease and lower CD4 count. 53, Level 6
+In the North American Women and Infant Transmission study (WITS) cohort
+there was reduction in transmission from 7.8% in mother-infants pairs
+receiving ZDV monotherapy to 1.1% in mother exposed to triple therapy.
+53, Level 6 In PACTG 367, the transmission rate among 3081 women in N. America
+fell from 4.2% in 1998 to 0.5% in 2002. Among women who did not receive
+any ARV therapy, transmission was 18.5% falling to 5.1% with ZDV
+monotherapy, 1.4% with dual NRTIs and 1.3% with three or more drugs.
+54 ,Level 2
+Combination antiretroviral therapy of three or more ARVs or HAART (usually
+from >” 2 classes), is the recommended standard treatment for HIV-1 infected
+adults who are not pregnant. 55,Level 9
+Pregnancy should not preclude the use of optimal therapeutic regimens.
+However, recommendations regarding the choice of antiretroviral drugs for
+treatment of infected pregnant women are subject to unique considerations,
+including
+I. the potential effects of antiretroviral drugs on the pregnant woman,
+and
+II. the potential short- and long-term effects of the antiretroviral drug
+on the fetus and newborn. 56, Level 9; 38,Level 9;10,Level,9
+Avoid the combination of Stavudine plus Didanosine as part of the triple
+therapy whenever possible, due to case reports of fatal lactic acidosis in
+pregnancy.57, Level 6
+The decision to use any antiretroviral drug during pregnancy should be made
+by the woman after discussing with her health-care provider the known and
+unknown benefits and risks to her and her foetus.38,Level 9; 56 ,Level 9 ARV should
+be initiated by Physician/ ID Physician and /or Obstetrician. The patients will
+be monitored in the combined clinic.
+Adherence to ARV therapy is of vital importance for the success of treatment
+and pregnant women may need extra support and planning in this area,
+especially if there are practical or psychosocial issues that may impact
+adversely on adherence. 38,Level 9
+However there were significant malformations (anencephaly, anophthalmia,
+cleft palate) observed in 3 (15%) of 20 infants born to cynomolgus monkeys
+receiving efavirenz during the first trimester at a dose giving plasma levels
+comparable to systemic human therapeutic exposure.There are three case
+reports of neural tube defects in humans after first trimester exposure however
+the relative risk was unclear.38, Level 9
+Recommendations to start antiretroviral therapy
+• Women require antiretroviral therapy to prevent mother-to-child
+transmission of HIV. (Grade A)
+• Women should be advised to take antiretroviral therapy during
+pregnancy and during delivery. (Grade A)
+• Combination of more than three or more antiretroviral drugs is
+recommended for all HIV pregnant mothers to reduce mother-tochild transmission of HIV. (Grade B)
+• Antiretroviral therapy should be started as early as possible in
+pregnancy after the first trimester. (Grade B)
+• Adherence to antiretroviral therapy is of utmost importance in the
+success of treatment. (Grade C)
+• A detailed anomaly ultrasound should be performed for all foetus
+exposed to HAART during the first trimester. (Grade C)
+In utero exposure
+Most studies looking at the safety of ARV therapy are based on animal
+studies.58, Level 9 One meta-analysis of 5 prospective cohort studies carried
+out in the USA and one large European prospective cohort study found no
+significant difference in the rates of congenital anomalies, neonatal
+conditions or low birth weight between infants exposed to combination ARV
+therapy and unexposed infants. 59,Level 9; 60 ,Level 6
+Data on the association between combination of ARV regimens and
+increased rates of premature delivery are mixed.9, Level 1 Although molecular
+and biochemical evidence of mitochondrial dysfunction have been reported
+in infants exposed to in utero to ARV agents, 61,Level 6;62 Level 7;63,Level 8 the clinical
+impact of such dysfunction was unclear.64, Level 8; 65, Level 8
+In pregnant women who refuse HAART/ START or if there is a reasonable
+doubt on compliance, ZDV monotherapy is an alternative but an inferior
+option.38, Level 9; 56, Level, 9
+The following recommendations for the use of ARV therapy to reduce MTCT
+are based on scenarios that may commonly present in clinical practice.
+A. Newly diagnosed HIV pregnant women not on ARV
+A.1
+HIV women with CD4 T cell count < 250 cells/uL
+Most guidelines recommend that the initiation of HAART should be between
+14-28 weeks of gestation.68, Level 9; 38, Level 9;56 Level, 9
+6.1
+CLINICAL SCENARIOS AND RECOMMENDATIONS FOR THE
+USE OF ARV PROPHYLAXIS
+Women with advanced HIV (refer Appendix 3) or those women with CD4 T
+cell count < 250 cells/uL (Scenario A1), should commence treatment with a
+combination of three or more drugs (i.e. HAART). The treatment which should
+be continued indefinitely after delivery. 10, Level 9;56 Level 9; 38, Level 9
+Where ARV therapy is not required during pregnancy for maternal health
+(Scenario A2), a combination of three drugs to suppress HIV viral replication
+may be prescribed for the duration of pregnancy and after delivery to reduce
+transmission: administered correctly, this will preserve future maternal
+therapeutic options. In this scenario, ARV therapy is usually discontinued at,
+or soon after delivery. 10, Level 9;38 Level 9; 56, Level 9
+For women whose CD4 T cell count is > 250 cells/uL, a short term
+antiretroviral therapy (i.e. START) combination of 2 (nucleoside reverse
+transcriptase inhibitor ARVs (NRTIs) and a protease inhibitors (PI) should
+be prescribed. The non-nucleoside reverse transcriptase inhibitor (NNRTI),
+nevirapine(NVP), has been shown to have an increased incidence of
+hepatotoxicity if initiated in women with pre-treatment CD4 > 250 cells/µl,
+66,Level 3; 67,Level 9 hence, a PI based regimen needs to be used in such women
+to prevent this occurrence (refer Appendix 1).
+In most circumstances initiation of ARV therapy should be delayed until after
+the first trimester unless early initiation is judged important for maternal
+health. Delaying the initiation of HAART after the first trimester minimises
+the risk of drug related teratogenecity and usually results in better adherence
+as the nausea associated with pregnancy has usually diminished by this
+time.68, Level 9; 38, Level 9; 56 Level, 9
+In women who are newly diagnosed as HIV infected, clinical staging
+according to symptoms and CD4 count is recommended (refer Appendix 3)
+Based on the PACTG 076, PHPT 2 and HIVNET 012 protocols, a safe and
+efficacious three-drug combination would be Zidovudine (ZDV), Lamivudine
+(3TC) and Nevirapine (NVP). In the intrapartum period regardless of mode
+of delivery, intravenous ZDV should be given to the patient. 38, Level 9;69, Level 2; 70,
+Level 2;71, Level 2;72, Level 2
+After initiating HAART the following should be looked for and monitored:
+•
+NVP should be stopped immediately in all women who develop
+signs and symptoms of hepatitis or severe rash. 38, Level 9
+•
+Full Blood Count to monitor haemoglobin (ZDV is known to cause
+anaemia) if women developed anaemia they need to be investigated
+and treated. If anaemia occurs with ZDV therapy (600mg o.d.),
+consider dosage reduction to 500mg daily, i.e. 300mg followed by
+200mg twelve hours later or substitute with another NRTI drug.
+Please refer to Infectious Diseases Physician for further information.
+•
+Liver Function Test to monitor Aspartate Aminotransferase (AST)
+and Alkaline Phosphotase (ALP) (NVP is known to cause hepatitis)
+particularly during the first 18 weeks of treatment.38, Level 9
+Monitoring should be carried out 2 weekly for the first month after initiating
+HAART and then monthly till delivery.CD4 count should be monitored at 4
+monthly interval.73, Level 9
+HIV RNA viral load should be taken at baseline before initiation of therapy
+and at 34-36 week of gestation to help in decision on the mode of delivery. If
+HIV viral load at 34-36 week <1000 copies/ml, vaginal delivery may be
+allowed.10,Level 9
+During the intrapartum period, it is recommended to give i.v. ZDV with elective
+Caesarean section.74, Level 1,50, Level 1,75, Level 1
+Post partum, HAART should be continued for the mother and the baby will be
+followed up by the paediatrician. The mother should be on regular follow up
+with physician.
+Pneumocyitis (carinii) jiroveci Pneumonia Prophylaxis
+Prophylaxis against Pneumocystis (carinii) jiroveci Pneumonia (PCP) is an
+important component of HIV related clinical care. There is mixed evidence
+linking ingestion of Trimethoprim-Sulfamethoxazole (TMP/SMX: co- trimxazole)
+and other sulfonamides in early pregnancy to increase risk of oral clefts,
+neural tube defects, and cardiovascular and urinary tract abnormalities. 76, Level 7
+It is recommended that HIV-infected pregnant women with a CD4+ Tlymphocyte count of < 200/µl receive PCP prophylaxis with TMP / SMX. 77, Level
+9;78, Level 9;79 Level 8 Use of TMP / SMX in the first trimester should target women at
+highest risk for HIV-related illness (those with clinical evidence of advanced
+disease, or those who have been previously diagnosed with PCP). The
+benefit of improved morbidity and mortality with TMP / SMX prophylaxis among
+these high-risk women may outweigh the small risk to the foetus.77, Level 9
+Recommendations for HIV pregnant women with CD4 T cell count
+< 250 cells/uL
+• The preferred first line for HAART regime is zidovudine (ZDV)*,
+lamivudine (3TC)* and nevirapine (NVP)* (Grade C)
+• For women who have NVP intolerance or allergy,please refer to
+infectious disease physician (Grade C)
+• Full Blood Count and Liver Function Test should be monitored two
+weekly for the first month after initiating HAART and then
+monthly.
+(Grade C)
+• CD4 counts should be monitored 4 monthly in women on HAART.
+(Grade C)
+• Plasma HIV-1 RNA levels should be monitored in all women on
+HAART at baseline and at 34-36 weeks gestation. (Grade A)
+• Intrapartum zidovudine (ZDV)* should be given to women.
+(Grade A)
+• Zidovudine (ZDV)*, lamivudine (3TC)* and nevirapine (NVP)/
+combination therapy should be continued post delivery and for life
+for the mother. (Grade A)
+• Women with a CD4 + T-lymphocyte count of < 200/µl should
+receive PCP prophylaxis with TMP/SMX. (Grade C)
+* Refer to Appendix 1 and 2 for dosage and side effects
+A.2
+HIV pregnant women with CD4 T cell count > 250 cells/uL
+Initiate combination of Short Term Antiretroviral Therapy (START) as soon as
+possible after 14 weeks’ gestation (and, in any case, before 28 weeks’
+gestation), to avoid the organogenesis period and to allow adequate time
+interval to achieve viral suppression by delivery. 38, Level 9; 56 ,Level 9 The decision
+to continue or stop ARV therapy post partum depends on the initial CD4
+count. This should be discussed with the ID specialist / physician before
+delivery.
+The guideline development group recommends a PI based ARV combination
+with 2 NRTI. The recommended drug combination is AZT + 3TC + Lopinavir
+/ Ritonavir with the intention to achieve undetectable viral loads of <50 copies
+per ml prior to delivery. 80, Level 6; 81, Level 6
+If the patient presents late in pregnancy i.e. > 28 weeks of gestation, START
+should be initiated immediately with AZT/3TC and lopinavir / ritonavir (even
+before any CD4 results are available) in the hospital. During follow-up, if the
+CD4+ T-lymphocyte count of < 250 cells/uL, consider switching to the
+Nevirapine based regimen (i.e. two NRTI drugs + NVP).
+Full Blood Count should be done 2 weekly for the first month and then
+monthly till delivery for detecting possible anemia due to ZDV.
+Hyperglycemia, new-onset diabetes mellitus, exacerbation of existing
+diabetes mellitus, and diabetic ketoacidosis have been reported for women
+who have been treated with protease inhibitor antiretroviral drugs like lopinavir
+/ritonavir. 82, level 9, 83, Level 9 In a Spanish cohort of 609 pregnant women with HIV
+infection, the incidence of gestational diabetes was 7% higher than the
+expected for the general population. 84, Level 6
+Therefore clinicians caring for these women should be aware of the risk of
+this complication. Symptoms of hyperglycemia should be discussed with
+pregnant women who are receiving protease inhibitors. HIV pregnant women
+receiving START should be screened for glucose intolerance 38, Level 9
+Plasma viral load should be taken at 36 weeks gestation for women on
+START, in order to make informed decisions on the mode of delivery. If HIV is
+viral load <1000 copies/ml, allow for vaginal delivery.10, Level 9 During
+intrapartum, it is recommended to give i.v. ZDV. 38, Level 9; 50 Level 1; 75, Level 1; 86, Level 8
+Postpartum, START will either be discontinued immediately after delivery10, Level 9
+or continued indefinitely in the mother, depending on the nadir CD4 on
+presentation. This decision has to be discussed with the ID physician/
+physician prior to delivery.
+The mother should be on regular follow up with the physician whereas the
+baby will be followed up by the paediatrician.
+• Full Blood Count should be done 2 weekly for the first month and
+then monthly. (Grade C)
+• Modified glucose tolerance test (MGTT) should be done after
+initiating START. (Grade C)
+• CD4 count should be monitored 4 monthly. (Grade C)
+• Plasma HIV viral load should be done at 34-36 weeks of
+gestation. (Grade C)
+• Intrapartum intravenous zidovudine (ZDV)* should be given.
+(Grade A)
+• The decision to stop or continue START (zidovudine+lamivudine+
+lopinavir/ritonavir) *post delivery should be individualized after
+discussion with the ID physician/physician (Grade C)
+* Refer to Appendix 1 for dosage and side effects
+A.3.
+Women diagnosed in labour without prior therapy
+In the HIVNET 012 protocol, a single dose of NVP given to mothers at the
+onset of labour and to their babies soon after birth was compared to a
+suboptimal course of ZDV given to mothers only during labour and to their
+babies for the first week of life. In this trial, the NVP arm had a reduction in
+MTCT at 4 to 8 weeks by about 40% with the benefit persisting at 18 months
+of life.88, Level 2
+If Caesarean section cannot be preformed in time, combination ART is then
+indicated to reduce MTCT. The regimen is intrapartum ZDV by intravenous
+infusion + Single Dose NVP + 3TC during delivery. To reduce the development
+of NVP resistance, continue twice - daily oral ZDV and 3TC for one week post
+delivery for the mother.38, Level 9
+Recommendations for HIV pregnant women with CD4 T cell count
+> 250 cells/uL
+• Short term antiretroviral therapy (START) should be initiated after
+the first trimester (Grade C)
+• The preferred first line regime is zidovudine (ZDV)*, lamivudine
+(3TC)* and lopinavir/ritonavir * (Grade C)
+* Refer to Appendix 1 for dosage and side effects
+B. HIV positive women who are already on a HAART regime
+B.1 Women stable on HAART
+The data provide conflicting advice as to whether continuation of combination
+ARV therapy during pregnancy is associated with adverse pregnancy
+outcomes such as preterm labour and delivery. Furthermore if HAART is
+interrupted during the first trimester, this may cause immunological
+deterioration and rebound HIV viraemia with possible development of ARV
+drug resistant strains in a HIV infected pregnant woman who is already stable
+on HAART.89,Level 8; 90, Level 3
+For patients presenting in first trimester while on potentially teratogenic drugs
+like efavirenz, the pros and cons of continuing this regimen should be
+discussed with her.56,Level 9; 38, Level 9
+Women on HAART should be monitored closely for possible toxicities and
+complications due to HAART. HIV RNA viral load should be done at 36 weeks
+of gestation to determine the mode of delivery for the mother. HAART should
+be continued after delivery and the mother will be reviewed by the ID or
+physician in their subsequent follow-up.
+Recommendations for women diagnosed in labour without prior
+therapy
+• Regardless of the mode of delivery, provide prophylactic ARVs as
+follows:
+o
+Intrapartum intravenous zidovudine (ZDV)* + oral lamivudine
+(3TC)* + Single Dose oral nevirapine (sdNVP)* during delivery
+AND
+o
+Continue oral zidovudine (ZDV)* and 3TC* for one week
+post delivery for the mother. (Grade C)
+Recommendation for women failing HAART
+• Women failing HAART should be referred to the Infectious Disease
+Physician. (Grade C)
+7.0
+OBSTETRIC MANAGEMENT
+7.1
+Vaginal Disinfection to reduce MTCT
+A systematic review of randomised trials has shown that there is no difference
+in outcomes of MTCT when vaginal disinfections have been used.91, Level 1
+Recommendation for vaginal disinfection to reduce mother-to-child
+transmission of HIV
+• There is no evidence to support vaginal disinfection in preventing
+mother-to-child transmission of HIV. (Grade A)
+Recommendations for women stable on HAART
+• Women should continue their HAART regime (unless they present
+in the first trimester on efavirenz). (Grade C)
+• Plasma HIV-1 RNA levels and CD4 should be monitored 4 monthly.
+(Grade C)
+• They should receive careful, regular monitoring for potential
+toxicities*. (Grade C)
+• Intrapartum zidovudine (ZDV)* should be given to women.
+(Grade A)
+* Refer to Appendix 1 for dosage and side effects
+B.2 Women failing HAART
+Failing HAART therapy (detectable HIV RNA, declining CD4 T cell
+count or clinical failure) is an indication to change regime. HIV viral
+resistant testing should be done if available to choose the best
+optimum regime for the patient 73, Level 9
+7.3
+Mode of delivery and viral load
+Several systematic reviews showed that elective caesarean section reduces
+MTCT. This benefit appears additive with prophylactic ZDV monotherapy and
+the likelihood of transmission was reduced by approximately 87% with both
+elective caesarean section and full-course ZDV compared to other modes
+of delivery.38,Level 9; 50, Level 1; 75, Level 1
+In a meta-analysis of 7 prospective studies of women with viral loads < 1000
+copies /mL at delivery or at the measurement closest to delivery, there was
+a 1% risk of transmission rate for those on ARV, compared with 9.8% for
+untreated mothers. Elective LSCS has been shown to further reduce
+transmission rates. 86 ,Level 1
+Women who have a detectable viral load and / or who are not taking HAART
+should be offered an elective caesarean section as it reduces MTCT. It is
+recommended that delivery by elective caesarean section should take place
+after 38 weeks of gestation. 10, Level 9
+Increasing geometric levels of plasma HIV-1 RNA were associated with
+increasing rates of transmission. The highest transmission rate was among
+women whose plasma HIV-1 RNA levels exceeded 100,000 copies who had
+7.2
+Management of ruptured membranes
+A cohort of 525 women infected with HIV-1 demonstrated that ruptured
+membranes for > 4 hours and mean CD4+ count < 29% (CD4 count < 500
+cells/uL) were significantly associated with higher risk of MTCT.92, Level 6
+In a metanalysis of 15 prospective cohort studies, the risk of vertical
+transmission increases approximately 2% with an increase of every hour in
+duration of ruptured membranes. The estimated probability of transmission
+increased from 8% to 31% with duration of ruptured membranes of 2 and 24
+hours respectively.93, Level 1
+To reduce the risk of MTCT, caesarean section should be performed within
+4 hours of membrane rupture (with the exception of women stable on HAART
+with viral load <1000 at 34-36 weeks’). 94 Level 9; 10,Level 9
+Recommendation for management of ruptured membranes
+• The duration of ruptured membranes increases the risk of
+perinatal transmission (Grade A) therefore Caesarean section is
+of doubtful benefit after 4 hours of membrane rupture. (Grade C)
+7.4
+Safety Issues
+Higher maternal HIV-1 RNA level at or close to delivery significantly increased
+disease progression risk with a borderline effect on mortality. Effects were
+independent of maternal and infant treatment. 95,Level 1 Post partum morbidity
+is generally higher among women who undergo caesarean as compared to
+vaginal delivery. There are more minor morbidities (fever, urinary tract infection,
+anaemia) than major events (pneumonia, pulmonary embolism, sepsis).
+75, Level 1; 97, Level 4; 38,Level 9
+Please refer to Ministry of Health Standard Precaution Guidelines 98,Level 9
+with regards on standard precaution and disposal of waste hazards in HIV
+infected patients.
+8.0
+BREASTFEEDING
+The risk of vertical transmission is significantly higher (14-16%) with
+breastfeeding despite receiving ARV 9, Level 1;99,Level 2;100, Level 6;10, Level 9 Strategies
+should be made to ensure babies of HIV mothers are formula fed and their
+care givers educated on proper hygiene. 68,Level 9
+not received ZDV (63.3%). The level of plasma HIV-1 RNA predicts the risk
+but not the timing of transmission of HIV-1 to their infants. 96, Level 1
+In women who have been treated with START/HAART with a viral load of less
+than 1000 copies/ml may opt for a vaginal delivery.10, Level 9
+Women who opt for a planned vaginal delivery should have their membranes
+intact as long as possible. Women should continue their HAART throughout
+labour and be given intravenous ZDV till the cord is clamped as soon as
+possible after delivery.10, Level 9
+Recommendations for mode of delivery and viral load
+• Elective caesarean section is recommended about 38 weeks for
+those not on treatment, those who are on zidovudine monotherapy,
+or those with START/ HAART but with a viral load of more than 1000
+copies/ ml. (Grade A)
+• Those who are treated with START/ HAART with a viral load of less
+than 1000 copies / ml may opt for a vaginal delivery. (Grade B)
+9.0
+POST NATAL CARE
+Basic postnatal care of the mother and her infant is no different from routine
+postnatal care. Multidisciplinary support from the obstetrician, paediatrician,
+infectious disease physician and primary care doctors and nurses for the
+mother and her family is essential to ensure adequate care.101, Level 9
+The community clinic staff should be informed about the mode of delivery,
+potential complications to expect and advice about the therapy that the patient
+may be on. They can assist in monitoring and managing the patient
+adequately. The issue of confidentiality for these patients is of utmost
+importance, and health care workers must be reminded to maintain this.
+Concerns have been raised about adherence to ARV regimens during the
+postpartum period. Studies have shown that adherence is extremely low
+during late pregnancy and declines significantly postpartum.102, Level 6; 103, Level 9
+The puerperium is a period at risk of postnatal depression, and women with
+HIV may require additional support especially while there is uncertainty
+regarding the status of their infants.101 ,Level 9; 38,Level 9
+A cohort study of 549 children born to HIV women in Africa demonstrated that
+mixed feeding carried a higher risk of HIV transmission to the baby compared
+to exclusive breastfeeding in their babies less than 3 months of age or those
+babies that who were artificially fed.100, Level 6
+A Ministry of Health Malaysia circular provides for free infant formula for the
+first six months for perinatally exposed babies from low income families
+(RM <1200) in the first instance and case to case basis for such infants
+whose families income is more then RM1200.87
+Recommendations for breastfeeding
+• All HIV infected mothers should be advised not to breastfeed their
+infants as it is associated with a higher risk of vertical transmission.
+(Grade A)
+• Families should be counselled against mixed feeding at any time,
+as it has carries a higher risk of mother-to-child transmission than
+exclusive breastfeeding or formula milk feeding (Grade B)
+10.
+CONTRACEPTION
+Contraception not only prevents unwanted pregnancies, but also plays a
+role in prevention of sexual transmission of HIV including HIV super-infection.
+The issues related to contraception and HIV are more complex than for
+uninfected women.
+Consistent, correct condom use has been shown to provide a high degree
+of protection against sexual transmission of HIV.104, Level 1; 105,Level 4;106, Level 6
+Use of condoms result in pregnancy rates of 3%,107,Level 8; 108 ,Level 9 and also
+protects against other sexually transmissible infections (STIs). This is known
+as “Dual protection”.
+Breast feeding is not recommended for mothers with HIV. Some women
+may require medication to suppress lactation and carbegolin may be
+prescribed.
+Recommendations for post natal care
+• Confidentiality should be maintained at all times regarding
+the patient’s diagnosis. (Grade C)
+• Community health care personnel i.e. public health nurses should
+be informed when a mother is discharged to their area and the
+potential complications. (Grade C)
+• Community health care personnel should provide support and
+counselling to help the mother to adhere to her antiretroviral
+regime. (Grade C)
+• Community health care personnel must help to ensure the
+mother and her baby attend their follow up visits to the Infectious
+Diseases Clinic and Paediatric Clinic. (Grade C)
+• The health care provider should be vigilant for signs of depression.
+(Grade C)
+• Breast feeding should be avoided and lactation suppression
+provided when necessary. (Grade C)
+There is an increase in genital shedding in HIV-1 infected women after
+starting combined hormonal contraception.109 ,Level 6 This raises the possibility
+that use of hormonal contraception may increase the infectivity of HIV-1
+infected women to uninfected partners. Therefore partner protection with the
+use of condoms is recommended.
+There are drug interactions between ARV therapy and hormonal
+contraceptives with an increased risk of failure of the contraceptive.
+110, Level 8;111, Level 6;112,Level 6.
+The insertion of an Intra Uterine Contraceptive Device (IUD) did not
+significantly alter the prevalence of cervical shedding of HIV-1 infected cells.
+113, Level 4 Therefore IUD use seems safe from the standpoint of infectivity to a
+sexual partner. There are low rates of overall and infection-related
+complications among HIV-1 infected women after IUD insertion.114, Level 9; 115,Level 9
+Spermicides offer very limited protection from pregnancy and may increase
+risk of HIV transmission116, Level 1
+Ethically, there is no medical reason to deny or force sterilization to patients
+with HIV. 117,Level 6;118,Level 6
+Recommendations for contraception
+• The condom is the only contraceptive method proven to prevent both
+pregnancy and sexual transmission of HIV. (Grade A)
+• If an intra uterine device or hormonal contraception is to be considered,
+they must be used together with the condom. (Grade B)
+• There is no medical indication for permanent sterilization of HIVinfected individuals. (Grade B)
+1
+De Cock KM, Foweler MG, Mercier E, et al. Prevention of mother-to-child HIV
+transmission in resource–poor countries- Translating research into policy and practice.
+JAMA 2000;283(9); 1175-1182
+2
+Rashid H. Merchant & Mamatha M. Lala. Prevention of mother-to child transmission of
+HIV. Indian .J Med Res 121; April 2005: pp 489-501.
+3
+AIDS/STD Section, Disease Control Division, Ministry of Health, Malaysia. Summary
+of HIV/ AIDS cases,2006
+4
+Volmink J, Siegfried NL, Van der Merwe L, Brocklehurst P. Antiretrovirals for reducing
+the risk of mother-to-child transmission of HIV infection. Cochrane Database Syst Rev.
+2007 Jan 24;(1).
+5
+Ministry of Health Malaysia. Criteria For Commencing Highly Active Antiretroviral Therapy
+(HAART) In Women detected to be HIV Positive during Antenatal Screening. HIV Bil 1/ 2001.
+6
+Cooper ER, Charurat M, Mofenson LM, et al.Combination antiretroviral strategies for the
+treatment of pregnant HIV-1 infected women and prevention of perinatal HIV-1 transmission.
+J Acquir Immune Defic Syndr Hum Retrovirol, 2002.29(5):484-494.
+7
+European Collaborative study, Risk factors for mother-to-child transmission of HIV-1.
+European Collaborative. Lancet. 1992 Aug 15; 340(8816):435.
+8
+Mayaux MJ, Blanche S, Rouzioux C, et al. Maternal factors associated with perinatal
+HIV-1 transmission: the French Cohort Study: 7 years of follow-up observation. The
+French Pediatric HIV Infection Study Group. J Acquir Immune Defic Syndr Hum Retrovirol.
+1995 Feb 1;8(2):188-194.
+9
+Chou R, Smits AK, Huffman LH, et al,. Prenatal screening for HIV: A review of the
+evidence for the U.S.Preventive Services Task Force. Ann Intern Med. 2005 Jul
+5;143(1):38-54
+10
+Royal College of Obstetricians and Gynaecologists (RCOG). Management of HIV in
+pregnancy. London (UK): Royal College of Obstetricians and Gynaecologists (RCOG);
+2004 Apr. 12 p. (Guideline; no. 39).
+11
+Goedert JJ. “Prevalence of conditions associated with human immunodeficiency and
+hepatitis virus infections among persons with haemophilia, 2001-2003.” Haemophilia.
+2005; 11:516-528
+12
+Burdge DR, Money DM, Forbes JC, et al. The Canadian HIV Trials Network Working
+Group on Vertical HIV Transmission, Canadian consensus guidelines for the management of
+pregnancy, labour and delivery and for postpartum care in HIV-positive pregnant women
+and their offspring (summary of 2002 guidelines). CMAJ. 2003;168(13):1671-1674.
+13
+Ngidi AC, Myeni ZE, Bland RM, et al; International Conference on AIDS. Acceptability
+and limitations of HIV group pre-test counselling for pregnant women in rural KwaZulu
+Natal, South Africa. Int Conf AIDS. 2002 Jul 7-12; 14: abstract no. TuPeF5414.
+14
+Delva W, Mutunga L, Quaghebeur A, et al. Quality and quantity of antenatal HIV
+counselling in a PMTCT programme in Mombasa, Kenya. AIDS Care. 2006 Apr;18(3):
+189-193.
+REFERENCES
+15
+Obuekwe I.F HIV in pregnancy: the risk of mother-to-child transmission and
+possible interventions. Available at: http://mwia.regional.org.au/papers/full/33_flossy.htm
+and http://www.regional.org.au
+16
+Grinstead OA, Gregorich SE, Choi KH, et al. Voluntary HIV-1 Counselling and Testing
+Efficacy Study Group. Positive and negative life events after counselling and testing:
+the Voluntary HIV-1 Counselling and Testing Efficacy Study. AIDS. 2001 May
+25;15(8):1045-1052.
+17
+Kellock DJ, Rogstad KE. Attitudes to HIV testing in general practice. Int J STD AIDS.
+1998 May;9(5):263-267.
+18
+Weinhardt LS, Carey MP, Johnson BT, et al. Effects of HIV counseling and testing on
+sexual risk behaviour: a meta-analytic review of published research, 1985-1997. Am J
+Public Health. 1999 Sep;89(9):1397-1405.
+19
+Homsy J, Kalamya JN, Obonyo J, et al. Routine intrapartum HIV counseling and
+testing for prevention of mother-to-child transmission of HIV in a rural Ugandan
+hospital. J Acquir Immune Defic Syndr. 2006 Jun;42(2):149-154.
+20
+Centers for Disease Control and Prevention (CDC). Revised guidelines for HIV
+counseling, testing, and referral. MMWR Recomm Rep 2001 Nov 9;50(RR-19):1-58.
+21
+Morbidity and Mortality Weekly Report (CDC). Revised Recommendations for HIV
+Testing of Adults, Adolescents, and Pregnant Women in Health-Care Settings
+Recommendations and Reports September 22, 2006: Vol. 55 ; No.RR-14.
+22
+Soorapanth S, Sansom S, Bulterys M, et al. Cost - effectiveness of HIV rescreening during
+late pregnancy to prevent mother-to-child HIV transmission in South Africa and other
+resource-limited settings. J Acquir Immune Defic Syndr. 2006 Jun;42(2):213-221.
+23
+World Health Organization. Antiretroviral drugs for treating pregnant women and preventing
+HIV infection in infants in resource limited settings. Towards universal access.
+Recommendations for a public health approach. 2006 version.
+http://www.who.int/3by5/ PMTCTreport_June2006.pdf. Accessed on 23 September 2007
+24
+Pollet DE, Saman E, Van der Borght B, et al. Int Conf AIDS Line immunoassay for the
+simultaneous detection ofantibodies to HIV-1 and HIV-2 in human sera. 1989 Jun
+4-9; 5: 369.
+25
+Fransen K, Pollet DE, Peeters M, et al. Evaluation of a line immunoassay for simultaneous
+confirmation of antibodies to HIV-1 and HIV-2. Eur J Clin Microbiol Infect Dis.1991
+Nov;10(11):939-946.
+26
+Orlando M, Tucker JS, Sherbourne CD, et al. A cross-lagged model of psychiatric
+problems and health-related quality of life among a national sample of HIV positive adults.
+Med Care. 2005 Jan; 43(1):21-7
+27
+Doran TI, Parra E. False-positive and indeterminate human immunodeficiency virus
+test results in pregnant women. Arch Fam Med. 2000 Sep-Oct;9(9):924-929.
+28
+Mitchell SW, Mboup S, Mingle J, et al. Field evaluation of alternative HIV testing
+strategy with a rapid immunobinding assay and an agglutination assay. Lancet. 1991 Jun
+1;337(8753):1328-1331
+29
+Urassa WK, Bredberg-Rådén U, Mbena E, et al. Alternative confirmatory strategies in
+HIV-1 antibody testing. J Acquir Immune Defic Syndr.1992;5(2):170-176.
+30
+Bulterys M, Jamieson DJ, O’Sullivan MJ, et al. Mother-Infant Rapid Intervention At
+Delivery (MIRIAD) Study Group. Rapid HIV-1 testing during labor: a multicenter
+study. JAMA. 2004 Jul 14;292(2):219-223
+31
+Laws Of Malaysia Act 342. Prevention And Control Of Infectious Disease Act 1988.
+Avaiable from http://www.dph.gov.my/survelans/Guidelines%202006/
+LAWS%20OF%20MALAYSIA.pdf
+32.
+MMWR (CDC) Revised Guidelines for HIV Counseling, Testing, and Referral Technical
+Expert Panel Review of CDC HIV Counseling, Testing, and Referral Guidelines November
+9, 2001 / 50(RR19);1-58
+33.
+AIDS/STD Section, Disease Control Division, Department of Public Health, Malaysia
+National Strategic Plan: Prevention and Control of HIV Infection, Malaysia In print
+Ministry of Health, Malaysia, 30 June 1998, 26 pp
+34.
+Churchill DR. Prognostic markers and surrogate markers of clinical progression in HIV
+infection. Int J STD AIDS. 1997 Sep;8(9):552-556
+35
+Mofenson LM, Fowler MG. Interruption of materno-fetal transmission. AIDS. 1999;13
+Suppl A:S205-214.
+36
+Iuliano R, Forastieri G, Brizzi M, et al. Correlation between plasma HIV-1 RNA levels
+and the rate of immunologic decline. J Acquir Immune Defic Syndr Hum Retrovirol. 1997
+Apr 15;14(5):408-414.
+37
+Garcia PM, Kalish LA, Pitt J, et al. Maternal levels of plasma human immunodeficiency
+virus type 1 RNA and the risk of perinatal transmission. Women and Infants Transmission
+Study Group. N Engl J Med. 1999 Aug 5;341(6):394-402.
+38
+Public Health Task Force .Perinatal HIV Guidelines Working Group. Public Health Service
+Task Force recommendations for use of antiretroviral drugs in pregnant HIV-1-infected
+women for maternal health and interventions to reduce perinatal HIV-1 transmission in the
+United States. Rockville (MD): U.S. Public Health Service; 2007 Nov 2. 96 p.
+39.
+Katz, M, Martin J, Roland M, et al. The San Francisco postexposure prevention program:
+Lessons and future challenges. Programs and abstracts of the 7th Conference on
+Retroviruses and Opportunistic Infections, January 30-February 2, 2000; San Francisco.
+40
+Chaisilwattana P, Chuachoowong R, Siriwasin W, et al. Chlamydial and gonococcal
+cervicitis in HIV-seropositive and HIV-seronegative pregnant women in Bangkok:
+prevalence, risk factors, and relation to perinatal HIV transmission. Sex Transm Dis.
+1997 Oct;24(9):495-502
+41
+Hashemi FB, Ghassemi M, Roebuck KA, et al. Activation of human immunodeficiency
+virus type 1 expression by Gardnerella vaginalis. J Infect Dis. 1999 Apr;179(4): 924-930
+42
+Cohen CR, Duerr A, Pruithithada N, et al. Bacterial vaginosis and HIV seroprevalence
+among female commercial sex workers in Chiang Mai, Thailand. AIDS. 1995 Sep;9(9):1093 -1097.
+43
+Mwanyumba F, Gaillard P, Inion I, et al. Placental inflammation and perinatal transmission
+of HIV-1. J Acquir Immune Defic Syndr. 2002 Mar 1;29(3):262-269
+44
+Connor EM, Sperling RS, et al. Reduction of maternal-infant transmission of human
+immunodeficiency virus type 1 with zidovudine treatment. Pediatric AIDS Clinical Trials
+Group Protocol 076 Study Group. N Engl J Med. 1994 Nov 3;331(18):1173-1180
+45
+Cooper ER, Charurat M, Mofenson LM, et al. Combination antiretroviral strategies for
+the treatment of pregnant HIV-1 infected women and prevention of perinatal HIV-1
+transmission. J Acquir Immune Defic Syndr Hum Retrovirol, 2002.29(5):484-494.
+46
+European Collaborative study. Risk factors for mother-to-child transmission of HIV-1.
+European Collaborative. Lancet. 1992 Aug 15;340(8816):435.
+47
+Gazzard B; BHIVA Writing Committee. British HIV Association (BHIVA) guidelines for the
+treatment of HIV-infected adults with antiretroviral therapy (2005). HIV Med. 2005 Jul;6
+Suppl 2:1-61.
+48
+Mandelbrot L, Landreau-Mascaro A, Rekacewicz C, et al. Lamivudine-Zidovudine
+combination for the prevention of maternal Infection transmission of HIV-1.
+JAMA,2001;285(160):2083 - 2093.
+49
+Kind C, Rudin C, Siegrist CA, et al. Prevention of vertical HIV transmission: additive
+protective effect of elective Cesarean section and zidovudine prophylaxis. Swiss Neonatal
+HIV Study Group. AIDS. 1998 Jan 22;12(2):205-210.
+50
+Volmink J, Siegfried NL, van der Merwe L, et al. Antiretrovirals for reducing the risk of
+mother-to-child transmission of HIV infection. Cochrane Database Syst Rev. 2007 Jan
+24; (1) : CD003510.
+51
+Eastman PS, Mittler J, Kelso R, et al. Genotypic changes in human immunodeficiency
+virus type 1 associated with loss of suppression of plasma viral RNA levels in subjects
+treated with ritonavir (Norvir) monotherapy. J Virol. 1998 Jun;72(6):5154-5164
+52
+Larbalestier N, Mullen J, O’Shea S, et al .Drug resistance is uncommon in pregnant
+women with low viral loads taking zidovudine monotherapy to prevent perinatal HIV
+transmission. AIDS. 2003 Dec 5;17(18):2665-2667.
+53
+Welles SL, Pitt J, Colgrove R, et al. HIV-1 genotypic zidovudine drug resistance and
+the risk of maternal-infant-transmission in the women and infants transmission study.
+The Women and Infants Transmission Study Group. AIDS. 2000 Feb 18;14(3):263-271.
+54
+Dorenbaum A, Cunningham CK, Gelber RD, et al. International PACTG 316 Team.
+Two-dose intrapartum/newborn nevirapine and standard antiretroviral therapy to reduce
+perinatal HIV transmission: a randomized trial. JAMA. 2002Jul 10;288(2):189-198.
+55
+Guidelines for the use of antiretroviral agents in HIV-infected adults and adolescents.
+Jan 28, 2000. [AIDS Treatment Information Service: Current Treatment] Available at:
+http://www.hivatis.org/trtgdlns.html. Accessed April 26, 2006
+56
+British HIV Association (BHIVA) Guidelines for the Management of HIV infection in
+Pregnant Women and the Prevention of Mother-to-Child Transmission of HIV Publication
+history information: Originally published 2001, updated March 2005
+57
+Claas GJ, Julg B, Goebel FD, et al. Metabolic and anthropometric changes one year after
+switching from didanosine/stavudine to tenofovir in HIV-infected patients. Eur J Med Res,
+2007 Feb 26;12(2): 54-60.
+58
+Taylor GP, Low-Beer N. Antiretroviral therapy in pregnancy: a focus on safety. Drug Saf.
+2001;24(9):683-702.
+59
+No authors. Immunological markers in HIV-infected pregnant women. The European
+Collaborative Study and the Swiss HIV Pregnancy Cohort. AIDS. 1997 Dec;11(15):1859-1865.
+60
+Tuomala RE, Shapiro DE, Mofenson LM, et al. Antiretroviral therapy during pregnancy
+and the risk of an adverse outcome. N Engl J Med. 2002 Jun 13;346(24):1863-1870
+61
+Alimenti A, Burdge DR, Ogilvie GS, et al. Lactic acidemia in human immunodeficiency
+virus-uninfected infants exposed to perinatal antiretroviral therapy. Pediatr Infect Dis J.
+2003 Sep;22(9):782-789
+62
+Poirier MC, Divi RL, Al-Harthi L, et al. Women and Infants Transmission Study (WITS)
+Group.Long-term mitochondrial toxicity in HIV-uninfected infants born to HIV-infected
+mothers. J Acquir Immune Defic Syndr. 2003 Jun 1;33(2):175-183
+63
+Divi RL, Walker VE, Wade NA, et al. Mitochondrial damage and DNA depletion in cord
+blood and umbilical cord from infants exposed in utero to combivir. AIDS. 2004 Apr30;
+18(7):1013-1021
+64
+Blanche S, Tardieu M, Rustin P, et al. Persistent mitochondrial dysfunction and perinatal
+exposure to antiretroviral nucleoside analogues. Lancet. 1999 Sep 25;354(9184):1084-1089
+65
+Barret B, Tardieu M, Rustin P. Mitochondrial dysfunction in HIV uninfected children.
+AIDS 2003;17:1769–1785.
+66
+Hitti J, Frenkel LM, Stek AM, et al. Maternal toxicity with continuous nevirapine in pregnancy:
+results from PACTG 1022. J Acquir Immune Defic Syndr. 2004 Jul 1;36(3):772-776.
+67
+Watts DH. Treating HIV during pregnancy: an update on safety issues. Drug Saf.2006;
+29(6):467-490.
+68
+Burdge DR, Money DM, Forbes JC, et al. Canadian consensus guidelines for the
+management of pregnant HIV-positive women and their offspring on behalf of the
+Canadian HIV Trials Network Working Group on Vertical HIV Transmission. This article
+appears online only and is an appendix to CMAJ 2003;168(13):1683-1688
+69
+Connor EM, Sperling RS, Gelber R, et al. Reduction of maternal-infant transmission of
+human immunodeficiency virus type 1 with zidovudine treatment. Pediatric AIDS Clinical
+Trials Group Protocol 076 Study Group. N Eng J Med. 1994 Nov 3;331(18):1173-1180
+70
+Lallemant M, Jourdain G, Le Coeur S, et al. A trial of shortened zidovudine regimens to
+prevent mother-to-child transmission of human immunodefi ciency virus type 1.Perinatal
+HIV Prevention Trial (Thailand) Investigators. N Eng J Med. 2000 Oct 5;343(14):982-991.
+71
+Guay LA, Musoke P, Fleming T, et al. Intrapartum and neonatal single-dose nevirapine
+compared with zidovudine for prevention of mother-to-child transmission of HIV-1 in
+Kampala, Uganda: Lancet. 1999 Sep 4;354(9181):795-802.
+72
+Petra Study Team. Efficacy of three short-course regimens of zidovudine and lamivudine
+in preventing early and late transmission of HIV-1 from mother to child in Tanzania,
+South Africa, and Uganda (Petra study): a randomised, double-blind,placebo-controlled
+trial. Lancet. 2002 Apr 6;359(9313):1168-1169.
+73
+DHSS Panel on Guidelines for the use of ARV agents in HIV-1-infected adults and
+adolescents 2006
+74
+Suksomboon N, Poolsup N, Ket-Aim S. Systematic review of the efficacy of antiretroviral
+therapies for reducing the risk of mother-to-child transmission of HIV infection. J Clin
+Pharm Ther. 2007 Jun; 32(3):293-311
+75
+Read JS, Newell MK. Efficacy and safety of cesarean delivery for prevention of
+mother-to-child transmission of HIV-1. Cochrane Database Syst Rev. 2005 Oct 19;(4)
+76
+Hernandez-Diaz S, Werler MM, Walker AM et al. Folic acid antagonists during pregnancy
+and the risk of birth defects. N Eng J Med 2000; 343: 1608-1614
+77
+No authors. 1999 USPHS/IDSA guidelines for the prevention of opportunistic infections
+in persons infected with human immunodeficiency virus. U.S. Public Health Services
+(USPHS) and Infectious Diseases Society of America (ISAA), Infect Dis Object Gynecol
+2008;8 (1):5-74
+78
+Centers for Disease Control and Prevention, National Institutes of Health, HIV Medicine
+Association/Infectious Diseases Society of America. Treating Opportunistic Infections
+among HIV-Infected Adults and Adolescents. MMWR Recomm Rep. 2004 Dec 17;
+53(RR15);111-112.
+79
+Walter J, Mwiya M, Scott N et al. Reduction in preterm delivery and neonatal mortality
+after the introduction of antenatal cotrimoxazole prophylaxis among HIV-infected
+women with low CD4 cell counts. J Infect Dis. 2006 Dec 1;194(11):1510-1518
+80
+Stek AM, Mirochnick M, Capparelli E, et al. Reduced lopinavir exposure during pregnancy.
+AIDS, 2006.20(15):1931-1939
+81
+Tuboi SH, Harrison LH, Spinz E, et al. Predictors of Virologic Failure in HIV-1- Infected
+Patients Starting Highly Active Antiretroviral Therapy in Porto Alegre, Brazil. J Acquir
+Immune Defic Syndr 2005;40:324-328.
+82
+Dube MP, Sattler FR. Metabolic complications of antiretroviral therapies. AIDS Clin
+Care.1998 Jun;10(6):41-44
+83
+Khilnani P, Rajdev SK, Uttam R. Characteristics of available antiretroviral drugs - Part
+2. Indian J Crit Care Med 2003;7:273-282
+84
+Justman JE, Benning L, Danoff A, et al. Protease inhibitor use and the incidence of
+diabetes mellitus in a large cohort of HIV-infected women. J Acquir Immune Defic Syndr.
+2003 Mar 1;32(3):298-302
+85
+U.S .Public Health Service Task Force recommendations for use of antiretroviral drugs
+in pregnant HIV-1-infected women for maternal health and interventions to reduce perinatal
+HIV-1 transmission in the United States (revised November 3, 2000).
+86
+Ioannidis JP, Abrams EJ, Ammann A, et al. Perinatal transmission of human immuno
+deficiency virus type 1 by pregnant women with RNA virus loads <1000 copies/ml. J Infect
+Dis. 2001 Feb 15;183(4):539-545
+87
+Ministry of Health Malaysia. Pekeliling Ketua Pengarah Kesihatan Bil. 5/200; Polisi
+Penyusuan Susu Ibu bagi bayi-bayi yang dilahirkan oleh ibu-ibu yang HIV positif.
+88
+Eshleman SH, Hoover DR, Hudelson SE, et al. Development of nevirapine resistance
+in infants is reduced by use of infant-only single-dose nevirapine plus zidovudine
+postexposure prophylaxis for the prevention of mother-to-child transmission of HIV-1.
+J Infect Dis. 2006 Feb 15;193(4):479-781
+89
+Bucceri A.M, Somigliana E, Matrone R, et al. Discontinuing combination antiretroviral
+therapy during the first trimester of pregnancy: Insights from plasma human
+immunodeficiency virus-1 RNA viral load and CD4 count. American journal of obstetries
+and gynecology. 2003;189:545-551
+90
+Achenbach CJ, Till M, Palella FJ, et al. Extended antiretroviral treatment interruption in
+HIV-infected patients with long-term suppression of plasma HIV RNA. HIV Med. 2005
+Jan;6(1):7-12.
+91
+Wiysonge CS, Shey MS, Shang JD, et al. Vaginal disinfection for preventing motherto-child transmission of HIV infection. Cochrane Database Syst Rev. 2005 Oct 19;(4)
+92
+Landesman SH, Kalish LA, Burns DN, et al. Obstetrical factors and the transmission of
+human immunodeficiency virus type 1 from mother to child. The Women and Infants
+Transmission Study. N Engl J Med. 1996; 334(25):1617-1623.
+93
+International Perinatal HIV Group . Duration of ruptured membranes and vertical transmission
+of HIV-1: a meta-analysis from 15 prospective cohort studies. AIDS. 2001 Feb 16;15(3):357-368.
+94
+Davies, Jill K. Management of HIV in Pregnancy Part II. Contempory Ophthalmology.
+26(3): 1-5, February 15, 2006.
+95
+Ioannidis JP, Tatsioni A, Abrams EJ, et al. Maternal viral load and rate of disease
+progression among vertically HIV-1-Infected children : an International meta-analysis.
+AIDS. 2004 Jan 2;18(1):99-108.
+96
+Garcia, JA, Harrich D, Soultanakis E. et al. Human immunodeficiency virus type 1
+LTR TATA and TAR region sequences required for transcriptional regulation. EMBO J.
+1989;8:765-778
+97
+Navas-Nacher EL, Read JS, Leighty RM, et al. Women and Infants Transmission Study
+Group. Mode of delivery and postpartum HIV-1 disease progression: the Women and
+Infants Transmission Study. AIDS. 2006 Feb 14;20(3):429-436
+98
+Ministry of Health Malaysia. KKM/3,000/2004: Ministry of Health Standard Precaution
+Guidelines“AIDS / STI section.
+99
+Nduati R, John G, Mbori-Ngacha D et al. Effect of Breastfeeding and Formula Feeding
+on Transmission of HIV-1: a randomized clinical trial. JAMA. 2000;283:1167-1174.
+100
+Coutsoudis A, Pillay K, Kuhn L, Spooner E, Tsai WY, Coovadia HM. South African
+Vitamin A Study Group. Method of feeding and transmission of HIV-1 from mothers
+to children by 15 months of age: prospective cohort study from Durban, South Africa.
+AIDS. 2001 Feb 16;15(3):379-387
+101
+Mandelbro Coll O, Fiore S, Floridia M, et al. Pregnancy and HIV infection:An European
+consensus on management. AIDS. 2002 Jun;16 Supp l 2:S1-18
+102
+Ickovics JR, Wilson TE, Royce RA, et al. Perinatal Guidelines Evaluation Group.Prenatal
+and postpartum zidovudine adherence among pregnant women with HIV:results of a
+MEMS substudy from the Perinatal Guidelines Evaluation Project. J Acquir Immune Defic
+Syndr. 2002 Jul 1;30(3):311-315.
+103
+Minkoff H, Ahdieh L, Watts H, et al. The relationship of pregnancy to the use of highly
+active antiretroviral therapy Am J Obstet Gynecol. 2001 May;184(6):1221-1227
+104
+Weller S, Davis K. Condom effectiveness in reducing heterosexual HIV transmission.
+Cochrane Database Syst Rev. 2002
+105
+de Vincenzi I. A longitudinal study of human immunodeficiency virus transmission by
+heterosexual partners. European Study Group on Hetero sexual Transmission of HIV.
+N Engl J Med. 1994 Aug 11;331(6):341-346
+106
+Deschamps MM, Pape JW, Hafner A, et al. Heterosexual transmission of HIV in Haiti.
+Ann Intern Med. 1996; 125(4):324-330
+107
+Trussell J. Contraceptive efficacy of the personal hormone monitoring system Persona.
+Br J Fam Plann. 1999 Jul;25(2):34-35
+108
+Kubba A, Guillebaud J, Anderson RA, et al. Contraception. Lancet. 2000 Dec
+2;356(9245):1913-1919.
+109
+Wang CC, McClelland RS, Overbaugh J, et al. The effect of hormonal contraception
+on genital tract shedding of HIV-1. AIDS. 2004 Jan 23;18(2):205-209.
+110
+Ouellet D, Hsu A, Qian Jet al. Effect of fluoxetine on pharmacokinetics of ritonavir.
+Antimicrob Agents Chemother. 1998 Dec;42(12):3107-3112.
+111
+Mildvan D, Yarrish R, Marshak A, et al. Pharmacokinetic interaction between nevirapine
+and ethinyl estradiol/norethindrone when administered concurrently to HIV-infected women.
+J Acquir Immune Defic Syndr. 2002 Apr 15;29(5):471-477
+112
+Clark RA, Theall KP. Trends and correlates of hormonal contraception use among HIVinfected women. J Acquir Immune Defic Syndr. 2004 Aug 1;36(4):986-988.
+113
+Richardson BA, Morrison CS, Sekadde-Kigondu C, et al. Effect of intrauterine device use
+on cervical shedding of HIV-1 DNA. AIDS. 1999 Oct 22;13(15):2091-2097.
+114
+Sinei SK, M’riara G, Schulz KF, et al. The prevalence of Neisseria gonorrhoea and
+Chlamydia trachomatis in intra-uterine contraceptive acceptors in Kenya. J Obstet
+Gynaecol East Cent Africa. 1988;7(2):71-73.
+115
+World health Organization (WHO). Department of Reproductive Health And Research.
+Selected practice recommendations for contraceptive use. 2nd ed. Geneva, WHO,
+2004. 170 p
+116
+Wilkinson D, Tholandi M, Ramjee G, et al. Nonoxynol-9 spermicide for prevention of
+vaginally acquired HIV and other sexually transmitted infections: systematic review
+and meta-analysis of randomised controlled trials including more than 5000 women.
+Lancet Infect Dis. 2002 Oct;2(10):613-617
+117
+Palella FJ Jr, Delaney KM, Moorman AC, et al. Declining morbidity and mortality among
+patients with advanced human immunodeficiency virus infection. HIV Out patient Study
+Investigators. N Engl J Med. 1998 Mar 26;338(13):853-860.
+118
+Schwarcz SK, Hsu LC, Vittinghoff E, et al. Impact of protease inhibitors and other
+antiretroviral treatments on acquired immunodeficiency syndrome survival in San
+Francisco, California, 1987-1996. Am J Epidemiol. 2000; 152(2):178-185
+Appendix 1
+ANTIRETROVIRAL DRUGS
+Nucleoside Analogue Reverse Transcriptase Inhibitors
+DRUG
+DOSAGE
+ADVERSE
+REACTIONS
+DRUG
+INTERACTIONS
+SPECIAL
+INSTRUCTIONS
+Zidovudine (ZDV)
+RETROVIR
+Preparations:
+Capsules: 100mg
+Concentrate for i.v.
+infusion/ injection:
+10mg/ml in 20ml
+vial
+300 mg bid
+i.v. dosage for
+intrapartum usage
+2mg /kg loading dose
+, then followed by
+1mg/kg per hour
+infusion until third
+stage of labour
+oral dosage for
+intrapartum usage -
+300mg 3 hourly and
+to be given during
+first stage of labour
+More common:
+Hematologic toxicity,
+including
+granulocytopenia
+and anemia (which
+may require
+transfusions),
+headache
+Less common (more
+severe): myopathy,
+myositis and liver
+toxicity.
+Rare:
+Lactic acidosis,
+severe
+hepatomegaly with
+steatosis (fatal
+cases)
+Avoid combination
+with stavudine
+(antagonism).
+Best on an empty
+stomach. Can take with
+a non-fatty meal to
+minimize nausea. Fatty
+food result in a 57%
+decrease in AZT
+concentrations
+Decrease dosage in
+severe renal impairment
+and
+significant hepatic
+dysfunction.
+Significant neutropenia
+or anemia may
+necessitate interruption
+of therapy until marrow
+recovery is observed;
+use of erythropoietin,
+filgrastim, or reduced
+ZDV dosage may be
+necessary.
+Lamivudine (3TC)
+EPIVIR
+Tablet:
+150mg
+150mg q12H or
+300mg once daily
+More common:
+Headache, fatigue,
+decreased appetite
+nausea, vomiting,
+diarrhea, skin rash
+and upper
+abdominal pain,
+Less common (more
+severe):
+Pancreatitis
+peripheral
+neuropathy, anemia,
+decreased
+neutrophil count,
+increased liver
+enzymes and
+lipodystrophy
+syndrome.
+Lactic acidosis and
+severe
+hepatomegaly with
+steatosis (fatal
+cases have been
+reported)
+When used with
+ZDV may prevent
+emergence of
+resistance.
+Can be given with or
+without food.
+Decreased dosage in
+patients with impaired
+renal function.
+Patients should be
+screened for HBV
+infection before starting
+therapy; exacerbation of
+hepatitis has been
+reported after
+discontinuation of 3TC
+Appendix 1
+Non-Nucleoside Reverse Transcriptase Inhibitors
+DRUG
+DOSAGE
+ADVERSE
+REACTIONS
+DRUG
+INTERACTIONS
+SPECIAL
+INSTRUCTIONS
+Nevirapine (NVP)
+VIRAMUNE
+Preparations:
+Tablets:
+200 mg
+200 mg q12H
+initiate therapy at
+half dose for the
+first 14 days.
+Increase to full
+dose if no rash or
+other untoward
+effects.
+More common:
+Skin rash, StevenJohnson syndrome,
+toxic epidermal
+necrolysis (some
+severe), fever,
+headache, nausea and
+abnormal liver function
+tests.
+Less common (more
+severe):
+Severe, life-threatening
+and rare cases fatal
+hepatotoxicity, including
+fulminant and
+cholestatic hepatitis,
+hepatic necrosis and
+hepatic failure (less
+common in children)
+Induces hepatic
+cytochrome PH50 3A
+(CYP3A); autoinduction of
+metabolism occurs in
+2-4 weeks with a 1.5-2
+times increase in
+clearance. Potential
+for multiple drug
+interactions.
+Before administration,
+the patients
+medication profile
+should be carefully
+reviewed for potential
+drug interactions.
+Can be given without
+regard to food.
+Patients experiencing
+rash during the 2-week
+lead in period should
+not have their NVP
+dose increased until
+the rash has resolved.
+If NVP dosing is
+interrupted for more
+than 7 days, NVP
+dosing should be
+restarted with once
+daily dosing for 14
+days, followed by
+escalation to the full
+twice daily regimen.
+Efavirenz
+STOCRIN
+Preparations:
+Tablets:
+200mg and 600mg
+600mg o.d.
+More comon:
+skin rash, increased
+transaminase levels,
+nausea, dizziness,
+diarrhea, headache,
+psychiatric symptons
+(hallucinations,
+confusion), agitation,
+vivid dreams.
+Inducer of CYP3A4
+Concentration of
+Efavirenz will be
+decreased with co
+administration of
+rifampicin
+To improve tolerability
+of central nervous
+system side effects,
+bedtimedosing
+recommended during
+the first 2-4 weeks.
+May be taken with or
+without food.
+Pregnancy should be
+avoided in woman.
+PROTEASE INHIBITOR
+Lopinavir/Ritonavir
+(LPV/r)
+Preparations:
+Soft gelatin capsule:
+Each contain
+Lopinavir 133.3 mg
+Ritonavir 33.3mg
+3 capsules twice
+daily during 2nd
+trimester and 4
+tab bd during 3rd
+trimester
+More common:
+Diarrhea, headache,
+asthenia, nausea and
+vomiting and rash , lipid
+abnormalities
+Less common (more
+common):
+lipodystrophy syndrome
+Rare:
+New onset of diabetes
+mellitus,
+hyperglycemia,
+ketoacidosis,
+exacerbation of preexisting diabetes
+mellitus, hemolytic
+anemia, pancreatitis,
+elevation in serum
+transaminases and
+hepatitis
+Contraindicated with
+amiodarone,
+piroxicam,
+astemizole/terfinadine,
+cisapride, alprazolam,
+midazolam,zolpidem
+LPV/RTV tablets can
+be administered
+without regard to food
+LPV/RTV oral solution
+should be administered
+with food. A high fat
+meal increases
+absorption, especially
+of the liquid
+preparation. Should be
+refrigerated and if kept
+at room temperature up
+to 25oC , used within 2
+months
+If coadministered with
+ddI, ddI should be
+given 1 hour before or
+2 hours after LPV/r
+3 capsule twice
+daily during
+pregnancy
+Appendix 2
+PNEUMOCYSTIS (CARINII) JIROVECI PNEUMONIA (PCP) PROPHYLAXIS
+DRUG
+DOSAGE
+ADVERSE
+REACTIONS
+DRUG
+INTERACTIONS
+SPECIAL
+INSTRUCTIONS
+Trimethoprim-
+Sulfamethoxazole
+(TMP/SMX)
+Preparations:
+Tablets
+400mg SMX and 80 mg
+TMP
+OR
+800mg SMX and 160
+mg TMP (double
+strength tablet)
+Therapeutic dosage
+is ‰ dosage of
+double strength
+tablet to be taken
+daily
+OR 2 tablets of
+400mg SMX and 80
+mg TMP to be taken
+daily
+SMX is associated
+with jaundice and
+haemolytic anaemia
+Used after 1st trimester
+because of potential
+teratogenicity of TMP
+If have to be prescribed
+in the first trimester
+then folic acid
+supplement should be
+given
+Should be discontinued
+(unless medically
+indicated) 2-4 weeks
+before planned delivery
+1-2 tablets of
+400mg SMX and
+80mg TMP to be
+taken daily
+OR
+1 tablet of 800mg
+SMX and 160mg
+TMP to be taken
+once daily.
+Appendix 3
+WHO CLINICAL STAGING / AIDS FOR ADULTS AND ADOLESCENTS WITH
+CONFIRMED HIV INFECTION i
+Source : World Health Organisation, WHO Definations of HIV Surveillance and
+Revised Clinical Staging and Immunological Classification of HIV related disease
+in Adults and Children 2007
+Clinical stage 1
+Asymptomatic
+Persistent generalized lymphadenophathy
+Clinical stage 2
+Moderate unexplained weight loss (<10% of presumed or measured body weight)i
+Recurrent respiratory tract infections sinusitis, tonsillitis, otitis media and
+pharyngitis)
+Herpes zoster
+Angular cheilitis
+Recurrent oral ulceration
+Papular pruritic eruptions
+Seborrhoeic dermatitis
+Fungal nail infections
+Clinical stage 3
+Unexplainedii severe weight loss (>10% of presumed or measured body weight)
+Unexplained chronic diarrhoea for longer than one month
+Unexplained persistent fever (above 37.6°C intermittent or constant,for longer
+than one month)
+Persistent oral candidiasis
+Oral hairy leukoplakia
+Pulmonary tuberculosis (current)
+Severe bacterial infections (such as pneumonia, empyema, pyomyositis, bone or
+joint infection, meningitis or bacteraemia)
+Acute necrotizing ulcerative stomatitis, gingivitis or periodontitis
+Unexplained anaemia (<8 g/dl), neutropaenia (<0.5 × 109 per litre)or chronic
+thrombocytopaenia (<50 × 109 per litre)
+i. Asessment of body weight in pregnant woman needs to consider the expected weight gain of pregnancy.
+ii. Unexplained refers to where the condition is not explained by other causes.
+Appendix 3
+WHO CLINICAL STAGING /AIDS FOR ADULTS AND ADOLESCENTS WITH
+CONFIRMED HIV INFECTION
+Clinical stage 4iii
+HIV wasting syndrome
+Pneumocystis pneumonia
+Recurrent severe bacterial pneumonia
+Chronic herpes simplex infection (orolabial, genital or anorectal of more than one
+month’s duration or visceral at any site)
+Oesophageal candidiasis (or candidiasis of trachea, bronchi or lungs)
+Extrapulmonary tuberculosis
+Kaposi’s sarcoma
+Cytomegalovirus infection (retinitis or infection of other organs)
+Central nervous system toxoplasmosis
+HIV encephalopathy
+Extrapulmonary cryptococcosis including meningitis
+Disseminated non-tuberculous mycobacterial infection
+Progressive multifocal leukoencephalopathy
+Chronic cryptosporidiosis (with diarrhea)
+Chronic isosporiasis
+Disseminated mycosis (coccidiomycosis or histoplasmosis)
+Recurrent non-typhoidal Salmonella bacteraemia
+Lymphoma (cerebral or B-cell non-Hodgkin) or other solid HIV-associated tumours
+Invasive cervical carcinoma
+Atypical disseminated leishmaniasis
+Symptomatic HIV-associated nephropathy or symptomatic HIV-associated
+cardiomyopathy
+iii
+Some additional specific conditions can also be included in regional classification (Such as reactivation of American
+trypanosomiasis [ meningoencephalitis and / or myocarditis ] in the WHO Region of America and disseminated
+penicilliosis in Asia.
+LIST OF ABBREVIATIONS
+Abbreviations
+Generic name
+3TC
+Lamivudine
+ZDV
+Zidovudine
+EFV
+Efavirenz
+NVP
+Nevirapine
+TMP/SMX
+Trimethoprim-Sulfamethoxazole
+AZT + 3TC
+Zidovudine + Lamivudine
+MISCELLANEOUS ABBREVIATION
+AIDS
+Acquired immunodeficiency syndrome
+ARV
+Antiretroviral
+HIV
+Human immunodeficiency virus
+HAART
+Highly Active Anti-Retroviral Therapy
+MTCT
+Mother-to-child transmission of HIV
+PMTCT
+Prevention of mother-to-child transmission of HIV
+NNRTI
+Non-nucleoside reverse transcriptase inhibitors
+NRTI
+Nucleoside reverse transcriptase inhibitors
+PI
+Protease inhibitor
+PCP
+Pneumocyitis (carinii) jiroveci Pneumonia
+STD
+Sexually Transmitted Diseases
+ACKNOWLEDGEMENT
+The committee of this guideline would like to express their gratitude and
+appreciation to the following for their contributions:
+• Panel of external reviewers who reviewed the draft form
+• Dr Salmah Idris, Virologist from Hospital Sungai Buloh for her input
+• Technical Advisory Committee for Clinical Practice Guidelines for
+their valuable input and feedback
+• Datin Dr. Rugayah Bakri, Head of Health Technology Assessment
+Unit, Medical Development Division, Ministry of Health Malaysia.
+DISCLOSURE STATEMENT
+The panel members have no potential conflict of interest to disclose. None
+hold shares in pharmaceutical firms or acts as consultants to such firms.
+(Details are available upon request from the CPG Secretariat).
+SOURCES OF FUNDING
+The development of the CPG on Management of HIV Pregnant Women was
+supported financially in its entirety by the Ministry of Health Malaysia and
+was developed without any involvement of the pharmaceutical industry.
+a
+ie
+7] ea i oe enon ie
+‘By ASSESSMENT &BESEARON, OMAR) SPAN

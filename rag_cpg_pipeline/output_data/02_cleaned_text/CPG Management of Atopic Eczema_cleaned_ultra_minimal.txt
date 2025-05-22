@@ -1,0 +1,2929 @@
+CLINICAL PRACTICE GUIDELINES.
+2018 MOHPPAKS3.18(6U)
+MANAGEMENT OF
+ATOPIC ECZEMA
+Management of Atopic Eczema
+Published by:
+Malaysian Health Technology Assessment Section (MaHTAS)
+Medical Development Division, Ministry of Health Malaysia
+Level 4, Block E1, Precinct 1
+Federal Government Administrative Centre 62590
+Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is MaHTAS. Content may be
+reproduced in any number of copies and in any format or medium
+provided that a copyright acknowledgement to MaHTAS is included and
+the content is not changed, not sold, nor used to promote or endorse
+any product or service, and not used in an inappropriate or misleading
+context.
+ISBN: 978-967-2173-29-8
+Available on the following websites:
+http://www.moh.gov.my
+http://www.acadmed.org.my
+http://www.dermatology.org.my
+Also available as an app for Android and IOS platform: MyMaHTAS
+STATEMENT OF INTENT
+These clinical practice guidelines (CPG) are meant to be guides for
+clinical practice, based on the best available evidence at the time of
+development. Adherence to these guidelines may not necessarily
+guarantee the best outcome in every case. Every healthcare provider is
+responsible for the management of his/her unique patient based on the
+clinical picture presented by the patient and the management options
+available locally.
+Management of Atopic Eczema
+UPDATING THE CPG
+These guidelines were issued in 2018 and will be reviewed in a
+minimum period of four years (2022) or sooner if new evidence becomes
+available. When it is due for updating, the Chairperson of the CPG or
+National Advisor of the related specialty will be informed about it. A
+discussion will be done on the need for a revision including the scope of
+the revised CPG. A multidisciplinary team will be formed and the latest
+systematic review methodology used by MaHTAS will be employed.
+Every care is taken to ensure that this publication is correct in every
+detail at the time of publication. However, in the event of errors or
+omissions, corrections will be published in the web version of this
+document, which is the definitive version at all times. This version can
+be found on the websites mentioned above.
+Management of Atopic Eczema
+TABLE OF CONTENTS
+No.
+Title
+Page
+Levels of Evidence and Grading Recommendations,
+i
+Assessment, Development and Evaluation
+Key Recommendations
+ii
+Guidelines Development and Objectives
+iii
+Development Group
+v
+Review Committee
+vi
+External Reviewers
+vii
+Algorithm 1. Management of Atopic Eczema in
+Primary Care
+viii
+Algorithm 2. Treatment of Atopic Eczema
+ix
+1.
+INTRODUCTION
+1
+2.
+DIAGNOSIS
+3
+2.1 Diagnostic criteria
+3
+2.2 Supportive investigations
+3
+3.
+SEVERITY ASSESSMENT
+4
+4.
+CO-MORBIDITIES
+4
+5.
+AGGRAVATING/TRIGGERING FACTORS
+7
+5.1 Aeroallergen
+7
+5.2 Physical Irritants
+7
+5.3 Environmental Factors
+7
+5.4 Food
+8
+5.5 Microbial Colonisation/Infection
+8
+5.6 Patient Factors
+8
+6.
+TOPICAL THERAPY
+9
+6.1 Emollient/Moisturiser
+9
+6.2 Topical Corticosteroids
+11
+6.3 Topical Calcineurin Inhibitors
+13
+6.4 Wet Wrap Therapy
+14
+6.5 Other Topical Therapy
+15
+7.
+PHOTOTHERAPY
+Management of Atopic Eczema
+TABLE OF CONTENTS
+No.
+Title
+Page
+8.
+SYSTEMIC THERAPY
+17
+8.1 Antihistamines
+17
+8.2 Immunomodulating Agents
+17
+8.3 Biologics
+20
+8.4 Other Systemic Agents
+22
+9.
+ANTIMICROBIALS
+23
+9.1 Topical Antibiotics Combined with Corticosteroids
+23
+9.2 Systemic Antibiotics
+23
+9.3 Sodium Hypochlorite 0.005% (Bleach Bath)
+23
+9.4 Other Antiseptics
+24
+10.
+SPECIFIC ALLERGEN IMMUNOTHERAPY
+25
+11.
+NON-PHARMACOLOGICAL INTERVENTIONS
+26
+11.1 Bathing Practices
+26
+11.2 Dietary Interventions
+26
+11.3 Educational and Psychological Interventions
+28
+12.
+TRADITIONAL AND COMPLEMENTARY MEDICINE
+30
+12.1 Herbal and Food Supplementation
+30
+12.2 Topical Oils and Massage Therapy
+31
+12.3 Acupuncture
+31
+12.4 Balneotherapy
+31
+12.5 Homeopathy
+32
+13.
+REFERRAL
+33
+14.
+IMPLEMENTING THE GUIDELINES
+34
+14.1 Facilitating and Limiting Factors
+34
+14.2 Potential Resource Implications
+34
+14.
+REFERENCES
+35
+Appendix 1 Example of Search Strategy
+40
+Appendix 2 Clinical Questions
+41
+Appendix 3 Guidelines for the Diagnosis of
+43
+Atopic Dermatitis (Hanifin and Rajka
+Criteria)
+Appendix 4 Investigator’s Global Assessment (IGA)
+44
+Appendix 5 Dermatology Life Quality Index
+45
+Appendix 6 Children Dernatology Life Quality Index
+46
+Appendix 7 Topical Corticosteroids Class & Potency
+47
+(UK Classification)
+Management of Atopic Eczema
+TABLE OF CONTENTS
+No.
+Title
+Page
+Appendix 8 Fingertip Unit
+48
+Appendix 9 Six Steps of Wet Wrap Therapy
+49
+Appendix 10 Written Eczema Action Plan
+50
+Appendix 11 Recommended Medication Dosing,
+51
+Side Effects and Contraindications for
+Commonly Used Medications in
+Atopic Eczema
+List of Abbreviations
+56
+Acknowledgement
+57
+Disclosure Statement
+57
+Source of Funding
+Management of Atopic Eczema
+i
+LEVELS OF EVIDENCE
+SOURCE: US / CANADIAN PREVENTIVE SERVICES TASK FORCE 2001
+FORMULATION OF RECOMMENDATION
+In line with new development in CPG methodology, the CPG Unit of
+MaHTAS is in the process of adapting Grading Recommendations,
+Assessment, Development and Evaluation (GRADE) in its
+work process. The quality of each retrieved evidence and its effect
+size are carefully assessed/reviewed by the CPG Development
+Group. In formulating the recommendations, overall balances of the
+following aspects are considered in determining the strength of the
+recommendations:-
+• overall quality of evidence
+• balance of benefits versus harms
+• values and preferences
+• resource implications
+• equity, feasibility and acceptability
+Level
+I
+II-1
+II-2
+II-3
+III
+Study design
+Evidence from at least one properly randomised controlled trial
+Evidence obtained from well-designed controlled trials without
+randomisation
+Evidence obtained from well-designed cohort or case-control
+analytic studies, preferably from more than one centre or
+group
+Evidence from multiple time series with or without intervention.
+Dramatic results in uncontrolled experiments (such as the
+results of the introduction of penicillin treatment in the 1940s)
+could also be regarded as this type of evidence
+Opinions of respected authorities based on clinical experience;
+descriptive studies and case reports; or reports of expert
+committees
+Management of Atopic Eczema
+ii
+KEY RECOMMENDATIONS
+The following recommendations are highlighted by the CPG
+Development Group as the key recommendations that answer the
+main questions addressed in the CPG and should be prioritised for
+implementation.
+• Serum immunoglobulin E levels, skin prick test, patch test and skin
+biopsy, should not be used as diagnostic tools for atopic eczema.
+• Assessment of disease severity and quality of life should be used in
+the management of atopic eczema.
+• Emollient therapy is the mainstay of management at any stage of
+atopic eczema.
+• Topical corticosteroids (TCS) should be used to treat flares in atopic
+eczema (AE).
+• The choice of TCS in AE depends on the:
+ age of the patient
+ location of skin lesions
+ severity of skin inflammation
+• Topical calcineurin inhibitors may be considered for atopic eczema
+patients aged two years and above.
+• Ultraviolet A1 may be used to control acute flares in atopic eczema
+(AE).
+• Narrow-band ultraviolet B may be offered in moderate to severe
+chronic AE.
+• Systemic corticosteroids may be considered for short-term control of
+severe acute exacerbation of atopic eczema (AE).
+• Azathioprine, cyclosporin A, methotrexate or mycophenolate may
+be used in the treatment of severe AE after optimisation of topical
+treatment.
+• Educational interventions should be considered as part of the
+management of atopic eczema.
+Management of Atopic Eczema
+iii
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+GUIDELINES DEVELOPMENT
+The members of the Development Group (DG) for these Clinical Practice
+Guidelines (CPG) were from the Ministry of Health (MoH) and Ministry
+of Education. There was active involvement of a multidisciplinary
+Review Committee (RC) during the process of the CPG development.
+A systematic literature search was carried out using the electronic
+databases, mainly Medline via Ovid and Cochrane Database of Systemic
+Reviews, and others e.g. Pubmed and Guidelines International Network
+(refer to Appendix 1 for Example of Search Strategy). The search
+was limited to literature published in the last ten years, on humans and
+in English. In addition, the reference lists of all retrieved literature and
+guidelines were searched to further identify relevant studies. Experts
+in the field were also contacted to identify further studies. All searches
+were conducted from 22 September 2015 to 20 Jun 2017. Literature
+searches were repeated for all clinical questions at the end of the CPG
+development process allowing any relevant papers published before
+31 December 2017 to be included. Future CPG updates will consider
+evidence published after this cut-off date. The details of the search
+strategy can be obtained upon request from the CPG Secretariat.
+References were also made to other CPGs on atopic eczema e.g.:
+• Management of atopic eczema in primary care (Scottish Intercollegiate
+Guidelines Network, 2011)
+• Atopic eczema in children: management of atopic eczema in children
+from birth up to the age of 12 years (National Collaborating Centre
+for Women’s and Children’s Health, 2007)
+• Guidelines of care for atopic dermatitis (Journal of American
+Academy of Dermatology, 2014)
+The CPGs were evaluated using the Appraisal of Guidelines for
+Research and Evaluation (AGREE) II prior to them being used as
+references.
+A total of 13 clinical questions were developed under different sections.
+Members of the DG were assigned individual questions within these
+sections (refer to Appendix 2 for Clinical Questions). The DG
+members met 19 times throughout the development of these guidelines.
+All literature retrieved were appraised by at least two DG members using
+Critical Appraisal Skill Programme checklist, presented in evidence
+tables and further discussed in each DG meetings. All statements and
+recommendations formulated after that were agreed upon by both the
+DG and RC. Where evidence was insufficient, the recommendations
+were made by consensus of the DG and RC. This CPG is based largely
+Management of Atopic Eczema
+on the findings of systematic reviews, meta-analyses and clinical trials,
+with local practices taken into consideration.
+The literature used in these guidelines were graded using the US/
+Canadian Preventive Services Task Force Level of Evidence (2001),
+while the grading of recommendation was done using the principles of
+GRADE (refer to the preceding page). The writing of the CPG follows
+strictly the requirement of AGREE II.
+On completion, the draft of the CPG was reviewed by external
+reviewers. It was also posted on the MoH Malaysia official website for
+feedback from any interested parties. The draft was finally presented
+to the Technical Advisory Committee for CPG, and the HTA and CPG
+Council MoH Malaysia for review and approval. Details on the CPG
+development methodology by MaHTAS can be obtained from Manual
+on Development and Implementation of Evidence-based Clinical
+Practice Guidelines published in 2015 (available at http://www.moh.
+gov.my/ index.php/pages/view/117).
+Management of Atopic Eczema
+v
+OBJECTIVES
+To provide evidence-based recommendations in the management of
+atopic eczema on the following aspects:
+• diagnosis and severity assessment
+• treatment
+• referral
+CLINICAL QUESTIONS
+Refer to Appendix 2
+TARGET POPULATION
+Inclusion Criteria
+• All patients with atopic eczema
+Exclusion Criteria
+• Other types of endogenous and exogenous eczema
+• Congenital syndromic disorders
+• Immunodeficiency disorders
+• Inborn errors of metabolism
+TARGET GROUP/USERS
+This document is intended to guide those involved in the management
+of atopic eczema at any healthcare level including:
+i. Doctors
+ii. Allied health professionals
+iii. Trainees and medical students
+iv. Patients and their advocates
+v. Professional societies
+HEALTHCARE SETTINGS
+Primary and secondary/tertiary care settings
+Management of Atopic Eczema
+vi
+DEVELOPMENT GROUP
+Chairperson
+Dato’ Dr. Noor Zalmy Azizan
+Consultant Dermatologist
+Hospital Kuala Lumpur, Kuala Lumpur
+Members (alphabetical order)
+Dr. Ainol Haniza Kherul Anuwar
+Principal Assistant Director
+MaHTAS, Ministry of Health Malaysia
+Putrajaya
+Dr. Azura Mohd Affandi
+Consultant Dermatologist
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Ch’ng Chin Chwen
+Senior Lecturer & Dermatologist
+Pusat Perubatan Universiti Malaya
+Kuala Lumpur
+Dr. Dawn Ambrose
+Consultant Dermatologist
+Hospital Ampang, Selangor
+Dr. Heah Sheau Szu
+Paediatric Dermatologist
+Hospital Kuala Lumpur
+Kuala Lumpur
+Dr. Khor Yek Huan
+Consultant Dermatologist
+Hospital Pulau Pinang, Pulau Pinang
+Dr. Lalitha Pillay B. Gopinathan
+Paediatrician
+Hospital Selayang, Selangor
+Mr. Leow Wooi Leong
+Pharmacist
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Mohd Aminuddin Mohd Yusof
+Head of CPG Unit & Public Health Physician
+MaHTAS, Ministry of Health Malaysia
+Putrajaya
+Dr. Sabeera Begum
+Consultant Paediatric Dermatologist
+Hospital Kuala Lumpur, Kuala Lumpur
+Ms. Siti Mariam Tukimin
+Dietitian
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Siti Shafiatun Mohsin
+Family Medicine Specialist
+Klinik Kesihatan Cheras, Kuala Lumpur
+Dr. Tan Wooi Chiang
+Consultant Dermatologist
+Hospital Pulau Pinang, Pulau Pinang
+Dr. Tarita Taib
+Lecturer & Consultant Dermatologist
+Faculty of Medicine
+Universiti Teknologi Mara, Selangor
+Dr. Wong Ping Foo
+Family Medicine Specialist
+Klinik Kesihatan Cheras Baru, Kuala Lumpur
+Ms. Zaridah Zainuri
+Dietitian
+Hospital Kuala Lumpur, Kuala Lumpur
+Management of Atopic Eczema
+vii
+REVIEW COMMITTEE
+The draft guidelines were reviewed by a panel of experts from both
+public and private sectors. They were asked to comment primarily on
+the comprehensiveness and accuracy of the interpretation of evidence
+supporting the recommendations in the guidelines.
+Chairperson
+Datin Dr. Asmah Johar
+Senior Consultant Dermatologist
+Hospital Kuala Lumpur, Kuala Lumpur
+Members
+Associate Professor Dr. Adawiyah Jamil
+Consultant Dermatologist
+Pusat Perubatan Universiti Kebangsaan Malaysia, Kuala Lumpur
+Dr. Chang Choong Chor
+Consultant Dermatologist
+CC Chang Skin Specialist, Kuala Lumpur
+Ms. Nor Hasni Haron
+Senior Principal Assistant Director
+Pharmaceutical Services Programme, Ministry of Health
+Associate Professor Dr. Hazreen Abdul Majid
+Senior Consultant Dietitian
+Faculty of Medicine, University of Malaya, Kuala Lumpur
+Dr. Henry Foong Boon Bee
+Senior Consultant Dermatologist
+Foong Skin Specialist Clinic, Perak
+Dr. Junainah Sabirin
+Deputy Director
+MaHTAS, Ministry of Health, Putrajaya
+Dr. Leong Kin Fon
+Consultant Paediatric Dermatologist
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Vickneswary Ayadurai
+Consultant Family Medicine Specialist
+Klinik Kesihatan Taman Medan, Selangor
+Management of Atopic Eczema
+viii
+EXTERNAL REVIEWERS (in alphabetical order)
+The following external reviewers provided feedback on the draft:
+Dr. Fauziah Ab. Ghani
+General Practitioner
+Klinik Dr. Fauziah, Selangor
+Ms. Kamarunnesa Mokhtar Ahmad
+Chief Pharmacist
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Lee Kam Pong
+Family Physician
+Chye Clinic, Kuala Lumpur
+Adjunct Associate Professor Dr. Mark Koh Jean Aan
+Head & Senior Consultant, Dermatology Service
+KK Women’s and Children’s Hospital, Singapore
+Dr. Rataporn Ungpakorn
+Consultant Dermatologist
+Bumrungard International Hospital, Thailand
+Dr. Srie Prihianti Gondokaryono
+Head of Indonesian Paediatric Dermatology Study Group
+Indonesian Society of Dermatology and Venereology, Indonesia
+Datin Dr. Zil Falillah Mohd Said
+National Head of Service & Consultant Family Medicine Specialist
+Klinik Kesihatan Al-Muktafi Billah Shah, Terengganu
+Management of Atopic Eczema
+ix
+ALGORITHM 1. MANAGEMENT OF ATOPIC ECZEMA
+IN PRIMARY CARE
+Investigator’s Global Assessment
+IGA
+: Investigators’ Global Assessment
+QoL
+: Quality of life
+DLQI : Dermatology Life Quality Index
+CDLQI: Children’s Dermatology Life Quality Index
+SEVERITY ASSESSMENT
+CLEAR TO MILD
+IGA score: 0 to 2
+ATOPIC ECZEMA PATIENT PRESENTING TO
+PRIMARY CARE
+MODERATE
+IGA score: 3
+SEVERE TO VERY SEVERE
+IGA score: 4 to 5
+REFER
+DERMATOLOGY
+SERVICE
+DLQI/CDLQI >10
+DLQI/CDLQI ≤10
+NO
+YES
+TREATMENT
+Refer Algorithm 2
+RESPONSE
+QoL
+CONTINUE
+TREATMENT
+Score
+Description
+0 = Clear
+1 = Almost clear
+2 = Mild disease
+3 = Moderate disease
+4 = Severe disease
+5 = Very severe disease
+No inflammatory signs of atopic eczema
+Just perceptible erythema, and just perceptible
+papulation/infiltration
+Mild erythema, and mild papulation/infiltration
+Moderate erythema, and moderate papulation/infiltration
+Severe erythema, and severe papulation/infiltration
+Severe erythema, and severe papulation/infiltration with
+oozing/crusting
+Management of Atopic Eczema
+x
+ALGORITHM 2. TREATMENT OF ATOPIC ECZEMA
+Step 4
+Step 3
+Step 1
+Step 2
+Improvement of AE
+Worsening of AE
+• TCS (moderate to very
+potent) or TCI
+• Wet wrap therapy
+• Phototherapy
+• Systemic therapy:
+o Oral corticosteroids
+(short-term)
+o Azathioprine
+o Cyclosporin A
+o Methotrexate
+o Mycophenolate mofetil
+• TCS (moderate)
+or TCI
+• Wet wrap
+therapy
+• Phototherapy
+• TCS (mild) or
+TCI
+• Skin care
+o Emollients
+o Bathing practices
+• Educational intervention
+• Identification and management of aggravating factors
+4 to 5
+Severe to
+Very severe
+3
+Moderate
+2
+Mild
+0 to 1
+Clear to
+Almost clear
+IGA score:
+Severity:
+Adjunct therapy:
+• Topical/oral antibiotics/antiviral/antifungal
+for bacterial, viral or fungal infections
+• Oral sedating antihistamines for sleep
+disturbance
+• Topical antiseptics to reduce
+Staphylococcus aureus colonisation
+• Psychological intervention
+IGA: Investigators’ Global Assessment; TCS: Topical corticosteroids; TCI: Topical calcineurin inhibitors
+Management of Atopic Eczema
+Management of Atopic Eczema
+1. INTRODUCTION
+Atopic eczema (AE) or atopic dermatitis is a complex, chronic and
+recurrent inflammatory itchy skin disorder. This is the commonest type
+of endogenous eczema. In majority of cases, AE starts to develop in
+early childhood and may persist into adulthood. The prevalence of AE
+can be as high as 20% in some countries and this continues to rise
+affecting not only developed but also developing low-income countries.
+According to International Study of Asthma and Allergies in Childhood
+(ISAAC), the 12-month prevalence of AE among Malaysian children
+has risen from 9.5% in ISAAC-1 (1994 - 1995) to 12.6% in ISAAC-3
+(2002 - 2003), with an increase of 0.49% yearly.1 AE can present with
+various clinical manifestations according to different age groups. This
+makes the diagnosis of AE a challenge, leading to misdiagnosis and
+mistreatment. AE significantly impacts the financial and psychosocial
+well-being of the patients and families. The direct healthcare cost
+for a child with AE in developing countries (Malaysia, Indonesia
+and Philippines) has been estimated to range from USD199 to
+USD743.2 The psychosocial impact on the children with AE and their
+families is as great as children with diabetes. Therefore, it is paramount
+to have an effective and safe treatment of AE.3
+AE is typically an episodic disease of flares and remission. However,
+it may be continuous in some patients. A multicentre allergy study
+done in Germany, involving 1314 children from birth to seven years
+old, showed 43.2% of cases went into complete remission by three
+years of age, 38.3% had an intermittent pattern of disease and
+18.7% had symptoms of AE every year.4 The disease is caused by
+complex interactions of genetic predispositions, environmental triggers
+and immune dysregulation leading to epidermal barrier defect. The
+defect in epidermal barrier may be caused by genetic alterations in
+the filaggrin gene. Based on a study done in Singapore, 20.2% of AE
+patients cohort carried at least one filaggrin-null mutation compared
+with 7.3% of the control population.5 Besides genetic determination,
+the epidermal barrier function also depends on the immune system. It
+has been demonstrated that T-helper 2 cytokines such as interleukin-4
+inhibit the expression of filaggrin and S100 proteins and thus impair
+the epidermal barrier. Mechanical (e.g. scratching) or physical (e.g.
+hot water, ultraviolet exposure, sweating) irritation further weakens
+the epidermal barrier. With the breakdown of skin barrier, affected skin
+is more susceptible to trigger factors including irritants and allergens,
+which can further aggravate AE.6
+Clinically, AE has both acute and chronic presentations. Acute eczema
+is characterised by papulo-vesicular eruption with erythema, weeping,
+oedema and excoriation. Whereas chronic eczema is characterised by
+Management of Atopic Eczema
+lichenification and dry skin (xerosis). The choice of treatment depends
+on the clinical presentation of AE.
+The aim of this CPG is to provide an evidence-based guidance for all
+physicians and other healthcare providers in the management of AE.
+Management of Atopic Eczema
+2. DIAGNOSIS
+2.1 Diagnostic Criteria
+AE is diagnosed clinically. In a systematic review, the most extensively
+validated diagnostic tools were ‘U.K. Working Party’s Diagnostic Criteria’
+(refer to yellow box below) and ‘Hanifin and Rajka Diagnostic Criteria’
+(refer to Appendix 3). The former had a sensitivity and specificity as
+high as 100% and 99% respectively. While the later had a sensitivity
+and specificity of 96% and 93.8% respectively.7, level Ill
+In the local setting, the most commonly used diagnostic tool is U.K.
+Working Party’s Diagnostic Criteria.
+• The U.K. Working Party’s Diagnostic Criteria for Atopic
+Dermatitis:8, level III
+Patient must have an itchy skin condition (or parental report of
+scratching or rubbing in a child) plus three or more of the following:
+○ history of involvement of the skin creases such as folds of elbows,
+behind the knees, fronts of ankles or around the neck (including
+cheeks in children under 10 years old)
+○ a personal history of asthma or hay fever (or history of atopic
+disease in a first-degree relative in children under four years old)
+○ a history of a general dry skin in the last year
+○ visible flexural eczema (or eczema involving the cheeks/forehead
+and outer limbs in children under four years old)
+○ onset under the age of two (not used if child is under four years old)
+2.2 Investigations
+There is no specific laboratory investigation to confirm the diagnosis
+of AE. A systematic review found lack of evidence to suggest the
+use of specific immunoglobulin E (IgE) in supporting the diagnosis
+of AE.9, level III Skin prick test and patch test are only useful to exclude
+concomitant environmental and food allergies, and contact dermatitis
+respectively. Skin biopsy is sometimes used to exclude other AE
+mimickers.
+Recommendation 1
+• Serum immunoglobulin E levels, skin prick test, patch test and skin
+biopsy, should not be used as diagnostic tools for AE.
+Management of Atopic Eczema
+3.
+SEVERITY ASSESSMENT
+There are numerous tools used to assess and score disease severity of AE.
+A systematic review of 382 randomised control trials (RCTs) showed
+the commonly used tools in descending order were:10, level I
+• SCORing Atopic Dermatitis (SCORAD)
+• Eczema Area and Severity Index (EASI)
+• Investigators’ Global Assessment (IGA)
+• Six Area, Six Signs Atopic Dermatitis (SASSAD)
+• Others [e.g. Patient-Orientated Eczema Measure (POEM)]
+Scoring tools most extensively validated are SCORAD, EASI, SASSAD
+and POEM11, level III Patient-oriented SCORAD (PO-SCORAD) is a
+simplified version of SCORAD. It correlates well with SCORAD index
+and POEM (r≥0.70).12, level II-2
+The above-mentioned scoring tools are mainly used for research
+purposes. For clinical purposes, the CPG development group advocates
+the use of IGA to assess severity of AE (refer to Appendix 4).
+Quality of Life (QoL) assessment is important in the management of
+AE. The most commonly validated tools used are:10, level I
+• Dermatology Life Quality Index (DLQI) (refer to Appendix 5)
+• Children’s Dermatology Life Quality Index (CDLQI) (refer to
+Appendix 6)
+• Infant’s Dermatology Quality of Life Index (IDQOL)
+• Dermatitis Family Impact (DFI).
+Recommendation 2
+• Assessment of disease severity and quality of life should be used in
+the management of atopic eczema. The preferred tools are:
+○ Investigator’s Global Assessment
+○ Dermatology Life Quality Index/Children’s Dermatology Life
+Quality Index
+Management of Atopic Eczema
+4.
+CO-MORBIDITIES
+The impact of AE often extends beyond the skin. Several co-morbidities
+are found to be associated with AE.
+4.1 Skin Infection
+Eczematous skin is prone to secondary infection. A population-based
+study of school children in Japan confirmed that children with AE had an
+increased risk of developing impetigo. The risk due to staphylococcal
+and streptococcal infection among them was 1.80 (95% CI 1.16 to 2.80)
+compared with non-AE children. There was no association between
+AE and molluscum or herpes infections.13, level III However, eczema
+herpeticum should be suspected in patients with rapidly deteriorating
+AE.14
+4.2 Atopy
+On average, one in three children with AE develop asthma at six years
+and older.15, level II-2 There is an association with allergic rhinitis
+(OR=3.4, 95% CI 1.3 to 9.0) especially in the early-onset persistent AE
+patients.16, level II-2
+4.3 Contact Dermatitis
+In daily clinical practice, AE patients are observed to be susceptible
+to develop contact dermatitis.17, level II-2 However, a recent metaanalysis showed no significant correlation between AE and contact
+sensitisation.18, level I
+4.4 Food Allergy
+AE is also associated with food allergy (OR=13.4, 95% CI 2.9 to
+61.4) especially in the early-onset persistent AE patients.16, level II-2 In
+a systematic review of low quality on the association of AE and food
+allergy in adolescence and adults, the prevalence of allergy to wheat
+was only 4.5%, egg 6.1% and cow’s milk 0.6%.19, level II-2 Unpublished
+local data on food sensitisation in children with AE showed similar
+findings on egg, cow’s milk and peanut.20, level I
+4.5 Cardiovascular Disease
+A chronic inflammatory disease like AE is associated with cardiovascular
+disease. There are modest associations between severe AE and angina
+pectoris (RR=1.17, 95% CI 1.12 to 1.23), hypertension (RR=1.04,
+95% CI 1.02 to 1.06) and peripheral arterial disease (RR=1.15, 95%
+CI 1.11 to 1.19) but no association with myocardial infarction and
+Management of Atopic Eczema
+stroke.21, level II-2 There is also an increased risk of AE among the
+overweight (OR=1.27, 95% CI 1.19 to 1.36) and obese (OR=1.42,
+95% CI 1.34 to 1.50) compared with normal weight adults and
+children.22, level III
+4.6 Psychological and Psychosocial Dysfunction
+Children with AE may demonstrate psychological and psychosocial
+dysfunction. There is independent association between AE and
+attention deficit hyperactivity disorder (OR=1.47, 95% CI 1.01 to
+2.15). Prevalence of schizophrenia and affective disorders are also
+higher in AE compared with control (1.2% vs 0.5% and 7.7% vs 4.5%
+respectively).23, level II-2
+Prevalence of AE is increased with exposure to active and passive
+smoking. However, it is not associated with maternal smoking during
+pregnancy.24, level II-2
+• Co-morbidities e.g. skin infection, atopic disease, food allergy,
+cardiovascular disease, psychological and psychosocial dysfunction
+may co-exist in AE.
+Management of Atopic Eczema
+5.
+AGGRAVATING/TRIGGERING FACTORS
+There are many potential aggravating factors which can worsen flares
+in AE, either independently or in combination. Potential aggravating/
+triggering factors include the following:
+• aeroallergen
+• physical irritants
+• environmental factors
+• food
+• microbial colonisation/infection
+• patient factors (e.g. pregnancy)
+5.1 Aeroallergen
+House dust worsens itch in AE.25, level III
+Severity of skin symptoms is associated with indoor house dust mites
+levels (p<0.05).26, level III The association of HDM sensitisation and AE
+severity is inconclusive.26 - 27, level III
+Grass pollen does not worsen itch in AE.25, level III
+Unfamiliar pets (not own pets) worsen itch in AE.25, level III
+5.2 Physical Irritants
+Nylon or wool clothing worsens itch in AE.25, level III
+Irritants such as soaps, detergents, disinfectants and many chemical
+reagents may worsen flares in AE. Chemicals (e.g. shampoo exposure)
+and natural irritants (e.g. sweat) worsen itch.25, level III
+5.3 Environmental Factors
+Environmental factors such as climate and air pollution (indoor and
+outdoor) can trigger AE.
+Warm and high sun exposures are associated with poorly controlled
+disease. There is no association with humidity.28, level III
+There is an increased mean daily AE symptoms after moving into a
+newly painted building with natural ventilation (p<0.001).29, level III
+Outdoor air pollution is significantly associated with AE symptoms
+(p<0.05).30, level II-2
+Management of Atopic Eczema
+5.4 Food
+The influence of food allergy on the clinical course of AE remains
+unclear.31 On the other hand, a diagnosis of food allergy should be
+considered in children with AE who have reacted previously to a
+food with immediate symptoms, or in infants and young children with
+moderate to severe AE that has not been controlled by optimum
+management.32 Food may worsen AE in children less than two years
+old especially milk, egg and peanuts.
+5.5 Microbial Colonisation/Infection
+In AE patients, the combination of genetic predisposition for dysfunction
+in skin barrier and immune responses lead to higher frequency of
+bacterial and viral infections such as eczema herpeticum, eczema
+coxsackium and eczema vaccinatum. Studies have shown that the
+skin in AE is heavily colonised with Staphylococcus aureus even when
+the skin is not clinically infected. The degree of S. aureus colonisation
+tends to increase the AE severity.33
+A systematic review showed that the current regular childhood
+vaccination did not increase the risk of atopic disorder including
+AE.34, level II-2
+5.6 Patient Factors
+Pregnancy has an impact on women with history of AE. Approximately
+25% of patients have their pre-existing AE improve, >50% deteriorate
+and 10% flare during post-partum period. The hormonal changes in
+pregnancy results in predominant Th-2 response which is associated
+with atopy.35, level III
+There is no good quality evidence to show that stress aggravates AE.
+• Identification and management of aggravating factors is important in
+AE.
+Management of Atopic Eczema
+6.
+TOPICAL THERAPY
+Topical therapy is the mainstay of treatment in AE. This includes
+emollient, topical anti-inflammatory agents and topical antiseptic/
+antimicrobial agents. For further information on recommended
+medication dosing, side effects and contraindications for commonly
+used medications in AE, refer to Appendix 11.
+6.1 Emollient/Moisturiser
+Emollient therapy is the mainstay of management in AE. It improves the
+epidermal barrier function and dryness leading to reduction in pruritus.
+Emollients application decreases the usage of topical corticosteroids
+(TCS).
+Emollients are available in different formulations (ointments, creams,
+lotions, gels and aerosol sprays). Ointments (e.g. petrolatum) are
+greasy in nature whereas creams and lotions contain water and are
+more user-friendly and acceptable cosmetically. Creams (e.g. aqueous
+cream and urea cream), lotions and gels contain preservatives to
+protect against microbial growth in the presence of water.
+A Cochrane systematic review on 77 RCTs of moderate quality showed
+that emollients was better than no emollient:36, level I
+• improved SCORAD (MD= -2.42, 95% CI -4.55 to -0.28)
+• reduced risk of flare (RR=0.40, 95% CI 0.23 to 0.70)
+• reduced rate of flare (HR=3.74, 95% CI 1.86 to 7.50)
+• reduced amount of corticosteroids used at 6 - 8 weeks (MD=-9.30,
+95% CI -15.33 to -3.27)
+There was no reliable evidence to show that one emollient is more
+effective than another.
+In the same systematic review, the types of emollients included
+were:36, level I
+a. Atopiclair vs vehicle (Unguentum leniens)
+Atopiclair:
+• lowered EASI score (MD=-4.00, 95% CI-5.42 to -2.57)
+• reduced rate of flare (RR=0.18, 95% CI 0.11 to 0.31)
+• decreased itch score (MD=-2.65, 95% CI-4.21 to -1.09)
+• improved participant-assessed disease severity (RR=4.51, 95%
+CI 2.19 to 9.29)
+b. Urea (4 - 5%) containing moisturisers vs vehicle
+Urea (4 - 5%) containing moisturisers:
+• improved Dyshidrotic Eczema Area and Severity Index (DASI)
+(RR=1.40, 95% CI 1.14 to 1.71)
+Management of Atopic Eczema
+• reduced rate of flare(RR=0.47, 95% CI 0.24 to 0.92)
+• improved participant-assessed disease severity (RR=1.28, 95%
+CI 1.06 to 1.53)
+c. Glycerine/glycerol 20% containing moisturisers vs vehicle/placebo
+Glycerine/glycerol containing moisturisers:
+• improved SCORAD (MD= -2.20, 95% CI -3.44 to -0.96)
+• improved participant-assessed disease severity (RR=1.22, 95%
+CI 1.01 to 1.48)
+d. Oat-containing moisturisers vs no treatment/vehicle
+Oat-containing moisturisers:
+• reduced rate of flare (RR=0.31, 95% CI 0.12 to 0.70)
+• reduced amount of corticosteroids used (MD= -9.30, 95% CI
+-15.3 to -3.27)
+Emollients have been shown to enhance the effectiveness of TCS and
+have steroid-sparing property. When compared topical active treatment
+(e.g. fluocinonide 0.05%, hydrocortisone 1%) combined with moisturiser
+with active treatment alone, topical active treatment combined with
+moisturiser:36, level I
+• reduced investigator-assessed disease severity (SMD=-0.87, 95%
+CI -1.17 to -0.57)
+• reduced rate of flare (RR=0.43, 95% CI 0.20 to 0.93)
+There was no difference in SCORAD at 1 - 4 weeks between
+licochalcone-containing moisturiser and hydrocortisone acetate 1%
+cream with mean disease severity of 0.08 (95% CI -1.96 to 2.13).36, level I
+In an RCT, ceramide-magnesium (Cer-Mg) treatment led to a
+significantly greater decrease in SCORAD and pruritus from baseline
+compared with unguentum leniens at three and six weeks. Similar
+outcomes were seen between Cer-Mg and hydrocortisone at three
+weeks but not at six weeks.37, level I
+Emollients have been used in the prevention of AE in high risk infants.
+Daily emollient use significantly reduced the risk of AE at six months
+(RRR=0.50; 95% CI 0.28 to 0.90).38, level I
+Generally, emollients/moisturisers were reported to be safe in
+AE.36 - 38, level I
+• Regular use of emollients improves AE and thus reduces usage of
+topical corticosteroids.
+Management of Atopic Eczema
+Recommendation 3
+• Emollient therapy is the mainstay of treatment at any stage of atopic
+eczema in all age groups of patients.
+○ The type/formulation of emollients depends on the patient’s
+preference.
+6.2 Topical Corticosteroids
+Topical corticosteroids have anti-inflammatory and immunosuppressant
+effects, as well as other actions relevant to their effects on skin including
+inhibiting fibroblast proliferation and collagen synthesis, and local
+vasoconstriction. The anti-inflammatory activity is through the following
+mechanisms:
+• alteration in leukocyte number and activity
+• suppression of mediator release (e.g. histamine, prostaglandins)
+• enhanced response to agents that increase cyclic adenosine
+monophosphate (prostaglandin E2 and histamine via the
+histamine-2 receptor)
+• TCS are classified into four classes according to their potencies
+(refer to Appendix 7):
+○ Class I (very potent)
+○ Class II (potent)
+○ Class III (moderate)
+○ Class IV (mild)
+TCS is the first-line anti-inflammatory agent for AE in both children and
+adults. It is an established treatment in many existing guidelines. There
+are not many recent studies on TCS use in AE.
+Fluocinonide 0.1% cream improves barrier function as measured by
+basal transepidermal water loss (TEWL) in active moderate to severe
+AE (p<0.001).39, level I It is significantly more effective than vehicle in
+lesions clearing or almost clearing when applied once or twice daily
+(57% - 59% vs 12% - 19%). Application frequency of once or twice daily
+are equally effective.40, level I
+Fluticasone propionate 0.05% cream or 0.005% ointment is more
+effective than vehicle alone in preventing flares when applied twice
+weekly for 16 weeks (RR=0.46, 95% CI 0.38 to 0.55). Methylprednisolone
+aceponate 0.1% is also found to be more effective in similar comparison
+(RR=0.36, 95% CI 0.21 to 0.62).41, level I However, fluocinonide 0.1%
+and methylprednisolone aceponate 0.1% are not available in Malaysian
+market as of this date. The available TCS of the same potency in
+Malaysia are betamethasone valearate 0.1% and mometasone furoate.
+Management of Atopic Eczema
+Children have an increased absorption of TCS due to a greater body
+surface area to weight ratio. Therefore, the least-potent but effective
+TCS should be used. However, during acute flares, the use of short
+courses of moderate to very potent TCS can be considered for rapid
+control. For certain areas (i.e. face, neck, genitalia and skin folds),
+caution should be exercised with regards to choice of TCS potency due
+to greater penetration and higher likelihood for systemic absorption.31
+Local adverse effects of TCS are secondary infection, skin
+atrophy, striae, burning, itching, folliculitis, acne-like eruptions and
+telangiectasia. They are related to the duration of use and potency of
+TCS.42, level I The potential systemic side effects, including hypothalamicpituitary-adrenal (HPA) axis suppression, should be monitored
+particularly in children with AE on long-term potent TCS.31 However,
+HPA suppression is not observed in patients treated with mild-potency
+TCS.43
+Depending on the potency and site of application, patients being
+treated with intermittent courses of TCS should be reviewed every
+3 - 6 months to ascertain response to therapy and potentially reversible
+atrophic changes.14
+The fingertip unit (FTU) has been used as a method of determining the
+amount of TCS to apply. It should be used to guide patients on TCS
+quantities required.14 Refer to Appendix 8 on FTU.
+• Practical guides for TCS application are as the following.41, level I
+○ TCS should be used concomitantly with emollients.
+○ FTU can be used as a guide to the amount of TCS required for
+affected sites.
+○ Choice of vehicle of TCS depends on the affected sites (i.e. gel for
+scalp; cream for face, genital and flexural areas; ointment for palm
+and sole).
+○ Choice of potency of TCS depends on the clinical severity of
+eczema (i.e. potent to very potent TCS ointment for thick lesions
+and mild to moderate TCS cream for thin lesions).
+○ After resolution of eczema flares, discontinuation of TCS
+application should be done gradually to avoid rebound (i.e. twice
+a day followed by once a day then 1 - 3 times a week before
+complete discontinuation).
+○ After resolution of eczema flares, proactive therapy (mild TCS
+application intermittently once/twice a week) can be used to
+maintain remission.
+Management of Atopic Eczema
+Recommendation 4
+• Topical corticosteroids (TCS) should be used to treat flares in atopic
+eczema (AE).
+• The choice of TCS in AE depends on the:
+○ age of the patient
+○ site of skin lesions
+○ chronicity of skin lesions
+○ severity of skin inflammation
+• The use of TCS should be monitored every 3 - 6 months to determine
+response and potential side effects.
+6.3 Topical Calcineurin Inhibitors
+Topical calcineurin inhibitors (TCIs), e.g. tacrolimus and pimecrolimus,
+are non-steroidal immune-modulating agents for the treatment of AE.
+TCIs are currently licensed to be used in patients older than two years
+old. More safety studies are needed before recommending the use of it
+in patients younger than two years old.
+Tacrolimus 0.1% and 0.03% ointment monotherapy is more effective
+than emollient in controlling pruritus in AE (MD=28.6, 95% CI 19.8 to
+37.5). The median time to pruritus recurrence is longer in tacrolimus
+compared with the emollient (>28 days vs three days).44, level I
+Three systematic reviews (including a Cochrane’s) showed the efficacy
+of tacrolimus and pimecrolimus compared with various controls in AE.
+In the Cochrane systematic review, tacrolimus 0.1% ointment improved
+physician’s assessment of global response, affected body surface area
+(BSA), EASI score and QoL significantly compared with hydrocortisone
+acetate 1% ointment and hydrocortisone butyrate 0.1% ointment in
+moderate to severe AE at six months.45, level I
+Tacrolimus 0.1% ointment was also more effective than pimecrolimus
+1% cream in AE of different severity at six weeks in terms of:
+• physician’s assessment of global response (RR=1.80, 95% CI 1.34
+to 2.42)45, level I
+• investigators’ global assessment (RR=0.58, 95% CI 0.46 to 0.74)
+46, level I
+• BSA and EASI (p< 0.001)45, level I
+In another analysis, tacrolimus 0.03% ointment was more effective than
+hydrocortisone acetate 1% in physician’s global assessment (RR=2.58,
+95% CI 1.96 to 3.38). However, there was no difference between
+tacrolimus 0.03% ointment and mid-potency corticosteroids (RR=0.45,
+95% CI 0.13 to 1.57). There was insufficient data on the affected BSA
+and EASI. When compared with pimecrolimus 1% cream, tacrolimus
+Management of Atopic Eczema
+0.03% ointment was also more effective in physician’s assessment of
+global response (RR=1.42, 95% CI 1.02 to 1.98).45, level I
+Between different concentrations, tacrolimus 0.1% was more effective
+than tacrolimus 0.03% in improving:45, level I
+• physician’s assessment of global response (RR=0.82, 95% CI 0.72
+to 0.92)
+• EASI (p=0.006 in children and p<0.001 in adults)
+Proactive treatment with tacrolimus 0.1% and 0.03% used 2 - 3 times
+weekly for 40 - 52 weeks as maintenance therapy significantly prevented,
+delayed and reduced mild to severe AE flares.41, level I
+Pimecrolimus 1% cream was significantly more effective in improving
+flares and QoL when compared with vehicle at six weeks. However, it was
+less effective than triamcinolone acetonide 0.1% on similar outcomes
+at six months (RR=0.89, 95% CI 0.83 to 0.96).46, level I
+The most common adverse events in TCIs are burning, pruritus and
+skin infection.44 - 46, level I
+• Proactive treatment with TCIs 2 - 3 times weekly may be considered
+for maintenance therapy in AE.
+Recommendation 5
+• Topical calcineurin inhibitors may be considered to treat flares in
+atopic eczema for patients aged two years and above.
+6.4 Wet Wrap Therapy
+Wet wrap therapy (WWT) consists of two layers of tubular bandage or
+garments with inner wet and outer dry layers, applied over moisturiser
+alone or in combination with TCS (refer to Appendix 9). WWT can be
+used continuously for 24 hours.
+In a systematic review of six RCTs, four studies showed improvement
+in AE clinical severity with WWT and TCS compared with TCS alone.
+A non-significant tendency to increased risk of mild skin infections was
+observed in WWT group. However, the studies used in the review were
+of low quality and heterogenous.47, level I
+WWT with TCS should only be used to treat AE in children for 7 - 14
+days. However, WWT with emollients alone can be continued until
+the AE is controlled.32 In the local setting, WWT in combination with
+emollients and mild to moderate potency TCS has been used to treat
+non-infected moderate to severe AE.
+Management of Atopic Eczema
+Recommendation 6
+• Wet wrap therapy (WWT) with moisturiser alone or in combination
+with mild to moderate potency topical corticosteroids (TCS) may be
+used in non-infected moderate to severe atopic eczema.
+○ The use of TCS in WWT should not exceed 14 days.
+6.5 Other Topical Therapy
+There is a new effective non-steroidal anti-inflammatory topical
+treatment i.e. phosphodiesterase 4 (PDE4) inhibitor (crisaborole
+ointment).48, level I However, the cost is likely to be prohibitive and more
+long-term safety study is required.
+There are also other emerging topical therapies which are currently
+undergoing clinical trials at the time of the CPG development (e.g.
+Janus kinase (JAK) inhibitors).
+Management of Atopic Eczema
+7.
+PHOTOTHERAPY
+Phototherapy is a therapeutic option for patients with severe AE who do
+not respond or develop side effects to conventional treatment. It may
+improve disease severity, pruritus and sleeplessness in these patients.
+In a systematic review of moderate quality RCTs on phototherapy in
+moderate to severe AE:49, level I
+• narrow band ultraviolet B (NB-UVB) was more effective than visible
+light (mean reduction in total disease activity score=9.4 points, 95%
+CI 3.6 to 15.2) at 12 weeks
+• ultraviolet A (UVA) showed non-significant improvement compared
+with visible light (mean reduction in total disease activity score=4.4
+points, 95% CI -1.0 to 9.8) at 12 weeks
+• ultraviolet A1 (UVA1) was more effective than ultraviolet AB in
+reducing SCORAD in acute flares of AE after 15 days (p<0.05)
+• UVA1 was as effective as NB-UVB in improving disease activity at
+6 - 8 weeks and persisted four weeks after cessation of treatment
+Frequently reported adverse events were xerosis, treatment-induced
+erythema and burning, pruritus, worsening of AE and folliculitis.
+However, there was no documented short-term serious adverse
+event.49, level I
+In the local settings NB-UVB is widely available; hence it is more
+commonly used.
+There is no retrievable evidence on the effectiveness and safety of
+light-emitting diode and laser therapies in the management of AE.
+Recommendation 7
+• Ultraviolet A1 may be used to control acute flares in atopic eczema
+(AE).
+• Narrow-band ultraviolet B may be offered in moderate to severe
+chronic AE.
+Management of Atopic Eczema
+8.
+SYSTEMIC THERAPY
+Systemic therapy includes adjunctive treatment (e.g. antihistamines
+and systemic antibiotics) and specific treatment of AE (e.g.
+immunomodulating agent and biologics). Specific systemic treatments
+should be used only in severe cases of AE in patients where other
+management options have failed or are not appropriate, and where the
+AE has a significant impact on quality of life. For further information on
+recommended medication dosing, side effects and contraindications for
+commonly used medications in atopic eczema, refer to Appendix 11.
+8.1 Antihistamines
+Itch is a common symptom in AE and antihistamines are frequently
+prescribed to relieve it. Based on a Cochrane systematic review, there
+was no high-level evidence to support the use of antihistamines as
+monotherapy in AE.50, level I Antihistamines should not substitute topical
+therapy in the management of AE.51
+In AE patients with sleep disturbance due to itch, sedating
+antihistamines should be considered as a short-term measure at
+bedtime.14, 31 In the absence of urticaria and other atopic conditions,
+non-sedating antihistamines are not recommended as a treatment for
+AE.31
+Recommendation 8
+• Antihistamines should not be used as monotherapy or to substitute
+topical therapy in atopic eczema (AE).
+• Sedating antihistamines may be considered as a short-term measure
+at bedtime in AE patients with sleep disturbance.
+8.2 Immunomodulating Agents
+Corticosteroids, cyclosporin A, methotrexate (MTX), azathioprine (AZA),
+mycophenolate mofetil (MMF), intravenous immunoglobulin (IVIG) and
+interferon gamma (IFN-γ) are some of the immunomodulating agents
+used in AE. These agents are used in moderate to severe AE which are
+uncontrolled after optimisation of topical treatment and/or phototherapy.
+They are also considered in chronic AE where QoL is substantially
+impacted.51
+a. Systemic Corticosteroids
+Systemic corticosteroids is a common immunosuppressive agent used
+in various inflammatory conditions. They have been shown to be rapidly
+effective, but had unfavourable long-term risk/benefit ratio.52
+Management of Atopic Eczema
+In a systematic review on children with severe AE:53, level I
+• combination of oral and intranasal beclomethasone diproprionate
+was more effective than placebo at four weeks
+• intranasal flunisolide was more effective than placebo at two weeks
+Another systematic review showed that prednisolone was less effective
+than cyclosporin A for adults with severe AE:54, level I
+• less stable remission (≥SCORAD 50) (p=0.031) at six weeks
+• higher incidence of relapse (p=0.04) at 12 weeks
+Both systematic reviews showed no serious adverse event when
+steroids were used for 2 - 4 weeks. Common adverse events
+were hypertension and exacerbations of AE after termination of
+treatment.53 - 54, level I
+b. Azathioprine
+AZA is a purine analogue that inhibits deoxyribonucleic acid (DNA)
+production. It reduces inflammation by its antiproliferative effect on
+B-lymphocytes and T-lymphocytes. Thiopurine methyltransferase
+(TPMT) is an enzyme required in the metabolism of AZA. Monitoring
+TPMT levels or genotyping can help to identify patients with low or absent
+TPMT activity who are at increased risk for severe, life-threatening
+myelosuppression from AZA. Overall concordance between genotype
+and phenotype in healthy volunteers is 98.4%.55
+AZA is more effective compared with placebo in the treatment of AE at
+12 weeks:
+• improved SASSAD (MD=5.4%, 95% CI 1.4 to 9.3)56, level I
+• improved SASSAD ranged from 26% to 37%54, level I
+• mean reduction of disease activity by 27%53, level I
+• improved DLQI (MD=3.5, 95% CI 0.3 to 6.7)56, level I
+When compared to MTX, AZA was equally effective in reduction of
+disease activity and improvement in QoL at 12 and 24 weeks in AE.
+54, level I
+Adverse event was generally mild in AZA and common side effects
+observed were nausea, minor haematological and biochemical
+abnormalities.54, level I; 56, level I
+• Baseline TPMT testing is advised prior to AZA initiation, with
+avoidance of use in those with very low or absent enzyme activity.
+c. Cyclosporin A
+Cyclosporin A is an oral calcineurin inhibitor. It reduces inflammation
+by immunosuppressive effect on T-lymphocytes and reduction of
+interleukin-2 production. Cyclosporin A is the only approved systemic
+treatment for adults with severe AE.52
+Management of Atopic Eczema
+In two systematic reviews of moderate quality RCTs, cyclosporin A
+was more effective than placebo in moderate to severe AE in terms of:
+53 - 54, level I
+• reduction in SCORAD, Costa index, SASSAD after treatment with
+doses ranging between 2.5 and 5 mg/kg body weight for 4 - 52
+weeks
+• reduction in AE severity of about 50% (range 29 - 90%) at 6 - 8
+weeks
+• improvement in disease severity in both short- and long-term
+follow-up
+• improvement in quality of life based on DLQI
+In a meta-analysis, high dose cyclosporin A (4 - 5 mg/kg) was more
+effective in reducing disease severity compared with low dose
+cyclosporin A (2.5 - 3 mg/kg) at two weeks (mean relative change of
+40% vs 20%). Relapse (increase in disease severity to >75% of the
+patient’s baseline score) after discontinuation of cyclosporin A was
+observed in 50% of patients within two weeks and up to 86% of patients
+within six weeks to nine months.53, level I
+An RCT showed that continuous therapy (one year) was more
+effective than short intermittent therapy (12 weeks) of cyclosporin A in
+improvement of:57, level I
+• disease severity maintained beyond eight weeks
+• QoL at 12 months (p=0·01).
+In head-to-head comparison with other immunosuppressive agents:
+• cyclosporin A is more effective than prednisolone in adults with
+severe AE at six weeks and followed-up for another 12 weeks
+(p=0.031)54, level I
+• cyclosporin A and MMF are equally effective as maintenance treatment
+of AE at 10 weeks (MD=0.8, 95% CI -4.4 to 6.0)54, level I
+• cyclosporin A shows faster clinical improvement compared with
+enteric-coated mycophenolate sodium (EC-MPS) at three weeks
+(MD=6.6, 95% CI 1.5 to 11.7) and at six weeks (MD=7.1, 95% CI 2.1
+to 12.2) in severe AE. However, clinical remission is longer in ECMPS after discontinuation of medication at 33 weeks.58, level I
+• cyclosporin A and MTX are equally effective in reducing SCORAD
+in children with severe AE at 12 and 24 weeks.59, level I
+Adverse events reported are mild (57%), moderate (37%) and
+severe (6%) at 1-year treatment.57, level I Common adverse events are
+hypertension, gastrointestinal symptoms, hypertrichosis, fatigue, flu-like
+symptoms, headache, paraesthesia, haematological and biochemical
+abnormalities (increased creatinine level >30% from baseline).
+53, level I Severe adverse events include infections, abdominal pain, acute
+cholecystitis and basal cell carcinoma.53, level I; 57, level I
+Management of Atopic Eczema
+d. Methotrexate
+MTX is an anti-folate metabolite that inhibits T-lymphocytes function by
+blocking the synthesis of DNA, ribonucleic acid (RNA) and purine.
+There was no retrievable placebo-controlled efficacy study for MTX. In
+a systematic review of systemic therapies for management of AE, an
+RCT showed MTX was as effective as AZA in reducing SCORAD at 12
+and 24 weeks (p=0.89 and p=0.58 respectively) and improving QoL at
+12 weeks (p=0.46).54, level I
+MTX and cyclosporin A are equally effective in the reduction of
+SCORAD in children with severe AE at 12 and 24 weeks (p=0.93 and
+p=0.29 respectively).59, level I
+Common adverse events observed in MTX are haematological
+abnormalities, gastrointestinal disturbances and infection. However,
+there is no severe and serious adverse events.54, level I; 59, level I
+e. Mycophenolate Mofetil and Enteric-coated Mycophenolate
+Sodium
+MMF and EC-MPS contain active metabolite mycophenolic acid
+(MPA). MPA arrests the synthesis of DNA and RNA in B- and T-cell
+development via inhibition of inosine monophosphate dehydrogenase,
+and therefore prevents immune cell proliferation.58, level I
+There is no retrievable evidence comparing MMF to placebo. A
+systematic review showed that:54, level I
+• MMF was as effective as cyclosporin A in maintenance treatment of
+AE at 10 week (MD in SCORAD=0.8, 95% CI -4.4 to 6.0)
+• EC-MPS had longer clinical remission compared with cyclosporin A
+after discontinuation of medication at 33 weeks.
+Commonly reported adverse events are fatigue, headache, gastrointestinal
+disturbance, flu-like symptom and viral infection.58, level I
+Recommendation 9
+• Systemic corticosteroids may be considered for short-term control of
+severe acute exacerbation of atopic eczema (AE).
+• Azathioprine, cyclosporin A, methotrexate or mycophenolate may
+be used in the treatment of severe AE after optimisation of topical
+treatment.
+8.3 Biologics
+Biologics are therapeutic proteins specifically designed to block
+the activity of bioactive mediators of immune responses. AE is an
+inflammatory skin condition orchestrated by multiple cytokines,
+Management of Atopic Eczema
+chemokines and immunoglobulins. Therefore, usage of biologics is a
+reasonable therapeutic option.
+a. Dupilumab
+Dupilumab is a monoclonal antibody that blocks interleukin-4 (IL-4) and
+interleukin-13 (IL-13) receptors.
+In recent RCTs, dupilumab showed rapid improvement in AE severity
+compared with placebo in adults with moderate to severe AE. It had
+higher proportion of patients with an IGA score of zero or one (clear
+or almost clear) or reduction from baseline of at least two points in the
+score and improvement in EASI >75% at week 16 (p< 0.001)60 - 61, level I and
+up to 52 weeks (p<0.001).61, level I
+Adverse events commonly reported are nasopharyngitis, headache
+and skin infection.60 - 61, level I
+b. Omalizumab
+Omalizumab is a recombinant human monoclonal antibody that binds
+to free human IgE in the blood and IgE receptor on the surface of
+B-lymphocytes.
+In two RCTs, omalizumab showed no significant difference in EASI and
+pruritic score at 20 weeks62, level I and comparable reduction in SCORAD
+at 24 weeks63, level I when compared with placebo in AE.
+Minor adverse events with omalizumab are injection site reaction, mild
+infection, headache, vertigo, migraine and pruritus.62, level I
+c. Infliximab
+Infliximab is a chimeric monoclonal antibody that works against Tumour
+Necrosis Factor Alpha (TNF-α).
+There is no strong retrievable evidence on the effectiveness of infliximab
+in AE.53, level I
+d. Intravenous Immunoglobulin
+A systematic review showed IVIG was less effective in reduction of
+SCORAD at 12 weeks compared with placebo and cyclosporin A in
+AE.54, level I
+Most common adverse effects reported are headache, nausea, vomiting
+and low-grade fever. They are transient and self-limiting, and usually
+happen during the first few hours after injection.54, level I
+Management of Atopic Eczema
+• Dupilumab is a potential biologic therapy in adult patients with
+moderate to severe AE after optimisation of conventional therapy.
+8.4 Other Systemic Agents
+a. Leukotriene Antagonist
+There is no significant difference in reduction of SASSAD in AE between
+montelukast and placebo at eight weeks follow-up (MD=0.35, 95%
+CI -6.1 to 6.8).53, level I
+b. Interferon Gamma
+There is no strong retrievable evidence on the effectiveness of IFN-γ
+in AE.54, level I
+Management of Atopic Eczema
+9.
+ANTIMICROBIALS
+9.1 Topical Antibiotics Combined with Corticosteroids
+A systematic review using a combination of TCS and topical antibiotics
+(fusidic acid, mupirocin, neomycin, gentamicin or tetracycline) compared
+with TCS alone showed no difference in global outcome for clinically
+infected eczema (RR=0.52, 95% CI 0.23 to 1.16).64, level I
+One RCT demonstrated improvement in SCORAD and EASI for both
+hydrocortisone ointment with mupirocin and hydrocortisone ointment
+alone by 74% (p=0.012) and 65% (p=0.019) respectively compared
+with emollient at eight weeks but there was no significant difference
+between the hydrocortisone groups.65, level I
+9.2 Systemic Antibiotics
+Staphylococcus aureus colonisation of the skin in patients with moderate
+to severe AE is common. The degree of colonisation significantly
+correlates with AE clinical severity and disease exacerbation. Antistaphylococcal treatment is widely practised in the management of AE.
+In a Cochrane systematic review, oral antibiotics showed no longterm benefits in patients with non-infected AE. Improvement in global
+outcome was observed among those treated with flucloxacillin at day
+28 (RR=2.49, 95% CI 1.27 to 4.89), but no further improvement at day
+56 post-treatment (MD= -0.10, 95% CI -0.59 to 0.39).66, level I
+Routine use of systemic antimicrobials among patients with noninfected AE is not recommended. Systemic antimicrobial agents should
+be reserved for patients with signs of secondary infections.14 Refer to
+Malaysian National Antibiotic Guidelines 2014 for choices of antibiotic
+in skin and soft tissue infection.
+Recommendation 10
+• Systemic antibiotics may be considered when there is clinical
+evidence of infection in patients with atopic eczema.
+9.3 Sodium Hypochlorite 0.005% (Bleach Bath)
+Staphylococcus aureus infection is a common complication in AE and
+can worsen the disease. Bleach bath has been used as an antiseptic
+bath to reduce colonisation of bacteria including Methicillin-resistant
+Staphylococcus aureus (MRSA).31, 51
+Management of Atopic Eczema
+Bleach bath significantly reduces EASI score, affected BSA, itch score,
+and the use of TCS and antibiotics compared with water bath at 1 - 3
+months in AE.67 - 68, level I However, water bath results in better SCORAD
+reduction.68, level I
+Combined use of bleach bath and intranasal mupirocin ointment improves
+EASI score and affected BSA at one and three months compared with
+combination of water bath and intranasal petrolatum ointment in moderate
+to severe AE (p<0.05).64, level I; 69, level I
+A recent meta-analysis showed that bleach baths were effective
+in decreasing AE severity, but not more effective than water baths
+alone.70, level I
+Bleach bath is well tolerated with similar incidence of mild adverse
+events compared to water bath.68, level I Adverse events reported are
+stinging, burning, itch, xerosis, erythema, urticaria and oozing.70, level I
+9.4 Other Antiseptics
+Antiseptics at appropriate dilutions, e.g. triclosan or chlorhexidine,
+should be used as an adjunct therapy to decrease bacterial load in
+children who have recurrent infected AE.32 In local setting, short-term
+antiseptic agents may be used for weepy lesions in AE:
+• diluted potassium permanganate solution as bath/soak over the limbs
+and trunk
+• normal saline daps/wash over the face
+Long-term continuous use of antiseptics should be avoided.
+A Cochrane review found no benefit of antibacterial soaps and bath
+additives in AE.64, level I
+• Bleach bath has been shown to improve severity of AE.
+• Other antiseptic baths (e.g. potassium permanganate, triclosan,
+chlorhexidine) may be helpful in reducing bacterial colonisation of
+the skin.
+Management of Atopic Eczema
+10. SPECIFIC ALLERGEN IMMUNOTHERAPY
+Specific allergen immunotherapy (SIT) is also known as desensitisation
+or hyposensitisation which involves the administration (sublingual or
+subcutaneous) of specifically relevant allergen(s) in the treatment
+of IgE-mediated allergic disease. SIT works by inhibiting abnormal
+immune responses to the relevant allergen thus reducing symptoms in
+patients with AE.
+A recent Cochrane meta-analysis did not show conclusive evidence
+on the effectiveness of SIT in treating patients with AE. The allergens
+included in the study were:71, level I
+• Dermatophagoides pterionyssinus
+• Dermatophagoides farinae
+• Grass pollen
+• There is insufficient evidence to recommend specific allergen
+immunotherapy in the management of AE patients without other
+atopic conditions.
+Management of Atopic Eczema
+11. NON-PHARMACOLOGICAL INTERVENTIONS
+11.1 Bathing Practices
+Longer duration of bathing (>10 minutes) may be associated with risk of
+greater AE severity (p=0.0562).72, level III However, frequency of bathing
+is not associated with the severity.73, level I There is no evidence on
+clinical benefit of emollient bath additives in AE.
+There is no retrievable evidence with regards to appropriate water
+temperature. However, the CPG development group advices against
+the use of extreme temperatures (too hot or too cold) during bathing to
+avoid worsening of AE.
+11.2 Dietary Interventions
+a. Food Avoidance
+• Maternal dietary avoidance
+A Cochrane systematic review showed no significant protective effect
+of maternal dietary antigen avoidance (e.g. cow’s milk, egg, peanuts,
+fish and chocolate) during pregnancy and lactation on incidence of
+AE during first 18 months of life. The review also found no significant
+reduction in eczema severity in infants with established AE with
+maternal dietary antigen avoidance during lactation.74, level I
+• Food avoidance in established eczema
+In another Cochrane systematic review, there was no significant
+beneficial effect in elimination of food in mother’s diet (e.g. wheat, fish,
+beef, chicken, nuts, chocolate, citrus food, colouring and preservatives)
+or use of few foods diet which only includes 5 - 6 foods (lamb, potato,
+rice, one of the brassicas, pear and tap water) and elemental diet in AE.
+The RCTs in the review were of poor quality.75, level I
+There may be some benefits in using an egg-free diet in infants with
+positive specific IgE to eggs. However, there was little evidence to
+support the use of various exclusion diets in unselected patients with
+AE.75, level I
+b. Breastfeeding
+Exclusive breastfeeding for three months or more may help to prevent
+the development of AE in infants with family history of atopy.14
+However, a meta-analysis showed that there was no evidence on protective
+effect of exclusive breastfeeding for at least 3 months against AE, even
+among children with a positive family history.76, level II-2
+Management of Atopic Eczema
+A Cochrane systematic review on breastfeeding duration showed no
+significant difference in the reduction of AE risk in the first 12 months of
+life and at 5 - 7 years of age when infants exclusively breastfed for 3 - 4
+months compared with 6 - 7 months.74, level I
+c. Soy Formula
+A Cochrane systematic review showed no significant difference
+between soy and cow’s milk formulas in prevention of childhood AE.77, level I
+d. Hydrolysed Formula
+A systematic review showed some evidences that partially hydrolysed
+100% whey protein infant formula (pHF-W) reduced risk of AE compared
+with intact protein cow’s milk formula among infants with risk of
+atopy.78, level I
+This is supported by a recent meta-analysis of moderate quality RCTs
+demonstrating a trend in reduction of eczema in infants with high
+risk of developing allergy fed with pHF-W compared with cow’s milk
+formula.79, level I
+In the prevention of AE, hydrolysed formulas should not be offered to
+infants in preference to breast milk.14
+e. Complementary Feeding
+The AE risk is reduced with early introduction of complementary food
+at the age of four and/or five months compared to those on exclusive
+breastfeeding (up to six months). However, stronger evidence is
+required.80, level II-2
+f.
+Probiotic and Prebiotic
+Probiotic and prebiotic are food supplements/food that modify and
+reinstate the pre-existing intestinal flora. Probiotics are live ‘good’ bacteria
+which include lactobacilli sp. and bifidobacteria. Prebiotics are dietary
+fibre (non-digestible oligosaccharides and fructooligosaccharides)
+which stimulates the growth or activity of bacteria in the colon.
+• Probiotic
+A meta-analysis on probiotics (e.g. non-spore lactobacillicus,
+bifidobacterium and mixed lactobacilli) given to healthy infants (<2
+years old) and pregnant women found a reduction in the incidence of
+AE (RRR=0.69, 95% CI 0.62 to 0.78). However, the primary papers
+used were of poor quality with significant heterogeneity.81, level I
+• Prebiotic
+Two systematic reviews on the prevention of AE using supplementation
+of expressed breast milk or infant formula with prebiotics showed
+reduction in incidence of AE but the results were not significant.81 - 82, level I
+Management of Atopic Eczema
+There is insufficient evidence to recommend probiotic and prebiotic in
+the management of AE. Limitations of the included studies in the above
+reviews are heterogeneity in the strains used, dose and duration of
+intervention.
+g. Other Dietary Intervention
+• Fish Oil
+Fish oils are rich in omega-3 fatty acids namely eicosapentaenoic
+acid (EPA) and docosahexaenoic acid (DHA). These may reduce the
+inflammatory components of AE. Two small studies in a Cochrane
+systematic review showed that fish oil improved symptoms and quality
+of life at 12 - 16 weeks when compared with placebo in adults with
+AE.83, level I
+• Mineral
+Minerals such as zinc and selenium show no significant difference in
+reducing disease severity in AE.83, level I
+• Vitamins
+There is insufficient evidence to suggest the use of vitamin B6, D and
+E in AE.83, level I
+• Maternal dietary supplementation
+Two systematic reviews showed no significant association between
+maternal intake of vitamins and nutrients during pregnancy, lactation or
+both pregnancy and lactation, and reduction of incidence of childhood
+AE.84 - 85, level I
+• There is insufficient evidence to recommend dietary supplements in
+the management of AE.
+11.3 Educational and Psychological Interventions
+Educational and psychological interventions are used as an adjunct to
+conventional therapy in the management of AE.
+In a Cochrane systematic review of 10 RCTs, psychological techniques
+are used to manage itching and scratching or sleep disturbance.
+Educational interventions are also used to help parents and children
+to understand the condition and their role in managing it successfully.
+However, there was lack of rigorously designed trials on effectiveness
+of educational and psychological interventions in the management of
+AE in children.86, level I
+In the guidelines of care for the management of AE, educational
+programmes and eczema workshops are recommended as adjunct to
+the conventional therapy in the management of AE.87
+A major challenge in AE management is its complex treatment,
+Management of Atopic Eczema
+which must be tailored for both acute exacerbations and long-term
+maintenance. Patient education plays an important role in the
+self-management of AE. The addition of a written eczema action
+plan (WEAP) to the routine verbal instruction may enhance patients’
+understanding and empower patients/caregivers to better manage
+their condition thus reducing the frequency and severity of flares, and
+frequency of clinical encounters (refer to Appendix 10).
+Recommendation 11
+• Educational interventions should be considered as part of the
+management of atopic eczema.
+Management of Atopic Eczema
+12. TRADITIONAL AND COMPLEMENTARY MEDICINE
+Traditional and complementary medicine (TCM) refers to the broad set
+of health practices that are not part of conventional medicine or practice
+and are not fully integrated into the dominant health care system. In
+some instances, TCM is often interchangeable with traditional medicine.
+12.1 Herbal and Food Supplementation
+a. Chinese Herbal Medicine
+Based on a Cochrane systematic review of 28 RCTs of moderate
+quality, topical or oral chinese herbal medicine (CHM) was found to be
+better than placebo in AE for:88, level I
+• overall severity score (EASI, SASSAD and SCORAD) (SMD=
+-0.88, 95% CI -1.67 to -0.09)
+• severity of itch score measured by Visual Analogue Score (VAS)
+(SMD= -1.53, 95% CI -2.64 to -0.41)
+• improvement of QoL at 12-week (MD= -2.50, 95% CI -4.77 to -0.23)
+Two meta-analyses on RCTs of moderate quality showed that topical
+or oral CHM was better compared with ‘conventional treatments’ (e.g.
+econazole nitrate cream, calamine lotion, zinc oxide cream and topical
+corticosteroids) in AE, for the following outcomes:
+• erythema (SMD=-0.76; 95% CI -1.05 to -0.47) and surface damage
+scores (SMD= -1.08; 95% CI, -1.59 to -0.56)89, level I
+• total effectiveness rate (RR=1.19, 95% CI 1.04 to 1.36); However,
+sub-group analysis showed no difference between topical CHM and
+topical corticosteroids (RR=1.04, 95% CI 0.93 to 1.16)90, level I
+CHM in combination with conventional therapy is more effective than
+conventional therapy alone in AE for overall clinical score, MD= -2.56;
+95% CI -3.46 to -1.66.89, level I
+Topical or oral CHM is generally safe compared with placebo or
+conventional therapy.89 - 91, level I
+• It is important to note that the above-mentioned effectiveness of
+CHM in AE is pertaining to specific preparations and hence, should
+not be generalised to other CHM preparations.
+• Some
+traditional
+medicine
+(not
+limited
+to
+CHM)
+contain
+prohibited substances (e.g. dexamethasone, mercury). Refer to
+http://npra.moh.gov.my for further information.
+b. Evening Primrose Oil
+Evening primrose oil (EPO) is the oil from the seeds of evening primrose
+plant and contains 8 - 10% gamma-linolenic acid (GLA).
+Management of Atopic Eczema
+In a Cochrane systematic review, EPO did not show significant
+differences in improvement of symptoms and QoL compared with
+placebo in AE.92, level I
+c. Borage Oil
+Borage oil is obtained from the seeds of Borago officinalis and contains
+at least 23% GLA.
+In a Cochrane systematic review, there was no significant differences
+in improvement of symptoms in AE with borage oil 1500 mg twice a day
+compared with placebo.92, level I
+12.2 Topical Oils and Massage Therapy
+Virgin coconut oil (VCO) applied topically is more effective than mineral
+oil (paraffin oil) in improving mean SCORAD (p<0.001) in AE. There
+is no difference in side effects when comparing between the two
+(p=0.089).93, level I
+Olive oil applied topically causes reduced stratum corneum integrity
+and induces more erythema compared with sunflower seed oil in
+AE.91, level I
+Based on a systematic review, there was no difference in general
+improvement at eight weeks between massage therapy alone and in
+combination with essential oil in AE. However there was worsening of
+symptoms in massage therapy with essential oil group beyond eight
+weeks.91, level I
+12.3 Acupuncture
+There is insufficient evidence to recommend the use of acupuncture in
+AE.89, level I; 91, level I;
+12.4 Balneotherapy
+Balneotherapy is the practice of full body immersion in mineral water
+or mineral-laden mud (i.e. hot springs, cold springs or other sources of
+such water like the Dead Sea).
+An RCT showed synchronous balneophototherapy (immersion in
+mineral water with phototherapy) was better than NBUVB monotherapy
+in improving SCORAD (p<0.05) in AE.94, level I
+Management of Atopic Eczema
+12.5 Homeopathy
+There is insufficient evidence to recommend the use of homeopathic
+remedies in AE.95, level I
+Recommendation 12
+• Traditional and complementary medicine should not replace
+conventional therapy in atopic eczema.
+Management of Atopic Eczema
+13. REFERRAL
+Referral to a dermatology service may be needed in the management
+of AE. The urgency of referral is dependent upon various factors. The
+referral section is adapted from existing guidelines and expert opinions
+of the CPG development group.14, 32, 96
+The urgency for referral to a dermatologist is divided into the following
+categories:
+1. Urgent referral (within 24 hours)
+• AE with clinical suspicion of eczema herpeticum (eczema with
+widespread herpes simplex infection)
+• AE with severe skin bacterial infection that requires intravenous
+antibiotics
+• AE with acute erythroderma where the eczema is affecting more
+than 80% body surface area
+2. Non-urgent referral
+• Diagnostic uncertainty
+• Severe or uncontrolled eczema:
+○ requirement of potent and very potent TCS
+○ frequent infections
+○ poor sleep or excessive scratching
+○ treatment failure with appropriate topical therapy regimen
+• Parental concern
+• Need for treatment demonstration/education
+• Involvement of sites that are difficult to treat
+• Psychological disturbance on the patient or family
+Management of Atopic Eczema
+14. IMPLEMENTING THE GUIDELINES
+The management of AE should be guided by evidence-based approach
+in order to provide quality care to the patients. Several factors may
+affect the implementation of recommendations in the CPG.
+14.1 Facilitating and Limiting Factors
+Existing facilitators for application of the recommendations in the CPG
+include:
+• wide dissemination of the CPG (soft- and hardcopies) to healthcare
+providers
+• regular training on common dermatoses
+Existing barriers for application of the recommendations of the CPG
+are:
+• limited exposure on management of AE
+• cost and availability of treatment
+• variation in practice of healthcare providers
+14.2 Potential Resource Implications
+To implement the CPG, there must be strong commitment to:
+• ensure widespread distribution of the CPG to healthcare providers
+via printed and electronic copies
+• reinforce regular trainings with adequate funding for healthcare
+providers
+• ensure widespread distribution of updated patient education
+materials
+The following is proposed as clinical audit indicator for quality
+management of AE:
+Implementation strategies will be developed following the approval of
+the CPG by MoH which include launching of the CPG, Quick Reference
+and Training Module.
+Percentage of
+patients treated for AE
+with improvement
+(based on IGA)
+(target ≥70%)
+=
+X 100%
+Total number of patients treated for
+AE in the same period
+Number of patients treated for AE
+with improvement (based on IGA)
+in a period
+Management of Atopic Eczema
+References
+1. Asher MI, Montefort S, Björkstén B, et al. Worldwide time trends in the prevalence
+of symptoms of asthma, allergic rhinoconjunctivitis, and eczema in childhood:
+ISAAC Phases One and Three repeat multicountry cross-sectional surveys.
+Lancet. 2006;368(9537):733-743.
+2. Lee BW, Detzel PR. Treatment of childhood atopic dermatitis and economic
+burden of illness in Asia Pacific countries. Ann Nutr Metab. 2015;66 Suppl 1:1824
+3. Mooney E, Rademaker M, Dailey R, et al. Adverse effects of topical corticosteroids
+in paediatric eczema: Australasian consensus statement. Australas J Dermatol.
+2015;56(4):241-251.
+4. Illi S, von Mutius E, Lau S, et al.; Multicenter Allergy Study Group. The natural
+course of atopic dermatitis from birth to age 7 years and the association with
+asthma. J Allergy Clin Immunol. 2004;113(5):925-931.
+5. Chen H, Common JE, Haines RL, et al. Wide spectrum of filaggrin-null mutations
+in atopic dermatitis highlights differences between Singaporean Chinese and
+European populations. Br J Dermatol. 2011;165(1):106-114.
+6. World Allergy Organization (WAO). Eczema Pathophysiology. 2013. (Available at:
+http://www.worldallergy.org)
+7. Brenninkmeijer EE, Schram ME, Leeflang MM, et al. Diagnostic criteria for atopic
+dermatitis: a systematic review. Br J Dermatol. 2008;158(4):754-765.
+8. Williams HC, Jburney PG, Pembroke AC, et al. The UK working party's diagnostic
+criteria for atopic dermatitis. III. Independent hospital validation. Br J Dermatol.
+1994;131(3):406-416.
+9. Flohr C, Johansson SG, Wahlgren CF, et al. How atopic is atopic dermatitis? J
+Allergy Clin Immunol. 2004; 114(1):150-158.
+10. Rehal B, Armstrong AW. Health outcome measures in atopic dermatitis: a
+systematic review of trends in disease severity and quality-of-life instruments
+1985-2010. PLoS One. 2011;6(4):e17520.
+11. Schmitt J, Langan S, Williams HC, et al. What are the best outcome
+measurements for atopic eczema? A systematic review. J Allergy Clin Immunol.
+2007;120(6):1389-1398.
+12. Coutanceau C, Stalder JF. Analysis of correlations between patient-oriented
+SCORAD (PO-SCORAD) and other assessment scores of atopic dermatitis
+severity and quality of life. Dermatology. 2014;229(3):248-255.
+13. Hayashida S, Furusho N, Uchi H, et al. Are lifetime prevalence of impetigo,
+molluscum and herpes infection really increased in children having atopic
+dermatitis? J Dermatol Sci. 2010;60(3):173-178.
+14. Scottish Intercollegiate Guidelines Network. Management of atopic eczema in
+primary care. Edinburgh: SIGN; 2011.
+15. van der Hulst AE, Klip H, Brand PL. Risk of developing asthma in young children
+with atopic eczema: a systematic review. J Allergy Clin Immunol. 2007;120(3):565569.
+16. Carlsten C, Dimich-Ward H, Ferguson A, et al. Atopic dermatitis in a high-risk
+cohort: natural history, associated allergic outcomes, and risk factors. Ann Allergy
+Asthma Immunol. 2013;110(1):24-28.
+17. Herro EM, Matiz C, Sullivan K, et al. Frequency of contact allergens in pediatric
+patients with atopic dermatitis. J Clin Aesthet Dermatol. 2011;4(11):39-41.
+18. Hamann CR, Hamann D, Egeberg A, et al. Association between atopic dermatitis
+and contact sensitization: A systematic review and meta-analysis. J Am Acad
+Dermatol. 2017;77(1):70-78.
+19. Manam S, Tsakok T, Till S, et al. The association between atopic dermatitis and
+food allergy in adults. Curr Opin Allergy Clin Immunol. 2014;14(5):423-429.
+Management of Atopic Eczema
+20. Wee AL, Leong KF, Sabeera BKI. Food and aero sensitization pattern among
+atopic dermatitis children in Hospital Kuala Lumpur. Hospital Kuala Lumpur, 2015
+(unpublished document).
+21. Standl M, Tesch F, Baurecht H, et al. Association of Atopic Dermatitis with
+Cardiovascular Risk Factors and Diseases. J Invest Dermatol. 2017;137(5):10741081.
+22. Zhang A, Silverberg JI. Association of atopic dermatitis with being overweight
+and obese: a systematic review and meta-analysis. J Am Acad Dermatol.
+2015;72(4):606-16.e4.
+23. Schmitt J, Romanos M, Schmitt NM, et al. Atopic eczema and attention-deficit/
+hyperactivity disorder in a population-based sample of children and adolescents.
+JAMA. 2009;301(7):724-726.
+24. Kantor R, Kim A, Thyssen JP, et al. Association of atopic dermatitis with smoking:
+A systematic review and meta-analysis. J Am Acad Dermatol. 2016;75(6):11191125.e1.
+25. Langan SM, Silcocks P, Williams HC. What causes flares of eczema in children?
+Br J Dermatol. 2009;161(3):640-646.
+26. Kim J, Lee S, Woo SY, et al. The indoor level of house dust mite allergen is
+associated with severity of atopic dermatitis in children. J Korean Med Sci.
+2013;28(1):74-79.
+27. Hon KL, Leung TF, Lam MC et al. Which aeroallergens are associated with
+eczema severity? Clin Exp Dermatol. 2007;32(4):401-404.
+28. Sargen MR, Hoffstad O, Margolis DJ. Warm, humid, and high sun exposure
+climates are associated with poorly controlled eczema: PEER (Pediatric Eczema
+Elective Registry) cohort, 2004-2012. J Invest Dermatol. 2014;134(1):51-57.
+29. Kim EH, Kim S, Lee JH, et al. Indoor air pollution aggravates symptoms of atopic
+dermatitis in children. PLoS One. 2015;10(3):e0119501.
+30. Kim YM, Kim J, Han Y, et al. Short-term effects of weather and air pollution
+on atopic dermatitis symptoms in children: A panel study in Korea. PLoS One.
+2017;12(4):e0175229.
+31. Eichenfield LF, Tom WL, Berger TG, et al. Guidelines of care for the management
+of atopic dermatitis: Section 2. Management and treatment of atopic dermatitis
+with topical therapies. J Am Acad Dermatol. 2014;71(1):116-132.
+32. National Collaborating Centre for Women's and Children's Health (UK). Atopic
+Eczema in Children: Management of Atopic Eczema in Children from Birth up to
+the Age of 12 Years. London: RCOG Press; 2007.
+33. Wollenberg A, Räwer HC, Schauber J. Innate immunity in atopic dermatitis. Clin
+Rev Allergy Immunol. 2011;41(3):272-281.
+34. Jagelavičienė A, Usonis V. Relationship between vaccination and atopy. Acta
+medica Lituanica. 2014;21(3).
+35. Kemmett D, Tidman MJ. The influence of the menstrual cycle and pregnancy on
+atopic dermatitis. Br J Dermatol. 1991;125(1):59-61.
+36. van Zuuren EJ, Fedorowicz Z, Christensen R et al. Emollients and moisturisers for
+eczema. Cochrane Database Syst Rev. 2017; 2:CD012119.
+37. Koppes SA, Charles F, Lammers L et al. Efficacy of a Cream Containing Ceramides
+and Magnesium in the Treatment of Mild to Moderate Atopic Dermatitis: A
+Randomized, Double-blind, Emollient- and Hydrocortisone-controlled Trial. Acta
+Derm Venereol. 2016; 96(7):948-953.
+38. Simpson EL, Chalmers JR, Hanifin JM et al. Emollient enhancement of the skin
+barrier from birth offers effective atopic dermatitis prevention. J Allergy Clin
+Immunol. 2014; 134(4):818-23.
+39. Woods MT, Brown PA, Baig-Lewis SF, et al. Effects of a novel formulation of
+fluocinonide 0.1% cream on skin barrier function in atopic dermatitis. J Drugs
+Dermatol. 2011;10(2):171-176.
+40. Del Rosso JQ, Bhambri S. Daily application of fluocinonide 0.1% cream for the
+treatment of atopic dermatitis. J Clin Aesthet Dermatol. 2009;2(9):24-32.
+Management of Atopic Eczema
+41. Schmitt J, von Kobyletzki L, Svensson A, et al. Efficacy and tolerability of
+proactive treatment with topical corticosteroids and calcineurin inhibitors for atopic
+eczema: systematic review and meta-analysis of randomized controlled trials. Br
+J Dermatol. 2011;164(2):415-428.
+42. Callen J, Chamlin S, Eichenfield LF, et al. A systematic review of the safety of
+topical therapies for atopic dermatitis. Br J Dermatol. 2007;156(2):203-221
+43. Saeki H, Nakahara T, Tanaka A, et al.; Committee for Clinical Practice Guidelines
+for the Management of Atopic Dermatitis of Japanese Dermatological Association.
+Clinical Practice Guidelines for the Management of Atopic Dermatitis 2016. J
+Dermatol. 2016;43(10):1117-1145.
+44. Takeuchi S, Saeki H, Tokunaga S, et al. A Randomized, Open-Label, Multicenter
+Trial of Topical Tacrolimus for the Treatment of Pruritis in Patients with Atopic
+Dermatitis. Ann Dermatol. 2012; 24(2):144-150.
+45. Cury MJ, Martins C, Aoki V, et al. Topical tacrolimus for atopic dermatitis.
+Cochrane Database Syst Rev. 2015; (7):CD009864.
+46. Ashcroft DM, Chen LC, Garside R, et al. Topical pimecrolimus for eczema
+(Review). Cochrane Database Syst Rev. 2007; (4):CD005500.
+47. González-López G, Ceballos-Rodríguez RM, González-López JJ, et al. Efficacy
+and safety of wet wrap therapy for patients with atopic dermatitis: a systematic
+review and meta-analysis. Br J Dermatol. 2017;177(3):688-695.
+48. Paller AS, Tom WL, Lebwohl MG, et al. Efficacy and safety of crisaborole
+ointment, a novel, nonsteroidal phosphodiesterase 4 (PDE4) inhibitor for the
+topical treatment of atopic dermatitis (AD) in children and adults. J Am Acad
+Dermatol. 2016;75(3):494-503.e6.
+49. Garritsen FM, Brouwer MW, Limpens J, et al. Photo (chemo) therapy in the
+management of atopic dermatitis: an updated systematic review with implications
+for practice and research. Br J Dermatol. 2014;170(3):501-513.
+50. Apfelbacher CJ, Van Zuuren EJ, Fedorowicz Z, et al. Oral H1 antihistamines
+as monotherapy for eczema (Review). Cochrane Database Syst Rev. 2013;
+(2):CD007770.
+51. Sidbury Ra, Davis DM, Cohen DE et al. Guidelines of care for the management
+of atopic dermatitis: section 3. Management and treatment with phototherapy and
+systemic agents.J Am Acad Dermatol. 2014;71(2):327-349.
+52. Ring J, Gutermuth J. 100 years of hyposensitization: history of allergen-specific
+immunotherapy (ASIT). Allergy. 2011;66(6):713-724.
+53. Schmitt J, Schmitt N, Meurer M. Cyclosporin in the treatment of patients with
+atopic eczema – a systematic review and meta-analysis. J Eur Acad Dermatol
+Venereol. 2007;21(5):606-619.
+54. Roekevisch E, Spuls PI, Kuester D, et al. Efficacy and safety of systemic
+treatments for moderate-to-severe atopic dermatitis: a systematic review. J
+Allergy Clin Immunol. 2014;133(2):429-438.
+55. Schaeffeler E, Fischer C, Brockmeier D, et al. Comprehensive analysis of
+thiopurine S-methyltransferase phenotype-genotype correlation in a large
+population of German-Caucasians and identification of novel TPMT variants.
+Pharmacogenetics. 2004;14(7):407-417.
+56. Meggitt SJ, Gray JC, Reynolds NJ. Azathioprine dosed by thiopurine
+methyltransferase activity for moderate-to-severe atopic eczema: a double-blind,
+randomised controlled trial. Lancet. 2006;367(9513):839-846.
+57. Harper JI, Ahmed I, Barclay G, et al. Cyclosporin for severe childhood atopic
+dermatitis: short course versus continuous therapy. Br J Dermatol. 2000;142(1):52-58
+58. Haeck IM, Knol MJ, Ten BO, et al. Enteric-coated mycophenolate sodium
+versus cyclosporin A as long-term treatment in adult patients with severe atopic
+dermatitis: A randomized controlled trial. J Am Acad Dermatol. 2011;64(6):10741084.
+59. El-Khalawany MA, Hassan H, Shaaban D, et al. Methotrexate versus cyclosporine
+in the treatment of severe atopic dermatitis in children: a multicenter experience
+from Egypt. Eur J Pediatr. 2013;172(3):351-356
+Management of Atopic Eczema
+60. Simpson EL, Bieber T, Guttman-Yassky E, et al. Two Phase 3 Trials of Dupilumab
+versus Placebo in Atopic Dermatitis. N Engl J Med. 2016;375(24):2335-2348.
+61. Blauvelt A, de Bruin-Weller M, Gooderham M, et al. Long-term management of
+moderate-to-severe atopic dermatitis with dupilumab and concomitant topical
+corticosteroids (LIBERTY AD CHRONOS): a 1-year, randomised, double-blinded,
+placebo-controlled, phase 3 trial. Lancet. 2017;389(10086):2287-2303.
+62. Heil PM, Maurer D, Klein B, et al. Omalizumab therapy in atopic dermatitis:
+depletion of IgE does not improve the clinical course - a randomized, placebocontrolled and double blind pilot study. J Dtsch Dermatol Ges. 2010;8(12):990998.
+63. Iyengar SR, Hoyte EG, Loza A, et al. Immunologic effects of omalizumab in
+children with severe refractory atopic dermatitis: a randomized, placebo-controlled
+clinical trial. Int Arch Allergy Immunol. 2013;162(1):89-93.
+64. Bath-Hextall FJ, Birnie AJ, Ravenscroft JC, et al. Interventions to reduce
+Staphylococcus aureus in the management of atopic eczema: an updated
+Cochrane review. Br J Dermatol. 2010;163(1):12-26.
+65. Canpolat F, Erkoçoğlu M, Tezer H, et al. Hydrocortisone acetate alone or
+combined with mupirocin for atopic dermatitis in infants under two years of age - a
+randomized double blind pilot trial. Eur Rev Med Pharmacol Sci. 2012;16(14):19891993.
+66. Birnie AJ, Bath-Hextall FJ, Ravenscroft JC, et al. Interventions to reduce
+Staphylococcus aureus in the management of atopic eczema. Cochrane
+Database Syst Rev. 2008;(3):CD003871.
+67. Hon KL, Tsang YC, Lee VW, et al. Efficacy of sodium hypochlorite (bleach) baths
+to reduce Staphylococcus aureus colonization in childhood onset moderate-tosevere eczema: A randomized, placebo-controlled cross-over trial. J Dermatolog
+Treat. 2016;27(2):156-162.
+68. Wong SM, Ng TG, Baba R. Efficacy and safety of sodium hypochlorite (bleach)
+baths in patients with moderate to severe atopic dermatitis in Malaysia. J
+Dermatol. 2013;40(11):874-880.
+69. Huang JT, Abrams M, Tlougan B, et al. Treatment of Staphylococcus aureus
+colonization in atopic dermatitis decreases disease severity. Pediatrics.
+2009;123(5):e808-14.
+70. Chopra R, Vakharia PP, Sacotte R, et al. Efficacy of bleach baths in reducing
+severity of atopic dermatitis: A systematic review and meta-analysis. Ann Allergy
+Asthma Immunol. 2017;119(5):435-440.
+71. Tam HH, Calderon MA, Manikam L. Specific allergen immunotherapy for the
+treatment of Atopic Eczema. Cochrane Database Syst Rev. 2016; 2:CD008774.
+72. Koutroulis I, Pyle T, Kopylov D, et al. The Association between Bathing Habits and
+Severity of Atopic Dermatitis in Children. Clin Pediatr (Phila). 2016; 55(2):176181.
+73. Koutroulis I, Petrova K, Kratimenos P, et al. Frequency of bathing in the
+management of atopic dermatitis: to bathe or not to bathe? Clin Pediatr (Phila).
+2014; 53(7):677-681.
+74. Kramer MS, Kakuma R. Maternal dietary antigen avoidance during pregnancy or
+lactation, or both, for preventing or treating atopic disease in the child. Evid Based
+Child Health. 2014 Jun;9(2):484-485.
+75. Bath-Hextall F, Delamere FM, Williams HC. Dietary exclusions for improving
+established atopic eczema in adults and children: systematic review. Allergy.
+2009;64(2):258-264.
+76. Yang YW, Tsai CL, Lu CY. Exclusive breastfeeding and incident atopic dermatitis
+in childhood: a systematic review and meta-analysis of prospective cohort studies.
+Br J Dermatol. 2009;161(2):373-383.
+77. Osborn DA, Sinn J. Soy formula for prevention of allergy and food intolerance in
+infants. Cochrane Database Syst Rev. 2004;(3):CD003741. Update in:Cochrane
+Database Syst Rev. 2006;(4):CD003741.
+Management of Atopic Eczema
+78. Alexander DD, Schmitt DF, Tran NL, et al. Partially hydrolyzed 100% whey protein
+infant formula and atopic dermatitis risk reduction: a systematic review of the
+literature. Nutr Rev. 2010;68(4):232-245.
+79. Szajewska H, Horvath A. A partially hydrolyzed 100% whey formula and the risk
+of eczema and any allergy: an updated meta-analysis. World Allergy Organ J.
+2017;10(1):27
+80. Turati F, Bertuccio P, Galeone C, et al.; HYGIENE Study Group. Early weaning
+is beneficial to prevent atopic dermatitis occurrence in young children. Allergy.
+2016;71(6):878-888.
+81. Dang D, Zhou W, Lun ZJ, et al. Meta-analysis of probiotics and/or prebiotics for
+the prevention of eczema. J Int Med Res. 2013;41(5):1426-1436.
+82. Osborn DA, Sinn JK. Prebiotics in infants for prevention of allergy. Cochrane
+Database Syst Rev. 2013;(3):CD006474.
+83. Bath-Hextall FJ, Jenkinson C, Humphreys R, et al. Dietary supplements for
+established atopic eczema. Cochrane Database Syst Rev. 2012;(2):CD005205.
+84. Beckhaus AA, Garcia-Marcos L, Forno E, et al. Maternal nutrition during
+pregnancy and risk of asthma, wheeze, and atopic diseases during childhood: a
+systematic review and meta-analysis. Allergy. 2015;70(12):1588-1604.
+85. Gunaratne AW, Makrides M, Collins CT. Maternal prenatal and/or postnatal n-3
+long chain polyunsaturated fatty acids (LCPUFA) supplementation for preventing
+allergies in early childhood. Cochrane Database Syst Rev. 2015;(7):CD010085.
+86. Ersser SJ, Cowdell F, Latter S,et al. Psychological and educational interventions
+for atopic eczema in children. Cochrane Database Syst Rev. 2014; (1):CD004054.
+87. Sidbury Rb, Tom WL, Bergman JN, et al. Guidelines of care for the management
+of atopic dermatitis: Section 4. Prevention of disease flares and use of adjunctive
+therapies and approaches. J Am Acad Dermatol. 2014;71(6):1218-1233.
+88. Gu S, Yang AW, Xue CC, et al. Chinese herbal medicine (CHM) for atopic eczema
+(Review). Cochrane Database Syst Rev. 2013;(9):CD008642.
+89. Tan HY, Zhang AL, Chen D, et al. Chinese herbal medicine for atopic dermatitis:
+a systematic review. J Am Acad Dermatol. 2013;69(2):295-304.
+90. Gu S, Yang AW, Li CG, et al. Topical application of Chinese herbal medicine for
+atopic eczema: a systematic review with a meta-analysis. Dermatology. 2014;
+228(4):294-302.
+91. Vieira BL, Lim NR, Lohman ME, et al. Complementary and Alternative Medicine
+for Atopic Dermatitis: An Evidence-Based Review. Am J Clin Dermatol.
+2016;17(6):557-581.
+92. Bamford JT, Ray S, Musekiwa A, et al. Oral evening primrose oil and borage oil
+for eczema. Cochrane Database Syst Rev. 2013;(4):CD004416
+93. Evangelista MT, Abad-Casintahan F, Lopez-Villafuerte L. The effect of topical
+virgin coconut oil on SCORAD index, transepidermal water loss, and skin
+capacitance in mild to moderate pediatric atopic dermatitis: a randomized, doubleblind, clinical trial. Int J Dermatol. 2014;53(1):100-108.
+94. Heinlin J, Schiffner-Rohe J, Schiffner R, et al. A first prospective randomized
+controlled trial on the efficacy and safety of synchronous balneophototherapy
+vs. narrow-band UVB monotherapy for atopic dermatitis. J Eur Acad Dermatol
+Venereol. 2011;25(7):765-773.
+95. Ernst E. Homeopathy for eczema: a systematic review of controlled clinical trials.
+Br J Dermatol. 2012;166(6):1170-1172.
+96. Baron SE, Cohen SN, Archer CB, et al. Guidance on the diagnosis and clinical
+management of atopic eczema. Clin Exp Dermatol. 2012;37 Suppl 1:7-12.
+Management of Atopic Eczema
+Appendix 1
+EXAMPLE OF SEARCH STRATEGY
+The following Medical Subject Heading terms or free text terms were
+used either singly or in combination, search was limit to English, human
+and last 10 years:
+Clinical Question: Is biologics effective and safe in atopic eczema?
+1. ECZEMA/
+2. eczema*.tw.
+3. eczematous dermati*.tw.
+4. DERMATITIS, ATOPIC/
+5. (atopic adj1 (eczema or dermati*)).tw.
+6. (infantile adj1 eczema).tw.
+7. 1 or 2 or 3 or 4 or 5 or 6
+8. BIOLOGICAL PRODUCTS/
+9. biologics.tw.
+10. (product* adj1 (biologic* or natural)).tw.
+11. OMALIZUMAB/
+12. omalizumab.tw.
+13. xolair.tw.
+14. RITUXIMAB/
+15. antibody, rituximab cd20.tw.
+16. cd20 antibody, rituximab.tw.
+17. gp2013.tw.
+18. idec c2b8.tw.
+19. idec-c2b8.tw.
+20. idecc2b8.tw.
+21. ((idec c2b8 or idec-c2b8 or idecc2b8) adj1 antibody).tw.
+22. mabthera.tw.
+23. rituxan.tw.
+24. rituximab.tw.
+25. rituximab cd20 antibody.tw.
+26. RECOMBINANT FUSION PROTEINS/
+27. ((chimeric or fusion or hybrid) adj1 proteins, recombinant).tw.
+28. (recombinant adj1 (chimeric proteins or fusion proteins or hybrid
+proteins)).tw.
+29. 8 or 9 or 10 or 11 or 12 or 13 or 14 or 15 or 16 or 17 or 18 or 19 or
+20 or 21 or 22 or 23 or 24 or 25 or 26 or 27 or 28
+30. 7 and 29
+Management of Atopic Eczema
+Appendix 2
+CLINICAL QUESTIONS
+1. What are the reliable diagnostic criteria of atopic eczema?
+2. What are the supportive investigations in atopic eczema?
+3. What are the effective scoring tools in the assessment of atopic
+eczema?
+4. What are the co-morbidities associated with atopic eczema?
+5. What are the aggravating factors of atopic eczema?
+6. Are the following topical treatments effective and safe in atopic
+eczema?
+• Emollient
+• Topical corticosteroids
+• Topical calcineurin inhibitors
+• Topical antibiotics and antiseptics
+• Dressing
+• Others
+7. Are the following photo/light therapies effective and safe in atopic
+eczema?
+• Ultraviolet A
+• Ultraviolet B
+• Light-emitting diode
+• Laser
+8. Are the following systemic therapies effective and safe in atopic
+eczema?
+• Systemic immunomodulators (e.g systemic corticosteroids,
+methotrexate (MTX), azathioprine (AZA), cyclosporin (CsA),
+mycophenolate mofetil (MMF), leukotrine inhibitors, alitretonoin,
+interferon gamma)
+• Biologics
+• Allergen specific immunotherapy
+• Antimicrobials (e.g. antibiotics, antivirals, antifungals)
+• Antihistamines
+9. Is food antigen elimination diet during pregnancy and lactation
+effective and safe to prevent atopic eczema in babies with family
+history of atopy?
+10. Are the following dietary interventions effective and safe in
+treatment /prevention of atopic eczema?
+• Food antigen elimination (e.g. cow's milk/partially hydrolysed/
+elements formula/soy milk/goat's milk/egg/wheat/chicken/fish/
+peanuts)
+• Breastfeeding
+• Prebiotics and probiotics
+• Vitamins and minerals
+• Delayed introduction of complementary foods
+Management of Atopic Eczema
+11. Are the following traditional and complementary medicines effective
+and safe in the treatment of atopic eczema?
+• Herbal supplement
+• Acupuncture
+• Aromatherapy
+• Bath therapy
+• Chromotherapy
+• Autologous blood injection
+• Massage
+• Homeopathy
+12. Are
+psychosocial
+and
+counselling
+interventions
+(patient’s
+education) effective in atopic eczema?
+13. What are the referral criteria for atopic eczema?
+• Urgent referral
+• Non-urgent referral
+Management of Atopic Eczema
+Appendix 3
+GUIDELINES FOR THE DIAGNOSIS OF ATOPIC DERMATITIS
+(HANIFIN AND RAJKA CRITERIA)
+Must have 3 or more basic features:
+1. Pruritus
+2. Typical morphology and distribution:
+○ Flexural lichenification or linearity in adults
+○ Facial and extensor involvement in infants and children
+3. Chronic or chronically-relapsing dermatitis
+4. Personal or family history of atopy (asthma, allergic rhinitis, atopic
+dermatitis)
+Plus 3 or more minor features:
+1. Xerosis
+2. Ichthyosis/palmar hyperlinearity/keratosis pilaris
+3. Immediate (type 1) skin test reactivity
+4. Elevated serum IgE
+5. Early age of onset
+6. Tendency toward cutaneous infections (especially Staphylococcus
+aureus and Herpes simplex)/impaired cell-mediated immunity
+7. Tendency toward non-specific hand or foot dermatitis
+8. Nipple eczema
+9. Cheilitis
+10. Recurrent conjunctivitis
+11. Dennie-Morgan infraorbital fold
+12. Keratoconus
+13. Anterior subcapsular cataracts
+14. Orbital darkening
+15. Facial pallor/facial erythema
+16. Pityriasis alba
+17. Anterior neck folds
+18. Itch when sweating
+19. Intolerance to wool and lipid solvents
+20. Perifollicular accentuation
+21. Food intolerance
+22. Course influenced by environmental/emotional factors
+23. White dermographism/delayed blanch
+Source: Hanifin JM. Diagnostic features of atopic dermatitis. Acta Derm Venereol (Suppl).
+1980; 92:44-7.
+Management of Atopic Eczema
+Appendix 4
+INVESTIGATOR’S GLOBAL ASSESSMENT (IGA)
+Modified: Eichenfield LF, Lucky AW, Boguniewicz M, et al. Safety and efficacy of
+pimecrolimus (ASM 981) cream 1% in the treatment of mild and moderate atopic
+dermatitis in children and adolescents. J Am Acad Dermatol. 2002;46(4):495504.
+Score
+Description
+= Clear
+= Almost clear
+= Mild disease
+= Moderate disease
+= Severe disease
+= Very severe disease
+No inflammatory signs of atopic eczema
+Just perceptible erythema, and just perceptible
+papulation/infiltration
+Mild erythema, and mild papulation/infiltration
+Moderate erythema, and moderate
+papulation/infiltration
+Severe erythema, and severe papulation/infiltration
+Severe erythema, and severe papulation/infiltration
+with oozing/crusting
+0
+1
+2
+3
+4
+Management of Atopic Eczema
+Appendix 5
+DERMATOLOGY LIFE QUALITY INDEX
+Source: Department of Dermatology, Cardiff University. Quality of Life Questionnaires. (Available
+at: http://sites.cardiff.ac.uk/dermatology/quality-of-life/)
+The aim of this questionnaire is to measure how much your skin problem has affected
+your life OVER THE LAST WEEK. Please tick one box for each question.
+Hospital:
+Name:
+Age:
+Address:
+Date:
+Diagnosis:
+Score:
+DLQI
+1. Over the last week, how itchy, sore,
+painful or stinging has your skin been?
+2. Over the last week, how embarrassed
+or self-conscious have you been
+because of your skin?
+3. Over the last week, how much has your
+skin interfered with you going shopping
+or looking after your home or garden?
+4. Over the last week, how much has your
+skin influenced the clothes you wear?
+5. Over the last week, how much has your
+skin affected any social or leisure
+activities?
+6. Over the last week, how much has your
+skin made it difficult for you to do any
+sport?
+7. Over the last week, has your skin
+prevented
+you
+from
+working
+or
+studying?
+If "No", over the last week how much
+has your skin been a problem at work or
+studying?
+8. Over the last week, how much has your
+skin created problems with your partner or
+any of your close friends or relatives?
+9. Over the last week, how much has your
+skin caused any sexual difficulties?
+10. Over the last week, how much of a
+Problem has the treatment for your skin
+been, for example by making your home
+messy, or by taking up time?
+Very much
+A lot
+A little
+Not at all
+Very much
+A lot
+A little
+Not at all
+Very much
+A lot
+A little
+Not at all
+Very much
+A lot
+A little
+Not at all
+Very much
+A lot
+A little
+Not at all
+Very much
+A lot
+A little
+Not at all
+Very much
+A lot
+A little
+Not at all
+Very much
+A lot
+A little
+Not at all
+Very much
+A lot
+A little
+Not at all
+Very much
+A lot
+A little
+Not at all
+Very much
+A lot
+A little
+Not at all
+Please check you have answered EVERY question. Thank you.
+©AY Finlay, GK Khan, April 1992 www.dermatology.org.uk, this must not be copied without the permission of the authors.
+Not relevant
+Not relevant
+Not relevant
+Not relevant
+Not relevant
+Not relevant
+Not relevant
+Not relevant
+Management of Atopic Eczema
+Appendix 6
+CHILDREN’S DERMATOLOGY LIFE QUALITY INDEX
+Source: Department of Dermatology, Cardiff University. Quality of Life Questionnaires. (Available
+at: http://sites.cardiff.ac.uk/dermatology/quality-of-life/)
+The aim of this questionnaire is to measure how much your skin problem has affected
+your life OVER THE LAST WEEK. Please tick one box for each question.
+Hospital:
+Name:
+Age:
+Address:
+Date:
+Diagnosis:
+Score:
+CDLQI
+1. Over the last week, how itchy, "scratchy",
+sore or painful has your skin been?
+Very much
+A lot
+A little
+Not at all
+2. Over the last week, how embarrassed or
+self-conscious, upset or sad have you
+been because of your skin?
+Very much
+A lot
+A little
+Not at all
+3. Over the last week, how much has your
+skin affected your friendships?
+Very much
+A lot
+A little
+Not at all
+4. Over the last week, how much have you
+changed or worn different or special
+clothes/shoes because of your skin?
+Very much
+A lot
+A little
+Not at all
+5. Over the last week, how much has your
+skin trouble affected going out, playing, or
+doing hobbies?
+Very much
+A lot
+A little
+Not at all
+7. Last week
+was it school time?
+OR
+was it holiday time?
+6. Over the last week, how much have you
+avoided
+swimming or other sports
+because of your skin trouble?
+Very much
+A lot
+A little
+Not at all
+Very much
+A lot
+A little
+Not at all
+Very much
+A lot
+A little
+Not at all
+8. Over the last week, how much trouble have you
+had because of your skin with other people
+calling you names, teasing, bullying, asking
+questions or avoiding you?
+Very much
+A lot
+A little
+Not at all
+9. Over the last week, how much has your
+sleep been affected by your skin problem?
+Very much
+A lot
+A little
+Not at all
+10. Over the last week, how much of a problem
+has the treatment for your skin been?
+Very much
+A lot
+A little
+Not at all
+If school time: Over the
+last week, how much did
+your skin problem affect
+your school work?
+If holiday time: How much
+over the last week, has your
+skin problem interfered with
+your enjoyment of the holiday?
+Please check you have answered EVERY question. Thank you.
+©M.S. Lewis-Jones, A.Y. Finlay, May 1993, this must not be copied without the permission of the authors.
+Management of Atopic Eczema
+Appendix 7
+TOPICAL CORTICOSTEROIDS CLASS AND POTENCY
+(UK CLASSIFICATION)
+Adapted: British National Formulary (BNF). 69th edition. London: British Medical
+Association and Royal Pharmaceutical Society of Great Britain, 2015.
+Class &
+Potency
+Drug (Generic Name)
+Class I
+(Very Potent)
+Class II
+(Potent)
+Class III
+(Moderate)
+Class IV
+(Mild)
+• Clobetasol propionate 0.05% cream/ointment
+• Betamethasone dipropionate 0.05% cream/ointment
+• Betamethasone valerate 0.1% cream/ointment
+• Diflucortolone valerate 0.1% cream
+• Fluocinolone acetonide 0.025% cream
+• Fluticasone propionate 0.05% cream
+• Mometasone furoate 0.1% cream/ointment
+• Triamcinolone acetonide 0.1% cream
+• Betamethasone valerate 1 in 2 dilution (0.05%) cream/ointment
+• Betamethasone valerate 1 in 4 dilution (0.025%) cream/ointment
+• Clobetasone butyrate 0.05% cream/ointment
+• Betamethasone valerate 1 in 8 dilution (0.0125%) cream/ointment
+• Betamethasone valerate 1 in 10 dilution (0.01%) cream/ointment
+• Hydrocortisone acetate 1% cream/ointment
+Management of Atopic Eczema
+Appendix 8
+FINGERTIP UNIT
+HOW MUCH CREAM/OINTMENT SHOULD BE USED?
+Use index finger (first finger) to measure. One fingertip unit
+(FTU) is the amount of cream squeezed along index finger
+from tip to the first joint (as shown in picture).
+1 FTU = 0.5 g (covers the size of two palms of adult)
+For adults
+The diagram shows
+the amount of cream
+needed to cover
+different areas of the
+body (this is only a
+general guide).
+Face and neck: 2½ FTU
+Back (including buttocks): 7 FTU
+Front (chest and abdomen): 7 FTU
+One arm (not including hand): 3 FTU
+Both sides of one hand: 1 FTU
+One leg (not including foot): 6 FTU
+One foot: 2 FTU
+For children
+The amount of cream
+needed depends on
+the age of the child
+(this is only a general
+guide).
+Modified: Bewley A; Dermatology Working Group. Expert consensus: time for a change
+in the way we advise our patients to use topical corticosteroids. Br J Dermatol.
+2008;158(5):917-920.
+Mooney E, Rademaker M, Dailey R, et al. Adverse effects of topical corticosteroids
+in paediatric eczema: Australasian consensus statement. Australas J Dermatol.
+2015;56(4):241-251.
+Face
+and neck
+Arm
+and hand
+Leg
+and foot
+Back
+Front
+Child’s Age
+Number of FTU needed
+3 - 12 months
+1 - 3 years
+1 - 6 years
+6 - 10 years
+>10 years
+1
+1½
+1½
+2
+2½
+1
+1½
+2
+2½
+2
+1½
+2
+3
+4½
+7
+1
+2
+3
+3½
+7
+1½
+3
+3½
+5
+Management of Atopic Eczema
+Appendix 9
+SIX STEPS OF WET WRAP THERAPY
+STEP 1:
+Prepare the wet wrap/garment by soaking it in luke warm water and wring dry
+STEP 2:
+After a bath, apply emollients all over the body
+STEP 3:
+Apply prescribed anti-inflammatory medications over affected sites
+STEP 4:
+Apply the wet wrap/garment over the affected sites
+STEP 5:
+Apply a second layer of dry wrap/garment over the wet one
+STEP 6:
+Periodically wet the inner layer to keep it moist
+Source: Paediatric Dermatology Unit, Paediatric Department, Hospital Kuala Lumpur. Six
+Steps of Wet Wrap Therapy. HKL. (unpublished document)
+Management of Atopic Eczema
+Appendix 10
+WRITTEN ECZEMA ACTION PLAN
+Source: Paediatric Dermatology Unit, Paediatric Department, Hospital Kuala Lumpur.
+Written Eczema Plan. HKL. (unpublished document)
+GREEN = GO
+: Use preventive measures
+YELLOW = CAUTION: Use lower strength medications
+RED
+= FLARE
+: Use higher strength medications
+and consult your doctor
+NAME:
+REGULAR DAILY SKIN CARE
+1. Bath twice a day with gentle cleanser less than 10 minutes.
+2. Apply moisturiser to all body parts immediately after bath.
+3. Apply moisturiser to all body parts minimum thrice a day.
+4. Bath and moisturise your skin before bed.
+5. Wear suitable cloth/pyjamas, preferably cotton, to bed.
+SKIN CARE DURING WORSENING
+1. Continue regular skin care from GREEN phase.
+2. Apply anti-inflammatory creams till eczema clears.
+2a. Face: Apply hydrocortisone 1% twice a day for 5 - 7 days,
+then once a day for 5 - 7 days till eczema clears.
+2b. Body: Apply betamethasone (1:4) twice a day for 5 - 7 days,
+then once a day for 5 - 7 days till eczema clears.
+3. Take antihistamine (anti-itch), prescribed by doctor, half an
+hour before bed.
+4. If eczema gets better, revert back to GREEN phase.
+5. If eczema not responding within 3 days or eczema and itch
+worsens, move to RED phase.
+SKIN CARE DURING UNCONTROLLED ECZEMA
+1. Continue regular skin care form GREEN phase.
+2. Bath daily with antiseptic wash for 5 - 7 days.
+3. Apply anti-inflammatory creams till eczema clears.
+3a. Face: Apply betamethasone (1:8) twice a day for 5 - 7 days,
+then once a day for 5 - 7 days till eczema clears.
+3b. Body: Apply betamethasone (1:2) twice a day for 5 - 7 days,
+then once a day for 5 - 7 days till eczema clears.
+4. Take antihistamine (anti-itch), prescribed by doctor, half an
+hour before bed.
+5. If eczema gets better revert back to YELLOW phase, then
+subsequently to GREEN phase.
+6. If eczema not responding within 3 days or eczema and itch
+worsens, consult your doctor.
+ECZEMA UNDER CONTROL
+ECZEMA WORSENING
+UNCONTROLLED ECZEMA
+GREEN
+RED
+YELLOW
+Management of Atopic Eczema
+Appendix 11
+RECOMMENDED MEDICATION DOSING, SIDE EFFECTS AND CONTRAINDICATIONS FOR
+COMMONLY USED MEDICATIONS IN ATOPIC ECZEMA
+DRUG
+RECOMMENDED
+DOSAGE
+POSSIBLE SIDE EFFECTS
+CONTRAINDICATIONS
+SPECIAL PRECAUTIONS
+TOPICAL CORTICOSTEROIDS
+Mild
+Betamethasone Valerate
+1 in 10 dilution (0.01%) Cream/Ointment
+Betamethasone Valerate
+1 in 8 dilution (0.0125%) Cream/Ointment
+Hydrocortisone Acetate
+1% Cream/Ointment
+1 - 2 times daily
+1 - 2 times daily
+Worsening of untreated
+infection, contact dermatitis,
+perioral dermatitis, acne,
+depigmentation, dryness,
+hypertrichosis, secondary
+infection, skin atrophy, pruritus,
+tingling/stinging, rosacea,
+folliculitis, photosensitivity
+Moderate
+Betamethasone Valerate
+1 in 2 dilution (0.05%) Cream/Ointment
+Betamethasone Valerate
+1 in 4 dilution (0.025%) Cream/Ointment
+Clobetasone Butyrate
+0.05% Cream/Ointment
+Untreated bacterial, fungal
+or viral skin lesions in
+rosacea and perioral
+dermatitis
+Avoid prolonged use
+Caution when used on face or intertriginous
+and flexor areas
+Management of Atopic Eczema
+Appendix 11
+RECOMMENDED MEDICATION DOSING, SIDE EFFECTS AND CONTRAINDICATIONS FOR
+COMMONLY USED MEDICATIONS IN ATOPIC ECZEMA (CONT.)
+DRUG
+RECOMMENDED
+DOSAGE
+POSSIBLE SIDE EFFECTS
+CONTRAINDICATION
+SPECIAL PRECAUTIONS
+TOPICAL CORTICOSTEROIDS (continued)
+Mometasone Furoate
+0.1% Cream/Ointment
+Potent
+Betamethasone Dipropionate
+0.05% Cream/Ointment
+Betamethasone Valerate
+0.1% Cream/Ointment
+Fluocinolone Acetonide
+0.025% Cream
+Fluticasone Propionate
+0.05% Cream
+Triamcinolone Acetonide
+0.1% Cream
+1 - 2 times daily
+1 - 2 times daily
+Once daily
+Worsening of untreated
+infection, contact dermatitis,
+perioral dermatitis, acne,
+depigmentation, dryness,
+hypertrichosis, secondary
+infection, skin atrophy, pruritus,
+tingling/stinging, rosacea,
+folliculitis, photosensitivity
+Untreated bacterial, fungal
+or viral skin lesions,
+in rosacea and perioral
+dermatitis
+Avoid prolonged use.
+Caution when used on face or intertriginous
+and flexor areas
+Very Potent
+Clobetasol Propionate
+0.05% Cream/Ointment
+Management of Atopic Eczema
+Appendix 11
+RECOMMENDED MEDICATION DOSING, SIDE EFFECTS AND CONTRAINDICATIONS FOR
+COMMONLY USED MEDICATIONS IN ATOPIC ECZEMA (CONT.)
+DRUG
+RECOMMENDED
+DOSAGE
+POSSIBLE SIDE EFFECTS
+CONTRAINDICATION
+SPECIAL PRECAUTIONS
+Azathioprine
+-
+,
+TOPICAL CALCINEURIN INHIBITORS
+Tacrolimus 0.03% - 0.1% Ointment
+-
+Twice daily
+Hypersensitivity to tacrolimus.
+Pimecrolimus 1% Cream
+Twice daily
+Hypersensitivity to pimecrolimus.
+Burning, stinging, soreness,
+pruritus, skin disorders,
+headache, flu-like symptoms
+Application site reactions, risk
+for infections, headache, fever
+Use in patients with Netherton's
+syndrome or other skin diseases
+with barrier defect is not
+recommended
+Only to be used in children age two
+years and older
+1 - 3 mg/kg daily
+(Off-label use)
+Nausea, vomiting, pancreatitis,
+pericarditis, bone marrow
+depression (dose-related)
+characterised by anaemia,
+leukopenia, thrombocytopenia
+and rarely, aplastic anaemia,
+acute myeloid leukaemia,
+hematological toxicity,
+hypersensitivity reaction
+(Stevens-Johnson’s syndrome,
+toxic epidermal necrolysis),
+hepatotoxicity
+Hypersensitivity to azathioprine, history
+of treatment with alkylating agents (e.g.
+chlorambucil, cyclophosphamide)
+Thiopurine methyltransferase
+(TPMT) enzyme deficiency
+Women of childbearing age
+Screen for Hepatitis B, C and HIV
+before commencement
+Monitor FBC, RP and LFT two
+weeks after commencement and as
+needed subsequently
+SYSTEMIC (ORAL) IMMUNOMODULATING AGENTS
+Management of Atopic Eczema
+Appendix 11
+RECOMMENDED MEDICATION DOSING, SIDE EFFECTS AND CONTRAINDICATIONS FOR
+COMMONLY USED MEDICATIONS IN ATOPIC ECZEMA (CONT.)
+DRUG
+RECOMMENDED
+DOSAGE
+POSSIBLE SIDE EFFECTS
+CONTRAINDICATION
+SPECIAL PRECAUTIONS
+Cyclosporine A/Ciclosporin
+Hypersensitivity to cyclosporine,
+concomitant phototherapy
+SYSTEMIC (ORAL) IMMUNOMODULATING AGENTS (continued)
+Methotrexate
+2.5 - 5 mg/kg daily
+in two divided doses
+Hypertension, hepatoxicity, tremor,
+paraesthesia, hypertrichosis, oedema,
+acne, gingival hypertrophy,
+hyperkalaemia, increased
+susceptibility to infections,
+nephrotoxicity, seizures
+Limit use to two years to prevent
+increased risk of malignancy
+Avoid excessive sunlight exposure
+Pregnancy and breast feeding
+Screen for Hepatitis B, C and HIV
+before commencement
+Monitor FBC, RP and LFT two
+weeks after commencement and as
+needed subsequently
+10 - 25 mg weekly
+(0.2 - 0.5 mg/kg);
+not to exceed 30mg
+weekly
+(Off-label use)
+Gastrointestinal disturbances (e.g.
+diarrhoea, nausea, vomiting), bone
+marrow depression, aplastic
+anaemia, hepatotoxicity, renal
+failure, skin reactions (e.g.
+photosensitivity, toxic epidermal
+necrolysis) alopecia, dizziness,
+neurotoxicity, encephalopathy,
+seizure, infections
+Chronic liver disease, alcoholic
+liver disease, breast-feeding,
+hypersensitivity to methotrexate,
+evidence of immunodeficiency
+syndrome, pre-existing blood
+dyscrasias, pregnancy in patients
+with non-malignant disease
+Pre-existing peptic ulcer disease or
+ulcerative colitis
+Nephrotoxicity may occur especially
+at high doses
+Monitoring and dose adjustment for
+elderly
+Screen for Hepatitis B, C and HIV
+before commencement
+Monitor FBC, RP and LFT two
+weeks after commencement and as
+needed subsequently
+Management of Atopic Eczema
+Source: MIMS Drug Monograph, MIMS Product Monograph, and Truven Health Analytics Micromedex® Solutions 2018 at MIMS Gateway (Available at: https://
+online1.mimsgateway.com.my/)
+Appendix 11
+RECOMMENDED MEDICATION DOSING, SIDE EFFECTS AND CONTRAINDICATIONS FOR
+COMMONLY USED MEDICATIONS IN ATOPIC ECZEMA (CONT.)
+DRUG
+RECOMMENDED
+DOSAGE
+POSSIBLE SIDE EFFECTS
+CONTRAINDICATION
+SPECIAL PRECAUTIONS
+Mycophenolate Mofetil
+Hypersensitivity to mycophenolate
+Mycophenolate Sodium
+SYSTEMIC (ORAL) IMMUNOMODULATING AGENTS (continued)
+Prednisolone
+1.5 - 2 g daily in two
+divided doses
+(Off-label use)
+720 mg twice daily
+in two divided doses
+(Off-label use)
+Diarrhoea, dyspepsia, vomiting,
+abnormal liver function test, acne,
+leukopenia, sepsis, certain infections
+Avoid use of concomitant live
+vaccines
+Pregnancy and women of
+childbearing age
+Screen for Hepatitis B, C and HIV
+before commencement
+Monitor FBC, RP and LFT two
+weeks after commencement and as
+needed subsequently
+Adults:
+5 - 60 mg daily in
+2 - 4 divided doses
+Children:
+1 - 2 mg/kg daily in
+2 - 4 divided doses
+Maximum: 60 mg
+Fluid retention, hypertension, acne,
+Cushing's syndrome and growth
+retardation in children,
+hyperglycaemia, increased appetite,
+obesity, peptic ulcer, pancreatitis,
+osteoporosis, headache, seizure,
+psychotic disorder, glaucoma, druginduced myopathy, drug-induced
+adrenocortical insufficiency,
+superinfection
+Systemic fungal infections
+May exacerbate conditions of
+patients with hypothyroidism,
+cirrhosis, ulcerative colitis,
+hypertension, diabetes, peptic ulcer,
+osteoporosis, psychological
+disturbances, on-going or latent
+infection
+Use lowest effective dose; taper
+dose when necessary
+Management of Atopic Eczema
+LIST OF ABBREVIATIONS
+AE
+atopic eczema
+AZA
+azathioprine
+BSA
+body surface area
+CAM
+complementary and alternatives medicine
+Cer-Mg
+ceramide-magnesium
+CDLQI
+Children’s Dermatology Life Quality Index
+CI
+confidence interval
+CPG(s)
+clinical practice guidelines
+DASI
+Dyshidrotic Eczema Area and Severity Index
+DFI
+Dermatitis Family Impact
+DG
+Development Group
+DHA
+docosahexaenoic acid
+DLQI
+Dermatology Life Quality Index
+DNA
+deoxyribonucleic acid
+EASI
+Eczema Area and Severity Index
+EC-MPS
+enteric-coated mycophenolate sodium
+EPA
+eicosapentaenoic acid
+EPO
+evening primrose oil
+FTU
+fingertip unit
+GLA
+gamma-linolenic acid
+HPA
+hypothalamic-pituitary-adrenal
+HR
+hazard ratio
+IDQOL
+Infant’s Dermatology Quality of Life Index
+IFN-γ
+interferon gamma
+IgE
+immunoglobulin E
+IGA
+Investigators’ Global Assessment
+IL-4
+interleukin-4
+IL-13
+interleukin-13
+ISAAC
+International Study of Asthma and Allergies in Childhood
+IVIG
+intravenous immunoglobulin
+kg
+kilogramme
+MaHTAS
+Malaysian Health Technology Assessment Section
+MD
+mean difference
+mg
+milligramme
+MoH
+Ministry of Health
+MMF
+mycophenolate mofetil
+MRSA
+Methicillin-resistant staphylococcus aureus
+MTX
+methotrexate
+NB-UVB
+narrow band ultraviolet B
+OR(s)
+odds ratio(s)
+pHF-W
+partially-hydrolysed formula 100% whey
+POEM
+Patient-Orientated Eczema Measure
+PO-SCORAD
+Patient-Oriented Severity Scoring of Atopic Dermatitis
+QoL
+quality of life
+RC
+Review Committee
+RCT(s)
+randomised controlled trial(s)
+RNA
+ribonucleic acid
+RR
+relative risk
+RRR
+relative risk reduction
+SASSAD
+Six Area, Six Signs Atopic Dermatitis
+Management of Atopic Eczema
+ACKNOWLEDGEMENT
+The DG members of these guidelines would like to express their
+gratitude and appreciation to the following for their contributions:
+• Panel of external reviewers who reviewed the draft
+• Technical Advisory Committee of CPG for their valuable input and
+feedback
+• Health Technology Assessment and Clinical Practice Guidelines
+Council for approval of the CPG
+• Dr. Ana Fizalinda Abdullah Sani, Senior Principal Assistant
+Director, MaHTAS
+• Mr. Mohd Tholib Ibrahim on retrieval of evidence and Ms. Noormah
+Darus on critical appraisal in the CPG development
+• Ms. Gan Yan Nee, Principal Assistant Director, MaHTAS for
+illustrating the front cover of this CPG
+• All those who have contributed directly or indirectly to the
+development of the CPG
+DISCLOSURE STATEMENT
+The panel members of both Development Group and Review
+Committee had completed disclosure forms. None held shares in
+pharmaceutical firms or acts as consultants to such firms. Details are
+available upon request from the CPG Secretariat.
+SOURCE OF FUNDING
+The development of the CPG on Management of Atopic Eczema was
+supported financially in its entirety by the MoH Malaysia while the
+printing was partially funded by the Persatuan Dermatologi Malaysia.
+SCORAD
+Severity Scoring of Atopic Dermatitis
+SIT
+specific allergen immunotherapy
+SMD
+standardised mean difference
+TCIs
+topical calcineurin inhibitors
+TCM
+traditional and complementary medicine
+TCS
+topical corticosteroids
+TEWL
+transepidermal water loss
+TNF-α
+Tumour Necrosis Factor Alpha
+TPMT
+thiopurine methyltransferase
+UVA
+ultraviolet A
+UVA1
+ultraviolet A1
+VAS
+Visual Analogue Score
+VCO
+virgin coconut oil
+vs
+versus
+WEAP
+Written Eczema Action Plan
+WWT
+wet wrap therapy
+Management of Atopic Eczema
+wil

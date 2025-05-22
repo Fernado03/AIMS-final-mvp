@@ -1,0 +1,1452 @@
+B Canica Practice Gu
+J
+E-CIGARETIEOR ©
+VAPING PRODUCT. @
+@ehssocued |
+LUNG INJURY
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+Published by:
+Malaysian Health Technology Assessment Section (MaHTAS)
+Medical Development Division, Ministry of Health Malaysia
+Level 4, Block E1, Precinct 1
+Federal Government Administrative Centre 62590
+Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is MaHTAS. Content may be
+reproduced in any number of copies and in any format or medium
+provided that a copyright acknowledgement to MaHTAS is included and
+the content is not changed, not sold, nor used to promote or endorse
+any product or service, and not used in an inappropriate or misleading
+context.
+e-ISBN: 978-967-2887-10-2
+Available on the following websites:
+http://www.moh.gov.my
+http://www.acadmed.org.my
+Also available as an app for Android and IOS platform: MyMaHTAS
+STATEMENT OF INTENT
+These clinical practice guidelines (CPG) are meant to be guides for
+clinical practice, based on the best available evidence at the time of
+development. Adherence to these guidelines may not necessarily
+guarantee the best outcome in every case. Every healthcare provider is
+responsible for the management of his/her unique patient based on the
+clinical picture presented by the patient and the management options
+available locally.
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+UPDATING THE CPG
+These guidelines were issued in 2021 and will be reviewed in a
+minimum period of four years (2025) or sooner if new evidence becomes
+available. When it is due for updating, the Chairman of the CPG or
+National Advisor of the related specialty will be informed about it. A
+discussion will be done on the need for a revision including the scope of
+the revised CPG. A multidisciplinary team will be formed and the latest
+systematic review methodology used by MaHTAS will be employed.
+Every care is taken to ensure that this publication is correct in every
+detail at the time of publication. However, in the event of errors or
+omissions, corrections will be published in the web version of this
+document, which is the definitive version at all times. This version can
+be found on the websites mentioned above.
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+TABLE OF CONTENTS
+No.
+Title
+Page
+Levels of Evidence and Formulation of Recommendation
+i
+Key Recommendations
+ii
+Guidelines Development and Objectives
+iii
+Development Group
+vi
+Review Committee
+vii
+External Reviewers
+viii
+Algorithm on Management of E-Cigarette or
+xi
+Vaping Product Use-Associated Lung Injury (EVALI)
+1.
+INTRODUCTION
+1
+2.
+DIAGNOSIS
+3
+2.1 Clinical Presentation
+3
+2.2 History of E-Cig or Vaping Product Use for Patients with
+3
+Suspected EVALI
+2.3 Laboratory Investigation
+4
+2.4 Imaging
+5
+2.5 Bronchoscopy
+6
+2.6 Case Definitions
+7
+3.
+AETIOLOGY/CHEMICAL PROFILING
+9
+4.
+DIFFERENTIAL DIAGNOSIS
+11
+5.
+TREATMENT
+12
+6.
+REFERRAL/FOLLOW-UP
+15
+6.1 Indications for Referral/Admission
+15
+6.2 Management in Emergency Department/
+15
+Primary Care Facility
+6.3 Discharge from Hospital Admission
+16
+7.
+IMPLEMENTING THE GUIDELINES
+18
+7.1 Facilitating and Limiting Factors
+18
+7.2 Potential Resource Implications
+18
+8.
+REFERENCES
+20
+Appendix 1 Example of Search Strategy
+22
+Appendix 2 Clinical Questions
+24
+Appendix 3 Types of Vaping Products in Malaysia
+25
+Appendix 4 Imaging Features in EVALI
+27
+Appendix 5 EVALI Patient Follow-Up Checklist
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+List of Abbreviations
+30
+Acknowledgement
+30
+Disclosure Statement
+30
+Source of Funding
+30
+TABLE OF CONTENTS
+No.
+Title
+Page
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+i
+Level
+I
+II-1
+II-2
+II-3
+III
+Study design
+Evidence from at least one properly randomised controlled trial
+Evidence obtained from well-designed controlled trials without
+randomisation
+Evidence obtained from well-designed cohort or case-control
+analytic studies, preferably from more than one centre or
+group
+Evidence from multiple time series with or without intervention;
+dramatic results in uncontrolled experiments (such as the
+results of the introduction of penicillin treatment in the 1940s)
+could also be regarded as this type of evidence
+Opinions of respected authorities based on clinical experience;
+descriptive studies and case reports; or reports of expert
+committees
+LEVELS OF EVIDENCE
+SOURCE: US / CANADIAN PREVENTIVE SERVICES TASK FORCE 2001
+FORMULATION OF RECOMMENDATION
+In line with new development in CPG methodology, the CPG Unit of
+MaHTAS is adapting Grading Recommendations, Assessment,
+Development and Evaluation (GRADE) in its work process. The
+quality of each retrieved evidence and its effect size are carefully
+assessed/reviewed by the CPG Development Group. In formulating
+the recommendations, overall balances of the following aspects are
+considered in determining the strength of the recommendations:-
+• overall quality of evidence
+• balance of benefits versus harms
+• values and preferences
+• resource implications
+• equity, feasibility and acceptability
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+ii
+KEY RECOMMENDATIONS
+The following recommendations are highlighted by the CPG
+Development Group as the key recommendations that answer the
+main questions addressed in the CPG and should be prioritised for
+implementation.
+a.
+Diagnosis
+• Relevant laboratory investigations should be done to rule out other
+probable diagnoses before diagnosis of e-cigarette or vaping product
+use-associated lung injury (EVALI) can be made.
+• Chest X-ray should be done in all suspected EVALI cases.
+ Computed tomography scan of the chest should be performed if
+chest X-ray is normal.
+• Bronchoscopy may be performed if clinically indicated to exclude
+alternative diagnosis and not to confirm EVALI.
+• The diagnosis of EVALI should be made based on case definitions
+as outlined by the United States Centers for Disease Control and
+Prevention.
+b.
+Treatment
+• For patients suspected or confirmed of diagnosis of EVALI, these
+treatments may be initiated:
+ supplemental oxygen
+ antibiotics when there is diagnostic uncertainty
+ systemic corticosteroids based on the severity of the illness
+c.
+Referral/Follow-up
+• A physician should be consulted for any case suspected of EVALI at
+the emergency department or primary care facility.
+• Patients with EVALI should only be discharged when they fulfil the
+discharge criteria.
+ Upon discharge, hospital prescription should be given.
+ Follow-up should be done by the treating physician.
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+GUIDELINES DEVELOPMENT
+The members of the Development Group (DG) for these Clinical
+Practice Guidelines (CPG) were from the Ministry of Health (MoH) and
+the Ministry of Higher Education. There was active involvement from
+a multidisciplinary Review Committee (RC) during the process of the
+CPG development.
+This is the first edition of an evidence-based CPG on the Management
+of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI).
+Literature search was carried out using the following electronic
+databases: mainly Medline via Ovid and Cochrane Database of
+Systemic Reviews and others e.g. Pubmed and Centers for Disease
+Control and Prevention (refer to Appendix 1 for Example of Search
+Strategy). The search was limited to literature published on humans and
+in English. In addition, the reference lists of all retrieved literature and
+guidelines were searched to further identify relevant studies. Experts
+in the field were also contacted to identify further studies. All searches
+were conducted from 27 August 2020 to 1 September 2020. Literature
+searches were repeated for all clinical questions at the end of the CPG
+development process, allowing any relevant papers published before
+28 February 2021 to be included. Future CPG updates will consider
+evidence published after this cut-off date. The details of the search
+strategy can be obtained upon request from the CPG Secretariat.
+There was no relevant evidence-based CPG used as a reference in
+developing the MoH CPG on EVALI. A total of seven clinical questions
+were developed under three sections (diagnosis, treatment and referral/
+follow-up). Members of the DG were assigned individual questions
+within the sections (refer to Appendix 2 for Clinical Questions).
+The DG members met 12 times throughout the development of these
+guidelines. All literature retrieved were appraised by at least two DG
+members using Critical Appraisal Skill Programme checklist when
+applicable, presented in evidence tables and further discussed in
+DG meetings. All statements and recommendations subsequently
+formulated were agreed upon by both the DG and RC. Where evidence
+was insufficient, the recommendations were made by consensus of the
+DG and RC. There were only a few published articles on EVALI and all
+were of low level evidence. This CPG was developed largely based on
+the findings of reviews and observational studies, with local practices
+taken into consideration.
+The literature used in these guidelines were graded using the US/
+Canadian Preventive Services Task Force Level of Evidence (2001),
+while the grading of recommendation was done using the principles of
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+GRADE as much as possible (refer to the preceding page). The writing
+of the CPG strictly follows the requirement of Appraisal of Guidelines for
+Research and Evaluation (AGREE) II.
+Upon completion, the draft of the CPG was reviewed by external
+reviewers. It was also posted on the MoH Malaysia official website for
+feedback from any interested parties. The draft was finally presented to
+the Technical Advisory Committee for CPG, and the Health Technology
+Assessment and Clinical Practice Guidelines Council MoH Malaysia for
+review and approval. Details on the CPG development methodology
+by MaHTAS can be obtained from the Manual on Development and
+Implementation of Evidence-based Clinical Practice Guidelines
+published in 2015 (available at
+http://www.moh.gov.my/moh/resources/CPG_MANUAL_MAHTAS.
+pdf?mid=634).
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+v
+OBJECTIVES
+The objective of this CPG is to provide evidence-based recommendations
+on the management of EVALI on the following aspects:
+a) diagnosis
+b) treatment
+c) referral and follow-up
+CLINICAL QUESTIONS
+Refer to Appendix 2
+TARGET POPULATION
+Inclusion Criteria
+• All vape and e-cigarette users
+TARGET GROUP/USERS
+This document is intended to guide health professionals and relevant
+stakeholders in primary and secondary/tertiary care in the management
+of EVALI, including:
+i. doctors
+ii. allied health professionals
+iii. trainees and medical students
+iv. policymakers
+v. patients and their advocates
+vi. professional societies
+HEALTHCARE SETTINGS
+Primary and secondary/tertiary care settings
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+vi
+Dr. Azahirafairud Abdul Rahim
+Acute Internal Medicine Specialist
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Bushra Johari
+Lecturer & Clinical Radiologist
+Universiti Teknologi MARA, Selangor
+Dr. Fazlina Mohamed Yusoff
+Family Medicine Specialist
+Klinik Kesihatan Anika, Selangor
+Dr. Mohd Afiq Mohd Nor
+Emergency Physician
+Pusat Perubatan Universiti Malaya
+Kuala Lumpur
+Dr. Mohd. Aminuddin Mohd. Yusof
+Head, Clinical Practice Guidelines Unit
+MoH, Putrajaya
+Dr. Noorliza Mohamad Noordin
+Director & Consultant Public Health
+Physician
+National Public Health Laboratory
+Selangor
+Dr. Noorul Afidza Muhammad
+Respiratory Physician
+Hospital Serdang, Selangor
+Dr. Noriah Othman
+Pathologist
+Hospital Serdang, Selangor
+Dr. Norliana Ismail
+Public Health Physician &
+Senior Principal Assistant Director
+Disease Control Division, MoH, Putrajaya
+Ms. Sulastri Samsudin
+Head, Prevention Education Unit &
+Pharmacist, Pusat Racun Negara
+Universiti Sains Malaysia, Pulau Pinang
+Datin Dr. Zuhanis Abdul Hamid
+Thoracic Radiologist
+Institut Kanser Negara, Putrajaya
+DEVELOPMENT GROUP
+Chairperson
+Dr. Nurhayati Mohd Marzuki
+Director & Consultant Respiratory Physician
+Institut Perubatan Respiratori
+Kuala Lumpur
+Members (in alphabetical order)
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+Dr. Chin Pek Woon
+Head of Department & Consultant Physician
+Hospital Enche’ Besar Hajjah Khalsom
+Johor
+Associate Professor Dr. Farizah Mohd Hairi
+Lecturer & Public Health Physician
+Universiti Malaya, Kuala Lumpur
+Dr. Hidayah Shafie
+Emergency Physician
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Izzuna Mudla Mohamed Ghazali
+Deputy Director & Public Health Physician
+Malaysian Health Technology Assessment
+Section, MoH, Putrajaya
+Dr. Leong Yin Hui
+Lecturer
+Pusat Racun Negara
+Universiti Sains Malaysia, Pulau Pinang
+Associate Professor Dr. Mohamad Haniki
+Nik Mohamed
+Lecturer & Clinical Pharmacist
+Universiti Islam Antarabangsa Malaysia
+Pahang
+Dr. Mohammad Hanafiah Kreah
+Consultant Radiologist
+Sunway Medical Centre, Selangor
+Dr. Nazrila Hairizan Nasir
+Deputy Director (Primary Health)
+Family Health Development Division
+MoH, Putrajaya
+Dr. Nor Aryana Hassan
+Public Health Specialist & Head
+Tobacco Control & FCTC Sector, Disease
+Control Division, MoH, Putrajaya
+Dr. Norsiah Ali
+Consultant Family Medicine Specialist &
+Addiction Medicine Specialist
+Klinik Kesihatan Masjid Tanah, Melaka
+Dr. Nurahan Maning
+Consultant Microbiologist
+Hospital Raja Perempuan Zainab II, Kelantan
+Associate Professor Dr. Pang Yong Kek
+President
+Malaysian Thoracic Society
+vii
+REVIEW COMMITTEE
+The draft guidelines were reviewed by a panel of experts from both
+public and private sectors. They were asked to comment primarily on
+the comprehensiveness and accuracy of the interpretation of evidence
+supporting the recommendations in the guidelines.
+Chairperson
+Dr. Irfhan Ali Hyder Ali
+Consultant Respiratory Physician
+Hospital Pulau Pinang, Pulau Pinang
+Members (in alphabetical order)
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+viii
+Dr. Adi Osman
+Senior Consultant Emergency Physician & ED Critical Care
+Hospital Raja Perempuan Bainun, Perak
+Professor Dr. Harmy Mohamed Yusoff
+Dean of Medical Faculty & Consultant Family Medicine Specialist
+Universiti Sultan Zainal Abidin, Terengganu
+Dr. Henry D. Tazelaar
+Consultant & Geraldine Colby Zeiler Professor of Cytopathology
+Department of Laboratory Medicine & Pathology, Mayo Clinic Alix College of
+Medicine, Mayo Clinic
+Arizona, United States of America
+Dr. Mustafa Kamal Razak
+Consultant Respiratory Physician
+KPJ Penang Specialist Hospital, Pulau Pinang
+Dr. Noorasyikin Mohamed Arifin
+Internal Medicine Specialist
+Hospital Labuan, Labuan
+Associate Prof. Dr. Omar Mihat
+Lecturer & Consultant Public Health Physician
+Universiti Islam Antarabangsa Sultan Abdul Halim Muad’zam Shah, Kedah
+Dr. Raj Kumar a/l S. Maharajah
+General Practitioner, Klinik Lingam, Selangor
+President, Medical Practitioners Coalition Association of Malaysia (MPCAM)
+Professor Dr. Seth Kligerman
+Division Chief of Cardiothoracic Radiology
+Department of Radiology, University of California
+San Diego, United States of America
+Dr. Tie Siew Teck
+Consultant Respiratory Physician
+Hospital Umum Sarawak, Sarawak
+Dr. Wong Chee Kuan
+Head, Division of Respiratory Medicine & Consultant Respiratory Physician
+Pusat Perubatan Universiti Malaya, Kuala Lumpur
+EXTERNAL REVIEWERS (in alphabetical order)
+The following external reviewers provided feedback on the draft:
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+ix
+ALGORITHM ON MANAGEMENT OF E-CIGARETTE OR
+VAPING PRODUCT USE-ASSOCIATED LUNG INJURY (EVALI)
+*Refer to Subchapter 2.6 on Case Definitions
+**May require admission
+EVALI suspected based on
+history + chest X-ray
+Consultation with
+physician
+Work-up to rule out other
+differential diagnosis*
+Negative work-up*
+Positive work-up*
+Clinician review
+Treat accordingly
+Probable EVALI
+Confirmed EVALI
+Treatment**
+Notification
+Discharge and
+Follow-up
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+1. INTRODUCTION
+Electronic cigarette or e-cigarette (e-cig) is a handheld device equipped
+with aerosol generator, battery and solution storage area. Its purpose
+is delivery of nicotine or other chemicals via aerosolisation.1 It was
+invented in 2003 and since then marketed worldwide.2 It is believed that
+e-cig entered the Malaysian market in mid-2000s and gained popularity
+in 2010s.
+The first local study in 2016 showed an estimated figure of 600,000
+e-cig users.3 The number had increased to 1.1 million as reported in the
+Malaysian National Health and Morbidity Survey 2019 with the highest
+prevalence among those aged 20 to 24.4 In addition, the Tobacco and
+E-Cigarette Survey Among Malaysian Adolescents (TECMA) 2016
+reported 300,000 e-cig users among Malaysian youth aged 10 to 19.
+The highest prevalence was among those in the age group 16 to 19.5 In
+2018, a cross-sectional study among secondary school students ever
+used of any smoking products in the last 30 days in Kuala Lumpur
+showed a prevalence of 73% of e-cig users.6
+The Committee on the Review of the Health Effects of Electronic
+Nicotine Delivery Systems reported that exposure to nicotine and
+toxicants from the aerosolisation of e-cig ingredients was dependent on
+usage and characteristics of the device which influenced the variability
+of potentially toxic substances emitted.7
+Inhalation of e‑cig aerosol could potentially cause:2
+• adverse effects due to acute administration of nicotine, flavourants,
+chemicals, other particulates
+• accidental overdose of nicotine
+• developmental effects on the brain from nicotine exposure
+• uptake of subsequent illicit drug use
+• gateway to conventional cigarettes and dual use of both types of
+cigarettes
+• negative psychosocial health
+• battery explosion
+Health Effects of E-Cigarette Use Among U.S. Youth and Young Adults
+reported that delivery of nicotine from e‑cig was in doses range from
+negligible to larger than conventional cigarettes, while its second-hand
+nicotine exposure was comparable to conventional cigarettes.2
+E-cig can induce negative cardiovascular effects through various
+mechanisms e.g. oxidative stress, inflammation, DNA damage, arterial
+stiffness and, altered haemodynamics and platelet activity.8 Daily
+e-cig use is associated with increased odds of having myocardial
+infarction (OR=1.79, 95% CI 1.20 to 2.66).9 E-cig aerosol exposure is
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+also associated with respiratory symptoms in healthy individuals and
+increased symptoms of patients with asthma, cystic fibrosis and chronic
+obstructive pulmonary disease.10
+In July 2019, a large case series of pulmonary illnesses were reported
+in Illinois and Wisconsin, United States of America (USA). These
+were patients with history of e-cig use within 90 days of the onset
+of symptoms and had pulmonary infiltrate on imaging with no other
+contributable cause of the illness. They were termed as E-cigarette or
+Vaping Product Use-Associated Lung Injury (EVALI).11, level III
+A total of 2,807 cases of EVALI with 68 deaths were reported to the
+Centers for Disease Control and Prevention, USA until 18 February
+2020. Laboratory data suggested a strong link between vitamin E
+acetate and the outbreak of the disease in the country.12 In addition,
+analysis of THC-containing cartridges e-liquid and vapour had shown
+the presence of potential toxicants e.g. solvent-derived hydrocarbons,
+silicon conjugated compounds, etc.13
+Based on experience of CPG DG, several cases of probable EVALI
+had been highlighted among the clinicians in Malaysia. However, the
+number of cases maybe underreported due to lack of awareness. The
+development of this first evidence-based CPG on the Management of
+EVALI is timely with the emergence of this novel medical condition. It
+will guide the healthcare providers locally on the best practice in the
+management of EVALI.
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+2. DIAGNOSIS
+2.1 Clinical Presentation
+EVALI is a disease that may be missed due to lack of awareness among
+healthcare providers. In a nationwide study based on cases reported to
+Centers for Disease Control (CDC) and Prevention of USA, there were
+patients who initially presented to outpatient setting with EVALI-related
+symptoms but not admitted. From this cohort, out of those who were
+later admitted, 46% were fatal while 21% were non-fatal. The risk of
+mortality was higher among patients with co-morbidities i.e. respiratory
+disease, cardiac disease, mental health condition and obesity.14, level III
+Although CDC case definition stated 90 days, evidence showed that
+patients used e-cig up to the onset of illness and seek medical attention
+acutely soon after symptoms appeared.15, level III
+Symptoms commonly presented in EVALI are:11, level III; 16 - 17, level III
+• respiratory symptoms
+ shortness of breath
+ cough
+ chest pain
+• gastrointestinal symptoms
+ nausea
+ vomiting
+ diarrhoea
+ abdominal pain
+• constitutional symptom
+ fever
+Signs of EVALI that commonly observed are:11, level III; 16 - 17, level III
+• hypoxia
+• tachycardia
+• tachypnoea
+2.2 History of e-Cig or Vaping Product Use for Patients with
+Suspected EVALI
+Patients presented with EVALI symptoms should be asked on the use
+of e-cig or vaping products.
+Healthcare providers should employ non-judgemental, open-ended
+and private questioning sessions with patients.18, level III Confidentiality
+should be practised according to local guidelines.
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+• Questions on e-cig or vaping product use in patients with suspected
+EVALI:18 - 20, level III
+ e-cig use
+- time of last use
+- duration
+- method (aerosol, dabbing or dripping)
+- frequency
+- concomitant smoking products use or substances abuse
+ devices and e-liquids
+- product brand name
+- delivery system (open or closed - refer to Appendix 3 on
+Types of Vaping Products in Malaysia)
+- types of substances use (tetrahydrocannabinol/THC, cannabis,
+nicotine, modified products, additional substances)
+- product source
+2.3 Laboratory Investigation
+EVALI is a diagnosis of exclusion. Thus, laboratory investigations need
+to be done to rule out other probable diagnosis.
+There were no laboratory abnormalities specific for the diagnosis of
+EVALI. Several observational studies showed that most EVALI patients
+had elevated inflammatory markers. The patients had leucocytosis
+with neutrophil predominance and, high erythrocyte sedimentation rate
+(ESR), C-reactive protein (CRP) and procalcitonin. There was also mild
+elevation of liver enzymes.11, level III; 14, level III; 16, level III; 21, level III
+In a cross-sectional study, none of the EVALI patients had a
+microbiologically-confirmed infectious pneumonia. Additional inflammatory
+serologies (antinuclear antibody, antiglomerular basement membrane
+and antineutrophil cytoplasmic antibodies) were also negative.17, level III
+• Laboratory investigations for EVALI work-up will include:
+ full blood count
+ ESR
+ CRP
+ culture and sensitivity study - blood, sputum, urine
+ urinalysis
+ respiratory panel for influenza and other possible infectious
+pathogens
+ autoimmune screening
+• In local setting, tuberculosis and coronavirus disease (COVID-19)
+work-up has to be done.
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+Recommendation 1
+• Relevant laboratory investigations* should be done to rule out other
+probable diagnoses before diagnosis of e-cigarette or vaping product
+use-associated lung injury can be made.
+*Refer to the yellow box above.
+2.4 Imaging
+• Abnormal chest imaging, either chest X-ray (CXR) or computed
+tomography (CT) scan, is mandatory for the diagnosis of EVALI.
+• While CXR is often abnormal in EVALI cases, a normal CXR does
+not exclude the diagnosis. In the setting of a normal CXR in a high
+clinical suspicion of EVALI, a CT scan should be performed to better
+assess for lung injury.
+In a cross-sectional study involving 98 patients from Illinois and
+Wisconsin, chest imaging findings were positive in all cases of EVALI.
+These were based on either CXR or CT scan.11, level III
+Findings in CXR of EVALI patients include ground-glass opacities
+and consolidation which are usually bilateral and almost symmetric in
+distribution.22, level III The abnormalities are lower lobe predominant or
+diffuse in most cases with sparing of the heart border and subpleural
+region. Septal thickening manifesting as Kerley B lines can also be
+seen.23, level III
+Imaging findings of EVALI are better seen on CT scan compared with
+CXR. The common patterns seen on CT scan are those of acute lung injury
+(ALI), in the spectrum of diffuse alveolar damage (DAD) and organising
+pneumonia (OP) with bilateral relatively symmetrical multifocal groundglass opacities with or without consolidation. Conspicuous lobular
+and/or subpleural sparing is common as well as sparing around the
+peribronchovascular interstitium.23 - 24, level III Ill-defined centrilobular
+nodules, representing foci of airway-centered organising pneumonia on
+biopsy, are common and usually occur in conjunction with lower lobe or
+diffuse parenchymal opacity which can mimic the CT findings of acute
+hypersensitivity pneumonitis. Less commonly, centrilobular nodules
+may be diffuse with little or no associated ground-glass opacity. Septal
+thickening is a common finding and in some instances, a crazy paving
+can occur. Reverse halo or atoll signs are less common but may also
+be seen.24, level III
+Apart from DAD or OP, other less commonly described patterns of
+ALI in EVALI are diffuse alveolar haemorrhage (DAH) and acute
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+eosinophilic pneumonia-like pattern (AEP). On CT scan, DAH may be
+seen as multifocal ground-glass opacities, with or without consolidation
+and often with poorly defined centrilobular nodules. The AEP-like
+pattern has findings that overlap with the OP and DAD pattern but is
+associated with pronounced smooth interlobular septal thickening and
+pleural effusions secondary to increased vascular permeability.24, level III
+Mild and symmetrical hilar and mediastinal lymphadenopathy are
+common findings of EVALI.16, level III; 24, level III However, necrotic or calcified
+lymphadenopathy is not a feature. Although uncommon, patients with
+EVALI can present with pneumomediastinum and/or pneumothorax.
+Lung cysts/bullae are uncommon early injury but can occur during the
+reparative phase.11, level III; 23, level III Pulmonary embolism can occur in
+conjunction with EVALI but is uncommon.22, level III
+Refer to Appendix 4 on Imaging Features in EVALI.
+Recommendation 2
+• Chest X-ray should be done in all cases suspected of e-cigarette or
+vaping product use-associated lung injury.
+ Computed tomography scan of the chest should be performed if
+chest X-ray is normal.
+2.5 Bronchoscopy
+There is no clear role of bronchoscopy in the diagnosis of EVALI. Based
+on current evidence, there is no specific bronchoscopic findings that
+can confirm the diagnosis of EVALI. Bronchoscopy may be performed
+to exclude specific suspected alternative diagnosis where non-invasive
+methods are inadequate. It should be guided by clinical pre-test
+probabilities of the EVALI.15, level III
+Several observational studies showed predominance of macrophages
+and neutrophils, and scant eosinophils in cytology of bronchoalveolar
+lavage (BAL) in EVALI patients. Lipid-laden macrophages (LLMs) in
+BAL had been reported in most EVALI patients as well as asymptomatic
+persons who were e-cig users. Although LLMs were not specific for
+EVALI, their absence should prompt reconsideration of diagnosis. A
+diverse patterns of diffuse lung injury and inflammation were seen in
+histopathology examination of lung biopsy of EVALI patients, but none
+were pathognomonic. Thus, cytology and histopathology examination
+of lung biopsy specimens from bronchoscopy were nonspecific and
+could not confirm the diagnosis of EVALI.15, level III
+Findings of vitamin E acetate in BAL provided direct evidence of its
+existence at the primary site of injury among EVALI patients.25, level III
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+Recommendation 3
+• Bronchoscopy may be performed if clinically indicated to exclude
+alternative diagnosis and not to confirm e-cigarette or vaping product
+use-associated lung injury.
+2.6 Case Definitions
+The case definitions of EVALI recommended by Centers for Disease
+Control and Prevention of USA is shown below:26
+• 2019 Lung Injury Surveillance Primary Case Definitions:26
+ Confirmed Case:
+Using an e-cig (“vaping”) or dabbing* in 90 days prior to symptom onset
+AND
+Pulmonary infiltrate, e.g., opacities, on plain film chest radiograph
+or ground-glass opacities on chest CT
+AND
+Absence of pulmonary infection on initial work-up. Minimum
+criteria are:
+1. A negative respiratory viral panel
+AND
+2. A negative influenza polymerase chain reaction (PCR) or rapid
+test if local epidemiology supports influenza testing
+AND
+All other clinically indicated respiratory infectious disease testing
+(e.g., urine antigen for Streptococcus pneumoniae and Legionella,
+sputum culture if productive cough, BAL culture if done, blood
+culture, human immunodeficiency virus-related opportunistic
+respiratory infections if appropriate) are negative
+AND
+No evidence in medical record of alternative plausible diagnoses
+(e.g., cardiac, rheumatologic, or neoplastic process).
+ Probable Case:
+Using an e-cig (“vaping”) or dabbing* in 90 days prior to symptom
+onset
+AND
+Pulmonary infiltrate, e.g., opacities, on plain film chest radiograph
+or ground-glass opacities on chest CT
+AND
+Infection identified via culture or PCR, but clinical team** believes
+this infection is not the sole cause of the underlying lung injury OR
+minimum criteria to rule out pulmonary infection not met (testing
+not performed) and clinical team** believes infection is not the
+sole cause of the underlying lung injury.
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+AND
+No evidence in medical record of alternative plausible diagnoses
+(e.g., cardiac, rheumatologic, or neoplastic process).
+Footnotes
+*Using an electronic device (e.g. electronic nicotine delivery system
+(ENDS), electronic cigarette, e-cig, vaporiser, vape(s), vape pen,
+dab pen or other device) or dabbing to inhale substances (e.g.
+nicotine, marijuana, THC, THC concentrates, cannabidiol (CBD),
+synthetic cannabinoids, flavourings or other substances)
+**Clinical team caring for the patient
+Notes: These case definitions are meant for surveillance and not
+clinical diagnosis. The case definitions are subject to change and
+will be updated as additional information becomes available if
+needed.
+In USA, confirmed and probable EVALI cases are reported by the
+clinicians to the local health authorities.11, level III; 19, level III
+In our local setting, as EVALI is a new entity with an increasing trend
+of e-cig use, there is a need to report EVALI cases for surveillance
+purpose to MoH, Malaysia. The surveillance data can be used to plan
+for policy and guidance in clinical management.
+Recommendation 4
+• The diagnosis of e-cigarette or vaping product use-associated lung
+injury should be made based on case definitions as outlined by
+United States Centers for Disease Control and Prevention.
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+3. AETIOLOGY/CHEMICAL PROFILING
+E-cig is a device that produces an aerosol by heating a liquid which
+contains a solvent in one or more flavourings, with or without nicotine
+(also known as e-liquid). It is composed of an atomiser that uses
+electrical current from a battery to heat a metal coil. This aerosolises
+an e-liquid, which is conducted from a reservoir to the coil by a wick.
+Aerosol from e-cig may contain different chemical composition subject
+to device type, voltage used and e-liquid content.18, level III
+Generally, e-liquid constitutes varying ratios of vegetable glycerin (VG),
+propylene glycol (PG), nicotine, and flavouring agents. However, some
+studies detected more than 60 compounds in e-liquid, this includes
+chemicals which is not stated by the manufacturer.27, level III As e-cig
+metal components undergo repeated cycles of heating and cooling,
+traces of toxic metal can leach into the e-liquid and emitted through
+e-cig aerosol.27 - 28, level III
+Chemicals in e-liquid (e.g. PG and VG) and flavouring agent are
+considered to be “generally recognised as safe (GRAS)” by United
+States Food and Drug Administration (FDA) for oral consumption but
+not through inhalation. They will be converted to toxicant when heated
+during e-cig smoking.28, level III
+Recent evidence showed that vitamin E acetate had been detected in
+a high proportion of THC-containing products associated with EVALI
+cases.29, level III
+Contribution of chemicals of concerns in EVALI cases has been
+studied. These include chemicals in either THC- or non-THC-containing
+products. Thus, chemical profiling is important for ongoing surveillance
+of the potential toxicants that can be associated with EVALI.
+In a nationwide study of hospitalised EVALI patients in USA, the selfreported substance use in e-cig were 53% on both THC- and nicotinecontaining product, 33% exclusive THC-containing product and 14%
+exclusive nicotine-containing product.30, level III
+A small study on EVALI patients in Minnesota tested selected products
+because of available product volume and features that physically
+differentiated the cartridges showed that vitamin E acetate was the
+most common compound detected in THC-containing product. Issues
+faced in doing chemical profiling in the study include:29, level III
+• poor cooperation of the patients in providing product for testing
+• insufficient amount of material to be tested
+• toxicant of concern did not cover flavouring agents
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+In a systematic review of case reports on e-cig-related illness and injury,
+56% of patients who had respiratory symptoms reported using CBD/
+THC. Another 40% of patients used unknown/unspecified liquid while
+3% used nicotine. Further scientific research was warranted to study
+on the causal role of each of the e-liquid ingredients, their thermolysis
+byproducts, potential interactions and additive effects.31, level III
+Toxicology testing has been recommended to assess aetiologies of
+lung diseases instigated by substances of abuse. This need to done
+with proper patient consent.18, level III
+• Potential toxicants in e-liquid include PG, VG, flavouring agents,
+vitamin E acetate, CBD, THC and nicotine.
+• More strong evidence is warranted before proper chemical profiling
+can be recommended in cases of EVALI.
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+4. DIFFERENTIAL DIAGNOSIS
+The most common differential diagnoses of EVALI are infectious
+pneumonia and other inflammatory lung diseases due to its flu-like
+illness as listed below:15, level III
+• infectious pneumonia -
+ bacterial
+ fungal
+ viral
+ pneumocystis jirovecii
+• diffuse parenchymal lung diseases -
+ acute hypersensitivity pneumonitis
+ acute eosinophilic pneumonia
+ organising pneumonia
+ cellular non-specific interstitial pneumonia
+• other diffuse lung diseases -
+ acute respiratory distress syndrome
+ diffuse alveolar haemorrhage
+• Testing or empirical treatment for usual infectious pneumonia based
+on the probability of the illness is recommended.
+• Probability of alternative diagnosis increases when either:
+ absence of typical demographic and clinical features of EVALI
+ presence of atypical presentations
+ presence of predisposition for other illness
+• EVALI can be considered a leading or provisional diagnosis if none
+other illness is probable based on the above evaluation.15, level III
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+5. TREATMENT
+The treatment of EVALI is symptomatic based on the presenting
+symptoms which can be respiratory, gastrointestinal or constitutional
+in nature.
+For respiratory symptoms, the following are done:
+• Oxygenation
+Ensure adequate oxygenation via nasal cannula, non-invasive or
+invasive ventilation. In a cross-sectional study of 36 patients in
+Pittsburgh, 64% patients required supplemental oxygen therapy during
+admission with 20% on mechanical ventilation.32, level III
+• Antimicrobials
+In a multicentre cross-sectional study involving 60 patients, 90% of
+EVALI patients were given antibiotics due to overlapping presentation
+and diagnostic uncertainty.17, level III As community-acquired pneumonia
+is a more common cause for hypoxaemic respiratory failure, antibiotics
+are strongly recommended with sequential de-escalation if no evidence
+of pulmonary or bloodstream infection is found.21, level III
+Antibiotics coverage are recommended to be given empirically for at
+least 48 hours if history is unclear, if patient is intubated or has severe
+hypoxaemia despite supplemental oxygen.16, level III
+Alternative diagnosis of concomitant EVALI with infections may be
+considered when laboratory evidences of infections are positive
+but in whom clinicians feel that microbiologic diagnoses alone are
+incompatible with the clinical course or severity of the illness.32, level III
+• Treatment with empiric antimicrobials, including antivirals, should
+be considered in accordance with established local guidelines and
+microbiology pattern.20, level III
+• Corticosteroids
+A multicentre cross-sectional study showed a rapid improvement within
+days in 95% of EVALI patients received corticosteroids therapy. The
+initial corticosteroids dosing and duration of therapy varied with severity
+of illness at presentation. Patients admitted to the intensive care unit
+(ICU) were given higher doses and longer courses of corticosteroids
+while outpatients had short bursts of oral corticosteroids.17, level III
+In a narrative review, systemic corticosteroids and antibiotics were
+started immediately in severe cases. Majority of patients showed
+excellent response (either in clinical, radiological or pulmonary function)
+to methylprednisolone.21, level III
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+In less severe cases, infections were ruled out prior to initiation of
+corticosteroids.21, level III Oral prednisolone had also been administered
+in less severe hospitalised cases and outpatients.17, level III
+Most patients responded within a week of treatment. Thus,
+corticosteroids should be tapered down based on clinical improvement.
+There were no established guidelines on the duration of steroids
+in EVALI, but given good response and unfavourable side effects of
+corticosteroids, it was recommended no longer than two weeks.21, level III
+• Documented corticosteroids treatment in EVALI are:17, level III
+ initial daily dose for:
+ intravenous methylprednisolone is 125 mg/day (IQR 120 - 240)
+ oral prednisolone is 40 mg/day (IQR 40 - 60)
+ duration before tapering dose or stopping: 2 days (IQR 1 - 4)
+ total duration of therapy: 11 days (IQR 6 - 18)
+*There is no evidence on the use of hydrocortisone, dexamethasone
+and inhaled corticosteroids in EVALI.
+Treatment of gastrointestinal or constitutional symptoms are treated
+accordingly based on severity of the symptoms.
+Recommendation 5
+• In patients suspected or confirmed of diagnosis of e-cigarette or
+vaping product use-associated lung injury, these treatments may be
+initiated:
+ supplemental oxygen
+ antibiotics when there is diagnostic uncertainty
+ systemic corticosteroids based on the severity of the illness
+Tobacco cessation
+• Smoking of tobacco and tobacco products (cigarette, electronic
+cigarette/vape, shisha, pipe, cigar etc.) can lead to various noncommunicable diseases (NCDs). Worldwide, more than eight million
+people die every year because of this habit.33
+• Hence, the decision to integrate smoking treatment with NCDs is
+important to reduce the prevalence of NCDs and their complications.
+This decision was made during the World Health Organization
+Framework Convention on Tobacco Control (WHO FCTC) Steering
+Committee Meeting in December 2019 chaired by the Honourable
+Health Minister of Malaysia.
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+• The treatment for smoking should be initiated by the treating doctor
+based on the assessment and treatment of tobacco use disorder as
+in Table 1. Details on this can be found in the CPG on Treatment of
+Tobacco Use Disorder 2016, available at:
+https://www.moh.gov.my/moh/resources/Penerbitan/CPG/
+Respiratory/CPG_TobaccoDisorder.pdf
+Table 1. Assessment and treatment of tobacco use disorder
+ASSESSMENT AND TREATMENT
+1. Ask and document smoking status for all patients.
+2. Provide brief advice on quit smoking at every visit to all smokers.
+3. Assess level of nicotine addiction using Modified Fagerström
+Test for Cigarette Dependence Questionnaire (COMPULSORY)
+and verify smoking status using carbon monoxide breath
+analyser (IF AVAILABLE).
+4. Offer pharmacotherapy to all smokers who are attempting to
+quit, unless contraindicated.
+5. If selected, use nicotine replacement therapy (NRT) for at least
+eight to twelve weeks, whereas varenicline should be used for
+at least twelve weeks.
+6. Combination therapy (e.g. two NRTs, a non-NRT, e.g. bupropion
+with an NRT) is better than monotherapy in smoking cessation
+treatment and may be most useful for those smokers at highest
+risk of relapse.
+7. Use smoking cessation medications with caution in special
+populations
+(e.g.
+children
+and
+adolescents,
+pregnant,
+breastfeeding women, psychiatric and substance abuse
+disorder patients).
+8. Arrange a minimum of six to eight face to face follow-up
+sessions for smoking cessation interventions in six months
+through counselling support team (health education officer,
+pharmacists or any officer trained for quit smoking services).
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+6. REFERRAL/FOLLOW-UP
+6.1 Indications for Referral/Admission
+In view of the challenges in the diagnosis of EVALI, a diagnostic pathway
+to evaluate patients with suspected EVALI should be considered. This
+is due to the lack of a specific features for this clinical syndrome. If
+the history and imaging are suspicious for EVALI, patients should be
+admitted for thorough infectious and autoimmune work-up.16, level III
+In local setting, history and chest X-ray are sufficient as initial work-up
+at primary care level on suspected EVALI cases.
+• Hospital admission is highly recommended for patients with:20, level III;
+34, level III
+ decreased oxygen saturation (<95% on room air)
+ concurrent illness especially if respiratory distress is present
+ co-morbidities that compromise pulmonary reserve
+ unreliable access to medical care especially ability for follow-up
+within 24 - 48 hours and promptly in the event of rapidly worsening
+respiratory symptoms
+ poor social support
+Early follow-up within 24 - 48 hours post-discharge is essential due to
+the considerable degree of rehospitalisation and death among those
+with co-morbidities.34, level III
+6.2 Management in Emergency Department/Primary Care Facility
+Determining the need for hospital admission requires careful
+clinical judgement by the emergency physician due to high risk of
+rehospitalisation and mortality among the EVALI patients.19, level III
+• Criteria appropriate for outpatient management are:19, level III
+ normal oxygen saturation ≥95% with no respiratory distress on
+room air
+ absence of high-risk co-morbidities e.g. chronic obstructive
+pulmonary disease or congestive cardiac failure
+ availability of support system for outpatient follow-up
+ no significant diagnostic findings on initial emergency department
+(ED) workup
+The plan upon discharge from ED include:19, level III
+i. prescription of a short course oral corticosteroids with tapering
+dose depending on clinical severity
+ii. prescription of antibiotic/antiviral if warranted
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+iii. education on warning signs (refer to yellow box in Subchapter
+6.3)
+iv. follow-up in 24 - 48 hours
+If patient is seen in primary care facility, the same principles as above
+are applicable.34, level III
+In our local setting, for any suspected case of EVALI, a physician should
+be consulted for further management.
+Recommendation 6
+• A physician should be consulted for any case suspected of e-cigarette
+or vaping product use-associated lung injury for confirmation of
+diagnosis when seen at the emergency department or primary care
+facility.
+6.3 Discharge from Hospital
+Due to occurrence of adverse clinical outcomes among EVALI patients
+shortly after discharge, it is important to ensure that patients are clinically
+stable for at least 24 - 48 hours before discharge. There should be no
+clinically significant fluctuation in vital signs and patients should have a
+good post-hospital care transition.34, level III
+• Criteria to determine readiness for hospital discharge include:34, level III
+ patient is clinically stable for 24 - 48 hours before discharge
+ initial outpatient follow-up within 48 hours of discharge
+ instruction on discharge medication and counselling of patient is
+given
+ screening for mental health, substance use disorders and social
+support needs is established before discharge
+ counselling and offering e-cigarette and tobacco use cessation
+intervention, including behavioural intervention and medications
+have been discussed
+It is crucial to determine readiness for hospital discharge among EVALI
+patients as this can improve their outcomes.34, level III Patients with
+fatal cases are more likely than those with nonfatal cases to have a
+history of any respiratory disease, cardiac disease and any mental
+health condition.14, level III Thus, a holistic approach of discharge plan is
+essential.19, level III
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+• Discharge from hospital prescription may include:19, level III
+ prescription of a short course oral corticosteroids with appropriate
+dosage, duration and tapering
+ prescription of an oral antibiotic or antiviral if necessary
+ follow-up at outpatient clinic within 24 - 48 hours
+ education on strict return-to-ED warnings (development of new or
+worsening respiratory symptoms, with or without fever)20, level III
+ provision of access to outpatient smoking and vaping cessation
+facility
+In our local setting, since EVALI is not well established, the CPG DG
+recommends such cases to be followed–up by the treating physician.
+Recommendation 7
+• Patients with cigarette or vaping product use-associated lung injury
+should only be discharged when they fulfil the discharge criteria.*
+ Upon discharge, hospital prescription should be given.**
+ Follow-up should be done by the treating physician.
+*Refer to preceding yellow box on Criteria to determine readiness for
+hospital discharge.
+**Refer to preceding yellow box on Discharge from hospital prescription.
+Refer to Appendix 5 on EVALI Patient Follow-Up Checklist.
+Refer to Algorithm on Management of E-Cigarette or Vaping
+Product Use-Associated Lung Injury (EVALI).
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+7. IMPLEMENTING THE GUIDELINES
+The management of EVALI should be guided by evidence-based
+approach in order to provide quality care to the patients. Several factors
+may affect the implementation of recommendations in the CPG.
+7.1 Facilitating and Limiting Factors
+Existing facilitators for application of the recommendations in the CPG
+include:
+• wide dissemination of the CPG (soft- and hardcopies) to healthcare
+providers
+• training and updates on EVALI in relevant scientific and professional
+meeting, seminar, conference etc.
+• public awareness campaigns related to harmful effects of e-cigarette
+Existing barriers for application of the recommendations of the CPG
+are:
+• limited awareness and knowledge among healthcare providers on
+EVALI and its management
+• lack of awareness among patients, families/carers and community
+on EVALI
+• no surveillance system on EVALI locally
+7.2 Potential Resource Implications
+EVALI is a diagnosis of exclusion. Many tests are required to be done
+prior to confirmation of the diagnosis. Accessibility for imaging facilities
+especially CT scan is limited. Besides, many laboratory tests necessary
+to be performed in the work-up for the diagnosis are not easily available.
+Chemical profiling is another important factor to be addressed in
+identifying the probable toxicants in EVALI. However, many issues are
+faced in doing it which include:
+• poor cooperation of patients in providing product for testing
+• insufficient amount of material to be tested
+• toxicant of concern did not cover flavouring agents
+Currently, in local toxicology laboratories, not all toxicants can be tested
+due to lack of standardised testing methods and high cost involved.
+Surveillance system also need to be developed to capture the data
+on EVALI for policy planning and guidance in clinical management.
+Furthermore, high level of evidence is required to improve the
+management of the disease.
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+The following is proposed as clinical audit indicator for quality
+management of EVALI:
+*Target of 100%
+Implementation strategies will be developed following the approval of
+the CPG by MoH which include quick reference, launching of the CPG
+and, Training Module and training of healthcare providers in using it.
+Percentage of chest
+radiograph done in
+suspected case
+of EVALI*
+=
+Number of suspected cases of EVALI
+in the same period
+Number of chest radiograph done in
+suspected cases of EVALI in a period
+x100%
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+REFERENCES
+1. Brown CJ, Cheng JM. Electronic cigarettes: product characterisation and design considerations. Tob
+Control. 2014;23 Suppl 2(Suppl 2):ii4-10
+2. National Center for Chronic Disease Prevention and Health Promotion (US) Office on Smoking and
+Health. E-Cigarette Use Among Youth and Young Adults: A Report of the Surgeon General. Atlanta
+(GA): Centers for Disease Control and Prevention (US); 2016 (Available at https://www.ncbi.nlm.nih.
+gov/books/NBK538680/)
+3. Ab Rahman J, Mohd Yusoff MF, Nik Mohamed MH, et al. The Prevalence of E-Cigarette Use Among
+Adults in Malaysia. Asia Pac J Public Health. 2019;31(7_suppl):9S-21S
+4. Institute for Public Health (IPH), National Institutes of Health, Ministry of Health Malaysia. National
+Health and Morbidity Survey (NHMS) 2019: Vol. I: NCDs - Non-Communicable Diseases: Risk
+Factors and other Health Problems. Bandar Setia Alam: NIH; 2020
+5. Institute for Public Health (IPH) and International Islamic University Malaysia. National E-Cigarette
+Survey (NECS) 2016: Prevalence, Pattern and Perception Regarding E-Cigarette and Vape Use
+Among Malaysian Adults. Kuala Lumpur: IPH; 2017
+6. Nur Atikah AH, Wee LH, Nur Zakiah MS, et al. Factors associated with different smoking statuses
+among Malaysian adolescent smokers: a cross-sectional study. BMC Public Health. 2019;19(Suppl
+4):579
+7. National Academies of Sciences, Engineering and Medicine. Public health consequences of
+e-cigarettes. Washington, DC: The National Academies Press; 2018
+8. Buchanan ND, Grimmer JA, Tanwar V, et al. Cardiovascular risk of electronic cigarettes: a review of
+preclinical and clinical studies. Cardiovasc Res. 2020;116(1):40-50
+9. Alzahrani T, Pena I, Temesgen N, et al. Association Between Electronic Cigarette Use and Myocardial
+Infarction. Am J Prev Med. 2018;55(4):455-461. Erratum in: Am J Prev Med. 2019;57(4):579-584
+10. Thirión-Romero I, Pérez-Padilla R, Zabert G, et al. Respiratory Impact of Electronic Cigarettes and
+“Low-Risk” Tobacco. Rev Invest Clin. 2019;71(1):17-27
+11. Layden JE, Ghinai I, Pray I, et al. Pulmonary Illness Related to E-Cigarette Use in Illinois and
+Wisconsin - Final Report. N Engl J Med. 2020;382(10):903-916
+12. Outbreak of Lung Injury Associated with the Use of E-Cigarette, or Vaping, Products (Available at
+https://www.cdc.gov/tobacco/basic_information/e-cigarettes/severe-lung-disease.html)
+13. Muthumalage T, Friedman MR, McGraw MD, et al. Chemical Constituents Involved in E-Cigarette,
+or Vaping Product Use-Associated Lung Injury (EVALI). Toxics. 2020;8(2):25
+14. Werner AK, Koumans EH, Chatham-Stephens K, et al. Hospitalizations and Deaths Associated with
+EVALI. N Engl J Med. 2020;382(17):1589-1598
+15. Aberegg SK, et al. Diagnosis of EVALI: General Approach and the Role of Bronchoscopy. Chest.
+2020;158(2):820-827
+16. Kalininskiy A, Bach CT, Nacca NE, et al. E-cigarette, or vaping, product use associated lung injury
+(EVALI): case series and diagnostic approach. Lancet Respir Med. 2019;7(12):1017-1026
+17. Blagev DP, Harris D, Dunn AC, et al. Clinical presentation, treatment, and short-term outcomes of
+lung injury associated with e-cigarettes or vaping: a prospective observational cohort study. Lancet.
+2019;394(10214):2073-2083
+18. Belok SH, Parikh R, Bernardo J, et al. E-cigarette, or vaping, product use-associated lung injury: a
+review. Pneumonia (Nathan). 2020;12:12
+19. Aldy K, Cao DJ, Weaver MM, et al. E-cigarette or vaping product use-associated lung injury
+(EVALI) features and recognition in the emergency department. J Am Coll Emerg Physicians Open.
+2020;1(5):1090-1096
+20. Jatlaoui TC, Wiltz JL, Kabbani S, et al. Update: Interim Guidance for Health Care Providers for
+Managing Patients with Suspected E-cigarette, or Vaping, Product Use-Associated Lung Injury -
+United States, November 2019. MMWR Morb Mortal Wkly Rep. 2019;68(46):1081-1086
+21. Cherian SV, Kumar A, Estrada-Y-Martin RM. E-Cigarette or Vaping Product-Associated Lung Injury:
+A Review. Am J Med. 2020;133(6):657-663
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+22. Artunduaga M, Rao D, Friedman J, et al. Pediatric Chest Radiographic and CT Findings of Electronic
+Cigarette or Vaping Product Use-associated Lung Injury (EVALI). Radiology. 2020;295(2):430-438
+23. Kligerman S, Raptis C, Larsen B, et al. Radiologic, Pathologic, Clinical, and Physiologic Findings
+of Electronic Cigarette or Vaping Product Use-associated Lung Injury (EVALI): Evolving Knowledge
+and Remaining Questions. Radiology. 2020;294(3):491-505
+24. Panse PM, Feller FF, Butt YM, et al. Radiologic and Pathologic Correlation in EVALI. AJR Am J
+Roentgenol. 2020;215(5):1057-1064
+25. Blount BC, Karwowski MP, Morel-Espinosa M, Rees J, et al. Evaluation of Bronchoalveolar Lavage
+Fluid from Patients in an Outbreak of E-cigarette, or Vaping, Product Use-Associated Lung Injury -
+10 States, August-October 2019. MMWR Morb Mortal Wkly Rep. 2019;68(45):1040-1041. Erratum
+in: MMWR Morb Mortal Wkly Rep. 2020;69(4):116
+26. 2019 Lung Injury Surveillance Primary Case Definitions September 18, 2019 (Available at https://
+www.cdc.gov/tobacco/basic_information/e-cigarettes/assets/2019-Lung-Injury-Surveillance-CaseDefinition-508.pdf)
+27. Traboulsi H, Cherian M, Abou Rjeili M, et al. Inhalation Toxicology of Vaping Products and
+Implications for Pulmonary Health. Int J Mol Sci. 2020;21(10):3495
+28. Chun LF, Moazed F, Calfee CS, et al. Pulmonary toxicity of e-cigarettes. Am J Physiol Lung Cell Mol
+Physiol. 2017;313(2):L193-L20
+29. Taylor J, Wiens T, Peterson J, et al. Characteristics of E-cigarette, or Vaping, Products Used by
+Patients with Associated Lung Injury and Products Seized by Law Enforcement - Minnesota, 2018
+and 2019. MMWR Morb Mortal Wkly Rep. 2019;68(47):1096-1100
+30. Krishnasamy VP, Hallowell BD, Ko JY, et al. Update: Characteristics of a Nationwide Outbreak of
+E-cigarette, or Vaping, Product Use-Associated Lung Injury - United States, August 2019-January
+2020. MMWR Morb Mortal Wkly Rep. 2020;69(3):90-94
+31. Tzortzi A, Kapetanstrataki M, Evangelopoulou V, et al. A Systematic Literature Review of
+E-Cigarette-Related Illness and Injury: Not Just for the Respirologist. Int J Environ Res Public
+Health. 2020;17(7):2248
+32. Zou RH, Tiberio PJ, Triantafyllou GA, et al. Clinical Characterization of E-Cigarette, or Vaping,
+Product Use-associated Lung Injury in 36 Patients in Pittsburgh, Pennsylvania. Am J Respir Crit
+Care Med. 2020;201(10):1303-1306
+33. Tobacco (Available at https://www.who.int/news-room/fact-sheets/detail/tobacco)
+34. Evans ME, Twentyman E, Click ES, et al. Update: Interim Guidance for Health Care Professionals
+Evaluating and Caring for Patients with Suspected E-cigarette, or Vaping, Product Use-Associated
+Lung Injury and for Reducing the Risk for Rehospitalization and Death Following Hospital Discharge
+- United States, December 2019. MMWR Morb Mortal Wkly Rep. 2020;68(5152):1189-1194
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+Appendix 1
+EXAMPLE OF SEARCH STRATEGY
+Clinical Question: What are effective and safe treatments in EVALI?
+Database: Ovid MEDLINE(R) and Epub Ahead of Print, In-Process &
+Other Non-Indexed Citations, Daily and Versions(R) <1946 to August
+28, 2020>
+1.
+Lung injury/
+2.
+((lung or pulmonary) adj1 injur*).tw.
+3.
+Acute lung injury/
+4.
+(acute adj2 lung injur*).tw.
+5.
+1 or 2 or 3 or 4
+6.
+Vaping/
+7.
+vap*.tw.
+8.
+((electronic cigarette or e cigarette or e cig) adj2 use*).tw.
+9.
+Electronic Nicotine Delivery Systems/
+10. (electronic adj1 cigarette*).tw.
+11. e cigarette*.tw.
+12. e cig*.tw.
+13. electronic nicotine delivery system*.tw.
+14. 6 or 7 or 8 or 9 or 10 or 11 or 12 or 13
+15. 5 and 14
+16. EVALI.tw.
+17. 15 or 16
+18. THERAPEUTICS/
+19. therap*.tw.
+20. treatment*.tw.
+21. STEROIDS/
+22. steroid*.tw.
+23. corticosteroid*.tw.
+24. HYDROCORTISONE/
+25. hydrocortisone.tw.
+26. PREDNISOLONE/
+27. prednisolone.tw.
+28. METHYLPREDNISOLONE/
+29. methylprednisolone.tw.
+30. GLUCOCORTICOIDS/
+31. (glucocorticoid adj1 effect*).tw.
+32. glucocorticoid*.tw.
+33. CRITICAL CARE/
+34. ((critical or intensive) adj1 care).tw.
+35. (surgical intensive adj2 care).tw.
+36. NONINVASIVE VENTILATION/
+37. ((non invasive or non-invasive or noninvasive) adj2 ventilation*).
+tw.
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+38. INTUBATION/
+39. intubation*.tw.
+40. BRONCHODILATOR AGENTS/
+41. bronchodilator*.tw.
+42. (bronchodilator adj1 (agent* or effect*)).tw.
+43. supportive therap*.tw.
+44. supportive treatment*.tw.
+45. standard therap*.tw.
+46. standard treatment*.tw.
+47. or/18-46
+48. 17 and 47
+49. limit 50 to (english language and humans)
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+Appendix 2
+CLINICAL QUESTIONS
+Diagnosis
+i.
+What are the criteria to diagnose EVALI?
+- clinical
+presentation,
+laboratory
+investigations
+imaging,
+bronchoscopy
+ii. What is the probable aetiology of EVALI?
+- When is chemical profiling indicated in EVALI?
+iii. What are the differential diagnoses of EVALI?
+Treatment
+iv. What are effective and safe treatments in EVALI?
+Referral and follow-up
+v. What are the indications for referral/hospitalisation of EVALI
+patients?
+vi. What are the discharge criteria for EVALI patients?
+- outpatient and inpatient
+vii. What are the discharge plans for EVALI patients?
+- outpatient and inpatient
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+Appendix 3
+TYPES OF VAPING PRODUCTS IN MALAYSIA
+Type of e-cig
+delivery system
+•
+Features a
+prominent
+chamber (tank)
+•
+Refillable - users
+can open and fill
+the tank with their
+choice of e-liquid
+•
+Allows users
+to modify their
+devices
+•
+Also known as
+“tanks,” “e-vapors”
+and “mods”
+•
+Locally also known
+as vape
+Other examples of
+open system design
+Description
+Picture
+Open System
+Device:
+E-liquid:
+Tank
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+•
+Uses tanks, which
+come ready-filled
+with e-liquid
+•
+Disposable or
+reloadable with
+prefilled cartridges
+•
+Does not allow
+users to fill their
+devices and add
+other chemicals
+•
+Also known as
+pods
+Other examples of
+closed system design
+Closed System
+Catridge
+Catridge
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+Appendix 4
+IMAGING FEATURES IN EVALI
+Figure I
+a. Chest radiograph shows infiltrates with sparing of subpleural region
+(black arrows) and interlobular septal thickening (white arrowhead).
+b. Corresponding CT image shows perihilar predominant groundglass opacity with prominent sparing of subpleural interstitium both
+peripherally and centrally (black arrows) with intermixed areas of
+lobular sparing. In addition, there is sparing of peribronchovascular
+interstitium (white arrows). Septal thickening (black arrowhead) and
+scattered centrilobular nodules (white arrowhead) are present.
+Source: Kligerman S, Raptis C, Larsen B, et al. Radiologic, Pathologic, Clinical,
+and Physiologic Findings of Electronic Cigarette or Vaping Product Useassociated Lung Injury (EVALI): Evolving Knowledge and Remaining
+Questions. Radiology. 2020;294(3):491-505
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+Figure II
+Axial CT scan in lung window:
+A - Presence of bilateral ground glass opacities (asterisks) with
+subpleural sparing at the upper lobes (black arrowheads).
+B - Bilateral lung consolidation at the lower lobes (black arrows).
+Source: Radiology Department, Hospital Umum Sarawak, Kuching, Sarawak
+Figure III
+Coronal maximum intensity projection image showing diffuse
+centrilobular nodularity.
+Source: Kligerman S, Raptis C, Larsen B, et al. Radiologic, Pathologic, Clinical,
+and Physiologic Findings of Electronic Cigarette or Vaping Product Useassociated Lung Injury (EVALI): Evolving Knowledge and Remaining
+Questions. Radiology. 2020;294(3):491-505
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+Appendix 5
+EVALI PATIENT FOLLOW-UP CHECKLIST
+The following should be done on EVALI patients on follow-up:
+Activity
+Comment
+a. At 48 hours follow-up:
+• Continue education about EVALI
+• Assess and encourage adherence with medication regimens
+• Ask about side effects of treatment
+• Reinforce the importance of abstinence from e-cig product use
+• Facilitate referrals to other providers or services indicated
+by patients’ medical history or conditions
+• Provide relevant resources on social, mental health and
+substance use disorder
+b. At 1 - 2 months follow-up
+• Repeat all the steps at 48 hours follow-up
+• Do spirometry
+• Do chest X-ray
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+AEP
+acute eosinophilic pneumonia
+ALI
+acute lung injury
+BAL
+bronchoalveolar lavage
+CBD
+cannabidiol
+CDC
+Centers for Disease Control
+CPG(s)
+clinical practice guidelines
+CRP
+C-reactive protein
+CT
+computed tomography
+CXR
+chest X-ray
+DAD
+diffuse alveolar damage
+DAH
+diffuse alveolar haemorrhage
+DG
+development group
+e-cig
+electronic cigarette
+ED
+emergency department
+ESR
+erythrocyte sedimentation rate
+EVALI
+E-Cigarette or Vaping Product Use-Associated Lung Injury
+GRADE
+Grading Recommendations, Assessment, Development and Evaluation
+ICU
+intensive care unit
+IQR
+interquartile range
+LLMs
+lipid-laden macrophages
+MaHTAS
+Malaysian Health Technology Assessment Section
+mg
+milligram
+MoH
+Ministry of Health
+OP
+organising pneumonia
+PCR
+polymerase chain reaction
+PG
+propylene glycol
+RC
+review committee
+THC
+tetrahydrocannabinol
+US(A)
+United States (of America)
+VG
+vegetable glycerin
+LIST OF ABBREVIATIONS
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+ACKNOWLEDGEMENT
+The DG members of these guidelines would like to express their
+gratitude and appreciation to the following for their contributions:
+• Panel of external reviewers who reviewed the draft
+• Technical Advisory Committee of CPG for their valuable input and
+feedback
+• Health Technology Assessment and Clinical Practice Guidelines
+Council for approval of the CPG
+• Ms. Rosnani Abdul Latip and Mr. Wan Mohd Nor Fakarudin Wan
+Abdullah on retrieval of evidence
+• Dr. Sri Rao Siva and Dr. Nur Hanani Mat Daud on CPG development
+• Dr. Muhamad Hairul Nizam Abd Hamid on the design of CPG cover
+• All those who have contributed directly or indirectly to the
+development of the CPG
+DISCLOSURE STATEMENT
+The panel members of both DG and RC had completed disclosure
+forms. None held shares in pharmaceutical firms or acts as consultants
+to such firms. Details are available upon request from the CPG
+Secretariat.
+SOURCE OF FUNDING
+The development of the CPG on Management of E-Cigarette or Vaping
+Product Use-Associated Lung Injury (EVALI) was supported financially
+in its entirety by the MoH Malaysia.
+Management of E-Cigarette or Vaping Product Use-Associated Lung Injury (EVALI)
+“assusuent secon
+Leos 1 Pec
+‘00 Posie Maye

@@ -1,0 +1,4817 @@
+MANAGEMENT OF
+DEMENTIA
+Management of Dementia (Third Edition)
+Published by:
+Malaysian Health Technology Assessment Section (MaHTAS)
+Medical Development Division, Ministry of Health Malaysia
+Level 4, Block E1, Precinct 1
+Federal Government Administrative Centre 62590
+Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is MaHTAS. Content may be
+reproduced in any number of copies and in any format or medium
+provided that a copyright acknowledgement to MaHTAS is included and
+the content is not changed, not sold, nor used to promote or endorse
+any product or service, and not used in an inappropriate or misleading
+context.
+e-ISBN: 978-967-2887-16-4
+Available on the following websites:
+http://www.moh.gov.my
+http://www.acadmed.org.my
+https://www.psychiatry-malaysia.org
+https://msgm.com.my
+Also available as an app for Android and IOS platform: MyMaHTAS
+STATEMENT OF INTENT
+These clinical practice guidelines (CPG) are meant to be guides for
+clinical practice, based on the best available evidence at the time of
+development. Adherence to these guidelines may not necessarily
+guarantee the best outcome in every case. Every health care provider
+is responsible for the management of his/her unique patient based
+on the clinical picture presented by the patient and the management
+options available locally.
+Management of Dementia (Third Edition)
+UPDATING THE CPG
+These guidelines were issued in 2021 and will be reviewed in a
+minimum period of four years (2025) or sooner if new evidence becomes
+available. When it is due for updating, the Chairperson of the CPG or
+National Advisor of the related specialty will be informed about it. A
+discussion will be done on the need for a revision including the scope of
+the revised CPG. A multidisciplinary team will be formed, and the latest
+systematic review methodology used by MaHTAS will be employed.
+Every care is taken to ensure that this publication is correct in every
+detail at the time of publication. However, in the event of errors or
+omissions, corrections will be published in the web version of this
+document, which will be the definitive version at all time. This version
+can be found on the websites mentioned above.
+Management of Dementia (Third Edition)
+TABLE OF CONTENTS
+No.
+Title
+Page
+Levels of Evidence and Formulation of Recommendation
+i
+Key Recommendations
+ii
+Guidelines Development and Objectives
+v
+Development Group
+viii
+Review Committee
+ix
+External Reviewers
+x
+Algorithm 1. Early Detection of Dementia
+xi
+Algorithm 2. Diagnosis of Dementia
+xii
+Algorithm 3. Treatment of Dementia
+xiii
+1.
+INTRODUCTION
+1
+2.
+RISK FACTORS AND RISK REDUCTION STRATEGIES
+3
+2.1 Risk Factors
+3
+2.2 Risk Reduction Strategies
+5
+3.
+ASSESSMENT AND DIAGNOSIS 9
+3.1 Assessment
+10
+3.1.1 Clinical Assessment
+10
+3.1.2 Imaging and Biomarkers
+12
+3.2 Diagnostic Criteria
+14
+3.3 Stages
+15
+4.
+TREATMENT
+16
+4.1 Non-pharmacological Interventions
+16
+4.2 Pharmacological Interventions
+19
+4.2.1 Alzheimer’s Disease
+20
+4.2.2 Vascular Dementia
+23
+4.2.3 Lewy Body Disease (Dementia with Lewy Body/
+25
+Parkinson’s Disease Dementia)
+4.2.4 Frontotemporal Dementia
+26
+4.2.5 Behavioural and Psychological Symptoms
+26
+4.2.6 Potentially Inappropriate Prescription
+29
+5.
+TRADITIONAL AND COMPLEMENTARY MEDICATION
+31
+6.
+MILD COGNITIVE IMPAIRMENT
+32
+7.
+SPECIAL POPULATION
+34
+7.1 Acquired Brain Injury
+34
+7.2 Alcohol-related Dementia
+34
+7.3 HIV-Associated Neurocognitive Disorders
+Management of Dementia (Third Edition)
+TABLE OF CONTENTS
+No.
+Title
+Page
+8.
+CAREGIVER SUPPORT
+37
+9.
+LEGAL AND ETHICAL ISSUES
+39
+10. PALLIATIVE AND END-OF-LIFE CARE
+41
+11. REFERRAL
+44
+12. IMPLEMENTINGTHE GUIDELINES
+45
+12.1 Facilitating and Limiting Factors
+45
+12.2 Potential Resource Implications
+45
+REFERENCES
+47
+Appendix 1 Example of Search Strategy 55
+Appendix 2 Clinical Questions 57
+Appendix 3 10 Warning Signs of Dementia
+58
+Appendix 4 Initial Assessment Tools
+59
+Appendix 5 Diagnostic and Statistical Manual of
+61
+Mental Disorder Fifth Edition (DSM-5)
+Appendix 6 International Statistical Classification of 63
+Diseases and Related Health Problems,
+10th Revision (ICD-10)
+Appendix 7 a. The Global Deterioration Scale for 65
+Assessment of Primary Degenerative
+Dementia
+b. Functional Assessment Staging (FAST) 68
+Appendix 8 Medications Used for the Treatment of 70
+Dementia
+Appendix 9 Anticholinergic Burden Scores 75
+Appendix 10 Suggested Guide to Review and Deprescribe 76
+(Potentially Inappropriate Prescription/
+Psychotropic) in Dementia
+Appendix 11 Important Points for Caregiver of People with 77
+Dementia
+Appendix 12 Useful Resources
+80
+Appendix 13 Advance Care Planning
+81
+List of Abbreviations 82
+Acknowledgement 85
+Disclosure Statement
+85
+Source of Funding
+Management of Dementia (Third Edition)
+i
+LEVELS OF EVIDENCE
+SOURCE: US / CANADIAN PREVENTIVE SERVICES TASK FORCE 2001
+FORMULATION OF RECOMMENDATION
+In line with new development in CPG methodology, the CPG Unit of
+MaHTAS is adapting Grading Recommendations, Assessment,
+Development and Evaluation (GRADE) in its work process. The
+quality of each retrieved evidence and its effect size are carefully
+assessed/reviewed by the CPG Development Group. In formulating
+the recommendations, overall balances of the following aspects are
+considered in determining the strength of the recommendations:-
+• overall quality of evidence
+• balance of benefits versus harms
+• values and preferences
+• resource implications
+• equity, feasibility and acceptability
+Level
+I
+II-1
+II-2
+II-3
+III
+Study design
+Evidence from at least one properly randomised controlled trial
+Evidence obtained from well-designed controlled trials without
+randomisation
+Evidence obtained from well-designed cohort or case-control
+analytic studies, preferably from more than one centre or
+group
+Evidence from multiple time series with or without intervention;
+dramatic results in uncontrolled experiments (such as the
+results of the introduction of penicillin treatment in the 1940s)
+could also be regarded as this type of evidence
+Opinions of respected authorities based on clinical experience;
+descriptive studies and case reports; or reports of expert
+committees
+Management of Dementia (Third Edition)
+ii
+KEY RECOMMENDATIONS
+The following recommendations are highlighted by the CPG
+Development Group as the key recommendations that answer the
+main questions addressed in the CPG and should be prioritised for
+implementation.
+Risk Reduction
+• Risk reduction strategies should be advocated to reduce the risk of
+developing cognitive decline and/or dementia. These include:
+ physical activity
+ tobacco cessation
+ interventions for alcohol use disorders
+ management of hypertension
+ management of diabetes
+Assessment and Diagnosis
+• The diagnosis of dementia should be based on detailed history and
+physical examination, and supported by cognitive, functional and
+behavioural evaluation.
+• Structural neuroimaging (computed tomography or magnetic
+resonance imaging) should be done in evaluation of dementia to
+exclude reversible causes of cognitive decline and other intracranial
+pathology.
+• Electroencephalogram should be considered in rapidly progressive
+cognitive decline and atypical features of dementia.
+• Diagnosis of dementia should be made based on Diagnostic and
+Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) or the
+International Classification of Diseases, Tenth Revision (ICD-10).
+Non-Pharmacological Treatment
+• To improve cognitive function in mild to moderate dementia, cognitive
+stimulation therapy and physical activity should be offered.
+• In people with dementia having behavioural and psychological
+symptoms:
+ explore and address possible clinical or environmental causes/
+triggering factors
+ offer psychosocial and environmental interventions as initial and
+ongoing treatment:
+- psychological intervention for depressive symptoms and/or
+anxiety
+- personalised and tailored activities for agitation and aggression
+Management of Dementia (Third Edition)
+Pharmacological Treatment
+• Donepezil should be offered in Alzheimer’s Disease (AD) of all
+severity.
+ Rivastigmine is an option in mild to moderate AD.
+• Memantine may be considered in moderate to severe AD as
+monotherapy or in combination with acetylcholinesterase inhibitors
+(AChEI).
+• AChEI or memantine may be considered in vascular dementia.
+• Rivastigmine or donepezil may be considered for dementia with
+Lewy body and Parkinson’s disease dementia.
+• Antipsychotics may be considered for behavioural and psychological
+symptoms in people with dementia (PWD) where there is a risk of
+harming themselves or others.
+• Antidepressants:
+ may be considered for PWD who have agitation
+ may be prescribed for PWD with pre-existing severe mental
+health problem
+• The use of anticholinergic medications in dementia should be
+done cautiously with regular review of indication and deprescribed
+whenever possible.
+Caregiver Support
+• Caregivers should be actively involved and supported in the
+management of dementia.
+ This includes assessment of the burden of caregivers.
+Legal and Ethical Issues
+• If there is any doubt regarding people with dementia (PWD)’s
+decision-making capacity, a formal assessment of decision-making
+capacity should be carried out.
+• A doctor should comply with a patient’s unequivocal written directive
+to refuse a particular treatment if that decision was made while the
+patient had mental capacity.
+• PWD (particularly moderate to severe) should be assessed for their
+driving ability if they still wish to drive.
+Management of Dementia (Third Edition)
+Palliative and End-of-Life Care
+• Physical restraints should be avoided in dementia.
+• Advance care planning should be considered in the management of
+dementia once the diagnosis is established.
+Referral
+• All patients with suspected dementia should be referred to a geriatric
+psychiatrist/psychiatrist, geriatrician or neurologist for assessment,
+diagnosis and management.
+Management of Dementia (Third Edition)
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+GUIDELINES DEVELOPMENT
+The members of the Development Group (DG) for these Clinical
+Practice Guidelines (CPG) were from the Ministry of Health (MoH)
+and Ministry of Higher Education. There was active involvement of a
+multidisciplinary Review Committee (RC) during the process of the
+CPG development.
+A systematic literature search was carried out using the following
+electronic databases: mainly Medline via Ovid and Cochrane Database
+of Systemic Reviews and others e.g. PubMed and Guidelines
+International Network (refer to Appendix 1 for Example of Search
+Strategy). The search was limited to literature published on humans,
+“all adults (19 plus years)”, publication from year “2009 to Current”
+and English language. In addition, the reference lists of all retrieved
+literature and guidelines were searched and, experts in the field
+contacted to identify relevant studies. All searches were conducted
+from 19 Nov 2018 to 26 Feb 2019. Literature searches were repeated
+for all clinical questions at the end of the CPG development process
+allowing any relevant papers published before 31 January 2021 to be
+included. Future CPG updates will consider evidence published after
+this cut-off date. The details of the search strategy can be obtained
+upon request from the CPG Secretariat.
+References were also made to other CPGs on Dementia e.g.:
+• Dementia: assessment, management and support for people living
+with dementia and their carers [National Institute for Health and Care
+Excellence (NICE), 2018]
+• Clinical Practice Guidelines and Principles of Care for People with
+Dementia [National Health and Medical Research Council (NHMRC),
+2016]
+• Risk Reduction of Cognitive Decline and Dementia WHO Guidelines
+[World Health Organization (WHO), 2019]
+These CPGs were evaluated using the Appraisal of Guidelines for
+Research and Evaluation (AGREE) II prior to them being used as
+references.
+A total of 14 clinical questions (CQ) were developed under different
+sections. Members of the DG were assigned individual questions within
+these sections (refer to Appendix 2 for Clinical Questions). The DG
+members met 26 times throughout the development of these guidelines.
+All literature retrieved were appraised by at least two DG members using
+Critical Appraisal Skill Programme checklist, presented in evidence
+tables and further discussed in each DG meetings. All statements and
+recommendations formulated after that were agreed upon by both the
+Management of Dementia (Third Edition)
+DG and RC. Where evidence was insufficient, the recommendations
+were made by consensus of the DG and RC. This CPG was developed
+largely based on the findings of systematic reviews, meta-analyses and
+clinical trials, with local practices taken into consideration.
+The literature used in these guidelines were graded using the US/
+Canadian Preventive Services Task Force Level of Evidence (2001),
+while the grading of recommendation was done using the principles of
+GRADE (refer to the preceding page). The writing of the CPG follows
+strictly the requirement of AGREE II.
+On completion, the draft of the CPG was reviewed by external
+reviewers. It was also posted on the MoH Malaysia official website for
+feedback from any interested parties. The draft was finally presented
+to the Technical Advisory Committee for CPG, and the HTA and CPG
+Council MoH Malaysia for review and approval. Details on the CPG
+development methodology by MaHTAS can be obtained from Manual
+on Development and Implementation of Evidence-based Clinical
+Practice Guidelines published in 2015 (available at http://www.moh.
+gov.my/moh/resources/CPG_MANUAL_MAHTAS.pdf?mid=634).
+Management of Dementia (Third Edition)
+OBJECTIVES
+The objectives of the CPG are to provide evidence-based
+recommendations on the management of dementia in the following
+aspects:
+a. risk factors
+b. assessment and diagnosis
+c. treatment
+d. referral and follow-up
+CLINICAL QUESTIONS
+Refer to Appendix 2.
+TARGET POPULATION
+Inclusion Criteria
+Adults with:
+• dementia
+• mild cognitive impairment
+Exclusion Criteria
+Adults with:
+• learning disabilities who develop dementia
+TARGET GROUP/USERS
+This document is intended to guide those involved in the management
+of dementia at any healthcare level including:
+i. doctors
+ii. allied health professionals
+iii. trainees and medical students
+iv. patients and their caregivers/advocates
+v. professional organisations
+HEALTHCARE SETTINGS
+Primary, secondary and tertiary care settings
+Management of Dementia (Third Edition)
+DEVELOPMENT GROUP
+Chairperson
+Dr. Chan Yee Fai
+Consultant Geriatric Psychiatrist
+Hospital Kuala Lumpur, Kuala Lumpur
+Members (in alphabetical order)
+Dr. Ian Lloyd Anthony
+Consultant Forensic Psychiatrist
+Hospital Bahagia Ulu Kinta, Perak
+Dr. Hor Jyh Yung
+Consultant Neurologist
+Hospital Pulau Pinang, Pulau Pinang
+Dr. Mohd Aminuddin Mohd Yusof
+Public Health Physician & Head of CPG Unit
+MaHTAS, Ministry of Health, Putrajaya
+Dr. Noor Ayuni Bazura Muhamad
+Senior Principal Assistant Director
+MaHTAS, Ministry of Health, Putrajaya
+Dr. Nor ‘izzati Saedon
+Consultant Geriatrician
+Pusat Perubatan Universiti Malaya
+Kuala Lumpur
+Dr. Kenny Ong Kheng Yee
+Consultant Neuropsychiatrist
+Hospital Kuala Lumpur, Kuala Lumpur
+Mr. Rajesweran Ramalingam
+Pharmacist
+Hospital Kuala Lumpur, Kuala Lumpur
+Ms. Rosita Abd Rahman
+Occupational Therapist
+Hospital Tuanku Ja’afar, Negeri
+Sembilan
+Dr. Suhaila Mohamad Zahir
+Consultant Geriatric Psychiatrist
+Hospital Tuanku Jaafar, Negeri Sembilan
+Dr. Teh Hoon Lang
+Consultant Geriatrician
+Hospital Sultanah Bahiyah, Kedah
+Dr. Valarmathi Masilamani
+Family Medicine Specialist
+Klinik Kesihatan Batu, Kuala Lumpur
+Dr. Zaleha Jusoh
+Family Medicine Specialist
+Klinik Kesihatan Marang, Terengganu
+Management of Dementia (Third Edition)
+REVIEW COMMITTEE
+The draft guidelines were reviewed by a panel of experts. They were
+asked to comment primarily on the comprehensiveness and accuracy
+of the interpretation of evidence supporting the recommendations in the
+guidelines.
+Chairperson
+Dr. Hjh. Salina Abdul Aziz
+Psychiatry Head of Service & Senior Consultant Psychiatrist
+Hospital Kuala Lumpur, Kuala Lumpur
+Members
+Dr. Izzuna Mudla Mohamed Ghazali
+Deputy Director & Public Health
+Physician
+MaHTAS, Ministry of Health, Putrajaya
+Associate Prof. Dr. Ng Chong Guan
+Consultant Psychaitrist
+Malaysian Psychiatric Association
+Dr Nurashikin Ibrahim
+Public Health Physician
+Mental Health Sector, Disease Control
+Division, Ministry of Health, Putrajaya
+Ms. Rosmaliah Alias
+Pharmacist
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Ruziaton Hasim
+Consultant Family Physician Specialist
+Klinik Kesihatan Pandamaran,
+Selangor
+Dr. Santhi Datuk Puvanarajah
+Head of Neurology Department &
+Senior Consultant Neurologist
+Hospital Kuala Lumpur, Kuala Lumpur
+Prof. Dr. Shahrul Bahyah Kamaruzzaman
+Senior Lecturer & Consultant Geriatrician
+Pusat Perubatan Universiti Malaya
+Kuala Lumpur
+Mr. Thillainathan Krishnan
+Occupational Therapist
+Family Health Development Division
+Ministry of Health, Putrajaya
+Dr. Yau Weng Keong
+Head of Medical Department &
+Senior Consultant Geriatrician
+Hospital Kuala Lumpur, Kuala Lumpur
+Datuk Dr. Yim Khai Kee
+Patient Advocate
+Alzheimer’s Disease Foundation Malaysia
+Management of Dementia (Third Edition)
+EXTERNAL REVIEWERS (in alphabetical order)
+The following external reviewers provided feedback on the draft:
+Dr. Alan Pok Wen Kin
+Consultant Geriatrician
+Hospital Kuala Lumpur, Kuala Lumpur
+Professor Dr. Andrew CK Law
+Vice Dean (International Student
+Services) &
+Head, Department of Psychiatry
+Royal College of Surgeons in Ireland &
+University College Dublin (Malaysia
+Campus), Pulau Pinang
+Dr. Emma Fazilah Zulkifli
+Family Physician Specialist
+Klinik Famili Emma
+Subang Jaya, Selangor
+Professor Dr. Hj. Ismail Drahman
+Senior Consultant Geriatric Psychiatrist
+Hospital Sentosa, Sarawak
+Dr. Jeffrey Kirwan
+Consultant Old Age Psychiatrist
+Eastern Health, Melbourne, Australia
+Associate Prof. Dr. Lim Wee Shiong
+Senior Consultant Geriatrician
+Institute of Geriatrics and Active Aging
+Tan Tock Seng Hospital, Singapore
+Mahmud Abu Bakar
+Patient Advocate
+Kuala Lumpur
+Dr. Mark Tan Kiak Min
+Coordinator, Clinical Ethics
+Consultation
+Service, Hospital UiTM & Lecturer
+Universiti Teknologi Mara, Selangor
+Dato’ Dr. Md. Hanip Rafia
+Senior Consultant Neurologist
+Kuala Lumpur
+Dr. Noraliza Noordin Merican
+Public Health Physician
+Elderly Health Sector, Family Health
+Section, Family Health Development
+Division, Ministry of Health, Putrajaya
+Dr. Soraya Kunanayagam
+Consultant Geriatrician
+Gleneagles Hospital, Kuala Lumpur
+Dr. Suraya Yusoff
+Consultant Geriatric Psychiatrist
+Johor
+YTM Dato’ Dr. Tunku Muzafar Shah
+Tunku
+Jaafar Laksmana
+Consultant Geriatrician
+Hospital Selayang, Selangor
+Professor Dr. Wendy Burn
+Consultant in Old Age Psychiatry
+Leeds and York Partnership NHS
+Foundation Trust, United Kingdom
+Dr. Wong Ping Foo
+Family Medicine Specialist
+Klinik Kesihatan Cheras Baru
+Kuala Lumpur
+Associate Prof. Dr. Zainol Akbar Zainal
+Clinical Pharmacist
+University of Cyberjaya, Selangor
+Dr. Zanariah Mat Saher
+Consultant Geriatric Psychiatrist
+Hospital Kuala Lumpur, Kuala Lumpur
+Management of Dementia (Third Edition)
+ALGORITHM 1: EARLY DETECTION OF DEMENTIA
+*Refer to Chapter 3 on Diagnosis and Assessment
+NO
+NO
+YES
+YES
+YES
+YES
+YES
+NO
+NO
+NO
+Presence of symptoms suggestive of dementia (including subjective memory
+complaint, changes in activity of daily living and/or caregivers concerns), clinician
+suspicion and patients at increased risk of dementia
+Perform clinical assessment:
+• History from patients and/or caregivers
+• Examination
+ Physical including cardiovascular and neurological systems
+ Mental state and cognition (e.g. mini-Cog/AMTS/MMSE)
+Abnormalities
+detected on clinical
+assessment
+Any
+abnormalities
+present
+Provide reassurance
+Treat and reassess
+Refer to specialist
+services/memory clinic
+Findings
+meet criteria for
+dementia
+Symptoms
+remain
+Patient is
+cognitively impaired
+but criteria for dementia
+not fulfilled
+Consider referral to
+a specialist and or
+reassess in six months
+Provide
+reassurance
+Provide reassurance or
+referral as appropriate
+AMTS = Abbreviated Mental Test Score
+MMSE = Mini Mental State Examination
+Perform laboratory tests*
+Management of Dementia (Third Edition)
+ALGORITHM 2: DIAGNOSIS OF DEMENTIA
+Referral on possible diagnosis of dementia
+Perform clinical assessment:
+• history from patients and/or caregivers
+• examination
+ physical
+ cognition (e.g. MMSE, MoCA)
+ mental state (e.g. GDS, CSDD, NPI)
+ function (e.g. IADL/ADL)
+ others - caregivers burden (e.g. ZBI)
+Reassess after 6 months
+Consider other diagnosis
+Patient is cognitively
+impaired
+YES
+YES
+YES
+NO
+NO
+NO
+• Laboratory tests for dementia screening to
+exclude potentially reversible causes (full
+blood count, biochemistry tests, thyroid
+function test, serum vitamin B12 and folate
+levels, VDRL and HIV tests)
+Dementia or mild
+cognitive impairment
+• Perform MRI/CT brain
+• EEG if indicated
+DEMENTIA
+Determine type of dementia
+MCI
+Alzheimer’s
+disease
+Vascular
+Dementia
+Dementia with Lewy
+Body/Parkinson’s
+Disease Dementia
+Frontotemporal
+Dementia
+Other types of dementia
+• Mixed dementia
+• Related to medical
+conditions
+• HIV/TBI/alcohol-related
+dementia
+MMSE = Mini Mental State Examination
+MoCA = Montreal Cognitive Assessment
+CSDD = Cornell Scale for Depression
+in Dementia
+GDS = Geriatric Depression Scale
+NPI
+= Neuropsychiatric Inventory
+IADL = Instrumental Activity of Daily Living
+ZBI
+= Zarit Burden Interview
+VDRL = Venereal Disease Research
+Laboratory test
+HIV
+= Human Immunodeficiency Virus
+MRI = Magnetic Resonance Imaging
+CT
+= Computed Tomography
+EEG = Electroencephalogram
+TBI
+= Traumatic Brain Injury
+Management of Dementia (Third Edition)
+ALGORITHM 3: TREATMENT OF DEMENTIA
+Non-pharmacological intervention
+Psychosocial Intervention
+(tailored to individual’s needs)
+Multidisciplinary team Involvement
+(multicomponent intervention for
+patients and care givers)
+Maintenance of cognitive function and
+encouragement of independence
+Improvement of quality of life
+AChEI = acetylcholinesterase inhibitors
+DEMENTIA
+Pharmacological Intervention
+Alzheimer’s disease
+Vascular dementia
+Dementia with Lewy
+Body/Parkinson’s
+Disease Dementia
+Frontotemporal
+Dementia
+Consider
+rivastigmine
+or donepezil
+Treat vascular risk factors
+Consider AChEI
+or memantine
+Moderate
+to severe
+Mild
+AChEI
+Donepezil
+and/or memantine
+Behavioural and Psychological Symptoms of Dementia
+Co-morbid emotional disorders
+• Depression
+• Anxiety
+• Agitation
+• Aggression
+• Psychosis
+• Assess and address clinical or environmental causes
+• Offer psychosocial and environmental intervention
+• Consider antipsychotics or antidepressants
+• Assess and address clinical or environmental causes
+• Offer psychosocial and environmental intervention
+• Consider antidepressant in pre-existing condition
+Management of Dementia (Third Edition)
+Management of Dementia (Third Edition)
+1. INTRODUCTION
+Dementia is a syndrome in which cognitive function (i.e. ability to
+process thought) deteriorates progressively. It is not part of a normal
+ageing process. It affects memory, thinking, orientation, calculation,
+learning capacity, language, judgement, emotional control, social
+behaviour, or motivation (refer to Appendix 3 on 10 Warning Signs
+of Dementia). However, consciousness is not affected. Dementia
+can lead to disability and dependency among people with dementia
+(PWD). It is commonly associated with behavioural and psychological
+symptoms which can lead to increased dependency on caregivers
+and subsequent nursing home admission. The lack of awareness and
+understanding of dementia can lead to stigmatisation and, delay in
+diagnosis and care. The physical, psychological, social and economic
+impact of dementia on caregivers, family and society is tremendous
+and often overlooked.
+There are estimated 50 million PWD worldwide and 60% of them live
+in low- or middle-income countries. There are nearly 10 million new
+cases every year.1 According to Alzheimer’s Disease International,
+the estimated number of PWD in Malaysia was 123,000 in 2015. This
+number was projected to be 261,000 by 2030 and further increased
+to 590,000 by 2050.2 Based on the Malaysian National Health and
+Morbidity Survey 2018: Elderly Health, the overall prevalence of
+probable dementia was 8.5% (95% CI 6.97 to 10.22).3
+Alzheimer’s disease (AD) is the commonest type of dementia (60
+- 70%), followed by vascular dementia (VaD), mixed dementia,
+frontotemporal dementia (FTD), Dementia with Lewy bodies (DLB),
+Parkinson’s disease dementia (PDD) and others. People with AD often
+present initially with gradual episodic memory impairment. However,
+in early-onset AD (less than 65 years old), patients may present with
+behavioural (frontal), visual (posterior cortical atrophy) or language
+(logopenic) variants with relatively well-preserved memory until the
+later stages of the disease.4 VaD is associated with cardiovascular
+risk factors, and often present with impaired executive function, slowed
+processing speed and memory retrieval difficulties.5 Mixed dementia
+is a combination of two or more dementia types, most frequently AD
+with vascular pathology.6 In cases of behavioural variant frontotemporal
+dementia, the early manifestations tend to be changes in the personality
+with executive dysfunction prior to memory issues.7 People with DLB
+often experience fluctuating cognitive decline with prominent visual
+hallucinations and spontaneous motor parkinsonism. Dementia occurs
+at least a year after the onset of motor symptoms in people with PDD.8
+As Malaysia is moving towards an ageing nation, the country must
+prepare itself to address health issues pertaining to the older people
+Management of Dementia (Third Edition)
+e.g. non-communicable diseases (NCDs) including dementia. The
+second edition of Clinical Practice Guidelines (CPG) on Management
+of Dementia was published in 2009. Since then, diagnostic criteria on
+dementia have been revised and become more comprehensive. There
+have been minor advancements in the treatment of PWD. These are
+addressed in the new edition of the CPG. Apart from that, new sections
+on risk reduction strategies and special populations are added. This
+third edition aims to update on the management of dementia and
+eventually improve the quality of care for PWD.
+Management of Dementia (Third Edition)
+2. RISK FACTORS AND RISK REDUCTION STRATEGIES
+2.1 Risk Factors
+Dementia is caused by a combination of genetic and environmental
+factors.9
+•
+Advancing age: age ≥ 65 years is a risk factor for any dementia10
+•
+Gender: Female has higher risk of dementia especially in AD10
+•
+Genetic:
+ Early-onset AD accounts for 6 - 7% of all AD cases. Of this
+group, only 13% exhibit autosomal dominant transmission. Three
+precursor on chromosome 21, presenilin 1 on chromosome 14
+and presenilin 2 on chromosome 1.10
+ Late-onset AD (aged 65 years and older) is considered to be
+multifactorial but involves a strong genetic predisposition.11, level III
+The genetic component itself is complex and heterogeneous.10
+ The presence of the ε4 variant of the APOE gene (APOE4) may
+contribute to the development of late-onset AD and sporadic
+early-onset AD. However, presence of APOE ε4 itself is neither
+is thought to have a protective effect. Large-scale genome-wide
+disease risk. None of these risk loci has an effect comparable to
+APOE ε4, with OR ranging from 1.1 to 2.0.11, level III
+a. Cardiovascular
+Major cardiovascular risk factors e.g. hypertension, diabetes mellitus,
+hyperlipidaemia, obesity and smoking are independent risk factors for
+the development of atherosclerosis VaD.
+•
+Hypertension occurring at mid-life (40 to 60 years old) is a risk factor
+for dementia and should be appropriately treated.10 A systematic
+review showed that treatment of elderly patients with hypertension
+improved cognitive function especially for those on angiotensin II
+receptor blockers (ARB).12, level I
+•
+of dementia and should be appropriately treated.10 A meta-analysis
+showed DM was a risk factor for all types of dementia (RR=1.73,
+95% CI 1.65 to 1.82), AD (RR=1.56, 95% CI 1.41 to 1.73) and VaD
+(RR=2.27, 95% CI 1.94 to 2.66). However, there were methodological
+issues noted in the primary papers.13, level II-2
+•
+High total serum cholesterol (TC) is a risk factor for developing latelife dementia:14, level II-2
+Management of Dementia (Third Edition)
+ High TC in mid-life compared with non-high TC is associated with
+risk of late-life AD (RR=2.14, 95% CI 1.33 to 3.44).
+ High TC in late-life is not associated with any cognitive or
+dementia outcome in late-life (RR=1.02, 95% CI 0.88 to 1.87).
+•
+In a meta-analysis, serum LDL-C level was higher in AD patients
+compared with healthy control (OR=2.55, 95% CI 1.25 to 5.22).
+The quality of primary papers was good although there was high
+heterogeneity and confounders were not fully explained.15, level II-2
+•
+Obesity is a modifiable risk factor and maintenance of normal body
+mass index (BMI) is recommended.10 This is supported by two
+meta-analyses showing that:
+ mid-life (aged 35 to 65 years) BMI ≥30 and BMI ≤18.5 were
+associated with late-life dementia with risk of 1.33 (95% CI 1.08
+to 1.63) and 1.39 (95% CI 1.13 to 1.70) respectively.16, level II-2
+ obesity (BMI ≥30) in mid-life was associated with risk of developing
+AD (RR=2.04, 95% CI 1.59 to 2.62) and any dementia (RR=1.64,
+95% CI 1.34 to 2.00) compared with normal BMI.17, level II-2
+b. Psychiatric illness
+Late-life depression is associated with a two-fold increased risk of
+dementia (RR=1.98, 95% CI 1.50 to 2.63) and AD (RR=2.04, 95% CI
+1.40 to 2.98).18, level II-2
+c. Lifestyle
+•
+Smoking
+Tobacco smoking is a risk factor for cognitive impairment and
+dementia.19
+•
+Excessive alcohol consumption
+Heavy (>12 and ≤24 g/d) and very heavy (>24 g/d) alcohol consumption
+is a risk factor for incident dementia with HR of 1.10 (95% CI 1.01 to
+1.19) and 1.18 (95% CI 1.01 to 1.36) respectively.20, level II-2 One unit is
+equivalent to 8 g of alcohol.
+•
+Physical inactivity
+A meta-analysis showed that physical inactivity measured <10 years
+before dementia diagnosis was associated with increased incidence of
+all-cause dementia (HR=1.40, 95% CI 1.23 to 1.71) and AD (HR=1.36,
+95% CI 1.12 to 1.65). When reverse causation was minimised by
+assessing physical activity ≥10 years before all-cause dementia and
+AD onset, no difference in dementia risk between physically active and
+inactive participants was found for the two outcomes.21, level II-2 However,
+there was no standard definition of self-reported physical inactivity and
+quality assessment in the primary papers used in the meta-analysis.
+Management of Dementia (Third Edition)
+•
+Social relationship
+A meta-analysis of 19 cohort studies showed that low social participation
+(RR=1.41, 95% CI 1.13 to 1.75), less frequent social contact (RR=1.57,
+95% CI 1.32 to 1.85) and more loneliness (RR=1.58, 95% CI 1.19 to 2.09)
+were associated with incident dementia. However, there were variations
+in social relationship factor measurements, adjustment of potential
+confounders and substantial dropout in the primary studies.22, level II-2
+d. Environment
+A systematic review showed different strengths of evidence on the
+association between environmental elements and dementia.23, level II-2
+•
+Strong evidence (reported association with dementia in the
+majority of published papers) was seen in nitrogen oxide, ozone
+and particulate matter in the air.
+•
+Environmental tobacco smoke showed dose-response based
+on cumulative dose score (calculated as level years of exposure
+based on setting, level and duration of exposure) as shown
+below.
+e. Others
+The Lancet Commission (2020) found several risk factors associated
+with dementia e.g.:24, level III
+•
+lower early life education level (RR=1.6, 95% CI 1.3 to 2.0)
+•
+mid-life hearing impairment (RR=1.9, 95% CI 1.4 to 2.7)
+•
+mid-life traumatic brain injury (TBI) (RR=1.8, 95% CI 1.5 to 2.2)
+f. Co-occurrence of modifiable risk factors
+Exposure to additional modifiable risk factors of dementia should be
+kept to the minimum. A meta-analysis on dementia outcomes revealed
+a pooled RR for dementia of 1.20 (95% CI 1.04 to 1.39) for one risk
+factor, 1.65 (95% CI 1.40 to 1.94) for two risk factors and 2.21 (95%
+CI 1.78 to 2.73) for three or more compared with no risk factor.25, level II-2
+2.2 Risk Reduction Strategies
+WHO recommends strategies to reduce the risk of cognitive decline
+and/or dementia in adults with normal cognition which include:19
+•
+physical activity
+•
+tobacco cessation
+•
+interventions for alcohol use disorders
+•
+management of hypertension
+•
+management of diabetes
+Level years of exposure
+aHR
+>0 - 24
+0.99, 95% CI 0.76 to 1.28
+25 - 49
+1.15, 95% CI 0.93 to 1.42
+50 - 74
+1.18, 95% CI 0.87 to 1.59
+75 - 99
+1.39, 95% CI 1.03 to 1.84
+100
+1.95, 95% CI 1.34 to 2.83
+Management of Dementia (Third Edition)
+Other interventions that may be considered are:19; 24, level III
+•
+weight management
+•
+management of dyslipidaemia
+•
+nutritional interventions
+•
+social activities
+•
+cognitive interventions
+•
+management of depression
+•
+management of hearing loss
+Tobacco cessation
+•
+Smoking of tobacco and tobacco products (cigarette, electronic
+cigarette/vape, shisha, pipe, cigar etc.) can lead to various noncommunicable diseases (NCDs). Worldwide, more than eight
+million people die every year because of this habit.26
+•
+Hence, the decision to integrate smoking treatment with NCDs
+is important to reduce the prevalence of NCDs and their
+complications. This decision was made during the World Health
+Organization Framework Convention on Tobacco Control (WHO
+FCTC) Steering Committee Meeting in December 2019 chaired
+by the Honourable Health Minister of Malaysia.
+•
+The treatment for smoking should be initiated by the treating
+doctor based on the assessment and treatment of tobacco use
+disorder as in Table 1. Details on this can be found in the CPG
+on Treatment of Tobacco Use Disorder 2016, available at:
+https://www.moh.gov.my/moh/resources/Penerbitan/CPG/
+Respiratory/CPG_TobacoDisorder.pdf
+Management of Dementia (Third Edition)
+Table 1: Assessment and treatment of tobacco use disorder
+Medication and Supplement
+In a Cochrane systematic review of 28 RCTs with low risk of bias,
+vitamins [folic acid, vitamin B6 and B12, antioxidant vitamins (vitamin A,
+C and E) and vitamin D] and mineral supplementation (zinc and copper)
+did not maintain cognitive function in cognitively healthy people in mid
+(<70 years old) and late life at 5 - 10 years follow-up.27, level I
+Another three Cochrane systematic review studying on the association
+of supplements and medication with dementia found:
+•
+no benefits or harms from vitamin E supplements in dementia28, level I
+•
+no evidence to support the use of either aspirin or other NSAIDs for
+prevention of dementia29, level I
+•
+statins given to people at risk of vascular disease did not prevent
+cognitive decline or dementia compared with placebo30, level I
+•
+There is insufficient evidence to support the use of medication
+(aspirin and statins), vitamins and supplements to prevent dementia.
+1.
+Ask and document smoking status for all patients.
+2.
+Provide brief advice on quit smoking at every visit to all smokers.
+3.
+Assess level of nicotine addiction using Modified Fagerström Test
+for Cigarette Dependence Questionnaire (COMPULSORY) and
+verify smoking status using carbon monoxide breath analyser (IF
+AVAILABLE).
+4.
+Offer pharmacotherapy to all smokers who are attempting to quit,
+unless contraindicated.
+5.
+If selected, use nicotine replacement therapy (NRT) for at least
+eight to twelve weeks, whereas varenicline should be used for at
+least twelve weeks.
+6.
+Combination therapy (e.g. two NRTs, a non-NRT, e.g. bupropion
+with an NRT) is better than monotherapy in smoking cessation
+treatment and may be most useful for those smokers at highest risk
+of relapse.
+7.
+Use smoking cessation medications with caution in special populations (e.g. children and adolescents, pregnant, breastfeeding
+women, psychiatric and substance abuse disorder patients).
+8.
+Arrange a minimum of six to eight face to face follow-up sessions for
+smoking cessation interventions in six months through counselling
+support team (health education officer, pharmacists or any officer
+trained for quit smoking services).
+ASSESSMENT AND TREATMENT
+Management of Dementia (Third Edition)
+Recommendation 1
+•
+Risk reduction strategies should be advocated to reduce the risk of
+developing cognitive decline and/or dementia. These include:
+ physical activity
+ tobacco cessation
+ interventions for alcohol use disorders
+ management of hypertension
+ management of diabetes
+Management of Dementia (Third Edition)
+3. ASSESSMENT AND DIAGNOSIS
+The evaluation of dementia should be targeted at patients who present
+with memory complaints (by patients themselves and/or carer), have
+clinical suspicion of cognitive impairment or are at increased risk for
+dementia as well as elderly patients who have questionable mental
+capacity.31 The evidence on routine screening for cognitive impairment
+among asymptomatic community-dwelling adults age 65 and older is
+insufficient to determine the balance of its benefits and harms.32
+Initial assessment may be performed using various cognitive assessment
+tools. If dementia is suspected on clinical assessment, laboratory tests
+for basic dementia screening should be performed that include full
+blood count, biochemistry tests (glucose, lipid, electrolytes, renal and
+liver function tests, and calcium level), thyroid function test and, serum
+vitamin B12 and folate levels, to exclude potentially reversible causes
+as shown in Table 2 and to identify risk factors for dementia. When the
+initial evaluation is suggestive of dementia, patients need to be referred
+to specialist services (e.g. geriatrics/psychiatry/neurology) for further
+assessment and confirmation of diagnosis. Refer to Algorithm 1 on
+Early Detection of Dementia.
+Table 2: Some dementia-mimicking conditions
+•
+Laboratory tests for basic dementia screening are indicated to
+exclude dementia-mimicking conditions.
+Conditions that can be excluded by laboratory tests
+Hypothyroidism
+Vitamin B12 deficiency
+Folate deficiency
+Hypercalcaemia
+Neurosyphilis
+HIV-related dementia
+Conditions that can be excluded by imaging/EEG
+Normal pressure hydrocephalus
+Subdural haemorrhage
+Brain tumour
+Creutzfeldt-Jakob disease
+Autoimmune/limbic encephalitis
+Management of Dementia (Third Edition)
+3.1 Assessment
+3.1.1 Clinical Assessment
+A detailed history from patient and reliable informants, and a
+comprehensive physical examination are the basis of clinical evaluation
+for dementia. Clinical assessment should include cognitive domain and
+non-cognitive domain as well. During clinical assessment, clinicians
+should exclude delirium and other mental disorders before diagnosing
+dementia.
+•
+Cognitive domain
+There are many cognitive assessment tools available to support the
+diagnosis of dementia. It can be divided into informant-rated instruments
+and direct patient assessment instruments. Summary of the commonly
+used cognitive assessment tools are shown in Table 3.
+Table 3. Common cognitive assessment tools in clinical practice
+*copyrighted
+Cognitive assessment
+tools
+Accuracy
+Validation in
+local languages
+Sensitivity
+(95% CI)
+Specificity
+(95% CI)
+Informant-rated
+1.
+Cut-off point of 2:
+Direct patient assessment
+AD8 Dementia
+Screening
+Interview33, level II-2
+2.
+1.
+2.
+0.92 (0.86 - 0.96) 0.64 (0.39 - 0.82)
+0.91 (0.80 - 0.96) 0.86 (0.74 - 0.93)
+Cut-off point of 3:
+0.91 (0.80 - 0.96) 0.76 (0.57 - 0.89)
+Range 0.75 - 0.86 Range 0.38 - 0.90
+Cut-off point >3.0 - 3.3:
+Informant Questionnaire
+on Cognitive Decline
+in the Elderly
+(IQCODE)34, level III
+Yes: Malay
+Yes: Malay,
+Mandarin
+Yes: Malay,
+Mandarin
+Yes: Malay,
+Mandarin
+No
+No
+No
+Mini-Cog35, level I
+Cut-off point <7:
+Abbreviated Mental
+Test Score
+(AMTS)36, level III
+3.
+Mini–Mental State
+Examination
+(MMSE)*35, level I
+4.
+Montreal Cognitive
+Assessment
+(MoCA)37, level III
+0.81 (0.76 - 0.86) 0.84 (0.83–0.85)
+0.81 (0.78 - 0.84) 0.89 (0.87 - 0.91)
+5.
+6.
+Addenbrooke's Cognitive
+Examination-III
+(ACE-III)*38, level III
+0.96 0.68
+Yes
+No language bias
+0.92 0.74
+Cut-off points 18 - 26:
+Range
+0.77 - 1.00
+Range
+0.51 - 0.87
+Visual Cognitive
+Assessment Test
+(VCAT)39, level II-2
+7.
+No
+0.93 0.96
+Saint Louis University
+Mental Status
+(SLUMS)40, level III
+Management of Dementia (Third Edition)
+A systematic review on Cognitive Assessment Tools in Asia showed
+that educational bias was present in 74% of the studies with wide
+range of sensitivity and specificity which may lead to over estimation of
+dementia prevalence.41, level II-3 Hence, diagnosis of dementia should not
+be made based on cognitive assessment score solely. The assessment
+score can be used to support the diagnosis of dementia and to monitor
+the disease progress. The choice of cognitive assessment tool depends
+on the clinical setting and the experience of the clinician. Refer to
+Appendix 4 on Initial Assessment Tools in Dementia.
+Further evaluation with detailed neuropsychological tests can be
+considered if the diagnosis of dementia is still doubtful after initial
+assessment or to determine the subtype of dementia.42
+•
+Non-cognitive domain
+Two systematic reviews on the Neuropsychiatric Inventory (NPI)
+showed that:
+ it was able to identify behavioural and psychological symptoms
+in persons with Alzheimer’s dementia43, level III
+ the items on irritability, agitation, anxiety, apathy, sleep
+disturbances and delusion exerted the most impact on caregiver
+for PWD44, level III
+The NPI and Behavioral Pathology in Alzheimer’s Disease Rating Scale
+(BEHAVE-AD) were utilised:
+ to
+assess
+the
+presence
+and
+severity
+of
+behavioural
+and psychological symptoms in PWD with proven good
+psychometric properties, sensitivity to pharmacological and
+non-pharmacological interventions, and applicability to various
+institutional, outpatient and community settings45, level III
+ in particular, to identify delusions and hallucinations in PWD
+among the nursing home residents46, level III
+A cut-off score ≤5 and ≤7 for Cornell Scale for Depression in Dementia
+(CSDD) and Montgomery-Asberg Depression Rating Scale (MADRS)
+respectively give a 100% sensitivity in the screening of depression in
+nursing home residents with dementia when the source of information
+is from the professional caregivers.47, level III Geriatric Depression Scale
+(GDS) is also an effective screening tool for depression in the older
+people.10
+A systematic review on instrumental activities of daily living (IADL)
+showed that Disability Assessment for Dementia (DAD) and Bristol
+Activities of Daily Living Scale (Bristol ADL) had the best ratings among
+12 questionnaires despite lack of psychometric properties.48, level III
+Management of Dementia (Third Edition)
+In another systematic review on caregiver burden, the Zarit Burden
+Interview (ZBI, 22-item version) had strong psychometric properties
+[reliability (Cronbach’s alpha ranging from 0.70 to 0.93) and validity]
+and had been used for caregivers in the care of PWD.49, level III
+Recommendation 2
+•
+The diagnosis of dementia should be based on detailed history and
+physical examination, and supported by cognitive, functional and
+behavioural evaluation.
+3.1.2 Imaging and Biomarkers
+•
+Structural neuroimaging
+Structural neuroimaging with computed tomography (CT) or magnetic
+resonance imaging (MRI) is usually offered in the assessment of people
+with suspected dementia to exclude reversible causes of cognitive
+decline and other cerebral pathologies, and to assist in subtype
+diagnosis.42; 50 The second edition of this CPG recommends structural
+neuroimaging e.g. CT and MRI brain to be done where available in the
+evaluation of dementia to exclude intracranial pathology.10
+Some conditions that mimic dementia can be detected and excluded by
+structural neuroimaging are listed in Table 2.
+A narrative review of structural MRI on patients with AD revealed cerebral
+atrophy. The progression of atrophy follows Braak staging and is first
+observed at medial temporal lobe structures, including hippocampus
+and entorhinal cortex with a reduction of 26% and 40% respectively
+compared with controls. Other limbic structures including amygdala,
+olfactory bulb tract, cingulate gyrus, and thalamus are involved later. As
+the disease progresses, the atrophy spreads to cortical regions causing
+volume reduction.51, level III Visual rating scales for medial temporal lobe
+may be useful to grade the degree of medial temporal atrophy on CT
+or MRI.52, level III
+MRI is recommended if dementia subtype is uncertain and VaD is
+suspected. CT can be used if MRI is unavailable or contraindicated. It
+is readily available and better tolerated. However, VaD should not be
+diagnosed based solely on vascular lesion burden on imaging because
+the extent of vascular damage required to impair a person’s cognitive
+function is still unclear.42
+•
+Functional neuroimaging
+NICE recommends further testing with functional neuroimaging should
+only be considered if it helps to diagnose a dementia subtype and
+change the patient’s subsequent management.42
+Management of Dementia (Third Edition)
+Fluorodeoxyglucose-positron
+emission
+tomography
+(FDGPET) or perfusion single-photon emission CT (SPECT) can be
+considered if the dementia diagnosis is uncertain and AD or FTD
+is
+suspected.
+Iodine
+123-radiolabeled
+2β-carbomethoxy-3β-(4iodophenyl)-N-(3-fluoropropyl) nortropane (123I-FP-CIT) SPECT or
+123I-metaiodobenzylguanidine (123I-MIBG) cardiac scintigraphy can
+be considered if the dementia diagnosis is uncertain and DLB is
+suspected.42 A Cochrane systematic review showed that dopamine
+transporter (DAT) imaging is a promising test for diagnosing DLB,
+though the evidence was derived from only one small study. A normal
+DAT imaging may be an accurate means to exclude the diagnosis of
+DLB.53, level III
+Two Cochrane systematic reviews did not support routine use of
+FDG-PET and 11C-labeled Pittsburgh compound B-positron emission
+tomography (11C-PIB-PET) scans for the early diagnosis of AD and other
+dementia subtypes in people with Mild Cognitive Impairment (MCI).54-55,
+level III In fact, an Australian guideline recommends that SPECT should
+not be used to differentiate MCI from dementia.50
+•
+Electroencephalogram
+Electroencephalogram (EEG) is not routinely used in the investigation
+of dementia.42; 50 It should be considered when there is rapidly
+progressive cognitive decline and atypical features of dementia e.g.
+CJD, autoimmune/limbic encephalitis.
+A systematic review of dementia subtypes showed that a normal EEG
+result rendered a diagnosis of DLB very unlikely. Non-specific slowing
+of background rhythm on EEG was seen in >90% of DLB cases as
+opposed to an estimated 10% of AD cases.56, level III
+•
+Cerebrospinal fluid biomarkers
+After clinical assessment and structural neuroimaging, if the diagnosis
+remains uncertain and AD is suspected, lumbar puncture may be
+considered to examine the cerebrospinal fluid (CSF) for total tau or total
+tau and phosphorylated-tau 181, and amyloid beta 1-42 or amyloid beta
+1-42 and amyloid beta 1-40.42
+In view of insufficient and heterogeneity of evidence, a Cochrane
+systematic review did not recommend the use of CSF tau and CSF
+tau/amyloid beta ratio to identify people with MCI who would clinically
+convert to AD later.57, level I
+Management of Dementia (Third Edition)
+Recommendation 3
+•
+Structural neuroimaging (computed tomography or magnetic
+resonance imaging) should be done in evaluation of dementia to
+exclude reversible causes of cognitive decline and other intracranial
+pathology.
+•
+Functional neuroimaging may be considered if the diagnosis of
+dementia is uncertain.
+•
+Electroencephalogram should be considered in rapidly progressive
+cognitive decline and atypical features of dementia.
+3.2 Diagnostic Criteria
+There are a few diagnostic criteria available for each subtype of
+dementia, the majority are for clinical use and some are for research
+purpose (refer to Table 4). Major changes have been made to diagnostic
+criteria for dementia in the Diagnostic and Statistical Manual of Mental
+Disorders, Fifth Edition (DSM-5) published in 2013. Major neurocognitive
+disorder is used to replace dementia while mild neurocognitive disorder
+is introduced for MCI. It only requires decline in one or more of the
+cognitive domains, which is severe enough to interfere with daily
+activities, to diagnose major neurocognitive disorder. The latest edition
+of DSM-5 helps clinicians to diagnose different types of dementia more
+easily. Another diagnostic criteria that can be used in the diagnosis of
+dementia is the International Classification of Diseases, Tenth Revision
+(ICD-10). Refer to Appendix 5 on DSM-5 and Appendix 6 on ICD-10
+Table 4. Diagnostic Criteria for Subtypes of Dementia
+Alzheimer’s Disease
+Vascular Dementia
+Mixed Dementia
+Parkinson’s Disease
+Dementia (PDD)
+Dementia of Lewy
+Body (DLB)
+Frontotemporal
+Dementia (FTD)
+• National Institute on Aging and
+Alzheimer's Association (NIA-AA)
+• National Institute of Neurological
+Disorders and Stroke and
+Association Internationale pour la
+Recherche et l'Enseignement en
+Neurosciences (NINDS-AIREN)
+• Alzheimer's Disease Diagnostic and
+Treatment Centers (ADDTC)
+-
+• Movement Disorder Society (MDS)
+guidelines for diagnosis of PDD
+• Fourth consensus report of the
+DLB Consortium
+• International consensus criteria for
+behavioural variant FTD
+DSM-5
+or
+ICD-10
+Dementia Subtypes
+Diagnostic Criteria
+Management of Dementia (Third Edition)
+Recommendation 4
+•
+Diagnosis of dementia should be made based on Diagnostic and
+Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) or the
+International Classification of Diseases, Tenth Revision (ICD-10)
+Refer to Algorithm 2 on Diagnosis of Dementia.
+3.3 Stages
+The severity of dementia can be staged according to functional status
+as stated in DSM-5 as shown below.58
+In addition, severity of dementia can also be assessed using the Global
+Deterioration Scale for Assessment of Primary Degenerative Dementia
+and Functional Assessment Staging (FAST). FAST is especially useful
+for grading severity in more advanced stages of dementia (FAST stage
+6 and 7). Refer to Appendix 7a and 7b for the mentioned scales.
+Severity
+Functional status
+Mild
+Moderate
+Severe
+Difficulties with instrumental activities of daily living
+(e.g. housework, managing money).
+Difficulties with basic activities of daily living (e.g. feeding,
+dressing).
+Fully dependent
+Management of Dementia (Third Edition)
+4. TREATMENT
+Specialists in the care of dementia (psychiatrists/geriatric-psychiatrists/
+neuropsychiatrists, neurologists/geriatricians and physicians or family
+medicine specialists with special interest training in geriatric care)
+should initiate treatment in PWD. Once treatment is initiated, PWD
+should be regularly reviewed to assess cognition, behavioural and
+psychological symptoms of dementia (BPSD), global functioning and
+potential side effects. Management of dementia can be divided into nonpharmacological and pharmacological approach. Non-pharmacological
+interventions should be the mainstay of treatment in PWD throughout
+all stages of the condition.
+4.1 Non-pharmacological Interventions
+Non-pharmacological interventions attempt to promote positive
+effects on cognition, quality of life, mood and, other behavioural and
+psychological symptoms of dementia. They have shown to have
+potential benefits in the management of dementia.
+•
+Cognition and Quality of life
+A meta-analysis showed that physical activity interventions improved
+cognitive function (SMD=0.42, 95% 0.23 to 0.62) compared with control
+in PWD. In terms of type of intervention, positive results were seen in
+combined exercise interventions (SMD=0.59, 95% CI 0.32 to 0.86) and
+aerobic-only exercise interventions (SMD=0.41, 95% CI 0.05 to 0.76)
+only. Both high and low frequency interventions were also effective.59, level I
+There are three major types of cognitive approaches:
+ cognitive stimulation - entails exposure to and engagement
+with activities and materials involving some degree of cognitive
+processing
+ cognitive training - a specific training exercise geared to specific
+cognitive functions and, includes practice and repetition which
+may be computer-assisted
+ cognitive rehabilitation - include working on personal goals,
+often using external cognitive aids and with some use of learning
+strategies
+In two Cochrane systematic reviews on mild to moderate dementia:
+ moderate quality evidence showed that cognitive stimulation
+therapy given either through specific manual or general activities
+improved cognitive function (SMD=0.41, 95% CI 0.25 to 0.57); it
+can be carried out at patient’s own home, day care, outpatient or
+at residential setting by caregiver with minimal training60, level I
+ low to moderate quality evidence demonstrated that cognitive
+training was not associated with improvement in global measure
+of cognition (SMD=0.10, 95% CI -0.21 to 0.40)61, level I
+Management of Dementia (Third Edition)
+NICE recommends group cognitive stimulation therapy to people with
+mild to moderate dementia. It also recommends cognitive rehabilitation
+or occupational therapy to support functional ability in the same group
+of PWD.42
+In a Cochrane systematic review, reminiscence therapy (RT) showed
+no improvement in self-rated quality of life (QoL) compared with no
+treatment in PWD (SMD=0.11, 95% CI -0.12 to 0.33). The quality of
+evidence was moderate based on GRADE.62, level I However, NICE
+recommends group RT to promote cognition, independence and wellbeing of PWD.42
+In another systematic review on cognition and quality of life, spirituality
+and religious activities delayed cognitive decline and improve QoL of
+PWD.63, level II-2
+Recommendation 5
+•
+To improve cognitive function in mild to moderate dementia, cognitive
+stimulation therapy and physical activity can be offered
+•
+Behaviour and Psychological symptoms
+Before starting non-pharmacological or pharmacological treatment for
+distress or BPSD in PWD, NICE recommends structured assessment
+exploring and addressing possible reasons for their distress including
+clinical or environmental causes e.g. pain, delirium or inappropriate
+care. Psychosocial and environmental interventions should be offered
+as initial and ongoing management, to reduce distress in PWD.42
+Anxiety and depression are very common in PWD. Psychological
+interventions have been suggested as a potential treatment for this
+population.
+In a Cochrane systematic review, psychological interventions, e.g.
+cognitive behavioural therapy (CBT) and, multifaceted and semi-tailored
+interventions (e.g. counselling sessions, education and outreach
+support to patients and carers) reduced depressive symptoms (SMD=
+-0.22, 95% CI -0.41 to -0.03) and clinician-rated anxiety (MD= -4.57,
+95% CI -7.81 to -1.32) compared with treatment as usual in dementia.
+The primary papers were of low to moderate quality.64, level I
+PWD who are being cared in long-term care settings are often not
+involved in meaningful activities. Offering them activities may improve
+their quality of life and reduce challenging behaviour. Nevertheless, in
+a Cochrane systematic review, personally-tailored activities showed
+no significant reduction in challenging behaviour and improvement in
+self-rated QoL among PWD in long-term care setting. However, the
+Management of Dementia (Third Edition)
+evidence is of low quality.65, level I On the other hand, NICE recommends
+to offer personalised activities in PWD with agitation or aggression to
+promote engagement, pleasure and interest.42
+In a meta-analysis of three high-quality RCTs, multicomponent
+interventions for caregivers showed 33% less institutionalisation after
+6 - 12 months (RR=0.67, 95% CI 0.49 to 0.92) compared with minimal
+support or usual care in mild to moderately severe AD. The intervention
+were long-term programmes comprised of education and support for
+caregivers plus other components e.g. respite care and support groups,
+tailored to the needs of PWD.66, level I
+Other non-pharmacological interventions on PWD addressed in
+systematic reviews/meta-analysis are shown in Table 5.
+Table 5: Other non-pharmacological interventions on PWD
+Interventions
+Effectiveness
+Quality of evidence
+Music-based
+therapy vs usual
+care67, level I
+• Reduced depressive symptoms
+(SMD= -0.27, 95% CI -0.45 to -0.09)
+• Reduced overall behaviour problems
+(SMD= -0.23, 95% CI -0.46 to -0.01)
+Moderate
+Massage and
+touch vs daily
+routine care
+or being
+accompanied69, level I
+Improved:
+• behavioural problems (SMD= -0.39, 95%
+CI -0.53 to -0.25)
+• negative emotions (SMD= -0.60, 95%
+CI -1.14 to -0.06)
+Low to moderate
+(GRADE)
+Aromatherapy vs
+placebo68, level I
+• Equivocal findings on agitation and
+behavioural symptoms
+Very low (GRADE)
+Validation
+therapy vs usual
+care70, level I
+• Insufficient evidence on behaviour and
+emotional state
+Low
+Light therapy vs
+usual care71, level I
+• No effect on sleep, challenging
+behaviour or psychiatric symptoms
+Moderate
+Simulated
+presence therapy
+vs usual
+care72, level I
+• Inconclusive efficacy on behavioural
+and psychological symptoms, and QoL
+Very low (GRADE)
+Snoezelen vs
+control73, level I
+• No effect on mood, behaviour,
+communication and cognition
+Low
+Management of Dementia (Third Edition)
+Recommendation 6
+•
+In people with dementia having behavioural and psychological
+symptoms:
+ explore and address possible clinical or environmental causes/
+triggering factors
+ offer psychosocial and environmental interventions as initial and
+ongoing treatment:
+-
+psychological intervention for depressive symptoms and/or
+anxiety
+-
+personalised and tailored activities for agitation and
+aggression
+Refer to Algorithm 3 on Treatment of Dementia
+4.2 Pharmacological Interventions
+No new drug has been licensed for the treatment of dementia since the
+previous edition of the CPG published in 2009.
+The
+three
+acetylcholinesterase
+inhibitors
+(AChEI)
+(donepezil,
+galantamine and rivastigmine) as well as the N-methyl-D-aspartate
+(NMDA) receptor antagonist (memantine) are still the mainstay
+treatment in managing PWD.
+AChEI works by augmenting the levels of acetylcholine in the brain
+to compensate for the losses of cholinergic function. Additionally,
+galantamine also modulates activity at nicotinic receptors.
+Memantine is a voltage-dependent, moderate-affinity, uncompetitive
+NMDA receptor antagonist that inhibits the effects of pathologically
+elevated tonic levels of glutamate that may lead to neuronal
+dysfunction.74
+•
+Available pharmacological treatment for dementia is not curative;
+however they are aimed at managing symptoms (cognitive, noncognitive and behavioural), improve independence and preserve
+function.42
+Currently
+under
+the
+MoH
+Medicines
+Formulary,
+donepezil,
+rivastigmine and memantine are listed and indicated for use in AD
+while only rivastigmine is indicated for PDD. Refer to Appendix 8 on
+Pharmacological Treatment of Dementia.
+Management of Dementia (Third Edition)
+•
+For those who require regular medication, the ‘3T’ approach is a
+good practice:10
+ treatments should have a specific target symptom
+ the starting dose should be low and then titrated upwards
+ treatments should be time limited
+4.2.1 Alzheimer’s Disease
+Donepezil
+a. Cognition
+i. All disease severity
+In a Cochrane systematic review of moderate quality RCTs, donepezil
+10 mg was more effective than placebo at 24 - 26 weeks in AD across
+all severity based on MMSE (MD=1.05, 95% CI 0.73 to 1.37).75, level I
+ii. Mild to moderate severity
+Donepezil 10 mg/day was more effective than placebo in mild
+to moderate AD at 24 - 26 weeks based on Alzheimer’s Disease
+Assessment Scale-Cognitive (ADAS-Cog) (MD= -2.67, 95% CI -3.31
+to -2.02).75, level I
+Donepezil 5 mg/day was more effective than placebo in moderate AD at
+12 - 24 weeks based on MMSE (MD=1.22, 95% CI 0.54 to 1.90).75, level I
+iii. Severe
+Benefit in cognitive function was seen with donepezil 10 mg/day
+compared with placebo in severe AD based on Severe Impairment
+Battery (SIB) (MD=5.92, 95% CI 4.53 to 7.31).75, level I
+There was no difference in the outcome between donepezil 5 mg/day
+and 10 mg/day at 24 weeks based on MMSE or SIB. However, the
+outcome was in favour for 10 mg/day for ADAS-Cog at 24 weeks (MD=
+-1.05, 95% CI -1.80 to -0.30).75, level I
+b. Safety
+Mild adverse events (AEs), namely nausea, vomiting and diarrhoea,
+were higher in PWD on donepezil 10 mg/day:75, level I
+•
+compared with 5 mg/day at 26 weeks (OR=1.56, 95% CI 1.07 to
+2.28)
+•
+compared with placebo at 24 weeks (OR=1.59, 95% CI 1.23 to
+2.05)
+There was no difference seen between donepezil 5 mg/day and placebo
+at 24 weeks.
+Management of Dementia (Third Edition)
+Rivastigmine
+a. Cognition
+In another Cochrane systematic review of moderate quality evidence,
+rivastigmine 6 to 12 mg/day twice daily or 9.5 mg/day patch improved
+cognition in mild to moderate AD at 26 weeks compared with placebo
+based on:76, level I
+•
+MMSE (WMD=0.74, 95% CI 0.52 to 0.97)
+•
+ADAS-Cog test score (WMD= -1.79, 95%CI -2.21 to -1.37)
+MMSE results were in favour of rivastigmine (twice daily capsules)
+compared with placebo at 26 weeks at the following dosages:76, level I
+•
+1 - 4 mg/day (WMD=0.43, 95% CI 0.08 to 0.78)
+•
+6 - 12 mg/day (WMD=0.82, 95% CI 0.56 to 1.08)
+Benefit was also seen in MMSE for rivastigmine patch compared with
+placebo in AD at 24 weeks for different dosages:76, level I
+•
+20 cm2 (17.4 mg/day) patch (MD=0.90, 95% CI 0.32 to 1.48)
+•
+10 cm2 (9.5 mg/day) patch (WMD=0.64, 95% CI 0.26 to 1.02)
+However, no difference was seen in MMSE in similar comparison using
+rivastigmine 5 cm2 (4.6 mg/day) patch.
+Rivastigmine 10 cm2 (9.5 mg/day) patch vs 6 to 12 mg/day twice daily
+capsules showed no difference in MMSE for AD at 24 weeks.76, level I
+In an RCT comparing rivastigmine 13.3 mg/ 24 h patch vs 4.6 mg/24 h
+patch in severe AD, the higher dose patch was superior to lower dose
+in terms of:77, level I
+•
+cognition by SIB at 16 weeks (p<0.0001) and 24 weeks
+(p<0.0001)
+•
+global function by Alzheimer’s Disease Cooperative Study –
+Clinical Global Impression of Change (ADCS-CGIC) (p=0.0023)
+However, there was no difference in behaviour using NPI-12.
+b. Safety
+In terms of tolerability, rivastigmine 6 to 12 mg/day twice daily capsules
+or 9.5 mg/day patch had at least one AE compared with placebo at 26
+weeks (OR=2.16, 95% CI 1.82 to 2.57). At these doses, the transdermal
+patch may have fewer side effects than the capsules but comparable
+effectiveness.76, level I
+Apart from that, 20 cm2 (17.4 mg/24 h) patch had higher incidence of at
+least one AE (OR=2.28, 95% CI 1.64, 3.16) than 10 cm2 (9.5 mg/24 h)
+patch (OR=1.63, 95% CI 1.29 to 2.06) when they were compared with
+placebo.76, level I
+The incidence of AEs is greater with 13.3 mg/24 h (15 cm2) patch than
+9.5 mg/24 h (10 cm2) patch (75.0% vs 68.2% respectively). Most of the
+AEs are mild and decrease over time.78, level I
+Management of Dementia (Third Edition)
+Galantamine
+An HTA of variable quality evidence showed a benefit in ADAS-Cog
+from galantamine compared with placebo at:74, level I
+•
+12 - 16 weeks (WMD= -2.39, 95% CI -2.80 to -1.97)
+•
+21 - 26 weeks (WMD= -2.96, 95% CI -3.41 to -2.51)
+Benefit was also seen in behaviour based on NPI at 21 - 26 weeks
+(WMD= -1.46, 95% CI -2.59 to -0.34). There were higher percentage
+of AEs in galantamine compared with placebo which were mainly
+gastrointestinal.
+A network meta-analysis of moderate quality studies found superior
+effectiveness of galantamine 24 mg daily compared with placebo in
+mild to moderate AD (SMD= -0.50, 95% CI -0.61 to -0.40).79, level I
+NICE recommends the three AChEIs (donepezil, galantamine and
+rivastigmine) as monotherapy options for managing mild to moderate
+AD.42
+Memantine
+a. Cognition
+i.
+Mild
+A Cochrane systematic review found no difference between memantine
+and placebo based on ADAS-Cog (SMD= -0.03, 95% CI -0.19 to 0.13)
+and Clinician’s Interview-Based Impression of Change (CIBIC+) (SMD=
+-0.08, 95% CI -0.27 to 0.12).80, level I
+ii. Moderate to Severe
+In the same review as above, moderate- to low-certainty evidence
+showed that memantine was more effective than placebo based on SIB
+(SMD= -0.27, 95% CI -0.34 to -0.21) and CIBIC+ (SMD= -0.20, 95% CI
+-0.28 to -0.13).80, level I
+iii. Moderate to Severe ± AChEI
+Sub-analysis based on AChEI use showed that memantine was also
+effective against placebo based on:80, level I
+•
+SIB
+ with AChEI (SMD= -0.24, 95% CI -0.33 to -0.14)
+ without AChEI (SMD= -0.33, 95% CI -0.43 to -0.23)
+•
+CIBIC+
+ with AChEI (SMD= -0.21, 95% CI -0.32 to -0.09)
+ without AChEI (SMD= -0.20, 95% CI -0.30 to -0.10)
+b. Safety
+The same Cochrane systematic review found no difference between
+memantine and placebo in the number of people with at least one AE,
+regardless of dementia aetiology or severity (RR=1.03, 95% CI 1.00 to
+1.06).80, level I
+Management of Dementia (Third Edition)
+Another meta-analysis showed no difference between memantine and
+placebo in AD based on:81, level I
+•
+AEs (OR=1.05, 95% CI 0.88 to 1.25)
+•
+serious AEs (OR=0.89, 95% CI 0.70 to 1.13)
+•
+mortality (OR=1.03, 95% CI 0.74 to 1.44)
+NICE recommends memantine monotherapy as an option in:
+•
+moderate AD where there is intolerance or contraindication to
+AChEI
+•
+severe AD
+Recommendation 7
+•
+Donepezil should be offered in Alzheimer’s Disease (AD) of all
+severity.
+ Rivastigmine is an option in mild to moderate AD.
+•
+Memantine may be considered in moderate to severe AD as
+monotherapy or in combination with acetylcholinesterase inhibitors.
+Recently, novel therapy for management of Alzheimer’s dementia
+which is anti-amyloid monoclonal antibody has garnered attention. It
+reduces amyloid beta plaques in the brain, the accumulation of which
+is a defining pathophysiological feature of Alzheimer disease. However,
+strong evidence is needed before it can be recommended.
+4.2.2 Vascular Dementia
+Donepezil
+a. Cognition
+In vascular dementia, donepezil is significantly more effective than
+placebo based on:82, level I
+•
+V-ADAS-cog at 12, 18 and 24 weeks (p<0.05)
+•
+MMSE at 24 weeks (p=0.0301)
+c. Safety
+Donepezil is well tolerated; most adverse events are transient and mild
+to moderate in severity.82, level I
+Rivastigmine
+a. Cognition
+A Cochrane systematic review found benefit in MMSE (MD=0.60, 95%
+CI 0.11 to 1.09) with rivastigmine (3 - 12 mg/day) compared with placebo
+in probable vascular dementia at 24 weeks. There was no significant
+difference between:83, level I
+•
+rivastigmine 6 mg/day and placebo in MMSE for subcortical
+vascular dementia
+•
+rivastigmine 3 - 9 mg/day and placebo in ADAS-Cog for MCI and
+cognitive impairment no dementia (CIND)
+Management of Dementia (Third Edition)
+b. Safety
+There were significantly higher rates of vomiting, nausea, diarrhoea
+and anorexia in rivastigmine compared with placebo.83, level I
+Memantine
+a. Cognition
+A Cochrane systematic review found probable small benefit favouring
+memantine against placebo based on ADAS-Cog (MD= -2.15, 95% CI
+-3.25 to -1.05).80, level I
+b. Behaviour
+The same review showed low certainty evidence favouring memantine
+against placebo based on Nurses’ Observation Scale for Geriatric
+Patients (NOSGER) (SMD= -0.20, 95% CI -0.37 to -0.03).80, level I
+c. Safety
+Refer to Subchapter 4.2.1 (Memantine - Safety).
+Donepezil, rivastigmine, galantamine and memantine comparison
+a. Cognition
+In a network meta-analysis on vascular cognitive impairment, donepezil
+10 mg/day and rivastigmine 6 mg/day were superior than placebo based
+on MMSE with MD of 0.84 (95% CI 0.14 to 1.57) and 1.37 (95% CI 0.22
+to 2.53) respectively. The derived dose-based hierarchy of the cognitive
+enhancers’ efficacy was as follows: rivastigmine 6 mg > donepezil 10 mg
+> donepezil 5 mg > rivastigmine 12 mg > memantine 20 mg > placebo.
+Meanwhile the derived dose-based hierarchy based on ADAS-cog were:
+memantine 20 mg > galantamine 24 mg > donepezil 10 mg > donepezil 5
+mg > rivastigmine 12 mg > placebo > rivastigmine 9 mg.84, level I
+b. Safety
+The derived hierarchy of the risk of total AEs was donepezil 10 mg >
+galantamine > donepezil 5 mg > memantine > placebo > rivastigmine.84, level I
+NICE recommends only to consider AChEI or memantine for people
+with vascular dementia if they have suspected co-morbid Alzheimer’s
+disease, Parkinson’s disease dementia or dementia with Lewy bodies.42
+•
+Patients with vascular dementia with concurrent vascular risk factors
+should be treated with recommended drugs for the management of
+the medical problems.10
+Recommendation 8
+•
+Acetylcholinesterase inhibitors or memantine may be considered in
+vascular dementia.
+Management of Dementia (Third Edition)
+4.2.3 Lewy Body Disease (Dementia with Lewy Body/Parkinson’s
+Disease Dementia)
+Acetylcholinesterase inhibitors
+a. Cognition
+A Cochrane systematic review of six moderate quality RCTs showed an
+improvement in the MMSE favouring treatment with AChEI (rivastigmine
+and donepezil) compared with control in DLB, PDD and cognitive
+impairment in Parkinson’s disease (CIND-PD) (WMD=1.08, 95% CI
+0.50 to 1.66). However, subgroup analysis showed:85, level I
+•
+positive effect in PDD (WMD=1.09, 95% CI 0.45 to 1.73) and,
+PDD and CIND-PD (WMD=1.05, 95% CI 0.42 to 1.68)
+•
+no difference in DLB (WMD=1.24, 95% CI 0.28 to 2.76)
+A recent meta-analysis found that results on MMSE and MoCA favoured
+AChEI (rivastigmine and donepezil) and memantine compared with
+control in PDD and DLB (SMD=0.46, 95% CI 0.36 to 0.55).86, level I The
+15 studies used in the meta-analysis were small and short duration but
+of good quality.
+b. Behaviour
+Two meta-analyses showed improvement in behaviour outcomes with:
+•
+AChEI compared with control in DLB, PDD and CIND-PD
+(SMD=-0.20, 95%CI -0.36 to -0.04); the effect was only seen in
+RCTs using rivastigmine and lasting ≥18 weeks85, level I
+•
+AChEI and memantine compared with control in PDD and DLB
+(MD= 1.73, 95% CI 2.84 to -0.62)86, level I
+c. Safety
+In the two meta-analyses mentioned above, treatment groups
+experienced more adverse events than control groups with:
+•
+OR=1.64, 95% CI 1.26 to 2.15; there was no difference in severe
+adverse events85, level I
+•
+RR=1.09, 95% CI 1.04 to 1.1686, level I
+Rivastigmine was also found to be less tolerable than donepezil and
+memantine.
+Memantine
+a. Cognition
+A Cochrane systematic review found very low certainty evidence that
+memantine had no difference with placebo based on MMSE.80, level I
+b. Behaviour
+There was no difference between memantine with placebo based on
+NPI in the same review.80, level I
+c. Safety
+Refer to Subchapter 4.2.1 (Memantine - Safety).
+Management of Dementia (Third Edition)
+Recommendation 9
+•
+Rivastigmine or donepezil may be considered for dementia with
+Lewy body and Parkinson’s disease dementia.
+4.2.4 Frontotemporal Dementia
+Donepezil
+A systematic review found low level evidence on discontinuation of
+donepezil resulting in reduction in NPI total and ZBI scores after two
+weeks of the discontinuation in FTD.87, level I
+Rivastigmine
+In the same review as above, an open-label study demonstrated
+amelioration of behavioural changes after 12 months treatment with
+rivastigmine in patients with a probable diagnosis of FTD.87, level I
+Galantamine
+A systematic review found that galantamine was not effective based
+on Frontal Behavioural Inventory (FBI), Western Aphasia Battery
+(WAB), Clinical Global Impressions-severity (CGI-S) and Clinical
+Global Impressions-improvement (CGI-I) in behavioural variant of FTD
+(bvFTD).88, level I Another systematic review showed that it was also not
+associated with improvement of psychiatric symptoms in FTD.87, level I
+However, galantamine was found to be well tolerated.88, level I
+Memantine
+A meta-analysis and two systematic review of RCTs showed that
+memantine had no significant difference with placebo based on:
+•
+CGI, MMSE, NPI and ZBI89, level I
+•
+CGIC, CIBIC+, MMSE, NPI, MDRS, ZBI and DAD88, level I
+•
+NPI87, level I
+Memantine was also found to be well tolerated.80, level I; 89, level I; 88, level I
+The lack of effectiveness of memantine discussed above were
+supported by a later Cochrane systematic review based on MMSE and
+NPI.80, level I
+•
+There is insufficient evidence to support the use of AChEI or
+memantine to patients with FTD.
+4.2.5 Behavioural and Psychological Symptoms
+a. Effectiveness
+Antipsychotics
+A systematic review found that antipsychotics (APs) had small but
+significant effect in reducing BPSD in PWD compared to placebo
+(SMD= -0.13, 95% CI -0.21 to -0.06).90, level I
+Management of Dementia (Third Edition)
+A network meta-analysis found that risperidone was more effective than
+placebo in reducing agitation based on agitation rating scale of CohenMansfield Agitation Inventory (CMAI), NPI-A, BEHAVE-AD-A and
+Neurobehavioral Rating Scale-Agitation (NBRS-A) in PWD (OR=1.96,
+95% CI 1.49 to 2.59) but haloperidol appeared less effective compared
+with nearly all comparators.91, level I
+Another network meta-analysis on PWD with BPSD compared APs with
+placebo and showed:92, level I
+•
+aripiprazole improved outcomes on NPI (SMD= -0.17, 95% CI
+-0.31 to -0.02)
+•
+risperidone improved outcomes on CMAI (SMD= -0.26, 95% CI
+-0.37 to -0.15)
+There were no significant differences on effectiveness between the
+APs.
+Two RCTs assessed the effectiveness and safety of brexpiprazole
+(fixed and flexible doses) compared with placebo on agitation in
+patients with AD. The first RCT (NCT01862640) showed brexpiprazole
+2 mg/day had greater improvement in CMAI Total score at week 12 than
+placebo (adjusted MD= -3.77, 95% CI -7.38 to -0.17). The second RCT
+(NCT01922258) on brexpiprazole 0.5 - 2 mg showed no difference in
+the CMAI Total score at week 12 (adjusted MD= -2.34, 95% CI -5.49
+to 0.82). However post-hoc analysis on patients titrated to maximum
+brexpiprazole dose (2 mg) at week 4 showed improvement in in the
+score at week 12 (adjusted MD= -5.06, 95% CI -8.99 to -1.13).93, level I
+Antidepressants
+A systematic review found very low-quality evidence that sertraline did
+not have significant effect on global BPSD outcomes based on NPI
+compared with placebo in PWD and concomitant depression.90, level I
+The above network meta-analysis also showed that selective serotonin
+reuptake inhibitors as a class reduced BPSD in PWD who developed
+agitation based on CMAI, NPI-A, BEHAVE-AD-A and NBRS-A
+(OR=1.61, 95% CI 1.02 to 2.53) compared with placebo.91, level I
+NICE recommends not to offer antidepressants in mild to moderate
+depression for people with mild to moderate dementia unless they have
+pre-existing severe mental health problem.42
+Mood stabilisers
+A meta-analysis on mood stabilisers as an adjunct to conventional antidementia drugs on BPSD in AD suggested a significant effect in favour
+of placebo over valproate on NPI total (WMD=3.71, 95% CIs 0.15 to
+7.26).94, level I
+Management of Dementia (Third Edition)
+A Cochrane meta-analysis of moderate-quality evidence of two studies
+showed no difference between valproate and placebo in total Brief
+Psychiatric Rating Scale (BPRS) (measuring agitation) in PWD after
+six weeks of treatment.95, level I
+Others
+In a systematic review, a low quality RCT showed that pain management
+with analgesics reduced global BPSD in PWD (SMD= -0.24, 95% CI
+-0.47 to -0.01).90, level I
+A Cochrane systematic review of small trials found some beneficial
+effects on sleep from trazodone and orexin antagonists with no harmful
+effects.96, level I
+A systematic review concluded that benzodiazepine use to be avoided
+in the elderly based on results from a meta-analysis of 45 RCTs and
+review of 24 RCTs.97, level I
+b. Safety
+Non-significant differences in treatment acceptability were observed
+for nearly all medications when compared with placebo except for
+oxcarbazepine.91, level I
+The network meta-analysis which used SUCRAs in its analysis
+showed:92, level I
+•
+for somnolence or sedation: placebo was ranked as the safest,
+followed by risperidone, aripiprazole and olanzapine while
+quetiapine was the least safe
+•
+for EPSs: quetiapine and aripiprazole ranked as the safest
+agents, followed by olanzapine while risperidone was ranked the
+worst
+•
+for cerebrovascular adverse event: aripiprazole had highest
+probability of safety among the drugs, followed by quetiapine,
+risperidone and olanzapine
+•
+for falls, fracture or injury: risperidone and quetiapine ranked in
+the top two positions for safety, followed by aripiprazole, placebo
+and olanzapine
+The Cochrane meta-analysis of low-quality evidence showed a higher
+rate of adverse effects among valproate-treated participants compared
+with controls (OR=2.02, 95% CI 1.30 to 3.14).95, level I
+Two RCTs found no notable difference in the treatment-emergent
+adverse events (TEAEs) between brexipiprazole and placebo. The
+majority of the TEAE were mild or moderate in severity.93, level I
+Management of Dementia (Third Edition)
+•
+United States Food and Drug Administration (US FDA) issued a
+warning regarding increased mortality associated with the use of AP
+in elderly patients with dementia-related psychosis in response to
+emerging evidence since 2005.98, level III
+•
+NICE recommends AP to be offered to PWD who are either at risk of
+harming themselves or others, or experiencing symptoms that are
+causing them severe distress.42
+•
+NICE recommends on AP in PWD:42
+ the lowest effective dose should be used and for the shortest
+possible duration
+ should be reassessed regularly and wean off if it is not needed
+Recommendation 10
+•
+Antipsychotics may be considered for behavioural and psychological
+symptoms in people with dementia (PWD) where there is a risk of
+harming themselves or others.
+•
+Antidepressants:
+ may be considered for PWD who have agitation
+ may be prescribed for PWD with pre-existing severe mental
+health problem
+•
+There is insufficient evidence to support the use of mood stabilisers
+to treat agitation in PWD
+4.2.6 Potentially Inappropriate Prescriptions
+PWD often have multiple co-morbidities and require multiple
+pharmacotherapies. Examples of commonly used medications include
+benzodiazepines, APs and antihistamines. These medications have
+high anticholinergic burden (ACB) which causes negative outcomes in
+the patients. Therefore, careful consideration is needed before initiating
+such medications and, active monitoring and deprescribing should be
+carried out whenever possible. Refer to Appendix 9 on Anticholinergic
+Burden Score.
+American Geriatric Society on Beer’s criteria consider potentially
+inappropriate prescription (PIP) as an explicit list of drugs that are
+best avoided by older adults in most circumstances or under specific
+situations e.g. in certain diseases or conditions.99, level III
+Examples of PIP/psychotropics are:
+•
+first-generation
+antihistamines
+(e.g.
+chlorpheniramine,
+hydroxyzine)
+•
+antispasmodics (e.g. atropine, hyoscine)
+Management of Dementia (Third Edition)
+•
+antipsychotics
+•
+antidepressants
+•
+benzodiazepines
+•
+gastrointestinal medication (e.g. metoclopramide, proton pump
+inhibitors)
+•
+non-steroidal anti-inflammatory drugs
+A systematic review of 26 studies found prevalence of PIP in the range
+of 13 - 74% for PWD.100, level II-2
+In a meta-analysis, the prevalence of PIP was lower in PWD living in
+the community compared with those in nursing homes and specialised
+care homes [31% (95% CI 9 to 52) vs 42% (95% CI 30 to 55)].101, level II-2
+A cross-sectional study showed that an average ACB score >3 during
+the first three months initiation of AChEI in PWD increased the risk
+of:102, level III
+•
+treatment modification at one year (HR=1.12, 95% CI 1.02 to
+1.24)
+•
+delirium at one year (HR=1.52, CI 1.17 to 1.96)
+•
+mortality at two years (HR=1.23, CI 1.06 to 1.41)
+NICE recommends to consider minimising the use of medicines
+associated with increased ACB and look for alternatives wherever
+possible.42
+Recommendation 11
+•
+The use of anticholinergic medications in dementia should be
+done cautiously with regular review of indication and deprescribed
+whenever possible.
+Refer to Algorithm 3 on Treatment of Dementia.
+Refer to Appendix 10 on Suggested Guide to Review and
+Deprescribe (PIP/Psychotropic) in Dementia.
+Management of Dementia (Third Edition)
+5. TRADITIONAL AND COMPLEMENTARY MEDICINE
+There is no strong evidence on the effectiveness and safety of Traditional
+and Complementary Medicine (TCM) in the treatment of dementia.
+In a meta-analysis on PWD, extract of Ginkgo biloba (EGb761) of 240
+mg/day improved:103, level I
+•
+cognitive function (WMD= -3.19, 95% CI -3.56 to -2.83)
+•
+ADL (SMD= -0.45, 95% CI -0.55 to -0.36)
+•
+global assessment of change (OR=2.47, 95% CI 1.91 to 3.20)
+•
+behavioural symptoms (WMD= -4.82, 95% CI -5.44 to -4.20)
+However, there was significant heterogeneity among the primary
+papers. On safety, there were no significant differences between
+EGb761 and placebo in the proportion of participants experiencing
+any adverse events or serious adverse events for whole group and
+subgroup analysis.
+Another meta-analysis did not indicate a higher bleeding risk associated
+with standardised ginkgo biloba extract compared with placebo.
+However, the study population was not entirely on dementia and the
+primary papers were mostly of moderate/high risk of bias.104, level I
+A Cochrane systematic review found low-certainty evidence that
+melatonin doses up to 10 mg may have little or no effect on any major
+sleep outcome over eight to 10 weeks in people with AD and sleep
+disturbances.96, level I Another meta-analysis of seven RCTs (mainly
+moderate quality primary papers) showed melatonin prolonged total
+sleep time at night (SMD=0.26, 95% CI 0.01 to 0.51) compared with
+placebo in AD patients. However, there was no significant difference
+in sleep efficacy between melatonin and placebo (SMD= 0.14, 95% CI
+-0.17 to 0.44).105, level I
+A Cochrane review could not conclude on the effectiveness and safety
+of traditional Chinese herbal medicine for VaD due to poor reporting
+and trial methodology of the primary papers.106, level I
+There is insufficient evidence to support curcumin supplementation
+as an effective means of both preventing and treating dementia and
+symptoms of cognitive decline.107, level I
+•
+There is insufficient evidence to recommend the use of TCM in the
+treatment of dementia.
+Management of Dementia (Third Edition)
+6. MILD COGNITIVE IMPAIRMENT
+Mild cognitive impairment (MCI) is a condition in which individuals
+present with cognitive impairment but minimal impairment of
+instrumental activities of daily living (IADL). Those with MCI/CIND have
+greater risk of developing all types of dementia (RR=3.3, 95% CI 2.5
+to 4.5) compared with age-matched participants with no MCI after 2 - 5
+years of follow-up.108
+a. Diagnostic Criteria
+DSM-5 recognises the predementia stage of cognitive impairment.
+The condition, which has many features of MCI, is termed mild
+neurocognitive disorder. Mild neurocognitive disorder recognises subtle
+features of cognitive impairment that are distinct from ageing but do not
+represent dementia.58
+b. Assessment Tools
+It is important to have a baseline cognitive measurement on MMSE
+or any cognitive assessment tools for patients with MCI. Majority of
+the tools available have cultural, religious or educational biases.
+Thus, the interpretation of the result is individually tailored to each
+patient. When initial assessment is normal, clinicians can proceed
+to neuropsychological test to confirm the diagnosis of MCI. If both
+assessments are normal, the subject is recognised as having subjective
+memory complaints.
+c. Investigation
+In MCI, the investigations required are similar as in dementia in order
+to rule out other conditions. Refer to Chapter 3 on Diagnosis and
+Assessment.
+d. Non-pharmacological Interventions
+MCI is a subjective complaint of deteriorating memory. After managing
+the modifiable risk factors and deprescribing cognitive suppression
+medication, it is advisable for patients to undergo non-pharmacological
+therapy.
+•
+Cognitive enhancing therapy
+Multimodal Enhancing Cognitive Therapy involved multiple nonpharmacological interventions that support the ability to maintain
+cognitive function. It is an intervention to improve cognitive function
+in cognitively normal person. These interventions improve and
+maintain cognitive function, thus reducing the progression of cognitive
+deterioration.109, level I
+Although cognitive enhancing therapy has been accepted in the
+management of MCI, a systematic review failed to show significant
+objective improvement with it.110, level I
+Management of Dementia (Third Edition)
+•
+Exercise
+Aerobic exercise is known to have cognition-enhancing effects. A
+small RCT on adults with amnestic MCI showed that high-intensity
+aerobic exercise improved performance of multiple test of executive
+function in women, while favourable effects were seen only on Trails B
+performance in men.111, level I
+•
+Diet and supplement
+In a systematic review of heterogenous evidence, there were some
+improvements in performance, particularly in memory, with the most
+consistent results shown by B vitamins in MCI. However, there was no
+signiﬁcant effect on progression from MCI to dementia and/or AD with
+supplementation of vitamin E, ginkgo biloba or Fortasyn Connect.112, level I
+e. Pharmacological Interventions
+There is no recent evidence supporting the use of pharmacological
+treatment in managing MCI.108
+•
+Follow-up of patients with MCI is done with serial assessment to
+monitor their cognitive status.
+•
+There is insufficient evidence to recommend the use of
+pharmacological intervention in MCI.
+Management of Dementia (Third Edition)
+7. SPECIAL POPULATION
+The management of certain populations with early-onset cognitive
+impairment is aimed at preventing further deterioration or sequelae of the
+cognitive function. This is done with AChEI or specific pharmacological
+intervention specific to the causes as well as non-pharmacological
+measures. These populations include those with acquired brain injury,
+alcohol-related dementia (ARD) and HIV-associated neurocognitive
+disorders (HANDs).
+7.1 Acquired Brain Injury
+In a Cochrane systematic review on chronic cognitive impairment
+(≥12 months post-injury) in traumatic brain injury (TBI), rivastigmine
+significantly improved only one primary measure i.e. verbal memory
+functioning compared with placebo. There was no significant difference
+in safety profile.113, level I
+Two Cochrane systematic reviews on non-pharmacological interventions
+in acquired brain injury showed:
+•
+cognitive rehabilitation was not effective compared to no
+intervention or conventional rehabilitation in improving return to
+work, independence in activities of daily living (ADL), community
+integration or quality of life for adults with TBI.114, level I
+•
+music interventions may be beneficial on communication
+(SMD=0.75, 95% CI 0.11 to 1.39), naming (MD=9.79, 95% CI
+1.37 to 18.21) and speech repetition (MD=8.90, 95% CI 3.25
+to 14.55) in persons with post-stroke aphasia compared with
+control. However, these findings were based on a small number
+of studies with small sample sizes.115, level I
+7.2 Alcohol-related Dementia
+The prevalence of ARD ranges from 0.12% to 25.6% with more males
+being affected. It occurs more consistently at approximately 10% in
+early-onset dementia compared with the more scarce data in late-onset
+dementia.116, level II-2
+Heavy alcohol use could cause ARD from:117, level II-2
+•
+direct neurotoxic effect with permanent structural and functional
+brain damage
+•
+thiamine deficiency leading to Wernicke-Korsakoff syndrome
+•
+risk factor for other conditions that could also damage the brain
+(e.g. hepatic encephalopathy in patients with cirrhotic liver
+disease)
+•
+cardiovascular diseases resulting indirectly in vascular dementia
+Two systematic reviews on the treatment of ARD showed:
+•
+for persons with alcohol dependence and Wernicke-Korsakoff
+Management of Dementia (Third Edition)
+syndrome with no triad of acute symptoms, intramuscular (IM)
+thiamine at 200 mg/day for two consecutive days was more
+effective than 5 mg/day on working memory performance using
+the delayed alternation test (MD= -17.90, 95% CI -35.4 to
+-0.40)118, level I
+•
+with the use of extra processing time, explicit encouragement
+to generate associations and extra retrieval time, persons with
+Korsakoff’s syndrome performed similarly to healthy population
+on associative verbal learning procedure119, level II-1
+However, the primary papers used in the two reviews had some
+methodological limitations.
+7.3 HIV-Associated Neurocognitive Disorders
+There are different diagnostic approaches for HANDs e.g. 2007 Frascati
+criteria, Global Deficit Score and Clinical Mental State Examinations.
+Among all, the 2007 Frascati criteria is the most widely used diagnostic
+criteria for HANDs120, level II-2 and it consists of three categories:121, level III
+•
+Asymptomatic
+Neurocognitive
+Impairment
+(ANI)
+–
+mild
+neurocognitive impairment in at least two cognitive domains but
+not affecting daily functions
+•
+Mild Neurocognitive Disorder (MND) – mild neurocognitive
+impairment in at least two cognitive domains and has mild
+interference with daily functions
+•
+HIV-associated Dementia (HAD) – severe neurocognitive
+impairment in at least two cognitive domains and has marked
+difficulty with daily functions
+The prevalence of HANDs ranged from 39.1% to 44.4% according to
+a meta-analysis on global disease burden of it. MND and HAD were
+shown to be lower in patients with higher level of income, current CD4
+count and proportion on Anti-Retroviral Therapy (ART). These findings
+suggested that early ART initiation to maintain a high level of CD4 cell
+count and prevent severe immunosuppression was likely to reduce the
+prevalence and severity of HANDs.120, level II-2
+A meta-analysis on cognitive screening tools to diagnose HANDs
+showed that HIV Dementia Scale and International HIV Dementia Scale
+had generally poor (0.48) and moderate (0.62) pooled sensitivities.
+Thus, both were not ideal tools for identifying a range of neurocognitive
+impairment in HIV patients.122, level III Apart from that, the primary papers
+were of moderate quality and the heterogeneity was significant.
+Every ART agent has different CPE (Central Nervous System [CNS]
+Penetration Effectiveness) score and use of combined agents with
+higher CPE score may be associated with better neurocognitive
+outcome. An RCT showed that one unit increase in the CPE score
+was associated with an increase in the Composite Neuropsychology
+Management of Dementia (Third Edition)
+Z (NPZ3) score among HANDs patients with >3 antiretroviral
+drugs in the regimen (change in NPZ3 score=0.07, 95% CI 0.02
+to 0.12).123, level I
+•
+In the above special populations, the causes of cognitive impairment
+should be managed accordingly to prevent further complications. As
+such cases occur more often in those younger than 65 years old,
+apart from addressing the cognitive issues, greater psychological
+and social support are needed for them in terms of employment,
+finances and social life.
+•
+There is insufficient evidence on the effectiveness of AChEI or
+memantine in these special populations.
+Management of Dementia (Third Edition)
+8. CAREGIVER SUPPORT
+Caring for PWD can be emotionally and physically challenging. The
+role of caregiver is a central and integral part of dementia management.
+Caregivers should be involved in the management of PWD from the
+beginning.10 NICE recognises the important role of caregivers and
+discusses their involvement in the management of PWD in detail.42
+•
+The ZBI has good reliability and validity to assess burden of
+caregivers for PWD.49
+A few interventions to reduce the burden/strain of caregivers have been
+studied and are discussed below.
+a. Respite care
+Respite care is any intervention designed to give rest or relief to
+caregivers. A Cochrane review showed no significant difference in
+caregiver burden between respite care and control. However, polarity
+therapy reduced caregivers perceived stress compared with respite
+care (MD=5.80, 95% CI 1.43 to 10.17).124, level I
+An Australian guidelines on dementia recommends that PWD, their
+carers and family should be offered respite appropriate to their needs
+which include in-home respite, day respite, planned activity groups and
+residential respite.50
+b. Carer training
+A meta-analysis showed that multicomponent interventions for
+caregivers significantly delayed institutionalisation after 6 - 12 months
+post-intervention compared with minimal support or usual care in mild
+to moderately severe AD. The intervention among others comprised of
+education and support for caregivers.66, level I
+NICE also recommends psychoeducation and skills training to carers of
+PWD. These include:42
+•
+education about dementia on its symptomatology and natural
+progression
+•
+development of personalised strategies and carer skills
+•
+training on care of PWD, including understanding and responding
+to changes in behaviour
+•
+training in communication skills
+•
+advice on carers’ own physical, mental health and spiritual
+wellbeing
+•
+information on relevant services and their access
+•
+advice on planning for the future
+Management of Dementia (Third Edition)
+c. Spirituality and religious support
+Spiritual and religious support may be useful for caregivers to improve
+their coping strategy and reduce emotional distress. However,
+some caregivers might experience negative effect with this
+intervention.125, level II-2 Therefore, it should be individualised according
+to the caregivers preference and acceptance.
+Recommendation 12
+•
+Caregivers should be actively involved and supported in the
+management of dementia.
+ This includes assessment of the burden of caregivers.
+There are various community health and support services that are
+available in the country to assist PWD and their caregivers. Social and
+Welfare Department are involved in some of these services. Relevant
+information can be obtained from the Ministry of Women, Family and
+Community Development of Malaysia and related non-governmental
+organisations (NGOs).
+Stigmatisation, lack of awareness and perceived lack of credibility of
+health care workers are among factors that discourage caregivers from
+reaching out to available services and supports.126, level III
+Hence, collaborative efforts should be made by the government
+and respective stakeholders, including the MoH, Social and Welfare
+Department and NGOs to provide better support and service for the
+PWDs in Malaysia.
+Refer to Appendix 11 on Important Points for Caregiver of People
+with Dementia and Appendix 12 on Useful Resources.
+Management of Dementia (Third Edition)
+9. LEGAL AND ETHICAL ISSUES
+The key to a person’s right of autonomy is adequate decision-making
+capacity. In Malaysia, when a person is deemed to be mentally
+disordered and is incapable of managing oneself and one’s affairs, the
+provisions of the Mental Health Act 2001 (Part X: Section 51-Section
+75) can be applied.127 The Act aims to protect the person from his or her
+own harmful decisions or actions.
+a. Decision-making capacity
+The key to a person’s right of autonomy is possessing adequate
+decision-making capacity. If a PWD’s decision-making capacity is
+intact, doctors need to respect the autonomy of the PWD to decide
+on treatment options. If a PWD lacks decision-making capacity, then
+a surrogate decision-maker will need to make decisions for the PWD
+based on his/her best interest. The following points need to be taken
+into account:
+•
+Decision-making capacity is determined with regard to specific
+tasks and decisions that need to be made. PWD can be judged
+to have capacity to make certain decisions, and not having
+capacity for other decisions at the same time.128
+•
+If there is any doubt regarding a PWD’s decision-making capacity,
+a formal assessment of decision-making capacity should be
+carried out. The assessment should be properly documented in
+the patient’s notes.
+•
+Where appropriate, efforts should be taken to restore the patient’s
+decision-making capacity or encourage the PWD’s involvement
+in the decision-making process.
+•
+If the Mental Health Act 2001 is used, Section 77 is applicable
+when obtaining consent.
+b. Advance directives
+Although there is no law in Malaysia to govern advance directives in
+respect of healthcare matters, the common law right to refuse treatment
+is applicable.129, level III Making advance decisions can be immensely
+valuable as it can help health care providers in Malaysia to understand
+better the preferences and wishes of their patients.130, level III PWD may
+decide to make advance decisions regarding treatment while they still
+possess the mental capacity to do so by way of an advance directive
+or an advance care plan (Section 10d). Advance directives serve to
+guarantee the right of mentally competent individuals to continue
+exercising their autonomy in the event of future incapacity. These
+include the following:131
+•
+A doctor should comply with a patient’s unequivocal written
+directive to refuse a particular treatment.
+•
+Doctors are advised to consult the next of kin or seek legal advice
+if there is doubt on the validity of an advance directive, and these
+discussions need to be documented.
+Management of Dementia (Third Edition)
+c. Fitness to drive
+Driving ability involves multiple cognitive domains and requires
+visuospatial, executive function, memory, attention and motor skills.
+Other factors important in determining driving safety are vision,
+mobility, head-turning and day-time somnolence. In mild dementia,
+some patients may retain the skills needed for driving. Patients with
+moderate-severe dementia are unlikely to be fit to drive. Driving risk
+may be greater in certain subtypes of dementia e.g. FTD (due to lack of
+cortical insight) and DLB (due to fluctuating consciousness and visual
+hallucinations).132, level III
+For patients who decide to stop driving or who are forced to stop,
+clinicians must discuss practical alternatives, the impact on psychosocial
+benefits and the loss of autonomy with patients and their
+caregivers.132, level III
+•
+Assessment of fitness to drive involves composite cognitive test
+batteries in combination with other types of assessments e.g. driving
+simulator test132, level III or on-road test.133, level III
+•
+Locally, an assessment of fitness to drive can be done by referring
+the patient to an occupational therapist with the prescribed form
+(Borang Pemeriksaan Kesihatan Permohonan Lesen Memandu
+Orang Kurang Upaya) as provided in the Medical Examination
+Standards for Disabled Driver’s Licensing.134
+It is the responsibility of a PWD to report his/her disability to the
+authorities for licensing purposes.135 However, medical practitioners
+may voluntarily report new cases of disability to the Road Transport
+Department.134 It is good medical practice to seek the PWD’s consent for
+such reporting. However, if the PWD does not consent to the disclosure,
+medical practitioners may still permissibly breach the confidentiality
+of the PWD utilising reasons for disclosure in the patient’s medical
+interests and/or disclosure in the public interest if they judge that doing
+so will provide important benefits to the patient or prevent serious harm
+to third parties.131 Such disclosures should be limited only to essential
+information for the intended purpose and only to those persons who
+need to be notified.128
+Recommendation 13
+•
+If there is any doubt regarding people with dementia (PWD)’s
+decision-making capacity, a formal assessment of decision-making
+capacity should be carried out.
+•
+A doctor should comply with a patient’s unequivocal written directive
+to refuse a particular treatment if that decision was made while the
+patient had mental capacity.
+•
+PWD (particularly moderate to severe) should be assessed for their
+driving ability if they still wish to drive.
+Management of Dementia (Third Edition)
+10. PALLIATIVE AND END-OF-LIFE CARE
+There has been no major breakthrough in curative treatment for
+dementia over the past few decades. As dementia is a progressive
+and irreversible illness which can affect the QoL for PWD and their
+caregivers, palliative care should be initiated at the time of diagnosis
+throughout different stages of illness. As the disease progressed and
+the PWD become more dependent, the palliative care components
+should be more emphasised in their management to achieve the best
+quality of life.
+Continuous communication with the PWD and caregivers is important
+to assist them to establish the advance care planning especially during
+early stage of disease where the PWD are still capable to make their
+own decision. Education, spiritual and psychological support should be
+offered to improve QoL and reduce burden of the caregivers.
+Evidence for best practice during end-of-life care for PWD is limited and
+heterogenous. Nevertheless, best supportive care should be offered
+to them based on their preference and the principles of basic medical
+ethics.
+a. Artificial nutrition and hydration
+Dysphagia is a common problem in advance dementia. In a systematic
+review, dysphagia diagnostic assessment e.g. clinical swallowing
+examination, video fluoroscopy swallowing study and flexible
+endoscopic examination of swallowing can be used to determine the
+type of deficits in oropharyngeal dysphagia. However, there was limited
+evidence on the benefits of postural change, diet and liquid modification,
+and medication in management of this condition.136, level I
+In another systematic review, there was moderate quality of evidence
+on the use of high-calorie supplements to improve weight gain in person
+with advance dementia and not on function and survival.137, level I There
+was limited evidence to show that enteral tube feeding may prolong the
+survival rate and reduce aspiration pneumonia in advanced dementia
+based on a systematic review. On the other hand, percutaneous
+enterogastrostomy tube was associated with increased risk of pressure
+ulcer development or aggravation.138, level I
+NICE does not recommend routine use of enteral feeding in people
+with severe dementia, unless indicated for a potentially reversible comorbidity.42
+•
+There was insufficient evidence to recommend enteral feeding in
+patients with severe dementia.
+Management of Dementia (Third Edition)
+b. Pain management
+Pain is another prevalent and distressing issue for person with
+advance dementia. However, the affected person is not able to express
+themselves accurately on the pain they experience and very often it is
+manifested as behavioural problems.
+An RCT examining on the impact of a stepwise protocol for treating
+pain on PWD in nursing home showed that pain medication significantly
+improved pain control in the intervention group.139, level I However a
+systematic review showed that evidence on pain management for
+advance dementia was limited and heterogenous. Despite increased
+use of analgesia, pain was still prevalent in PWD.140, level I
+c. Restraints
+Restraints are used to protect people with severe dementia from
+harming themselves. These can be physical, chemical or psychological
+restraints.
+A multinational cohort study on PWD in nursing homes showed that
+physical restraint was associated with a higher risk of both functional
+(RR=2.30, 95% CI 1.52 to 3.49) and cognitive decline (RR=1.93, 95%
+CI 1.44 to 2.58) compared with AP alone. These risks were even
+higher among residents receiving both AP and physical restraints
+with RR of 2.49 (95% CI 1.89 to 3.27) and 2.31 (95% CI 1.54 to 3.48)
+respectively.141, level II-2
+A Belgian evidence-based guidelines on older adults in home care
+recommend that physical restraints should be avoided as much as
+possible due to the negative physical and psychosocial consequences
+to the patient.142
+d. Advance care planning
+Every PWD has the right to plan ahead for their future when they still
+have the capability to make decision. Hence, advance care planning
+should be discussed with PWD and their family members as early
+as possible after the diagnosis is established. The discussion should
+include lasting power of attorney (for decisions unrelated to healthcare
+as permitted under the Power of Attorney Act 1949) and future medical
+care direction based on their own preference, value and goals of life.
+PWD and their family members are allowed to review and change any
+advance statements they have made as the disease progresses.42
+A systematic review showed that intervention with advance care
+planning significantly reduced inappropriate hospital admissions
+and healthcare costs for PWD compared with control group.143, level I
+Therefore, attending clinicians should actively offer advance care
+planning to PWD and their family members when they are ready for it.
+Management of Dementia (Third Edition)
+Refer to Appendix 13 on Advance Care Planning for more details.
+Recommendation 14
+•
+Physical restraints should be avoided in dementia.
+•
+Advance care planning should be considered in the management of
+dementia once the diagnosis is established.
+Management of Dementia (Third Edition)
+11. REFERRAL
+Patients suspected of dementia should be referred to specialist care
+centres (e.g. geriatrics/psychiatry/neurology) for confirmation of
+diagnosis and management of complexities. This is because of the need
+for comprehensive assessments and investigations. At the moment,
+medication for dementia is not available at primary care locally.
+Once a diagnosis is made, stable PWD can be co-managed in both
+primary and secondary/tertiary care as an integrated care system.
+Management aspect than can be offered in primary care include
+management of medical co-morbidities and non-pharmacological
+treatment (e.g. cognitive stimulation and designing meaningful
+activities). However, these cases should be referred back to secondary/
+tertiary care when there is difficult behaviour problem, psychiatric comorbidity, rapid deterioration in clinical condition, etc.
+Recommendation 15
+•
+All patients with suspected dementia should be referred to a geriatric
+psychiatrist/psychiatrist, geriatrician or neurologist for assessment,
+diagnosis and management
+Management of Dementia (Third Edition)
+12. IMPLEMENTING THE GUIDELINES
+The management of dementia should be guided by an evidence-based
+approach, in order to provide quality care to the PWD. Several factors
+may affect the implementation of recommendations in the CPG.
+12.1 Facilitating and Limiting Factors
+Existing facilitators for application of the recommendations in the CPG
+include:
+•
+wide dissemination of the CPG (soft- and hardcopies) to health
+care providers
+•
+training and updates in relation to dementia
+•
+public awareness campaigns related to cognitive impairment
+including dementia
+•
+inter-ministerial
+collaboration
+and
+involvement
+of
+nongovernmental organisations to support the PWD and their
+caregivers
+Existing barriers for application of the recommendations of the CPG
+are:
+•
+limited exposure and training among health care providers on
+management of dementia
+•
+variation in availability of expertise and access to service
+provision
+•
+lack of awareness among patients, families, community and
+health care workers
+•
+lack of local data on dementia, e.g. research, registry, etc., for
+planning on services
+12.2 Potential Resource Implications
+In local setting, dementia is very much underdiagnosed due to lack of
+awareness and misconception that it is normal part of ageing among
+the public and health care providers. Besides that, PWD always present
+late with behavioural issues.
+In terms of pharmacotherapy, AChEI is strongly recommended in the
+treatment of dementia. However, it is not readily available in the primary/
+secondary/tertiary care due to financial constraints. Apart from that,
+many non-pharmacological interventions may not be easily available
+due to lack of manpower/expertise to conduct it.
+The CPG recommends early detection and referral, comprehensive
+assessment and treatment of the disorder. This requires increased
+awareness among public, caregivers and health care providers to
+establish diagnosis and early intervention to PWD as well as support
+to the caregivers.
+Management of Dementia (Third Edition)
+Thus, the implementation of this CPG requires resources to provide:
+•
+training of health care providers and caregivers
+•
+better access to referral centres
+•
+better caregiver support network
+•
+access to policy makers e.g. National Dementia Action Plan
+Based on the key recommendations, the following are proposed as
+clinical audit indicators for quality management of dementia:
+*geriatric psychiatrist/psychiatrist, geriatrician or neurologist
+**all severity
+Implementation strategies will be developed following the approval of
+the CPG by MoH which include launching of the CPG, Quick Reference
+and Training Module.
+Percentage of
+patients with
+suspected dementia
+referred to a relevant
+specialist* for
+assessment and
+diagnosis
+Percentage of
+newly diagnosed
+Alzheimer’s
+Disease** offered
+donepezil or
+rivastigmine
+=
+X 100%
+Number of patients with suspected
+dementia in the same period
+Number of patients with suspected dementia
+referred to a relevant specialist* for
+assessment and diagnosis in a period
+=
+X 100%
+Number of newly diagnosed Alzheimer’s
+Disease** in the same period
+Number of newly diagnosed Alzheimer’s
+Disease** offered donepezil or rivastigmine
+in a period
+Management of Dementia (Third Edition)
+REFERENCES
+1.
+World Health Organization. Dementia Fact Sheet. 2020.
+2.
+Alzheimers Disease International. World Alzheimer Report 2014: Dementia and
+Risk Reduction an Analysis of Protective and Modifiable Factors. London; 2014.
+3.
+Sooryanarayana R, Sazlina SG. The Malaysian National Health and Morbidity
+Survey (NHMS) 2018: Older Persons’ Health in Malaysia. Geriatrics &
+gerontology international. 2020;20 Suppl 2:5-6.
+4.
+Ryan NS, Rossor MN. Correlating familial Alzheimer’s disease gene mutations
+with clinical phenotype. Biomarkers in medicine. 2010;4(1):99-112.
+5.
+Karantzoulis S, Galvin JE. Distinguishing Alzheimer’s disease from other major
+forms of dementia. Expert review of neurotherapeutics. 2011;11(11):1579-91.
+6.
+Boyle PA, Yu L, Wilson RS, et al. Person-specific contribution of neuropathologies
+to cognitive loss in old age. Annals of neurology. 2018;83(1):74-83.
+7.
+Warren JD, Rohrer JD, Rossor MN. Clinical review. Frontotemporal dementia.
+BMJ (Clinical research ed). 2013;347:f4827.
+8.
+Jellinger KA. Dementia with Lewy bodies and Parkinson’s disease-dementia:
+current concepts and controversies. Journal of neural transmission (Vienna,
+Austria : 1996). 2018;125(4):615-50.
+9.
+Husain M, Schott JM. Oxford Textbook of Cognitive Neurology and Dementia:
+Oxford University Press; 2016.
+10. Ministry of Health Malaysia. Management of Dementia (Second Edition).
+Putrajaya: Ministry of Health Malaysia; 2009.
+11. Van Cauwenberghe C, Van Broeckhoven C, Sleegers K. The genetic landscape
+of Alzheimer disease: Clinical implications and perspectives. Genetics in
+medicine: official journal of the American College of Medical Genetics. 2015;18.
+12. Stuhec M, Keuschler J, Serra-Mestres J, et al. Effects of different antihypertensive
+medication groups on cognitive function in older patients: A systematic review.
+European psychiatry: the journal of the Association of European Psychiatrists.
+2017;46:1-15.
+13. Gudala K, Bansal D, Schifano F, et al. Diabetes mellitus and risk of dementia:
+A meta-analysis of prospective observational studies. Journal of diabetes
+investigation. 2013;4(6):640-50.
+14. Anstey KJ, Ashby-Mitchell K, Peters R. Updating the Evidence on the Association
+between Serum Cholesterol and Risk of Late-Life Dementia: Review and MetaAnalysis. Journal of Alzheimer’s disease : JAD. 2017;56(1):215-28.
+15. Sáiz-Vazquez O, Puente-Martínez A, Ubillos-Landa S, et al. Cholesterol and
+Alzheimer’s Disease Risk: A Meta-Meta-Analysis. Brain sciences. 2020;10(6).
+16. Albanese E, Launer LJ, Egger M, et al. Body mass index in midlife and
+dementia: Systematic review and meta-regression analysis of 589,649 men and
+women followed in longitudinal studies. Alzheimer’s & dementia (Amsterdam,
+Netherlands). 2017;8:165-78.
+17. Anstey KJ, Cherbuin N, Budge M, et al. Body mass index in midlife and late-life
+as a risk factor for dementia: a meta-analysis of prospective studies. Obesity
+reviews : an official journal of the International Association for the Study of
+Obesity. 2011;12(5):e426-37.
+18. Cherbuin N, Kim S, Anstey KJ. Dementia risk estimates associated with
+measures of depression: a systematic review and meta-analysis. BMJ open.
+2015;5(12):e008853.
+19. World Health Organization. Risk Reduction of Cognitive Decline and Dementia:
+WHO Guidelines. Geneva: World Health Organization;2019.
+20. Handing EP, Andel R, Kadlecova P, et al. Midlife Alcohol Consumption and
+Risk of Dementia Over 43 Years of Follow-Up: A Population-Based Study From
+Management of Dementia (Third Edition)
+the Swedish Twin Registry. The journals of gerontology Series A, Biological
+sciences and medical sciences. 2015;70(10):1248-54.
+21. Kivimäki M, Singh-Manoux A, Pentti J, et al. Physical inactivity, cardiometabolic
+disease, and risk of dementia: an individual-participant meta-analysis. BMJ
+(Clinical research ed). 2019;365:l1495.
+22. Kuiper JS, Zuidersma M, Oude Voshaar RC, et al. Social relationships and
+risk of dementia: A systematic review and meta-analysis of longitudinal cohort
+studies. Ageing research reviews. 2015;22:39-57.
+23. Killin LO, Starr JM, Shiue IJ, et al. Environmental risk factors for dementia: a
+systematic review. BMC geriatrics. 2016;16(1):175.
+24. Livingston G, Huntley J, Sommerlad A, et al. Dementia prevention, intervention,
+and care: 2020 report of the Lancet Commission. Lancet (London, England).
+2020;396(10248):413-46.
+25. Peters R, Booth A, Rockwood K, et al. Combining modifiable risk factors
+and risk of dementia: a systematic review and meta-analysis. BMJ open.
+2019;9(1):e022846.
+26. World Health Organization. Tobacco Fact Sheet 2020. (Available at https://www.
+who.int/news-room/fact-sheets/detail/tobacco)
+27. Rutjes AW, Denton DA, Di Nisio M, et al. Vitamin and mineral supplementation
+for maintaining cognitive function in cognitively healthy people in mid and late
+life. The Cochrane database of systematic reviews. 2018;12(12):Cd011906.
+28. Farina N, Llewellyn D, Isaac M, et al. Vitamin E for Alzheimer’s dementia and
+mild cognitive impairment. The Cochrane database of systematic reviews.
+2017;4(4):Cd002854.
+29. Jordan F, Quinn TJ, McGuinness B, et al. Aspirin and other non-steroidal antiinflammatory drugs for the prevention of dementia. The Cochrane database of
+systematic reviews. 2020;4(4):Cd011459.
+30. McGuinness B, Craig D, Bullock R, et al. Statins for the prevention of dementia.
+The Cochrane database of systematic reviews. 2016(1):Cd003160.
+31. Ministry of Health Singapore. Dementia: MOH Clinical Practice Guidelines
+1/2013. Singapore: Ministry of Health; 2013.
+32. Owens DK, Davidson KW, Krist AH, et al. Screening for Cognitive Impairment in
+Older Adults: US Preventive Services Task Force Recommendation Statement.
+Jama. 2020;323(8):757-63.
+33. Hendry K, Green C, McShane R, et al. AD-8 for detection of dementia across
+a variety of healthcare settings. The Cochrane database of systematic reviews.
+2019;3(3):Cd011121.
+34. Harrison JK, Stott DJ, McShane R, et al. Informant Questionnaire on Cognitive
+Decline in the Elderly (IQCODE) for the early diagnosis of dementia across a
+variety of healthcare settings. The Cochrane database of systematic reviews.
+2016;11(11):Cd011333.
+35. Tsoi KK, Chan JY, Hirai HW, et al. Cognitive Tests to Detect Dementia:
+A
+Systematic
+Review
+and
+Meta-analysis.
+JAMA
+internal
+medicine.
+2015;175(9):1450-8.
+36. Jackson TA, Naqvi SH, Sheehan B. Screening for dementia in general hospital
+inpatients: a systematic review and meta-analysis of available instruments. Age
+and ageing. 2013;42(6):689-95.
+37. Davis DH, Creavin ST, Yip JL, et al. Montreal Cognitive Assessment for the
+diagnosis of Alzheimer’s disease and other dementias. The Cochrane database
+of systematic reviews. 2015;2015(10):Cd010775.
+38. Matías-Guiu JA, Valles-Salgado M, Rognoni T, et al. Comparative Diagnostic
+Accuracy of the ACE-III, MIS, MMSE, MoCA, and RUDAS for Screening of
+Alzheimer Disease. Dementia and geriatric cognitive disorders. 2017;43(56):237-46.
+Management of Dementia (Third Edition)
+39. Lim L, Ng TP, Ong AP, et al. A novel language-neutral Visual Cognitive
+Assessment Test (VCAT): validation in four Southeast Asian countries.
+Alzheimer’s research & therapy. 2018;10(1):6.
+40. Cummings-Vaughn LA, Chavakula NN, Malmstrom TK, et al. Veterans Affairs
+Saint Louis University Mental Status examination compared with the Montreal
+Cognitive Assessment and the Short Test of Mental Status. Journal of the
+American Geriatrics Society. 2014;62(7):1341-6.
+41. Rosli R, Tan MP, Gray WK, et al. Cognitive assessment tools in Asia: a
+systematic review. International psychogeriatrics. 2016;28(2):189-210.
+42. National Institute for Health and Care Excellence (NICE). Dementia: assessment,
+management and support for people living with dementia and their carers.
+London: NICE; 2018.
+43. Canevelli M, Adali N, Voisin T, et al. Behavioral and psychological subsyndromes
+in Alzheimer’s disease using the Neuropsychiatric Inventory. International
+journal of geriatric psychiatry. 2013;28(8):795-803.
+44. Terum TM, Andersen JR, Rongve A, et al. The relationship of specific items on
+the Neuropsychiatric Inventory to caregiver burden in dementia: a systematic
+review. International journal of geriatric psychiatry. 2017;32(7):703-17.
+45. Jeon YH, Sansoni J, Low LF, et al. Recommended measures for the assessment
+of behavioral disturbances associated with dementia. The American journal of
+geriatric psychiatry : official journal of the American Association for Geriatric
+Psychiatry. 2011;19(5):403-15.
+46. Cohen-Mansfield J, Golander H. The measurement of psychosis in dementia: a
+comparison of assessment tools. Alzheimer disease and associated disorders.
+2011;25(2):101-8.
+47. Leontjevas R, Gerritsen DL, Vernooij-Dassen MJ, et al. Comparative validation
+of proxy-based Montgomery-Åsberg depression rating scale and cornell scale for
+depression in dementia in nursing home residents with dementia. The American
+journal of geriatric psychiatry : official journal of the American Association for
+Geriatric Psychiatry. 2012;20(11):985-93.
+48. Sikkes SA, de Lange-de Klerk ES, Pijnenburg YA, et al. A systematic review of
+Instrumental Activities of Daily Living scales in dementia: room for improvement.
+Journal of neurology, neurosurgery, and psychiatry. 2009;80(1):7-12.
+49. Whalen KJ, Buchholz SW. The reliability, validity and feasibility of tools used
+to screen for caregiver burden: a systematic review. JBI library of systematic
+reviews. 2009;7(32):1373-430.
+50. Guideline Adaptation Committee. Clinical Practice Guidelines and Principles of
+Care for People with Dementia. Sydney: Guideline Adaptation Committee; 2016.
+51. Chandra A, Dervenoulas G, Politis M. Magnetic resonance imaging in Alzheimer’s
+disease and mild cognitive impairment. Journal of neurology. 2019;266(6):1293302.
+52. Harper L, Barkhof F, Fox NC, et al. Using visual rating to diagnose dementia:
+a critical evaluation of MRI atrophy scales. Journal of neurology, neurosurgery,
+and psychiatry. 2015;86(11):1225-33.
+53. McCleery J, Morgan S, Bradley KM, et al. Dopamine transporter imaging for the
+diagnosis of dementia with Lewy bodies. The Cochrane database of systematic
+reviews. 2015;1(1):Cd010633.
+54. Smailagic N, Vacante M, Hyde C, et al. ¹⁸F-FDG PET for the early diagnosis
+of Alzheimer’s disease dementia and other dementias in people with mild
+cognitive impairment (MCI). The Cochrane database of systematic reviews.
+2015;1(1):Cd010632.
+55. Zhang S, Smailagic N, Hyde C, et al. (11)C-PIB-PET for the early diagnosis
+of Alzheimer’s disease dementia and other dementias in people with mild
+Management of Dementia (Third Edition)
+cognitive impairment (MCI). The Cochrane database of systematic reviews.
+2014;2014(7):Cd010386.
+56. Law ZK, Todd C, Mehraram R, et al. The Role of EEG in the Diagnosis, Prognosis
+and Clinical Correlations of Dementia with Lewy Bodies-A Systematic Review.
+Diagnostics (Basel, Switzerland). 2020;10(9).
+57. Ritchie C, Smailagic N, Noel-Storr AH, et al. CSF tau and the CSF tau/ABeta
+ratio for the diagnosis of Alzheimer’s disease dementia and other dementias
+in people with mild cognitive impairment (MCI). The Cochrane database of
+systematic reviews. 2017;3(3):Cd010803.
+58. American Psychiatric Association (APA). Diagnostic and Statistical Manual of
+Mental Disorders: DSM-5. Arlington, VA: APA; 2013.
+59. Groot C, Hooghiemstra AM, Raijmakers PG, et al. The effect of physical activity
+on cognitive function in patients with dementia: A meta-analysis of randomized
+control trials. Ageing research reviews. 2016;25:13-23.
+60. Woods B, Aguirre E, Spector AE, et al. Cognitive stimulation to improve cognitive
+functioning in people with dementia. The Cochrane database of systematic
+reviews. 2012(2):Cd005562.
+61. Bahar-Fuchs A, Clare L, Woods B. Cognitive training and cognitive rehabilitation
+for mild to moderate Alzheimer’s disease and vascular dementia. The Cochrane
+database of systematic reviews. 2013;2013(6):Cd003260.
+62. Woods B, O’Philbin L, Farrell EM, et al. Reminiscence therapy for dementia. The
+Cochrane database of systematic reviews. 2018;3(3):Cd001120.
+63. Agli O, Bailly N, Ferrand C. Spirituality and religion in older adults with dementia:
+a systematic review. International psychogeriatrics. 2015;27(5):715-25.
+64. Orgeta V, Qazi A, Spector A, et al. Psychological treatments for depression
+and anxiety in dementia and mild cognitive impairment: systematic review and
+meta-analysis. The British journal of psychiatry : the journal of mental science.
+2015;207(4):293-8.
+65. Möhler R, Renom A, Renom H, et al. Personally tailored activities for improving
+psychosocial outcomes for people with dementia in long-term care. The
+Cochrane database of systematic reviews. 2018;2(2):Cd009812.
+66. Olazarán J, Reisberg B, Clare L, et al. Nonpharmacological therapies in
+Alzheimer’s disease: a systematic review of efficacy. Dementia and geriatric
+cognitive disorders. 2010;30(2):161-78.
+67. van der Steen JT, Smaling HJ, van der Wouden JC, et al. Music-based
+therapeutic interventions for people with dementia. The Cochrane database of
+systematic reviews. 2018;7(7):Cd003477.
+68. Forrester LT, Maayan N, Orrell M, et al. Aromatherapy for dementia. The
+Cochrane database of systematic reviews. 2014(2):Cd003150.
+69. Wu J, Wang Y, Wang Z. The effectiveness of massage and touch on behavioural
+and psychological symptoms of dementia: A quantitative systematic review and
+meta-analysis. Journal of advanced nursing. 2017;73(10):2283-95.
+70. Neal M, Barton Wright P. Validation therapy for dementia. The Cochrane
+database of systematic reviews. 2003(3):Cd001394.
+71. Forbes D, Blake CM, Thiessen EJ, et al. Light therapy for improving cognition,
+activities of daily living, sleep, challenging behaviour, and psychiatric disturbances
+in dementia. The Cochrane database of systematic reviews. 2014(2):Cd003946.
+72. Abraha I, Rimland JM, Lozano-Montoya I, et al. Simulated presence therapy for
+dementia. The Cochrane database of systematic reviews. 2017;4(4):Cd011882.
+73. Vilela VC, Pacheco RL, Latorraca COC, et al. What do Cochrane systematic
+reviews say about non-pharmacological interventions for treating cognitive
+decline and dementia? Sao Paulo medical journal = Revista paulista de
+medicina. 2017;135(3):309-20.
+Management of Dementia (Third Edition)
+74. Bond M, Rogers G, Peters J, et al. The effectiveness and cost-effectiveness
+of donepezil, galantamine, rivastigmine and memantine for the treatment of
+Alzheimer’s disease (review of Technology Appraisal No. 111): a systematic
+review and economic model. Health technology assessment (Winchester,
+England). 2012;16(21):1-470.
+75. Birks JS, Harvey RJ. Donepezil for dementia due to Alzheimer’s disease. The
+Cochrane database of systematic reviews. 2018;6(6):Cd001190.
+76. Birks JS, Grimley Evans J. Rivastigmine for Alzheimer’s disease. The Cochrane
+database of systematic reviews. 2015(4):Cd001191.
+77. Farlow MR, Grossberg GT, Sadowsky CH, et al. A 24-week, randomized,
+controlled trial of rivastigmine patch 13.3 mg/24 h versus 4.6 mg/24 h in severe
+Alzheimer’s dementia. CNS neuroscience & therapeutics. 2013;19(10):745-52.
+78. Grossberg G, Cummings J, Frölich L, et al. Efficacy of higher dose 13.3 mg/24 h
+rivastigmine patch on instrumental activities of daily living in patients with mildto-moderate Alzheimer’s disease. American journal of Alzheimer’s disease and
+other dementias. 2013;28(6):583-91.
+79. Dou KX, Tan MS, Tan CC, et al. Comparative safety and effectiveness of
+cholinesterase inhibitors and memantine for Alzheimer’s disease: a network
+meta-analysis of 41 randomized controlled trials. Alzheimer’s research &
+therapy. 2018;10(1):126.
+80. McShane R, Westby MJ, Roberts E, et al. Memantine for dementia. The
+Cochrane database of systematic reviews. 2019;3(3):Cd003154.
+81. Blanco-Silvente L, Capellà D, Garre-Olmo J, et al. Predictors of discontinuation,
+efficacy, and safety of memantine treatment for Alzheimer’s disease: metaanalysis and meta-regression of 18 randomized clinical trials involving 5004
+patients. BMC geriatrics. 2018;18(1):168.
+82. Román GC, Salloway S, Black SE, et al. Randomized, placebo-controlled,
+clinical trial of donepezil in vascular dementia: differential effects by hippocampal
+size. Stroke. 2010;41(6):1213-21.
+83. Birks J, McGuinness B, Craig D. Rivastigmine for vascular cognitive impairment.
+The Cochrane database of systematic reviews. 2013(5):Cd004744.
+84. Jin BR, Liu HY. Comparative efficacy and safety of cognitive enhancers for
+treating vascular cognitive impairment: systematic review and Bayesian network
+meta-analysis. Neural regeneration research. 2019;14(5):805-16.
+85. Rolinski M, Fox C, Maidment I, et al. Cholinesterase inhibitors for dementia
+with Lewy bodies, Parkinson’s disease dementia and cognitive impairment
+in Parkinson’s disease. The Cochrane database of systematic reviews.
+2012(3):Cd006504.
+86. Meng YH, Wang PP, Song YX, et al. Cholinesterase inhibitors and memantine
+for Parkinson’s disease dementia and Lewy body dementia: A meta-analysis.
+Experimental and therapeutic medicine. 2019;17(3):1611-24.
+87. Buoli M, Serati M, Caldiroli A, et al. Pharmacological Management of Psychiatric
+Symptoms in Frontotemporal Dementia: A Systematic Review. Journal of
+geriatric psychiatry and neurology. 2017;30(3):162-9.
+88. Nardell M, Tampi RR. Pharmacological treatments for frontotemporal dementias:
+a systematic review of randomized controlled trials. American journal of
+Alzheimer’s disease and other dementias. 2014;29(2):123-32.
+89. Kishi T, Matsunaga S, Iwata N. Memantine for the treatment of frontotemporal
+dementia:
+a
+meta-analysis.
+Neuropsychiatric
+disease
+and
+treatment.
+2015;11:2883-5.
+90. Dyer SM, Harrison SL, Laver K, et al. An overview of systematic reviews of
+pharmacological and non-pharmacological interventions for the treatment
+Management of Dementia (Third Edition)
+of behavioral and psychological symptoms of dementia. International
+psychogeriatrics. 2018;30(3):295-309.
+91. Kongpakwattana K, Sawangjit R, Tawankanjanachot I, et al. Pharmacological
+treatments for alleviating agitation in dementia: a systematic review and network
+meta-analysis. British journal of clinical pharmacology. 2018;84(7):1445-56.
+92. Yunusa I, Alsumali A, Garba AE, et al. Assessment of Reported Comparative
+Effectiveness and Safety of Atypical Antipsychotics in the Treatment of
+Behavioral and Psychological Symptoms of Dementia: A Network Meta-analysis.
+JAMA network open. 2019;2(3):e190828.
+93. Grossberg GT, Kohegyi E, Mergel V, et al. Efficacy and Safety of Brexpiprazole
+for the Treatment of Agitation in Alzheimer’s Dementia: Two 12-Week,
+Randomized, Double-Blind, Placebo-Controlled Trials. The American journal
+of geriatric psychiatry : official journal of the American Association for Geriatric
+Psychiatry. 2020;28(4):383-400.
+94. Xiao H, Su Y, Cao X, et al. A meta-analysis of mood stabilizers for Alzheimer’s
+disease. Journal of Huazhong University of Science and Technology Medical
+sciences = Hua zhong ke ji da xue xue bao Yi xue Ying De wen ban = Huazhong
+keji daxue xuebao Yixue Yingdewen ban. 2010;30(5):652-8.
+95. Baillon SF, Narayana U, Luxenberg JS, et al. Valproate preparations for
+agitation in dementia. The Cochrane database of systematic reviews.
+2018;10(10):Cd003945.
+96. McCleery J, Sharpley AL. Pharmacotherapies for sleep disturbances in dementia.
+The Cochrane database of systematic reviews. 2020;11(11):Cd009178.
+97. Schroeck JL, Ford J, Conway EL, et al. Review of Safety and Efficacy of Sleep
+Medicines in Older Adults. Clinical therapeutics. 2016;38(11):2340-72.
+98. Rubino A, Sanon M, Ganz ML, et al. Association of the US Food and Drug
+Administration Antipsychotic Drug Boxed Warning With Medication Use and
+Health Outcomes in Elderly Patients With Dementia. JAMA network open.
+2020;3(4):e203630.
+99. American Geriatrics Society. American Geriatrics Society 2019 Updated AGS
+Beers Criteria® for Potentially Inappropriate Medication Use in Older Adults.
+Journal of the American Geriatrics Society. 2019;67(4):674-94.
+100. Hukins D, Macleod U, Boland JW. Identifying potentially inappropriate prescribing
+in older people with dementia: a systematic review. European journal of clinical
+pharmacology. 2019;75(4):467-81.
+101. Delgado J, Bowman K, Clare L. Potentially inappropriate prescribing in dementia:
+a state-of-the-art review since 2007. BMJ open. 2020;10:e029172.
+102. Ah YM, Suh Y, Jun K, et al. Effect of anticholinergic burden on treatment
+modification, delirium and mortality in newly diagnosed dementia patients
+starting a cholinesterase inhibitor: A population-based study. Basic & clinical
+pharmacology & toxicology. 2019;124(6):741-8.
+103. Tan MS, Yu JT, Tan CC, et al. Efficacy and adverse effects of ginkgo biloba
+for cognitive impairment and dementia: a systematic review and meta-analysis.
+Journal of Alzheimer’s disease: JAD. 2015;43(2):589-603.
+104. Kellermann AJ, Kloft C. Is there a risk of bleeding associated with standardized
+Ginkgo biloba extract therapy? A systematic review and meta-analysis.
+Pharmacotherapy. 2011;31(5):490-502.
+105. Wang YY, Zheng W, Ng CH, et al. Meta-analysis of randomized, double-blind,
+placebo-controlled trials of melatonin in Alzheimer’s disease. International
+journal of geriatric psychiatry. 2017;32(1):50-7.
+106. Chan ES, Bautista DT, Zhu Y, et al. Traditional Chinese herbal medicine
+for vascular dementia. The Cochrane database of systematic reviews.
+2018;12(12):Cd010284.
+Management of Dementia (Third Edition)
+107. Seddon N, D’Cunha N, Mellor D, et al. Effects of Curcumin on Cognitive
+Function—A Systematic Review of Randomized Controlled Trials. 2019;4:1-11.
+108. Petersen RC, Lopez O, Armstrong MJ, et al. Practice guideline update summary:
+Mild cognitive impairment: Report of the Guideline Development, Dissemination,
+and Implementation Subcommittee of the American Academy of Neurology.
+Neurology. 2018;90(3):126-35.
+109. Han JW, Lee H, Hong JW, et al. Multimodal Cognitive Enhancement Therapy
+for Patients with Mild Cognitive Impairment and Mild Dementia: A Multi- Center,
+Randomized, Controlled, Double-Blind, Crossover Trial. Journal of Alzheimer’s
+disease : JAD. 2017;55(2):787-96.
+110. Huckans M, Hutson L, Twamley E, et al. Efficacy of cognitive rehabilitation
+therapies for mild cognitive impairment (MCI) in older adults: working toward a
+theoretical model and evidence-based interventions. Neuropsychology review.
+2013;23(1):63-80.
+111. Baker LD, Frank LL, Foster-Schubert K, et al. Effects of aerobic exercise on mild
+cognitive impairment: a controlled trial. Archives of neurology. 2010;67(1):71-9.
+112. McGrattan AM, McEvoy CT, McGuinness B, et al. Effect of dietary interventions
+in mild cognitive impairment: a systematic review. The British journal of nutrition.
+2018;120(12):1388-405.
+113. Dougall D, Poole N, Agrawal N. Pharmacotherapy for chronic cognitive
+impairment in traumatic brain injury. The Cochrane database of systematic
+reviews. 2015(12):Cd009221.
+114. Kumar KS, Samuelkamaleshkumar S, Viswanathan A, et al. Cognitive
+rehabilitation for adults with traumatic brain injury to improve occupational
+outcomes. The Cochrane database of systematic reviews. 2017;6(6):Cd007935.
+115. Magee WL, Clark I, Tamplin J, et al. Music interventions for acquired brain injury.
+The Cochrane database of systematic reviews. 2017;1(1):Cd006787.
+116. Cheng C, Huang CL, Tsai CJ, et al. Alcohol-Related Dementia: A Systemic
+Review of Epidemiological Studies. Psychosomatics. 2017;58(4):331-42.
+117. Rehm J, Hasan OSM, Black SE, et al. Alcohol use and dementia: a systematic
+scoping review. Alzheimer’s research & therapy. 2019;11(1):1.
+118. Day E, Bentham PW, Callaghan R, et al. Thiamine for prevention and treatment
+of Wernicke-Korsakoff Syndrome in people who abuse alcohol. The Cochrane
+database of systematic reviews. 2013;2013(7):Cd004033.
+119. Svanberg J, Evans JJ. Neuropsychological rehabilitation in alcohol-related brain
+damage: a systematic review. Alcohol and alcoholism (Oxford, Oxfordshire).
+2013;48(6):704-11.
+120. Wang Y, Liu M, Lu Q, et al. Global prevalence and burden of HIV-associated
+neurocognitive disorder: A meta-analysis. Neurology. 2020;95(19):e2610-e21.
+121. Antinori A, Arendt G, Becker JT, et al. Updated research nosology for HIVassociated neurocognitive disorders. Neurology. 2007;69(18):1789-99.
+122. Zipursky AR, Gogolishvili D, Rueda S, et al. Evaluation of brief screening tools
+for neurocognitive impairment in HIV/AIDS: a systematic review of the literature.
+AIDS (London, England). 2013;27(15):2385-401.
+123. Smurzynski M, Wu K, Letendre S, et al. Effects of central nervous system
+antiretroviral penetration on cognitive functioning in the ALLRT cohort. AIDS
+(London, England). 2011;25(3):357-65.
+124. Maayan N, Soares-Weiser K, Lee H. Respite care for people with dementia and
+their carers. The Cochrane database of systematic reviews. 2014(1):Cd004396.
+125. Giannouli V, Giannoulis K. Gazing at Medusa: Alzheimer’s dementia through the
+lenses of spirituality and religion. Health psychology research. 2020;8(1):8833.
+126. Nikmat Aw. dementia in malaysia: issues and challenges. Asian Journal of
+Psychiatry. 2011;12:1-7.
+Management of Dementia (Third Edition)
+127. Mental Health Act 2001. Part X - Proceedings in Inquiries into Mental Disorder
+(Section 51 - Section 75). (Available at: https://www.moh.gov.my/index.php/
+pages/view/381)
+128. Lo B. Resolving Ethical Dilemmas: A Guide for Clinicians (5th Edition): Lippincott
+Williams & Wilkins; 2015.
+129. Chan HY. Regulating advance decision-making: potential and challenges for
+Malaysia. Asian Bioethics Review. 2019;11:111-22.
+130. Tan Kiak Min M. Considerations for Introducing Legislation on Advance
+Decisions in Malaysia. Asian Bioeth Rev. 2018;10(1):87-92.
+131. Malaysian Medical Council. Malaysian Medical Council Guideline: Consent
+for Treatment of Patients by Registered Medical Practitioners. Kuala Lumpur:
+Malaysian Medical Council 2017.
+132. Allan CL, Behrman S, Baruch N, et al. Driving and dementia: a clinical update for
+mental health professionals. Evidence Based Mental Health. 2016;19(4):110.
+133. Martin AJ, Marottoli R, O’Neill D. Driving assessment for maintaining mobility
+and safety in drivers with dementia. The Cochrane database of systematic
+reviews. 2013;2013(8):Cd006222.
+134. Ministry of Health Malaysia. Medical Examination Standards For Disabled
+Driver’s Licensing. Putrajaya: Ministry of Health Malaysia; 2011.
+135. Laws of Malaysia Act 333 Road Transport Act 1987. (Available at: http://www.
+agc.gov.my/agcportal/uploads/files/Publications/LOM/EN/Act%20333%20-%20
+Road%20Transport%20Act%201987.pdf)
+136. Alagiakrishnan K, Bhanji RA, Kurian M. Evaluation and management of
+oropharyngeal dysphagia in different types of dementia: a systematic review.
+Archives of gerontology and geriatrics. 2013;56(1):1-9.
+137. Hanson LC, Ersek M, Gilliam R, et al. Oral feeding options for people with
+dementia: a systematic review. Journal of the American Geriatrics Society.
+2011;59(3):463-72.
+138. Ribeiro Salomon AL, Carvalho Garbi Novaes MR. Outcomes of enteral nutrition
+for patients with advanced dementia: a systematic review. The journal of
+nutrition, health & aging. 2015;19(2):169-77.
+139. Sandvik RK, Selbaek G, Seifert R, et al. Impact of a stepwise protocol for
+treating pain on pain intensity in nursing home patients with dementia: a cluster
+randomized trial. European journal of pain (London, England). 2014;18(10):1490500.
+140. Husebo BS, Achterberg W, Flo E. Identifying and Managing Pain in People with
+Alzheimer’s Disease and Other Types of Dementia: A Systematic Review. CNS
+drugs. 2016;30(6):481-97.
+141. Foebel AD, Onder G, Finne-Soveri H, et al. Physical Restraint and Antipsychotic
+Medication Use Among Nursing Home Residents With Dementia. Journal of the
+American Medical Directors Association. 2016;17(2):184.e9-14.
+142. Scheepmans K, Dierckx de Casterlé B, Paquay L, et al. Reducing physical
+restraints by older adults in home care: development of an evidence-based
+guideline. BMC geriatrics. 2020;20(1):169.
+143. Robinson L, Dickinson C, Rousseau N, et al. A systematic review of the
+effectiveness of advance care planning interventions for people with cognitive
+impairment and dementia. Age and ageing. 2012;41(2):263-9.
+Management of Dementia (Third Edition)
+APPENDIX 1
+EXAMPLE OF SEARCH STRATEGY
+Clinical Question: What are the safe and effective pharmacological
+treatments for dementia? - Acetylcholinesterase inhibitors (rivastigmine,
+donepezil, galantamine) & NMDA antagonists (memantine)
+1. DEMENTIA/
+2. dementia*.tw.
+3. (familial adj1 dementia*).tw.
+4. (senile adj2 paranoid dementia*).tw.
+5. DEMENTIA, VASCULAR/
+6. (acute onset adj3 vascular dementia*).tw.
+7. ((arteriosclerotic or vascular) adj1 dementia*).tw.
+8. (subcortical adj2 arteriosclerotic encephalopathy*).tw.
+9. (binswanger* adj2 (encephalopath* or disease*)).tw.
+10. chronic progressive subcortical encephalopathy.tw.
+11. (subcortical adj2 vascular dementia*).tw.
+12. (subcortical arteriosclerotic adj2 encephalopath*).tw.
+13. (chronic progressive adj3 subcortical encephalopath*).tw.
+14. (subcortical adj1 leukoencephalopath*).tw.
+15. FRONTOTEMPORAL DEMENTIA/
+16. ((frontotemporal or frontotemporal lobe) adj2 dementia*).tw.
+17. (frontotemporal dementia adj4 (parkinsonism or parkinsonism 17
+or parkinsonism-17)).tw.
+18. ((grn-related or grn related) adj3 frontotemporal dementia*).tw.
+19. ((ubiquitin positive or ubiquitin-positive) adj3 frontotemporal
+dementia*).tw.
+20. (frontotemporal lobar degeneration adj6 (ubiquitin positive inclusion
+or ubiquitin-positive inclusion)).tw.
+21. (semantic adj1 dementia*).tw.
+22. familial pick* disease*.tw.
+23. ftd-grn.tw.
+24. ftd-pgrn.tw.
+25. ftdp-17.tw.
+26. ftld-17 grn.tw.
+27. ftld with tdp 43 pathology.tw.
+28. ftld with tdp-43 pathology.tw.
+29. ftld-tdp.tw.
+30. DEMENTIA, MULTI-INFARCT/
+31. (lacunar adj1 dementia*).tw.
+32. ((multiinfarct or multi infarct or multi-infarct) adj2 dementia*).tw.
+33. ALZHEIMER DISEASE/
+34. alzheimer* dementia*.tw.
+35. (alzheimer* disease adj2 (early onset or late onset or focal onset)).
+tw.
+Management of Dementia (Third Edition)
+36. (familial adj2 alzheimer* disease).tw.
+37. ((Alzheimer* type or Alzheimer-type) adj3 (dementia* or senile
+dementia*)).tw.
+38. ((senile or presenile) adj1 dementia*).tw.
+39. (primary senile degenerative adj3 dementia*).tw.
+40. presenile alzheimer dementia.tw.
+41. Mixed dementia*.tw.
+42. 1 or 2 or 3 or 4 or 5 or 6 or 7 or 8 or 9 or 10 or 11 or 12 or 13 or 14
+or 15 or 16 or 17 or 18 or 19 or 20 or 21 or 22 or 23 or 24 or 25 or
+26 or 27 or 28 or 29 or 30 or 31 or 32 or 33 or 34 or 35 or 36 or 37
+or 38 or 39 or 40 or 41
+43. CHOLINESTERASE INHIBITORS/
+44. (anticholinesterase* or anti cholinesterase* or anti-cholinesterase*).
+tw.
+45. ((acetylcholinesterase or cholinesterase) adj1 inhibitor*).tw.
+46. (irreversible adj2 cholinesterase inhibitor*).tw.
+47. ((reversible or irreversible) adj2 cholinesterase inhibitor*).tw.
+48. RIVASTIGMINE/
+49. Exelon.tw.
+50. (rivastigmine adj2 hydrogen tartrate).tw.
+51. rivastigmine tartrate.tw.
+52. Rivastigmine.tw.
+53. GALANTAMINE/
+54. galanthamine hydrobromide.tw.
+55. donepezil.tw.
+56. aricept.tw.
+57. MEMANTINE/
+58. ebixa.tw.
+59. memantin*.tw.
+60. or/43-59
+61. 42 and 60
+62. limit 61 to (yr=”2009 -Current” and “all adult (19 plus years)” and
+English and humans)
+63. limit 62 to systematic reviews
+Management of Dementia (Third Edition)
+APPENDIX 2
+CLINICAL QUESTIONS
+1. What are the risk factors for dementia?
+2. What are the risk reduction interventions/strategies for dementia?
+3. What are the diagnostic criteria for dementia?
+4. What are the accurate assessment tools for dementia?
+5. What are the accurate assessment tools for non-cognitive domains
+in dementia?
+6. What are the safe and effective pharmacological treatments for
+dementia?
+• Acetylcholinesterase
+inhibitors
+(rivastigmine,
+donepezil,
+galantamine) & NMDA antagonists (memantine)
+• Antipsychotics/antidepressants/mood stabilisers for BPSD
+• Drugs to use with caution (anticholinergic burden)
+7. What are the safe and effective non-pharmacological treatments
+for dementia?
+8. What are the safe and effective TCM for dementia?
+9. What are the safe and effective treatment in mild cognitive
+impairment?
+10. What are the safe and effective palliative care for dementia?
+11. What are the basic social, legal and ethical issues in dementia?
+12. What are the safe and effective interventions for caregivers of
+dementia?
+13. What are the safe and effective management in the following
+special groups of dementia?
+• Acquired brain injury
+• Alcohol-related dementia
+• HIV-associated neurocognitive disorder
+14. When should patients with dementia be referred to a tertiary
+specialist service?
+Management of Dementia (Third Edition)
+APPENDIX 3
+10 WARNING SIGNS OF DEMENTIA
+Source: Alzheimer’s Disease Foundation Malaysia (Available at: http://adfm.org.my/10-warning-signs/)
+Dementia is not a part of normal ageing
+Talk to a doctor or contact Alzheimer’s Disease Foundation Malaysia (ADFM) for more information
+Management of Dementia (Third Edition)
+APPENDIX 4
+INITIAL ASSESSMENT TOOLS
+a. Abbreviated Mental Test Score (AMTS)
+The following questions are put to the patient. Each question
+correctly answered scores one point:
+A score of 6 or less suggests delirium or dementia, although further
+tests are necessary to confirm the diagnosis.
+What is your age? (1 point)
+What is the time to the nearest hour? (1 point)
+Give the patient an address, and ask him or her to
+repeat it at the end of the test. (1 point)
+e.g. 42 West Street
+What is the year? (1 point)
+What is the name of the hospital or number of the
+residence where the patient is situated? (1 point)
+Can the patient recognize two persons (the doctor,
+nurse, home help, etc.)? (1 point)
+What is your date of birth? (day and month sufficient)
+(1 point)
+In what year did World War 1 begin? (1 point)
+(other dates can be used, with preference for dates
+some time in the past)
+Name the present monarch/prime minister/president.
+(1 point)
+Count backwards from 20 down to 1. (1 point)
+Question
+Score
+Management of Dementia (Third Edition)
+b. Mini-Cog
+The Mini-Cog
+1. Instruct the patient to listen carefully and repeat the following:
+APPLE
+WATCH
+PENNY
+2. Administer the Clock Drawing Test (CDT)
+3. Ask the patient to repeat the three words given previously.
+__________
+__________
+__________
+Scoring:
+Number of correct items recalled _______ [if 3 then negative screen.
+STOP]
+If answer is 1-2
+Is CDT Abnormal? No Yes
+If No, then negative screen
+If Yes, then screen positive for cognitive impairment.
+Instructions for CDT:
+Inside the circle draw the hours of a clock as if a child would draw them.
+Place the hands of the clock to represent the time “forty-five minutes
+past ten o’clock”
+Management of Dementia (Third Edition)
+APPENDIX 5
+DIAGNOSTIC AND STATISTICAL MANUAL OF MENTAL
+DISORDER FIFTH EDITION (DSM-5)
+Diagnostic criteria for major neurocognitive disorder (or dementia)
+A. Evidence of significant cognitive decline from a previous level of
+performance in one or more cognitive domains (complex attention,
+executive function, learning and memory, language, perceptualmotor or social cognition) based on:
+1. Concern of the individual, a knowledgeable informant or the
+clinician that there has been a significant decline in cognitive
+function; and
+2. A substantial impairment in cognitive performance, preferably
+documented by standardised neuropsychological testing or in its
+absence, another quantified clinical assessment.
+B. The cognitive deficits interfere with independence in everyday
+activities (that is, at a minimum, requiring assistance with complex
+instrumental activities of daily living such as paying bills or managing
+medications).
+C. The cognitive deficits do not occur exclusively in the context of a
+delirium.
+D. The cognitive deficits are not better explained by another mental
+disorder. Specify:
+•
+Without behavioural disturbance: if the cognitive disturbance
+is not accompanied by any clinically significant behavioural
+disturbance.
+•
+With behavioural disturbance (specify disturbance): if the
+cognitive disturbance is accompanied by a clinically significant
+behavioural disturbance (for example, psychotic symptoms, mood
+disturbance, agitation, apathy or other behavioural symptoms).
+For example, major depressive disorder or schizophrenia.
+Diagnostic criteria for mild neurocognitive disorder
+A. Evidence of modest cognitive decline from a previous level of
+performance in one or more cognitive domains (complex attention,
+executive function, learning and memory, language, perceptualmotor or social cognition) based on:
+1. Concern of the individual, a knowledgeable informant or the
+clinician that there has been a mild decline in cognitive function;
+and
+2. A modest impairment in cognitive performance, preferably
+documented by standardised neuropsychological testing or in its
+absence, another quantified clinical assessment.
+Management of Dementia (Third Edition)
+B. The cognitive deficits do not interfere with capacity for independence
+in everyday activities (that is complex instrumental activities of daily
+living such as paying bills or managing medications are preserved,
+but greater effort, compensatory strategies or accommodation may
+be required).
+C. The cognitive deficits do not occur exclusively in the context of a
+delirium.
+D. The cognitive deficits are not better explained by another mental
+disorder (for example, major Depressive Disorder or Schizophrenia).
+Source: American Psychiatric Association. Diagnostic and Statistical Manual of
+Mental Disorders: DSM-5. Arlington, VA: American Psychiatric Association,
+Management of Dementia (Third Edition)
+APPENDIX 6
+INTERNATIONAL STATISTICAL CLASSIFICATION OF DISEASES
+AND RELATED HEALTH PROBLEMS, 10TH REVISION (ICD-10)
+Dementia
+F00 Dementia in Alzheimer’s disease
+F00.0 Dementia in Alzheimer’s disease with early onset
+F00.1 Dementia in Alzheimer’s disease with late onset
+F00.2 Dementia in Alzheimer’s disease, atypical or mixed type
+F00.9 Dementia in Alzheimer’s disease, unspecified
+F01 Vascular dementia
+F01.0 Vascular dementia of acute onset
+F01.1 Multi-infarct dementia
+F01.2 Subcortical vascular dementia
+F01.3 Mixed cortical and subcortical vascular dementia
+F01.8 Other vascular dementia
+F01.9 Vascular dementia, unspecified
+F02 Dementia in other diseases classified elsewhere
+F02.0 Dementia in Pick’s disease
+F02.1 Dementia in Creutzfeldt-Jakob disease
+F02.2 Dementia in Huntington’s disease
+F02.3 Dementia in Parkinson’s disease
+F02.4 Dementia in human immunodeficiency virus [HIV] disease
+F02.8 Dementia in other specified diseases classified elsewhere
+F03 Unspecified dementia
+A fifth character may be added to specify dementia in F00-F03, as
+follows:
+.x0 Without additional symptoms
+.x1 Other symptoms, predominantly delusional
+.x2 Other symptoms, predominantly hallucinatory
+.x3 Other symptoms, predominantly depressive
+.x4 Other mixed symptoms
+Dementia
+A general description of dementia is given here, to indicate the minimum
+requirement for the diagnosis of dementia of any type, and is followed
+by the criteria that govern the diagnosis of more specific types.
+Dementia is a syndrome due to disease of the brain, usually of a
+chronic or progressive nature, in which there is disturbance of multiple
+higher cortical functions, including memory, thinking, orientation,
+Management of Dementia (Third Edition)
+comprehension,
+calculation,
+learning
+capacity,
+language
+and
+judgement. Consciousness is not clouded. Impairments of cognitive
+function are commonly accompanied and occasionally preceded by
+deterioration in emotional control, social behaviour or motivation. This
+syndrome occurs in Alzheimer’s disease, in cerebrovascular disease
+and in other conditions primarily or secondarily affecting the brain.
+In assessing the presence or absence of dementia, special care should
+be taken to avoid false-positive identification: motivational or emotional
+factors, particularly depression, in addition to motor slowness and
+general physical frailty, rather than loss of intellectual capacity, may
+account for failure to perform.
+Dementia produces an appreciable decline in intellectual functioning
+and usually some interference with personal activities of daily living,
+such as washing, dressing, eating, personal hygiene, excretory and
+toilet activities. How such a decline manifests itself will depend largely
+on the social and cultural setting in which the patient lives. Changes in
+role performance, such as lowered ability to keep or find a job, should
+not be used as criteria for dementia because of the large cross-cultural
+differences that exist in what is appropriate and because there may be
+frequent, externally imposed changes in the availability of work within
+a particular culture.
+If depressive symptoms are present but the criteria for depressive
+episode (F32.0-F32.3) are not fulfilled, they can be recorded by means
+of a fifth character. The presence of hallucinations or delusions may be
+treated similarly.
+.x0 Without additional symptoms
+.x1 Other symptoms, predominantly delusional
+.x2 Other symptoms, predominantly hallucinatory
+.x3 Other symptoms, predominantly depressive
+.x4 Other mixed symptoms
+Source: World Health Organisation. ICD-10 Classifications of Mental and Behavioural
+Disorder: Clinical Descriptions and Diagnostic Guidelines. Geneva. 2016.
+(Available at: https://icd.who.int/browse10/2016/en#/F90.0)
+Management of Dementia (Third Edition)
+APPENDIX 7a
+THE GLOBAL DETERIORATION SCALE FOR ASSESSMENT OF
+PRIMARY DEGENERATIVE DEMENTIA
+The Global Deterioration Scale (GDS), developed by Dr. Barry
+Reisberg, provides caregivers an overview of the stages of cognitive
+function for those suffering from primary degenerative dementia e.g.
+AD. It is broken down into seven different stages. Stages 1 - 3 are
+the pre-dementia stages while Stages 4 - 7 are the dementia stages.
+Beginning in stage 5, an individual can no longer survive without
+assistance. Within the GDS, each stage is numbered (1 - 7), given a
+short title (i.e., forgetfulness, early confusional, etc. followed by a brief
+listing of the characteristics for that stage. Caregivers can get a rough
+idea of where an individual is at in the disease process by observing
+that individual’s behavioural characteristics and comparing them to the
+GDS. For more specific assessments, use the accompanying Brief
+Cognitive Rating Scale (BCRS) and the FAST measures.
+Clinical Characteristics
+Level
+No subjective complaints of memory deficit.
+No memory deficit evident on clinical
+interview.
+Subjective complaints of memory deficit,
+most frequently in the following areas: (a)
+forgetting where one has placed familiar
+objects; (b) forgetting names one formerly
+knew well. No objective evidence of
+memory deficit on clinical interview. No
+objective deficits in employment or social
+situations. Appropriate concern with respect
+to symptomatology.
+Earliest clear-cut deficits. Manifestations
+in more than one of the following areas:
+(a) patient may have gotten lost when
+traveling to an unfamiliar location; (b)
+co-workers become aware of patient’s
+relatively poor performance; (c) word and
+name finding deficit becomes evident to
+intimates; (d) patient may read a passage
+or a book and retain relatively little material;
+(e) patient may demonstrate decreased
+facility
+in
+remembering
+names
+upon
+introduction to new people; (f) patient may
+1
+No cognitive
+decline
+2
+Very mild cognitive
+decline
+(Age Associated
+Memory
+Impairment)
+3
+Mild cognitive
+decline
+(Mild Cognitive
+Impairment)
+Management of Dementia (Third Edition)
+Clinical Characteristics
+Level
+have lost or misplaced an object of value; (g)
+concentration deficit may be evident on clinical
+testing. Objective evidence of memory deficit
+obtained only with an intensive interview.
+Decreased
+performance
+in
+demanding
+employment and social settings. Denial
+begins to become manifest in patient. Mild to
+moderate anxiety accompanies symptoms.
+Clear-cut deficit on careful clinical interview.
+Deficit manifest in the following areas: (a)
+decreased knowledge of current and recent
+events; (b) may exhibit some deficit in memory
+of one’s personal history; (c) concentration
+deficit elicited on serial subtractions; (d)
+decreased ability to travel, handle finances,
+etc. Frequently no deficit in the following
+areas: (a) orientation to time and place; (b)
+recognition of familiar persons and faces; (c)
+ability to travel to familiar locations. Inability
+to perform complex tasks. Denial is dominant
+defense mechanism. Flattening of affect
+and withdrawal from challenging situations
+frequently occur.
+Patient can no longer survive without some
+assistance. Patient is unable during interview
+to recall a major relevant aspect of their
+current lives, e.g. an address or telephone
+number of many years, the names of close
+family members (e.g. grandchildren), the
+name of the high school or college from
+which they graduated. Frequently some
+disorientation to time (date, day of week,
+season, etc.) or to place. An educated
+person may have difficulty counting back
+from 40 by 4s or from 20 by 2s. Persons at
+this stage retain knowledge of many major
+facts regarding themselves and others.
+They invariably know their own names and
+generally know their spouses’ and children’s
+names. They require no assistance with
+toileting and eating, but may have some
+difficulty choosing the proper clothing to
+wear.
+4
+Moderate cognitive
+decline
+(Mild Dementia)
+5
+Moderately severe
+cognitive decline
+(Moderate
+Dementia)
+Management of Dementia (Third Edition)
+Clinical Characteristics
+Level
+May occasionally forget the name of the
+spouse upon whom they are entirely dependent
+for survival. Will be largely unaware of all
+recent events and experiences in their lives.
+Retain some knowledge of their past lives
+but this is very sketchy. Generally unaware
+of their surroundings, the year, the season,
+etc. May have difficulty counting from 10,
+both backward and sometimes forward. Will
+require some assistance with activities of
+daily living, e.g. may become incontinent, will
+require travel assistance but occasionally will
+be able to travel to familiar locations. Diurnal
+rhythm frequently disturbed. Almost always
+recall their own name. Frequently continue to
+be able to distinguish familiar from unfamiliar
+persons in their environment. Personality
+and emotional changes occur. These are
+quite variable and include: (a) delusional
+behaviour, e.g. patients may accuse their
+spouse of being an impostor, may talk to
+imaginary figures in the environment or
+to their own reflection in the mirror; (b)
+obsessive symptoms, e.g. person may
+continually repeat simple cleaning activities;
+(c) anxiety symptoms, agitation and even
+previously non-existent violent behaviour
+may occur; (d) cognitive abulia, i.e. loss
+of willpower because an individual cannot
+carry a thought long enough to determine a
+purposeful course of action.
+All verbal abilities are lost over the course
+of this stage. Frequently there is no speech
+at all, only unintelligible utterances and rare
+emergence of seemingly forgotten words
+and phrases. Incontinent of urine, requires
+assistance toileting and feeding. Basic
+psychomotor skills, e.g., ability to walk, are
+lost with the progression of this stage. The
+brain appears to no longer be able to tell
+the body what to do. Generalised rigidity
+and developmental neurologic reflexes are
+frequently present.
+6
+Severe cognitive
+decline
+(Moderately Severe
+Dementia)
+7
+Very severe
+cognitive
+decline
+(Severe Dementia)
+Source: Reisberg B, Ferris SH, de Leon MJ, et al. The Global Deterioration Scale
+for assessment of primary degenerative dementia. Am J Psychiatry.
+1982;139(9):1136-9
+Management of Dementia (Third Edition)
+APPENDIX 7b
+FUNCTIONAL ASSESSMENT STAGING (FAST)
+Level of Functioning
+Stage
+1
+2
+3
+4
+5
+6a
+6b
+6c
+6d
+6e
+7a
+7b
+7c
+No difficulty, either subjectively or objectively.
+Complains of forgetting location of objects. Subjective work
+difficulties.
+Decreased job functioning evident to co-workers. Difficulty in
+traveling to new locations. Decreased organisational capacity.
+Decreased ability to perform complex tasks, e.g. planning
+dinner for guests, handling personal finances (e.g. forgetting to
+pay bills), difficulty in marketing, etc.*
+Requires assistance in choosing proper clothing to wear for
+the day, season or occasion, e.g. patient may wear the same
+clothing repeatedly unless supervised.*
+Improperly putting on clothes without assistance or cuing
+(e.g. may put street clothes on overnight clothes or shoes on
+wrong feet or have difficulty buttoning clothing) occasionally or
+more frequently over the past weeks.*
+Unable to bathe (shower) properly (e.g. difficulty adjusting
+bath-water (shower) temperature) occasionally or more
+frequently over the past weeks.*
+Inability to handle mechanics of toileting (e.g. forgets to flush
+the toilet, does not wipe properly or properly dispose of toilet
+tissue) occasionally or more frequently over the past weeks.*
+Urinary incontinence (occasionally or more frequently over the
+past weeks).*
+Faecal incontinence (occasionally or more frequently over the
+past weeks).*
+Ability to speak limited to approximately a half a dozen
+intelligible different words or fewer, in the course of an
+average day or in the course of an intensive interview.
+Speech ability limited to the use of a single intelligible word in
+an average day or in the course of an interview (the person
+may repeat the word over and over).
+Ambulatory ability lost (cannot walk without personal
+assistance).
+Management of Dementia (Third Edition)
+*Scored primarily on the basis of information obtained from a
+knowledgeable informant and/or caregiver.
+FAST scoring instructions:
+The FAST Stage is the highest consecutive level of disability. For
+clinical purposes, in addition to staging the level of disability, additional
+non-ordinal (non-consecutive) deficits should be noted since these
+additional deficits are of clear clinical relevance.
+Source: Reisberg B. Functional assessment staging (FAST). Psychopharmacol Bull.
+1988;24(4):653-9
+Cannot sit up without assistance (e.g., the individual will fall
+over if there are no lateral rests [arms] on the chair).
+Loss of ability to smile.
+Loss of ability to hold up head independently.
+7d
+7e
+7f
+Level of Functioning
+Stage
+Management of Dementia (Third Edition)
+APPENDIX 8
+MEDICATIONS USED FOR THE TREATMENT OF DEMENTIA
+Name
+Dosing (mg/day)
+Liver impairment
+Renal impairment
+Common adverse effects
+Precautions
+Initial: 5 mg once
+daily, may increase to
+10 mg once daily after
+4 - 6 weeks
+No dosage
+adjustment
+necessary
+No dosage
+adjustment
+necessary
+Gastrointestinal (GI): diarrhoea,
+nausea, vomiting
+Central nervous system (CNS):
+insomnia, fatigue, drowsiness
+Cardiovascular: chest pain,
+hypertension, syncope
+Miscellaneous: accidental injury
+Use with caution in patients:
+1. at risk of prolonged cardiac
+repolarisation.
+2. sick-sinus syndrome,
+bradycardia or conduction
+abnormalities.
+3. with risk factors for
+rhabdomyolysis
+4. at risk of peptic ulcer disease
+5. with chronic obstructive
+pulmonary disease (COPD)
+and/or asthma
+6. with history of seizure disorder
+7. with bladder outlet
+obstruction/prostatic
+hyperplasia
+Oral
+Initial: 1.5 mg twice
+daily; may increase by
+3 mg daily every 2
+weeks (based on
+tolerability)
+Maximum dose: 6 mg
+twice daily
+Rivastigmine
+Oral: No dosage
+adjustment
+necessary
+Transdermal:
+Child-Pugh class A
+and B:
+Initial and maximum
+Oral: No dosage
+adjustment
+necessary
+Transdermal: No
+dosage adjustment
+necessary
+Gl: nausea, vomiting, diarrhoea
+CNS: dizziness, headache, falls
+Endocrine and metabolic: weight
+loss
+Local: application site erythema
+(transdermal)
+Neuromuscular and skeletal: tremor
+Cardiovascular: hypertension,
+syncope
+Use with caution in patients with:
+1. CNS depression
+2. allergic dermatitis
+3. extrapyramidal effects
+4. sick-sinus syndrome,
+bradycardia or other
+supraventricular conduction
+abnormalities (Vagotonic effects)
+Donepezil
+Acetylcholinesterase Inhibitors (AChEI)
+Management of Dementia (Third Edition)
+Transdermal patch
+Initial: Apply 4.6
+mg/24 hours patch
+once daily. If well
+tolerated, may titrate
+(no sooner than every
+4 weeks) to 9.5 mg/24
+hours and then to 13.3
+mg/24 hours
+(maximum dose)
+Galantamine
+dose of 4.6 mg/24
+hours
+Transdermal: No
+dosage adjustment
+necessary
+Gl: nausea, vomiting, diarrhoea
+CNS: dizziness, headache, falls
+Endocrine and metabolic: weight
+loss
+Local: application site erythema
+(transdermal)
+Neuromuscular and skeletal: tremor
+Cardiovascular: hypertension,
+syncope
+5. at risk of peptic ulcer disease
+6. COPD
+7. history of seizure disorder
+8. bladder outlet obstruction/
+prostatic hyperplasia
+Use with caution in patients with:
+1. sick-sinus syndrome,
+bradycardia or conduction
+abnormalities
+2. risk of peptic ulcer disease
+3. chronic obstructive pulmonary
+disease (COPD) and/or asthma
+4. history of seizure disorder
+5. bladder outlet obstruction/
+prostatic hyperplasia
+Initial: 4 mg twice daily
+for 4 weeks
+Maintenance:
+If tolerated, increased
+to 8 mg twice daily for
+more than 4 weeks
+If tolerated, increase to
+12 mg twice daily
+*If treatment interrupted
+>3 days, to restart at
+lowest dose
+Moderate: Max dose
+16 mg/day
+Severe: Use not
+recommended
+Creatinine clearance
+(CrClr) 9 - 59 ml/min:
+Max dose 16 mg/day
+CrClr <9 ml/min:
+Max dose 8mg/day
+GI: diarrhoea, nausea, vomiting,
+decreased appetite, abdominal
+pain/distress, dyspepsia
+CNS: dizziness, fatigue,
+drowsiness, depression, falling
+Cardiovascular: bradycardia,
+syncope
+Neuromuscular: tremors
+Others: weight loss
+Memantine
+Hypersensitivity have been reported.
+Advise patients to report skin
+reactions immediately.
+Use with caution in patients with:
+1. cardiovascular disease
+2. hepatic impairment
+3. ophthalmic disease
+Initial: 5 mg once daily;
+increase dose by 5 mg
+every week as
+tolerated to a target
+maximum dose of
+20 mg/day
+Dose may be
+Mild to moderate
+impairment: No dosage
+adjustment necessary
+Severe impairment:
+Use with caution
+Mild impairment: No
+dosage adjustment
+necessary
+CrCL 30 - 49 ml/min:
+Initial 5 mg once daily;
+after at least 1 week
+of therapy and if
+Cardiovascular: hypertension
+CNS: dizziness, confusion,
+headache, fatigue
+GI: diarrhoea, constipation, vomiting
+Genitourinary: urinary incontinence
+Neuromuscular and skeletal: back pain
+Respiratory: cough, dyspnoea
+N-methyl-D-aspartate (NMDA) receptor antagonist
+Management of Dementia (Third Edition)
+Name
+Dosing (mg/day)
+Liver impairment
+Renal impairment
+Common adverse effects
+Precautions
+Agitation/aggression
+and psychosis
+associated with
+dementia, severe or
+refractory:
+Initial: 2 - 5 mg once
+daily; may increase
+dose based on
+response and
+tolerability in 5 mg
+increments at intervals
+≥1 week up to 15 mg
+once daily
+In severe agitation
+associated with
+dementia with Lewy
+bodies, antipsychotics
+are generally avoided;
+if use is required,
+titrating above
+2 - 5 mg/day is not
+recommended
+Aripiprazole
+No dosage
+adjustment
+necessary
+No dosage
+adjustment
+necessary
+Increased serum glucose, weight
+gain, constipation, nausea,
+vomiting, agitation, akathisia,
+anxiety, drowsiness
+extrapyramidal reaction,
+fatigue, headache, sedation,
+insomnia, tremor
+1. Suicidal thinking/behaviour
+2. Cardiovascular disease
+3. Dementia
+4. Parkinson’s Disease
+5. Seizures
+Agitation/aggression
+and psychosis
+Olanzapine
+Use with caution
+(cases of hepatitis
+No dosage
+adjustment necessary
+Orthostatic hypotension, Increased
+LDL, triglyceride & serum
+1. Cardiovascular disease
+2. Hepatic impairment
+4. renal impairment
+5. seizure disorder
+administered once daily
+or two divided doses
+tolerated, may titrate
+up to a target dose of
+5 mg twice daily
+Antipsychotics
+NOTE: All these medications are currently OFF-LABEL based on MoH National Formulary and National Pharmaceutical Regulatory Agency (NPRA)
+Management of Dementia (Third Edition)
+associated with
+dementia, severe or
+refractory:
+Initial: 2.5 mg once
+daily, may increase
+dose based on
+response and
+tolerability in
+increments of
+2.5 - 5 mg/day at
+intervals ≥1 week up
+to 10 mg/day
+and liver injury have
+been reported with
+olanzapine use).
+No dosage adjustment
+except when used in
+combination with
+fluoxetine (as separate
+components) when
+initial olanzapine
+dose should be
+limited to 2.5 - 5 mg
+daily.
+cholesterol, increased serum
+glucose, increased serum
+prolactin, weight gain, constipation,
+dyspepsia, increased appetite,
+xerostomia, decreased serum
+bilirubin, increased serum alanine
+aminotransferase, increased serum
+aspartate aminotransferase,
+akathisia, dizziness, drowsiness,
+extrapyramidal reaction, fatigue,
+headache, insomnia, parkinsonism,
+asthenia
+3. Dementia
+4. Parkinson’s Disease
+5. Seizures
+6. Renal Impairment
+Agitation/aggression
+and psychosis
+associated with
+dementia, severe or
+refractory:
+Initial: 25 mg at
+bedtime; may increase
+dose gradually
+(e.g. weekly) based on
+response and
+tolerability up to 75 mg
+twice daily
+Quetiapine
+IR tablet: Initial: 25 mg
+once daily; increase
+dose by 25 to 50 mg/
+day to effective dose,
+based on individual
+clinical response and
+tolerability
+ER tablet: Initial: 50 mg
+once daily; increase
+dose by 50 mg once
+daily to effective dose,
+based on individual
+clinical response and
+tolerability
+No dosage adjustment
+necessary
+Removal by dialysis
+unlikely.
+Increased diastolic blood pressure,
+increased systolic blood pressure,
+orthostatic hypotension, tachycardia,
+decreased HDL cholesterol,
+increased serum cholesterol,
+increased serum triglycerides,
+weight gain, increased appetite,
+xerostomia, decreased haemoglobin,
+agitation, dizziness, drowsiness,
+extrapyramidal reaction, fatigue,
+headache, withdrawal syndrome
+1. Cancer
+2. Impaired gastrointestinal motility
+3. Hepatic impairment
+4. Seizures
+5. Urinary retention
+Agitation/aggression
+and psychosis
+associated with
+dementia, severe or
+Risperidone
+Severe impairment
+(Child-Pugh class C):
+Initial: 0.5 mg twice
+daily; titration should
+Severe impairment
+(CrCl <30 ml/minute):
+initial: 0.5 mg twice
+daily; titrate slowly in
+Hyperprolactinaemia, weight gain,
+increased appetite, nausea, upper
+abdominal pain, urinary incontinence,
+akathisia, anxiety, dizziness,
+1. Cardiovascular disease
+2. Hepatic impairment
+3. Dementia
+4. Seizures
+Management of Dementia (Third Edition)
+refractory:
+Initial: 0.5 mg/day in
+two divided doses;
+may increase dose
+based on response
+and tolerability in
+increments of 0.5 mg/
+day at intervals ≥2
+days up to 1 mg/day
+progress slowly in
+increments of no more
+than 0.5 mg twice daily;
+increases to dosages
+>1.5 mg twice daily
+should occur at
+intervals of ≥1 week
+increments of no more
+than 0.5 mg twice daily;
+increases to dosages
+>1.5 mg twice daily
+should occur at
+intervals of ≥1 week
+drooling, drowsiness, drug-induced
+extrapyramidal reaction, fatigue,
+headache, insomnia, parkinsonism,
+sedation, tremor, cough,
+nasopharyngitis, rhinorrhea, fever
+5. Renal Impairment
+mg=milligramme, GI=gastrointestinal, CNS=central nervous system, IR=immediate release, ER=extended release, CrCl=creatinine clearance, LDL=low density
+lipoprotein, HDL=high density lipoprotein
+Source:
+1. Ministry of Health Medicines Formulary (Updated April 2019) (Available https://www.pharmacy.gov.my/v2/en/apps/fukkm)
+2. Lexicomp. Memantine: Drug information. UpToDate. Retrieved March 18, 2021 from https://www.uptodate.com/contents/memantine-drug-information?search=mema
+ntine&source=panel_search_result&selectedTitle=1~44&usage_type=panel&kp_tab=drug_general&display_rank=1
+3. Lexicomp. Donepezil: Drug information. UpToDate. Retrieved Maech 18, 2021 from https://www.uptodate.com/contents/donepezil-drug-information?search=donepezi
+l&source=panel_search_result&selectedTitle=1~46&usage_type=panel&kp_tab=drug_general&display_rank=1
+4. Lexicomp. Rivastigmine: Drug information. UpToDate. Retrieved March 18, 2021 from https://www.uptodate.com/contents/rivastigmine-drug-information?search=riva
+stigmine&source=panel_search_result&selectedTitle=1~26&usage_type=panel&kp_tab=drug_general&display_rank=1
+5. Lexicomp. Aripiprazole (oral and long-acting injectable [Abilify Maintena]): Drug information. UpToDate. Retrieved March 18, 2021 from https://www.uptodate.com/
+contents/aripiprazole-oral-and-long-acting-injectable-abilify-maintena-drug-information?search=aripiprazole&selectedTitle=1~76&usage_type=panel&display_
+rank=1&kp_tab=drug_general&source=panel_search_result
+6. Lexicomp. Olanzapine: Drug information. UpToDate. Retrieved March 18, 2021 from https://www.uptodate.com/contents/olanzapine-drug-information?search=olanza
+pine&source=panel_search_result&selectedTitle=1~148&usage_type=panel&kp_tab=drug_general&display_rank=1
+7. Lexicomp. Risperidone: Drug information. UpToDate. Retrieved March 18, 2021 from https://www.uptodate.com/contents/risperidone-drug-information?search=risperi
+done&source=panel_search_result&selectedTitle=1~122&usage_type=panel&kp_tab=drug_general&display_rank=1
+8. Lexicomp. Quetiapine: Drug information. UpToDate. Retrieved March 18, 2021 from https://www.uptodate.com/contents/quetiapine-drug-information?search=quetiapi
+ne&source=panel_search_result&selectedTitle=1~132&usage_type=panel&kp_tab=drug_general&display_rank=1
+Management of Dementia (Third Edition)
+APPENDIX 9
+ANTICHOLINERGIC BURDEN SCORE
+Source: Aging Brain Care. Anticholinergic Cognitive Burden Scale 2012 Update.
+(Available
+at:
+http://www.idhca.org/wp-content/uploads/2018/02/DESAI_
+ACB_scale_-_Legal_size_paper.pdf)
+Drugs with ACB Score of 1
+Alimemazine
+Alverine
+Alprazolam
+Aripiprazole
+Asenapine
+Atenolol
+Bupropion
+Captopril
+Cetirizine
+Chlorthalidone
+Cimetidine
+Clidinium
+Clorazepate
+Codeine
+Colchicine
+Desloratadine
+Diazepam
+Digoxin
+Dipyridamole
+Disopyramide
+Fentanyl
+Furosemide
+Fluvoxamine
+Haloperidol
+Hydralazine
+Hydrocortisone
+Iloperidone
+Isosorbide
+Levocetirizine
+Loperamide
+Loratadine
+Metoprolol
+Morphine
+Nifedipine
+Paliperidone
+Prednisone
+Quinidine
+Ranitidine
+Risperidone
+Theophylline
+Trazodone
+Triamterene
+Venlafaxine
+Warfarin
+Amitriptyline
+Amoxapine
+Atropine
+Benztropine
+Brompheniramine
+Carbinoxamine
+Chlorpheniramine
+Chlorpromazine
+Clemastine
+Clomipramine
+Clozapine
+Darifenacin
+Desipramine
+Dicyclomine
+Dimenhydrinate
+Diphenhydramine
+Doxepin
+Doxylamine
+Fesoterodine
+Flavoxate
+Hydroxyzine
+Hyoscyamine
+Imipramine
+Meclizine
+Methocarbamol
+Nortriptyline
+Olanzapine
+Orphenadrine
+Oxybutynin
+Paroxetine
+Perphenazine
+Promethazine
+Propantheline
+Propiverine
+Quetiapine
+Scopolamine
+Solifenacin
+Thioridazine
+Tolterodine
+Trifluoperazine
+Trihexyphenidyl
+Trimipramine
+Trospium
+Amantadine
+Belladonna
+Carbamazepine
+Cyclobenzaprine
+Cyproheptadine
+Loxapine
+Meperidine
+Methotrimeprazine
+Molindone
+Nefopam
+Oxcarbazepine
+Pimozide
+Drugs with ACB Score of 2
+Drugs with ACB Score of 3
+Categorical Scoring
+• Possible anticholinergics include those listed with a score of 1
+• Definite anticholinergics include those listed with a score of 2 or 3
+Numerical Scoring
+• Add the score contributed to each selected medication in each scoring category.
+• Add the number of possible or definite anticholinergic medications.
+Notes
+Criteria for Categorisation
+Score of 1: Evidence from in vitro data that chemical entity has antagonist activity at
+muscarinic receptor
+Score of 2: Evidence from literature, prescriber’s information or expert opinion of
+clinical anticholinergic effect
+Score of 3: Evidence from literature, expert opinion, or prescriber’s information that
+medication may cause delirium
+• Each definite anticholinergic may increase the risk of cognitive impairment by 46%
+over six years.
+• For each on point increase in the ACB total score, a decline in MMSE score of 0.33
+points over two years has been suggested.
+• Additionally, each one-point increase in the ACB total score has been correlated
+with a 26% increase in the risk of death.
+Management of Dementia (Third Edition)
+APPENDIX 10
+SUGGESTED GUIDE TO REVIEW AND DEPRESCRIBE (POTENTIALLY
+INAPPROPRIATE PRESCRIPTION/PSYCHOTROPIC)
+IN DEMENTIA
+Step 1: Evaluation
+• If YES for at least one of the above, kindly proceed to Step 2.
+Step 2: PIP/Pyschotropic Review
+• If YES for any one of the above, kindly proceed to Step 3.
+Step 3: PIP/psychotropic Reconciliation
+Kindly consider the following actions for this patient:
+1. Deprescribing PIP/psychotropic
+2. Substituting to a better alternative
+3. Modify the regime (dose, frequency and duration, etc.)
+4. Consider potential for managing all symptoms with a single PIP/
+psychotropic
+Does the patient have more than one (PIP/psychotropic)?
+No
+Yes
+Has the patient been on (PIP/psychotropic) >3 months?
+No
+Yes
+Parameter Description
+Review
+Indication
+Is there a justified reason?
+No
+Yes
+Effectiveness
+Has it been effective for the indication?
+No
+Yes
+Is it the recommended choice for the indication?
+No
+Yes
+Safety
+Is there therapeutic duplication?
+No
+Yes
+Is there any contraindication(s) to the patient?
+No
+Yes
+Is there a potential or actual and significant
+No
+drug interaction?
+Yes
+Is this regime a result of prescribing cascade?
+No
+Yes
+Pharmacother- Is the dose appropriate?
+No
+apy
+Yes
+Is the frequency appropriate?
+No
+Yes
+Management of Dementia (Third Edition)
+APPENDIX 11
+IMPORTANT POINTS FOR THE CAREGIVER OF PEOPLE
+WITH DEMENTIA
+1. UNDERSTANDING DEMENTIA
+2. SUPPORT FOR CAREGIVERS/CARERS
+b. Learn to engage with PWD
+3. RECOGNISE FUNDAMENTAL NEEDS OF CARE FOR PWD
+• The caregivers need to understand about dementia and the importance
+of early detection and early diagnosis.
+• PWD feel stressed when they are unable to recall what has just
+happened. They may also be disorientated to time, place and person.
+Though their memory, understanding and judgement are declining,
+their emotion may still be intact.
+a. Recognise the stress and challenges faced by PWD and
+suggested carer responses
+• Caring for PWD may cause stress to family and caregivers. Build-up
+of stress may lead to emotional problems and poor health of the
+caregivers. One of the ways to relieve the stress is to have someone
+to talk to, e.g. using telephone counselling service or participating in
+support group events which are tailored to their needs. The support
+group should also involve other family members as well.
+• Caregivers should be aware of their own physical and mental health
+issues e.g. increased risk of depression and over tiredness.
+Therefore, respite care should be offered for adequate support to
+help caregivers in coping with caring for PWD.
+i. Forgetfulness:
+PWD do not recall what they
+talked about and with whom
+they talked.
+ii. Disorientated to time, place
+and person:
+PWD may repeatedly ask the
+day, date, where they are and
+who the persons around them.
+iii. Impaired understanding and
+judgement:
+For instance, PWD may become
+unable to cook, use remote
+control for television or operate
+the washing machine.
+Helpful tips:
+Courteously answer the questions
+because PWD have difficulty to
+recall and may be repeatedly
+asking question for confirmation as
+a result of being anxious.
+Helpful tips:
+PWD may have problems organising and making plans and, executing tasks correctly. Confirm with
+them the actions that they are
+doing and ask what they want to
+do next step by step.
+Helpful Tips:
+Engage in the activity together with
+PWD. For example, instead of
+allowing person with dementia to
+cook, let them do simple things like
+washing vegetables or peeling
+Management of Dementia (Third Edition)
+iv. Delusion:
+A false belief that is beyond
+challenge. For instance, PWD
+may have delusion of theft, that
+is the false belief that their
+valuable thing, e.g. money or
+purse, has been stolen by
+someone
+despite
+being
+reassured that this does not
+occur.
+v. Wandering:
+PWD may also try to leave the
+house to go somewhere but
+loses his or her way before
+reaching the destination.
+vi. Anger:
+PWD may suddenly get upset
+and
+become
+verbally
+or
+physically agitated. They can
+be
+sensitive
+to
+certain
+conversations and may become
+angry and restless as they are
+unable to express their feelings
+and difficulties.
+i. Eating:
+PWD often forget they have
+eaten
+and
+may
+also
+not
+recognise edible/food items
+from nonedible items.
+ii. Bathing:
+PWD may not be co-operative
+to take bath; they may refuse
+onions and, at the same time
+ensuring their safety.
+Helpful tips:
+Caregiver should show interest in
+looking for the item together with
+the PWD. Once search is done,
+distract the activity by saying for
+e.g. ‘We have tried searching for
+the item, but can’t find it, let’s have
+a cup of tea and look again later’.
+Helpful tips:
+Person with dementia may have
+their own reason to go out. The
+carer can try to engage by asking
+“where are you going” and “why
+are you going?” Carer may then
+help them to achieve their purpose.
+It is also useful to put a name tag
+with their name, address and
+contact details on their clothes so
+that others can assist them in
+finding their way home.
+Helpful tips:
+Carers will need to be more
+accommodating and avoid triggers
+or
+situations
+that
+hurt
+their
+feelings.
+Helpful tips:
+Explain regarding timing of meals
+by mentioning actual time. Avoid
+having nonedible items within
+reach for those who cannot tell
+the difference.
+Helpful tips:
+When a PWD who usually takes
+bath refuses to do so, it may be
+c. Understand important daily life activities of PWD
+Management of Dementia (Third Edition)
+Source:
+1. Division for Dementia and Community Care Promotion. Living together with
+people with dementia; Key points for the care of people with dementia at home.
+Kumamoto Prefecture; Department of Health and Social Services; 2013.
+2. National Institute for Health and Care Excellence (NICE). Dementia: assessment,
+management and support for people living with dementia and their carers. London:
+NICE; 2018.
+to undress, wash themselves
+or dress after their bath.
+iii. Excretion:
+PWD may urinate in inappropriate
+places, repeatedly go to the
+bathroom or do not understand
+the need to urinate or defecate.
+due to being unwell. Hence,
+caregiver need to ask about their
+physical condition.
+During the bathing process:
+• talk to them gently and be
+careful not to hurt their pride.
+During the dressing process:
+• replace their clothes fasteners
+or buttons with Velcro tape
+• put signs on their clothes to
+distinguish the front and back
+• prepare their clothes in the
+correct order of putting on
+Helpful tips:
+Caregiver may put a large sign on
+the bathroom door, keep the
+doorways bright and switch on the
+lights in the bathroom at night.
+Another tip is to bring the PWD to
+the toilet at frequent interval.
+Management of Dementia (Third Edition)
+APPENDIX 12
+USEFUL RESOURCES
+Organisation Information
+State
+Alzheimer's Disease Foundation Malaysia
+Tel: +603-79562008 / +603-79583008 (Mon - Fri: 9am to 5pm)
+Email: office.adfm@gmail.com
+Website: https://adfm.org.my
+ADFM National Caregivers Support Network: admalaysia.ning.com
+Penang Dementia Association
+Tel: +6016-6745429
+Facebook: Penang Dementia Association
+Dementia Society Perak
+Ipoh AD Support Group
+Tel: +605-2411691 / +6019-5712738
+Email: tdsperak@gmail.com
+Facebook: The Dementia Society Perak
+Alzheimer's Disease Foundation Malaysia
+National Helpline: +603-79315850 (Mon - Fri: 9am to 5pm)
+Putrajaya Email: office.adfm@gmail.com
+Facebook: Alzheimer's Disease Foundation Malaysia-ADFM
+ADFM National Caregivers Support Network: admalaysia.ning.com
+Alzheimer's Disease Foundation Malaysia
+Atria ADFM Community Corner
+Tel: +6017-8867703 (Mon - Sun & PH: 11am to 7pm)
+Email: office.adfm@gmail.com
+Facebook: Alzheimer's Disease Foundation Malaysia-ADFM
+ADFM National Caregivers Support Network: admalaysia.ning.com
+Kumpulan Sokongan Dementia Negeri Sembilan (KUSDeNS)
+Email: wecaredementian9@gmail.com
+Tel: +606-7684804
+Johor Bahru Alzheimer's Disease Support Association (JOBADA)
+Tel: +607-2222016 (JOBADA office)/ +6012-7091277
+Email: jobadajohor@gmail.com
+Facebook: Jobada Johor
+Sabah Alzheimer’ Disease Association (Sabah AZ)
+Tel: +6088-231030 / +6088-270730
+Email: kjchau88@hotmail.com
+Facebook: Sabah Alzheimer's Disease Support Association
+Trinity ElderCare Centre (TEC)
+Tel/Fax: +6082-255758
+Email: tmceldercare@gmail.com
+Facebook: Trinity ElderCare Centre
+National
+Penang
+Perak
+Selangor, Wilayah
+Persekutuan
+Kuala Lumpur &
+Putrajaya
+Selangor
+Negeri Sembilan
+Johor
+Sabah
+Sarawak
+Management of Dementia (Third Edition)
+APPENDIX 13
+ADVANCE CARE PLANNING
+Source:
+1. National Institute for Health and Care Excellence (NICE). Dementia: assessment,
+management and support for people living with dementia and their carers. London:
+NICE; 2018.
+2. Harrison Dening K, Sampson EL, De Vries K. Advance care planning in
+dementia: recommendations for healthcare professionals. Palliat Care.
+2019;12:1178224219826579.
+Advance care planning (ACP) is a process of discussing and recording
+PWD’s wishes, values and preferences of future care together with their
+family members and health care providers (HCP) which will take effect
+once the PWD lose their capacity to make decision.
+The discussion of ACP should include:
+• benefits of planning ahead
+• PWD’s proxy or substitute decision-maker when the PWD lacks
+capacity to make decisions
+• advance statement about their wishes, values, preferences and
+beliefs regarding their future care
+• advance decisions to refuse certain treatments e.g. intubation,
+cardiopulmonary resuscitation, enteral feeding, etc.
+• their preferences for place of care and place of death
+Recommendations for HCP during ACP discussion.
+• Start ACP as early as possible when the PWD and family members
+are ready.
+• ACP conversations are not one-off occurrence and it should be
+revised from time to time especially when changes of clinical
+condition occur.
+• Try to understand the PWD from their perspectives before initiation of
+discussion on ACP - explore their life stories, important values,
+norms, beliefs and preferences.
+• Use the language which is familiar to the PWD.
+• Adjust conversation style and content to the PWD’s level and rhythm.
+• Obtain the PWD’s permit to invite family members to join the
+conversation.
+• Evaluate their disease awareness and inform them about the
+expected disease trajectory and possible end-of-life decisions.
+• Explore the PWD’s current experiences, their fears and concerns for
+the future and end-of-life.
+• Lead the conversation but do not force it or dominate the discussion.
+• Keep connected with the PWD to ensure their maximum
+participation, respond to their emotions, attend to non-verbal
+communication and observe their behaviour.
+Management of Dementia (Third Edition)
+LIST OF ABBREVIATIONS
+11C-PIB-PET 11C-labeled Pittsburgh compound B-positron emission tomography
+123I-FP-CIT
+Iodine 123-radiolabeled 2β-carbomethoxy-3β-(4-iodophenyl)-N-(3-
+fluoropropyl) nortropane
+123I-MIBG
+123I-metaiodobenzylguanidine
+ACB
+anticholinergic burden
+ACE-III
+Addenbrooke’s Cognitive Examination-III
+AChEI
+acetylcholinesterase inhibitors
+ACP
+advance care planning
+AD
+Alzheimer’s disease
+AD-8
+Eight-item Interview to Differentiate Aging and Dementia
+ADAS-Cog
+Alzheimer’s Disease Assessment Scale-Cognitive Subscale
+ADCS-CGIC Alzheimer’s Disease Cooperative Study - Clinical Global Impression
+of Change
+ADDTC
+Alzheimer’s Disease Diagnostic and Treatment Centres
+ADL
+activity of daily living
+AE
+adverse event
+AGREE II
+Appraisal of Guidelines, Research and Evaluation II
+aHR
+adjusted hazard ratio
+AMTS
+Abbreviated Mental Test Score
+ANI
+Asymptomatic Neurocognitive Impairment
+AP
+antipsychotic
+APOE4
+apolipoprotein E4
+ARB
+angiotensin II receptor blockers
+ARD
+alcohol-related dementia
+ART
+antiretroviral therapy
+BEHAVE-AD Behavioural Pathology in Alzheimer’s Disease Rating Scale
+BMI
+body mass index
+BPRS
+Brief Psychiatric Rating Scale
+BPSD
+behavioural and psychological symptoms of dementia
+bvFTD
+behavioural variant of frontotemporal dementia
+CBT
+cognitive behavioural therapy
+CGI
+Clinical Global Impression
+CGI-C
+CGI-Corrections
+CGI-I
+CGI-Improvement
+CGI-S
+CGI-Severity
+CI
+confidence interval
+CIBIC+
+Clinician’s Interview-Based Impression of Change
+CIND
+cognitive impairment no dementia
+CIND-PD
+cognitive impairment in Parkinson’s Disease
+cm2
+centimetre square
+CMAI
+Cohen-Mansfield Agitation Inventory
+CNS
+central nervous system
+CPE
+CNS penetration effectiveness
+CPG
+clinical practice guidelines
+CQ
+clinical question
+CrCl
+creatinine clearance
+CSDD
+Cornell Scale for Depression in Dementia
+CSF
+cerebrospinal fluid
+CT
+computed tomography
+DAD
+Disability Assessment for Dementia
+DAT
+dopamine transporter
+Management of Dementia (Third Edition)
+DG
+development group
+DLB
+dementia with Lewy Body
+DM
+diabetes mellitus
+DSM-5
+Diagnostic and Statistical Manual of Mental Disorders 5th Edition
+EEG
+electroencephalogram
+ER
+extended release
+EGb761
+ginkgo biloba extract 761
+FAST
+Functional Assessment Staging
+FBI
+Frontal Behavioural Inventory
+FDG-PET
+fluorodeoxyglucose-positron emission tomography
+FTD
+frontotemporal dementia
+GDS
+Global Deterioration Scale
+GI
+gastrointestinal
+GRADE
+Grading of Recommendations, Assessment, Development and
+Evaluations
+h
+hour
+HAD
+HIV-associated Dementia
+HANDs
+HIV-associated Neurocognitive Disorders
+HCP
+health care providers
+HDS
+HIV Dementia Scale
+HIV
+human immunodeficiency virus
+HR
+hazard ratio
+HTA
+health technology assessment
+IADL
+Instrumental Activity of Daily Living
+ICD-10
+International Classification of Diseases, Tenth Revision
+IHDS
+International HIV Dementia Scale
+IM
+intramuscular
+IQCODE
+Informant Questionnaire on Cognitive Decline in the Elderly
+IR
+immediate release
+MADRS
+Montgomery-Asberg Depression Rating Scale
+MCI
+mild cognitive impairment
+MD
+mean difference
+MDS
+Movement Disorder Society
+mg
+milligramme
+MMSE
+Mini Mental State Examination
+MND
+Mild Neurocognitive Disorder
+MoCA
+Montreal Cognitive Assessment
+MoH
+Ministry of Health
+MRI
+magnetic resonance imaging
+NBRS-A
+Neurobehavioral Rating Scale-Agitation
+NCDs
+non-communicable diseases
+NGOs
+non-governmental organisations
+NIA-AA
+National Institute on Aging and Alzheimer’s Association
+NICE
+National Institute for Health and Care Excellence
+NINDS-AIREN National Institute of Neurological Disorders and Stroke and
+Association Internationale pour la Recherche et l’Enseignement en
+Neurosciences
+NMDA
+N-methyl-D-aspartate
+NOSGER
+Nurses’ Observation Scale for Geriatric Patients
+NPI
+Neuropsychiatric Inventory
+NPI-A
+Neuropsychiatric Inventory-agitation
+NPZ3
+neuropsychological z-score 3
+NRT
+nicotine replacement therapy
+Management of Dementia (Third Edition)
+OR
+odds ratio
+p
+p value
+PIP
+potentially inappropriate prescription
+PDD
+Parkinson’s Disease Dementia
+PWD
+people with dementia
+QoL
+quality of life
+RC
+review committee
+RCT
+randomised controlled trial
+RR
+relative risk
+RT
+reminiscence therapy
+SIB
+Severe Impairment Battery
+SLUMS
+Saint Louis University Mental Status
+SMD
+standardised mean difference
+SPECT
+single-photon emission CT
+SUCRA
+surface under cumulative ranking
+TBI
+traumatic brain injury
+TC
+total serum cholesterol
+TCM
+traditional and complementary medicine
+TEAEs
+treatment-emergent adverse events/effects
+US FDA
+United States Food and Drug Administration
+VaD
+vascular dementia
+V-ADAS-cog Vascular Dementia Assessment Scale Cognitive Subscale
+VCAT
+Visual Cognitive Assessment Test
+VDRL
+Venereal Disease Research Laboratory test
+vs
+versus
+WAB
+Western Aphasia Battery
+WHO
+World Health Organization
+WMD
+weighted mean difference
+ZBI
+Zarit Burden Interview
+Management of Dementia (Third Edition)
+ACKNOWLEDGEMENT
+The CPG DG members would like to express their gratitude and
+appreciation to the following for their contributions:
+• Panel of external reviewers who reviewed the draft
+• Technical Advisory Committee of CPG for their valuable input and
+feedback
+• Health Technology Assessment and Clinical Practice Guidelines
+Council for approving the CPG
+• Dr Toh Chin Lee, Senior Consultant Child and Adolescent Psychiatrist
+on the development of the CPG
+• Dr Junainah Sabirin, Consultant Public Health Physician on the
+development of the CPG
+• Mr. Mohd Tholib Ibrahim and Ms. Norharlina Che Zakaria on retrieval
+of evidence
+• Alzheimer’s Disease Foundation Malaysia on support and materials
+for the CPG
+• All those who have contributed directly or indirectly to the
+development of the CPG
+DISCLOSURE STATEMENT
+The panel members of both DG and RC had completed disclosure forms.
+None held shares in pharmaceutical firms or acts as consultants to such
+firms. Details are available upon request from the CPG Secretariat.
+SOURCE OF FUNDING
+The development of the CPG on Management of Dementia (Third
+Edition) was supported financially in its entirety by the MoH Malaysia.
+Management of Dementia (Third Edition)

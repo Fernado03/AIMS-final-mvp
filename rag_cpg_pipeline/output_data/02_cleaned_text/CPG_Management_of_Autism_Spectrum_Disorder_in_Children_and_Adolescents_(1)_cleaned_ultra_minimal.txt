@@ -1,0 +1,3241 @@
+Clinical Practice Guidelines
+Menagement of
+Autigm Soeciunn Disorcler
+ih Ghilcken ciel Aclolescentis
+Soe! ‘ent
+sgl
+ay
+ho
+Published by:
+Malaysian Health Technology Assessment Section (MaHTAS)
+Medical Development Division, Ministry of Health Malaysia
+Level 4, Block E1, Precinct 1
+Federal Government Administrative Centre
+62590, Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is MaHTAS. The content may be
+reproduced in any number of copies and in any format or medium provided
+that a copyright acknowledgement to MaHTAS is included. The content is not
+to be changed, sold, used to promote or endorse any product or service, nor
+used in an inappropriate or misleading context.
+ISBN: 978-967-0769-01-1
+Available on the following websites:
+http//www.moh.gov.my
+http//www.acadmed.org.my
+http//www.psychiatry-malaysia.org
+STATEMENT OF INTENT
+These clinical practice guidelines (CPG) are designed to be a guide for clinical
+practice, based on the best available evidence at the time of development.
+Adherence to these guidelines may not necessarily guarantee the best
+outcome in every case. Every healthcare provider is responsible for the
+management of his / her unique patient based on the clinical picture presented
+by the patient and the management options available locally.
+These guidelines were issued in July 2014 and will be reviewed in 2018 or
+earlier if new evidence becomes available.
+TABLE OF CONTENTS
+No.
+Title
+Page
+Levels of Evidence and Grades of Recommendation
+iii
+Guidelines Development and Objectives
+iv
+Guidelines Development Group
+vii
+Review Committee
+ix
+External Reviewers
+xi
+Algorithm: Management of Children with Autism Spectrum Disorder
+xiii
+1
+Introduction
+1
+2
+Risk Factors
+1
+3
+Screening
+3
+4
+Assessment and Diagnosis
+5
+5
+Comorbidities and Other Difficulties
+8
+6
+Investigations
+10
+a. Audiological Evaluation
+10
+b. Other Investigations
+10
+7
+Treatment
+11
+7.1
+Non-Pharmacological Treatment
+12
+a
+Applied Behaviour Analysis
+12
+b
+Speech, Language and Communication Intervention
+13
+c
+Occupational Therapy
+15
+d Other Interventions / Programmes
+16
+e
+Parental Education and Support
+17
+f
+Cognitive Behaviour Therapy
+17
+g
+Treatment and Education of Autistic and Related
+Communication Handicapped Children
+18
+h
+Diet
+18
+7.2
+Pharmacotherapy
+19
+a
+Atypical antipsychotics
+19
+b
+Antidepressants
+20
+c
+Other medications
+21
+No.
+Title
+Page
+7.3
+Traditional and Complementary Medicine
+22
+8
+Social Welfare Services
+23
+9
+Monitoring and Preparation of Transition to Adult Services
+23
+10
+Implementing the Guidelines
+23
+References
+26
+Appendices
+Appendix 1
+:
+Examples of Search Strategy
+33
+Appendix 2
+:
+Clinical Questions
+34
+Appendix 3
+:
+Modified Checklist for Autism in Toddlers
+(M-CHAT)
+35
+Appendix 4
+:
+Diagnostic Criteria for Autism Disorder in the
+Diagnostic and Statistical Manual of Mental
+Disorders, Fourth Edition, Text Revision (DSM-IVTR)
+40
+Appendix 5
+:
+Diagnostic Criteria for Autism Spectrum Disorder
+in the Diagnostic and Statistical Manual of Mental
+Disorders, Fifth Edition (DSM-5)
+42
+Appendix 6
+:
+International Classification of Disease (ICD) 10
+46
+Appendix 7
+:
+• Signs and Symptoms of Possible Autism in Preschool Children
+(or Equivalent Mental Age)
+49
+• Signs and Symptoms of possible Autism in Primary School
+Children (Aged 5–11 Years or Equivalent Mental Age)
+51
+• Signs and Symptoms of Possible Autism in Secondary School
+Children (Older Than 11 Years or Equivalent Mental Age)
+53
+Appendix 8
+:
+Diagnostic Tools
+55
+List of Abbreviations
+58
+Acknowledgement
+60
+Disclosure Statement
+60
+Source of Funding
+60
+Levels of Evidence
+Level
+Study design
+I
+Evidence from at least one properly randomised controlled trial
+(RCT)
+II-1
+Evidence obtained from well-designed controlled trials without
+randomisation
+II-2
+Evidence obtained from well-designed cohort or case-control
+analytic studies, preferably from more than one centre or group
+II-3
+Evidence from multiple time series with or without the intervention.
+Dramatic results in uncontrolled experiments (such as the results
+of the introduction of penicillin treatment in the 1940s) could also
+be regarded as this type of evidence
+III
+Opinions of respected authorities based on clinical experience;
+descriptive studies and case reports; or reports of expert
+committees
+Source: US / Canadian Preventive Services Task Force 2001
+Grades of Recommendation
+A
+At least one meta-analysis, systematic review, or RCT, or evidence
+rated as good and directly applicable to the target population
+B
+Evidence from well conducted clinical trials, directly applicable to
+the target population, and demonstrating overall consistency of
+results; or evidence extrapolated from meta-analysis, systematic
+review, or RCT
+C
+Evidence from expert committee reports, or opinions and /or clinical
+experiences of respected authorities; indicates absence of directly
+applicable clinical studies of good quality
+Source: Modified From The Scottish Intercollegiate Guidelines Network
+(SIGN)
+Note: The grades of recommendation relate to the strength of the evidence on
+which the recommendation is based. It does not reflect the clinical importance
+of the recommendation.
+Guidelines Development and Objectives
+Guidelines Development
+The members of the Development Group (DG) for this Clinical Practice
+Guidelines (CPG) are staff of the Ministry of Health (MOH) and Ministry of
+Higher Education Malaysia. A multidisciplinary review committee (RC) was
+actively involved during this CPG development process.
+A systematic literature search was carried out using the following databases:
+Guidelines International Network (G-I-N), Medline via Ovid, PUBMED,
+Cochrane Database of Systematic Reviews (CDSR) and International Health
+Technology Assessment websites. A search strategy to cover all aspects
+on management of autism spectrum disorders (ASD) was developed in the
+Medline database and adapted to other databases. Search strategies were a
+combination of MeSH and keyword searches including abbreviations (refer to
+Appendix 1 on an example of Search Strategy). The search was restricted to
+human studies, literature published in the English language and the last ten
+years. If the evidence was insufficient, the period of publication was extended
+for another ten years. In addition, the reference lists of all retrieved literature
+and guidelines were searched to further identify relevant studies. All searches
+were conducted from May 2012 till November 2013. Literature searches were
+repeated for all clinical questions at the end of the CPG development process.
+The aim was to identify and include any further relevant papers published
+before 28 February 2014. Future CPG updates will consider evidence
+published after this cut-off date. The details of the search strategy can be
+obtained upon request from the CPG Secretariat.
+Reference was also made to other CPGs on ASD such as i) Guidelines on
+Treatment, Diagnosis and Clinical Intervention for Children and Young People
+with Autism Spectrum Disorder (SIGN 98-2007), ii) AMS-MOH Clinical Practice
+Guidelines 1/2010 - Autism Spectrum Disorders in Pre-school Children, iii)
+Autism Spectrum Disorder by the Ministry of Health New Zealand 2008, and
+iv) Autism diagnosis in children and young people: Recognition, referral and
+diagnosis of children and young people on the autism spectrum (NICE, 2011).
+These CPGs were evaluated using the Appraisal of Guidelines for Research
+and Evaluation (AGREE) II prior to them being used as references.
+A total of 27 clinical questions were developed under different sections.
+Members of the DG were assigned individual questions within these sections.
+(Refer to Appendix 2) The DG members met 23 times throughout the
+development of these guidelines. All literatures retrieved were appraised by
+at least two DG members using Critical Appraisal Skill Programme checklist,
+presented in evidence tables and further discussed in each DG meetings. All
+statements and recommendations formulated after that were agreed upon by
+both the DG and RC. Where evidence was insufficient, the recommendations
+were made by consensus of the DG and RC. These CPGs are based largely
+on the findings of systematic reviews, meta-analyses and clinical trials, with
+local practices taken into consideration.
+The evidence used in these guidelines was graded using the US / Canadian
+Preventive Services Task Force Level of Evidence (2001), while the grading
+of recommendation was modified from grades of recommendation of the
+Scottish Intercollegiate Guidelines Network.
+On completion, the draft was sent for review by external reviewers. It was also
+posted on the MOH Malaysia official website for feedback by any interested
+parties. The draft was finally presented to the Technical Advisory Committee
+for CPG, the HTA and CPG Council of the MOH Malaysia for review and
+approval.
+Objectives
+The aim of this CPG is to provide evidence-based recommendations in
+the management of ASD, particularly on the detection, assessment and
+intervention of the condition in children and adolescents.
+Clinical Questions
+Refer to Appendix 2
+Target Population
+Children and adolescents with ASD who are less than 18 years of age
+Target Group / User
+This document is intended to guide health professionals and relevant
+stakeholders in primary and secondary / tertiary care of autism including:
+i
+Primary Care Providers (Family Medicine Specialists / Medical
+Officers / General Practitioners)
+ii
+Psychiatrists / Child and Adolescent Psychiatrists
+iii
+Paediatricians
+iv
+Psychologists
+v
+Audiologists
+vi
+Speech-Language Therapists
+vii
+Occupational Therapists
+viii
+Social Workers
+ix
+Nurses
+x
+Pharmacists
+xi
+Policy Makers / Programme Managers
+xii
+Educators
+Healthcare Settings
+Outpatient, inpatient and community settings
+Guidelines Development Group
+Chairperson
+Dr. Farahidah Md Dai
+Head of Department and
+Consultant Child & Adolescent Psychiatrist
+Hospital Sultanah Aminah, Johor Bahru
+Johor
+Members (Alphabetical Order)
+Ms. Ang Wei Nei
+Pharmacist
+Hospital Selayang
+Selangor
+Ms. Masrita Mohd Rosli
+Occupational Therapist
+Hospital Selayang
+Selangor
+Dr. Azah Abdul Samad
+Family Medicine Specialist
+Klinik Kesihatan Tanglin
+Kuala Lumpur
+Dr. Mohd Aminuddin Mohd Yusof
+Head of Clinical Practice Guidelines Unit
+Health Technology Assessment Section
+Medical Development Division, MOH
+Putrajaya
+Ms. Ee Su Im
+Occupational Therapist
+Hospital Kuala Lumpur
+Kuala Lumpur
+Ms. Nor Asmawati Mohamad Ali Abdul Rahman
+Medical Social Worker
+Hospital Umum Sarawak
+Sarawak
+Dr. Eni Rahaiza Muhd Ramli
+Consultant Child &
+Adolescent Psychiatrist
+Hospital Taiping
+Perak
+Dr. Norharlina Bahar
+Child & Adolescent Psychiatrist
+Hospital Selayang
+Selangor
+Dr. Juriza Ismail
+Senior Lecturer and
+Consultant Developmental Paediatrician
+Universiti Kebangsaan Malaysia
+Medical Centre
+Kuala Lumpur
+Dr. Norhayati Nordin
+Hospital Director and
+Consultant Child & Adolescent Psychiatrist
+Hospital Mesra, Bukit Padang
+Sabah
+Dr. Manveen Kaur Harbajan Singh
+Senior Lecturer and Psychiatrist
+University of Malaya
+Kuala Lumpur
+Dr. Nurdiana Abdullah
+Senior Lecturer and
+Primary Care Physician
+University of Malaya
+Kuala Lumpur
+Ms. Nurshahira Razali
+Speech-Language Therapist
+Hospital Kuala Lumpur
+Kuala Lumpur
+Datin Dr. Sheila Marimuthu
+Consultant Paediatrician and
+Adolescent Specialist
+Hospital Kuala Lumpur
+Kuala Lumpur
+Dr. V. Paranthaman
+Family Medicine Specialist
+Klinik Kesihatan Jelapang
+Perak
+Dr. Selvasingam Ratnasingam
+Consultant Child & Adolescent Psychiatrist
+Hospital Umum Sarawak
+Sarawak
+Dr. Ramli Mohd Ali
+Consultant Child & Adolescent Psychiatrist
+Hospital Kuala Lumpur
+Kuala Lumpur
+Ms. Sin Lian Thye
+Nursing Officer
+(Coordinator / Information Specialist)
+Health Technology Assessment Section
+Medical Development Division, MOH
+Putrajaya
+Dr. Ranjini S. Sivanesom
+Consultant Developmental Paediatrician
+Hospital Kuala Lumpur
+Kuala Lumpur
+Ms. Siti Suriani Che Hussin
+Audiologist
+Hospital Kuala Lumpur
+Kuala Lumpur
+Ms. Rozila Sumardi
+Speech-Language Therapist
+Hospital Sungai Buloh
+Selangor
+Dr. Toh Teck Hock
+Paediatrician and
+Head of Clinical Research Centre
+Hospital Sibu
+Sarawak
+Ms. See Geok Lan
+Clinical Psychologist
+Hospital Rehabilitation Cheras
+Kuala Lumpur
+Dr. Yusni Yusuff
+Consultant Child & Adolescent Psychiatrist
+Hospital Sultan Abdul Halim
+Kedah
+Review Committee
+The draft of these guidelines was reviewed by a panel of experts from both
+public and private sectors. They were asked to comment primarily on the
+comprehensiveness and accuracy of the interpretation of evidence supporting
+the recommendations in the guidelines.
+Chairperson
+Dr. Toh Chin Lee
+Head of Department and
+Senior Consultant Child & Adolescent Psychiatrist
+Department of Psychiatry & Mental Health
+Hospital Selayang
+Selangor
+Members (Alphabetical Order)
+Associate Professor Dr. Aili Hanim Hashim
+Lecturer and
+Consultant Child & Adolescent Psychiatrist
+Department of Psychological Medicine
+Faculty of Medicine, University of Malaya
+Kuala Lumpur
+Dr. Baizurah Mohd Hussain
+Head of Department Pathology (Patient Advocate)
+Department of Pathology
+Hospital Ampang
+Selangor
+YBhg. Dato’ Dr. Amar-Singh HSS
+Head of Department and
+Senior Consultant Paediatrician
+Hospital Raja Permaisuri Bainun
+Perak
+Dr. Lecthuman Ramananthan
+Head of Department and
+Consultant Physician (Patient Advocate)
+Department of Medicine
+Hospital Taiping
+Perak
+Dr. Rajini Sarvanathan
+Consultant Developmental Paediatrician
+Sunway Medical Centre
+Selangor
+Dr. Rekha Balachandran
+Consultant Otorhinolaryngologist (Patient Advocate)
+Hospital Raja Permaisuri Bainun
+Perak
+Dr. Wong Woan Yiing
+Secretary, National Early Childhood Intervention Council and
+Consultant Paediatrician
+KPJ Ipoh Specialist Hospital
+Perak
+External Reviewers
+The following external reviewers provided feedback on the draft:-
+Dr. Andy Shih
+Senior Vice President of Scientific Affairs
+Autism Speaks
+United States of America
+Ms. Amelia Inbam Neelagandan
+Speech-Language Therapist
+Hospital Queen Elizabeth
+Sabah, Malaysia
+Professor Dr. Frances Page Glascoe
+Professor of Paediatrics
+Vanderbilt University
+United States of America
+Associate Professor Dr. Jill Sewell
+Deputy Director
+Centre for Community Child Health
+Royal Children‘s Hospital
+Melbourne, Australia
+Professor Dr. Mohd Jamil Yaacob
+Consultant Child & Adolescent Psychiatrist
+AIMST University
+Kedah, Malaysia
+Clinical Associate Professor Dr. John Wray
+State Child Development Centre
+West Perth, Australia
+Dr. Lai Fong Hwa
+Consultant Child & Adolescent Psychiatrist
+Hospital Pulau Pinang
+Pulau Pinang, Malaysia
+Ms. Masne Kadar
+Occupational Therapist and Lecturer
+Universiti Kebangsaan Malaysia
+Kuala Lumpur, Malaysia
+Dr. Nazrila Hairizan Nasir
+Family Medicine Specialist
+Klinik Kesihatan Pandamaran
+Selangor, Malaysia
+Ms. Nor Azizah Nurdin
+Freelance Speech-Language Therapist
+Selangor, Malaysia
+Professor Dr. Wong Swee Lan
+Department of Population Medicine
+Faculty of Medicine and Health Sciences
+University Tunku Abdul Rahman
+Kuala Lumpur, Malaysia
+Algorithm on Management of Children with Autism Spectrum Disorder
+Growth and developmental
+assessment for children
+under six years of age at
+Maternal & Child Health
+Clinic
+M-CHAT screening
+(at 18 and 24 months)*
+• to be completed by parents
+• assisted if necessary
+Referral from
+school / community / parent
+Verification by Medical
+Practitioner
+Diagnosis confirmed by
+Family Medicine Specialist /
+Paediatrician / Psychiatrist
+Multidisciplinary Assessment
+and Management***
+Referral from
+Practitioners / Therapists
+Follow-up
+Scoring**
+Refer Pg 35
+Speechlanguage
+therapy
+Occupational
+therapy
+Psychological
+/ behavioural
+therapy
+Education
+Social
+welfare
+Pharmacotherapy
+for comorbidities
+* M-CHAT may be used to screen children up until 30
+months of age if the child misses the earlier screening
+**Regardless of the screening result, children suspected
+of ASD by the family or other care provider should be
+referred for evaluation
+***Multidisciplinary Assessment and Management Team
+may include:
+• Family Medicine Specialist
+• Paediatrician
+• Psychiatrist
+• Clinical Psychologist
+• Occupational Therapist
+• Speech-Language Therapist
+• Audiologist
+• Medical Social Worker
+Early intervention programme (EIP) is strongly advocated
+Fail
+1. Introduction
+Autism Spectrum Disorder (ASD) is a neurodevelopmental disorder characterised
+by impairments in communication, behaviour and social functioning beginning
+in childhood. There is no local epidemiological study on ASD prevalence in
+Malaysia. However, in a feasibility study on the use of Modified Checklist for
+Autism in Toddlers (M-CHAT) among children of 18 to 36 months of age in child
+health clinics by Ministry of Health Malaysia, the prevalence of ASD in Malaysia
+was approximately 1.6 in 1,000.1 In the USA, the overall prevalence of ASD is
+14.7 per 1,000 (one in 68) children aged 8 years and the prevalence shows an
+increasing trend over the years.2
+Clinicians have been seeing an increasing number of children with speech delay
+and social communication difficulties who require further assessment. Children
+with speech delay and behavioural issues are frequently placed in special
+education classes without an accurate diagnosis. While waiting for diagnosis to
+be established, these children should be referred for the relevant interventions.
+Early diagnosis and prompt intervention of children with ASD is crucial for the
+best outcome. The importance of early recognising and initiation of early referral
+to optimise the child’s potential must be emphasised.
+This has prompted the need to produce a CPG for the wide usage of healthcare
+providers in Malaysia as well as to provide assistance to parents of children with
+ASD. It is hoped that this CPG can give a clear picture to primary care providers
+to direct these children in an efficient manner. Referral pathways to specialists
+and various interventionists have been outlined in this CPG in order to facilitate
+this process.
+2. Risk Factors
+The aetiology of ASD is unclear. It is multi-factorial which includes both genetic
+vulnerability and environmental factors. Only risk factors deemed important by
+the DG and RC are discussed here.
+a. Advancing Parental Age
+Parental age is among the most consistently studied risk factor and the risk for
+ASD increases with parental age.
+●
+Maternal age:
+○ >35 years old vs 25 - 29 years old (OR = 1.31, 95% CI 1.19 to
+1.45)3, level II-2
+○ >40 years old vs <30 years old (OR = 2.1, 95% CI 1.48 to 2.86)4, level
+II-2
+●
+Paternal age: compared to ≤ 29 years old,5, level II-2
+○ 49 years old (OR = 1.42, 95% CI 1.07 to 1.87)
+○ ≥ 50 years old (OR = 2.21, 95% CI 1.26 to 3.88)
+○ ≥ 55 years old (OR = 4.36, 95% CI 2.09 to 9.09)
+●
+First born of mother aged >35 years old and father aged >40 years
+old vs parents aged 25 - 29 years old, adjusted OR = 3.1, 95% CI 2.0
+to 4.7.6, level II-2
+b. Prematurity (<37 weeks of gestation) in particular those born <33 weeks
+are at risk of developing ASD (OR = 5.4, 95% CI 1.1 to 27.7).4, level II-2
+c. Neonatal encephalopathy has OR for ASD ranging from 3.06 to 5.59.
+4, level II-2
+d. Genetic Risk
+The adjusted relative recurrence risk of ASD is increased with increasing
+genetic relatedness:3, level II-2
+●
+Monozygotic twins
+=
+153.0 (95% CI 56.7 to 412.8)
+●
+Dizygotic twins
+=
+8.2 (95% CI 3.7 to 18.1)
+●
+Full siblings
+=
+10.3 (95% CI 9.4 to 11.3)
+●
+Maternal half-siblings
+=
+3.3 (95% CI 2.6 to 4.2)
+●
+Paternal half-siblings
+=
+2.9 (95% CI 2.2 to 3.7)
+●
+Cousins
+=
+2.0 (95% CI 1.8 to 2.2)
+The RR of ASD for infants with multiple older affected siblings is significantly
+2.2 times higher than those who had only one older affected sibling.7, level II-2
+e. Peri-conceptional supplement
+Use of folic acid supplement in mothers around the time of conception (four
+weeks before and eight weeks after pregnancy)8, level II-2 or peri-conceptional
+prenatal vitamin intake (containing more iron, vitamin B6, vitamin B12 and
+800 µg of folic acid as compared to ordinary multivitamins)9, level II-2 appears
+to offer some benefit especially in those who are genetically susceptible.
+f. Immunisation (Vaccination)
+Based on a Cochrane systematic review of 10 studies, no significant
+association was found between MMR immunisation and autism.10, level II-2
+In another study, increasing exposure to antibody-stimulating proteins
+and polysaccharides in vaccines during the first two years of life was not
+associated with risk of developing ASD.11, level II-2
+Immunisation is not associated with the development of autism spectrum
+disorder.
+3. Screening
+Screening for ASD is important as early detection enables early intervention
+and better outcomes. There are limited studies on the effectiveness of
+screening tools for ASD in children. Three systematic reviews (SRs) found
+that Checklist for Autism in Toddler (CHAT), Modified Checklist for Autism
+in Toddlers (M-CHAT) and Social Communication Questionnaire (SCQ)
+performed better in the screening of young children for ASD. The primary
+studies were inadequate with small sample sizes, lack of blinding between
+screening and diagnosis, and largely did not follow up children with negative
+results.12, level II-1; 13, level II-1; 14, level II-1
+It is important to be aware that false positive or false negative results from
+any use of screening tests may cause unnecessary parental anxiety or delay
+correct diagnosis. The ultimate decision about the need for referral and further
+assessment should be made on clinical grounds.
+a. Modified Checklist for Autism in Toddlers (M-CHAT)
+Modified Checklist for Autism in Toddlers (M-CHAT) [Appendix 3] is a 23-item
+questionnaire on child behaviour and development reported by parents for
+children aged 18 and 24 months of age.15, level III It has been translated into
+Malay and Chinese languages for local use in healthcare facilities in Malaysia.
+Training is required for interpretation of the result.
+The specificity of M-CHAT was reported as 98% and follow-up of a subset of
+children at age 3.5 years resulted in a sensitivity of 100%.14, level II-1 In a recent
+SR, the sensitivity, specificity and PPV were found to be 70% to 92%, 27%
+to 43% and 5.8% to 76% respectively. M-CHAT was also better at detecting
+RECOMMENDATION 1
+● Screening for autism spectrum disorder (ASD) should be emphasised
+in children with the following high risk factors:-
+● Increased parental age
+○ Maternal age >40 years old
+○ Paternal age >50 years old
+○ First born of mother aged >35 years old and father aged >40
+years old
+● Prematurity of <33 weeks of gestation
+● Neonatal encephalopathy
+● Family history of ASD
+(Grade C)
+autism in children aged 24 months versus (vs) 18 months and those in a high
+risk group in early intervention programme centres vs a low risk group in the
+routine baby clinic. M-CHAT is recommended for use at 18 months to assist
+with early identification of ASD, and 24 months, to identify those toddlers who
+have regression.12, level II-2
+b. Social Communication Questionnaire (formerly known as Autism
+Screening Questionnaire)
+Social Communication Questionnaire (SCQ) is a parent-rated questionnaire
+on children aged above four years. It evaluates the social interaction,
+communication, language and stereotypic behaviours for possible autism or
+other ASD.16, level III
+SCQ was better in detecting ASD in individuals over seven years of age
+(sensitivity of 86% to 90% and specificity of 78% to 86%) compared to children
+aged 2 to 3 years old (sensitivity 47% to 54% and specificity 89% to 92%).13,
+level II-1
+c. Other Screening Tools
+Other screening tools used are:
+i)
+General / broadband developmental screening tools:
+● Child Behaviour Checklist (CBCL)13, level II-1; 17, level III; 18, level III
+● Infant-Toddler Checklist (ITC)19, level III
+● Parents’ Evaluation of Developmental Status (PEDS)20, level II-2
+ii)
+Screening tools specific for ASD:
+● Checklist for Autism in Toddlers (CHAT)12, level II-1; 14, level II-1; 21, level II-2
+● Checklist for Autism in Toddlers for Chinese Children (CHAT-23)13, level
+II-1; 17, level III; 18, level III
+● Modified Checklist for Autism in Toddlers, Revised with Follow-up22,
+level III
+● Gilliam Autism Rating Scale / Gilliam Autism Rating Scale Second
+Edition (GARS / GARS-2)13, level II-1; 17, level III; 18, level III
+● Social Responsiveness Scale (SRS)13, level II-1; 17, level III; 18, level III
+● Autism Spectrum Screening Questionnaire (ASSQ)13, level II-1; 17, level III; 18,
+level III
+● Asperger Syndrome Diagnostic Scale (ASDS)13, level II-1; 17, level III; 18, level III
+4. Assessment and Diagnosis
+The diagnosis of ASD is made either by using criteria from the Diagnostic and
+Statistical Manual of Mental Disorders [DSM-IV-TR, 2000 (Appendix 4) and
+DSM-5, 2013 (Appendix 5)] or 10th-Revision of International Classification
+of Diseases [ICD-10] (Appendix 6).
+4.1 Initial Assessment – History, Developmental History and Physical
+Examination
+Children with ASD may show early symptoms manifested by behavioural
+abnormalities. These include poor eye contact, impairment in visual
+tracking of an object, atypical response to name, less social smiling and
+delayed expressive and receptive language. The possibility of ASD should
+be considered if there are concerns about development or behaviour.23
+Repetitive behaviour, restricted interests and limited ability to imitate are
+also early symptoms of ASD.
+Health care providers should take into consideration cultural and socioeconomic
+factors that may affect assessment.24, level III
+a. Signs and symptoms of ASD23 (refer to Appendix 7)
+b. A complete history should include:
+● Concerns by parents / carers
+● Symptoms suspicious of ASD (refer to Appendix 7).
+● Developmental history
+● Behavioural problems and interaction with others
+● Medical history including prenatal and perinatal histories
+● Psychiatric history – to assess co-existing mental disorders e.g.
+depression, anxiety
+● Family history
+● Social history including schooling, home life, physical environment, social
+needs
+● Medication and allergy history
+RECOMMENDATION 2
+● Modified Checklist for Autism in Toddlers (M-CHAT) may be used as
+a screening tool for autism spectrum disorder (ASD) among children
+of 18 months and repeat at 24 months if the child passes the earlier
+M-CHAT. (Grade C)
+● M-CHAT may be used to screen children up till the age of 30 months if
+the child misses the earlier screening. (Grade C)
+● Regardless of the screening result, children suspected of ASD at
+any age by the family or other care providers should be referred for
+evaluation. (Grade C)
+c. Physical examination should include:
+● Presence of dysmorphic features
+● Presence of congenital anomalies
+● Stigmata of neurofibromatosis or tuberous sclerosis
+● Speech / communication skills and developmental assessment
+● Hearing / visual assessment
+● Signs of physical abuse / self-harm
+Other differential diagnoses for ASD to be considered during assessment are
+shown in Table 1:
+Table 1: Differential diagnoses for autism23
+● Neurodevelopmental disorders:
+●
+specific language delay or disorder
+● intellectual disability or global developmental delay
+● developmental coordination disorder (DCD)
+● Mental and behavioural disorders:
+●
+attention deficit hyperactivity disorder (ADHD)
+●
+mood disorder
+●
+anxiety disorder
+●
+attachment disorders
+●
+oppositional defiant disorder (ODD)
+●
+conduct disorder
+●
+obsessive compulsive disorder (OCD)
+●
+psychosis
+● Conditions in which there is developmental regression:
+●
+Rett syndrome
+●
+epileptic encephalopathy
+● Other conditions:
+●
+severe hearing impairment
+●
+severe visual impairment
+●
+maltreatment
+●
+selective mutism
+4.2 Diagnosis
+The diagnosis of ASD encompasses difficulties in each of the three domains:
+social relatedness, communication / play, and restricted interests and
+activities with onset by three years of age (DSM-IV-TR).
+The ICD and DSM categorical system classifications have led to development
+of the Autism Diagnostic Interview-Revised (ADI-R) and the Diagnostic
+Interview for Social and Communication Disorders (DISCO). Clinical
+experience and professional training are crucial in order to establish the
+diagnosis. Observation in different settings such as school and home may
+be helpful.
+Besides ADI-R and DISCO, other ASD-diagnostic instruments that can be
+used to facilitate assessment are Autism Diagnostic Observation Schedule
+(ADOS) and Childhood Autism Rating Scale (CARS). ADOS is a reliable
+diagnostic instrument to supplement clinical history. Refer to Appendix 8
+for more details.
+a. Autism Diagnostic Interview-Revised (ADI-R)
+This is a structured interview conducted with parents / carers of individuals
+for assessment of ASD. It is used for diagnostic purpose for anyone with
+a mental age of at least 18 months. The interview measures behaviour in
+the areas of reciprocal social interaction, communication and language, as
+well as patterns of behaviour.
+b. Autism Diagnostic Observation Schedule (ADOS)
+This is a semi-structured assessment of communication, social interaction
+and play (or imaginative use of materials) for individuals suspected of having
+ASD. The ADOS consists of four modules, each of which is appropriate for
+children and adults with differing developmental and language levels, ranging
+from nonverbal to verbally-fluent.
+c. Diagnostic Interview for Social and Communication Disorders (DISCO)
+This is a detailed, semi-structured interview to be used with the parents /
+carers to identify the impairment of social interaction, social communication
+and social imagination together with the associated repetitive behaviour,
+and all other features that may be found in ASD.
+d. Childhood Autism Rating Scale (CARS)
+This is a 15-item behaviour observation rating scale to identify and
+differentiate children with ASD from typically developing children or others
+with developmental disablities.
+RECOMMENDATION 3
+● Diagnosis of autism spectrum disorder should be made clinically based
+on comprehensive history and observation. Diagnostic tools may be
+used to assist in the clinical diagnosis. (Grade C)
+4.3 Clinical Progression
+Diagnosis of ASD based on clinical evaluation by trained and experienced
+clinicians is relatively stable.25, level II-3 Improvement in symptoms reported by
+parents do not translate into changes in diagnosis.26, level II-3 The severity levels
+for ASD vary by context and fluctuate over time.
+5. Comorbidities and Other Difficulties
+Children with ASD can experience a wide range of difficulties with emotional,
+attentional, activity, thought, behavioural and medical problems. Diagnosis
+of comorbid disorders is of major importance as they may cause significant
+clinical impairment in children with ASD. It is crucial that all comorbid
+conditions are appropriately assessed and managed.
+a. Intellectual Disability
+Extreme autistic traits are significantly associated with intellectual disability
+and poor academic performance (p < 0.001).27, level III Among those with ASD,
+about half have intellectual disability.28, level III
+b. Attention Deficit Hyperactivity Disorder (ADHD)29, level III
+Prevalence of ADHD in children with ASD is 53%, with the following subtypes:-
+● 22% - hyperactivity / impulsivity
+● 46% - inattentive
+● 32% - combined
+Compared to children with ASD alone, those with comorbid ADHD:-
+● are younger, with children between 5 and 7 years presenting more
+symptoms of hyperactivity (p < 0.05)
+● have a lower mean IQ (p = 0.01)
+● are on medication more often (p < 0.05)
+● do not show differences in gender (p = 0.59) and type of ASD
+diagnosis (p = 0.11)
+c. Sleep Problems
+Sleep problems occur in 44% - 83% of school aged children with ASD.
+Children with ASD significantly have:30, level-III; 31, level II-2
+● at least one sleep problem
+● sleep onset problems
+● night waking
+These findings are supported by polysomnography.31, level II-2 Cognitive or
+adaptive development did not predict severity of sleep problems in the ASD
+group.30, level III
+d. Epilepsy
+The prevalence of epilepsy in autism ranges from 7% - 46%. It is increased
+with greater intellectual disability, symptomatic autism, age, history of
+cognitive / developmental regression, use of psychotropics medications
+and abnormality of electroencephalography (EEG).32, level III; 33, level III
+The median age of onset for epilepsy is 14 years.33, level III Epileptiform
+abnormalities on EEG occur in 6% - 60% of autistic children.32, level III The
+presence of epilepsy in children with ASD is significantly associated with
+psychiatric disorders.34, level III
+e. Gastrointestinal Problems
+Children with ASD are five times more common to have feeding problems
+than those without ASD (OR 5.11, 95% CI 3.74 to 6.97).35, level II-2 Types of
+feeding problems are food selectivity (54%),35, level II-2; 36, level II-2 food refusal
+(21%), behavioural rigidity during meals (17%) or their combinations
+(7%). Children with ASD tend to have a significantly lower consumption
+of calcium and protein compared to children without ASD and a higher
+level of nutritional inadequacies.35, level II-2
+The overall incidence of gastrointestinal symptoms in children with ASD
+does not differ from the general population, although there is an increased
+incidence of constipation in those with ASD.37, level II-2
+f. Motor Coordination
+Substantial motor coordination deficits occur in children with ASD across
+all age groups. Handwriting is very important for academic progress and
+social communication development. Adolescents with ASD are known to
+have poor handwriting. The main predictors are intellectual ability (p =
+0.006) and motor skill (p = 0.005).38, level III
+g. Other Psychiatric Disorders34, level III
+Prevalence of psychiatric disorders in children with ASD is as follows:
+● 70.8% have at least one current psychiatric disorder (95% CI 58.2 to
+83.4) with 57% having multiple diagnosis
+● 62.8% (95% CI 49.8 to 75.9) have ADHD, emotional or behavioural
+disorders (oppositional defiant or conduct)
+● 24.7% (95% CI 14.1 to 35.3) have Tourette syndrome, chronic tics,
+trichotillomania, enuresis, or encopresis (neuropsychiatric disorders)
+● 41.9% (95% CI 26.8 to 57.0) have anxiety or phobic disorder
+● 1.4% (95% CI 0 to 3.0) have depressive disorders
+● 30% (95% CI 14.9 to 45.0) have oppositional or conduct disorder
+There is no substantial evidence on the prevalence of psychosis in children
+with ASD.
+6. Investigations
+a. Audiological Evaluation
+Most children with ASD present with speech and language delay. Therefore,
+audiological evaluation is an important component of initial assessment in
+order to rule out hearing impairment. Standard behavioural audiometric
+procedures are difficult to apply in children with ASD. Behavioural response in
+audiometric test is less reliable (≥15 dB) in younger children with ASD.39, level III
+The electrophysiological tests used to evaluate hearing impairment are:
+● transient evoked otoacoustic emissions (TEOAE)
+● auditory brainstem evoked response (ABR)
+● acoustic reflexes (AR)
+b. Other Investigations
+ASD is predominantly a clinical diagnosis. Children with ASD generally
+do not require intensive investigation. Investigations may be carried out in
+some children with ASD to establish underlying pathology, exclude treatable
+conditions and identify comorbid conditions.
+● Electroencephalograpy (EEG)
+There is insufficient evidence to support the use of EEG in the investigation
+of children with ASD without clinical seizures.40, level II-2; 41, level II-2
+● Genetic and Metabolic Investigations
+Genetic and metabolic studies are not routinely done in children with ASD
+as the association of inherited metabolic disorders and ASD is low.42, level II-2
+These tests are done usually when there is a suspicion of syndromes such as
+Fragile X syndrome or when there is dysmorphism or macrocephaly and/or
+association with severe intellectual disability or global developmental delay.
+These children have to be referred to a paediatrician or a geneticist for further
+evaluation.43, level II-2
+● Neuroimaging / Brain Imaging
+Brain imaging are not routinely done in patients with ASD as a meta-analysis
+did not show any difference in the brains of children with ASD and controls.44,
+level 1 Brain imaging is usually considered in selective cases where syndromes
+or neurological conditions are suspected and is usually done at tertiary
+levels.45, level III
+● Food Allergy
+There is no significant association between ASD and food allergies.46, level II-2;
+47, level II-2
+● Mineral Analysis
+There is insufficient evidence to support the use of mineral analysis in ASD.48,
+level II-2; 49, level II-2; 50, level II-2
+7. Treatment
+Ideally, children with ASD should be managed by a multidisciplinary team as
+stated in the algorithm (page xiii). Early Intervention Programmes (EIP) are
+advocated strongly, especially for children below the age of three to improve
+outcomes. However, all children should be offered EIP upon diagnosis.
+Policy makers play an important role in the implementation of services for
+children with ASD.
+RECOMMENDATION 4
+● Audiological assessment should be performed in children with or
+suspected of having autism spectrum disorder (ASD). (Grade C)
+● Other investigation* should not be done routinely in children with
+ASD unless indicated. (Grade C)
+* Refer to preceding texts
+7.1.
+Non-pharmacological Treatment
+a. Applied Behaviour Analysis (ABA)
+Applied Behaviour Analysis (ABA) is the application of behavioural principles
+to everyday situations, that will over time increases or decreases targeted
+behaviours. This intervention is widely used in the management of children
+with ASD, and recognised as a safe and effective intervention. Although
+there are a number of ABA approaches, the Lovaas method is the most
+well-known and extensively researched.51, level I
+Lovaas therapy is superior to standard care or regular instruction. In
+comparison to special education, Lovaas therapy significantly improves
+among others, social communication skills, language and daily living skills
+51, level I
+There is inadequate evidence to pin-point specific behavioural intervention
+approaches to be most effective for individual child with ASD. Lovaas therapy
+and early intensive behavioural intervention variants, and the Early Start
+Denver Model result in improvements in cognitive performance, language
+skills, and adaptive behaviour skills in some children.52, level I
+RECOMMENDATION 5
+● Parents or carers should actively participate in any intervention offered
+to children with autism spectrum disorder. (Grade C)
+Children with autism spectrum disorder should be managed by a
+multidisciplinary team consisting of:
+● family medicine specialist
+● paediatrician
+● psychiatrist / child and adolescent psychiatrist
+● clinical / educational psychologist or counsellor
+● occupational therapist
+● speech-language therapist
+● medical social worker
+● education officers
+b. Speech, Language and Communication Interventions
+Children with ASD may have limited or no speech, poor joint attention and
+pragmatic skills, as well as difficulty in understanding and interacting with
+others. Those who receive speech and language therapy between two to
+three years of age show improvement in expressive language at four years
+of age (p < 0.05).53, level II-2
+It is important for family members to be active participants in speech therapy
+sessions. Parents’ involvement in therapy of ASD children:-
+● increases the number of communication acts and use of
+communication means (p < 0.05)54, level II-2
+● decreases autism behaviour and increases typical communication
+(p < 0.05)55, level I
+The various types of communication interventions for children with ASD are
+discussed below.
+● Naturalistic Approach
+Responsive Education and Prelinguistic Milieu Teaching (RPMT) facilitates
+intentional communication during the prelinguistic period in children with
+developmental delay. Whereas Reciprocal Imitation Training (RIT) is an
+imitation intervention developed for young children with ASD.
+RPMT significantly improves social communication and language learning in
+children with ASD compared to Picture Exchange Communication System
+(PECS) in terms of:-
+○ object exchange turns and requesting56, level I
+○ initiating joint attention56, level I
+○ increasing in object interest57, level I
+RIT improves elicited and spontaneous imitation of objects, as well as
+gestures in young children with autism (<5 years old) with a greater play
+repertoire compared to controls (p < 0.05).58, level I
+RECOMMENDATION 6
+● Applied Behaviour Analysis should be considered in the management
+of children with autism spectrum disorder. (Grade A)
+● Augmentative and alternative Communication (AAC)
+Augmentative and Alternative Communication (AAC) is another
+communication methods that can help children with ASD who have limited
+speech or no speech to communicate. It is divided into aided and unaided.
+Unaided AAC consists of nonverbal means of natural communication
+including gestures and facial expressions. Aided AAC requires some
+additional external support such as a communication board with visualgraphic symbols using pictures, line drawings or printed words.
+AAC improves communication skills (IRD = 0.99, 84% CI 0.98 to 0.99), social
+skills (IRD = 0.90, 84% CI 0.84 to 0.95), spelling (IRD = 0.79, 84% CI 0.76
+to 0.82) and challenging behaviour (IRD = 0.80, 84% CI 0.76 to 0.84) in
+individuals with ASD.59, level III
+Picture Exchange Communication System (PECS) is a six-phased aided
+AAC. It is designed to facilitate functional and spontaneous communication
+skills. Its use in children with ASD helps them to develop speech.
+PECS improves communication skills in individuals with ASD in terms of:-
+○ non-imitative spoken communication acts (p = 0.03)60, level I
+○ number of different non-imitative words (p = 0.04)60, level I
+○ functional communication (IRD = 0.65, 84% CI 0.59 to 0.73)61, level III
+○ challenging behaviour (IRD = 0.45, 84% CI 0.48 to 0.73)61, level III
+○ socialisation (IRD = 0.73, 84% CI 0.53 to 0.93)61, level III
+PECS increases requesting skills in children with autism based on Percentage
+of Non-overlapping Data (PND) score.62, level I It also increases frequency and
+number of non-imitative spoken communication compared to RPMT in preschoolers with ASD (p < 0.05).56, level I PECS has larger effects than other picturebased AAC systems in targeted behaviours which include communication and
+social skills (IRD = 0.99, 84% CI 0.98 to 0.99).61, level III
+PECS training is effective for pre-school children (p < 0.001), those with single
+ASD diagnosis (p = 0.005) and completed all six phases (p = 0.005).61, level III
+A speech generating device (SGD) is an electronic device that produces
+speech for the user. It is an aided AAC and often used with graphic symbols.
+SGD with enhanced milieu teaching and signing increase requesting skills
+in children with autism based on PND score.62, level I SGD has larger effects
+than other picture-based AAC systems in targeted behaviours which include
+communication and social skills, although it is not statistically significant.61, level
+III
+There is no retrievable evidence on unaided AAC.
+● Video Modelling
+Video modelling is a mode of teaching that uses video recording to provide a
+visual model of the targeted skill to children with ASD. Types of video modelling
+include video self-modelling and “video modelling with other as model”.
+Video modelling and video self-modelling moderately improve social
+communication skills, functional skills and behavioural functioning in
+ASD children.63, level III “Video modelling with other as model” improves play
+skills, independent living and social-communicative skills in ASD children
+(p < 0.05).64, level III
+c. Occupational Therapy
+ASD may affect the child’s self-care ability, play, academic performance and
+social activities at home, school and in the community. Sensory processing
+dysfunction or sensory integration dysfunction are also affected in 50% - 90% of
+children with ASD.65; 66; 67; 68 Children with ASD have motor impairment in motor
+skill development when compared to their typically developing peers.69; 70; 71
+Occupational therapy provides assessment and intervention to maximise
+activities of daily living. The interventions provided by occupational therapists
+include social skills, self-help skills, sensory integration therapy, perceptual
+motor skills, sensory-motor skills, as well as behavioural and developmental
+interventions.72
+● Social Skills and Self-help Skills
+Social skills and self-help skills interventions improve skill deficits in children
+with ASD.73, level III For social skills intervention, the effectiveness was supported
+by a Cochrane SR which showed improvement in overall social competence
+(ES = 0.47, 95% CI 0.16 to 0.78) and friendship quality (ES = 0.41, 95% CI 0.02
+to 0.81) in children with ASD.74, level I
+RECOMMENDATION 7
+● Children with autism spectrum disorder should receive speech,
+language and communication interventions as needed. (Grade A)
+Two to three years old children with autism spectrum disorder who receive
+speech and language therapy show improvement in expressive language
+at four years of age.
+● Sensory Integration Therapy (SIT)
+Sensory Integration Therapy (SIT) is often used by occupational therapists
+to manage children with ASD.75 The intervention typically involves provision
+of sensory input by using appropriate modalities.
+SIT has shown significant improvements in sensory processing, motor
+skills, social functioning and autistic mannerisms compared to fine motor
+intervention,76, level I as well as reduction in stereotypic behaviours, off
+task behaviours and touch aversion compared to no treatment.51, level l Yet
+in a recent SR, SIT showed no consistent positive effect as a treatment
+for children with ASD, with many of the studies included having serious
+methodological flaws.77, level III
+● Joint Attention Intervention
+Joint attention refers to the child’s capacity to coordinate attention with a
+social partner around an object or event.78 Joint attention intervention in
+children with ASD improves joint attention in teacher-child play (p = 0.036)
+and joint engagement in mother-child play (p = 0.015).79, level I
+● Perceptual Motor Training
+Perceptual motor training involves movement related skills such as eye
+hand coordination. In a quasi-experimental study, perceptual motor training
+increased the attention span of children with ASD (p < 0.05).80, level lI-1
+d. Other Interventions / Programmes
+● Social Stories
+Social stories help children with ASD to understand the subtle differences
+in interpersonal communication for effective and appropriate interaction.
+It can be conducted by trained occupational therapists, speech-language
+therapists, psychologists, teachers or caregivers. Social stories improve
+total social skills and social isolation (p < 0.005),81, level I and appropriate
+social behaviours (mean PND = 56) in children with ASD. Social stories
+also reduce inappropriate behaviours (mean PND = 87).82, level III Standard
+and directive social story interventions are equally effective in eliciting,
+generalising and maintaining the targeted social skills in children with autism
+(p < 0.001).83, level I
+RECOMMENDATION 8
+● Occupational therapy should be offered to children with autism
+spectrum disorder. (Grade A)
+● Developmental, Individual-Difference, Relationship-Based (DIR) /
+Floortime
+In this therapy, adults help children to develop their circles of communication
+by playing with them at their developmental level and building on their
+strengths. DIR / Floortime™ intervention at an average of 14.2 hours per
+week for a year significantly improves developmental skills and reduces
+autistic symptoms in 47% children with ASD.84, level I
+● Music Therapy
+In a RCT, children with autism were randomised to receive music therapy
+and play in different sequences. Generally, music therapy improved joint
+attention in both groups (p = 0.01). However, joint attention improved
+significantly when play was conducted before music therapy while eye
+contact events occurred significantly longer when music therapy was
+instituted before play.85, level I
+e. Parent Education and Support
+Managing children with ASD can be a huge challenge to their families. Children
+need parental involvement and support in acquiring social and communication
+skills. Parents without proper training may contribute to the failure of children
+applying learnt skills outside the classrooms. Thus, parental involvement is
+important to ensure the continuity of intervention.
+A SR showed that parental training improved parent-child interaction
+(shared attention: SMD = 0.41, 95% CI 0.14 to 0.68 and parent synchrony:
+SMD = 0.90, 95% CI 0.56 to 1.23). Besides that, improvement was also found
+in child’s language comprehension (MD = 36.26, 95% CI 1.31 to 71.20) as a
+result of parental training.86, level 1
+Children’s functional verbal utterances increase following parental training (p <
+0.05) and are maintained at follow-up (2 - 4 months). The relationship between
+parent fidelity to the training and child’s communication improves from pretraining to follow-up (p < 0.05).87, level III
+f. Cognitive Behaviour Therapy (CBT)
+Cognitive Behaviour Therapy (CBT) is used in children with ASD who have
+anxiety and mood disorders.
+RECOMMENDATION 9
+● Parental training should be offered to parents of children with autism
+spectrum disorder. (Grade A)
+The application of modified CBT is effective in reducing anxiety in children with
+Asperger subtype but not in other subtypes of ASD.88, level I CBT modalities that
+are effective in the treatment of anxiety in ASD include Coping Cat,89, level I; 90,
+level II-3 Building Confidence CBT Program91, level I; 92, level I and modules specifically
+developed for ASD children.93, level I However, most of the primary studies were
+done on children with high verbal intelligence.
+g. Treatment and Education of Autistic and Related Communication
+Handicapped Children (TEACCH)
+This is a structured teaching system based on a close collaboration between
+parents and professionals. It can be used for children with ASD of all ages
+and skill levels.
+There is no significant difference between TEACCH and standard care in
+imitation skills and eye-hand integration,51, level I although there is moderate to
+large effect sizes (ES) in social functioning (ES = 0.65, 95% CI 0.15 to 1.15)
+and maladaptive behaviour (pooled ES = -0.92, 95% CI -1.51 to -0.33) 94, level I
+h. Diet
+Gluten and casein-free diet, and dimethylglycine are not effective in the
+management of autism.95, level I; 96, level I
+Omega-3 supplements have no significant effect on social interaction,
+communication, stereotypy or hyperactivity.97, level I
+RECOMMENDATION 10
+● Cognitive Behaviour Therapy may be offered to children with autism
+spectrum disorder who have high verbal intelligence and anxiety
+disorder. (Grade A)
+Treatment and Education of Autistic and Related Communication
+Handicapped Children (TEACCH) may be useful in the management of
+children with autism spectrum disorder.
+Diet-related intervention has no significant benefit in children with autism
+spectrum disorder.
+7.2.
+Pharmacotherapy
+In ASD, medications are used in the treatment of comorbid disorders.
+Conventional antipsychotics such as haloperidol are used less frequently
+due to its high incidence of severe adverse reactions.
+a. Atypical Antipsychotics (AAP)
+The use of atypical antipsychotics in ASD is preferred due to the reduced
+propensity of causing extrapyramidal symptoms.
+● Risperidone
+Low dose risperidone (up to 2.5 mg per day in children weighing from 20
+- 45 kg and up to 3.5 mg per day in those weighing over 45 kg) may be
+beneficial in some features of ASD.98, level I A meta-analysis of three RCTs in
+children with ASD suggested that short-term use of risperidone significantly
+improved:-
+●
+irritability
+(MD = -8.09, 95% CI -12.99 to -3.19)
+●
+social withdrawal / lethargy (MD = -1.00, 95% CI -5.03 to -0.97)
+●
+hyperactivity
+(MD = -8.98, 95% CI -12.01 to -5.94)
+●
+stereotypy
+(MD = -1.71, 95% CI -2.97 to -0.45)
+●
+inappropriate speech
+(MD = -1.93, 95% CI -3.79 to -0.07)
+However, there was a higher risk of weight gain (MD = 1.78, 95% CI 1.15 to
+2.41) in the treatment group compared to those on placebo.99, level I
+● Aripiprazole
+A meta-analysis of two RCTs in children with ASD suggested that aripiprazole
+up to 15 mg per day might be efficacious in treating:-
+●
+irritability
+(MD = -6.17, 95% CI -9.07 to -3.26)
+●
+hyperactivity
+(MD = -7.93, 95% CI -10.98 to -4.88)
+●
+stereotypy
+(MD = -2.66, 95% CI -3.55 to -1.77)
+●
+inappropriate speech
+(MD = -1.43, 95% CI -2.60 to -0.27)
+Adverse effects such as weight gain (MD = 1.13, 95% CI 0.71 to 1.54),
+sedation (MD = 4.28, 95% CI 1.58 to 11.60), drooling (MD = 9.64, 95% CI
+1.29 to 72.10) and tremor (MD = 10.26, 95% CI 1.37 to 76.63) may occur
+more often in the treatment group compared to those on placebo.100, level I
+● Other AAPs
+○ Olanzapine
+Olanzapine up to 20 mg per day improves CGI-I score in pervasive
+developmental disorder (PDD) at eight weeks (p = 0.012).
+However, clinically significant weight gain is more likely to occur
+in individuals treated with the medication (p = 0.028).101, level I
+○ Paliperidone
+Paliperidone up to 12 mg per day is efficacious for irritability in
+individuals with autism (p = 0.0002). The safety profile is acceptable
+except for raised prolactin level in males (p = 0.0001).102, level II-3
+○ Quetiapine
+Low dose quetiapine (≤150 mg per day) is efficacious in reducing
+aggression (p = 0.028) and improving sleep quality (p = 0.014) in
+children with ASD at eight weeks. No significant difference in body
+weight was observed and the adverse effects were mild.103, level II-3
+○ Ziprasidone
+Ziprasidone up to 160 mg per day is efficacious in reducing
+irritability (p = 0.05) and hyperactivity (p = 0.01) in autism at six
+weeks. The serious side effect of QTc prolongation of ziprasidone
+may offset the arguably minimal benefits associated with its use.
+(p = 0.04).104, level II-3
+b. Antidepressants
+● Selective Serotonin Reuptake Inhibitors (SSRI)
+A Cochrane SR explored the efficacy of various selective serotonin
+reuptake inhibitors (SSRIs) in the treatment of children with ASD. There
+was no evidence of SSRIs effect in children on core symptoms and
+severity of the disorder. There was also emerging evidence of harm such
+as seizure, poor appetite and weight loss.105, level I
+● Tricyclic Antidepressants (TCA)
+A Cochrane SR concluded that there was limited and conflicting
+evidence of effect and the side effects of TCA as a treatment option in
+children with ASD. For example, a study in 1993 favoured clomipramine
+against placebo but a later study in 2001 showed non-significant
+finding with substantial side effects. Further research is required
+before TCAs can be recommended for treatment of children with
+ASD.106, level I
+c. Other Medications
+● Methylphenidate
+Methylphenidate was found to be more efficacious than placebo among
+subjects who have PDD in a crossover RCT followed by open-label
+continuation of three months duration. Parent-rated and teacher-rated
+Aberrant Behaviour Checklist hyperactivity subscale scores during
+crossover phase were significantly lower in different methylphenidate
+dosages and the response was maintained in the continuation phase.
+Reported side effects were loss of appetite, sleep difficulties and
+irritability.107, level I
+● Atomoxetine
+A SR showed that there was limited evidence to suggest the efficacy of
+atomoxetie in children with ASD and ADHD symptoms. Further research
+is required before it can be strongly recommended for the treatment of
+children with such condition.108, level I
+● Valproate
+In a RCT, divalproate sodium significantly reduced irritability compared to
+the placebo. The findings were robust even after controlling for intelligence
+quotient (IQ) differences.109, level I It was well tolerated. Most side effects
+were mild to moderate in severity, resolved with small changes in dosing
+and did not require a discontinuation of medication.
+Except for risperidone and aripiprazole, the drugs listed above are
+for off-label use.
+● Melatonin
+Melatonin is an endogenous neurohormone produced predominantly in the
+pineal gland. It is commonly used for insomnia in children and has a favourable
+side-effect profile.110
+In a meta-analysis, melatonin was more efficacious than placebo in the
+treatment of ASD in terms of:111, level I
+● increased sleep duration by 44 minutes (Hedge’s g = 1.07, 95% CI
+0.49 to 1.65)
+● shorter sleep onset latency by 39 minutes (Hedge’s g = 2.46, 95% CI
+1.96 to 2.98)
+The findings above were supported by a recent RCT whereby a combination
+of CBT and melatonin was statistically most efficacious in reducing insomnia
+symptoms compared to either modality or placebo when used alone.112, level I
+In terms of safety, mild side effects reported in the meta-analysis were
+headache, diarrhoea and dizziness.111, level I
+7.3
+Traditional and Complementary Medicine
+Any other treatment modalities not described above are grouped under
+traditional and complementary medicine. The following treatment modalities
+have poor evidence, no effectiveness and / or some harmful effects in children
+with ASD:-
+● chelation113, level II-3
+● secretin114, level I
+● fatty acids97, level I
+● vitamin B6-magnesium115, level I
+● vitamin B12116, level I
+● acupuncture117, level I
+● hyperbaric oxygen therapy118, level I
+There is no retrievable evidence for vitamin A, vitamin C, trimethylglycine,
+cupping, ayurvedic medicine or homeopathy in the treatment of children with
+ASD.
+RECOMMENDATION 11
+● Children with autism spectrum disorder may be offered:
+● atypical antipsychotics as a short-term treatment for irritability.
+(Grade A)
+● methylphenidate for hyperactivity. (Grade A)
+● atomoxetine for hyperactivity. (Grade C)
+● melatonin for sleep difficulties. (Grade A)
+8. Social Welfare Service
+Children with ASD should be referred to the Department of Social Welfare at
+their respective local districts. This will enable the child to be registered for
+benefits such as:
+● placement for special needs education if warranted
+● welfare support including financial allowances from the department
+● free services in the public sector
+The registration form should be completed by the medical practitioner /
+medical officer at the point of diagnosis.
+9. Monitoring and Preparation of Transition to Adult Services
+Children with ASD require clinical monitoring for physical growth, behaviour
+and development, associated medical problems, as well as other
+comorbidities, sexuality and safety. The main goal is for children with ASD to
+become independent and achieve their potential in all aspects of life, leading
+to a higher quality of life when they exit the school system. However, there is
+a lack of reliable and valid measures to evaluate progress and change of a
+child’s behaviour and functioning over time after the diagnosis of ASD.119, level II-2
+Transition for adolescents with ASD should be discussed and planned early
+by all involved in their management. ASD children have varying intellectual
+and functional abilities, hence the transition into adulthood has to be planned
+early according to their individual abilities.120, level III
+Vocational training, post-secondary education, day care activities and
+supervised employment are options for these young people.121, level lI-1
+Care for children and adolescents with ASD should be continued into adult
+health services. There is a need for establishment of this service to support
+adolescents when they enter adulthood.
+10. Implementing the Guidelines
+Implementation of this CPG is the responsibility of each healthcare provider.
+Mechanisms should be in place to review care provided against the guidelines
+recommendations. The reasons for any differences should be assessed and
+addressed where appropriate. Local arrangements should then be made to
+implement the national guidelines in individual hospitals and clinics.
+Traditional and Complementary Medicine could not be recommended to
+children with autism spectrum disorder because of insufficient evidence
+and potential harmful effects.
+a.
+Facilitating and Limiting Factors
+The facilitating factors in implementing these CPG are:-
+i. Dissemination of CPG
+● Availability and dissemination of CPG to health care providers (hard
+and soft copies)
+● Conferences and updates on child behaviour and development
+ii. Implementation of CPG
+● Developmental screening including M-CHAT
+● Public awareness via World Autism Day
+● Accessibility to relevant multidisciplinary teams
+● Active
+involvement
+of
+government
+and
+non-governmental
+organisations
+The limiting factors in the implementation are:
+●
+Limited awareness and knowledge of detection and subsequent
+referral of children with ASD
+●
+Variation of practice and treatment at different levels of care
+●
+Limited financial and human resources
+●
+Lack of training at all levels of healthcare providers
+●
+Lack of networking between government and private practitioners
+b. Potential Resource Implications
+●
+Widespread distribution of CPG to healthcare personnel via printed
+copies
+●
+Reinforce training of healthcare providers via regular seminars and
+workshops
+●
+Establish ASD registry in Malaysia
+●
+Develop a multidisciplinary team in secondary and tertiary care
+levels.
+To enhance the utilisation of these CPG on the Management of Autism
+Spectrum Disorder in Children and Adolescents, the following clinical audit
+indicators for quality management are proposed:-
+*Assessment by MDT
+Percentage of
+children aged
+18 and 24 months
+screened with
+M-CHAT
+=
+Number of children aged 18 and 24
+months screened with M-CHAT in a year
+X 100%
+Number of children aged 18 and 24
+months attended child health clinic
+in the same period
+Percentage of
+children with
+failed M-CHAT
+referred for further
+assessment*
+=
+Number of children with failed M-CHAT
+referred for further assessment in a year
+X 100%
+Number of children failed M-CHAT
+in the same period
+References
+1.
+Family Health Division. Prosiding Mesyuarat Membincangkan Hasil Kajian Saringan
+dan Pengendalian Masalah Autisme. Kuala Lumpur 2006.
+2.
+Developmental Disabilities Monitoring Network Surveillance Year 2010 Principal
+Investigators; Centers for Disease Control and Prevention (CDC). Prevalence of
+autism spectrum disorder among children aged 8 years - autism and developmental
+disabilities monitoring network, 11 sites, United States, 2010. MMWR Surveill
+Summ. 2014, 63(2):1-21.
+3.
+Sandin S, Hultman CM, Kolevzon A, et al. Advancing maternal age is associated
+with increasing risk for autism: a review and meta-analysis. J Am Acad Child
+Adolesc Psychiatry. 2012, 51(5):477-486.
+4.
+Guinchat V, Thorsen P, Laurent C, et al. Pre-, peri- and neonatal risk factors for
+autism. Acta Obstet Gynecol Scand. 2012, 91(3):287-300.
+5.
+Hultman CM, Sandin S, Levine SZ, et al. Advancing paternal age and risk of
+autism: new evidence from a population-based study and a meta-analysis of
+epidemiological studies. Mol Psychiatry. 2011,16(12):1203-1212.
+6.
+Durkin MS, Maenner MJ, Newschaffer CJ, et al. Advanced parental age and the
+risk of autism spectrum disorder. Am J Epidemiol. 2008, 168(11):1268-1276.
+7.
+Ozonoff S, Young GS, Carter A, et al. Recurrence risk for autism spectrum disorders:
+A Baby Siblings Research Consortium Study. Pediatrics. 2011, 128:e488-495.
+8.
+Surén P, Roth C, Bresnahan M, et al. Association between maternal use of folic
+acid supplements and risk of autism spectrum disorders in children. JAMA. 2013,
+309(6):570-577.
+9.
+Schmidt RJ, Hansen RL, Hartiala J, et al. Prenatal vitamins, one-carbon metabolism
+gene variants, and risk for autism. Epidemiology. 2011, 22(4):476-485.
+10. Demicheli V, Rivetti A, Debalini MG, et al. Vaccines for measles, mumps and
+rubella in children. Cochrane Database Syst Rev. 2012, 2:CD004407.
+11. DeStefano F, Price CS, Weintraub ES. Increasing exposure to antibody stimulating
+proteins and polysaccharides in vaccines is not associated with the risk of autism.
+J Paediatrics. 2013, 163(2):561-567.
+12. Sunita, Bilszta JLC. Early identification of autism: A comparison of the Checklist
+for Autism in Toddlers and the Modified Checklist for Autism in Toddlers. J Paediatr
+Child Health. 2013, 49(6):438-444.
+13. Norris M, Lecavalier L. Screening accuracy of level 2 autism spectrum disorder
+rating scales: a review of selected instruments. Autism. 2010, 14(4):263-284.
+14. Mawlea E, Griffiths P. Screening for autism in pre-school children in primary care:
+systematic review of English language tools. Int J Nurs Stud. 2006, 43(5):623-636
+15. Robins DL, Fein D, Barton ML, et al. The Modified Checklist for Autism in
+Toddlers: An initial study investigating the early detection of autism and pervasive
+developmental disorders. J Autism Dev Disord. 2001, 31(2):131-144.
+16. Berument SK, Rutter M, Lord C, et al. Autism screening questionnaire: diagnostic
+validity. Br J Psychiatry. 1999, 175:444-445.
+17. Wong V, Hui LH, Lee WC, et al. A modified screening tool for autism (Checklist for
+Autism in Toddlers [CHAT-23]) for Chinese children. Pediatrics. 2004, 114(2):e166176.
+18. Ooi YP, Rescorla L, Ang RP, et al. Identification of autism spectrum disorders
+using the child behaviour checklist in Singapore. J Autism Dev Disord. 2011,
+41(9):1147-1156.
+19. Wetherby AM, Brosnan-Maddox S, Peace V, et al. Validation of the Infant-Toddler
+Checklist as a broadband screener for autism spectrum disorders from 9 to 24
+months of age. Autism. 2008, 12(5):487-511.
+20. Ozonoff S, Young GS, Steinfeld MB, et al. How early do parent concerns predict
+later autism diagnosis? J Dev Behav Pediatrics. 2009, 30(5):367-375.
+21. Baron-Cohen S, Allen J, Gillberg C. Can autism be detected at 18 months? The
+needle, the haystack and the CHAT. Br J Psychiatry. 1992, 161:839-843.
+22. Robins DL, Casagrande K, Barton M, et al. Validation of the modified checklist
+for autism in toddlers, revised with follow-up (M-CHATH-R/F). Pediatrics. 2014,
+133(1):37-45.
+23. National Institute for Health and Care Excellence. Autism diagnosis in children
+and young people: Recognition, referral and diagnosis of children and young
+people on the autism spectrum, 2011, National Clinical Guideline, Number 128
+2011.
+24. Volkmar F, Siegel M, Woodbury-Smith M, et al. Practice parameter for the
+assessment and treatment of children and adolescents with autism spectrum
+disorder. J Am Acad Child Adolesc Psychistry. 2014, 53(2):237-257.
+25. Kleinman JM, Ventola PE, Pandey J, et al. Diagnostic stability in very young
+children with autism spectrum disorders. J Autism Dev Disord. 2008, 38(4):606615.
+26. Soke GN, Philofsky A, Diguiseppi C, et al. Longitudinal changes in scores on the
+Autism Diagnostic Interview–Revised (ADI-R) in pre-school children with autism:
+Implications for diagnostic classification and symptom stability. Autism. 2011,
+15(5):545-562.
+27. Hoekstra RA, Happé F, Baron - Cohen S, et al. Association between extreme
+autistic traits and intellectual disability: insights from a general population twin
+study. Br J Psychiatry. 2009, 195(6):531-536.
+28. Charman T, Pickles A, Simonoff E, et al. IQ in children with autism spectrum
+disorders: data from the Special Needs and Autism Project (SNAP). Psychol
+Med. 2011, 41(3):619-627.
+29. Sinzig J, Walter D, Doepfner M. Attention deficit / hyperactivity disorder in children
+and adolescents with autism spectrum disorder: symptom or syndrome? J Atten
+Disord. 2009, 13(2):117-126.
+30. Krakowiak P, Goodlin-Jones B, Hertz-Picciotto I, et al. Sleep problems in children
+with autism spectrum disorders, developmental delays, and typical development: a
+population-based study. J Sleep Res. 2008, 17(2):197-206.
+31. Miano S, Bruni O, Elia M, et al. Sleep in children with autistic spectrum disorder: a
+questionnaire and polysomnographic study. Sleep Med. 2007, 9(1):64-70.
+32. Sansa G, Carlson C, Doyle W, et al. Medically refractory epilepsy in autism. Epilepsia.
+2011, 52(6):1071-1075.
+33. Hara H. Autism and epilepsy: a retrospective follow-up study. Brain Dev. 2007,
+29(8):486-490.
+34. Simonoff E, Pickles A, Charman T, et al. Psychiatric disorders in children with autism
+spectrum disorders: prevalence, comorbidity, and associated factors in a populationderived sample. J Am Acad Child Adolesc Psychiatry. 2008, 47(8):921-929.
+35. Sharp WG, Berry RC, McCracken C, et al. Feeding problems and nutrient intake in
+children with autism spectrum disorders: a meta-analysis and comprehensive review
+of the literature. J Autism Dev Disord. 2013, 43(9):2159-2173.
+36. Marí-Bauset S, Zazpe I, Mari-Sanchis A, et al. Food selectivity in autism spectrum
+disorders: A systematic review. J Child Neurol. 2013, [Epub ahead of print].
+37. Ibrahim SH, Voigt RG, Katusic SK, et al. Incidence of gastrointestinal symptoms in
+children with autism: a population-based study. Pediatrics. 2009, 124(2):680-686.
+38. Fuentes CT, Mostofsky SH, Bastian AJ. Perceptual reasoning predicts handwriting
+impairments in adolescents with autism. Neurology. 2010, 75(20):1825-1829.
+39. Tharpe AM, Bess FH, Sladen DP, et al. Auditory characteristics of children with autism.
+Ear and Hearing. 2006, 27(4):430-441.
+40. Fong CY, Baird G, Wraige E. Do children with autism and developmental regression
+need EEG investigation in the absence of clinical seizures? Arch Dis Child. 2008,
+93:998-999.
+41. Kagan-KushnirT, Roberts SW, Snead OC. Screening electroencephalograms in autism
+spectrum disorders: evidence-based guideline. J Child Neurol. 2005, 20(3):197-206.
+42. Schiff M, Benoist JF, Aïssaoui S, et al. Should metabolic diseases be systematically
+screened in nonsyndromic autism spectrum disorders? PLoS One. 2011, 6(7):e219232.
+43. Battaglia A, Carey JC. Etiologic yield of autistic spectrum disorders: a prospective
+study. Am J Med Genet C Semin Med Genet. 2006, 142C(1):3-7.
+44. Via E, Radua J, Cardoner N, et al. Meta-analysis of gray matter abnormalities in
+autism spectrum disorder: should Asperger disorder be subsumed under a broader
+umbrella of autistic spectrum disorder? Arch Gen Psychiatry. 2011, 68(4):409-418.
+45. Boddaert N, Zilbovicius M, Philipe A, et al. MRI findings in 77 children with nonsyndromic autistic disorder. PLoS One. 2009, 4(2):e4415.
+46. Bakkaloglu B, Anlar B, Anlar FY, et al. Atopic features in early childhood autism. Eur
+J Paediatr Neurol. 2008, 12(6):476-479.
+47. Jyonouchi H, Geng L, Cushing-Ruby A, et al. Impact of innate immunity in a subset of
+children with autism spectrum disorders: a case control study. J Neuroinflammation.
+2008, 21(5):52.
+48. Fido A, Al-Saad S. Toxic trace elements in the hair of children with autism. Autism.
+2005, 9(3):290-298.
+49. De Palma G, Catalani S, Franco A, et al. Lack of correlation between metallic elements
+analyzed in hair by ICP-MS and autism. J Autism Dev Disord. 2012, 42(3):342-353.
+50. Yorbik O, Kurt I, Haşimi A, et al. Chromium, cadmium, and lead levels in urine of
+children with autism and typically developing controls. Biol Trace Elem Res. 2010,
+135(1-3):10-15.
+51. Ospina MB, Krebs Seida J, Clark B, et al. Behavioural and developmental
+interventions for autism spectrum disorder: a clinical systematic review. PLoS One.
+2008, 3(11):e3755.
+52. Warren Z, McPheeters ML, Sathe N. A systematic review of early intensive intervention
+for autism spectrum disorders. Pediatrics. 2011, 127(5):e1303-1301.
+53. Stone WL, Yoder PJ. Predicting spoken language level in children with autism
+spectrum disorders. Autism. 2001, 5(4):341-361.
+54. Fernandes FD, Cardoso C, Sassi FC, et al. Language therapy and autism: results of
+three different models. Pro Fono Revista de Atualizacao Cientifica. 2008, 20(4):267272.
+55. Tamanaha AC, Perissinoto J. Comparison of the evolutional process of children with
+autism spectrum disorders in different language therapeutic interventions. J Soc Bras
+Fonoaudiol. 2011, 23(1):8-12.
+56. Yoder P, Stone WL. Randomized comparison of two communication interventions
+for preschoolers with autism spectrum disorders. J Consult Clin Psychol. 2006,
+74(3):426-435.
+57. McDuffie AS, Lieberman RG, Yoder PJ. Object interest in autism spectrum disorder:
+a treatment comparison. Autism. 2012, 16(4):398-405.
+58. Ingersoll B. Pilot randomized controlled trial of Reciprocal Imitation Training for
+teaching elicited and spontaneous imitation to children with autism. J Autism Dev
+Disord. 2010, 40(9):1154-1160.
+59. Ganz JB, Earles-Vollrath TL, Heath AK, et al. A meta-analysis of single case research
+studies on aided augmentative and alternative communication systems with individuals
+with autism spectrum disorders. J Autism Dev Disord. 2012, 42(1):60-74.
+60. Flippin M, Reszka S, Watson LR. Effectiveness of the Picture Exchange Communication
+System (PECS) on communication and speech for children with autism spectrum
+disorders: a meta- analysis. Am J Speech Lang Pathol. 2010, 19(2):178-195.
+61. Ganz JB, Davis JL, Lund EM, et al. Meta-analysis of PECS with individuals with ASD:
+investigation of targeted versus non-targeted outcomes, participant characteristics,
+and implementation phase. Res Dev Disabil. 2012, 33(2):406-418.
+62. Schlosser RW, Wendt O. Effects of augmentative and alternative communication
+intervention on speech production in children with autism: a systematic review. Am
+J Speech Lang Pathol. 2008, 17(3):212-230.
+63. Bellini S, Akullian J. A meta-analysis of video modeling and video self-modeling
+interventions for children and adolescents with autism spectrum disorders.
+Exceptional Children. 2007, 73:264-287.
+64. Mason RA, Ganz JB, Parker RI, et al. Moderating factors of video-modeling with
+other as model: a meta-analysis of single-case studies. Res Dev Disabil. 2012,
+33(4):1076-1086.
+65. Baranek GT, David FJ, Poe MD, et al. Sensory experiences questionnaire: discriminating
+sensory features in young children with autism, developmental delays, and typical
+development. J Child Psychol Psychiatry. 2006, 47(6):591-601.
+66. Leekam SR, Nieto C, Libby SJ, et al. Describing the sensory abnormalities of children
+and adults with autism. J Autism Dev Disord. 2007, 37(5):894-910.
+67. Tomchek SD, Dunn W. Sensory processing in children with and without autism: a
+comparative study using the short sensory profile. Am J Occup Ther. 2007, 61(2):190200.
+68. Baker AE, Lane A, Angley MT, et al. The relationship between sensory processing
+patterns and behavioural responsiveness in autistic disorder: a pilot study. J Autism
+Dev Disord. 2008, 38(5):867-875.
+69. Berkeley SL, Zittel II, Pitney IV, et al. Locomotor and object control skills of children
+diagnose with autism. Adapt Phys Activ Q. 2001, 18(4):405-416.
+70. Dziuk MA, Gidley Larson JC, Apostu A, et al. Dyspraxia in autism: association with
+motor, social, and communicative deficits. Dev Med Child Neurol. 2007, 49(10):734739.
+71. Breslin CM, Rudisill ME. The effect of visual supports on performance of the TGMD-2
+for children with autism spectrum disorder. Adapt Phys Activ Q. 2011, 28(4):342-353.
+72. Case-Smith J, Arbesman M. Evidence-based review of interventions for autism used
+in or of relevance to occupational therapy. Am J Occup Ther. 2008, 62(4):416-429.
+73. Flynn L, Healy O. A review of treatments for deficits in social skills and self-help skills
+in autism spectrum disorder. Res in Autism Spectr Disord. 2012, 6 (1):431-441.
+74. Reichow B, Steiner AM, Volkmar F. Social skills groups for people aged 6 to 21 with
+autism spectrum disorders (ASD). Cochrane Database Syst Rev. 2012, 7:CD008511.
+75. Ayres AJ, Tickle LS. Hyper-responsivity to touch and vestibular stimuli as a predictor
+of positive response to sensory integration procedures. Am J Occup Ther, 1980,
+34:375-381.
+76. Pfeiffer BA, Koenig K, Kinnealey M, et al. Effectiveness of sensory integration
+interventions in children with autism spectrum disorders: a pilot study. Am J Occup
+Ther. 2011, 65(1):76-85.
+77. Lang R, O’Reilly M, Healy O, et al. Sensory integration therapy for autism spectrum
+disorders: a systematic review. Res Autism Spectr Disord. 2012, 6(3):1004-1018.
+78. Mundy P, Sigman M. Joint attention, social competence, and developmental
+psychopathology In D. Cicchetti & D. Cohen (Eds.)Developmental psychopathology,
+2nd ed., Vol.1: Theory and Methods (pp. 293 - 332). 2006
+79. Kaale A, Smith L, Sponheim E. A randomized controlled trial of preschool-based
+joint attention intervention for children with autism. J Child Psychol Psychiatry. 2012,
+53(1):97-105.
+80. Afshari J. The effect of perceptual-motor training on attention in the children with
+autism spectrum disorders. Res Autism Spectr Disord. 2012, 6:1331-1336.
+81. Karkhaneh M, Clark B, Ospina MB, et al. Social Stories™ to improve social skills in
+children with autism spectrum disorder: a systematic review. Autism. 2010, 14(6):641662.
+82. Kokina A, Kern L. Social story interventions for students with autism spectrum
+disorders: a meta-analysis. J Autism Dev Disord. 2010, 40(7):812-826.
+83. Quirmbach LM, Lincoln AJ, Feinberg-Gizzo MJ, et al. Social stories: mechanisms
+of effectiveness in increasing game play skills in children diagnosed with autism
+spectrum disorder using a pretest posttest repeated measures randomized control
+group design. J Autism Dev Disord. 2009, 39(2):299-232.
+84. Pajareya K, Nopmaneejumruslers K. A pilot randomized controlled trial of DIR/
+Floortime™ parent training intervention for pre-school children with autistic spectrum
+disorders. Autism. 2011, 15(5):563-577.
+85. Kim J, Wigram T, Gold C. The effects of improvisational music therapy on joint attention
+behaviors in autistic children: a randomized controlled study. J Autism Dev Disord.
+2008, 38(9):1758-1766.
+86. Oono IP, Honey EJ, McConachie H. Parent-mediated early intervention for young
+children with autism spectrum disorders (ASD). Cochrane Database Syst Rev. 2013,
+CD009774.pub009772.
+87. Coolican J, Smith IM, Bryson SE. Brief parent training in pivotal response treatment
+for preschoolers with autism. J Child Psychol Psychiatry. 2010, 51(12):1321-1330.
+88. Lang R, Regester A, Lauderdale S, et al. Treatment of anxiety in autism spectrum
+disorders using cognitive behaviour therapy: a systematic review. Dev Neurorehabil.
+2010, 13(1):53-63.
+89. McNally Keehn RH, Lincoln AJ, Brown MZ, et al. The Coping Cat program for children
+with anxiety and autism spectrum disorder: a pilot randomized controlled trial. J Autism
+Dev Disord. 2013, 43(1):57-67.
+90. Viecili MA. Effects of A modified cognitive behavior therapy program to treat anxiety in
+children with autism spectrum disorders. ProQuest Dissertations & Theses. Toronto,
+Ontario: York University; 2011.
+91. Drahota A, Wood JJ, Sze KM, et al. Effects of cognitive behavioral therapy on daily
+living skills in children with high-functioning autism and concurrent anxiety disorders.
+J Autism Dev Disord. 2011,41(3):257-265.
+92. Wood JJ, Drahota A, Sze K, et al. Brief report: effects of cognitive behavioral therapy
+on parent-reported autism symptoms in school-age children with high-functioning
+autism. J Autism Dev Disord.2009, 39(11):1608-1612.
+93. Sung M, Ooi YP, Goh TJ, et al. Effects of cognitive-behavioral therapy on anxiety in
+children with autism spectrum disorders: a randomized controlled trial. Child Psychiatry
+Hum Dev. 2011, 42(6):634-649.
+94. Virues-Ortega J, Julio FM, Pastor-Barriuso R. The TEACCH program for children
+and adults with autism: a meta-analysis of intervention studies. Clin Psychol Rev.
+2013, 33(8):940-953.
+95. Millward C, Ferriter M, Calver S, et al. Gluten- and casein-free diets for autistic
+spectrum disorder. Cochrane Database Syst Rev. 2008, 2:CD003498.
+96. Kern JK, Miller VS, Cauller PL, et al. Effectiveness of N,N-dimethylglycine in autism
+and pervasive developmental disorder. J Child Neurology. 2001, 16(3):169-173.
+97. James S, Montgomery P, Williams K. Omega-3 fatty acids supplementation for autism
+spectrum disorders (ASD). Cochrane Database Syst Rev. 2011(11):CD007992.
+98. McCracken JT, McGough J, Shah B, et al. Risperidone in children with autism and
+serious behavioral problems. N Engl J Med. 2002, 347(5):314-321.
+99. Jesner OS, Aref-AdibM, Coren E. Risperidone for autism spectrum disorder. Cochrane
+Database of Syst Rev. 2007, (1):CD005040.
+100. Ching H, Pringsheim T. Aripiprazole for autism spectrum disorders (ASD). Cochrane
+Database Syst Rev. 2012, 5:CD009043.
+101. Hollander E, Wasserman S, Swanson E, et al. A bouble-blind placebo-controlled pilot
+study of olanzapine in childhood/adolescent Pervasive Developmental disorder. J
+Child Adolesc Psychopharmacol. 2006, 16(5):541-548.
+102. Stigler KA, Mullett JE, Erickson CA, et al. Paliperidone for irritability in adolescents
+and young adults with autistic disorder. Psychopharmacology. 2012, 223(2):237-245.
+103. Golubchik P, Sever J, Weizman A. Low-dose quetiapine for adolescents with autistic
+spectrum disorder and aggressive behavior: open-label trial. Clin Neuropharmacol.
+2011, 34(6):216-219.
+104. Malone RP, Delaney MA, Hyman SB, et al. Ziprasidone in adolescents with autism:
+an open-label pilot study. J Child Adolesc Psychopharmacol. 2007, 17(6):779-790.
+105. Williams K, Wheeler DM, Silove N, et al. Selective serotonin reuptake inhibitors
+(SSRIs) for autism spectrum disorders (ASD). Cochrane Database Syst Rev. 2010
+(8):CD004677.
+106. Hurwitz R, Blackmore R, Hazell P, et al. Tricyclic antidepressants for autism spectrum
+disorders (ASD) in children and adolescents. Cochrane Database Syst Rev. 2012,
+(3):CD008372.
+107. Research Units on Pediatric Psychopharmacology Autism Network. Randomized,
+controlled, crossover trial of methylphenidate in pervasive developmental disorders
+with hyperactivity. Arch Gen Psychiatry. 2005, 62(11):1266-1274.
+108. Ghanizadeh A. Atomoxetine for treating ADHD symptoms in autism: A systematic
+review. J Atten Disord. 2013, 17(635-640).
+109. Hollander E, Chaplin W, Soorya L, et al. Divalproex sodium vs placebo for the
+treatment of irritability in children and adolescents with autism spectrum disorders.
+Neuropsychopharmacology. 2010, 35(4):990-998.
+110. Johnson KP, Malow BA. Assessment and pharmacologic treatment of sleep disturbance
+in autism. Child Adolesc Psychiatr Clin N Am. 2008, 17:773-785.
+111. Rossignol D, Frye R. Melatonin in autism spectrum disorders: a systematic
+review and meta-analysis. Dev Med Child Neurol. 2011, 53(9):783-792.
+112. Cortesi F, Giannotti F, Sebastiani T, et al. Controlled-release melatonin, singly
+and combined with cognitive behavioural therapy, for persistent insomnia in
+children with autism spectrum disorders: a randomized placebo-controlled
+trial. J Sleep Res. 2012, 21(6):700-709.
+113. Davisa TN, O’Reilly M, Kangb S, et al. Chelation treatment for autism spectrum
+disorders: A systematic review. Res Autism Spectr Disord. 2013, 7(1):49-55.
+114. Williams K, Wray JA, Wheeler DM. Intravenous secretin for autism spectrum
+disorders (ASD). Cochrane Database Syst Rev. 2012, (4):CD003495.
+115. Nye C, Brice A. Combined vitamin B6-magnesium treatment in autism spectrum
+disorder. Cochrane Database Syst Rev. 2005, (4):CD003497.
+116. Bertoglio K, Jill James S, Deprey L, et al. Pilot study of the effect of methyl B12
+treatment on behavioral and biomarker measures in children with autism. J Altern
+Complement Med. 2010, 16(5):555-560.
+117. Cheuk DKL, Wong V, Chen WX. Acupuncture for autism spectrum disorders
+(ASD). Cochrane Database Syst Rev. 2011, (9):CD007849.
+118. Ghanizadeh A. Hyperbaric oxygen therapy for treatment of children with autism:
+a systematic review of randomized trials. Med Gas Res. 2012, 2:13.
+119. Magiati I, Moss J, Yates R, et al. Is the Autism Treatment Evaluation Checklist
+(ATEC) a useful tool for monitoring progress in children with Autism Spectrum
+Disorders? J Intellect Disabil Res. 2011, 55(3):302-312.
+120. Taylor JL, Seltzer MM. Employment and post-secondary educational activities for
+young adults with autism spectrum disorders during the transition to adulthood. J
+Autism Dev Disord. 2011, 4(5):566-574.
+121. Taylor JL, McPheeters ML, Sathe NA, et al. A systematic review of vocational
+interventions for young adults with autism spectrum disorders. Pediatrics. 2012,
+130(3):531-538.
+122. Le Couteur A, Haden G, Hammal D, et al. Diagnosing autism spectrum disorders
+in pre-school children using two standardised assessment instruments: the
+ADI-R and the ADOS. J Autism Dev Disord. 2008, 38(2):362-367.
+123. Maljaars J, Noens I, Scholte E, et al. Evaluation of the criterion and convergent
+validity of the Diagnostic Interview for Social and Communication Disorders in
+young and low-functioning children. Autism, 2012, 16(5):487-497.
+124. Chlebowski C, Green JA, Barton ML, et al. Using the childhood autism rating
+scale to diagnose autism spectrum disorders. J Autism Dev Disord. 2010,
+40(7):787-799.
+125. Molloy CA, Murray DS, Akers R, et al. Use of the Autism Diagnostic Observation
+Schedule (ADOS) in a clinical setting. Autism. 2011, 15(2):143-162.
+126. Lord C, Risi S, DiLavore PS, et al. Autism from 2 to 9 years of age. Arch Gen
+Psychiatry. 2006, 63(6):694-701.
+Appendix 1
+Examples of Search Strategy
+The following MeSH terms or free text terms were used either singly or in
+combination, search was limited to English, human, 2001 to current and
+children 0 -18 years old
+TCM
+1. Autistic Disorder/
+2. (Autistic adj1 disorder*).tw.
+3. Autism*.tw.
+4. 1 or 2 or 3
+5. Vitamin B 12/
+6. (b12 adj1 vitamin).tw.
+7. cyanocobalamin.tw.
+8. cobalamin.tw.
+9. 5 or 6 or 7 or 8
+10. 4 and 9
+11. Vitamin B 6/
+12. Vitamin B6.tw.
+13. Vitamin B 6.tw.
+14. Pyridoxine.tw.
+15. Pyridoxamine.tw.
+16. Picolines.tw.
+17. /or 11-16
+18. Vitamin A/
+19. vitamin a.tw.
+20. vitamin a1.tw.
+21. all trans retinol.tw.
+22. Retinol.tw.
+23. 11-cis-retinol.tw.
+24. /or 18 -23
+25. Fish Oils/
+26. (fish adj1 oil*).tw.
+27. liver oils fish.tw.
+28. fish liver oils.tw.
+29. oils fish liver.tw.
+30. /or 25-29
+31. Zinc/
+32. Zinc.tw.
+33. 31 or 32
+34. Melatonin/
+35. Melatonin.tw.
+36. 34 or 35
+37. 4 and 17
+38. 4 and 24
+39. 4 and 30
+40. 4 and 33
+41. 4 and 36
+42. trimethylglycine.mp.
+43. Trimethylglycine.tw.
+44. Magnesium/
+45. Magnesium.tw.
+46. 42 or 43 or 44 or 45
+47. 4 and 46
+48. Hyperbaric Oxygenation/
+49. therapies hyperbaric oxygen.tw.
+50. hyperbaric oxygenation*.tw.
+51. hyperbaric oxygen therap*.tw.
+52. oxygen therapies hyperbaric.tw.
+53. oxygenation hyperbaric.tw.
+54 therap* hyperbaric oxygen.tw.
+55. oxygen therap* hyperbaric.tw.
+56. HBOT.tw.
+57. /or 48 - 56
+58. 4 and 57
+59.Ascorbic Acid/
+60. (acid adj1 ascorbic).tw.
+61. (sodium adj1 ascorbate).tw.
+62. magnorbin.tw.
+63. (ferrous adj1 ascorbate).tw.
+64. acid l-ascorbic.tw.
+65. magnesium ascorbicum.tw.
+66. l-ascorbic acid.tw.
+67. vitamin c.tw.
+68. l ascorbic acid.tw.
+69. ascorbic acid monosodium salt.tw.
+70. hybrin.tw.
+71. ascorbic acid monosodium salt.tw.
+72. hybrin.tw.
+73. /or59 -72
+74. 4 and 73
+75.Chelation Therapy/
+76.(Chelation adj 1 therap*).tw
+77. 75 or 76
+78. 4 and 77
+52.Video instruct*.tw.
+53. Video model*.tw.
+54. Video self-model*.tw.
+55. Point-of-view video*.tw.
+56. /or 52- 55
+57. 4 and 56
+Behaviour intervention
+1. Autism*.tw.
+2. (Autistic adj1 disorder*).tw.
+3. (Conditioning adj1 therap*).tw.
+4. Behavio?r intervention*.tw.
+5. (Behavio?r adj1 modification*).tw.
+6. (Therap* adj1 behavio?r*).tw.
+7. Behavior Therapy/
+8. Autistic Disorder/
+9. Applied behavior analysis.tw.
+10. 1 or 2 or 8
+11. 3 or 4 or 5 or 6 or 7 or 9
+12. 10 and 11
+Speech Language Therapy
+1. Autistic Disorder/
+2. autism*.tw.
+3. (Autistic adj1 disorder*).tw.
+4. 1 or 2 or 3
+5. Speech Therapy/
+6. Language Therapy/
+7. Speech language therap*.tw.
+8. (Speech adj1 therap*).tw.
+9. (Language adj1 therap*).tw.
+10. (Language adj1 train*).tw.
+11. 5 or 6 or 7 or 8 or 9 or 10
+12. 4 and 11
+13. Augmentative communication*.tw.
+14. Alternative communication*.tw.
+15. Augmentative alternative communication.tw.
+16. AAC.tw.
+17./or 13-16
+18. 4 and 17
+19.Communication Aids for Disabled/
+20. Augmentative communication*.tw.
+21. Alternative communication*.tw.
+22. Augmentative alternative communication.tw.
+23. AAC.tw.
+24. AAC intervention*.tw.
+25./or 19-24
+26. 4 and 25
+27.Picture Exchange Communication
+System*.tw.
+28. PECS.tw.
+29. 27 or 28
+30. 4 and 29
+31.naturalistic behavio?r*.tw.
+32. natural language teach*.tw.
+33. 31 or 32
+34. 4 and 33
+35. milieu therap*.tw.
+36. milieu teach*.tw.
+37. 35 or 36
+38. 4 and 37
+39. incidental teach*.tw.
+40. 4 and 39
+41.facilitate teach*.tw.
+42. facilitate communication*.tw.
+43. facilitated communication*.tw.
+44. 41 or 42 or 43
+45. 4 and 44
+46.discrete trial train*.tw.
+47. discrete trial teach*.tw.
+48. discrete trial instruct*.tw.
+49. discrete trial intervention*.tw.
+50. 46 or 47 or 48 or 49
+51. 4 and 50
+Occupational therapy
+1. Autistic Disorder/
+2. Autism*.tw.
+3. (autistic adj1 disorder*).tw.
+4. 1 or 2 or 3
+5. Sensory processing*.tw.
+6. 4 and 5
+7.Fine motor.mp.
+8. Occupational Therapy/
+9. (occupational adj1 therap*).tw.
+10. 7 or 8 or 9
+11. 4 and 10
+12.Toilet training*.tw.
+13.(toilet * adj1 training*).tw.
+14. 12 or 13
+15. 4 and 14
+Diet intervention
+1. Autistic Disorder/
+2. Autism*.tw.
+3. (Autistic adj1 disorder*).tw.
+4. Diet*.tw.
+5. 1 or 2 or 3
+6. 4 and 5
+Appendix 2
+Clinical Questions
+1.
+Risk Factors
+●
+What are the risk factors for ASD?
+2.
+Comorbidities
+●
+What are the common comorbidities of ASD?
+3.
+Screening
+●
+What are the effective screening tools for diagnosis or to detect ASD?
+4.
+Assessment and Diagnosis
+●
+What is the initial assessment – history, developmental history, physical
+examination?
+●
+Is ADOS accurate in diagnosing ASD?
+●
+Are DISCO, CARS and ADI-R useful for diagnosing ASD?
+5.
+Investigation
+●
+What are the effective hearing tests which can be used in children with
+ASD to detect deafness/ hearing loss?
+●
+Is mineral analysis a useful investigation tool in children with ASD?
+●
+Do children with ASD need to be assessed for food allergies?
+●
+Do children with ASD need routine EEG?
+●
+What is the role of neuroimaging, metabolic and genetic testing in the
+diagnosis of ASD?
+6.
+Treatment
+●
+Is speech-language therapy effective in treating children with ASD?
+●
+Is social stories effective in treating children with ASD?
+●
+Is behavioural intervention effective in treating ASD?
+●
+Is occupational therapy effective for children with ASD?
+●
+Is parental education intervention effective in treating children with
+ASD?
+●
+Is cognitive behavioural intervention effective in treating children
+with ASD?
+●
+Is TEACCH an effective and safe intervention for children with ASD?
+●
+Is dietary intervention effective in children with ASD?
+●
+Is pharmacological therapy (antipsychotics, SSRI, TCA,
+methylphenidate, divalproate sodium) effective and safe for
+children with ASD?
+●
+Is TCM (chelation, secretin, fatty acids, melatonin, vitamin B12,
+HBOT, vitamin B6- Mg) safe and efficacious treatment for ASD?
+7.
+Monitoring and Preparation of Transition to Adult services?
+●
+What are the services are available for children with ASD in the
+transition into adulthood?
+Appendix 3
+Modified Checklist for Autism in Toddlers (M-CHAT)
+Name:
+Rated by: Mother / Father / Carer /
+Nurse / Doctor
+Date of Birth: Age:
+Date of Evaluation:
+IC/MIC:
+Location (Clinic):
+Notes:
+● Source: Robins D, Fein D, Barton M, Green JA. The Modified Checklist for
+Autism in Toddlers (M-CHAT): an initial investigation in the early detection
+of autism and pervasive developmental disorders. J Autism Dev Disord.
+2001, 31:131–144.
+● Translated into Malay by Ministry of Health for use in screening
+● Valid for children aged 16 - 30 months
+● Clinical use should proceed with caution, given that the current scoring
+system is designed to maximize sensitivity (i.e., identify as many children
+with autism spectrum disorders (ASD) as possible, which results in a
+number of false positive cases).
+● The M-CHAT is not designed to detect all possible developmental
+disorders. Any parent who has concerns about their child should see their
+child’s doctor regardless on the child’s score on the M-CHAT.
+Instructions:
+Sila jawab soalan berikut (item 1 - 23). Cuba menjawab semua soalan.
+Sekiranya anda mengalami masalah untuk menjawab mana-mana soalan,
+sila rujuk kepada jururawat.
+Please fill out the following (item 1-23) about how your child usually is. Please
+try to answer every question. Contact the Nurses shall you have any queries.
+If the behaviour is rare (e.g., you have seen it once or twice), please answer
+as if the child does not do it.
+Jawab SEMUA soalan. Bulatkan jawapan yang sesuai.
+Answer ALL questions. Circle the appropriate answer.
+1.
+Adakah anak anda seronok apabila ditimang,
+dibuai atau dihenjut atas kaki / paha dan
+sebagainya?
+Does your child enjoy being swung, bounced on
+your knee, etc?
+Ya / Yes
+Tidak / No
+2.
+Adakah anak anda menunjukkan minat
+terhadap kanak-kanak lain? (contohnya
+bergaul, bermain, berkawan)
+Does your child take an interest in other
+children?
+Ya / Yes
+Tidak / No
+3.
+Adakah anak anda suka memanjat, contohnya
+tangga, kerusi, meja dan lain-lain?
+Does your child like climbing on things, such as
+up stairs?
+Ya / Yes
+Tidak / No
+4.
+Adakah anak anda seronok bermain “cak-cak”
+atau main sorok-sorok?
+Does your child enjoy playing peek-a-boo or hide
+and seek?
+Ya / Yes
+Tidak / No
+5.
+Adakah anak anda pernah bermain-main olokolok / berlakon, contohnya menelefon, bermain
+anak patung atau bermain masak-masak dan
+sebagainya?
+Does your child ever pretend for example to talk
+on the phone or take care of dolls or pretend
+other things?
+Ya / Yes
+Tidak / No
+6.
+Adakah anak anda pernah menunjuk
+menggunakan jari telunjuk untuk meminta
+sesuatu?
+Does your child ever use his / her index finger to
+point, to ask for something?
+Ya / Yes
+Tidak / No
+7.
+Adakah anak anda pernah menunjuk /
+menggunakan jari telunjuk terhadap sesuatu
+yang menarik minatnya?
+Does your child ever use his / her index finger
+to point, to indicate interest in something?
+Ya / Yes
+Tidak / No
+8.
+Bolehkah anak anda bermain dengan alat
+permainan yang kecil dengan betul, selain dari
+memasukkannya ke dalam mulut, membelekbelek atau menjatuhkan permainan itu?
+(contohnya kiub, kereta kecil, dan lain-lain)
+Can your child play properly with small toys
+without just mouthing, fiddling or dropping them?
+Ya / Yes
+Tidak / No
+9.
+Pernahkah anak anda membawa objek /
+benda dan menunjukannya kepada anda?
+Does your child ever bring objects over to
+you (parent) to show you something?
+Ya / Yes
+Tidak / No
+10.
+Adakah anak anda bertentang mata dengan
+anda lebih daripada dua saat?
+Does your child look you in the eye for more than
+a second or two?
+Ya / Yes
+Tidak / No
+11.
+Pernahkah anak anda kelihatan seperti sangat
+sensitif / terganggu terhadap bunyi bising
+(contohnya: menutup telinga)?
+Does your child ever seem oversensitive to
+noise? (e.g. plugging ears)
+Ya / Yes
+Tidak / No
+12.
+Adakah anak anda senyum bila melihat anda
+atau membalas senyuman anda?
+Does your child smile in response to your face or
+your smile?
+Ya / Yes
+Tidak / No
+13.
+Adakah anak anda meniru perlakuan anda
+(contohnya meniru mimik muka anda dan
+sebagainya)?
+Does your child imitate you? (e.g. if you make
+a face will your child imitate it?)
+Ya / Yes
+Tidak / No
+14.
+Adakah anak anda bertindak balas apabila
+namanya dipanggil?
+Does your child respond to his / her name
+when you call?
+Ya / Yes
+Tidak / No
+15.
+Sekiranya anda menunjuk pada alat
+permainan yang jauh dari anda, adakah anak
+anda akan melihat kepada alat permainan
+tersebut?
+If you point at a toy across the room, does
+your child look at it?
+Ya / Yes
+Tidak / No
+16.
+Bolehkah anak anda berjalan?
+Does your child walk?
+Ya / Yes
+Tidak / No
+17.
+Adakah anak anda akan melihat pada benda
+yang sedang anda lihat?
+Does your child look at things you are looking at?
+Ya / Yes
+Tidak / No
+18.
+Adakah anak anda membuat pergerakan jari
+yang ganjil / pelik dekat mukanya?
+Does your child make unusual finger movements
+near his / her face?
+Ya / Yes
+Tidak / No
+19.
+Adakah anak anda cuba menarik perhatian anda
+terhadap aktiviti yang dilakukannya?
+Does your child try to attract your attention to his
+/ her own activity?
+Ya / Yes
+Tidak / No
+20.
+Pernahkah anda terfikir bahawa anak anda ada
+masalah pendengaran?
+Have you ever wondered if your child is deaf?
+Ya / Yes
+Tidak / No
+21.
+Adakah anak anda dapat memahami percakapan
+orang?
+Does your child understand what people say?
+Ya / Yes
+Tidak / No
+22.
+Adakah anak anda kadang-kala kelihatan
+termenung atau merayau / berjalan tanpa
+tujuan?
+Does your child sometimes stare at nothing or
+wander with no purpose?
+Ya / Yes
+Tidak / No
+23.
+Adakah anak anda memandang ke muka anda
+untuk melihat reaksi / tindakabalas anda apabila
+ia menghadapi sesuatu yang baru atau luar
+biasa?
+Does your child look at your face to check your
+reaction when faced with something unfamiliar?
+Ya / Yes
+Tidak / No
+Outcome of M-CHAT
+Critical items failed:__________ Total items failed:___________
+M-CHAT: Passed / Failed
+1. Tidak / No
+6. Tidak / No
+11. Ya / Yes
+16. Tidak / No
+21. Tidak / No
+2. Tidak / No
+7. Tidak / No 12. Tidak / No
+17. Tidak / No
+22. Ya / Yes
+3. Tidak / No
+8. Tidak / No
+13. Tidak / No
+18. Ya / Yes
+23. Tidak / No
+4. Tidak / No
+9. Tidak / No 14. Tidak / No
+19. Tidak / No
+5. Tidak / No
+10. Tidak / No
+15. Tidak / No
+20. Ya / Yes
+Scoring:
+● The bold items are critical: i.e. 2, 7, 9, 13, 14, 15
+● A child requires referral (i.e. fail M-CHAT) for further evaluation if he / she
+fulfills the following:
+●
+2 or more of critical items
+●
+3 or more of any items
+Not all children who fail the checklist will meet criteria for a diagnosis
+on the autism spectrum disorder (ASD). However children who fail the
+checklist should be evaluated in more depth by the relevent specialist.
+Appendix 4
+Diagnostic Criteria for Autistic Disorder in the Diagnostic and
+Statistical Manual of Mental Disorders, Fourth Edition, Text Revision
+(DSM-IV-TR)
+The essential features of Autistic Disorder are the presence of markedly
+abnormal or impaired development in social interaction and communication
+and a markedly restricted repertoire of activity and interests. Manifestations
+of the disorder vary greatly depending on the developmental level and
+chronological age of the individual. Autistic Disorder is sometimes referred to
+as early infantile autism, childhood autism, or Kanner’s autism.
+A.
+A total of six (or more) items from 1, 2, and 3, with at least two from 1,
+and one each from 2 and 3:
+1.
+Qualitative impairment in social interaction, as manifested by at least
+two of the following:
+a.
+marked impairment in the use of multiple nonverbal behaviours
+such as eye-to-eye gaze, facial expression, body postures, and
+gestures to regulate social interaction
+b.
+failure to develop peer relationships appropriate to developmental
+level
+c.
+a lack of spontaneous seeking to share enjoyment, interests,
+or achievements with other people (for example, by a lack of
+showing, bringing, or pointing out objects of interest)
+d.
+lack of social or emotional reciprocity
+2.
+Qualitative impairments in communication as manifested by at least
+one of the following:
+a.
+delay in or total lack of, the development of spoken language (not
+accompanied by an attempt to compensate through alternative
+modes of communication such as
+gestures or mime)
+b.
+in individuals with adequate speech, marked impairment in the
+ability to initiate or sustain a conversation with others
+c.
+stereotyped and repetitive use of language or idiosyncratic
+language
+d.
+lack of varied, spontaneous make-believe play or social imitative
+play appropriate to developmental level
+3.
+Restricted, repetitive, and stereotyped patterns of behaviour, interests,
+and activities, as manifested by at least one of the following:
+a.
+encompassing preoccupation with one or more stereotyped and
+restricted patterns of interest that is abnormal either in intensity or
+focus
+b. apparently inflexible adherence to specific, non-functional
+routines or rituals
+c. stereotyped and repetitive motor mannerisms (for example, hand
+or finger flapping or twisting, or complex whole-body movements)
+d.
+persistent preoccupation with parts of objects
+B.
+Delays or abnormal functioning in at least one of the following areas,
+with onset prior to age 3 years: (1) social interaction, (2) language as
+used in social communication, or (3) symbolic or imaginative play.
+C.
+The disturbance is not better accounted for by Rett’s Disorder or
+Childhood Disintegrative Disorder.
+(Adapted from the Diagnostic and Statistical Manual of Mental Disorder, Fourth Edition, Text
+Revision: DSM-IV-TR. Washington D.C.: American Psychiatric Association; 2000)
+Appendix 5
+Diagnostic Criteria for Autism Spectrum Disorder in the Diagnostic and
+Statistical Manual of Mental Disorder, Fifth Edition (DSM-5)
+Autism Spectrum Disorder 299.00 (F84.0)
+Diagnostic Criteria
+A.
+Persistent deficits in social communication and social interaction across
+multiple contexts, as manifested by the following, currently or by
+history (examples are illustrative, not exhaustive; see text):
+1. Deficits in social-emotional reciprocity, ranging, for example, from
+abnormal social approach and failure of normal back-and-forth
+conversation; to reduced sharing of interests, emotions, or affect; to
+failure to initiate or respond to social interactions.
+2. Deficits in nonverbal communicative behaviours used for social
+interaction, ranging, for example, from poorly integrated verbal and
+nonverbal communication; to abnormalities in eye contact and body
+language or deficits in understanding and use of gestures: to a total
+lack of facial expressions and nonverbal communication.
+3. Deficits in developing, maintaining, and understanding relationships,
+ranging, for example, from difficulties adjusting behaviour to suit
+various social contexts; to difficulties in sharing imaginative play or
+in making friends; to absence of interest in peers.
+Specify current severity: Severity is based on social communication
+impairments and restricted, repetitive patterns of behaviour (refer to table
+below).
+B.
+Restricted, repetitive patterns of behaviour, interests, or activities,
+as manifested by at least two of the following, currently or by history
+(examples are illustrative, not exhaustive; see text):
+1. Stereotyped or repetitive motor movements, use of objects, or
+speech (e.g., simple motor stereotypies, lining up toys or flipping
+objects, echolalia, idiosyncratic phrases).
+2. Insistence on sameness, inflexible adherence to routines, or
+ritualized patterns of verbal or nonverbal behaviour (e.g., extreme
+distress at small changes, difficulties with transitions, rigid thinking
+patterns, greeting rituals, need to take same route or eat same food
+every day).
+3. Highly restricted, fixated interests that are abnormal in intensity or
+focus (e.g., strong attachment to or preoccupation with unusual
+objects, excessively circumscribed or perseverative interests).
+4. Hyper- or hypo-reactivity to sensory input or unusual interest in
+sensory aspects of the environment (e.g., apparent indifference to
+pain / temperature, adverse response to specific sounds or textures,
+excessive smelling or touching of objects, visual fascination with
+lights or movement).
+Specify current severity: Severity is based on social communication
+impairments and restricted, repetitive patterns of behaviour (refer to table
+below).
+C.
+Symptoms must be present in the early developmental period (but
+may not become fully manifest until social demands exceed limited
+capacities, or may be masked by learned strategies in later life).
+D.
+Symptoms cause clinically significant impairment in social, occupational,
+or other important areas of current functioning.
+E.
+These disturbances are not better explained by intellectual disability
+(intellectual developmental disorder) or global developmental delay.
+Intellectual disability and autism spectrum disorder frequently cooccur; to make comorbid diagnoses of autism spectrum d i s o r d e r
+and intellectual disability, social communication should be below that
+expected for general developmental level.
+Note: Individuals with a well-established DSM-IV diagnosis of autistic disorder,
+Asperger’s disorder, or pervasive developmental disorder not otherwise
+specified should be given the diagnosis of autism spectrum disorder.
+Individuals who have marked deficits in social communication, but whose
+symptoms do not otherwise meet criteria for autism spectrum disorder, should
+be evaluated for social (pragmatic) communication disorder.
+Specify if;
+With or without accompanying intellectual impairment
+With or without accompanying language impairment
+Associated with a known medical or genetic condition or
+environmental factor (Coding note: Use additional code to identify
+the associated medical or genetic condition.)
+Associated with another neurodevelopmental, mental, or
+behavioural disorder (Coding note: Use additional code[s] to
+identify the associated neuro-developmental, mental, or behavioural
+disorder[s].)
+With catatonia (refer to the criteria for catatonia associated with
+another mental disorder, pp. 119-120, for definition) (Coding note:
+Use additional code 293.89 [F06.1] catatonia associated with autism
+spectrum disorder to indicate the presence of the comorbid catatonia).
+Severity levels for autism spectrum disorder
+Severity level
+Social communication
+Restricted,
+repetitive
+behaviours
+Level 3
+“Requiring very
+substantial
+support”
+Severe deficits in verbal
+and nonverbal social
+communication skills cause
+severe impairments in
+functioning, very limited
+initiation of social interactions,
+and minimal response to
+social overtures from others.
+For example, a person with
+few words of intelligible
+speech who rarely initiates
+interaction and, when he or
+she does, makes unusual
+approaches to meet needs
+only and responds to only very
+direct social approaches
+Inflexibility of behaviour,
+extreme difficulty coping
+with change, or other
+restricted/repetitive
+behaviours markedly
+interfere with functioning in
+all spheres. Great distress/
+difficulty changing focus or
+action.
+Level 2
+“Requiring
+substantial
+support”
+Marked deficits in verbal
+and nonverbal social
+communication skills; social
+impairments apparent even
+with supports in place; limited
+initiation of social interactions;
+and reduced or abnormal
+responses to social overtures
+from others. For example, a
+person who speaks simple
+sentences, whose interaction
+is limited to narrow special
+interests, and who has
+markedly odd nonverbal
+communication.
+Inflexibility of behaviour,
+difficulty coping with
+change, or other restricted/
+repetitive behaviours
+appear frequently enough
+to be obvious to the casual
+observer and interfere with
+functioning in a variety of
+contexts. Distress and/or
+difficulty changing focus or
+action.
+Level 1
+“Requiring support”
+Without supports in
+place, deficits in social
+communication cause
+noticeable impairments.
+Difficulty initiating social
+interactions, and clear
+examples of atypical or
+unsuccessful responses to
+social overtures of others. May
+appear to have decreased
+interest in social interactions.
+For example, a person
+who is able to speak in full
+sentences and engages in
+communication but whose
+to-and-fro conversation
+with others fails, and whose
+attempts to make friends
+are odd and typically
+unsuccessful.
+Inflexibility of behaviour
+causes significant
+interference with functioning
+in one or more contexts.
+Difficulty switching between
+activities. Problems of
+organization and planning
+hamper independence.
+(Adapted from the Diagnostic and Statistical Manual of Mental Disorder, Fifth Edition: DSM-5.
+Washington D.C.: American Psychiatric Association; 2014)
+Appendix 6
+International Classification of Diseases (ICD) 10
+F84 Pervasive Developmental Disorders
+F84.0 Childhood autism
+A.
+Presence of abnormal or impaired development before the age of three
+years, in at least one out of the following areas:
+1. receptive or expressive language as used in social communication;
+2. the development of selective social attachments or of reciprocal
+social interaction;
+3. functional or symbolic play.
+B
+Qualitative abnormalities in reciprocal social interaction, manifest in at
+least one of the following areas:
+1. failure adequately to use eye-to-eye gaze, facial expression, body
+posture and gesture to regulate social interaction;
+2. failure to develop (in a manner appropriate to mental age, and
+despite ample opportunities) peer relationships that involve a mutual
+sharing of interests, activities and emotions;
+3. A lack of socio-emotional reciprocity as shown by an impaired or
+deviant response to other people’s emotions; or lack of modulation
+of behaviour according to social context, or a weak integration of
+social, emotional and communicative behaviours.
+C.
+Qualitative abnormalities in communication, manifest in at least two of
+the following areas:
+1. a delay in, or total lack of development of spoken language that
+is not accompanied by an attempt to compensate through the use
+of gesture or mime as alternative modes of communication (often
+preceded by a lack of communicative babbling);
+2. relative failure to initiate or sustain conversational interchange (at
+whatever level of language skills are present) in which there is
+reciprocal to and from responsiveness to the communications of the
+other person;
+3. stereotyped and repetitive use of language or idiosyncratic use of
+words or phrases;
+4. abnormalities in pitch, stress, rate, rhythm and intonation of speech.
+D.
+Restricted, repetitive, and stereotyped patterns of behaviour, interests
+and activities, manifest in at least two of the following areas:
+1. an encompassing preoccupation with one or more stereotyped
+and restricted patterns of interest that are abnormal in content or
+focus; or one or more interests that are abnormal in their intensity
+and circumscribed nature although not abnormal in their content or
+focus;
+2. apparently compulsive adherence to specific, non-functional,
+routines or rituals;
+3. stereotyped and repetitive motor mannerisms that involve either hand
+or finger flapping or twisting, or complex whole body movements;
+4. preoccupations with part-objects or non-functional elements of play
+materials (such as their odour, the feel of their surface, or the noise
+or vibration that they generate);
+5. distress over changes in small, non-functional, details of the
+environment.
+E.
+The clinical picture is not attributable to the other varieties of pervasive
+developmental disorder; specific developmental disorder of receptive
+language (F80.2) with secondary socio-emotional problems; reactive
+attachment disorder (F94.1) or disinhibited attachment disorder (F94.2);
+mental retardation (F70 - F72) with some associated emotional or
+behavioural disorder; schizophrenia (F20) of unusually early onset;
+and Rett’s syndrome (F84.2).
+F84.1 Atypical autism
+A.
+Presence of abnormal or impaired development at or after age three
+years (criteria as for autism except for age of manifestation).
+B.
+Qualitative abnormalities in reciprocal social interaction or in
+communication, or restricted, repetitive and stereotyped patterns of
+behaviour, interests and activities (criteria as for autism except that
+it is not necessary to meet the criteria in terms of number of areas
+of abnormality).
+C. The disorder does not meet the diagnostic criteria for autism (F84.0).
+Autism may be atypical in either age of onset (F84.11) or
+phenomenology (84.12), these two types being differentiated with a
+fifth character for research purposes. Syndromes that are atypical
+in both respects should be coded F84.12.
+F84.5 Asperger’s syndrome
+A.
+A lack of any clinically significant general delay in spoken or receptive
+language or cognitive development.
+Diagnosis requires that single words should have developed by two
+years of age or earlier and that communicative phrases be used by
+three years of age or earlier. Self-help skills, adaptive behaviour and
+curiosity about the environment during the first three years should be
+at a level consistent with normal intellectual development. However,
+motor milestones may be somewhat delayed and motor clumsiness is
+usual (although not a necessary diagnostic feature). Isolated special
+skills, often related to abnormal preoccupations, are common, but
+are not required for diagnosis.
+B.
+Qualitative abnormalities in reciprocal social interaction (criteria as
+for autism).
+C.
+An unusually intense circumscribed interest or restricted, repetitive,
+and stereotyped patterns of behaviour, interests and activities
+(criteria as for autism; however it would be less usual for these to
+include either motor mannerisms or preoccupations with part- objects
+or non-functional elements of play materials).
+D.
+The disorder is not attributable to the other varieties of pervasive
+developmental disorder; schizotypal disorder (F21); simple
+schizophrenia (F20.6); reactive and disinhibited attachment disorder
+of childhood (F94.1 and .2); obsessional personality disorder (F60.5);
+obsessive-compulsive disorder (F42).
+(Adapted from the ICD-10 Classification of Mental and Behavioural Disorders: Diagnostic Criteria
+for Research. Geneva: World Health Organization; 1993)
+Appendix 7
+Signs and symptoms of possible autism in preschool children
+(or equivalent mental age)
+Social interaction and reciprocal communication behaviours
+Spoken language
+● Language delay (in babble or words, for example less than ten words by the age
+of 2 years)
+● Regression in or loss of use of speech
+● Spoken language (if present) may include unusual:
+● non-speech like vocalisations
+● odd or flat intonation
+● frequent repetition of set words and phrases (‘echolalia’)
+● reference to self by name* or “you” or “she / he” beyond 3 years
+● Reduced and/or infrequent use of language for communication, for example
+use of single words although able to speak in sentences
+*Part of the spoken language section may not be applicable to local setting
+Responding to others
+● Absent or delayed response to name being called, despite normal hearing
+● Reduced or absent responsive social smiling
+●
+Reduced or absent responsiveness to other people’s facial expressions or
+feelings
+●
+Unusually negative response to the requests of others (demand avoidant
+behaviour)
+● Rejection of cuddles initiated by parent or carer, although may initiate cuddles
+themselves
+Interacting with others
+●
+Reduced or absent awareness of personal space, or unusually intolerant of
+people entering their personal space
+●
+Reduced or absent social interest in others, including children of his/her own age
+– may reject others; if interested in others, may approach others inappropriately,
+seeming to be aggressive or disruptive
+●
+Reduced or absent imitation of others’ actions
+●
+Reduced or absent initiation of social play with others, plays alone
+●
+Reduced or absent enjoyment of situations that most children like, for example,
+birthday parties
+●
+Reduced or absent sharing of enjoyment
+Eye contact, pointing and other gestures
+●
+Reduced or absent use of gestures and facial expressions to communicate
+(although may place adult’s hand on objects)
+●
+Reduced and poorly integrated gestures, facial expressions, body orientation,
+eye contact (looking at people’s eyes when speaking) and speech used in social
+communication
+●
+Reduced or absent social use of eye contact assuming adequate vision
+●
+Reduced or absent joint attention shown by lack of:
+● gaze switching
+● following a point (looking where the other person points to – may look at
+hand)
+● using pointing at or showing objects to share interest
+Ideas and imagination
+●
+Reduced or absent imagination and variety of pretend play
+Unusual or restricted interests and/or rigid and repetitive behaviours
+● Repetitive ‘stereotypical’ movements such as hand flapping, body rocking while
+standing, spinning, finger-flicking
+●
+Repetitive or stereotyped play, for example opening and closing doors
+● Over-focused or unusual interests
+● Excessive insistence on following own agenda
+● Extremes of emotional reactivity to change or new situations, insistence on
+things being ‘the same’
+● Over or under reaction to sensory stimuli, for example textures, sounds, smells
+● Excessive reaction to taste, smell, texture or appearance of food or extreme
+food fads
+Signs and symptoms of possible autism in primary school children
+(aged 5 – 11 years or equivalent mental age)23
+Social interaction and reciprocal communication behaviours
+Spoken language
+●
+Spoken language may be unusual in several ways:
+● very limited use
+● monotonous tone
+● repetitive speech, frequent use of stereotyped (learnt) phrases, content
+dominated by excessive
+● information on topics of own interest
+● talking ‘at’ others rather than sharing a two-way conversation
+● responses to others can seem rude or inappropriate
+Responding to others
+●
+Reduced or absent response to other people’s facial expressions or feelings
+● Reduced or delayed response to name being called, despite normal hearing
+● Subtle difficulties in understanding other’s intentions; may take things literally
+and misunderstand sarcasm or metaphor
+● Unusually negative response to the requests of others (demand avoidant
+behaviour)
+Interacting with others
+●
+Reduced or absent awareness of personal space, or unusually intolerant of
+people entering their personal space
+●
+Reduced or absent social interest in people, including children of his/her own age
+– may reject others; if interested in others, may approach others inappropriately,
+seeming to be aggressive or disruptive
+●
+Reduced or absent greeting and farewell behaviours
+●
+Reduced or absent awareness of socially expected behaviour
+●
+Reduced or absent ability to share in the social play or ideas of others, plays
+alone
+●
+Unable to adapt style of communication to social situations, for example may be
+overly formal or inappropriately familiar
+●
+Reduced or absent enjoyment of situations that most children like
+Eye contact, pointing and other gestures
+● Reduced and poorly integrated gestures, facial expressions and body
+orientation, eye contact (looking at people’s eyes when speaking), and speech
+used in social communication
+● Reduced or absent social use of eye contact assuming adequate vision
+● Reduced or absent joint attention shown by lack of:
+● gaze switching
+● following a point (looking where the other person points to – may look at
+hand)
+● using pointing at or showing objects to share interest
+Ideas and imagination
+● Reduced or absent flexible imaginative play or creativity, although scenes seen
+on visual media (for example, television) may be re-enacted
+● Makes comments without awareness of social niceties or hierarch
+Unusual or restricted interests and/or rigid and repetitive behaviours
+● Repetitive “stereotypical” movements such as hand flapping, body rocking while
+standing, spinning, finger-flicking
+● Play repetitive and oriented towards objects rather than people
+●
+Over-focused or unusual interests
+● Rigid expectation that other children should adhere to rules of play
+● Excessive insistence on following own agenda
+● Extremes of emotional reactivity that are excessive for the circumstances
+● Strong preferences for familiar routines and things being ‘just right’
+● Dislike of change, which often leads to anxiety or other forms of distress
+(including aggression)
+● Over or under reaction to sensory stimuli, for example textures, sounds, smells
+● Excessive reaction to taste, smell, texture or appearance of food or extreme
+food fads
+Other factors that may support a concern about autism
+● Unusual profile of skills or deficits (for example, social or motor coordination skills
+poorly developed, while particular areas of knowledge, reading or vocabulary
+skills are advanced for chronological or mental age)
+● Social and emotional development more immature than other areas of
+development, excessive trusting (naivety), lack of common sense, less
+independent than peers
+Signs and symptoms of possible autism in secondary school children
+(older than 11 years or equivalent mental age) 23
+Social interaction and reciprocal communication behaviours
+Spoken language
+● Spoken language may be unusual in several ways:
+● very limited use
+● monotonous tone
+● repetitive speech, frequent use of stereotyped (learnt) phrases, content
+dominated by excessive
+● information on topics of own interest
+● talking “at” others rather than sharing a two-way conversation
+● responses to others can seem rude or inappropriate
+Interacting with others
+● Reduced or absent awareness of personal space, or unusually intolerant of
+people entering their personal space
+● Long-standing difficulties in reciprocal social communication and interaction:
+few close friends or reciprocal relationships
+● Reduced or absent understanding of friendship; often an unsuccessful desire to
+have friends (although may find it easier with adults or younger children),
+● Social isolation and apparent preference for aloneness
+● Reduced or absent greeting and farewell behaviours
+● Lack of awareness and understanding of socially expected behaviour
+● Problems losing at games, turn-taking and understanding ‘changing the “rules”
+● May appear unaware or uninterested in what other young people his or her age
+are interested in
+● Unable to adapt style of communication to social situations, for example may be
+overly formal or inappropriately familiar
+● Subtle difficulties in understanding other’s intentions; may take things literally
+and misunderstand sarcasm or metaphor
+● Makes comments without awareness of social niceties or hierarchies
+● Unusually negative response to the requests of others (demand avoidant
+behaviour)
+Eye contact, pointing and other gestures
+● Poorly integrated gestures, facial expressions, body orientation, eye contact
+(looking at people’s eyes when speaking) assuming adequate vision, and
+spoken language used in social communication
+Ideas and imagination
+● History of a lack of flexible social imaginative play and creativity, although
+scenes seen on visual media(for example, television) may be re-enacted
+● Unusual or restricted interests and/or rigid and repetitive behaviours
+● Repetitive “stereotypical” movements such as hand flapping, body rocking while
+standing, spinning, finger-flicking
+● Preference for highly specific interests or hobbies
+● A strong adherence to rules or fairness that leads to argument
+● Highly repetitive behaviours or rituals that negatively affect the young person’s
+daily activities
+● Excessive emotional distress at what seems trivial to others, for example
+change in routine
+● Dislike of change, which often leads to anxiety or other forms of distress
+including aggression
+● Over or under reaction to sensory stimuli, for example textures, sounds, smells
+● Excessive reaction to taste, smell, texture or appearance of food and/or extreme
+food fad
+Other factors that may support a concern about autism
+● Unusual profile of skills and deficits (for example, social or motor coordination
+skills poorly developed, while particular areas of knowledge, reading or
+vocabulary skills are advanced for chronological or mental age)
+●
+Social and emotional development more immature than other areas of
+development, excessive trusting (naivety), lack of common sense, less
+independent than peers
+Appendix 8
+Diagnostic Tools
+Diagnostic Tool
+Description
+Sensitivity
+Specificity
+Comments
+Autism Diagnostic
+Interview-Revised
+(ADI-R) 122, level III
+● Structured
+interview
+conducted with
+the parents/
+carers of
+individuals for
+assessment of
+ASD.
+● It is used for
+diagnostic
+purposes for
+anyone with a
+mental age of at
+least 18 months.
+● The interview
+measures
+behaviour in
+the areas of
+reciprocal social
+interaction,
+communication
+and language,
+and patterns of
+behaviour
+1.0
+> 0.97
+● The levels of
+agreement
+between the
+ADI-R and
+ADOS is
+moderate
+in social
+(k=0.56) and
+communication
+(k=0.48)
+algorithm cutoffs scores.
+● The level of
+agreement
+between the
+ADI-R and
+ADOS is
+substantial in
+diagnosing
+autism (k=0.62)
+and moderate
+for spectrum
+diagnosis
+(k=0.54).
+Diagnostic Interview
+for Social and
+Communication
+Disorders (DISCO)
+123, level II-3
+● Semi-structured
+interview used
+by the parents/
+carers to identify
+the impairments
+of social
+interaction, social
+communication
+and social
+imagination
+together with
+the associated
+repetitive
+behaviours
+0.80
+0.79
+● DISCO
+accurately
+identify ASD in
+young children
+with an average
+intelligence or
+mild intellectual
+disability
+● The agreement
+between DISCO
+algorithm and
+ADOS was
+substantial
+(k=0.69,
+p < 0.001).
+Diagnostic Tool
+Description
+Sensitivity
+Specificity
+Comments
+Childhood Autism
+Rating Scale (CARS)
+124, level II-2
+● Consists of
+14 domains
+assessing
+behaviours
+associated with
+autism, with the
+15th domain
+rating general
+impressions of
+autism.
+● Each domain
+is scored on a
+scale ranging
+from one to four;
+higher scores are
+associated with
+a higher level of
+impairment.
+● Scores below 30
+indicate that the
+individual is in
+non-autistic
+range.
+2 years
+old: 0.79
+4 years
+old: 0.86
+2 years
+old: 0.81
+4 years
+old: 0.80
+● In younger
+children, CARS
+is useful to
+distinguish ASD
+from pervasive
+developmental
+disorder not
+otherwise
+specified (PDDNOS).
+● Using an ASD
+cut-off score
+of 25.5, CARS
+produced the
+highest level
+of agreement
+among
+diagnostic
+instruments
+and clinical
+judgement:
+● 2 years old:
+● CARS
+and
+DSM-IV,
+k=0.75,
+p < 0.001
+● CARS
+and
+ADOS,
+k=0.70,
+p < 0.001
+● 4 years old:
+● CARS
+and
+DSM IV,
+k=0.74,
+p < 0.001
+● CARS
+and
+ADOS,
+k=0.73,
+p < 0.001
+Diagnostic Tool
+Description
+Sensitivity
+Specificity
+Comments
+Autism Diagnostic
+Observation
+Schedule (ADOS)
+125, level III, 126 , level II-2
+● Semi-structured
+assessment of
+communication,
+social interaction
+and play (or
+imaginative use
+of materials)
+for individuals
+suspected of
+having ASD.
+● Consists of
+four modules,
+each of which
+is appropriate
+for children and
+adults of differing
+developmental
+and language
+levels, ranging
+from nonverbal to
+verbally-fluent.
+0.82
+0.60
+● The prevalence
+of bestestimate clinical
+diagnosis at
+nine years is
+43% for ADOS
+alone, 82%
+when combined
+with clinical
+judgement and
+90% when
+combined with
+both clinical
+judgement and
+ADI-R.
+LIST OF ABBREVIATIONS
+3Di
+Developmental, Dimensional and Diagnostic Interview
+ABA
+Applied Behaviour Analysis
+AAC
+Augmentative and Alternative Communication
+AAP
+Atypical antipsychotics
+ABR
+Auditory Brainstem Evoked Response
+ADHD
+Attention Deficit Hyperactivity Disorder
+ADI-R
+Autism Diagnostic Interview- Revised
+ADOS
+The Autism Diagnostic Observation Schedule
+AGREE
+Appraisal of Guidelines for Research and Evaluation
+AR
+Acoustic Reflexes
+ASD
+Autism Spectrum Disorder
+ASSQ
+Autism Spectrum Screening Questionnaire
+ASDS
+Asperger Syndrome Diagnostic Scale
+CARS
+Childhood Autism Rating Scale
+CBCL
+Child Behaviour Checklist
+CDSR
+Cochrane Database of Systematic Reviews
+CI
+Confidence Interval
+CGI
+Clinical Global Impression
+CHAT
+Checklist for Autism in Toddlers
+CHAT-23
+Checklist for Autism in Toddlers for Chinese Children
+CPG
+Clinical Practice Guidelines
+Db
+Decibel
+DCD
+Developmental Coordination Disorder
+DIR
+Developmental, Individual-Difference, Relationship-Based
+DISCO
+the Diagnostic Interview for Social and Communication Disorders
+DG
+Development Group
+DSM-IV-TR
+Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition,
+Text Revision
+DSM-5
+Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition
+EEG
+Electroencephalography
+ES
+Effect Size
+GARS
+Gilliam Autism Rating Scale
+GARS-2
+Gilliam Autism Rating Scale Second Edition
+G-I-N
+Guidelines International Network
+ICD-10
+International Classification of Diseases
+IQ
+Intelligence Quotient
+IRD
+Improvement Rate Difference
+MaHTAS
+Malaysia Health Technology Assessment Section
+M-CHAT
+Modified Checklist for Autism in Toddlers
+MD
+Mean Difference
+MDT
+Multidisciplinary Team
+MMR
+Measles, Mumps, Rubella
+MOH
+Ministry of Health
+OCD
+Obsessive Compulsive Disorder
+ODD
+Oppositional Defiant Disorder
+OT
+Occupational Therapy
+OR
+Odd Ratio
+P
+p value
+PDD
+Pervasive Developmental Disorder
+PDD-NOS
+Pervasive Developmental Disorder Not Otherwise Specified
+PECS
+Picture Exchange Communication System
+PND
+Percentage of Non-overlapping Data
+PPV
+Positive Predictive Value
+RC
+Review Committee
+RCT
+Randomised Controlled Trial
+RIT
+Reciprocal Imitation Training
+RPMT
+Responsive Education and Prelinguistic Milieu Teaching
+RR
+Risk Ratio
+SCI
+Social Communication Intervention
+SCQ
+Social Communication Questionnaire
+SMD
+Standard Mean Difference
+SIT
+Sensory Integration Therapy
+SR
+Systematic Review
+SRS
+Social Responsiveness Scale
+SSRI
+Selective Serotonin Reuptake Inhibitors
+SGD
+Speech Generating Device
+TEOAE
+Transient Evoked Otoacoustic Emissions
+TEACCH
+Treatment and Education of Autistic and Related Communication
+Handicapped Children
+TCA
+Tricyclic Antidepressants
+WMD
+Weighted Mean Difference
+Acknowledgement
+The members of the Development Group of the CPG would like to express
+their gratitude and appreciation to the following for their contributions:
+●
+Panel of external reviewers who reviewed the draft
+●
+Ms. Loong Ah Moi – Nursing officer / Information Specialist, MaHTAS,
+Medical Development Division, Ministry of Health
+●
+Ms. Cheoh Siew Tin – Public Health Matron, who was involved in the
+early stage of development of the CPG
+●
+Technical Advisory Committee for CPG for their valuable input and
+feedback
+●
+All those who have contributed directly or indirectly to the development
+of the CPG
+●
+Mr. Wong Siew Tung for proof reading
+Disclosure Statement
+The panel members of both Development Group and Review Committee had
+completed disclosure forms. None held shares in pharmaceutical firms or acts
+as consultants to such firms. (Details are available upon request from the
+CPG Secretariat)
+Source of Funding
+The development of the CPG on Management of Autism Spectrum Disorder
+was supported financially in its entirety by the Ministry of Health Malaysia.

@@ -1,0 +1,4350 @@
+y 2024 MOH/P/PAK/567.24(GU}-2
+Clinical Practice Guidelines
+Management of
+OY manag in Adults
+Va (Second Edition)
+Management of Asthma In Adults (Second Edition)
+Published by:
+Malaysian Health Technology Assessment Section (MaHTAS)
+Medical Development Division, Ministry of Health Malaysia
+Level 4, Block E1, Precinct 1
+Federal Government Administrative Centre 62590
+Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is MaHTAS. Content may be
+reproduced in any number of copies and in any format or medium
+provided that a copyright acknowledgement to MaHTAS is included and
+the content is not changed, not sold, nor used to promote or endorse
+any product or service, and not used in an inappropriate or misleading
+context.
+eISBN: 978-967-2887-83-6
+Available on the following websites:
+http://www.moh.gov.my
+http://www.acadmed.org.my
+https://mymahtas.moh.gov.my
+STATEMENT OF INTENT
+These clinical practice guidelines (CPG) are meant to be guides for
+clinical practice, based on the best available evidence at the time of
+development. The guidelines should not override the responsibility of
+the practitioners to make decisions appropriate to the circumstances of
+the individual. This should be done in consultation with the patients and
+their families or guardians, taking into account the management options
+available locally.
+Management of Asthma In Adults (Second Edition)
+UPDATING THE CPG
+These guidelines were issued in 2024 and will be reviewed in a minimum
+period of four years (2028) or sooner if new evidence warrants earlier
+revision. When it is due for updating, the Chairperson of the CPG or
+National Advisor of the related specialty will be informed about it. A
+discussion will be done on the need for a revision including the scope of
+the revised CPG. A multidisciplinary team will be formed and the latest
+systematic review methodology used by MaHTAS will be employed.
+Every care is taken to ensure that this publication is correct in every
+detail at the time of publication. However, in the event of errors or
+omissions, corrections will be published in the web version of this
+document, which will be the definitive version at all time. This version
+can be found on the websites mentioned above.
+Management of Asthma In Adults (Second Edition)
+TABLE OF CONTENTS
+No.
+Title
+Page
+Levels of Evidence and Formulation of Recommendation
+i
+Key Recommendations
+ii
+Guidelines Development and Objectives
+iv
+Development Group
+viii
+Review Committee
+ix
+External Reviewers
+x
+Algorithm 1: Initiation of Asthma Treatment
+xi
+Algorithm 2: Step Up and Step Down Options in
+xii
+Management of Stable Asthma
+Algorithm 3: Management of Asthma Exacerbation
+xiii
+in Primary Care
+Algorithm 4: Management of Asthma Exacerbation in
+xiv
+Emergency Department
+1.
+INTRODUCTION
+1
+2.
+RISK FACTORS
+3
+3
+DIAGNOSIS
+4
+4.
+GENERAL PRINCIPLES
+8
+4.1 Treatment Goals
+8
+4.2 Initiating and Optimising Asthma Treatment
+8
+5.
+PATIENT EDUCATION AND SKILLS TRAINING
+12
+5.1 Asthma Information
+12
+5.2 Guided Self-Management
+13
+5.3 Skills Training on Effective Use of Inhaler Device
+15
+5.4 Adherence Improvement
+17
+5.5 Patient Education Modality
+19
+6.
+STABLE ASTHMA
+20
+6.1 Assessment of Stable Asthma
+20
+6.2 Treatment
+23
+6.2.1 Pharmacological Treatment
+24
+6.2.2 Non-pharmacological Treatment
+31
+7.
+ASTHMA EXACERBATION
+36
+7.1 Assessment
+36
+7.2 Treatment
+38
+7.3 Monitoring and Evaluation
+41
+7.4 Criteria for Admission
+42
+7.5 Criteria for Discharge
+Management of Asthma In Adults (Second Edition)
+TABLE OF CONTENTS
+No.
+Title
+Page
+8.
+SPECIAL GROUPS
+44
+8.1 Severe Asthma
+44
+8.2 Pregnancy and Breastfeeding
+49
+8.3 Occupational Asthma
+51
+8.4 Exercise-induced Bronchoconstriction
+53
+8.5 Asthma with comorbidities
+54
+8.6 Asthma and COVID-19
+56
+9.
+REFERRAL
+58
+10.
+IMPLEMENTING THE GUIDELINES
+58
+10.1 Facilitating and Limiting Factors
+58
+10.2 Potential Resource Implications
+59
+REFERENCES
+61
+Appendix 1. Example of Search Strategy
+66
+Appendix 2. Clinical Questions
+67
+Appendix 3. Peak Expiratory Flow Rate Variability
+69
+Appendix 4
+Peak Expiratory Flow Nomogram
+70
+Appendix 5. a. Suggested Asthma Action Plan Template
+73
+b. Suggested Asthma Action Plan Template - 72
+MART (Maintenance-And-Reliever
+Therapy)
+Appendix 6. Inhaler Devices and Techniques
+73
+Appendix 7. Test of Adherence to Inhalers (TAI)
+77
+- Soalan Ujian Pematuhan Alat Sedut
+Appendix 8. Asthma Control Test
+78
+Appendix 9. Common Medications in Asthma
+79
+Appendix 10. Algorithm for Biologic Therapy Selection
+87
+in Severe Asthma
+Appendix 11. Example of PEFR Calculation for
+88
+Occupational Asthma
+List of Abbreviations
+90
+Acknowledgement
+92
+Disclosure Statement
+92
+Source of Funding
+Management of Asthma In Adults (Second Edition)
+i
+Level
+I
+II-1
+II-2
+II-3
+III
+Study design
+Properly powered and conducted randomised controlled
+trial; well-conducted systematic review or meta-analysis of
+homogeneous randomised controlled trials
+Well-designed controlled trial without randomisation
+Well-designed cohort or case-control analysis study
+Multiple time series, with or without the intervention; results
+from uncontrolled studies that yield results of large magnitude
+Opinions of respected authorities, based on clinical experience;
+descriptive studies or case reports; reports of expert committees
+LEVELS OF EVIDENCE
+SOURCE: U.S. Preventive Services Task Force. U.S. Preventive Services Task Force Procedure
+Manual. Rockville, MD: USPSTF; 2015.
+FORMULATION OF RECOMMENDATION
+• In line with the new development in CPG methodology, the
+CPG Unit of MaHTAS is adapting Grading Recommendations,
+Assessment, Development and Evaluation (GRADE) in its
+work process. The quality of body of evidence and related effect
+size are carefully assessed/reviewed by the CPG DG.
+• Recommendations are formulated based on certainty of
+evidence and the wording used denotes the strength of
+recommendations. This takes into account:
+ quality and level of the evidence
+ balance of benefits and harms of the options
+ patient’s preference and values
+ resource implications
+ relevancy and applicability to the local target population
+• The more criteria being fulfilled, the more certain is the evidence
+leading to strong recommendations using the word “should”
+being considered. Otherwise, weak recommendations use the
+word “may” in proposing an action to be made.
+• In the CPG, a yellow box highlights important message(s) in
+the management while a blue box contains evidence-based
+recommendation(s) for the particular condition.
+Management of Asthma In Adults (Second Edition)
+ii
+KEY RECOMMENDATIONS
+The following recommendations are highlighted by the CPG
+Development Group as the key recommendations that answer the
+main questions addressed in the CPG and should be prioritised for
+implementation.
+Diagnosis
+• Diagnosis of asthma should be made based on typical clinical
+history, physical examination and evidence of airway obstruction
+variability. Spirometry is the preferred tool to demonstrate airway
+obstruction variability or reversibility.
+General Principles
+• The assessment of asthma control should be performed before
+considering stepping up or down the treatment.
+Patient Education
+• Regular medical reviews in asthma patients are preferred over
+self-adjustment of medications aided by asthma action plan.
+Stable Asthma
+• Assessment of asthma should include:
+ evaluating current asthma symptoms control using validated
+tools
+ identifying future exacerbation risk factors and co-morbidities
+ checking adherence, inhaler techniques and other treatment
+related issues
+• In the treatment of asthma:
+ inhaled short-acting β2-agonists (SABA) should not be used as
+monotherapy
+ inhaled SABA may be used as reliever therapy with regular
+inhaled corticosteroids (ICS)
+• All asthma patients should be on inhaled corticosteroids (ICS)-
+containing therapy.
+• Asthma patients who smoke or vape should be strongly encouraged
+to quit at every clinic visit.
+Management of Asthma In Adults (Second Edition)
+iii
+Asthma Exacerbation
+• Treatment should be initiated immediately based on severity of
+asthma exacerbation.
+• Systemic corticosteroids should be given in all patients with asthma
+exacerbation.
+• Following asthma exacerbation, all patients should be given a followup plan upon discharge.
+Special Groups
+Severe Asthma
+• Biologics should be considered as add-on treatment for severe
+asthma after optimising therapy. Phenotype assessment should be
+conducted prior to this.
+• Long-term oral corticosteroids should be reserved for severe
+asthma when no alternative treatments are available.
+Pregnancy
+• Inhaled corticosteroids-containing therapy should be initiated in
+pregnant asthma patients and continued if already in use.
+Occupational Asthma
+• All working-age adults with new or worsening asthma symptoms,
+reappearance of childhood asthma or unexplained airflow
+obstruction should be asked about their occupation.
+Management of Asthma In Adults (Second Edition)
+iv
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+GUIDELINES DEVELOPMENT
+The members of the Development Group (DG) for this CPG were from
+the Ministry of Health (MoH), Ministry of Higher Education and private
+healthcare. There was active involvement of a multidisciplinary Review
+Committee (RC) during the process of the CPG development.
+A systematic literature search was carried out using the following
+electronic databases: mainly Medline via Ovid and Cochrane Database
+of Systemic Reviews and others e.g. PubMed and Guidelines
+International Network (refer to Appendix 1 for Example of Search
+Strategy). The search was limited to literature published on humans,
+publication from year “2017 to Current” and English language. In
+addition, the reference lists of all retrieved literature and guidelines were
+searched, and experts in the field contacted to identify relevant studies.
+All searches were conducted from 17 January 2023 to 5 March 2023.
+Literature searches were repeated for all clinical questions at the end of
+the CPG development process allowing any relevant papers published
+before 31 July 2024 to be included. Future CPG updates will consider
+evidence published after this cut-off date. The details of the search
+strategy can be obtained upon request from the CPG Secretariat.
+References were also made to other CPGs on Asthma which included:
+• Global Initiative for Asthma – Global Strategy for Asthma
+Management and Prevention (2024)
+• Spanish Society of Pulmonology and Thoracic Surgery (SEPAR)]
+– GEMA 5.3. Spanish Guideline on the Management of Asthma
+(2023)
+• British Thoracic Society/Scottish Intercollegiate Guidelines
+Network – British Guideline on the Management of Asthma (2019)
+These CPGs were evaluated using the Appraisal of Guidelines for
+Research and Evaluation (AGREE) II prior to them being used as
+references.
+A total of 21 clinical questions (CQ) were developed under different
+sections. Members of the DG were assigned individual questions within
+these sections (refer to Appendix 2 for Clinical Questions). The DG
+members met 23 times throughout the development of these guidelines.
+All literature retrieved were appraised by at least two DG members using
+Critical Appraisal Skill Programme checklist, presented in evidence
+tables and further discussed in each DG meetings. All statements and
+recommendations formulated after that were agreed upon by both the
+DG and RC. Where evidence was insufficient, the recommendations
+were made by consensus of the two groups. This CPG was developed
+largely based on the findings of systematic reviews, meta-analyses and
+clinical trials, with local practices taken into consideration.
+Management of Asthma In Adults (Second Edition)
+v
+The literature used in these guidelines were graded using the U.S.
+Preventive Services Task Force Level of Evidence (2015), while the
+grading of recommendation was done using the principles of GRADE
+(refer to page i). The writing of the CPG follows strictly the requirement
+of AGREE II.
+On completion, the draft of the CPG was reviewed by external
+reviewers. It was also posted on the MoH Malaysia official website for
+feedback from any interested parties. The draft was finally presented
+to the Technical Advisory Committee for CPG and, the HTA and CPG
+Council MoH Malaysia for review and approval. Details on the CPG
+development methodology by MaHTAS can be obtained from Manual
+on Development and Implementation of Evidence-based Clinical
+Practice Guidelines published in 2015 (available at https://www.moh.
+gov.my/moh/resources/CPG_MANUAL_MAHTAS.pdf).
+Management of Asthma In Adults (Second Edition)
+vii
+OBJECTIVES
+The objective of the CPG is to provide evidence-based recommendations
+on the management of asthma in adults on the following aspects:
+• diagnosis
+• assessment
+• treatment
+• follow-up
+CLINICAL QUESTIONS
+Refer to Appendix 2.
+TARGET POPULATION
+Inclusion Criteria
+• Adults (≥18 years old) with asthma
+Exclusion Criteria
+• Asthma-COPD overlap syndrome
+• In-patient asthma care
+TARGET GROUP/USERS
+This document is intended to guide healthcare professionals and
+relevant stakeholders involved in the management of asthma in adults.
+This includes:
+i. doctors
+ii. allied health professionals
+iii. trainees and medical students
+iv. patients and their advocates
+v. professional societies
+HEALTHCARE SETTINGS
+Primary, secondary and tertiary care settings
+Management of Asthma In Adults (Second Edition)
+viii
+DEVELOPMENT GROUP
+Chairperson
+Assoc. Prof. Dr. Andrea Ban Yu-Lin
+Consultant Respiratory Physician
+Faculty of Medicine, Hospital Canselor Tuanku Muhriz
+Universiti Kebangsaan Malaysia, Kuala Lumpur
+Members (alphabetical order)
+Dr. Aisya Natasya Musa
+Consultant Respiratory Physician
+Hospital Al Sultan Abdullah
+Universiti Teknologi MARA, Selangor
+Dr. Azza Omar
+Consultant Respiratory Physician
+Hospital Raja Perempuan Zainab II
+Kelantan
+Ms. Chong Li Yin
+Pharmacist
+Hospital Serdang, Selangor
+Dr. Hema Yamini Devi Ramarmuty
+Consultant Respiratory Physician
+Hospital Queen Elizabeth, Sabah
+Dr. Ida Zaliza Zainol Abidin
+Consultant Emergency Physician
+Hospital Tuanku Fauziah, Perlis
+Dr. Leong Swee Wei
+Consultant Respiratory Physician
+Hospital Serdang, Selangor
+Dr. Mazapuspavina Md. Yasin
+Consultant Family Medicine Specialist
+Hospital Al Sultan Abdullah,
+Universiti Teknologi MARA, Selangor
+Dr. Mohd Aminuddin Mohd Yusoff
+Head of CPG Unit
+Malaysian Health Technology Assessment
+Section (MaHTAS), MoH, Putrajaya
+Dr. Nida’ Ul-Huda Adznan
+Acute Internal Medicine Physician
+Hospital Selayang, Selangor
+Dr. Noor Ayuni Bazura Muhamad
+Senior Principal Assistant Director
+MaHTAS, MoH, Putrajaya
+Dr. Nor Azila Mohd Isa
+Consultant Family Medicine Specialist
+Klinik Kesihatan Nilai, Negeri Sembilan
+Ms. Pang Siow Fen
+Pharmacist
+Hospital Tampin, Negeri Sembilan
+Assoc. Prof. Dr. Shamsuriani Md Jamal
+Consultant Emergency Physician
+Hospital Canselor Tuanku Muhriz, Pusat
+Perubatan Universiti Kebangsaan Malaysia
+Kuala Lumpur
+Dr. Yoon Chee Kin
+Consultant Acute Internal Medicine Physician
+Hospital Pulau Pinang, Pulau Pinang
+Dr. Zul Imran Malek Abdol Hamid
+Consultant Emergency Physician
+Hospital Pakar Sultanah Fatimah, Johor
+Management of Asthma In Adults (Second Edition)
+ix
+REVIEW COMMITTEE
+The draft guidelines were reviewed by a panel of experts. They were
+asked to comment primarily on the comprehensiveness and accuracy
+of the interpretation of evidence supporting the recommendations in the
+guidelines.
+Chairperson
+Dr. Irfhan Ali Hyder Ali
+Consultant Respiratory Physician
+Hospital Pulau Pinang, Pulau Pinang
+Members (in alphabetical order)
+Dr. Hilmi Lockman
+Consultant Respiratory Physician
+Prince Court Medical Centre, Kuala
+Lumpur
+Dr. Izzuna Mudia Mohamed Ghazali
+Deputy Director
+Malaysian Health Technology
+Assessment
+Section (MaHTAS), MoH, Putrajaya
+Dr. Iskandar Firzada Osman
+Consultant Family Medicine Specialist
+Klinik Kesihatan Jaya Gading, Pahang
+Dr. Jaya Muneswarao
+Clinical Pharmacist
+Hospital Pulau Pinang, Pulau Pinang
+Dr. Mohd Arif Mohd Zim
+Consultant Respiratory Physician
+KPJ Damansara Specialist Hospital 2
+Kuala Lumpur
+Assoc. Prof. Dr. Pang Yong Kek
+Senior Consultant Respiratory Physician
+Faculty of Medicine, University Malaya
+Kuala Lumpur
+Prof. Dr. Sabariah Faizah Jamaluddin
+Consultant Emergency Physician
+Faculty of Medicine, Universiti Teknologi
+MARA, Selangor
+Prof. Dr. Sajaratulnisah Othman
+Consultant Family Medicine Specialist
+Faculty of Medicine, Universiti Malaya
+Kuala Lumpur
+Siti Farhana Abdul Rahim
+Patient Advocate
+Management of Asthma In Adults (Second Edition)
+EXTERNAL REVIEWERS (in alphabetical order)
+The following external reviewers provided feedback on the draft:
+x
+Prof. Dr. Ahmad Izuanuddin Ismail
+Deputy Director, Hospital Al Sultan Abdullah
+Shah Alam & Consultant Respiratory
+Physician
+Faculty of Medicine, Universiti Teknologi
+MARA Selangor
+Dr. Azainorsuzila Mohd Ahad
+Consultant Family Medicine Specialist
+Klinik Kesihatan Port Dickson,
+Negeri Sembilan
+Prof. Dr. Bandana Saini
+Professor of Pharmacy
+Faculty of Medicine and Health
+University of Sydney, Sydney, Australia
+Assoc. Prof. Dr Cheong Ai Theng
+Consultant Family Medicine Specialist
+Faculty of Medicine and Health Sciences,
+Universiti Putra Malaysia, Selangor
+Dr. Gan Chye Lee
+Consultant Acute Medicine Physician
+Hospital Melaka, Melaka
+Mr. Haji Izhan Mohd Soffian
+Assistant Medical Officer
+Klinik Kesihatan Putrajaya Presint 18,
+Putrajaya
+Prof. Dr. Kamarul Aryffin Baharuddin
+Consultant Emergency Physician
+School of Medical Sciences
+Universiti Sains Malaysia, Kelantan
+Dr. Lim Chuan Leong
+Family Medicine Specialist
+Klinik Lim, Taman Rasah Jaya,
+Negeri Sembilan
+Datuk Dr. Mahathar Abd. Wahab
+Senior Consultant Emergency Physician
+Hospital Kuala Lumpur, Kuala Lumpur
+Ms. Mary Annie a/p Anthony Pereira
+Patient Advocate
+Dato’ Dr. Mat Zuki Mat Jaeb
+Head of MoH Respiratory Medicine
+Subspecialty & Consultant Respiratory Physician
+Hospital Raja Perempuan Zainab II, Kelantan
+Dr. Nur Asyikin Mohd Yunus
+Internal Medicine Physician
+Hospital Tengku Ampuan Rahimah, Selangor
+Dr. Shamsath Abdul Gafoor
+General Practitioner
+Poliklinik Dinar Subang Pelangi, Selangor
+Dr. Siti Norfaseha Azwa Khirudin
+Patient Advocate
+Dr Simon Couillard-Castonguay
+Assistant Professor in Medicine, University of
+Sherbrooke & Research Chair in Respiratory
+Medicine Sherbrooke, Sherbrooke, Canada
+Dr. Toby Capstick
+Consultant Pharmacist - Respiratory Medicine
+St James’s University Hospital, Leeds
+United Kingdom
+Dr. Wong Ping Foo
+Family Medicine Specialist (Subspecialty NCD
+in Primary Care)
+Klinik Kesihatan Cheras Baru, Kuala Lumpur
+Management of Asthma In Adults (Second Edition)
+ALGORITHM 1: INITIATION OF ASTHMA TREATMENT
+xi
+Confirmed asthma
+Assess for asthma control*
+Assess for risk factors* for
+asthma exacerbation and
+address modifiable risk factors
+Yes
+No
+Maintenance low-dose ICS + PRN SABA
+OR
+PRN ICS-formoterol
+OR
+PRN ICS-SABA
+Reassess asthma symptoms
+at 3 - 6 months#
+Yes
+No
+Escalate as per
+Algorithm 2
+Continue current
+therapy or deescalate
+as per Algorithm 2
+Symptoms most days
+OR
+Night-time awakening
+≥ 1 a week
+OR
+FEV1 <80% of predicted
+or LLN
+Daily Symptoms
+OR
+Night-time awakening
+≥ 1 a week
+OR
+FEV1 <80% of predicted
+or LLN
+Maintenance low-dose
+ICS-LABA
+OR
+Low-to-medium-dose ICS
+Maintenance medium-tohigh-dose ICS-LABA
+OR
+Medium-dose ICS-LABA
+with add-on LAMA
+Reliever: SABA OR ICS-SABA OR ICS-formoterol$
+(if maintenance includes ICS-formoterol)
+Refer to Table 7 for ICS dosing category
+LTRA may be added to maintenance therapy if the patient has concurrent allergic rhinitis.
+#Inhaler technique and adherence to treatment should be assessed at every clinic/hospital visit and
+before escalating treatment
+^Well-controlled asthma as defined by ACT ≥20 or ‘NO’ to all GINA questionnaire
+$e.g. budesonide-formoterol or beclometasone diproprionate-formoterol
+Abbreviations ACT=Asthma Control Test questionnaire; FeNO=fractionated nitric oxide; FEV1=forced
+expiratory volume in first 1 second; GERD=gastroesophageal reflux disease; ICS=inhaled corticosteroids; LABA=long-acting β-agonists; LLN=lower limit normal; PRN=as needed; SABA=short-acting
+β-agonists; T2=Type 2 inflammatory marker; LTRA=leukotriene receptor antagonist
+*Assess the presence of risk factors for asthma exacerbation and address them accordingly:
+• Previous history of severe asthma exacerbation
+requiring systemic steroids or hospitalisation within
+the past year (consider initiating medium dose ICS)
+• Overuse of SABA (≥3 cannisters per year)
+• Inadequate ICS use or not on ICS
+• Poor adherence to maintenance therapy
+• Incorrect inhaler technique
+• Current smoker including e-cigarette or vape user
+• Co-morbidities: obesity, GERD
+• Pregnancy
+• T2-high inflammation: high FeNO, blood
+eosinophilia
+• Lung function: Low FEV1 especially <60%
+predicted, high bronchodilator responsiveness
+Well-controlled
+asthma^
+Well-controlled
+asthma^
+Management of Asthma In Adults (Second Edition)
+ALGORITHM 2: STEP UP AND STEP DOWN OPTIONS IN
+MANAGEMENT OF STABLE ASTHMA
+xii
+Reliever
+Maintenance Therapy
+Refer respiratory physician and discuss within MDT for
+consideration of biologics
+Alternative treatment: add-on low-dose azithromycin or OCS
+High-dose ICS-LABA+LAMA
+Consider single inhaler high-dose ICS-LABA-LAMA
+Phenotypic assessment#
+ICS-formoterol*
+(if maintenance
+contains
+ICS-formoterol)
+OR
+ICS-SABA
+OR
+SABA
+*maximum total
+dose 12 puffs/day
+Medium-dose ICSLABA+LAMA
+Phenotypic assessment#
+High-dose ICS-LABA
+OR
+Phenotypic assessment#
+Medium-dose ICS-LABA
+Low-dose ICS-LABA or
+Medium-dose ICS
+PRN ICS-formoterol or
+Low-dose ICS with PRN SABA or
+Low-dose ICS with PRN ICS-SABA or
+PRN ICS-SABA
+Note: LTRA may be added to maintenance therapy if the patient has concurrent allergic rhinitis.
+Refer to Table 7 for ICS dosing category
+#phenotypic assessment should be done at this stage upon stepping up
+Abbreviations: ICS=inhaled corticosteroids; ICS-LABA+LAMA=fixed dose combination ICS-LABA with
+separate inhaler LAMA; ICS-LABA-LAMA=single inhaler of ICS-LABA-LAMA; LABA=long-acting
+β-agonists; LAMA=long-acting muscarinic antagonists; MDT=multidisciplinary team; OCS=oral
+corticosteroids; PRN=as needed; SABA=short-acting β-agonists; LTRA=leukotriene receptor antagonist
+Step-up
+Step-down
+Management of Asthma In Adults (Second Edition)
+ALGORITHM 3: MANAGEMENT OF ASTHMA EXACERBATION
+IN PRIMARY CARE
+xiii
+INITIAL ASSESSMENT
+Risk assessment for asthma-related death performed with clinical evaluation concurrently
+SEVERITY
+MILD
+MODERATE
+SEVERE
+LIFE-THREATENING
+MILD
+MODERATE
+SEVERE
+LIFE-THREATENING
+Confused/drowsy/coma
+Unable to speak
+<12/min
+Bradycardia/cardiac arrest
+Hypotension
+Paradoxical chest
+movement/absent
+Silent chest
+<90%
+<60 mmHg
+>45 mmHg
+Alert/confused/drowsy
+Speaks in words
+>25/min
+>120/min
+Normal or hypotension
+Very evident
+Wheezing
+<90%
+<60 mmHg
+<40 mmHg or normal
+Alert
+Speaks in phrases
+>20/min
+100 – 120/min
+Normal
+Present
+Wheezing
+90 – 95%
+<80 mmHg
+<40 mmHg or normal
+Alert
+Normal
+Normal
+<100/min
+Normal
+Present
+Wheezing
+<95%
+Normal
+Normal
+Conscious level
+Speech
+Respiratory rate (RR)
+Pulse rate (PR)
+Blood pressure (BP)
+Accessory muscle
+use
+Breath sounds
+SpO2
+ABG: PaO2
+ABG: PaCO2
+INITIAL MANAGEMENT
+• SABA 4 - 10 puffs by pMDI + spacer (preferably
+patient’s own) or via nebuliser, repeat every
+20 minutes for 1 hour
+• Prednisolone: 0.5 - 1 mg/kg with a maximum
+of 50 mg stat
+• Controlled oxygen: target saturation 93 to 95%
+• SABA via oxygen
+driven nebuliser,
+repeat every
+20 minutes for
+1 hour
+• Ipratropium
+bromide nebuliser
+0.5 mg stat
+• Controlled oxygen:
+target saturation
+93 to 95%
+• IV hydrocortisone
+100 mg stat
+• IV magnesium
+sulphate 2 g
+infusion over
+20 minutes
+(single dose)
+TRANSFER TO
+NEAREST HOSPITAL
+IMMEDIATELY
+While waiting for
+transfer, do the
+following:
+• SABA via oxygen
+driven nebuliser,
+repeat every
+20 minutes for
+1 hour
+• Ipratropium bromide
+nebuliser 0.5 mg
+stat
+• Controlled oxygen:
+target saturation
+93 to 95%
+• IV hydrocortisone
+100 mg stat
+(if not given earlier)
+• IV magnesium
+sulphate 2 g infusion
+over 20 minutes
+(single dose) (if not
+given earlier)
+• Consider intubation
+if patient’s condition
+deteriorates
+DISCHARGE
+• Assess inhaler technique and adherence
+• Continue prednisolone (5 - 7 days)
+• Step-up treatment if indicated
+• AAP
+• Ensure follow up within 1 - 2 weeks
+REFER TO
+HOSPITAL FOR
+ADMISSION
+Continue treatment
+during transfer and
+monitor progress
+CONTINUE TREATMENT
+AND MONITOR
+PROGRESS
+throughout transport
+(SpO2, RR, PR
+and BP)
+MONITOR PROGRESS
+○ Symptoms
+○ Conscious level, SpO2, PR, BP
+○ CXR when indicated (if available)
+*Improvement of symptoms (not needing continuous SABA)
+and SpO2 >94% under room air
+Abbreviations: AAP=asthma action plan; ABG=arterial blood
+gas; BP=blood pressure; CXR=chest x-ray; IV=intravenous;
+pMDI=pressurised metered-dose-inhaler; PR=pulse rate;
+RR=respiratory rate; SABA=short-acting β2-agonist;
+SpO2=oxygen saturationt
+No clinical improvement
+Clinical
+improvement
+Clinical
+improvement No clinical
+improvement
+Management of Asthma In Adults (Second Edition)
+ALGORITHM 4: MANAGEMENT OF ASTHMA EXACERBATION IN
+EMERGENCY DEPARTMENT
+xiv
+INITIAL ASSESSMENT
+Risk assessment for asthma-related death performed with clinical evaluation concurrently
+SEVERITY
+MILD
+MODERATE
+SEVERE
+LIFE-THREATENING
+MILD
+MODERATE
+SEVERE
+LIFE-THREATENING
+Confused/drowsy/coma
+Unable to speak
+<12/min
+Bradycardia/cardiac arrest
+Hypotension
+Paradoxical chest
+movement/absent
+Silent chest
+<90%
+<60 mmHg
+>45 mmHg
+Alert/confused/drowsy
+Speaks in words
+>25/min
+>120/min
+Normal or hypotension
+Very evident
+Wheezing
+<90%
+<60 mmHg
+<40 mmHg or normal
+Alert
+Speaks in phrases
+>20/min
+100 – 120/min
+Normal
+Present
+Wheezing
+90 – 95%
+<80 mmHg
+<40 mmHg
+Alert
+Normal
+Normal
+<100/min
+Normal
+Present
+Wheezing
+<95%
+Normal
+Normal
+Conscious level
+Speech
+Respiratory rate (RR)
+Pulse rate (PR)
+Blood pressure (BP)
+Accessory muscle
+use
+Breath sounds
+SpO2
+ABG: PaO2
+ABG: PaCO2
+INITIAL MANAGEMENT
+• SABA 4 - 10 puffs by pMDI + spacer (preferable
+patient’s own) or via nebuliser, repeat every
+20 minutes for 1 hour
+• Prednisolone: 0.5 - 1 mg/kg with a maximum
+of 50 mg stat
+• Controlled oxygen (if available): target saturation
+93 to 95%
+*Improvement of symptoms (not needing continuous SABA)
+and SpO2 >94% under room air
+#Refer to Subchapter 7.3 on Monitoring and Evaluation
+^Patients with signs of respiratory distress, worsening
+hypoxaemia, hypercapnia or altered mental status or also
+failure to respond to maximal medical therapy
+Abbreviations: AAP=asthma action plan; ABG=arterial blood
+gas; BP=blood pressure; CXR=chest x-ray; HFNC=high-flow
+nasal cannula; IV=intravenous; pMDI=pressurised metereddose-inhaler; PR=pulse rate; RR=respiratory rate;
+SABA=short-acting β2-agonist; SpO2=oxygen saturation
+No clinical improvement
+clinical
+improvement
+clinical
+improvement
+No clinical
+improvement
+• SABA via oxygen
+driven nebuliser,
+repeat every
+20 minutes for
+1 hour
+• Ipratropium
+bromide
+nebuliser 0.5 mg
+every 4 - 6 hours
+• Controlled oxygen:
+target saturation
+93 to 95%
+• Consider HFNC
+• IV hydrocortisone
+100 mg stat
+• IV magnesium
+sulphate 2 g infusion
+over 20 minutes
+(single dose)
+• SABA via oxygen
+driven nebuliser,
+repeat every
+20 minutes for
+1 hour
+• Ipratropium bromide
+nebulizer 0.5 mg
+every 4 - 6 hours
+• Controlled oxygen:
+target saturation
+93 to 95%
+• Consider early
+intubation^
+• IV hydrocortisone
+100 mg stat (if not
+given earlier)
+• IV magnesium
+sulphate 2 g infusion
+over 20 minutes
+(single dose) (if not
+given earlier)
+• Early referral to
+critical care
+DISCHARGE
+• Continue prednisolone (5 - 7 days)
+• Continue usual treatment
+• AAP
+• Ensure follow-up at primary care clinic
+within 1 - 2 weeks
+MONITORING AND EVALUATION#
+• Conscious level, SpO2, PR, BP
+• PaO2 and PaCO2
+• CXR for complication and alternative diagnosis
+REFER FOR ADMISSION
+AND/OR CRITICAL CARE
+Management of Asthma In Adults (Second Edition)
+Management of Asthma In Adults (Second Edition)
+1.
+INTRODUCTION
+Asthma is a chronic inflammatory lung disease characterised by
+airway inflammation and narrowing, and bronchial hyperreactivity.
+These pathophysiological changes lead to episodic symptoms, e.g.
+shortness of breath, which can range from mild to severe in severity.
+However, asthma symptoms are often subtle and may be overlooked
+or misdiagnosed as other conditions, contributing to delays in proper
+management. Recognising and addressing this diagnostic challenge is
+a key focus of this CPG, which aims to improve asthma care through
+evidence-based recommendations.
+Asthma continues to pose significant public health challenges, affecting
+millions globally and thousands in Malaysia. Despite advances in
+disease understanding and treatment, asthma remains frequently
+misdiagnosed or poorly managed, resulting in avoidable suffering,
+hospitalisations and even deaths.
+The inaugural CPG for asthma in adults, introduced in 2017, was a
+landmark achievement in standardising asthma care. It set a strong
+foundation for evidence-based practice and improved patient outcomes.
+Since then, the rapidly evolving landscape of asthma management -
+including the advent of biologics for severe asthma e.g. omalizumab,
+benralizumab and dupilumab - has necessitated a comprehensive
+update. With two additional biologics currently in the pipeline, i.e.
+tezepelumab and mepolizumab, this updated CPG aims to provide
+clinicians with the latest evidence-based resource to deliver the highest
+standard of care for asthma patients.
+The COVID-19 pandemic has underscored the need for innovative
+and adaptable healthcare solutions. Recognising this, the MoH is
+actively exploring the development of online inhaler technique tutorials,
+with plans for their release in the near future. These resources, once
+available, will complement the appendix of inhalers provided in this
+updated CPG. Together, they aim to enhance inhaler technique,
+empower patients and improve treatment adherence for better asthma
+management.
+For those with severe asthma, the availability of cutting-edge biologic
+therapies has transformed the management paradigm. The CPG
+Development Group takes pride in the locally developed algorithm for
+selecting biologics in severe asthma management. Designed by the
+group, this tool is comprehensive and user-friendly, providing a practical
+resource for clinicians.
+Tailored to the Malaysian context, this CPG acknowledges the
+challenges of local healthcare system, cultural nuances and prevalent
+Management of Asthma In Adults (Second Edition)
+misconceptions about asthma. It aims to dispel myths, address gaps in
+understanding, and provide clear, actionable guidance for healthcare
+providers and patients. This updated CPG aspires to be more than just a
+reference - it’s a tool to elevate asthma care in Malaysia. By empowering
+healthcare professionals with the latest knowledge and strategies, the
+burden of asthma can be reduced leading to transformation of the lives
+of those affected.
+Management of Asthma In Adults (Second Edition)
+2.
+RISK FACTORS
+• Asthma is a multifaceted respiratory disease resulting from interactions
+between various risk factors.
+• Understanding these risk factors is crucial for effective prevention and
+treatment of asthma.
+Refer to Table 1 on risk factors for developing asthma.
+Table 1: Risk Factors for Developing Asthma
+Source:
+1. Global Initiative for Asthma. Global Strategy for Asthma Management and
+Prevention, 2024. Updated May 2024 (Available at: www.ginasthma.org)
+2. Plaza Moral V, Alobid I, Álvarez Rodríguez C, et al. GEMA 5.3. Spanish Guideline
+on the Management of Asthma. Open Respir Arch. 2023;5(4):100277.
+3. Scottish Intercollegiate Guidelines Network & British Thoracic Society. British
+Guideline on the Management of Asthma. SIGN-BTS;2019
+Pre-menstrual asthma refers to worsening of asthma symptoms in
+females in days leading up to their menstrual period. This is influenced
+by hormonal changes during the menstrual cycle. A meta-analysis
+found that risk factors for pre-menstrual asthma includes increasing
+age (SMD=0.42, 95% CI 0.03 to 0.82) and longer duration of asthma
+(SMD=0.81, 95% CI 0.41 to 1.20).1
+Category
+Risk Factors
+• Female
+• Atopy
+• Bronchial hyperresponsiveness
+• Parental asthma
+• Exposure to allergens (e.g. house-dust mite,
+pollen, cockroach)
+• Tobacco smoke
+• Air pollution
+• Occupational irritants (e.g. nitrogen dioxide, carbon
+monoxide, sulphur dioxide, fine particulate matter)
+• Younger maternal age
+• Maternal pre-eclampsia
+• Maternal tobacco consumption during pregnancy
+• Born via caesarean section
+• History of not receiving breastmilk
+• Lower pulmonary function of neonates
+• Obesity
+• Allergic rhinitis
+• Chronic rhinosinusitis
+• Gastroesophageal reflux disease
+• Limited access to education and/or health care
+Host/Genetic
+Environmental
+Perinatal/
+Childhood
+Co-morbidities
+Socioeconomic
+Management of Asthma In Adults (Second Edition)
+3.
+DIAGNOSIS
+Asthma is a heterogeneous disease with distinct inflammatory patterns.
+In Type 2 (T2)-high asthma, inflammation is driven by T2 cytokines
+[interleukin (IL)-4, IL-5 and IL-13], leading to eosinophilic inflammation,
+elevated IgE and increased fractionated exhaled nitric oxide (FeNO)
+levels. This phenotype is typically responsive to inhaled corticosteroids
+(ICS) and biologics targeting T2 pathways. In contrast, neutrophilic
+asthma is associated with low or absent T2 inflammation and may
+involve IL-17 and other non-T2 cytokines, with neutrophilic inflammation
+and steroid resistance often observed.
+• There is no gold standard test in diagnosing asthma. The diagnosis
+is based on a combination of clinical history, physical examination
+findings and lung function test with evidence of variable and
+reversible airway obstruction.
+A thorough history taking to identify asthma symptoms is important
+for accurate diagnosis. Physical examination may appear normal
+particularly when the patient is not experiencing an asthma exacerbation.
+Physical examination is important to rule out other conditions with
+similar symptoms. Typical clinical signs of asthma include tachypnoea,
+rhonchi, prolonged expiratory phase and decreased breath sounds.
+Spirometry should be used to diagnose asthma whenever possible.
+Forced expiratory volume in one second (FEV1) and forced vital capacity
+(FVC) are parameters obtained from spirometry. These parameters are
+used to show evidence of obstructive lung disease and reversibility
+(refer to Table 3). When spirometry is not available, peak expiratory
+flow meter may be used instead. These tests should be performed
+before treatment, at 3 – 6 months after treatment and periodically (1
+– 2-yearly) to establish patient’s personal best FEV1 and monitor for
+lung function decline. A low FEV1 indicates underlying untreated airway
+inflammation and is a risk factor for future exacerbation.2
+Peak expiratory flow rate (PEFR) can be measured using both peak
+flow meter and spirometry machine. Peak flow meter is used primarily
+for home monitoring. Whereas, spirometry is performed in a clinical
+setting under supervision of a healthcare provider. Whenever possible,
+PEFR should be recorded before treatment is initiated. It should be
+monitored at 1-hour post treatment and at regular intervals until a clear
+response has occurred or a plateau is reached.2
+If a patient has already started on treatment, the response to the
+treatment (bronchodilator or corticosteroids) may aid in the diagnosis
+but lack of response may not exclude asthma.
+Management of Asthma In Adults (Second Edition)
+Clinical History and Symptoms
+Wheeze
+Cough
+Chest tightness
+Shortness of breath
+Episodic symptoms
+Diurnal symptoms
+Symptoms after/during exercise
+Common colds (viral infection)
+Allergen e.g house dust mites, pets
+Cold weather
+Irritants:
+• smoke
+• haze
+• strong smell i.e. perfumes, cleaning
+solutions
+• exhaust fumes
+Allergic rhinitis
+Eczema
+Asthma
+Allergic rhinitis
+Eczema
+Common symptoms
+Symptoms variability
+Triggers
+History of atopy
+Family history of atopy
+Use of accessory muscles
+Audible wheeze
+Rhonchi on auscultation
+Physical Examination
+Respiratory
+examination
+FeNO is not a definitive test for diagnosing asthma. Although it tends to
+be high in asthma with T2 airway inflammation, it can also be elevated
+in non-asthmatic conditions e.g. eosinophilic bronchitis, allergic rhinitis
+and eczema. In patients with suspected asthma, a high FeNO level
+of >50 ppb predicts better response to ICS therapy than low level.
+However, a low FeNO level should not be used as a reason to withhold
+ICS treatment as in non-T2 inflammation asthma, FeNO levels are not
+typically elevated.2
+Refer to Table 2, Table 3 and Figure 1.
+Table 2. Clinical Features Suggestive of Asthma
+Management of Asthma In Adults (Second Edition)
+Demonstration of airway obstruction
+A FEV1/FVC <0.7 or <lower limit normal (LLN)
+Demonstration of airway obstruction variability or reversibility
+Spirometry
+An improvement in FEV1 or FVC ≥12% AND
+≥200 ml following bronchodilator treatment
+An improvement in FEV1 or FVC ≥12% AND
+≥200 ml from baseline after four weeks on ICS
+A ≥20% improvement in PEFR following
+bronchodilator treatment
+A ≥20% improvement in PEFR from baseline
+after four weeks on ICS
+Diurnal Variation
+• PEFR measured and recorded at least twice
+daily (morning and evening) over two weeks.
+• PEFR variability of ≥20% is suggestive of
+asthma.
+Refer to Appendix 3 on Peak Expiratory
+Flow Rate Variability and Appendix 4 on
+Peak Expiratory Flow Normogram.
+Methacholine challenge test
+• A PC20 value of ≤ 8 mg/ml is a positive test
+Mannitol challenge test
+• Decrease in FEV1 of ≥15% from baseline at
+cumulative dose of ≤ 635 mg is a positive test
+Exercise challenge test
+• Decrease in FEV1 of ≥10% from baseline
+Threshold for blood eosinophils is ≥150 cells/µL or >4%
+Total serum IgE >100 kU/L
+Any allergen-specific IgE >0.35 kU/L
+Elevated FeNO level (≥50 ppb)
+Blood eosinophils
+IgE**
+FeNO**
+Detection of T2-high inflammation
+Spirometry
+Peak Expiratory
+Flow Rate (PEFR)
+Bronchoprovocation
+Test*
+Investigation
+Description
+Table 3: Investigations for Asthma
+*Not routinely performed in clinical practice
+**To be performed when resources are available
+Adapted:
+1. Ministry of Health, Malaysia. Management of Asthma in Adults Putrajaya: MoH;
+2017.
+2. Global Initiative for Asthma. Global Strategy for Asthma Management and
+Prevention, 2024. Updated May 2024 (Available at: www.ginasthma.org)
+3. Scottish Intercollegiate Guidelines Network & British Thoracic Society. British
+Guideline on the Management of Asthma. SIGN-BTS;2019
+Management of Asthma In Adults (Second Edition)
+*Refer to Table 3.
+Figure 1: Diagnosis of Asthma in Treatment Naïve Patients
+For patients who are on ICS treatment, improvement of symptoms
+supports an asthma diagnosis. For patients on treatment who do not
+show airflow variability, consider repeating spirometry after withholding
+bronchodilator [four hours for short-acting β2-agonists (SABA), 24 - 48
+hours for long-acting β2-agonists (LABA)] or during symptoms.
+Recommendation 1
+• Diagnosis of asthma should be made based on typical clinical history,
+physical examination and evidence of airway obstruction variability.
+ Spirometry is the preferred tool to demonstrate airway obstruction
+variability or reversibility.
+FEV1/FVC <0.7 / <LLN
+and
+Positive Bronchodilator
+Reversibility Test
+Perform spirometry* with bronchodilator
+reversibility test
+Typical history and
+physical examination
+consistent with asthma
+Consider further history,
+investigations* and alternative
+diagnosis
+Diagnose as asthma
+Yes
+No
+Management of Asthma In Adults (Second Edition)
+4.
+GENERAL PRINCIPLES
+4.1. Treatment Goals
+The goals of asthma management encompass both long-term objectives
+and patient-centred considerations.2
+• The asthma treatment goals include:
+ achieving optimal symptom control
+ minimising risk of future exacerbations
+ reducing treatment side effects
+ preventing persistent airflow limitation
+ lowering asthma-related mortality
+It is also essential to identify and incorporate patient’s personal goals
+for asthma management into the care plan.
+Effective asthma management requires a collaborative partnership
+between the patients and their healthcare teams. This partnership
+involves agreeing on management goals and following a cyclical
+process of ongoing assessment, treatment adjustment and review of
+responses as shown in Figure 2.
+Figure 2: The Control-based Asthma Management Cycle
+4.2. Initiating and Optimising Asthma Treatment
+• The assessment of asthma control is mandatory before considering
+stepping up or down the treatment algorithm.
+• Assessment of asthma should include:
+ symptom control by using a validated numerical test (e.g. ACT
+score), GINA or RCP questionnaire
+ future exacerbation risk
+ adherence to current therapy (insufficient use of ICS and overreliance of SABA)
+ inhaler techniques
+ spirometry readings – FEV1
+ FeNO (if available)
+ other medical co-morbidities e.g. allergic rhinitis, gastroesophageal
+reflux disease (GERD) etc.
+Management of Asthma In Adults (Second Edition)
+Based on the reviewed evidence, the consensus of the CPG DG for the
+management of stable asthma are presented below.
+Modifiable risk factors, poor adherence and incorrect inhaler techniques
+should be addressed and rectified prior to changing the current
+treatment plans. Once the assessment is completed, treatment can
+then be initiated (refer to Algorithm 1) or adjusted (refer to Algorithm
+2). The choice of inhalers should be based on its availability, patient’s
+preference, inhaler technique and shared decision making.
+a.
+Treatment Initiation
+The initiation of asthma treatment should be guided by the asthma
+control (severity and frequency of symptoms) and lung function.
+For patients with well-controlled asthma (ACT score of ≥20 or ‘NO’ to
+all GINA questionnaire or RCP questionnaire) and normal lung function:
+• prescribe a regular low-dose ICS and as-needed SABA as a
+reliever
+• alternatively, as-needed ICS-formoterol or as-needed ICS-SABA
+(either as separate devices or a combined single device) may be
+prescribed
+• Monotherapy with SABA is not recommended as its excessive use is
+associated with risk of asthma exacerbation and mortality.
+ Thus, it is vital to use ICS together with SABA or regimen without
+SABA [ICS-formoterol anti-inflammatory reliever (AIR)]
+For patients with not well controlled asthma (ACT score of <20 or ‘YES’
+to ≥1 GINA questionnaire or RCP questionnaire) with symptoms on
+most days OR night-time awakening of ≥1 night per week OR FEV1
+<80% of predicted or LLN, the followings are recommended.
+• Prescribe either low-dose ICS-LABA or low-to-medium-dose ICS
+as maintenance therapy. In patients with concomitant allergic
+rhinitis, low-dose ICS with leukotriene receptor antagonists
+(LTRA) may be used.
+• For reliever therapy, SABA or ICS-SABA may be used. If ICSformoterol is used as maintenance, it can also be used as the
+reliever.
+In those patients with not well controlled asthma (ACT score of <20
+or ‘YES’ to ≥1 GINA questionnaire or RCP questionnaire) with daily
+symptoms OR night-time awakening of ≥1 night per week AND FEV1
+<80% of predicted or LLN, the followings are recommended.
+• Prescribe medium-to-high-dose ICS-LABA as maintenance
+therapy.
+Management of Asthma In Adults (Second Edition)
+• Alternatively, medium-dose ICS-LABA with add-on LAMA or LTRA
+(concomitant allergic rhinitis) may also be used as maintenance
+therapy.
+• For reliever therapy, SABA or ICS-SABA may be used. If ICSformoterol is used as maintenance, it can also be used as the
+reliever.
+Patients on maintenance therapy, as per Algorithm 1 on Initiation of
+Asthma Treatment, should be assessed for control at 3 - 6 months. If
+they are well controlled, current therapy could be continued or stepped
+down with regular assessments. If symptoms remain uncontrolled,
+management should be adjusted according to Algorithm 2 on Step Up
+and Step Down Options in Management of Stable Asthma.
+b.
+Treatment Step Up
+Patients with initial asthma symptoms <2 per month and no risk factors
+for exacerbation should be prescribed on maintenance low-dose ICS
+[with as needed (PRN) SABA] OR PRN ICS-formoterol OR PRN ICSSABA.
+In patients who remain uncontrolled despite on low dose ICS (with PRN
+SABA) OR PRN ICS-formoterol OR PRN ICS-SABA, treatment may be
+stepped up to maintenance low-dose ICS-LABA OR medium-dose ICS.
+In patients who remain uncontrolled despite on low-dose ICS-LABA OR
+medium-dose ICS, increasing ICS to high-dose is not recommended
+due to potential systemic adverse effects (AEs) which may occur with
+high doses and long-term use of ICS. Treatment may be stepped up to
+medium OR high-dose ICS-LABA
+In patients who remain uncontrolled despite on medium OR high-dose
+ICS-LABA, a phenotypic assessment should be done. Treatment may
+be stepped up to either:
+• medium-to-high-dose ICS-LABA with LAMA
+• single inhaler high-dose ICS-LABA-LAMA if available
+Early referral to respiratory physicians should be considered in
+patients with high-risk of exacerbation or has history of severe asthma
+exacerbation.
+LTRA may be added to maintenance therapy if the patient has
+concurrent allergic rhinitis. Refer to Subsection 6.2.1.b (iv) on LTRA
+and 8.5.c on Allergic Rhinitis.
+Patients with persistent uncontrolled asthma despite on high-dose
+ICS-LABA-LAMA triple therapy should be referred to a respiratory
+physician and discuss within a multi-disciplinary team (MDT) for
+thorough evaluation and optimal treatment including consideration of
+Management of Asthma In Adults (Second Edition)
+biologics use. Other add-on treatments e.g. low-dose azithromycin
+or oral corticosteroids (OCS) may be offered. An MDT for severe
+asthma typically includes chest physician, allergist, respiratory nurse,
+pharmacist and sometimes a psychologist or physiotherapist to provide
+comprehensive care and management.
+The choice of reliever therapy depends on the patient’s maintenance
+therapy. For those on ICS-formoterol, the preferred reliever is ICSformoterol (maximum doses of 12 puffs/day) to avoid confusion and
+improve adherence. For those on ICS-LABA or ICS monotherapy as
+maintenance, the choice of reliever can be either SABA or ICS-SABA.
+The treatment should be continued until reassessment at 3 - 6 months.
+Consider a short-term step up (for 1 - 2 weeks) with Asthma Action Plan
+(AAP) in situations with identifiable triggers e.g. during viral infection or
+allergen exposure.3
+c.
+Treatment Step Down
+If good asthma control is achieved at 3 - 6 months’ re-assessment,
+consider stepping down treatment to find the lowest effective dose and
+minimal side effects. Choose an appropriate time for treatment step
+down (e.g. no respiratory infection, not travelling, not pregnant, etc.).
+Exercise caution before stepping down treatment in those with history of
+severe exacerbations. Ensure a follow-up for assessment of symptoms.
+Recommendation 2
+• The assessment of asthma control should be performed before
+considering stepping up or down the treatment algorithm.
+• Short-acting β2-agonist should always be taken together with inhaled
+corticosteroids.
+• Treatment should be stepped up to achieve good asthma control.
+• If good asthma control is achieved at 3 – 6 months re-assessment,
+consider stepping down treatment to find the lowest effective dose.
+Management of Asthma In Adults (Second Edition)
+5.
+PATIENT EDUCATION AND SKILLS TRAINING
+The main goal of education is to provide patients and their family/other
+carers with suitable information and training on asthma management in
+partnership with their healthcare providers.2 Patient education should
+include:
+• asthma information
+• guided self-management
+• skills training on effective inhaler use
+• adherence improvement
+5.1. Asthma Information
+The key topics of asthma information are provided in Table 4.
+Table 4: Information to be Included in Asthma Education
+Basic information about asthma
+• Pathophysiology and symptoms
+• Recognising early signs of exacerbation
+• Treatment goal
+• Identifying and avoidance of asthma triggers
+• Impact of co-morbidities on asthma control
+Pharmacotherapy
+• The difference between reliever and maintenance
+• Dosages of medication
+• Information of inhalation devices and importance of correct
+inhaler technique
+• Possible drug adverse reactions
+Non-pharmacotherapy
+• Smoking cessation
+• Allergen exposure
+• Vaccination
+• Weight reduction
+• Pulmonary rehabilitation
+• Physical activity
+• Yoga
+• Breathing exercise
+• Dietary modifications
+• Vitamin D
+Importance of adherence behaviours
+• Medication adherence
+• Regular follow-up appointments
+Management of Asthma In Adults (Second Edition)
+Limited asthma education, focusing solely on providing information,
+does not enhance health outcomes in adults with asthma unless
+complemented by other essential components.3
+5.2. Guided Self-Management
+Guided self-management is the active process by which healthcare
+providers guide and support patients to develop self-management
+competencies.
+• It is essential for patients to understand their asthma, actively
+engage in shared decision-making and take charge of managing
+their condition.
+• The components of guided asthma self-management include:
+ self-monitoring of symptoms and/or PEFR
+ AAP
+ regular medical review by healthcare providers
+a.
+Self-monitoring of symptoms and/or PEF
+Self-monitoring by either symptoms or PEF with regular medical review
+and an AAP has been shown to reduce both emergency department
+(ED) visits and hospitalisation rates compared with usual care in
+asthma.3
+b.
+Asthma action plan
+AAP contains action (decision) points which guide patients in making
+short-term adjustments to their treatment based on their symptoms
+and/or PEFR. Refer to Appendix 5 on Asthma Action Plan. The AAP
+should be completed and explained to the patient by the attending
+healthcare provider to ensure patients understand how to manage their
+asthma effectively.
+Individualised AAP based on PEFR is equivalent to the plan based on
+symptoms in hospitalisation and ED visit.3
+An effective AAP may contain two to four action points. In PEFR-based
+plans, personal best PEFR should be used for the action point. The
+treatment instruction should include reliever therapy, ICS and oral
+OCS.3 The best PEFR is the patient’s known personal best under
+stable conditions i.e. not measured during an exacerbation. In patients
+without known personal best, the predicted value may be used. Refer
+to Appendix 4 on Peak Expiratory Flow Nomogram.
+In an RCT on mild to moderate asthma patients, increasing a patient’s
+ICS dose at the first sign of an exacerbation compared with maintaining
+stable dose of ICS showed no difference in the following outcomes:4, level I
+Management of Asthma In Adults (Second Edition)
+• treatment failure (need for systemic corticosteroids)
+• unscheduled physician visits
+• unscheduled acute care, ED visit or hospital admission
+However, in patients with poorer asthma control, an open label RCT
+found temporarily increasing ICS dose by four-fold prolonged the time
+to a first severe exacerbation with HR of 0.81 (95% CI 0.71 to 0.92)
+compared with stable dose group.5, level I
+Increasing the dose of ICS does not benefit all patients during
+exacerbation. Patients are advised to seek further medical assistance if
+symptoms persist despite following the AAP.
+c.
+Regular medical review by healthcare providers
+Optimisation of asthma control by adjustment of medications may be
+conducted by either self-adjustment with the aid of an AAP or by regular
+medical review.3 In a local cross-sectional study, 47.7% of patients
+were overprescribed with SABA, with 9% receiving prescriptions
+without appropriate assessment.6, level III Patients who are unable
+to manage their asthma using AAP will benefit from regular medical
+review.2 Therefore, the CPG DG opines that regular medical reviews
+are preferred in local setting.
+d.
+Strategies to implement guided self-management
+Behaviour change techniques (BCTs) are methods used to facilitate the
+adoption of new desirable behaviours or the cessation of undesirable
+ones by targeting various psychological, social and environmental
+factors. BCTs can range from:
+• providing information and education
+• using rewards or incentives
+• goal-setting
+• social support
+• cognitive-behavioural strategies
+A network meta-analysis (NMA) found that BCTs were important
+elements to effective self-management. Low-intensity BCTs (≤1 per
+month) delivered by healthcare providers had the highest SUCRA
+values of 89.1% for hospitalizations and 84.2% for ED visits, suggesting
+they are the most likely to be effective compared to usual care.7, level I.
+Most primary studies used had an unclear risk of bias.
+In an RCT on asthma patients >60 years old, tailoring interventions
+to screen and target specific self-management barriers compared
+with usual care significantly improved asthma control, medication
+adherence, inhaler technique and quality of life (QoL).8, level I
+Management of Asthma In Adults (Second Edition)
+In local settings, BCTs have been shown to be useful in the management
+of asthma.
+Recommendation 3
+• Regular medical reviews in asthma patients are preferred over selfadjustment of medications aided by asthma action plan.
+• Behavioural change techniques should be considered in selfmanagement strategy of asthma.
+5.3. Skills Training on Effective Use of Inhaler Device
+The three main categories of inhalers are dry powder inhaler (DPI),
+pressurised metered-dose inhaler (pMDI) and soft-mist inhaler (SMI).
+They require different inhalation and operating techniques for effective
+use.
+Inhaler technique errors are a common challenge faced by patients
+with asthma. Improper use can lead to inadequate medication
+delivery, resulting in poor asthma control and an increased risk of
+exacerbations.9, level I; 10, level II-2
+Inhaler errors include failing to exhale completely to empty lungs before
+inhalation, not holding breath or holding it for less than 3 seconds, not
+tilting the head slightly back and improperly loading the dose before
+administering the second dose.9, level I
+A cross-sectional study on asthma patients using pMDI found the
+following errors were associated with uncontrolled asthma:10, level II-2
+• actuation before inhalation
+• incorrect preparation of second dose inhalation
+• exhaling into the inhaler device
+• not holding the device upright
+It also found that in patients using DPI, insufficient inspiratory effort was
+significantly associated with an increased likelihood of uncontrolled
+asthma and exacerbations.10, level II-2
+The CPG DG opines that factors contributing to the above errors
+include lack of proper training, misunderstanding of inhaler instructions
+and complexity of multiple inhaler devices prescribed. Addressing these
+issues through education and training is essential to improve inhaler
+technique, enhance patient outcomes and ensure effective asthma
+management.
+Refer to Appendix 6 on Inhaler Devices and Techniques.
+Management of Asthma In Adults (Second Edition)
+a.
+Principles of effective inhaler technique education
+The following principles provide a framework for healthcare professionals
+to effectively educate patients on proper inhaler techniques.
+• Training of healthcare professionals –
+ Healthcare professionals must be knowledgeable about inhalers
+including the correct technique and be able to identify any issues
+patients may have in using a device.9, level I; 11, level I; 12, level I
+• Select appropriate inhaler device for the patients –
+ Consider patients’ specific needs, preferences, ability to use
+the device correctly and availability of the device.12, level I
+• Visual demonstration –
+ Physical and/or video demonstration by trained professionals
+to provide clear visual guidance of the correct inhaler
+technique.13, level I; 9, level I; 12, level I
+• Teach-to-Goal (TTG) approach –
+ TTG involves cycles of demonstration and assessment of
+patients’ inhaler techniques until they master the correct
+techniques. This ensures patients receive the necessary
+support and feedback to improve the techniques.13, level I
+• Continuous monitoring and periodic reinforcement –
+ Regular reinforcement of inhalation instructions is necessary
+due to waning effect of the interventions over time.12, level I
+b.
+Factors to consider when selecting an inhaler for a patient
+A systematic review of nine published algorithms identified five key
+factors for device selection:11, level I
+Ability to perform the required inspiratory manoeuvre
+• Patients’ ability to inhale –
+ slowly and deeply for pMDI and SMI
+ forcefully and deeply for DPI
+This ability depends on cognitive function and inspiratory muscle
+function. For patients with difficulty performing these manoeuvres
+and/or having cognitive impairment, a pMDI with a valved holding
+chamber (VHC) is recommended.
+Ability to handle the device correctly
+• Assess patients’ ability to perform the steps of using the inhaler
+device, which depends on their manual dexterity and hand
+strength.
+Sufficient inspiratory flow for DPI
+• Assess inspiratory flow and effort to estimate the patient’s
+ability to generate turbulent energy needed to disaggregate the
+powder into fine particles. For individuals with insufficient or
+suboptimal inspiratory flow and effort, a pMDI with VHC or SMI is
+recommended.
+Management of Asthma In Adults (Second Edition)
+Availability of molecules in the device
+• It is important to consider which molecules are available in each
+type of device.
+Continuity of the device
+• When the patients are using the inhaler correctly, it is advisable to
+choose the same device for any new therapy.
+• Using the same inhaler device for multiple-inhaler regimens
+improves clinical outcomes and reduced healthcare use in patients
+with asthma.14, level I
+Environmental impact
+• The environmental impact of inhalers, including manufacturing
+and recycling, and pMDI propellants, should be considered when
+selecting devices.
+5.4. Adherence Improvement
+In general, adherence to inhalers in asthma is sub-optimal. This issue
+is common across all inhalers particularly in inhaled corticosteroids
+(ICS). Reliable and objective measures are needed to assess the
+adherence.15, level III
+Patient-reported outcome instruments (PROs) are simple, timely and
+inexpensive tools that can be used in clinical practice. PROs that
+have been validated to assess adherence to inhaled maintenance
+medications in adults with asthma include:16, level III
+• Test of Adherence to Inhalers (TAI)
+• Medication Adherence Report Scale for Asthma
+• Adherence Questionnaire
+The 10-item TAI questionnaire has been translated into the Malay
+language and validated to assess inhalers adherence among Malaysian
+patients with asthma (refer to Appendix 7).17, level III
+Records on prescribed medications from electronic health records can
+also be used to indirectly estimate adherence. Two of the most widely
+used adherence measures are the medication possession ratio and
+proportion of days covered.18, level II-2
+The World Health Organization (WHO) distinguishes three types of
+non-adherence which are:19, level I
+• erratic non-adherence – unintentional non-adherence due to
+sporadic forgetfulness (e.g. caused by a busy lifestyle)
+• unwitting non-adherence – unintentional non-adherence, usually
+due to misunderstanding instructions or poor inhaler technique
+Management of Asthma In Adults (Second Edition)
+Reminders and/or counselling
+• Caregiver support
+• Link to daily habits (e.g. brushing teeth)
+• Use daily reminders (e.g. alarm clock, text/audio/
+visual messages, smart inhaler)
+• Use
+motivational
+strategies
+to
+encourage
+continuous use to remain symptoms control
+• Discuss causes and frequency of anxiety (diseaserelated or not) and, counselling on coping strategies
+Medication plan
+• Simplify medication regimen (frequency or
+number of devices)
+• Provide personalised AAP
+• Caregiver support – educating the caregivers on
+correct medication use
+Inhaler technique education
+• Provide written or visual inhaler instructions for
+home use
+• Physical and/or video demonstration with TTG
+approach
+Education and/or counselling
+• Counselling on likelihood, severity and prevention
+of possible side effects
+• Educate on the chronic nature of the disease and
+long-term benefits of maintenance treatment
+• Apply motivational strategies for setting goals and
+managing expectations
+• Emphasise importance of following prescribed
+regimen
+for
+continuous
+effectiveness
+of
+medication
+• Educate on positive impact of medication use on
+daily life and work.
+• Engage in shared decision-making when selecting
+an inhaler
+Erratic
+Unwitting
+Intelligent
+Adherence improvement strategies
+Types on nonadherence
+• intelligent non-adherence – intentional non-adherence as a result
+of a reasoned decision to reject therapy which include lack of
+confidence in treatment, denial of diagnosis, embarrassment
+about using inhalers in social situations, peer-group pressures,
+concern about adverse effects and false beliefs that treatment can
+be stopped because symptoms have improved
+Adherence improvement strategies matched to the type of nonadherence are shown below.19, level I
+Management of Asthma In Adults (Second Edition)
+5.5. Patient Education Modality
+Asthma education can be provided by any healthcare providers,
+including pharmacists and nurses.
+In asthma patients, self-management support service provided by
+community pharmacists compared with usual care improved the
+following:20, level I
+• symptom control (SMD=0.46, 95% CI 0.09 to 0.82)
+• QoL (SMD=0.23, 95% CI 0.12 to 0.34)
+• medication adherence (SMD=0.44, 95% CI 0.27 to 0.61)
+In Malaysia, the Respiratory Medication Therapy Adherence Clinic
+(RMTAC) has been conducted by pharmacists in collaboration with
+other healthcare providers. This programme manages asthma by
+providing education, monitoring adherence and resolving medicationrelated problems.3
+In a local study, compared with standard care, RMTAC significantly
+improved asthma control. After a 6-month intervention, 51.9% of
+subjects in the RMTAC group achieved well-controlled status compared
+with 20.9% of those in control group (p<0.001). The majority of RMTAC
+patients mastered good inhalation technique compared with control
+group (75.3% vs 31.9%, p<0.001).21, level II-1
+Guided self-management provided by trained asthma educators in
+an RCT had been shown to improve patient outcomes compared with
+usual care in terms of:22, level I
+• QoL based on AQLQ score (MD=0.52, 95% CI 0.19 to 0.83)
+• asthma control based on ACQ score (MD= -0.68, 95% CI -0.99 to
+-0.38)
+• asthma-related exacerbations:
+ mean number of moderate to severe exacerbations per patient
+(SMD= -0.25, 95%CI -0.47 to -0.03)
+ total number of exacerbations (RR=0.51, 95% CI 0.28 to 0.95)
+• PEF (SMD=31.42, 95% CI 13.21 to 49.62)
+Management of Asthma In Adults (Second Edition)
+Well controlled asthma on low-intensity
+treatment e.g. as needed low-dose ICSformoterol or maintenance low-dose ICS plus
+as-needed SABA
+Well controlled asthma on low or medium
+dose ICS-LABA
+Controlled asthma on high-dose ICS-LABA
+treatment that worsens when high-dose
+treatment is reduced
+OR
+Uncontrolled asthma despite adherence to
+maximal optimised high-dose ICS-LABA and
+management of contributory factors.
+Severe asthma is a subset type of difficultto-treat asthma (refer to Subchapter 8.1 for
+further explanation)
+Mild
+Moderate
+Severe
+Definition
+Severity of asthma
+6.
+STABLE ASTHMA
+6.1. Assessment of Stable Asthma
+Severity of stable asthma is categorised based on the level of treatment
+needed to control the symptoms. It can be categorised as below.2
+• In stable asthma, assessment of severity should be performed at
+every medical review especially before escalating (stepping-up) or
+de-escalating (stepping-down) treatment. The assessment should
+include:
+ assessment of asthma control using validated tools
+ identifying future exacerbation risk factors and co-morbidities
+ checking adherence, inhaler techniques and other treatment
+related issues e.g. adverse effects
+a.
+Assessment of asthma control
+The validated verified tools that can be used in assessment of asthma
+symptoms include Global Initiative for Asthma (GINA) Assessment (refer
+to Table 5), ACT (refer to Appendix 8), Asthma Control Questionnaire
+(ACQ) and the Royal College of Physicians ‘3 Questions’ (RCP 3).
+The GINA Assessment is filled-up by the physicians while the rest
+are patient-reported tools. The choice of assessment tool should be
+the same at every medical review to ensure consistency in assessing
+asthma control.
+Management of Asthma In Adults (Second Edition)
+In the past four
+weeks, has the
+patient had:
+Daytime asthma
+symptoms more
+than twice/week?
+Any night waking
+due to asthma?
+SABA* reliever for
+symptoms more
+than twice/week?
+Any activity limitation
+due to asthma?
+Yes
+Well
+controlled
+Partly
+controlled
+Uncontrolled
+No
+None of
+these
+1 – 2
+of these
+3 – 4
+of these
+ACT Score
+Asthma control
+20 - 25
+Well-controlled
+16 - 19
+Not well controlled
+5 - 15
+Very poorly controlled
+The GINA questionnaire assesses symptom control based on frequency
+of daytime asthma symptoms, night waking, activity limitation and
+frequency of SABA reliever use.2 It can be used as a quick screening
+tool in primary care setting to identify patients who need more detailed
+assessment.
+Table 5: GINA Assessment of Asthma Control
+*Based on SABA (as-needed ICS-formoterol reliever not included);
+excludes reliever taken before exercise
+ACT is a validated and preferred objective assessment on degree of
+current control of asthma in adults for the past four weeks (refer to
+Appendix 8). The scores indicating asthma control are as follows:2
+Other symptom control assessment tools include the use of 5-item
+ACQ (ACQ-5), which is preferred over other versions primarily due to
+its simplicity.2 The ACQ-5 includes five questions that focus on the core
+symptoms of asthma over the past one week:
+• waking at night due to asthma
+• waking in the morning with asthma symptoms
+• activity limitation
+• shortness of breath
+• need for rescue inhaler use
+Each question has a score from 0 to 6, with 0 indicating no symptoms
+and 6 indicating severe symptoms. The final score is the average of
+the five responses with lower scores reflecting better asthma control as
+shown below.
+Management of Asthma In Adults (Second Edition)
+ACT Score
+Asthma control
+0 – 0.75
+Well-controlled
+0.75 – 1.50
+Very poorly controlled
+>1.50
+Not well controlled
+The RCP 3 may be used as an initial screening tool of asthma control.
+It consists of three questions focused on recent sleep disturbances due
+to asthma, daytime symptoms and limitations in daily activities caused
+by the condition. Responding “Yes” to any of these questions indicates
+suboptimal asthma control.
+Different asthma assessment tools have their own unique strengths
+and these should be considered when selecting the most appropriate
+tool for each patient. Table 6 outlines the key features of each tool,
+helping healthcare professionals choose the best option based on the
+clinical context, patient needs and asthma severity.
+Table 6: Comparison of Asthma Control Assessment Tools
+Patients with well-controlled asthma for 3 - 6 months can be considered
+for de-escalation of treatment. Other factors that need to be assessed
+before making this decision include FEV1 percentage predicted ≥80%,
+post-bronchodilatation FEV1/FVC ≥70% and absence of asthma
+exacerbations in the last 12 months.23, level III
+The reduction of FeNO levels following treatment with ICS can be used
+to monitor effectiveness of therapy and suppression of T2 inflammation.
+Persistent elevation of FeNO after initiation of ICS may indicate either
+poor adherence to ICS or inadequate ICS dosage.
+b.
+Assessment of future exacerbation risks
+Patients with well-controlled asthma can still be at risk for future
+exacerbations. By identifying modifiable risk factors and evaluating
+the frequency of past exacerbations, healthcare providers can tailor
+treatment plans to prevent future exacerbations. Screening for risk
+Assessor
+No. of items
+Recall
+duration
+Physician
+4 items
+4 weeks
+Patient selfadministered
+5 items
+4 weeks
+Patient selfadministered
+5 items
+1 weeks
+Patient selfadministered
+3 items
+4 weeks
+GINA
+Questionnaire
+ACT
+ACQ-5
+RCP
+Management of Asthma In Adults (Second Edition)
+factors of future exacerbations should be conducted at every medical
+review.
+• Risk factors for future exacerbation include:
+ previous history of severe asthma exacerbation requiring systemic
+corticosteroids or hospitalisation within the past year
+ overuse of SABA (≥3 cannisters per year)
+ inadequate ICS use or not on ICS
+ poor adherence to maintenance therapy
+ incorrect inhaler technique
+ current smoker, e-cigarette or vape user
+ co-morbidities: obesity, GERD, chronic rhinosinusitis, confirmed
+food allergy
+ pregnancy
+ type-2 inflammatory markers: high FeNO, blood eosinophilia
+ lung function: low FEV1 especially <60% predicted, high
+bronchodilator responsiveness
+c.
+Assessment of treatment adherence, inhaler techniques and
+medication adverse effects
+Effective patient compliance relies greatly on discussing treatment
+goals with patients and understanding patients’ treatment preferences.
+Inhaler techniques should be demonstrated by patients and evaluated at
+every medical review to correct any improper use. Healthcare providers
+should take time to listen to patients’ feedback and experiences with
+their inhalers and address any issues that arise.
+Although asthma medications are generally safe, adverse effects must
+be assessed and addressed. For example, local side effects of ICS
+e.g. oral thrush and dysphonia can be managed by improving inhaler
+technique and rinsing the mouth after each use.2
+Recommendation 4
+• Assessment of asthma should include:
+ evaluating current asthma symptoms control using validated tools
+ identifying future exacerbation risk factors and co-morbidities
+ checking adherence, inhaler techniques and other treatment
+related issues
+6.2. Treatment
+The treatment strategy for asthma involves both pharmacological and
+non-pharmacological interventions to effectively manage symptoms,
+reduce risk of exacerbations and improve QoL.
+Management of Asthma In Adults (Second Edition)
+6.2.1. Pharmacological treatment
+Effective
+pharmacological
+treatment
+is
+essential
+in
+asthma
+management. This includes using reliever therapy for relief of symptoms
+and maintenance therapy to reduce inflammation. Treatment should be
+tailored to disease severity, patient’s preferences and response.
+a.
+Reliever therapy
+Reliever therapy is taken as needed for quick relief of asthma symptoms.
+It includes SABAs, ICS-formoterol and ICS-SABA.
+i.
+Short-acting β2-agonists
+There is limited new evidence on safety and effectiveness of SABA
+monotherapy. Regular SABA monotherapy is associated with
+decreased in bronchodilator response and, increased in airway
+hyperresponsiveness and airway inflammation. Excessive SABA
+monotherapy use (≥3 of 200-dose canisters a year) is associated with
+risk of asthma exacerbation and mortality.2
+A local study also showed that patients prescribed with ≥3 canisters of
+SABA/year, either as monotherapy or combination, were more likely
+to have severe exacerbations (OR=2.04, 95% CI 1.44 to 2.89) and
+less likely to have controlled asthma (OR=0.42, 95% CI 0.27 to 0.67)
+compared with those with 1 – 2 canisters of SABA/year.6, level III
+In chronic asthma, a combination of short-acting muscarinic antagonists
+(SAMA) and SABA does not offer any additional advantage.3
+Oral SABA is not recommended due to its higher risk of side effects
+compared with inhaled SABA.2
+ii.
+Anti-inflammatory reliever
+Anti-inflammatory reliever (AIR) is a reliever inhaler that contains both a
+low-dose inhaled corticosteroids (ICS) and a fast-acting bronchodilator.2
+A Cochrane systematic review of four RCTs on mild asthma showed
+that as needed single combined budesonide-formoterol inhaler
+reduced asthma-related hospital admission or emergency department/
+urgent care visit (OR=0.63, 95% CI 0.44 to 0.91) compared with regular
+budesonide plus as needed SABA (salbutamol or terbutaline) at 52
+weeks. There were NS differences in exacerbations requiring systemic
+corticosteroids and annual severe exacerbation rate. However, asthma
+control assessed by ACQ-5 favoured regular budesonide plus as needed
+SABA (MD=0.12, 95% CI 0.09 to 0.15) although it did not reach minimal
+clinically important difference (MCID) of 0.5 points. For secondary
+outcome, as needed single combined budesonide-formoterol inhaler
+had higher FeNO level at 52 weeks (geometric mean=1.13, 95% CI
+1.06 to 1.20) indicating increased airway inflammation. Safety profile
+Management of Asthma In Adults (Second Edition)
+showed NS differences in any/severe AEs or mortality.24, level I The
+quality of evidence for these outcomes were mixed based on GRADE.
+An RCT on patients with uncontrolled moderate to severe asthma
+who were on ICS maintenance therapies compared as needed pMDI
+budesonide-salbutamol with salbutamol alone. It showed that risk of
+severe exacerbation was lower in high-dose budesonide-salbutamol
+160/180 µg (HR=0.74, 95% CI 0.62 to 0.89) but NS difference in
+moderate dose budesonide-salbutamol 80/180 µg. The percentage of
+patients with any AEs was similar between the groups.25, level I
+iii.
+Long-acting β2-agonists
+The inhaled rapid-onset LABA i.e. formoterol is as effective as SABA
+as a reliever medication in asthma, but its use without ICS is strongly
+discouraged because of the risk of fatal and non-fatal adverse events.3
+This is supported by a recommendation in SIGN-BTS guidelines where
+LABA should only be started in patients who are already on ICS and the
+ICS should be continued.26
+Recommendation 5
+• In the treatment of asthma:
+ inhaled short-acting β2-agonists (SABA) should not be used as
+monotherapy
+ inhaled SABA may be used as reliever therapy with regular
+inhaled corticosteroids (ICS)
+ inhaled SABA overuse (≥3 canisters/year) should be avoided
+ oral SABA should not be used
+ anti-inflammatory reliever (AIR) therapy (either ICS with formoterol
+or ICS with SABA) may be used as a reliever therapy
+ inhaled long-acting β2-agonists (LABA) without ICS should not be
+used as reliever monotherapy
+b.
+Maintenance therapy
+Maintenance is defined as medication targeting both domains of
+asthma symptom control and prevention of future exacerbation risk. It
+is intended to be used on a regular basis, even when asthma symptoms
+are absent.
+i.
+Inhaled corticosteroids
+Regular daily low-dose ICS is indicated for asthma patients on as
+needed ICS and SABA who either are unable to adhere to treatment or
+remain symptomatic.
+It significantly reduces asthma symptoms, risk of asthma-related
+exacerbations, hospitalisation and death. However, patients with mild
+Management of Asthma In Adults (Second Edition)
+asthma often have poor adherence to ICS, resulting in them relying on
+SABA alone and thus increasing risk of exacerbations.2
+ICS dosage can be categorised into low-, medium- or high-dose as
+shown in Table 7. Different ICS within the same category may differ in
+potency. Switching of ICS within a category may change the asthma
+control. Therefore, patients need to be monitored and ICS dose
+adjusted accordingly.
+Systemic side effects may occur with high doses and long-term use of
+ICS. These include easy bruising, an increased risk of osteoporosis
+and fragility fractures beyond the usual age-related risks, cataracts,
+glaucoma, and adrenal suppression.2
+ii.
+Combination of ICS and long-acting β2-agonists
+Regular daily ICS-LABA is indicated for asthma patients on regular daily
+low-dose ICS or as-needed ICS/formoterol who remain symptomatic
+despite good adherence and inhaler technique.
+Combination of ICS-LABA is more effective in reducing risk of
+exacerbations compared with a higher dose of ICS alone in asthma
+with sub-optimal control on low-dose ICS monotherapy.3
+Proactive regular dosing (PRD) is a treatment strategy where
+medication is taken at scheduled consistent interval. It also referred
+to as regular maintenance dosing. A local retrospective study on
+patients with uncontrolled asthma despite using either as-needed
+budesonide-formoterol or ICS and SABA PRN, PRD of fluticasone/
+salmeterol was shown as an effective and safe treatment approach.
+It significantly improved symptom control (mean ACT scores), and
+reduced hospitalisations and systemic corticosteroids use.27, level III
+A recent Cochrane systematic review found no evidence on safety
+concerns that would affect the choice between salmeterol/ICS and
+formoterol/ICS combination inhalers used for regular maintenance
+therapy. GRADE assessment showed low to moderate certainty of the
+evidence.28, level I
+A meta-analysis demonstrated that extra-fine hydrofluoroalkane (HFA)-
+beclomethasone-formoterol (BDP-F) showed NS difference compared
+with non-extrafine ICS-LABA in pulmonary function concerning central
+and peripheral airways, as well as in ACT scores and exacerbation
+rates. Risk of bias of primary papers was generally low.29, level I
+iii.
+Maintenance and reliever therapy
+Maintenance and Reliever Therapy (MART) is a treatment regimen
+involving the daily use of an ICS-formoterol (e.g. budesonide-formoterol
+Management of Asthma In Adults (Second Edition)
+or beclomethasone diproprionate-formoterol) inhaler for asthma
+maintenance and as-needed for symptom relief.
+An NMA on single inhaler as MART and other as-needed therapies
+in preventing the risk of severe asthma exacerbation found the
+following:30, level I
+• in mild to moderate asthma patients –
+ low-dose MART and as-needed ICS-LABA were equally
+effective
+ low-dose MART was significantly more effective than ICSLABA with as-needed SABA and ICS with as-needed SABA
+• in moderate to severe asthma patients –
+ low-to-medium-dose MART and high-dose ICS-LABA with asneeded SABA were equally effective
+ low-to-medium-dose MART was significantly more effective
+than low-to-medium-dose ICS-LABA with as-needed SABA
+and ICS with as-needed SABA
+NS differences were found across the treatments on risk of SAEs.
+Overall, the quality of evidence was moderate to high based on GRADE.
+Table 7: Categorisation of ICS Doses (Alone or in Combination
+with LABA) into Low, Medium and High Levels
+Source: Global Initiative for Asthma. Global Strategy for Asthma Management and
+Prevention, 2024. Updated May 2024 (Available at: www.ginasthma.org)
+Beclometasone dipropionate
+(pMDI, standard particle, HFA)
+Beclometasone dipropionate
+(DPI or pMDI, extrafine particle, HFA)
+Budesonide
+(DPI, or pMDI, standard particle, HFA)
+Ciclesonide (pMDI, extrafine
+particle, HFA)
+Fluticasone furoate (DPI)
+Fluticasone propionate (DPI)
+200 - 500
+>500 - 1000
+>1000
+100 - 200
+>200 - 400
+>400
+200 - 400
+>400 - 800
+>800
+80 - 160
+>160 - 320
+>320
+200
+100 - 250
+>250 - 500
+>500
+100 - 250
+>250 - 500
+>500
+100
+Inhaled corticosteroids (alone
+or in combination with LABA)
+Total daily ICS dose (µg)
+Low
+Medium
+High
+Fluticasone propionate
+(pMDI, standard particle, HFA)
+Mometasone furoate (DPI)
+Mometasone furoate
+(pMDI, standard particle, HFA)
+>400
+Depends on DPI device -
+refer to product information
+200 - 400
+Management of Asthma In Adults (Second Edition)
+iv.
+Leukotriene receptor antagonists
+Leukotriene receptor antagonists (LTRA) as monotherapy is less
+effective than ICS in terms of symptom control and lung function
+improvement,3 as well as exacerbations.2
+A Cochrane systematic review of patients with suboptimal asthma
+control on daily ICS found:31, level I
+• addition of LTRAs compared with using the same dose of ICS
+alone reduced the risk of asthma exacerbations requiring rescue
+OCS (RR = 0.50, 95% CI 0.29 to 0.86) and, improved lung function
+and asthma control. There was no increase in AEs.
+• combination therapy of LTRAs and ICS compared with a higher
+dose of ICS alone showed NS difference in the number of
+participants who experienced ≥1 exacerbations requiring OCS.
+Overall, the quality of evidence was low to moderate based on GRADE.
+According to various guidelines, LTRA is mentioned to be particularly
+useful in patients with allergic asthma.2; 26
+It is essential to advise patients, parents, and caregivers about the
+potential neuropsychiatric adverse effects of montelukast including
+new-onset nightmares, behavioural changes, and, in some cases,
+suicidal ideation.32
+v.
+Methylxanthine
+Treatment with theophylline is no longer recommended as it has limited
+effectiveness and often causes side effects especially at higher doses
+which can be life-threatening.2; 33
+A newer immediate-released methylxanthine, doxofylline, has been
+shown to have better effectiveness and fewer side-effects than
+theophylline as stated below.
+An NMA comparing doxofylline, theophylline and placebo in adolescent
+and adult asthmatic patients found the following:34, level I
+• doxofylline reduced the daily asthma events (RE= -0.33, 95% CrI
+-0.62 to -0.04) compared with placebo
+• doxofylline was more effective than theophylline in reducing daily
+asthma events (MD= -0.14, 95% CI -0.27 to -0.00)
+• doxofylline was safer than theophylline with lower risk of AEs
+(RE=0.53, 95% CrI 0.27 to 0.87)
+The primary papers were of mixed quality.
+In a pre-post multicentre study on adults with poorly controlled asthma,
+oral doxofylline 400 mg three times daily was effective and well-tolerated
+at 1-year follow-up based on:35, level II-3
+Management of Asthma In Adults (Second Edition)
+• improvement in FEV1 from baseline (+16.90% ± 1.81, p<0.001)
+• reduced rate of asthma events (-0.57 events/day ± 0.18, p<0.05)
+The most common AEs were nausea (14.56%), headache (14.24%),
+insomnia (10.68%) and dyspepsia (10.03%). They were mild or
+moderate in severity.
+vi.
+Long-acting muscarinic antagonists
+Long-acting muscarinic antagonists (LAMAs) may be considered
+as add-on therapy if asthma remains uncontrolled despite medium
+or high-dose ICS-LABA, either in separate inhaler (tiotropium)
+or in a combination (‘triple’) inhaler (beclomethasone-formoterolglycopyrronium; mometasone-indacaterol-glycopyrronium; fluticasone
+furoate-vilanterol-umeclidinium).2 The latter is currently not registered
+in Malaysia.
+A meta-analysis on patients with moderate to severe asthma showed
+that triple therapy (ICS+LABA+LAMA) compared with medium-to-high
+dose dual therapy (ICS+LABA):36, level I
+• reduced risk of severe exacerbation (RR=0.83, 95% CI 0.77 to
+0.90)
+• improved asthma control scores (SMD= -0.06 SD units, 95% CI
+-0.10 to -0.02)
+• showed NS difference in asthma-related quality of life (QoL), allcause mortality, treatment-related AEs and serious AEs
+• increased dry mouth and dysphonia (RR=1.65, 95% CI 1.14 to
+2.38).
+Overall, the quality of evidence was moderate to high based on GRADE.
+This is supported by another NMA on uncontrolled asthma patients
+comparing treatment of medium-dose or high-dose triple therapies
+and medium-dose ICS-LABA where the former reduced steroidrequiring asthma exacerbations (HR=0.84, 95% Crl 0.71 to 0.99 and
+HR=0.69, 95% Crl 0.58 to 0.82 respectively) but not asthma-related
+hospitalisations. Triple therapy resulted in NS difference in all-cause or
+asthma-related SAEs compared with the control.37, level I
+A retrospective cohort study on asthma patients treated with ICS-LABA
+showed that adding tiotropium to ICS-LABA was more effective in
+reducing exacerbations compared with increasing the dose of ICS in
+ICS-LABA therapy (HR=0.65, 95% CI 0.43 to 0.99).38, level II-2
+However, there is insufficient evidence to support substituting LAMA for
+LABA as add-on therapy for patients on ICS.2; 3
+vii.
+Macrolides
+Macrolides is an antibacterial with immunomodulatory properties which
+can reduce airway hyperactivity and eosinophilic inflammation.
+Management of Asthma In Adults (Second Edition)
+A Cochrane systematic review of patients with chronic asthma
+comparing macrolides with placebo showed:39, level I
+• reduced exacerbations requiring ED visits and/or treatment with
+systemic corticosteroids (RR=0.65, 95% CI 0.53 to 0.80)
+• reduced symptoms (SMD= -0.46, 95% CI -0.81 to -0.11)
+• NS
+difference
+in
+reduction
+of
+exacerbations
+requiring
+hospitalisations
+• NS difference in severe AEs (including mortality)
+GRADE assessment showed low to moderate certainty of the evidence.
+Long-term macrolides should be part of a comprehensive asthma
+management plan tailored to individual patient needs. It should only be
+started after consultation with a specialist.
+viii. Oral corticosteroids
+The use of OCS at the minimum necessary dose and for the shortest
+time possible may be considered as a last resort for patients with severe
+asthma. Refer to Subchapter 8.1 on Severe Asthma.
+The Thoracic Society of Australia and New Zealand position paper
+recommends practicing OCS stewardship in asthma to minimise the
+use of OCS and mitigate the harm associated with its use.40, level III
+ix.
+Sublingual immunotherapy
+Sublingual immunotherapy (SLIT) involves administering allergen
+extracts, typically in tablet or liquid drops to desensitise and decrease
+sensitivity to specific allergen trigger in patients with allergy. The
+duration varies depending on the specific allergens targeted e.g. house
+dust mite (HDM) or grass pollen.
+A systematic review of RCTs in well-managed mild-to-moderate
+allergic asthma patients showed that SLIT tablets targeting HDM were
+effective in reducing ICS dosage (MD=81 mg, 95% CI 27 to 136) while
+maintaining adequate asthma control.41, level I The primary papers used
+were of mixed quality based on ROB assessment.
+In cases of allergic asthma, allergen immunotherapy is advised when
+there is clinical evidence of IgE-mediated sensitisation to common
+airborne allergens. It is recommended that allergen immunotherapy be
+administered by experienced specialists.33
+The role of SLIT as therapeutic options for asthma is not yet clearly
+established in most guidelines.
+Management of Asthma In Adults (Second Edition)
+Recommendation 6
+• All asthma patients should be on inhaled corticosteroids (ICS)-
+containing therapy.
+• Combination of ICS/long-acting β2-agonist (LABA) is preferred to
+high-dose ICS during stepping-up of asthma treatment.
+• In moderate to severe asthma, either low-to-medium-dose
+maintenance and reliever therapy (MART) or high-dose ICS/LABA
+plus as-needed SABA may be used.
+• Triple therapy (ICS/LABA/long-acting muscarinic antagonist) should
+be used in patients with uncontrolled asthma despite treatment with
+medium-to-high-dose ICS/LABA.
+• Theophylline should not be used for treatment of asthma.
+Refer to Appendix 9 on Common Medications in Asthma.
+6.2.2.
+Non-pharmacological treatment
+Non-pharmacological treatments for asthma include a range of
+interventions that complement pharmacological approaches. These
+methods focus on reducing symptoms and improving QoL through
+strategies e.g. smoking cessation, allergen avoidance, dietary
+modification, exercise and vitamin D supplementation.
+a.
+Smoking cessation
+Smokers have higher risk of adult-onset asthma compared with nonsmokers.3 Smoking in asthma affects airway inflammation, reduces
+response to corticosteroid therapy and is associated with poor
+disease control, decline in lung function, and increased healthcare
+utilisation.2; 42, level III
+Asthma patients who smoke or vape should be strongly encouraged to
+quit at every clinic visit. They should be provided access to counselling
+and smoking cessation programmes. They should also be advised to
+avoid environmental smoke exposure.2 For smoking cessation, refer
+to the Malaysian CPG on Treatment of Tobacco Use Disorder (Second
+Edition).
+b.
+Vitamin D
+Vitamin D has been suggested to improve asthma control in patients
+with vitamin D deficiency.2; 43, level I; 44, level , However, a Cochrane review
+found that vitamin D supplementation did not significantly reduce the
+risk of asthma exacerbations or improve overall asthma control in mild
+to moderate asthma.45, level I Most of the primary papers used had low
+risk of bias.
+Management of Asthma In Adults (Second Edition)
+c.
+Physical activity
+Physical activities improve cardiopulmonary effectiveness by improving
+oxygen consumption, maximum heart rate and work capacity. There
+is limited evidence that they cause significant airway narrowing and
+worsening of asthma symptoms. Therefore, they should be promoted
+as part of the general approach to improving lifestyle and rehabilitation
+in people with asthma.26
+Patients
+with
+exercise-induced
+bronchoconstriction
+(EIB)
+may
+experience symptoms if their condition is not well-controlled. However,
+with proper treatment, they can exercise without triggering asthma
+symptoms and thus avoiding physical activity is not necessary.
+There is no specific type of exercise recommended exclusively for
+individuals with asthma.2 A cohort study in middle-aged adults showed
+that lighter physical activity 3-times per week reduced current asthma
+(asthma attacks, need for asthma medicine or wheezing in the past
+12 months) by 56% (OR=0.44, 95% CI 0.22 to 0.89) compared with
+vigorous physical activity. It also showed that vigorous physical activity
+≤1 hour per week reduced current asthma and asthma symptoms by
+43% (OR=0.57, 95% CI 0.36 to 0.91) and 8% (OR=0.92, 95% CI 0.86
+to 0.98) respectively.46, level II-2 Swimming is well tolerated among young
+individuals with asthma and, has been associated with increased lung
+function and improved cardiopulmonary fitness.2
+Encouraging regular physical activity is important to enhance
+cardiopulmonary fitness leading to improved asthma control and QoL. It
+should be incorporated into the overall strategy for lifestyle improvement
+and rehabilitation, with careful consideration of the potential for EIB.2; 26
+d.
+Breathing exercise
+Breathing exercise programmes, which may involve techniques taught
+by physiotherapists in person as well as through audiovisual resources,
+can be offered as a complementary approach to medication. It can
+reduce respiratory rate, decrease breathing volume, promote the use
+of abdominal and lateral chest muscles, encourage nasal breathing and
+facilitate relaxation.47, level III These programmes aim to reduce asthma
+symptoms and improve QoL.26
+A multicentre RCT showed that breathing exercise added to usual care
+was better than usual care alone in improving QoL in asthma patients
+at six months as measured by mini-AQLQ (MD=0.35, 95% CI 0.07 to
+0.62). This effect was maintained at 12 months (MD=0.38, 95% CI 0.12
+to 0.65). There was no improvement in anxiety score and although
+there was improvement in depression score, it did not reach clinical
+significance. There was NS difference in asthma-related AEs.48, level I
+Management of Asthma In Adults (Second Edition)
+Evidence has shown that breathing exercise can alleviate dyspnoea,
+reduce emotional stress and enhance QoL.2; 47, level III However, it does
+not reduce the risk of asthma exacerbations or has an impact on lung
+function.2
+e.
+Yoga
+Yoga, an ancient Indian practice that includes physical postures,
+breathing exercises, meditation and relaxation techniques, may offer
+benefits for pulmonary function tests, asthma control tests and healthrelated QoL in patients with asthma. A meta-analysis found that yoga
+added to standard care conducted over a period of 8 – 10 weeks when
+compared with standard care alone resulted in improvement of:49, level I
+• PEFR (SMD=0.38, CI 0.18 to 0.58)
+• FEV1 (SMD=0.96, CI 0.77 to 1.14)
+• FVC (SMD=0.35, CI 0.14 to 0.55)
+• overall pulmonary function (SMD=0.41, CI 0.30 to 0.53)
+• health-related QoL (SMD=0.26, CI 0.18 to 0.34)
+GRADE assessment indicated generally moderate quality of evidence.
+Yoga may be considered as a supplementary therapy or an alternative
+to other types of breathing exercises.2
+f.
+Pulmonary Rehabilitation
+Pulmonary rehabilitation is a comprehensive multifaceted patient
+assessment and personalised therapy. This includes supervised
+exercise training, educational sessions and behaviour modification
+strategies. The primary goal of pulmonary rehabilitation is to improve
+both the physical and psychological conditions and foster long-term
+adherence to health-promoting behaviours.
+A Cochrane systematic review showed that a pulmonary rehabilitation
+programme, compared with usual care, for adults with asthma resulted
+in improvements on:50, level I
+• exercise performance
+ percentage predicted maximal rate of oxygen consumption
+with MD of 14.88% (95% CI 9.66 to 20.10) at end-intervention
+and 10.37% (95% CI 1.6 to 22.34) at 12 months follow-up
+ peak oxygen uptake with MD of 3.63 ml/kg/min (95% CI 1.48 to
+5.77) at end-intervention and 0.69 mL/kg/min (95% CI 4.79 to
+3.42) at 9 – 12 months follow-up
+• asthma control
+ Asthma Control Questionnaire Score with MD -0.50 (95% CI
+-0.80 to -0.20) at end-intervention
+GRADE assessment indicated generally low quality of evidence.
+Structured pulmonary rehabilitation programmes of 4 – 12 weeks have
+demonstrated effectiveness in enhancing functional exercise capacity
+Management of Asthma In Adults (Second Edition)
+(6-minute walk) and QoL. Referral to a pulmonary rehabilitation
+programme, if available, has been recommended.2, 26
+g.
+Dietary modifications
+The GINA guidelines advocate the consumption of a diet high in fruits
+and vegetables as it can significantly reduce risk of lung function
+decline which lead to improved asthma control and reduce risk of
+exacerbations.2
+Increased dietary sodium has been linked to geographical differences
+in asthma mortality with high sodium intake being associated with
+increased bronchial hyper-responsiveness. However, reducing salt
+intake cannot be recommended as a strategy for asthma management
+due to paucity of evidence.26
+Omega-3 found in fish oils may reduce inflammation and lessen the
+severity of exacerbations. However, there is insufficient evidence to
+support the recommendation of fish oil supplementation for asthma
+treatment.26
+h.
+Weight reduction
+Weight loss interventions, including dietary and exercise programmes,
+should be recommended for overweight and obese adults with asthma
+to enhance asthma control.26 Refer to Subchapter 8.5 (a) on Obesity.
+i.
+Allergen exposure
+Specific recommendations for managing allergic asthma should be
+made after confirming sensitisations to various allergens in a patient.2
+Implementing a combination of specific measures of multifaceted
+allergen avoidance to decrease allergen exposure results in improved
+clinical outcomes.33; 26 Examples of effective strategies involve avoiding
+exposure to these allergens e.g. avoidance of outdoor activities when
+air quality is poor/air pollution, removing pets from the home for
+those allergic to animal dander and addressing dampness for mold at
+home.2; 33; 26
+j.
+Vaccination
+Vaccination plays a vital role in protecting individuals against respiratory
+infections. Influenza and pneumococcal vaccinations are commonly
+available.
+In a meta-analysis on children and adults with asthma, influenza
+vaccination reduced influenza infections as well as asthma attacks
+that resulted in emergency department visits and/or hospitalisations.
+GRADE assessment indicated generally very low quality of
+evidence.51, level I
+Management of Asthma In Adults (Second Edition)
+Patients with asthma are encouraged to receive influenza vaccination.2
+The Malaysian Society of Infectious Diseases and Chemotherapy
+recommends influenza vaccination in all persons aged ≥18 with one or
+more medical problems.52
+There is inadequate evidence to recommend the routine use of
+pneumococcal vaccination in patients with asthma.2; 3 However, in
+asthma patients who require maintenance corticosteroids or frequently
+repeated systemic corticosteroids, pneumococcal vaccination is
+recommended.52
+GINA guidelines advocate vaccination in adults with asthma to follow
+local immunisation schedule including those for respiratory syncytial
+virus infection.2
+k.
+Medication to be used with caution
+•
+Aspirin and non-steroidal anti-inflammatory drugs
+Aspirin and non-steroidal anti-inflammatory drugs (NSAIDs) are
+generally not contraindicated in asthma unless there is a history of
+adverse reactions to these medications. Patients should be asked on
+any previous reactions to these agents. Where NSAIDs is indicated for
+other medical indications, a selective COX2 inhibitors (e.g. celecoxib or
+etoricoxib) and paracetamol may be used as an alternative.2; 3
+•
+β-blockers
+Non-selective β-blockers including eyedrops can exacerbate asthma
+symptoms by inducing bronchospasm. If indicated, initiation of oral or
+eyedrops β-blockers should be done with caution, on a case by case
+basis and under close monitoring. However, cardio-selective β-blockers
+are not absolutely contraindicated as it has not been shown to affect
+FEV1 or asthma exacerbation in mild to moderate asthma.2; 26; 3
+Recommendation 7
+• Asthma patients who smoke or vape should be strongly encouraged
+to quit at every clinic visit.
+• Regular physical activity should be encouraged in asthma patients.
+• Weight-loss interventions should be considered to improve asthma
+control.
+Management of Asthma In Adults (Second Edition)
+7.
+ASTHMA EXACERBATION
+Exacerbation of asthma is defined as progressive or sudden deterioration
+in baseline clinical status of a patient and characterised by worsening
+respiratory symptoms e.g. increased shortness of breath, wheezing,
+coughing and chest tightness.2, 33 Exacerbations can be triggered by
+various factors e.g. respiratory infection, environmental pollutants or
+stress. Prompt recognition and treatment is important.2
+7.1. Assessment
+Assessment of an exacerbation involves a focused history and
+relevant physical examination with prompt initiation of treatment. A
+focused history should include time of onset, trigger factors, severity of
+symptoms, risk factors for asthma-related death, allergies and current
+asthma medications including doses, adherence pattern and response
+to treatment.2; 3 Although the history should be detailed, it should not
+compromise the assessment and treatment.
+The presence of any asthma-related death risk factors should be
+identified during exacerbations. Table 8 shows the factors associated
+with increased risk of asthma-related deaths.
+Table 8: Factors Associated with Increased Risk of
+Asthma-Related Deaths
+Related to asthma exacerbation:
+• previous exacerbations requiring mechanical ventilation and
+intubation2; 33
+• frequency of hospitalisation or emergency visits in the past
+year 2; 33
+Related to asthma control:
+• currently
+using
+or
+having
+recently
+stopped
+using
+oral
+corticosteroids2
+• not currently using ICS2
+• poor adherence to ICS-containing medications2
+• over-use of SABAs2; 33
+• poor adherence to a written asthma action plan2
+• lack of a written asthma action plan2
+Related to co-morbidity e.g. pneumonia, diabetes and arrhythmias2; 33
+Others:
+• Psychological, psychiatric and social conditions that cause difficult
+treatment adherence.2; 33
+• Confirmed food allergy or anaphylaxis2
+Management of Asthma In Adults (Second Edition)
+The physical examination includes vital signs assessment, evaluation
+of severity and, consideration of complications (e.g. pneumothorax)
+and differential diagnoses (e.g. heart failure). Chest X-ray (CXR) is not
+routinely indicated in all patients with asthma exacerbation. It should be
+considered in patients with atypical symptoms, suspected complications
+or diagnostic uncertainty in asthma management.
+Symptoms, signs and lung function measurements (PEF/FEV1)
+are used to classify asthma exacerbations into categories of mild,
+moderate, severe and life-threatening (refer to Table 9).33 While PEF
+or FEV1 are useful and valid measures of airway calibre, it may not be
+applicable to be used in acute asthma exacerbation. Treatment should
+be initiated immediately based on the severity of asthma exacerbation.
+Table 9: Classification of Severity of Asthma Exacerbation
+Note: Not all parameters need to be met to classify the severity. Classify using the
+most severe parameters.
+Adapted: Plaza Moral V, Alobid I, Álvarez Rodríguez C, et al. GEMA 5.3.
+Spanish Guideline on the Management of Asthma. Open Respir Arch.
+2023;5(4):100277.
+Level of
+consciousness
+Speech
+Respiratory rate
+Pulse rate
+Blood
+pressure
+Use of
+accessory
+muscles
+Breath sounds
+Oxygen
+saturation (SpO2)
+PaO2
+PaCO2
+Alert
+Normal
+Normal/
+<100/min
+Normal
+Absent
+Wheezing
+≥95%
+Normal
+Normal
+Alert
+Speaks in
+phrases
+>20/min
+100 – 120/min
+Normal
+Present
+Wheezing
+90 – 95%
+<80 mmHg
+<40 mmHg
+Alert/confused/
+drowsy
+Speaks in
+words
+>25/min
+>120/min
+Normal/
+hypotension
+Very evident
+Wheezing
+<90%
+<60 mmHg
+<40 mmHg
+or normal
+Confused/
+drowsy/coma
+Unable
+to speak
+<12/min
+Bradycardia/
+cardiac arrest
+Hypotension
+Paradoxical
+chest
+movement/
+absent
+Silent chest
+<90%
+< 60 mmHg
+>45 mmHg
+Clinical
+Parameters
+Mild
+Moderate
+Severe
+Lifethreatening
+Management of Asthma In Adults (Second Edition)
+Recommendation 8
+• Rapid clinical assessment of severity* should be performed for all
+asthma exacerbation.
+• Treatment should be initiated immediately based on severity of
+asthma exacerbation.
+*Refer to Table 9.
+7.2. Treatment
+i.
+Oxygen therapy
+Patients with asthma exacerbation are often hypoxaemic and may
+require oxygen therapy. Oxygen saturation of ≥94% should be
+maintained in all hypoxic asthma patients.3
+An RCT on severe asthma exacerbation complicated by respiratory
+failure showed that high flow nasal cannula (HFNC) led to significantly
+higher pO2 and, lower heart rate and respiratory rate at 24 and 48
+hours after admission compared with conventional oxygen therapy
+(COT). However, overall clinical response was NS between the two
+groups.53, level I
+Another RCT on severe asthma exacerbation with hypoxaemia in the
+ED setting found that HFNC gave higher comfort scale (MD=3, 95%
+CI 2 to 4) and reduction in dyspnoea (MD=4.7, 95% CI 1.5 to 7.8) than
+COT.54, level I
+Non-invasive ventilation (NIV) involves the delivery of oxygen into the
+lungs via positive pressure without the need for endotracheal intubation.
+In a retrospective cohort study on patients admitted to ICU with asthma
+exacerbation, NIV reduced the risk of intubation (OR=0.36, 95% CI
+0.32 to 0.40) and in-hospital mortality (OR=0.48, 95% CI 0.40 to 0.58)
+compared with no NIV.55, level II-2
+A cohort study of adults with asthma exacerbation-related hospitalisation
+found that history of 1 - 2 asthmatic exacerbation in the past 12
+months was a strong independent predictor for requirement of invasive
+mechanical ventilation with OR of 3.12 (95% CI 1.19 to 8.21).56, level II-2
+• Patients who are having life-threatening asthma exacerbations with
+signs of respiratory distress, worsening hypoxaemia, hypercapnia,
+altered mental status, or failure to respond to maximal medical
+therapy should be considered for early intubation and referral to
+critical care.
+Management of Asthma In Adults (Second Edition)
+Recommendation 9
+• Oxygen saturation of ≥94% should be maintained in all hypoxic
+asthma patients.
+• In asthma exacerbation in emergency department, high flow nasal
+cannula should be considered over conventional oxygen therapy.
+ii.
+β2-Agonists
+Inhaled β2-agonists is the first-line treatment in asthma exacerbation.2; 3
+In mild to moderate asthma exacerbations, pressurised metered dose
+inhaler via spacer is the preferred method of delivery. In severe and lifethreatening exacerbations, continuous delivery of nebulised oxygendriven β2-agonists should be used.3
+There is no new evidence on the effectiveness and safety of nebulised
+β2-agonists in acute asthma.
+• Oral SABA should not be used in asthma exacerbation due to their
+systemic side effects.3
+• pMDI with spacer should not be used in life-threatening asthma.3
+• There is no current evidence supporting the routine use of parenteral
+β2-agonists in patients with asthma exacerbation. It should only
+be reserved for ventilated patients or those with life-threatening
+asthma in critical care settings who do not respond to other
+treatments.2; 3; 26; 33
+Recommendation 10
+• In asthma exacerbation, inhaled β2-agonist is the first-line treatment.
+• Oral short-acting β2-agonist (SABA) should not be used in asthma
+exacerbation.
+iii.
+Ipratropium bromide
+A Cochrane systematic review demonstrated that combined inhaled
+therapy (ipratropium bromide + SABA) was more effective than SABA
+alone in adult patients with asthma exacerbation presenting to ED in
+terms of:57, level I
+• lower risk of hospitalisation (RR=0.72, 95% CI 0.59 to 0.87)
+• improved FEV1 (MD=0.25 L, 95% CI 0.02 to 0.48)
+• improved PEF (MD=36.58 L/min, 95% CI 23.07 to 50.09) and
+higher percent improvement in PEF (MD=24.88%, 95% CI 14.83
+to 34.93)
+iv.
+Systemic corticosteroids
+Systemic corticosteroids reduce inflammation, hasten resolution
+of exacerbations and prevent subsequent relapses in asthma. The
+Management of Asthma In Adults (Second Edition)
+medication should always be administered as early as possible. This is
+important especially in patients not responding to initial treatment with
+SABA, develop exacerbation while on OCS or has history of previous
+exacerbations requiring OCS.2
+The suggested daily dose of prednisolone ranges from 0.5 to 1 mg/
+kg of the ideal body weight with a maximum of 50 mg daily or 200
+mg of intravenous hydrocortisone in divided doses. This dosage should
+be maintained for 5 to 7 days and can be stopped without gradual
+reduction.2; 33
+Administration of corticosteroids by oral, intramuscular (IM) or IV route
+provides similar biological results, but oral route is less invasive and
+cheaper.2 A Cochrane systematic review on acute asthma patients
+showed similar effectiveness between a single dose of IM corticosteroids
+and OCS prior to discharge of from ED in proportion of relapse and risk
+of AEs.58, level I
+v.
+Inhaled corticosteroids
+Asthma
+patients
+should
+continue
+their
+maintenance
+inhaled
+corticosteroids (via pMDI or DPI) when prescribed with systemic
+corticosteroids.3
+A cross-sectional study showed that additional budesonide inhalation
+suspension to a combination of LABA and IV systemic corticosteroids
+reduced length of hospital stay (OR=2.99, 95% CI 1.11 to 8.06) and
+shortened recovery time from symptoms (OR=6.58, 95% CI 2.03 to
+21.3).59, level III
+However, in a meta-analysis, there was NS difference between ICS
+vs systemic corticosteroids in admission to hospital among adults with
+asthma exacerbation. The included evidence comprised of both ICS
+delivered through pMDI and nebuliser.60, level I Data was drawn from
+studies beyond the scope of the CPG.
+There is insufficient evidence to support the use of nebulised
+corticosteroids in asthma exacerbation in emergency department.
+Recommendation 11
+• Systemic corticosteroids should be given in all patients with asthma
+exacerbation.
+ These patients should continue their maintenance inhaled
+corticosteroids.
+Management of Asthma In Adults (Second Edition)
+vi.
+Magnesium sulphate
+A single dose of IV magnesium sulphate has been recommended for
+severe and life-threatening asthma.2; 26 In acute exacerbation of asthma
+not responding to initial treatments and have persistent hypoxaemia, a
+single 2 g infusion of the medication over 20 minutes reduces hospital
+admissions in patients with FEV1 <25 – 30% predicted at presentation.2
+A single dose of IV magnesium sulphate is safe and may improve
+lung function and reduce intubation rates in patients with acute severe
+asthma.26
+There is no retrievable evidence of benefit from repeated dosing of
+magnesium sulphate in asthma exacerbation. Repeated doses could
+cause hypermagnesemia with muscle weakness and respiratory
+fatigue.26
+Nebulised magnesium sulphate is not recommended for treatment in
+adults with acute asthma. Its addition to nebulised β2-agonist (with
+or without nebulised ipratropium) provides no benefit in terms of lung
+function or need for hospital admission.26
+Recommendation 12
+• A single dose of 2 g intravenous magnesium sulphate infusion over
+20 minutes should be considered in acute severe and life-threatening
+asthma.
+vii.
+Aminophylline
+IV aminophylline has limited effectiveness apart from unfavourable AEs
+compared with standard therapy. Therefore, it should not be routinely
+used in asthma exacerbation. Consultation with a senior physician is
+advisable if its use is required.3
+7.3. Monitoring and Evaluation
+Monitoring and evaluation of severity of asthma exacerbation include
+mental status, vital signs and clinical examination. Restlessness is
+an early sign of hypoxia. It is essential to closely monitor patients and
+adjust their treatment as needed.
+Oxygen saturation levels of <90% indicates the need for aggressive
+management. Saturation should be assessed before oxygen is
+commenced or five minutes after oxygen is removed or when saturation
+stabilises.2
+Arterial blood gas (ABG) measurement is not routinely required. It
+should be considered for patients with PEFR <50% or those who do
+Management of Asthma In Adults (Second Edition)
+not respond to initial treatment or are deteriorating. A PaO2<60 mmHg
+and a normal or increased PaCO2 (especially >45 mmHg) indicates
+respiratory failure. Chest X-ray should be considered in patients who do
+not respond to treatment or if an alternative diagnosis or complication
+e.g. pneumothorax, pneumomediastinum or pneumonia is suspected.2
+• The CPG DG opines that patients with severe or life-threatening
+asthma exacerbation should be monitored frequently to assess their
+response to treatment and ensure they do not deteriorate. Monitoring
+includes:
+ Vital signs - Monitor continuously or at least every 15 – 30 minutes,
+including SpO2, respiratory rate, heart rate and blood pressure.
+ Mental status - Monitor for any signs of lethargy, restlessness or
+other changes indicating hypoxia or hypercapnia, or confusion.
+ Auscultation - Regularly check for changes in breath sounds,
+rhonchi or silent chest.
+ ABG - Monitor hypercapnia or hypoxaemia. A rising or normal
+PaCO2 may indicate impending respiratory arrest.
+The specific frequency of monitoring might vary based on the severity
+of the exacerbation, response to treatment, and institutional protocols.
+Patients with severe exacerbations often require close, continuous
+observation until they stabilize.
+Recommendation 13
+• Monitoring and evaluation of severity of asthma exacerbation should
+include mental status, vital signs and respiratory assessment.
+• In severe and life-threatening asthma arterial blood gases should be
+done
+7.4. Criteria for Admission
+All patients with progressive deterioration following initial treatment and
+those with severe or life-threatening asthma should be admitted.2 Other
+factors that may be considered for admission are:
+• older age2
+• use of more than eight SABA puffs in previous 24 hours2
+• past history of severe exacerbations (e.g. intubations, asthma
+admissions)2
+• past history of unscheduled clinic and emergency department
+visits requiring use of OCS2
+• living alone/socially isolated3
+• psychological problems3
+• physical disability3
+Management of Asthma In Adults (Second Edition)
+Patients with asthma exacerbation who respond poorly to optimal
+treatment and are at-risk of respiratory failure should be considered for
+early referral to critical care team.3
+7.5. Criteria for Discharge
+There are no specific parameters that assure safe discharge of
+patients with exacerbation.33 The decision is usually the result of the
+doctor’s clinical observation of the patient’s condition. Patients may be
+discharged from hospital if they can follow their prescribed treatment at
+home, have few symptoms or need less reliever medications.
+Arrangements should be made for a follow-up appointment prior to
+discharge from the emergency department. Additionally, it is important
+to discuss strategies to improve asthma management, including
+medications adherence, proper inhaler techniques and an asthma
+action plan.2 The follow-up plan should include a referral letter to a clinic
+for the patient to be seen within seven days.
+Recommendation 14
+• All patients with severe, life-threatening asthma should be admitted.
+• Early referral to critical care team should be considered for patients
+with asthma exacerbation who respond poorly to optimal treatment.
+• Patients with asthma may be discharged with asthma action plan if
+they:
+ have resolution of symptoms after treatment and
+ are able to follow their prescribed treatment at home
+• Following asthma exacerbation, all patients should be given a followup plan upon discharge.
+Management of Asthma In Adults (Second Edition)
+8.
+SPECIAL GROUPS
+8.1. Severe Asthma
+Severe asthma affects about 5 - 10% of asthma patients. These patients
+experience poor QoL, increased morbidity and mortality, and increased
+healthcare utilisation. Up to 40% of these patients rely on maintenance
+or frequent use of systemic corticosteroids which leads to serious AEs.
+Asthma is heterogeneous, with various clinical phenotypes driven by
+complex biologic endotypes including type-2 (T2) high, T2 low and
+mixed endotypes. Patients with severe asthma should be evaluated by
+the respiratory physicians, discussed in MDTs and be considered for
+biologic therapy to improve outcomes.
+In managing severe asthma, it is crucial to understand the definition of
+difficult-to-treat and severe asthma as follows:
+Classification
+Criteria
+Includes one or both of the following:
+• poor symptom control in the past four weeks (≥3
+of the following)
+- daytime asthma symptoms more than twice/
+week
+- reliever use more than twice/week
+- activity limitation due to asthma
+- night waking due to asthma
+• frequent exacerbations*
+- ≥2/year requiring OCS and/or
+- serious
+exacerbations
+(≥1/year)
+requiring
+hospitalisation
+Uncontrolled
+asthma
+Defined by any of the following:
+• uncontrolled
+asthma
+despite
+medium-
+or
+high-dose ICS with a second maintenance
+(usually LABA) or maintenance OCS
+• requires high-dose treatment to maintain good
+symptom control and reduce exacerbation risk
+The condition may be influenced by modifiable
+factors:
+• incorrect inhaler technique
+• poor adherence
+• smoking
+• co-morbidities
+It may be due to an incorrect diagnosis or asthma
+mimickers e.g. vocal cord dysfunction or COPD
+Difficult-totreat asthma
+Management of Asthma In Adults (Second Edition)
+* also consider frequent nebuliser use in the local settings
+**medium- or high-dose ICS with a second controller or maintenance
+OCS
+Figure 3: Relationship of asthma, uncontrolled asthma, difficult
+to treat asthma and severe asthma.
+The above figure shows different asthma types with overlapping circles
+indicating shared features.
+a.
+Risk Factors
+Several risk factors can contribute to the development of severe
+asthma. A large cohort study on asthma patients found the following
+were significantly more prevalent in severe asthma than non-severe
+asthma:61, level II-2
+• incompletely reversible airflow limitation
+• being prone to exacerbation
+• neutrophilic airway inflammation
+• obesity
+• vocal cord dysfunction
+• obstructive sleep apnoea
+• depression
+A subset type of difficult-to-treat asthma. It is
+characterised either by:
+• uncontrolled asthma despite adherence to
+maximal optimised high-dose ICS-LABA and
+management of contributory factors
+OR
+• worsening asthma control when high-dose
+treatment** is reduced
+Inhaler technique and other modifiable factors
+should be addressed before considering the
+diagnosis of severe asthma.
+Severe
+asthma
+UA = uncontrolled asthma
+DTA = difficult-to-treat asthma
+SA = severe asthma
+Management of Asthma In Adults (Second Edition)
+• systemic inflammation
+• gastrooesophageal reflux disease
+• inhaler device polypharmacy
+• Aspergillus sensitisation
+Identifying and addressing these risk factors through early intervention,
+comprehensive asthma management strategies, patient education and
+multidisciplinary care can help reduce the risk of developing severe
+asthma and improve overall asthma outcomes.
+T2 inflammation is present in 95% of patients with severe asthma and
+can be readily identified using biomarkers. It reflects the underlying
+pathobiology of asthma, which is directly involved in the causal
+pathway of asthma exacerbations. It also represents actionable targets
+for anti-inflammatory therapy, including ICS, OCS and biologics.
+An RCT demonstrated that the use of composite biomarkers of T2
+inflammation is important and may support biomarker-adjusted steroid
+reduction.62, level I
+b.
+Treatment
+i.
+Systemic corticosteroids
+Long-term treatment with OCS has been recognised as adjunct therapy
+in uncontrolled asthma. Systemic corticosteroids are considered the
+last therapeutic option and should be used at the lowest effective dose
+and for the shortest duration possible.2; 33
+Exposure to both long-term and repeated acute courses of systemic
+corticosteroids (>4 courses of OCS in a lifetime) is associated with a high
+risk of serious AEs e.g. osteoporosis, fracture, pneumonia, heart failure,
+cardio-/cerebrovascular disease, type 2 diabetes mellitus, depression/
+anxiety, cataract, renal impairment and weight gain, especially when
+prescribed onto a background of other corticosteroids.63, level III; 64, level II-2
+ii.
+Biologics
+Biologics are add-on treatments for severe asthma after optimising
+therapy. Phenotype assessment is mandatory prior to biologics
+selection. Currently, the approved biologics are anti-IgE (omalizumab),
+anti-IL5/5R (mepolizumab, reslizumab, benralizumab), anti-IL4Rα
+(dupilumab) and anti-Thymic Stromal Lymphopoietin (tezepelumab).
+A recent local Health Technology Assessment showed mepolizumab,
+benralizumab, dupilumab and tezepelumab significantly reduced the
+exacerbations and hospitalisation/ED visit, improved lung function,
+asthma control and QoL, and reduced the use of oral corticosteroids
+especially among patients with high level of BEC (≥300 cells/µL)
+and unresponsive to the optimal therapy with acceptable safety
+profile.65, level I
+Management of Asthma In Adults (Second Edition)
+A systematic review based on real-world evidence on omalizumab as
+an add-on therapy in patients with uncontrolled moderate-to-severe
+allergic asthma showed it:66, level II-3
+• improved lung function: FEV1 improved by 12.4% after one year of
+omalizumab therapy, by 23%, 29% and 48% after 3, 4 and 9 years
+respectively.
+• reduced corticosteroids use
+ 70.8% of patients either stopped corticosteroids or were able to
+reduce the dose of OCS by 40% or more after one year
+ 34% reduction in mean total annual quantity of OCS prescribed
+between the 12 months pre- and post-omalizumab initiation
+ all patients stopped OCS after four and nine years
+The primary papers used were of fairly good quality.
+A Cochrane systematic review showed that dupilumab (anti-IL4Rα)
+compared with placebo in moderate to severe asthma improved the
+following:67, level I
+• FEV1 at 12 weeks (MD=0.14, 95% CI 0.11 to 0.16) and 24 weeks
+(MD=0.13, 95% CI 0.11 to 0.16)
+• ACQ score at 12 weeks (MD= -0.74, 95% CI -1.20 to -0.28) and 24
+weeks (MD= -0.43, 95% CI -0.67 to -0.19)
+• FeNO at 12 weeks (MD= -17.58, 95% CI -21.87 to -13.29) and 24
+weeks (MD= -19.50, 95% CI -24.74 to -14.25)
+• immunoglobulin E level at 12 weeks (MD= -149.27, 95% CI
+-176.39 to -122.16) and 24 weeks (MD= -210.28, 95% CI -365.02
+to -55.55)
+However, it was associated with increased blood eosinophils at 12 and
+24 weeks. There was NS difference in most adverse events. All primary
+papers were of low risk of bias.
+Another Cochrane systematic review supported the use of antiIL5/5R treatments as an adjunct to standard care in people with
+severe eosinophilic asthma and poor symptom as they reduced
+the rates of ‘clinically significant’ asthma exacerbation except for
+SC reslizumab:68, level I
+• mepolizumab (anti-IL5) SC with RR=0.45 (95% CI 0.36 to 0.55
+• mepolizumab IV with RR=0.53 (95% CI 0.44 to 0.64)
+• reslizumab (anti-IL5) IV with RR=0.43 (95% CI 0.33 to 0.55)
+• benralizumab (anti-IL5R) SC with RR=0.59 (95% CI 0.52 to 0.66)
+There is limited evidence for improved health-related quality of life
+(HRQoL) scores and lung function, which may not meet clinically
+detectable levels. There were no excess serious adverse events with
+any anti-IL5/5R treatments. The majority of primary papers had low risk
+of bias.
+A third Cochrane systematic review assessing the use anti-IL-13 or
+anti-IL-4 agents in patients with asthma showed:69, level I
+Management of Asthma In Adults (Second Edition)
+• lower rate of exacerbations requiring hospitalisation or emergency
+department (ED) visit with tralokinumab vs placebo (RR=0.68,
+95% CI 0.47 to 0.98)
+• improved in adjusted asthma quality of life questionnaire score
+with anti-IL-13/-4 vs placebo (MD=0.18 units, 95% CI 0.12 to
+0.24); however, it was not a clinically relevant improvement
+• NS difference in all-cause serious AEs between interleukin-13/-4
+agents and placebo
+Factors to consider for biologics therapy include age, number of
+exacerbations in previous year, regular OCS use, asthma control, QoL,
+lung function, biomarkers (blood eosinophil count, FeNO and, serum
+total and allergen-specific IgE) and co-morbidities (e.g. nasal polyposis,
+atopic dermatitis) along with cost. A guide to targeted biologics selection
+is shown in Appendix 10.
+iii.
+Macrolides
+The addition of azithromycin in severe asthma patients, particularly
+those with eosinophilic phenotype, had been demonstrated to reduce
+exacerbations compared with placebo (overall: IRR=0.61, 95% CI
+0.49 to 0.78; eosinophilic phenotype: IRR=0.63, 95% CI 0.44 to 0.92).
+However, its addition to the treatment regimen of severe asthma
+patients already receiving OCS showed no additional benefit.70, level I
+A meta-analysis of five RCTs on uncontrolled asthma patients showed
+an improvement in FEV1 with the use of azithromycin compared with
+placebo (MD=0.06, 95% CI 0.01 to 0.12). However, no significant
+reduction in exacerbations was observed. This data was derived from
+three trials, which varied in dosage and duration from 12 weeks to 48
+weeks.71, level I Primary papers of mixed quality were included.
+For non-T2 asthma, treatment with azithromycin, bronchial thermoplasty
+or systemic glucocorticoids may be considered as treatment options.33
+The CPG DG recommends the following:
+• dosing of azithromycin for asthma is 500 mg per dose, 3 times per
+week or 250 mg daily
+• up to one-year duration of azithromycin therapy
+However, some patients may require a longer course of therapy
+based on specialist care. Prior to initiating the therapy, it is essential
+to investigate for potential non-tuberculous mycobacterial infection. In
+cases with long QTc medications or risk factors for hearing loss, an
+ECG and/or an audiogram should be considered.
+Management of Asthma In Adults (Second Edition)
+Recommendation 15
+• Biologics should be considered as add-on treatment for severe
+asthma after optimising therapy. Phenotype assessment should be
+conducted prior to this.
+• Long-term oral corticosteroids should be reserved for severe asthma
+when no alternative treatments are available. They should be tapered
+off or to the lowest effective dose with side effects closely monitored.
+• Azithromycin may be considered as an add-on treatment in
+asthma patients who remained uncontrolled on high-dose inhaled
+corticosteroids.
+8.2. Pregnancy and Breastfeeding
+During pregnancy, asthma may worsen, improve or remain unchanged.
+However, in patients with pre-existing severe asthma, the asthma
+control is more likely to worsen during pregnancy.3
+a.
+Diagnosis
+Diagnosis of asthma in pregnancy is made similar to non-pregnant
+woman.3 However, bronchoprovocation tests are contraindicated.2
+In patients where clinical history is consistent with asthma and no
+alternative diagnosis is found, asthma treatment may be initiated and
+the confirmatory diagnostic investigations can be postponed until after
+delivery.2
+b.
+Assessment and monitoring
+A cross-sectional study on asthma in pregnancy showed that both
+GINA classification and ACT had significant association with spirometry
+values (FEV1 and FVC) indicating that these tools can be effectively
+used to assess asthma control.72, level III
+Two RCTs on pregnant asthma patients showed that FeNO was
+useful in guiding treatment and identifying the need of ICS (p=0.0002).
+FeNO-guided treatment demonstrated significantly better ACQ score
+and reduction in exacerbation rate compared with non-FeNO guided
+treatment.73, level I; 74, level I However, in a recent larger RCT found that
+FeNO-guided treatment in pregnant woman did not show any significant
+difference in perinatal outcomes or exacerbations compared with nonFeNO guided treatment.75, level I
+During pregnancy, patients with asthma should be monitored every 4
+to 6 weeks.2; 3
+Management of Asthma In Adults (Second Edition)
+c.
+Treatment
+Treatment of asthma during pregnancy provides more benefits than the
+potential risks associated with commonly used asthma medications.2
+The treatment of asthma in pregnancy is the same as in non-pregnant
+patients as listed below.2; 26; 3
+• ICS is safe and remains the preferred long-term maintenance and
+should be continued.
+• Inhaled β2-agonists and LTRA are safe and should be continued.
+• Step-down treatment should be deferred until after delivery.
+• Biologics for asthma should be considered only when benefits
+outweigh risks after consultation with a specialist.
+Pregnant women are particularly susceptible to asthma exacerbation
+especially during the second trimester. Poor symptom control and
+exacerbations are associated with worse outcomes for both mother and
+foetus including an increased risk of pre-eclampsia, pre-term delivery,
+low birth weight and perinatal mortality.2
+The treatment of asthma exacerbations is the same as in non-pregnant
+patients.2; 26; 3
+• Prompt treatment with bronchodilators, oxygen and systemic
+corticosteroids is needed to avoid foetal hypoxia.
+• Magnesium sulphate can be administered if indicated.
+• Oxygen saturation should be maintained between 94 and 98%.
+• Continuous foetal monitoring should be considered.
+• Early referral to critical care is recommended for moderate to
+severe asthma exacerbations.
+During labour, asthma treatment remains the same.2; 26
+• The maintenance inhaler should be continued with reliever used
+as needed.
+• For patients requiring anaesthesia, regional blockade is preferred.
+• In patients who are on prednisolone exceeding 7.5 mg/day for
+more than 2 weeks prior to delivery, IV hydrocortisone 100 mg
+every 6 to 8 hours should be administered during labour to prevent
+adrenal insufficiency.
+• Prostaglandin F2α should be used with caution due to the risk of
+bronchoconstriction.
+Asthma patients should be encouraged to breastfeed and their asthma
+medications should be continued during lactation.26
+Management of Asthma In Adults (Second Edition)
+Recommendation 16
+• Pregnant asthma patients should be treated the same as nonpregnant patients, both during stable state and exacerbation.
+• Inhaled corticosteroids-containing therapy should be initiated in
+pregnant asthma patients and continued if already being used.
+• Stepping-down of asthma treatment in pregnancy should be delayed
+until after delivery.
+8.3. Occupational Asthma
+Occupational asthma (OA) is a form of work-related asthma caused by
+specific workplace exposures and triggered by immunologic or nonimmunologic airborne stimuli present in the workplace.76 Workplace
+exposures account for an estimated 5 – 20% of new cases of adult
+onset asthma.2 Patients with pre-existing asthma or new adult-onset
+asthma whose symptoms worsen due to non-specific factors in the
+workplace are considered to have work-aggravated asthma and not
+OA.76
+a.
+Risk factors
+Over 400 causes of OA have been described. Individual susceptibility
+and level of workplace allergen exposure are key risk factors for
+developing OA.76
+In a systematic review, a cross-sectional study showed that
+inhalable particulate dust was a risk factor for occupational asthma.
+A cohort study identified atopy to be a predictive risk of occupational
+asthma.77, level III
+Common occupational groups and workplace agents identified to be at
+risk for OA are shown in Table 10.76
+Table 10: Frequently Reported Causes of Occupational Asthma
+Occupational Groups
+- Animal handlers
+- Bakers
+- Carpenters
+- Chemical workers
+- Cleaners
+- Dental workers
+- Electrical/electronic
+production workers
+- Farm workers
+- Food processors
+- Forestry workers
+- Hairdressers
+- Laboratory
+technicians
+- Metal workers
+- Painters
+- Plastics/rubber
+workers
+- Storage workers
+- Textile workers
+- Waiters
+- Welders
+Management of Asthma In Adults (Second Edition)
+Workplace Agents
+- Animal’s and
+insects’ protein
+(animal dander,
+urine, saliva,
+serum proteins)
+- Chemicals and
+solvents
+(aldehydes, acids
+and alkalis)
+- Colophony and
+fluxes
+- Drugs (antibiotics,
+others)
+- Dyes (used in
+textile)
+- Henna and
+persulphates
+- Isocyanates
+- Metals (e.g.
+chromium,
+cobalt, nickel,
+zinc)
+- Plant protein
+(flour and grain
+dust, latex)
+- Wood dust
+• Patients with OA exhibit typical asthma symptoms and are often
+employed in high-risk occupations. They experience a significant
+improvement in symptoms when away from work or on vacation.
+b.
+Diagnosis and assessment
+The diagnosis of OA is based on recognising characteristic symptoms
+and ruling out other possible explanations. A detailed occupational
+history should cover the nature of the patient’s work, possible exposure
+to irritants, patterns of symptoms in relation to work and presence of
+improvement in symptoms on days off work.
+• All working-age adults with new or worsening asthma symptoms,
+reappearance of childhood asthma or unexplained airflow obstruction
+should be asked about their occupation.
+PEFR is an important tool in diagnosing and monitoring OA. An
+objective diagnosis of OA should be made using serial peak-flow
+measurements.76
+• PEFR should be done as per Appendix 3.
+• Minimum of four readings should be recorded per day, preferably
+before taking bronchodilator.
+• The readings should be done two hours apart during waking
+hours.
+• The duration of recording should be at least three weeks which
+ideally includes three series of workdays with three periods away
+from work.
+• Work times, task exposures and medication should be recorded
+with timing specified.
+A variability of ≥20% on workdays compared to off days is suggestive
+of work-related asthma.3 Refer to Appendix 11 on example of
+measurement.
+Management of Asthma In Adults (Second Edition)
+Other diagnostic modalities for OA include specific IgE assays, skin
+prick tests for causative factors and specific inhalation challenge tests.76
+c.
+Treatment
+Early diagnosis and identification of occupational sensitisers, along
+with worker relocation or hazard substitution, are crucial aspects of OA
+management. Relocating away from exposure as soon as the diagnosis
+is confirmed, ideally within 12 months of experiencing the first workrelated symptoms of asthma is recommended.76
+A Cochrane systematic review on patients with OA showed that:78, level II-1
+• removal from occupational exposure vs continued exposure
+resulted in –
+ increased likelihood of reporting absence of asthma symptoms
+(RR=4.80, 95% CI 1.67 to 13.86)
+ improved asthma symptoms (RR=2.47, 95% CI 1.26 to 4.84)
+ improvement in FEV1 (MD=4.23, 95% CI 1.14 to 7.31)
+ improvement in non-specific bronchial hyperresponsiveness
+(SMD=0.43, 95% CI 0.03 to 0.82)
+• reduced exposure vs continued exposure resulted in –
+ increased likelihood of reporting absence of symptoms
+(RR=2.65, 95% CI 1.24 to 5.68)
+ NS difference in FEV1
+• Patients with suspected OA should be referred to a specialist for
+further evaluation. Confirmed cases of OA should be notified using
+WEHU-L1 (JKKP7) form to the Department of Occupational Safety
+and Health.
+Recommendation 17
+• All working-age adults with new or worsening asthma symptoms,
+reappearance of childhood asthma or unexplained airflow obstruction
+should be asked about their occupation.
+• Patients with suspected OA should be referred to a specialist for
+further evaluation and confirmed cases should be notified to the
+Department of Occupational Safety and Health.
+8.4. Exercise-induced Bronchoconstriction
+Exercise-induced bronchoconstriction (EIB) is deﬁned as acute airway
+narrowing (which is transient and reversible) that occurs during or after
+exercise and can be observed in both patients who have and those who
+do not have chronic asthma.79, level III
+Management of Asthma In Adults (Second Edition)
+Diagnosis of EIB in adults relies on typical clinical symptoms and
+demonstration of reversible airflow limitation, primarily through
+exercise or surrogate challenges.3 Diagnostic test involves measuring
+a post-exercise fall in FEV1 of >10% measured 30 minutes after
+exercise cessation.33 The recommended assessment for EIB is a
+decrease in FEV1 post-challenge through exercise testing or indirect
+bronchoprovocation tests (e.g. mannitol challenge).80
+Patients with well-controlled EIB can exercise safely with proper
+management. They are advised to perform gradual increase intensity
+of warm-up exercises before engaging in sports activities which can
+help reduce the severity of bronchoconstriction.33 Patients can use
+SABA (in non-asthmatic EIB) or ICS-SABA or low-dose ICS-formoterol
+for reliever as needed, prior to exercise, with regular daily ICS regimen
+to help reduce EIB.2 The recommendations on the use of LTRA in EIB
+are not consistent.2; 26
+8.5. Asthma with Co-morbidities
+Co-morbidity is a common problem in patients with asthma and
+associated with increased risk of AEs to treatment, poorer quality of
+life and increased healthcare utilisation compared with those without
+co-morbidities. Patients with multiple co-morbidities often have difficultto-treat or severe asthma. Active management of co-morbidities is
+important to improve asthma control and asthma-related outcomes.
+a.
+Obesity
+Obesity is defined as BMI >27.5 kg/m2.81 Patients with asthma who
+are obese tend to have poor asthma control and do not respond well
+to standard asthma treatment. Thus, BMI should be recorded in all
+asthma patients.2
+The treatment of obese asthma patients is no different from that of other
+asthma patients. ICS remains the mainstay of treatment. However,
+the response to ICS may be reduced due to activation of alternative
+pathways of inflammation (non-type-2 inflammation).2
+Weight loss is important in managing these patients and should be
+advocated.81 Weight reduction in obese adults with asthma improves
+symptoms, lung function, morbidity and health status.26 A weight loss of
+at least 5% can lead to an improvement in FEV1.2; 81
+b.
+Obstructive sleep apnoea
+The majority of obstructive sleep apnoea (OSA) patients are overweight
+but non-obese patients can also have OSA. For those who are obese,
+treatments are similar as outlined in the above section. Continuous
+positive airway pressure (CPAP) therapy is the recommended treatment
+Management of Asthma In Adults (Second Edition)
+for OSA patients.2; 82 CPAP therapy has been shown to reduce risk of
+asthma exacerbation.2
+c.
+Allergic rhinitis
+Most patients with asthma have allergic rhinitis while 10 – 40% of
+patients with allergic rhinitis have asthma.3 Rhinitis is defined as irritation
+and inflammation of the mucous membranes of the nose and can be
+either allergic or non-allergic. Symptoms may vary with environmental
+and/or occupational exposure (e.g. furred pets, house dust mite, molds,
+pollens).2 Intranasal corticosteroids is the most effective therapy for
+allergic rhinitis.26 LTRA as an add-on therapy can be beneficial in
+patients with concomitant seasonal allergic rhinitis and asthma.3
+d.
+Chronic rhinosinusitis
+Rhinosinusitis is defined as inflammation of the nose and paranasal
+sinuses and, characterised by more than two symptoms including
+nasal blockage/obstruction and/or nasal discharge (anterior/posterior
+nasal drip). Other symptoms may include facial pain/pressure and/or a
+reduction or loss of smell. Chronic rhinosinusitis (CRS) is defined when
+symptoms occur on most days for at least 12 weeks without complete
+resolution. It can be further classified into CRS with nasal polyps and
+without nasal polyps.2
+CRS is associated with more severe asthma, especially in patients with
+nasal polyps. The treatment of CRS should follow the local guidelines.83
+The presence of nasal polyps may guide the selection of biologic
+treatment in severe asthma.2
+e.
+Gastroesophageal reflux disease
+GERD causes symptoms e.g. heartburn, epigastric or chest pain and
+dry cough. Patients with asthma are more likely to experience GERD
+compared with general population due to relaxation of lower sphincter
+caused by β2-agonists. Treatment of GERD has no clear effect on
+symptoms, lung function or airway responsiveness. Proton-pump
+inhibitors has shown benefits in asthma patients with GERD who have
+symptomatic reflux and nocturnal respiratory symptoms.2
+f.
+Anxiety and depression
+Psychiatric co-morbidities e.g. anxiety and depression are linked to
+poor asthma control, reduced medication adherence and poor QoL.
+Patients with these co-morbidities have more frequent exacerbations
+and emergency department visits.2 Referring to psychiatry services is
+important to aid proper assessment and effective management of these
+patients.
+Management of Asthma In Adults (Second Edition)
+8.6. Asthma and COVID-19
+Patients with asthma are not at increased risk of COVID-19. The risk
+of COVID-19-related death is only increased in patients with severe
+asthma or those on long-term OCS. During COVID-19 infection, patients
+with asthma should continue their ICS-containing medications.2
+While nebulisers can transmit respiratory viral particles, most
+published literature was either inconclusive or did not substantiate a
+direct relationship between nebulised therapy and transmission of an
+infection. Therefore, if clinically indicated, nebuliser use should not be
+discouraged especially in life-threatening asthma and adherence to
+recommended safety measures should be emphasised.84, level III
+The use of pMDI with spacer is an alternative to nebulisers. It should
+be either single patient use or autoclaved if manufacturer permits.2 If
+a commercial spacer is not available or unaffordable, homemade or
+custom-made spacers e.g. plastic bottles may be used but should not
+be regarded as equivalent replacements due to their variable sizes,
+shapes and existing electrostatic charge on the devices’ wall.85
+A study evaluating the effectiveness of four accessory devices
+(homemade spacer, Dolphin spacer, DispozABLE paper spacer and
+AeroChamber Plus VHC) in delivering aerosolised drugs from a pMDI
+showed that homemade and Dolphin spacers had the lowest emitted
+dose fractions with large amounts of salbutamol remaining in these
+spacers (p<0.05) compared with the pMDI alone or the other accessory
+devices.86, level III
+Asthma in patients with COVID-19 is treated similarly to those without
+COVID-19. During COVID-19 infection, patients with asthma should
+continue their ICS-containing medications. Potential interactions of
+COVID-19 and asthma medications should be assessed in particular
+ritonavir-boosted nirmatrelvir (paxlovid) with ICS-salmeterol or ICSvilanterol which can cause increased cardiac toxicity of LABA.2
+A cross-sectional study of patients who had recovered from COVID-19
+(at least 7 days after COVID-19 infection) found that 1.5% of the patients
+were confirmed to have asthma. COVID-19 patients had higher odds of
+developing new-onset asthma (OR=4.55, 95% CI 1.29 to 17.89) with
+time between COVID-19 and asthma diagnosis ranged from 27 – 271
+days. In the population who were confirmed asthma:87, level III
+• most common clinical presentations were coughing (100%),
+sputum production (83.3%), wheezing (83.3%) and dyspnoea
+(50.0%)
+• all patients had elevated blood eosinophils (291 – 1219 cells/μL)
+and four patients had increased FeNO (>20 ppb)
+Management of Asthma In Adults (Second Edition)
+• all patients who were treated with medium or high-dose ICS and
+LABA with or without systemic corticosteroids had symptoms
+improvement
+The Post-COVID-19 Management Protocol 2021 states that COVID-19
+patients should be followed-up according to their COVID-19 category at
+12 weeks after discharge. Symptomatic patients should have CXR and
+exertional test done. Patients with abnormalities should be referred for
+further management.88
+Management of Asthma In Adults (Second Edition)
+9.
+REFERRAL
+Asthma management can be challenging especially in cases where the
+condition is severe or complex. To ensure optimal patient care, timely
+referral to a respiratory physician or physicians experienced in asthma
+management is essential as they can offer advanced diagnostic and
+therapeutic strategies that go beyond standard care.
+The indications for asthma referral include:
+• difficulty in confirming the diagnosis of asthma
+• severe or uncontrolled asthma
+• severe or life-threatening asthma exacerbations
+• asthma in pregnancy
+• frequent unscheduled healthcare visits for exacerbations
+• frequent bursts or ongoing use of OCS
+• asthma with multiple co-morbidities
+• asthma with concurrent food allergy or anaphylaxis
+• suspected occupational asthma
+10.
+IMPLEMENTING THE GUIDELINES
+The management of asthma should be guided by an evidence-based
+approach, in order to provide quality care to the patients. Several
+factors may affect the implementation of recommendations in the CPG.
+10.1. Facilitating and Limiting Factors
+Existing facilitating factors for application of the recommendations in
+the CPG include:
+• wide online dissemination of the CPG to healthcare providers
+nationwide
+• regular respiratory scientific meetings/congress and trainings
+nationally where updates on asthma management are delivered
+• Malaysian Thoracic Society Adults Severe Asthma Registry Steering
+Committee that oversees the programme on asthma and severe
+asthma registry
+• Respiratory Pharmacy Protocol developed by the Clinical Pharmacy
+Working Committee (Respiratory Subspecialty) of MoH to optimise
+pharmacists’ management of asthma in hospitals and clinics
+• Asthma Malaysia website where reliable and credible information on
+asthma is provided to public
+• World Asthma Day celebration and educational activities at various
+hospital level across country to raise awareness on asthma and its
+management
+• Malaysian Thoracic Society Spirometry Certification Workshop,
+Inhaler Steering Committee
+Management of Asthma In Adults (Second Edition)
+Existing barriers for application of the recommendations of the CPG
+are:
+• insufficient knowledge on asthma diagnosis and its management
+among healthcare providers
+• inadequate accessibility to asthma training at all levels of healthcare
+• inadequate accessibility to diagnostic tools in asthma e.g. spirometry,
+etc.
+• inadequate resources to manage asthma e.g. inhalers, biologics,
+sub-specialty clinic, etc.
+• lack of proper subspecialty or post-basic training in respiratory
+medicine including asthma for allied healthcare
+• lack of awareness, knowledge and understanding on asthma among
+patients and caregivers
+10.2. Potential Resource Implications
+The recommendations in this CPG require additional resources in terms
+of funds, healthcare infrastructures and human resources/expertise for
+their successful implementation as discussed below.
+Training programmes for healthcare providers are needed to ensure
+they are equipped with the latest knowledge and skills in asthma
+management. These include ongoing education and certification
+programmes to keep healthcare providers updated on best practices
+and emerging treatments. Apart from that, educational resources
+in multiple languages and platforms should be made available and
+accessible to patients, caregivers and public. These will improve
+treatment adherence and asthma management which will prevent
+frequent and severe exacerbations.
+In the diagnosis of asthma, spirometry is essential to confirm
+obstructive lung disease and reversibility. However, this vital tool
+is not readily available especially at primary care. On another note,
+inhalers are the primary method for delivering treatment for asthma.
+The issues related to the use of inhalers have been emphasised and
+addressed in length in this new edition of CPG. Numerous inhaler types
+are available in market to match different patients need. Unfortunately,
+these are not always accessible in healthcare facilities as well. These
+are dampened by commonly encounter incorrect inhaler techniques
+due to confusion and lack of training of the different devices in both
+patients and healthcare providers. It is important to emphasised that
+SABA inhalers are available without a prescription which allow patients
+to purchase them over-the-counter and this may lead to overreliance
+on SABA medications. Thus, healthcare providers should be educated
+on the harmful effects of SABA monotherapy which should be avoided
+in the clinical practice.
+Management of Asthma In Adults (Second Edition)
+Biologics for treatment of severe asthma incurs a high cost and may not
+be accessible to many patients who may require them. This situation
+often leads to the need for long-term OCS and expose patients to risk
+to many AEs. There are also limited accessibility to specialised severe
+asthma clinics with trained personnel to manage these patients.
+Several key performance indexes on asthma management being
+monitored by MOH is in line with the CPG recommendations. Thus, the
+following are proposed as clinical audit indicators for the CPG:
+Target 80%
+Target 100%
+Target 100%
+Implementation strategies will be developed following the approval of
+the CPG by MoH which include Quick Reference and Training Module.
+Percentage
+of newly
+diagnosed
+asthma patients
+who undergo
+spirometry for
+diagnosis
+=
+Number of newly diagnosed asthma patients
+in the same period
+Number of newly diagnosed asthma patients
+who undergo spirometry for diagnosis
+in a period
+x100%
+Percentage
+of adults with
+newly diagnosed
+asthma
+prescribed
+with inhaled
+ICS-containing
+therapy
+=
+Number of adults with newly diagnosed
+asthma in the same period
+Number of adults with newly diagnosed
+asthma prescribed with inhaled
+ICS-containing therapy in a period
+x100%
+Percentage of
+patients given
+a follow-up plan
+upon discharged
+following
+treatment
+for asthma
+exacerbations
+=
+Number of patients discharged
+following treatment for asthma
+exacerbations in the same period
+Number of patients given a follow-up plan
+upon discharged following treatment
+for asthma exacerbations in a period
+x100%
+Management of Asthma In Adults (Second Edition)
+REFERENCES
+1.
+Sánchez-Ramos J, Pereira-Vega A, Alvarado-Gómez F, et al. Risk factors for
+Premenstrual Asthma. A systematic review and meta-analysis. Expert review of
+respiratory medicine. 2016;11.
+2.
+Global Initiative for Asthma (GINA). Global Strategy for Asthma Management
+and Prevention (2024 update). 2024 (Available at: https://ginasthma.org/2024report/)
+3.
+Ministry of Health, Malaysia. Clinical Practice Guidelines Management of Asthma
+in Adults. Putrajaya: MoH; 2017.
+4.
+Kew KM, Flemyng E, Quon BS, et al. Increased versus stable doses of inhaled
+corticosteroids for exacerbations of chronic asthma in adults and children.
+Cochrane Database Syst Rev. 2022;9(9):CD007524.
+5.
+McKeever T, Mortimer K, Wilson A, et al. Quadrupling Inhaled Glucocorticoid
+Dose to Abort Asthma Exacerbations. N Engl J Med. 2018;378(10):902-10.
+6.
+Ban AY, Vengadasalam P, Taher SW, et al. Short-acting β(2)-agonist prescription
+patterns and clinical outcomes in Malaysia: A nationwide cohort of the SABINA
+III study. Malays Fam Physician. 2023;18:32.
+7.
+Dhippayom T, Wateemongkollert A, Mueangfa K, et al. Comparative Efficacy
+of Strategies to Support Self-Management in Patients with Asthma: A
+Systematic Review and Network Meta-Analysis. J Allergy Clin Immunol Pract.
+2022;10(3):803-14.
+8.
+Federman AD, O’Conor R, Mindlis I, et al. Effect of a Self-management
+Support Intervention on Asthma Outcomes in Older Adults: The SAMBA Study
+Randomized Clinical Trial. JAMA Intern Med. 2019;179(8):1113-21.
+9.
+Roche N, Aggarwal B, Boucot I, et al. The impact of inhaler technique on clinical
+outcomes in adolescents and adults with asthma: A systematic review. Respir
+Med. 2022;202:106949.
+10. Price DB, Román-Rodríguez M, McQueen RB, et al. Inhaler Errors in the
+CRITIKAL Study: Type, Frequency, and Association with Asthma Outcomes. J
+Allergy Clin Immunol Pract. 2017;5(4):1071-81.e9.
+11. Halpin DMG, Mahler DA. A Systematic Review of Published Algorithms for
+Selecting an Inhaled Delivery System in Chronic Obstructive Pulmonary
+Disease. Ann Am Thorac Soc. 2022;19(7):1213-20.
+12. Klijn SL, Hiligsmann M, Evers S, et al. Effectiveness and success factors of
+educational inhaler technique interventions in asthma & COPD patients: a
+systematic review. NPJ Prim Care Respir Med. 2017;27(1):24.
+13. Al-Kharouf MS, Abdeljalil MH, Obeidat NM, et al. Video-based teach-togoal intervention on inhaler technique on adults with asthma and COPD: A
+randomized controlled trial. PloS one. 2023;18(6):e0286870.
+14. Usmani OS, Hickey AJ, Guranlioglu D, et al. The Impact of Inhaler Device
+Regimen in Patients with Asthma or COPD. J Allergy Clin Immunol Pract.
+2021;9(8):3033-40.e1.
+15. Murphy J, McSharry J, Hynes L, et al. Prevalence and predictors of adherence to
+inhaled corticosteroids in young adults (15-30 years) with asthma: a systematic
+review and meta-analysis. J Asthma. 2021;58(5):683-705.
+16. Gagné M, Boulet LP, Pérez N, et al. Patient-reported outcome instruments that
+evaluate adherence behaviours in adults with asthma: a systematic review of
+measurement properties. Br J Clin Pharmacol. 2018;84(9):1928-40.
+17. Muneswarao J, Hassali MA, Ibrahim B, et al. Translation and validation of the
+Test of Adherence to Inhalers (TAI) questionnaire among adult patients with
+asthma in Malaysia. J Asthma. 2021;58(9):1229-36.
+18. Asamoah-Boaheng M, Osei Bonsu K, Farrell J, et al. Measuring Medication
+Adherence in a Population-Based Asthma Administrative Pharmacy Database:
+A Systematic Review and Meta-Analysis. Clin Epidemiol. 2021;13:981-1010.
+Management of Asthma In Adults (Second Edition)
+19. van de Hei SJ, Dierick BJH, Aarts JEP, et al. Personalized Medication Adherence
+Management in Asthma and Chronic Obstructive Pulmonary Disease: A Review
+of Effective Interventions and Development of a Practical Adherence Toolkit. J
+Allergy Clin Immunol Pract. 2021;9(11):3979-94.
+20. Dokbua S, Dilokthornsakul P, Chaiyakunapruk N, et al. Effects of an Asthma
+Self-Management Support Service Provided by Community Pharmacists:
+A Systematic Review and Meta-Analysis. J Manag Care Spec Pharm.
+2018;24(11):1184-96.
+21. Chiew S, Ibrahim H, Choon C, et al. Cost-Effectiveness of Respiratory Medication
+Therapy Adherence Clinic (RMTAC) Among Government Health Clinics In Kuala
+Lumpur & Putrajaya. Perak Medical Journal. 2019;1(Supp 01).
+22. Babineau-Therrien J, Boulet LP, Gagné M. Self-management support provided
+by trained asthma educators result in improved quality of life and asthma control
+compared to usual care: A systematic review and meta-analysis. Patient Educ
+Couns. 2020;103(8):1498-506.
+23. Pérez de Llano L, García-Rivero JL, Urrutia I, et al. A Simple Score for Future
+Risk Prediction in Patients with Controlled Asthma Who Undergo a GuidelinesBased Step-Down Strategy. J Allergy Clin Immunol Pract. 2019;7(4):1214-21.e3.
+24. Crossingham I, Turner S, Ramakrishnan S, et al. Combination fixed-dose beta
+agonist and steroid inhaler as required for adults or children with mild asthma.
+Cochrane Database Syst Rev. 2021;5(5):CD013518.
+25. Papi A, Chipps BE, Beasley R, et al. Albuterol-Budesonide Fixed-Dose
+Combination Rescue Inhaler for Asthma. N Engl J Med. 2022;386(22):2071-83.
+26. Scottish Intercollegiate Guidelines Network & British Thoracic Society. British
+guideline on the management of asthma. UK: SIGN-BTS; 2019.
+27. Ismail AI, Hyder Ali IA, Wong CK, et al. A Retrospective Study Evaluating Asthma
+Control in Patients on Fluticasone Propionate/Salmeterol Proactive Regular
+Dosing with a History of Uncontrolled Asthma. Pulm Ther. 2025;11(1):25-40.
+28. O’Shea O, Stovold E, Cates CJ. Regular treatment with formoterol and an
+inhaled corticosteroid versus regular treatment with salmeterol and an inhaled
+corticosteroid for chronic asthma: serious adverse events. Cochrane Database
+Syst Rev. 2021;4(4):CD007694.
+29. Liu T, Yang D, Liu C. Extrafine HFA-beclomethasone-formoterol vs. nonextrafine
+combination of an inhaled corticosteroid and a long acting β2-agonist in patients
+with persistent asthma: A systematic review and meta-analysis. PloS one.
+2021;16(9):e0257075.
+30. Rogliani P, Ritondo BL, Ora J, et al. SMART and as-needed therapies in mild-tosevere asthma: a network meta-analysis. Eur Respir J. 2020;56(3).
+31. Chauhan BF, Jeyaraman MM, Singh Mann A, et al. Addition of anti-leukotriene
+agents to inhaled corticosteroids for adults and adolescents with persistent
+asthma. Cochrane Database Syst Rev. 2017;3(3):CD010347.
+32. US Food and Drug Administration. Drug Safety Communications – FDA requires
+Boxed Warning about serious mental health side effects for asthma and allergy
+drug montelukast (Singulair); advises restricting use for allergic rhinitis (Available
+at: https://www.fda.gov/media/135840/download?attachment).
+33. Plaza Moral V, Alobid I, Álvarez Rodríguez C, et al. GEMA 5.3. Spanish Guideline
+on the Management of Asthma. Open Respir Arch. 2023;5(4):100277.
+34. Rogliani P, Calzetta L, Ora J, et al. Efficacy and safety profile of doxofylline
+compared to theophylline in asthma: A meta-analysis. Multidiscip Respir Med.
+2019;14:25.
+35. Calzetta L, Matera MG, Goldstein MF, et al. A long-term clinical trial on the
+efficacy and safety profile of doxofylline in Asthma: The LESDA study. Pulm
+Pharmacol Ther. 2020;60:101883.
+36. Kim LHY, Saleh C, Whalen-Browne A, et al. Triple vs Dual Inhaler Therapy and
+Asthma Outcomes in Moderate to Severe Asthma: A Systematic Review and
+Meta-analysis. JAMA. 2021;325(24):2466-79.
+Management of Asthma In Adults (Second Edition)
+37. Oba Y, Anwer S, Maduke T, et al. Effectiveness and tolerability of dual and
+triple combination inhaler therapies compared with each other and varying
+doses of inhaled corticosteroids in adolescents and adults with asthma: a
+systematic review and network meta-analysis. Cochrane Database Syst Rev.
+2022;12(12):CA013799.
+38. Chipps B, Mosnaim G, Mathur SK, et al. Add-on tiotropium versus step-up
+inhaled corticosteroid plus long-acting beta-2-agonist in real-world patients with
+asthma. Allergy Asthma Proc. 2020;41(4):248-55.
+39. Undela K, Goldsmith L, Kew KM, et al. Macrolides versus placebo for chronic
+asthma. Cochrane Database Syst Rev. 2021;11(11):CD002997.
+40. Blakey J, Chung LP, McDonald VM, et al. Oral corticosteroids stewardship for
+asthma in adults and adolescents: A position paper from the Thoracic Society of
+Australia and New Zealand. Respirology. 2021;26(12):1112-30.
+41. Wongsa C, Phinyo P, Sompornrattanaphan M, et al. Efficacy and Safety of
+House Dust Mite Sublingual Immunotherapy Tablet in Allergic Asthma: A
+Systematic Review of Randomized Controlled Trials. J Allergy Clin Immunol
+Pract. 2022;10(5):1342-55.e24.
+42. Thomson NC, Polosa R, Sin DD. Cigarette Smoking and Asthma. J Allergy Clin
+Immunol Pract. 2022;10(11):2783-97.
+43. Andújar-Espinosa R, Salinero-González L, Illán-Gómez F, et al. Effect of vitamin
+D supplementation on asthma control in patients with vitamin D deficiency: the
+ACVID randomised clinical trial. Thorax. 2021;76(2):126-33.
+44. Camargo CA, Jr., Toop L, Sluyter J, et al. Effect of Monthly Vitamin D
+Supplementation on Preventing Exacerbations of Asthma or Chronic Obstructive
+Pulmonary Disease in Older Adults: Post Hoc Analysis of a Randomized
+Controlled Trial. Nutrients. 2021;13(2).
+45. Williamson A, Martineau AR, Sheikh A, et al. Vitamin D for the management of
+asthma. Cochrane Database Syst Rev. 2023;2(2):CD011511.
+46. Russell MA, Janson C, Real FG, et al. Physical activity and asthma: A longitudinal
+and multi-country study. J Asthma. 2017;54(9):938-45.
+47. Kawamatawong T, Sangasapaviriya A, Saiphoklang N, et al. Guidelines for the
+management of asthma in adults: Evidence and recommendations. Asian Pac J
+Allergy Immunol. 2022;40(1):1-21.
+48. Andreasson KH, Skou ST, Ulrik CS, et al. Breathing Exercises for Patients with
+Asthma in Specialist Care: A Multicenter Randomized Clinical Trial. Ann Am
+Thorac Soc. 2022;19(9):1498-506.
+49. Anshu, Singh N, Deka S, et al. The effect of yoga on pulmonary function in patients
+with asthma: A meta-analysis. Complement Ther Clin Pract. 2023;50:101682.
+50. Osadnik CR, Gleeson C, McDonald VM, et al. Pulmonary rehabilitation
+versus usual care for adults with asthma. Cochrane Database Syst Rev.
+2022;8(8):CD013485.
+51. Vasileiou E, Sheikh A, Butler C, et al. Effectiveness of Influenza Vaccines
+in Asthma: A Systematic Review and Meta-Analysis. Clin Infect Dis.
+2017;65(8):1388-95.
+52. The
+Malaysian
+Thoracic
+Society.
+The
+Malaysian
+Thoracic
+Society
+Recommendations on Inhalational Therapy During the COVID-19 Pandemic.
+2020 (Available at: https://mts.org.my/download/MTS_Recommendations_on_
+Inhalational_Therapy_During_COVID19_Pandemic.pdf)
+53. Geng W, Batu W, You S, et al. High-Flow Nasal Cannula: A Promising Oxygen
+Therapy for Patients with Severe Bronchial Asthma Complicated with Respiratory
+Failure. Can Respir J. 2020;2020:2301712.
+54. Ruangsomboon O, Limsuwat C, Praphruetkit N, et al. Nasal High-flow Oxygen
+Versus Conventional Oxygen Therapy for Acute Severe Asthma Patients: A Pilot
+Randomized Controlled Trial. Acad Emerg Med. 2021;28(5):530-41.
+55. Althoff MD, Holguin F, Yang F, et al. Noninvasive Ventilation Use in Critically
+Ill Patients with Acute Asthma Exacerbations. Am J Respir Crit Care Med.
+2020;202(11):1520-30.
+Management of Asthma In Adults (Second Edition)
+56. Nakwan N, Prateepchaiboon T. Predicting the requiring intubation and invasive
+mechanical ventilation among asthmatic exacerbation-related hospitalizations. J
+Asthma. 2022;59(3):507-13.
+57. Kirkland SW, Vandenberghe C, Voaklander B, et al. Combined inhaled betaagonist and anticholinergic agents for emergency management in adults with
+asthma. Cochrane Database Syst Rev. 2017;1(1):CD001284.
+58. Kirkland SW, Cross E, Campbell S, et al. Intramuscular versus oral corticosteroids
+to reduce relapses following discharge from the emergency department for acute
+asthma. Cochrane Database Syst Rev. 2018;6(6):CD012629.
+59. Ito K, Kanemitsu Y, Fukumitsu K, et al. The impact of budesonide inhalation
+suspension for asthma hospitalization: In terms of length of stay, recovery time
+from symptoms, and hospitalization costs. Allergol Int. 2020;69(4):571-7.
+60. Kearns N, Maijers I, Harper J, et al. Inhaled Corticosteroids in Acute Asthma:
+A Systemic Review and Meta-Analysis. J Allergy Clin Immunol Pract.
+2020;8(2):605-17.e6.
+61. McDonald VM, Hiles SA, Godbout K, et al. Treatable traits can be identified
+in a severe asthma registry and predict future exacerbations. Respirology.
+2019;24(1):37-47.
+62. Heaney LG, Busby J, Hanratty CE, et al. Composite type-2 biomarker strategy
+versus a symptom-risk-based algorithm to adjust corticosteroid dose in patients
+with severe asthma: a multicentre, single-blind, parallel group, randomised
+controlled trial. Lancet Respir Med. 2021;9(1):57-68.
+63. Bleecker ER, Menzies-Gow AN, Price DB, et al. Systematic Literature Review
+of Systemic Corticosteroid Use for Asthma Management. Am J Respir Crit Care
+Med. 2020;201(3):276-93.
+64. Price DB, Carter V, Martin J, et al. Comparative Safety Profile of the FixedDose Combination Corticosteroid and Long-acting β(2)-Agonist Fluticasone
+Propionate/Formoterol Fumarate: A 36-Month Longitudinal Cohort Study in UK
+Primary Care. Drugs. 2020;80(1):47-60.
+65. Maharita AR, Khairil Idham I, Baihaqi M, et al. Biologics in Severe Asthma: Health
+Technology Assessment. Malaysia: Malaysian Health Technology Assessment
+Section (MaHTAS); 2024. 100p. Report No.: 01/2024.
+66. Colombo GL, Di Matteo S, Martinotti C, et al. Omalizumab and long-term
+quality of life outcomes in patients with moderate-to-severe allergic asthma: A
+systematic review. Ther Adv Respir Dis. 2019;13:1753466619841350.
+67. Zaazouee MS, Alwarraqi AG, Mohammed YA, et al. Dupilumab efficacy and
+safety in patients with moderate to severe asthma: A systematic review and
+meta-analysis. Front Pharmacol. 2022;13:992731.
+68. Farne HA, Wilson A, Milan S, et al. Anti-IL-5 therapies for asthma. Cochrane
+Database Syst Rev. 2022;7(7):CD010834.
+69. Gallagher A, Edwards M, Nair P, et al. Anti-interleukin-13 and anti-interleukin-4
+agents versus placebo, anti-interleukin-5 or anti-immunoglobulin-E agents, for
+people with asthma. The Cochrane Database Syst Rev. 2021;10(10):CD012929.
+70. Hiles SA, McDonald VM, Guilhermino M, et al. Does maintenance azithromycin
+reduce asthma exacerbations? An individual participant data meta-analysis. Eur
+Respir J. 2019;54(5).
+71. Wang X, Luo J, Wang D, et al. The efficacy and safety of long-term add-on
+treatment of azithromycin in asthma: A systematic review and meta-analysis.
+Medicine. 2019;98(38):e17190.
+72. de Araujo GV, Leite DF, Rizzo JA, et al. Asthma in pregnancy: association between
+the Asthma Control Test and the Global Initiative for Asthma classification and
+comparisons with spirometry. Eur J Obstet Gynecol Reprod Biol. 2016;203:25-9.
+73. Murphy VE, Porsbjerg CM, Robijn AL, et al. Biomarker-guided management
+reduces exacerbations in non-eosinophilic asthma in pregnancy: A secondary
+analysis of a randomized controlled trial. Respirology (Carlton, Vic).
+2020;25(7):719-25.
+Management of Asthma In Adults (Second Edition)
+74. Powell H, Murphy VE, Taylor DR, et al. Management of asthma in pregnancy
+guided by measurement of fraction of exhaled nitric oxide: A double-blind,
+randomised controlled trial. Lancet 2011;378(9795):983-90.
+75. Murphy VE, Jensen ME, Holliday EG, et al. Effect of asthma management with
+exhaled nitric oxide versus usual care on perinatal outcomes. Eur Respir J.
+2022;60(5).
+76. Barber CM, Cullinan P, Feary J, et al. British Thoracic Society Clinical Statement
+on occupational asthma. Thorax. 2022;77(5):433-42.
+77. Md Zamri ASS, Saruddin MZ, Harun A, et al. Factors associated with
+occupational asthma among food industry workers: A systematic review. PloS
+one. 2023;18(6):e0287040.
+78. Henneberger PK, Patel JR, de Groene GJ, et al. Workplace interventions
+for treatment of occupational asthma. Cochrane Database Syst Rev.
+2019;10(10):CD006308.
+79. Aggarwal B, Mulgirigama A, Berend N. Exercise-induced bronchoconstriction:
+prevalence, pathophysiology, patient impact, diagnosis and management. NPJ
+Prim Care Respir Med. 2018;28(1):31.
+80. Hull JH, Burns P, Carre J, et al. BTS clinical statement for the assessment
+and management of respiratory problems in athletic individuals. Thorax.
+2022;77(6):540-51.
+81. Ministry of Health, Malaysia. Clinical Practice Guidelines Management of
+Obesity (Second Edition). Putrajaya: MoH; 2023.
+82. Ministry of Health, Malaysia. Clinical Practice Guidelines Management of
+Obstructive Sleep Apnoea. Putrajaya: MoH; 2022.
+83. Ministry of Health, Malaysia. Clinical Practice Guidelines Management of
+Chronic Rhinosinusitis. Putrajaya: MoH; 2017.
+84. Biney IN, Ari A, Barjaktarevic IZ, et al. Guidance on Mitigating the Risk of
+Transmitting Respiratory Infections During Nebulization by the COPD Foundation
+Nebulizer Consortium. Chest. 2024;165(3):653-68.
+85. The
+Malaysian
+Thoracic
+Society.
+The
+Malaysian
+Thoracic
+Society
+Recommendations on Inhalational Therapy During the COVID-19 Pandemic.
+2020 (Available at: https://mts.org.my/download/MTS_Recommendations_on_
+Inhalational_Therapy_During_COVID19_Pandemic.pdf)
+86. Saeed H, Abdelrahim ME, Rabea H, et al. Evaluation of Disposable and
+Traditional Accessory Devices for Use With a Pressurized Metered-Dose Inhaler.
+Respir Care. 2020;65(3):320-5.
+87. Lee H, Kim BG, Chung SJ, et al. New-onset asthma following COVID-19 in
+adults. J Allergy Clin Immunol Pract. 2023;11(7):2228-31.
+88. Ministry of Health, Malaysia. Post COVID-19 Management Protocol. Putrajaya:
+MoH; 2021.
+Management of Asthma In Adults (Second Edition)
+Appendix 1
+EXAMPLE OF SEARCH STRATEGY
+Clinical Question: What are the effective and safe treatments for
+severe asthma?
+Database: Ovid MEDLINE® ALL <1946 to February 28, 2023>
+Search Strategy:
+1.
+ASTHMA/
+2.
+asthma*.tw.
+3.
+(asthma adj1 bronchial).tw.
+4.
+1 or 2 or 3
+5.
+Uncontrol*.tw.
+6.
+severe.tw.
+7.
+difficult to treat.tw.
+8.
+(poorly adj1 controlled).tw.
+9.
+5 or 6 or 7 or 8
+10. 4 and 9
+11. THERAPEUTICS/
+12. therap*.tw.
+13. treat*.tw.
+14. 11 or 12 or 13
+15. 10 and 14
+16. limit 15 to (English language and humans and yr=”2017 -Current”
+and “all adult (19 plus years)”)
+17. limit 16 to “systematic review”
+Management of Asthma In Adults (Second Edition)
+Appendix 2
+CLINICAL QUESTIONS
+1.
+What are the risk factors of asthma in adults?
+2.
+What are the diagnostic criteria of asthma in adults?
+3.
+What are the treatment goals of asthma in adults?
+4.
+What should be included in patient education for adults with
+asthma?
+• general information and modality of delivery
+• inhaler information and techniques
+• adherence improvement
+• self-management
+- self-monitoring
+- Asthma Action Plan
+5.
+What is the accuracy of assessment tools in asthma in adults?
+6.
+What are the criteria to step-up or step-down treatment for asthma
+in adults?
+7.
+What are the effectiveness and safety of the following nonpharmacological interventions for asthma in adults:
+• smoking cessation
+• vaccination
+• allergen (indoor/outdoor) avoidance
+• lifestyle modification (exercise, diet, supplement)
+• complementary therapy
+• bronchothermoplasty
+8.
+What are the effectiveness and safety of the following
+pharmacological interventions for asthma in adults:
+• short-acting bronchodilators (SABA)
+• inhaled corticosteroids (ICS)
+• combination of ICS/long-acting beta2-agonist (LABA)
+• maintenance and reliever therapy (MART)
+• long-acting muscarinic-antagonist (LAMA)
+• triple therapy of ICS/LABA/LAMA
+• leukotriene receptor antagonists
+• theophylline
+• macrolides
+• oral corticosteroids
+• biologic therapy
+• sublingual immunotherapy
+• combination ICS/SABA
+• emerging therapies
+9.
+How should acute asthma be assessed?
+10. How should severity of acute asthma in adults be graded?
+• mild, moderate, life-threatening, near fatal
+• life-threatening features
+• referral criteria to secondary care
+Management of Asthma In Adults (Second Edition)
+11. What are the effectiveness and safety of the following interventions
+for acute asthma in adults:
+• oxygen
+• bronchodilators
+• corticosteroids
+• magnesium
+• ipratropium bromide
+• aminophylline
+• antibiotics/antiviral therapy
+12. What are the parameters to monitor in acute asthma in adults?
+• clinical features (physical signs e.g. respiratory rate, cyanosis,
+PEFR)
+• investigations (SaO2, arterial blood gases ABG)
+13. When should mechanical ventilation be considered in acute
+asthma?
+14. What are the discharge plans in acute asthma?
+15. COVID-19 and asthma
+• What are the effective and safe therapies in COVID-19 with
+asthma?
+• What is the effectiveness and safety of homemade spacers in
+COVID-19 with asthma?
+• What is the effectiveness and safety of reusable spacers in
+COVID-19 with asthma?
+• What are the effective and safe treatment of post-COVID-19
+persistent asthma-like symptoms?
+16. Uncontrolled asthma, difficult to treat asthma and severe asthma
+• How should uncontrolled asthma, difficult to treat asthma and
+severe asthma be diagnosed and assessed?
+• What are the risk factors for severe asthma?
+• What are the effective and safe treatments for severe asthma?
+17. Asthma in pregnancy
+• How should asthma in pregnancy be diagnosed and assessed?
+• What are the effective and safe pharmacological treatments of
+asthma in pregnancy?
+• What are the effective and safe pharmacological treatments of
+asthma in breastfeeding?
+18. Occupational asthma (OA)
+• How should OA be diagnosed and assessed?
+• What are the risk factors for OA?
+• What are effective and safe treatments in OA?
+19. Exercise-induced bronchoconstriction (EIB)
+• How should EIB be diagnosed and assessed?
+• What are effective and safe treatments in EIB?
+20. What are effective and safe treatments of asthma with comorbidity?
+21. What are the referral criteria of patients with asthma to respiratory
+physicians?
+Management of Asthma In Adults (Second Edition)
+Appendix 3
+PEAK EXPIRATORY FLOW RATE VARIABILITY
+Peak expiratory flow (PEF) rate variability is an alternative way to
+diagnose patients with asthma.
+Firstly, patient need to be educated on the use the PEF meter at home.
+Preferably the correct technique and reading being done in the clinic
+before asking patient to do (record) it at home.
+Patient is asked to use the same PEF meter (to reduce bias) to record
+his peak expiratory meter in the morning and evening preferably at the
+same time of the day. They need to be advised to do PEF reading three
+times and record the highest reading in a given table.
+Diurnal PEF variability is calculated from twice daily readings as below:
+Day’s highest – Day’s lowest
+x 100
+(Mean of day’s highest and lowest)
+Then the average of each day is calculated over 1 to 2 weeks.
+Example:
+Total diurnal PEF Variability = (11.3 + 23.0 + 25.7 + 22.2 + 23.0
++ 19.6 + 18.5) = 143.3%
+Mean Diurnal PEF Variability = 143.3 % ÷ 7 days
+= 20.47 %
+Diurnal PEF Variability is significant if the reading is >20% in adults
+Management of Asthma In Adults (Second Edition)
+Appendix 4
+PEAK EXPIRATORY FLOW NOMOGRAM
+Mark the patient’s height and age on the respective lines. Draw a straight
+line connecting the two points and extend this line to the corresponding
+gender line to get the expected PEF value.
+Source: Da Costa JL, Goh BK. Peak expiratory flow rate in normal adult Chinese in
+Singapore. Singapore Med J. 1973;14(4):511-4
+Management of Asthma In Adults (Second Edition)
+Appendix 5
+A. SUGGESTED ASTHMA ACTION PLAN TEMPLATE
+Name:
+Doctor:
+IC. No.:
+Hospital/Clinic:
+Best PEF:
+Date:
+This asthma action plan helps you to recognise and respond to
+worsening asthma
+Note: The use of pMDI with spacer is encouraged
+Management of Asthma In Adults (Second Edition)
+B. SUGGESTED ASTHMA ACTION PLAN TEMPLATE –
+MART (MAINTENANCE-AND-RELIEVER THERAPY)
+Name:
+Doctor:
+IC. No.:
+Hospital/Clinic:
+Best PEF:
+Date:
+This asthma action plan helps you to recognise and respond to
+worsening asthma
+Note: The use of pMDI with spacer is encouraged
+Management of Asthma In Adults (Second Edition)
+Appendix 6
+INHALER DEVICES AND TECHNIQUES
+• Inhaler techniques must be checked and corrected, if necessary, at every single opportunity.
+• Ensure no foreign object in the mouthpiece and the inhaler is not empty or expired.
+Management of Asthma In Adults (Second Edition)
+6.
+*Shaking pMDI well immediately before each actuation is important for delivering the correct dose. While only suspension formulations require shaking,
+to avoid confusion, it is recommended that all pMDI is to be shaken before use.
+**Varies from product to product. Refer to manufacturer’s recommendations.
+***VHC are spacers that incorporate a one-way-valve. Tidal breathing can only be performed with VHCs.
+Management of Asthma In Adults (Second Edition)
+DRY POWDER INHALERS (DPIs)
+• DPIs are breath-actuated. Patients do not have to coordinate actuation with inhalation.
+• Forceful and deep inhalation is needed to create turbulent energy within the device, which de-agglomerates the powder into fine particles.
+Sufficient inspiratory flow is needed for optimal drug delivery.
+Management of Asthma In Adults (Second Edition)
+References:
+1. Usmani OS. Choosing the right inhaler for your asthma or COPD patient. Therapeutics and clinical risk management. 2019 Mar 14:461-72.
+2. Ohar JA, Ferguson GT, Mahler DA, Drummond MB, Dhand R, Pleasants RA, Anzueto A, Halpin DM, Price DB, Drescher GS, Hoy HM. Measuring peak
+inspiratory flow in patients with chronic obstructive pulmonary disease. International journal of chronic obstructive pulmonary disease. 2022 Jan 6:7992.
+3. The electronic Medicine Compendium (eMC) (Available at http://www.medicines.org.uk/emc/)
+4. Usmani O, Capstick T, Saleem A et. Scullion J (Development Group). Choosing an appropriate inhaler device for the treatment of adults with asthma
+or COPD. MGP Guidelines. 2020 (Available at: https://www.guidelines.co.uk/respiratory/inhaler-choice-guideline/455503.article)
+5. Asthma UK. How to use your inhaler (Available at https://www.asthmaandlung.org.uk/living-with/inhaler-videos)
+6. National Asthma Council Australia. Inhaler technique for people with asthma or COPD (Available at: https://extranet.who.int/ncdccs/Data/AUS_D1_
+Inhaler_Technique_Infopaper-FULL- UPDATED-11-1.pdf)
+Management of Asthma In Adults (Second Edition)
+Appendix 7
+TEST OF ADHERENCE TO INHALERS (TAI)
+SOALAN UJIAN PEMATUHAN ALAT SEDUT (TAI)
+1. Berapa kalikah anda lupa mengambil alat sedut anda dalam tempoh 7 hari yang lalu?
+Management of Asthma In Adults (Second Edition)
+Appendix 8
+ASTHMA CONTROL TESTTM
+Asthma Control Test provides a numerical score to determine the
+control of asthma symptoms.
+Management of Asthma In Adults (Second Edition)
+Appendix 9
+COMMON MEDICATIONS IN ASTHMA
+A. INHALED SHORT-ACTING β2-AGONISTS (SABA)
+B. INHALED CORTICOSTEROIDS (ICS)
+Management of Asthma In Adults (Second Edition)
+C. INHALED CORTICOSTEROIDS/LONG-ACTING β2-AGONISTS COMBINATION (ICS/LABA)
+Management of Asthma In Adults (Second Edition)
+Management of Asthma In Adults (Second Edition)
+Management of Asthma In Adults (Second Edition)
+Management of Asthma In Adults (Second Edition)
+D. LONG-ACTING MUSCARINIC ANTAGONISTS (LAMA)
+E. ICS/LABA/LAMA
+Management of Asthma In Adults (Second Edition)
+F. LEUKOTRIENE RECEPTOR ANTAGONISTS (LTRA)
+G. METHYLXANTHINE
+H. NEBULISER
+Management of Asthma In Adults (Second Edition)
+Management of Asthma In Adults (Second Edition)
+Appendix 10
+ALGORITHM FOR BIOLOGIC THERAPY SELECTION IN SEVERE ASTHMA
+3.
+Management of Asthma In Adults (Second Edition)
+Appendix 11
+EXAMPLE OF PEFR CALCULATION FOR OCCUPATIONAL ASTHMA
+This is an example of the serial peak flow record of an employee (marked with a red cross) who works in a chemical lab.
+The record shown is for week 1. (Due to space constraints, the charts for week 2 and week 3 are not included; however, the readings were taken in the
+same manner as in week 1)
+Symptoms must be tracked for 3 weeks and must include three series of workdays along with three periods away from work. The daily variability is plotted
+by the physician (marked with a yellow cross) after calculation.
+Management of Asthma In Adults (Second Edition)
+Calculating Variability in PEFR for Occupational Asthma
+1. Record PEFR readings
+2. Calculate daily variability:
+• For each day, find the highest and lowest PEFR readings
+• Calculate the daily variability using the formula
+Daily variability (%)
+=
+Mean PEFR of the day
+431.25
+(Highest PEFR – Lowest PEFR) x 100%
+Number of workdays
+Sum of daily variability on workdays
+e.g. Variability for Day 1 (%)
+=
+500 – 375
+x 100%
+=
+29.0%
+=
+3. Calculate mean workday variability and mean non-workday variability:
+Mean workday variability (%)
+=
+28.5% - 5.3%
+23.2%
+Mean workday variability − Mean non-workday variability
+4. Calculate work-related variability:
+Work related variability (%)
+=
+=
+Number of non-workdays
+Sum of daily variability on workdays
+Mean non-workday
+=
+variability (%)
+29.0 + 29.0 + 28.5 + 27.5 + 29.0 + 29.0 + 28.5 + 27.5 + 29.0 + 29.0 + 28.5 + 27.5
+=
+12
+28.5 %
+=
+5.5 + 5.2 + 5.1 + 5.5 + 5.2 + 5.1 + 5.5 + 5.2 + 5.1
+=
+9
+5.3 %
+A variability of ≥20% on workdays compared to off days is suggestive of work-related asthma
+The PEFR Monitoring Form for Occupational Asthma can be accessed from: Occupational Asthma PEFR Tracking Chart
+Management of Asthma In Adults (Second Edition)
+LIST OF ABBREVIATIONS
+AAP
+asthma action plan
+ABG
+arterial blood gas
+ACQ
+Asthma Control Questionnaire
+ACT
+Asthma Control Test
+AE(s)
+adverse event(s)/effect(s)
+AGREE II
+Appraisal of Guidelines, Research and Evaluation II
+AIR
+anti-inflammatory reliever
+AQLQ
+Asthma Quality of Life Questionnaire
+AUC
+area under the curve
+BCT
+behaviour change techniques
+BTS
+British Thoracic Society
+CI
+confidence interval
+COPD
+chronic obstructive pulmonary disease
+COT
+conventional oxygen therapy
+COX2
+cyclooxygenase-2
+CPAP
+continuous positive airway pressure
+CrI
+credible interval
+CRS
+chronic rhinosinusitis
+CXR
+chest x-ray
+DG
+Development Group
+DPI
+dry powder inhaler
+ECG
+electrocardiogramme
+ED
+Emergency Department
+e.g.
+example
+EIB
+exercise-induced bronchoconstriction
+FDA
+(United States) Food and Drug Administration
+FeNO
+fractional exhaled nitric oxide
+FVC
+forced vital capacity
+FEV1
+forced expiratory volume in first one second
+FMS
+Family Medicine Specialist
+GERD
+gastroesophageal reflux disease
+GINA
+Global Initiative for Asthma
+GRADE
+Grading of Recommendations, Assessment, Development and
+Evaluations
+HDM
+house dust mite
+HFA
+hydrofluoroalkane
+HFNC
+high flow nasal cannula
+HR
+hazard ratio
+HRQoL
+health-related quality of life
+ICS
+inhaled corticosteroids
+IgE
+immunoglobulin E
+IL
+interleukin
+IM
+intramuscular
+IRR
+incident rate ratio
+IV
+intravenous
+kU/L
+kilo unit per litre
+LABA
+long-acting β2-agonists
+LAMA
+long-acting muscarinic antagonists
+LLN
+lower limit normal
+LTRA
+leukotriene receptor antagonists
+Management of Asthma In Adults (Second Edition)
+MART
+maintenance and reliever therapy
+MCID
+minimal clinically important difference
+MD
+mean difference
+MDT
+multidisciplinary team
+µg
+microgramme
+mg
+milligramme
+ml
+millilitre
+mmHg
+millimetres of mercury
+MoH
+Ministry of Health
+NIV
+non-invasive ventilation
+NMA
+network meta-analysis
+NS
+non-significant
+OA
+occupational asthma
+OCS
+oral corticosteroids
+OR
+odds ratio
+OSA
+obstructive sleep apnoea
+p
+p-value
+PaO2
+partial pressure of arterial oxygen
+PaCO2
+partial pressure of arterial carbon dioxide
+PEF
+peak expiratory flow
+PEFR
+peak expiratory flow rate
+PIFR
+peak inspiratory flow rate
+pMDI
+pressurised metered dose inhaler
+ppb
+parts per billion
+PRN
+as needed
+PRO(s)
+patient-reported outcome(s)
+QoL
+quality of life
+RC
+Review Committee
+RCP
+Royal College of Physicians
+RCT
+randomised controlled trial
+RE
+relative effect
+RMTAC
+Respiratory Medication Therapy Adherence Clinic
+RoB
+Risk of Bias
+RR
+relative risk
+SABA
+short-acting β2-agonists
+SAE(s)
+serious adverse event(s)/effect(s)
+SD
+standard deviation
+SIGN
+Scottish Intercollegiate Guidelines Network
+SLIT
+sublingual immunotherapy
+SMD
+standardised mean difference
+SMI
+soft-mist inhaler
+SUCRA
+surface under the cumulative ranking curve
+T2
+type-2
+TAI
+Test of the Adherence to Inhalers
+TTG
+teach-to-goal
+VHC
+valved holding chamber
+WHO
+World Health Organization
+WMD
+weighted mean difference
+Management of Asthma In Adults (Second Edition)
+ACKNOWLEDGEMENT
+The members of CPG DG would like to express their gratitude and
+appreciation to the following for their contributions:
+• Panel of external reviewers who reviewed the draft
+• Technical Advisory Committee of CPG for their valuable input and
+feedback
+• Health Technology Assessment and Clinical Practice Guidelines
+Council for approving the CPG
+• Ms. Norharlina Che Zakaria on retrieval of evidence
+• All those who have contributed, directly or indirectly, to the
+development of the CPG
+DISCLOSURE STATEMENT
+The panel members of both DG and RC had completed disclosure
+forms. None held shares in pharmaceutical firms or acts as consultants
+to such firms. Details are available upon request from the CPG
+Secretariat.
+SOURCE OF FUNDING
+The development of the CPG on Management of Asthma in Adults
+(Second Edition) was supported mainly by the MoH Malaysia and partly
+by the Malaysian Thoracic Society.
+MALAYSIAN HEALTH TECHNOLOGY
+‘on Pury aay

@@ -1,0 +1,3621 @@
+2022 MOH/P/PAK/502.22(GU)-e
+CLINICAL PRACTICE GUIDELINES:
+enw
+MANAGEMENT OF
+CHRONIC HEPATITIS B
+IN ADULTS
+Management of Chronic Hepatitis B in Adults
+Published by:
+Malaysia Health Technology Assessment Section (MaHTAS)
+Medical Development Division, Ministry of Health Malaysia
+Level 4, Block E1, Precinct 1
+Federal Government Administrative Centre
+62590 Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is MaHTAS. Content may be
+reproduced in any number of copies and in any format or medium
+provided that a copyright acknowledgement to MaHTAS is included
+and the content is not changed, not sold, or used to promote or endorse
+any product or service, and not used in an inappropriate or misleading
+context.
+e ISBN: 978-967-2887-55-3
+Available on the following websites:
+http://www.moh.gov.my
+http://www.acadmed.org.my
+Also available as an app for Android and IOS platforms: MyMaHTAS
+STATEMENT OF INTENT
+These clinical practice guidelines (CPG) are meant to be guides for
+clinical practice, based on the best available evidence at the time of
+development. Adherence to these guidelines may not necessarily
+guarantee the best outcome in every case. Every healthcare provider is
+responsible for the management of his/her unique patient based on the
+clinical picture presented by the patient and the management options
+available locally.
+Management of Chronic Hepatitis B in Adults
+UPDATING THE CPG
+These guidelines were issued in 2022 and will be reviewed in a minimum
+period of four years (2026) or sooner if there is a need to do so. When
+it is due for updating, the Chairman of the CPG or National Advisor of
+the related specialty will be informed about it. A discussion will be done
+on the need for a revision including the scope of the revised CPG. A
+multidisciplinary team will be formed and the latest systematic review
+methodology used by MaHTAS will be employed. Every care is taken
+to ensure that this publication is correct in every detail at the time of
+publication. However, in the event of errors or omissions, corrections
+will be published in the web version of this document, which is the
+definitive version at all times. This version can be found on the websites
+mentioned above.
+Management of Chronic Hepatitis B in Adults
+TABLE OF CONTENTS
+No.
+Title
+Page
+Levels of Evidence and Formulation of Recommendation
+i
+Key Recommendations
+ii
+Guidelines Development and Objectives
+iv
+Development Group
+vii
+Review Committee
+viii
+External Reviewers
+ix
+Algorithm on Management of Chronic Hepatitis B in Adults
+x
+1.
+INTRODUCTION
+1
+2.
+RISK FACTORS
+2
+3.
+LABORATORY DIAGNOSIS
+4
+3.1
+Screening Test
+4
+3.2
+Serological Markers
+5
+4.
+INITIAL ASSESSMENT
+8
+4.1
+Clinical Assessment
+8
+4.2
+Biochemical Assessment
+8
+4.3
+Fibrosis Assessment in Patient with Chronic Hepatitis B 10
+5.
+TREATMENT
+12
+5.1
+Non-pharmacological Treatment
+12
+5.2
+Pharmacological Treatment
+12
+6.
+SPECIAL GROUPS
+16
+6.1
+Acute Hepatitis B
+16
+6.2
+Acute Liver Failure/Acute-on-chronic Liver Failure
+17
+6.3
+Hepatitis B Flare
+17
+6.4
+Co-infection with Human Immunodeficiency Virus
+18
+6.5
+Co-infection with Hepatitis C Virus
+20
+6.6
+Pregnancy and Lactation
+21
+6.7
+Immunosuppression or Cytotoxic Therapy
+22
+6.8
+Renal Diseases
+24
+6.9
+Solid Organ Transplant
+26
+6.10 Occult Hepatitis B
+26
+6.11 Healthcare Workers
+27
+7.
+MONITORING & FOLLOW-UP
+28
+7.1
+Monitoring
+28
+7.2
+Complications
+30
+7.3
+Treatment Discontinuation
+31
+7.4
+Treatment Options for Virological Failure
+Management of Chronic Hepatitis B in Adults
+TABLE OF CONTENTS
+No.
+Title
+Page
+8.
+PREVENTION
+37
+8.1
+Mother-to-Child Transmission
+37
+8.2
+Post-Exposure Prophylaxis
+39
+8.3
+Healthcare Workers
+40
+8.4
+Contact Tracing
+41
+8.5
+Vaccination
+42
+8.6
+Counselling
+42
+9.
+REFERRAL
+43
+10. IMPLEMENTING THE GUIDELINES
+43
+10.1 Facilitating and Limiting Factors
+43
+10.2 Potential Resource Implication
+44
+REFERENCES
+45
+Appendix 1
+Example of Search Strategy
+50
+Appendix 2
+Clinical Questions
+51
+Appendix 3
+Laboratory Workflow for Diagnosis of Chronic
+52
+Hepatitis B Infection
+Appendix 4
+Dosage Form, Administration and Common
+53
+Side Effects of Hepatitis B Antiviral
+in Malaysia
+Appendix 5
+Prophylaxis and Treatment of Mother-to-Child
+55
+Hepatitis B Virus Transmission
+Appendix 6
+Antiviral Prophylaxis Before
+56
+Immunosuppression
+Appendix 7
+Post-exposure Prophylaxis Workflow
+57
+List of Abbreviations
+58
+Acknowledgement
+60
+Disclosure Statement
+60
+Source of Funding
+Management of Chronic Hepatitis B in Adults
+i
+LEVELS OF EVIDENCE
+SOURCE: US / CANADIAN PREVENTIVE SERVICES TASK FORCE 2001
+FORMULATION OF RECOMMENDATION
+In line with current development in CPG methodology, the CPG Unit of
+MaHTAS is in the process of adapting Grading Recommendations,
+Assessment, Development and Evaluation (GRADE) in its work
+process. The quality of each retrieved evidence and its effect size
+is carefully assessed/reviewed by the CPG Development Group.
+In formulating the recommendations, overall balances of the
+following aspects are considered in determining the strength of the
+recommendations:-
+• overall quality of evidence
+• balance of benefits versus harms
+• values and preferences
+• resource implications
+• equity, feasibility and acceptability
+Level
+I
+II-1
+II-2
+II-3
+III
+Study design
+Evidence from at least one properly randomised controlled trial
+Evidence obtained from well-designed controlled trials without
+randomisation
+Evidence obtained from well-designed cohort or case-control
+analytic studies, preferably from more than one centre or
+group
+Evidence from multiple time series with or without intervention;
+dramatic results in uncontrolled experiments (such as the
+results of the introduction of penicillin treatment in the 1940s)
+could also be regarded as this type of evidence
+Opinions of respected authorities based on clinical experience;
+descriptive studies and case reports; or reports of expert
+committees
+Management of Chronic Hepatitis B in Adults
+ii
+KEY RECOMMENDATIONS
+The following recommendations were highlighted by the CPG
+Development Group (DG) as the key clinical recommendations that
+should be recognised for implementation.
+SCREENING AND DIAGNOSIS
+• Targeted screening for hepatitis B virus (HBV) infection should be
+done in the following groups of people:
+ family members of hepatitis B surface antigen (HBsAg)-positive
+persons
+ household contacts of HBsAg-positive persons
+ blood donors
+ healthcare workers
+ people who inject drugs participating in harm reduction
+programmes
+ foreign workers
+ pregnant women
+• Other high-risk groups should be offered to screen for HBV infection.
+• Screening of HBV infection should be done using either a rapid
+diagnostic test or laboratory-based immunoassay.
+• HBV infection should be notified under the Prevention and Control on
+Infectious Disease Act 1988 within seven days of diagnosis.
+• Hepatitis B virus deoxyribonucleic acid (DNA) should be ideally done
+before initiation of treatment and for assessment of its response.
+TREATMENT
+• Initial assessment of patients with chronic hepatitis B (CHB) should
+include:
+ phase of infection
+ degree of liver fibrosis or cirrhosis
+ presence of co-infection
+• Nucleos(t)ide analogues with high genetic barrier resistance should
+be used as first-line therapy in CHB i.e.
+ entecavir (ETV)
+ tenofovir disoproxil fumarate (TDF)
+ tenofovir alafenamide (TAF)
+• ETV or TAF is preferred in CHB patients with age >60 years, bone
+disease or impaired renal function.
+• Treatment should be initiated in patients with:
+ non-cirrhotic liver
+-
+hepatitis B e antigen (HBeAg)-positive with HBV DNA >20,000
+IU/ml and alanine transaminase (ALT) twice the upper limit of
+normal (ULN)
+Management of Chronic Hepatitis B in Adults
+iii
+-
+HBeAg-negative with HBV DNA >2,000 IU/ml and ALT twice
+ULN
+ cirrhotic liver
+-
+any detectable level of HBV DNA regardless of ALT and
+HBeAg status
+SPECIAL GROUPS
+• Human Immunodeficiency virus (HIV)/HBV co-infected patients
+should be treated simultaneously with dual active HBV treatment
+(tenofovir in combination with lamivudine or emtricitabine) plus
+another third agent of antiretroviral therapy.
+• All patients with hepatitis B/hepatitis C virus co-infection should be
+treated as per indication of hepatitis B and hepatitis C mono-infection.
+• Antiviral agents should be considered in pregnant CHB women with
+TDF with high viral load (>200,000 IU/ml) as the preferred choice.
+• All candidates for chemotherapy and immunosuppressive treatment
+should be tested for HBV markers prior to immunosuppression e.g.
+HBsAg. If HBsAg-negative, antibody to hepatitis B core antigen
+should be tested.
+• Antiviral dose should be adjusted according to the estimated
+glomerular filtration rate of CHB patients with chronic kidney disease.
+MONITORING
+• CHB patients who are not on treatment should be monitored for:
+ ALT
+ HBV DNA
+ liver fibrosis or cirrhosis
+PREVENTION
+• First dose hepatitis B vaccination should be given to all newborns
+within 24 hours of life.
+• Hepatitis B immunoglobulin should be given to all newborns of CHB
+mothers within 12 hours of life.
+• Antiviral prophylaxis should be initiated at 28 - 32 weeks of gestation
+in HBeAg-positive mothers with viral load >200,000 IU/ml.
+Management of Chronic Hepatitis B in Adults
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+GUIDELINES DEVELOPMENT
+The members of the DG for these CPG were from the Ministry of
+Health (MoH) and the Ministry of Higher Education. There was active
+involvement of a multidisciplinary Review Committee during the process
+of the CPG development.
+A systematic literature search was carried out using the following
+electronic databases/platforms: mainly Medline via Ovid and Embase.
+Refer to Appendix 1 for Example of Search Strategy. The inclusion
+criteria are all adults at risk and with hepatitis B infection regardless of
+study design. The first search was limited to literature published in the
+last 10 years (2010 - 2020) for majority of the clinical questions and on
+adults aged 19 to 44 years old and in English. In addition, the reference
+lists of all retrieved literature and guidelines were searched and experts
+in the field were contacted to identify relevant studies. All searches were
+conducted from 24 July 2020 to 30 September 2020. The literature
+search was repeated for all clinical questions at the end of the CPG
+development process allowing any relevant papers published before 31
+July 2022 to be included. Future CPG updates will consider evidence
+published after this cut-off date. The details of the search strategy can
+be obtained upon request from the CPG Secretariat.
+References were also made to other guidelines on chronic hepatitis B
+in adults as listed below:
+• EASL 2017 Clinical Practice Guidelines on The Management of
+Hepatitis B Virus Infection
+• Update on Prevention, Diagnosis, and Treatment of Chronic
+Hepatitis B: AASLD 2018 Hepatitis B Guidance
+• Asian-Pacific Clinical Practice Guidelines on The Management of
+Hepatitis B: A 2015 Update
+A total of 17 main clinical questions were developed under different
+sections. Members of the DG were assigned individual questions within
+these sections. Refer to Appendix 2 for Clinical Questions. The DG
+members met 24 times throughout the development of these guidelines.
+All literature retrieved was appraised by at least two DG members using
+Critical Appraisal Skill Programme checklist, presented in evidence
+tables and further discussed in each DG meeting. All statements and
+recommendations formulated after that were agreed upon by both the
+DG and review committee (RC). Where evidence was insufficient,
+the recommendations were made by consensus of the DG and RC.
+Any differences in opinion are resolved consensually. The CPG was
+based largely on the findings of systematic reviews, meta-analyses and
+clinical trials, with local practices taken into consideration.
+Management of Chronic Hepatitis B in Adults
+The literatures used in these guidelines were graded using the US/
+Canadian Preventive Services Task Force Level of Evidence (2001)
+while the grading of recommendation was done using the principles of
+GRADE (refer to the preceding page). The writing of the CPG follows
+strictly the requirement of Appraisal of Guidelines for Research and
+Evaluation (AGREE II).
+On completion, the draft CPG was reviewed by external reviewers.
+It was also posted on the MoH Malaysia official website for feedback
+from any interested parties. The draft was finally presented to
+the Technical Advisory Committee for CPG and, the Health Technology
+Assessment (HTA) and CPG Council, MoH Malaysia, for review and
+approval. Details on the CPG development by MaHTAS can be obtained
+from Manual on Development and Implementation of Evidencebased Clinical Practice Guidelines published in 2015 (available at
+https://www.moh.gov.my/moh/resources/CPG_MANUAL_MAHTAS.pdf
+Management of Chronic Hepatitis B in Adults
+vi
+OBJECTIVES
+The objectives of the CPG are to provide evidence-based
+recommendations on the management of chronic hepatitis B in adults
+on the following aspects:
+• diagnosis
+• treatment
+• monitoring & follow-up
+• prevention
+• referral
+CLINICAL QUESTIONS
+Refer to Appendix 2.
+TARGET POPULATION
+Inclusion Criteria
+• Adults at risk and with hepatitis B infection
+TARGET GROUP/USER
+This document is intended to guide healthcare professionals and
+relevant stakeholders in primary and secondary/tertiary care of the
+management of chronic hepatitis B in adults including:
+• doctors
+• allied health professionals
+• trainees and medical students
+• policymakers
+• patients and their advocates
+• professional societies
+HEALTHCARE SETTINGS
+Primary, secondary and tertiary care
+Management of Chronic Hepatitis B in Adults
+vii
+Dr. Ahneez Abdul Hameed
+Pathologist (Medical Microbiology)
+Hospital Selayang, Selangor
+Dr. Chuah Teik Beng
+Radiologist
+Hospital Selayang, Selangor
+Dr. Hamiza Shahar
+Gastroenterologist/Hepatologist
+Hospital Tengku Ampuan Rahimah
+Selangor
+Ms. Khoo Hui Fen
+Clinical Pharmacist
+Hospital Selayang, Selangor
+Dr. Kiew Kuang Kiat
+Consultant Gastroenterologist/
+Hepatologist
+Hospital Sultanah Bahiyah, Kedah
+Dr. Mohd. Aminuddin Mohd. Yusof
+Head of CPG Unit & Public Health
+Physician
+Health Technology Assessment Section
+Ministry of Health (MoH), Putrajaya
+Dr. Ng Tiang Koi
+Infectious Disease Physician
+Hospital Tuanku Ja’afar,
+Negeri Sembilan
+Ms. Poh Wei Yoon
+Clinical Pharmacist
+Hospital Selayang, Selangor
+Dr. Pravind Narayanan
+Internal Medicine Physician
+Hospital Umum Sarawak, Sarawak
+Dr. Hjh. Rosaida Hj. Md Said
+Senior Consultant
+Gastroenterologist/Hepatologist
+Hospital Serdang, Selangor
+Dr. Roshalina Rosli
+Pathologist (Medical Microbiology)
+Hospital Tengku Ampuan Rahimah
+Selangor
+Pn. Siti Aisah Fadzilah
+Senior Principal Assistant Director
+Health Technology Assessment Section
+MoH, Putrajaya
+Dr. Siti Aminah Akbar Merican
+Consultant Family Medicine Specialist
+Dr. Syuhada Dan Adnan
+Gastroenterologist/Hepatologist
+Hospital Sultanah Nur Zahirah
+Terengganu
+Dr. Wan Noor Azlin Wan Idris
+Family Medicine Specialist
+Klinik Kesihatan Putrajaya Presint 9
+Putrajaya
+DEVELOPMENT GROUP
+Chairperson
+Dr. Haniza Omar
+Consultant Gastroenterologist/Hepatologist
+Hospital Selayang, Selangor
+Members (in alphabetical order)
+Management of Chronic Hepatitis B in Adults
+viii
+REVIEW COMMITTEE
+The draft guidelines were reviewed by a panel of experts. They were
+asked to comment primarily on the comprehensiveness and accuracy
+of the interpretation of evidence supporting the recommendations in the
+guidelines.
+Chairperson
+Dato’ Dr. Muhammad Radzi Abu Hassan
+Deputy Director-General of Health (Research & Technical Support) &
+Senior Consultant Gastroenterologist/Hepatologist
+Members (in alphabetical order)
+Dr. Ganesalingam A/L Kanagasabai
+Consultant Gastroenterologist
+Subang Jaya Medical Centre,
+Selangor
+Dr. Izzuna Mudla Mohamed Ghazali
+Deputy Director
+Health Technology Assessment Section
+MoH, Putrajaya
+Dr. Nazrila Hairizan Nasir
+Consultant Family Medicine Specialist
+Associate Prof. Dr. Nurjasmin Aida
+Jamani
+Consultant Family Medicine Specialist
+International Islamic University
+Malaysia, Pahang
+Dr. Rozainanee Mohd Zain
+Consultant Pathologist (Virology)
+Institute for Medical Research,
+Selangor
+Puan Rozita Mohamad
+Deputy Director (Pharmacy)
+Jabatan Kesihatan Negeri Pahang,
+Pahang
+Prof. Dr. Sanjiv Mahadeva
+Senior Consultant Gastroenterologist
+Universiti Malaya, Kuala Lumpur
+Dr. Tan Soek Siam
+Senior Consultant Gastroenterologist/
+Hepatologist
+Hospital Selayang, Selangor
+Dr. Yoon Chee Kin
+Medical Specialist
+Hospital Pulau Pinang, Pulau Pinang
+Dr. Yun Sii Ing
+Senior Consultant Radiologist
+Hospital Sungai Buloh, Selangor
+Management of Chronic Hepatitis B in Adults
+ix
+EXTERNAL REVIEWERS (in alphabetical order)
+The following external reviewers provided feedback on the draft:
+Dr. Fatiha Hana Shabaruddin
+Pharmacy Lecturer
+Universiti Malaya, Kuala Lumpur
+Dr. Hamimah Saad
+Consultant Family Medicine Specialist
+Klinik Kesihatan Kuala Lumpur
+Kuala Lumpur
+Dr. Hamizah Razlan
+Consultant Gastroenterologist & Physician
+KPJ Ampang Puteri Specialist Hospital
+Selangor
+Dr. Hanif Zailani (BKP)
+Head of Section & Public Health Physician
+Disease Control Division, MoH, Putrajaya
+Dr. Lee Heng Gee
+Consultant Infectious Disease
+Hospital Queen Elizabeth, Sabah
+Professor Dr. Lee Yeong Yeh
+Consultant Gastroenterologist/
+Hepatologist
+Hospital Universiti Sains Malaysia,
+Kelantan
+Dr. Lim Giok Kiat
+General Practitioner
+Klinik Ng & Lim, Selangor
+Dr. Mohd. Shamsul Amri Ismail
+Consultant Gastroenterologist/
+Hepatologist
+KPJ Damansara Specialist Hospital
+Kuala Lumpur
+Dr. Noor Aliza Mutalib
+Consultant Gastroenterologist/
+Hepatologist
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Rawa anak Bau
+Family Medicine Specialist
+Klinik Kesihatan Bintulu, Sarawak
+Professor Dr. Rosmawati Mohamed
+Senior Consultant Hepatologist
+Hospital Canselor Tuanku Muhriz
+Universiti Kebangsaan Malaysia
+Kuala Lumpur
+Dr. Salmah Idris
+Consultant Medical Microbiologist
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Shaheeda Mohd Sallehuddin
+General Practitioner
+Poliklinik Juara Medic, Selangor
+Associate Prof. Dr. Suraya Abdul Razak
+Consultant Family Medicine Specialist
+Hospital Al-Sultan Abdullah
+Universiti Teknologi Mara, Selangor
+Dr. Syamhanin Adnan
+Head of Pharmacy Department
+Hospital Sungai Buloh, Selangor
+Professor Dr. Yasmin A. Malik
+Consultant Medical Microbiologist
+Pusat Perubatan Universiti Malaya
+Kuala Lumpur
+Dr. Yasmin Mohamed Gani
+Infectious Disease Physician
+Hospital Sg. Buloh, Selangor
+Management of Chronic Hepatitis B in Adults
+x
+ALGORITHM ON MANAGEMENT OF CHRONIC HEPATITIS B IN ADULTS
+HBsAg positive
+Non-cirrhotic
+HBeAg positive
+HBeAg negative
+Compensated
+Decompensated
+ALT >2x ULN
+ALT <2x ULN
+ALT >2x ULN
+ALT <2x ULN
+HBV DNA
+>20,000*
+HBV DNA
+<20,000*
+HBV DNA
+>2,000*
+HBV DNA
+<2,000*
+HBV DNA
+>2,000*
+HBV DNA
+<2,000*
+Start
+treatment
+Investigate
+for other
+causes &
+treat
+accordingly
+Monitor
+6-monthly
+Start
+treatment
+Investigate
+for other
+causes &
+treat
+accordingly
+Assess
+fibrosis noninvasively &
+to start
+treatment if
+indicated
+Monitor
+6-monthly
+Start
+treatment
+Start
+treatment
+Cirrhotic
+HBsAg: hepatitis B surface antigen
+HBeAg: hepatitis B e antigen
+ALT: alanine aminotransferase
+ULN: upper limit normal
+HBV: hepatitis B virus
+DNA: deoxyribonucleic acid
+*IU/ml
+Management of Chronic Hepatitis B in Adults
+1. INTRODUCTION
+Chronic Hepatitis B (CHB) is defined by the presence of hepatitis B
+surface antigen (HBsAg) for at least six months.1; 2, level III It is a global
+public health problem. In Malaysia, the incidence rate is approximately
+12.64 in 100,000 population.3, level III The prevalence is decreasing due to
+improvements in socioeconomic status, universal vaccination programs
+and perhaps effective antiviral treatments.
+Hepatitis B virus (HBV) is transmitted by perinatal or horizontal
+transmission, percutaneous, and sexual exposure and exposure to
+infected blood and body fluids. HBV can progress to fibrosis, cirrhosis
+and hepatocellular carcinoma (HCC). Screening is important, especially
+for those at high risk.
+Non-invasive methods to assess liver fibrosis and cirrhosis e.g. the use
+of aspartate aminotransferase to platelet ratio (APRI) and fibrosis-4
+index (FIB-4) testing have been validated in hepatitis B and are easily
+performed.
+The induction of long-term suppression of HBV replication represents
+the main endpoint of current treatment strategies. Functional cure
+of hepatitis B is an optimal endpoint which is defined as sustained
+undetectable circulating HBsAg and HBV deoxyribonucleic acid (DNA).
+Additional indications for treatment include the prevention of motherto-child transmission in pregnant women with high viremia and the
+prevention of HBV reactivation in patients requiring immunosuppression
+or chemotherapy.
+The long-term administration of a potent nucleos(t)ide analogue (NA)
+with a high barrier to resistance, such as entecavir (ETV), tenofovir
+disoproxil (TDF) or tenofovir alafenamide (TAF), represents the
+treatment of choice.
+In view of high disease burden, variation in practice and non-existence
+of local guidelines, as well as the aim of elimination of viral hepatitis by
+2030 in line with World Health Organization’s (WHO) goal, an evidencebased CPG is required to guide healthcare providers locally in the
+management of CHB in adults.
+Management of Chronic Hepatitis B in Adults
+2. RISK FACTORS
+The following groups of people below are listed as high-risk for HBV
+infection and thus should be screened for the infection: 1; 4 ; 5 - 6, level III
+• family members, household and sexual contacts of HBsAgpositive persons
+• persons who have ever injected drugs
+• men who have sex with men
+• persons with human immunodeficiency virus (HIV)
+• persons seeking evaluation or treatment for sexually-transmitted
+disease
+• healthcare workers (HCW)
+• persons in prison/correctional facilities
+• indigenous populations
+• sex workers
+• transgenders
+• individuals with elevated aspartate aminotransferase (AST) or
+alanine aminotransferase (ALT) of unknown aetiology
+• infants born to HBsAg-positive mothers
+• persons with chronic liver disease (CLD)
+• persons with end-stage renal disease including those receiving
+haemodialysis
+• persons with multiple sexual partners
+• persons exposed in healthcare setting
+Other groups of people that should be screened for HBV infection
+are:1; 4; 5 - 6, level III
+• persons requiring immunosuppressive therapy
+• donors of blood, plasma, organ, tissue or semen
+• residents and staff of facilities for developmentally disabled
+persons
+• pregnant women
+Based on National Strategic Plan for Hepatitis B and C Malaysia,
+targeted screening is recommended for the following groups of
+people:7, level III
+• blood donors
+• HCW
+• persons who inject drugs participating in harm reduction
+programmes
+• foreign workers
+In a local pilot study of four states in 2019, the incidence of hepatitis
+B during antenatal screening ranged from 0.40% to 0.47% in Pahang,
+Kedah and Terengganu, whereas it was 0.95% in Sabah.8, level III
+Management of Chronic Hepatitis B in Adults
+A technology review by MaHTAS revealed that there was a high level of
+evidence on antenatal screening for HBV infection being effective and
+cost-effective in reducing perinatal transmission of HBV.94
+Recommendation 1
+• Targeted screening for hepatitis B virus (HBV) infection should be
+done in the following groups of people:
+ family members of hepatitis B surface antigen (HBsAg)-positive
+persons
+ household contacts of HBsAg-positive persons
+ blood donors
+ healthcare workers
+ people who inject drugs participating in harm reduction
+programmes
+ foreign workers
+ pregnant women
+• Other high-risk groups should be offered to screen for HBV infection*.
+*Refer to the preceding text.
+Management of Chronic Hepatitis B in Adults
+3. LABORATORY DIAGNOSIS
+3.1 Screening Test
+Screening for HBV infection in adults, adolescents and children (>12
+months of age) is by detection of HBsAg using either rapid diagnostic
+test (RDT) or laboratory-based immunoassays. CHB is defined as
+persistent HBV infection (the presence of detectable HBsAg in the
+blood for ≥6 months).1; 2, level III In Malaysia, HBV infection is a notifiable
+disease under Prevention and Control on Infectious Disease Act 1988
+and should be notified within seven days of diagnosis.9, level III For those
+in high-risk group who are HBsAg-negative are advised to check for
+antibody to hepatitis B surface protein (anti-HBs) and considered for
+vaccination if anti-HBs is negative.
+Quality-assured RDT for HBsAg is recommended in settings where
+there is limited access to laboratory testing and/or in populations
+where access to rapid testing would facilitate care and treatment. A
+meta-analysis on the diagnostic accuracy of tests in HBsAg detection
+demonstrated that RDT had pooled sensitivity of 90% (95% CI 89 to 91)
+and specificity of 99% (95% CI 99 to 100) with enzyme immunoassays
+(EIA) as the reference standard. The sensitivity varies widely overall
+and within brands of RDT and it was lower (72.3%, 95% CI 67.9 to 76.4)
+in HIV-positive individuals.10, level III
+Screening tests should meet the minimum acceptance criteria of
+WHO prequalification of in vitro diagnostics (IVDs) or a stringent
+regulatory review for IVDs. All IVDs should be used in accordance with
+manufacturers’ instructions for use.1 Test kits should be in the WHO
+list of prequalified in vitro diagnostic tests and the Malaysian medical
+device authority register.
+• RDT of HBsAg
+ accurate and affordable point-of-care testing
+• Laboratory-based Immunoassays
+ high throughput testing using an automated analyser and
+normally available in the hospital
+ include
+EIA,
+chemoluminescence
+immunoassay
+and
+electrochemoluminescence assay
+Recommendation 2
+• Screening of hepatitis B virus (HBV) infection with hepatitis B
+surface antigen should be done using either a rapid diagnostic test
+or laboratory-based immunoassay.
+• HBV infection should be notified under the Prevention and Control
+on Infectious Disease Act 1988 within seven days of diagnosis.
+Management of Chronic Hepatitis B in Adults
+3.2 Serological Markers
+Diagnosis of HBV infection is accomplished by HBsAg. It can be further
+categorised by a series of serological markers.
+Serological tests are used to distinguish acute from chronic HBV
+infections and to monitor vaccine-induced immunity. Molecular testing
+for HBV DNA is increasingly being used to quantify HBV viral load
+and monitor treatment response. Test selection should be based on
+the person’s risk factors, vaccination history and findings of previous
+tests.2, level III Table 1 shows various diagnostics and monitoring panels
+for hepatitis B interpretation.
+Table 1. Tests to Diagnose and Monitor Hepatitis B Virus Infection
+HBsAg = Hepatitis B surface antigen; Anti-HBc = Antibody to hepatitis B core antigen;
+IgM anti-HBc = Immunoglobulin M antibody to hepatitis B core antigen; Anti-HBs =
+Antibody to hepatitis B surface protein; HBeAg = Hepatitis B e antigen; HBeAb =
+Hepatitis B e antibody; HBV DNA = Hepatitis B virus deoxyribonucleic acid
++ implies positive; - implies negative; ± may be positive or negative
+Adapted:
+1. Krajden M, McNabb G, Petric M. The laboratory diagnosis of hepatitis B virus. Can
+J Infect Dis Med Microbiol. 2005 Mar;16(2):65-72.
+2. Centers for Disease Control and Prevention. Prevention of Hepatitis B Virus
+Infection in the United States: Recommendations of the Advisory Committee on
+Immunization Practices (Available at: https://www.cdc.gov/mmwr/volumes/67/rr/
+rr6701a1.htm#T1_down).
+Not infected nor protected,
+suggest vaccination
+Transient (up to 52 days) after
+vaccination
+Early acute infection
+Acute infection
+Chronic infection
+Acute resolving infection
+Recovered from past infection
+and immune
+False-positive; past infection;
+‘low level’ chronic infection; or
+passive transfer of anti-HBc
+to an infant born to HBsAgpositive mother
+Immune if the anti-HBs
+concentration is ≥10 IU/ml after
+vaccine series completion; passive
+transfer after hepatitis B immune
+globulin administration
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
++
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
++
+-
+-
+-
+-
+-
+±
+-
+-
++
++
++
+-
++
+-
++
+-
+-
+-
++
++
+±
+-
+±
+±
+-
+-
+-
+-
++
+-
++
+-
+±
+-
+-
+-
++
++
+-
+-
+±
+±
++
+-
+-
+-
+-
+-
+-
++
+-
+-
+-
+-
+±
+-
+-
+-
+-
+-
+-
+-
+-
++
+-
+-
+-
+HBsAg
+HBeAg HBeAb
+Interpretation
+AntiHBc
+IgM
+antiHBc
+AntiHBs
+HBV
+DNA
+Management of Chronic Hepatitis B in Adults
+Figure 1 represents a typical serology course of hepatitis B progression
+from acute to chronic overtime
+Figure 1. Progression to Chronic HBV Infection -
+Typical Serology Course
+Source: Centers for Disease Control and Prevention. Recommendations for
+Identification and Public Health Management of Persons with Chronic
+Hepatitis B Virus Infection (Available at: https://www.cdc.gov/mmwr/preview/
+mmwrhtml/rr5708a1.htm)
+• HBV DNA molecular test
+HBV DNA molecular test is used to detect the presence of the virus
+which reflects the level of viral replication and correlates with disease
+progression.1
+Quantitative molecular (viral load) test for detection of HBV DNA
+following a reactive HBsAg serological test is an essential component
+in:1; 5, level III
+• evaluation for the need of treatment
+• assessment of the effectiveness of antiviral treatment
+A real-time polymerase chain reaction has become the standard assay
+to detect and quantify HBV DNA due to its ability in detection of low viral
+loads (10 - 15 IU/ml) and highest up to 1.0x109 IU/ml.11
+Advance serological and molecular markers e.g. HBsAg quantification
+and HBV genotype can be considered to assess the prognosis of CHB
+and treatment selection.12, level III However, these are not widely available
+in Malaysia.
+HBV DNA
+HBeAg
+HBsAg
+anti-HBe
+Acute
+(6 months)
+Chronic
+(Years)
+Relative concentration
+Total anti-HBc
+IgM anti-HBc
+Years
+0 4
+8
+16 20 24 28 32 36
+52
+Weeks after Exposure
+Management of Chronic Hepatitis B in Adults
+Refer to Appendix 3 on Laboratory Workflow for Diagnosis of
+Chronic Hepatitis B Infection.
+Recommendation 3
+• Quantitative hepatitis B virus deoxyribonucleic acid should be
+ideally done before initiation of treatment and for assessment of its
+response.
+Management of Chronic Hepatitis B in Adults
+4.
+INITIAL ASSESSMENT
+4.1 Clinical Assessment
+All patients diagnosed with HBV infection should be assessed for:5, level III; 13 - 14
+• detailed history
+• physical examination for stigmata of CLD
+4.2 Biochemical Assessment
+The natural course of HBV infection consists of four phases as shown in Table 2.
+Table 2. Natural History and Assessment of Patients with
+Chronic Hepatitis B Virus Infection
+Source: European Association for the Study of the Liver. EASL 2017 Clinical Practice
+Guidelines on the management of hepatitis B virus infection. J Hepatol.
+2017;67(2):370-398.
+The following investigations may be helpful in the assessment of CHB
+patients:5, level III; 13 - 14
+• hepatitis B e antigen (HBeAg) and hepatitis B e antibody (HBeAb)
+• biochemical
+markers,
+including
+AST
+and
+ALT,
+alkaline
+phosphatase, bilirubin and serum creatinine (Cr)
+• serum albumin
+• full blood count (FBC) and prothrombin time/international
+normalisation ratio (INR)
+• HBV DNA detection and level measurement
+• co-infections with HIV and hepatitis C
+• co-morbidities and other liver-related diseases based on clinical
+judgement
+For those with cirrhosis, assessment for compensated and
+decompensated cirrhosis is done using Child-Turcotte-Pugh Score
+(CPS) as shown below.
+HBeAg-positive
+HBeAg-negative
+Investigation/
+Terminology
+Chronic
+infection
+Chronic
+hepatitis
+Chronic
+infection
+Chronic
+hepatitis
+High
+Positive
+>107 IU/ml
+Normal
+None/minimal
+Immune
+tolerant
+High/intermediate
+Positive
+104 - 107 IU/ml
+Elevated
+Moderate/severe
+Immune reactive
+HBeAg-positive
+Low
+Negative
+<2,000 IU/ml
+Normal
+None
+Inactive carrier
+Intermediate
+Negative
+>2,000 IU/ml
+Elevated
+Moderate/severe
+HBeAg-negative
+chronic hepatitis
+HBsAg
+HBeAg
+HBV DNA
+ALT
+Liver disease
+Old terminology
+Management of Chronic Hepatitis B in Adults
+Table 3. Child-Turcotte-Pugh Score for Grading Severity of Liver
+Disease
+*Grade I: alteration of sleep pattern, Grade II: asterixis, Grade III: somnolence, Grade
+IV: coma
+Modified: Ministry of Health Malaysia, Clinical Practice Guidelines Management of
+Chronic Hepatitis C in Adults. Putrajaya: MoH; 2019.
+• A total Child-Turcotte-Pugh Score (CPS) of:
+ 5 - 6 is class A
+ 7 - 9 is class B
+ 10 - 15 is class C
+• CPS classes B and C are considered decompensated stages.
+Model for End-Stage Liver Disease (MELD) score is a scoring
+system ranging from 6 - 40 to evaluate the severity of liver disease.
+Incorporation of serum sodium into MELD (MELD-Na) may further
+increase its prognostic ability. It uses values e.g. bilirubin, serum Cr,
+INR and serum sodium. The higher score indicates a poorer prognosis
+and warrant for tertiary care.
+Formula
+• MELD score = 3.8 [Ln serum bilirubin (mg/dL)] + 11.2 [Ln INR]
++ 9.6 [Ln serum creatinine (mg/dL)] + 6.4
+• MELD-Na score = MELD + 1.32 x (137 - Na) - [0.033 x MELD*(137- Na)]
+Variable
+Score
+1
+2
+3
+Ascites
+Encephalopathy
+Bilirubin (mmol/L)
+Albumin (g/L)
+Prothrombin time
+• seconds over normal
+• INR
+None
+None
+<34
+>35
+<4
+<1.7
+Mild/
+on diuretics
+Grade I - II*
+34 - 50
+28 - 35
+4 - 6
+1.7 - 2.3
+Moderate/
+severe
+Grade III - IV*
+>50
+<28
+>6
+>2.3
+Management of Chronic Hepatitis B in Adults
+Table 4. Interpretation of MELD-Na Score
+Score
+Mortality (%)
+MELD-Na score ≥40
+71.3
+MELD-Na score 30 - 39
+52.6
+MELD-Na score 20 - 29
+19.6
+MELD-Na score 10 - 19
+6.0
+MELD-Na score ≤9
+1.9
+Accurate assessments on the severity of liver fibrosis are prudent
+for prognostication and planning the management of HBV patients.
+Non-invasive methods of assessing fibrosis have been developed to
+reduce the need for liver biopsy which is deemed risky and may lead
+to complications.
+4.3 Fibrosis Assessment in Patients with Chronic Hepatitis B
+i.
+Non-invasive methods
+• Aspartate aminotransferase to platelet ratio (APRI) score
+This is a simple test whereby it uses two cut-off points for diagnosing
+specific fibrosis stages. Reported cut-off values for APRI for the
+detection of significant fibrosis and cirrhosis are as follows:13
+ for significant fibrosis, low and high cut-offs for APRI are 0.5 and
+1.5
+ for cirrhosis, low and high cut-offs for APRI are 1.0 and 2.0
+• Fibrosis-4 index
+FIB-4 is a non-invasive tool with good diagnostic accuracy. In a
+diagnostic study on hepatitis C, a FIB-4 index <1.45 had a negative
+predictive value (NPV) of 94.7% to exclude advanced fibrosis or
+cirrhosis (F3 - F4) while a FIB-4 index >3.25 had a PPV of 82.1% to
+confirm the existence of advanced fibrosis or cirrhosis (F3 - F4). The
+FIB-4 index efficiently identified cirrhosis with an area under the curve
+(AUC) of 0.91 (95% CI 0.86 to 0.95).15, level III The CPG DG opines that
+the results of this study can be extrapolated on hepatitis B patients.
+Formula
+• APRI score = AST (IU/L) / AST (upper limit of normal) (IU/L) x 100
+platelet (109 /L)
+• FIB-4 index = age [(year) x AST (IU/L)]
+platelet (109 /L) x ALT (IU/L)
+Management of Chronic Hepatitis B in Adults
+• Imaging
+Cirrhosis is a high-risk factor for developing HCC and other
+complications caused by portal hypertension, therefore early detection
+of cirrhosis can help identify high-risk patients earlier. Besides laboratory
+testing, imaging e.g. ultrasonography (US), computed tomography and
+magnetic resonance imaging can be used to look for evidence of cirrhosis.
+In a diagnostic study, transient elastography (TE) was superior to US
+in assessing liver cirrhosis in patients with CHB. TE has significantly
+increased the accuracy of detecting cirrhosis compared with US with an
+AUC of 0.96 vs 0.71.16, level III
+Another diagnostic study showed that magnetic resonance elastography
+(MRE) was superior to TE and point shear-wave elastography in the
+detection of early stages of liver fibrosis with a high AUC of 0.88.17, level III
+Although MRE and TE have shown high accuracy, US is an acceptable
+option for liver cirrhosis assessment in a local setting due to its wide
+availability.
+Assessment of liver cirrhosis/fibrosis using an APRI, FIB-4 and TE is
+shown in the following table.
+Table 5. Evaluation of APRI, FIB-4 and TE
+Test
+Non-cirrhotic/fibrosis liver
+Cirrhotic liver APRI
+low cut-off
+0.5
+1.0
+APRI high cut-off
+1.0
+2.0
+FIB-4
+<3.25
+≥3.25
+TE
+<8.0
+≥12.5
+Treatment decisions can be based on non-invasive tests of significant
+fibrosis (e.g. APRI ≥1.5, FIB-4 ≥3.25, liver stiffness ≥8 kPa by
+TE).18, level III
+ii.
+Invasive method
+Liver biopsy place a central role in treatment algorithm in hepatitis B
+and remains the gold standard for evaluation of hepatic pathology and
+should be considered when non-invasive assessments are inconclusive.
+Recommendation 4
+• Initial assessment of patients with chronic hepatitis B should include:
+ phase of infection
+ degree of liver fibrosis or cirrhosis
+ presence of co-infection
+Management of Chronic Hepatitis B in Adults
+5.
+TREATMENT
+5.1 Non-pharmacological Treatment
+Phyllanthus (dukung anak) has long been used in Chinese medicine to
+treat CLD.
+In two Cochrane systematic reviews, many clinical trials were done
+on Phyllanthus with no consensus on its effectiveness and safety.
+Phyllanthus was:
+• not effective in HBsAg seroconversion compared with placebo19, level I
+• showed no difference in HBsAg clearance or HBV DNA level
+compared with antiviral alone19 - 20, level I
+• more effective in HBV DNA clearance when combined with
+antiviral compared with antiviral alone (RR=0.69, 95% CI 0.52 to
+0.91)19, level I
+There was no significant difference in adverse events (AEs) between
+Phyllanthus and placebo.19, level I
+As all primary papers in both reviews had a high risk of bias, there was
+insufficient evidence to support the use of Phyllanthus in the treatment
+of CHB.19 - 20, level I
+In another Cochrane systematic review, selenium was not effective in
+preventing primary liver cancer in CHB patients. However, vitamin E
+supplements showed a sustained biochemical and virological response
+at end of treatment (RR=0.55, 95 % CI 0.34 to 0.87 and RR=0.55, 95%
+CI 0.34 to 0.86 respectively). The quality of primary papers was highly
+biased due to significant role of chance.21, level I
+• There is insufficient evidence to support the use of traditional and
+complementary medicine in the treatment of CHB.
+5.2 Pharmacological Treatment
+The mainstay of CHB treatment consists of immunomodulators and
+NA. The NAs can be classified according to HBV resistance barrier as
+shown below.
+Management of Chronic Hepatitis B in Adults
+Table 6. Pharmacological Treatment
+*deregistered in Malaysia in 2022
+#discontinued worldwide in 2020 (important for drug-resistance assessment in view of
+preferred antiviral choice)
+In a large, multi-centre randomised controlled trial (RCT), both ETV and
+TDF were equally effective in HBV DNA suppression (p=0.807) and a
+comparable side effect profile among NA-naive CHB patients at longterm follow-up of 144 weeks.22, level I
+Another large, multi-centre RCT showed TAF was non-inferior to TDF
+in HBV suppression (<29 IU/ml) among HBeAg-negative CHB patients
+at week 48. TAF had a significantly smaller reduction in bone mineral
+density and estimated glomerular filtration rate (eGFR) compared with
+TDF. Apart from that, most AEs were mild to moderate in severity in the
+two treatment groups.23, level I
+In a prospective cohort study on both treatment-naïve and treatmentexperienced CHB patients, TDF and TAF were equally effective in the
+reduction of HBV DNA and HBsAg levels. Apart from that, switching
+from TDF to TAF therapy contributed to the maintenance of the antiviral
+effect and significant recovery of renal dysfunction.24, level II-2
+Treatment with TAF was also associated with significant improvement
+in the renal and bone safety profiles.25, level I
+In a meta-analysis on CHB, interferon (IFN) monotherapy or combined
+with NA was compared with NA monotherapy. The regimen using
+IFN had a small but significant increase in HBsAg loss over NA
+monotherapy:26, level I
+• combination vs NA monotherapy with RD of 5% (95% CI 3 to 7)
+• IFN monotherapy vs NA monotherapy with RD of 3% (95% CI 2 to 5)
+The impact of IFN could be modulated by its discontinuation rate due
+to AEs at 5.9%.
+Telbivudine*
+Adefovir#
+Management of Chronic Hepatitis B in Adults
+Long-term administration of a potent NA with a high barrier to
+resistance is the treatment of choice regardless of the severity of liver
+disease in CHB.13 The preferred first-line therapies are TDF, ETV and
+TAF.5, level III; 13 - 14
+ETV or TAF is preferred over TDF in:13
+• age >60 years
+• bone disease
+• renal impairment
+Treatment options and the recommended doses are featured in
+Appendix 4.
+Recommendation 5
+• Nucleos(t)ide analogues with high genetic barrier resistance should
+be used as first-line therapy in chronic hepatitis B (CHB) i.e.
+ entecavir (ETV)
+ tenofovir disoproxil fumarate
+ tenofovir alafenamide (TAF)
+• ETV or TAF is preferred in CHB patients with age >60 years, bone
+disease or impaired renal function*.
+*TAF is not recommended in patients with eGFR <15 ml/min/m2.
+• Treatment initiation
+Not all CHB patients require antiviral treatment. Treatment is generally
+recommended for individuals at a high risk of disease progression i.e.
+those with high ALT levels, active viral replication and advanced fibrosis
+or cirrhosis.27, level III
+A review of four important CPGs for CHB; European Association for the
+Study of the Liver (EASL), American Association for the Study of Liver
+Diseases (AASLD), Asia Pacific Association for the Study of the Liver
+(APASL) and WHO summarised treatment initiation as shown in the
+table below:27, level III
+Management of Chronic Hepatitis B in Adults
+Table 7. Comparison of Different Guidelines in Initiation of
+Hepatitis B Treatment
+The four existing CPGs for CHB on treatment initiation criteria for
+non-cirrhotic HBeAg-positive and negative individuals and cirrhotic
+individuals are almost similar in their recommendations, with minor
+differences. Other predictors of advanced disease should be considered
+for treatment initiation including gender, age, hepatitis B genotype and
+family history.18, level III; 27, level III
+The management of CHB in adults is summarised in the Algorithm on
+Management of Chronic Hepatitis B in Adults (page x).
+• Hepatitis B patients should be considered for antiviral treatment if
+they meet treatment indications based on three main parameters as
+stated below:27, level III
+ HBV DNA level should be above a designated threshold
+ ALT levels should be elevated and/or
+ evidence of significant fibrosis
+Recommendation 6
+• Treatment should be initiated in patients with:
+ non-cirrhotic liver
+- hepatitis B e antigen (HBeAg)-positive with hepatitis B virus
+deoxyribonucleic acid (HBV DNA) >20,000 IU/ml and alanine
+transaminase (ALT) twice upper limit normal (ULN)
+- HBeAg-negative with HBV DNA >2,000 IU/ml and ALT twice
+ULN
+ cirrhotic liver
+- any detectable level of HBV DNA regardless of ALT and
+HBeAg status
+EASL 2017
+AASLD 2016
+APASL 2015
+WHO 2015
+HBeAg
+Positive
+>2,000
+>20,000
+>2,000
+>20,000
+>2,000
+>20,000
+Negative Positive Negative Positive Negative Positive Negative
+HBV DNA
+(IU/ml)
+ALT (U/L)
+HBV DNA
+(IU/ml)
+ALT (U/L)
+HBV DNA
+(IU/ml)
+ALT (U/L)
+>ULN
+2x ULN
+2x ULN
+Abnormal
+Histological
+changes
+Moderate liver
+necroinflammation
+/fibrosis
+Moderate-to-severe liver
+necroinflammation/fibrosis
+-
+Compensated Cirrhosis
+Decompensated Cirrhosis
+Any detectable level
+>2,000
+Any detectable
+level
+Any level
+Any detectable level
+Any level
+Non-cirrhotic
+Management of Chronic Hepatitis B in Adults
+6.
+SPECIAL GROUPS
+6.1 Acute Hepatitis B
+Acute hepatitis B is a short-term illness that occurs within the first six
+months after exposure to HBV. The diagnosis of acute HBV infection is
+based upon the detection of HBsAg and immunoglobulin M antibody to
+hepatitis B core antigen (IgM anti-HBc).
+• More than 95% of adults with acute HBV hepatitis do not require
+specific treatment as they will fully recover spontaneously unless in
+severe infection.13
+• Only patients with severe acute hepatitis B should be treated with
+NAs and considered for liver transplantation.13
+• Characteristics of severe acute hepatitis B are:13
+ coagulopathy INR >1.5
+ protracted course i.e. persistent symptoms or marked jaundice
+>4 weeks
+ sign(s) of acute liver failure
+In a meta-analysis of pharmacological interventions for acute hepatitis
+B infection, the risk of progression to chronic HBV infection was higher
+in lamivudine (3TC) group compared with placebo or no intervention
+group (OR=1.99, 95% CI 1.05 to 3.77) and ETV group (OR=3.64, 95%
+CI 1.31 to 10.13). However, there was no difference in the risk between
+ETV and no intervention groups. The rate of seroconversion was higher
+in ETV compared with 3TC (OR=0.15, 95% CI 0.05 to 0.48) although
+there was no significant difference in the time taken.28, level I
+Apart from that, there was no difference in short-term mortality (<1
+year) in any of the comparisons between hepatitis B immunoglobulin
+(HBIG) vs placebo, 3TC vs placebo or no intervention, 3TC vs ETV and
+ETV vs no intervention. The proportion of people with AEs was higher
+in interferon group than placebo group but there was no difference
+between 3TC and placebo or no intervention groups. No serious AEs
+were reported in all groups. None of the trials reported progression
+to fulminant HBV infection. The quality of primary papers used in the
+meta-analysis was generally low.28, level I
+In a small retrospective cohort study involving 32 patients with fulminant
+acute hepatitis B who started on NAs; transaminases, bilirubin and INR
+values returned to normal range within three months. The therapy was
+well tolerated with no observed side effects. Of the 32 patients, the
+remaining 22 (68.8%) who were followed further lost their HBsAg in a
+median of 108 days (range 40 - 366) and 72.7% of them experienced
+a seroconversion to anti-HBs in a median of 137 days. None of the
+Management of Chronic Hepatitis B in Adults
+patients developed CHB. The risk of not achieving seroconversion
+was independent of transaminases, bilirubin, INR, antiviral drug and
+days from diagnosis to treatment initiation. The patients who developed
+seroconversion lost their HBsAg earlier than those who did not (median
+97.5 days vs 229.5 days; p=0.0219).29, level II-2
+6.2 Acute Liver Failure/Acute-on-chronic Liver Failure
+Acute liver failure (ALF) is a medical emergency. It is defined as severe
+liver injury, leading to coagulopathy (usually with an INR ≥1.5) and
+any degree of mental alteration (encephalopathy) in a patient without
+pre-existing liver disease. On the other hand, acute-on-chronic liver
+failure applies to any patient who has an underlying chronic liver
+disease with superimposed acute insult which leads to a poorer
+outcome.30, level III
+Treating all hepatitis B patients with ALF is indicated given its safety and
+the ultimate need for liver transplantation in many of them. Lowering
+HBV DNA levels are important to reduce the risk of recurrent hepatitis
+B after a liver transplant.
+• Antiviral treatment is indicated only for those patients with acute
+hepatitis B who have ALF or who have a protracted, severe course,
+as indicated by total bilirubin >3 mg/dL (or direct bilirubin >1.5 mg/
+dL), INR >1.5, encephalopathy or ascites.5, level III
+ ETV, TDF or TAF are the preferred antiviral drugs.
+6.3 Hepatitis B Flare
+Hepatitis B flare, defined as an event with an abrupt rise of ALT levels
+to >5 times the upper limit of normal (ULN) in CHB, is considered to
+be the result of a human leukocyte antigen-I restricted, cytotoxic
+T-lymphocyte-mediated immune response against HBV and its
+downstream mechanisms. It may occur spontaneously, during or after
+antiviral treatment and in the setting of immunosuppression and/or
+chemotherapy.
+The clinical spectrum of hepatitis B flares varies from asymptomatic
+to symptomatic and typical overt acute hepatitis, even with hepatic
+decompensation or failure. Flares may also occur in viraemic cirrhotic
+patients with a higher incidence of decompensation/mortality compared
+with those without cirrhosis, hence requiring immediate antiviral
+treatment for prevention or rescue.31, level III
+Management of Chronic Hepatitis B in Adults
+• While flares in cirrhotic patients always require immediate antiviral
+treatment, those occurring in non-cirrhotic patients with decreasing
+HBV DNA may be followed by HBV and/or HBeAg loss with
+remission, and therefore may be observed for 3 - 6 months for real
+indication of antiviral treatment.31, level III
+6.4 Co-infection with Human Immunodeficiency Virus (HIV)
+Prevalence of HBV co-infection among people living with HIV
+was found to be 13% in a study on tertiary care hospitals in
+Malaysia.32, level III TREAT Asia HIV Observational Database (TAHOD)
+study from Asia-Pacific Region reported 10.4% of subjects were
+HBsAg-positive, 15.2% were positive for antibody to hepatitis C virus
+(anti-HCV) while 1.8% were positive for both markers.33, level II-2 Thus, all
+hepatitis B patients should be screened for HIV and hepatitis C virus
+(HCV).13
+A cohort study showed the hazard ratio (HR) for an acquired
+immunodeficiency syndrome (AIDS) or death event was almost double
+for those with HIV/HBV co-infected compared with HIV mono-infected
+patients (adjusted-HR=1.80, 95% CI 1.20 to 2.69).34, level II-2 In another
+multicentre cohort study showed that HIV/HBV co-infected patients,
+especially those with low cluster of differentiation 4 (CD4) nadir count,
+were at increased risk for liver-related mortality.35, level II-2 HIV/HBV coinfected patients may have faster progression of hepatic fibrosis and
+higher risk of cirrhosis, end-stage liver disease and HCC than HBVmono-infected persons.13 - 14 Hence, antiretroviral therapy (ART) should
+be initiated in HIV/HBV co-infected patients irrespective of CD4 cell
+count.5, level III; 13 - 14
+An RCT in African HIV/HBV co-infected adults with high HBV replication
+showed that they remained at heightened risk of mortality in the early
+ART era. The 60-month probability of death was 11.8% (95% CI 5.4 to
+24.5) in co-infected patients with HBV DNA ≥2000 IU/ml, 4.4% (95%
+CI 1.9 to 10.4) in co-infected patients with HBV DNA <2000 IU/ml and
+4.2% (95% CI 3.3 to 5.4) in HIV mono-infected patients. Mortality riskadjusted for ART strategy (immediate vs deferred) was higher in coinfected patients with HBV DNA ≥2,000 IU/ml in comparison with HIV
+mono-infected patients (HR=2.74, 95% CI 1.26 to 5.97).36, level I
+Management of Chronic Hepatitis B in Adults
+• HIV/HBV co-infected patients should be treated simultaneously for
+both HIV and HBV with TDF in combination with 3TC or emtricitabine
+(FTC) plus another third agent that is active against HIV in the form
+of lifelong ART.5, level III; 13 - 14
+• Entecavir is an alternative treatment for HBV in patients who have
+contraindications to tenofovir. However, due to weak activity against
+HIV, it must be administered in conjunction with a fully active HIV
+ART regimen.13
+• When antiretroviral therapy regimens are altered (e.g., due to HIV
+resistance or intolerance), drugs that are effective against HBV
+should not be discontinued unless it is substituted with another drug
+that has activity against HBV.37, level III
+A meta-analysis showed that 3TC plus TDF combination therapy was
+more effective than 3TC monotherapy in HBV/HIV co-infected patients,
+in terms of rate of undetectable HBV DNA (RR=1.57, 95% CI 1.23 to
+2.00) and undetectable HIV ribonucleic acid (RNA) (RR=1.26, 95% CI
+1.11 to 1.42).38, level I
+In a small open labelled RCT, TDF/FTC combination therapy compared
+with FTC monotherapy in antiretroviral-naive HIV/HBV co-infected
+patients at 48 weeks resulted in:39, level I
+• a greater decrease in median HBV DNA level [-5.32 log10 copies/
+ml (IQR -6.19, -5.13) vs -3.25 log10 copies/ml (IQR -5.43, -2.66);
+p=0.03]
+• a greater proportion of patients with undetectable HBV DNA i.e.
+<30 IU/ml (90% vs 33%; p=0.036)
+A retrospective cohort study revealed that TDF in combination with
+3TC or FTC was more effective than 3TC alone in durable HBV viral
+suppression among HIV/HBV co-infected patients (HR=2.635, 95%
+CI 1.720 to 4.037). HBeAg positivity at baseline was associated with
+failure to achieve HBV suppression despite long-term TDF-containing
+ART (HR=0.293, 95% CI 0.178 to 0.482).40, level II-2
+Another cohort study also supported the effectiveness of TDF-based
+dual HBV-active ART compared with mono HBV-active (3TC or FTC)
+ART in achieving HBV DNA <200 IU/ml at 144 weeks (p=0.02) when
+adjusted for baseline HBV DNA and HBeAg among HIV/HBV co-infected
+patients. However, the effectiveness was not at short-term review (24
+weeks). The failures in the monotherapy group to maintain durability
+of HBV DNA suppression were primarily seen in those with HBV DNA
+>20,000 IU/ml. This study also showed that pre-treatment HBeAg
+status demonstrated that a greater proportion of HBeAg-negative
+subjects achieved HBV DNA <200 IU/ml at week 24 than HBeAgpositive subjects, with difference increased over time (p=0.04).35, level II-2
+Management of Chronic Hepatitis B in Adults
+Limited data from a multicentre observational study supported the
+switch of TDF to TAF in HIV/HBV co-infected patients with renal
+impairment. After one year of switching, there were improvements in
+eGFR of 3.2 ml/min/1.73 m2 (95% CI 1.2 to 5.2) and 6.2 ml/min/1.73
+m2 (95% CI 2.4 to 10.0) in individuals with eGFR of 60 - 89 ml/min/1.73
+m2 and <60 ml/min/1.73 m2, respectively. Apart from that, there was a
+reduction in urine protein-to-creatinine ratio of -6.3 mg/mmol (95% CI
+-10.0 to -2) for the whole group.41, level II-3
+Recommendation 7
+• All hepatitis B patients should be screened for human
+immunodeficiency virus (HIV) and hepatitis C virus.
+• HIV/hepatitis B virus (HBV) co-infected patients should be treated
+simultaneously with dual active HBV treatment (tenofovir in
+combination with lamivudine or emtricitabine) plus another third
+agent of lifelong antiretroviral therapy (ART).
+• Pre-treatment hepatitis B e antigen and/or HBV deoxyribonucleic
+acid (DNA) viral load should be used for prognosis markers of
+sustained HBV DNA suppression with ART in co-infected patients.
+6.5 Co-infection with Hepatitis C Virus
+Patients with HBV/HCV co-infection have accelerated liver progression
+to cirrhosis and decompensation, and have an increased risk of HCC
+i.e. 45% in HBV/HCV co-infected patients compared with 16% in HBV
+and 28% in HCV mono-infected patients.42, level III
+In HBV/HCV co-infected patients, the virus responsible for liver disease
+should be determined by measuring HBV DNA and HCV RNA. With
+effective direct-acting antivirals (DAAs) therapy, sustained virological
+response rates for HCV in HBV and HCV co-infected patients are
+comparable with those in HCV mono-infected patients. There is a
+potential risk of HBV reactivation during DAAs therapy or after clearance
+of HCV.13 However, there is no known drug-drug interaction between
+DAAs and preferred hepatitis B therapy.
+Patients with HBV/HCV co-infection who fulfil the indication for HBV
+treatment should receive NA treatment. Those with HCV treated with
+DAA are at risk of HBV DNA and ALT flares. Monitoring of HBV DNA
+levels during treatment and for three months post-treatment is indicated
+in those who do not meet treatment criteria for mono-infected patients.
+In patients with HBsAg-negative and antibody to hepatitis B core
+antigen (anti-HBc)-positive, the risk of HBV reactivation is low. ALT
+monitoring should be done at baseline, end of treatment and during
+follow-up. HBV DNA and HBsAg are testing reserved for those whose
+ALT levels increase or fail to normalise during treatment or posttreatment.13
+Management of Chronic Hepatitis B in Adults
+Recommendation 8
+• All patients with hepatitis B/hepatitis C virus co-infection should
+be treated as per indication of hepatitis B and hepatitis C monoinfection*.
+*Refer to Algorithm on Management of Chronic Hepatitis B in
+Adults (page x)
+6.6 Pregnancy and Lactation
+Screening for HBsAg at the first antenatal visit is prudent to identify
+pregnant mothers at high-risk of transmitting the virus to their babies
+perinatally. This is further discussed in Subchapter 8.1. Antiviral agents
+e.g. 3TC, telbivudine (LdT), TDF or TAF have been used to reduce
+high viraemia in CHB mothers during the second and third trimesters
+of pregnancy. Breastfeeding is generally safe as the common use TDF
+has minimal bioavailability in breast milk.
+In a cohort study, TAF and TDF were effective in reducing viral load at
+delivery compared with baseline. The mean decreases in serum HBV
+DNA levels in TAF-treated and TDF-treated mothers were 4.3 (±0.6)
+and 4.4 (±0.7) log10 IU/ml, leading to mean viral loads of 3.5 (±0.9) and
+3.4 (±1.0) log10 IU/ml at delivery respectively. Upon delivery, all mothers
+achieved HBV DNA levels <200,000 IU/ml in both treatment groups.
+Generally, both antiviral agents were well tolerated and safe during the
+second and third trimesters of pregnancy. They were also safe in their
+infants at seven months of follow-up.43, level II-2
+A meta-analysis showed that TDF was more effective than control
+(3TC, LdT and no treatment) in reducing maternal HBV DNA level
+(WMD=2.33 log10 IU/ml, 95% CI 1.01 to 3.64) and infant HBsAg positivity
+(RR=0.15, 95% CI 0.07 to 0.31). Maternal and infant safety profiles,
+including ALT, creatine kinase (CK) and Cr, were comparable between
+TDF and other treatment groups. The quality of included cohort studies
+was moderate to high.44, level I
+Studies have shown that there was no association between
+breastfeeding and CHB in vaccinated infants. In a meta-analysis,
+breastfeeding was not associated with an additional risk of infantile
+CHB infection compared with formula feeding.45, level I Two cohort
+studies showed no significant difference in CHB between breastfed and
+formula-fed children.46 - 47, level II-2
+Indication of treatment in pregnant CHB is similar to the normal CHB
+population (refer to Algorithm on Management of Chronic Hepatitis
+B in Adults). A summary of prophylaxis and treatment in pregnant CHB
+patients can be seen in Appendix 5.
+Management of Chronic Hepatitis B in Adults
+Recommendation 9
+• Antiviral agents should be considered in pregnant women with
+chronic hepatitis B (CHB) with high viral load (>200,000 IU/ml).
+ Tenofovir disoproxil fumarate is the preferred choice.
+• Breastfeeding may be continued in women with CHB.
+6.7 Immunosuppression or Cytotoxic Therapy
+• All candidates for chemotherapy and immunosuppressive therapy
+should be tested for HBV markers prior to immunosuppression.13
+• HBsAg-positive patients
+All HBsAg-positive patients should receive either ETV, TDF or TAF for
+treatment or prophylaxis. The prophylaxis should continue for at least
+12 months (18 months for rituximab-based regimens) after cessation of
+the immunosuppressive treatment.13
+Liver function test (LFT) and HBV DNA should be tested every 3
+- 6 months during prophylaxis and for at least 12 months after NA
+withdrawal as a large proportion of HBV reactivation (HBV-R) develops
+after NA discontinuation.13
+• HBsAg-negative, anti-HBc-positive patients
+A meta-analysis showed that HBV-R occurred in 6.5% of HBsAgnegative,
+anti-HBc-total-positive
+patients
+who
+were
+receiving
+immunosuppressive therapy. The risk of HBV-R was higher but nonsignificant in rituximab-containing regimens compared with rituximabfree regimens. Further analysis also showed HBV-R rate in the
+rituximab-free regimen was higher in patients with detectable HBV
+DNA compared with those without (RR=12.67, 95% CI 2.39 to 67.04).
+Apart from that, HBV-R risk was lower in anti-HBs-positive vs anti-HBsnegative at baseline in all patient subgroups:48, level I
+ hematological diseases (RR=0.29, 95% CI 0.19 to 0.46)
+ non-haematological diseases (RR=0.28, 95% CI 0.11 to 0.76)
+ rituximab-containing regimens (RR=0.32, 95% CI 0.15 to 0.69)
+ rituximab-free regimens (RR=0.36, 95% CI 0.14 to 0.96)
+After cessation of immunosuppression, HBV-R developed in 42% of
+the rituximab-containing regimens group and 32% of rituximab-free
+regimens group.
+In another meta-analysis, the median time for HBV-R from the last
+rituximab dose was three months; it was at one month in anti-HBcpositive and five months in HBsAg-positive (p=0.021). Apart from that,
+55% of patients experienced fulminant liver failure.49, level III
+Management of Chronic Hepatitis B in Adults
+In HBsAg-negative, anti-HBc-positive subjects, the risk of HBV-R can
+be classified as high (>10%), moderate (1 - 10%) or low (<1%). Patients
+are classified based on their immunosuppression risk of reactivation as
+shown in Table 8.50
+Table 8. Types and duration of prophylaxis according to risk
+of reactivation
+Source:
+1. European Association for the Study of the Liver. EASL 2017 Clinical Practice
+Guidelines on the management of hepatitis B virus infection. J Hepatol.
+2017;67(2):370-398.
+2. Reddy KR, Beavers KL, Hammond SP et al. American Gastroenterological
+Association Institute guideline on the prevention and treatment of hepatitis B virus
+reactivation during immunosuppressive drug therapy. Gastroenterology. 2015
+Jan;148(1):215-9; quiz e16-7.
+3. Hwang JP, Feld JJ, Hammond SP et al. Hepatitis B Virus Screening and
+Management for Patients with Cancer Prior to Therapy: ASCO Provisional Clinical
+Opinion Update. J Clin Oncol. 2020 Nov 1;38(31):3698-3715.
+Refer to Appendix 6 on Antiviral Prophylaxis Before
+Immunosuppression.
+• Traditional
+immunosuppressive
+agents
+(e.g. azathioprine,
+6-mercaptopurine,
+methotrexate)
+• Intra-articular
+corticosteroids
+• Any dose of oral
+corticosteroids daily
+for <1 week
+• Low dose (<10 mg
+prednisolone or
+equivalent)
+corticosteroids for
+>4 weeks
+Low-risk group
+• Tumour necrosis
+factor-α inhibitors
+(e.g. etanercept,
+adalimumab,
+certolizumab,
+infliximab)
+• Other cytokine or
+integrin inhibitors
+(e.g. abatacept,
+ustekinumab,
+natalizumab,
+vedolizumab)
+• Tyrosine kinase
+inhibitors
+(e.g. imatinib,
+nilotinib)
+• >10 mg
+prednisolone daily
+or equivalent for
+>4 weeks
+• Anthracycline
+derivatives (e.g.
+doxorubicin,
+epirubicin
+Moderate-risk
+group
+• B-cell depleting
+agents (e.g.
+rituximab,
+ofatumumab)
+High-risk group
+Immunosuppressive
+treatment
+Monitoring HBsAg and/
+or HBV DNA every
+1 - 3 months
+6 - 12 months
+12 months
+18 months
+12 months
+Duration of
+prophylaxis
+Monitoring after
+cessation of
+prophylaxis
+Management of Chronic Hepatitis B in Adults
+Recommendation 10
+• All candidates for chemotherapy and immunosuppressive treatment
+should be tested for HBV markers prior to immunosuppression e.g.
+hepatitis B surface antigen (HBsAg). If HBsAg-negative, antibody to
+hepatitis B core antigen (anti-HBc) should be tested.
+• All HBsAg-positive patients should receive either entecavir,
+tenofovir disoproxil fumarate or tenofovir alafenamide as treatment
+or prophylaxis.
+• In HBsAg-positive patients, prophylaxis should be continued for at
+least 12 months (18 months for rituximab-based regimens) after
+cessation of the immunosuppressive treatment.
+• In HBsAg-negative patients, anti-HBc-positive patients should
+receive anti-HBV prophylaxis if they are at high-risk. Prophylaxis
+should be continued for at least 18 months after stopping
+immunosuppression and close monitoring for at least 12 months
+after prophylaxis withdrawal.
+• In HBsAg-negative, anti-HBc-positive patients should receive
+anti-HBV prophylaxis if they are at moderate risk. Prophylaxis
+should be continued for 6 - 12 months after discontinuation of
+immunosuppressive treatment.
+6.8 Renal Diseases
+HBV infection in patients with chronic kidney disease (CKD) are prone
+to increase liver-related complications, accelerated progression to endstage renal disease, and risk of increased mortality and morbidity.
+In a cohort study, TDF-treated CHB patients had a higher risk of CKD
+progression compared with ETV-treated and untreated patients. The
+5-year cumulative incidences of CKD progression were:51, level II-2
+• 48% (95 % CI 45 to 51) in TDF-treated group
+• 43% (95% CI 40 to 46) in ETV-treated group
+• 43% (95% CI 39 to 47) in untreated group
+There was a reduction in eGFR >20% in TDF-treated group compared
+with ETV-treated and untreated groups (p=0.023).
+Another cohort study showed that both LdT and ETV significantly
+improved eGFR while TDF significantly worsened it among NA-naive
+CHB patients with impaired renal function.52, level II-2
+• Renal safety monitoring with serum Cr, phosphorus, and urine
+glucose and protein should be assessed before treatment initiation
+and periodically thereafter (e.g. at least annually and more frequently
+if the patient is at high risk for renal dysfunction or has a pre-existing
+renal dysfunction) for CHB patients on TDF.5, level III
+Management of Chronic Hepatitis B in Adults
+In dialysis patients with HBsAg-positive, ETV or TAF is recommended
+for treatment.13 WHO mentions that TAF is not recommended if eGFR
+is <15ml/min.64 Dose reduction or interval for NAs can be elicited in the
+table below.
+Table 9. Recommended Dose Reduction or Dosing Interval
+for Tenofovir and Entecavir
+eGFR: estimated glomerular filtration rate; HD: haemodialysis; CAPD: Continuous
+Ambulatory Peritoneal Dialysis
+Source: World Health Organization. Guidelines for the Prevention, Care and
+Treatment of Persons with Chronic Hepatitis B Infection. WHO; Geneva:
+2015
+The incidence of HBV-related glomerulonephritis is from 0.1 to 25
+% and may present clinically in three forms, i.e., membranous,
+membranoproliferative,
+and
+IgA
+nephropathy.
+Membranous
+glomerulonephritis (MGN) is the most common type, especially in
+areas endemic for HBV infection, and usually presents as nephrotic
+syndrome, with proteinuria, oedema and hypertension. Remission of
+clinical and laboratory manifestations of nephropathy with successful
+antiviral treatment has been demonstrated.14, level III
+A meta-analysis showed that remission of the nephrotic syndrome is
+accompanied by clearance of HBV replication, supporting the role of the
+virus in the pathogenesis of the disease hence the need for treatment
+for those in this group.53, level III
+Recommendation 11
+• All dialysis and renal transplant patients should be screened for
+hepatitis B virus infection.
+• Antiviral dose should be adjusted according to the estimated
+glomerular filtration rate of a chronic hepatitis B with chronic kidney
+disease patients.
+ Renal function should be monitored during antiviral treatment.
+Every seven days or
+one 300 mg tablet following
+completion of approximately
+every 12 hours of dialysis
+Not recommended if eGFR
+<15 ml/min
+0.5 mg every 7 days
+300 mg
+every 72 hours
+0.5 mg every
+72 hours
+300 mg
+every 48 hours
+0.5 mg every
+48 hours
+300 mg
+once daily
+0.5 mg once
+daily
+25 mg once daily
+eGFR (ml/min)
+<10, HD/CAPD
+10 - 29
+30 - 49
+≥50
+Drug
+TDF
+TAF
+ETV
+Management of Chronic Hepatitis B in Adults
+6.9 Solid Organ Transplant
+TDF therapy was safe and effective in HBV-positive organ transplant
+patients in a cross-sectional study as there was no occurrence
+of rejection during treatment. The HBV DNA viral load decreased
+significantly at different time points within a year post-TDF initiation.
+However, there were no differences:54, level III
+• in creatinine, eGFR, serum phosphorus and daily microalbuminuria
+levels compared with baseline
+• in AST, ALT, ALP and GGT levels compared with baseline
+In a cohort study with a median 26 months follow-up, ETV monotherapy
+was effective in suppressing HBV after liver transplantation:55, level II-2
+• 91% of patients had loss HBsAg after two years of follow-up
+• 98.8% of patients achieved undetectable HBV DNA levels
+• HBsAg seroclearance was 86% and 91% after the first and second
+years respectively
+• relapse rate after initial HBsAg seroclearance was:
+ 8.6% at six months
+ 11.6% at one year
+ 13.7% at second and third year
+There was no significant difference in baseline HBV DNA levels between
+patients with or without HBV recurrence/persistence.
+• Long-term antiviral therapy use is safe in patients with organ
+transplants.
+6.10 Occult Hepatitis B
+Occult HBV infection (OBI) is defined as the presence of HBV DNA in
+the blood of people who tested negative for HBsAg. It can be divided
+into:56, level III
+• seropositive OBI - anti-HBc and/or anti-HBs-positive
+• seronegative OBI - anti-HBc and anti-HBs-negative
+There are a few scenarios in which OBI is of clinical importance
+i.e:57, level III
+• after acute hepatitis B
+• blood donation
+• organ transplantation
+• immunosuppression
+• cryptogenic CLD
+• HCC
+The initiation of HBV antiviral therapy prior to chemotherapy in patients
+with OBI (especially in the absence of anti-HBs) is a prudent therapeutic
+approach. Refer to Table 8 on the recommended treatment.
+Management of Chronic Hepatitis B in Adults
+6.11 Healthcare Workers
+The risk of transmission from patients with CHB to a susceptible
+individual following a single hollow bore needle stick injury is high,
+around 30 - 62% in HBeAg-positive and 6 - 37% in HBeAg-negative
+patients.
+• The Malaysia Medical Council (MMC) guideline recommends:58, level III
+ HBV-infected HCW is to be treated with effective antiviral regardless
+of HBeAg status if the HCW intends to perform exposure-prone
+procedures (EPPs)
+ criteria for the HBV-infected HCW to perform EPPs -
+- HBV DNA viral load undetectable or very low (<50 IU/ml)
+- regular HBV DNA monitoring every 12 - 24 weeks
+- the HCW agrees to inform MMC if there is any change in the work
+scope
+Refer to the MMC guideline document for details of description and
+definition of the EPPs.58, level III
+Management of Chronic Hepatitis B in Adults
+7.
+MONITORING AND FOLLOW-UP
+7.1 Monitoring
+i.
+CHB patients not on treatment
+CHB patients with HBeAg-positive chronic infection (immune tolerance)
+or HBeAg-negative chronic infection (inactive carrier) do not need
+pharmacological treatment. However, they are at risk of developing
+complications and thus require regular monitoring.
+In a small prospective cohort study on patients with CHB in immune
+tolerance phase, 15.8% developed elevated serum ALT and these
+patients were significantly more likely to have disease progression on
+follow-up liver biopsy.59, level II-2
+A prospective cohort study of 283 CHB patients with nine years of
+follow-up and well-documented spontaneous HBeAg seroconversion to
+HBeAb showed that:60, level II-2
+• 66.8% remained in sustained remission while 33.2% developed
+hepatitis (elevated ALT)
+• 7.8% developed cirrhosis with an annual incidence of 0.9%; the
+cumulative incidence was highest in the HBeAg reversion, followed
+by HBeAg-negative hepatitis and sustained remission groups
+(p=0.0129)
+• 2.2% developed HCC with an annual risk of 0.2%; the cumulative
+incidence was higher in patients with HBeAg-negative hepatitis than
+those with sustained remission (p<0.005)
+• 4.8% achieved sustained remission in HBsAg seroclearance of
+which 4.4% are those with HBeAg-negative
+The aim of monitoring patients with CHB is to identify those who need
+intervention to reduce their risk of progression to liver cirrhosis and
+HCC.
+• In a large prospective cohort of CHB patients, liver-related mortality
+increased proportionally with elevated serum ALT. The best cutoff serum ALT level for identification of patients with CHB at risk of
+mortality was estimated at 34 U/L in men (AUC=0.691, p<0.0001)
+and 30 U/L in women (AUC=0.783, p<0.0001).61, level II-2
+• A cohort study on long-term outcomes in CHB patients showed that
+the risk of liver cirrhosis and HCC increased with elevated HBV DNA
+levels.62, level II-2
+• A cross-sectional study showed that both APRI and FIB-4 index
+was useful non-invasive methods to evaluate the severity of hepatic
+fibrosis and cirrhosis in CHB patients.63, level III
+For recommendations on monitoring, refer to Algorithm on
+Management of Chronic Hepatitis B in Adults (page x).
+Management of Chronic Hepatitis B in Adults
+ii.
+CHB patients on treatment
+Monitoring CHB patients while on treatment are required to assess
+adherence, viral suppression and progression of liver disease. It is also
+important to review indications for discontinuation of treatment.64
+The following parameters are recommended to monitor patients with
+hepatitis B who were started on treatment:5, level III; 65
+• FBC
+• LFT
+• renal profile (RP)
+• thyroid function tests (only for pegylated interferon)
+• HBsAg
+• HBeAg
+• HBV DNA
+• phosphate level (only for TDF)
+These tests are recommended to be tested before the commencement
+of treatment and the frequency of testing would depend on the antiviral
+treatment started as per Table 10.
+Table 10. Recommended Frequency of Laboratory Monitoring in
+Patients with Hepatitis B on Treatment
+Modified:
+1. National Institute for Health and Care Excellence. Hepatitis B (chronic): diagnosis
+and management. United Kingdom: NICE; 2013
+2. Terrault NA, Lok ASF, McMahon BJ, et al. Update on prevention, diagnosis, and
+treatment of chronic hepatitis B: AASLD 2018 hepatitis B guidance. Hepatology.
+2018;67(4):1560-1599.
+Treatment
+Lamivudine
+Entecavir
+Investigation
+Pegylated
+interferon
+Tenofovir
+disoproxil
+Tenofovir
+alafenamide
+Frequency of testing
+Full Blood Count
+Liver Function
+Test
+Renal Profile
+Thyroid Function
+Test
+HBeAg
+HBV DNA
+HBsAg
+Others
+2, 4, 12,
+24, 36 and
+48 weeks1
+Every
+12 weeks
+-
+4 weeks after starting and then every 24 weeks
+4 weeks after starting and then every 12 weeks1
+during first year and subsequently every 24 weeks4
+12 and 24
+weeks
+of therapy and
+then every
+12 - 24
+weeks3
+Ideally once a year, preferably after HBeAg seroconversion
+Phosphate
+level every
+12 weeks3
+-
+-
+-
+-
+24 - 48
+weeks3, 5
+24 - 48
+weeks3, 5
+24 - 48
+weeks3, 5
+24 - 48
+weeks3, 5
+Management of Chronic Hepatitis B in Adults
+3. Sarin SK, Kumar M, Lau GK, et al. Asian-Pacific clinical practice guidelines on the
+management of hepatitis B: a 2015 update. Hepatol Int. 2016;10(1):1-98.
+4. European Association for the Study of the Liver. EASL 2017 Clinical Practice
+Guidelines on the management of hepatitis B virus infection. J Hepatol.
+2017;67(2):370-398.
+5. World Health Organization. Guidelines on Hepatitis B and C Testing. Geneva:
+WHO; 2017
+For CHB patients with HBeAg-negative status taking 3TC for ≥5 years,
+it is recommended to monitor HBV DNA levels every 12 weeks.65
+For patients who are decompensated, it is recommended to monitor
+FBC, LFT, RP, coagulation profile, HBsAg, HBeAg and HBV DNA
+level before and during treatment at a more frequent basis to assess
+treatment response and adverse reactions. Additional phosphate
+monitoring is needed for those on TDF. When the person is no longer
+decompensated, the recommended frequency of testing would be as
+per Table 10.65
+7.2 Complications
+Liver cirrhosis and HCC are the main complications of CHB. Liver
+cirrhosis causes portal hypertension which can lead to ascites,
+varices and hepatic encephalopathy. Furthermore, liver cirrhosis will
+significantly increase the risk of HCC development.
+In a cohort study on cirrhosis-related complications in CHB, 5.3% of the
+patients developed at least one complication i.e.:66, level II-2
+• ascites
+• spontaneous bacterial peritonitis
+• oesophageal varices
+• hepatic encephalopathy
+• hepatoma
+Factors that increased the risk of complications were:
+• older age
+• ALT at entry 1 - 2x ULN and at follow-up 1 - 2x ULN
+• low albumin
+• peak alpha-fetoprotein (AFP) >100 ng/ml during or after exacerbation
+Among patients with complications, 29% of them had HBV DNA level of
+<200 copies/ml. There was no significant difference in cumulative risk
+of liver-related complications between HBeAg-positive and negative
+patients.
+Patients with liver stiffness by TE (20 - 25 kPa) alone or combined with
+platelets and spleen size, or imaging showing collateral circulation
+are at risk of having endoscopic signs of portal hypertension, should
+undergo screening esophagogastroduodenoscopy. Patients with a liver
+stiffness <20 kPa and platelet count of >150,000 109/L have a very low
+Management of Chronic Hepatitis B in Adults
+risk of having varices requiring treatment and can avoid the screening
+endoscopy. These patients can be followed-up with yearly TE and
+platelet count.67, level III
+Risk Estimation for Hepatocellular Carcinoma in Chronic Hepatitis B
+(REACH-B) study developed and validated a predictive score for the
+risk of development of HCC in 3,584 non-cirrhotic chronic HBV patients
+and validated it in a cohort with 1,050 patients with chronic HBV. The
+17-point risk score was composed of five predictors of HCC which
+were male sex, age, serum ALT level, HBeAg status and serum HBV
+DNA level. The risk score could precisely estimate the risk of HCC
+development at three, five and ten years of follow-up.68, level II-2
+Regular surveillance of CHB patients with US and AFP analysis every
+six months are recommended and show a low HCC detection failure
+rate (0.8% per person or 0.1% per test). Significant predictors of HCC
+detection failure are liver cirrhosis, AFP level >9 ng/ml and diabetes
+mellitus.69, level II-2
+Surveillance for HCC with US ± AFP every six months should be done
+in the following group of HBsAg-positive patients with:5, level III; 70
+• liver cirrhosis
+• high-risk for HCC (men over 40 years and women over 50 years of
+age)
+• first-degree family member with a history of HCC
+• hepatitis D virus
+In a diagnostic study, magnetic resonance imaging had better accuracy
+compared with computed tomography with higher sensitivity (78.82%
+vs 62.35%) and specificity (78.46% vs 73.85%) in the diagnosis of
+small HCC among CHB patients.71, level III
+Recommendation 12
+• Surveillance for hepatocellular carcinoma (HCC) with ultrasound and
+alpha-fetoprotein every six months should be done in the following
+group of hepatitis B surface antigen-positive patients with:
+ liver cirrhosis
+ high-risk for HCC (men over 40 years and women over 50 years of
+age)
+ first-degree family member with a history of HCC
+7.3 Treatment Discontinuation
+Hepatitis B patients who are receiving antiviral treatment routinely
+continue their treatment indefinitely to ensure sustained viral
+suppression and improve clinical outcomes. However, prolonged
+Management of Chronic Hepatitis B in Adults
+antiviral treatment raises concerns about increased treatment cost and,
+risks of treatment non-adherence and AEs e.g. renal impairment, bone
+loss and virological resistance. In recent years, many studies have
+shown that antiviral treatment discontinuation may lead to a functional
+cure but contradicting results are seen in the following recent evidence.
+In an open-label RCT, NA discontinuation before HBsAg loss was
+shown to have limited benefits, especially for pre-treatment HBeAgpositive patients. HBV DNA <2000 IU/ml at week 48 was observed in
+27% NA discontinuation group vs 95% continuation group (p<0.005).
+Similarly, sustained disease remission was observed in 29% NA
+discontinuation group vs 82% continuation group. In NA discontinuation
+group, 33% had a virological or biochemical relapse and 38% required
+re-treatment. Re-treatment was higher in pre-treatment HBeAg-positive
+than HBeAg-negative (61% vs 22%; p=0.01). HBeAg-positive at start of
+treatment was the only independent predictor of relapse (OR=7.4, 95%
+CI 1.3 to 42.6).72, level I
+A systematic review showed that cessation of long-term NAs therapy
+before HBsAg seroclearance in Asian patients with CHB was a feasible
+alternative to indefinite treatment. At ≥12 months off-therapy regardless
+of HBeAg status, the virological and clinical relapse rate was lower
+when HBsAg <100 IU/ml at the end of treatment (EoT) compared
+with HBsAg >100 IU/ml (9.1% - 19.2% vs 31.4% - 86.8% and 15.4% -
+29.4% vs 48.1% - 63.6% respectively). For HBsAg loss at ≥39 months
+off-therapy in HBeAg-negative patients, a higher rate was found with
+HBsAg <100 IU/ml at EoT compared with HBsAg >100 IU/ml (21.1% -
+58.8% vs 3.3% - 7.4%).73, level II-2
+In a cohort study, TDF cessation group had higher HBV relapse rates
+and earlier median time of relapse (p<0.001) than ETV cessation group
+in non-cirrhotic patients regardless of HBeAg status. The TDF group
+also had significantly higher cumulative virological and clinical relapse
+rates at each follow-up interval irrespective of HBeAg status. TDF
+cessation was an independent factor of virological (HR=2.04, 95% CI
+1.49 to 2.80) and clinical relapse (HR=1.72, 95% CI 1.22 to 2.43) in
+patients with total bilirubin <2 mg/dL. There was no difference in HBsAg
+loss for both TDF and ETV cessation groups after 24- to 36-month
+follow-up. TDF cessation group had a higher rate of re-treatment than
+the ETV cessation group in HBeAg-positive patients (p=0.001). Overall,
+TDF cessation showed sooner and more severe HBV relapse than after
+ETV cessation.74, level II-2
+A multicentre cohort that looked into association between serum level
+of HBsAg at end of ETV therapy and risk of relapse in HBeAg-negative
+patients showed no clinical hepatitis relapse in those with EoT HBsAg
+<10 IU/ml but 29.4% relapses occurred in those with HBsAg 10 - 100
+IU/ml, 28.4% in those with HBsAg 100 - 1000 IU/ml and 49.7% in those
+Management of Chronic Hepatitis B in Adults
+with HBsAg >1000 IU/ml. Virological relapse rates were 9.5%, 63.2%,
+81.1% and 93.1% with HBsAg <10 IU/ml, 10 - 100 IU/ml,100 - 1000 IU/
+ml and 1000 IU/ml respectively. All individuals with HBsAg <10 IU/ml
+maintained clinical remission through follow-up.75, level II-2
+Various international practice guidelines show that treatment may
+be discontinued in selected CHB patients with close monitoring. A
+review paper on treatment discontinuation based on the guidelines are
+summarised in Table 11.76, level III
+Table 11. Patients Selection Criteria for Treatment
+Discontinuation
+Adapted:
+1. Kaewdech A, Sripongpun P. Challenges in the discontinuation of chronic hepatitis
+B antiviral agents. World J Hepatol. 2021 Sep 27;13(9):1042-1057.
+2. Kao JH, Jeng WJ, Ning Q et al. APASL guidance on stopping nucleos(t)ide
+analogues in chronic hepatitis B patients. Hepatol Int. 2021 Aug;15(4):833-851.
+In local setting, based on the above evidence, the CPG DG opines that
+HBV antiviral treatment may be considered for discontinuation when
+HBsAg loss occurs and is sustained for at least one-year duration.
+Monitoring with HBV DNA and LFT should be more frequent once
+treatment is discontinued.
+Recommendation 13
+• In cirrhotic patients, hepatitis B antiviral treatment should be
+continued indefinitely.
+• In non-cirrhotic patients, hepatitis B antiviral treatment may be
+discontinued when the optimal endpoint of hepatitis B surface
+antigen loss consolidated over 12 months is achieved.
+HBeAg-positive
+HBeAg-negative
+Guidelines
+HBeAg
+seroconversion
+(HBeAg-
+negative and anti-HBe-positive for at
+least two consecutive measurements
+at
+least
+six
+months
+apart)
++
+undetectable
+HBV
+DNA
+(two
+consecutive measurements at least
+six
+months
+apart)
++
+treatment
+duration of at least three years. Not
+recommended in cirrhosis.
+Undetectable
+HBV
+DNA
+(two
+consecutive measurements at least
+six
+months
+apart)
++
+treatment
+duration of at least three years. Not
+recommended in cirrhosis.
+HBeAg
+seroconversion
++
+undetectable HBV DNA + normal ALT
+for ≥12 months. Not recommended in
+cirrhosis.
+HBsAg clearance. Not recommended
+in cirrhosis.
+HBeAg
+seroconversion
++
+undetectable HBV DNA for ≥12
+months.
+Not
+recommended
+in
+cirrhosis.
+HBsAg
+clearance.
+Or
+selected
+non-cirrhotic with undetectable HBV
+DNA ≥3 years. Not recommended in
+cirrhosis.
+APASL
+Guidance,
+2021
+AASLD, 2018
+EASL, 2017
+Management of Chronic Hepatitis B in Adults
+7.4 Treatment Options for Virological Failure
+In circumstances where patients with hepatitis B show inadequate
+treatment response in terms of virological, biochemical or serological
+failure to antiviral treatment, the patient’s compliance towards antiviral
+treatment and/or possible viral resistance emergence should be
+investigated. Rescue treatment needs to be carefully selected based
+on the pre-existing choice of antiviral treatment, type of viral resistance
+and patient’s underlying co-morbidities.
+i.
+Lamivudine-resistance
+In an RCT, TDF monotherapy was effective and well tolerated in
+3TC-resistance CHB patients compared with baseline for up to 240
+weeks. There was no significant difference between TDF monotherapy
+and combination therapy of emtricitabine/tenofovir (FTC/TDF) in terms
+of:77, level I
+• virological response (HBV DNA <69 IU/ml)
+• biochemical response (rates of normal ALT and normalised ALT)
+• serological response (HBeAg loss and seroconversion)
+• resistance surveillance - no development of resistance
+• safety
+ overall incidence of adverse events was similar
+ overall renal events were mild and infrequent (8.6%)
+ overall mean change in bone mineral density was 0.98% and
+2.54% at the spine and hip respectively
+In another multicentre non-inferiority trial, stable switching to TDF
+monotherapy yielded non-inferior results at 96 weeks compared with
+3TC+adefovir (ADV) combination therapy in CHB patients with 3TCresistant and undetectable HBV DNA.78, level I
+• Viral reactivation - 6.8% 3TC+ADV vs 4.5% TDF by using ITT
+analysis (percentage difference of -2.3%, 95% CI -9.84 to 5.24)
+• No significant differences in serological (HBsAg seroconversion,
+HBeAg loss and HBeAg seroconversion) and biochemical responses
+(ALT, serum bilirubin, albumin, Cr and INR)
+• Safety -
+ eGFR at week 96 significantly decreased in the TDF group (87.93
+vs 84.47 ml/min/1.73 m2, p=0.008) and a higher percentage in
+those with cirrhosis (85.22 vs 79.83 ml/min/1.73 m2; p=0.000)
+ no difference in serious adverse reactions (SAR)
+ no difference in number of HCC cases
+ii.
+Entecavir-resistance
+In a retrospective cohort study, four rescue therapies (TDF, 0.5 mg
+ETV+ADV, 1 mg ETV, 0.5 mg ETV+TDF) were compared in patients
+with ETV-resistance mutation:79, level II-2
+• Virological response -
+Management of Chronic Hepatitis B in Adults
+ reduction in serum HBV DNA in all four groups (p=0.011)
+ undetectable HBV DNA rate at week 48 was highest in 0.5 mg
+ETV+TDF (78.57%), followed by TDF (76.19%), 0.5 mg ETV+ADV
+(63.16%) and 1 mg ETV (18.18%)
+• Biochemical and serological response -
+ higher percentages of ALT normalisation from baseline to week
+48 were detected in TDF, ETV+TDF and ETV+ADV groups
+compared with 1 mg ETV group (p=0.039)
+ no difference in HBeAg seroclearance and seroconversion
+ none of the treated patients achieved HBsAg loss or seroconversion
+• Safety - no SAR and deterioration of renal function
+iii.
+Multidrug-resistance
+In a retrospective cohort study, rescue therapy with ETV+TDF
+combination was safe and effective in patients with multidrug-resistant
+(MDR) HBV strains (e.g. 3TC/ETV-R, 3TC/ADV-R, and 3TC/ETV/
+ADV-R):80, level II-2
+• Virological response -
+ 79.6% had complete virologic suppression in all groups
+ median time of 4.5 months to reach undetectable HBV DNA (95%
+CI 3 to 6)
+• Biochemical response
+ 65.5% achieved biochemical response
+ lower baseline HBV DNA level was independently associated
+with complete virological suppression (HR=0.565, 95% CI 0.461
+to 0.692)
+• Safety - no renal dysfunction
+A recent RCT showed that TAF was non-inferior to TDF in HBV DNA
+suppression (<60 IU/ml) among CHB patients with drug resistance
+to 3TC, ETV and/or ADV at week 48. Treatment with TAF was also
+associated with significant improvement in the renal and bone safety
+profiles.25, level I
+The management of treatment failure should be based on crossresistance data as shown in Table 12.
+Management of Chronic Hepatitis B in Adults
+Table 12. Cross-Resistance Data for The Most Frequent
+Nucleos(t)ide Analogues-Resistant Hepatitis B Virus Variants
+*In vitro data for tenofovir, in vivo data for TDF, no clinical data for TAF
+The amino acid substitution profiles are shown in the left column and the level
+of susceptibility is given for each drug: S (sensitive), I (intermediate/reduced
+susceptibility), R (resistant) 3TC - lamivudine; LdT - telbivudine; ETV - entecavir; ADV
+- adefovir; TDF - tenofovir disoproxil fumarate; TAF - tenofovir alafenamide
+Source: European Association for the Study of the Liver. EASL 2017 Clinical Practice
+Guidelines on the management of hepatitis B virus infection. J Hepatol.
+2017;67(2):370-398.
+Recommended rescue treatments for patients who developed antiviral
+treatment resistance are summarised in Table 13.
+Table 13. Management of Patients Who Developed Antiviral
+Treatment Resistance
+3TC - lamivudine; LdT - telbivudine; ETV - entecavir; ADV - adefovir; TDF - tenofovir
+disoproxil fumarate; TAF - tenofovir alafenamide; MDR - multidrug-resistance
+*Long-term safety of these combinations is unknown.
+**Not seen clinically so far; do genotyping and phenotyping in an expert laboratory to
+determine cross-resistance profile.
+***Especially in patients with ADV-resistant mutations (rA181T/V and/or rN236T) and
+high viral load, response to TDF can be protracted.
+Source: European Association for the Study of the Liver. EASL 2017 Clinical Practice
+Guidelines on the management of hepatitis B virus infection. J Hepatol.
+2017;67(2):370-398.
+HBV variant
+Wild-type
+M204V
+M204I
+L180M + M204V
+A181T/V
+N236T
+L180M+M204V/
+I±I169T±V173L±M250V
+L180M+M204V/
+I±T184G±S202I/G
+3TC
+S
+R
+R
+R
+I
+S
+R
+R
+Ldt
+S
+S
+R
+R
+I
+S
+R
+R
+ETV
+S
+I
+I
+I
+S
+S
+R
+R
+ADV
+S
+I
+I
+I
+R
+R
+S
+S
+TDF/TAF*
+S
+S
+S
+S
+I
+I
+S
+S
+Resistance Pattern
+Recommended Rescue Strategies
+3TC-resistance
+LdT-resistance
+ETV-resistance
+ADV-resistance
+TDF/TAF-resistance**
+MDR
+Switch to TDF or TAF
+Switch to TDF or TAF
+Switch to TDF or TAF
+• If 3TC-naïve: switch to ETV or TDF or TAF
+• If 3TC-resistance: switch to TDF or TAF
+• If HBV DNA plateaus: add ETV*** or switch to ETV
+• If 3TC-naïve: switch to ETV
+• If 3TC-resistance: add ETV*
+Switch to ETV plus TDF or TAF combination
+Management of Chronic Hepatitis B in Adults
+8.
+PREVENTION
+8.1 Mother-to-Child Transmission
+Mother-to-child transmission (MTCT) of HBV is the commonest mode
+of transmission worldwide; it may occur either in utero or perinatally.
+MTCT of HBV is associated with a very high rate of chronicity.
+In a meta-analysis on the effect of hepatitis B immunisation in newborn
+infants of HBsAg-positive mothers, hepatitis B vaccination and/or HBIG
+were effective in the prevention of MTCT:81, level I
+• hepatitis B vaccination vs placebo or no intervention (RR=0.28, 95%
+CI 0.20 to 0.40)
+• HBIG alone vs placebo or no intervention (RR=0.50, 95% CI 0.41 to
+0.60)
+• vaccination (plasma-derived or recombinant) plus HBIG vs
+vaccination alone (RR=0.54, 95% CI 0.41 to 0.73)
+• plasma-derived vaccine (PDV) plus HBIG vs placebo or no
+intervention (RR=0.08, 95% CI 0.03 to 0.17)
+There were no differences in AEs between the infants in vaccination
+and control groups. The quality of included RCTs was low to moderate.
+In a meta-analysis on peripartum antiviral prophylaxis among HBeAgpositive CHB mothers, all three antivirals were more effective than
+control in the prevention of MTCT:82, level I
+• TDF (OR=0.16, 95% CI 0.09 to 0.25)
+• 3TC (OR=0.17, 95% CI 0.13 to 0.22)
+• LdT (OR=0.10, 95% CI 0.08 to 0.13)
+There were no significant differences in effectiveness at different times
+of antiviral prophylaxis initiation (i.e. <28 weeks, 28 weeks or >28
+weeks) or maternal viral load at baseline. The quality of primary papers
+was moderate to high.
+In another meta-analysis, 3TC treatment was more effective than
+comparator (placebo or no intervention or HBIG) in preventing MTCT
+among HBeAg-positive mothers if:83, level I
+• at baseline maternal HBV DNA of 106 - 108 copies/ml, the risk of
+HBsAg-positive in infants reduced by 70% (RR=0.30, 95% CI 0.15
+to 0.57)
+• after treatment maternal HBV DNA <106 copies/ml, the risk of
+HBsAg-positive in infants was reduced by 67% (RR=0.33, 95% CI
+0.21 to 0.53)
+• initiation of treatment at week 28 of gestation compared with week
+32 (RR=0.34, 95% CI 0.22 to 0.52)
+There were no differences in the AEs reported among mothers and
+only one related-to-drug with symptoms of jaundice in a newborn. The
+quality of the primary papers was low to moderate.
+Management of Chronic Hepatitis B in Adults
+In a cohort study, antiviral prophylaxis with TAF and TDF reduced the
+MTCT rate to 0% in combination with standard immunoprophylaxis.
+Infants’ blood at seven months showed:43, level II-2
+• HBsAg: not detected in both groups
+• anti-HBs: TAF (98.3%) vs TDF (99.1%)
+In the third meta-analysis on HBeAg-positive pregnant women with high
+viral load, additional antiviral treatment (3TC, LdT or TDF) in second
+or third trimester of pregnancy was more effective than HBIG alone in
+preventing MTCT at 6 - 12 months post-hepatitis vaccination given at
+birth:84, level I
+• RR of infant HBsAg seropositivity=0.3, 95% CI 0.2 to 0.4
+• RR of infant HBV DNA positivity=0.3, 95% CI 0.2 to 0.5
+• no significant difference in reduction in infant HBsAg seropositivity
+between antivirals
+There were no safety issues for maternal (postpartum haemorrhage,
+caesarean section and elevated CK) or foetal outcomes (congenital
+malformation, prematurity and Apgar scores) reported. The quality of
+primary papers was however low.
+In a multicentre non-randomised study, initiation of TDF at 30 - 32
+weeks of pregnancy until one-month post-partum in high viral load
+HBeAg-positive pregnant women was more effective than standard
+care in decreasing infant HBsAg positivity at six months (p=0.0481). In
+terms of safety, TDF had less incidence of:85, level II-1
+• maternal ALT level >5 x ULN at two months post-partum (p=0.0135)
+• maternal ALT level >2 x ULN for ≥3 months (p=0.0455)
+There were no significant differences in maternal Cr and CK levels,
+rates of congenital anomaly, premature birth and growth parameters of
+infants in both TDF with standard of care and standard of care alone.
+In a multicentre, open-label, RCT, MTCT rate at post-partum week 28
+for those who received TDF was lower than those without for HBeAgpositive mothers with an HBV DNA level of >200,000 IU/ml during
+the third trimester [ITT analysis (p=0.007)]. The maternal and infant
+safety profiles were similar between TDF and control groups. After the
+discontinuation of TDF (four weeks post-partum), ALT elevations above
+the normal range occurred more frequently in mothers in TDF group
+than in those in control group (p=0.03).86, level I
+In a meta-analysis of 66 studies, the optimal threshold of maternal HBV
+DNA causing MTCT was ≥5.30 log10 IU/ml (≥200,000 IU/ml). HBeAg
+was an accurate marker to identify women with HBV DNA levels above
+this threshold with a pooled sensitivity of 88.25% (95% CI 83.91 to
+91.53). In predicting MTCT, the pooled sensitivity of HBeAg testing was
+99.5% (95% CI 91.7 to 100). Thus, in healthcare facilities where HBV
+Management of Chronic Hepatitis B in Adults
+DNA assays were unavailable, HBeAg can be used as an alternative to
+assess eligibility for antiviral prophylaxis.87, level III
+According to Malaysian National Immunisation Programme (NIP), first
+dose hepatitis B vaccination should be given to all newborns within
+24 hours of life.88 In addition, HBIG is given to all newborns of CHB
+mothers within 12 hours of life.4
+A summary of prophylaxis and treatment of mother-to-child HBV
+transmission can be seen in Appendix 5.
+Recommendation 14
+• First dose hepatitis B vaccination should be given to all newborns within
+24 hours of life.
+• Hepatitis B immunoglobulin should be given to all newborns of chronic
+hepatitis B mothers within 12 hours of life.
+• Antiviral prophylaxis should be initiated at 28 - 32 weeks of gestation in
+hepatitis B e antigen-positive mothers or viral load >200,000 IU/ml.
+ Tenofovir disoproxil fumarate is the preferred antiviral.
+8.2 Post-Exposure Prophylaxis
+This subchapter on post-exposure prophylaxis (PEP) is adapted
+from guidelines on Occupational Exposures to HIV, HBV, HCV and
+Recommendations for PEP89, level III and CDC Guidance for Evaluating
+Health-Care Personnel for HBV Protection and for Administering
+Post Exposure Management.90, level III PEP management of healthcare
+provider (HCP) with possible exposure to HBV depends on the immune
+status of the HCP and HBsAg status of the source patient. Serological
+markers, i.e. baseline anti-HBs and HBsAg, are important in deciding
+the requirement for PEP.
+The PEP management is as follows:
+i.
+Evidence of prior HBV infection
+No PEP management is required because the HCP is protected
+against HBV infection.
+ii. Vaccine responders (anti-HBs level ≥10 mIU/ml)
+No PEP management is required if the HCP has received and
+adequately responded to the three-dose hepatitis B vaccine series.
+iii. Vaccine non-responders (anti-HBs level <10 mIU/ml)
+Non-responder is defined as a person who failed to respond after
+completing two vaccination series. The source patient should be
+tested for HBsAg. If the HBsAg is positive or if it cannot be obtained,
+the HCP should receive two doses of HBIG. The first dose should be
+administered as soon as possible within seven days after the exposure,
+and the second dose should be administered one month later.
+Management of Chronic Hepatitis B in Adults
+iv. Unknown vaccine response
+The source patient should be tested for HBsAg and the HCP should be
+tested for anti-HBs. These tests should be done as soon as possible
+after the exposure and done simultaneously:
+• if the anti-HBs titer is ≥10 mIU/ml, no PEP management is needed
+• if the anti-HBs titer is <10 mIU/ml, PEP management depends upon
+the HBsAg status of the source patient:
+ if the source patient is HBsAg-positive or cannot be obtained -
+ the HCP should receive one dose of HBIG and a dose of hepatitis
+B vaccine given simultaneously but at different injection sites,
+the HCP should then complete two more doses of hepatitis B
+vaccine.
+ to determine immunity, the HCP should have anti-HBs testing
+performed one to two months after the last dose of the hepatitis B
+vaccine series
+ if the source patient is HBsAg-negative -
+ the HCP should receive one dose of the hepatitis B vaccine
+followed by repeat anti-HBs testing one to two months later; if the
+anti-HBs remain <10 mIU/ml, then the HCP should complete the
+vaccine series followed by anti-HBs testing one to two months
+after the last dose
+v. Follow-up testing after exposure
+If the source patient is HBsAg-positive or unknown status, the HCP
+should have follow-up testing with anti-HBc and HBsAg six months
+after the exposure to assess for HBV transmission.
+Refer to Appendix 7 on Post-Exposure Prophylaxis Workflow.
+Recommendation 15
+• If the hepatitis B virus status of the healthcare provider (HCP) is unknown,
+baseline antibody to hepatitis B surface protein and hepatitis B surface
+antigen (HBsAg) status should be obtained before determining postexposure prophylaxis (PEP) management to the HCP.
+• If the HBsAg status of a source patient is unknown, the HCP should
+have PEP management as if the source is HBsAg-positive.
+8.3 Healthcare Workers
+Occupational exposure of HBV infection to HCW can occur through
+accidental sharp injury, mucocutaneous contact or blood contact with
+non-intact skin.
+In a Cochrane systematic review, hepatitis B vaccination in HCW
+showed:91, level I
+• PDV was effective in reducing hepatitis B events (RR=0.51, 95% CI
+0.35 to 0.71)
+Management of Chronic Hepatitis B in Adults
+• recombinant vaccine (RV) was as effective as PDV in terms of
+protective anti-HBs level and AEs
+In terms of protective anti-HBs level, vaccine administration:
+• intramuscular (IM) injection was more effective than intradermal
+injection for both PDV and RV [RR=2.33 (95% CI 1.47 to 3.68) and
+1.41 (95% CI 1.13 to 1.76) respectively]
+• IM deltoid was more effective than IM gluteal injection (RR=1.13,
+95% CI 2.91 to 153.32)
+• standard vaccination schedule (0, 1 and 6 months) was more effective
+than rapid vaccination schedule (0, 1 and 2 months) (RR=3.45, 95%
+CI 1.47 to 8.07)
+• in non-responder, there was no difference in protective anti-HBs
+level between low-dose and high-dose vaccines
+8.4 Contact Tracing
+At present, limited data exists on the safe and effective strategies
+for contact tracing for hepatitis B. Household and/or sexually closed
+contacts should be traced and tested. They may either be referred for
+follow-up if tested hepatitis B positive or vaccinated if tested negative
+but not immunised before for hepatitis B.
+A prospective cohort study showed that nurse-delivered home Dry
+Blood Spot service was more effective than conventional primary care
+follow-up (control) in household contact tracing of hepatitis B-infected
+pregnant women in terms of:92, level II-2
+• more identified contacts (100% vs 55.7%; p<0.001)
+• improved in HBV screening (96.6% vs 39.4%; p<0.001)
+• increased in vaccination rate of non-infected household closed
+contact (74.1% vs 36.4%; p<0.001)
+A study showed that nurse-led enhanced management improved
+contact tracing of CHB patients.93, level II-3
+• identification: 86% (pre-intervention) vs 99.7% (post-intervention)
+• testing: 34% (pre-intervention) vs 94% (post-intervention)
+• vaccination rate of at least three doses: 77% (pre-intervention) vs
+93% (post-intervention)
+This evidence showed that paramedics can be trained for dedicated
+tasks to improve current contact tracing policies, e.g. home visits and
+household contact tracing for HBV-infected post-partum women. A
+similar strategy can be expanded to all HBV-infected patients later once
+the programme is more established.
+Management of Chronic Hepatitis B in Adults
+Recommendation 16
+• Household contacts of hepatitis B virus (HBV) infected patients should
+be identified and screened.
+8.5 Vaccination
+Hepatitis B vaccination is advised to all adults who are high-risk,
+immunocompromised or seeking protection from HBV infection. The
+latest adult immunisation guidelines can be used as a reference.
+8.6 Counselling
+Medical providers should counsel patients regarding:5, level III
+• risk for HBV transmission
+• need for evaluation of family members, sexual contacts and
+household members for HBV
+• need for barrier protection when sexual partners have not been fully
+vaccinated
+• not sharing of toothbrushes or razors
+• covering open cuts and scratches
+• cleaning any blood spills with bleach solution
+In contrast, the sharing of food and utensils, as well as close physical
+contact, including kissing, is not contraindicated.
+Management of Chronic Hepatitis B in Adults
+9.
+REFERRAL
+There is no retrievable evidence on referral criteria for patients with
+HBV. Based on the consensus of CPG DG, patients with the following
+features should be referred to centres with Gastroenterologists and
+Hepatologists for further management:
+• decompensated cirrhosis
+• transplant candidates
+• hepatitis B resistance
+• pregnancy with indication for antiviral treatment
+• immunosuppression
+• hepatitis B flare
+• discontinuation of antiviral treatment
+10. IMPLEMENTING THE GUIDELINES
+Hepatitis B is an infectious disease and the infected patients may need
+life-long treatment. It is important to implement this CPG as guidance
+in providing quality healthcare services based on the best and latest
+evidence and expertise suited for local scenarios.
+10.1 Facilitating and Limiting Factors
+The facilitating factors in implementing the CPG are:
+i. availability of CPG to healthcare providers (hardcopies and
+softcopies)
+ii. conferences and updates on the management of hepatitis B
+which may involve professional societies e.g. Malaysian Society
+of Gastroenterology & Hepatology, Malaysian Association of
+HIV Medicine, Obstetrical & Gynaecological Society of Malaysia,
+Malaysian Family Medicine Specialist Association, Malaysian
+Pharmaceutical Society, etc.
+iii. hepatitis B programmes by MoH e.g. Elimination of Mother-to-Child
+Transmission (EMTCT) programme
+iv. public awareness hepatitis campaign which may involve other
+government agencies and non-governmental organisations e.g.
+World Hepatitis Day
+Limiting factors in the CPG implementation include:
+i. limited awareness and knowledge in the management of hepatitis B
+among healthcare providers
+ii. different levels of hepatitis B care due to expertise, drugs, laboratory
+and radiology facilities
+iii. challenges in managing hepatitis B patients with/in:
+• renal failure
+• immunosuppression
+Management of Chronic Hepatitis B in Adults
+• on-going risk factors
+• antiviral resistance
+iv. lack of surveillance programmes which includes a national registry,
+etc.
+10.2 Potential Resource Implications
+To implement the CPG, there must be strong commitments to:
+i. ensure widespread distribution of CPG to healthcare providers via
+printed copies and online accessibility
+ii. reinforce training of healthcare providers via regular seminars and
+workshops
+iii. involve multidisciplinary teams at all levels of healthcare
+iv. improve the diagnostic and therapeutic facilities
+v. train more experts in the field of hepatitis B
+vi. strengthen the hepatitis B registry
+The Regional Framework for Triple EMTCT of HIV, HBV and Syphilis in
+Asia and the Pacific 2018-30 was endorsed by the Regional Committee
+of WHO Western Pacific in October 2017. It involves an integrated and
+coordinated approach to achieve elimination in an efficient, coordinated
+and sustainable manner. Malaysia has been certified as the first country
+in the region in EMTCT of HIV and syphilis. This is possible due to
+universal screening among pregnant mothers.
+The CPG recommends pregnant mothers in a high-risk group be
+screened for hepatitis B. It also addresses the treatment of CHB mothers
+to prevent MTCT. Thus, in order to achieve triple elimination in EMTCT,
+it is important to screen universally pregnant mothers and treat them
+accordingly as recommended in the CPG. This would cause resource
+implications in the health service but it has to be strongly considered to
+achieve the aim of EMTCT by 2030.
+To assist in the implementation of the CPG, the following are proposed
+as clinical audit indicators for quality management:
+*Target ≥70%
+Implementation strategies will be developed following the approval of the
+CPG by MoH which include Quick Reference and Training Module (Available
+at: https://www.moh.gov.my/index.php/pages/view/3962?mid=1570).
+• Percentage of
+pregnant mothers
+being screened for
+HBV within a year*
+Total number of pregnant mothers
+in the same year
+Number of pregnant mothers being
+screened within a year
+=
+x100%
+Management of Chronic Hepatitis B in Adults
+References
+1.
+World Health Organization. Guidelines on Hepatitis B and C Testing. Geneva:
+WHO; 2017.
+2.
+Krajden M, McNabb G, Petric M. The Laboratory Diagnosis of Hepatitis B Virus.
+Can J Infect Dis Med Microbiol. 2005;16(2):65-72.
+3.
+Malaysia Ministry of Health. Health Facts 2021. Putrajaya: MoH; 2021.
+4.
+Krist AH, Davidson KW, Mangione CM et al. Screening for Hepatitis B Virus
+Infection in Adolescents and Adults: US Preventive Services Task Force
+Recommendation Statement. JAMA. 2020;324(23):2415-22.
+5.
+Terrault NA, Lok ASF, McMahon BJ et al. Update on Prevention, Diagnosis, and
+Treatment of Chronic Hepatitis B: AASLD 2018 Hepatitis B Guidance. Clin Liver
+Dis (Hoboken). 2018;12(1):33-4.
+6.
+Abara WE, Qaseem A, Schillie S et al. High Value Care Task Force of the
+American College of Physicians and the Centers for Disease Control and
+Prevention. Hepatitis B Vaccination, Screening, and Linkage to Care: Best
+Practice Advice from the American College of Physicians and the Centers for
+Disease Control and Prevention. Ann Intern Med. 2017;167(11):794-804.
+7.
+Malaysia Ministry of Health. National Strategic Plan for Hepatitis B and C 2019 -
+2023. Putrajaya: MoH; 2019.
+8.
+Malaysia Ministry of Health. Pilot Project for Introduction of EMTCT of Hepatitis
+B Interventions in 4 States in Malaysia. 2019.
+9.
+Malaysia Ministry of Health. Case Definitions for Infectious Diseases in Malaysia.
+Putrajaya: MoH; 2016.
+10. Amini A, Varsaneux O, Kelly H et al. Diagnostic accuracy of tests to detect
+hepatitis B surface antigen: a systematic review of the literature and metaanalysis. BMC Infect Dis. 2017;17(Suppl 1):698.
+11. Coffin CS, Fung SK, Alvarez F et al. Management of Hepatitis B Virus Infection:
+2018 Guidelines from the Canadian Association for the Study of Liver Disease
+and Association of Medical Microbiology and Infectious Disease Canada. Can
+Liver J. 2018;1(4):156-217.
+12. Karra VK, Chowdhury SJ, Ruttala R et al. Clinical Significance of Quantitative
+HBsAg Titres and its Correlation with HBV DNA Levels in the Natural History of
+Hepatitis B Virus Infection. J Clin Exp Hepatol. 2016;6(3):209-15.
+13. European Association for the Study of the Liver. EASL 2017 Clinical Practice
+Guidelines on The Management of Hepatitis B Virus Infection. J Hepatol.
+2017;67(2):370-98.
+14. Sarin SK, Kumar M, Lau GK et al. Asian-Pacific Clinical Practice Guidelines on
+The Management of Hepatitis B: A 2015 Update. Hepatol Int. 2016;10(1):1-98.
+15. Vallet-Pichard A, Mallet V, Nalpas B et al. FIB-4: An Inexpensive and Accurate
+Marker of Fibrosis in HCV Infection. Comparison with Liver Biopsy and Fibro
+Test. Hepatology. 2007;46(1):32-6.
+16. Zhang GL, Zhao QY, Lin CS et al. Transient Elastography and Ultrasonography:
+Optimal Evaluation of Liver Fibrosis and Cirrhosis in Patients with Chronic
+Hepatitis B Concurrent with Nonalcoholic Fatty Liver Disease. Biomed Res Int.
+2019;2019:3951574.
+17. Lefebvre T, Wartelle-Bladou C, Wong P et al. Prospective Comparison of
+Transient, Point Shear Wave, and Magnetic Resonance Elastography for
+Staging Liver Fibrosis. Eur Radiol. 2019;29(12):6477-88.
+18. Kao JH, Hu TH, Jia J et al. East Asia Expert Opinion on Treatment Initiation for
+Chronic Hepatitis B. Aliment Pharmacol Ther. 2020;52(10):1540-50.
+19. Xia Y, Luo H, Liu JP et al. Phyllanthus Species for Chronic Hepatitis B Virus
+Infection. Cochrane Database Syst Rev. 2011(4):CD008960.
+Management of Chronic Hepatitis B in Adults
+20. Xia Y, Luo H, Liu JP et al. Phyllanthus Species Versus Antiviral Drugs for Chronic
+Hepatitis B Virus Infection. Cochrane Database Syst Rev. 2013(4):CD009004.
+21. Bjelakovic G, Gluud LL, Nikolova D et al. Antioxidant Supplements for Liver
+Diseases. Cochrane Database Syst Rev. 2011;3:CD007749.
+22. Cai D, Pan C, Yu W et al. Comparison of The Long-Term Efficacy of Tenofovir
+and Entecavir in Nucleos(T)Ide Analogue-Naïve HBeAg-Positive Patients
+with Chronic Hepatitis B: A Large, Multicentre, Randomized Controlled Trials.
+Medicine (Baltimore). 2019;98(1):e13983.
+23. Buti M, Gane E, Seto WK et al. Tenofovir Alafenamide Versus Tenofovir Disoproxil
+Fumarate for The Treatment of Patients with HBeAg-negative Chronic Hepatitis
+B Virus Infection: A Randomised, Double-Blind, Phase 3, Non-Inferiority Trial.
+Lancet Gastroenterol Hepatol. 2016;1(3):196-206.
+24. Kaneko S, Kurosaki M, Tamaki N et al. Tenofovir Alafenamide for Hepatitis B
+Virus Infection Including Switching Therapy from Tenofovir Disoproxil Fumarate.
+J Gastroenterol Hepatol. 2019;34(11):2004-10.
+25. Byun KS, Choi J, Kim JH et al. Tenofovir Alafenamide for Drug-Resistant Hepatitis
+B: A Randomized Trial for Switching from Tenofovir Disoproxil Fumarate. Clin
+Gastroenterol Hepatol. 2022;20(2):427-37 e5.
+26. Fonseca MA, Ling JZJ, Al-Siyabi O et al. The Efficacy of Hepatitis B Treatments
+in Achieving HBsAg Seroclearance: A Systematic Review and Meta-Analysis. J
+Viral Hepat. 2020;27(7):650-62.
+27. Huang DQ, Lim SG. Hepatitis B: Who to treat? A critical review of international
+guidelines. Liver Int. 2020;40 Suppl 1:5-14.
+28. Mantzoukis K, Rodriguez-Peralvarez M, Buzzetti E et al. Pharmacological
+Interventions for Acute Hepatitis B Infection: An Attempted Network MetaAnalysis. Cochrane Database Syst Rev. 2017;3(3):CD011645.
+29. Jochum C, Maischack F, Anastasiou OE et al. Treatment of Fulminant Acute
+Hepatitis B with Nucles(t)id Analogues Is Safe and Does Not Lead to Secondary
+Chronification of Hepatitis B. Z Gastroenterol. 2016;54(12):1306-11.
+30. Sarin SK, Kedarisetty CK, Abbas Z et al. Acute-on-Chronic Liver Failure:
+Consensus Recommendations of The Asian Pacific Association for The Study of
+The Liver (APASL) 2014. Hepatol Int. 2014;8(4):453-71.
+31. Chang ML, Liaw YF. Hepatitis B Flares in Chronic Hepatitis B: Pathogenesis,
+Natural Course, And Management. J Hepatol. 2014;61(6):1407-17.
+32. Akhtar A, Khan AH, Sulaiman SA et al. HBV and HIV Co-infection: Prevalence
+and Clinical Outcomes in Tertiary Care Hospital Malaysia. J Med Virol.
+2016;88(3):455-60.
+33. Chen M, Wong WW, Law MG et al. Hepatitis B and C Co-Infection in HIV Patients
+from The TREAT Asia HIV Observational Database: Analysis of Risk Factors and
+Survival. PLoS One. 2016;11(3): e0150512.
+34. Chun HM, Roediger MP, Hullsiek KH et al. Hepatitis B Virus Coinfection Negatively
+Impacts HIV Outcomes in HIV Seroconverters. J Infect Dis. 2012;205(2):185-93.
+35. Thio CL, Smeaton L, Hollabaugh K et al. Comparison of HBV-active HAART
+Regimens in an HIV-HBV Multinational Cohort: Outcomes Through 144 Weeks.
+AIDS. 2015;29(10):1173-82.
+36. Kouame GM, Boyd A, Moh R et al. Higher Mortality Despite Early Antiretroviral
+Therapy in Human Immunodeficiency Virus and Hepatitis B Virus (HBV)-
+Coinfected Patients with High HBV Replication. Clin Infect Dis. 2018;66(1):112-20.
+37. Malaysia Ministry of Health. Malaysian Consensus Guidelines on Antiretroviral
+Therapy 2022. Selangor: MoH; 2022.
+38. Luo A, Jiang X, Ren H. Lamivudine Plus Tenofovir Combination Therapy Versus
+Lamivudine Monotherapy For HBV/HIV Coinfection: A Meta-Analysis. Virol J.
+2018;15(1):139.
+Management of Chronic Hepatitis B in Adults
+39. Avihingsanon A, Lewin SR, Kerr S et al. Efficacy of Tenofovir Disoproxil
+Fumarate/Emtricitabine Compared with Emtricitabine Alone in AntiretroviralNaive HIV-HBV Coinfection in Thailand. Antivir Ther. 2010;15(6):917-22.
+40. Huang YS, Sun HY, Chang SY et al. Long-Term Virological and Serologic
+Responses of Chronic Hepatitis B Virus Infection to Tenofovir Disoproxil
+Fumarate-Containing Regimens in Patients with HIV and Hepatitis B Coinfection.
+Hepatol Int. 2019;13(4):431-9.
+41. Surial B, Beguelin C, Chave JP et al. Brief Report: Switching from TDF to TAF
+in HIV/HBV-Coinfected Individuals with Renal Dysfunction-A Prospective Cohort
+Study. J Acquir Immune Defic Syndr. 2020;85(2):227-32.
+42. Chiaramonte M, Stroffolini T, Vian A et al. Rate of Incidence of Hepatocellular
+Carcinoma
+in
+Patients
+with
+Compensated
+Viral
+Cirrhosis.
+Cancer.
+1999;85(10):2132-7.
+43. Zeng QL, Yu ZJ, Ji F et al. Tenofovir Alafenamide to Prevent Perinatal Hepatitis
+B Transmission: A Multicenter, Prospective, Observational Study. Clin Infect Dis.
+2021;73(9): e3324-e32.
+44. Li W, Jia L, Zhao X et al. Efficacy and Safety of Tenofovir in Preventing MotherTo-Infant Transmission of Hepatitis B Virus: A Meta-Analysis Based On 6
+Studies from China and 3 Studies from Other Countries. BMC Gastroenterol.
+2018;18(1):121.
+45. Zheng Y, Lu Y, Ye Q et al. Should Chronic Hepatitis B Mothers Breastfeed? A
+Meta-Analysis. BMC Public Health. 2011 11:502.
+46. Zhou M, Li L, Han L et al. Breast-Feeding is Not a Risk Factor of Mother-to-Child
+Transmission of Hepatitis B Virus. Int J Gen Med. 2021; 14:1819-27.
+47. Chen X, Chen J, Wen J et al. Breastfeeding is Not a Risk Factor for Mother-ToChild Transmission of Hepatitis B Virus. PLoS One. 2013;8(1): e55303.
+48. Cholongitas E, Haidich AB, Apostolidou-Kiouti F et al. Hepatitis B Virus
+Reactivation
+in
+HBsAg-negative,
+Anti-Hbc-Positive
+Patients
+Receiving
+Immunosuppressive Therapy: A Systematic Review. Ann Gastroenterol.
+2018;31(4):480-90.
+49. Evens AM, Jovanovic BD, Su YC et al. Rituximab-Associated Hepatitis B
+Virus (HBV) Reactivation in Lymphoproliferative Diseases: Meta-Analysis and
+Examination of FDA Safety Reports. Ann Oncol. 2011;22(5):1170-80.
+50. Reddy KR, Beavers KL, Hammond SP et al. American Gastroenterological
+Association Institute Guideline on The Prevention and Treatment of Hepatitis B
+Virus Reactivation During Immunosuppressive Drug Therapy. Gastroenterology.
+2015;148(1):215-9; quiz e16-7.
+51. Wong GL, Chan HL, Tse YK et al. Chronic Kidney Disease Progression in
+Patients with Chronic Hepatitis B on Tenofovir, Entecavir, or No Treatment.
+Aliment Pharmacol Ther. 2018 48(9):984-92.
+52. Tsai MC, Chen CH, Tseng PL et al. Does Nucleos(t)ide Analogues Treatment
+Affect Renal Function in Chronic Hepatitis B Patients Who Have Already
+Decreased eGFR? A Longitudinal Study. PLoS One. 2016;11(3): e0149761.
+53. Fabrizi F, Dixit V, Martin P. Meta-Analysis: Anti-Viral Therapy of Hepatitis B VirusAssociated Glomerulonephritis. Aliment Pharmacol Ther. 2006;24(5):781-8.
+54. Daude M, Rostaing L, Saune K et al. Tenofovir Therapy in Hepatitis B VirusPositive Solid-Organ Transplant Recipients. Transplantation. 2011;91(8):916-20.
+55. Fung J, Cheung C, Chan SC et al. Entecavir Monotherapy Is Effective in
+Suppressing Hepatitis B Virus After Liver Transplantation. Gastroenterology.
+2011;141(4):1212-9.
+56. Raimondo G, Locarnini S, Pollicino T et al. Update of The Statements on
+Biology and Clinical Impact of Occult Hepatitis B Virus Infection. J Hepatol.
+2019;71(2):397-408.
+Management of Chronic Hepatitis B in Adults
+57. Lledo JL, Fernandez C, Gutierrez ML et al. Management of Occult Hepatitis
+B Virus Infection: An Update for The Clinician. World J Gastroenterol.
+2011;17(12):1563-8.
+58. Malaysia Medical Council. Guideline on Blood Borne Viral Infections. Kuala
+Lumpur: MMC; 2020.
+59. Hui CK, Leung N, Yuen ST et al. Natural History and Disease Progression in
+Chinese Chronic Hepatitis B Patients in Immune-Tolerant Phase. Hepatology.
+2007;46(2):395-401.
+60. Hsu YS, Chien RN, Yeh CT et al. Long-Term Outcome After Spontaneous
+HBeAg Seroconversion in Patients with Chronic Hepatitis B. Hepatology.
+2002;35(6):1522-7.
+61. Shim JJ, Kim JW, Oh CH et al. Serum Alanine Aminotransferase Level and LiverRelated Mortality in Patients with Chronic Hepatitis B: A Large National Cohort
+Study. Liver Int. 2018;38(10):1751-9.
+62. Chen CJ, Iloeje UH, Yang HI. Long-Term Outcomes in Hepatitis B: The REVEALHBV Study. Clin Liver Dis. 2007;11(4):797-816, viii.
+63. Lin CL, Liu CH, Wang CC et al. Serum Biomarkers Predictive of Significant Fibrosis
+and Cirrhosis in Chronic Hepatitis B. J Clin Gastroenterol. 2015;49(8):705-13.
+64. World Health Organization. Guidelines for The Prevention, Care and Treatment
+of Persons with Chronic Hepatitis B Infection. Geneva: WHO; 2015.
+65. National Institute for Health and Care Excellence. Hepatitis B (Chronic):
+Diagnosis and Management. London: NICE; 2013.
+66. Yuen MF, Yuan HJ, Wong DK et al. Prognostic Determinants for Chronic Hepatitis
+B in Asians: Therapeutic Implications. Gut. 2005;54(11):1610-4.
+67. de Franchis R. Expanding Consensus in Portal Hypertension: Report of The
+Baveno VI Consensus Workshop: Stratifying Risk and Individualizing Care for
+Portal Hypertension. J Hepatol. 2015;63(3):743-52.
+68. Yang HI, Yuen MF, Chan HL et al. Risk Estimation for Hepatocellular Carcinoma
+in Chronic Hepatitis B (REACH-B): Development and Validation of a Predictive
+Score. Lancet Oncol. 2011;12(6):568-74.
+69. Chon YE, Jung KS, Kim MJ et al. Predictors of Failure to Detect Early
+Hepatocellular Carcinoma in Patients with Chronic Hepatitis B Who Received
+Regular Surveillance. Aliment Pharmacol Ther. 2018;47(8):1201-12.
+70. European Association for the Study of the Liver. EASL Clinical Practice Guidelines:
+Management of Hepatocellular Carcinoma. J Hepatol. 2018;69(1):182-236.
+71. Wang G, Zhu S, Li X. Comparison of Values of CT and MRI Imaging in The
+Diagnosis of Hepatocellular Carcinoma and Analysis of Prognostic Factors.
+Oncol Lett. 2019;17(1):1184-8.
+72. Liem KS, Fung S, Wong DK et al. Limited Sustained Response After Stopping
+Nucleos(t)ide Analogues in Patients with Chronic Hepatitis B: Results from a
+Randomised Controlled Trial (Toronto STOP Study). Gut. 2019;68(12):2206-13.
+73. Liu J, Li T, Zhang L, et al. The Role of Hepatitis B Surface Antigen in Nucleos(t)
+ide Analogues Cessation Among Asian Patients with Chronic Hepatitis B: A
+Systematic Review. Hepatology. 2019;70(3):1045-55.
+74. Kuo MT, Hu TH, Hung CH et al. Hepatitis B Virus Relapse Rates in Chronic
+Hepatitis B Patients Who Discontinue Either Entecavir or Tenofovir. Aliment
+Pharmacol Ther 2019; 49:218-28.
+75. Hsu YC, Mo LR, Chang CY et al. Association Between Serum Level of Hepatitis
+B Surface Antigen at End of Entecavir Therapy and Risk of Relapse in E AntigenNegative Patients. Clin Gastroenterol Hepatol. 2016;14(10):1490-8.
+76. Kaewdech A, Sripongpun P. Challenges in The Discontinuation of Chronic
+Hepatitis B Antiviral Agents. World J Hepatol. 2021;13(9):1042-57.
+Management of Chronic Hepatitis B in Adults
+77. Fung S, Kwan P, Fabri M et al. Tenofovir Disoproxil Fumarate (TDF) vs.
+Emtricitabine (FTC)/TDF in Lamivudine Resistant Hepatitis B: a 5-Year
+Randomised Study. J Hepatol. 2017;66(1):11-8.
+78. Lee HJ, Kim SJ, Kweon YO et al. Evaluating the Efficacy of Switching from
+Lamivudine Plus Adefovir to Tenofovir Disoproxil Fumarate Monotherapy in
+Lamivudine-Resistant Stable Hepatitis B Patients. PLoS One. 2018;13(1):
+e0190581.
+79. Yuan G, Hu C, Zhou Y et al. A Different Inhibitor Is Required for Overcoming
+Entecavir Resistance: A Comparison of Four Rescue Therapies in A Retrospective
+Study. Br J Clin Pharmacol. 2017;83(10):2259-65.
+80. Lee YB, Lee JH, Lee DH et al. Efficacy of Entecavir-Tenofovir Combination
+Therapy for Chronic Hepatitis B Patients with Multidrug-Resistant Strains.
+Antimicrob Agents Chemother. 2014;58(11):6710-6.
+81. Lee C, Gong Y, Brok J et al. Effect of Hepatitis B Immunisation in Newborn
+Infants of Mothers Positive for Hepatitis B Surface Antigen: Systematic Review
+and Meta-Analysis. BMJ. 2006;332(7537):328-36.
+82. Funk AL, Lu Y, Yoshida K et al. Efficacy and Safety of Antiviral Prophylaxis
+During Pregnancy to Prevent Mother-To-Child Transmission of Hepatitis B Virus:
+A Systematic Review and Meta-Analysis. Lancet Infect Dis. 2021;21(1):70-84.
+83. Han L, Zhang HW, Xie JX et al. A Meta-Analysis of Lamivudine for Interruption
+of Mother-To-Child Transmission of Hepatitis B Virus. World J Gastroenterol.
+2011;17(38):4321-33.
+84. Brown RS Jr, McMahon BJ, Lok AS et al. Antiviral Therapy in Chronic Hepatitis
+B Viral Infection During Pregnancy: A Systematic Review and Meta-Analysis.
+Hepatology. 2016;63(1):319-33.
+85. Chen HL, Lee CN, Chang CH et al. Efficacy of Maternal Tenofovir Disoproxil
+Fumarate in Interrupting Mother-To-Infant Transmission of Hepatitis B Virus.
+Hepatology. 2015;62(2):375-86.
+86. Pan CQ, Duan Z, Dai E et al. Tenofovir to Prevent Hepatitis B Transmission in
+Mothers with High Viral Load. N Engl J Med. 2016;374(24):2324-34.
+87. Boucheron P, Lu Y, Yoshida K et al. Accuracy of HBeAg to Identify Pregnant
+Women at Risk of Transmitting Hepatitis B Virus to Their Neonates: A Systematic
+Review and Meta-Analysis. Lancet Infect Dis. 2021;21(1):85-96.
+88. Malaysian Paediatric Association. The National Immunisation Programme.
+Kuala Lumpur: MPA; 2021.
+89. Malaysia Ministry of Health. Guidelines on Occupational Exposures. Putrajaya:
+MoH; 2007.
+90. Schillie S, Murphy TV, Sawyer M et al. CDC Guidance for Evaluating Health-care
+Personnel for Hepatitis B Virus Protection and for Administering Post-exposure
+Management. MMWR Recomm Rep. 2013;62(RR-10):1-19.
+91. Chen W, Gluud C. Vaccines for Preventing Hepatitis B in Health-care Workers.
+Cochrane Database Syst Rev. 2005(4):CD000100.
+92. Keel P, Edwards G, Flood J et al. Assessing the Impact of a Nurse-Delivered
+Home Dried Blood Spot Service on Uptake of Testing for Household Contacts
+of Hepatitis B-Infected Pregnant Women Across Two London Trusts. Epidemiol
+Infect. 2016;144(10):2087-97.
+93. Beebeejaun K, Amin-Chowdhury Z, Letley L et al. Impact of A Nurse-Led
+Enhanced Monitoring, Management and Contact Tracing Intervention for
+Chronic Hepatitis B in England, 2015-2017. J Viral Hepat. 2021;28(1):72-9.
+94. Syaqirah A, Izzuna MMG. Strategies to Eliminate Mother to Child Transmission
+of Hepatitis B. Technology Review. Ministry of Health Malaysia: Malaysian
+Health Technology Assessment Section (MaHTAS); 2020. 67 p.
+Management of Chronic Hepatitis B in Adults
+APPENDIX 1
+EXAMPLE OF SEARCH STRATEGY
+Clinical Question: What are the safe and effective pharmacological
+treatments for hepatitis B infection?
+1.
+HEPATITIS B/
+2.
+hepatitis b.tw.
+3.
+hepatitis b virus infection.tw.
+4.
+1 or 2 or 3
+5.
+DRUG THERAPY/
+6.
+chemotherap*.tw.
+7.
+(drug adj1 therap*).tw.
+8.
+pharmacotherap*.tw.
+9.
+THERAPEUTICS/
+10. therap*.tw.
+11. treatment*.tw.
+12. PHARMACEUTICAL PREPARATIONS/
+13. drug*.tw.
+14. pharmaceutical*.tw.
+15. (pharmaceutic* adj1 (preparation* or product*)).tw.
+16. ANTIVIRAL AGENTS/
+17. (antiviral adj1 (agent* or drug*)).tw.
+18. antiviral*.tw.
+19. entecavir.tw.
+20. baraclude.tw.
+21. TENOFOVIR/
+22. (tenofovir adj2 disoproxil fumarate).tw.
+23. (tenofovir adj1 disoproxil).tw.
+24. tenofovir.tw.
+25. viread.tw.
+26. LAMIVUDINE/
+27. lamivudine.tw.
+28. TELBIVUDINE/
+29. telbivudin*.tw.
+30. adefovir.tw.
+31. tenofovir alafenamide.tw.
+32. INTERFERONS/
+33. interferon*.tw.
+34. 5 or 6 or 7 or 8 or 9 or 10 or 11 or 12 or 13 or 14 or 15 or 16 or 17
+or 18 or 19 or 20 or 21 or 22 or 23 or 24 or 25 or 26 or 27 or 28 or
+29 or 30 or 31 or 32 or 33
+35. 4 and 34
+36. limit 35 to (english language and humans and “adult (19 to 44
+years)” and last 10 years)
+37. limit 36 to randomized controlled trial (396)
+Management of Chronic Hepatitis B in Adults
+APPENDIX 2
+CLINICAL QUESTIONS
+1.
+What are the risk factors for hepatitis B infection?
+2.
+What are the accurate screening tools for diagnosing hepatitis B
+infection?
+3.
+What are the accurate serological markers for hepatitis B patients?
+4.
+What are the safe and effective tools for pre-treatment assessment
+in patients with hepatitis B infection?
+5.
+What are the safe and effective imaging modalities for pretreatment assessment in patients with hepatitis B infection?
+6.
+What is the safe and effective non-pharmacological management
+of hepatitis B infection? (education)
+7.
+What are the safe and effective pharmacological treatments for
+hepatitis B infection?
+8.
+When is the appropriate time to initiate treatment in patients with
+hepatitis B infection?
+9.
+What are the safe and effective treatments in special populations
+with hepatitis b?
+• acute hepatitis B
+• acute liver failure/chronic liver failure
+• hepatitis B flare
+• co-infection with HIV
+• co-infection with HCV
+• pregnancy and lactation
+• immunosuppression or cytotoxic therapy
+• renal diseases
+• solid organ transplant
+• occult hepatitis B (anti-Hep B core positive)
+• healthcare workers
+10. What are the parameters to be monitored in patients with hepatitis B?
+11. What are the parameters to be monitored in patients with hepatitis
+B on treatment?
+12. What are the treatment options for virological failure in patients
+with hepatitis B?
+13. What are the complications of hepatitis B?
+14. What is the effective hepatocellular carcinoma (HCC) surveillance
+in patients with hepatitis B?
+15. What are the criteria for treatment discontinuation in patients with
+hepatitis B?
+16. What are the criteria to refer patients with hepatitis B?
+17. What are the safe and effective prevention strategies for hepatitis B?
+• Mother-to-child transmission
+• Post-exposure prophylaxis
+• Healthcare workers
+• Contact tracing
+Management of Chronic Hepatitis B in Adults
+APPENDIX 3
+LABORATORY WORKFLOW FOR DIAGNOSIS OF CHRONIC
+HEPATITIS B INFECTION
+HBsAg: hepatitis B surface antigen; RDT: rapid diagnostic test; EIA: enzyme
+immunoassays; HBeAg: hepatitis B e antigen; HBeAb: hepatitis B e antibody; HBV:
+hepatitis B virus; DNA: deoxyribonucleic acid
+HBsAg screening
+Report as HBsAg
+non-reactive
+RDT/EIA
+Report as
+HBsAg reactive
+HBeAg/
+HBeAb
+HBV DNA
+viral load
+Refer to Table 1
+and Table 2 for
+interpretation
+of results
+Non-reactive
+Reactive
+Reactive/
+Non-reactive
+If clinically indicated
+after consultation
+with Hepatologist/
+Gastroenterologist
+Management of Chronic Hepatitis B in Adults
+APPENDIX 4
+DOSAGE FORM, ADMINISTRATION AND COMMON SIDE EFFECTS OF HEPATITIS B ANTIVIRAL IN MALAYSIA
+Drug
+30 - <50
+10 - <30
+Potential Side effects
+Administration
+Renal Adjustment
+(based on Creatinine Clearance, CrCl)* (ml/min)
+Standard
+dosage
+<10/
+Hemodialysis (HD)
+Preferred (high barrier to HBV resistance)
+Pegylated
+Interferon-α 2a
+180 mcg
+once weekly
+Subcutaneous
+Injection
+No dosage
+adjustment
+135 mcg
+once weekly
+90 - 135 mcg
+once weekly
+Flu-like symptoms,
+fatigue, mood
+disturbances, cytopenia,
+autoimmune disorders
+300 mg
+once daily
+Oral tablet,
+take with or
+without food
+300 mg
+every 48 hours
+300 mg every
+72 to 96 hours
+Avoid use.
+If no alternative,
+300 mg
+every 7 days
+Nephropathy, Fanconi
+syndrome
+osteomalacia,
+lactic acidosis
+Entecavira
+0.5 mg
+once daily
+Oral tablet, take on
+empty stomach,
+2 hours apart
+from food
+50% of
+usual dose
+OR
+0.5 mg every
+48 hours
+30% of
+usual dose
+OR
+0.5 mg every
+72 hours
+10% of
+usual dose
+OR
+0.5 mg every
+7 days
+Lactic acidosis
+Tenofovir
+Disoproxil
+Fumarate
+Tenofovir
+Alafenamide
+25 mg
+once daily
+Oral tablet,
+after food
+CrCl >15 ml/min: No dose adjustment
+CrCl <15 ml/min: Use is not recommended
+Lactic acidosis
+Management of Chronic Hepatitis B in Adults
+*Creatinine clearance (CrCl) calculated by Cockcroft-Gault formula
+aEntecavir dose is 1 mg once daily if the patient has decompensated cirrhosis
+bProduct discontinued
+cDeregistered in Malaysia in 2022
+Source:
+1. Terrault NA, Lok ASF, McMahon BJ, Chang KM, Hwang JP, Jonas MM, Brown RS Jr, Bzowej NH, Wong JB. Update on prevention, diagnosis, and
+treatment of chronic hepatitis B: AASLD 2018 hepatitis B guidance. Hepatology. 2018 Apr;67(4):1560-1599.
+2. European Association for the Study of the Liver. Electronic address: easloffice@easloffice.eu; European Association for the Study of the Liver. EASL
+2017 Clinical Practice Guidelines on the management of hepatitis B virus infection. J Hepatol. 2017 Aug;67(2):370-398.
+3. Product inserts of the respective antiviral.
+Drug
+30 - <50
+10 - <30
+Potential Side effects
+Administration
+Renal Adjustment
+(based on Creatinine Clearance, CrCl)* (ml/min)
+Standard
+dosage
+<10/
+Hemodialysis (HD)
+Lamivudine
+100 mg
+once daily
+Oral tablet, take
+with or without food
+CrCl 30 - ≤50 ml/min: 50 mg once daily
+CrCl <5 - <15 ml/min: 15 mg once daily
+CrCl <5 ml/min: 10 mg once daily
+Pancreatitis, lactic
+acidosis
+Non-Preferred (low barrier to HBV resistance)
+Adefovirb
+Dipivoxil
+10 mg
+once daily
+Oral tablet, take
+with or without
+food
+Non-HD: No data
+HD: 10 mg every day
+Acute renal failure,
+Fanconi syndrome,
+lactic acidosis
+10 mg every
+48 hours
+10 mg every
+72 hours
+Telbivudinec
+600 mg
+once daily
+Oral tablet, take
+with or without
+food
+600 mg every
+96 hours
+Creatine kinase
+elevations and
+myopathy, peripheral
+neuropathy, lactic
+acidosis
+600 mg every
+48 hours
+600 mg every
+72 hours
+Management of Chronic Hepatitis B in Adults
+APPENDIX 5
+PROPHYLAXIS AND TREATMENT OF MOTHER-TO-CHILD
+HEPATITIS B VIRUS TRANSMISSION
+*Based on recommended methods of assessment for fibrosis in CPG
+ALT: alanine aminotransferase; DNA: deoxyribonucleic acid; HBeAg: hepatitis B e
+antigen; HBIG: hepatitis B immune globulin; HBsAg: hepatitis B surface antigen; HBV:
+hepatitis B virus; IU/ml; international unit/millilitre; RDT: rapid diagnostic test; NIP:
+National Immunisation Programme
+HBsAg positive
+HBsAg negative
+HBV DNA load OR HBeAg (if HBV DNA is unavailable)
+HBV DNA
+<200,000 IU/ml
+OR HBeAg negative
+HBV DNA
+>200,000 IU/ml
+OR HBeAg positive
+• No maternal
+prophylaxis
+• Defer long-term
+treatment with
+monitoring &
+reassessment
+• Start maternal prophylaxis
+(from 28 weeks of pregnancy
+until four weeks post-partum)
+• Reassess long-term
+treatment after delivery &
+monitor
+• Start long-term
+treatment & monitor
+(refer to management
+algorithm in page x)
+Give HBIG to newborn at birth (within 12 hours)
+Give hepatitis B vaccination to newborn at birth (within 24 hours)
+followed by two or three doses of hepatitis B vaccination
+Follow
+NIP**
+Monitor maternal post-partum flare (ALT and/or HBV DNA) up to three
+months & infant’s HBV positivity (HBsAg) after six months of life
+Serology testing
+Assessment on maternal
+prophylaxis or long-term treatment
+Maternal
+Interventions
+Newborn
+Interventions
+Follow-up
+NO
+YES
+HBsAg screening on pregnant women
+(use rapid diagnostic test or laboratory-based Immunoassay)
+Presence
+of cirrhosis*
+Management of Chronic Hepatitis B in Adults
+APPENDIX 6
+ANTIVIRAL PROPHYLAXIS BEFORE IMMUNOSUPPRESSION
+HBsAg: hepatitis B surface antigen; anti-HBc: antibody to hepatitis B core antigen; HBV: hepatitis B virus
+Management of Chronic Hepatitis B in Adults
+APPENDIX 7
+POST-EXPOSURE PROPHYLAXIS WORKFLOW
+Exposure to Source HBsAg
+Vaccine known
+responder
+anti-HBs level ≥10
+mIU/ml
+Vaccine known nonresponder
+anti-HBs level <10
+mIU/ml
+Unknown vaccine
+response
+Incomplete vaccine
+/unvaccinated
+Test anti-HBs level
+≥10 mIU/ml
+<10 mIU/ml
+HBIG x 2
+(0 & 1 month later)
+HBIG x 1 &
+complete
+revaccination
+HBIG x 1 &
+initiate
+revaccination
+No treatment
+Follow-up
+Management of Chronic Hepatitis B in Adults
+AASLD
+American Association for the Study of Liver Diseases
+ADV
+adefovir
+AE (s)
+adverse event (s)
+AFP
+alpha-fetoprotein
+AIDS
+acquired immunodeficiency syndrome
+ALF
+acute liver failure
+ALT
+alanine transaminase
+Anti-HBc
+antibody to hepatitis B core antigen
+Anti-HBc-total
+antibody to hepatitis B core total protein
+Anti-HBs
+antibody to hepatitis B surface protein
+Anti-HCV
+antibody to hepatitis C virus
+APASL
+Asia Pacific Association for the Study of the Liver
+APRI
+aspartate aminotransferase to platelet ratio
+ART
+antiretroviral therapy
+AST
+aspartate transaminase
+AUC
+area under curve
+CAPD
+Continuous Ambulatory Peritoneal Dialysis
+CHB
+chronic hepatitis B
+CK
+creatine kinase
+CKD
+chronic kidney disease
+CLD
+chronic liver disease
+CPG
+clinical practice guidelines
+CPS
+Child-Turcotte-Pugh Score
+Cr
+creatinine
+DAA (s)
+direct-acting antiviral (s)
+dL
+decilitre
+DNA
+deoxyribonucleic acid
+DG
+Development Group
+EASL
+European Association for the Study of the Liver
+ECG
+electrocardiogramme
+eGFR
+estimated glomerular filtration rate
+EIA
+enzyme immunoassays
+EMTCT
+Elimination of Mother-to-Child Transmission
+EoT
+end of treatment
+EPP (s)
+exposure prone procedure (s)
+ETV
+entecavir
+FBC
+full blood count
+FIB-4
+Fibrosis-4
+FTC
+emtricitabine
+GGT
+gamma-glutamyl transpeptidase
+GRADE
+Grading Recommendations, Assessment, Development and Evaluation
+Hb
+haemoglobin
+HBeAb
+hepatitis B e antibody
+HBeAg
+hepatitis B e antigen
+HBIG
+hepatitis B immunoglobulin
+HBsAg
+hepatitis B surface antigen
+HBV
+hepatitis B virus
+HBV-R
+HBV-reactivation
+HCC
+hepatocellular carcinoma
+HCP
+healthcare provider
+HCV
+hepatitis C virus
+HCW
+healthcare workers
+LIST OF ABBREVIATIONS
+Management of Chronic Hepatitis B in Adults
+HD
+hemodialysis
+HIV
+Human Immunodeficiency Virus
+HR
+hazard ratio
+IFN
+interferon
+IgG
+immunoglobulin G
+IgM
+immunoglobulin M
+IgM anti-HBc
+immunoglobulin M antibody to hepatitis B core antigen
+IM
+intramuscular
+INR
+international normalisation ratio
+IU
+international unit
+IV
+intravenous
+IVD (s)
+in vitro diagnostic (s)
+LdT
+telbivudine
+LFT
+liver function test
+MaHTAS
+Malaysia Health Technology Assessment Section
+mcg
+microgramme
+MDR
+multidrug-resistant
+mg
+milligramme
+min
+minutes
+mIU
+milli-international unit
+ml
+millilitre
+MMC
+Malaysia Medical Council
+mmol
+millimoles
+MoH
+Ministry of Health
+mosmol
+milliosmole
+MRE
+magnetic resonance elastography
+MTCT
+mother-to-child transmission
+NA
+nucleos(t)ide analogue
+ng
+nanogramme
+NPV
+negative predictive value
+OBI
+occult hepatitis B virus infection
+PDV
+plasma-derived vaccine
+PEP
+post-exposure prophylaxis
+PPV
+positive predictive value
+RC
+Review Committee
+RD
+risk difference
+RDT
+rapid diagnostic test
+RNA
+ribonucleic acid
+RP
+renal profile
+RV
+recombinant vaccine
+RCT(s)
+randomised controlled trial(s)
+RN
+registered number
+SAR
+serious adverse reactions
+TAF
+tenofovir alafenamide
+TAHOD
+TREAT Asia HIV Observational Database
+TDF
+tenofovir disoproxil fumarate
+TE
+transient elastography
+ULN
+upper limit of normal
+US
+ultrasonography
+WHO
+World Health Organization
+3TC
+lamivudine
+µmol
+micromoles
+WMD
+Weighted Mean Difference
+Management of Chronic Hepatitis B in Adults
+ACKNOWLEDGEMENT
+The members of CPG DG would like to express their gratitude and
+appreciation to the following for their contributions:
+• Panel of external reviewers who reviewed the draft technically
+• Technical Advisory Committee of CPG for their valuable input and
+feedback
+• Health Technology Assessment and Clinical Practice Guidelines
+Council for approval of the CPG
+• Ms. Zamilah Mat Jusoh @ Yusof on retrieval of evidence
+• Dr. Farah Malik on the design of CPG cover
+• All those who have contributed directly or indirectly to the
+development of the CPG
+DISCLOSURE STATEMENT
+The panel members of both Development Group and Review Committee
+had completed disclosure forms. None hold shares in pharmaceutical
+firms or act as consultants to such firms. Details are available upon
+request from the CPG Secretariat.
+SOURCE OF FUNDING
+The development of the CPG on Management of Chronic Hepatitis B in
+Adults was supported financially in its entirety by the MoH.
+‘ety oem is

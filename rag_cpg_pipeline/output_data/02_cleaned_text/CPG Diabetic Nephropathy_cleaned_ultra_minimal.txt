@@ -1,0 +1,1824 @@
+CLINICAL PRACTICE GUIDELINES
+er
+DIABETIC
+NEPHROPATHY
+DIABETIC NEPHROPATHY
+ii
+Statement of Intent
+Review of the Guidelines
+These guidelines are meant to be a guide for clinical practice, based on the
+best available evidence at the time of development. Adherence to these
+guidelines may not necessarily ensure the best outcome in every case.
+Every health care provider is responsible for the management of his/her
+unique patient based on the clinical picture presented by the patient and
+the management options available locally.
+These guidelines were issued in July 2004 and will be reviewed in July
+2006 or sooner if new evidence becomes available.
+CPG Secretariat
+c/o Health Technology Assessment Unit
+Medical Development Division
+Ministry of Health Malaysia
+21st Floor, Bangunan PERKIM
+Jalan Ipoh
+51200 Kuala Lumpur
+Available on the following websites :
+http://www.moh.gov.my
+http://www.acadmed.org.my
+http://www.msn.org.my
+DIABETIC NEPHROPATHY
+Stage
+Stage 1/2
+Normoalbuminuria
+Stage 3
+Microalbuminuria
+Stage 4
+Overt proteinuria
+(Macroalbuminuria)
+Stage 5
+End stage kidney
+failure
+Definition
+• Normal renal
+function
+• Urine albumin
+concentration
+< 20 mg/l
+• Normal renal
+function
+• Dipstick negative
+• Urine albumin
+concentration
+20 – 200 mg/l
+• AER 30 – 300
+mg/24h
+• Serum creatinine
+normal or raised
+• Dipstick positive
+• Urine albumin
+concentration
+> 200 mg/l
+• AER > 300
+mg/24 h
+• Serum creatinine
+> 500 µmol/L
+Screening/Monitoring
+• Annual
+urine protein
+dipstick
+• Recheck if
+positive
+• If negative test for
+microalbuminuria
+• Recheck urine for
+microalbuminuria
+2 – 4 times per
+year
+• Quantitate
+proteinuria 2 – 4
+times per year
+• Renal profile
+2 – 4 times per
+year
+• As dictated by
+individual
+circumstances
+Management
+• Optimise
+glycaemic control
+• Treat
+hypertensionn
+(target BP <
+130/80)
+• Optimise
+glycaemic control
+• Treat hypertension
+(target BP<130/80)
+• Use ACEI/ARB
+for hypertension
+and/or
+microalbuminuria
+reduction
+• Avoid excessive
+dietary protein
+and salt intake
+• Treat
+hyperlipidaemia
+• Target BP
+< 125/75 if
+proteinuria
+> 1 g/day
+• Use ACEI/ARB
+for hypertension
+and/or proteinuria
+reduction
+• Restrict protein
+• Restrict salt
+• Treat
+hyperlipidaemia
+• Consider referral
+to a nephrologist
+• Protect access
+sites
+• Dialysis /
+transplant
+Grade
+A
+A
+A
+A
+A
+C
+B
+B
+A
+B
+B
+B
+C
+C
+SUMMARY
+Recommendations for Screening, Monitoring and Management of
+Diabetic Renal Disease
+AER = Albumin excretion rate, BP = blood pressure
+Adapted from SIGN Guidelines(1)
+DIABETIC NEPHROPATHY
+MEMBERS OF THE PANEL
+Chairperson
+:
+Dr. Rozina Ghazalli
+Consultant Nephrologist
+Penang Hospital
+Co-chairperson
+:
+Dr. Ong Loke Meng
+Consultant Nephrologist
+Penang Hospital
+Committee Members: (in alphabetical order)
+Dr. Adlina bt. Bakar
+Family Physician
+Butterworth Health Clinic
+Penang
+Professor Amir S. Khir
+Consultant Endocrinologist
+& Professor of Medicine
+Penang Medical College
+Dr. Ang Hock Aun
+Consultant Physician
+Seberang Jaya Hospital
+Penang
+Dr. Chen Tse Peng
+Consultant Nephrologist &
+Physician
+Gleneagles Medical Centre
+Penang
+Dr. Foo Siu Mei
+Clinical Specialist in Nephrology
+Department of Medicine
+Penang Hospital
+Dr. Koay Hean Chong
+Consultant Nephrologist
+Lam Wah Ee Hospital
+Penang
+Dr. Ong Hean Teik
+Consultant Cardiologist and
+Physician
+H. T. Ong Heart Clinic Penang
+Dr. Punithavathi Narayanan
+Head & Senior Medical Officer
+Outpatients Department
+Penang Hospital
+Dr. Tan Chor Seong
+Consultant Nephrologist &
+Physician
+Loh Guan Lye Specialist Centre
+Penang
+iii
+DIABETIC NEPHROPATHY
+PREFACE
+Diabetes mellitus is a major cause of end stage renal disease (ESRD)
+worldwide. In Malaysia the Dialysis and Transplant Registry 2002
+reported that diabetic nephropathy was the predominant cause of ESRD
+accounting for 47% of new cases.(2) This places an enormous burden on
+clinical, public health and economic resources as such patients often have
+multiple co-morbid conditions such as coronary artery and peripheral
+vascular disease.
+Thus the Malaysian Society of Nephrology council deemed it appropriate
+that a Clinical Practice Guideline on Diabetic Nephropathy be drawn up
+to guide healthcare professionals, with the major objectives being
+screening for diabetic nephropathy and instituting measures to prevent or
+retard its progression.
+This task was given to the Penang nephrologists as it dawned on the
+council that the small island had a nephrologist in every corner! Apart
+from nephrologists, the panel included an endocrinologist, a family
+physician, an outpatient general practitioner, a cardiologist, and a
+physician with interest in diabetes mellitus. The committee has attempted
+to combine evidence based medicine with the practical strategies available
+locally to formulate these recommendations.
+These fourteen recommendations are intended to assist primary health
+care doctors who manage diabetic patients in their day-to-day practice to
+intervene early and effectively so that the onset and the course of diabetic
+nephropathy can be ameliorated.
+I would like to take this opportunity to thank the panel members for their
+hard work and commitment in preparing the guidelines. I would also like
+to thank the secretariat for services rendered, all those who contributed to
+the final draft presentation and finally to the Malaysian Society of
+Nephrology council for their infinite patience in waiting for the
+appearance of this guideline!
+Dr. Rozina Ghazalli
+(Chairperson)
+DIABETIC NEPHROPATHY
+DEVELOPMENT OF THE GUIDELINE
+•
+Relevant key words and terms were determined by the committee
+members. These were used to generate MEDLINE searches for
+scientific literature in the English language focusing on peer reviewed
+articles. The articles were retrieved for systematic review using a
+check list to assess the validity of the studies.
+•
+A draft of the guideline was formulated based on the systematic
+review of the literature including existing guidelines. Some
+recommendations were modified taking into consideration local issues
+such as costs and available resources. The rationale for the
+modification was provided.
+•
+The draft was subjected to peer review in stages. It was distributed to
+general practitioners, physicians, endocrinologists, nephrologists and
+Malaysian Society of Nephrology members and amended following
+their comments. A discussion of the recommendations was then made
+at the annual seminar of the Malaysian Society of Nephrology in May
+2003 followed by an open forum for doctors in Penang.
+•
+This guideline is structured for ease of reference. Each guideline is
+tabulated, numbered and titled. The evidence and rationale for the
+recommendation is provided to enable the reader to make an informed
+decision appropriate to the individual patient.
+•
+This guideline complements the existing guideline on “Care of the
+Diabetic Patient (The Malaysian Consensus practice guideline :
+Second edition July 1999)”. The focus of this guideline is on the
+prevention, screening and management of diabetic nephropathy.
+•
+Recommendations have been graded based on levels of evidence using
+the following system: -
+Based on evidence from one or more randomised clinical
+trials and/or meta-analyses.
+Based on evidence from high quality clinical trials but no
+randomised clinical trial data available.
+Based on expert committee reports and/or clinical
+experience of respected authorities but lacking in directly
+applicable studies of good quality.
+GRADE A
+GRADE B
+GRADE C
+v
+DIABETIC NEPHROPATHY
+Table of Contents
+Summary
+Statement of Intent
+Preface
+Members of the Panel
+Table of Contents
+Development of the Guideline
+Introduction
+Diagnosis of Diabetic Nephropathy
+Natural History of Diabetic Nephropathy
+Prevention of Diabetic Nephropathy
+Screening for Microalbuminuria and Overt Proteinuria
+Algorithm : Screening for Proteinuria
+Management of Diabetic Nephropathy
+- Glycaemic control
+- Blood pressure control
+- Microalbuminuria
+- Overt proteinuria
+- Smoking
+- Lipids
+- Diet
+- Referral
+Appendix 1 (Factors affecting urinary albumin excretion)
+Appendix 2 (Methods of urine collection)
+Appendix 3 (Methods of measurement of microalbuminuria)
+Appendix 4 (Dosage of hypoglycaemic agents in renal failure)
+Appendix 5 (Dosage of ACEIs and ARBs commonly used)
+Appendix 6 (Estimation of renal function)
+References
+Glossary of Terms
+Disclosure Statement
+Acknowledgements
+Page
+i
+ii
+iii
+iv
+v
+1
+2
+2
+3
+5
+6
+8
+9
+9
+10
+11
+12
+14
+14
+16
+17
+18
+19
+21
+22
+24
+25
+26
+38
+38
+DIABETIC NEPHROPATHY
+•
+Concomitant renal artery stenosis should be suspected :-
+- when rapid deterioration of renal function occurs with angiotensinconverting enzyme inhibitors (ACEIs) or angiotensin receptor
+blockers (ARBs)
+- in the presence of severe peripheral vascular disease, renal bruits,
+severe uncontrolled hypertension or unequal sized kidneys
+NATURALHISTORY OF DIABETIC NEPHROPATHY
+•
+Diabetic nephropathy is a spectrum of progressive renal lesions
+secondary to diabetes mellitus ranging from renal hyperfiltration to
+end stage kidney disease.
+•
+The earliest clinical evidence of nephropathy is the presence of
+microalbuminuria (Table 1). It occurs in 30% of type 1 diabetics, 5 to
+15 years after diagnosis but may be present at diagnosis in type 2
+diabetics as the time of onset of type 2 diabetes is often unknown.
+•
+Microalbuminuria progresses to overt proteinuria over the next 7 to 10
+years (Figure 1).
+•
+Once overt proteinuria develops, renal function progressively declines
+and end stage renal failure is reached after about 10 years.
+2
+DIABETIC NEPHROPATHY
+INTRODUCTION
+•
+In recent years there has been an increase in the prevalence of diabetes
+worldwide. In Malaysia the prevalence of diabetes has increased from
+6.3% in 1986 to 8.3% in 1996.(3)
+•
+With improvement in the survival of patients with diabetes,
+nephropathy has now emerged as a major health problem.
+•
+Nephropathy develops in about 20-40% of diabetics. Known risk
+factors for the development of diabetic nephropathy include genetic
+predisposition, poor glycaemic control, hypertension and smoking.
+•
+Prevention, early detection and aggressive intervention are needed to
+retard the progression of diabetic nephropathy to end stage renal
+failure.
+•
+Cardiovascular disease is the commonest cause of death in patients
+with diabetic nephropathy. Thus it is necessary to address the
+associated risk factors for this condition.
+DIAGNOSIS OF DIABETIC NEPHROPATHY
+•
+The diagnosis of diabetic nephropathy is usually made clinically. Other
+target organ involvement is often present. 90-95% of type 1 diabetics
+and about 70% of type 2 diabetics with nephropathy will have
+retinopathy as well. In the absence of retinopathy, non-diabetic renal
+disease may need to be excluded.
+•
+Non-diabetic renal disease should also be considered when :-
+- significant haematuria or urinary red blood cell casts are present
+- renal failure occurs in the absence of proteinuria
+- there is evidence of other systemic disease e.g. systemic lupus
+erythematosus, myeloma, viral hepatitis
+DIABETIC NEPHROPATHY
+PREVENTION OF DIABETIC NEPHROPATHY
+•
+One of the most important aspects in the management of diabetes
+mellitus is to prevent macrovascular and microvascular complications
+including diabetic nephropathy and cardiovascular disease.
+•
+This may require a multidisciplinary team approach which includes
+general practitioners, physicians, endocrinologists, dietitians and
+trained diabetic nurses.
+•
+The focus of management should be on good glycaemic control which
+includes patient education, lifestyle modification, diet, exercise,
+attainment of ideal body weight and frequent self-monitoring of blood
+glucose.
+•
+The strongest evidence in the prevention of diabetic nephropathy and
+other microvascular complications has been with tight glycaemic
+control. The Diabetes Control and Complications Trial (DCCT) in type
+1 diabetics(5,6) and the United Kingdom Prospective Diabetes Study
+(UKPDS) in type 2 diabetics(7) have shown that intensive blood glucose
+control reduces the risk of developing nephropathy, retinopathy and
+neuropathy.
+•
+Strategies to prevent diabetic nephropathy also include monitoring and
+tight control of blood pressure.
+4
+DIABETIC NEPHROPATHY
+Adapted from SIGN Guidelines(1)
+Figure 1. Natural history of diabetic nephropathy(4)
+Table 1. Evolution of Diabetic Renal Disease
+•
+Glomerular hypertension and hyperfiltration
+•
+Normal albuminuria: urinary albumin excretion rate (AER)
+<20 µg/min
+•
+Raised GFR, normal serum creatinine
+•
+“Silent phase” (structural changes on biopsy but no
+clinical manifestations)
+•
+Normoalbuminuria
+•
+Microalbuminuria: AER 20 – 200 µg/min
+•
+Normal serum creatinine
+•
+There may be increased blood pressure
+•
+Overt “dipstick positive” proteinuria (macroalbuminuria) :
+AER > 200 µg/min
+•
+Hypertension
+•
+Serum creatinine may be normal
+•
+Increase in serum creatinine with progression of
+nephropathy
+•
+End stage renal failure
+•
+Requiring dialysis or transplant to maintain life
+Stage 1
+Stage 2
+Stage 3
+Stage 4
+Stage 5
+0
+Onset of
+diabetes
+Onset of
+proteinuria
+Rising
+creatinine
+Dialysis/
+Transplant
+2
+5
+10-30
+13-25
+20-40
+Time(yrs)
+Silent phase
+(structural changes)
+Stage 2
+Hyperfiltration
+(functional changes)
+Stage 1
+ESRD
+Stage 5
+Overt
+nephropathy
+Stage 4
+Incipient
+nephropathy
+Stage 3
+DIABETIC NEPHROPATHY
+*
+Other factors affecting urinary albumin excretion should be excluded when screening
+for microalbuminuria and proteinuria (Appendix 1).
+Urine should be screened for proteinuria with conventional dipstick on
+an early morning urine specimen*
+Recommendation 2 : Method of screening for proteinuria
+Grade C
+•
+Timed urine collection is the gold standard for screening and
+quantification of urinary albumin excretion. However this is
+expensive, impractical and collection is often incomplete. Refer to
+Appendix 2.
+•
+Urine dipstick testing for albumin concentration or albumin/creatinine
+ratio are quick, convenient tests that can give rapid on-site results.
+Both tests have reasonable sensitivity and specificity(8).
+•
+Early morning urine should be used to minimise fluctuations in urinary
+concentration and changes in AER related to posture and physical
+a c t i v i t y.
+Currently
+available
+methods
+for
+screening
+of
+microalbuminuria are listed in Appendix 3.
+(a) If urine dipstick for proteinuria is negative, screening for
+microalbuminuria should be performed on an early morning urine
+specimen
+(b) Urine dipstick for microalbuminuria is an acceptable screening test
+(c) If microalbuminuria is detected, confirmation should be made with
+two further tests within a 3 to 6 month period (see Algorithm)
+(d) If microalbuminuria is not detected, re-screening should be
+performed annually
+Recommendation 3 : Screening for microalbuminuria
+Grade C
+6
+DIABETIC NEPHROPATHY
+SCREENING FOR MICROALBUMINURIA AND
+OVERT PROTEINURIA
+•
+Microalbuminuria refers to the presence of a small amount of albumin
+in the urine, which cannot be detected with the usual urine dipstick.
+The definition depends on the method of urine collection (Table 2).
+Table 2. Definition of abnormal urinary albumin excretion(1)
+Albumin Excretion
+Normoalbuminuria
+Microalbuminuria
+Overt proteinuria
+24 hr
+collection
+(mg/24h)
+<30
+30-300
+>300
+Timed
+collection
+(µg/min)
+<20
+20-200
+>200
+Urine
+Albumin
+concentration*
+(mg/l)
+<20
+20-200
+>200
+Urine
+Albumin:
+Creatinine
+ratio**
+(mg/mmol)
+<3.5 women
+<2.5 men
+3.5 to 35
+women
+2.5 to 25
+men
+>35 women
+>25 men
+SPECIMEN COLLECTED
+First voided morning
+specimen
+*
+urine albumin of 200mg/l is equivalent to 300mg/l of protein
+** 3.5 as lower limit in females because of lower creatinine excretion
+*
+Other factors affecting urinary albumin excretion should be excluded when screening
+for microalbuminuria and proteinuria (Appendix 1).
+Screening for proteinuria should be performed yearly in the following
+patients*:
+(a) Type 1 diabetes mellitus: 5 years after diagnosis of diabetes, or
+earlier in the presence of other cardiovascular risk factors
+(b) Type 2 diabetes mellitus: at the time of diagnosis of diabetes
+Recommendation 1 : Screening for proteinuria
+Grade C
+DIABETIC NEPHROPATHY
+MANAGEMENT OF DIABETIC NEPHROPATHY
+•
+The development of diabetic nephropathy has a devastating impact on
+morbidity and mortality of patients with diabetes mellitus.
+Microalbuminuria is a powerful and independent predictor of
+cardiovascular death.(9,10)
+•
+Therapeutic intervention should include strategies to prevent or retard
+the progression of diabetic renal disease as well as to reduce
+cardiovascular complications.
+•
+The management of these patients includes good glycaemic control,
+tight control of blood pressure, reduction of proteinuria with ACEIs or
+ARBs, cessation of smoking, lipid control and salt and protein
+restriction.
+Glycaemic Control
+FBS = fasting blood glucose, HbA1c = glycosylated haemoglobin
+Glycaemic control should be optimised, with FBS ≤ 6 mmol/l and/or
+HbA1c ≤ 7%
+Recommendation 4 : Glycaemic control
+Grade A
+•
+In type 1 diabetes mellitus, intensive treatment usually with multiple
+insulin injections, coupled with self-management education and self
+monitoring of blood glucose can achieve near ideal glucose and
+HbA1c goals. The risk of getting microalbuminuria and albuminuria is
+reduced with intensive treatment.(5)
+•
+Maintaining the HbA1c target long term can sustain the benefits.(6)
+•
+In type 2 diabetes, intensive blood glucose control can reduce the risk
+of microvascular endpoints including albuminuria irrespective of the
+drugs used,(7) except in overweight diabetics where metformin was
+shown to have a significantly greater effect on any diabetic related
+endpoints.(11)
+8
+DIABETIC NEPHROPATHY
+Algorithm : Screening for Proteinuria
+Adapted from Practice Guidelines for Diabetes Mellitus type 2. The Malaysian consensus :
+Second Edition (July 1999)
+Urine dipstick for protein
+(a) Type 1 : 5 years after diagnosis
+or earlier in the presence of other
+cardiovascular risk factors
+(b) Type 2 : at the time of diagnosis
+POSITIVE
+(urine protein >300mg/l)
+on 2 separate occasions
+(exclude other causes e.g.
+UTI, CCF etc.)
+Overt nephropathy
+• Quantify excretion
+rate e.g. 24-hr urine
+protein
+• Exclude other
+nephropathies
+* Optimise
+glycaemic control
+* Strict BP control
+* ACEI/ARB
+* Lifestyle
+modification
+* Stop smoking
+* Treat
+hyperlipidaemia
+* Avoid excessive
+salt intake
+* Avoid excessive
+protein intake
+* Monitor renal
+function
+* Monitor for other
+diabetic end-organ
+damage
+POSITIVE
+Retest twice in 3 –6
+months (exclude other
+causes e.g. UTI,
+CCF etc.)
+* If 2 of 3 tests are
+positive, diagnosis of
+microalbuminuria is
+established
+* 3-6 monthly follow-up
+of microalbuminuria
+NEGATIVE
+Screen for
+microalbuminuria
+on early morning
+spot urine
+NEGATIVE
+Yearly test
+for
+microalbuminuria
+DIABETIC NEPHROPATHY
+Hypertension Optimal Treatment (HOT) study has demonstrated the
+value of aiming for a diastolic pressure of less than 80mmHg to
+reduce cardiovascular and other diabetic complications.(14) However
+this can be difficult to achieve and multiple (2 or more) drugs may
+be necessary.(19)
+•
+The choice of antihypertensive agent(s) should be individualised,
+tailored to patients’ co-morbidities. Diuretics, beta-blockers, calcium
+channel blockers, ACEIs or ARBs may be used to achieve the target
+blood pressure.
+•
+ACEIs or ARBs may be considered as first line therapy for treatment
+of hypertension in diabetics in the absence of contraindications.
+Several studies have suggested that ACEIs(20-24) and ARBs(25) may
+confer cardioprotective benefits beyond their blood pressure effect in
+diabetics although other studies did not show specific advantages.(26,27)
+ACEIs or ARBs should be initiated for the reduction of
+microalbuminuria unless contraindicated
+Recommendation 6 : Treatment of microalbuminuria
+ACEIs in type 1 & type 2 diabetics : Grade A
+ARBs in type 2 diabetics : Grade A
+Microalbuminuria
+Refer to Appendix 5 for dosage of commonly used ACEIs and ARBs
+•
+ACEIs(24) and ARBs have been shown to reduce microalbuminuria in
+diabetic patients independent of their effect on blood pressure.
+•
+In type 1 diabetic patients with or without hypertension, ACEIs have
+been shown to reduce microalbuminuria.(28-31) In type 2 diabetics,
+ACEIs(32-38) and more recently ARBs(39-41) have been shown to reduce
+microalbuminuria.
+10
+DIABETIC NEPHROPATHY
+•
+Any reduction of HbA1c can reduce the risk of diabetic
+complications.(12)
+•
+In the presence of renal failure the dose of hypoglycaemic agents
+should be adjusted to avoid hypoglycaemia. Refer to Appendix 4.
+•
+Tight blood pressure control is the primary goal in the management of
+hypertension in diabetics. This may be achieved with any
+antihypertensive agent.
+•
+Hypertension
+aggravates
+microvascular
+and
+macrovascular
+complications of diabetes including diabetic nephropathy.(13)
+•
+Diabetics benefit more from aggressive blood pressure lowering
+compared to non-diabetics in the reduction of cardiovascular events.( 1 4 - 1 6 )
+•
+Tight blood pressure control is also important to slow the progression
+of nephropathy and deterioration of renal function.(17,18)
+•
+Target blood pressure should be less than 130/80mmHg if this can be
+safely achieved. Although the target is relatively arbitrary, the
+Blood Pressure Control
+In type 1 diabetics, blood pressure rises with the development of
+microalbuminuria. With the onset of overt proteinuria, hypertension is
+usually present and worsens as the nephropathy progresses. However in
+type 2 diabetics, hypertension may precede the onset of diabetic
+nephropathy and is often associated with the metabolic syndrome of
+obesity, insulin resistance and hyperlipidaemia.
+Target blood pressure in diabetics should be less than 130/80mmHg
+Recommendation 5 : Target blood pressure
+Grade A
+DIABETIC NEPHROPATHY
+Landmark studies of ACEIs in type 1( 4 2 ) and ARBs in type 2
+diabetics(43,44) have shown the effectiveness of these agents to retard the
+progression of overt diabetic nephropathy. In these trials, there were
+significant reductions in the risk of doubling of plasma creatinine and
+developing renal failure. These benefits were independent of blood
+pressure lowering.
+•
+The role of ACEIs in type 2 diabetics with overt nephropathy is less
+clear. As yet, large long-term studies on hard renal endpoints have not
+been performed. Small scale studies have shown beneficial effect on
+proteinuria but data on retardation of progression of renal failure is
+limited.(36,45-49) Despite the lack of direct evidence, an ACEI is a
+reasonable alternative to an ARB as it is cheaper and more widely
+available.
+•
+Current data suggests that ACEI/ARB should be instituted even in
+patients with moderately severe renal failure.(43,44) However renal
+function should be monitored closely. Refer to Appendix 5.
+•
+Several small studies have indicated that the combination of ACEI and
+ARB may have additive effect in lowering blood pressure and
+proteinuria in diabetic patients with microalbuminuria(50,51) and overt
+nephropathy.(52,53) Data on long term renoprotective benefits is required.
+•
+Calcium channel blockers (CCBs) have class specific effect on
+proteinuria. Non-dihydropyridine CCBs (e.g. verapamil, diltiazem)
+have
+consistently been
+shown
+to reduce proteinuria but
+dihydropyridine CCBs (e.g. nifedipine, amlodipine) have variable
+effect.(54-57)
+•
+There is currently insufficient evidence to support a specific
+recommendation on the use of sulodexide, a glycosaminoglycan, in
+the treatment of diabetic nephropathy. Small scale studies with shortterm follow-up have suggested that sulodexide may be useful to
+reduce urinary albumin excretion rate in type 1 and type 2 diabetics
+with microalbuminuria or overt proteinuria.(58,59) The data on its effect
+on renal function is limited.
+12
+DIABETIC NEPHROPATHY
+In patients with proteinuria > 1 g/day, target blood pressure should be
+lowered to < 125/75mmHg
+Recommendation 7 : Target blood pressure in overt nephropathy
+Grade B
+(a) In Type 1 diabetics with overt proteinuria, ACEIs should be
+initiated unless contraindicated
+(b) In Type 2 diabetics with overt proteinuria, ARBs or ACEIs should
+be initiated unless contraindicated
+Recommendation 8 : Treatment of overt proteinuria
+Grade A
+ARBs : Grade A
+ACEIs : Grade B
+Overt Proteinuria
+The target is extrapolated from the Modification of Diet in Renal Disease
+(MDRD) study where 3% of subjects were diabetics. In the subset of
+patients with proteinuria of more than 1 g/day, lowering of blood pressure
+to below 125/75mmHg was associated with reduction in deterioration of
+renal function.(17)
+This is the stage when urine is positive for protein by conventional
+dipstick. Treatment at this stage should be aimed at aggressive lowering
+of blood pressure and reduction of proteinuria.
+•
+Early studies on type 1 diabetic nephropathy have demonstrated the
+e ffectiveness of blood pressure control with conventional
+antihypertensive agents in reducing proteinuria and deterioration of
+renal function.(18)
+•
+The most compelling evidence supporting drug specific advantages
+beyond blood pressure control has been with ACEIs and ARBs.
+Refer to Appendix 5 for dosage of commonly used ACEIs and ARBs.
+DIABETIC NEPHROPATHY
+In diabetics :
+(a) therapeutic lifestyle changes should be instituted if LDLcholesterol is > 2.6 mmol/l
+(b) drug therapy should be considered if LDL-cholesterol is > 3.4
+mmol/l
+Recommendation 11 : Correction of dyslipidaemia
+Grade B*
+•
+Dyslipidaemia in diabetics should be identified and aggressively
+treated.
+•
+All diabetics should be encouraged to go on a therapeutic lifestyle
+change comprising increased physical activity, reduction in intake of
+saturated fat and cholesterol, as well as achievement of ideal body
+weight.(69)
+•
+Therapy with lipid lowering drugs, especially with statins, has been
+shown to reduce cardiovascular morbidity and mortality in diabetics
+and in other patients at high risk of clinical atherosclerotic disease.(70-72)
+•
+There have been no large randomised placebo-controlled trials to show
+the effects of lipid lowering in patients with diabetic nephropathy.
+Nevertheless the beneficial outcome of lipid lowering in the diabetic
+population in general supports aggressive on-going therapy when
+nephropathy develops.
+•
+In diabetics with LDL-cholesterol above 3.4 mmol/l, drug therapy
+should be considered to achieve an ideal LDL-cholesterol level of
+under 2.6 mmol/l (or to achieve non- HDL-cholesterol of under 3.4
+mmol/l). Statins are drugs of first choice, with fibrates as an alternative
+especially in those with
+low
+HDL-cholesterol and
+high
+triglycerides.(73,74)
+* recommendations are graded on evidence from trials on diabetics in general as data in
+diabetic nephropathy is limited
+14
+DIABETIC NEPHROPATHY
+Cigarette smoking should be actively discouraged
+Recommendation 9 : Cessation of smoking
+Grade B
+Smoking
+There is clear epidemiological evidence to link smoking to increased risk
+of cardiovascular events. Smoking has also been shown to accelerate
+progression of diabetic and non-diabetic renal disease and cessation of
+smoking ameliorates the decline of renal function.(60-62) Thus patients with
+diabetic nephropathy should be strongly advised against smoking.
+Full lipid profile should be performed at least annually in adult diabetics
+Recommendation 10 : Monitoring of serum lipids
+Grade C
+Lipids
+•
+Diabetics often have abnormal lipid profiles with raised serum
+triglycerides, cholesterol and decreased HDL cholesterol level.
+•
+While dyslipidaemia may aggravate renal disease,(63) the evidence
+that correction of lipid abnormality slows progression of renal failure
+is still lacking.(64-68)
+•
+Lipid profile should be performed at least annually. However more
+frequent monitoring may be required particularly after commencement
+of treatment to achieve target levels. (69)
+•
+In diabetic children lipid monitoring every 5 years may be
+sufficient.(69)
+•
+In type 1 diabetics, tight glycaemic control is associated with normal
+lipoprotein level. Thus, good glycaemic control in type 1 diabetics may
+be more important than in type 2 diabetics to reduce cardiovascular
+risk.(70)
+DIABETIC NEPHROPATHY
+Referral to a nephrologist should be made if the serum creatinine
+exceeds 200 umol/L
+Recommendation 14 : Referral to nephrologist
+Grade C
+Referral
+•
+Several studies have shown that late referral leads to increased
+morbidity, prolonged hospital stay and early mortality on dialysis.(86-94)
+Uraemic symptoms and complications often occur earlier in diabetics
+compared to non-diabetics and dialysis may be required once GFR
+falls to 10 to 15mls/min.(95-97)
+•
+Pre-dialysis evaluation should be considered once the serum creatinine
+exceeds 200 umol/l. Measures that would need to be instituted include :-
+- optimisation of blood pressure control and proteinuria reduction to
+retard further progression of renal failure
+- correction of anaemia
+- correction of calcium and phosphate abnormalities
+- nutritional management
+- counselling and assessment for dialysis
+- early preparation of access for dialysis
+•
+Earlier referral to a nephrologist may be indicated if :-
+- the diagnosis of diabetic nephropathy is in doubt e.g. proteinuria
+occurs in the absence of retinopathy, renal failure occurs without
+proteinuria
+- nephrotic syndrome or unexplained haematuria occurs
+- a sudden worsening of renal function occurs
+- blood pressure is difficult to control
+- hyperkalaemia arises
+- renal artery stenosis is suspected
+•
+Diabetic patients on renal replacement therapy (i.e. dialysis or
+transplant) have a 2 to 4 times higher mortality risk than non-diabetic
+patients, mainly from cardiovascular disease. Coronary artery
+revascularisation may reduce this complication especially in type 1
+diabetics.(98,99)
+16
+DIABETIC NEPHROPATHY
+•
+As patients with renal failure are at a higher risk of myositis with lipid
+lowering drugs lower doses should be used when commencing therapy
+and increased cautiously. Combination of statins and fibrates should be
+avoided in renal failure. Refer to Appendix 4.
+Moderate protein restriction of 0.6 – 0.8 g/kg/day* may be considered
+in patients with overt nephropathy and/or renal impairment
+Recommendation 12 : Protein restriction
+Grade B
+Diet
+* one matchbox sized cooked protein source is equivalent to 7g of protein
+•
+With the onset of overt nephropathy, protein restriction of
+0.8g/kg/body weight or less may be useful in slowing the decline of
+GFR.(75-78) More severe protein restriction of < 0.6g/kg/body weight
+may further retard the progression of diabetic nephropathy. However,
+this should be supervised by an experienced dietitian to prevent
+malnutrition.(79)
+Sodium intake should be restricted to < 80mmol/day (or 5g sodium
+chloride)* in patients with hypertension and/or proteinuria
+Recommendation 13 : Sodium restriction
+Grade B
+* equivalent to 1 teaspoon of salt
+•
+High sodium intake should be avoided.
+•
+Moderate sodium restriction can potentiate the hypotensive effect of
+many antihypertensives.(80-83)
+•
+A low sodium diet enhances the antiproteinuric effects of some
+antihypertensives e.g. ARBs, ACEIs.(84,85)
+DIABETIC NEPHROPATHY
+Appendix 2
+Methods of urine collection
+24-hour urine collection
+•
+24-hour urine collection minimises fluctuations in urinary albumin
+excretion (UAE) due to diurnal variation.
+•
+Patients should receive clear instructions on how to collect the urine
+sample to avoid incomplete collection.
+•
+Patients should be instructed to pass urine completely at a specified
+time. The first urine voided is NOT collected.
+•
+Subsequently ALL urine passed should be collected into a urine bottle
+until the next day when the last sample of urine is collected at precisely
+the same time as the first voided urine.
+•
+Patients should be instructed to void completely at first and last void
+particularly in patients with incomplete evacuation of the bladder e.g.
+patients with diabetic cystopathy, prostatic hypertrophy or other
+bladder outlet obstruction.
+Timed overnight urine collection
+•
+Patients should be instructed to pass urine completely before retiring to
+bed and to record the exact time. The urine voided is NOT collected.
+•
+Subsequently any urine passed during the night should be collected
+into a bottle.
+•
+Upon waking the next morning, the patient should pass urine
+completely into the bottle. The exact time of this collection should be
+recorded.
+18
+DIABETIC NEPHROPATHY
+Factors affecting urinary albumin excretion (100,101)
+Increases AER
+•
+Strenuous exercise
+•
+Poorly controlled diabetes
+mellitus
+•
+Heart failure
+•
+Urinary tract infection
+•
+Acute febrile illness
+•
+Uncontrolled hypertension
+•
+Haematuria
+•
+Menstruation
+•
+Pregnancy
+Decreases AER
+•
+NSAIDs
+•
+ACE inhibitors
+AER = Albumin excretion rate
+Appendix 1
+DIABETIC NEPHROPATHY
+Methods of measurement of microalbuminuria
+Methods
+24h urine
+albumin
+measurement
+Timed
+overnight
+urine
+albumin
+measurement
+Urine
+albumin:
+creatinine
+ratio
+(ACR)*
+Urine
+albumin
+concentration*
+Tests
+1. Radioimmunoassay
+2. ELISA
+3.Immunonephelometric
+method e. g.
+Assay® analyser
+(from Beckman)
+Clinitek 50®
+Microalbumin
+Reagent Strip
+for ACR
+DCA2000
+Microalbumin/
+creatinine
+Assay System
+Micral Test II®
+(Co.)
+Clinitek 50
+Albumin test
+pad (Co.)
+Sensitivity
+89%
+91.1%
+96.7%
+92%
+Specificity
+91%
+98.3%
+71%
+93%
+Advantages
+Quantitative,
+can also
+measure
+creatinine
+clearance
+simultaneously
+Quantitative,
+not affected by
+physical
+activity
+Cheap, simple,
+corrects for
+changes in
+urine
+concentration
+Immediate
+(7 mins),
+quantitative
+determination
+Cheap, simple,
+reliable, rapid
+on-site test
+Disadvantages
+Expensive,
+inconvenient,
+impractical,
+incomplete
+collection
+common
+Expensive
+Expensive
+Semiquantitative
+Subject to
+errors from
+alteration in
+urine
+concentration
+* dipstick test on spot urine sample for detection of urine microalbumin
+Appendix 3
+20
+DIABETIC NEPHROPATHY
+•
+The urine should be sent to the laboratory for quantification of urinary
+albumin on the same day.
+•
+UAE (µg/min) = urine albumin concentration (µg/l) x urine volume (l)
+duration of urine collection (min)
+Early morning spot urine
+•
+An early morning urine sample is more reliable than a random sample.
+The urine of an early morning sample is more concentrated and less
+liable to be affected by fluid intake during daytime. Early morning
+collection also minimises variation in albumin excretion rate due to
+changes in posture and physical activity.
+•
+Patients should be instructed to pass urine before retiring to bed.
+•
+The next morning, the first urine voided should be collected and
+brought to the clinic for testing as early as possible.
+Appendix 2
+DIABETIC NEPHROPATHY
+•
+Gliclazide, glipizide and glimepiride (completely metabolised to
+inactive products) are safer alternatives. Lower starting doses should
+be used.
+Meglitinides
+•
+Repaglinide and nateglinide have short half-lives and duration of
+action with lower risk of hypoglycaemia.
+Thiazolidinediones
+•
+Rosiglitazone can be used in mild to moderate renal failure but can
+cause fluid retention.
+Appendix 4
+Usual dose
+5mg od - 10mg bd
+80mg od - 160mg bd
+2.5mg od - 15mg od
+250mg od - 500mg od
+1mg od - 4mg od
+Variable
+500mg bd - 1g bd
+4 - 8mg od
+25mg tds - 100mg tds
+0.5mg tds - 4mg tds
+120mg tds
+22
+DIABETIC NEPHROPATHY
+Appendix 4
+Generic name
+Sulphonylureas
+Glibenclamide
+Gliclazide
+Glipizide
+Chlorpropamide
+Glimepiride
+Others
+Insulin
+Metformin
+Rosiglitazone
+Acarbose
+Repaglinide
+Nateglinide
+Mild
+(GFR 6090ml/min)
+25-50%
+50-100%
+100%
+Avoid
+100%
+100%
+50%
+100%
+50-100%
+100%
+100%
+Moderate
+(GFR 3060ml/min)
+Avoid
+25-50%
+50%
+Avoid
+50%
+75%
+25%
+100%
+50-100%
+100%
+100%
+Severe
+(GFR <
+30ml/min)
+Avoid
+Avoid
+Avoid
+Avoid
+Avoid
+50%
+Avoid
+50-100%
+Avoid
+50-100%
+50-100%
+Dose adjustment in renal failure*
+Dosage of hypoglycaemic agents in renal failure
+od = once daily, bd = twice daily, tds = three times daily
+*Refer to Appendix 6 for Cockcroft-Gault formula to estimate renal function
+Insulin
+•
+In renal failure the dose of insulin should be reduced to avoid
+hypoglycaemia as insulin is degraded by the kidney.
+•
+Conversion to short acting insulin may be required.
+Biguanides
+•
+Metformin should be avoided if the serum creatinine is above 150 -
+200umol/L as it can rarely cause lactic acidosis in renal failure.
+Sulphonylureas
+•
+Chlorpropamide is contraindicated in renal failure as it has a long halflife and its metabolites retain some hypoglycaemic effects.
+•
+Glibenclamide should be avoided in renal failure as it has a long
+biologic effect despite its short plasma half-life.
+DIABETIC NEPHROPATHY
+Estimation of renal function
+Appendix 6
+Age in years, Weight in kg, Creatinine in umol/l
+Cockcroft-Gault formula(103)
+Creatinine clearance (ml/min)= (140 – age) x weight x 0.85 (for females)
+0.814 x plasma creatinine
+24
+DIABETIC NEPHROPATHY
+Appendix 5
+Dosage of commonly used ACEIs and ARBs
+ACEI
+Captopril
+Enalapril
+Ramipril
+Lisinopril
+Perindopril
+Fosinopril
+Quinapril
+Starting dose
+6.25mg tds
+2.5mg bd
+2.5mg od
+5mg od
+2mg od
+10mg od
+5mg od
+Maximum dose
+50mg tds
+20mg bd
+10mg od
+40mg od
+8mg od
+40mg od
+40mg od
+ARB
+Losartan
+Irbesartan
+Valsartan
+Candesartan
+Telmisartan
+Starting dose
+50mg od
+150mg od
+80mg od
+8mg od
+40mg od
+Maximum dose
+100mg od
+300mg od
+160mg bd
+16mg bd
+80mg od
+od = once daily, bd = twice daily, tds = three times daily
+•
+ACEIs/ARBs should be used with caution in patients with bilateral
+renal artery stenosis or renal artery stenosis of a single functioning
+kidney.
+•
+ACEIs/ARBs should be started at lower doses in renal failure and
+titrated gradually to maximal tolerable dose to achieve anti-proteinuric
+effect.
+•
+Serum potassium and creatinine should be checked prior to and within
+one to two weeks after initiating an ACEI or ARB as they can
+occasionally cause worsening of renal function.
+•
+If serum creatinine increases acutely by more than 35%(102) or severe
+hyperkalaemia occurs, the drug may need to be reduced or withdrawn.
+Renal artery stenosis may need to be excluded.
+•
+Diuretics may potentiate the hypotensive and anti-proteinuric effect of
+ACEIs/ARBs.
+•
+Potassium sparing diuretics may worsen hyperkalaemia when
+combined with ACEI/ARB in the presence of renal failure. Careful
+monitoring of serum potassium is advisable.
+DIABETIC NEPHROPATHY
+10.
+Mattock MB, Morrish NJ, Viberti G, Keen H, Fitzgerald AP,
+Jackson G. Prospective study of microalbuminuria as predictor of
+mortality in NIDDM. Diabetes 1992;41(6):736-41
+11.
+UK Prospective Diabetes Study (UKPDS) Group. Effect of intensive
+blood-glucose control with metformin on complications in
+overweight patients with type 2 diabetes (UKPDS 34). Lancet
+1998;352(9131):854-65
+12. Stratton IM, Adler AI, Neil HA, Matthews DR, Manley SE, Cull CA,
+Hadden D, Turner RC, Holman RR. Association of glycaemia with
+macrovascular and microvascular complications of type 2 diabetes
+(UKPDS
+35):
+prospective
+observational
+study.
+B M J
+2000;321(7258):405-12
+13. Adler AI, Stratton IM, Neil HA, Yudkin JS, Matthews DR, Cull CA,
+Wright AD, Turner RC, Holman RR. Association of systolic blood
+pressure with macrovascular and microvascular complications of
+type 2 diabetes (UKPDS 36): prospective observational study. BMJ
+2000;321(7258):412-9
+14. Hansson L, Zanchetti A, Carruthers SG, Dahlof B, Elmfeldt D, Julius
+S, Menard J, Rahn KH, Wedel H, Westerling S for the HOT Study
+Group. Effects of intensive blood-pressure lowering and low-dose
+aspirin in patients with hypertension: principal results of the
+Hypertension Optimal Treatment (HOT) randomised trial. Lancet
+1998;351(9118):1755-62
+15. Tuomilehto J, Rastenyte D, Birkenhager WH, Thijs L, Antikainen R,
+Bulpitt CJ, Fletcher AE, Forette F, Goldhaber A, Palatini P, Sarti C,
+Fagard R for the Systolic Hypertension in Europe Trial Investigators.
+Effects of calcium-channel blockade in older patients with diabetes
+and systolic hypertension. N Engl J Med 1999;340(9):677-84
+16. Curb JD, Pressel SL, Cutler JA, Savage PJ, Applegate WB, Black H,
+Camel G, Davis BR, Frost PH, Gonzalez N, Guthrie G, Oberman A,
+Rutan GH, Stamler J for the Systolic Hypertension in the Elderly
+Program Cooperative Research Group. Effect of diuretic-based
+antihypertensive treatment on cardiovascular disease risk in older
+diabetic patients with isolated systolic hypertension. J A M A
+1996;276(23):1886-92
+26
+DIABETIC NEPHROPATHY
+REFERENCES
+1.
+Scottish Intercollegiate Guidelines Network. SIGN 11: Management
+of diabetic renal disease – a National Clinical Guideline
+recommended for use in Scotland. March 1997
+2.
+Lim TO, Lim YN. Ninth report of the Malaysian Dialysis and
+Transplant Registry 2002
+3.
+Public Health Institute (Ministry of Health). Malaysian National
+Health and Morbidity Survey 2. 1996-1997
+4.
+Breyer JA. Diabetic nephropathy in insulin-dependent patients. Am
+J Kidney Dis 1992;20(6):533-47
+5.
+The Diabetes Control and Complications Trial Research Group.
+The effect of intensive treatment of diabetes on the development
+and progression of long-term complications in insulin-dependent
+diabetes mellitus. N Engl J Med 1993;329(14):977-86
+6.
+The Diabetes Control and Complications Trial/Epidemiology of
+Diabetes Interventions and Complications Research Group.
+Retinopathy and nephropathy in patients with type 1 diabetes four
+years after a trial of intensive therapy. N Engl J Med
+2000;342(6):381-9
+7.
+UK Prospective Diabetes Study (UKPDS) Group. Intensive bloodglucose control with sulphonylureas or insulin compared with
+conventional treatment and risk of complications in patients with
+type 2 diabetes (UKPDS 33). Lancet 1998;352(9131):837-53
+8.
+Mogensen CE, Viberti GC, Peheim E, Kutter D, Hasslacher C,
+Hofmann W, Renner R, Bojestig M, Poulsen PL, Scott G, Thoma J,
+Kuefer J, Nilsson B, Gambke B, Mueller P, Steinbiss J,
+Willamowski KD. Multicenter evaluation of the Micral-Test II test
+strip, an immunologic rapid
+test
+for the
+detection of
+microalbuminuria. Diabetes Care 1997;20(11):1642-6
+9.
+Messent JW, Elliott TG, Hill RD, Jarrett RJ, Keen H, Viberti GC.
+Prognostic significance of microalbuminuria in insulin-dependent
+diabetes mellitus: a twenty-three year follow-up study. Kidney Int
+1992;41(4):836-9
+DIABETIC NEPHROPATHY
+25. Lindholm LH, Ibsen H, Dahlof B, Devereux RB, Beevers G, de Faire
+U, Fyhrquist F, Julius S, Kjeldsen SE, Kristiansson K, LederballePedersen O, Nieminen MS, Omvik P, Oparil S, Wedel H, Aurup P,
+Edelman J, Snapinn S; The LIFE Study Group. Cardiovascular
+morbidity and mortality in patients with diabetes in the Losartan
+Intervention For Endpoint reduction in hypertension study (LIFE): a
+randomised trial against atenolol. Lancet 2002;359(9311):1004-10
+26. UK Prospective Diabetes Study Group. Efficacy of atenolol and
+captopril in reducing risk of macrovascular and microvascular
+complications
+in
+type
+2
+diabetes:
+UKPDS
+39.
+B M J
+1998;317(7160):713-20
+27. The ALLHAT Collaborative Research Group. Major outcomes in
+high-risk hypertensive patients randomized to angiotensinconverting enzyme inhibitor or calcium channel blocker vs diuretic:
+The Antihypertensive and Lipid-Lowering Treatment to Prevent
+Heart Attack Trial (ALLHAT). JAMA 2002;288(23):2981-97
+28. Mathiesen ER, Hommel E, Giese J, Parving HH. Efficacy of
+captopril in postponing nephropathy in normotensive insulin
+dependent diabetic patients with
+microalbuminuria. B M J
+1991;303(6794):81-7
+29. L a ffel LM, McGill JB, Gans DJ for the North A m e r i c a n
+Microalbuminuria Study Group. The beneficial effect of angiotensinconverting enzyme inhibition with captopril on diabetic nephropathy
+in normotensive IDDM patients with microalbuminuria. Am J Med
+1995;99(5):497-504
+30. The Microalbuminuria Captopril Study Group. Captopril reduces the
+risk of nephropathy in IDDM patients with microalbuminuria.
+Diabetologia 1996;39(5):587-93
+31. The EUCLID Study Group. Randomised placebo-controlled trial of
+lisinopril in normotensive patients with insulin-dependent diabetes
+and normoalbuminuria or microalbuminuria. L a n c e t 1 9 9 7 ; 3 4 9
+(9068):1787-92
+32. Ravid M, Savin H, Jutrin I, Bental T, Katz B, Lishner M. Long-term
+stabilizing effect of angiotensin-converting enzyme inhibition on
+plasma creatinine and on proteinuria in normotensive type II diabetic
+patients. Ann Intern Med 1993;118(8):577-81
+28
+DIABETIC NEPHROPATHY
+17. Peterson JC, Adler S, Burkart JM, Greene T, Hebert LA, Hunsicker
+LG, King AJ, Klahr S, Massry SG, Seifter JL. Blood pressure
+control, proteinuria, and the progression of renal disease. The
+Modification of Diet in Renal Disease Study. Ann Intern Med
+1995;123(10):754-62
+18. Breyer JA. Therapeutic interventions for nephropathy in type I
+diabetes mellitus. Semin Nephrol 1997;17(2):114-23
+19. Bakris GL, Williams M, Dworkin L, Elliott WJ, Epstein M, Toto R,
+Tuttle K, Douglas J, Hsueh W, Sowers J for National Kidney
+Foundation Hypertension and Diabetes Executive Committees
+Working Group. Preserving renal function in adults with
+hypertension and diabetes: a consensus approach. Am J Kidney Dis
+2000;36(3):646-61
+20. Pahor M, Psaty BM, Alderman MH, Applegate WB, Williamson JD,
+Furberg CD. Therapeutic benefits of ACE inhibitors and other
+antihypertensive drugs in patients with type 2 diabetes. Diabetes
+Care 2000;23(7):888-92
+21. Estacio RO, Jeffers BW, Hiatt WR, Biggerstaff SL, Gifford N,
+Schrier RW. The effect of nisoldipine as compared with enalapril on
+cardiovascular outcomes in patients with non-insulin-dependent
+diabetes and hypertension. N Engl J Med 1998;338(10):645-52
+22. Hansson L, Lindholm LH, Niskanen L, Lanke J, Hedner T, Niklason
+A, Luomanmaki K, Dahlof B, de Faire U, Morlin C, Karlberg BE,
+Wester PO, Bjorck JE. Effect of angiotensin-converting-enzyme
+inhibition compared with conventional therapy on cardiovascular
+morbidity and mortality in hypertension: the Captopril Prevention
+Project (CAPPP) randomised trial. Lancet 1999;353(9153):611-6
+23. Tatti P, Pahor M, Byington RP, Di Mauro P, Guarisco R, Strollo G,
+Strollo F. Outcome results of the Fosinopril Versus Amlodipine
+Cardiovascular Events Randomized Trial (FACET) in patients with
+hypertension and NIDDM. Diabetes Care 1998;21(4):597-603
+24. Heart Outcomes Prevention Evaluation Study Investigators. Effects
+of ramipril on cardiovascular and microvascular outcomes in people
+with diabetes mellitus: results of the HOPE study and MICROHOPE substudy. Lancet 2000;355(9200):253-9
+DIABETIC NEPHROPATHY
+42. Lewis EJ, Hunsicker LG, Bain RP, Rohde RD for The Collaborative
+Study Group. The effect of angiotensin-converting-enzyme
+inhibition
+on
+diabetic
+nephropathy.
+N
+Engl
+J
+Med
+1993;329(20):1456-62
+43. Brenner BM, Cooper ME, de Zeeuw D, Keane WF, Mitch WE,
+Parving HH, Remuzzi G, Snapinn SM, Zhang Z, Shahinfar S for the
+RENAAL Study Investigators. Effects of losartan on renal and
+cardiovascular outcomes in patients with type 2 diabetes and
+nephropathy. N Engl J Med 2001;345(12):861-9
+44. Lewis EJ, Hunsicker LG, Clarke WR, Berl T, Pohl MA, Lewis JB,
+Ritz E, Atkins RC, Rohde R, Raz I for the Collaborative Study
+Group. Renoprotective effect of the angiotensin-receptor antagonist
+irbesartan in patients with nephropathy due to type 2 diabetes. N
+Engl J Med 2001;345(12):851-60
+45. Estacio RO, Jeffers BW, Gifford N, Schrier RW. Effect of blood
+pressure control on diabetic microvascular complications in patients
+with hypertension and type 2 diabetes. Diabetes Care 2000;23 Suppl
+2:B54-64
+46. Bakris GL, Copley JB, Vicknair N, Sadler R, Leurgans S. Calcium
+channel blockers versus other antihypertensive therapies on
+progression of NIDDM associated nephropathy. Kidney Int
+1996;50(5):1641-50
+47. Fogari R, Zoppi A, Corradi L, Mugellini A, Lazzari P, Preti P,
+Lusardi P. Long-term effects of ramipril and nitrendipine on
+albuminuria in hypertensive patients with type II diabetes and
+impaired renal function. J Hum Hypertens 1999;13(1):47-53
+48. Nielsen FS, Rossing P, Gall MA, Skott P, Smidt UM, Parving HH.
+Long-term effect of lisinopril and atenolol on kidney function in
+hypertensive NIDDM subjects with diabetic nephropathy. Diabetes
+1997;46(7):1182-8
+49.
+Walker WG, Hermann J, Anderson J, et al. Blood pressure (BP)
+control slows decline of glomerular filtration rate (GFR) in
+hypertensive NIDDM patients [abstract]. J Am Soc Nephrol 1992,
+3:339
+30
+DIABETIC NEPHROPATHY
+33. Ravid M, Lang R, Rachmani R, Lishner M. Long-term
+renoprotective effect of angiotensin-converting enzyme inhibition in
+non-insulin-dependent diabetes mellitus. A 7-year follow-up study.
+Arch Intern Med 1996;156(3):286-9
+34. Sano T, Hotta N, Kawamura T, Matsumae H, Chaya S, Sasaki H,
+Nakayama M, Hara T, Matsuo S, Sakamoto N. Effects of long-term
+enalapril treatment on persistent microalbuminuria in normotensive
+type 2 diabetic patients: results of a 4-year, prospective, randomized
+study. Diabet Med 1996;13(2):120-4
+35. Lacourciere Y, Nadeau A, Poirier L, Tancrede G. Captopril or
+conventional therapy in hypertensive type II diabetics. Three-year
+analysis. Hypertension 1993;21(6 Pt 1):786-94
+36. Lebovitz HE, Wiegmann TB, Cnaan A, Shahinfar S, Sica DA,
+Broadstone V, Schwartz SL, Mengel MC, Segal R, Versaggi JA, et
+al. Renal protective effects of enalapril in hypertensive NIDDM: role
+of baseline albuminuria. Kidney Int Suppl 1994;45:S150-5
+37. Mosconi L, Ruggenenti P, Perna A, Mecca G, Remuzzi G.
+Nitrendipine and enalapril improve albuminuria and glomerular
+filtration rate in non-insulin dependent diabetes. Kidney Int Suppl
+1996;55:S91-3
+38. Velussi M, Brocco E, Frigato F, Zolli M, Muollo B, Maioli M,
+Carraro A, Tonolo G, Fresu P, Cernigoi AM, Fioretto P, Nosadini R.
+E ffects of cilazapril and amlodipine on kidney function in
+hypertensive NIDDM patients. Diabetes 1996;45(2):216-22
+39. Parving HH, Lehnert H, Brochner-Mortensen J, Gomis R, Andersen
+S, Arner P. The effect of irbesartan on the development of diabetic
+nephropathy in patients with type 2 diabetes. N Engl J Med
+2001;345(12):870-8
+40. Lozano JV, Llisterri JL, Aznar J, Redon J. Losartan reduces
+microalbuminuria in hypertensive microalbuminuric type 2
+diabetics. Nephrol Dial Transplant 2001;16 Suppl 1:85-9
+41. Viberti G, Wheeldon NM; MicroAlbuminuria Reduction Wi t h
+VALsartan (MARVAL) Study Investigators. Microalbuminuria
+reduction with valsartan in patients with type 2 diabetes mellitus: a
+blood pressure-independent effect. Circulation 2002;106(6):672-8
+DIABETIC NEPHROPATHY
+58. Gambaro G, Kinalska I, Oksa A, Pont'uch P, Hertlova M, Olsovsky
+J, Manitius J, Fedele D, Czekalski S, Perusicova J, Skrha J, Taton J,
+Grzeszczak W, Crepaldi G. Oral sulodexide reduces albuminuria in
+microalbuminuric and macroalbuminuric type 1 and type 2 diabetic
+patients: the Di.N.A.S. randomized trial. J Am Soc Nephro l
+2002;13(6):1615-25
+59. Dedov I, Shestakova M, Vorontzov A, Palazzini E. A randomized,
+controlled study of sulodexide therapy for the treatment of diabetic
+nephropathy. Nephrol Dial Transplant 1997;12(11):2295-300
+60. Ritz E, Ogata H, Orth SR. Smoking: a factor promoting onset and
+progression of diabetic nephropathy. Diabetes Metab 2000;26 Suppl
+4:54-63
+61. Gambaro G, Bax G, Fusaro M, Normanno M, Manani SM, Zanella
+M, Dangelo A, Fedele D, Favaro S. Cigarette smoking is a risk factor
+for nephropathy and its progression in type 2 diabetes mellitus.
+Diabetes Nutr Metab 2001;14(6):337-42
+62. Schiffl H, Lang SM, Fischer R. Stopping smoking slows accelerated
+progression of renal failure in primary renal disease. J Nephrol 2002
+May-Jun;15(3):270-4
+63. Wanner C, Quaschning T. Dyslipidemia and renal disease:
+pathogenesis and clinical consequences. C u rr Opin Nephro l
+Hypertens 2001;10(2):195-201
+64. Fried LF, Orchard TJ, Kasiske BL. Effect of lipid reduction on the
+progression of renal disease: a meta-analysis. Kidney Int
+2001;59(1):260-9
+65. Lam KS, Cheng IK, Janus ED, Pang RW. Cholesterol-lowering
+therapy may retard the progression of diabetic nephropathy.
+Diabetologia 1995 May;38(5):604-9
+66. Fried LF, Forrest KY, Ellis D, Chang Y, Silvers N, Orchard TJ. Lipid
+modulation in insulin-dependent diabetes mellitus: effect on
+microvascular outcomes. J Diabetes Complications 2001;15(3):
+113-9
+32
+DIABETIC NEPHROPATHY
+50. Mogensen CE, Neldam S, Tikkanen I, Oren S, Viskoper R, Watts
+RW, Cooper ME. Randomised controlled trial of dual blockade of
+renin-angiotensin
+system
+in
+patients
+with
+hypertension,
+microalbuminuria, and non-insulin dependent diabetes: the
+candesartan and lisinopril microalbuminuria (CALM) study. BMJ
+2000;321(7274):1440-4.
+51. Tutuncu NB, Gurlek A, Gedik O. Efficacy of ACE inhibitors and
+ATII receptor blockers in patients with microalbuminuria: a
+prospective study. Acta Diabetol 2001;38(4):157-61.
+52. Rossing K, Christensen PK, Jensen BR, Parving HH. Dual blockade
+of the renin-angiotensin system in diabetic nephropathy: a
+randomized double-blind crossover study. Diabetes Care
+2002;25(1):95-100
+53. Jacobsen P, Andersen S, Rossing K, Jensen BR, Parving HH. Dual
+blockade of the renin-angiotensin system versus maximal
+recommended dose of ACE inhibition in diabetic nephropathy.
+Kidney Int. 2003;63(5):1874-80
+54. Bohlen L, de Courten M, Weidmann P. Comparative study of the
+e ffect of ACE-inhibitors and other antihypertensive agents on
+proteinuria in diabetic patients. Am J Hypertens 1994;7(9 Pt 2):84S92S
+55.
+Bakris GL. The effects of calcium antagonists on renal
+hemodynamics, urinary protein excretion, and glomerular
+morphology in diabetic states. J Am Soc Nephrol 1991;2(2 Suppl
+1):S21-9
+56. Demarie BK, Bakris GL. Effects of different calcium antagonists on
+proteinuria associated with diabetes mellitus. Ann Intern Med
+1990;113(12):987-8
+57. Guasch A, Parham M, Zayas CF, Campbell O, Nzerue C, Macon E.
+Contrasting effects of calcium channel blockade versus converting
+enzyme inhibition on proteinuria in African Americans with noninsulin-dependent diabetes mellitus and nephropathy. J Am Soc
+Nephrol 1997;8(5):793-8
+DIABETIC NEPHROPATHY
+75. Walker JD, Bending JJ, Dodds RA, Mattock MB, Murrells TJ, Keen
+H, Viberti GC. Restriction of dietary protein and progression of renal
+failure in diabetic nephropathy. Lancet 1989;2(8677):1411-5
+76. Zeller K, Whittaker E, Sullivan L, Raskin P, Jacobson HR. Effect of
+restricting dietary protein on the progression of renal failure in
+patients with insulin-dependent diabetes mellitus. N Engl J Med
+1991;324(2):78-84
+77. Ciavarella A, Di Mizio G, Stefoni S, Borgnino LC, Vannini P.
+Reduced albuminuria after dietary protein restriction in insulindependent diabetic patients with clinical nephropathy. Diabetes Care
+1987;10(4):407-13
+78. Pedrini MT, Levey AS, Lau J, Chalmers TC, Wang PH. The effect of
+dietary protein restriction on the progression of diabetic and
+nondiabetic renal diseases: a meta-analysis. Ann Intern Med
+1996;124(7):627-32
+79. American Diabetes Association. Diabetic nephropathy (Position
+Statement). Diabetes Care 2003;26 Suppl 1:S94-8
+80. Australian National Health & Medical Research Council Dietary Salt
+Study Management Committee. Effects of replacing sodium intake
+in subjects on a low sodium diet: a crossover study. Clin Exp
+Hypertens A 1989;11(5-6):1011-24
+81. Weir MR, Dworkin LD. Antihypertensive drugs, dietary salt, and
+renal protection: how low should you go and with which therapy?
+Am J Kidney Dis 1998;32(1):1-22
+82. MacGregor GA, Markandu ND, Singer DR, Cappuccio FP, Shore
+AC, Sagnella GA. Moderate sodium restriction with angiotensin
+converting enzyme inhibitor in essential hypertension: a double blind
+study. Br Med J 1987;294(6571):531-4
+83. The Royal College of General Practitioners. Clinical guidelines for
+type 2 diabetes – Diabetic renal disease: prevention and early
+management. March 2002
+84. Houlihan CA, Allen TJ, Baxter AL, Panangiotopoulos S, Casley DJ,
+Cooper ME, Jerums G. A low-sodium diet potentiates the effects of
+losartan in type 2 diabetes. Diabetes Care 2002;25(4):663-71
+85. Heeg JE, de Jong PE, van der Hem GK, de Zeeuw D. Efficacy and
+variability of the antiproteinuric effect of ACE inhibition by
+lisinopril. Kidney Int 1989;36(2):272-9
+34
+DIABETIC NEPHROPATHY
+67. Tonolo G, Ciccarese M, Brizzi P, Puddu L, Secchi G, Calvia P,
+Atzeni MM, Melis MG, Maioli M. Reduction of albumin excretion
+rate in normotensive microalbuminuric type 2 diabetic patients
+during
+long-term
+simvastatin
+treatment.
+Diabetes
+Care
+1997;20(12):1891-5
+68. Smulders YM, van Eeden AE, Stehouwer CD, Weijers RN, Slaats
+EH, Silberbusch J. Can reduction in hypertriglyceridaemia slow
+progression of microalbuminuria in patients with non-insulindependent diabetes mellitus? Eur J Clin Invest 1997;27(12):9971002
+69. American Diabetes Association. Standards of medical care for
+patients with diabetes mellitus. (Position Statement). Diabetes Care
+2003; 26 Suppl 1:S33-50
+70. The Long-Term Intervention with Pravastatin in Ischaemic Disease
+(LIPID) Study Group. Prevention of cardiovascular events and death
+with pravastatin in patients with coronary heart disease and a broad
+range of initial cholesterol levels. N Engl J Med 1998;339(19):134957
+71. Heart Protection Study Collaborative Group. MRC/BHF Heart
+Protection Study of cholesterol lowering with simvastatin in 20,536
+high-risk individuals: a randomised placebo-controlled trial. Lancet
+2002;360(9326):7-22
+72. Haffner SM, Alexander CM, Cook TJ, Boccuzzi SJ, Musliner TA,
+Pedersen TR, Kjekshus J, Pyorala K. Reduced coronary events in
+simvastatin-treated patients with coronary heart disease and diabetes
+or impaired fasting glucose levels: subgroup analyses in the
+Scandinavian Simvastatin Survival Study. A rch Intern Med
+1999;159(22):2661-7
+73.
+American Diabetes Association. Management of dyslipidemia in
+adults with diabetes (Position Statement). Diabetes Care 2003;26
+Suppl 1:S83-6
+74. Executive Summary of The Third Report of The National
+Cholesterol Education Program (NCEP) Expert Panel on Detection,
+Evaluation, And Treatment of High Blood Cholesterol In Adults
+(Adult Treatment Panel III). JAMA 2001;285(19):2486-97
+DIABETIC NEPHROPATHY
+98. Manske CL, Wang Y, Rector T, Wilson RF, White CW. Coronary
+revascularisation in insulin-dependent diabetic patients with chronic
+renal failure. Lancet 1992;340(8826):998-1002
+99. Brunner FP, Selwood NH. Profile of patients on RRT in Europe and
+death rates due to major causes of death groups. The EDTA
+Registration Committee. Kidney Int Suppl 1992;38:S4-15
+100. Phillipou G, Phillips PJ. Variability of urinary albumin excretion in
+patients with microalbuminuria. Diabetes Care 1994;17(5):425-7
+101. Mogensen CE, Vestbo E, Poulsen PL, Christiansen C, Damsgaard
+EM, Eiskjaer H, Froland A, Hansen KW, Nielsen S, Pedersen MM.
+Microalbuminuria and potential confounders. A review and some
+observations on variability of urinary albumin excretion. Diabetes
+Care 1995;18(4):572-81
+102. Chobanian AV, Bakris GL, Black HR, Cushman WC, Green LA, Izzo
+JL Jr, Jones DW, Materson BJ, Oparil S, Wright JT Jr, Roccella EJ;
+National Heart, Lung, and Blood Institute Joint National Committee
+on Prevention, Detection, Evaluation, and Treatment of High Blood
+Pressure; National High Blood Pressure Education Program
+Coordinating Committee. The Seventh Report of the Joint National
+Committee on Prevention, Detection, Evaluation, and Treatment of
+High Blood Pressure: the JNC 7 report. JAMA 2003;289(19):256072
+103. Cockcroft DW, Gault MH. Prediction of creatinine clearance from
+serum creatinine. Nephron 1976;16(1):31-41
+36
+DIABETIC NEPHROPATHY
+86. Obrador GT, Pereira BJ. Early referral to the nephrologist and timely
+initiation of renal replacement therapy: a paradigm shift in the
+management of patients with chronic renal failure. Am J Kidney Dis
+1998;31(3):398-417
+87. Arora P, Obrador GT, Ruthazer R, Kausz AT, Meyer KB, Jenuleson
+CS, Pereira BJ. Prevalence, predictors, and consequences of late
+nephrology referral at a tertiary care center. J Am Soc Nephrol
+1999;10(6):1281-6
+88. Ifudu O, Dawood M, Homel P, Friedman EA. Excess morbidity in
+patients starting uremia therapy without prior care by a nephrologist.
+Am J Kidney Dis 1996;28(6):841-5
+89. Sesso R, Belasco AG. Late diagnosis of chronic renal failure and
+mortality on maintenance dialysis. N e p h rol Dial Tr a n s p l a n t
+1996;11(12):2417-20
+90. Innes A, Rowe PA, Burden RP, Morgan AG. Early deaths on renal
+replacement therapy: the need for early nephrological referral.
+Nephrol Dial Transplant 1992;7(6):467-71
+91. Jungers P, Zingraff J, Albouze G, Chauveau P, Page B, Hannedouche
+T, Man NK. Late referral to maintenance dialysis: detrimental
+consequences. Nephrol Dial Transplant 1993;8(10):1089-93
+92. Ratcliffe PJ, Phillips RE, Oliver DO. Late referral for maintenance
+dialysis. BMJ 1984;288(6415):441-3
+93. Stack AG. Impact of timing of nephrology referral and pre-ESRD
+care on mortality risk among new ESRD patients in the United
+States. Am J Kidney Dis 2003;41(2):310-8
+94. Astor BC, Eustace JA, Powe NR, Klag MJ, Sadler JH, Fink NE,
+Coresh J. Timing of nephrologist referral and arteriovenous access
+use: the CHOICE Study. Am J Kidney Dis 2001;38(3):494-501
+95. Becker BN, Stone WJ. Options for renal replacement therapy:
+special considerations. Semin Nephrol 1997;17(3):176-87
+96. Khanna R. Dialysis considerations for diabetic patients. Kidney Int
+Suppl 1993;40:S58-64
+97. Pirson Y.The diabetic patient with ESRD: how to select the modality
+of renal replacement. Nephrol Dial Transplant 1996;11(8):1511-3
+DIABETIC NEPHROPATHY
+GLOSSARY OF TERMS
+ACEI
+Angiotensin converting enzyme inhibitor
+ACR
+Albumin creatinine ratio
+AER
+Albumin excretion rate
+ARB
+Angiotensin receptor blocker
+BP
+Blood pressure
+CCB
+Calcium channel blocker
+CCF
+Congestive cardiac failure
+ESRD
+End stage renal disease
+GFR
+Glomerular filtration rate
+HDL
+High density lipoprotein
+LDL
+Low density lipoprotein
+NSAID Non-steroidal anti-inflammatory drug
+RCT
+Randomised controlled trial
+UTI
+Urinary tract infection
+DISCLOSURE STATEMENT
+The panel members have no potential conflict of interest to disclose.
+ACKNOWLEDGEMENTS
+The panel would like to thank the following persons/organisations for their
+assistance during the preparation of this guideline :
+•
+Ms Lim Chi Lin, Ms Chan Cheah Eing and Mr. Nicholas Sean Surin, for
+their secretarial services
+•
+Prof. Dick de Zeeuw, Professor and Head of Clinical Pharmacology at
+the University of Groningen, The Netherlands and Prof. Hugh R. Brady,
+Professor of Medicine and Therapeutics at University College Dublin,
+Ireland for their helpful suggestions
+•
+Puan Zubaidah bt Che Embee, Pharmacist, Penang Hospital for her
+assistance with the drug dosing tables

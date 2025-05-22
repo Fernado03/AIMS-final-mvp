@@ -1,0 +1,3630 @@
+CLINICAL PRACTICE GUIDELINES.
+2023 MOH/P/PAK/S31.23(GU)-e
+MANAGEMENT OF
+SYSTEMIC LUPUS ERYTHEMATOSUS
+Published by:
+Malaysia Health Technology Assessment Section (MaHTAS)
+Medical Development Division, Ministry of Health Malaysia
+Level 4, Block E1, Precinct 1
+Federal Government Administrative Centre
+62590 Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is MaHTAS. Content may be
+reproduced in any number of copies and in any format or medium
+provided that a copyright acknowledgement to MaHTAS is included
+and the content is not changed, not sold, or used to promote or endorse
+any product or service, and not used in an inappropriate or misleading
+context.
+e ISBN: 978-967-2887-68-3
+Available on the following websites:
+https://www.moh.gov.my
+https://www.acadmed.org.my
+https://msr.my
+Also available as an app for Android and IOS platform: MyMaHTAS
+STATEMENT OF INTENT
+This clinical practice guidelines (CPG) is meant to be a guide for
+clinical practice based on the best available evidence at the time of
+development. The guideline should not override the responsibility of
+the practitioners to make decision appropriate to the circumstances of
+the individual. This should be done in consultation with the patients and
+their families or guardians, taking into account the management options
+available locally.
+UPDATING THE CPG
+These guidelines were issued in 2023 and will be reviewed in a minimum
+period of four years (2027) or sooner if there is a need to do so. When
+it is due for updating, the Chairman of the CPG or National Advisor of
+the related specialty will be informed about it. A discussion will be done
+on the need for a revision including the scope of the revised CPG. A
+multidisciplinary team will be formed and the latest systematic review
+methodology used by MaHTAS will be employed. Every care is taken
+to ensure that this publication is correct in every detail at the time of
+publication. However, in the event of errors or omissions, corrections
+will be published in the web version of this document, which is the
+definitive version at all times. This version can be found on the websites
+mentioned above.
+TABLE OF CONTENTS
+No.
+Title
+Page
+Levels of Evidence and Formulation of Recommendation
+i
+Key Recommendations
+ii
+Guidelines Development and Objectives
+iv
+Development Group
+vii
+Review Committee
+viii
+External Reviewers
+ix
+Algorithm 1: Diagnosis of SLE
+x
+Algorithm 2: Treatment of Non-Renal SLE
+xi
+1.
+INTRODUCTION
+1
+2.
+RISK FACTORS
+2
+3.
+CLINICAL MANIFESTATIONS
+3
+4.
+INVESTIGATIONS
+5
+5.
+DIAGNOSIS AND CLASSIFICATION CRITERIA
+9
+6.
+PRINCIPLES OF TREATMENT
+11
+6.1
+Disease Assessment
+11
+7.
+TREATMENT
+15
+7.1
+Non-Pharmacological Treatment
+15
+7.2
+Pharmacological Treatment
+16
+a. Corticosteroids
+16
+b. Antimalarial (Hydroxychloroquine)
+17
+c.
+Immunosuppressants (Azathioprine,
+19
+Methotrexate, Calcineurin Inhibitors,
+Cyclophosphamide, Leflunomide,
+Mycophenolate mofetil)
+d. Biologics (Belimumab, Rituximab, Anifrolumab)
+22
+e. Nonsteroidal anti-inflammatory drugs
+24
+f.
+Others (Plasma exchange/Plasmapheresis,
+24
+Intravenous immunoglobulin)
+8.
+SPECIFIC CLINICAL MANIFESTATION
+27
+8.1
+Lupus Nephritis
+27
+8.2
+Mucocutaneous
+28
+8.3
+Neuropsychiatry
+28
+8.4
+Haematology
+28
+8.5
+Cardiorespiratory
+TABLE OF CONTENTS
+No.
+Title
+Page
+9.
+MONITORING
+30
+9.1
+Clinical Features
+30
+9.2
+Laboratory Investigations
+30
+9.3
+Co-morbidities
+31
+9.4
+Drug Adverse Events
+33
+9.5
+Frequency and Interval
+34
+10. SPECIAL CONSIDERATION
+35
+10.1 Antiphospholipid Syndrome
+35
+10.2 Pregnancy
+36
+10.3 Lactation
+40
+10.4 Adolescents
+40
+10.5 Vaccination
+41
+11. REFERRAL
+43
+12. IMPLEMENTING THE GUIDELINES
+44
+12.1 Facilitating and Limiting Factors
+44
+12.2 Potential Resource Implication
+44
+REFERENCES
+46
+Appendix 1
+Example of Search Strategy
+54
+Appendix 2
+Clinical Questions
+55
+Appendix 3
+2012 SLICC Classification Criteria for SLE
+57
+Appendix 4
+2019 EULAR/ACR Classification Criteria
+59
+for SLE
+Appendix 5
+Systemic Lupus Erythematosus Disease
+60
+Activity Index - 2000 (SLEDAI-2K)
+Appendix 6
+British Isles Lupus Activity Group (BILAG)
+62
+Index - 2004
+Appendix 7
+Medication in SLE
+64
+Appendix 8
+Frequency of Monitoring Patients with SLE
+70
+Appendix 9
+Sapporo Classification Criteria
+72
+Appendix 10 Recommendations on Types of
+74
+Contraception for Patients with SLE
+List of Abbreviations
+79
+Acknowledgement
+79
+Disclosure Statement
+79
+Source of Funding
+i
+Level
+I
+II-1
+II-2
+II-3
+III
+Study design
+Properly powered and conducted randomised controlled
+trial; well-conducted systematic review or meta-analysis of
+homogeneous randomised controlled trials
+Well-designed controlled trial without randomisation
+Well-designed cohort or case-control analysis study
+Multiple time series, with or without the intervention; results
+from uncontrolled studies that yield results of large magnitude
+Opinions of respected authorities, based on clinical experience;
+descriptive studies or case reports; reports of expert committees
+LEVELS OF EVIDENCE
+SOURCE: U.S. Preventive Services Task Force. U.S. Preventive Services Task Force Procedure
+Manual. Rockville, MD: USPSTF; 2015.
+FORMULATION OF RECOMMENDATION
+• In line with the new development in CPG methodology, the
+CPG Unit of MaHTAS is adapting Grading Recommendations,
+Assessment, Development and Evaluation (GRADE) in its
+work process. The quality of body of evidence and related effect
+size are carefully assessed/reviewed by the CPG DG.
+• Recommendations are formulated based on certainty of
+evidence and the wording used denotes the strength of
+recommendations. This takes into account:
+ quality and level of the evidence
+ balance of benefits and harms of the options
+ patient’s preference and values
+ resource implications
+ relevancy and applicability to the local target population
+• The more criteria being fulfilled, the more certain is the evidence
+leading to strong recommendations using the word “should”
+being considered. Otherwise, weak recommendations use the
+word “may” in proposing an action to be made.
+• In the CPG, a yellow box highlights important message(s) in
+the management while a blue box contains evidence-based
+recommendation(s) for the particular condition.
+ii
+KEY RECOMMENDATIONS
+The following recommendations are highlighted by the CPG
+Development Group (DG) as the key recommendations that answer
+the main questions addressed in the CPG and should be prioritised for
+implementation.
+DIAGNOSIS AND CLASSIFICATION CRITERIA
+• Diagnosis of systemic lupus erythematosus should be based on
+clinical manifestations supported by laboratory findings following
+exclusion of alternative diagnoses.
+PRINCIPLES OF TREATMENT
+• All patients with systemic lupus erythematosus (SLE) should have
+clinical assessment of disease activity; this may be done using the
+validated assessment tools for SLE.
+TREATMENT
+• Patients with systemic lupus erythematosus (SLE) should practise
+sun avoidance, use protective clothing and broad-spectrum
+sunscreen with at least sun protection factor (SPF) 50.
+• Corticosteroids should be used for acute flare in SLE; the dose should
+be minimised accordingly and discontinued whenever possible.
+• All patients with SLE should be on hydroxychloroquine (HCQ) unless
+intolerant or contraindicated.
+• Immunosuppressants should be considered as add-on therapy to
+patients with SLE not responding to HCQ alone or in combination with
+corticosteroids, or when corticosteroids doses cannot be tapered.
+• Cyclophosphamide or mycophenolate mofetil may be used as
+induction therapy in certain major organ involvement in SLE.
+• Biologics may be used as an adjunct therapy in active SLE despite
+standard therapy with corticosteroids and immunosuppressants.
+MONITORING
+• All patients with systemic lupus erythematosus (SLE) should be
+monitored based on clinical and laboratory parameters.
+• Patients with SLE should be screened for cardiovascular risk factors
+and osteoporosis.
+• Infection in patients with SLE should be identified early and treated
+accordingly.
+iii
+SPECIAL CONSIDERATION
+• All women with systemic lupus erythematosus (SLE) in the
+reproductive age group should receive pre-pregnancy counselling.
+• In SLE with pregnancy, hydroxychloroquine, azathioprine, calcineurin
+inhibitors and low dose corticosteroids should be continued.
+• Low dose aspirin should be initiated in all pregnant SLE patients
+unless intolerance or contraindicated.
+• Vaccination status and indications for further vaccinations of patients
+with SLE should be assessed yearly.
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+GUIDELINES DEVELOPMENT
+The members of the DG for these CPG were from the Ministry of
+Health (MoH) and the Ministry of Higher Education. There was active
+involvement of a multidisciplinary Review Committee (RC) during the
+process of the CPG development.
+A systematic literature search was carried out using the following
+electronic databases/platforms: mainly Medline via Ovid and others
+e.g. Pubmed (refer to Appendix 1 for Example of Search Strategy).
+The inclusion criteria are all adults at risk and with systemic lupus
+erythematous (SLE) regardless of study design. The first search was
+limited to literature published in the last 13 years (2009 until 2022)
+for all clinical questions, on humans and in English. In addition, the
+reference lists of all retrieved literature and guidelines were searched to
+further identify relevant studies. Experts in the field were also contacted
+for studies related to the issues addressed. All searches were
+conducted from 21 February 2022 to 21 October 2022. The literature
+search was repeated for all clinical questions at the end of the CPG
+development process allowing any relevant papers published before 1
+July 2023 to be included. Future CPG updates will consider evidence
+published after this cut-off date. The details of the search strategy can
+be obtained upon request from the CPG Secretariat. The DG members
+take note that new documents on SLE by EULAR and Antiphospholipid
+Syndrome Classification Criteria by ACR/EULAR have been published
+recently after the cut-off date for retrieval of evidence of this MoH CPG.
+References were also made to other guidelines on SLE as listed below:
+• European Alliance of Associations for Rheumatology - 2019
+update of the EULAR recommendations for the management of
+systemic lupus erythematosus (2019 update)
+• British Society for Rheumatology - The British Society for
+Rheumatology guideline for the management of systemic lupus
+erythematosus in adults (2018)
+• van Vollenhoven RF, Mosca M, Bertsias G, et al. - Treat-to-target
+in systemic lupus erythematosus: recommendations from an
+international task force (2014)
+A total of 11 main clinical questions were developed under different
+sections. Members of the DG were assigned individual questions
+within these sections. Refer to Appendix 2 for Clinical Questions.
+The DG members met 24 times throughout the development of these
+guidelines. All literature retrieved was appraised by at least two DG
+members using Critical Appraisal Skill Programme checklist, presented
+in evidence tables and further discussed in each DG meeting. All
+statements and recommendations formulated after that were agreed
+upon by both the DG and RC. Where evidence was insufficient, the
+recommendations were made by consensus of the DG and RC. Any
+differences in opinion are resolved consensually. The CPG was based
+largely on the findings of systematic reviews/meta-analyses and clinical
+trials, with local practices taken into consideration.
+The literatures used in these guidelines were graded using the U.S.
+Preventive Services Task Force Level of Evidence (2015) while the
+grading of recommendation was done using the principles of GRADE
+as much as possible (refer to the preceding page). The writing of the
+CPG followed strictly the requirement of Appraisal of Guidelines for
+Research and Evaluation (AGREE) II.
+Upon completion, the draft CPG was reviewed by external reviewers. It
+was also posted on the MoH Malaysia official website for feedback from
+any interested parties. The draft was finally presented to the Technical
+Advisory Committee for CPG and, the Health Technology Assessment
+(HTA) and CPG Council, MoH Malaysia, for review and approval.
+Details on the CPG development by MaHTAS can be obtained from
+Manual on Development and Implementation of Evidencebased Clinical Practice Guidelines published in 2015 (available at
+https://www.moh.gov.my/moh/resources/CPG_MANUAL_MAHTAS.pdf).).
+OBJECTIVES
+The objectives of the CPG are to provide evidence-based
+recommendations on the management of SLE on the following aspects:
+• diagnosis and assessment
+• treatment
+• monitoring
+• referral
+CLINICAL QUESTIONS
+Refer to Appendix 2
+TARGET POPULATION
+Inclusion Criteria
+• All adult patients suspected or diagnosed with SLE
+Exclusion Criteria
+• Drug-induced lupus
+• Overlap syndrome
+• Mixed connective tissue disease
+TARGET GROUP/USERS
+This document is intended to guide healthcare professionals and
+relevant stakeholders in primary and secondary/tertiary care of the
+management of SLE in adults including:
+• healthcare professionals (doctors, pharmacists and allied health
+professionals)
+• medical students and trainees
+• policymakers
+• professional organisations
+• patients, caregivers and their advocates
+HEALTHCARE SETTINGS
+Primary and secondary/tertiary care settings
+vii
+DEVELOPMENT GROUP
+Chairperson
+Dr. Habibah Mohd Yusoof
+Head of Department & Consultant Rheumatologist
+Hospital Selayang, Selangor
+Members (in alphabetical order)
+Dr. Chitra Suluraju
+Family Medicine Specialist
+Klinik Kesihatan Petaling Bahagia
+Kuala Lumpur
+Dr. Dayang Masyrinartie Suahilai
+Consultant Rheumatologist
+Hospital Tengku Ampuan Afzan
+Pahang
+Dr. Khor Chiew Gek
+Consultant Rheumatologist
+Hospital Raja Permaisuri Bainun, Perak
+Dr. Liza Mohd Isa
+Head of Service &
+Consultant Rheumatologist
+Hospital Putrajaya, Putrajaya
+Dr. Mohd. Aminuddin Mohd. Yusof
+Head of Clinical Practice Guidelines Unit
+Health Technology Assessment Section
+Ministry of Health, Putrajaya
+Dr. Nor Shuhaila Shahril
+Consultant Rheumatologist
+Hospital Putrajaya, Putrajaya
+Ms. Noornazli Zahirah Abdullah
+Pharmacist
+Klinik Kesihatan Putrajaya, Presint 9
+Putrajaya
+Dr. Norazlah Bahari
+Consultant Pathologist
+Hospital Selayang, Selangor
+Dr. Rosnah Mohd Tahir
+Family Medicine Specialist
+Klinik Kesihatan Maharani, Johor
+Professor Dr. Sakthiswary Rajalingham
+Lecturer &
+Senior Consultant Rheumatologist
+Faculty of Medicine
+Universiti Kebangsaan Malaysia
+Kuala Lumpur
+Dr. Shereen Ch’ng Suyin
+Consultant Rheumatologist
+Hospital Selayang, Selangor
+Dr. Siti Zulfa Zulkifli
+Consultant Acute Internal Medicine
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Suhaida Ahmad Maulana
+Consultant Rheumatologist
+Hospital Tengku Ampuan Rahimah
+Selangor
+Dr. Tengku Noor Farhana Tengku Khalid
+Public Health Physician
+Health Technology Assessment Section
+Ministry of Health, Putrajaya
+REVIEW COMMITTEE
+The draft CPG was reviewed by a panel of experts from both public
+and private sectors. They were asked to comment primarily on the
+comprehensiveness and accuracy of the interpretation of evidence
+supporting the recommendations in the CPG.
+Chairperson
+Dr. Mollyza Mohd. Zain
+Senior Consultant Rheumatologist
+Hospital Selayang, Selangor
+Members (alphabetical order)
+viii
+Datin Dr. Asmahan Mohamed Ismail
+Head of Department &
+Consultant Rheumatologist
+Hospital Raja Perempuan Zainab II
+Kelantan
+Dr. Carol Lim Kar Koong
+Head of Department &
+Consultant Maternal Fetal Medicine
+Hospital Ampang, Selangor
+Ms. Chee Siew Lian
+Patient Advocate &
+Honorary Secretary
+Malaysian SLE Association
+Dr. Hamimah Saad
+Consultant Family Medicine Specialist
+Klinik Kesihatan Kuala Lumpur
+Kuala Lumpur
+Associate Professor Dr. Hazlyna
+Baharuddin
+Lecturer & Consultant Rheumatologist
+Faculty of Medicine
+Universiti Teknologi MARA, Selangor
+Dr. Heselynn Hussein
+Consultant Rheumatologist
+Subang Jaya Medical Centre
+Selangor
+Dr. Izzuna Mudla Mohamed Ghazali
+Deputy Director
+Health Technology Assessment Section
+Ministry of Health, Putrajaya
+Associate Professor Dr. Malehah Mohd Noh
+Consultant Rheumatologist
+Faculty of Medicine and Health Sciences
+Universiti Malaysia Sabah, Sabah
+Dr. Masita Arip
+Head of Allergy & Immunology Research
+Centre
+Institute for Medical Research, Selangor
+Ms. Norfaiezah Abdul Rahman
+Rheumatology Specialised Nurse
+Hospital Tengku Ampuan Afzan, Pahang
+Dr. Salmi Abdul Razak
+Pharmacist
+Hospital Tuanku Jaafar, Negeri Sembilan
+Dr. Yoon Chee Kin
+Consultant Acute Internal Medicine
+Hospital Pulau Pinang, Pulau Pinang
+EXTERNAL REVIEWERS (in alphabetical order)
+The following external reviewers provided feedback on the draft:
+ix
+Mr. Ang Yu Joe
+Pharmacist
+Hospital Selayang, Selangor
+Associate Professor Dr. Asrul Abdul Wahab
+Senior Lecturer & Consultant Pathologist
+Faculty of Medicine
+Universiti Kebangsaan Malaysia
+Kuala Lumpur
+Dr. Foo Meng How
+General Practitioner
+Klinik Foo Sdn. Bhd., Kelantan
+Associate Professor Dr. Leong Khai Pang
+Senior Consultant Rheumatologist
+Department of Rheumatology, Allergy and Immunology
+Tan Tock Seng Hospital, Singapore
+Professor Dr. Sazlina Shariff Ghazali
+Medical Lecturer &
+Consultant in Family Medicine
+Hospital Sultan Abdul Aziz Shah
+Universiti Putra Malaysia, Selangor
+Associate Professor Dr. Syahrul Sazliyana Shaharir
+Lecturer & Consultant Rheumatologist
+Faculty of Medicine
+Universiti Kebangsaan Malaysia
+Kuala Lumpur
+Dr. Teh Cheng Lay
+Consultant Rheumatologist
+Hospital Umum Sarawak, Sarawak
+Dr. Yeap Swan Sim
+Consultant Rheumatologist
+Subang Jaya Medical Centre, Selangor
+Dr. Zainura Che Isa
+Consultant in Acute Medicine
+Hospital Sultan Abdul Halim, Kedah
+ALGORITHM 1: DIAGNOSIS OF SLE
+ALGORITHM 2: TREATMENT OF NON-RENAL SLE
+1. INTRODUCTION
+Systemic lupus erythematosus (SLE) is a chronic autoimmune
+multisystem disorder with diverse and complex clinical manifestations
+characterised by inflammation in a variety of organs. The exact aetiology
+is unknown but genetic, hormonal and environmental factors have been
+implicated. This disease has a relapsing-remitting course with a very
+unpredictable prognosis and considerable morbidity.
+The survival rates of patients with SLE have increased over the past
+few decades.1, level II-2 These may be due to early disease detection,
+advancements in medical treatment and improved management of comorbidities.
+There was considerable variation in survival rates across the countries
+in Asia-Pacific region. The 5-year survival rates ranged from 60%
+among the Aborigines in Australia, 80% in Malaysia, 94% in South
+Korea and 98% in China (Shanghai), while 10-year survival rates
+ranged from 64% in Japan to 94% in Hong Kong.2, level II-2 The leading
+causes of death among patients with SLE were infections and active
+disease predominantly in lupus nephritis (LN).3, level II-2
+Patients with SLE commonly experience flares during the disease
+course which may have adverse impacts on the short- and long-term
+outcomes. The treat-to-target recommendations for SLE emphasises
+on targeting remission, preventing organ damage, minimising comorbidities and drug toxicity, and improving health-related quality of
+life.4
+Management of SLE in the Asian population remains a challenge due
+to limited access to health care, delayed diagnosis and poor treatment
+adherence.5 The goal of this first national CPG on Management of
+SLE is to raise awareness among healthcare providers on early SLE
+detection, prompt referral to rheumatology services and initiation of
+treatment, mainly for non-renal SLE. The purpose of this CPG is to
+reduce the variation in practices and address resource implications
+in the management of SLE. This will encourage close cooperation
+between various stakeholders to enhance quality of life and outcomes
+of the affected patients through evidence-based management.
+2. RISK FACTORS
+Although the aetiology of SLE is multifactorial and not fully understood,
+identifying the risk factors associated with the development of SLE can
+help in predicting the probability of the disease in a patient.
+a.
+Gender
+SLE is more commonly diagnosed in women than men worldwide, with
+an incidence ranging from 1.4 to 5.4 cases per 100,000 population
+vs 0.4 to 0.8 cases per 100,000 population in men. The prevalence
+rate of SLE is also higher in women, ranging from 7.7 to 68.4 cases
+per 100,000 population vs 0.8 to 7.0 cases per 100,000 population in
+men.2, level II-2
+In the Asia-Pacific region, a similar female preponderance of patients
+with SLE is consistently observed across different countries ranging
+from 83% to 97%.2, level II-2; 6, level III
+b.
+Genetic factors
+In a large cross-sectional study in Taiwan, a family history of SLE was
+found to be a strong risk factor for developing SLE:7, level III
+• twins with RR of 315.94 (95% CI 210.66 to 473.82)
+• siblings with RR of 23.68 (95% CI 20.13 to 27.84)
+• parents with RR of 11.44 (95% CI 9.74 to 13.43)
+• offspring with RR of 14.42 (95% CI 12.45 to 16.70)
+Two case-control studies involving a Malay SLE cohort in Malaysia
+revealed that multiple alleles were associated with an increased risk of
+SLE, including HLA-A11 (OR=1.65, 95% CI 1.18 to 2.31), DQB105:01
+(OR=1.84, 95% CI 1.37 to 2.48), HLA-DRB1*0405 (OR=3.493, 95%
+CI 2.103 to 5.801) and HLA-DRB1*1502 (OR=1.586, 95% CI 1.132 to
+2.221).8 - 9, level II-2
+c.
+Atopic disease
+A meta-analysis showed that asthma was associated with SLE, with
+a pooled OR of 1.58 (95% CI 1.14 to 2.18).10, level II-2 An earlier casecontrol study found SLE was associated with the following atopic
+diseases:11, level II-2
+• asthma (OR=1.43, 95% CI 1.20 to 1.71)
+• allergic rhinitis (OR=1.52, 95% CI 1.34 to 1.73)
+• allergic conjunctivitis (OR=1.53, 95% CI 1.37 to 1.72)
+• atopic dermatitis (OR=2.31, 95% CI 1.83 to 2.93)
+d.
+Environmental
+i.
+Smoking
+In a large meta-analysis of moderate quality primary papers on the risk
+of developing SLE:12, level II-2
+• current smokers had higher risk compared with never smokers
+(OR=1.49, 95% CI 1.06 to 2.08)
+• ever smokers had higher risk compared with never smokers
+(OR=1.54, 95% CI 1.06 to 2.23)
+ii.
+Silica exposure
+A meta-analysis showed that the risk of SLE increased with
+occupational exposure to free crystalline silica (OR=9.72, 95% CI 1.13
+to 83.58).13, level II-2 An exposure-response effect was also seen for
+longer duration of exposure to silica (p for trend=0.01) in a case-control
+study:14, level II-2
+• OR for exposure to silica for 1 - 5 years was 4.0 (95% CI 1.2 to
+12.9)
+• OR for exposure to silica for >5 years was 4.9 (95% CI 1.1 to 21.9)
+e.
+Hormonal (contraceptive and hormone replacement therapy)
+A meta-analysis showed an association between hormone replacement
+therapy (HRT) exposure and SLE development (RR=1.96, 95%, CI
+1.51 to 2.56). However, there was no significant association between
+oral contraceptives and SLE.15, level I There was no mention of the quality
+assessment of the observational study used in the meta-analysis.
+3. CLINICAL MANIFESTATIONS
+The diagnosis of SLE is based on a combination of clinical and
+laboratory findings indicative of immune reactivity or inflammation in
+various organs. There are many mimickers for SLE that should be
+excluded before arriving at the diagnosis of the disease.
+In a retrospective cohort study on SLE, the most frequent initial presenting
+symptoms were musculoskeletal, followed by mucocutaneous and
+neurological. The median time from first musculoskeletal symptom to
+SLE diagnosis was 26.4 months (IQR 9.3, 43.6). Sub-group analysis
+showed that the younger patients <30 years with severe disease had
+the shortest time to the diagnosis.16, level II-2
+Common presentations include mucocutaneous, musculoskeletal,
+haematological and renal manifestations. The clinical manifestations of
+SLE are illustrated in Figure 1.
+AIHA = autoimmune haemolytic anaemia; APS = antiphospholipid
+syndrome; ILD = interstitial lung disease; PAH = pulmonary arterial
+hypertension
+Figure 1: Clinical manifestations of SLE
+Source:
+1. Jasmin R, Sockalingam S, Cheah T, et al. Systemic lupus erythematosus in the
+multiethnic Malaysian population: disease expression and ethnic differences
+revisited. Lupus. 2013;22(9):967-971.
+2. Shaharir SS, Hussein H, Rajalingham S, et al. Damage in the Multiethnic Malaysian
+Systemic Lupus Erythematosus (SLE) Cohort: Comparison with Other Cohorts
+Worldwide. PLoS One. 2016;11(11):e0166270.
+4. INVESTIGATIONS
+Detailed history taking, physical examination and laboratory evaluation
+are important to differentiate patients with SLE from those with lupus
+mimickers (e.g. infection, malignancy, medications or vaccine-related
+reactions). If SLE is suspected based on clinical findings, laboratory
+testing can be done to support the diagnosis.
+Standard laboratory tests that are diagnostically useful when SLE is
+suspected include the following:
+i. full blood count (FBC) with differential count
+ii. renal parameters: renal profile (RP), urinalysis with microscopy
+for sediments, spot urine protein/creatinine ratio (UPCR) or
+24-hour urine protein (24hUP)
+iii. liver function tests
+iv. acute phase reactants: erythrocyte sedimentation rate (ESR)
+and C-reactive protein (CRP)
+v. autoantibodies: antinuclear antibodies (ANA), anti-double
+stranded
+deoxyribonucleic
+acid
+(anti-dsDNA)
+antibodies,
+extractable nuclear antigens (ENA) and antiphospholipid
+antibodies (aPL)
+vi. complement 3 (C3) and complement 4 (C4)
+•
+Full blood count
+A standard or differential blood count may reveal cytopenia e.g.
+thrombocytopenia and/or leukopenia and lymphopenia, as well as
+autoimmune haemolytic anaemia (AIHA). Anaemia is a common finding
+in patients with active lupus, either due to chronicity of the disease or
+iron deficiency.17, level II-2
+•
+Renal parameters
+Renal parameters should include RP and urine full examination and
+microscopic examination (UFEME) for sediments to screen for kidney
+involvement. The spot urine UPCR or 24hUP may be used to quantify
+proteinuria.
+The 2012 American College of Rheumatology (ACR) guidelines state
+that findings for LN are:18
+ persistent proteinuria >0.5 in UPCR or >0.5 g/day in 24hUP or
+urine dipstick ≥3+
+ active urinary sediment (defined as >5 red blood cells [RBCs]
+per high power field [hpf]; >5 white blood cells [WBCs]/hpf in
+the absence of infection or cellular casts limited to RBC or WBC
+casts)
+•
+Liver function tests
+The standard liver function test (LFT) includes measurement of
+transaminases and serum albumin. Liver involvement in SLE is relatively
+rare and deranged LFTs can be due to a wide variety of aetiologies
+including lupus hepatitis or secondary to co-morbidities e.g. fatty liver
+or viral hepatitis.19, level II-2 Hypoalbuminemia in SLE is associated with
+disease activity e.g. LN, protein-losing enteropathy and chronic lupus
+peritonitis with ascites.20, level III
+•
+Acute phase reactants
+ESR and CRP levels are the most widely used indicators of the acute
+phase response to inflammation. ESR is often raised in active SLE but
+is not a reliable marker of disease activity as it does not differentiate
+between active lupus and infection. CRP is usually normal or slightly
+elevated in the presence of serositis or arthritis. A significantly raised
+CRP often indicates infection, therefore patients need to be screened
+thoroughly for it.21
+•
+Antinuclear antibodies
+Autoantibodies to intracellular antigens, historically known as ANA, are
+serological biomarkers that have a central role in the diagnosis and
+classification of systemic autoimmune rheumatic diseases.
+Testing for ANA should be performed only when there is a high clinical
+suspicion of SLE.22 ANA is present in 95% of SLE patients. Negative
+test of ANA suggests a low clinical probability of the patients having
+SLE.21
+ANA detection can be performed by enzyme-linked immunosorbent
+assay (ELISA), indirect immunofluorescence (IIF) and other techniques.
+The IIF using HEp-2 substrate is the “gold standard” for primary ANA
+detection because of its overall high sensitivity.22 ELISA technique is
+less sensitive than IIF, but it has the advantages of being less laborious,
+less subjectivity in its interpretation and can be automated. For these
+reasons, ELISA technique is widely used locally; however IIF may be
+used for confirmation when indicated.
+The 2019 European Alliance of Associations for Rheumatology/
+American College of Rheumatology (EULAR/ACR) classification criteria
+for SLE include a positive ANA ≥1:80 by HEp-2 IIF at least once, as an
+obligatory entry criterion.23
+•
+Anti-double stranded deoxyribonucleic acid antibodies
+Anti-dsDNA antibodies react against antigenic determining factors
+present in the deoxyribonucleic acid (DNA). It is highly specific for
+the diagnosis of SLE with ≥90% specificity.23; 24, level III Anti-dsDNA
+antibodies are identified in 60 - 80% of SLE patients and only <2.5% in
+healthy controls.23
+•
+Extractable nuclear antigen autoantibodies
+Autoantibodies to ENA are important diagnostic markers for several
+systemic autoimmune diseases including SLE. Among ENA antibodies
+for SLE are anti-Smith (anti-Sm), anti-Sjögren’s-syndrome-related
+antigen A (anti-SSA), anti-Sjögren’s-syndrome-related antigen B (antiSSB) and antibodies to ribonucleoprotein (anti-RNP).
+Anti-Sm antibodies are highly specific and predictive but less sensitive
+compared with ANA in the diagnosis of SLE. They are never found in
+healthy individuals and rarely identified in patients with other rheumatic
+disease.21; 23
+Anti-SSA and anti-SSB are also known as anti-Ro and anti-La
+autoantibodies respectively. Both have the highest prevalence
+in Sjögren’s syndrome where the presence of anti-Ro antibodies
+constitutes a classification criterion. The prevalence of anti-Ro and
+anti-La antibodies in SLE patients is around 25 - 30% and 10 - 15%
+respectively.25, level III
+Anti-RNP are antibodies against small ribonucleic acid (RNA)
+component of nuclear riboproteins and have structural similarities
+with anti-Sm antibodies. They are present in 25 - 40% of SLE
+patients.25, level III
+Anti-SSA/SSB and anti-RNP antibodies are less-specific markers
+of SLE as they are found in other autoimmune rheumatic disorders as
+well as SLE.21; 23 However, these antibodies were associated with
+pulmonary arterial hypertension in a case-control study on patients with
+SLE:26, level II-2
+ anti-RNP (OR=12.399, 95% CI 3.581 to 42.934)
+ anti-SSA (OR=4.836, 95% CI 1.675 to 13.598)
+•
+Antiphospholipid antibodies
+aPL are autoantibodies directed against phospholipid-binding proteins.
+The common clinical assays for aPL include lupus anticoagulant (LA)
+test and ELISA tests for anticardiolipin antibodies (aCL) and anti-beta2-glycoprotein 1 (anti-β2GP1). In SLE, 30 - 40% of patients are positive
+for aPL.27, level II-2; 28, level III
+The presence of aPL is incorporated as an immunologic domain for
+classification of SLE. The aPL includes:23; 29, level III
+ aCL antibodies (immunoglobulin A [IgA], immunoglobulin G
+[IgG] or immunoglobulin M [IgM]) at medium or high titre (>40 A
+phospholipids [APL], G phospholipids [GPL] or M phospholipids
+[MPL] units, or >99th percentile)
+ anti-β2GP1 (IgA, IgG or IgM)
+ LA
+In antiphospholipid syndrome (APS), two tests with a minimum interval
+of 12 weeks are necessary in order to exclude short-term IgM antibodies
+following a vascular event or an infection.30, level III
+•
+Complements
+Complement activation is a key event in the pathogenesis of tissue
+inflammation and injury in SLE patients where decreased levels of
+C3 and C4 are detected along with disease activity. However, serum
+complement levels can be affected by various physiological conditions
+e.g. infections, traumatic damage or immunosuppressants, and not
+only in patients with autoimmune diseases but healthy individuals.31,
+level III; 32, level III
+Apart from above, further investigations will depend on the symptoms
+of SLE that are present.33, level III
+Recommendation 1
+• The following tests should be done to assist in the diagnosis of
+systemic lupus erythematosus (SLE):
+ full blood count with differential counts
+ renal profile
+ liver function test
+ urinalysis
+ erythrocyte sedimentation rate with/without C-reactive protein
+ antinuclear antibodies and anti-double stranded deoxyribonucleic
+acid
+ complement 3 and complement 4
+• All patients with SLE should be screened for antiphospholipid
+antibodies at diagnosis.
+5. DIAGNOSIS AND CLASSIFICATION CRITERIA
+There is no diagnostic criteria for SLE. Classification criteria has been
+used as a guide to identify several salient clinical features in establishing
+the diagnosis.
+Four classification criteria that have been used are:
+• 1982 revised American Rheumatism Association (ARA) SLE
+classification criteria34, level III
+• 1997 ACR classification criteria revision35, level III
+• 2012 Systemic Lupus International Collaborating Clinics (SLICC)
+classification criteria36, level III
+• 2019 EULAR/ACR classification criteria23
+ANA or other positive immunologic parameters (autoantibodies or
+hypocomplementemia) are required for classification of SLE according to
+the SLICC-2012 and EULAR/ACR-2019 but not the ACR-1997 criteria.23
+The EULAR/ACR-2019 criteria for SLE include positive ANA (a titer
+of ≥1:80 on Hep-2 cells) at least once as an obligatory entry criterion.
+It is followed by additive weighted criteria grouped in seven clinical
+and three immunological domains. Each criterion in both domains is
+weighted from 2 to 10. Patients accumulating ≥10 points are classified
+as SLE. In the validation cohort, the sensitivity of EULAR/ACR-2019 is
+comparable with SLICC-2012 but higher than ACR-1997. Meanwhile,
+the specificity of EULAR/ACR-2019 is similar with ACR-1997 but higher
+than SLICC-2012 (refer to Table 1).23
+Table 1: Sensitivity and specificity of three classification
+criteria for SLE
+In a local cross-sectional study on Malaysian SLE patients, EULAR/
+ACR-2019 and SLICC-2012 criteria had higher sensitivities than ACR1997. The EULAR/ACR-2019 showed comparable specificity to the
+ACR-1997 and SLICC-2012 as shown below (refer to Table 2).37, level III
+Parameter EULAR/ACR-2019 SLICC-2012
+ACR-1997
+Sensitivity
+96.1%
+(95% CI 95 to 98)
+96.7%
+(95% CI 95 to 98)
+82.8%
+(95% CI 80 to 85)
+Specificity
+93.4%
+(95% CI 91 to 95)
+83.7%
+(95% CI 80 to 87)
+93.4%
+(95% CI 91 to 95)
+Table 2: Sensitivity and specificity of three classification criteria
+for SLE in a Malaysian study
+Refer to Appendix 3 for 2012 SLICC Classification Criteria for SLE
+and Appendix 4 for 2019 EULAR/ACR Classification Criteria for
+SLE.
+• Classification criteria are not diagnostic criteria. It is used to identify a
+relatively homogeneous groups of patients for inclusion in research.
+Recommendation 2
+• Diagnosis of systemic lupus erythematosus (SLE) should be based
+on clinical manifestations supported by laboratory findings following
+exclusion of alternative diagnoses.
+• Classification criteria should not be used for the diagnosis of SLE.
+Parameter EULAR/ACR-2019 SLICC-2012
+ACR-1997
+Sensitivity
+90.8%
+(95% CI 85 to 94)
+96.1%
+(95% CI 92 to 98)
+82.0%
+(95% CI 75 to 86)
+Specificity
+94.0%
+(95% CI 87 to 97.5)
+94.0%
+(95% CI 86 to 97)
+96.0%
+(95% CI 89 to 98)
+6. PRINCIPLES OF TREATMENT
+Due to its multisystem involvement, SLE may present with a myriad of
+possible clinical manifestations, making it a challenge to diagnose and
+treat.
+• Principles of SLE treatment are to achieve:
+ disease remission
+ disease flare prevention
+ organ damage prevention
+ quality of life improvement
+ minimisation of drug side effects
+• If complete remission cannot be achieved, the lowest possible
+disease activity in all organs involved should be targeted.
+6.1 Disease Assessment
+Patients with SLE may have a fluctuating disease course or persistently
+active disease despite being on medications. Both persistent disease
+activity and disease flares can contribute to irreversible damage and
+impact health-related quality of life. The principal goal of SLE treatment
+according to the ‘treat-to-target’ approach emphasises minimisation of
+disease activity.4 Achieving remission in SLE is desirable but not always
+attainable, hence low disease activity state is an acceptable alternative.
+SLE flare is generally defined as any increase in disease activity
+leading to intensification of therapy. It refers to a measurable
+increase in disease activity in one or more organ systems involving
+new or worsening clinical signs and symptoms and/or laboratory
+measurements. It must also be considered clinically significant to
+warrant adjustment of treatment.38, level III
+Disease activity in SLE can be measured as clinical activity (inflammation
+of organs) or serological activity (elevated anti-dsDNA antibodies or
+low complements levels). In clinical practice, disease activity in SLE
+can be evaluated by assessment of symptoms, signs and laboratory
+tests including serology. There are many disease activity assessment
+tools in SLE, however these were created mainly for clinical trials. The
+commonly used and validated tools are (Table 3):
+• Systemic Lupus Erythematosus Disease Activity Index (SLEDAI)
+in its original version or improved versions which are Safety
+of Estrogens in Lupus Erythematosus National Assessment
+(SELENA)-SLEDAI or SLEDAI 2000 (SLEDAI-2K)
+• British Isles Lupus Activity Group index (BILAG)-2004
+All three SLEDAIs have the same items (24 clinical presentations within
+a period of 10 days) and weightage (1 to 8 [range 0 - 105]) with some
+variations for the definition of certain items. The items are scored if
+present and attributed to active lupus. Increment of SLEDAI-2K or
+SELENA-SLEDAI score ≥3 indicates mild or moderate lupus flare. A
+severe flare is indicated by SELENA-SLEDAI score >12.39, level I; 40, level III
+BILAG-2004 differs from SLEDAI because it evaluates activity for
+each organ whereas SLEDAI only describes disease activity by the
+total score. The classic BILAG index was revised several times and
+BILAG-2004 (which was also revised in 2009) is currently used. There
+are 97 items in nine domains and each item is scored 0 (not present) to
+4 (new) by evaluating activity in the last four weeks compared with the
+previous four weeks. Each organ domain also has severity assessment
+from A (severe) to E (no evidence).
+Refer to Appendix 5 for SLEDAI-2K and Appendix 6 for BILAG-2004.
+Table 3: Disease Activity Assessment Tools for SLE
+*SLEDAI/SLEDAI-2K score of 0 is categorised as remission
+Source:
+1. Gordon C, Amissah-Arthur MB, Gayed M, et al. The British Society for
+Rheumatology guideline for the management of systemic lupus erythematosus in
+adults. Rheumatology. 2018;57(1):e1-45.
+2. Gladman DD, Ibañez D, Urowitz MB. Systemic Lupus Erythematosus Disease
+Activity Index 2000. J Rheumatol. 2002;29(2):288-291.
+The 2021 Definition of Remission in SLE (DORIS) is defined as clinical
+SLEDAI score of 0 and Physician Global Assessment (PGA) <0.5
+irrespective of serological status. The patient may be on antimalarials,
+low dose corticosteroids (prednisolone <5 mg/day), and/or stable
+immunosuppressants including biologics.41, level III
+Lupus low disease activity state (LLDAS) is an alternative goal for
+patients. The definition must include the following components:42, level III
+• SLEDAI-2K ≤4 points (with no activity in major organ systems and
+no new features of activity compared with previous assessment)
+• PGA ≤1.0 point
+Disease activity
+Assessment tool
+BILAG1
+SLEDAI
+SLEDAI-2K2
+Assessment tool
+Mild
+BILAG C scores or
+single B score
+<6
+1 - 4
+Low
+5 - 10
+Moderate
+BILAG 2 or more
+systems with B scores
+6 - 12
+Disease activity
+Moderate
+Severe
+(Non-renal)
+BILAG 1 or
+more A scores
+>12
+>10
+High
+• minimal prednisolone dose of ≤7.5 mg/day
+• on standard maintenance doses of immunosuppressive drugs
+and/or approved biological agents
+It is estimated that 20 - 25% of SLE patients will flare within 1 - 2 years
+and 40 - 66% within 5 - 10 years after achievement of a low disease
+activity or remission. The risk factors for SLE flare include:43, level III
+• male gender
+• age of SLE onset ≤25 years
+• major organ involvement (cytopenias, neuropsychiatric, nephritis,
+vasculitis)
+• persistent clinical disease activity
+• low serum C3/C4
+• high anti-dsDNA antibodies
+• poor compliance to treatment
+• discontinuation or have never been on HCQ
+• rapid tapering or withdrawal of maintenance immunosuppressive
+treatment
+Smoking
+and
+ultraviolet
+radiation
+have
+been
+shown
+to
+trigger
+or
+aggravate
+cutaneous
+lupus
+erythematosus
+(CLE)
+manifestations.44 - 45, level III There is a small increase in risk of mild to
+moderate lupus flares with use of oral HRT.46
+In a meta-analysis of moderate quality primary studies on the effect
+of disease activity and damage of patients with SLE, it was found that
+there were:47, level I
+• greater risk of mortality in patients with higher SLEDAI disease
+activity (HR=1.14, 95% CI 1.06 to 1.22)
+• greater risk of damage in patients with higher SLEDAI scores as
+measured by SLICC/ACR Damage Index (SDI) (HR=1.18, 95% CI
+1.02 to 1.37)
+• higher risk of mortality in patients with worse damage as measured
+by SDI (HR=1.44, 95% CI 1.29 to 1.61)
+The above findings were supported by a large meta-analysis that
+showed organ damage with greater SDI in SLE was consistently
+associated with increased mortality (HR=1.34, 95% CI 1.24 to 1.44).
+Most of the primary studies were of high-quality.48, level II-2
+There is no standard definition of refractory disease in SLE. The
+CPG DG opines that it may be defined as persistent disease activity
+despite optimal standard therapy. However, it is important to ensure the
+diagnosis is accurate and, persistent symptoms and signs are derived
+primarily from SLE activity and not from concomitant diseases (e.g.
+infections, atherosclerosis or other autoimmune diseases) or adverse
+events (AEs) of drugs.49, level III
+Recommendation 3
+• All patients with systemic lupus erythematosus (SLE) should have
+clinical assessment of disease activity.
+ This may be done using the validated assessment tools for SLE.
+7.
+TREATMENT
+7.1 Non-Pharmacological Treatment
+There is limited evidence on the non-pharmacological treatment of SLE.
+a.
+Sun protection
+Sunlight can induce or exacerbate SLE in a wide variety of cutaneous
+manifestations including discoid lupus erythematosus and acute CLE.
+These conditions may lead to physical and psychological burden to
+patients.
+Two guidelines recommend the use of broad-spectrum sunscreen for
+effective protection against ultraviolet exposure.21; 50 This is supported
+by a systematic review that showed application of sunscreen with sun
+protection factor (SPF) 50 - 75 reduced lesion development in the
+setting of photo-provocation among patients with CLE.51, level I
+In addition, patient should be advised on sun avoidance and the use of
+protective clothing.21
+b.
+Nurse-led care
+Patients with SLE face a unique set of challenges due to the variability of
+the symptoms experienced. Nurses play an important role in addressing
+these challenges by providing a multitude of nurse-led interventions such
+as patient educational sessions, counselling, exercise and transitional
+care programs. A randomised controlled trial (RCT) among patients
+with SLE showed that transitional care programmes led by specialist
+nurses compared with usual care group had significant improvement in
+patient self-care and quality of life as well as reduction in readmission
+rate up to 90 days.52, level I
+c.
+Physiotherapy/exercise and psychological therapy
+In a systematic review on patients with SLE, combination of
+physical activity (aerobic exercise) or psychological interventions
+(psychoeducation,
+mindfulness-based
+cognitive
+therapy
+and
+biofeedback-assisted cognitive behaviour therapy with relaxation
+techniques) with usual medical care was compared with usual medical
+care alone. The combined treatment was more effective in improving
+fatigue, psychological function, pain and quality of life.53, level I However,
+quality assessment of primary studies was not reported.
+A recent Cochrane systematic review assessed the effectiveness of
+exercise as an adjunct to pharmacological treatment. The intervention
+was only more effective compared with other non-pharmacological
+treatments adjunct to pharmacological treatment in fatigue, functional
+capacity and pain. The quality of primary papers used was generally
+low to very low.54, level I
+A wellness program providing social support, lifestyle and stress
+management training among patients with SLE led by a lupus
+foundation showed improved self-care knowledge, health behaviours,
+mental health status and quality of life.55, level II-3
+Recommendation 4
+• Patients with systemic lupus erythematosus should practise
+sun avoidance and, use protective clothing and broad-spectrum
+sunscreen with at least sun protection factor (SPF) 50.
+7.2 Pharmacological Treatment
+Pharmacological treatment in SLE aims to suppress the disease activity.
+Drug treatment is individualised according to the clinical presentation of
+the disease and the varying disease activity. Corticosteroids are the
+cornerstone treatment in SLE, with immunosuppressants being the
+gold standard treatment for major organ involvement. The initial period
+of intensive immunosuppressive treatment, also known as induction
+therapy, aims at halting immunological activity especially when there
+is high disease activity or major organ involvement. This is followed
+by a less aggressive maintenance treatment to consolidate remission
+and reduce risk of disease flare. Drugs used in the treatment of SLE
+may have AEs which require close monitoring for toxicity. Minimum
+long-term treatment is necessary to maintain remission or low disease
+activity. Treatment should be based on a shared decision-making
+process between the patient and the clinician.
+Refer to Appendix 7 for Medication in SLE.
+a.
+Corticosteroids
+Corticosteroids have anti-inflammatory properties with rapid onset of
+action that is useful in mild to severe SLE. Although there is no new
+retrievable evidence on its effectiveness, it remains the cornerstone
+of SLE treatment despite advances in immunosuppressive drugs and
+therapeutic protocols, and development of new drugs.56, level III
+Long-term use of corticosteroids may lead to various AEs. In a large
+cohort of SLE patients in Taiwan, the common AEs and their incidence
+rate are shown below.57, level II-2
+A meta-analysis of eight small RCTs looked into rate of AEs related
+to medium to high dose of corticosteroids in patients with SLE. The
+pooled rates were 25/100 patients/year for infections, 12/100 patients/
+year for avascular necrosis of the hip and 9/100 patients/year for
+hyperglycaemia/diabetes.58, level I However, quality assessment for
+primary studies was not mentioned.
+The risk of any new organ damage significantly increases with higher
+corticosteroids dosage.59, level II-2
+• The doses and routes of corticosteroids administration should
+be based on the severity of organ involvement. The dose should
+be minimised during long-term treatment and discontinued when
+possible.21; 50
+Recommendation 5
+• Corticosteroids should be used for acute flare in systemic lupus
+erythematosus.
+ The dose should be minimised accordingly and discontinued
+whenever possible.
+b.
+Antimalarial (Hydroxychloroquine)
+Hydroxychloroquine (HCQ) is an anti-malarial drug with antiinflammatory and immunomodulator effects. Long-term use of HCQ
+has been shown to ameliorate active SLE manifestations, improve
+immunologic parameters and disease activity scores, prevent
+disease flares and sustain remission. HCQ is the mainstay of lupus
+treatment and is recommended to be used in SLE unless intolerant or
+contraindicated.18; 21; 50
+In a large systematic review of RCTs and observational studies, HCQ
+use was shown to reduce the rate of flares, achieve higher remission
+rate of membranous LN and protect against irreversible organ damage,
+Adverse event
+Peptic ulcer
+Bacterial infection
+Fungal infection
+Hypertension
+Osteoporosis
+Fracture
+Tuberculosis
+Incidence rate (per 1000 person-years)
+147.84
+136.42
+42.26
+37.67
+28.17
+23.77
+7.85
+thrombosis and bone mass loss compared with control in SLE.60, level I
+However, the quality assessment of primary studies was not reported.
+A prospective cohort study showed that the use of HCQ reduced the risk
+of death (HR=0.46, 95% CI 0.29 to 0.72) and renal damage (HR=0.30,
+95% CI 0.13 to 0.68) compared with non-HCQ use in patients with
+SLE.61, level II-2
+In a retrospective cohort study among patients in the maintenance
+phase of SLE, there were no significant difference between usual dose
+HCQ (5 mg/kg) and low dose HCQ (200 mg) in SLEDAI, Cutaneous
+Lupus Erythematous Disease Area and Severity Index (CLASI) and
+serum levels of anti-dsDNA antibodies at 6-month.62, level II-2
+A systematic review of mixed study designs in SLE showed higher
+odds of flare in patients with low HCQ levels (<1000 ng/mL) compared
+with high levels (OR=5.89, 95% CI 1.38 to 25.08). The overall risk
+of bias assessment of primary studies in the review showed the
+eight observational studies were of fair to good quality while the
+three interventional studies were of unclear to low risk.63, level II-2 HCQ
+adherence can be assessed using drug levels in the blood but it has not
+been recommended in routine clinical practice at present.
+Long-term use of HCQ treatment is safe. Toxicity related to HCQ is
+infrequent, mild and usually reversible.60, level I
+Specifically, retinal toxicity related to HCQ is uncommon. A retrospective
+cohort study on newly diagnosed SLE patients showed an incidence of
+HCQ retinal toxicity at one in 1000 person-years.64, level II-2 However, the
+incidence increased in SLE patients with risk factors (e.g. long duration
+and high dose of HCQ) for toxic retinopathy.65 In a case-control study
+on SLE, a small proportion (5.5%) of patients developed antimalarialinduced retinal complications over an average usage of 12.8 years. No
+retinal toxicity was reported in the first five years of exposure.66, level II-2
+The American Academy of Ophthalmology recommends HCQ dose of
+no more than 5 mg/kg actual body weight to reduce the occurrence of
+retinopathy.65
+Recommendation 6
+• All patients with systemic lupus erythematosus (SLE) should be on
+hydroxychloroquine (HCQ) unless intolerant or contraindicated.
+• Ophthalmologic assessment should be done for patients with SLE on
+HCQ at baseline, and then:
+ yearly in the presence of known retinopathy risk factors*
+ after five years and yearly thereafter in the absence of retinopathy
+risk factors*
+*The major risk factors for toxic retinopathy include long-term use and/
+or use of high dose HCQ, concomitant hepatic and renal disease,
+concomitant tamoxifen, history of retinal and macular disease and
+advanced age.65; 67
+HCQ use during pregnancy and breast-feeding is considered safe.46
+Refer to Subchapter 9.2 for HCQ Effectiveness and Safety in Pregnant
+Patients with SLE.
+c.
+Immunosuppressants
+Immunosuppressants are used in the treatment of lupus when there
+is involvement of major organ or life-threatening manifestations. They
+are also used to control active disease with inadequate response to
+corticosteroids alone, to prevent lupus flare and as steroid-sparing
+agents. The selection of immunosuppressants is guided by the organ
+involvement, disease severity, pregnancy and lactation compatibility,
+co-morbidities, safety concerns and cost.
+i)
+Azathioprine
+Azathioprine (AZA) causes immunosuppression by inhibiting the
+synthesis of purines that are needed in the DNA and RNA sequencing
+for the production of WBCs. It is used as a steroid-sparing agent in
+non-renal SLE and maintenance treatment in renal SLE (refer to
+Subchapter 7.1).
+An RCT in a systematic review on patients with non-renal SLE showed
+both AZA and ciclosporin significantly reduced the mean dose of
+corticosteroids by >50% at 12 months compared with baseline. There
+was no significant difference between the two drugs at end point.
+The reported AEs included leukopenia, respiratory tract infection and
+rash.68, level I
+European Alliance of Associations for Rheumatology (EULAR) 2019 and
+British Society for Rheumatology (BSR) 2018 guidelines recommend
+that AZA should be considered as add on therapy in non-renal lupus
+e.g. arthritis and cutaneous disease if HCQ is unable to control disease
+activity or when corticosteroids doses cannot be tapered.21; 50
+ii)
+Methotrexate
+Methotrexate (MTX) is an antimetabolite which is commonly used in
+the treatment of autoimmune diseases. It can be administered in oral
+or subcutaneous form. MTX is often used to treat musculoskeletal
+and cutaneous manifestations inadequately controlled with HCQ and
+corticosteroids. Folate supplementation is used to ameliorate MTXassociated AEs and toxicity (minimum dose of 5 mg/week).
+In a systematic review of SLE treatment, two good quality RCTs showed
+that MTX was more effective than placebo based on:68, level I
+• reduction in SLEDAI and Visual Analogue Scales (VAS) score at
+six months (p<0.05)
+• reduction in Systemic Lupus Activity Measure-Revised (SLAM-R)
+at 12 months (MD= -0.86, 95% CI -1.7 to -0.02)
+• reduction in SLAM-R in patients with SDI=0 at 12 months (MD=
+-1.41, 96% CI -2.42 to -0.39)
+• reduction in corticosteroids dose in 65% of patients at six months
+(p<0.001)
+• reduction in mean corticosteroids daily dose at 12 months (MD=
+-22.3, 96% CI -36.2 to -5.4)
+• reduction in lupus flare at three and six months of treatment
+duration (p=0.02)
+• improvement in arthralgia/arthritis and discoid SLE/malar rash at
+six months (p<0.001)
+A non-randomised, open-labelled, control study among patients with
+SLE on prednisolone taper showed MTX compared with non-MTX
+group was more effective in improving serological abnormalities in
+terms of:69, level II-1
+• increment of complement levels at three, six and 12 months
+(p<0.01) and normalisation or elevation in C3 and/or C4 levels at
+18 months (p=0.0001)
+• reduction in dsDNA levels at three, six and 12 months (p<0.01)
+and normalisation or reduction of anti-dsDNA antibodies at 18
+months (p=0.0022)
+It was also more effective in reducing the following outcomes:
+• SLEDAI score at six, 12 and 18 months (p<0.01)
+• prednisolone dose at 12 and 18 months (p<0.05)
+MTX was reported to have good safety profile with gastrointestinal
+(GI) symptoms and hepatotoxicity being the most frequent
+AEs.68, level I; 69, level II-1
+iii) Calcineurin inhibitors
+Ciclosporin and tacrolimus are calcineurin inhibitors (CNI) that
+inhibit calcineurin phosphatase, which is involved in the production
+of interleukin-2, a molecule that promotes the development and
+proliferation of T-lymphocytes as part of the body’s adaptive immune
+response.
+•
+Ciclosporin
+In a systematic review on immunosuppressants, an RCT showed that
+ciclosporin in combination with corticosteroids reduced SLEDAI scores
+(p<0.05) and cumulative corticosteroids dose (p<0.005) compared with
+corticosteroids alone in patients with moderate non-renal SLE at 12
+months. The second RCT demonstrated that ciclosporin also reduced
+the mean dose of corticosteroids by >50% compared with baseline
+(p<0.001) in patients with severe non-renal SLE at 12 months. The first
+RCT had a score of 1 while the second had a score of 3 based on Jadad
+scale.68, level I
+The reported AEs in the review included hypertension, respiratory tract
+infection and anaemia.68, level I Additionally, other common AEs include
+hypertrichosis, gum hypertrophy, paraesthesia, tremor, GI symptoms
+and impaired renal function, especially at higher doses (>3 mg/kg/
+day).21
+•
+Tacrolimus
+In a systematic review, a cohort study demonstrated that tacrolimus
+1 - 3 mg/day significantly reduced mean SLEDAI scores and dose of
+prednisolone in SLE patients without active nephritis after one year.
+Non-serious AEs were observed in 40% of the cohort. However, quality
+assessment of the study was not reported.68, level I
+iv) Cyclophosphamide
+Cyclophosphamide (CYC) is a non-specific alkylating agent that
+prevents cell division by forming cross-linkages in DNA, which leads to
+inhibition of T and B lymphocytes proliferation.
+A small, low quality RCT in a Cochrane systematic review studied
+neuropsychiatric SLE (NPSLE). The patients had IV induction of
+methylprednisolone and tapering oral prednisolone. Comparison
+between CYC and continuation of methylprednisolone showed the
+former was more effective in achieving 20% improvement in clinical,
+serological and specific neurological measures, improvement of
+SLEDAI score and reduction of prednisolone requirements. There was
+no significant differences in AEs and deaths.70, level I
+Another systematic review that included two small RCTs on NPSLE
+showed that CYC in combination with corticosteroids was more effective
+than corticosteroids alone in the following outcomes:68, level I
+• clinical improvement at six months (p=0.005)
+• reduction of relapses at three months (p=0.005)
+• electroencephalogram improvement (p=0.003)
+• ≥20% improvement in clinical, serological and neurological
+measures at two years (p<0.03)
+There was no difference in AE in one of the RCTs. Both RCTs scored
+1 - 3 on Jadad scale.
+The use of CYC in renal SLE is mentioned in Subchapter 7.1.
+v)
+Leflunomide
+Leflunomide is a pyrimidine synthesis inhibitor with anti-inflammatory
+properties.
+In a systematic review on mild to moderate active SLE, leflunomide
+was more effective than placebo in reducing SLEDAI at 24 weeks
+(11.0±6.1 vs 4.5±2.4; p=0.02) but there were no significant differences
+in proteinuria, complement, anti-dsDNA antibodies and corticosteroids
+dose. There were also no difference in AEs between the two
+groups.68, level I
+Leflunomide may be considered in moderate lupus refractory/intolerant/
+not suitable for other immunosuppressants. It may also be considered
+when CYC and biological agents are not suitable or not available.21
+vi) Mycophenolate mofetil
+Mycophenolate mofetil (MMF) is an immunosuppressant used for SLE
+patients with both renal and non-renal involvement.
+The use of MMF in renal involvement of SLE is well established.
+A systematic review included a report on the secondary non-renal
+outcomes of the Aspreva Lupus Management Study (ALMS), a large
+RCT on induction treatment for LN. The RCT showed MMF (0.5 g/12 h
+and increased to 1.5 g/12 h) had comparable effectiveness with CYC
+0.5 - 1 g/m2/month in improving BILAG scores, inducing remission
+in the mucocutaneous, musculoskeletal and cardiovascular (CV)/
+respiratory systems as well as reducing SELENA-SLEDAI flares at six
+months.68, level I
+Recommendation 7
+• Immunosuppressants should be considered as add-on therapy to
+patients with systemic lupus erythematosus (SLE) not responding
+to hydroxychloroquine (HCQ) alone or in combination with
+corticosteroids, or when corticosteroids doses cannot be tapered.
+• Immunosuppressants may be considered in active SLE patients with
+HCQ intolerance.
+• Cyclophosphamide or mycophenolate mofetil may be used as
+induction therapy in certain major organ involvement in SLE.
+d.
+Biologics
+Biologics are used as adjunct therapy in active SLE despite optimal
+treatment with corticosteroids and immunosuppressants. They may also
+be considered in refractory diseases and/or when there is intolerance
+or contraindication to standard treatment.
+i)
+Belimumab
+Belimumab is a recombinant, fully human monoclonal antibody that
+inhibits the biologic activity of B-lymphocyte stimulator (BLyS), also
+known as B-cell activating factor (BAFF). This agent is indicated as an
+adjunct therapy in patients with active SLE who are receiving standard
+therapy and for the treatment of LN.71, level III
+In a Cochrane systematic review of six RCTs on SLE, belimumab was
+more effective than placebo in terms of:72, level I
+• reduction of at least 4-point in SELENA-SLEDAI score (RR=1.33,
+95% CI 1.22 to 1.45)
+• improvement in quality of life based on 36-item short-form (SF-36)
+(MD=1.60, 95% CI 0.30 to 2.90)
+• reduction in corticosteroids dose by at least 50% (RR=1.59, 95%
+CI 1.17 to 2.15)
+In another systematic review of 12 studies which included seven RCTs,
+belimumab was more effective than placebo in SLE patients based on
+SLE Responder Index (SRI).73, level I
+Belimumab was reported to have a good safety profile.72 - 73, level I
+ii)
+Anifrolumab
+Anifrolumab is a human monoclonal antibody to type I interferon
+receptor subunit 1. It is a newly approved adjunct therapy for patients
+with moderate to severe SLE.
+In a landmark RCT among patients with moderate to severe SLE
+(Treatment of Uncontrolled Lupus via the Interferon Pathway [TULIP]-2),
+anifrolumab was more effective than placebo in terms of:74, level I
+• higher percentage of British Isles Lupus Assessment Groupbased Composite Lupus Assessment (BICLA) responder at week
+52 (difference=16.3%, 95% CI 6.3 to 26.3)
+• reduction of corticosteroids dose (difference=21.2%, 95% CI 6.8
+to 35.7)
+• reduction of CLASI by ≥50% at week 12 (difference=24.0%, 95%
+CI 4.3 to 43.6)
+The most frequent AEs among patients on anifrolumab reported in this
+trial were upper respiratory tract infection, nasopharyngitis, infusionrelated reaction, bronchitis and herpes zoster.
+iii) Rituximab
+Rituximab is a chimeric anti-CD20 antibody that induces peripheral
+B-cells depletion.
+In a landmark study on non-renal SLE (The Exploratory Phase II/III
+SLE Evaluation of Rituximab [EXPLORER] trial), rituximab showed no
+significant difference with placebo in major or partial clinical response
+via the BILAG at week 52.75, level I However a systematic review of mainly
+moderate quality observational studies showed that rituximab had a
+steroid-sparing effect, in addition to improvement in disease activity and
+immunologic parameters.76, level I
+Two guidelines support the use of rituximab in organ threatening,
+refractory moderate and severe lupus, intolerance/contraindications
+to standard immunosuppressive agents and as steroid sparing
+therapy.21; 50
+Rituximab also had good safety profile where most frequent AEs were
+infusion reactions and infections.76, level I
+Recommendation 8
+• Biologics may be used as an adjunct therapy in active systemic lupus
+erythematosus (SLE) despite standard therapy with corticosteroids
+and immunosuppressants.
+• Biologics may be considered in refractory disease of SLE, intolerance
+or contraindication to standard treatment.
+e.
+Nonsteroidal anti-inflammatory drugs
+Nonsteroidal anti-inflammatory drugs (NSAIDs) are commonly used to
+relieve pain and reduce inflammation due to their analgesic and antiinflammatory effects. There is no retrievable latest evidence on its
+effectiveness as its use has been established and well-tolerated for
+short-term symptomatic relief. NSAIDs may be used cautiously in nonrenal mild SLE (e.g. inflammatory arthralgia or myalgia) when there is
+intolerance or poor response to paracetamol. There is also potential
+increased risk of renal, hepatic and CV toxicity when NSAIDs are used
+in SLE patients.21; 61, level II-2
+f.
+Others
+i)
+Plasma exchange/Plasmapheresis
+Plasma exchange (PE) or plasmapheresis is a therapeutic intervention
+that involves extracorporeal removal of high molecular weight
+substances (e.g. circulating immune complexes, autoantibodies and
+other immune reactants) involved in the pathogenesis of SLE with
+subsequent return or exchange of blood plasma or components. It has
+been utilised as an alternative therapeutic modality in selected patients
+with acute life-threatening manifestations, rare complications and
+severe treatment-refractory disease, in particular LN.
+In a retrospective cohort study of renal biopsy-proven thrombotic
+microangiopathy LN, plasmapheresis treatment had higher rate of
+complete/partial remission compared with control (non-plasmapheresis)
+(77.8 vs 11.1%, p=0.018). No AEs were observed.77, level II-2
+In a pre-post study of refractory SLE patients with sub-phenotypes of
+thrombotic thrombocytopenic purpura (TTP), myasthenia gravis and
+APS, PE as add-on treatment to corticosteroids and immunosuppressive
+agents significantly decreased SLEDAI. However, 21% patients
+experienced PE-related major AEs (catheter infections, bleeding and
+hypotension).78, level II-3
+The BSR 2018 guidelines recommends the use of PE in SLE with
+TTP.21 Meanwhile in the 2020 Chinese Guidelines for the Diagnosis
+and Treatment of Systemic Lupus Erythematosus, PE can be
+considered in patients with severe or refractory SLE.67
+• PE is considered in patients with severe or refractory SLE, in
+particular those with TTP.
+ii)
+Intravenous immunoglobulin
+Intravenous immunoglobulin (IVIG) is a blood product derived from
+the plasma of a large pool of healthy donors. The indication of its use
+as immunomodulator has expanded to treat various autoimmune and
+inflammatory diseases. There is limited evidence on IVIG treatment in
+SLE.
+In a non-randomised controlled trial in LN patients, IVIG was not
+significantly different to CYC or AZA in achieving partial or complete
+renal remission following induction therapy. However, it had lower
+infection rate. No leukopenia, amenorrhoea or osteoporosis were
+observed.79, level II-1
+• In SLE, the use of IVIG maybe considered in:21; 50; 67
+ severe refractory SLE including haematological flare, TTP and the
+catastrophic variant of APS
+ active SLE with concomitant infection
+Thromboembolic events are delayed AEs of immunoglobulin treatment
+with incidence rate up to 2% when given in high dose.80, level III It
+occurs because of hyperviscosity especially in patients having risk
+factors including advanced age, previous thromboembolic diseases,
+bedridden, diabetes mellitus, hypertension, dyslipidaemia and those
+receiving IVIG in high dose or by rapid infusion.81, level III It has therefore
+been suggested that a slow infusion rate of low concentration of IVIG
+products may reduce the thromboembolic events.80, level III
+8.
+SPECIFIC CLINICAL MANIFESTATIONS
+SLE is a multisystemic disease requiring comprehensive treatment
+which is determined by the disease severity and organ/system involved.
+8.1 Lupus Nephritis
+LN is classified according to the International Society of Nephrology
+and the Renal Pathology Society in 2003 as shown below:82, level III
+For class l LN, treatment should be guided by symptoms whereas for
+class ll, low dose prednisolone should be initiated and followed by an
+immunosuppressant if there is persistent proteinuria for more than
+three months or prednisolone dependency.
+Treatment of class III and class IV LN includes an initial induction
+phase, followed by a more prolonged maintenance phase. MMF and
+CYC are the agents of choice for induction treatment. MMF or AZA
+may be used as maintenance treatment, with the former associated
+with fewer relapses. CNIs may be considered as second-line agents for
+induction or maintenance treatment mainly in membranous LN (class
+V) or in proliferative disease with refractory nephrotic syndrome despite
+standard treatment within 3 - 6 months.50 For class VI LN, treatment is
+as per advanced chronic kidney disease (refer to CPG Management of
+Chronic Kidney Disease [Second Edition]).83
+A landmark RCT (Lupus Nephritis Assessment with Rituximab
+[LUNAR] trial) on class lll and class lV LN patients treated with MMF
+and corticosteroids showed that rituximab led to more responders and
+greater reductions in anti-dsDNA antibodies and C3/C4 levels. However,
+it did not improve clinical outcomes after one year of treatment.84, level l
+According to the Belimumab in Subjects with Systemic Lupus
+Erythematosus (BLISS)-LN trial, IV belimumab was superior to placebo
+as an add-on therapy during induction phase of active LN (class III
+- V) in achieving primary renal response (ratio of urinary protein to
+creatinine of ≤0.7 and an estimated glomerular filtration rate (eGFR)
+Class
+l
+Il
+lll
+lV
+V
+Vl
+Incidence rate (per 1000 person-years)
+Minimal mesangial LN
+Mesangial proliferative LN
+Focal LN (active and chronic; proliferative and sclerosing)
+Diffuse LN (active and chronic; proliferative and sclerosing;
+segmental and global)
+Membranous LN
+Advanced sclerosis LN
+that is no worse than 20% below the pre-flare value or ≤60 mL/min/
+1.73 m2 and no rescue therapy for treatment failure) at week 104.85, level I
+8.2 Mucocutaneous
+Topical agents (corticosteroids or CNIs) and HCQ are the mainstay
+of treatment in CLE. Systemic corticosteroids may be considered in
+moderate to severe CLE or when topical treatment is insufficient or not
+practical.23
+In a Cochrane systematic review of 61 RCTs with interventions for CLE
+showed:86, level I
+• HCQ was more effective than placebo in achieving partial clinical
+response at 12 months although the difference was not significant
+• HCQ was superior to placebo on reducing clinical flares at six
+months (RR=0.49, 95% CI 0.28 to 0.89)
+• MTX was superior to placebo in achieving complete clinical
+response at six months (RR=3.57, 95% CI 1.63 to 7.84)
+• MTX led to fewer flares compared with placebo at 12 months,
+however it was not significant
+• no difference between AZA and ciclosporin in complete clinical
+response at 12 months
+Based on GRADE, the body of evidence was of moderate to low quality.
+8.3 Neuropsychiatry
+Treatment of NPSLE is determined by the underlying pathophysiology i.e.
+inflammatory or thrombotic. Corticosteroids and/or immunosuppressive
+agents should be considered in the former, while anticoagulant/
+antithrombotic treatment is favoured in the latter especially when aPLs
+are present.50
+As mentioned earlier in Subchapter 6.2, two systematic reviews
+showed that CYC in combination with corticosteroids was more effective
+compared with corticosteroids alone in NPSLE. The treatments also
+had a good safety profile.68, level I; 70, level I
+Anti-epileptics and anti-psychotics may be considered as adjunct
+therapy when indicated.
+8.4 Haematology
+Haematological manifestations frequently requiring immunosuppressants
+in SLE include thrombocytopenia and AIHA. First-line treatment of
+significant lupus thrombocytopenia (platelet count below 30,000/
+mm3) and AIHA consist of moderate/high doses of corticosteroids in
+combination with immunosuppressants (AZA, MMF or ciclosporin).50
+8.5 Cardiorespiratory
+There is limited evidence on the management of cardiorespiratory
+manifestations in SLE. A small retrospective cohort study on lupus
+myocarditis showed no significant difference with the addition of CYC
+to corticosteroids on intensive care unit (ICU) stay, length of hospital
+stay and median left ventricular ejection fraction.87, level II-2
+• The management of organ/system specific SLE is complex and a
+multidisciplinary team (MDT) approach consisting of rheumatologist(s)
+and other relevant specialists may be considered.
+9.
+MONITORING
+Assessment and monitoring in SLE are essential as the disease is
+often complicated by flares of varying severity. Few guidelines provide
+recommendations on monitoring disease activity, disease damage and
+quality of life.21; 50; 88 - 89
+The clinical manifestations of SLE may be related to disease activity,
+organ damage, drug toxicity and quality of life. The monitoring includes
+new clinical manifestations, laboratory investigations, disease activity,
+organ damage, co-morbidities and drug AEs.
+9.1 Clinical Features
+SLE can present in various clinical manifestations (refer to Figure 1).
+Thus, a thorough history and physical examination must be undertaken
+at each clinic visit. Any new onset or changes in clinical manifestation
+would require further evaluation.
+9.2 Laboratory Investigations
+Laboratory tests that are commonly done for monitoring are FBC,
+RP, LFT, acute phase reactants (ESR and CRP), complements and
+urinalysis.
+•
+Full blood count
+FBC should be assessed at every visit to detect cytopenia which is
+associated with SLE flare or concomitant drug treatment.
+The haematological flares during monitoring of patients with SLE are
+indicated by the following parameters:21; 23
+ haemolytic anaemia with reticulocytosis
+ leukopenia <4000/mm3 total on >2 occasions*
+ lymphopenia <1500/mm3 on >2 occasions*
+ thrombocytopenia <100 000/mm3*
+*in the absence of offending drugs
+•
+Biochemistry and urinalysis
+Serum albumin and creatinine provide information on the presence and
+prognosis of renal involvement. Urinalysis can be used to detect early
+renal manifestations.
+Renal biopsy is indicated during monitoring of patients with SLE with
+the presence of these criteria:21; 23
+ persistent proteinuria >0.5 g/day or >3+ if quantitation not
+performed
+ cellular casts: presence of red cell, haemoglobin, granular, tubular
+or mixed
+LFT can be deranged due to autoimmune liver disease or liver toxicity
+secondary to the use of immunosuppressants. For frequency of
+monitoring, refer to Appendix 8.
+•
+Acute phase reactants
+Monitoring of ESR and CRP can be useful to distinguish SLE flare from
+infection. Raised ESR with normal CRP occur in SLE flares while both
+ESR and CRP are elevated in infection.21
+•
+Autoantibodies and complements
+Anti-dsDNA antibodies and complements can fluctuate with disease
+activity. In patients with clinical features of active SLE, rising anti-dsDNA
+antibodies and/or falling levels of complements indicate disease flare.21
+Other autoantibodies (e.g. ANA and ENA) have not been demonstrated
+to be helpful in monitoring disease activity.
+Refer to Appendix 8 for Frequency of Monitoring Patients in SLE.
+Recommendation 9
+• All patients with systemic lupus erythematosus should be monitored
+based on clinical and laboratory parameters.*
+*Refer to Subchapter 8.1 and 8.2.
+9.3 Co-morbidities
+a.
+Infection
+Patients with SLE are prone to infection including tuberculosis due
+to their immunocompromised state contributed by both disease- and
+treatment-related factors. This leads to higher risk of morbidity and
+mortality.
+High disease activity, severe leukopenia and presence of renal
+involvement (with/without hypogammaglobulinaemia in nephrotic
+syndrome) contribute independently to infection in SLE.50
+In a cross-sectional study among patients with SLE, the factors
+associated with bacterial, viral and fungal infections were renal
+involvement, treatment with CYC and accumulated dose of
+corticosteroids. Additional factors for bacterial and viral infection were
+high SLEDAI score and thrombocytopenia.90, level III
+The prevalence of tuberculosis among SLE patients is significantly
+higher than the general population.91, level II-2 Hence, there should be a
+high index of suspicion for active tuberculosis in SLE especially among
+those on immunosuppressants and high doses of corticosteroids.5
+A prospective cohort study of patients with SLE showed CRP and
+procalcitonin levels were higher in infection than disease flare
+(p<0.001). Both serum biomarkers decreased after the infections
+resolved.92, level II-2
+• Early detection and prompt treatment of infection is important among
+patients with SLE, particularly in the setting of raised CRP and
+procalcitonin levels.
+b.
+Osteoporosis
+Risk factors for osteoporosis in patients with SLE include corticosteroids
+and reduced levels of vitamin D related to the avoidance of sun
+exposure. Osteoporosis is assessed by measuring bone mineral density
+(BMD) using dual-energy x-ray absorptiometry (DXA) and fracture risk
+assessment tool (FRAX) in patients aged 40 - 90 years.
+In a retrospective cohort study among female patients with SLE,
+significant factors associated with high-risk of osteoporotic fractures
+assessed using the FRAX with BMD were nephritis (OR=11.35, 95% CI
+1.09 to 118.57) and cumulative dose of corticosteroids (OR=1.10, 95%
+CI 1.05 to 1.15). The same study also described low complement levels
+(OR=4.38, 95% CI 1.50 to 12.81), high ESR (OR=1.04, 95% CI 1.02
+to 1.07) and cumulative doses of corticosteroids (OR=1.05, 95% CI
+1.01 to 1.09) as significant factors associated with risk of osteoporosis
+assessed using the World Health Organization (WHO) criteria.93, level II-2
+c.
+Cardiovascular disease
+SLE is an independent risk factor for CV disease (CVD), due to both
+traditional and disease-related risk factors.
+In a large systematic review, the most frequently and consistently
+reported predictors of CV events in SLE patients were:94, level II-2
+• male gender (OR=6.2, 95% CI 1.49 to 25)
+• family history of cardiac disease (OR=3.6, 95% CI 1.15 to 11.32)
+• neurological disorders (OR=5.2, 95% CI 2.0 to 13.9)
+• dyslipidaemia (OR=3.9, 95% CI 1.57 to 9.71)
+• hypertension (OR=3.5, 95% CI 1.65 to 7.54)
+• presence of anti-phospholipid antibodies (OR=5.0, 95% CI 3.28 to
+7.78)
+However, the quality assessment on primary studies was not reported.
+• It is important to identify and manage modifiable cardiovascular
+risk factors in SLE patients to reduce cardiac-related morbidity and
+mortality.
+d.
+Malignancy
+There is an increased incidence of malignancy among patients with
+SLE. Evidence from two systematic reviews and one cohort study
+showed association of malignancy with SLE:
+• Non-Hodgkin lymphomas (SIR=4.39, 95% CI 3.46 to 5.49)95, level II-2
+• leukaemia (SIR=1.75, 95% CI 1.04 to 2.76)95, level II-2
+• lung cancer (RR=1.75, 95% CI 1.37 to 2.24)96, level II-2
+• stomach cancer (RR=1.34, 95% CI 1.05 to 1.72)96, level II-2
+• bladder cancer (HR=1.92, 95% CI 1.15 to 3.21)97, level II-2
+In light of the increased risk, cancer screening should not be overlooked
+in the management of SLE. However, there is no evidence that more
+intense cancer screening than that applied in general population had
+better outcomes for SLE patients. Therefore, routine cancer screening
+should follow local recommendations for general population.21
+• Surveillance for malignancy is essential as part of monitoring in
+patients with SLE.
+Recommendation 10
+• Patients with systemic lupus erythematosus (SLE) should be
+screened for the following:
+ cardiovascular risk factors
+ osteoporosis
+• Infections in patients with SLE should be identified early and treated
+accordingly.
+9.4 Drug Adverse Events
+Drugs used in the treatment of SLE may have potential AEs and require
+regular monitoring.
+In a large systematic review of different study designs, multiple toxicities
+had been found to be associated with drugs used for the treatment of
+SLE:98, level I
+• corticosteroids -
+ higher rate of hyperglycaemia or diabetes among patients
+taking high dose corticosteroids compared with comparator drug
+(OR=1.82, 95% CI 1.04 to 3.19)
+• HCQ -
+ the incidence of retinal toxicity was only 0.95/1000 patient-years
+ majority of those with retinal toxicity were on HCQ for >5 years
+and most used doses of >6.5 mg/kg
+• AZA -
+ incidence of leukopenia or anaemia was 5 - 20%
+ abnormal LFTs requiring discontinuation of drug in 1 - 6%
+• MTX -
+ LFT abnormalities ranged at 10 - 50%
+• CYC -
+ incidence of leukopenia or anaemia was 5 - 10%
+ increased incidence of cervical dysplasia in patients taking CYC
+compared with corticosteroids alone
+• MMF -
+ incidence of haematological toxicity was 1.1 - 36.8%
+• NSAIDs and salicylates -
+ most powerful predictor of gastric mucosal injury (OR=26.8,
+95%CI 4.9 to 148.6)
+ reduced renal function by 58% and increased serum creatinine
+by 163% in patients with active LN
+ abnormal liver enzymes over 10-day period of use in 44.4% of
+patients treated with aspirin and 20% of patients treated with
+NSAIDs
+Refer to Appendix 7 for Medication in SLE.
+9.5 Frequency and Interval
+A summary of current guidelines for laboratory monitoring as well as an
+overview of laboratory abnormalities of each drug and recommendations
+on frequency of monitoring are provided in the Appendix 7 and
+Appendix 8.
+A prospective cohort study on patients with inactive disease of SLE
+showed that a clinic visit interval of 3.8 months was able to identify
+silent manifestations of the disease.99, level II-2
+Refer to Appendix 7 for the Medication in SLE.
+10.
+SPECIAL CONSIDERATION
+10.1
+Antiphospholipid Syndrome
+APS is a condition characterised by the presence of aPL in the setting of
+venous or arterial thrombosis and/or pregnancy morbidity (complication
+or loss). Definite APS fulfilling at least one clinical and one laboratory
+criteria of the Sapporo Classification Criteria can occur in association
+with other autoimmune diseases mainly SLE (secondary APS) or in
+its primary form (primary APS).100 Refer to Appendix 9 on Sapporo
+Classification Criteria.
+The aPL profile determines the risk of thrombotic and obstetric events.
+The profile is defined according to:100
+• aPL type
+• presence of multiple (double or triple) vs single aPL
+• titre (moderate to high vs low)
+• persistence of aPL positivity
+High-risk aPL profile refers to persistently positive medium/high titres
+or multiple positivity.100 EULAR guidelines recommends that all patients
+with SLE should be screened at diagnosis for aPL.23
+In patients with SLE, 15 - 20% have secondary APS. Patients with
+SLE who have aPL also have a higher prevalence of valve disease,
+thrombocytopenia, haemolytic anaemia, renal lesions, cognitive
+impairment as well as higher tissue and organ damage compared with
+those without aPL.101 - 102, level III
+The significant protective role of low dose aspirin (LDA) as primary
+prophylaxis against thrombosis in patients with SLE who have aPL
+was shown in a meta-analysis of five cohort studies (HR ranging
+from 0.32 to 0.43 with adjustment of CV risk factor, aPL and HCQ
+use).103, level II-2 Patients with SLE with high-risk aPL profile may
+receive primary prophylaxis with antiplatelet agents, especially if other
+atherosclerotic/thrombophilic factors are present, after considering the
+risk of bleeding.23
+There is no retrievable evidence exclusively on SLE with APS. Thus,
+the management approach of patients with SLE who have APS
+(secondary prevention) should follow guidelines for primary APS. Direct
+oral anticoagulant (DOAC) for secondary prevention is not currently
+recommended for patients with SLE who have APS.100 Management
+of SLE with APS is beyond the scope of this CPG and thus should be
+initiated in consultation with the rheumatologist.
+Recommendation 11
+• Patients with systemic lupus erythematosus (SLE) who have
+high-risk antiphospholipid antibody profile may receive primary
+thromboprophylaxis with low dose aspirin if there are no
+contraindications.
+• Secondary thromboprophylaxis in patients with SLE who have
+antiphospholipid syndrome should be initiated in consultation with a
+rheumatologist.
+10.2
+Pregnancy
+a.
+Pre-pregnancy care and contraception
+Pre-pregnancy care is the provision of biomedical, behavioural and
+social health interventions to women and couples before conception. It
+aims at improving their health status, as well as reducing morbidity and
+mortality of both mother and child.
+• It is important to ensure that patients with SLE who plan to get
+pregnant achieve the following:104
+ remission or low disease activity for ≥6 months
+ well-controlled blood pressure
+ eGFR >60 mL/min/1.73 m2
+ proteinuria <1 g/day (proteinuria 2+)
+Counselling on contraception is important to patients with SLE who
+have just started on medication. This is to ensure that patient is stable
+on the pregnancy-compatible medication before conception.
+A meta-analysis of six cohort studies showed that maternal adverse
+pregnancy outcomes in SLE were pre-eclampsia, miscarriage,
+foetal loss, risk of caesarean delivery and still birth while foetal
+complication were pre-term birth, small for gestational age and low birth
+weight.105, level II-2
+Associated factors of adverse pregnancy outcomes in SLE are presence
+of active disease, aPL positivity, abnormal uterine and umbilical artery
+Doppler studies, low complement and thrombocytopenia at early
+pregnancy.106 - 107, level II-2
+A cross-sectional study among women with SLE found that a third of
+them did not receive contraception counselling when they were started
+on potentially teratogenic medications.108, level III Thus, it is crucial for
+women with SLE especially those in reproductive age group to receive
+a thorough pre-pregnancy counselling on contraception and combined
+care of the rheumatologist and obstetrician once they are pregnant.
+Oral contraceptive and intrauterine device (IUD) have no association
+with thrombosis, worsening of SLEDAI score and mortality in patients
+with SLE.15, level I; 109, level I Refer to Appendix 10 for the Types of
+Contraception Recommended for Patients with SLE.
+Recommendation 12
+• All women with systemic lupus erythematosus in the reproductive
+age should receive pre-pregnancy counselling.
+b.
+Antenatal care
+The management principles for SLE during pregnancy are as follows:
+• Obstetric Care: Standard pregnancy care protocols provided by
+the obstetric team shall be followed.
+• Rheumatological or Subspecialty Care: The rheumatologist
+or a subspecialty team will co-manage any disease-related
+complications and ensure optimal care for the patient.
+• Combined Care: Effective communication and multidisciplinary
+care among healthcare providers co-ordinated by family medicine
+specialists are essential.
+The management of pregnant women with SLE is tabulated below
+(refer to Table 4).
+Table 4: Management of Pregnant Women With SLE
+• Blood pressure
+• SLE clinical assessment
+• Laboratory investigation*
+• Foetal ultrasound to confirm
+intrauterine pregnancy and
+establish gestational age
+First
+trimester
+• Start low dose aspirin
+• Be vigilant for disease flares
+• Review medication compatibility
+and adherence
+• Patients with obstetric-APS** - start
+prophylactic LMWH
+• Patients with thrombotic APS** -
+switch from oral anticoagulants to
+full dose LMWH
+• For active SLE:
+ medication adjustment
+ MDT discussion and shared
+decision-making
+for continuation of pregnancy in
+certain situations
+• Schedule for combined care
+• Blood pressure
+• SLE clinical assessment
+• Laboratory investigations*
+with assessment for
+gestational diabetes and
+genetic screening
+(if applicable)
+• Foetal echocardiogram
+between 16 - 25 weeks of
+Second
+trimester
+• Be vigilant for disease flares
+• Review medication adherence
+• Calcium supplementation for
+pre-eclampsia prophylaxis if not
+started previously. The recommended
+dose is calcium carbonate 1 g BD
+commenced before 20 weeks
+gestation.
+• congenital heart block,
+Timeline
+Monitoring
+Action Plan
+Notes:
+*Laboratory investigations to be included: full blood count (FBC), renal profile (RP),
+liver function test (LFT), urinalysis and morning urine protein to creatinine ratio
+(UPCR), anti-double stranded DNA (anti-dsDNA) antibodies, complement levels (C3
+and C4), serum uric acid.
+**Refer to Appendix 9 for Sapporo Classification Criteria
+***Refer to Appendix 10 for Types of Contraception Recommended for Patients
+With SLE
+Abbreviations: APS = antiphospholipid syndrome; BD = twice daily; HCQ =
+hydroxychloroquine; g = gram; LMWH = low molecular weight heparin; MDT =
+multidisciplinary team; NSAIDS = nonsteroidal anti-inflammatory drugs; SLE =
+systemic lupus erythematosus
+Adapted from: Dao KH, Bermas BL. Systemic Lupus Erythematosus Management in
+Pregnancy. Int J Womens Health. 2022;14:199-211.
+•
+Medication
+Medications in SLE patients with pregnancy should be adjusted and
+reviewed accordingly even prior to conception. The goal of treatment is
+to prevent SLE flare and ensure the best safety profile during pregnancy.
+HCQ use in pregnancy is safe and effective in SLE. A systematic
+review and an RCT support its use in reducing disease activity and
+Systemic Lupus Erythematosus Pregnancy Disease Activity Index
+(SLEPDAI) score.110, level I; 111, level II-2 One meta-analysis and two cohort
+• Blood pressure
+• SLE clinical assessment
+• Laboratory investigations*
+• Regular ultrasound to
+evaluate foetal growth,
+adequacy of amniotic fluid
+and placental insufficiency
+Third
+trimester
+• Be vigilant for disease flares
+• Review medication adherence
+• Review preparations for labour and
+delivery
+• Avoid NSAIDs
+• Blood pressure
+• SLE clinical assessment
+• Laboratory investigations*
+Postpartum and
+lactation
+• Be vigilant for disease flares
+• For APS - continue LMWH for
+6 weeks
+• Switch to lactation compatible
+medications if breastfeeding is
+desired
+• For prednisolone ≥40 mg/day,
+delay breastfeeding at least four
+hours after consumption
+• Refer neonate to paediatrician to
+rule out neonatal lupus
+• Advise regarding contraception***
+gestation for mothers with
+positive anti-Ro/SSA or
+anti-La/SSB by feto-maternal
+specialist
+• Ultrasound to evaluate foetal
+anatomy, foetal growth and
+placental insufficiency
+co-management with feto-maternal
+specialist is required
+studies also showed no significant association of HCQ use and foetal
+loss, pre-term delivery and pre-eclampsia.111, level II-2; 112, level II-2; 113, level II-2
+Corticosteroids is also the cornerstone treatment in pregnancy.
+However, its dose should be reduced to lowest effective dose prior
+to conception to ensure its safety in pregnancy. In a meta-analysis of
+overall good quality primary studies, the use of corticosteroids >7.5 mg/
+day was associated with risk of pre-term delivery, small gestational age
+and foetal loss.114, level II-2 Nevertheless, CPG DG opines that for mild
+to moderate SLE flare, a dose increment may be considered but then
+tapered accordingly.
+HCQ, AZA, CNIs and low dose corticosteroids are safe to be used
+throughout pregnancy as recommended by guidelines.46
+ACR recommends the initiation of LDA in SLE patients at the beginning
+of first trimester in order to preclude or delay the onset of gestational
+hypertension in pregnancy.46 LDA is also safe in pregnancy as it shows
+no significant foetal outcomes e.g. small gestational age, intrauterine
+growth restriction or preterm delivery in patients taking LDA compared
+with those without LDA.115, level II-2
+Refer to Appendix 7 for use of SLE medication in pregnancy and
+lactation.
+• The CPG DG opines that all SLE patients who are pregnant especially
+those with positive aPL should be referred to the rheumatologist at
+antenatal booking.
+• All pregnant SLE patients should be under combined care of
+rheumatologist/physician, feto-maternal specialist/obstetrician and
+family medicine specialist.
+• Calcium supplementation is essential in pregnant SLE patients for
+pre-eclampsia prophylaxis.
+Recommendation 13
+• The following medications should be continued in systemic lupus
+erythematosus (SLE) with pregnancy:
+ hydroxychloroquine
+ azathioprine
+ calcineurin inhibitors
+ low dose corticosteroids
+• Low dose aspirin should be initiated in all pregnant SLE patients
+unless intolerance or contraindicated.
+10.3 Lactation
+Breastfeeding is encouraged and not contraindicated in patients with
+SLE as long as the disease control can be maintained with medication
+compatible with lactation. Refer to Appendix 7 on Medication in SLE
+for medication compatible with lactation.
+10.4 Adolescents
+SLE is diagnosed during childhood in 15 to 20% of patients.116, level III
+A co-ordinated transition from paediatric to adult care providers starting
+during adolescence has been recommended to ensure the patients’
+physical, psychosocial, educational and vocational needs are met.117
+Two observational studies showed that a structured transition
+programme or clinic was important to improve long-term outcomes.
+In a cross-sectional study on childhood-onset SLE, patients who
+experienced difficulty during transition compared with those without
+difficulty were more likely to report ‘poor overall control’ of symptoms
+(p=0.03) and involvement of multiple organ systems (p=0.05). Patients
+who were directly referred to an adult physician by a paediatric
+rheumatologist rather than self-referred reported ‘well controlled’
+overall symptoms (p=0.01) and lower hospitalisation (p=0.04).118, level
+III Another single-centre, pre-post study on childhood-onset SLE cohort
+with no formal transition programme showed that 72% were lost to
+follow-up.119, level II-3
+Two programmes described in a systematic review of transitional
+care in rheumatology showed improvements in the following
+outcomes:120, level II-3
+• health-related quality of life, arthritis-related knowledge and
+satisfaction with rheumatic care in adolescents and parents
+• vocational readiness
+• physical, psychosocial and disease-specific health status
+Young people with rheumatic and musculoskeletal diseases which
+include SLE should have access to co-ordinated transitional care,
+delivered through partnership with healthcare professionals. The
+transition process should start as early as possible.117
+Recommendation 14
+• A structured transition programme may be implemented to facilitate
+transfer of care from paediatric to adult health care providers
+during adolescence in patients with childhood-onset systemic lupus
+erythematosus.
+10.5 Vaccination
+Vaccination is an important strategy in patients with SLE as they are
+susceptible to infection due to the disease itself, immunosuppressive
+therapy and presence of co-morbidities. EULAR recommends annual
+assessment of vaccination status of patients with autoimmune
+inflammatory rheumatic diseases and administration of vaccines
+during quiescent disease.121
+The evidence for effectiveness based on immunogenicity and safety
+for vaccines in SLE patients are provided in the table below (refer to
+Table 5).
+Table 5: Effectiveness and safety of vaccines in SLE patients
+Vaccine
+Effectiveness
+Non-live vaccines
+Safety
+Pneumococcal
+122, level I
+A systematic review noted increase
+of IgM antibody titre in patients with
+SLE vs controls.
+Immunosuppressive therapy (except
+belimumab) resulted in lower
+seroconversion rates (43 - 77% in
+patients on immunosuppression vs
+52 - 90% in those without
+immunosuppression).
+No serious AEs were noted
+while SLE flares were rarely
+reported.
+Disease activity scores
+remained stable before and
+after immunisation.
+Influenza
+123, level II-2
+A meta-analysis showed moderate
+immunogenicity in SLE patients vs
+healthy controls.
+A meta-analysis showed
+moderate immunogenicity
+in SLE patients vs healthy
+controls.
+Human
+Papillomavirus
+(HPV)
+One cohort study126, level II-2 and one
+pre-post study127, level II-3 showed that
+the vaccine was generally
+immunogenic:
+Mild vaccine site reactions
+occurred in 62% of patients.
+No SLE flares were
+reported.127, level II-3
+Severe Acute
+Respiratory
+Syndrome
+Coronavirus 2
+(SARS-CoV-2)
+A systematic review with metaanalysis of patients with immune
+mediated inflammatory diseases
+including SLE patients found that
+seroconversion rates were:124, level III
+• higher after a two-dose regimen vs
+single dose of messenger RNA
+(mRNA) vaccine
+• lower than healthy controls
+• lower among those exposed to
+anti-CD20 therapy vs other
+immunosuppressants
+Humoral response was similar to
+general population after the third
+dose.125, level II-2
+A cohort study showed that
+SLE disease activity was
+not affected. Vaccinebreakthrough infections,
+mainly with Omicron variant,
+were mild and did not require
+hospitalisation.125, level II-2
+• Pneumococcal, influenza, SARS-CoV-2 and HPV vaccines are
+advisable to be given to patients with SLE.
+• HZ vaccine is potentially beneficial in patients with SLE.
+Recommendation 15
+• Vaccination status and indications for further vaccinations of patients
+with systemic lupus erythematosus (SLE) should be assessed yearly.
+• Vaccinations
+should
+preferably
+be
+administered
+prior
+to
+commencement of immunosuppressants or during remission/low
+disease activity of SLE.
+• seroconversion was 100% for those
+seronegative at baseline127, level II-3
+• high rate of immunogenicity was
+retained at five years in stable
+patients126, level II-2
+Live vaccines
+Herpes Zoster
+(HZ)128, level I
+The vaccine induces humoral and
+cell-mediated response in stable
+SLE patients not receiving intensive
+immunosuppressive therapies.
+Safe and well-tolerated in
+stable patients not
+receiving intensive
+immunosuppression. No
+differences noted in AEs
+except for injection site
+reactions in vaccinetreated patients vs those
+on placebo. Low number
+of SLE flares were noted in
+both groups.
+11.
+REFERRAL
+Timely referral to or consultation with rheumatologists is of utmost
+importance for confirmation of diagnosis and early initiation of
+treatment for SLE. Even though rheumatologists are the specialists who
+primarily care for patients with SLE, co-management with specialists
+in other disciplines (e.g. primary care physicians, nephrologists and
+haematologists) is equally important.
+Indications for referral to rheumatologist includes to confirm diagnosis,
+assess disease activity and severity, provide general disease
+management, manage organ involvement or life-threatening disease
+and manage/prevent treatment toxicities. Other specific circumstances
+that require referral include APS, pregnancy and perioperative
+management.129, level III
+For moderate to severe organ involvement, patients with SLE will
+require multidisciplinary care involving various subspecialties.
+Indications for urgent referral are as listed below:
+• for patients not diagnosed with SLE yet -
+ clinical suspicion of SLE with major or multisystem organ
+involvement
+• for patients diagnosed with SLE -
+ disease flare of major organ or multisystem organ involvement
+ pregnancy (at booking)
+ severe infection
+Recommendation 16
+• All cases with clinical suspicion of systemic lupus erythematosus
+should be promptly referred to rheumatologists for confirmation of
+the diagnosis and further management.
+12.
+IMPLEMENTING THE GUIDELINES
+Implementation of this CPG is important as it helps in providing quality
+healthcare services based on the best and most recent available
+evidence applied to local scenario and expertise. Various factors and
+resource implications should be considered for the success of the
+uptake in the CPG recommendations.
+12.1 Facilitating and Limiting Factors
+The facilitating factors in implementing the CPG are:
+i)
+availability of CPG to healthcare providers (hardcopies and
+softcopies)
+ii)
+conferences and updates on management of SLE including
+those involving professional bodies (e.g. Malaysian Society of
+Rheumatology)
+iii) Key Performance Indicator on Rheumatology Services monitored
+by MoH (i.e. number of newly presented SLE patients prescribed
+HCQ in the Rheumatology Outpatient Clinic)
+iv) public awareness campaigns on SLE (e.g. World Lupus Day in
+collaboration with Malaysian SLE Association)
+Limiting factors in the CPG implementation include:
+i)
+different levels of care and wide variation in practice due to
+expertise, facilities and financial constraints
+ii)
+limited awareness and knowledge in management of SLE among
+healthcare providers
+iii) lack of awareness of the disease and its management by the public
+iv) no local SLE registry
+12.2 Potential Resource Implications
+Early diagnosis of SLE may be difficult to establish as the presentations
+are non-specific and it is even more challenging with the presence of
+SLE mimickers. Besides that, the supporting relevant investigations
+may not be easily accessible in the public primary care especially in
+remote areas. The confirmation of the diagnosis and its assessment
+requires the specialists’ expert opinion especially the rheumatologists,
+where the service is limited nationwide. Thus, this CPG serves as a
+guide for early disease recognition and referral. There is a compelling
+need to increase awareness and knowledge on the evidence-based
+management of SLE by ensuring widespread distribution of the CPG
+and reinforcing related training to the healthcare providers.
+Treatment of SLE can be a daunting task particularly in patients with
+severe disease and co-morbidities. The assessment of disease severity
+of SLE is thus important in deciding the best management approach as
+inadequate treatment may lead to significant morbidity and mortality.
+Heterogeneity of disease manifestation warrants MDT involvement.
+Based on the recommendations in the CPG, the need for specialised
+care and certain expensive medications has resource implications that
+need to be addressed in the management of SLE.
+In line with the key recommendations in this CPG, the following is
+proposed as clinical audit indicator for quality management of SLE:
+*Target of 90%
+Implementation strategies will be developed following the approval of
+the CPG by MoH which include Quick Reference and Training Module.
+Percentage
+of newly
+diagnosed
+SLE patients
+prescribed
+HCQ*
+=
+X 100%
+Total number of newly diagnosed SLE
+patients in the same period
+Number of newly diagnosed SLE patients
+prescribed HCQ in a period
+REFERENCES
+1.
+Urowitz MB, Gladman DD, Tom BD, et al. Changing patterns in mortality and
+disease outcomes for patients with systemic lupus erythematosus. J Rheumatol.
+2008;35(11):2152-2158.
+2.
+Jakes RW, Bae SC, Louthrenoo W, et al. Systematic review of the epidemiology of
+systemic lupus erythematosus in the Asia-Pacific region: prevalence, incidence,
+clinical features, and mortality. Arthritis Care Res (Hoboken). 2012;64(2):159168.
+3.
+Teh CL, Ling GR. Causes and predictors of mortality in hospitalized lupus patient
+in Sarawak General Hospital, Malaysia. Lupus. 2013;22(1):106-111.
+4.
+van Vollenhoven RF, Mosca M, Bertsias G, et al. Treat-to-target in systemic
+lupus erythematosus: recommendations from an international task force. Ann
+Rheum Dis. 2014;73(6):958-967.
+5.
+Mok CC, Hamijoyo L, Kasitanon N, et al. The Asia-Pacific League of Associations
+for Rheumatology consensus statements on the management of systemic lupus
+erythematosus. Lancet Rheumatol. 2021;3(7):e517-e531.
+6.
+Malaysian SLE Association. What is SLE? Malaysian SLE Association; 2023.
+[Available at: https://lupusmalaysia.org/what-is-sle/]
+7.
+Kuo CF, Grainge MJ, Valdes AM, et al. Familial Aggregation of Systemic
+Lupus Erythematosus and Coaggregation of Autoimmune Diseases in Affected
+Families. JAMA Intern Med. 2015;175(9):1518-1526.
+8.
+Selvaraja M, Too CL, Tan LK, et al. Human leucocyte antigens profiling in
+Malay female patients with systemic lupus erythematosus: are we the same or
+different? Lupus Sci Med. 2022;9(1):e000554.
+9.
+Selvaraja M, Chin VK, Abdullah M, et al. HLA-DRB1(*)04 as a Risk Allele to
+Systemic Lupus Erythematosus and Lupus Nephritis in the Malay Population of
+Malaysia. Front Med (Lausanne). 2021;7:598665.
+10. Charoenngam N, Ponvilawan B, Wongtrakul W, et al. Patients with asthma have
+a higher risk of systemic lupus erythematosus: a systematic review and metaanalysis. Clin Rheumatol. 2021;40(2):529-536.
+11. Hsiao YP, Tsai JD, Muo CH, et al. Atopic diseases and systemic lupus
+erythematosus: an epidemiological study of the risks and correlations. Int J
+Environ Res Public Health. 2014;11(8):8112-8122.
+12. Parisis D, Bernier C, Chasset F, et al. Impact of tobacco smoking upon disease
+risk, activity and therapeutic response in systemic lupus erythematosus: A
+systematic review and meta-analysis. Autoimmun Rev. 2019;18(11):102393.
+13. Morotti A, Sollaku I, Catalani S, et al. Systematic review and meta-analysis of
+epidemiological studies on the association of occupational exposure to free
+crystalline silica and systemic lupus erythematosus. Rheumatology (Oxford).
+2020;60(1):81-91.
+14. Finckh A, Cooper GS, Chibnik LB, et al. Occupational silica and solvent
+exposures and risk of systemic lupus erythematosus in urban women. Arthritis
+Rheum. 2006;54(11):3648-3654.
+15. Rojas-Villarraga A, Torres-Gonzalez JV, Ruiz-Sternberg AM. Safety of hormonal
+replacement therapy and oral contraceptives in systemic lupus erythematosus: a
+systematic review and meta-analysis. PLoS One. 2014;9(8):e104303.
+16. Nightingale AL, Davidson JE, Molta CT, et al. Presentation of SLE in UK
+primary care using the Clinical Practice Research Datalink. Lupus Sci Med.
+2017;4(1):e000172.
+17. Voulgarelis M, Kokori SI, Ioannidis JP, et al. Anaemia in systemic lupus
+erythematosus: aetiological profile and the role of erythropoietin. Ann Rheum
+Dis. 2000;59(3):217-222.
+18. Hahn BH, McMahon MA, Wilkinson A, et al. American College of Rheumatology
+guidelines for screening, treatment, and management of lupus nephritis. Arthritis
+Care Res (Hoboken). 2012;64(6):797-808.
+19. Huang D, Aghdassi E, Su J, et al. Prevalence and risk factors for liver biochemical
+abnormalities in Canadian patients with systemic lupus erythematosus. J
+Rheumatol. 2012;39(2):254-261.
+20. Yip J, Aghdassi E, Su J, et al. Serum albumin as a marker for disease activity
+in patients with systemic lupus erythematosus. J Rheumatol. 2010;37(8):16671672.
+21. Gordon C, Amissah-Arthur MB, Gayed M, et al. The British Society for
+Rheumatology guideline for the management of systemic lupus erythematosus
+in adults. Rheumatology (Oxford). 2018;57(1):e1-e45.
+22. American College of Rheumatology Ad Hoc Committee on Immunologic Testing
+Guidelines. Guidelines for Immunologic Laboratory Testing in the Rheumatic
+Diseases: An Introduction. Arthritis Rheum. 2002;47(4):429-433.
+23. Aringer M, Costenbader K, Daikh D, et al. 2019 European League Against
+Rheumatism/American College of Rheumatology Classification Criteria for
+Systemic Lupus Erythematosus. Arthritis Rheumatol. 2019;71(9):1400-1412.
+24. Pisetsky DS. Anti-DNA antibodies--quintessential biomarkers of SLE. Nat Rev
+Rheumatol. 2016;12(2):102-110.
+25. Irure-Ventura J, Lopez-Hoyos M. Disease criteria of systemic lupus
+erythematosus (SLE); the potential role of non-criteria autoantibodies. J Transl
+Autoimmun. 2022;5:100143.
+26. Huang C, Li M, Liu Y, et al. Baseline Characteristics and Risk Factors of
+Pulmonary Arterial Hypertension in Systemic Lupus Erythematosus Patients.
+Medicine (Baltimore). 2016;95(10):e2761.
+27. Tarr T, Lakos G, Bhattoa HP, et al. Analysis of risk factors for the development
+of thrombotic complications in antiphospholipid antibody positive lupus patients.
+Lupus. 2007;16(1):39-45.
+28. Petri M. Epidemiology of the antiphospholipid antibody syndrome. J Autoimmun.
+2000;15(2):145-151.
+29. Petri M, Orbai AM, Alarcon GS, et al. Derivation and validation of the Systemic
+Lupus International Collaborating Clinics classification criteria for systemic lupus
+erythematosus. Arthritis Rheum. 2012;64(8):2677-2686.
+30. Miyakis S, Lockshin MD, Atsumi T, et al. International consensus statement on
+an update of the classification criteria for definite antiphospholipid syndrome
+(APS). J Thromb Haemost. 2006;4(2):295-306.
+31. Mannes M, Schmidt CQ, Nilsson B, et al. Complement as driver of systemic
+inflammation and organ failure in trauma, burn, and sepsis. Semin Immunopathol.
+2021;43(6):773-788.
+32. Lintner KE, Wu YL, Yang Y, et al. Early Components of the Complement
+Classical Activation Pathway in Human Systemic Autoimmune Diseases. Front
+Immunol. 2016;7:36.
+33. Kuhn A, Bonsmann G, Anders HJ, et al. The Diagnosis and Treatment of
+Systemic Lupus Erythematosus. Dtsch Arztebl Int. 2015;112(25):423-432.
+34. Tan EM, Cohen AS, Fries JF, et al. The 1982 revised criteria for the classification
+of systemic lupus erythematosus. Arthritis Rheum. 1982;25(11):1271-1277.
+35. Hochberg MC. Updating the American College of Rheumatology revised
+criteria for the classification of systemic lupus erythematosus. Arthritis Rheum.
+1997;40(9):1725.
+36. Inês L, Silva C, Galindo M, et al. Classification of Systemic Lupus Erythematosus:
+Systemic Lupus International Collaborating Clinics Versus American College of
+Rheumatology Criteria. A Comparative Study of 2,055 Patients From a RealLife, International Systemic Lupus Erythematosus Cohort. Arthritis Care Res
+(Hoboken). 2015;67(8):1180-1185.
+37. Selvananda S, Kan SL. Performance of the 2019 European League Against
+Rheumatism/American College of Rheumatology classification criteria for
+systemic lupus erythematosus in a multiethnic Malaysian cohort. Int J Rheum
+Dis. 2021;25(2):131-139.
+38. Ruperto N, Hanrahan LM, Alarcón GS, et al. International consensus for a
+definition of disease flare in lupus. Lupus. 2011;20(5):453-462.
+39. Petri M, Kim MY, Kalunian KC, et al. Combined oral contraceptives in women
+with systemic lupus erythematosus. N Engl J Med. 2005;353(24):2550-2558.
+40. Gladman DD, Ibañez D, Urowitz MB. Systemic lupus erythematosus disease
+activity index 2000. J Rheumatol. 2002;29(2):288-291.
+41. van Vollenhoven RF, Bertsias G, Doria A, et al. 2021 DORIS definition of
+remission in SLE: final recommendations from an international task force. Lupus
+Sci Med. 2021;8(1):e000538.
+42. Franklyn K, Lau CS, Navarra SV, et al. Definition and initial validation of a Lupus
+Low Disease Activity State (LLDAS). Ann Rheum Dis. 2015;75(9):1615-1621.
+43. Adamichou C, Bertsias G. Flares in systemic lupus erythematosus: diagnosis,
+risk factors and preventive strategies. Mediterr J Rheumatol. 2017;28(1):4-12.
+44. Szczęch J, Samotij D, Werth VP, et al. Trigger factors of cutaneous lupus
+erythematosus: a review of current literature. Lupus. 2017;26(8):791-807.
+45. Barbhaiya M, Costenbader KH. Ultraviolet radiation and systemic lupus
+erythematosus. Lupus. 2014;23(6):588-595.
+46. Sammaritano LR, Bermas BL, Chakravarty EE, et al. 2020 American College
+of Rheumatology Guideline for the Management of Reproductive Health in
+Rheumatic and Musculoskeletal Diseases. Arthritis Rheumatol. 2020;72(4):529556.
+47. Keeling SO, Vandermeer B, Medina J, et al. Measuring Disease Activity and
+Damage with Validated Metrics: A Systematic Review on Mortality and Damage
+in Systemic Lupus Erythematosus. J Rheumatol. 2018;45(10):1448-1461.
+48. Murimi-Worstell IB, Lin DH, Nab H, et al. Association between organ damage
+and mortality in systemic lupus erythematosus: a systematic review and metaanalysis. BMJ Open. 2020;10(5):e031850.
+49. Campar A, Farinha F, Vasconcelos C. Refractory disease in systemic lupus
+erythematosus. Autoimmun Rev. 2011;10(11):685-692.
+50. Fanouriakis A, Kostopoulou M, Alunno A, et al. 2019 update of the EULAR
+recommendations for the management of systemic lupus erythematosus. Ann
+Rheum Dis. 2019;78(6):736-745.
+51. Fairley JL, Oon S, Saracino AM, et al. Management of cutaneous manifestations
+of lupus erythematosus: A systematic review. Semin Arthritis Rheum.
+2019;50(1):95-127.
+52. Xie X, Song Y, Yang H, et al. Effects of transitional care on self-care, readmission
+rates, and quality of life in adult patients with systemic lupus erythematosus: a
+randomized controlled trial. Arthritis Res Ther. 2018;20(1):184.
+53. Fangtham M, Kasturi S, Bannuru RR, et al. Non-pharmacologic therapies for
+systemic lupus erythematosus. Lupus. 2019;28(6):703-712.
+54. Frade S, O’Neill S, Greene D, et al. Exercise as adjunctive therapy for systemic
+lupus erythematosus. Cochrane Database Syst Rev. 2023;4(4):CD014816.
+55. Ratanasiripong NT, Cahill S, Crane C, et al. The Outcomes of an e-Wellness
+Program for Lupus Patients in Thailand: A Participatory Action Research
+Approach. J Prev Med Public Health. 2023;56(2):154-163.
+56. Mosca M, Tani C, Carli L, et al. Glucocorticoids in systemic lupus erythematosus.
+Clin Exp Rheumatol. 2011;29(5 Suppl 68):S126-S129.
+57. Chen HL, Shen LJ, Hsu PN, et al. Cumulative Burden of Glucocorticoid-related
+Adverse Events in Patients with Systemic Lupus Erythematosus: Findings from
+a 12-year Longitudinal Study. J Rheumatol. 2018;45(1):83-89.
+58. Sciascia S, Mompean E, Radin M, et al. Rate of Adverse Effects of Medium-
+to High-Dose Glucocorticoid Therapy in Systemic Lupus Erythematosus:
+A Systematic Review of Randomized Control Trials. Clin Drug Investig.
+2017;37(6):519-524.
+59. Al Sawah S, Zhang X, Zhu B, et al. Effect of corticosteroid use by dose on the
+risk of developing organ damage over time in systemic lupus erythematosus-the
+Hopkins Lupus Cohort. Lupus Sci Med. 2015;2(1):e000066.
+60. Ruiz-Irastorza G, Ramos-Casals M, Brito-Zeron P, et al. Clinical efficacy and
+side effects of antimalarials in systemic lupus erythematosus: a systematic
+review. Ann Rheum Dis. 2010;69(1):20-28.
+61. Hill DD, Eudy AM, Egger PJ, et al. Impact of systemic lupus erythematosus
+disease activity, hydroxychloroquine and NSAID on the risk of subsequent organ
+system damage and death: analysis in a single US medical centre. Lupus Sci
+Med. 2021;8(1):e000446.
+62. Wakiya R, Kameda T, Nakashima S, et al. Efficacy and Safety of
+Hydroxychloroquine Therapy for Systemic Lupus Erythematosus Patients
+Depend on Administration Dose. Intern Med. 2020;59(17):2105-2112.
+63. Garg S, Unnithan R, Hansen KE, et al. Clinical Significance of Monitoring
+Hydroxychloroquine Levels in Patients With Systemic Lupus Erythematosus:
+A Systematic Review and Meta-Analysis. Arthritis Care Res (Hoboken).
+2021;73(5):707-716.
+64. Almeida-Brasil CC, Hanly JG, Urowitz M, et al. Retinal toxicity in a multinational
+inception cohort of patients with systemic lupus on hydroxychloroquine. Lupus
+Sci Med. 2022;9(1):1-6.
+65. Marmor MF, Kellner U, Lai TY, et al. Recommendations on Screening
+for Chloroquine and Hydroxychloroquine Retinopathy (2016 Revision).
+Ophthalmology. 2016;123(6):1386-1394.
+66. Mukwikwi ER, Pineau CA, Vinet E, et al. Retinal Complications in Patients with
+Systemic Lupus Erythematosus Treated with Antimalarial Drugs. J Rheumatol.
+2020;47(4):553-556.
+67. Li M, Zhao Y, Zhang Z, et al. 2020 Chinese Guidelines for the Diagnosis and
+Treatment of Systemic Lupus Erythematosus. Rheumatol Immunol Res.
+2020;1(1):5-23.
+68. Pego-Reigosa JM, Cobo-Ibanez T, Calvo-Alen J, et al. Efficacy and safety
+of nonbiologic immunosuppressants in the treatment of nonrenal systemic
+lupus erythematosus: a systematic review. Arthritis Care Res (Hoboken).
+2013;65(11):1775-1785.
+69. Miyawaki S, Nishiyama S, Aita T, et al. The effect of methotrexate on improving
+serological abnormalities of patients with systemic lupus erythematosus. Mod
+Rheumatol. 2013;23(4):659-666.
+70. Fernandes Moca Trevisani V, Castro AA, Ferreira Neves Neto J, et al.
+Cyclophosphamide versus methylprednisolone for treating neuropsychiatric
+involvement in systemic lupus erythematosus. Cochrane Database Syst Rev.
+2013;2013(2):CD002265.
+71. U.S. Food and Drug Administration. Prescribing Information: BENLYSTA
+(belimumab). Rockville, MD: USFDA; 2020.
+72. Singh JA, Shah NP, Mudano AS. Belimumab for systemic lupus erythematosus.
+Cochrane Database Syst Rev. 2021;2(2):CD010668.
+73. Kaegi C, Steiner UC, Wuest B, et al. Systematic review of safety and efficacy of
+belimumab in treating immune-mediated disorders. Allergy. 2021;76(9):2673-2683.
+74. Morand EF, Furie R, Tanaka Y, et al. Trial of Anifrolumab in Active Systemic
+Lupus Erythematosus. N Engl J Med. 2020;382(3):211-221.
+75. Merrill JT, Neuwelt CM, Wallace DJ, et al. Efficacy and safety of rituximab in
+moderately-to-severely active systemic lupus erythematosus: the randomized,
+double-blind, phase II/III systemic lupus erythematosus evaluation of rituximab
+trial. Arthritis Rheum. 2010;62(1):222-233.
+76. Cobo-Ibanez T, Loza-Santamaria E, Pego-Reigosa JM, et al. Efficacy and
+safety of rituximab in the treatment of non-renal systemic lupus erythematosus:
+a systematic review. Semin Arthritis Rheum. 2014;44(2):175-185.
+77. Li QY, Yu F, Zhou FD, et al. Plasmapheresis Is Associated With Better Renal
+Outcomes in Lupus Nephritis Patients With Thrombotic Microangiopathy: A
+Case Series Study. Medicine (Baltimore). 2016;95(18):e3595.
+78. Soyuoz A, Karadag O, Karaagac T, et al. Therapeutic plasma exchange for
+refractory SLE: A comparison of outcomes between different sub-phenotypes.
+Eur J Rheumatol. 2018;5(1):32-36.
+79. Monova D, Monov S. Treatment of active lupus nephritis: intravenous
+immunoglobulin G versus cyclophosphamide or azathioprine. BANTAO J.
+2006;4(2):13.
+80. Mulhearn B, Bruce IN. Indications for IVIG in rheumatic diseases. Rheumatology
+(Oxford). 2015;54(3):383-391.
+81. Guo Y, Tian X, Wang X, et al. Adverse Effects of Immunoglobulin Therapy. Front
+Immunol. 2018;9:1299.
+82. Weening JJ, D’Agati VD, Schwartz MM, et al. The classification of
+glomerulonephritis in systemic lupus erythematosus revisited. Kidney Int.
+2004;65(2):521-530.
+83. Ministry of Health Malaysia. Management of Chronic Kidney Disease. 2nd ed.
+Putrajaya: MOH 2018.
+84. Rovin BH, Furie R, Latinis K, et al. Efficacy and safety of rituximab in patients
+with active proliferative lupus nephritis: the Lupus Nephritis Assessment with
+Rituximab study. Arthritis Rheum. 2012;64(4):1215-1226.
+85. Furie R, Rovin BH, Houssiau F, et al. Two-Year, Randomized, Controlled Trial of
+Belimumab in Lupus Nephritis. N Engl J Med. 2020;383(12):1117-1128.
+86. Hannon CW, McCourt C, Lima HC, et al. Interventions for cutaneous
+disease in systemic lupus erythematosus. Cochrane Database Syst Rev.
+2021;3(3):CD007478.
+87. Thomas G, Cohen Aubart F, Chiche L, et al. Lupus Myocarditis: Initial
+Presentation and Longterm Outcomes in a Multicentric Series of 29 Patients. J
+Rheumatol. 2017;44(1):24-32.
+88. Mosca M, Tani C, Aringer M, et al. European League Against Rheumatism
+recommendations for monitoring patients with systemic lupus erythematosus in
+clinical practice and in observational studies. Ann Rheum Dis. 2010;69(7):12691274.
+89. Bertsias G, Ioannidis JP, Boletis J, et al. EULAR recommendations for the
+management of systemic lupus erythematosus. Report of a Task Force of
+the EULAR Standing Committee for International Clinical Studies Including
+Therapeutics. Ann Rheum Dis. 2008;67(2):195-205.
+90. Chen D, Xie J, Chen H, et al. Infection in Southern Chinese Patients with
+Systemic Lupus Erythematosus: Spectrum, Drug Resistance, Outcomes, and
+Risk Factors. J Rheumatol. 2016;43(9):1650-1656.
+91. Wu Q, Liu Y, Wang W, et al. Incidence and prevalence of tuberculosis in
+systemic lupus erythematosus patients: A systematic review and meta-analysis.
+Front Immunol. 2022;13:938406.
+92. Kim HA, Jeon JY, An JM, et al. C-reactive protein is a more sensitive and specific
+marker for diagnosing bacterial infections in systemic lupus erythematosus
+compared to S100A8/A9 and procalcitonin. J Rheumatol. 2012;39(4):728-734.
+93. Jung JY, Choi ST, Park SH, et al. Prevalence of osteoporosis in patients with
+systemic lupus erythematosus: A multicenter comparative study of the World
+Health Organization and fracture risk assessment tool criteria. Osteoporos
+Sarcopenia. 2020;6(4):173-178.
+94. Ballocca F, D’Ascenzo F, Moretti C, et al. Predictors of cardiovascular events
+in patients with systemic lupus erythematosus (SLE): a systematic review and
+meta-analysis. Eur J Prev Cardiol. 2015;22(11):1435-1441.
+95. Bernatsky S, Ramsey-Goldman R, Labrecque J, et al. Cancer risk in systemic
+lupus: an updated international multi-centre cohort study. J Autoimmun.
+2013;42:130-135.
+96. Clarke AE, Pooley N, Marjenberg Z, et al. Risk of malignancy in patients with
+systemic lupus erythematosus: Systematic review and meta-analysis. Semin
+Arthritis Rheum. 2021;51(6):1230-1241.
+97. Yeo J, Seo MS, Hwang IC, et al. An Updated Meta-analysis on the Risk of
+Urologic Cancer in Patients with Systemic Lupus Erythematosus. Arch Iran Med.
+2020;23(9):614-620.
+98. Schmajuk G, Yazdany J. Drug monitoring in systemic lupus erythematosus: a
+systematic review. Semin Arthritis Rheum. 2011;40(6):559-575.
+99. Gladman DD, Ibanez D, Ruiz I, et al. Recommendations for frequency of visits to
+monitor systemic lupus erythematosus in asymptomatic patients: data from an
+observational cohort study. J Rheumatol. 2013;40(5):630-633.
+100. Tektonidou MG, Andreoli L, Limper M, et al. EULAR recommendations for
+the management of antiphospholipid syndrome in adults. Ann Rheum Dis.
+2019;78(10):1296-1304.
+101. Unlu O, Zuily S, Erkan D. The clinical significance of antiphospholipid antibodies
+in systemic lupus erythematosus. Eur J Rheumatol. 2016;3(2):75-84.
+102. Cervera R, Piette JC, Font J, et al. Antiphospholipid syndrome: clinical and
+immunologic manifestations and patterns of disease expression in a cohort of
+1,000 patients. Arthritis Rheum. 2002;46(4):1019-1027.
+103. Arnaud L, Mathian A, Devilliers H, et al. Patient-level analysis of five international
+cohorts further confirms the efficacy of aspirin for the primary prevention of
+thrombosis in patients with antiphospholipid antibodies. Autoimmun Rev.
+2015;14(3):192-200.
+104. Ministry of Health Malaysia. Perinatal Care Manual. 4th ed. Putrajaya: MOH;
+2021.
+105. He WR, Wei H. Maternal and fetal complications associated with systemic lupus
+erythematosus: An updated meta-analysis of the most recent studies (20172019). Medicine (Baltimore). 2020;99(16):e19797.
+106. McDonald EG, Bissonette L, Ensworth S, et al. Monitoring of Systemic Lupus
+Erythematosus Pregnancies: A Systematic Literature Review. J Rheumatol.
+2018;45(10):1477-1490.
+107. Shaharir SS, Maulana SA, Shahril NS, et al. Adverse pregnancy outcomes
+among multi-ethnic systemic lupus erythematosus patients in Malaysia. Lupus.
+2020;29(10):1305-1313.
+108. Ferguson S, Trupin L, Yazdany J, et al. Who receives contraception counseling
+when starting new lupus medications? The potential roles of race, ethnicity,
+disease activity, and quality of communication. Lupus. 2016;25(1):12-17.
+109. Sánchez-Guerrero J, Uribe AG, Jiménez-Santana L, et al. A trial of contraceptive
+methods in women with systemic lupus erythematosus. N Engl J Med.
+2005;353(24):2539-2549.
+110. Levy RA, Vilela VS, Cataldo MJ, et al. Hydroxychloroquine (HCQ) in lupus
+pregnancy: double-blind and placebo-controlled study. Lupus. 2001;10(6):401404.
+111. Clowse MEB, Eudy AM, Balevic S, et al. Hydroxychloroquine in the pregnancies
+of women with lupus: a meta-analysis of individual participant data. Lupus Sci
+Med. 2022;9(1):e000651.
+112. Do SC, Rizk NM, Druzin ML, et al. Does Hydroxychloroquine Protect against
+Preeclampsia and Preterm Delivery in Systemic Lupus Erythematosus
+Pregnancies? Am J Perinatol. 2020;37(9):873-880.
+113. Seo MR, Chae J, Kim YM, et al. Hydroxychloroquine treatment during
+pregnancy in lupus patients is associated with lower risk of preeclampsia. Lupus.
+2019;28(6):722-730.
+114. Thaha M, Alsagaff MY, Dwi Suryantoro S, et al. High-dose vs low-dose steroid
+in pregnancy patients with systemic lupus erythematosus and lupus nephritis: A
+systematic review and meta-analysis. F1000Research. 2022;11:1-16.
+115. Tani C, Zucchi D, Haase I, et al. Impact of low-dose acetylsalicylic acid on
+pregnancy outcome in systemic lupus erythematosus: results from a multicentre
+study. Lupus Sci Med. 2022;9(1):e000714.
+116. Klein-Gittelman M, Lane JC, Lane J. Systemic Lupus Erythematosus. In: Petty
+R, Laxer R, Lindsley C, Wedderburn L, Cassidy J, editors. Textbook of pediatric
+rheumatology. 7th ed. Philadelphia, PA: Elsevier; 2016.
+117. Foster HE, Minden K, Clemente D, et al. EULAR/PReS standards and
+recommendations for the transitional care of young people with juvenile-onset
+rheumatic diseases. Ann Rheum Dis. 2017;76(4):639-646.
+118. Felsenstein S, Reiff AO, Ramanathan A. Transition of Care and Health-Related
+Outcomes in Pediatric-Onset Systemic Lupus Erythematosus. Arthritis Care Res
+(Hoboken). 2015;67(11):1521-1528.
+119. Son MB, Sergeyenko Y, Guan H, et al. Disease activity and transition
+outcomes in a childhood-onset systemic lupus erythematosus cohort. Lupus.
+2016;25(13):1431-1439.
+120. Clemente D, Leon L, Foster H, et al. Systematic review and critical appraisal
+of transitional care programmes in rheumatology. Semin Arthritis Rheum.
+2016;46(3):372-379.
+121. Furer V, Rondaan C, Heijstek MW, et al. 2019 update of EULAR recommendations
+for vaccination in adult patients with autoimmune inflammatory rheumatic
+diseases. Ann Rheum Dis. 2020;79(1):39-52.
+122. Adawi M, Bragazzi NL, McGonagle D, et al. Immunogenicity, safety and
+tolerability of anti-pneumococcal vaccination in systemic lupus erythematosus
+patients: An evidence-informed and PRISMA compliant systematic review and
+meta-analysis. Autoimmun Rev. 2019;18(1):73-92.
+123. Liao Z, Tang H, Xu X, et al. Immunogenicity and Safety of Influenza Vaccination
+in Systemic Lupus Erythematosus Patients Compared with Healthy Controls: A
+Meta-Analysis. PLoS One. 2016;11(2):e0147856.
+124. Jena A, Mishra S, Deepak P, et al. Response to SARS-CoV-2 vaccination in
+immune mediated inflammatory diseases: Systematic review and meta-analysis.
+Autoimmun Rev. 2022;21(1):102927.
+125. Larsen ES, Nilsson AC, Möller S, et al. Immunogenicity and risk of disease
+flare after a three-dose regimen with SARS-CoV-2 vaccination in patients
+with systemic lupus erythematosus: results from the prospective cohort study
+COVAC-SLE. Clin Exp Rheumatol. 2023;41(3):676-684.
+126. Mok CC, Ho LY, To CH. Long-term immunogenicity of a quadrivalent
+human papillomavirus vaccine in systemic lupus erythematosus. Vaccine.
+2018;36(23):3301-3307.
+127. Dhar JP, Essenmacher L, Dhar R, et al. The safety and immunogenicity of
+Quadrivalent HPV (qHPV) vaccine in systemic lupus erythematosus. Vaccine.
+2017;35(20):2642-2646.
+128. Mok CC, Chan KH, Ho LY, et al. Safety and immune response of a liveattenuated herpes zoster vaccine in patients with systemic lupus erythematosus:
+a randomised placebo-controlled trial. Ann Rheum Dis. 2019;78(12):1663-1668.
+129. American College of Rheumatology Ad Hoc Committee on Systemic Lupus
+Erythematosus Guidelines. Guidelines for Referral and Management of Systemic
+Lupus Erythematosus in Adults. . Arthritis Rheum. 1999;42(9):1785-1796.
+Appendix 1
+EXAMPLE OF SEARCH STRATEGY
+Clinical Question: What are the safe and effective pharmacological
+treatments in SLE?
+•
+Hydroxychloroquine
+1.
+LUPUS ERYTHEMATOSUS, SYSTEMIC/
+2.
+(systemic adj2 lupus erythematosus*).tw.
+3.
+sle.tw.
+4.
+1 or 2 or 3
+5.
+HYDROXYCHLOROQUINE/
+6.
+hydroxychloroquine.tw.
+7.
+hydroxychloroquine sulfate.tw.
+8.
+oxychloroquine.tw.
+9.
+plaquenil.tw.
+10. 5 or 6 or 7 or 8 or 9
+11.
+4 and 10
+12. limit 11 to (english language and humans and yr=”2009 -Current”)
+13. limit 12 to “systematic review”
+Appendix 2
+CLINICAL QUESTIONS
+1. Diagnosis and assessment
+• What are the risk factors for SLE?
+• What are the accurate investigations to diagnose and assess
+SLE?
+• What are the classification criteria for SLE?
+2. Treatment
+• What are the principles of treatment in SLE?
+• What are the safe and effective non-pharmacological treatments
+in SLE?
+ Patient education
+ Sun protection
+ Nurse-led care
+• What are the safe and effective pharmacological treatments in
+SLE?
+ Analgesics
+ Corticosteroids
+ Hydroxychloroquine and other antimalarial agents
+ Immunosuppressive agents
+ Biologics
+ Intravenous immunoglobulin
+ Plasma exchange
+• What are the safe and effective alternative and complementary
+medicine in SLE?
+• What are the safe and effective organ system-specific treatments
+in SLE?
+ Mucocutaneous
+ Musculoskeletal
+ Haematological
+ Neuropsychiatric
+ Cardio-respiratory
+ Renal
+3. Monitoring
+• What are the effective and safe monitoring in SLE?
+ Frequency and interval
+ Parameters
+ Co-morbidities
+- Cardiovascular
+- Infection
+- Osteoporosis
+- Malignancy
+ Drug adverse events and complications
+4. Special consideration
+• What are the effective and safe management for SLE in the
+following situations/groups:
+ APS (Antiphospholipid syndrome)
+ Pregnancy
+- Pre-pregnancy counseling
+- Contraception
+- Combined care
+- Lactation
+ Adolescents
+ Vaccination
+5. Referral
+• What are the referral criteria for SLE?
+ primary to secondary/tertiary
+ inter-subspecialty
+ urgent referral (red flags)
+Appendix 3
+2012 SLICC CLASSIFICATION CRITERIA FOR SLE
+Clinical Criteria
+1.
+Acute Cutaneous Lupus
+Including lupus malar rash (do not count if malar discoid), bullous
+lupus, toxic epidermal necrolysis variant of SLE, maculopapular lupus
+rash, photosensitive lupus rash in the absence of dermatomyositis
+OR subacute cutaneous lupus (nonindurated psoriaform
+and/or annular polycyclic lesions that resolve without scarring,
+although occasionally with post-inflammatory dyspigmentation or
+telangiectasias)
+2.
+Chronic cutaneous lupus
+Including classic discoid rash (localized (above the neck) or generalized
+(above and below the neck)), hypertrophic (verrucous) lupus, lupus
+panniculitis (profundus), mucosal lupus, lupus erythematosus
+tumidus, chillblains lupus, discoid lupus/lichen planus overlap
+3.
+Oral ulcers
+Palate, buccal, tongue
+OR nasal ulcers
+in the absence of other causes, such as vasculitis, Behcet’s disease,
+infection (herpesvirus), inflammatory bowel disease, reactive
+arthritis, and acidic foods
+4.
+Nonscarring alopecia
+Diffuse thinning or hair fragility with visible broken hairs in the
+absence of other causes such as alopecia areata, drugs, iron
+deficiency, and androgenic alopecia
+5.
+Synovitis
+Involving 2 or more joints, characterized by swelling or effusion
+OR tenderness in 2 or more joints and at least 30 minutes of morning
+stiffness
+6.
+Serositis
+Typical pleurisy for more than 1 day
+OR pleural effusions
+OR pleural rub
+Typical pericardial pain for more than 1 day (pain with recumbency
+improved by sitting forward)
+OR pericardial effusion
+OR pericardial rub
+OR pericarditis by electrocardiography in the absence of other
+causes, such as infection, uremia, or Dressler’s pericarditis
+7.
+Renal
+Urine protein-to-creatinine ratio (or 24-hour urine protein)
+representing 500 mg protein/24 hours
+OR red blood cell casts
+Clinical Criteria
+8.
+Neurologic
+Seizures, psychosis, mononeuritis multiplex in the absence of other
+known causes such as primary vasculitis, myelitis, peripheral or cranial
+neuropathy in the absence of other known causes such as primary
+vasculitis, infection, and diabetes mellitus, acute confusional state in
+the absence of other causes, including toxic/metabolic, uremia, drugs
+9.
+Haemolytic anaemia
+10. Leukopenia or lymphopenia
+Leukopenia: <4,000/mm3 at least once in the absence of other known
+causes such as Felty’s syndrome, drugs, and portal hypertension
+OR Lymphopenia <1,000/mm3 at least once in the absence of other
+known causes such as corticosteroids, drugs, and infection
+11. Thrombocytopenia
+Thrombocytopenia <100,000/mm3) at least once in the absence
+of other known causes such as drugs, portal hypertension, and
+thrombotic thrombocytopenic purpura
+Immunologic Criteria
+1.
+ANA
+level above laboratory reference range
+2.
+Anti-dsDNA antibody
+level above laboratory reference range (or 2-fold the reference
+range if tested by ELISA)
+3.
+Anti-Sm
+Presence of antibody to Sm nuclear antigen
+4.
+Antiphospholipid antibody
+Positive test result for lupus anticoagulant, false-positive test result
+for rapid plasma regain, medium- or high-titer anticardiolipin antibody
+level (IgA, IgG, or IgM), positive test result for anti-β2-glycoprotein 1
+(IgA, IgG, or IgM)
+5.
+Low complement
+Low C3, low C4, low CH50
+6.
+Direct Coombs’ test
+in the absence of hemolytic anemia
+Source: Petri M, Orbai AM, Alarcón GS, et al. Derivation and validation of the
+Systemic Lupus International Collaborating Clinics classification criteria for
+systemic lupus erythematosus. Arthritis Rheum. 2012;64(8):2677-2686.
+Appendix 4
+2019 EULAR/ACR CLASSIFICATION CRITERIA FOR SLE
+*In an assay with ≥90% specificity against relevant disease controls
+§Additional criteria items within the same domain will not be counted.
+ANA = antinuclear antibodies; Anti-β2GP1 = anti-beta-2-glycoprotein 1; Anti-dsDNA =
+anti-double stranded deoxyribonucleic acid; C3 = complement 3; C4 = complement 4
+g = gram; h = hour; SLE = systemic lupus erythematosus
+Source: Aringer M, Costenbader K, Daikh D, et al. 2019 European League Against
+Rheumatism/American College of Rheumatology Classification Criteria for
+Systemic Lupus Erythematosus. Arthritis Rheumatol. 2019;71(9):1400-1412.
+Appendix 5
+SYSTEMIC LUPUS ERYTHEMATOSUS DISEASE ACTIVITY
+INDEX 2000 (SLEDAI-2K)
+Study No.: ________ Patient Name: _____________________Visit Date: _____________
+(Enter weight in SLEDAI Score column if descriptor is present at the time of the visit or in
+the preceding 10 days.)
+Weight
+SLEDAI
+Descriptor
+Definition
+Score
+Recent onset, exclude metabolic, infectious or
+drug causes.
+Altered ability to function in normal activity due
+to severe disturbance in the perception of reality.
+Include hallucinations, incoherence, marked
+loose
+associations,
+impoverished
+thought
+content, marked illogical thinking, bizarre,
+disorganized, or catatonic behavior. Exclude
+uremia and drug causes.
+Altered mental function with impaired orientation,
+memory, or other intellectual function, with rapid
+onset and fluctuating clinical features, inability to
+sustain attention to environment, plus at least 2 of
+the following: perceptual disturbance, incoherent
+speech, insomnia or daytime drowsiness, or
+increased or decreased psychomotor activity.
+Exclude metabolic, infectious, or drug causes.
+Retinal
+changes
+of
+SLE.
+Include
+cytoid
+bodies, retinal hemorrhages, serous exudate
+or hemorrhages in the choroid, optic neuritis.
+Exclude hypertension, infection, or drug causes.
+New onset of sensory or motor neuropathy
+involving cranial nerves.
+Severe, persistent headache; may be migrainous,
+but must be nonresponsive to narcotic analgesia.
+New onset of cerebrovascular accident(s).
+Exclude arteriosclerosis.
+Ulceration, gangrene, tender finger nodules,
+periungual infarction, splinter hemorrhages, or
+biopsy or angiogram proof of vasculitis.
+≥2 joints with pain and signs of inflammation (i.e.
+tenderness, swelling or effusion).
+Proximal muscle aching/weakness, associated
+with elevated creatine phosphokinase/aldolase
+or electromyogram changes or a biopsy showing
+myositis.
+Seizure
+Pscyhosis
+Organic brain
+syndrome
+Visual
+disturbance
+Cranial nerve
+disorder
+Lupus headache
+CVA
+Vasculitis
+Arthritis
+Myositis
+8
+8
+8
+8
+8
+8
+8
+8
+4
+4
+_______
+_______
+_______
+_______
+_______
+_______
+_______
+_______
+_______
+_______
+Weight
+SLEDAI
+Descriptor
+Definition
+Score
+TOTAL
+SLEDAI
+SCORE
+Source: Gladman DD, Ibañez D, Urowitz MB. Systemic Lupus Erythematosus
+Disease Activity Index 2000. J Rheumatol. 2002;29(2):288-291.
+Heme-granular or red blood cell casts.
+>5 red blood cells/high power field. Exclude
+stone, infection or other cause.
+>0.5 gram/2 hours
+>5 white blood cells/high power field. Exclude
+infection.
+Inflammatory type rash.
+Abnormal, patchy or diffuse loss of hair.
+Oral or nasal ulcerations.
+Pleuritic chest pain with pleural rub or effusion,
+or pleural thickening.
+Pericardial pain with at least 1 of the following:
+rub,
+effusion,
+or
+electrocardiogram
+or
+echocardiogram confirmation.
+Decrease in CH50, C3, or C4 below the lower
+limit of normal range for testing laboratory.
+Increased DNA binding by Farr assay above
+normal range for testing laboratory.
+>38°C. Exclude infectious cause.
+<100,000 platelets / x109/L, exclude drug
+causes.
+<3,000 white blood cells / x109/L, exclude drug
+causes.
+Urinary casts
+Hematuria
+Proteinuria
+Pyuria
+Rash
+Alopecia
+Mucosal ulcers
+Pleurisy
+Pericarditis
+Low complement
+Increases DNA
+binding
+Fever
+Thrombocytopenia
+Leukopenia
+4
+4
+4
+4
+2
+2
+2
+2
+2
+2
+2
+1
+1
+1
+_______
+_______
+_______
+_______
+_______
+_______
+_______
+_______
+_______
+_______
+_______
+_______
+_______
+_______
+Appendix 6
+BRITISH ISLES LUPUS ACTIVITY GROUP (BILAG) INDEX - 2004
+Centre: Date: Initials/Hosp No:
+• Only record manifestations/items due to SLE Disease Activity
+• Assessment refers to manifestations occurring in the last 4 weeks (compared
+with the previous 4 weeks)
+• TO BE USED WITH THE GLOSSARY
+Source: Yee CS, Cresswell L, Farewell V, et al. Numerical scoring for the BILAG-2004
+index. Rheumatology. 2010;49:1665-1669.
+Appendix 7
+MEDICATION IN SLE
+1.73m2
+BD = bis in die (twice a day); COX-2 = cyclooxygenase-2; CrCl = creatinine clearance; FBC = full blood count; g = gram; GI = gastrointestinal; IgA =
+immunoglobulin A; IgG = immunoglobulin G; IgM = immunoglobulin M; IV = intravenous; kg = kilogram; LFT = liver function test; m2 = square metre; mg =
+milligram; min = minute; mL = millilitre; NIH = National Institute of Health; OD = once a day; PO = per os (by oral); QID = quarter in die (four times a day);
+RP = renal profile; TDM = therapeutic drug monitoring; TDS = ter die sumendum (three times a day); UFEME = urine full examination and microscopic
+examination
+Source:
+1. Adams K, Bombardier C, van der Heijde DM. Safety of pain therapy during pregnancy and lactation in patients with inflammatory arthritis: a systematic
+literature review. J Rheumatol Suppl. 2012;90:59-61.
+2. Lam NC, Ghetu MV, Bieniek ML. Systemic lupus erythematosus: primary care approach to diagnosis and management. Am Fam Physician.
+2016;94(4):284-294.
+3. Micromedex Drug Reference [Mobile application software]. (Version 4.4.0).
+4. Petri M, Landy H, Clowse MEB, et al. Belimumab use during pregnancy: a summary of birth defects and pregnancy loss from belimumab clinical trials,
+a pregnancy registry and postmarketing reports. Ann Rheum Dis. 2023;82(2):217-225.
+5. Saavedra MÁ, Sánchez A, Morales S, et al. Azathioprine during pregnancy in systemic lupus erythematosus patients is not associated with poor fetal
+outcome. Clin Rheumatol. 2015;34(7):1211-1216.
+6. Sameh M, Elkossi M, Kim JJ, et al. Safety of Breastfeeding by Mothers on Immunosuppressive Medication for Renal Transplantation: Obsession, Myth
+and Truth. JOJ Uro and Nephron. 2017;3(3):555612.
+7. Sammaritano LR, Bermas BL, Chakravarty EE, et al. 2020 American College of Rheumatology Guideline for the Management of Reproductive Health
+in Rheumatic and Musculoskeletal Diseases. Arthritis Rheumatol. 2020;72(4):529-556.
+8. Schmajuk G, Yazdany J. Drug monitoring in systemic lupus erythematosus: a systematic review. Semin Arthritis Rheum. 2011;40(6):559-575.
+9. Xibillé-Friedmann D, Pérez-Rodríguez M, Carrillo-Vázquez S, et al. Clinical practice guidelines for the treatment of systemic lupus erythematosus by
+the Mexican College of Rheumatology. Reumatol Clin (English Edition). 2019;15(1):3-20.
+Appendix 8
+FREQUENCY OF MONITORING PATIENTS WITH SLE
+
+
+
+
+
+
+
+
+
+a
+a
+
+
+
+
+
+a
+
+
+a
+a
+a
+a
+a
+a
+a
+a
+a
+
+
+
+
+
+
+
+a
+
+a
+-
+-
+a
+
+a
+a
+a
+a
+
+a
+a
+a
+a
+a
+a
+a
+a
+a
+
+
+
+
+
+
+
+a
+
+a
+a
+-
+a
+a
+a,p
+a,p
+a
+a
+
+a
+a
+a
+a
+a
+a
+a
+a
+a
+Assessments
+At first
+visit
+Patients with
+active disease
+should be reviewed
+at least every
+1 - 3 months
+Patients with stable/
+low disease activity
+should be reviewed
+every 6 - 12 months
+Clinical
+History
+Vital signs (blood
+pressure, heart rate,
+weight)
+Clinical examination
+Drug review
+Blood tests
+Full blood count
+Renal profile
+Liver function test
+CRP
+ESR
+Bone profile (calcium,
+phosphate, ALP)
+Vitamin D3
+Immunology/serology
+ANA
+Anti-dsDNA
+C3/C4 levels
+aPL (LA, aCL, aβ2GPI)
+ENA (anti-Ro/La, anti-RNP,
+anti-Sm antibodies)
+Immunoglobulin A, G, M
+Direct Coombs’ test
+Urine
+UFEME
+Urine random protein:
+creatinine ratio OR
+24-hour urine protein
+Other investigation
+Culture
+Biopsy (e.g. skin, kidney)
+Neurophysiology (e.g.
+nerve conduction study,
+EMG)
+ECG
+Echocardiogram
+Imaging
+Chest X-ray
+Others (US, CT, MRI)
+ = indicated; a = when indicated; a,p = when indicated during pregnancy; - =
+not indicated; aβ2GP1 = anti-beta-2-glycoprotein 1 antibodies; aCL = anticardiolipin
+antibodies; ALP = alkaline phosphatase; ANA = antinuclear antibody; anti-dsDNA = antidouble stranded deoxyribonucleic acid; anti-RNP = antibodies to ribonucleoprotein;
+anti-Sm antibodies = anti-Smith antibodies; aPL = antiphospholipid antibody; BMI =
+body-mass index; C3 = complement 3, C4 = complement 4, CRP = C-reactive protein;
+CT = computerised tomography; ECG = electrocardiogram; EMG = electromyogram;
+ENA = extractable nuclear antigen; ESR = erythrocyte sedimentation rate; LA = lupus
+anticoagulants; MRI = magnetic resonance imaging; UFEME = urine full examination
+and microscopic examination; US = ultrasound
+Adapted from: Gordon C, Amissah-Arthur MB, Gayed M, et al. The British Society
+for Rheumatology guidelines for the management of systemic lupus
+erythematosus in adults. Rheumatology. 2018;57(1);e1-e45.
+
+
+
+
+
+
+a
+
+
+
+
+a
+
+
+
+Assessments
+At first
+visit
+Patients with
+active disease
+should be reviewed
+at least every
+1 - 3 months
+Patients with stable/
+low disease activity
+should be reviewed
+every 6 - 12 months
+Modifiable cardiovascular
+risk factors
+Hypertension
+Dyslipidaemia
+Diabetes mellitus
+High BMI
+Smoking/vaping
+Appendix 9
+SAPPORO CLASSIFICATION CRITERIA
+(REVISED CLASSIFICATION CRITERIA FOR THE
+ANTIPHOSPHOLIPID SYNDROME)
+Antiphospholipid syndrome (APS) is present if at least one of the clinical
+criteria and one of the laboratory criteria that follow are met*
+Clinical criteria
+1. Vascular thrombosis†
+One or more clinical episodes‡ of arterial, venous or small vessel
+thrombosis§, in any tissue or organ. Thrombosis must be confirmed
+by objective validated criteria (i.e. unequivocal findings of appropriate
+imaging studies or histopathology). For histopathologic confirmation,
+thrombosis should be present without significant evidence of
+inflammation in the vessel wall.
+2. Pregnancy morbidity
+(a) One or more unexplained deaths of a morphologically normal
+foetus at or beyond the 10th week of gestation, with normal
+foetal morphology documented by ultrasound or by direct
+examination of the foetus, or
+(b) One or more premature births of a morphologically normal
+neonate before the 34th week of gestation because of: (i)
+eclampsia or severe pre-eclampsia defined according to
+standard definitions, or (ii) recognised features of placental
+insufficiency¶, or
+(c) Three or more unexplained consecutive spontaneous
+abortions before the 10th week of gestation, with maternal
+anatomic or hormonal abnormalities and, paternal and
+maternal chromosomal causes excluded.
+In studies of populations of patients who have more than one type of
+pregnancy morbidity, investigators are strongly encouraged to stratify
+groups of subjects according to a, b or c above.
+Laboratory criteria**
+1.
+Lupus anticoagulant (LA) present in plasma, on two or more
+occasions at least 12 weeks apart, detected according to the
+guidelines of the International Society on Thrombosis and
+Haemostasis (Scientific Subcommittee on LAs/phospholipiddependent antibodies).
+2.
+Anticardiolipin (aCL) antibody of IgG and/or IgM isotypes in serum
+or plasma, present in medium or high titre (i.e. >40 GPL or MPL, or
+>the 99th percentile), on two or more occasions, at least 12 weeks
+apart, measured by a standardised ELISA.
+3.
+Anti-β2 glycoprotein-I antibody of IgG and/or IgM isotype in serum
+or plasma (in titre >the 99th percentile), present on two or more
+occasions, at least 12 weeks apart, measured by a standardised
+ELISA, according to recommended procedures.
+*Classification of APS should be avoided if less than 12 weeks or more than 5 years
+separate the positive aPL test and the clinical manifestations.
+†Coexisting inherited or acquired factors for thrombosis are not reasons for excluding
+patients from APS trials. However, two subgroups of APS patients should be
+recognised, according to: (a) the presence, and (b) the absence of additional risk
+factors for thrombosis. Indicative (but not exhaustive) such cases include: age
+(>55 in men and >65 in women), and the presence of any of the established risk
+factors for cardiovascular disease (hypertension, diabetes mellitus, elevated LDL or
+low HDL cholesterol, cigarette smoking, family history of premature cardiovascular
+disease,
+body-mass
+index
+≥30
+kg/m2,
+microalbuminuria,
+estimated
+GFR
+<60 mL/min), inherited thrombophilias, oral contraceptives, nephrotic syndrome,
+malignancy, immobilisation and surgery. Thus, patient who fulfil criteria should be
+stratified according to contributing causes of thrombosis.
+‡A thrombotic episode in the past could be considered as a clinical criterion, provided
+that thrombosis is proved by appropriate diagnostic means and that no alternative
+diagnosis or cause of thrombosis is found.
+§Superficial venous thrombosis is not included in the clinical criteria.
+¶Generally accepted features of placental insufficiency include: (i) abnormal or nonreassuring foetal surveillance test(s), e.g. a non-reactive non-stress test, suggestive
+of foetal hypoxemia, (ii) abnormal Doppler flow velocimetry waveform analysis
+suggestive of foetal hypoxaemia, e.g. absent end-diastolic flow in the umbilical artery,
+(iii) oligohydramnios, e.g. an amniotic fluid index of 5 cm or less, or (iv) a postnatal
+birth weight less than the 10th percentile for the gestational age.
+**Investigators are strongly advised to classify APS patients in studies into one of the
+following categories: I, more than one laboratory criteria present (any combination);
+IIa, LA present along; IIb, aCL antibody present alone; IIc, anti-beta-2-glycoprotein 1
+antibody present alone.
+Source: Miyakis S, Lockshin MD, Atsumi T, et al. International consensus statement
+on an update of the classification criteria for definite antiphospholipid
+syndrome (APS). J Thromb Haemost. 2006;4:295-306.
+Appendix 10
+RECOMMENDATIONS ON TYPES OF CONTRACEPTION FOR
+PATIENTS WITH SLE
+i) ACR-2020
+aPL = antiphospholipid antibody (persistent moderate-to-high-titre anticardiolipin
+or anti-β2-glycoprotein 1 antibody or persistent positive LA); IUDs = intrauterine
+devices (copper or progestin); SLE = systemic lupus erythematosus; DMPA = depot
+medroxyprogesterone acetate
+Source: Sammaritano LR, Bermas BL, Chakravarty EE, et al. 2020 American
+College of Rheumatology Guideline for the Management of Reproductive
+Health in Rheumatic and Musculoskeletal Diseases. Arthritis Rheumatol.
+2020;72(4);529-556.
+ii) WHO-2015
+C = continuation; CIC = combined injectable contraceptive; COC = combined oral contraceptive (pill); CU-IUD = copper-bearing intrauterine device; CVR
+= combined contraceptive vaginal ring; DMPA = depot medroxyprogesterone acetate; ETG = etonogestrel; I = initiation; LNG = levonorgestrel; LNG-IUD =
+levonorgestrel-releasing intrauterine device; NET-EN = norethisterone enanthate; P = combined contraceptive patch; POP = progestogen-only pill
+Source: WHO. Medical eligibility criteria for contraceptive use (Fifth edition). Geneva; WHO: 2015.
+LIST OF ABBREVIATIONS
+24hUP
+24-hour urine protein
+aCL
+anticardiolipin antibodies
+ACR
+American College of Rheumatology
+AE
+adverse event
+AGREE
+Appraisal of Guidelines for Research and Evaluation
+AIHA
+autoimmune haemolytic anaemia
+ALMS
+Aspreva Lupus Management Study
+ALP
+alkaline phosphatase
+ANA
+antinuclear antibodies
+anti-β2GP1
+anti-beta-2-glycoprotein 1
+anti-dsDNA
+anti-double stranded deoxyribonucleic acid
+anti-RNP
+antibodies to ribonucleoprotein
+anti-Sm
+anti-Smith
+anti-SSA
+anti-Sjögren’s-syndrome-related antigen A
+anti-SSB
+anti-Sjögren’s-syndrome-related antigen B
+aPL
+antiphospholipid antibodies
+APS
+antiphospholipid syndrome
+ARA
+American Rheumatism Association
+AZA
+azathioprine
+BAFF
+B-cell activating factor
+BD
+bis in die (twice a daily)
+BICLA
+British Isles Lupus Assessment Group-based Composite Lupus
+Assessment
+BILAG
+British Isles Lupus Activity Group
+BLISS
+Belimumab in Subjects with Systemic Lupus Erythematosus
+BLyS
+B-lymphocyte stimulator
+BMD
+bone mineral density
+BMI
+body-mass index
+BSR
+British Society for Rheumatology
+C3
+complement 3
+C4
+complement 4
+CI
+confidence interval
+CLASI
+Cutaneous Lupus Erythematosus Disease Area and Severity Index
+CLE
+cutaneous lupus erythematosus
+CNI
+calcineurin inhibitors
+COX-2
+cyclooxygenase-2
+CPG
+clinical practice guidelines
+CrCl
+creatinine clearance
+CRP
+C-reactive protein
+CT
+computed tomography
+CYC
+cyclophosphamide
+CV
+cardiovascular
+CVD
+cardiovascular disease
+DG
+development group
+DMPA
+depot medroxyprogesterone acetate
+DOAC
+direct oral anticoagulant
+DORIS
+Definition of Remission in SLE
+DNA
+deoxyribonucleic acid
+ECG
+electrocardiogram
+eGFR
+estimated glomerular filtration rate
+ELISA
+enzyme-linked immunosorbent assay
+EMG
+electromyogram
+ENA
+extractable nuclear antigens
+ESR
+erythrocyte sedimentation rate
+EULAR
+European Alliance of Associations for Rheumatology
+EULAR/ACR
+European Alliance of Associations for Rheumatology/American
+College of Rheumatology
+EXPLORER
+Exploratory Phase II/III SLE Evaluation of Rituximab
+FBC
+full blood count
+FRAX
+fracture risk assessment tool
+g
+gram
+GI
+gastrointestinal
+GRADE
+Grading Recommendations, Assessment, Development and Evaluation
+h
+hour
+HCQ
+hydroxychloroquine
+hpf
+high power field
+HPV
+human papillomavirus
+HR
+hazard ratio
+HRT
+hormone replacement therapy
+HTA
+health technology assessment
+HZ
+Herpes Zoster
+ICU
+intensive care unit
+IgA
+immunoglobulin A
+IgG
+immunoglobulin G
+IgM
+immunoglobulin M
+IIF
+indirect immunofluorescence
+IQR
+interquartile range
+IUD
+intrauterine device
+IV
+intravenous
+IVIG
+intravenous immunoglobulin
+kg
+kilogram
+LA
+lupus anticoagulant
+LDA
+low dose aspirin
+LFT
+liver function test
+LLDAS
+lupus low disease activity state
+LN
+lupus nephritis
+LUNAR
+Lupus Nephritis Assessment with Rituximab
+m2
+square metre
+MaHTAS
+Malaysian Health Technology Assessment Section
+MD
+mean difference
+mg
+milligram
+min
+minute
+mL
+millilitre
+MMF
+mycophenolate mofetil
+MRI
+magnetic resonance imaging
+mRNA
+messenger RNA
+MTX
+methotrexate
+MOH
+Ministry of Health
+NIH
+National Institutes of Health
+NPSLE
+neuropsychiatric SLE
+NSAID
+nonsteroidal anti-inflammatory drug
+OD
+once a day
+OR
+odds ratio
+PE
+plasma exchange
+PO
+per os (by oral)
+PGA
+Physician Global Assessment
+QID
+quarter in die (four times a day)
+RBC
+red blood cell
+RNA
+ribonucleic acid
+RC
+review committee
+RCT
+randomised controlled trial
+RP
+renal profile
+RR
+risk ratio
+SARS-CoV-2
+Severe Acute Respiratory Syndrome Coronavirus 2
+SDI
+SLICC/ACR Damage Index
+SF-36
+36-item Short Form Health Survey
+SIR
+standardised incidence ratio
+SLAM-R
+Systemic Lupus Activity Measure-Revised
+SELENA-SLEDAI Safety of Estrogens in Lupus Erythematosus: National Assessment
+- Systemic Lupus Erythematosus Disease Activity Index
+SLE
+systemic lupus erythematosus
+SLEDAI
+Systemic Lupus Erythematosus Disease Activity Index
+SLEDAI-2K
+Systemic Lupus Erythematosus Disease Activity Index 2000
+SLEPDAI
+Systemic Lupus Erythematosus Pregnancy Disease Activity Index
+SLICC
+Systemic Lupus International Collaborating Clinics
+SPF
+sun protection factor
+SRI
+SLE Responder Index
+TDM
+therapeutic drug monitoring
+TDS
+ter die sumendum (three times a day)
+TTP
+thrombotic thrombocytopenic purpura
+TULIP
+Treatment of Uncontrolled Lupus via the Interferon Pathway
+U.S.
+United States
+UFEME
+urine full examination and microscopic examination
+UPCR
+urine protein/creatinine ratio
+US
+ultrasound
+USPSTF
+U.S. Preventive Services Task Force
+VAS
+Visual Analogue Scale
+WBC
+white blood cell
+WHO
+World Health Organization
+ACKNOWLEDGEMENT
+The CPG DG members would like to express their gratitude and
+appreciation to the following for their contributions:
+• Panel of external reviewers who reviewed the draft technically
+• Technical Advisory Committee of CPG for their valuable input and
+feedback
+• HTA and CPG Council for approval of the CPG
+• Mr. Latif Abqari Nazeri and Ms. Rosazaddilah Azaddin for the
+retrieval of evidence
+• All those who have contributed directly or indirectly to the
+development of the CPG
+DISCLOSURE STATEMENT
+The panel members of both DG and RC had completed disclosure forms.
+None hold shares in pharmaceutical firms or act as consultants to such
+firms. Details are available upon request from the CPG Secretariat.
+SOURCE OF FUNDING
+The development of the CPG on Management of Systemic Lupus
+Erythematosus was supported mainly by the MoH Malaysia and partly
+by the Malaysian Society of Rheumatology.

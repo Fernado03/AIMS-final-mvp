@@ -1,0 +1,3318 @@
+4 CLINICAL
+PRACTICE
+‘ ‘GUIDELINES
+MANAGEMENT OF
+y MONARY ARTERIAL
+PAYPERIENSION (PAH)
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+STATEMENT OF INTENT
+These guidelines were developed to be guides for clinical practice, based
+on the best available evidence at the time of development. Adherence to
+these guidelines may not necessarily guarantee the best outcome in every
+case. Every health care provider is responsible for the management of his/
+her unique patient based on the clinical picture presented by the patient
+and the management options available locally.
+REVIEW OF THE GUIDELINES
+These guidelines have been issued in 2011 and will be reviewed in 2015 or
+sooner if new evidence becomes available.
+CPG Secretariat
+Health Technology Assessment Section
+Medical Development Division
+Ministry of Health Malaysia
+4th Floor, Block E1, Parcel E
+62590 Putrajaya
+Electronic version is available on the following websites:
+www.moh.gov.my
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+3
+PREFACE
+Pulmonary arterial hypertension (PAH) is defined as a group of diseases
+characterised by a progressive increase of pulmonary vascular resistance (PVR)
+leading to right ventricular failure and premature death. Untreated, it is a
+potentially devastating disease. However, the past decade has seen remarkable
+improvements in our understanding of the pathology associated with the
+condition and the development of PAH-specific therapies with the ability to
+alter the natural history of the disease. Indeed, the diagnosis, assessment
+and treatment of PAH is a rapidly evolving area, with changes occurring in the
+definition of the disease, screening and diagnostic techniques, staging and
+follow-up assessment, and a growing armamentarium of PAH-specific therapies.
+These new advances provide a significant opportunity for practitioners to detect
+and treat patients with PAH in a timely and effective manner, thereby improving
+overall mortality, morbidity, and quality of life associated with this disease. Our
+intention is to provide clear and concise descriptions of the new pathological
+classification and of the recent pathogenetic insights. The diagnostic process
+will be discussed in order to propose a logical sequence of investigations for
+aetiology identification, disease assessment and follow-up. Special emphasis
+will be devoted to an evidence-based treatment algorithm that is unique to
+Malaysia, yet in-line with internationally accepted guidelines.
+Dr Ashari Bin Yunus
+Consultant Respiratory Physician
+Chairperson, Guidelines Development Group
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+GUIDELINES DEVELOPMENT AND OBJECTIVE
+GUIDELINES DEVELOPMENT
+The development group for these guidelines consisted of cardiologists
+(adult and paediatric), pulmonologists, and cardio thoracic surgeons from
+the Ministry of Health and Institut Jantung Negara, Malaysia. This is the first
+edition of the PAH CPG. These guidelines have been issued in 2011 and will
+be reviewed in 2015 or sooner if new evidence becomes available.
+These guidelines provide:
+a) A description of Pulmonary Arterial Hypertension (PAH) which
+reflects the devastating nature of PAH that have crucial bearing on
+the patient’s management
+b) A description of the basic pathophysiology of PAH
+c) A brief discussion on the Dana Point Classification (2008) and WHO
+Functional Class Classification
+d) Guidance on the recognition of clinical features and diagnostic
+approach of PAH.
+e) An algorithm on treatment of PAH with available therapies locally
+f)
+A guide on PAH disease monitoring in accordance with dynamic
+changes with therapy or with disease progression
+g) A guide on management of PAH in congenital heart disease.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+5
+Literature search was carried out at the following electronic databases:
+PUBMED, Journal full text via OVID search engine, International Health
+Technology Assessment Website, Cochrane Database of Systemic Reviews
+(CDSR). In addition, the reference lists of all relevant articles retrieved were
+searched to identify further studies.
+The following MeSH terms or free text terms were used either singly or in
+combination:
+“Pulmonary Arterial Hypertension”, “Eisemengers”, “PAH-Connective
+Tissue Disease”,
+Searches were conducted on databases and literature up to 31 Dec 2010.
+This date should be considered the starting point for searching of new
+evidence for future updates to these guidelines.
+Reference was also made to 2 other PAH guidelines – American Heart
+Association/ American College of Cardiology (AHA/ACC) and European
+Society of Cardiology (ESC).
+The clinical questions were divided into major subgroups and members
+of the development group were assigned individual topics within these
+subgroups. The group members met a total of 20 times throughout the
+development of the guidelines. All literature retrieved were appraised by
+at least two members and presented in the form of evidence tables and
+discussed during group meetings. All statements and recommendations
+formulated were agreed by the development group. Where the evidence
+was insufficient the recommendations were derived by consensus of the
+development group.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+The evidence and recommendations were graded using the criteria below:
+CLASSES OF RECOMMENDATIONS AND LEVELS OF EVIDENCE
+CLASSES OF RECOMMENDATIONS
+Class I
+Evidence and/or general agreement that a given treatment or
+procedure is beneficial, useful and effective.
+Class II
+Conflicting evidence and/or a divergence of opinion about the
+usefulness/ efficacy of the given treatment or procedure.
+Class IIa
+Weight of evidence/ opinion is in favour of usefulness/ efficacy.
+Class IIb
+Usefulness/ efficacy is less established by evidence/ opinion.
+Class III
+Evidence or general agreement that the given treatment or
+procedure is not useful/ effective, and in some cases may be
+harmful.
+LEVELS OF EVIDENCE
+Levels of Evidence A
+Data derived from multiple randomized clinical trials or
+meta-analyses.
+Levels of Evidence B
+Data derived from a single randomized clinical trial or
+large non-randomized studies.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+7
+Levels of Evidence C
+Consensus of opinion of the experts and/ or small studies,
+retrospective studies and registries.
+Adapted from the American Heart Association/ AmericanCollege of
+Cardiology (AHA/ACC) and European Society of Cardiology (ESC)
+These guidelines were presented to the Technical Advisory
+Committee for Clinical Practice Guidelines, and the Health
+Technology Assessment and Clinical Practice Guidelines Council,
+Ministry of Health Malaysia for review and approval.
+OBJECTIVES
+GENERAL OBJECTIVES
+To provide evidence-based guidance in the diagnosis and
+management of PAH in adults and pediatric patients.
+SPECIFIC OBJECTIVES
+ To guide early diagnosis of PAH in adults and pediatric patients
+so as to enable referral of PAH cases for prompt specialist care
+ To guide in assessment of patients with suspected PAH
+ To provide guidance on appropriate and timely PAH
+management
+ To guide on monitoring response to treatment
+ To guide on specific aspects of managing PAH in congenital
+heart disease
+CLINICAL QUESTIONS
+1. What is the definition of PAH?
+2. What is the epidemiology and natural history of PAH?
+3. How is PAH diagnosis made?
+4. What are the investigations to evaluate PAH?
+5. How to manage patients with PAH?
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+6. What are the conventional and PAH specific therapies available?
+7. How to evaluate response to treatment?
+8. What are the key issues in managing PAH in congenital heart
+disease?
+TARGET POPULATION
+Adult and paediatric patients with PAH as defined in the updated clinical
+classification of Pulmonary Hypertension (PHT) from Dana Point, 2008.
+The inclusion criteria are idiopathic PAH, heritable PAH, Connective Tissue
+Disease associated PAH and Congenital Heart Disease associated PAH. The
+other types of PAH are excluded.
+TARGET GROUP/USER
+These guidelines are applicable to physicians, cardiologists (paediatric and
+adult), pulmonologists, rheumatologists, critical care providers and primary
+care doctors involved in treating patients with PAH.
+HEALTHCARE SETTINGS
+Both outpatient and inpatient settings, in secondary and tertiary healthcare.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+9
+Proposed Clinical indicators for quality management
+i.
+Exercise Capacity – 6 Minute Walk Distance
+Percentage of
+Number of PAH patients who show
+PAH patients
+improvement in 6MWD
+who show =
+_______________________________ x 100%
+improvement in
+Total number of PAH patients
+serial 6MWD*
+tested with 6MWD
+*Serial 6MWD at baseline and after 3 to 6 months post treatment
+ii.
+Survival Rate
+2 year survival
+Number of PAH patients on therapy alive
+rate on therapy * =
+_________________________________ x 100%
+Total number of PAH patients initiated on therapy
+* Therapy for PAH initiated at least 2 years earlier
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+CLINICAL PRACTICE GUIDELINES TASK FORCE
+GUIDELINES DEVELOPMENT GROUP
+CHAIRPERSON
+DR. ASHARI BIN YUNUS
+Consultant Respiratory Physician
+Institut Perubatan Respiratori
+Kuala Lumpur
+MEMBERS(alphabetical order)
+DATUK DR. AIZAI AZAN ABD. RAHIM
+Consultant Cardiologist
+Institut Jantung Negara
+Kuala Lumpur
+DATO DR. AMIN ARIFF NURUDDIN
+Consultant Cardiologist
+Institut Jantung Negara
+Kuala Lumpur
+DATUK DR HJH AZIAH BT AHMAD MAHAYIDDIN
+Senior Consultant Respiratory Physician
+Institut Perubatan Respiratori
+Kuala Lumpur
+DATO’ DR. CHEW SOON PING @ DAVID CHEW
+Consultant Cardiologist
+Institut Jantung Negara
+Kuala Lumpur
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+11
+DR. GEETHA A/P KANDAVELLO
+Consultant Paediatric Cardiologist
+Institut Jantung Negara
+Kuala Lumpur
+MR. MOHD EZANI MD TAIB
+Consultant Cardiothoracic Surgeon & Deputy Head
+Institut Jantung Negara
+Kuala Lumpur
+DR MOHD NIZAM B MATBAH
+Consultant Paediatric Cardiologist
+Hospital Sultanah Aminah
+Johor Bahru, Johor
+DR WONG NGIE LIONG, MARTIN
+Consultant Paediatric Cardiologist
+Hospital Umum Sarawak
+Kuching Sarawak
+EXTERNAL REVIEW
+The draft guidelines were reviewed by a panel of independent expert
+reviewers from both public and private sectors, who were asked to comment
+primarily on the comprehensiveness and accuracy of interpretation of the
+evidence supporting the recommendations in the guidelines.
+EXTERNAL REVIEWERS (alphabetical order)
+The following external reviewers provided feedback on the draft
+PROFESSOR DR CHEE KOK HAN
+Consultant Cardiologist
+Universiti Malaya Medical Centre
+Kuala Lumpur
+DATO’ DR HJ ABDUL RAZAK MUTTALIF
+Consultant Respiratory Physician
+Institut Perubatan Respiratori
+Kuala Lumpur
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+DR HOOI LAI NGOH
+Consultant Respiratory Physician
+Public Specialist Centre
+Penang
+DR HUNG LIANG CHOO
+Consultant Paediatrician
+Hospital Kuala Lumpur
+Kuala Lumpur
+DR MAZENI ALWI
+Consultant Paediatric Cardiologist
+Institut Jantung Negara
+Kuala Lumpur
+DR MOHD RAHAL YUSOFF
+Specialist in Internal Medicine
+Hospital Kuala Lumpur
+Kuala Lumpur
+DR NORZILA BT MOHAMED ZAINUDIN
+Consultant Paediatric And Paediatric Respiratologist
+Hospital Kuala Lumpur
+Kuala Lumpur
+DATO DR OMAR BIN ISMAIL
+Consultant Cardiologist
+Hospital Pulau Pinang
+Penang
+ASSOCIATE PROFESSOR DR OTEH MASKON
+Consultant Cardiologist
+Universiti Kebangsaan Malaysia Medical Centre
+Kuala Lumpur
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+13
+PROFESSOR DR ROSLINA A. MANAP
+Senior Consultant Respiratory Physician
+University Kebangsaan Malaysia Medical Centre
+Kuala Lumpur
+ASSOCIATE PROFESSOR DR SARGUNAN SOCKALINGAM
+Consultant Rheumatologist
+Universiti Malaya Medical Centre
+Kuala Lumpur
+DR SHARIFAH AINON
+Consultant Paediatric Cardiologist
+Hospital Pulau Pinang
+Penang
+PROFESSOR DR SIM-KUI HIAN
+Visiting Senior Consultant Cardiologist
+Department of Cardiology
+Sarawak General Hospital Heart Centre
+Kota Samarahan
+DR TANG SWEE PING
+Consultant Peadiatric Rheumatologist
+Hospital Selayang
+Selayang, Selangor
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+SUMMARY OF GUIDELINES
+SECTION A: PAH in adults
+SECTION B: PAH in children
+SECTION C: PAH in congenital heart disease
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+15
+Table of Contents
+Abbreviations and acronyms ........................................................................................ 18
+SECTION A
+1. Introduction .............................................................................................................. 21
+2. Clinical classification .................................................................................................. 22
+3. Pathogenesis ............................................................................................................. 24
+4. Epidemiology and natural history ............................................................................. 26
+5. Screening ................................................................................................................... 27
+6. Diagnosis ................................................................................................................... 28
+6.1. Clinical suspicion of PHT ................................................................................... 29
+6.1.1. Physical examination ................................................................................30
+6.2. Detection of PHT ............................................................................................... 30
+6.2.1. ECG ........................................................................................................... 31
+6.2.2. CXR ........................................................................................................... 31
+6.2.3. Transthoracic Doppler Echocardiography ................................................. 31
+6.3. PHT clinical class identification ......................................................................... 32
+6.3.1. PFTs ........................................................................................................... 32
+6.3.2. V/Q lung scanning ..................................................................................... 32
+6.3.3. Contrast enhanced spiral CT and pulmonary angiography ....................... 32
+6.4. PAH evaluation .................................................................................................. 34
+6.4.1. Blood tests and immunology .................................................................... 34
+6.4.2. Assessment of exercise capacity ............................................................... 34
+6.4.3. Right-heart catheterisation ....................................................................... 34
+7. Treatment ................................................................................................................. 36
+7.1. Conventional treatment .................................................................................... 36
+7.1.1. Oxygen (Level of evidence C) .................................................................... 36
+7.1.2. Anticoagulation (Level of evidence C) ...................................................... 36
+7.1.3. Digoxin (Level of evidence C) .................................................................... 37
+7.1.4 Diuretics (Level of evidence C) .................................................................. 37
+7.1.5. Calcium channel blockers (Level of evidence C)........................................ 38
+7.1.6. Vaccination (Level of evidence C).............................................................. 38
+7.1.7. Avoid Pregnancy (Level of evidence C)...................................................... 38
+7.1.8. Physical Activities (Level of evidence B).................................................... 39
+7.1.9. QoL and non-pharmacological treatment................................................. 39
+7.2. PAH-specific therapy.......................................................................................... 39
+7.2.1. Bosentan (Level of evidence A)................................................................. 39
+7.2.2. Ambrisentan (Level of evidence B)............................................................ 41
+7.2.3. Iloprost (Level of evidence B)..................................................................... 41
+7.2.4. Sildenafil (Level of evidence A).................................................................. 42
+7.2.5 Tadalafil (Level of evidence B).................................................................... 42
+7.3. PAH-specific therapy and survival...................................................................... 43
+7.4. Evaluation of response to treatment................................................................. 43
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+7.5. Combination therapy (Level of evidence B)....................................................... 44
+7.6. Atrial septostomy (Level of evidence C)............................................................ 45
+7.7. Transplantation (Level of evidence C)............................................................... 46
+8. Evidence-based treatment algorithm for Malaysia................................................... 46
+9. Future therapies........................................................................................................ 47
+SECTION B
+10. Introduction............................................................................................................ 49
+11. Definition and Classification.................................................................................... 49
+12. Diagnosis................................................................................................................. 50
+12.1 Clinical Suspicion of PHT................................................................................... 50
+12.2 Detection of PHT.............................................................................................. 51
+12.3 PHT clinical class identification........................................................................ 52
+13. Assessment of Severity of PAH................................................................................ 54
+13.1 Symptoms........................................................................................................ 54
+13.2 Non-invasive tests............................................................................................ 54
+13.3 Invasive Tests................................................................................................... 55
+14. Treatment of iPAH in Children................................................................................. 56
+14.1 Pharmacological Therapy................................................................................. 57
+14.1.1 Oxygen (Level of evidence C)................................................................... 57
+14.1.2 Anticoagulation (Level of evidence C)...................................................... 57
+14.1.3 Digoxin (Level of evidence C)................................................................... 57
+14.1.4 Diuretics (Level of evidence C)................................................................. 58
+14.1.5 Inotropes (Level of evidence C)................................................................ 58
+14.1.6 Calcium channel blockers (Level of evidence C)....................................... 58
+14.2 PAH Specific Therapy........................................................................................ 59
+14.2.1 Prostanoids ............................................................................................. 59
+14.2.1.1 Inhaled iloprost (Level of evidence B)............................................. 59
+14.2.2 Endothelin Receptor Antagonists............................................................ 59
+14.2.2.1 Bosentan (Level of evidence A)....................................................... 59
+14.2.2.2 Ambrisentan (Level of evidence B).................................................. 59
+14.2.3 Phosphodiesterase 5 Inhibitors............................................................... 59
+14.2.3.1 Sildenafil (Level of evidence A) ....................................................... 59
+14.3 Combination Therapy (Level of evidence B)..................................................... 60
+14.4 Follow up Assessment...................................................................................... 62
+14.5 Atrial septostomy (Level of Evidence C) .......................................................... 62
+14.6 Transplantation (Level of evidence C).............................................................. 64
+15. Treatment Algorithm .............................................................................................. 64
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+17
+SECTION C
+16. Introduction............................................................................................................. 66
+17. Clinical Manifestations............................................................................................. 66
+18. Assessment...............................................................................................................69
+19. Eisenmenger Syndrome............................................................................................71
+19.1 General principle................................................................................................71
+19.1.1 General Advice...........................................................................................71
+20. Supportive Therapy ..................................................................................................71
+20.1 Hyperviscosity and Phlebotomy........................................................................71
+20.2 Iron deficiency...................................................................................................72
+20.3 Bleeding complications.....................................................................................73
+20.4 Thrombosis and Thromboembolic Complications.............................................74
+20.5 Arrhythmias & Heart Failure..............................................................................75
+20.6 Perioperative Management of Non-cardiac Surgery.........................................75
+20.7 Nephropathy, Hyperuricaemia and Rheumatological Complications ..............76
+20.8 Infections...........................................................................................................77
+20.9 Pregnancy and Contraception...........................................................................77
+20.9.1 Contraception............................................................................................78
+20.10 Specific Disease Targeted Treatment...............................................................78
+20.11 Transplantation................................................................................................79
+Barriers and facilitators in implementing the guidelines................................................81
+Training, financial support..............................................................................................81
+Conclusions....................................................................................................................81
+REFERENCES
+References..................................................................................................................... 96
+ACKNOWLEDGEMENT.................................................................................................. 118
+DISCLOSURE STATEMENT............................................................................................. 118
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+Abbreviations and acronyms
+6MWT = six-minute walk test
+ACCF = American College of Cardiology Foundation Task Force
+ACCP = American College of Chest Physicians
+AHA = American Heart Association
+bd = twice-daily
+BMPR2 =bone morphogenetic protein receptor type II
+BNP = brain natriuretic peptide
+CCB = calcium channel blocker
+CHD = congenital heart disease
+CTD = connective tissue disease
+CTEPH = chronic thromboembolic pulmonary hypertension
+CXR = chest X-ray
+DLCO = diffusion capacity for carbon monoxide
+EMEA = European Medicines Agency
+EGF = epidermal growth factor
+ERA = endothelin receptor antagonist
+ESC = European Society of Cardiology
+ET = endothelin
+ETA = endothelin-A
+ETB = endothelin-B
+FDA = Food and Drug Administration
+FGF = fibroblast growth factor
+GPCR = G-protein-coupled receptor
+HIF-1 alpha = hypoxia inducible factor-1 alpha
+IGF-1 = insulin growth factor 1
+INR = International normalised ratio
+IPAH = idiopathic pulmonary arterial hypertension
+LTOT = long term oxygen therapy
+mPAP = mean pulmonary arterial hypertension
+NFAT = nuclear factor activating T lymphocytes
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+19
+NADPH = nicotinamide adenine dinucleotide phosphate
+NYHA = New York Heart Association
+PAH = pulmonary arterial hypertension
+PAP = pulmonary arterial pressure
+PCWP = pulmonary capillary wedge pressure
+PDGF = platelet-derived growth factor
+PFTs = pulmonary function tests
+PgI2 = prostacyclin
+PHT = pulmonary hypertension
+PTE = pulmonary thromboendarterectomy
+PVR = pulmonary vascular resistance
+QoL = quality of life
+RAE = right atrial enlargement
+RCT = randomised controlled trial
+RHC = right heart catheterisation
+RNP = ribonucleoprotein
+RVE = right ventricular enlargement
+tds = three-times daily
+TxA2 = thromboxane A2
+TRV = tricuspid regurgitant jet
+WHO = World Health Organisation
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+SECTION A:
+PAH IN ADULTS
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+21
+SECTION A
+1. Introduction
+Pulmonary arterial hypertension (PAH) is a group of diseases that affect the
+small pulmonary arteries, and which form a subset of those with pulmonary
+hypertension (PHT). PAH can be idiopathic, heritable, or associated with a
+number of conditions, such as connective tissue disease (CTD); congenital
+heart disease (CHD); portal hypertension; HIV infection, and exposure to
+toxins and drugs, including appetite suppressants. All of these conditions are
+characterised by sustained elevations in pulmonary arterial pressure (PAP),
+increased pulmonary vascular resistance (PVR) with progression to right-sided
+heart failure and ultimately death.1 Mortality rates in patients with PAH are
+high: historically, the median life expectancy of idiopathic PAH (IPAH) without
+specific therapy is 2.8 years from diagnosis, with 1-year, 3-year, and 5-year
+survival rates of 68%, 48% and 34%, respectively.2 In addition, most patients
+with PAH have a compromised quality of life (QoL) with limited physical activity
+and social function.3
+With our rapidly evolving knowledge of PAH, a number of drug classes have
+been approved based on positive results from randomised clinical trials (RCTs),
+namely prostanoids i.e. epoprostenol, iloprost, beraprost and treprostinil;
+phosphodiesterase-5-inhibitors(PDE-5) i.e. sildenafil and tadalafil; and
+endothelin (ET)-receptor antagonists (ERA) i.e. bosentan and ambrisentan. All
+of these drugs have the ability to significantly alter the natural course of the
+disease. However, not all these PAH-specific therapies are available in Malaysia,
+with patient’s access to these drugs limited by cost.
+These guidelines aim to highlight the challenges of diagnosing and managing
+PAH within the context of the Malaysian health care system. From a local
+perspective, this information may be more clinically useful, and provide a more
+accurate clinical hierarchy to guide treatment selection based on the weight of
+available evidence. It is hoped that these guidelines will provide a significant
+opportunity for practitioners to detect and treat patients with PAH in a timely
+and effective manner, thereby improving overall mortality, morbidity, and QoL.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+2. Clinical classification
+The classification of PHT has undergone a series of changes since the first criteria
+were proposed in 1973. Until recently, PHT was defined by a mean PAP (mPAP)
+>25 mmHg at rest or >30 mmHg with exercise. However, this classification was
+recently updated at the 4th World Symposium on PHT, which took place in
+Dana Point, California, in early 2008.4 PHT is now defined simply as a resting
+mPAP>25 mmHg, thereby eliminating the diagnostic criteria associated with
+exercise. The new Dana Point definition also suggests that a resting mPAP of 8
+to 20 mmHg should be considered as normal.4
+PHT is classified into five categories based in part on aetiology: PAH, PHT owing
+to left heart disease, PHT associated with lung diseases and/or hypoxemia, PHT
+resulting from chronic thrombotic or embolic disease, and PHT with unclear
+multi-factorial mechanisms (Table 1).4 The classification system aims to frame
+whether PHT is a manifestation of an underlying disease and provides an
+understanding of the context in which PHT occurs. PAH, a sub-category of PHT
+(the two terms are not synonymous), is defined as a mPAP >25 mmHg at rest
+with a normal pulmonary capillary wedge pressure (PCWP, ≤15 mmHg) and
+excluding pulmonary venous hypertension.4-7
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+23
+Table 1: Updated clinical classification of PHT (Dana Point 2008)125
+2. Pulmonary hypertension owing to left heart disease
+2.1. Systolic dysfunction
+2.2. Diastolic dysfunction
+2.3. Valvular disease
+3. Pulmonary hypertension owing to lung diseases and/or hypoxemia
+3.1. Chronic obstructive pulmonary disease
+3.2. Interstitial lung disease
+3.3. Other pulmonary diseases with mixed restrictive and obstructive pattern
+3.4. Sleep-disordered breathing
+3.5. Alveolar hypoventilation disorders
+3.6. Chronic exposure to high altitude
+3.7. Developmental abnormalities
+4. Chronic thromboembolic pulmonary hypertension (CTEPH)
+5. Pulmonary hypertension with unclear multifactorial mechanisms
+5.1. Haematologic disorders: myeloproliferative disorders, splenectomy
+5.2. Systemic disorders: sarcoidosis, pulmonary Langerhans cell histiocytosis:
+lymphangioleiomyomatosis, neurofibromatosis, vasculitis
+5.3. Metabolic disorders: glycogen storage disease, Gaucher disease, thyroid
+disorders
+5.4. Others: tumoral obstruction, fibrosing mediastinitis, chronic renal failure
+on dialysis
+1. Pulmonary arterial hypertension (PAH)
+1.1. Idiopathic PAH
+1.2. Heritable
+1.2.1. BMPR2
+1.2.2. Activin receptor-like kinase 1(ALK-1), endoglin (with or without
+hereditary haemorrhagic telangiectasia)
+1.2.3. Unknown
+1.3. Drug- and toxin-induced
+1.4. Associated with:
+1.4.1. Connective tissue disease
+1.4.2. HIV infection
+1.4.3. Portal hypertension
+1.4.4. Congenital heart diseases
+1.4.5. Schistosomiasis
+1.4.6. Chronic haemolytic anaemia
+1.5. Persistent pulmonary hypertension of the newborn
+1.6. Pulmonary veno-occlusive disease (PVOD) and/or pulmonary capillary
+hemangiomatosis (PCH)
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+Patients with confirmed PAH can be classified according to their ability to function
+and symptom severity. A modified version of the New York Heart Association
+(NYHA) functional class was adopted by the World Health Organisation (WHO)
+in 1998 to facilitate the evaluation of patients with PAH (Table 2).8 Functional
+class assessments are an important prognostic tool for clinicians.2, 9, 10 However,
+the WHO classification system is based almost entirely on symptoms, and it is
+worth noting that wide variations in clinicians’ assessment of PAH can occur.11
+Table 2: WHO classification of functional status in patients with PHT
+modified from New York Heart Association classification
+Class I
+Patients with PHT but without resulting limitation of physical
+activity. Ordinary physical activity does not cause undue
+dyspnoea or fatigue, chest pain, or near syncope.
+Class II
+Patients with PHT resulting in slight limitation of physical activity.
+They are comfortable at rest. Ordinary physical activity causes
+undue dyspnoea or fatigue, chest pain, or near syncope.
+Class III
+Patients with PHT resulting in marked limitation of physical
+activity. They are comfortable at rest. Less-than-ordinary physical
+activity causes undue dyspnoea or fatigue, chest pain, or near
+syncope.
+Class IV
+Patients with PHT with inability to carry out any physical activity
+without symptoms. These patients manifest signs of right heart
+failure. Dyspnoea and/or fatigue may even be present at rest.
+Discomfort is increased by any physical activity.
+3. Pathogenesis
+Under normal conditions, the pulmonary circulation is a low-pressure (mPAP
+12-16 mmHg), high-capacity circuit. Healthy individuals can accommodate up
+to a four-fold rise from the resting cardiac output with little increase in PAP, due
+to distensibility of the thin-walled pulmonary vasculature and to recruitment of
+vessels that are normally closed when at rest.12 The excess capacity is such that
+approximately 70% of the vascular bed must be lost before there is an increase
+in resting PAP.12
+Most forms of PAH share a common pathophysiology which includes
+pulmonary vasoconstriction, remodeling of the pulmonary vessel wall
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+25
+characterised by intimal thickening, medial hypertrophy and, in advanced
+disease, thrombosis in situ.13-15 A single primary cause remains elusive. One
+mechanism is believed to involve endothelial dysfunction, resulting in over
+expression of ET-1.16 Endothelial dysfunction also reduces the synthesis of nitric
+oxide and prostacyclin (PgI2), along with over-expression of vasconstrictors
+such as thromboxane A2 (TxA2).17, 18 These factors work in concert, impairing
+vasodilatory responses and exacerbating the dysfunctional vasoresponses
+caused by elevated ET levels.15, 17-19 Other important pathways in the process
+of pulmonary vascular remodeling include changes in potassium channel
+expression, activation of vascular elastases, and increased expression of
+inflammatory chemokines.20 Various growth and transcription factors have also
+been postulated to be involved. These including serotonin21, platelet-derived
+growth factor (PDGF), fibroblast growth factor (FGF), insulin growth factor-1
+(IGF-1), epidermal growth factor (EGF), hypoxia inducible factor-1 alpha (HIF-1
+alpha) and nuclear factor activating T lymphocytes (NFAT).22, 23
+Genetic factors play an important role in the development of PAH. Mutation
+of the Bone Morphogenetic Protein Receptor Type II (BMPR2) gene has been
+identified in approximately 70% of patients with familial PAH and 25% or less
+of individuals with IPAH without family history.24 However, the relationship of
+this gene mutation to the broad range of associated causes of PAH remains
+unknown, and not all individuals carrying the BMPR2 mutation develop PAH. A
+subject who possesses the mutation has a 10% to 20% lifetime risk of acquiring
+PAH, while an individual without the mutation has a lifetime risk of PAH no
+different to the general population.25
+Despite the multitude of perturbations that have been demonstrated in clinical
+PAH as well as in animal models of PHT, it remains unclear which are ‘causes’
+versus consequences of this disorder. Regardless, the end result includes
+increased vasoconstriction, smooth muscle cell proliferation, decreased
+vasodilation, and fibrotic changes in medium- to small-sized pulmonary
+arteries.13-15 Both vasoconstrictive and hypertrophic changes lead to increased
+PVR, increasing the workload of the right ventricle. Initially, the right ventricle
+compensates to maintain adequate pulmonary flow, but as the increased
+workload causes the right ventricle to dilate, and eventually fails. Symptoms
+such as dyspnoea and fatigue appear, initially on exertion. Eventually and often
+suddenly, the right ventricle decompensates and right heart failure ensues.26
+Death occurs as a result of end-stage right heart failure or arrhythmia.27
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+4. Epidemiology and natural history
+In 1981, the National Heart, Lung, and Blood Institute of the National Institute
+of Health (NIH) created a national registry of patients with PAH.28 From this
+study it was concluded that the incidence of primary PAH (now referred to
+as IPAH) was 1-2 cases per million population. In the following 25 years, our
+understanding of PAH has significantly improved and more recent estimates of
+PAH in the general community vary from 5 to 52 cases per million population.29,
+30 Furthermore, it is now recognised that IPAH may manifest in both genders
+and all ages. During childhood, the condition affects both genders equally.1
+After puberty however, detection is more frequent in females (approximately
+2:1 ratio).31, 32
+For secondary causes, PAH is associated with scleroderma in 4.9% to 38.6% of
+patients33-37, a condition which itself, has a point prevalence of between 30.8
+and 286 cases per million population.27
+The prevalence of PAH within Asian communities has not been specifically
+addressed. However, it is likely that more patients will come to the attention of
+clinicians as a result of awareness and greater access to medical care.
+The natural history of IPAH has been well documented.2 Survival for patients
+with PAH associated with the scleroderma spectrum of diseases appears to
+be worse than for IPAH, and the untreated 2-year survival rate may be as low
+as 40%.38 With the advent of PAH-specific therapy, more recent registry data
+indicate that the one year mortality rates in patient with IPAH and connective
+tissue disease associated PAH (CTD-PAH) have dropped to approximately 12%
+- 15%.29, 39, 40
+Predictors of poor prognosis include advanced functional class (IV)2, 9, 10 and poor
+exercise capacity (<300m) as measured by the six-minute walk test (6MWT).10,
+41, 42 Several investigators have demonstrated the important prognostic
+value of cardiopulmonary haemodynamics on survival, namely mPAP, mRAP
+(>20 mmHg) and CI (<2.0 L/min/m2).2, 9, 10 Significant right ventricular (RV)
+dysfunction43, 44 and elevated levels of brain natriuretic peptide (BNP)45 also
+appear to be independent predictors of survival.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+27
+5. Screening
+The availability of new therapies that have been shown to slow or prevent
+progression of PAH has caused a growing interest among physicians to diagnose
+PAH at an early stage. High risk conditions are shown in Table 3. The American
+College of Chest Physicians (ACCP) Consensus Statement recommends periodic
+Doppler echocardiography as part of a screening programme in patients with
+scleroderma because of the relatively high detection rates in this cohort.25
+Patients with more than one family member with PAH related to a mutation in
+the BMPR2 might be considered for genetic testing, since a negative test would
+imply that there is no higher than normal risk of developing PAH. However,
+any test should be preceded by extensive family and genetic counselling.46
+Other potential causes of PAH (e.g., previous use of appetite suppressants, HIV
+infection, other CTDs), do not warrant routine screening.
+Table 3: Patients at risk of developing PAH46
+Patient characteristics
+Risk profile
+Patients with known genetic mutations
+predisposing to PAH
+20% chance of developing PAH
+First degree relatives in a FPAH family
+10% chance of developing PAH
+Scleroderma spectrum of disease
+27% prevalence of PAH (RSVP >40
+mmHg)
+Portal hypertension in patients considered
+for liver transplantation
+5% prevalence of PAH (mPAP >25
+mmHg and PVR >3.0 U)
+Congenital heart disease with systemic to
+pulmonary shunts
+Likely approximately 100% in high
+flow, non-restrictive L-R shunts
+Use of flenfluramine appetite suppressants
+(>3 months)
+Prevalence of 136/million users
+based on odds ratio of 23 times
+background
+HIV infection
+Prevalence 0.5/100
+Sickle cell disease
+Prevalence 9.0/100 (TRV >3.0)
+PHT, pulmonary hypertension; PAH, pulmonary arterial hypertension; FPAH, familial
+pulmonary arterial hypertension; RVSP right ventricular systolic pressure; mPAP, mean
+pulmonary arterial pressure; PVR, pulmonary vascular resistance; L-R, left-to right; HIV,
+human immunodeficiency virus; TRV, tricuspid regurgitation velocity; RHC, right heart
+catheterisation.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+6. Diagnosis
+The diagnosis of PAH is, in part, through the exclusion of other diseases. It
+requires a series of investigations that are intended to make the diagnosis,
+clarify the clinical class of PAH, the type of PAH and to evaluate the degree of
+functional and haemodynamic impairment. Formal guidelines and consensus
+documents have been published by the European Society of Cardiology (ESC)5,
+the National Pulmonary Hypertension Centres of the UK and Ireland47, the
+ACCP6, 25, 48 and the American College of Cardiology Foundation Task Force
+(ACCF)/American Heart Association (AHA).49 In addition, systemic sclerosis
+groups have published proposed assessment pathways for the detection of PAH
+in this cohort.26For practical purposes it can be useful to adopt a sequential
+approach that includes four stages5 as follows:
+I. Clinical suspicion of PHT
+•
+Symptoms, physical examination and incidental findings.
+II. Detection of PHT
+•
+Electrocardiogram, chest X-ray and Doppler echocardiography.
+III. PHT clinical class identification
+•
+Pulmonary
+function,
+ventilation/perfusion
+scans,
+computerised tomography (CT), and pulmonary angiography.
+IV. PAH evaluation
+•
+Type,
+functional
+capacity,
+and
+cardiopulmonary
+haemodynamics.
+The approach to diagnosis is summarised in Figure 1.5, 49
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+29
+Figure 1: Diagnostic approach to PAH (adapted from McLaughlin et al.,49 and
+Galie et al.5)
+6MWT , 6-minute walk test; CT, computerised tomography; CXR, chest X-ray;
+ECG, electrocardiogram; HIV, human immunodeficiency virus screening; PAH,
+pulmonary arterial hypertension; PFT, pulmonary function test; PH, pulmonary
+hypertension; RHC, right heart catheterisation; VQ Scan, ventilation-perfusion
+scintigram.
+6.1. Clinical suspicion of PHT
+In the initial stages, the most common symptoms of PAH include breathlessness,
+fatigue and near syncope.28 Since these symptoms are non-specific, PAH is
+often overlooked or under-recognised until its later, more advanced stages
+(such as the onset of right heart failure).This pattern of presentation may also
+be responsible for underestimating the true prevalence of the disease.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+The clinical suspicion of PHT should arise in any case of breathlessness without
+overt signs of specific heart or lung disease or in patients with underlying lung
+or heart disease whenever there is increasing dyspnoea unexplained by the
+underlying disease itself.5, 47 Clinicians should also be alerted by the presence of
+symptoms in patients with conditions that can be associated with PAH such as
+CTD, portal hypertension, HIV infection and CHDs with systemic-to-pulmonary
+shunts.
+6.1.1. Physical examination
+The likelihood of PAH is increased when certain findings are present on physical
+examination. Notable findings include, a left parasternal heave produced by
+the impulse of the hypertrophied right ventricle, an accentuated pulmonary
+component of the second heart sound (S2), pansystolic murmur of tricuspid
+regurgitation, diastolic murmur of pulmonary insufficiency, right ventricular
+S3, jugular vein distention, hepatomegaly, peripheral oedema, ascites and cool
+extremities.25, 48 However, the absence of these findings does not exclude PAH.
+PAH may also be associated with a variety of comorbid conditions. Therefore,
+past medical history and symptomatic evidence of a related illness should be
+considered. Potential exposure to toxic agents should be explored, including
+previous use of appetite suppressants and chemotherapy agents (e.g.,
+mitomycin-C, carmustine, etoposide, cyclophosphamide and bleomycin).
+Known exposure to HIV infection, and a history of pulmonary embolism or
+deep vein thrombosis should also be considered.26 Orthopnea and paroxysmal
+nocturnal dyspnea suggest elevated pulmonary venous pressure and pulmonary
+congestion due to left-sided cardiac disease. Raynaud phenomenon, arthralgias,
+or swollen hands and other symptoms of CTD in the setting of dyspnoea should
+raise the possibility of PAH related to CTD. A history of snoring or apnoea
+provided by the patient’s partner warrants evaluation for sleep-disordered
+breathing as a potential causative or contributory factor.25
+6.2. Detection of PHT
+To confirm the diagnosis of PHT, several investigations are required, namely
+an electrocardiogram (ECG), chest X-ray (CXR) and transthoracic Doppler
+echocardiogram.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+31
+6.2.1. ECG
+ECG changes associated with PAH include right ventricular hypertrophy and
+right axis deviation in 87% and 79% of patients, respectively.25, 48 The ECG lacks
+sufficient sensitivity to serve as an effective screening tool for PAH, and it is
+important to note that a normal ECG does not exclude the presence of severe
+PHT.
+6.2.2. CXR
+In the majority of patients with mild PAH, a CXR is normal. In more advanced
+disease, signs suggestive of PAH include enlarged main and hilar pulmonary
+arterial shadows with concomitant attenuation of peripheral pulmonary
+vascular markings (‘pruning’). Right ventricular enlargement is often detected
+by impingement of the anteriorly situated right ventricle silhouette into the
+retrosternal clear space on the lateral CXR.25, 48
+6.2.3. Transthoracic Doppler Echocardiography
+Doppler echocardiography is the most useful non-invasive tool and should be
+employed in patients with suspected PHT to assess pulmonary artery systolic
+pressure (PASP), right ventricular enlargement (RVE), right atrial enlargement
+(RAE) and RV dysfunction.25, 48 An adequate Doppler signal from the
+tricuspid regurgitation jet is required to estimate PASP and can be obtained
+in approximately 75% of patients.5 PASP is equivalent to right ventricular
+systolic pressure (RVSP) in the absence of pulmonary outflow obstruction.
+RVSP is estimated by measurement of the systolic regurgitant tricuspid flow
+velocity v(m/s) and an estimate of RAP applied in the formula: RVSP = 4v2 + RAP
+(mmHg). The new DanaPoint guidelines recognise that PASPs are dependant
+on age, gender and body mass index. In general, however, a tricuspid flow
+velocity >2.8 m/s and a tricuspid insufficiency peak gradient ≥31 mmHg at
+rest are considered suggestive of PHT.50 It should be noted that, using this
+definition, a number of false positive diagnoses can be anticipated especially in
+aged subjects and confirmation with RHC is required in symptomatic patients.
+To exclude PHT due to left-heart disease, left ventricular systolic and diastolic
+function, and valve morphology and function should also be assessed. Finally,
+echocardiography with contrast should be used to identify or rule out PAH due
+to CHD (e.g., abnormal morphology; shunt).
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+6.3. PHT clinical class identification
+Once PHT is detected, identification of associated aetiology by major classes
+(Table 1)4 is required. This will be guided by clinical circumstances and may
+include pulmonary function tests (PFTs), ventilation and perfusion (V/Q) lung
+scanning, in addition to the Doppler echocardiography measures outlined
+above. Additional tests, such as high resolution CT, spiral CT and pulmonary
+angiography may also be required. (Table 4)
+6.3.1. PFTs
+Although lung function abnormalities have been described in association with
+PAH they are generally mild and unlikely to be the primary cause of symptoms.
+PFTs are therefore used to exclude significant lung disease. The exception is
+a marked impairment in DLCO associated with systemic sclerosis. The DLCO of
+20% of patients with limited systemic sclerosis is below normal; however, a
+DLCO of <55% of predicted increases the likelihood of the presence or future
+development of PAH.25, 48
+6.3.2. V/Q lung scanning
+V/Q lung scans should be performed to rule out chronic thromboembolic
+pulmonary hypertension (CTEPH) - a potentially curable cause of PHT.25, 48 Patients
+with PHT who have normal V/Q scans are unlikely to have chronic pulmonary
+embolism and more likely to have IPAH. In three studies, V/Q scanning showed
+sensitivity of 90% to 100% with a specificity of 94% to 100% for distinguishing
+between IPAH and CTEPH. A positive V/Q scan in patients with CTEPH generally
+shows one or more segmental-sized or larger mismatched perfusion defects
+and warrants pulmonary angiography for definitive diagnosis.25, 48
+6.3.3. Contrast enhanced spiral CT and pulmonary angiography
+Contrast enhanced spiral CT is indicated in PHT patients when the V/Q lung
+scintigraphy shows segmental or sub-segmental defects of perfusion with
+normal ventilation. Although a V/Q scan is better at ruling out CTEPH, a common
+practice has been to subject patients to CT pulmonary angiography to assess
+for pulmonary embolism. Typical findings of pulmonary embolism include
+complete occlusion of pulmonary arteries, eccentric filling defects consistent
+with thrombi, recanalisation, stenoses or webs.5
+Pulmonary angiography may be useful to confirm CTEPH and assess potential
+operability for pulmonary thromboendarterectomy.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+33
+Table 4: Specific tests to be considered when specific
+underlying cause is suspected
+Causes
+Test
+Pulmonary hypertension owing to
+lung diseases and/or hypoxia
+Lung function test, high resolution CT thorax,
+sleep study, lung biopsy
+PAH associated with connective
+tissue diseases
+Anti-ds DNA, rheumatoid factor, extractable
+nuclear antigen, anti-centromere antibody,
+anti SCL70, anti-RNP, complement levels
+PAH associated with portal
+hypertension
+Hepatitis viral serology, abdominal ultrasound
+(liver cirrhosis, portal hypertension)
+Chronic thromboembolic
+pulmonary hypertension
+Thrombophilia screen
+•
+Protein C, protein S, antithrombin III,
+lupus anticoagulant, anticardiolipin
+antibody, factor V Leiden
+Imaging for pulmonary thromboembolism
+•
+Doppler ultrasound of pelvicfemoral veins, ventilation-perfusion
+(V/Q) scan, CT pulmonary
+angiography, invasive pulmonary
+angiography
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+6.4. PAH evaluation
+When the clinical class of PAH has been determined, additional investigations
+may be required for the exact identification of the type of PAH and to assess
+the severity of the disease. Blood tests, exercise capacity and cardiopulmonary
+haemodynamics are commonly assessed.
+6.4.1. Blood tests and immunology
+Routine biochemistry, haematology and thyroid function tests are recommended
+in all patients. Screening for CTD consists of antinuclear antibodies (ANA), and
+rheumatoid factor. Other tests may include dsDNA antibodies, extractable
+nuclear antigen, anti-centromere antibody, anti- SCL70 and ribonucleoprotein
+(RNP). A HIV serology test should also be performed.5 A thrombophilia screen is
+useful and may include antiphospholipid antibodies (e.g., lupus anticoagulant,
+anticardiolipin antibodies) in patients with CTEPH.
+6.4.2. Assessment of exercise capacity
+Assessment of exercise capacity, using the 6MWT is a firmly established part
+of the evaluation for PAH.51The goals of exercise testing include, but are not
+limited to, determining maximal exercise tolerance; identifying functional
+capacity; obtaining prognostic data; establishing a baseline measure of exercise
+capacity and for monitoring response to therapy.25, 48
+Distances of <300 m are predictive of poorer outcomes.42 However, the
+sensitivity to change diminishes as the distance walked increases, particularly
+>450 m.47 Consequently, the 6MWT may be less useful for patients in WHO
+functional class I and II.
+6.4.3. Right-heart catheterisation
+RHC is required to confirm the presence of PAH, establish the specific diagnosis
+including exclusion of pulmonary venous hypertension, determine the severity
+of haemodynamic impairment, test the vasoreactivity of the pulmonary
+circulation, and to guide subsequent therapy.25, 48 Parameters that should
+be obtained during the RHC include RA pressure, RV pressure, PA pressure
+(systolic, diastolic, mean), PCWP and CO. Haemodynamic findings that confirm
+PAH include a mPAP ≥25 mmHg at rest and a PCWP ≤15 mmHg.4 A PCWP
+>15 mmHg may indicate left heart disease and requires careful evaluation as
+PAH specific therapies may be contraindicated.25, 48 An elevated mRAP, mPAP,
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+35
+reduced cardiac output and central venous O2 saturation in patients with IPAH
+is associated with a poor prognosis.5
+A vasodilator study should be performed in patients with IPAH during RHC. A
+positive response is defined as a drop in mPAP of ≥10 mmHg to an absolute
+mPAP of ≤40 mmHg without a decrease in cardiac output5, and indicates
+that a patient may be suitable for a trial of high dose calcium-channel
+blockers (CCBs).48 It should be noted that less than 10% of patients with IPAH
+demonstrate a positive acute vasoactive response52 and even less in other
+associated conditions, such as PAH related to CTD. In many centres the test
+is omitted because the response is so infrequent.49 Furthermore, assessment
+of vasoreactivity is not without risk and may not be advisable in high-risk
+individuals (such as those with WHO functional class IV disease). Owing to the
+potential risk of severe life-threatening haemodynamic compromise occurring
+with the acute vasodilator challenge, testing should be performed using a safe,
+potent, and short-acting vasodilator with limited side effects (Table 5).48
+Table 5: Route of administration, half-lives, dose ranges, increments and
+duration of administration of the most used substances on pulmonary
+vasoreactivity tests5
+Drug
+Route
+Halflife
+Dose rangea
+Incrementsb
+Durationc
+Epoprostenol
+Intravenous
+3 min
+2-12 ng/kg/min
+2 ng/kg/min
+10 min
+Adenosine
+Intravenous
+5-10 s
+50-350 ug/kg/min
+50ug/kg/
+min
+2 min
+Nitric oxide
+Inhaled
+15-30 s
+10-20 ppm
+-
+5 mind
+a Initial dose and maximal dose suggested.
+b Increments of dose by each step.
+c Duration of administration on each step.
+d For NO a single step within the dose range is suggested.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+Recommendation
+Right heart catheterization is necessary to confirm
+diagnosis and assess severity of PAH
+7. Treatment
+The aim of therapy in patients with PAH is to improve survival, disease-related
+symptoms and QoL. Treatment can be classified as conventional therapy and
+targeted PAH-specific therapy.
+7.1. Conventional treatment
+Conventional treatment options include oxygen therapy in cases of hypoxaemia,
+anticoagulants such as warfarin, and digoxin with diuretics in cases of rightsided heart failure.
+7.1.1. Oxygen (Level of evidence C)
+Oxygen can be used in patients who have nocturnal hypoxaemia due to mild
+hypoventilation. Desaturation during sleep occurs in the early mornings and
+can be associated with syncope and seizures. Some patients with severe PAH
+develop hypoxaemia and may benefit from supplemental oxygen. Those with
+PO2 < 60mmHg should be considered for long term oxygen therapy (LTOT)
+7.1.2. Anticoagulation (Level of evidence C)
+In the absence of contraindications, anticoagulation is recommended as a part
+of the general treatment regimen to decrease the likelihood of thromboembolic
+complications. Warfarin is the anticoagulant of choice and the International
+Normalised Ratio (INR) should be maintained between 2 to 3. However, for
+IPAH patients with a higher risk of bleeding, the target INR should be 1.5 to
+2.5.49
+Recommendation
+Supplemental oxygen should be considered in PAH
+patients with hypoxaemia (Class of recommendation I)
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+37
+Recommendation
+Anticoagulation should be considered in IPAH patients unless
+contraindicated (Class of recommendation II)
+Recommendation
+Digoxin can be considered in PAH patients with heart failure
+with or without atrial fibrillation (Class of recommendation IIb)
+The evidence for favourable effects of warfarin is based on two retrospective
+series: 3-year survival improved from 21% to 49% in the series reported by
+Fuster et al.,13 and the 3- and 5-year survival rates increased from 31% to 47%
+and from 31% to 62%, respectively, in the series reported by Rich et al.54 For
+patients with CTEPH, adequate anticoagulation is important to prevent further
+thromboembolism.
+7.1.3. Digoxin (Level of evidence C)
+Digoxin has been shown to improve cardiac output acutely in IPAH, although
+its efficacy is unknown when administered chronically.47 It may be useful
+in patients with atrial fibrillation and in PAH patients with heart failure who
+remain symptomatic on medical therapy.
+7.1.4 Diuretics (Level of evidence C)
+In patients with right heart failure secondary to PAH, increased filling pressure
+can further distend an already dilated right ventricle, which in turn can worsen
+function and decrease cardiac output. Therefore, although no RCTs exist,
+decreasing right ventricular preload with the aid of diuretics is the mainstay of
+treatment for patients with right heart failure.
+Recommendation
+Diuretics should be given to PAH patients with
+right heart failure. (Class of recommendation I)
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+Recommendation
+Only patients who demonstrate a positive vasoreactive
+response should be treated with high dose CCBs.
+(Class of recommendation I)
+Recommendation
+Patients with PAH should receive influenza and
+pneumococcal vaccinations. (Class of recommendation I)
+Recommendation
+Patients with PAH must avoid pregnancy.
+(Class of recommendation I)
+7.1.5. Calcium channel blockers (Level of evidence C)
+If, during RHC, the pulmonary vasoreactive test is positive, the treatment of
+choice is high-dose CCBs (up to 240 mg/day of nifedipine or up to 900 mg/day
+of diltiazem), as improved survival with long-term use has been demonstrated
+in this cohort of patients.54, 56 If CCBs demonstrate no clinical improvement after
+one month or are unable to achieve WHO functional class I or II with associated
+improvement in haemodynamics over three months, then patients should be
+treated as non-responders and PAH-specific therapies considered.
+7.1.6. Vaccination (Level of evidence C)
+Annual influenza and pneumococcal pneumonia vaccination are recommended
+in patients with PAH.5, 47 Patients with PAH who develop pneumonia should
+be treated early and appropriately. Dehydration and vasodilatation during
+infection should be avoided and/or adequately treated.
+7.1.7. Avoid Pregnancy (Level of evidence C)
+Pregnancy in patients with PAH is associated with a high risk of maternal
+death. PAH is a contraindication to pregnancy and an appropriate method of
+birth control is highly recommended in women with childbearing potential.
+Should the patient become pregnant, she should be informed of the high risk
+of pregnancy, and advised termination of pregnancy. For those who insist on
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+39
+Recommendation
+Appropriate physical activity is encouraged.
+(Class of recommendation IIa)
+continuing pregnancy, management requires close collaboration between
+obstetricians and the PAH team and disease-targeted therapies.57,58
+7.1.8. Physical Activities (Level of evidence B)
+Patients should be encouraged to be active as their symptoms allow.47 However,
+excessive physical exertion leading to distressing symptoms should be avoided.
+A recent study demonstrated an improvement in exercise capacity in patients
+who took part in a training programme.59
+7.1.9. QoL and non-pharmacological treatment
+PAH is a chronic, life-shortening disease and many patients suffer from
+limitations in their physical mobility, energy, emotional reactions and social
+isolation. Understandably, many patients are affected by a degree of anxiety
+and/or depression that can have a profound impact on their QoL. Assisting
+patients to adapt to the uncertainty associated with their illness is important,
+as is referral to psychologists or psychiatrists when needed. Support groups for
+patients, families and carers are useful in improving the understanding and the
+acceptance of the disease.
+7.2. PAH-specific therapy
+In Malaysia, therapeutic options for patients classified with WHO functional
+class II, III or IV disease include bosentan, ambrisentan, iloprost and sildenafil.
+The following is a summary of the evidence from clinical trials performed with
+these agents. For a review of agents not available in Malaysia, readers are
+directed to Jacobs and Vonk-Noordegraaf 200960, Kingman 200961, and Barst
+200762, respectively.
+7.2.1. Bosentan (Level of evidence A)
+Bosentan is an oral dual endothelin-A (ETA) and endothelin-B (ETB)-receptor
+antagonist. Activation of ETA and ETB-receptors on smooth muscle cells
+mediate the vasoconstrictive and mitogenic effects of ET-1, and the prominent
+role of ET-1 in the pathogenesis of PAH has been well documented.63-68 The
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+efficacy of bosentan has been extensively studied in five RCTs69-73 (including
+one in patients with CTEPH74), and several open-label studies.3, 75-79 In these
+trials, bosentan was associated with improvements in exercise capacity,69, 73, 76
+WHO functional class,69, 73, 76 cardiopulmonary haemodynamics,69, 73, 76, 78 QoL,3,
+76 echocardiographic variables,78 and time to clinical worsening69, 73 compared
+with placebo and conventional therapy. On the basis of these results, bosentan
+has a level A recommendation in patients with WHO functional class II and III
+PAH. A summary of patient characteristics and results from RCTs with bosentan
+versus placebo is presented in Appendix 1 and Appendix 2.
+Long-term administration of bosentan has also been shown to deliver
+favourable results. In 2005, McLaughlin et al., published survival data from an
+open-label extension study of patients involved in the pivotal bosentan clinical
+trials.80 The Kaplan-Meier estimate of survival at 2-years was 89%. Similarly,
+Provencher et al., published a retrospective analysis of 103 PAH patients
+treated with bosentan and followed over 24 15 months.81 One, 2- and 3-year
+estimates of survival were 92%, 89% and 79%, respectively. More recently, a
+prospective, multicentre, Australian registry enrolled 528 patients between
+2004 and 2007.39 All patients were initiated on first-line bosentan. The observed
+annual mortality in this ‘real-life’ registry was 11.8% in patients with IPAH and
+16.6% in patients SSc-PAH. A summary of patient characteristics and results
+from long-term extension studies and registries with bosentan is presented in
+Appendix 3 and Appendix 4. Results are listed alongside historical data from
+the NIH registry.
+The recommended dosage of bosentan in PAH is 62.5 mg bd to 125 mg bd.
+Common side effects include hepatic dysfunction, headache, flushing, lower
+limb oedema, palpitation, dyspepsia, fatigue, nasopharyngitis and pruritus.
+The most notable side effect is liver aminotransferase elevations - a class effect
+of all ERAs. Abnormal liver function tests occurred in 12.8% of patients in
+bosentan clinical trials but a post-marketing surveillance system (Tracleer PMS)
+reported elevated aminotransferases 7.6% patients and furthermore, only
+3.2% patients discontinued bosentan as a result.79Liver function monitoring
+is recommended in all patients receiving ERAs. These results suggest that
+elevated liver aminotransferases can be effectively managed in the majority of
+patients receiving bosentan.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+41
+7.2.2. Ambrisentan (Level of evidence B)
+Ambrisentan is a selective endothelin-A receptor antagonist and has been
+approved for the treatment of WHO-FC II and III patients with PAH. A pilot
+study and two large RCTs (ARIES 1 and 2) have demonstrated efficacy on
+symptoms, exercise capacity, haemodynamics, and time to clinical worsening
+of patients with IPAH and PAH associated with CTD and HIV infection.82-84 The
+current approved dose is 5mg daily which can be increased to 10mg daily if
+tolerated. The incidence of abnormal liver function tests ranges from 0.8 to
+3%. In a small group of patients who were intolerant to either bosentan due
+to liver function test abnormalities, ambrisentan at a dose of 5mg was well
+tolerated. However, patients treated with ambrisentan require regular liver
+function testing. Ambrisentan has been associated with increased incidence of
+peripheral oedema.
+7.2.3. Iloprost (Level of evidence B)
+Iloprost is a prostacyclin derivative and was approved by US Food and
+Drug Administration (FDA) in 2004 for WHO functional class III and IV PAH.
+Prostacyclin is a metabolite of arachidonic acid produced primarily in vascular
+endothelium. It is a potent vasodilator, affecting both the pulmonary and
+systemic circulation. There is evidence to suggest that a relative deficiency
+of prostacyclin may contribute to the pathogenesis of PAH.18Although other
+prostanoids have been developed (e.g. epoprostenol and beraprost), iloprost is
+currently the only commercially available agent in Malaysia.
+Iloprost is administered via an ultrasonic nebuliser with a half-life of 20 to
+25 minutes. Therefore, chronic use requires six to nine inhalations a day to
+obtain a sustained clinical benefit.85The recommended inhaled dose is 2.5-5
+ug/inhalation. Common side effects include cough, headache, flushing and jaw
+pain.
+At the time of writing, short-term data for inhaled iloprost as monotherapy
+was available from one RCT that enrolled patients with both PAH and CTEPH.86
+Overall, this study showed an increase in exercise capacity, an improvement in
+PVR, and a reduction in clinical events for patients receiving iloprost. However,
+other haemodynamic measures were not affected. In a study of 24 iloprosttreated IPAH patients, Hoeper et al.,87 reported sustained benefits in exercise
+capacity and haemodynamics at 1 year. More recently, Opitz et al.,88 reported
+event-free (death, transplantation, switch to i.v. therapy, or addition of other
+active oral therapy) survival rates of 53%, 29%, and 20% at 1-, 2-, and 3-years,
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+respectively, in IPAH patients treated with iloprost. Patient characteristics and
+results from these studies are presented in Appendix 5 and Appendix 6.
+7.2.4. Sildenafil (Level of evidence A)
+Sildenafil is an oral PDE-5 inhibitor. PDE-5 exerts its pharmacological effect by
+increasing the activity of endogenous nitric oxide, thereby inducing relaxation
+and anti-proliferative effects on vascular smooth muscle cells.5Early clinical
+studies with sildenafil in patients with PAH have demonstrated its ability to
+reduce mPAP and PVR, and to produce an increase in cardiac index.89
+Three RCTs with sildenafil as monotherapy versus placebo have been performed
+in patients with PAH.90-92In these trials, the dose of sildenafil ranged from
+60 to 240mg/day. In the largest RCT performed by Galie et al.,91278 patients
+were randomised to receive placebo or sildenafil (20, 40 mg or 80 mg) orally
+three-times daily for a period of 12 weeks. A significant increase in 6MWD was
+observed in all three sildenafil groups compared to placebo but there was no
+significant difference in effect between sildenafil doses. However, patients
+randomised to a higher dose of sildenafil demonstrated greater improvements
+in mPAP, CI, PVR and functional class. Results from RCTs performed with
+sildenafil are presented in Appendix 7 and Appendix 8.
+At the time of writing, only one study has reported long-term efficacy with
+chronic administration of sildenafil.91 In that study, all data was based on a dose
+of 80 mg three-times daily and a one-year survival rate of 96% was observed
+(Appendix 9). The most common side effects include headache, flushing,
+dyspepsia, epistaxis, nasal congestion and impaired vision.
+The FDA-approved dose of sildenafil in patients with PAH is 20 mg tds
+administered orally. However, higher doses, up to 80 mg tds, may be more
+efficacious.
+7.2.5 Tadalafil (Level of evidence B)
+Tadalafil is a long actingPDE-5 inhibitor. An RCT (PHIRST) on 406 PAH patients
+(about half on background bosentan therapy) treated with tadalafil has shown
+favourable results on exercise capacity, symptoms, haemodynamics, and time
+to clinical worsening at the 40 mg daily dose.93 The side effects are similar to
+that of sildenafil.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+43
+7.3. PAH-specific therapy and survival
+Due to the short-term nature of RCTs with active treatments (12-16 weeks),
+survival is rarely an endpoint. To date, only the prostacyclin analogue
+epoprostenol has demonstrated a survival benefit compared to patients treated
+with conventional therapy.41 Epoprostenol is approved by the FDA for the
+treatment of patients with IPAH in WHO class III and IV, and is recommended
+first-line for patients presenting with functional class IV symptoms. Despite its
+benefits, the complexity of drug administration significantly limits its use.
+RCTs aside, several longer-term, open-label series with active treatments
+(namely epoprostenol and bosentan) have reported 1- and 2-year survival
+rates of 85% to 97% and 70% to 91%, respectively.9, 10, 41, 80, 91, 94, 95 These results
+are in dramatic contrast to those observed in the 1981 NIH registry, where the
+median life expectancy for patients with IPAH, without specific therapy, was 2.8
+years from diagnosis, with 1-year, 3-year, and 5-year survival rates of 68%, 48%
+and 34%, respectively.2 Furthermore, a recent meta-analysis of RCTs in PAH,
+conducted by Galie et al.,96 suggested that active treatments were associated
+with a reduction in mortality of 43% (relative risk: 0.57; 95% confidence
+interval: 0.35 to 0.92; p = 0.023). When viewed collectively, these data suggest
+an improvement in survival for patients treated with targeted therapies.
+7.4. Evaluation of response to treatment
+It is important to evaluate the response of PAH patients to treatment in order
+to modify therapy accordingly. The patients can be evaluated clinically based on
+symptoms (WHO functional class) and signs (right heart failure), and by using
+various parameters. Parameters that have been used include 6MWD, right
+ventricular function assessed by echo, natriuretic peptide, cardiopulmonary
+exercise testing, and hemodynamics assessed by RHC. (see Table 14, page 61 for
+suggested parameters and targets). Repeat testing is useful to assess response
+Recommendation
+1. Patients with symptomatic iPAH should be started on PAH
+specific therapy (Class of recommendation I)
+2. PAH secondary to CTD or CHD can be considered for PAH
+specific therapy (Class of recommendation IIa)
+3. The choice of a PAH specific drug include an ERA, inhaled
+Iloprost or a PDE5 inhibitor (Class of recommendation I)
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+to therapy. Patients with a satisfactory response to therapy can be continued on
+treatment and followed up regularly. Patients with an unsatisfactory response
+should be considered for combination therapy or other interventions including
+lung transplant.
+7.5. Combination therapy (Level of evidence B)
+The management of patients who exhibit clinical deterioration despite targeted
+monotherapy is challenging.47 A significant proportion of patients receiving PAH
+specific monotherapy deteriorate despite treatment. Combination therapy is
+an attractive option with the development of several therapeutic classes of
+agents with different mechanisms of action and potential synergy.
+The goal of combination therapy is aimed at maximising therapeutic efficacy
+while limiting toxicity and potential drug-drug interactions. Although there
+is limited clinical data pertaining to combination treatment, it is a common
+practice in many PAH centres. Combination therapy may include, 1) initiation
+with 2 or more concomitant PAH-specific therapy, or more commonly, 2)
+sequential administration following clinical deterioration on a first-line agent.
+Various combination therapies have been utilized. A single small trial of
+concomitant therapy with epoprostenol initiation and bosentan added on
+48 hours later showed only trends in improvement, without significant
+benefits.46More trials achieving successful endpoints have been carried out
+with sequential add on therapy using a wide range of combinations: bosentan
+plusepoprostenol97; bosentan plus iloprost98-101; bosentan plus beraprost98, 101;
+bosentan plus sildenafil102-107; sildenafil plus epoprostenol108-110; sildenafil plus
+iloprost111-113; sildenafil plus beraprost114 and sildenafil plus trepostinil.115
+For patients with PAH in WHO functional class III, the most common
+combination is the addition of a second oral drug (i.e., sildenafil to an ERA or
+ERA to sildenafil). This combination provides additional clinical benefits such
+as improved exercise capacity, an increase in time to clinical deterioration and
+improved haemodynamics compared with either class of drug alone. A few
+Recommendation
+The response to treatment should be monitored in
+patients who are on a PAH specific drug.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+45
+reports have addressed the significant pharmacologic interactions between
+sildenafil and bosentan.116, 117 In a recent study, bosentan decreased maximum
+plasma concentration of sildenafil by 55%, while sildenafil increased bosentan
+concentration by 42%.117 The clinical importance of this interaction remains
+unclear, and careful monitoring is advised.118
+The second and third most common strategies involve the combination of a
+prostanoid with sildenafil, and the combination of a prostanoid with an ERA,
+respectively. For patients in WHO functional class IV, starting with two or
+more targeted therapies simultaneously can be considered in view of the poor
+prognosis and likelihood of failure of monotherapy.
+At the time of writing, there are a number of well-designed studies ongoing
+which should help determine the potential benefits of a variety of combination
+therapies that should become available in the next one to three years
+(Appendix 10). In the meantime, combination therapy remains an attractive
+option and individuals with PAH who demonstrate an inadequate response to
+monotherapy should be considered for a combination of two or more diseasetargeted therapies.
+7.6. Atrial septostomy (Level of evidence C)
+Atrial septostomy creates a right to left inter-atrial shunt, decreasing right
+heart filling pressures and improving right heart function and left heart filling.
+In most cases it is performed as a palliative bridge to lung transplantation.
+Haemodynamics and clinical improvements have been reported, together with
+successful rates of bridging to transplantation in the order of 30% to 40%.119,
+120 However, its exact role in the treatment of PAH remains uncertain because
+its efficacy has been reported only in small series and case reports from single
+centers, usually with no matching controls.119-121
+Recommendation
+Patients with PAH who have an inadequate response
+to monotherapy using a PAH specific drug, should be
+considered for sequential combination therapy (Class
+of recommendation IIb)
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+Recommendation
+Lung and heart lung transplant is reserved for
+selected patients with refractory symptoms and
+should be performed in transplant centres (Class of
+recommendation I)
+Recommendation
+Atrial septostomy is reserved for selected patients
+with refractory symptoms and should be performed in
+specialized centres (Class of recommendation I)
+Current evidence suggests a benefit of atrial septostomy in patients who are in
+WHO functional class IV with right heart failure refractory to optimal medical
+therapy, or with severe syncopal symptoms.5 Furthermore, the procedure
+should only be performed in experienced designated centers with an active
+thoracic transplant programme. The preferred choice is graded balloon atrial
+septostomy.122
+7.7. Transplantation (Level of evidence C)
+Lung and heart-Lung transplantation are indicated in PAH patients whose
+prognosis remains poor despite maximum medical therapy.5, 47, 49 This treatment
+option should be considered and early discussion with experienced transplant
+physicians is recommended. However, the long waiting time and organ shortage
+significantly restricts its utility.
+8. Evidence-based treatment algorithm for Malaysia
+The optimal therapy for patients with PAH is a highly individualised decision,
+taking into account many factors including: drug availability, severity of illness,
+route of administration, side effects, treatment goals, and clinician preference.
+Figure 2 presents a proposed algorithm for the management of patients with
+PAH. This is based on evidence from RCTs performed to date and is focused
+on patients in WHO functional class II to IV, and on therapies that have been
+evaluated in IPAH and available locally, and in PAH associated with scleroderma
+or due to anorexigens. Extrapolation of trial results to other PAH subgroups
+should be done with caution.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+47
+Figure 2: PAH evidence treatment algorithm based on the availability of agents
+in Malaysia (adapted from Barst et al).52
+International guidelines for management of PAH include drugs like epoprostenol
+which is currently unavailable locally. The algorithm presented in Appendix 12
+includes these drugs based on WHO International conference at DanaPoint in
+2008 and using different recommendations (Appendix 11).
+9. Future therapies
+Despite the fact that a cure for PAH remains elusive, we have witnessed great
+advances in early diagnosis, and a dramatic increase in the availability of
+therapeutic options over the past 20 years. Looking forward, several new areas
+of research hold promise, including pharmacogenomics and pharmacogenetics,
+anti-angiogenesis strategies, and growth factor inhibitors.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+SECTION B:
+PAH IN CHILDREN
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+49
+SECTION B
+Pulmonary Arterial Hypertension in Children
+10. Introduction
+The prevalence of PAH in adults was estimated to be 15 cases/million and 1-year
+survival was 88% as shown in a French National Registry 29. Pulmonary arterial
+hypertension in children has a poorer outcome compared to adults. The Data
+in the Primary Pulmonary Hypertension National Institutes of Health Registry2
+showed the median survival without specific therapy for all of the 194 patients
+was 2.8 years, whereas it was only 10 months for children.
+Children differ from adults due to several reasons:
+a.
+The anticipated lifespan of children is longer
+b.
+Children may have a more reactive pulmonary circulation hence greater
+vasodilator responsiveness 123
+c.
+Despite clinical and pathological studies suggesting increased
+vasoreactivity in children, before the advent of long-term vasodilator/
+antiproliferative therapy, the natural history was significantly worse for
+children compared to adult patients 124
+11. Definition and Classification
+The definition of PAH in children is the same as for adult patients i.e. mPAP > 25
+mmHg at rest with PCWP < 15mm Hg 5.
+As with adults, PAH in children is caused by a variety of aetiologies as classified
+by the Revised WHO Classification of PAH 2008 125. However, the causes of
+pulmonary hypertension in children differ from adults with idiopathic PAH
+(IPAH) and PAH associated with congenital heart disease being the most
+common. Other causes of pulmonary hypertension in children are shown in
+the updated clinical classification of PHT (Dana Point 2008)125 (Refer to Table 1
+in Section A, pg23)
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+12. Diagnosis
+12.1 Clinical Suspicion of PHT
+The presenting symptoms in children with pulmonary hypertension may differ
+from adults. Pulmonary hypertension should be suspected in any child who
+presents with signs and symptoms as listed in Table 6 when there is no other
+explanation.
+Table 6: Signs and symptoms of pulmonary hypertension in paediatric
+patients
+Age group
+Signs and symptoms
+Infants
+Signs of low cardiac output (poor appetite, failure to
+thrive, lethargy, diaphoresis, tachypnoea, tachycardia,
+irritability)
+Crying spells (chest pain)
+Children
+Poor effort tolerance
+Cyanosis with exertion(right to left shunt through a
+patent foramen ovale)
+Syncope (effort-related)
+Seizures (early morning hours)
+Nausea and vomiting
+Older children
+Exertional dyspnoea
+Chest pain or angina
+Clinical signs of right heart failure (hepatomegaly,
+peripheral oedema)
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+51
+12.2 Detection of PHT
+The initial tests to assist in detection of pulmonary hypertension are listed
+in Table 7.
+Table 7: Initial test to detect pulmonary hypertension
+Test
+Findings
+ECG
+RVH, right ventricular strain, tall P wave
+Chest Xray
+Central pulmonary artery dilatation, ± pruning
+of peripheral blood vessels, right atrial and right
+ventricular enlargement
+Transthoracic Doppler
+echocardiography
+Most useful non-invasive tool.
+Right ventricular hypertrophy, dilated
+pulmonary arteries, right ventricular dysfunction
+and pericardial effusion in advanced cases
+Tricuspid regurgitation allows estimation of
+pulmonary arterial systolic pressure. Tricuspid
+regurgitation jet velocity of > 2.8 m/s or
+pressure gradient > 31 mmHg at rest would
+suggest PHT
+Also useful to detect PAH associated with
+congenital heart lesions and left heart diseases
+Transoesophageal
+echocardiography
+Rarely required, may be useful to detect
+presence of atrial septal defect
+Once pulmonary hypertension is detected, all paediatric patients should be
+referred to the specialized centres for further investigations. Invasive right
+heart catheterization for confirmation of PAH, assessment of severity of PAH
+and vasoreactivity test should only be performed in the specialized centres.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+12.3 PHT clinical class identification
+Detailed history taking and further investigations should be made to determine
+the underlying cause for pulmonary hypertension. Diagnosis of idiopathic
+pulmonary arterial hypertension (IPAH) is made when no secondary cause is
+found.
+Table 8: Important aspects of history taking in determining underlying
+cause for pulmonary hypertension
+Perinatal factors
+Meconium aspiration syndrome, congenital
+diaphragmatic hernia, perinatal asphyxia,
+hypoplastic lung, group B streptococcal sepsis
+Persistent pulmonary
+hypertension of newborn
+Respiratory diseases
+Bronchopulmonary dysplasia, recurrent
+respiratory infections, bronchiectasis,
+interstitial lung diseases, obstructive sleep
+apnoea
+Pulmonary hypertension
+owing to lung diseases
+and/or hypoxia
+Family history of PAH
+Heritable PAH
+Congenital heart diseases
+Operated and un-operated
+PAH associated with
+congenital heart diseases
+Drug history
+Psychotropics and appetite suppressants
+(aminorex, fenfluramine, amphetamines,
+cocaine etc)
+Drug and toxin-induced
+PAH
+Underlying medical illnesses
+Connective tissue diseases, HIV infection,
+haemoglobinopathies, portal hypertension,
+thyroid diseases, glycogen storage disease,
+myeloproliferative disorders, splenectomy
+PAH associated with
+various medical
+disorders or pulmonary
+hypertension with
+multifactorial mechanisms
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+53
+Table 9a: General tests to be done in all PAH patients
+General tests
+Full blood count, renal profile, thyroid function test, liver
+function test, HIV screen, ESR, C-reactive protein, antinuclear factor, arterial blood gas
+Table 9b: Specific tests to be considered when specific underlying cause
+is suspected
+Causes
+Test
+Pulmonary hypertension owing
+to lung diseases and/or hypoxia
+Lung function test, high resolution CT
+thorax, sleep study, lung biopsy
+PAH associated with connective
+tissue diseases
+Anti-ds DNA, rheumatoid factor,
+extractable nuclear antigen (anticentromere antibody, anti SCL70, antiRNP), complement levels
+PAH associated with portal
+hypertension
+Hepatitis viral serology, abdominal
+ultrasound (liver cirrhosis, portal
+hypertension)
+Chronic thromboembolic
+pulmonary hypertension
+Thrombophilia screen
+- Protein C, protein S, antithrombin III,
+lupus anticoagulant, anticardiolipin
+antibody, factor V Leiden
+Imaging for pulmonary
+thromboembolism
+- Doppler ultrasound of pelvic-femoral
+veins, ventilation-perfusion (V/Q) scan,
+CT pulmonary angiography, invasive
+pulmonary angiography
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+13. Assessment of Severity of PAH
+Severity of PAH can be assessed by symptoms, non-invasive tests and invasive
+cardiac catheterization
+13.1 Symptoms
+Functional class can be categorized in older children using the modified New
+York Heart Association classification according to the World Health Organization
+1998 48. However, in younger children, it may be more practical to use the
+Ability Index (table 10) 126.
+WHO classification of functional status in patients with PHT modified from New
+York Heart Association classification (Refer to Section A, Table 2, pg24)
+Table 10: Ability Index
+Ability Index 1
+Patients with normal life, activity or school
+Ability Index 2
+Patients able to work with intermittent symptoms,
+interference with daily life/school
+Ability Index 3
+Unable to work/school, limited in all activities
+Ability Index 4
+Extreme limitation, dependent, almost housebound
+13.2 Non-invasive tests
+These tests are useful in assessing baseline functional status as well as
+monitoring the disease progression and treatment response.
+Table 11: Non-invasive tests to assess severity of PAH
+Category
+Tests
+Blood tests
+BNP or NT-proBNP, hs-CRP, uric acid
+Exercise Capacity
+6-min walk test (<300m) , cardiopulmonary
+exercise testing (in older children)
+Echocardiography
+Monitoring of right ventricular function (RV Tei
+index, tricuspid annular plane systolic excursion),
+TR velocity, RA size, pericardial effusion
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+55
+13.3 Invasive Tests
+Right heart catheterization is required to assess the haemodynamics and the
+response to vasodilators. It confirms the diagnosis of PAH, assesses the severity
+and guides the management.
+Vasoreactivity test should be done in all cases of PAH with the exception of
+pulmonary venous obstruction (IV prostacyclin may induces pulmonary
+oedema)127. The purpose of vasoreactivity test is
+a. To guide choice of initial therapy. Only positive vasoreactivity
+test responders should be started on trial of high doses calcium
+channel blockers.
+b. To determine the operability of patients with congenital systemic-to-
+pulmonary shunt lesions with high pulmonary artery pressure (Refer
+to PAH and congenital heart disease section).
+Table 12: Haemodynamic parameters to be measured during right heart
+catheterization
+Mean right atrial pressure
+Pulmonary arterial pressure (Systolic, diastolic and mean)
+Simultaneous mean aortic : pulmonary arterial pressure ratio
+Pulmonary capillary wedge pressure (mean left atrial pressure or left
+ventricular end-diastolic pressure if unable to obtain PCWP)
+Cardiac output (Fick or thermodilution method)
+Heart rate
+Mixed venous blood oxygen saturation
+Arterial blood gas or pulse oximetry
+Calculation of pulmonary vascular resistance
+Qp:Qs ratio if systemic-to-pulmonary shunt present
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+Positive vasoreactivity response is defined as a drop in mean PAP by 10 mmHg
+or more to an absolute mean pressure of 40 mmHg or less without a decrease
+in cardiac output. Types and regimens of vasodilators used are similar to
+recommendations for adults5.(refer to Section A, table 5, pg35) However, the
+choice depends on the availability of the vasodilators and the practice of the
+individual centers.
+14. Treatment of iPAH in Children
+Treatment for IPAH in children has improved dramatically over the past several
+decades, resulting in improved clinical and hemodynamic status, as well as
+increased survival. Patients should be referred to designated centers for review
+and treatment of PAH.
+Children are sometimes too ill to undergo cardiac catheterization and treatment
+may need to be commenced first.
+Decision to treat with disease targeting therapies is determine by the WHO
+functional class and the vasoreactivity test response. The age of the patient
+is also important because not all drugs used in adults with IPAH are safe in
+children.
+Goals of treatment are to improve symptoms, quality of life and survival.
+General measures
+a. Annual influenza vaccination and 5 yearly pneumococcal vaccination
+are recommended (Class of recommendation I, Level of evidence C)
+b. Pneumonia should be treated early and aggressively to prevent life-
+threatening pulmonary hypertensive crisis
+c. Dehydration should be avoided and/or adequately treated
+d. Diet and/or medical therapy should be used to prevent constipation,
+since Valsalva manoeuvres may precipitate syncopal episodes
+e. Competitive sports and isometric exercise are contraindicated (Class
+of recommendation IIa, Level of evidence B)
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+57
+Recommendation
+Supplemental oxygen should be considered in PAH
+patients with hypoxemia (Class of recommendation I)
+Recommendation
+Anticoagulation should be considered in IPAH patients
+unless contraindicated (Class of recommendation II)
+Recommendation
+Digoxin can be considered in PAH patients with heart
+failure with or without atrial fibrillation (Class of
+recommendation IIb)
+14.1 Pharmacological Therapy
+14.1.1 Oxygen (Level of evidence C)
+A small study demonstrated that supplemental oxygen improved long-term
+survival in children with Eisenmenger syndrome53. For children with IPAH, it
+may be recommended in patients who have nocturnal hypoxaemia, during
+intercurrent respiratory infections or in the presence of severe right ventricular
+failure.
+14.1.2 Anticoagulation (Level of evidence C)
+The use as well as the benefit of chronic anticoagulation in children with IPAH
+is not well established. Thrombotic changes of the pulmonary microcirculation
+have been seen in IPAH. Therefore, in the absent of contraindications, long
+term warfarin therapy is recommended with the target INR between 2 to 3.5
+14.1.3 Digoxin (Level of evidence C)
+The value of digoxin is not proven in treatment of IPAH. However, it may be
+useful in patient with atrial fibrillation and in PAH patients with heart failure
+who remain symptomatic on medical therapy.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+Recommendation
+Diuretics should be given to PAH patients with right heart
+failure (Class of recommendation I)
+Recommendation
+Only patients who demonstrate a positive vasoreactive
+response should be treated with high dose CCBs (Class of
+recommendation I)
+14.1.4 Diuretics (Level of evidence C)
+Diuretics therapy may be useful in patients with symptomatic right heart failure
+(liver congestion, oedema). It must be used with caution as these patients are
+preload-dependent.
+14.1.5 Inotropes (Level of evidence C)
+Short term intravenous inotropic support may be considered in patients with
+decompensated right heart failure. (Class of recommendation IIa)
+14.1.6 Calcium channel blockers (Level of evidence C)
+While only a minority (20%) of adult patients with IPAH will respond to chronic
+oral calcium channel blockade, a significantly greater percentage of children
+are acute responders (40%) and can be effectively treated with calcium channel
+blockers 128. Dihydropyridine calcium channel blockers, such as nifedipine and
+amlodipine that act on vascular smooth muscle, are the preferred agents
+whereas negative inotropic calcium channel blockers, such as verapamil, should
+be avoided 129. Children usually require higher dose (e.g. nifedipine 0.2 to 0.3
+mg/kg/dose) but the optimal dose is still uncertain. They should be introduced
+cautiously and the dose titrated as tolerated.
+Non responders should not be given calcium channel blockers as it may worsen
+clinical condition (systemic hypotension, pulmonary oedema, right ventricular
+failure and death).
+If the patients do not improve by achieving functional class I or II after on
+several months of calcium channel blockers, they should be considered as nonresponders and other disease-targeted therapy should be instituted.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+59
+14.2 PAH Specific Therapy
+14.2.1 Prostanoids
+14.2.1.1 Inhaled iloprost (Level of evidence B)
+Inhaled iloprost 132 have all been used to treat children with PAH with varying
+degrees of success. However, in practice, it can be difficult to deliver inhaled
+iloprost effectively in young children every 2 to 3 hours daily.
+14.2.2 Endothelin Receptor Antagonists
+14.2.2.1 Bosentan (Level of evidence A)
+Bosentan has been shown to be safe and efficacious in treatment of IPAH
+in children 134-136. In BREATHE-3 study, the pharmacokinetics of bosentan in
+pediatric patients with pulmonary arterial hypertension and healthy adults are
+similar, and treatment with bosentan resulted in hemodynamic improvement
+134. It has been used for PAH associated with congenital heart disease and
+connective tissue disease 135,136. Clinical improvement has also been observed
+in patients as young as 9 months with severe disease 137,138.
+Bosentan is indicated in stable WHO functional Class III and IV children with
+IPAH. Recent data suggests early treatment with Bosentan could even be
+beneficial for patients with functional Class II 70. The dosing regimens for
+children are listed in Table 13. The most frequent adverse effect was flushing,
+headache, and elevated liver enzymes. Liver function test should be monitored.
+14.2.2.2 Ambrisentan (Level of evidence B)
+Other endothelin receptor antagonist include Ambrisentan. However, there is
+not enough evidence currently to support the routine usage in pediatric IPAH.
+14.2.3 Phosphodiesterase 5 Inhibitors
+14.2.3.1 Sildenafil (Level of evidence A)
+Sildenafil is reported to improve exercise capacity, decrease PAP, and improve
+symptoms in adult and children with PAH. However, most studies in children
+are limited to small series 139-52.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+1. Patients with symptomatic iPAH should be started on PAH
+specific therapy. (Class of recommendation I)
+2. PAH secondary to CTD or CHD can be considered for PAH
+specific therapy (Class of recommendation IIa)
+3. The choice of a PAH specific drug include an ERA, inhaled
+Iloprost or a PDE5 inhibitor (Class of recommendation I)
+The usual starting dose in 0.25 to 0.5 mg/kg/dose 4 to 8 hourly. Dose should be
+titrated up according to the response and the maximum dose is 2 mg/kg/dose
+4 hourly. Doses beyond this have not shown any additional benefit. Headache,
+flushing and hypotension are the most commonly reported adverse effects.
+Route of administration, half-lives, dose ranges, increments and duration of
+administration of the most used substances on pulmonary vasoreactivity tests5
+(refer to Section A, table 5, pg35)
+14.3 Combination Therapy (Level of evidence B)
+Combination therapy using different PAH-targeted drugs in patients exhibiting
+clinical deterioration despite optimal targeted monotherapy has become
+widely adopted. The use of combinations of drugs acting on distinctly different
+pathways involved in the pathogenesis of PAH may maximize clinical benefit for
+patients with PAH. All the studies on combination therapy are currently limited
+to adult patients using various combinations of Bosentan with IV Epoprostenol
+(BREATHE-2 study) 97, nebulized Iloprost with Bosentan 100 and Sildenafil with
+Bosentan 103.
+Meta-analysis included 21 trials revealed active treatments with any of the
+disease-targeted drugs were associated with a reduction in all cause mortality
+of 43% compared to placebo 96.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+61
+Recommendation
+Patients with PAH who have an inadequate response
+to monotherapy using a PAH specific drug, should
+be considered for sequential combination therapy
+(Class of recommendation IIa)
+Table 13: Recommended Drug Dosages for Treatment of IPAH
+Drug
+Dosages
+Nifedipine
+Adults: Start with 10 – 20 mg tds up to maximum 240 mg/day
+Children: Start with 0.2 – 0.3 mg/kg tds
+Diltiazem
+Adults: Start with 30 mg tds up to maximum 900 mg/day
+Children: not established
+Bosentan
+Adults: Start with 62.5 mg bd up to 125 mg bd
+Children 10 – 20 kg : 31.25 mg bd
+20 – 40 kg: 62.5 mg bd
+> 40 kg: adult dosage
+Sildenafil
+Adults: 20 – 80 mg tds
+Children: Start with 0.25 – 0.5 mg/kg tds up to maximum 2
+mg/kg tds
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+14.4 Follow up Assessment
+All patients with IPAH who are started on treatment should be monitored for
+response to treatment and signs of clinical deterioration. Goal-directed therapy
+should be instituted to optimize treatment. This requires monitoring of the
+following parameters at appropriate intervals (Table 14)
+Table 14: Follow Up Assessment
+Parameters
+Target
+Functional class
+To aim for improvement in
+functional class by 3 months,
+ideally to aim for Class I or II
+6-min walk distance
+> 380 m 143
+Cardiopulmonary exercise testing
+Peak oxygen consumption > 10.4
+ml/kg/min 143
+Biomarkers (BNP, NT-proBNP)
+Reducing trend from baseline
+Echocardiography (RV function, right
+ventricular myocardial performance
+index, TAPSE, pericardial effusion)
+Improvement in parameters
+Right heart catheterization
+Right atrial pressure < 10 mmHg
+Cardiac index > 2.5 L/min/m2 144
+# Clinical deterioration is defined as
+•
+Hospital admission for PAH progression
+•
+PAH progression not requiring hospital admission e.g. worsening of
+functional class, symptoms of right heart failure, need for additional
+therapy (diuretics, oxygen) as determined by physicians, worsening or
+lack of improvement of 6MWD
+14.5 Atrial septostomy (Level of Evidence C)
+Children with pulmonary hypertension and recurrent syncope are unable to
+maintain cardiac output by adequately shunting through the patent foramen
+ovale. Atrial septostomy allows right-to-left shunt, decompresses the right
+ventricle, increases systemic output and systemic oxygen delivery in spite of
+a decrease in systemic arterial oxygen saturation. It resulted in a significant
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+63
+clinical improvement, beneficial and long-lasting haemodynamic effects at rest
+and a trend toward improved survival 145-147
+The indications for atrial septostomy are 148;149:
+a.
+Failure of maximal medical therapy with persisting RV failure and/or
+recurrent syncope
+b.
+As a bridge to transplantation
+c.
+When no other therapeutic option exist
+Stepwise balloon dilatation is the procedure of choice. The interatrial orifice
+is created by puncture with a Brockenbrough needle, then dilated using
+progressively larger balloon catheters. A 10% drop in arterial oxygen saturation
+or an increase in LV end-diastolic pressure to 18 mmHg should preclude further
+dilatation. To minimize procedural related mortality, the recommendations
+listed in Table 15 should be strictly adhered to150.
+Table 15: Recommendations for Minimizing Procedure-related Mortality
+of Atrial Septostomy 150
+Only perform in a center experienced in pulmonary hypertension
+Contraindications to atrial septostomy
+a.
+Severe RV failure on cardiorespiratory support
+b.
+mRAP > 20 mmHg
+c.
+PVRI > 55 Units/m­2
+d.
+Resting oxygen saturation < 90% on room air
+e.
+LV end-diastolic pressure > 18 mmHg
+Pre-procedure: Optimize cardiac function with adequate right heart filling
+pressure and additional inotropic support if needed
+During procedure:
+a.
+Supplemental oxygen
+b.
+Appropriate sedation to prevent anxiety
+c.
+Monitoring variables (LAP, SaO2 and mRAP)
+d.
+Tailor the defect to < 10% drop in oxygen saturation
+Post procedure: Optimize oxygen delivery with transfusion of packed cells
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+Recommendation
+Lung and heart lung transplant is reserved for selected
+patients with refractory symptoms and should be performed in
+transplant centres (I)
+Recommendation
+Lung and heart lung transplant is reserved for selected patients
+with refractory symptoms and should be performed
+in transplant centres (I)
+14.6 Transplantation (Level of evidence C)
+For paediatric lung and heart/lung recipients, the data from the registry of the
+International Society for Heart and Lung Transplantation demonstrates that
+current survival is 65% at 2 yrs and 40% at 5 yrs 151.
+It should be reserved for patients whose disease progressed despite optimal
+medical therapy. Issues that should be taken into account are donor availability,
+regional expertise and outcome, and waiting time.
+15. Treatment Algorithm
+The optimal therapy for patients with PAH is a highly individualised decision,
+taking into account many factors including: drug availability, severity of illness,
+route of administration, side effects, treatment goals, and clinician preference.
+Figure 2 presents a proposed algorithm for the management of patients with
+PAH.(refer to Section A, Figure 2, pg47)
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+65
+SECTION C:
+PAH IN CONGENITAL
+HEART DISEASE
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+SECTION C
+Pulmonary Arterial Hypertension and Congenital Heart Diseases
+16. Introduction
+Many different congenital heart defects are associated with an increased risk
+for the development of pulmonary arterial hypertension. They can be classified
+into 3 categories according to the pathophysiologic mechanisms:
+a. High volume high pressure shunts: Large VSD, large PDA, complete
+AVSD, aortopulmonary window, truncus arteriosus, transposition of
+great arteries with large VSD
+b. High volume low pressure shunts: Large ASD, total or partial
+anomalous pulmonary venous drainage
+c. High pulmonary venous pressure: Obstructed total anomalous
+pulmonary venous drainage, cortriatrium, pulmonary vein stenosis,
+supramitral ring
+Initially these lesions cause reversible pulmonary hypertension. If left
+untreated, progressively obliterative vasculopathy of the pulmonary arterial
+tree eventually results in irreversible pulmonary arterial hypertension. In
+those with intracardiac shunts, reversal of flow (right to left shunt) across the
+cardiac defects will result in cyanosis; a phenomenon known as Eisenmenger
+syndrome.
+Occasionally, progressive pulmonary arterial hypertension still develops
+following initial successful closure of cardiac defects and these patients will
+behave like idiopathic pulmonary arterial hypertension (IPAH).
+17. Clinical Manifestations
+In the Dana Point Classification of PAH 125, PAH associated with congenital
+heart disease is classified together with IPAH and PAH associated with systemic
+diseases. Despite significant similarities in the pulmonary vascular changes
+between Eisenmenger syndrome and PAH due to other causes, there are
+important differences which affect clinical presentation and outcome. The
+important differences are listed in Table 16 152.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+67
+Table 16: Differences between IPAH and Eisenmenger syndrome
+IPAH
+Eisenmenger
+Right ventricular response
+Right ventricular dimension
+Dilatation
+Typically
+hypertrophied
+Right ventricular function
+Rapid deterioration
+Usually preserved
+until late
+Cardiac output
+Reduced
+Maintained by R to L
+shunt
+Prognosis
+Poor, survival
+limited to a
+few years after
+diagnosis
+Fair, survival for
+decades is the rule
+Cyanosis
+None or mild when
+there is shunting
+across PFO
+Severe even at rest
+Secondary erythrocytosis
+Rare
+Common
+Systemic complications
+(renal dysfunction,
+thromboembolism, stroke)
+Rare
+Common
+Perception of exercise
+limitation
+Normal perception
+Known to
+underestimate
+In patients with Eisenmenger syndrome, exercise limitation is present from
+childhood and results in chronic adaptation of ‘normal’ everyday activities to a
+lower intensity. Patients tend to underestimate the degree of exercise limitation
+compared to objective measures of exercise tolerance 153.
+Another major difference between patients with Eisenmenger and IPAH
+is the presence and extent of cyanosis which is severe and occurs at rest in
+Eisenmenger syndrome. Cyanosis and chronic hypoxia causes secondary
+erythrocytosis. Iron deficiency is not uncommon and may cause hyperviscosity
+symptoms such as headache, visual disturbances, and paresthesias. Cyanosis
+and chronic hypoxia also contributes to other systemic complications associated
+with Eisenmenger syndrome such as nephropathy 154.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+Table 17: Clinical manifestations and complications of Eisenmengers syndrome
+Hyperviscosity syndrome
+•
+Headache/dizziness
+•
+Altered mentation/impaired alertness
+•
+Fatigue/myalgia/muscle weakness
+•
+Paraesthesia of fingers, toes, lips
+•
+Tinnitus
+•
+Visual disturbance
+Bleeding complications
+•
+Easy bruising/dental bleeding
+•
+Haemoptysis
+•
+Gastrointestinal bleeding, epitaxis, cerebral haemorrahge
+Thromboembolism
+•
+Stroke/transient ischaemic attacks
+•
+Pulmonary artery thrombosis
+Bacterial infections
+•
+Infective endocarditis
+•
+Cerebral abscess
+•
+Pneumonia
+Iron deficiency
+Arrhythmias
+•
+Supraventricular tachycardia: atrial flutter, atrial fibrillation
+•
+Ventricular tachycardia
+Progressive valvular disease
+•
+Pulmonary regurgitation
+Congestive heart failure – usually late
+Hyperuricaemia and gout
+Nephropathy
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+69
+18. Assessment
+The development of PAH in patients with CHD is very variable with some
+developing irreversible pulmonary vascular obstructive disease early in life
+while others with similar lesions remain operable even in the second decade
+and beyond. Approximately 50% of patients with large VSDs and large PDAs
+will develop Eisenmenger syndrome by early childhood whereas only 10% of
+patients with large ASDs will develop it towards second or third decade of life.
+This is in contrast to almost all the patients with unrepaired truncus arteriosus,
+complete atrioventricular septal defect and transposition of great arteries with
+large VSD will develop irreversible PAH by the end of 1st year.
+The determination of whether a patient with CHD is still operable or has
+irreversible PAH is difficult. The decision on surgical operability requires
+an accurate determination of the degree of pulmonary vasoreactivity or
+reversibility. This requires careful clinical assessment including:
+a. History and clinical findings (presence of cyanosis, heart failure,
+intensity of second heart sound and heart murmur)
+b. Pulse oximetry
+c. Chest X-ray (dilatation of central pulmonary artery, peripheral
+pruning of pulmonary vasculature)
+d. ECG (RVH, P pulmonale, right axis deviation)
+e. Echocardiographic evaluation (chamber sizes and function, the
+pressure gradient of shunt across the defect, tricuspid or pulmonary
+regurgitation velocity)
+f.
+Exercise testing (6-minute walk test or cardiopulmonary exercise test)
+g. Invasive hemodynamic assessment (pulmonary artery pressure, Qp :
+Qs ratio, pulmonary vascular resistance, cardiac output)
+h. Vasodilator response to pharmacological agents. Acute vasodilator
+testing during right heart catheterization using pharmacological
+agents (e.g. inhaled nitric oxide or inhaled iloprost) have proven
+to be useful in the preoperative evaluations, as well as in the treatment of
+postoperative patients with elevated pulmonary vascular resistance *
+i.
+Lung biopsy. Histologic grading of pulmonary vascular disease
+according to Heath and Edwards corresponds to the duration and
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+severity of injury caused by increased pressure and volume load and
+may predicts operability
+•
+Stage I - Medial hypertrophy (reversible)
+•
+Stage II - Cellular Intimal hyperplasia in an abnormally
+muscular artery (reversible)
+•
+Stage III - Lumen occlusion from intimal hyperplasia of
+fibroelastic tissue (partially reversible)
+•
+Stage IV - Arteriolar dilation and medial thinning
+(irreversible)
+•
+Stage V - Plexiform lesion, which is an angiomatoid
+formation (terminal and irreversible)
+•
+Stage VI - Fibrinoid/necrotizing arteritis (terminal and
+irreversible)
+However, it is rarely performed nowadays as it is invasive and has
+limitations of sampling error and availability of histopathology
+expertise.
+* Intervention in patients with congenital heart disease associated with
+pulmonary hypertension involves high morbidity and mortality and should be
+performed in centers with experience managing these cases. To date, there
+are no studies that have established the pressures, flows, and resistances
+that define pulmonary reactivity and suitability for surgery in this group of
+patients
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+71
+19. Eisenmenger Syndrome
+Patients with Eisenmenger syndrome may remain stable for many years 152;155
+The main principle in the management of Eisenmenger patients is not to
+destabilize the balanced physiology and risk reduction strategies.
+19.1 General principle
+19.1.1 General Advice
+a.
+Patients with Eisenmenger syndrome should AVOID the following:
+•
+Pregnancy
+•
+Dehydration
+•
+Moderate to severe strenuous exercise, particularly isometric
+exercise
+•
+Acute exposure to excessive heat (e.g. Hot tub, sauna)
+•
+Chronic high-altitude exposure
+•
+Smoking
+b. Air travel in commercial airlines is not discouraged in stable
+Eisenmenger patients but care should be taken to avoid dehydration
+and inactivity during the flight 156.
+c.
+All medications given to patients with Eisenmenger syndrome should
+be scrutinized carefully to prevent potential alteration in the balanced
+haemodynamic and adverse effects on renal and hepatic systems.
+d. Long term oxygen therapy for at least 12 to 15h/day may improve
+symptoms but has not been shown to influence survival 157;158.
+20. Supportive Therapy
+20.1 Hyperviscosity and Phlebotomy
+Routine phlebotomy (venesection) is NOT recommended 159.
+Secondary erythrocytosis is physiological desirable response to chronic hypoxia
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+Recommendation
+Routine phlebotomy (venesection) is NOT recommended
+other than when indicated as above
+Recommendation
+Monitor iron profile and correct iron deficiency if present
+in Eisenmenger syndrome. Inappropriate and repeated phlebotomy to maintain
+a predetermined level of haematocrit can cause iron deficiency anaemia which
+worsens hyperviscosity symptoms and predisposes the patient to stroke 160;161.
+Indications for phlebotomy:
+• Patients with moderate to severe hyperviscosity syndrome in the
+absence of iron deficiency and dehydration 158;162
+• Preoperatively before non-cardiac surgery to improve haemostasis 163
+Method of phlebotomy 158;162
+• Withdrawal of 10 ml/kg whole blood (250 to 500 ml in adults)
+over 30 to 45 mins, preceded by or concurrent with volume
+replacement (15 to 20 ml/kg isotonic saline)
+• Blood pressure should be monitored before, during and after
+procedure
+• Not more than 2 to 3 phlebotomies should be performed in a year
+20.2 Iron deficiency
+Due to secondary erythrocytosis, sign of iron deficiency can be masked
+clinically. Iron-deficient red blood cells have less oxygen-carrying capacity and
+poor deformability that may lead to increased risk of strokes and vascular
+complications. Serum iron profile (Hb, MCV, MCH, serum iron, ferritin, transferin
+saturation) should be monitored at least annually or whenever indicated. If
+present, it should be corrected with iron supplementation to replete body iron
+store.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+73
+20.3 Bleeding complications
+Eisenmenger syndrome is associated with a paradoxical state of the increased
+risk of thrombosis and bleeding diathesis 152. Haemoptysis is common and is the
+main cause of death in 11 – 30% of patients 164. Thrombocytopenia is often seen
+due to reduced platelet release from megakaryocytes, increased peripheral
+consumption, thrombasthenia and decreased platelet life. Primary fibrinolysis
+and coagulation factor deficiencies also contribute to high bleeding risk.
+Anticoagulants and antiplatelets are generally avoided in Eisenmengers patients
+due to increased risk of bleeding.
+Accurate assessment of the coagulation parameters requires the amount
+of sodium citrate in the coagulation test specimen tubes to be adjusted. In
+patients with high haematocrit, the plasma volume is too low for the amount
+of sodium citrate solution in the normal tubes and coagulation test results may
+be falsely prolonged because of the excess anticoagulant in the plasma. The
+formula to calculate the appropriate sodium citrate volume is: 165
+Haemoptysis is common and major cause of death in Eisenmenger patients
+although in most occasions, it is not severe and self-limiting.
+The underlying causes of haemoptysis include pulmonary infarct from in-situ
+thrombus formation at central pulmonary artery, rupture of aortopulmonary
+collaterals, pulmonary infections, thrombocytopenia and coagulopathy. 164
+Every hemoptysis episode should be regarded as potentially life threatening
+and warrants meticulous evaluation, identification of underlying cause and
+appropriate management (Table 18).158
+X = (100 – PCV) x Y /(595 – PCV)
+X = volume of sodium citrate required for unit volume of blood
+Y = volume of blood required in the blood specimen tube
+PCV = packed cell volume in %
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+Table 18: Management of haemopytsis in Eisenmenger patients
+General Management
+Bed rest, oxygen, cough suppression, tranexamic acid
+Specific Management
+Underlying cause
+Pulmonary infections
+Pulmonary thromboembolism
+Coagulopathy/thrombocytopenia
+Rupture of aortopulmonary collaterals
+Pulmonary artery rupture
+Management
+Antibiotics
+IVC filter,
+Fresh frozen plasma, platelet
+concentrate, desmopressin
+Transcatheter embolization
+Surgery, transcatheter
+embolization
+20.4 Thrombosis and Thromboembolic Complications
+Prevalence of pulmonary artery thrombosis in Eisenmenger syndrome
+is estimated to be 20% 164. Risk factors are increasing age, biventricular
+dysfunction, degree of the pulmonary artery dilatation, female sex and lower
+systemic arterial saturation.
+Patients with cyanotic congenital heart diseases are also at increased risk of
+stroke (13.6%) 160. Atrial fibrillation, systemic hypertension and iron deficiency
+are among the risk factors.
+However, the role of long term anticoagulation in Eisenmenger patients is
+controversial because of the risk of bleeding and difficulty in controlling
+INR within targeted range in cyanotic patients. Therefore, the indication for
+anticoagulation should be individualized and limited to specific indications 166
+•
+Atrial flutter and fibrillation
+•
+Recurrent thromboembolic events
+•
+Mechanical heart valve
+Using air filter in all intravenous line may prevent paradoxical air embolism
+and reduce risk of stroke.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+75
+Recommendation
+Patients with Eisenmenger syndrome have a higher risk of bleeding
+Avoid routine anticoagulation unless risk of thromboembolism
+outweigh risk of bleeding
+20.5 Arrhythmias & Heart Failure
+Supraventricular arrhythmias (atrial flutter, atrial fibrillation) and occasionally
+ventricular arrhythmias are significant cause of morbidity and mortality 167.
+Unfortunately, pharmacological treatment of arrhythmias in Eisenmenger
+patients is limited by haemodynamic side effects and must be used with
+caution.
+Sudden death is common mode of death in Eisenmenger patients 155. It is
+precipitated by arrhythmias, massive haemoptysis and cerebrovascular events.
+Right heart failure is a potential complication of Eisenmenger syndrome. Role
+of digoxin is controversial 168. Diuretics may be indicated to relieve symptoms of
+congestion but care must be taken to avoid dehydration which may precipitate
+hyperviscosity and hypotension 158.
+20.6 Perioperative Management of Non-cardiac Surgery
+Any non-cardiac surgery can be potentially life threatening in Eisenmenger
+patients (perioperative mortality as high as 19%) 169. They are very vulnerable
+to alteration in haemodynamics induced by anaesthesia and surgery 170
+• Drop in systemic vascular resistance increases right-to-left shunting
+and possibly cardiovascular collapse
+• Bleeding diasthesis
+• Thromboembolic complications
+• Arrhythmias
+Any non-essential surgery should be avoided if possible. When surgery is
+necessary, it should preferably be performed in centers with expertise in
+managing these patients.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+Recommendation
+Measures to reduce peri-operative risk should be taken during
+non cardiac surgery for patients with ES
+Risk reduction strategies include
+• Close monitoring during and post-procedure; ideally in intensive care unit
+• Avoid hypovolaemia and dehydration; prolonged fasting should be avoided
+• Systemic hypotension should be treated aggressively
+• Avoid iron deficiency anaemia
+• Meticulous attention to haemostasis; excessive bleeding should
+be treated promptly
+• Preoperative phlebotomy if indicated to improve haemostasis
+• Meticulous attention to intravenous lines to prevent paradoxical air
+embolism (use intravenous filters if available)
+• Endocarditis prophylaxis
+• Avoid prolonged post-operative immobilization; precaution should be
+taken against deep vein thrombosis
+20.7 Nephropathy, Hyperuricaemia and Rheumatological Complications
+Increased blood viscosity can lead to renal hypoperfusion with progressive
+glomerulosclerosis. Renal dysfunction involves proteinuria and hyperuricaemia
+171. Hyperuricaemia has been shown to be an independent poor prognostic
+marker for patients with Eisenmenger syndrome 172. Renal profile and serum
+uric acid level should be measured regularly. Nephrotoxic drugs should be
+avoided.
+Rheumatological complications include gout secondary to hyperuricaemia and
+hypertrophic osteoarthropathy. Gouty arthritis can be treated with colchicines
+or oral corticosteroid. Non-steroidal anti-inflammatory drugs should be
+avoided.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+77
+20.8 Infections
+•
+Intercurrent infections must be treated aggressively
+•
+Immunization against influenza and pneumococcal disease is
+recommended
+•
+Antibiotic prophylaxis against infective endocarditis prior to dental/
+surgical procedures is mandatory
+20.9 Pregnancy and Contraception
+PREGNANCY IS ABSOLUTELY CONTRAINDICATED
+Pregnancy carries high maternal and fetal mortality 173;174. Mothers may
+be particularly at risk in the first few days after delivery. All patients and
+their partners should be counseled regarding avoidance of pregnancy and
+appropriate contraception.
+Women with Eisenmenger syndrome who become pregnant should 175
+•
+Undergo termination of pregnancy as early as possible. Termination in
+the first trimester is a safer option
+•
+Termination of Pregnancy in the 2nd and 3rd trimesters poses a high risk
+to the mother. The risks of termination should be balanced against
+the risks of continuation of the pregnancy
+•
+If a patient chooses to continue with the pregnancy, she should be
+managed by a multidisciplinary team (obstetricians, cardiologist,
+anaesthetist and intensivist) with expertise in managing patients with
+pulmonary hypertension)
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+Recommendation
+Pregnancy is contraindicated and should be avoided with
+appropriate contraception
+20.9.1 Contraception
+•
+Contraception counseling is strongly advised and the method of
+contraception should be discussed with the obstetrician
+•
+Tubal ligation carries some operative risk and endoscopic technique
+is a preferred method
+•
+Use of single-barrier contraception alone is not recommended
+because of high failure rate
+•
+Oestrogen-containing contraceptives increase risk of
+thromboembolism and should be avoided Progesterone-only
+preparations may be considered
+•
+Intrauterine device carries high risk of infection
+20.10 Specific Disease Targeted Treatment
+There is evidence to suggest that the current available therapies for IPAH may
+have some beneficial effect in patients with Eisenmengers syndrome. However
+caution is required when using vasodilators as this may cause reduction in
+systemic vascular resistance and blood pressure which increases the right to
+left shunting and hypoxaemia.
+The use of these specific disease targeted therapy in Eisenmenger patients
+should be limited to centers with experience managing these patients.
+Bosentan Randomised Trial of Endothelin Antagonist Therapy-5 (BREATHE-5)
+is the only large randomised double blind placebo trial conducted in patients
+with Eisenmenger syndrome 72. Bosentan had a beneficial short term effect on
+exercise capacity and cardiopulmonary haemodynamics. The beneficial effects
+on exercise capacity were maintained up to 40 weeks in open label extension
+study (BREATHE-5 OLE) 176.
+A small randomised trial on Sildenafil (10 Eisenmenger patients) showed
+improvement in functional status, exercise capacity and pulmonary arterial
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+79
+Recommendation
+PAH specific drug therapies can be considered in
+patients with symptomatic Eisenmenger’s Syndrome
+Recommendation
+Lung or heart lung transplantation can be considered in
+suitable candidates
+pressure 177. Other non-randomised observation studies have also reported
+beneficial effects of advanced therapy in this group of patients 178;179.
+Similarly, data on prostanoid therapy in patients with Eisenmenger syndrome are
+limited to case reports and small series. Continuous intravenous epoprostenol
+was reported to improve functional class, oxygen saturation, exercise capacity
+and decrease pulmonary vascular resistance 180.
+20.11 Transplantation
+Lung transplantation with repair of the underlying cardiac lesion or heart
+and lung transplantation can be performed as the last option for patients
+with Eisenmenger syndrome. It improves symptoms and quality of life 181;182.
+However, it is currently not practical due to shortage of organs. The current
+5-year survival rate following transplantation is only 45% 183. Most Eisenmenger
+patients tend to have better survival prospect without transplantation (10-year
+survival between 58% and 80%) 158;184.
+Hopkins et al 185 described an actuarial survival in patients with Eisenmenger
+syndrome who did not receive transplantation of 97%, 89%, and 77% at 1, 2,
+and 3 years, respectively, compared with 77%, 69%, and 35% at 1, 2, and 3
+years for patients with IPAH.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+Management Algorithm for Eisenmenger Syndrome
+Diagnosis
+History, physical examination, chest X-ray,
+pulse oxymeter, ECG, echocardiography
+Referral to specialized center
+Further investigations
+Cardiac catheterization, vasoreactivity test,
+exercise testing, cardiac MR, cardiac CT,
+biochemistry, iron study
+General advice
+Endocarditis prophylaxis
+Advice on pregnancy risk and effective
+contraception
+Lifestyle modification, exercise restriction
+General supportive therapy
+Correct iron deficiency
+Anticoagulation/antiplatelet if indicated
+Nocturnal oxygen if indicated
+Diuretics and digoxin if symptomatic right
+heart failure
+Judicious phlebotomy
+Disease targeted therapy
+Bosentan for suitable Class 3 patients
+Sildenafil, prostanoids or combination
+therapy in selected Class 3 or Class 4 patients
+failing Bosentan monotherapy
+Lung/heart-lung transplantation for selected
+Class 4 patients failing medical therapy
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+81
+Barriers and facilitators in implementing the guidelines
+Access to PAH specific drugs can limit implementation of treatment strategies.
+Dissemination of information and educating medical personnel on PAH can aid
+in earlier detection and treatment of patients with PAH.
+Training, financial support
+Specialised centres for management of PAH should be established and expertise
+developed. Medical personnel can then receive appropriate training in these
+centres.
+Since the cost of the PAH specific drugs are expensive, public funding of therapy
+would be necessary.
+Conclusions
+As new therapies have been developed for PAH, screening, prompt diagnosis,
+and accurate assessment of disease severity have become increasingly
+important. However, the diagnosis and treatment of PAH is often complex,
+and it is clear that patients benefit from referral to a centre that specialises in
+the treatment of this disorder.141 In this review, we have proposed a treatment
+algorithm based on the evidence available. However, in clinical practice we
+recognise that the choice of drug is dependent on a variety of factors, including
+approval status, route of administration, side effect profile, patient preference,
+and the physician’s experience and clinical judgment.
+Moving forward, several unresolved questions remain. Firstly, none of the
+currently available therapies is curative, so the search for new treatment
+strategies continues. As we increase our understanding of specific disease
+pathways involved with PAH, there remains the possibility of developing targeted
+therapies that will further improve outcomes. Secondly, there remains a need
+to identify patients with PAH earlier, before the onset of extensive vascular
+remodeling. New tools and diagnostic techniques will be essential to deriving
+maximal benefit from our expanding therapeutic armamentarium. Finally,
+the transfer of this information from bench to bedside requires collaborative
+research. Accordingly, patients and physicians should be encouraged to foster
+such research by participating in RCTs conducted at specialised PHT centres.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+APPENDIX
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+Appendix 12: PAH evidence-based treatment algorithm – Dana Point 200852
+Drugs within the same grade of evidence are listed in alphabetical order and not
+order of preference. Not all agents listed are approved or available for use in all
+countries. Strengths of recommendations are defined in Table 16. *To maintain
+oxygen at 92%. + Investigational, under regulatory review. APAH, associated
+pulmonary arterial hypertension; ERA, endothelin receptor antagonist; HPAH,
+heritable pulmonary arterial hypertension; IPAH, idiopathic pulmonary arterial
+hypertension; IV, intravenous; PAH, pulmonary arterial hypertension; PDE-5,
+phosphodiesterase type 5; SC, subcutaneous; WHO, World Health Organization.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+95
+REFERENCES
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+References
+1
+Rubin LJ. Primary pulmonary hypertension. N Engl J Med. 1997; 336:
+111-7.
+2
+D’Alonzo GE, Barst RJ, Ayres SM, Bergofsky EH, Brundage BH, Detre
+KM, et al. Survival in patients with primary pulmonary hypertension.
+Results from a national prospective registry. Ann Intern Med. 1991;
+115: 343-9.
+3
+Keogh AM, McNeil KD, Wlodarczyk J, Gabbay E, Williams TJ. Quality of
+life in pulmonary arterial hypertension: improvement and maintenance
+with bosentan. J Heart Lung Transplant. 2007; 26: 181-7.
+4
+Simonneau G, Robbins IM, Beghetti M, Channick RN, Delcroix
+M, Denton CP, et al.Updated clinical classification of pulmonary
+hypertension. J Am Coll Cardiol. 2009; 54: S43-54.
+5
+Galie N, Torbicki A, Barst R, Dartevelle P, Haworth S, Higenbottam T,
+et al. Guidelines on diagnosis and treatment of pulmonary arterial
+hypertension. The Task Force on Diagnosis and Treatment of Pulmonary
+Arterial Hypertension of the European Society of Cardiology. Eur Heart
+J. 2004; 25: 2243-78.
+6
+Rubin LJ. Diagnosis and management of pulmonary arterial
+hypertension: ACCP evidence-based clinical practice guidelines. Chest.
+2004; 126: 7S-10S.
+7
+Runo JR, Loyd JE. Primary pulmonary hypertension. Lancet. 2003; 361:
+1533-44.
+8
+Rich S. Executive summary from the world symposium on primary
+pulmonary hypertension. http://wwwwhoint/ncd/cvd/pphhtm. 1998.
+9
+McLaughlin VV, Shillington A, Rich S. Survival in primary pulmonary
+hypertension: the impact of epoprostenol therapy. Circulation. 2002;
+106: 1477-82.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+97
+10
+Sitbon O, Humbert M, Nunes H, Parent F, Garcia G, Herve P, et al.Longterm intravenous epoprostenol infusion in primary pulmonary
+hypertension: prognostic factors and survival. J Am Coll Cardiol. 2002;
+40: 780-8.
+11
+Taichman DB, McGoon MD, Harhay MO, Archer-Chicko C, Sager JS,
+Murugappan M, et al. Wide variation in clinicians’ assessment of New
+York Heart Association/World Health Organization functional class in
+patients with pulmonary arterial hypertension. Mayo Clin Proc. 2009;
+84: 586-92.
+12
+Magliano M, Isenberg DA, Hillson J. Pulmonary hypertension in
+autoimmune rheumatic diseases: where are we now? Arthritis Rheum.
+2002; 46: 1997-2009.
+13
+Fuster V, Steele PM, Edwards WD, Gersh BJ, McGoon MD, Frye RL.
+Primary pulmonary hypertension: natural history and the importance
+of thrombosis. Circulation. 1984; 70: 580-7.
+14
+Hoeper MM, Galie N, Simonneau G, Rubin LJ. New treatments for
+pulmonary arterial hypertension. Am J Respir Crit Care Med. 2002;
+165: 1209-16.
+15
+Kim NH, Rubin LJ. Endothelin in health and disease: endothelin receptor
+antagonists in the management of pulmonary artery hypertension. J
+Cardiovasc Pharmacol Ther. 2002; 7: 9-19.
+16
+Rubin LJ, Roux S. Bosentan: a dual endothelin receptor antagonist.
+Expert Opin Investig Drugs. 2002; 11: 991-1002.
+17
+Christman BW, McPherson CD, Newman JH, King GA, Bernard GR,
+Groves BM, et al. An imbalance between the excretion of thromboxane
+and prostacyclin metabolites in pulmonary hypertension. N Engl J
+Med. 1992; 327: 70-5.
+18
+Tuder RM, Cool CD, Geraci MW, Wang J, Abman SH, Wright L, et al.
+Prostacyclin synthase expression is decreased in lungs from patients
+with severe pulmonary hypertension. Am J Respir Crit Care Med.
+1999; 159: 1925-32.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+19
+Roux S, Breu V, Ertel SI, Clozel M. Endothelin antagonism with
+bosentan: a review of potential applications. J Mol Med. 1999; 77:
+364-76.
+20
+Humbert M, Morrell NW, Archer SL, Stenmark KR, MacLean MR, Lang
+IM, et al.Cellular and molecular pathobiology of pulmonary arterial
+hypertension. J Am Coll Cardiol. 2004; 43: 13S-24S.
+21
+Eddahibi S, Humbert M, Fadel E, Raffestin B, Darmon M, Capron F, et
+al. Serotonin transporter overexpression is responsible for pulmonary
+artery smooth muscle hyperplasia in primary pulmonary hypertension.
+J Clin Invest. 2001; 108: 1141-50.
+22
+Barst RJ. PDGF signaling in pulmonary arterial hypertension. J Clin
+Invest. 2005; 115: 2691-4.
+23
+Bonnet S, Michelakis ED, Porter CJ, Andrade-Navarro MA, Thebaud B,
+Haromy A, et al. An abnormal mitochondrial-hypoxia inducible factor1alpha-Kv channel pathway disrupts oxygen sensing and triggers
+pulmonary arterial hypertension in fawn hooded rats: similarities to
+human pulmonary arterial hypertension. Circulation. 2006; 113: 263041.
+24
+Morrell NW, Adnot S, Archer SL, Dupuis J, Jones PL, MacLean MR, et al.
+Cellular and molecular basis of pulmonary arterial hypertension. J Am
+Coll Cardiol. 2009; 54: S20-31.
+25
+McGoon M, Gutterman D, Steen V, Barst R, McCrory DC, Fortin TA,
+et al. Screening, early detection, and diagnosis of pulmonary arterial
+hypertension: ACCP evidence-based clinical practice guidelines. Chest.
+2004; 126: 14S-34S.
+26
+Proudman SM, Stevens WM, Sahhar J, Celermajer D. Pulmonary
+arterial hypertension in systemic sclerosis: the need for early detection
+and treatment. Intern Med J. 2007; 37: 485-94.
+27
+Hachulla E, Coghlan JG. A new era in the management of pulmonary
+arterial hypertension related to scleroderma: endothelin receptor
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+99
+antagonism. Ann Rheum Dis. 2004; 63: 1009-14.
+28
+Rich S, Dantzker DR, Ayres SM, Bergofsky EH, Brundage BH, Detre KM,
+et al. Primary pulmonary hypertension. A national prospective study.
+Ann Intern Med. 1987; 107: 216-23.
+29
+Humbert M, Sitbon O, Chaouat A, Bertocchi M, Habib G, Gressin V, et
+al.Pulmonary arterial hypertension in France: results from a national
+registry. Am J Respir Crit Care Med. 2006; 173: 1023-30.
+30
+Peacock AJ, Murphy NF, McMurray JJ, Caballero L, Stewart S. An
+epidemiological study of pulmonary arterial hypertension. Eur Respir
+J. 2007; 30: 104-9.
+31
+Gaine SP, Rubin LJ. Primary pulmonary hypertension. Lancet. 1998;
+352: 719-25.
+32
+Galie N, Manes A, Uguccioni L, Serafini F, De Rosa M, Branzi A, et
+al.Primary pulmonary hypertension: insights into pathogenesis from
+epidemiology. Chest. 1998; 114: 184S-94S.
+33
+Battle RW, Davitt MA, Cooper SM, Buckley LM, Leib ES, Beglin PA,
+et al.Prevalence of pulmonary hypertension in limited and diffuse
+scleroderma. Chest. 1996; 110: 1515-9.
+34
+Koh ET, Lee P, Gladman DD, Abu-Shakra M. Pulmonary hypertension
+in systemic sclerosis: an analysis of 17 patients. Br J Rheumatol. 1996;
+35: 989-93.
+35
+MacGregor AJ, Canavan R, Knight C, Denton CP, Davar J, Coghlan J,
+et al. Pulmonary hypertension in systemic sclerosis: risk factors for
+progression and consequences for survival. Rheumatology (Oxford).
+2001; 40: 453-9.
+36
+Pope JE, Lee P, Baron M, Dunne J, Smith D, Docherty PS, et
+al.Prevalence of elevated pulmonary arterial pressures measured by
+echocardiography in a multicenter study of patients with systemic
+sclerosis. J Rheumatol. 2005; 32: 1273-8.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+37
+Schachna L, Wigley FM, Chang B, White B, Wise RA, Gelber AC. Age
+and risk of pulmonary arterial hypertension in scleroderma. Chest.
+2003; 124: 2098-104.
+38
+Stupi AM, Steen VD, Owens GR, Barnes EL, Rodnan GP, Medsger TA, Jr.
+Pulmonary hypertension in the CREST syndrome variant of systemic
+sclerosis. Arthritis Rheum. 1986; 29: 515-24.
+39
+Keogh A, McNeil K, Williams TJ, Gabbay E, Proudman S, Weintraub RG,
+et al. The bosentan patient registry: Long-term survival in pulmonary
+arterial hypertension. Intern Med J. 2009; In press.
+40
+Thenappan T, Shah SJ, Rich S, Gomberg-Maitland M. A USA-based
+registry for pulmonary arterial hypertension: 1982-2006. Eur Respir J.
+2007; 30: 1103-10.
+41
+Barst RJ, Rubin LJ, Long WA, McGoon MD, Rich S, Badesch DB, et al.
+A comparison of continuous intravenous epoprostenol (prostacyclin)
+with conventional therapy for primary pulmonary hypertension. The
+Primary Pulmonary Hypertension Study Group. N Engl J Med. 1996;
+334: 296-302.
+42
+Miyamoto S, Nagaya N, Satoh T, Kyotani S, Sakamaki F, Fujita M, et
+al.Clinical correlates and prognostic significance of six-minute walk
+test in patients with primary pulmonary hypertension. Comparison
+with cardiopulmonary exercise testing. Am J Respir Crit Care Med.
+2000; 161: 487-92.
+43
+Tei C, Dujardin KS, Hodge DO, Bailey KR, McGoon MD, Tajik AJ, et
+al. Doppler echocardiographic index for assessment of global right
+ventricular function. J Am Soc Echocardiogr. 1996; 9: 838-47.
+44
+Yeo TC, Dujardin KS, Tei C, Mahoney DW, McGoon MD, Seward JB.
+Value of a Doppler-derived index combining systolic and diastolic time
+intervals in predicting outcome in primary pulmonary hypertension.
+Am J Cardiol. 1998; 81: 1157-61.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+101
+45
+Nagaya N, Nishikimi T, Uematsu M, Satoh T, Kyotani S, Sakamaki F, et al.
+Plasma brain natriuretic peptide as a prognostic indicator in patients
+with primary pulmonary hypertension. Circulation. 2000; 102: 865-70.
+46
+Barst RJ (ed). Pulmonary arterial hypertension: Evidence-based
+treatment. Wiltshire: Wiley 2008.
+47
+Consensus statement on the management of pulmonary hypertension
+in clinical practice in the UK and Ireland. Heart. 2008; 94 Suppl 1: i141.
+48
+Barst RJ, McGoon M, Torbicki A, Sitbon O, Krowka MJ, Olschewski
+H, et al. Diagnosis and differential assessment of pulmonary arterial
+hypertension. J Am Coll Cardiol. 2004; 43: 40S-47S.
+49
+McLaughlin VV, Archer SL, Badesch DB, Barst RJ, Farber HW, Lindner
+JR, et al.ACCF/AHA 2009 expert consensus document on pulmonary
+hypertension a report of the American College of Cardiology
+Foundation Task Force on Expert Consensus Documents and the
+American Heart Association developed in collaboration with the
+American College of Chest Physicians; American Thoracic Society, Inc.;
+and the Pulmonary Hypertension Association. J Am Coll Cardiol. 2009;
+53: 1573-619.
+50
+Badesch DB, Champion HC, Sanchez MA, Hoeper MM, Loyd JE, Manes
+A, et al.Diagnosis and assessment of pulmonary arterial hypertension.
+J Am Coll Cardiol. 2009; 54: S55-66.
+51
+Guyatt GH, Sullivan MJ, Thompson PJ, Fallen EL, Pugsley SO, Taylor
+DW, et al. The 6-minute walk: a new measure of exercise capacity in
+patients with chronic heart failure. Can Med Assoc J. 1985; 132: 91923.
+52
+Barst RJ, Gibbs JS, Ghofrani HA, Hoeper MM, McLaughlin VV, Rubin
+LJ, et al. Updated evidence-based treatment algorithm in pulmonary
+arterial hypertension. J Am Coll Cardiol. 2009; 54: S78-84.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+53
+Boyer JJ, Busst CM, Denison DM, Shinebourne EA. Effect of longterm oxygen treatment at home in children with pulmonary vascular
+disease. Br Heart J. 1985; 55: 385-90.
+54
+Sandoval J, Aguirre JS, Pulido T, Martinez-Guerra ML, Santos E, Alvarado
+P, et al.Nocturnal oxygen therapy in patients with the Eisenmenger
+syndrome. Am J Respir Crit Care Med. 2001; 164: 1682-7.
+55
+Rich S, Kaufmann E, Levy PS. The effect of high doses of calciumchannel blockers on survival in primary pulmonary hypertension. N
+Engl J Med. 1992; 327: 76-81.
+56
+Ogata M, Ohe M, Shirato K, Takishima T. Effects of a combination
+therapy of anticoagulant and vasodilator on the long-term prognosis
+of primary pulmonary hypertension. Jpn Circ J. 1993; 57: 63-9.
+57
+Bendayan D, Hod M, Oron G, Sagie A, Eidelman L, Shitrit D, Kramer MR.
+Pregnancy outcome in patients with pulmonary arterial hypertension
+receiving prostacyclin therapy. Obstet Gynecol 2005;106:1206–1210.
+58
+Bonnin M, Mercier FJ, Sitbon O, Roger-Christoph S, Jais X, Humbert M,
+Audibert F, Frydman R, Simonneau G, Benhamou D. Severe pulmonary
+hypertension during pregnancy: mode of delivery and anesthetic
+management of 15 consecutive cases. Anestesiology 2005;102:1133–
+1137.
+59
+Mereles D, Ehlken N, Kreuscher S, Ghofrani S, Hoeper MM, Halank M,
+et al.Exercise and respiratory training improve exercise capacity and
+quality of life in patients with severe chronic pulmonary hypertension.
+Circulation. 2006; 114: 1482-9.
+60
+Jacobs W, Vonk-Noordegraaf A. Epoprostenol in pulmonary arterial
+hypertension. Expert Opin Drug Metab Toxicol. 2009; 5: 83-90.
+61
+Kingman M, Ruggiero R, Torres F. Ambrisentan, an endothelin receptor
+type A-selective endothelin receptor antagonist, for the treatment of
+pulmonary arterial hypertension. Expert Opin Pharmacother. 2009;
+10: 1847-58.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+103
+62
+Barst RJ. Sitaxsentan: a selective endothelin-A receptor antagonist,
+for the treatment of pulmonary arterial hypertension. Expert Opin
+Pharmacother. 2007; 8: 95-109.
+63
+Chen SJ, Chen YF, Meng QC, Durand J, Dicarlo VS, Oparil S. Endothelinreceptor antagonist bosentan prevents and reverses hypoxic
+pulmonary hypertension in rats. J Appl Physiol. 1995; 79: 2122-31.
+64
+Galie N, Manes A, Branzi A. The endothelin system in pulmonary
+arterial hypertension. Cardiovasc Res. 2004; 61: 227-37.
+65
+Hill NS, Warburton RR, Pietras L, Klinger JR. Nonspecific endothelinreceptor antagonist blunts monocrotaline-induced pulmonary
+hypertension in rats. J Appl Physiol. 1997; 83: 1209-15.
+66
+Kim H, Yung GL, Marsh JJ, Konopka RG, Pedersen CA, Chiles PG, et
+al. Endothelin mediates pulmonary vascular remodelling in a canine
+model of chronic embolic pulmonary hypertension. Eur Respir J. 2000;
+15: 640-8.
+67
+Pearl JM, Wellmann SA, McNamara JL, Lombardi JP, Wagner CJ,
+Raake JL, et al. Bosentan prevents hypoxia-reoxygenation-induced
+pulmonary hypertension and improves pulmonary function. Ann
+Thorac Surg. 1999; 68: 1714-21; discussion 21-2.
+68
+Stewart DJ, Levy RD, Cernacek P, Langleben D. Increased plasma
+endothelin-1 in pulmonary hypertension: marker or mediator of
+disease? Ann Intern Med. 1991; 114: 464-9.
+69
+Channick RN, Simonneau G, Sitbon O, Robbins IM, Frost A, Tapson
+VF, et al. Effects of the dual endothelin-receptor antagonist bosentan
+in patients with pulmonary hypertension: a randomised placebocontrolled study. Lancet. 2001; 358: 1119-23.
+70
+Galie N, Rubin L, Hoeper M, Jansa P, Al-Hiti H, Meyer G, et al.Treatment
+of patients with mildly symptomatic pulmonary arterial hypertension
+with bosentan (EARLY study): a double-blind, randomised controlled
+trial. Lancet. 2008; 371: 2093-100.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+71
+Wilkins MR, Paul GA, Strange JW, Tunariu N, Gin-Sing W, Banya WA,
+et al. Sildenafil versus Endothelin Receptor Antagonist for Pulmonary
+Hypertension (SERAPH) study. Am J Respir Crit Care Med. 2005; 171:
+1292-7.
+72
+Galie N, Beghetti M, Gatzoulis MA, Granton J, Berger RM, Lauer A,
+et al. Bosentan therapy in patients with Eisenmenger syndrome: a
+multicenter, double-blind, randomized, placebo-controlled study.
+Circulation. 2006; 114: 48-54.
+73
+Rubin LJ, Badesch DB, Barst RJ, Galie N, Black CM, Keogh A, et al.
+Bosentan therapy for pulmonary arterial hypertension. N Engl J Med.
+2002; 346: 896-903.
+74
+Jais X, D’Armini AM, Jansa P, Torbicki A, Delcroix M, Ghofrani HA, et
+al.Bosentan for treatment of inoperable chronic thromboembolic
+pulmonary hypertension: BENEFiT (Bosentan Effects in iNopErable
+Forms of chronIc Thromboembolic pulmonary hypertension), a
+randomized, placebo-controlled trial. J Am Coll Cardiol. 2008; 52:
+2127-34.
+75
+Barst RJ, Ivy D, Dingemanse J, Widlitz A, Schmitt K, Doran A, et al.
+Pharmacokinetics, safety, and efficacy of bosentan in pediatric patients
+with pulmonary arterial hypertension. Clin Pharmacol Ther. 2003; 73:
+372-82.
+76
+Sitbon O, Gressin V, Speich R, Macdonald PS, Opravil M, Cooper DA,
+et al.Bosentan for the treatment of human immunodeficiency virusassociated pulmonary arterial hypertension. Am J Respir Crit Care
+Med. 2004; 170: 1212-7.
+77
+Denton CP, Pope JE, Peter HH, Gabrielli A, Boonstra A, van den Hoogen
+FH, et al.Long-term effects of bosentan on quality of life, survival,
+safety and tolerability in pulmonary arterial hypertension related to
+connective tissue diseases. Ann Rheum Dis. 2008; 67: 1222-8.
+78
+Galie N, Hinderliter AL, Torbicki A, Fourme T, Simonneau G, Pulido T,
+et al.Effects of the oral endothelin-receptor antagonist bosentan on
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+105
+echocardiographic and doppler measures in patients with pulmonary
+arterial hypertension. J Am Coll Cardiol. 2003; 41: 1380-6.
+79
+Humbert M, Segal ES, Kiely DG, Carlsen J, Schwierin B, Hoeper MM.
+Results of European post-marketing surveillance of bosentan in
+pulmonary hypertension. Eur Respir J. 2007; 30: 338-44.
+80
+McLaughlin VV, Sitbon O, Badesch DB, Barst RJ, Black C, Galie N, et al.
+Survival with first-line bosentan in patients with primary pulmonary
+hypertension. Eur Respir J. 2005; 25: 244-9.
+81
+Provencher S, Sitbon O, Humbert M, Cabrol S, Jais X, Simonneau G.
+Long-term outcome with first-line bosentan therapy in idiopathic
+pulmonary arterial hypertension. Eur Heart J. 2006; 27: 589-95.
+82
+Galie N, Badesch BD, Oudiz R, Simonneau G, McGoon M, Keogh
+A, Frost A, Zwicke D, Naeije R, Shapiro RS, Olschewski H, Rubin L.
+Ambrisentan therapy for pulmonary arterial hypertension. J Am Coll
+Cardiol 2005;46:529–535.
+83
+Galie N, Olschewski H, Oudiz RJ, Torres F, Frost A, Ghofrani HA, Badesch
+DB, McGoon MD, McLaughlin VV, Roecker EB, Gerber MJ, Dufton
+C, Wiens BL,Rubin LJ. Ambrisentan for the treatment of pulmonary
+arterial hypertension. Results of the ambrisentan in pulmonary
+arterial hypertension, randomized, double-blind, placebo-controlled,
+multicenter, efficacy (ARIES) study 1 and 2. Circulation 2008;117:3010–
+3019.
+84
+McGoon M, Frost A, Oudiz R, Badesch BD, Galie` N, Olschewski
+H, McLaughlin VV, Gerber MJ, Dufton C, Despain DJ, Rubin LJ.
+Ambrisentan therapy in patients with pulmonary arterial hypertension
+who discontinued bosentan or sitaxsentan due to liver function test
+abnormalities. Chest 2009;135:122–129.
+85
+Gessler T, Schmehl T, Hoeper MM, Rose F, Ghofrani HA, Olschewski H,
+et al.Ultrasonic versus jet nebulization of iloprost in severe pulmonary
+hypertension. Eur Respir J. 2001; 17: 14-9.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+86
+Olschewski H, Simonneau G, Galie N, Higenbottam T, Naeije R, Rubin
+LJ, et al. Inhaled iloprost for severe pulmonary hypertension. N Engl J
+Med. 2002; 347: 322-9.
+87
+Hoeper MM, Schwarze M, Ehlerding S, Adler-Schuermeyer A,
+Spiekerkoetter E, Niedermeyer J, et al.Long-term treatment of primary
+pulmonary hypertension with aerosolized iloprost, a prostacyclin
+analogue. N Engl J Med. 2000; 342: 1866-70.
+88
+Opitz CF, Wensel R, Winkler J, Halank M, Bruch L, Kleber FX, et
+al.Clinical efficacy and survival with first-line inhaled iloprost therapy
+in patients with idiopathic pulmonary arterial hypertension. Eur Heart
+J. 2005; 26: 1895-902.
+89
+Michelakis E, Tymchak W, Lien D, Webster L, Hashimoto K, Archer
+S. Oral sildenafil is an effective and specific pulmonary vasodilator
+in patients with pulmonary arterial hypertension: comparison with
+inhaled nitric oxide. Circulation. 2002; 105: 2398-403.
+90
+Sastry BK, Narasimhan C, Reddy NK, Raju BS. Clinical efficacy of
+sildenafil in primary pulmonary hypertension: a randomized, placebocontrolled, double-blind, crossover study. J Am Coll Cardiol. 2004; 43:
+1149-53.
+91
+Galie N, Ghofrani HA, Torbicki A, Barst RJ, Rubin LJ, Badesch D, et al.
+Sildenafil citrate therapy for pulmonary arterial hypertension. N Engl J
+Med. 2005; 353: 2148-57.
+92
+Singh TP, Rohit M, Grover A, Malhotra S, Vijayvergiya R. A randomized,
+placebo-controlled, double-blind, crossover study to evaluate
+the efficacy of oral sildenafil therapy in severe pulmonary artery
+hypertension. Am Heart J. 2006; 151: 851 e1-5.
+93
+Galie` N, Brundage B, Ghofrani A, Oudiz R, Simonneau G, Safdar Z,
+Shapiro RS, White J, Chan M, Beardsworth A, Frumkin LR, Barst R.
+Tadalafil therapy for pulmonary arterial hypertension. Circulation
+2009;119:2894–2903.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+107
+94
+Shapiro SM, Oudiz RJ, Cao T, Romano MA, Beckmann XJ, Georgiou D,
+et al.Primary pulmonary hypertension: improved long-term effects
+and survival with continuous intravenous epoprostenol infusion. J Am
+Coll Cardiol. 1997; 30: 343-9.
+95
+Sitbon O, McLaughlin VV, Badesch DB, Barst RJ, Black C, Galie N, et
+al.Survival in patients with class III idiopathic pulmonary arterial
+hypertension treated with first-line oral bosentan compared with an
+historical cohort of patients started on i.v. epoprostenol. Thorax. 2005.
+96
+Galie N, Manes A, Negro L, Palazzini M, Bacchi-Reggiani ML, Branzi A.
+A meta-analysis of randomized controlled trials in pulmonary arterial
+hypertension. Eur Heart J. 2009; 30: 394-403.
+97
+Humbert M, Barst RJ, Robbins IM, Channick RN, Galie N, Boonstra A, et
+al. Combination of bosentan with epoprostenol in pulmonary arterial
+hypertension: BREATHE-2. Eur Respir J. 2004; 24: 353-9.
+98
+Hoeper MM, Taha N, Bekjarova A, Gatzke R, Spiekerkoetter E. Bosentan
+treatment in patients with primary pulmonary hypertension receiving
+nonparenteral prostanoids. Eur Respir J. 2003; 22: 330-4.
+99
+Hoeper MM, Leuchte H, Halank M, Wilkens H, Meyer FJ, Seyfarth
+HJ, et al. Combining inhaled iloprost with bosentan in patients with
+idiopathic pulmonary arterial hypertension. Eur Respir J. 2006; 28:
+691-4.
+100
+McLaughlin VV, Oudiz RJ, Frost A, Tapson VF, Murali S, Channick RN, et
+al. Randomized study of adding inhaled iloprost to existing bosentan
+in pulmonary arterial hypertension. Am J Respir Crit Care Med. 2006;
+174: 1257-63.
+101
+Seyfarth HJ, Pankau H, Hammerschmidt S, Schauer J, Wirtz H, Winkler
+J. Bosentan improves exercise tolerance and Tei index in patients with
+pulmonary hypertension and prostanoid therapy. Chest. 2005; 128:
+709-13.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+102
+Gruenig E, Michelakis E, Vachiery JL, Vizza CD, Meyer FJ, Doelberg M, et
+al.Acute Hemodynamic Effects of Single-Dose Sildenafil When Added
+to Established Bosentan Therapy in Patients With Pulmonary Arterial
+Hypertension: Results of the COMPASS-1 Study. J Clin Pharmacol.
+2009.
+103
+Hoeper MM, Faulenbach C, Golpon H, Winkler J, Welte T, Niedermeyer
+J. Combination therapy with bosentan and sildenafil in idiopathic
+pulmonary arterial hypertension. Eur Respir J. 2004; 24: 1007-10.
+104
+Lunze K, Gilbert N, Mebus S, Miera O, Fehske W, Uhlemann F, et al.First
+experience with an oral combination therapy using bosentan and
+sildenafil for pulmonary arterial hypertension. Eur J Clin Invest. 2006;
+36 Suppl 3: 32-8.
+105
+Mathai SC, Girgis RE, Fisher MR, Champion HC, Housten-Harris T,
+Zaiman A, et al. Addition of sildenafil to bosentan monotherapy in
+pulmonary arterial hypertension. Eur Respir J. 2007; 29: 469-75.
+106
+Minai OA, Arroliga AC. Long-term results after addition of sildenafil in
+idiopathic PAH patients on bosentan. South Med J. 2006; 99: 880-3.
+107
+Porhownik NR, Al-Sharif H, Bshouty Z. Addition of sildenafil in patients
+with pulmonary arterial hypertension with inadequate response to
+bosentan monotherapy. Can Respir J. 2008; 15: 427-30.
+108
+Kuhn KP, Wickersham NE, Robbins IM, Byrne DW. Acute effects of
+sildenafil in patients with primary pulmonary hypertension receiving
+epoprostenol. Exp Lung Res. 2004; 30: 135-45.
+109
+Simonneau G, Rubin LJ, Galie N, Barst RJ, Fleming TR, Frost AE, et
+al.Addition of sildenafil to long-term intravenous epoprostenol therapy
+in patients with pulmonary arterial hypertension: a randomized trial.
+Ann Intern Med. 2008; 149: 521-30.
+110
+Stiebellehner L, Petkov V, Vonbank K, Funk G, Schenk P, Ziesche R, et
+al.Long-term treatment with oral sildenafil in addition to continuous
+IV epoprostenol in patients with pulmonary arterial hypertension.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+109
+Chest. 2003; 123: 1293-5.
+111
+Ghofrani HA, Rose F, Schermuly RT, Olschewski H, Wiedemann R,
+Kreckel A, et al. Oral sildenafil as long-term adjunct therapy to inhaled
+iloprost in severe pulmonary arterial hypertension. J Am Coll Cardiol.
+2003; 42: 158-64.
+112
+Ghofrani HA, Wiedemann R, Rose F, Olschewski H, Schermuly RT,
+Weissmann N, et al. Combination therapy with oral sildenafil and
+inhaled iloprost for severe pulmonary hypertension. Ann Intern Med.
+2002; 136: 515-22.
+113
+Wilkens H, Guth A, Konig J, Forestier N, Cremers B, Hennen B, et al.
+Effect of inhaled iloprost plus oral sildenafil in patients with primary
+pulmonary hypertension. Circulation. 2001; 104: 1218-22.
+114
+Ikeda D, Tsujino I, Ohira H, Itoh N, Kamigaki M, Ishimaru S, et al. Addition
+of oral sildenafil to beraprost is a safe and effective therapeutic option
+for patients with pulmonary hypertension. J Cardiovasc Pharmacol.
+2005; 45: 286-9.
+115
+Gomberg-Maitland M, McLaughlin V, Gulati M, Rich S. Efficacy and
+safety of sildenafil added to treprostinil in pulmonary hypertension.
+Am J Cardiol. 2005; 96: 1334-6.
+116
+Paul GA, Gibbs JS, Boobis AR, Abbas A, Wilkins MR. Bosentan
+decreases the plasma concentration of sildenafil when coprescribed
+in pulmonary hypertension. Br J Clin Pharmacol. 2005; 60: 107-12.
+117
+Burgess G, Hoogkamer H, Collings L, Dingemanse J. Mutual
+pharmacokinetic interactions between steady-state bosentan and
+sildenafil. Eur J Clin Pharmacol. 2008; 64: 43-50.
+118
+O’Callaghan DS, Gaine SP. Combination therapy and new types of
+agents for pulmonary arterial hypertension. Clin Chest Med. 2007; 28:
+169-85, ix.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+119
+Reichenberger F, Pepke-Zaba J, McNeil K, Parameshwar J, Shapiro
+LM. Atrial septostomy in the treatment of severe pulmonary arterial
+hypertension. Thorax. 2003; 58: 797-800.
+120
+Rothman A, Sklansky MS, Lucas VW, Kashani IA, Shaughnessy RD,
+Channick RN, et al. Atrial septostomy as a bridge to lung transplantation
+in patients with severe pulmonary hypertension. Am J Cardiol. 1999;
+84: 682-6.
+121
+Sandoval J, Gaspar J, Pulido T, Bautista E, Martinez-Guerra ML, Zeballos
+M, et al.Graded balloon dilation atrial septostomy in severe primary
+pulmonary hypertension. A therapeutic alternative for patients
+nonresponsive to vasodilator treatment. J Am Coll Cardiol. 1998; 32:
+297-304.
+122
+Sandoval J, Rothman A, Pulido T. Atrial septostomy for pulmonary
+hypertension. Clin Chest Med. 2001; 22: 547-60.
+123
+Yamaki S, Wagenvoort CA. Comparison of primary plexogenic
+arteriopathy in adults and children. A morphometric study in 40
+patients. Br Heart J 1985 Oct;54(4):428-34.
+124
+Sandoval J, Bauerle O, Gomez A, Palomar A, Martinez Guerra ML,
+Furuya ME. Primary pulmonary hypertension in children: clinical
+characterization and survival. J Am Coll Cardiol 1995 Feb;25(2):46674.
+125
+Simonneau G, Robbins IM, Beghetti M, Channick RN, Delcroix
+M, Denton CP, et al. Updated clinical classification of pulmonary
+hypertension. J Am Coll Cardiol 2009 Jun 30;54(1 Suppl):S43-S54.
+126
+Norozi K, Wessel A, Buchhorn R, Alpers V, Arnhold JO, Zoege M, et al.
+Is the Ability index superior to the NYHA classification for assessing
+heart failure?: comparison of two classification scales in adolescents
+and adults with operated congenital heart defects. Clin Res Cardiol
+2007 Aug;96(8):542-7.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+111
+127
+Palmer SM, Robinson LJ, Wang A, Gossage JR, Bashore T, Tapson VF.
+Massive pulmonary edema and death after prostacyclin infusion
+in a patient with pulmonary veno-occlusive disease. Chest 1998
+Jan;113(1):237-40.
+128
+Barst RJ, Maislin G, Fishman AP. Vasodilator therapy for primary
+pulmonary hypertension in children. Circulation 1999 Mar
+9;99(9):1197-208.
+129
+Badesch DB, Abman SH, Ahearn GS, Barst RJ, McCrory DC, Simonneau
+G, et al. Medical therapy for pulmonary arterial hypertension: ACCP
+evidence-based clinical practice guidelines. Chest 2004 Jul;126(1
+Suppl):35S-62S.
+130
+Yung D, Widlitz AC, Rosenzweig EB, Kerstein D, Maislin G, Barst RJ.
+Outcomes in children with idiopathic pulmonary arterial hypertension.
+Circulation 2004 Aug 10;110(6):660-5.
+131
+Lammers AE, Hislop AA, Flynn Y, Haworth SG. Epoprostenol treatment
+in children with severe pulmonary hypertension. Heart 2007
+Jun;93(6):739-43.
+132
+Hallioglu O, Dilber E, Celiker A. Comparison of acute hemodynamic
+effects of aerosolized and intravenous iloprost in secondary pulmonary
+hypertension in children with congenital heart disease. Am J Cardiol
+2003 Oct 15;92(8):1007-9.
+133
+Ivy DD, Claussen L, Doran A. Transition of stable pediatric patients with
+pulmonary arterial hypertension from intravenous epoprostenol to
+intravenous treprostinil. Am J Cardiol 2007 Mar 1;99(5):696-8.
+134
+Barst RJ, Ivy D, Dingemanse J, Widlitz A, Schmitt K, Doran A, et al.
+Pharmacokinetics, safety, and efficacy of bosentan in pediatric
+patients with pulmonary arterial hypertension. Clin Pharmacol Ther
+2003 Apr;73(4):372-82.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+135
+Maiya S, Hislop AA, Flynn Y, Haworth SG. Response to bosentan in
+children with pulmonary hypertension. Heart 2006 May;92(5):664-70.
+136
+Rosenzweig EB, Ivy DD, Widlitz A, Doran A, Claussen LR, Yung D, et
+al. Effects of long-term bosentan in children with pulmonary arterial
+hypertension. J Am Coll Cardiol 2005 Aug 16;46(4):697-704.
+137
+Penny DJ, Rose ML, Wilson SE. Preliminary experience with bosentan
+in children with primary pulmonary hypertenion. J Am Coll Cardiol
+2003;41(Supplement A).
+138
+Vogel M, Maiya S, Haworth SG. Current experience with bosentan
+(Tracleer) in the treatment of pediatric patients with pulmonary
+arterial hypertension. 2003.
+139
+Abrams D, Schulze-Neick I, Magee AG. Sildenafil as a selective
+pulmonary vasodilator in childhood primary pulmonary hypertension.
+Heart 2000 Aug;84(2):E4.
+140
+Noori S, Friedlich P, Wong P, Garingo A, Seri I. Cardiovascular effects
+of sildenafil in neonates and infants with congenital diaphragmatic
+hernia and pulmonary hypertension. Neonatology 2007;91(2):92-100.
+141
+Raja SG, Danton MD, MacArthur KJ, Pollock JC. Effects of escalating
+doses of sildenafil on hemodynamics and gas exchange in children
+with pulmonary hypertension and congenital cardiac defects. J
+Cardiothorac Vasc Anesth 2007 Apr;21(2):203-7.
+142
+Schulze-Neick I, Hartenstein P, Li J, Stiller B, Nagdyman N, Hubler M, et
+al. Intravenous sildenafil is a potent pulmonary vasodilator in children
+with congenital heart disease. Circulation 2003 Sep 9;108 Suppl
+1:II167-II173.
+143
+Hoeper MM, Markevych I, Spiekerkoetter E, Welte T, Niedermeyer
+J. Goal-oriented treatment and combination therapy for pulmonary
+arterial hypertension. Eur Respir J 2005 Nov;26(5):858-63.
+144
+Grossi M, Palazzini M, Manes A. Results of aggressive follow-up
+strategy in patients with pulmonary arterial hypertension. Eur Heart J
+2007;28(308).
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+113
+145
+Espinola-Zavaleta N, Vargas-Barron J, Tazar JI, Casanova JM, Keirns
+C, Cardenas AR, et al. Echocardiographic Evaluation of Patients with
+Primary Pulmonary Hypertension Before and After Atrial Septostomy.
+Echocardiography 1999 Oct;16(7, Pt 1):625-34.
+146
+Kerstein D, Levy PS, Hsu DT, Hordof AJ, Gersony WM, Barst RJ. Blade
+balloon atrial septostomy in patients with severe primary pulmonary
+hypertension. Circulation 1995 Apr 1;91(7):2028-35.
+147
+Nihill MR, O’Laughlin MP, Mullins CE. Effects of atrial septostomy
+in patients with terminal cor pulmonale due to pulmonary vascular
+disease. Cathet Cardiovasc Diagn 1991 Nov;24(3):166-72.
+148
+Doyle RL, McCrory D, Channick RN, Simonneau G, Conte J. Surgical
+treatments/interventions for pulmonary arterial hypertension: ACCP
+evidence-based clinical practice guidelines. Chest 2004 Jul;126(1
+Suppl):63S-71S.
+149
+Klepetko W, Mayer E, Sandoval J, Trulock EP, Vachiery JL, Dartevelle
+P, et al. Interventional and surgical modalities of treatment for
+pulmonary arterial hypertension. J Am Coll Cardiol 2004 Jun 16;43(12
+Suppl S):73S-80S.
+150
+Keogh AM, Mayer E, Benza RL, Corris P, Dartevelle PG, Frost AE, et
+al. Interventional and surgical modalities of treatment in pulmonary
+hypertension. J Am Coll Cardiol 2009 Jun 30;54(1 Suppl):S67-S77.
+151
+Spray T.L., Bridges N.D. Lung transplantation for pediatric pulmonary
+hypertension. Prog Pediatr Cardiol 2001 May;12(3):319-25.
+152
+Dimopoulos K, Giannakoulas G, Wort SJ, Gatzoulis MA. Pulmonary
+arterial hypertension in adults with congenital heart disease: distinct
+differences from other causes of pulmonary arterial hypertension and
+management implications. Curr Opin Cardiol 2008 Nov;23(6):545-54.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+153
+Diller GP, Dimopoulos K, Okonko D, Li W, Babu-Narayan SV, Broberg
+CS, et al. Exercise intolerance in adult congenital heart disease:
+comparative severity, correlates, and prognostic implication.
+Circulation 2005 Aug 9;112(6):828-35.
+154
+Dimopoulos K, Diller GP, Koltsida E, Pijuan-Domenech A, Papadopoulou
+SA, Babu-Narayan SV, et al. Prevalence, predictors, and prognostic
+value of renal dysfunction in adults with congenital heart disease.
+Circulation 2008 May 6;117(18):2320-8.
+155
+Diller GP, Dimopoulos K, Broberg CS, Kaya MG, Naghotra US, Uebing
+A, et al. Presentation, survival prospects, and predictors of death in
+Eisenmenger syndrome: a combined retrospective and case-control
+study. Eur Heart J 2006 Jul;27(14):1737-42.
+156
+Broberg CS, Uebing A, Cuomo L, Thein SL, Papadopoulos MG, Gatzoulis
+MA. Adult patients with Eisenmenger syndrome report flying safely on
+commercial airlines. Heart 2007 Dec;93(12):1599-603.
+157
+Deanfield J, Thaulow E, Warnes C, Webb G, Kolbel F, Hoffman A, et al.
+Management of grown up congenital heart disease. Eur Heart J 2003
+Jun;24(11):1035-84.
+158
+Vongpatanasin W, Brickner ME, Hillis LD, Lange RA. The Eisenmenger
+syndrome in adults. Ann Intern Med 1998 May 1;128(9):745-55.
+159
+Spence MS, Balaratnam MS, Gatzoulis MA. Clinical update: cyanotic
+adult congenital heart disease. Lancet 2007 Nov 3;370(9598):1530-2.
+160
+Ammash N, Warnes CA. Cerebrovascular events in adult patients
+with cyanotic congenital heart disease. J Am Coll Cardiol 1996
+Sep;28(3):768-72.
+161
+Perloff JK, Marelli AJ, Miner PD. Risk of stroke in adults with cyanotic
+congenital heart disease. Circulation 1993 Jun;87(6):1954-9.
+162
+Perloff JK, Rosove MH, Child JS, Wright GB. Adults with cyanotic
+congenital heart disease: hematologic management. Ann Intern Med
+1988 Sep 1;109(5):406-13.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+115
+163
+Maurer HM, McCue CM, Robertson LW, Haggins JC. Correction of
+platelet dysfunction and bleeding in cyanotic congenital heart disease
+by simple red cell volume reduction. Am J Cardiol 1975 Jun;35(6):8315.
+164
+Broberg CS, Ujita M, Prasad S, Li W, Rubens M, Bax BE, et al. Pulmonary
+arterial thrombosis in eisenmenger syndrome is associated with
+biventricular dysfunction and decreased pulmonary flow velocity. J
+Am Coll Cardiol 2007 Aug 14;50(7):634-42.
+165
+NCCLS. Collection, Transport, and Processing of Blood Specimens for
+Testing Plasma-Based Coagulation Assays and Molecular Hemostasis
+Assays: Approved Guideline 4th Edition. 2003. Report No.: 5th.
+166
+Oechslin E. Eisenmenger’s Syndrome. In: Gatzoulis MA, Webb
+G.D., Daubeney P.E.F., editors. Diagnosis and Management of Adult
+Congenital Heart Diseases. Churchill Livingstone; 2003. p. 363-768.
+167
+Cantor WJ, Harrison DA, Moussadji JS, Connelly MS, Webb GD, Liu P,
+et al. Determinants of survival and length of survival in adults with
+Eisenmenger syndrome. Am J Cardiol 1999 Sep 15;84(6):677-81.
+168
+Satoh T, Yagi T, Kato S, Azuma K, Kataoka M, Takahashi T, et al. A 38-yearold man with pulmonary hypertension, who had undergone atrial
+septal closure 26 years previously. Keio J Med 2003 Dec;52(4):250-62.
+169
+Lumley J, Whitwam JG, Morgan M. General anesthesia in the presence
+of Eisenmenger’s syndrome. Anesth Analg 1977 Jul;56(4):543-7.
+170
+Ammash NM, Connolly HM, Abel MD, Warnes CA. Noncardiac surgery
+in Eisenmenger syndrome. J Am Coll Cardiol 1999 Jan;33(1):222-7.
+171
+Ross EA, Perloff JK, Danovitch GM, Child JS, Canobbio MM. Renal
+function and urate metabolism in late survivors with cyanotic
+congenital heart disease. Circulation 1986 Mar;73(3):396-400.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+172
+Oya H, Nagaya N, Satoh T, Sakamaki F, Kyotani S, Fujita M, et al.
+Haemodynamic correlates and prognostic significance of serum
+uric acid in adult patients with Eisenmenger syndrome. Heart 2000
+Jul;84(1):53-8.
+173
+Weiss BM, Zemp L, Seifert B, Hess OM. Outcome of pulmonary vascular
+disease in pregnancy: a systematic overview from 1978 through 1996.
+J Am Coll Cardiol 1998 Jun;31(7):1650-7.
+174
+Gleicher N, Midwall J, Hochberger D, Jaffin H. Eisenmenger’s syndrome
+and pregnancy. Obstet Gynecol Surv 1979 Oct;34(10):721-41.
+175
+Warnes CA, Williams RG, Bashore TM, Child JS, Connolly HM,
+Dearani JA, et al. ACC/AHA 2008 guidelines for the management
+of adults with congenital heart disease: a report of the American
+College of Cardiology/American Heart Association Task Force on
+Practice Guidelines (Writing Committee to Develop Guidelines on the
+Management of Adults With Congenital Heart Disease). Developed in
+Collaboration With the American Society of Echocardiography, Heart
+Rhythm Society, International Society for Adult Congenital Heart
+Disease, Society for Cardiovascular Angiography and Interventions, and
+Society of Thoracic Surgeons. J Am Coll Cardiol 2008 Dec 2;52(23):e1121.
+176
+Gatzoulis MA, Beghetti M, Galie N, Granton J, Berger RM, Lauer A,
+et al. Longer-term bosentan therapy improves functional capacity
+in Eisenmenger syndrome: results of the BREATHE-5 open-label
+extension study. Int J Cardiol 2008 Jun 23;127(1):27-32.
+177
+Chau EM, FanKY, Chow WH. Effects of chronic sildenafil in patients
+with Eisenmenger syndrome versus idiopathic pulmonary arterial
+hypertension. Int J Cardiol 2007 Sep 3;120(3):301-5.
+178
+Mukhopadhyay S, Sharma M, Ramakrishnan S, Yusuf J, Gupta MD,
+Bhamri N, et al. Phosphodiesterase-5 inhibitor in Eisenmenger
+syndrome: a preliminary observational study. Circulation 2006 Oct
+24;114(17):1807-10.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+117
+179
+Okyay K, Cemri M, Boyac B, Yalcn R, Cengel A. Use of long-term
+combined therapy with inhaled iloprost and oral sildenafil in an adult
+patient with eisenmenger syndrome. Cardiol Rev 2005 Nov;13(6):3124.
+180
+Fernandes SM, Newburger JW, Lang P, Pearson DD, Feinstein JA,
+Gauvreau K, et al. Usefulness of epoprostenol therapy in the severely
+ill adolescent/adult with Eisenmenger physiology. Am J Cardiol 2003
+Mar 1;91(5):632-5.
+181
+Stoica SC, McNeil KD, Perreas K, Sharples LD, Satchithananda DK, Tsui
+SS, et al. Heart-lung transplantation for Eisenmenger syndrome: early
+and long-term results. Ann Thorac Surg 2001 Dec;72(6):1887-91.
+182
+Waddell TK, Bennett L, Kennedy R, Todd TR, Keshavjee SH. Heartlung or lung transplantation for Eisenmenger syndrome. J Heart Lung
+Transplant 2002 Jul;21(7):731-7.
+183
+Hertz MI, Mohacsi PJ, Boucek MM, Taylor DO, Trulock EP, Deng MC,
+et al. The Registry of the International Society for Heart and Lung
+Transplantation: past, present and future. J Heart Lung Transplant
+2002 Sep;21(9):945-9.
+184
+Oya H, Nagaya N, Uematsu M, Satoh T, Sakamaki F, Kyotani S, et al. Poor
+prognosis and related factors in adults with Eisenmenger syndrome.
+Am Heart J 2002 Apr;143(4):739-44.
+185
+Hopkins WE, Ochoa LL, Richardson GW, Trulock EP. Comparison of the
+hemodynamics and survival of adults with severe primary pulmonary
+hypertension or Eisen menger syndrome. J Heart Lung Transplant
+1996 Jan;15(1 Pt 1):100-5.
+CLINICAL PRACTICE GUIDELINES: MANAGEMENT OF PULMONARY ARTERIAL HYPERTENSION (PAH)
+ACKNOWLEDGEMENT
+The members of the development group of these guidelines would like to
+express their gratitude and appreciation to the following for their contributions:
+•
+Panel of external reviewers who reviewed the draft
+•
+Technical Advisory Committee for CPG for their valuable input and
+feedback
+•
+Dr Fauzana Mohd Pauzi and Dr Mohd Aminuddin Mohd Yusof.
+•
+All those who have contributed directly or indirectly to the
+development of the CPG
+DISCLOSURE STATEMENT
+The panel members had completed disclosure forms. None held shares in
+pharmaceutical firms or acted as consultants to such firms. (Details are available
+upon request from the CPG Secretariat)
+SOURCES OF FUNDING
+The development of the CPG on Pulmunory Arterial Hypertension was
+supported via unrestricted educational grant from Invida (Singapore) Private
+Limited

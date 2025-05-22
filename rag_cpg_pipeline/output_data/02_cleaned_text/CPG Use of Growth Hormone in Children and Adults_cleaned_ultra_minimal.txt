@@ -1,0 +1,3687 @@
+Clinical Practice Guidelines
+oHPIPAK213.10 (24)
+THe use oF
+Ea
+GROWTH HORMONE ~
+IN CHILDREN
+AND ADULTS
+DP
+The Use of Growth Hormone in Children and Adults
+These clinical practice guidelines (CPG) are meant to be guides for
+clinical practice, based on the best available evidence at the time of
+development. Adherence to these guidelines may not necessarily
+guarantee the best outcome in every case. Every healthcare provider is
+responsible for the management of his/her unique patient based on the
+clinical picture presented by the patient and the management options
+available locally.
+These guidelines were issued in 2010 and will be reviewed in 2014 or
+sooner if new evidence becomes available.
+CPG Secretariat
+Health Technology Assessment Section
+Medical Development Division
+Ministry of Health Malaysia
+4th Floor, Block E1, Parcel E
+62590 Putrajaya
+Electronic version available on the following website:
+http://www.moh.gov.my
+http://www.acadmed.org.my
+http://www.endocrine.my/index.php
+The Use of Growth Hormone in Children and Adults
+No.
+TITLE
+Page
+LEVELS OF EVIDENCE SCALE AND GRADES
+i
+OF RECOMMENDATION
+GUIDELINE DEVELOPMENT AND OBJECTIVES
+ii
+GUIDELINE DEVELOPMENT GROUP
+v
+REVIEW COMMITTEE
+vi
+EXTERNAL REVIEWERS
+vii
+ALGORITHM FOR GROWTH HORMONE
+viii
+THERAPY IN CHILDREN
+ALGORITHM FOR MANAGEMENT OF
+ix
+GROWTH HORMONE-TREATED CHILDREN
+DURING TRANSITION PERIOD
+ALGORITHM FOR SCREENING AND DIAGNOSIS
+x
+FOR ADULT WITH POSSIBLE GROWTH
+HORMONE DEFICIENCY
+1.
+INTRODUCTION
+1
+2.
+USE OF GROWTH HORMONE IN GROWTH
+4
+HORMONE DEFICIENT (GHD) CHILDREN
+2.1 Diagnosis Of Growth Hormone Deﬁciency
+In Children
+2.1.1 Clinical and Auxological Criteria
+4
+2.1.2 Biochemical Tests
+5
+2.1.3 Radiological Evaluation
+7
+2.1.4 Criteria for Referral
+8
+2.2 Treatment Of Growth Hormone Deﬁciency
+8
+In Children
+2.2.1 Initiation
+9
+2.2.2 Dosage
+9
+2.2.3 Monitoring
+10
+2.2.4 Beneﬁts
+13
+2.2.5 Safety
+15
+3.
+USE OF GROWTH HORMONE IN
+20
+NON-GHD CHILDREN
+3.1 Turner Syndrome
+20
+3.2 Small for Gestational Age
+22
+3.3 Idiopathic Short Stature
+25
+3.4 Familial/Genetic Short Stature
+27
+3.5 Chronic Renal Insufﬁciency
+27
+3.6 Prader-Willi Syndrome
+28
+3.7 Noonan Syndrome
+30
+3.8 Russell-Silver Syndrome
+31
+3.9 Skeletal Dysplasia
+The Use of Growth Hormone in Children and Adults
+No.
+TITLE
+Page
+4.
+USE OF GROWTH HORMONE IN TRANSITION
+33
+PATIENT
+4.1 Who Should Continue GH Therapy?
+33
+4.2 Re-testing of GHD Patients
+34
+4.3 Dose of GH
+35
+4.4 Beneﬁts of Treatment
+36
+5.
+GROWTH HORMONE DEFICIENCY IN ADULTS
+37
+5.1 Clinical Features of Adult With GH
+37
+Deﬁciency Syndrome
+5.2 Aetiology
+38
+5.3 Diagnosis
+39
+5.4 Beneﬁts
+40
+5.5 Dosage
+43
+5.6 Safety
+44
+6.
+USE OF GROWTH HORMONE IN NON-GHD
+46
+ADULTS
+6.1 Burns Patients
+46
+6.2 Critically Ill Patients
+46
+6.3 Fibromyalgia
+46
+6.4 Anti Ageing Therapy In Healthy Elderly
+47
+6.5 Sports
+48
+6.6 Infertility
+48
+6.7 Obesity
+49
+REFERENCES
+50
+Appendix 1 Search Terms
+70
+Appendix 2 Clinical Questions
+73
+Appendix 3 National Child Health
+75
+Statistic (NCHS) Chart
+Appendix 4 Suggested Growth Hormone
+79
+Dosages And Side Effects
+List Of Abbreviations
+81
+Proposed Clinical Audit Indicators For Quality
+82
+Management
+Acknowledgements
+82
+Disclosure Statement
+82
+Sources Of Funding
+The Use of Growth Hormone in Children and Adults
+i
+Level
+I
+II -1
+II-2
+II-3
+III
+Study design
+Evidence from at least one properly randomised controlled trial
+Evidence obtained from well-designed controlled trials without
+randomisation
+Evidence obtained from well-designed cohort or case-control
+analytic studies, preferably from more than one centre or
+group
+Evidence from multiple time series with or without intervention.
+Dramatic results in uncontrolled experiments (such as the
+results of the introduction of penicillin treatment in the 1940s)
+could also be regarded as this type of evidence
+Opinions of respected authorities based on clinical experience;
+descriptive studies and case reports; or reports of expert
+committees
+SOURCE: US / CANADIAN PREVENTIVE SERVICES TASK FORCE
+LEVELS OF EVIDENCE SCALE
+A
+B
+C
+At least one meta analysis, systematic review, or RCT, or
+evidence rated as good and directly applicable to the target
+population
+Evidence from well conducted clinical trials, directly applicable
+to the target population, and demonstrating overall consistency
+of results; or evidence extrapolated from meta analysis,
+systematic review, or RCT
+Evidence from expert committee reports, or opinions and /or
+clinical experiences of respected authorities; indicates absence
+of directly applicable clinical studies of good quality
+GRADES OF RECOMMENDATION
+SOURCE: MODIFIED FROM THE SCOTTISH INTERCOLLEGIATE GUIDELINES
+NETWORK (SIGN)
+Note: The grades of recommendation relates to the strength of the
+evidence on which the recommendation is based. It does not reﬂ ect the
+clinical importance of the recommendation.
+The Use of Growth Hormone in Children and Adults
+ii
+GUIDELINE DEVELOPMENT AND OBJECTIVES
+GUIDELINE DEVELOPMENT
+The Development Group for this Clinical Practice Guidelines (CPG)
+was from the Ministry of Health (MOH), Ministry of Higher Education
+and private sector. They consisted of paediatric endocrinologists,
+paediatricians, adult endocrinologists, a geriatrician, a family medicine
+specialist, public health physicians and a pharmacist. There was
+active involvement of the Review Committee during the process of
+development of these guidelines.
+Literature search was carried out at the following electronic databases:
+PUBMED/MEDLINE, Cochrane Database of Systemic Reviews
+(CDSR), International Health Technology Assessment websites, Journal
+full text via OVID search engine, Database of Abstracts of Reviews
+of Effectiveness and Cochrane Controlled Trials Register (Refer to
+Appendix 1 for Search Terms). In addition, the reference lists of all
+retrieved articles were searched to identify relevant studies. Experts
+in the ﬁeld were also contacted to identify further studies. All searches
+were conducted between 20 January 2009 and 11 August 2010. This
+date period should be considered the starting point for searching of new
+evidence for future updates to these guidelines.
+Reference was also made to other guidelines on Growth Hormone e.g.
+American Association of Clinical Endocrinologists Medical guidelines
+For Clinical Practice for Growth Hormone Use in Adults and Children2003 update; American Association of Clinical Endocrinologists
+Medical Guidelines for Clinical Practice for Growth Hormone Use in
+Growth Hormone Deﬁcient Adults and Transition Patients Children2009 update; Guidelines for the Availability of Human Growth Hormone
+(hGH) as a Pharmaceutical Beneﬁt, Department of Health and Ageing,
+Australia, July 2008; Consensus Statement on the Management of
+the GH-Treated Adolescent in the Transition to Adult Care, Society
+of European Jornal of Endocrinology, 2005; Update of Guidelines
+for The Use of Growth Hormone in Children: The Lawson Wilkins
+Pediatric Endocrinology Society Drug and Therapeutics Committee,
+The Journal of Pediatrics, October 2003; Consensus guidelines for the
+Diagnosis and Treatment of Growth Hormone Deﬁciency in Childhood
+and Adolescence: Summary Statement of the GH Research Society,
+European Journal of Endocrinology 2005; and Consensus Guidelines
+for the Diagnosis and Treatment of Adults with Growth Hormone
+Deﬁciency: Summary Statement of the Growth Hormone Research
+Society Workshop on Adult Growth Hormone Deﬁciency 1998. These
+CPGs were evaluated using the Appraisal of Guidelines for Research
+and Evaluation (AGREE) prior to them being used as references.
+The Use of Growth Hormone in Children and Adults
+iii
+Twenty four clinical questions were developed under three subgroups
+and members of the development group were assigned individual
+questions within these subtopics. (Refer to Appendix 2 for Clinical
+Questions). The group members met a total of 26 times throughout the
+development of these guidelines. All literature retrieved was appraised
+by at least two members and presented in the form of evidence
+tables and discussed during development group meetings. Later, all
+statements and recommendations formulated were agreed upon by
+both the development group and review committee. Where evidence
+was insufﬁcient, the recommendations were made by consensus of
+the development group and review committee. These CPG are based
+mainly on the ﬁndings of systematic reviews, meta-analyses and clinical
+trials, with local practices taken into consideration.
+The articles were graded using the US/Canadian Preventive
+Services Task Force Level of Evidence (2001), while the grading of
+recommendation in these guidelines was modiﬁed from grades of
+recommendation of the Scottish Intercollegiate Guidelines Network
+(SIGN).
+The draft guideline was posted on the MOH Malaysia ofﬁcial website
+for comment and feedback. These guidelines had also been presented
+to the Technical Advisory Committee for CPG, and the HTA and CPG
+Council, MOH, Malaysia for review and approval.
+OBJECTIVES
+GENERAL OBJECTIVE
+To provide an evidence-based guidance on the use of growth hormone
+(GH) in children, transition period and adults
+SPECIFIC OBJECTIVES
+ü To improve early recognition of GH deﬁciency
+ü To recognise suitable candidates for GH therapy
+ü To understand the pitfalls in diagnosis of GH deﬁciency
+ü To identify the risks and beneﬁts of GH therapy
+ü To provide guidance for treatment and monitoring treatment effect
+and side effects of GH therapy
+ü To re-evaluate GH treated children during transition period and
+identify candidates who should continue GH therapy into adulthood
+CLINICAL QUESTIONS
+Refer to Appendix 2
+The Use of Growth Hormone in Children and Adults
+iv
+TARGET POPULATION
+a. Inclusion criteria
+ü Short and slowly growing children
+ü Childhood onset growth hormone deﬁciency (COGHD)
+ü Adults in whom growth hormone usage is being considered
+b. Exclusion criteria
+ü Children with chronic systemic diseases such as chronic lung
+disease and congenital heart disease
+TARGET GROUP/USER
+These guidelines are applicable to all healthcare professionals who are
+involved in the management of patients who may beneﬁt from growth
+hormone therapy:-
+ü General practitioners and primary care doctors
+ü Medical ofﬁcers
+ü Paediatricians
+ü Physicians
+ü Endocrinologists
+ü Pharmacists
+ü Other specialists (Sports Medicine Specialists, Geriatricians,
+Obstetrician and Gynaecologists, Rheumatologist, Intensivist,
+Surgeons in the Burns Unit, Clinical Psychiatrists and
+Psychologists)
+HEALTHCARE SETTINGS
+Outpatient, inpatient and community settings
+The Use of Growth Hormone in Children and Adults
+v
+GUIDELINES DEVELOPMENT GROUP
+Chairperson
+Professor Dr. Wu Loo Ling
+Senior Consultant Paediatric Endocrinologist and Professor of Paediatrics
+Universiti Kebangsaan Malaysia Medical Centre
+Kuala Lumpur
+Members (alphabetical order)
+Dr. Alexander Tan Tong Boon
+Endocrinologist and Lecturer
+University Malaya Medical Centre
+Kuala Lumpur
+Dr. Chin Ai-Vyrn
+Consultant Geriatrician and Lecturer
+University Malaya Medical Centre
+Kuala Lumpur
+Dr. Fuziah Md. Zain
+Senior Consultant Paediatric
+Endocrinologist and Head of Department
+Hospital Putrajaya
+Putrajaya
+Dr. Hew Fen Lee
+Senior Consultant Endocrinologist
+Sime Darby Medical Centre (Subang Jaya)
+Subang Jaya, Selangor
+Dr. Janet Hong Yeow Hua
+Consultant Paediatric Endocrinologist
+Hospital Putrajaya
+Putrajaya
+Professor Dr. Khoo Ee Ming
+Senior Consultant Family Medicine
+Specialist and Professor of Primary Care
+Universiti Malaya Medical Centre
+Kuala Lumpur
+Dr. Lim Poi Giok
+Paediatric Endocrinologist
+Hospital Kuala Lumpur
+Pn. Michelle Tan Hwee Pheng
+Senior Pharmacist
+Universiti Kebangsaan Malaysia Medical
+Centre, Kuala Lumpur
+Dr. Muhammad Yazid Jalaludin
+Paediatric Endocrinologist and Lecturer
+University Malaya Medical Centre
+Kuala Lumpur
+Professor Dr. Rokiah Pendek
+Senior Consultant Endocrinologist and
+Professor of Medicine
+University Malaya Medical Centre
+Kuala Lumpur
+Dr. Roza Sarimin
+Public Health Physician
+Health Technology Assessment Section
+Ministry of Health
+Dr. Sheamini Sivasampu
+Public Health Physician
+Clinical Research Centre
+National Institute of Health
+Dr. Yong Sy Liang
+Endocrinologist
+Hospital Tengku Ampuan Rahimah
+Kelang, Selangor
+Dr. Zainah Shaik Hedra
+Consultant Paediatrician and Head of
+Department
+Hospital Batu Pahat
+Batu Pahat, Johor
+Dr. Zanariah Hussein
+Senior Consultant Endocrinologist and
+Head of Department
+Hospital Putrajaya, Putrajaya
+The Use of Growth Hormone in Children and Adults
+REVIEW COMMITTEE
+The draft guidelines were reviewed by a panel of independent
+expert referees from both public and private sectors including nongovernmental organisation who were asked to comment primarily on
+the comprehensiveness and accuracy in the interpretation of evidence
+supporting the recommendations in the guidelines.
+Chairperson
+Professor Datuk Dr. Khalid Kadir
+Senior Consultant Endocrinologist and Professor of Medicine
+Monash University, Bandar Sunway
+Selangor
+Members (alphabetical order)
+Professor Dr. Fatimah Harun
+Senior Consultant Paediatric Endocrinologist
+and Professor of Paediatrics
+University Malaya Medical Centre
+Kuala Lumpur
+Professor Dato’ Dr. Mafauzy Mohamed
+Senior Consultant Endocrinologist and Professor of Medicine
+Hospital Universiti Sains Malaysia
+Kubang Kerian, Kelantan
+Professor Dr. Nor Azmi Kamaruddin
+President
+Malaysian Endocrine and Metabolic Society
+Senior Consultant Endocrinologist and
+Professor of Medicine
+Dr. Soo Thian Lian
+Senior Consultant Paediatrician and Head
+of Department
+Hospital Wanita dan Kanak-Kanak Sabah,
+Likas, Sabah
+Dr. Wong Swee Lan
+Senior Consultant Paediatrician
+Hospital Tuanku Jaafar
+Seremban, Negeri Sembilan
+The Use of Growth Hormone in Children and Adults
+vii
+EXTERNAL REVIEWERS (alphabetical order)
+The following external reviewers provided feedback on the draft:
+Professor Dato’ Dr. Anuar Zaini Md. Zain
+Head, School of Medicine and Health Sciences
+Monash University
+Bandar Sunway, Selangor
+Dr. Arlene Ngan
+Senior Consultant Endocrinologist
+Sau Seng Lam Diabetes Centre
+Puchong, Selangor
+Dr. Azmillah Rosman
+Consultant Rheumatologist and
+Head of Medical Department
+Hospital Selayang, Selangor
+Professor Dr. Chan Siew Pheng
+Senior Consultant Endocrinologist and
+Professor of Medicine
+Universiti Malaya Medical Centre
+Kuala Lumpur
+Dato’ Dr. Jimmy Lee Kok Foo
+Senior Consultant Paediatrician and
+Head of Department
+Hospital Sultanah Nur Zahirah
+Kuala Terengganu, Terengganu
+Dr. Kevin C.J.Yuen
+Assistant Professor in Endocrinology
+Department of Endocrinology, Diabetes and Clinical
+Nutrition
+Oregon Health and Science University
+Portland, United States of America
+Professor Dr. Lee Kok Onn
+Senior Consultant Endocrinologist and
+Professor of Medicine
+Head, Division of Endocrinology
+Department of Medicine
+National University of Singapore
+Pn. Noraini binti Mohamad
+Senior Pharmacist
+Hospital Putrajaya
+Putrajaya
+The Use of Growth Hormone in Children and Adults
+viii
+ALGORITHM FOR GROWTH HORMONE THERAPY IN CHILDREN
+* After exclusion of systemic diseases, skeletal disorders,
+hypothyroidism and Turner syndrome
+** Slow growth is deﬁ ned by downward deviation of height > 1
+percentile band over not less than 12 months
+*** A minimum of two GH stimulation tests using either ITT, GST, AST
+are needed for diagnosis
+IÊ-ÕÃ«iVÌÊ
+UÊÊ-
+ÀÌÊÃÌ>ÌÕÀiÊ­ÌÊÎÀ`Ê«iÀViÌiÊÀ
+Ê
+ÊÌ>À}iÌÊ
+i}
+ÌÊÀ>}i®Ê
+UÊÊII-ÜÊ}ÀÜÌ
+Ê
+UÊÊ
+i>Þi`ÊLiÊ>}i
+/ÕÀiÀÊÃÞ`Ài
+UÊÊ-
+ÀÌÊÃÌ>ÌÕÀiÊ­ÌÊÎÀ`Ê«iÀViÌi®Ê
+É",
+ÊÊ IIÊ-ÜÊ}ÀÜÌ
+Ê
+UÊÊ
+À}V>Ê>}iÊ£ÓÊÞi>ÀÃÊ",
+Ê
+LiÊ>}iÊ£äÊÞi>ÀÃ
+->ÊvÀÊiÃÌ>Ì>Ê}i
+UÊÊÊ{ÊÞi>ÀÃÊ
+UÊÊ-
+ÀÌÊÃÌ>ÌÕÀiÊ­ÌÊÎÀ`Ê«iÀViÌi®
+Ê
+
+UÊÊIIÊ-ÜÊ}ÀÜÌ
+,iviÀÊÌÊ«>i`>ÌÀVÊi`VÀ}ÃÌÊvÀÊvÕÀÌ
+iÀÊiÛ>Õ>Ì
+IIIÊÊÃÌÕ>ÌÊÌiÃÌÃ
+­//É-/É-/®
+*i>ÊÊ£äV}É
+*i>ÊÊ£äV}É
+ÃÌÀÞÊv
+Ê
+À>>ÊÀÀ>`>Ì
+ÊÞ«Ì
+>>V«ÌÕÌ>ÀÞÊ`Ãi>Ãi
+UÊÊ,
+UÊÊÃÃiÃÃÊÌ
+iÀÊ«ÌÕÌ>ÀÞ
+Ê
+ÀiÃÊ`ivViVÞ
+
+9iÃ
+
+9iÃ
+ÌÀÊ}ÀÜÌ
+-ÜÊ}ÀÜÌ
+ÌÕiÊÌÊLÃiÀÛi
+/Ài>ÌiÌÊÜÌ
+ÊÀ
+
+³Ê,i«>ViiÌÊvÊÌ
+iÀÊ«ÌÕÌ>ÀÞ
+ÀiÊ`ivViVÞ
+/Ài>ÌiÌÊÜÌ
+ÊÀ
+
+
+The Use of Growth Hormone in Children and Adults
+ALGORITHM FOR MANAGEMENT OF GROWTH HORMONETREATED CHILDREN DURING TRANSITION PERIOD
+Legend
+GHD
+: Growth Hormone Deﬁ ciency
+ITT
+: Insulin Tolerance test
+IGF-1
+: Insulin- like Growth Factor 1
+GST
+: Glucagon Stimulation test
+MPHD : Multiple Pituitary Hormone Deﬁ ciency
+Modiﬁ ed from AACE Medical Guidelines for Clinical Practice for Growth
+Hormone Use in Growth Hormone Deﬁ cient Adults and Transition
+Patients- 2009 Update. Endocrine Practice Vol 15
+ÊÌÀi>Ìi`ÊV
+`ÀiÊ`ÕÀ}ÊÌÀ>ÃÌ
+«iÀ`ÊÜÌ
+Ê«ÃÃLiÊ
+«iÀÃÃÌiÌÊÊ`ivViVÞ
+ÊÊÊÊÊÊÊÊÊÊÊ"À}>VÊ`Ãi>Ãi
+UÊÊ≥ÊÎÊ«ÌÕÌ>ÀÞÊ
+ÀiÃÊ`ivViÌ
+UÊÊ
+ÜÊ£Ê­ÊÓ°xÊ«iÀViÌiÉÓ-
+®
+ÊÊÊÊÊÊÊÊ"À}>VÊ`Ãi>Ãi
+UÊÊä]Ê£ÊÀÊÓÊ«ÌÕÌ>ÀÞÊ
+ÀiÃ
+Ê
+`ivViÌÊ
+UÊÊ£ÊÊxäÊ«iÀViÌiÉä-
+`«>Ì
+VÊÊ`ivViVÞÊ
+V
+`
+`Ê",ÊÃÕÃ«iVÌ
+Þ«Ì
+>>VÊÀ}
+*
+Ê
+É",
+£ÊÊxäÊ«iÀViÌiÉä-
+­}
+ÊÃÕÃ«V®
+À>Ê£Ê­≥Êä-
+®
+­
+ÜÊÃÕÃ«V®
+-ÌÕ>ÌÊÌiÃÌ
+//ÊÀÊ-/
+ÊvÕÀÌ
+iÀÊÌiÃÌ}Ê
+/Ài>Ì
+//
+*i>ÊÊ≤Êx°äÊV}É
+/Ài>Ì
+ÕV>}
+*i>ÊÊ≤ÊÎ°äÊV}É
+/Ài>Ì
+"LÃiÀÛi
+The Use of Growth Hormone in Children and Adults
+ALGORITHM FOR SCREENING AND DIAGNOSIS
+FOR ADULT WITH POSSIBLE GROWTH HORMONE DEFICIENCY
+Legend
+GHD
+: Growth Hormone Deﬁ ciency
+ITT
+: Insulin Tolerance test
+IGF-1
+: Insulin- like Growth Factor 1
+GST
+: Glucagon Stimulation test
+MPHD : Multiple Pituitary Hormone Deﬁ ciency
+Modiﬁ ed from AACE Medical Guidelines for Clinical Practice for Growth
+Hormone Use in Growth Hormone Deﬁ cient Adults and Transition
+Patients- 2009 Update. Endocrine Practice Vol 15
+`ÕÌÊÜÌ
+ÊVV>Êvi>ÌÕÀiÃÊ
+v
+Ê`ivViVÞ
+ÊÊÊÊÊÊÊ"À}>VÊ`Ãi>Ãi
+UÊÊ≥ÊÎÊ
+ÀiÃÊ`ivViÌ
+UÊÊ
+ÜÊ£
+Ê
+­ÊÓ°xÊ«iÀViÌiÉÓ-
+®
+ÊÊÊÊÊÊÊÊ"À}>VÊ`Ãi>Ãi
+UÊÊ£ÊÀÊÓÊ
+ÀiÃÊ`ivViÌÊ
+UÊÊ£Ê­ÊxäÊ«iÀViÌiÉäÊÊÊÊÊÊÊÊÊÊÊÊÊÊÊÃÌÀÞÊv\
+UÊÊi>`ÊÕÀÞ]
+UÊÊ
+À>>ÊÀÀ>`>Ì]
+UÊÊ-ÕL>À>V
+`Ê
+iÀÀ
+>}iÊÀ
+Ê
+Þ«Ì
+>>VÊ`Ãi>Ãi
+-ÌÕ>ÌÊÌiÃÌ
+//ÊÀÊ-/
+ÊvÕÀÌ
+iÀÊÌiÃÌ}Ê
+/Ài>Ì
+//
+*i>ÊÊ≤Êx°äÊV}É
+/Ài>Ì
+ÕV>}
+*i>ÊÊ≤ÊÎ°äÊV}É
+/Ài>Ì
+The Use of Growth Hormone in Children and Adults
+The Use of Growth Hormone in Children and Adults
+1
+1. INTRODUCTION
+Growth hormone (GH) has been used in clinical practice since 1950s.
+The initial source of GH was human cadaver pituitary extract. The
+supply was scarce and the scope of GH usage then was limited only to
+children with proven GH deﬁciency. In 1985, pituitary-derived GH was
+banned because of its association with Creutzfeld Jacob disease. This
+triggered an acceleration in the biosynthesis of GH via recombinant
+DNA technology. Today there is an abundant supply of biosynthetic GH
+commercially. The use of GH has also expanded markedly beyond GH
+deﬁciency to conditions without GH deﬁciency where data regarding its
+efﬁcacy and safety in these conditions are still lacking.
+In Malaysia, recombinant human growth hormone (rhGH) has been
+commercially available since 1985. However, despite its increased
+availability, many GH deﬁcient (GHD) children are still deprived of rhGH
+therapy due to its high cost and concerns regarding its long-term safety.
+On the contrary, the broadening of scope of GH therapy also has its
+drawbacks including its increasing use and abuse of GH in a broad
+variety of growth disorders without evidence of GH deﬁciency.
+rhGH therapy should not be taken lightly in view of its high cost, the
+need of prolonged therapy with close follow up by practicing clinicians
+familiar with rhGH therapy, potential adverse effects and the negative
+psychological impact from unsuccessful therapy.
+In a 25 kg child, at low dose of 0.025 mg/kg/day, the cost of rhGH
+approximates RM950 per month (RM11,400 per year). The cost
+escalates as rhGH dose requirement increases and the child grows
+in stature reaching a hefty sum of more than RM2,000 per month.
+The duration of rhGH therapy could range from four to ten years for
+optimisation of linear growth to lifelong for severe childhood-onset or
+adult-onset GH deﬁciency.
+In adults, the indications for GH therapy are well deﬁned but the
+enthusiasm for rhGH use has also far exceeded medical evidence. Unlike
+that in children, the lack of linear growth in adults renders response to
+rhGH therapy more difﬁcult to measure. These CPG speciﬁcally aim
+to evaluate the scientiﬁc and clinical evidence of appropriate rhGH
+use and abuse in order to put these “indications” into their respective
+scientiﬁc contexts.
+The Use of Growth Hormone in Children and Adults
+2
+1.1 GROWTH HORMONE DEFICIENCY IN CHILDREN
+GH deﬁciency in children results from developmental abnormalities
+or diseases affecting the hypothalamus and pituitary gland. Causes
+of developmental abnormalities include genetic defects affecting the
+GH gene, Pit-1 gene or POU1F1 gene that regulate development
+of pituitary cells secreting GH, prolactin, luteinizing hormone (LH),
+follicle-stimulating hormone (FSH) and thyrotropin. Diseases of the
+hypothalamus and pituitary may result from acquired causes such as
+pituitary tumours, craniopharyngioma, Langerhans cell histiocytosis,
+infection of the central nervous system, traumatic head injury and whole
+body or cranial irradiation.
+The most common presentation of GH deﬁciency in children is stunted
+growth. In view of a wide spectrum of causes of stunted growth in
+children, evaluation for GH deﬁciency in a short child should not be
+initiated until other causes of growth failure such as hypothyroidism,
+chronic systemic diseases, syndromic disorders including Turner
+syndrome (TS) and skeletal disorders have been considered and
+appropriately excluded. In neonates and infants, signs and symptoms
+of GH deﬁciency differ from older children. While deviation from linear
+growth is the primary presentation in older children, metabolic effects of
+GHD are the primary presentation in neonates and infants.
+1.2
+WHO SHOULD BE INVESTIGATED FOR GH DEFICIENCY?
+The consensus guidelines (GH Research Group, 2000) recognised
+the key facts in history and physical examination that may indicate
+GH deﬁciency in the neonates. These include neonatal history of
+persistent hypoglycaemia, prolonged neonatal hyperbilirubinaemia,
+microphallus, traumatic delivery or presence of craniofacial midline
+abnormalities.1, Level III; 2, Level II, 3, level II; Positive history of intracranial
+tumour,4, level II-3 cranial surgery, head injury either from complications
+at birth or from trauma,5, Level I; 6, level II-3 central nervous system infection,
+cranial irradiation7, Level III should also alert the clinician of the diagnosis
+of GH deﬁciency in a short and slowly growing child.
+The Use of Growth Hormone in Children and Adults
+3
+Recommendation
+In neonates/infants, evaluation for GH deﬁciency should be conducted
+if they manifest persistent, intractable hypoglycaemia ± convulsions
+associated with any of the following:
+• Micropenis in a male infant
+• Prolonged neonatal jaundice
+• Midline craniofacial defects (such as cleft palate, cleft lip, nasal or
+frontal encephalocoele, single central incisor, visual impairment,
+optic nerve hypoplasia)*
+• Traumatic delivery (breech) or perinatal asphyxia*
+• Post-natal failure to thrive (affecting both length and weight)
+(Grade C)
+In older children, evaluation for GH deﬁciency should be conducted if
+history is positive for any of the following:
+• Surgery to the hypothalamic pituitary region*
+• Cranial irradiation*
+• Intracranial tumour such as craniopharyngioma*
+• Traumatic brain injury (accidental or non-accidental)*
+• Central nervous system infection*
+• Signs and symptoms of multiple pituitary hormones deﬁciency
+(MPHD)
+• Signs indicative of intracranial lesion*
+• Parental consanguinity ± an affected family member (genetic
+cause)
+• Failure to show normal growth spurt by breast stage 3 in girls and
+genital stage 3 in boys. (Grade C)
+Note: * organic causes of GH deﬁciency
+The Use of Growth Hormone in Children and Adults
+4
+2.
+USE OF GROWTH HORMONE IN GROWTH HORMONE
+DEFICIENT (GHD) CHILDREN
+Diagnosis of GH deﬁciency in childhood is a multifaceted process
+requiring a combination of clinical and auxological criteria, biochemical
+tests and radiological evaluation. growth 8 ; Level III
+2.1
+DIAGNOSIS OF GROWTH HORMONE DEFICIENCY IN
+CHILDREN
+2.1.1 Clinical and Auxological Criteria
+The GH Research Society Consensus Guidelines (2000) and American
+Association of Clinical Endocrinologists (AACE, 2003) recommend
+the following clinical and auxological criteria to identify GH
+deﬁciency:9, Level III; 8, Level II;
+i.
+Severe short stature, deﬁned as height >3 standard deviation (SD)
+below the mean
+ii.
+Height >1.5 SD below mid-parental-height (MPH)
+iii. Height >2 SD below mean and height velocity (HV) over one year
+>1 SD below the mean for chronological age (CA) or a decrease in
+height by >0.5 SD over one year in children over 2 years of age
+iv. In the absence of short stature, HV >2 SD below the mean over
+one year or >1.5 SD below the mean sustained over two years
+v.
+Signs of intracranial lesion
+vi. Signs of MPHD
+vii. Neonatal symptoms and signs of GH deﬁciency
+In Malaysia, growth charts in SD are not available. However, National
+Child Health Statistics (NCHS) growth charts in centiles are available in
+most clinics. For this reason the following equivalents are used.10, level III
+• 3rd percentile is used to represent 2 SD below the mean
+• 10 cm beloe the MPH represent 1.5SD below MPH
+• One centile band on the growth chart represents 2/3 of an SD
+NCHS growth charts for boys and girls are available in Appendix 3.
+Mid–parental height for:
+Boys = [father’s height (cm)] + [mother’s height (cm) +13]
+2
+Girls = [father’s height (cm) -13] + [mother’s height (cm)]
+The Use of Growth Hormone in Children and Adults
+5
+Pitfalls in auxology: Although auxology is a simple, non-invasive tool
+for deﬁning population at risk for GH deﬁciency, it has its limitations
+in clinical use. Height measurements may be imprecise due to errors
+related to operator and/or measuring tool. Errors can also occur in the
+calculation of HV due to seasonal variation in growth and short time
+interval between measurements. To minimise errors in HV, serial height
+measurements should be performed by a trained personnel, using an
+appropriate tool and a longer time interval between measurements
+(which should not be less than three months).
+However, Voss LD et al. showed no correlation between HV in two
+consecutive years in short normal children and GHD children which
+indicated severe imprecision of HV.11, level II-2 Hintz also showed
+no signiﬁcant difference in height standard deviation score (SDS)
+and HV between GHD and idiopathic short stature (ISS).12, Level II-2
+Using a HV less than 25th percentile to diagnose GH deﬁciency has a
+high sensitivity (82%) but poor speciﬁcity (43%).13, Level II-3 Hence using
+auxology alone is inadequate for the diagnosis of GHD. Auxology must
+be interpreted in combination with other parameters.
+2.1.2 Biochemical Tests
+GH stimulation tests play a critical role in diagnosis of GH deﬁciency.
+The most frequently used tests include the insulin tolerance test (ITT)
+and glucagon stimulation test (GST). Other stimulation tests using
+pharmacologic agents such as arginine, growth hormone-releasing
+hormone (GHRH) with or without arginine, levodopa and clonidine
+have been used.14, Level II-2 In local setting, only ITT, GST and arginine
+stimulation test (AST) are used due to unavailability of other agents.
+Peak plasma GH level of <10 mcg/L during GH stimulation tests using
+pharmacologic agents has been used as the biochemical criteria for the
+diagnosis of GH deﬁciency.9, Level III; 8, Level II; Cut-off value of <10 mcg/L is
+arbitrarily used to deﬁne GH deﬁciency. A minimum of two stimulation
+tests indicating GH deﬁciency are required for biochemical conﬁrmation
+of the diagnosis because of the high frequency of negative results for a
+single test.15, Level II-3
+Insulin growth factor-1 (IGF-1) and Insulin growth factor binding
+protein-3 (IGFBP-3) are helpful parameters for diagnosis of GH
+deﬁciency. IGF-1 concentration level must be carefully interpreted
+as the values are speciﬁc but not sensitive. Many factors such as
+nutritional status, sex steroid, thyroid hormone and chronic diseases
+affect IGF-1 concentrations. IGFBP-3 is dependent on age and pubertal
+The Use of Growth Hormone in Children and Adults
+6
+status. Hence reference ranges standardised for age and sex are
+imperative.16, Level III; 13, Level II-3
+The difﬁculty in diagnosing GH deﬁciency during the peripubertal
+period is acknowledged, as low GH levels in stimulation tests frequently
+occur. Sex-steroid priming prior to GH stimulation tests reduces the
+percentage of false positive for GH deﬁciency.17, Level 1; 18, Level II-3 Hence
+sex-steroid priming may play a role in reducing the number of false
+positive results in the peripubertal children. Children with MPHD should
+receive adequate adrenal and thyroid hormone replacement before
+biochemical evaluation of GH deﬁciency.
+GH Testing in the neonate: GH level should be measured in the event
+of neonatal hypoglycemia in the absence of a metabolic disorder. A
+random GH measurement in a polyclonal radioimmunoassay of <20
+mcg/L would suggest GH deﬁciency in the newborn. An IGFBP3 measurement is of value for the diagnosis of GHD infant.9, Level III
+ITT is regarded as the gold standard for the evaluation of pituitary
+growth hormone reserve. In ITT, insulin is administered intravenously
+to produce a nadir in the plasma glucose level of ≤ 2.2 mmol/L. This
+is a potentially hazardous procedure and must be done only by an
+experienced endocrinologist in a tertiary centre.
+Pitfalls in biochemical tests: GH in circulation consists of a wide
+variety of molecular isoforms. As a consequence, assays involving
+polyclonal antisera give higher results than those based on monoclonal
+assays. Discrepancy between results obtained from two different
+assays depends on factors related to the assay (antibody speciﬁcity
+and assay design) and also factors related to individual sample (relative
+abundance of isoforms present). Therefore it is impossible to compare
+results from different immunoassays from different laboratories.19, Level III
+GH stimulation tests lack precision, accuracy and have poor
+reliability.20, Level III; 15, Level II-3 The lack of reliability of these tests
+might be improved by performing the same test more than
+once.15, Level II-3 Factors like puberty, genetic target height SDS,
+height SDS, weight SDS, bone age and the pharmacologic agents
+used can affect peak plasma GH level.15, Level II-3 Spontaneous GH
+secretion is more speciﬁc than pharmacologic testing. However,
+serial testing is resource intensive and time-consuming.21, Level II-2
+The Use of Growth Hormone in Children and Adults
+7
+2.1.3 Radiological Evaluation
+A plain radiograph of the left hand and wrist to assess osseous maturation
+(bone age) is helpful in making the diagnosis of GH deﬁciency. A delayed
+bone age of at least two years compared to chronological age is a
+feature of GH deﬁciency. However it is not diagnostic of the condition.
+A magnetic resonance imaging (MRI) or computed tomography
+(CT scan) of the brain with particular attention to the hypothalamicpituitary region should be carried out in any child diagnosed with
+GH deﬁciency. In a cross-sectional study by Nagel et al., presence
+of ectopic posterior pituitary, missing stalk and hypoplastic anterior
+pituitary (EMH) on MRI is a signiﬁcant predictor of permanent
+severe GH deﬁciency with or without other pituitary hormone
+deﬁciency.22 ,Level III However, a normal MRI does not exclude GH
+deﬁciency. A study by Geralda et al. demonstrated that approximately
+20% of the subjects with GH deﬁciency had mutations of GH-1, GHRHR, PIT-1 and PROP-1 genes causing permanent disease. All patients
+with these genetic causes had normal pituitary stalk and normal position
+of posterior pituitary gland while 50% had pituitary hypoplasia. 23, Level III
+Recommendation
+All of the following criteria must be fulﬁlled to conﬁrm the diagnosis of
+GH deﬁciency:
+i. Clinical and auxological criteria:
+• Short stature as deﬁned by:
+ÿ Height <3rd centile on the NCHS chart
+AND/OR
+ÿ Height below target height (TH) range i.e. MPH minus 10 cm
+AND
+• Slow growth as deﬁned by:
+ÿ Downward deviation of height ≥1 centile band over at least 12
+months
+Children with acquired hypothalamic-pituitary disease are considered
+to have fulﬁlled the above criteria if they have slow growth even in the
+absence of short stature.
+ii. Biochemical criteria
+A minimum of TWO growth hormone stimulation tests using either
+ITT, GST or AST are needed.
+• Peak GH level of <10 mcg/L is diagnostic
+The Use of Growth Hormone in Children and Adults
+8
+Sex steroid priming is useful for peripubertal children. Children with
+MPHD should have received adequate adrenal and thyroid hormone
+replacement before biochemical evaluation.
+iii. Radiological criteria
+• Delayed bone age
+(Grade C)
+After conﬁrmation of GH deﬁciency, subsequent investigations should
+include:
+i. MRI of hypothalamic-pituitary region
+ii. Genetic study (if facilities are available) (Grade C)
+2.1.4 Criteria for Referral
+Patients with the following criteria should be referred to paediatric
+endocrinologists for further evaluation, conﬁrmation and appropriate
+therapy for GH deﬁciency:
+• Neonates/infants with features of GH deﬁciency (refer to section 1.2)
+• Children at risk of GH deﬁciency showing slow growth and/or short
+stature (refer to section 1.2)
+• Children who fulﬁll the above clinical and auxological criteria for GH
+deﬁciency
+2.2
+TREATMENT OF GROWTH HORMONE DEFICIENCY IN
+CHILDREN
+A healthy child should experience a normal growth and ultimately
+reach an adult height within his/her TH range.24, Level II-2 A child with
+GH deﬁciency is expected to be short, growing slowly and have
+extremely short adult height. Studies had shown that in these children,
+normalisation of height in childhood and attainment of a normal adult
+height could be achieved by using the lowest possible cumulative
+dose of GH.25, Level 1; 24, Level II-2 Cohort studies had also demonstrated
+that it is possible to achieve a ﬁnal height (FH) within TH range
+in idiopathic GHD patients when treated with GH from an early
+age.26, Level II-2; 27, Level II-2; 28, Level II-3
+The primary objectives for GH deﬁciency therapy are normalisation of
+height during childhood and attainment of normal adult height.8, Level III
+Target height range is ±10 cm of the MPH.
+Final adult height is achieved when the height gain in a year is <0.5 cm AND/
+OR a bone age of ≥15.5 years for girls and ≥16.5 years for boys.29, Level I
+The Use of Growth Hormone in Children and Adults
+9
+Near-adult height is deﬁned as a bone age of 16 year or more for males
+and 14 year or more for females and a growth rate less than 2 cm/year
+for one year
+2.2.1 Initiation
+GH therapy should begin as soon as possible to optimise long-term
+growth.30, Level II-2 The GH Research Society Consensus Guidelines
+2000 recommends that patients with proven GH deﬁciency should be
+treated with recombinant human growth hormone (rhGH) as soon as
+possible after the diagnosis is made. Every effort should be made to
+diagnose and treat children at the youngest possible age.8, Level III
+Prospective cohort and controlled studies had shown good catch-up
+growth in children when given early rhGH replacement.31, 30, Level II-2; 32,
+Level II-3; 33, Level II-2; 34, Level II-2
+In the National Cooperative Growth Study (NCGS) where rhGH therapy
+was started at peripubertal age, there was insufﬁcient increase in the
+child’s height SDS before the onset of puberty resulting in failure to
+achieve target height SDS. Hence early initiation of rhGH treatment
+and attainment of higher prepubertal height SDS before onset of
+puberty are important factors to improve FH of GHD children.28, Level II-3
+Recommendation
+GHD children should be treated with rhGH as soon as possible after the
+diagnosis is made. (Grade C)
+2.2.2 Dosage
+It has been shown that 84% of GHD patients who received 0.025
+mg/kg/day of rhGH for at least 5.4 years reached a FH within
+the normal population height range.35, Level II-3 Findings from the
+KIGS database (n=1258) showed that those treated from an early
+age with a median rhGH dose of 0.025 - 0.028 mg/kg/day for at
+least four years achieved a FH within their TH range.27, Level II-3
+Short-term and long-term studies among non-GH naive patients
+showed that higher dose of rhGH resulted in a signiﬁcantly
+greater HV, height for CA and FH without any difference in bone
+age advancement, onset of puberty, fasting glucose, HbA1c or
+lipid metabolism.36, Level I; 25, Level II-2 A randomised controlled study
+(RCT) demonstrated that the difference in height SDS at the end of
+The Use of Growth Hormone in Children and Adults
+10
+treatment was signiﬁcantly increased in those who received 0.05 or
+0.1 mg/ kg/d of rhGH compared to those who received 0.025 mg/kg/d.
+However, another RCT found no signiﬁcant difference noted in height
+SDS between those who received 0.05 and 0.1 mg/kg/day.37, Level I
+Studies had also demonstrated that catch-up growth and total height
+gain were greater among the daily-treated patients compared to those
+who received two, three or four times weekly rhGH injections at the
+same total weekly dose, with no signiﬁcant difference in skeletal
+maturation and onset of puberty.38, Level I ; 39, Level II-1
+Studies involving pre-pubertal GH naive patients showed growth
+responses improved by titrating the GH dose to achieve higher IGF1 targets or guided by individual GH responsiveness obtained from a
+prediction model.40, Level I; 41, Level I
+Factors that correlated with enhanced adult height were baseline height,
+younger age at onset of treatment, longer treatment duration especially
+during pre-pubertal years and a greater growth velocity during the ﬁrst
+year of treatment.27, Level II-3
+Recommendation
+GH dose should be started at 0.025 mg/kg/day and adjusted within the
+range of 0.025 to 0.05 mg/kg/day based on the growth response and
+IGF-1 level. (Grade A)
+rhGH should be given as a daily subcutaneous injection seven days a
+week. (Grade A)
+rhGH therapy should be given uninterrupted for at least four years prior
+to closure of the epiphyses. (Grade C)
+2.2.3 Monitoring
+Updates of the GH Guidelines by the LWPES recommend that routine
+follow-up for paediatric GHD patients should be performed by a
+paediatric endocrinologist in partnership with the paediatrician or primary
+care physician and should be conducted on a 3- to 6-monthly basis, to
+document auxological data, monitor treatment response, compliance
+and safety. Adequate growth response to GH therapy is evidenced by
+an increase in HV within the ﬁrst six month of therapy and an increase
+of at least 0.25 height SDS over one year period.42, Level III
+The Use of Growth Hormone in Children and Adults
+11
+To ensure adequate dosing, compliance and safety (in the
+light of association between elevated serum IGF-1 and certain
+cancers),43, Level III serum IGF-1 and IGFBP-3 should be monitored at
+least yearly.42, Level III A cohort study with serial measurements at ﬁvetime points (baseline, 6 weeks, 3, 6 and 12 months during the ﬁrst year
+of GH treatment) showed that IGF-1 levels were highest at 6 weeks and
+remained relatively constant thereafter. IGF-1 SDS was also found to
+correlate well with the dose of GH (expressed in IU/m2/week).44, Level II-2
+A larger increase in serum IGF-1 was associated with more impressive
+initial growth, and greater ﬁrst year growth response.45, Level II-2
+For patients who display a suboptimal growth response or in whom the
+IGF levels remain persistently low with assurance of good compliance
+to injection schedule, it is reasonable to increase the GH dose within
+the FDA approved dose guidelines (0.025 - 0.050 mg/kg/day in
+children, or 0.025 - 0.10 mg/kg/day in adolescents). Dose reductions
+should be considered in patients with serum IGF-1 levels substantially
+above the normal range after the ﬁrst two years of therapy. Further
+treatment is generally futile if no increase in growth rate or serum IGF-1
+concentration over baseline is detected within the ﬁrst 6 to 12 months in
+a compliant patient receiving an appropriate dose of GH.42, Level III
+Growth hormone therapy guided by regular monitoring of bone age (BA)
+has been shown to be useful in children treated with rhGH. It has been
+demonstrated that subjects who had BA assessment at entry, during
+the ﬁrst year of rhGH therapy and serially for the ﬁrst three years had
+higher cumulative height SDS and height age change compared with
+those subjects without BA values at entry, without BA in the ﬁrst year
+and those without serial BA x-rays. It was concluded that subjects with
+BA monitoring do better than those whose skeletal maturation were not
+measured.46, Level II-3
+One of the most important risks in GH therapy is the incidence of
+leukaemia and malignancy. In view of this, patients who have a history
+of childhood cancer or a diagnosis that predisposes them to malignancy
+should be monitored closely for malignancy.47, Level III Monitoring of free
+T4 and TSH is of value for detecting hypothyroidism which may be
+observed during rhGH therapy.42, Level III
+rhGH therapy has been shown to reduce insulin sensitivity
+with a compensatory hyperinsulinaemia and hence increases the
+risk
+of
+type
+2
+diabetes
+mellitus
+(T2DM)
+in
+predisposed
+individuals.48, Level II-1; 49, Level II-1 As the dose of rhGH used in children
+is generally higher than that used in adults, it is not surprising to note
+that incidence of T2DM was reported as six-fold higher in children
+The Use of Growth Hormone in Children and Adults
+12
+treated with rhGH compared with age-matched untreated children.
+rhGH might have hastened the onset of T2DM. The study also showed
+that diabetes mellitus did not resolve after rhGH was stopped, hence
+excluding a transient drug-induced effect. The author recommended
+that each child’s glucose status should be determined before starting
+rhGH therapy by measuring HbA1c, fasting plasma glucose and insulin
+concentration. Follow up of children at risk of T2DM such as obesity,
+Turner syndrome, intrauterine growth retardation, Prader-Willi syndrome
+and GH deﬁciency secondary to other causes is important.50, Level II-3
+At the recommended GH dose, a typical growth hormone deﬁcient child
+accelerates growth from a pre-treatment rate of 3 - 4 cm/year to:
+• 10 - 12 cm/year in the ﬁrst year of therapy
+• 7 - 9 cm/year in the second and third year
+Progressive waning of GH efﬁcacy then occurs.37, Level 1
+Patients who have a history of childhood cancer or a diagnosis that
+predisposes them to malignancy should be monitored closely for
+recurrence or second malignancy.
+Recommendation
+GHD children on rhGH therapy should be routinely monitored for:
+• height: 3 to 6 monthly (Grade C)
+• serum IGF-1: 3 monthly in the ﬁrst year, then yearly (Grade C)
+• free T4, TSH: yearly (Grade C)
+• fasting plasma glucose, HbA1C and insulin: before starting rhGH
+therapy (Grade C)
+• HbA1c: yearly or more frequently in patients at risk for type 2
+diabetes mellitus (Grade C)
+• bone age: prior to starting rhGH therapy and yearly thereafter
+(Grade C)
+In patient with poor GH response over 6 to 12 months (HV <2 cm/year
+above pre-treatment HV):
+• check patient compliance (Grade C)
+In compliant patients with poor GH response:
+• if IGF-1 is low or normal, increase rhGH dose (Grade C)
+• if IGF-1 has exceeded the normal range, stop rhGH (Grade C)
+• if patient is already on the maximum recommended dose, stop hGH
+(Grade C)
+The Use of Growth Hormone in Children and Adults
+13
+2.2.4 Beneﬁts
+a.
+Final Height
+Data from the Pﬁzer International Growth Database (KIGS) showed
+differences between near-adult height and MPH ranged between -0.6
+and -0.2 SDS. Results from Caucasian males with IGHD showed a
+median SDS of -2.4 at start of treatment and -0.8 at near adult height
+after rhGH treatment.27, Level II-3 Similar results were shown in a subset of
+Swedish subjects derived from the KIGS database.26, Level II-3
+It is possible to attain target height in GHD children with optimal rhGH
+therapy.
+b.
+Metabolic effects
+Several studies have shown that GH therapy improved body composition
+by increasing lean tissue mass and reducing percentage body
+fat.51, Level II-2; 52, Level II-2; 53, Level II-2; 54, Level II-2
+Other studies have reported improvement in lipid proﬁles with
+rhGH therapy: reduction in total cholesterol, low density lipoprotein
+(LDL) and triglycerides, and increase in high density lipoprotein
+(HDL).48, Level II-1; 52,level II-2 However, not all baseline lipid proﬁles are
+abnormal in children with GH deﬁciency. Nevertheless, during rhGH
+therapy the atherogenic index (total cholesterol/HDL) decreased.49, Level
+II-1; 53, Level II-2; 54, Level II
+Growth hormone plays an important role in glucose and insulin
+metabolism. The effect of rhGH therapy on serum insulin concentration
+has been reported, showing a trend towards reduced insulin sensitivity
+with a compensatory hyperinsulinaemic response without any untoward
+effects on glucose metabolism.49, Level II-1; 48, Level II-1
+Body composition improves with rhGH therapy in children with GHD.
+Abnormal lipid proﬁles and atherogenic index improves with rhGH
+therapy.
+c.
+Bone health
+Studies had reported decreased levels of bone remodelling
+markers in children with GH deﬁency prior to their treatment with
+rhGH.55,Level II-2; 53, Level II-2 Bone formation and bone resorption markers
+The Use of Growth Hormone in Children and Adults
+14
+are reported to increase signiﬁcantly during rhGH therapy.53, Level II-2
+Areal BMD (aBMD), which is dependent on age, height and weight, is
+found to be low in GHD children.55, Level II-2; 53, Level II-2 Replacement rhGH
+therapy in these children has shown signiﬁcant increase in aBMD and
+volumetric BMD (vBMD).55, Level II-2; 53, Level II-2 The mean values of lumbar
+aBMD and vBMD in treated patients with GHD at ﬁnal height did not
+differ from normative data.56, Level II-1
+Bone remodelling markers and bone mineral density increase with
+rhGH therapy in GH deﬁcient children.
+d. Cardiovascular effects
+GHD
+children
+have
+impaired
+left
+ventricular
+(LV)
+mass.57, Level II-;1 49, Level II-1 In a few prospective case-control studies,
+the LV mass index was signiﬁcantly lower in GHD children than in
+controls and it increased signiﬁcantly after one year of GH
+replacement.49, Level II-1; 58, Level II-3 In another prospective case control
+study, GHD children at baseline had normal global systolic function
+with subtle LV dysfunction. One year of GH treatment was associated
+with a signiﬁcant improvement of cardiac size and myocardial
+contractility.57, Level II-1
+GHD children have impaired LV mass and subtle LV dysfunction. rhGH
+therapy normalises cardiac mass and function. However the clinical
+signiﬁcance of these ﬁndings remains unclear.
+e.
+Quality of life (QoL)
+The most obvious effect of GH is in regards to height and it has been
+suggested that the impact of GH on QoL relates solely to the inﬂuence
+of height. However, analysis of social parameters does not reveal
+any impairment in self-esteem, mood and well-being in short
+children.59, Level III Similarly, there was no direct relationship between QoL
+and short stature resulting from Turner syndrome, chronic renal failure,
+GH deﬁciency or idiopathic short stature when QoL was measured
+by the time trade off method and the Nottingham Health Proﬁle
+(NHP).60, Level II-1
+In a small cohort study, patients with acquired GH deﬁciency had QoL
+signiﬁcantly below population norms which improved with treatment,
+whereas the subgroup with idiopathic GH deﬁciency did not show
+signiﬁcant changes.61, Level II-2
+The Use of Growth Hormone in Children and Adults
+15
+In a larger cohort study it was demonstrated that after rhGH therapy,
+behavioural scores signiﬁcantly improved in patients with GH deﬁciency
+and ISS. Improvement was noted in the internalising subscales
+(withdrawn, somatic complications and anxiety/depression) and
+inattention, social problems and thought problems.62, Level II-2
+Behavioural scores partially improved in GHD children with rhGH therapy.
+2.2.5 Safety
+a.
+Malignancy
+rhGH is both anabolic and mitogenic whilst IGF-1 is antiapoptotic. There
+is much experimental data to suggest that GH treatment acting via local
+tissue might enhance tumour cell growth. There are concerns that GH
+treatment may cause new malignancy (de-novo), tumour recurrence or
+second malignancy in those already treated for one tumour.
+•
+New malignancy
+Based on the data from the National Cooperative Growth Study (NCGS)
+in the United States and Canada, it was shown that the incidence of
+leukaemia in rhGH-treated patients without risk factors for leukaemia
+was comparable to that in the general population of age-matched
+children.63, Level II-3 Similarly in Japan, the incidence of leukaemia
+in rhGH-treated patients without risk factor is no greater than in the
+general population aged 0-15 years.64, Level II-3
+•
+Recurrent malignancy
+Data from the Childhood Cancer Survivor Study (CCSS) showed that
+the relative risk (RR) of disease recurrence (ﬁrst recurrence) was
+0.83 for rhGH-treated survivors compared with those not treated with
+rhGH.47, Level II-3 The NCGS data (n=1262 children with brain tumour)
+demonstrated an overall recurrence rate of 6.6% over 6,115 patient-years
+follow up.65, Level II-3 GH outcomes from KIGS (Pﬁzer International Growth
+Database with more than 50,000 patients treated with rhGH) noted that
+the frequency of recurrence was 11.7% for craniopharyngiomas, 4.7%
+for medulloblastomas, 8.8% for ependymomas, 4.0% for germinomas
+and 9.8% for astrocytomas/gliomas.66, Level II-3
+In a case-control study of patients with craniopharyngioma, there was
+no evidence that rhGH replacement was associated with an increased
+risk of tumour recurrence; 12.5% treated with rhGH developed tumour
+The Use of Growth Hormone in Children and Adults
+16
+recurrence compared to 41.5% of those with no treatment.67, Level II-2
+In a study that analysed cases of medullablastoma, there was no
+association between the use of rhGH and progression-free survival in
+infants or older children.68, Level II-3
+•
+Second malignancy
+The CCSS also showed the RR of a secondary neoplasm for rhGHtreated survivors compared with those not treated with rhGH was 3.21.
+The overall increase was driven by a small excess number of second
+neoplasms in the subgroup of acute leukaemia survivors (RR= 4.98).
+This increase is of concern but the data needs to be interpreted with
+caution given the small number of events.47, Level II-3 The elevation of risk
+due to rhGH use appears to diminish with increasing length of follow
+up.69, Level II-3
+All above reported studies have signiﬁcant limitations. However, a
+RCT cannot be performed due to ethical concerns. With some data
+suggesting a possible increase in new cancers in patients treated with
+rhGH, there is a need for continued surveillance.
+There is no evidence that leukemia (de novo or relapse) or CNS tumour
+recurrence is increased with rhGH therapy.
+There is insufﬁcient evidence with regards to risk of secondary
+neoplasms with rhGH therapy.
+b. Benign intracranial hypertension (BIH)
+BIH has been recognised as an early complication of rhGH.70, Level II-3 It
+has been reported in GH deﬁciency but also in other conditions treated
+with rhGH including chronic renal insufﬁciency (CRI), Turner syndrome
+(TS), Prader-Willi syndrome (PWS), glucocorticoids usage and delayed
+puberty. Children receiving rhGH for CRI are more likely to develop
+BIH.71, Level II-3
+Based on a national database of rhGH-treated children in Australia
+and New Zealand, the incidence of BIH was low i.e. 1.2 per 1,000
+cases.72, Level II-3
+The KIGS database showed that BIH occurred in 41 children resulting
+in a total incidence of 27.7 per 100,000 treatment-years. The incidence
+was signiﬁcantly lower in patients with idiopathic GH deﬁciency than
+The Use of Growth Hormone in Children and Adults
+17
+in those with TS (p=0.0004), congenital GH deﬁciency (p=0.0064),
+PWS (p=0.0263) and CRI (p<0.001). No cases of BIH were reported in
+the idiopathic short stature (ISS) group of patients. The median
+duration from onset of GH therapy to BIH ranged from 0.01 to 1.3
+years.73, Level II-3
+BIH is known to occur in patients on rhGH therapy.
+c.
+Bone health
+Different studies reported different prevalence of scoliosis. The
+NCGS database (n=24,000) reported fewer than 1% of the patients
+had scoliosis (prevalence of scoliosis in the general population was
+between 1.5 to 3.0%).63, Level II-3 In a retrospective study (n= 250) of
+children treated with rhGH, 4% developed scoliosis.74, Level II-3 A cohort
+study (OZGROW) showed that TS girls receiving rhGH therapy have a
+high prevalence of scoliosis (28%).75, Level II-2
+The International Cooperative Growth Study (ICGS) demonstrated that
+Perthes’ disease developed in 12 boys (69.9 per 100,000 patient-years).
+Neither recurrence nor aggravation of Perthes’ disease was observed
+during the rhGH therapy.76, Level II-3
+In the ICGS database, slipped capital femoral epiphyses (SCFE)
+developed in four cases with GHD and other pituitary hormones
+deﬁciency during GH therapy (21.5 per 100,000 patient years). Two of
+the patients had radiation therapy and 2 were obese. No aggravation of
+SCFE was observed during the rhGH therapy.76, Level II-3
+Data from NCGS showed that SCFE was signiﬁcantly less common
+in children with ISS compared with GH deﬁciency on rhGH therapy.
+71, Level II-3 The KIGS database reported an incidence of 73.4 per
+100,000 treatment-years of SCFE. The incidence was signiﬁcantly
+lower in patients with IGHD (18.3 per 100,000 treatment-years) and
+ISS (14.5 per 100,000 treatment-years) than TS (84.5 per 100,000
+treatment-years), cranial tumours (86.1 per 100,000 treatment-years)
+and craniopharyngioma groups (120.5 per 100,000 treatment-years).
+No cases of SCFE were reported in the SGA and PWS groups. The
+median duration from onset of GH therapy to SCFE ranged from 0.4 to
+2.5 years.73, Level II-2
+There is insufﬁcient evidence to suggest a causal relationship between
+rhGH therapy and scoliosis. However the prevalence of scoliosis is high
+in TS girls.
+The Use of Growth Hormone in Children and Adults
+18
+Children with organic causes of GH deﬁciency on rhGH therapy have
+an increase frequency of slipped capital femoral epiphyses.
+d.
+Glucose metabolism
+A study evaluated the impact of rhGH therapy on glucose metabolism
+in children and young adults with idiopathic GH deﬁciency and
+showed no signiﬁcant change after one year of rhGH therapy
+(0.024 mg/kg/day).77, Level III In another study, rhGH therapy in GHD
+children did not lead to an impaired glucose tolerance (IGT) or T2DM,
+although it signiﬁcantly decreased insulin sensitivity.78, Level II-1
+The NCGS reported that the majority of patients who developed
+diabetes mellitus during rhGH therapy had an identiﬁable risk factor.
+The incidence of permanent diabetes in others is similar to that
+reported in American adolescents.71, Level II-3 In contrast, the KIGS
+database demonstrated an increased frequency of T2DM in children
+and adolescents receiving rhGH. Of the 43 who were conﬁrmed to have
+glucose disorders, 11 had type 1 diabetes (T1DM), 18 had T2DM and
+14 had impaired glucose tolerance (IGT). There was no increase in the
+incidence for T1DM but the incidence for T2DM (34 cases per 100,000
+patient-years) was approximately six-fold higher than in children not
+treated with rhGH.50, Level II-3
+rhGH therapy decreases insulin sensitivity without impairing glucose
+tolerance.
+The risk of T2DM may be increased in individuals on rhGH therapy.
+e.
+Skin
+There are concerns that rhGH may cause skin cancer in preexisting pigmented naevi. The NCGS database reported 13 cases of
+increase in pigmented naevi during rhGH therapy.71, Level II-3 However,
+biopsies have not detected neoplasia or pre-malignant naevi
+transformations.63, Level II-3 Studies have shown that there were
+no difference in the naevi count between the children with GH
+deﬁciency and control group despite many years of rhGH therapy.
+However, children with TS had more naevi, but there was no
+relation to the duration of rhGH therapy and frequency of skin
+cancer.79 , Level II-2; 80, Level II-2; 81, Level II-2
+The Use of Growth Hormone in Children and Adults
+19
+There was no increase in melanocytic naevi or risk of skin cancer in
+GHD patient on rhGH therapy.
+Melanocytic naevi were more common in TS but there were no increased
+frequency of skin cancer with rhGH therapy.
+Other side effects are relatively rare. These include acute pancreatitis,
+gynaecomastia,
+oedema,
+lymphoedema
+and
+carpal
+tunnel
+syndrome.71, Level II-3
+The Use of Growth Hormone in Children and Adults
+20
+3.
+USE OF GROWTH HORMONE IN NON-GHD CHILDREN
+3.1 TURNER SYNDROME
+Turner Syndrome (TS) is a genetic disorder due to abnormalities of
+the X chromosome resulting in an array of genetic, developmental,
+endocrine,
+cardiovascular,
+psychosocial
+and
+reproductive
+issues.82, Level II-2 It affects approximately one in every 2,500 liveborn
+females. Majority of these patients have extreme short stature, gonadal
+dysgenesis and hypogonadism with a normal intellectual performance
+and language abilities. However, visual-spatial and/or visual-perceptual
+abilities are impaired. The average height of untreated women with
+TS is 143 cm and is approximately 20 cm below the TH.83, Level II-1
+However, they are able to reach normal adult height with high doses of
+rhGH.84, Level II-3
+3.1.1 Outcome of rhGH Therapy
+a.
+Final height
+In a recent Cochrane Systematic Review, it was shown that
+rhGH was effective in improving growth and FH in girls with TS.
+85, Level I; 86, Level II-1 The FH was 148 cm (1.4 ± 1.0 SD Turner chart) and
+141 cm (0.2 ± 0.9 SD Turner chart) in the treated and untreated women
+respectively.86, Level II-1
+Factors affecting height gain [from start of rhGH therapy to attainment
+of near-adult-height (NAH)] include:87, Level III
+• Mid-parental-height
+• Height at start of rhGH
+• Index of responsiveness during ﬁrst year on rhGH
+• Mean dose of rhGH per week
+• Age at start of puberty
+• Age at start of rhGH
+• Duration of rhGH therapy
+• Birth weight
+b.
+Cognitive function and psychological adjustment
+The same Cochrane Review showed the possibility that girls treated
+with rhGH have a better psychological adjustment than untreated
+girls.85, Level I However, there were no demonstrable effects on cognitive
+function, visual-spatial and/or visual-perceptual abilities.88, Level III
+The Use of Growth Hormone in Children and Adults
+21
+c.
+Bone/body composition
+rhGH therapy had little effect on cortical or trabecular BMD in girls with
+TS. However, rhGH therapy was associated with an increase in lean
+body mass and reduced adiposity.89, Level II-2
+3.1.2 Time to start rhGH
+rhGH therapy should be considered as soon as falling height percentile
+is demonstrated in the linear growth of the child with TS and the
+decision to start rhGH is best directed by a paediatric endocrinologist.
+90, Level III; 9, Level III
+3.1.3 Dose
+rhGH doses range from 0.045 to 0.055 mg/kg/day. The current practice
+is to administer subcutaneous injection of rhGH 6 or 7 days per week.
+85, Level I
+3.1.4 Oestrogen Therapy
+Timing of introduction of oestrogen replacement is an important
+determinant of FH in rhGH-treated TS patients. Oestrogen replacement
+should not be started before the age of 12 years.85, Level I TS patients
+in whom oestrogen was delayed until 15 years of age gained an
+average of 8.4 ± 4.3 cm over the projected FH whereas those who
+started oestrogen at 12 years old gained only 5.1 ± 3.6 cm. This
+study concluded that the duration of rhGH therapy before oestrogen
+replacement was a strong factor in predicting height gain.91, Level II-2
+However, the timing of oestrogen replacement should also take into
+consideration the importance of age appropriate pubertal maturation,
+bone health and psychosocial stress of delayed sexual maturation.
+90, Level III; 92, II-3; 93, Level III; 84, Level II-3 The dose of oestrogen should be
+increased gradually over a duration of two to three years to achieve
+pubertal maturation at a normal pace. The starting dose of conjugated
+oestrogen (premarin) should be at 0.3 mg every other day or 5 mcg
+ethinyl oestradiol daily. The dose should be increased gradually every
+12 months to premarin 0.625 mg daily or ethinyl oestradiol 20 mcg daily
+when medroxyprogestrone acetate (provera) 5 mg daily for 12 days will
+be introduced to initiate cyclical uterine bleeding.93, Level III
+3.1.5 Duration of Treatment
+rhGH therapy may be continued until a satisfactory height has been
+attained or until the bone age is 14 years or near FH is attained.90, Level
+III; 9, Level III
+The Use of Growth Hormone in Children and Adults
+22
+3.1.6 Monitoring
+Patients should be monitored as any other patients on GH therapy. IGF1 should be monitored to ensure value within ± 2 SD.90, Level III
+3.1.7 Adverse Reactions of rhGH Therapy
+Long-term surveillance showed that adverse effects are rare, but can
+be serious. Girls with TS on rhGH therapy were at increased risk for
+diabetes mellitus, SCFE, idiopathic intracranial hypertension, oedema,
+lymphoedema or scoliosis.85, Level I The Genentech Drug Safety
+Department received 117 serious adverse events out of 5,220 patients
+on rhGH therapy where seven deaths were reported (ﬁve from aortic
+dissection/rupture) and 10 new-onset malignancies including six in
+patients without known risk factors.94, Level II-2 However, rhGH therapy
+does not seem to affect the diameter of ascending or descending
+aorta.90, Level III
+Recommendation
+Turner syndrome with short stature should be considered for rhGH
+therapy and be referred early to a paediatric endocrinologist. (Grade A)
+Oestrogen replacement therapy in TS children should not be initiated
+before the age of 12 years. (Grade A)
+3.2 SMALL FOR GESTATIONAL AGE
+Small for gestational age (SGA) is deﬁned as birth weight and/or birth
+length of ≥2 SD below the mean for gestational age. Approximately
+between 2.3 and 10% of all infants are born SGA. Most SGA infants
+achieve appropriate catch-up growth by two years of age. However,
+approximately 15% do not catch-up and continue to experience poor
+growth throughout childhood.95, Level III Catch-up growth is considered
+to have been achieved when the child’s height is at or above -2 SD for
+age.96, Level III
+3.2.1 Outcome of rhGH Therapy
+a.
+Final height
+After adjustment for gender and TH, SGA subjects were signiﬁcantly
+shorter (men 4.5 cm shorter and women 3.9 cm shorter) than those
+with a normal birth weight at age 20 years.97, Level II-1 It was shown that
+when rhGH therapy (0.033 or 0.067 mg/kg/day) was commenced at 8
+The Use of Growth Hormone in Children and Adults
+23
+years of age and continued for 7 - 8 years, adult height increased by ≥1
+SD.98, Level III rhGH therapy resulted in an adult height above -2 SDS in
+85% of the children after a mean treatment period of 7.8 years. There
+is no signiﬁcant difference in height gain between the low dose rhGH
+group (0.033 mg/kg/day) and the high dose rhGH group (0.067 mg/kg/
+day).99, Level II-1
+b.
+Cognitive function and psychological adjustment
+There is inconclusive evidence that rhGH improves IQ in short SGA
+children. Long-term outcome data for children born SGA show no
+difference in frequency of employment, marital status or satisfaction with
+life. However, these individuals hold fewer professional or managerial
+jobs and have signiﬁcantly lower income than individuals of normal size
+at birth.98, Level III
+c.
+Body composition
+rhGH therapy in short children born SGA was shown to improve body
+composition, blood pressure and lipid metabolism.95, Level III; 97, Level II-1 In
+a 6-year multicentre RCT, normalisation of BMI was not accompanied
+by overall changes in percentage body fat but was accompanied by an
+increase in muscle mass. The long-term clinical signiﬁcance of these
+changes is uncertain.100, Level II-1
+d.
+Bone Mineral Density
+Bone maturation increases proportionately to height gain with rhGH
+therapy. Mean values of bone mineral apparent density (BMAD)
+(-0.6 SDS) were signiﬁcantly reduced at start but normalised (0.3 SDS)
+during rhGH therapy.101, Level II-1
+e.
+Cardiovascular risk
+Children born SGA have an inherent risk of cardiovascular disease
+and dyslipidaemia in later life. A 4-year study of children born SGA
+treated with rhGH showed that those who had elevated systolic blood
+pressure before treatment had a reduction in blood pressure over
+time.100, Level II-1 A six-year RCT demonstrated that total cholesterol and
+low-density lipoprotein cholesterol (LDL) decreased signiﬁcantly by the
+end of the study.99, Level II-1
+The Use of Growth Hormone in Children and Adults
+24
+3.2.2 Time To Start
+Early intervention with rhGH can be considered for short (height
+below -2.5 SD) SGA children without a catch-up growth. With
+reference to normal population standards, 44% of infants had
+caught-up at three months of age, 51% at three years, 66% at
+four years and 73% at six years.102, Level II-3 In most published
+studies, rhGH therapy was initiated after ﬁve years of age.103, Level III
+The European Agency for the Evaluation for Medicinal Products
+(EMEA) approved rhGH use to treat growth retardation in short SGA
+children (birth weight and/or birth length below -2 SD) with:104, Level III
+• Height SDS <-2.5 and parental-adjusted height SD <-1.0
+• Absence of catch-up growth (HV <0 SD during the last one year)
+• Age of start of treatment >4 years
+• Recommended GH dose is 0.035 mg/kg/day
+3.2.3 Safety and Adverse Reactions
+Adverse events are not more common in this population than in other
+conditions treated with rhGH, nor have additional safety concerns
+arisen.105, Level III; 95 , Level III; 106, Level III; 100, Level II-1
+a.
+Insulin resistance
+There is no evidence that T2DM, IGT or dyslipidaemia occurs more
+commonly among children born SGA than in the normal childhood
+population. Although children born SGA tend to develop higher fasting
+insulin level and relative insulin resistance during rhGH therapy, these
+changes appear to be largely reversible when treatment is terminated.
+105, Level III; 95, Level III; 106 , Level III; 100, Level II-1
+b.
+Bone age acceleration
+Hokken-Koelega and colleagues showed that rhGH therapy is
+associated with an acceleration of bone maturation especially in the
+ﬁrst two years regardless of the rhGH dose given.101, Level II-1
+c.
+Risk of malignancy
+There is no evidence that the risk of malignancy is increased with rhGH
+therapy.105 , Level III, 95, Level III; 106, Level III, 100, Level II-1
+The Use of Growth Hormone in Children and Adults
+25
+d.
+Benign intracranial hypertension
+As in other children treated with rhGH, BIH is a rare complication of
+rhGH therapy in children born SGA, occurring in approximately 1 in
+1000 individuals.105, Level III; 95, Level III; Lee 106, Level III; 100, Level II-1
+e.
+Other concerns
+It is currently unknown whether rhGH therapy for SGA subjects
+through childhood and adolescence is associated with future beneﬁts
+or ampliﬁcation of metabolic risks in adult life. There is no long-term
+surveillance data on adults who have been treated with rhGH for short
+stature due to SGA. It is therefore prudent to follow up this group
+systematically.105, Level III; 95, Level III; 106, Level III; 100, Level II-1
+Recommendation
+SGA children who remained short (<3rd percentile) after 4 years of age
+should be referred to a paediatric endocrinologist for evaluation and
+consideration of rhGH therapy. (Grade C)
+3.3 IDIOPATHIC SHORT STATURE
+Idiopathic short stature (ISS) is used to describe children who are very
+short for their age for unknown reason. Precise estimates for incidence
+and prevalence of ISS are difﬁcult to obtain. A systematic review
+showed that 5 - 9% of the shortest 3% of the population did not reach
+an adult height above -2 SD. This accounts for 0.2% of the normal
+children population.107, Level 1
+3.3.1 Outcome Of rhGH Therapy
+a.
+Final height
+In a systematic review by Bryant J et al, a study reported that ISS
+patients treated with rhGH for 6 months to 6.2 years showed that nearﬁnal-height in girls were 7.5 cm taller than untreated controls (mean
+height of 155.3 ± 6.4 cm and 147.8 ±2.6 cm for GH-treated and control
+group respectively). Another study reported an adult height of 3.7
+cm taller in the GH-treated group compared with the control. Other
+studies suggested that short-term height gain can range from none to
+approximately 0.7 SD over one year.107, Level 1 FH measurements were
+within the normal adult height range for 94% of patients who received
+rhGH at a dose of 0.37 mg/kg/week (0.053 mg/kg/day).108, Level I Lee et
+The Use of Growth Hormone in Children and Adults
+26
+al. estimated that the potential cost of rhGH therapy is around USD
+52,000 per 2.54 cm gain in height.107, Level 1
+b.
+Quality of life (QoL)
+There was a signiﬁcant improvement in QoL in rhGH-treated ISS children
+compared with the control, while no signiﬁcant impact on psychological
+adaptation or self-perception was found.107, Level 1
+c.
+Psychosocial Functioning
+Children with ISS were perceived to have psychosocial distress due to
+their short stature. Visser-van BH et al. showed that rhGH therapy did
+not improve psychosocial functioning.109, Level II-3 There was no difference
+in the psychosocial variables between the rhGH-treated and untreated
+subjects. Compared with the Dutch population norms, psychological
+and social functioning in ISS children was normal.110, Level II-2
+3.3.2 Dose
+rhGH doses range from 0.30 to 0.37 mg/kg/week (0.043 - 0.053 mg/
+kg/day). The mean overall height gain (ﬁnal height minus baseline
+predicted height) was 7.2 cm and 5.4 cm for 0.053 mg/kg/day and 0.034
+mg/kg/day rhGH dose groups respectively. No dose effects on safety
+parameters were noted. The dose of 0.053 mg/kg/day rhGH was found
+to be effective to achieve normal adult height in 94% of patients.108, Level I
+In patients with ISS, rhGH dose at 0.053 mg/kg/day did not appear
+to accelerate pubertal onset, pace, or bone maturation compared with
+rhGH dose at 0.034 mg/kg/day.111, Level III; 112 006, Level II-2;
+3.3.3 Adverse Reactions
+No serious adverse effects of treatment were reported in a Cochrane
+Systematic Review 2007. A GH registry on ISS patients reported a
+safety proﬁle similar to GHD patients.113, Level II-3
+Recommendation
+rhGH should not be routinely prescribed in ISS patients for the following
+reasons:
+• inconsistent height gain with rhGH therapy
+• high dose requirement (cost issues)
+• absence of psychological and social malfunctioning in ISS without
+therapy (Grade C)
+The Use of Growth Hormone in Children and Adults
+27
+3.4 FAMILIAL/ GENETIC SHORT STATURE
+Familial short stature (FSS) is a condition characterised by height
+below the 3rd percentile for age, normal growth velocity, family history
+of short stature in one or both parents and normal physical examination
+(including body proportion). These children have normal bone age
+(appropriate for chronological age), normal puberty and their expected
+adult height is below the 3rd percentile but within the TH range (MPH
+± 10 cm).
+3.4.1 Outcome of rhGH Therapy
+rhGH therapy has not been proven to improve remarkably FH of children
+with FSS. A small RCT using two different doses (20 or 40 IU/m2/week
+equivalent to 0.031 or 0.063 mg/kg/day) of rhGH in FSS showed no
+difference in their adult height outcome. The incremental effect of both
+doses on stature was minimal.114, Level II-3
+Recommendation
+rhGH should not be used in familial/genetic short stature. (Grade C)
+3.5 CHRONIC RENAL INSUFFICIENCY
+Growth retardation in chronic renal insufﬁciency (CRI) is inﬂuenced
+by factors such as nutritional insufﬁciency, endocrine and metabolic
+alteration, glucocorticoid and other immunosuppressive therapy.
+Despite adequate renal replacement therapy, growth retardation may
+persist. Studies have shown that rhGH therapy in supraphysiological
+doses may improve the growth velocity of these children signiﬁcantly.
+However the cost of therapy is very high.
+3.5.1 Outcome of rhGH Therapy
+Renal failure is a state of growth hormone resistance and not growth
+hormone deﬁciency. The FH of CRI patients treated with rhGH improved
+by 0.5 - 1.7 SDS in 15 RCTs, whereas the control group lost by 0.5
+SDS in comparable time interval. When a higher dose (0.05mg/kg/day)
+was used, the resulting height velocity in the ﬁrst year was 3.8 cm/year
+above the untreated patient. The growth response to rhGH therapy
+is negatively correlated with age, height at start of rhGH therapy and
+duration of dialysis.115, Level I The highest treatment success is obtained
+if treatment is started at an early age and with relatively well-preserved
+residual renal function.116, Level III Although rhGH therapy has been used
+in all stages of CRI, the AACE Guideline 2003 has not recommended
+rhGH therapy for post-transplantation patients unless it is given as part
+of a research study.9., Level III
+The Use of Growth Hormone in Children and Adults
+28
+3.5.2 Adverse Reactions of rhGH Therapy
+The frequency of reported side effects of rhGH in CRI patients was
+similar to that of the control group. They were wheezing, acute rejection
+in transplanted patients, deterioration in kidney function, raised fasting
+glucose, papilloedema, glucose intolerance, granuloma formation, lymph
+node swelling, claudication, hypertension and worsening of pre-existing
+idiopathic scoliosis. Three trials reported no signiﬁcant difference in
+glucose intolerance in patients on rhGH therapy. Nine trials reported
+that kidney function did not differ between the treated and untreated
+groups. Only one trial demonstrated a signiﬁcant increase in wheezing
+in the rhGH group compared to the control group.115, Level I
+Recommendation
+In local setting, rhGH therapy should not be given to short children with
+CRI. (Grade C)
+3.6 PRADER-WILLI SYNDROME
+Prader-Willi Syndrome (PWS) occurs in 1 in 10,000 to 1 in 16,000
+live-born infants.117, Level III It is caused by paternal deletion or maternal
+disomy of genes on the long arm of chromosome 15. Apart from short
+stature and mental retardation, these children have excessive body
+fat, decreased muscle mass, sleep disturbances and central apnoea.
+118, Level II-1; 117, Level III
+3.6.1 Outcome of rhGH Therapy
+The body composition improved but did not normalise. Lean body
+mass (LBM) improved at near-adult-height but remained low. Body fat
+percentage and fat/lean ratio improved during the ﬁrst year of rhGH
+therapy but returned to pretreatment state at near-adult-height. rhGH
+intervention is likely to provide beneﬁts other than improvement of adult
+height.118, Level II-1 In 2003, the European Union has approved rhGH for
+improvement of linear growth and body composition in children with
+PWS. United States Food and Drug Administration (FDA) approved
+indication for rhGH use limited to documented growth failure in PWS.
+In a study by Lindgren et al, all patients reached near-adult height within
+mid-parental height median -0.5 SDS (range -1.4 to 0.7) and 0.9 SDS
+(range 0.1 to 1.9) for girls and boys, respectively.118, Level II-1
+The Use of Growth Hormone in Children and Adults
+29
+3.6.2 Adverse Reactions
+a.
+Death during rhGH therapy
+In a mini review of 13 mortality reports, 10 out of 13 PWS children died
+of respiratory insufﬁciency. The highest risk of mortality occurred during
+the ﬁrst 7 months of rhGH therapy.119, level III
+b.
+Respiratory
+PWS children had an increased risk of central apnoea. However, six
+months of rhGH therapy did not aggravate the sleep-related breathing
+disorders in young PWS children.120, Level II-2
+c.
+Carbohydrate metabolism
+Studies have shown that fasting insulin was signiﬁcantly increased at
+12 months and returned to baseline between 24 and 36 months of rhGH
+therapy. All PWS children receiving rhGH therapy had normal levels of
+insulin, glucose, insulin to glucose ratio and HOMA-IR during the entire
+study.120, Level II-2; 121, Level II-3
+However, in the KIGS database (n= 22), one patient developed
+impaired glucose tolerance (IGT) and another T2DM when their weights
+increased rapidly over six months (gained >10 kg). In the patient with
+IGT, glucose levels normalised after weight reduction.122, Level II-1
+d.
+Scoliosis
+The prevalence of scoliosis in children with PWS is high (37.5%) and
+increases with age.123, level II-3 However, the prevalence of scoliosis is
+not higher in PWS patients receiving rhGH therapy.124, Level III; 125, Level II-2
+Many children with scoliosis (13%) had undergone brace treatment or
+surgery.123, level II-3
+In local setting, PWS are generally very obese with high risk of central
+apnoea at presentation. rhGH dose based on their body weight is likely
+to be very high and hence very expensive.
+Recommendation
+rhGH therapy should not be given to children with PWS. (Grade C)
+The Use of Growth Hormone in Children and Adults
+30
+3.7 NOONAN SYNDROME
+Noonan Syndrome (NS) is a multiple congenital abnormality syndrome
+characterised by short stature, mental retardation, distinctive facial
+appearance, congenital heart defects, thoracic deformities and
+cryptorchidism. The incidence of NS is estimated to be between 1:1000
+and 1:2500 live births. It is a hereditary autosomal dominant disorder
+but 60% of the cases are sporadic. Mutation of PTPN11 gene accounts
+for approximately 50% of all cases.126 , Level II-3; 127, Level II-3; 128, Level II-2
+3.7.1 Outcome of rhGH Therapy
+a.
+Final height
+FH gain was variable with rhGH therapy in Noonan patients. Some
+rhGH-treated NS patients had no or only small increases in ﬁnal adult
+height. The poor FH may be partly explained by PTPN11 gene mutation
+which is associated with lower basal height and possibly poor response.
+129, Level III
+In the KIGS Database (n=402) of patients treated with rhGH therapy
+for 4 to 12 years, the median increment in ﬁnal height was 0.6
+SDS.127, Level II-3 In an uncontrolled study of 29 patients (22 patients
+had PTPN11 mutation) using high dose of 0.05 mg/kg/day over 3.0 to
+10.3 years, mean height gain was 1.3 SDS (range from +0.2 to +2.7).
+126, Level II-3
+3.7.2 Adverse Reactions
+NS patients with hypertrophic cardiomyopathy may be at risk from rhGH
+therapy because of the effect of rhGH on cardiac muscle mass. These
+patients have generally been excluded from trials of rhGH therapy.
+126, Level II-3; 128, Level II-2 Possible abnormal anabolic effects of rhGH on
+myocardial thickness are not conﬁrmed, and none of the rhGH-treated
+NS patients develop hypertrophic cardiomyopathy.128, Level II-2
+In local setting, rhGH cannot be recommended for short children with
+Noonan syndrome in view of the high dose and cost, a wide variation of
+growth response and the uncertainty of rhGH on cardiovascular safety.
+Recommendation
+rhGH therapy should not be given to children with Noonan syndrome.
+(Grade C)
+The Use of Growth Hormone in Children and Adults
+31
+3.8 RUSSELL-SILVER SYNDROME
+The incidence of Russell-Silver Syndrome (RSS) is 1:100,000 live
+births. Key features of RSS include intrauterine cum postnatal growth
+retardation, triangular facies and limb asymmetry. There is a tendency
+for fasting hypoglycaemia in early childhood and genital dysmorphism
+(cryptorchidism, hypospadias and hypogonadism).
+3.8.1 Growth Response with GH Therapy
+Recent data suggested that RSS exhibit abnormal pulsatility of
+GH secretion. There were very few studies on RSS. In an earlier
+review it was suggested that FH outcome can be improved by using
+pharmacological doses of rhGH. However the number of RSS patients
+was very small.130, Level III; 131, Level III Height gain (+1.3 SD) was the same
+in SGA and RSS, but ﬁnal adult height is lower in RSS as they were
+shorter at baseline.132, Level III
+Recommendation
+rhGH should not be given to children with Russell-Silver syndrome.
+(Grade C)
+3.9 SKELETAL DYSPLASIA
+The incidence of skeletal dysplasia is at least 30 - 45 in every 100,000
+newborn. Skeletal dysplasia comprises a large and heterogeneous group
+of disorders affecting the development of the skeleton. Achondroplasia
+(ACH) and hypochondroplasia (HCH) are the most common. ACH has
+an estimated incidence of about 4 - 5 per 100,000.133, level III; 134, level II-3
+ACH is characterized by short-limb dwarﬁsm, a relative macrocephaly
+with prominent forehead, midfacial hypoplasia, lumbar lordosis and a
+trident conﬁguration of hands and hydrocephalus.
+In addition to prepubertal growth failure, ACH patient have decreased
+pubertal growth spurt. The FH in untreated ACH is 131.5 and 125 cm
+for boys and girls respectively.135, level III HCH is phenotypically milder
+than ACH with a FH of 145.0 to 165.0 cm in untreated boys and 133.4
+to 150.6 cm in untreated girls.134, level II-3
+3.9.1 Goals of GH Treatment
+First year response to rhGh therapy is typically a 2 - 3 cm increase
+in growth velocity in prepubertal children with skeletal dysplasia, or a
+height gain of 0.5 SDS or less from a baseline level of -4 to -5 SDS.
+The Use of Growth Hormone in Children and Adults
+32
+rhGH therapy for up to ﬁve years in ACH can produce a total height
+gain of about 1 SDS. However, FH data is lacking. The body proportion
+(trunk to leg length ratio) does not seem to be affected by rhGH therapy.
+133, level III;
+rhGH therapy is unlikely to improve the height of ACH to within normal
+range for the population. On the contrary, rhGH therapy can worsen
+scoliosis during pubertal growth and also the stature. Surgical limb
+lengthening is a better alternative for these patients.135, level III
+The height improvement was much greater in HCH than in ACH. With
+three years of rhGH therapy, the mean increase in height SD for ACH
+was negligible (-0.2 SD to 0.1 SD) but was better in HCH (1.2 SD to 2.6
+SD).134, level II-3
+Recommendation
+rhGH therapy should not be used for skeletal dysplasia. (Grade C)
+The Use of Growth Hormone in Children and Adults
+33
+4.
+USE OF GROWTH HORMONE IN TRANSITION PATIENT
+The primary goal of rhGH therapy in children is to achieve a ﬁnal height
+(FH) which is consistent with the target height (TH). It is a common
+practice to discontinue rhGH therapy after attainment of FH when
+growth is completed. This period of adolescence after attainment of FH
+until 6 to 7 years later (approximately from 17 to 25 years old) is termed
+the transition period. This period encompasses a broad set of physical
+and psychosocial changes.136, level III
+The new goal of rhGH therapy in the transition period is normalisation
+of metabolism and improvement in quality of life.
+4.1
+WHO SHOULD CONTINUE GH THERAPY?
+It has been reported that 71.9% of childhood-onset growth hormone
+deﬁcient (COGHD) children continue to be GHD in adult life and are
+likely to require further rhGH therapy.137, level II-2 However, a substantial
+proportion of children with isolated IGHD recover normal GH reserve
+by the time FH is attained138, level II-1; 139, level II-3 especially in those who
+were previously diagnosed to have partial GH deﬁciency.140, level II-3
+Patients with MPHD, with or without structural pituitary or peri-pituitary
+disease141, level II-3; 138, level II-1 and/or previous cranial radiation therapy
+are more likely to have ongoing GHD.139, level II-3 Studies also found
+that in the presence of two or more additional hormones deﬁciency
+(≥3 pituitary hormones deﬁciency), all patients had a pathological GH
+response during re-testing.142, level II-2; 138, level II-1 A prospective study on
+adults with a history of either adult-onset hypothalamic-pituitary disease
+or COGHD demonstrated that the positive predictive values (PPVs) for
+GH deﬁciency in these subjects with three and four pituitary hormones
+deﬁciency were 96% and 99% respectively.142, level II-2
+In those who had been exposed to cranial irradiation (median dose
+58 Gy) during childhood, it was demonstrated that 48% did not fulﬁll
+the biochemical criteria (peak stimulated GH <3 mcg/L) for rhGH
+replacement in adulthood.143; level II-2 It was also found that location of
+the ectopic posterior pituitary at the median eminence and absence of
+a visible stalk on MRI were predictors of severe GHD. However, only
+61% of patients with COGHD and the above abnormal MRI ﬁndings
+remain severely GHD in adulthood. All of those with associated MPHD
+continued to have severe GHD in adulthood.141, level II-3; 144, level II-2
+The AACE 2009 guidelines recommend that all patients with COGHD
+should be re-evaluated using a GH stimulation test at completion of
+The Use of Growth Hormone in Children and Adults
+34
+growth except those with organic causes of hypothalamic-pituitary
+disease, presence of at least three pituitary hormones deﬁciency and
+serum IGF-1 below the given laboratory reference range of <-2 SD.
+Repeat screening for GH deﬁciency should be performed by paediatric
+endocrinologists at least one to three months after cessation of rhGH
+therapy.145 , level III
+Recommendation
+All patients with COGHD should be re-tested at completion of growth
+EXCEPT for those with:
+• organic hypothalamic-pituitary disease
+AND
+• ≥3 pituitary hormone deﬁciencies
+AND
+• serum IGF-1 below –2 SD (Grade C)
+4.2
+RE-TESTING OF GHD PATIENTS
+There are scarce data regarding the optimal pharmacologic agent for
+GH stimulation test in the transition period. The functional dynamics
+of GH secretion are different in growing children and in those who
+have reached FH, leading to different deﬁnitions of GHD in children
+and in young adults. The committees from various established
+consensus guidelines have recommended ITT as the standard
+test to re-evaluate GH reserve in adolescents during the transition
+period.145, level III; 146, Level III; 136, level III, 42, level III A mean peak GH response
+to ITT in those with high probability of permanent GH deﬁciency was
+signiﬁcantly lower compared to controls.147, Level II-2
+A Consensus Statement (2007) has recommended a peak stimulated
+GH cut-off of less than 6 mcg/L for the diagnosis of permanent GH
+deﬁciency in young adults with COGHD.146, Level III However, the
+accuracy of ITT was recently evaluated and the best diagnostic
+accuracy was found to be 5.62 mcg/L or less.148, level II-1 The glucagon
+test has been shown to be as good as the ITT in assessing GH
+reserve in hypopituitary adults.149, level II-2; 150, level II-2 A case-control
+study demonstrated that glucagon test reliably identiﬁed patients with
+GH deﬁciency using a cut-off peak stimulated GH of 3 mcg/L with a
+sensitivity and speciﬁcity of 97% and 88% respectively.149, level II-2 It was
+also demonstrated that serum IGF-1 in a patient who has discontinued
+rhGH treatment may be helpful in identifying persistent GH deﬁciency.
+However, serum IGF-1 may not fall below normal levels until six
+months after rhGH therapy is discontinued.144, level II-3 Various studies
+The Use of Growth Hormone in Children and Adults
+35
+showed different IGF-1 cut-off points for persistent GH deﬁciency
+i.e. -1.7 SDS147, level II-2, <-2 SDS 137, level II-2 and ≤-2.83 SDS.148, level II-1
+Insulin tolerance test (ITT) is the preferred stimulatory test to re-assess
+patients with COGHD during the transition period.
+A peak stimulated GH value of 5.6 mcg/L or less in response to ITT has
+the best accuracy for diagnosing permanent GH deﬁciency.
+Glucagon test is a good alternative to ITT.
+Recommendation
+ITT should be used to re-test COGHD patients during transition period.
+(Grade B)
+4.3
+DOSE OF GH
+In a large RCT of young adults with GH deﬁciency randomised to rhGH
+doses of 25 mcg/kg/day (paediatric dose), 12.5 mcg/kg/day (adult dose)
+or no GH treatment, there were no treatment differences between the
+two rhGH doses but there was signiﬁcant improvement when compared
+to the control in body composition in the rhGH arms compared to the
+placebo arm. This study also suggested that dose requirements may
+have to be adjusted for gender, as females requiring a higher dose to
+normalise IGF-1 than males.151, level 1
+Using the same cohort of patients to study the effect of rhGH therapy
+on bone, it was shown that there were no signiﬁcant changes in bone
+turnover markers, bone mineral content (BMC) and BMD between the 2
+rhGH doses but signiﬁcant improvement as compared with the control.
+However, this study favoured the lower paediatric dose for bone mass
+accumulation as the higher paediatric dose in GHD young adults causes
+a predominant bone resorption over bone formation.152, level 1
+In an earlier smaller RCT, comparing outcomes of two years treatment
+with rhGH (12.5 or 25.0 mcg/kg/d) and placebo, the LBM and FM
+changed from baseline to the end point exhibited a signiﬁcant dose
+dependency. Improvement in LBM, FM and spine BMD was signiﬁcantly
+better with the higher dose.153, level 1
+The American Association of Clinical Endocrinologists (AACE) 2009
+guidelines recommend that the starting dose of rhGH in transition
+should be approximately 50% of the dose between the paediatric dose
+required for growth and the adult dose.145, level III
+The Use of Growth Hormone in Children and Adults
+36
+Recommendation
+The starting dose of rhGH that should be given during transition period
+is 0.0125 - 0.0250 mg/kg/day. (Grade C)
+The dose of rhGH should be adjusted to maintain normal serum IGF-1
+level. (Grade A)
+4.4
+BENEFITS OF TREATMENT
+Studies had shown improvement in body composition and lipid proﬁles
+in young adults but not muscle strength with rhGH therapy during
+the transition period.Caroll 154 PV et al 2004, level II-2; Hulthen 155 L et al 2001, level II-2,
+Vahl 156 N et al 2000, level I; Johannsson 157 G et al 1999, level II-2 rhGH treatment in GHD
+adolescents did not show any effect in terms of cardiac mass and
+function.Lanes 158 R et al 2001, level II-2
+As for QoL in COGHD patients, results showed that overall baseline
+QoL was not compromised in severely GHD patients during the
+transition period but dimensions related to age-speciﬁc psychological
+problems were signiﬁcantly worse than healthy subjects and appeared
+to positively respond to rhGH therapy.159, level 1
+In a large RCT, it was shown that there was an increase in total BMD
+in the rhGH-treated versus the untreated GHD adolescents after two
+years.152, level 1 Similarly, in a large multicentre RCT, results showed
+that there was a signiﬁcant improvement in lumbar spine BMD in those
+treated compared to the untreated.160, level 1 Another study documented
+that areal bone mineral density (aBMD) continued to accrue in untreated
+patients with GH deﬁciency after two years at a slightly but signiﬁcantly
+lower rate than those treated.161, level 1
+However, smaller studies did not demonstrate any beneﬁt to BMD, lipid
+metabolism, body composition, cardiac function, muscle strength and
+QoL with rhGH therapy during the transition period.162, level II-2; 163, level I
+Many studies have shown an improvement in body composition, lipid
+proﬁle, bone mineral density and QoL in rhGH-treated GHD adolescents
+during transition period.
+The Use of Growth Hormone in Children and Adults
+37
+5.
+GROWTH HORMONE DEFICIENCY IN ADULTS
+5.1
+CLINICAL FEATURES OF ADULT WITH GH DEFICIENCY
+SYNDROME
+Adults with GH deﬁciency present with a wide spectrum of clinical
+presentation and is termed as GH deﬁciency syndrome. However the
+features are not pathognomonic and may overlap with a variety of other
+conditions.
+Table 1: Clinical Features of Syndrome of Adult GH Deﬁciency
+Symptoms
+Signs
+• Increased body fat
+• Reduced muscle bulk
+• Reduce strength and physical
+ﬁtness
+• Reduced sweating
+• Impaired psychological
+well-being
+• Depressed mood
+• Anxiety
+• Reduced physical stamina
+• Reduced vitality and energy
+• Increased social isolation
+* Adopted from Ho K 2006. Growth Hormone deﬁciency in Adults.
+Endocrinology 2006. 5th edition; 755-765.
+Untreated GH deﬁciency in adults is associated with increased
+morbidity and mortality.164, level II-2; 165, level II-2 The syndrome is associated
+with increased risk for cardiovascular mortality, osteopenia, fracture
+rates, fat mass and decreased muscle mass. There is also a
+greater propensity for dyslipidaemia with increased total and LDL
+cholesterol, and reduced HDL cholesterol.145, level III Successful rhGH
+replacement treatment ameliorates many symptoms of GH deﬁciency
+syndrome.166, level III GHD adults are associated with reduced bone
+density and osteoporosis. COGHD results in reduced bone density in
+adult life.167, level II-2 and subjects with adult onset GH deﬁciency have an
+increased prevalence of fractures.168, level II-2 The KIMS database of GHD
+adult showed that the majority (60 - 70%) of patients had additional
+pituitary hormones deﬁciency primarily gonadotropin, TSH and ACTH
+deﬁciency. Posterior pituitary deﬁciency was less common (22%).169 ,level II-3
+• Overweight
+• Increased adiposity especially
+abdominal
+• Poor muscular development
+• Reduced exercise
+performance
+• Thin, dry skin
+• Depressed affect
+The Use of Growth Hormone in Children and Adults
+38
+Recommendation
+Regular monitoring of the cardiovascular parameters including lipid
+proﬁles, blood pressure and fasting glucose should be done. (Grade C)
+GHD adults should:
+• be regularly monitored for the cardiovascular parameters including
+lipid proﬁles, blood pressure and fasting glucose (Grade C)
+• undergo DEXA scan (Grade C)
+• be screened for other pituitary hormone deﬁencies and if present,
+be optimally treated as well (Grade A)
+5.2
+AETIOLOGY
+A large number of different aetiologies contribute to GH deﬁciency in
+adulthood. Frequent causes include previous hypothalamic–pituitary
+disease, such as pituitary adenoma, craniopharyngioma, cranial
+irradiation, head trauma/vascular injury and inﬁltrative disease.
+COGHD also contributes to growth deﬁciency in adulthood. Idiopathic
+GH deﬁciency may also occur in some cases.
+The KIMS global surveillance database of adult GHD patients showed
+that the most common causes of GH deﬁciency were pituitary adenoma,
+idiopathic GH deﬁciency and craniopharyngiomas which collectively
+contributed to 60 - 70% of all cases.170, level II-3; 169 G, level II-3 Other causes of
+GHD adults include non-pituitary brain tumours and irradiation (7.0%),
+traumatic brain injury/TBI (3.1%), postpartum pituitary necrosis (2.9%)
+and lymphocytic hypophysitis (0.9%).
+GH deﬁciency has also been found to occur in one third of patients who have
+undergone cranial irradiation for non-pituitary brain tumours171, Level III
+and two-thirds of patients with childhood onset acute lymphoblastic
+leukaemia (ALL).172, level II-2
+At least 25% of TBI survivors developed one or more pituitary hormone
+deﬁciencies. Most cases of post-traumatic hypopituitarism remain
+undiagnosed and untreated in clinical practice. In a recent systematic
+review, up to one third of TBI patients were diagnosed to have GH
+deﬁciency. In the majority of patients, the condition was transient and
+only 16% of the cases had persistent deﬁciency at 6 - 12 months of
+follow up.173, level I It was recommended that screening for GH deﬁciency
+is appropriate 6 to 12 months after the head trauma in moderate to
+severe head cases.174, level III
+The Use of Growth Hormone in Children and Adults
+39
+Recommendation
+GH deﬁciency should be excluded in adult patients with clinical features
+of GH deﬁciency AND one of the following:
+• hypothalamic-pituitary disease,
+• previous cranial irradiation
+• traumatic brain injury (Grade B)
+In the absence of hypothalamic-pituitary disease, screening for GH
+deﬁciency is not recommended in adults. (Grade C)
+5.3
+DIAGNOSIS
+The diagnosis of GH deﬁciency in adults should ideally be based on
+correct identiﬁcation of clinical features in individuals at risk of GH
+deﬁciency and biochemical conﬁrmation. The diagnosis of GHD is
+conﬁrmed by performing stimulation tests. Commonly used tests are
+ITT, glucagon stimulation test, arginine with/without growth hormone
+releasing hormone (GHRH) (ARG plus GHRH) test. Comparison of
+these different diagnostic tests has shown that the ITT and ARG plus
+GHRH tests were better to differentiate between GHD patient from
+normal persons.175, level III In the KIMS global database of adult GHD,
+these two stimulation tests were the most commonly used.169, level II-3
+However, GHRH is not available in Malaysia.
+The cut off value to diagnose GH deﬁciency in adults is GH level that
+is less than 5.1 mcg/l. This value will provide 96% sensitivity and
+92% speciﬁcity. The GH assay used for this particular cut off is an
+immunochemiluminometric assay.175, level III If a patient has three or four
+pituitary hormone deﬁciencies in addition to a low IGF-1 level (below -2
+SD), in the absence of conditions that lower IGF-1, the probability of GH
+deﬁciency being documented on stimulation testing is more than 90%
+and thus stimulation test is necessary to make the diagnosis.142, level II-3
+In most circumstances, the biochemical diagnosis of GH deﬁciency in
+an adult would require only one stimulation test.176, level III
+ITT is contraindicated in patients with electrocardiographic evidence
+or history of ischaemic heart disease or in patients with seizure
+disorders.166, Level III Since ITT can cause seizures,177, level III it might be
+prudent to avoid it in patients with a history of previous stroke as well. In
+such patients where the ITT is undesirable or contraindicated, a reliable
+alternative GH stimulation test is the glucagon stimulation test (GST) for
+the following reasons: 1) accurate and reliable discrimination between
+The Use of Growth Hormone in Children and Adults
+40
+normal and true GH deﬁciency, 2) availability, 3) reproducibility, 4)
+safety and 5) lack of inﬂuence by gender, or hypothalamic cause of
+GHD.178; level III
+Insulin Tolerance Test (ITT) is the gold standard for diagnosing adult
+GH deﬁciency.
+Recommendation
+ITT should be avoided in patients with one or more of the following:
+• History of seizures
+• History of strokes
+• Presence of coronary artery disease.
+• >55 years of age (Grade C)
+Glucagon stimulation test is an alternative in patients who are unsuitable
+for ITT. (Grade C)
+Patients with irreversible hypothalamic-pituitary lesions and with
+evidence of at least three pituitary hormone deﬁciencies and serum
+IGF-1 levels below the age- and sex-appropriate reference range
+are deemed GH deﬁcient and do not require GH stimulation
+test. (Grade C)
+5.4 BENEFITS
+There are protean clinical manifestations of GH deﬁcient syndrome
+for which the appropriate management is GH replacement. However,
+not all subjects with GH deﬁciency has the GHD syndrome.176, level III
+The beneﬁts of GH replacement are well documented and many of
+the metabolic and body composition improvement may have a positive
+impact on the cardiovascular risk that GH deﬁcient adult. The indications
+and the positive impact are discussed in the sections below.
+Recommendation
+rhGH should only be prescribed to patients with clinical features
+suggestive of adult GH deﬁciency AND biochemically proven GH
+deﬁciency. (Grade C)
+5.4.1 Psychological well- being
+Patients with GH deﬁciency have been shown to have a reduced
+sense of well-being. The majority of studies showed that adults with
+hypopituitarism of both childhood and adult onset have a diminished
+The Use of Growth Hormone in Children and Adults
+41
+QoL in comparison with the normal population. Reductions in physical
+and mental energy, dissatisfaction with body image and poor memory
+have been reported most consistently.179, level I; 180, level II-3; 181, level III
+GH replacement in GHD adults has improved QoL, especially in the
+domain of energy level, self-esteem, attention and memory. There is
+considerable social impact with fewer days of sick leave.179, level I; 182,
+level III; 180, level II-3; 183, level II-I; 184, level II-2; 181, level III
+Both generic and GHD-speciﬁc tests usually indicate that rhGH
+replacement therapy enhances QoL. Quantitative indices of QoL are
+increased within 1 - 3 months in most patients, although some individuals
+require longer treatment duration (6 months) before improvements are
+noted.182, level III Some patients show deﬁnite beneﬁt after receiving rhGH
+therapy but in others improvements were either limited or none. The
+degree of improvement in QoL is generally proportional to the deviation
+from normality at the outset but shows no correlation with the degree of
+improvement in IGF-1 levels in practice. If the QoL of the patients is normal
+at baseline, no improvement will be seen with rhGH therapy.181, level III
+Methods for assessing the QoL in adult with GH deﬁciency:
+• Generic Questionnaires such as Nottingham Health Proﬁle,
+Psychological General Health Well-being Schedule and General
+Health Questionnaire
+• Disease-Speciﬁc Questionnaire such as Quality of Life-Adult with
+GH deﬁciency Assessment, GH deﬁciency Questionnaire
+Recommendation
+A QoL questionnaire should be administered before beginning GH
+replacement as psychological well-being is the most compelling
+indication for GH replacement in adults with GH deﬁciency. (Grade C)
+Adults with GH deﬁciency on GH replacement should be evaluated
+using the QoL questionnaire at 6 to 12-monthly intervals to document
+the effects of GH on their psychological well being. (Grade C)
+5.4.2 Body Composition
+There is a reduction of total body fat mass (FM) after rhGH
+replacement
+and
+the
+magnitude
+of
+FM
+reduction
+is
+dose
+dependent 185, level III; 186, level II-2; 187, level II-I This FM reduction is accompanied
+by a parallel increase in fat free mass (FFM) which follows the same
+rhGH dose trend.185, level III The reduction in whole body FM with rhGH
+replacement is due mainly to a marked decrease in central and
+The Use of Growth Hormone in Children and Adults
+42
+visceral fat in GHD subjects.185, level III; 188, level II; 186, level II-2; 189, level II-2; 190,
+level II-1 rhGH replacement has been shown to have greater reduction in
+central
+adipose
+tissue
+as
+compared
+to
+peripheral
+adipose
+tissue.188, level III; 189, level II-2; 187, level II-1 These body composition changes
+were more pronounced for young and lean subjects.185, level III The
+increase in the FFM was reﬂected by an increase in muscle power
+in these subjects.191, level III While the increase in FFM was seen within
+a month of rhGH replacement, the increase in muscle strength was
+only seen after 6 - 12 months of rhGH replacement. This lag in the
+functional improvement may be due to initial improvement in muscle
+tissue hydration.185, level III
+Recommendation
+GHD adults who are undergoing rhGH replacement should have their
+body composition such as BMI and waist circumference measured
+regularly. (Grade C)
+5.4.3 Cardiovascular Risk
+Patients with GH deﬁciency have been shown to have an increased
+cardiovascular morbidity and mortality. There is also an associated
+increase in cardiovascular risk markers similar to that observed in
+Insulin Resistance Syndrome (IRS) namely, central obesity, elevated
+triglyceride (TG) and reduced HDL cholesterol levels.192, level I; 185, level III
+Higher incidence of diabetes and hypertension has also been reported
+in GHD adults.193, level II-2; 194, level II-2 Furthermore, doppler ultrasound
+measurement has shown an increased carotid intima-media thickness
+(IMT) in GHD adults indicating the presence of atherosclerosis.184, level II-3
+Replacement with rhGH in GHD adults has shown a reduction in fat
+mass particularly in centrally distributed fat mass. There is also an
+improvement in lipid level with a reduction in the total cholesterol and
+LDL cholesterol levels.192, level I; 180, level II-3; 185, level III The effects of GH
+replacement on insulin resistance and glucose tolerance is highly
+dependent on the dose of rhGH used and the susceptibility of the
+patient to develop diabetes such as underlying obesity, family history
+of diabetes and previous history of gestational diabetes. It is therefore
+important that susceptible patients to diabetes mellitus are given a very
+low dose of rhGH at initiation of therapy (i.e. 0.1 to 0.2 mg/day) and
+that the dose then is slowly increased based on the clinical response
+as there may be an initial deterioration of insulin sensitivity with rhGH
+replacement in the ﬁrst three months but insulin sensitivity returns to
+baseline levels with longer duration of rhGH replacement.185, level III In a
+study on a group of leaner (BMI: 22.8) and younger (age:29.5) COGHD
+The Use of Growth Hormone in Children and Adults
+43
+adults, an improvement of insulin sensitivity was seen.195, level II-2
+Longer term studies of ﬁve years duration have also demonstrated a
+signiﬁcant reduction in IMT suggesting a reversal of the atherosclerotic
+process.196, level II-2; 184, level II-3 However, no data is available yet to show a
+reduction of cardiovascular events or mortality as the number of GHD
+adults on sufﬁcient long duration of GH replacement is still relatively
+small.
+Recommendation
+GHD adults who are undergoing GH replacement should have their
+cardiovascular parameters monitored, in addition to body composition
+measurements. (Grade C)
+5.4.4 Bone Density
+Adults with GH deﬁciency are associated with reduced bone density
+and osteoporosis. COGHD results in reduced bone density in adult life
+167, level II-I and subjects with adult onset GH deﬁciency have an increased
+prevalence of fractures.168, level II-I
+There are studies showing that treating GHD adults with rhGH
+replacement improved BMD as assessed by dual energy x-ray
+absorptiometry scan (DEXA scan) which is more pronounced in males
+and in those with lower initial BMD.191, level III; 194, Level II-2
+Recommendation
+GHD adults should undergo DEXA scan prior to starting GH replacement.
+(Grade B)
+• If the initial bone density is abnormal, repeat DEXA scan is
+recommended at 1 - 3 years intervals to assess the need for
+additional anti-osteoporosis treatment. (Grade C)
+5.5 DOSAGE
+The rhGH dosage should be individualised, independent of body weight
+and increased slowly to the minimal dose that normalises serum IGFI level without untoward side effects. In older patients, lower starting
+dose should be used for replacement.145, level I; 197, level I; 198, level II-I
+The dose of rhGH is initiated at 0.1 - 0.2 mg daily for men and 0.2
+- 0.3 mg daily for women. At each visit, the rhGH dose is increased by
+0.1 to 0.2 mg until the maintenance dose is reached based on clinical
+The Use of Growth Hormone in Children and Adults
+44
+response, IGF-1 levels and limited by the occurrence of side effects.
+199, level III
+Recommendation
+rhGH dose for replacement in GHD adults should be individualised
+independent of body weight. (Grade A)
+The starting dose of rhGH is 0.1 mg daily for men and 0.2 mg daily
+for women. The dose is increased by 0.1 mg or 0.2 mg to achieve a
+maintenance dose based on clinical response, IGF-1 levels, and side
+effects. (Grade C)
+5.6 SAFETY
+5.6.1 Common Adverse Effects
+In short term RCTs, the most common reported adverse events
+related to rhGH therapy were oedema, arthralgia and muscle
+weakness.197, level I; 200, level I Similarly, a three-year RCT reported that
+adverse events related to ﬂuid retention are fairly common which include
+arthralgia (30.6%), myalgia (13.5%), peripheral oedema (12.6%),
+paresthesia (9.0%), carpal tunnel syndrome (7.2%), generalised
+oedema (7.2%) and hypoaesthesia (5.4%). These events were not
+associated with increase in IGF-1 levels.201, level I Data from the KIMS
+Pﬁzer International Metabolic Database reported that 18% of patients
+developed ﬂuid retention.202,level II-3
+Fluid-related adverse effects such as arthralgia, myalgia and peripheral
+oedema are common in rhGH replacement therapy.
+5.6.2 Risk of Tumour Recurrence
+Three observational studies had shown that rhGH replacement therapy
+had no signiﬁcant effect on tumour regrowth.203, level II-2; 204, level II-2; 205, level II-2
+In a long-term study by Arnold et al. involving 130 patients with
+non-functioning pituitary adenoma treated by surgical removal,
+rhGH treatment was not a signiﬁcant independent predictor of
+recurrence.203, level II-2
+rhGH in GHD adults does not increase recurrence of hypothalamicpituitary tumours.
+The Use of Growth Hormone in Children and Adults
+45
+5.6.3 Risk of New Malignant Disease
+A prospective longitudinal study of rhGH therapy in hypopituitary males
+of more than 50 years old demonstrated no change in serum prostate
+speciﬁc antigen (PSA).206, level II-2 The KIMs database also showed no
+evidence of rhGH therapy increasing the risk of developing malignant
+neoplasms.202,level II-3
+When comparing 1, 411 hypopituitary adults without rhGH replacement
+(mean age of 56.9 year) and 289 hypopituitary patients on long-term
+GH replacement (mean age of 47.6 year and mean duration of GH
+treatment of 60 months) with the normal population, malignancies were
+increased in those hypopituitary patients without rhGH replacement.
+However in patients on rhGH replacement, the overall mortality and the
+rate of malignancies were similar to the normal population.207, level II-2
+rhGH replacement in GHD adults does not increase the risk of new
+malignant tumours.
+The Use of Growth Hormone in Children and Adults
+46
+6.
+USE OF GH IN NON-GHD ADULTS
+6.1 BURNS PATIENTS
+Three RCT conducted in Shriners Hospitals for Children of Texas on the
+use of low dose rhGH (0.05 mg/kg body weight) in 178 severely burned
+children (Total Body Surface Area Burn >40%, age below 18 years)
+showed that rhGH signiﬁcantly increased body composition (Height,
+Bone Mineral Content, Lean Body Mass and weight); cardiac function
+in the treatment group compared to the placebo group (12% ± 24 vs
+1% ± 20). Strength measurements showed signiﬁcant improvement
+at 12 months. The number of reconstructive procedures from hospital
+discharge to the end of the study period was signiﬁcantly lower in the
+rhGH group compared to the placebo group (1.8 ± 1.3 vs 4.1 ± 2.5).
+208, level I Data is still limited for the use of rhGH therapy in children with
+burns.
+There is no retrievable evidence regarding the usefulness of rhGH
+therapy in burns in adult patients.
+Recommendation
+rhGH therapy for burns in children should only be limited to research
+purposes. (Grade B)
+rhGH therapy should not be used for burns in adults. (Grade C)
+6.2 CRITICALLY ILL PATIENTS
+Two RCT clearly demonstrated that the administration of high doses of
+rhGH therapy to critically ill patients receiving prolonged intensive care
+was associated with increased morbidity and mortality.209, level I
+However, two smaller studies using short-term, low-dose rhGH
+in surgical patients showed protein sparing beneﬁts of rhGH
+supplementation with no major adverse effects apart from
+hyperglycaemia.210, level I; 211, level I
+Recommendation
+rhGH therapy should not be used in critical illness. (Grade A)
+6.3 FIBROMYALGIA
+A narrative review of 26 papers suggested that pituitary function was
+normal in ﬁbromyalgia patients. The therapeutic efﬁcacy of supplemental
+The Use of Growth Hormone in Children and Adults
+47
+rhGH therapy in ﬁbromyalgia requires further study before any further
+recommendations can be made.212, level III
+In a small non-placebo RCT using rhGH as concomitant treatment in
+severe ﬁbromyalgia associated with low IGF-1 levels, the therapy group
+showed a 60% reduction in the mean number of tender points compared
+to the control group (3.25 ± 0.8 vs 8.25 ± 0.9). Similar improvements
+were observed in FIQ score and EQ-VAS scale. The ﬁndings suggested
+that there may be an advantage of using rhGH therapy in a subset of
+severe ﬁbromyalgia patients with low IGF-1 serum levels.213, level I Further
+randomised placebo-controlled studies would be useful to evaluate the
+place of rhGH therapy in ﬁbromyalgia.
+Recommendation
+rhGH therapy should not be used for routine treatment of ﬁbromyalgia.
+It may be considered in patients with low IGF-1 levels. (Grade A)
+6.4 ANTI-AGEING THERAPY IN HEALTHY ELDERLY
+There are physiological changes in GH levels with age. The safety,
+efﬁcacy and role of rhGH in healthy elderly individual’s remains
+controversial and the use of rhGH therapy as an anti-ageing agent
+in Europe and United States has not been approved. Published
+literature evaluating rhGH therapy and ageing in the healthy elderly are
+limited. Studies have generally been non-randomised, small, of short
+duration and using only limited surrogate parameters such as body
+composition.
+Liu H et al. 2007 published a systematic review which included 31 articles
+involving a total of 220 participants. rhGH therapy was associated with
+small changes in body composition with a reduction in overall fat mass
+(-2.10 kg, 95% CI -2.80 to -1.35) and an increase in lean body mass
+(2.10 kg, 95% CI 1.30 to 2.90). rhGH therapy had no signiﬁcant effect
+on other outcomes such as serum lipid levels or bone density. There
+was no evidence to show that the effects of GH on body composition
+resulted in a change in muscle strength, maximal oxygen uptake during
+exercise or an improvement in function. Study participants were elderly
+with a mean age of 69 ± 6 years and overweight (mean body index 28
+± 2 kg/m2). Treatment dose (mean 14 ± 7 mcg per kg body weight) and
+duration (mean 27 ± 16 weeks) were varied. There was an increased
+rate of adverse events, with rhGH-treated subjects being more likely to
+experience oedema, arthralgia, carpal tunnel syndrome, gynaecomastia
+as well as an increased risk of diabetes and impaired fasting glucose.
+214, Level I
+The Use of Growth Hormone in Children and Adults
+48
+A recent systematic review also showed no deﬁnite evidence that rhGH
+therapy beneﬁted elderly non-GHD individuals.215, level II-2 There is no
+data available to suggest that rhGH therapy beneﬁts cognition in the
+healthy adult population.
+Recommendation
+rhGH should not be used as an anti-ageing therapy. (Grade A)
+6.5 SPORTS
+Exogenous rhGH therapy has been touted as an athletic performance
+enhancer for many years and its use for such a purpose has been
+banned by professional sports regulatory authorities.
+Liu H et al., in 2008, published a systematic review of 44 articles on the
+effects of GH on athletic performance. Overall, 303 subjects received
+rhGH therapy. They were young (mean age of 27 ± 3 years), lean (mean
+BMI of 24 ± 2 kg/m2) and physically ﬁt (mean maximum oxygen uptake
+of 51 ± 8 ml/kg/minute). GH dosage varied (mean dose of 36 ± 21 mcg/
+kg/day) as did treatment duration (mean of 20 ± 18 days). The review
+found that although exogenous GH was associated with an increase
+in lean body mass (mean of 2.1 kg, 95% CI 1.3 to 2.9), there was no
+signiﬁcant improvement in actual strength and exercise capacity. In
+fact, two out of three studies that measured exercising lactate levels
+showed signiﬁcantly higher exercising lactate levels in rhGH-treated
+subjects suggesting that GH therapy may worsen exercise capacity.
+rhGH treated subjects were more frequently experiencing adverse
+events such as soft tissue oedema and fatigue compared to those not
+treated with GH.216, level I
+Recommendation
+rhGH therapy should not be used to enhance athletic performance.
+(Grade A)
+6.6 INFERTILITY
+There are no studies that have looked at the use of rhGH alone in
+infertile women with normal pituitary function. Most evidence has looked
+at rhGH as an adjunct to other treatments for infertility.
+A Cochrane systematic review of nine RCT by Harper K et al in 2003
+speciﬁcally looked at the use of rhGH therapy to improve outcomes of
+in-vitro fertilisation (IVF) in women. This review found no evidence that
+The Use of Growth Hormone in Children and Adults
+49
+routine addition of GH to IVF increased the livebirth rate. It also showed
+an improvement only in those who had previously responded poorly to
+IVF (OR=4.37, 95% CI 1.06 to 18.01).217, level I
+The other systematic review looked at various therapeutic options
+available for women who had previously responded poorly to IVF. Five of
+the six studies using rhGH therapy showed no signiﬁcant improvement
+in measures of fertility (such as serum oestradiol, duration of follicular
+phase, number of oocytes and pregnancy rate). The single study
+which favoured the addition of GH was small and used historical
+controls.218, level II-I
+Recommendation
+rhGH therapy should not be used in the treatment of infertile women
+with normal pituitary function. (Grade B)
+6.7 OBESITY
+It is known that the endogenous secretion of GH in obese individuals
+is decreased although the exact physiological role of GH in obesity is
+unclear.
+A recent meta-analysis of 24 RCTs looked at the efﬁcacy and safety
+of rhGH therapy in simple adult obesity (i.e. not associated with
+distinct clinical syndromes). Treatment with very high dosages of rhGH
+therapy led to very small improvement in waist-hip ratio and fat mass in
+subjects treated with rhGH therapy compared to placebo. There were
+no signiﬁcant differences in body weight, BMI, subcutaneous fat area,
+resting energy expenditure, respiratory quotient and blood pressure.
+However, there were signiﬁcant increase in adverse events associated
+with rhGH therapy including arthralgia, paraesthesias and oedema. The
+beneﬁcial effects appear to be quantitatively small and would not justify
+a clinically relevant role for rhGH therapy in obesity.219, level I
+Recommendation
+rhGH therapy should not be used in the treatment of simple adult
+obesity. (Grade A)
+The Use of Growth Hormone in Children and Adults
+50
+REFERENCES
+1.
+Amanda L, Ogilvy S. Growth Hormone Deficiency (GHD) From Birth to 2 Years
+of Age: Diagnostic Specifics of GHD during Early Phase of Life. Horm Res.
+2003;6(Suppl 1):2-9
+2.
+Traggiaai C, Stanhope R. Endocrinopathies Associated with Midline Cerebral and
+Cranial Malformation. J Pediatric. 2002;140:252-5.
+3.
+Herber SM, Milner RDG. Growth Hormone Deficiency Presenting Under Age 2
+Years. Arch Dis Child. 1984;59:557-60
+4.
+Nazli G, Yordam N, Ozon A, et. al. Endocrinological Outcome of Different
+Treatment Option in Children with Craniopharyngioma: A retrospective analysis
+of 66 case. Pediatric Neurosurgery. 2004;40:112-19
+5.
+Behan LA, Philips J, Thompson CJ, et. al. Neuroendocrine Disorders After
+Traumatic Brain Injury. J Neurol Neurosurg Psychiatry 2008;79:753-9.
+6.
+Sumati BSB, Supriya BSB, David LM, et. al. Chronic Hypopituitarism After
+Traumatic Brain Injury: Risk Assessment And Relationship to Outcome.
+Neurosurgery. 2008;62:1080-94.
+7.
+Darzy KH, Shalet SM. Radiation-Induced Growth Hormone Deficiency. Horm Res.
+2003;59(Suppl):1-11.
+8.
+Growth Hormone Research Society. Growth Hormone Research Society
+Consensus Guidelines for the Diagnosis and Treatment of Growth Hormone
+(GH) Deficiency in Childhood and Adolescents: Summary Statement of the GH
+Research Society. J Clin Endocrinol Metab. 2000;85:3990-3.
+9.
+Gharib H, Cook DM, Saenger PH, et. al. Growth Hormone Task Force. American
+Association of Clinical Endocrinologist Medical Guidelines for Clinical Practice for
+Growth Hormone Use in Adults and Children - 2003 Update. Endocr Pract. 2003
+Jan-Feb;9(1):64-76.
+10. Coles TJ. Assessment of Growth. Best Pract Res Clin Endocrinol Metabolic
+2002;16(3):383-98.
+11. Voss LD, Wilkin TJ, Bailey BJR, et. al. The Reliability of Height and Height Velocity
+in the Assessment of Growth (the Wessex Growth Study). Arch of Dis Child.
+1991;66:833-37.
+12. Hintz RL. The role of auxologic and growth factor measurements in the diagnosis
+of growth hormone deficiency. Pediatrics. 1998;102:524-26.
+The Use of Growth Hormone in Children and Adults
+51
+13. Cianfarani S, Tondinelli T, Spadoni GL, et. al. Height velocity and IGF-I assessment
+in the diagnosis of childhood onset GH insufficiency: do we still need a second GH
+stimulation test? Clin Endocrinol (Oxf) 2002;57:161-67.
+14. Biller BMK, Samuels MH, Zagar A, et. al. Sensitivity and Specificity of Six Tests for
+the Diagnosis of Adult Growth Hormone Deficiency. J Clin Endocrinol Metab. 2002
+May;87(5):067-79.
+15. Carel JC, Tresca JP, Letrait M, et. al. Growth Hormone Testing for the Diagnosis
+of Growth Hormone Deficiency in Childhood: A Population Register-Based Study.
+J Clin Endocrinol Metab. 1997;82(7):2117-21.
+16. Federico G, Street ME, Maghnie M, et. al. Assessment of Serum IGF-1
+Concentration in the Diagnosis of Isolated Childhood-onset GH Deficiency: A
+Proposal of the Italian Society for Pediatric Endocrinology and Diabetes (SIEDP/
+ISPED). J Endocrinol Invest 2006;29:732-37.
+17. Martinez AS, Domene HM, Ropelato MG, et. al. Estrogen Priming Effect on
+Growth Hormone (GH) Provocative Test: A Useful Tool for the Diagnosis of GH
+Deficiency. J Clin Endocrinol & Metab. 2000 Nov;85 (11):4168-72.
+18. Gonc EN, Yordam N, Kandemir N, et. al. Comparison of Stimulated Growth
+Hormone Levels in Primed versus Unprimed Provocative Tests: Effect of Various
+Testosterone Doses on Growth Hormone Levels. Horm Res. 2001;56:32-7.
+19. Bidlingmaier M, Strasburger CJ. Growth Hormone Assays: Current Methodologies
+and Their Limitations. Pituitary. 2007;10:15-9
+20. Gangrud LM, Wilson DM. Is Growth Hormone Stimulation Testing in Children Still
+Appropriate? Growth Horm IGF Res 2004 Jun;14(3):185-94.
+21. Radetti G, Natascia DL, Paganini C, et. al. The Advantage of Measuring
+Spontaneous Growth Hormone Secretion Compared with the Insulin Tolerance
+Test in the Diagnosis of GH Deficiency in Young Adults. Clin Endocrinol (Oxf).
+2007;67:78-84.
+22. Nagel BHP, Palmbach M, Petersen D, et. al. Magnetic resonance images of
+91 children with different causes of short stature: pituitary size reflects growth
+hormone secretion. Eur J Pediatr 1997;156:758-69.
+23. Osorio MGF, Marui S, Jorge AAL, et. al. Pituitary Magnetic Resonance Imaging
+and Function in Patients with Growth Hormone Deficiency with and without
+Mutations in GHRH-R, GH-1, or PROP-1 Genes. J of Clin Endocrinol Metab.
+2002;87(11):5076-84.
+The Use of Growth Hormone in Children and Adults
+52
+24. Ranke MB, Schweizer R, Wollmann HA, et. al. Dosing of Growth Hormone in
+Growth Hormone Deficiency. Horm Res. 1999;51(Suppl 3):70-4.
+25. Radetti G, Buzil F, Paganini C, et. al. Treatment of GH-deficient children with two
+different GH doses: effect on final height and cost-benefit implications. Eur J of
+Endocrinol. 2003;148:515-18.
+26. Westphal O, Lindberg A. Final Height in Swedish Children with Idiopathic Growth
+Hormone Deficiency Enrolled in KIGS Treated Optimally with Growth Hormone.
+Acta Paediatr. 2008 Dec;97(12):1698-706.
+27. Reiter EO, Price DA, Wilton P, et. al. Effect of Growth Hormone (GH) Treatment
+on The Near-final Height of 1258 Patients with Idiopathic GH Deficiency: Analysis
+of a Large International Database. J Clin Endocrinol Metab. 2006;91(6):2047-54.
+28. August GP, Julius JR, Blethen SR. Adult Height in Children With Growth Hormone
+Deficiency Who Are Treated With Biosynthetic Growth Hormone: The National
+Cooperative Growth Study Experience. Pediatrics. 1998;102:512-16.
+29. Coelho R, Brook CG, Preece MA, et. al. A Randomised Study of Two Doses of
+Biosynthetic Human Growth Hormone: On Final Height of Pubertal Children with
+Growth Hormone Deficiency. Horm Res. 2008;70(2):85-8.
+30. Carela JC, Huet F, Chaussain JL. Treatment of Growth Hormone Deficiency in Very
+Young Children. Horm Res 2003;60(Suppl 1):10-7.
+31. Ranke MB, Lindberg A, Albertsson-Wikland K, et. al. on behalf of the KIGS
+International Board. Increased Response, But Lower Responsiveness, to Growth
+Hormone (GH) in Very Young Children (Aged 0-3 Years) with Idiopathic GH
+Deficiency: Analysis of Data from KIGS. J Clin Endocrinol Metab. 2005;90:196671.
+32. Hirano T, Takano K, Tanaka T, et. al. Height Responses In Complete Idiopathic
+Growth Hormone Deficient Children Less Than Three Years of Age During Growth
+Hormone Therapy. Executive Committee of the International Cooperative Growth
+Study in Japan. Endocr J. 1999 Mar;46 (Suppl):S1-4.
+33. Rapaport R, Mugnier E, Limoni C, et. al. A 5-Year Prospective Study of Growth
+Hormone (GH)-Deficient Children Treated with GH before the Age of 3 Years.
+1997. J Clin Endocrinol Metab;82:452-56.
+34. Josefsberg Z, Bauman B, Pertzelan A, et. al. Greater Efficiency of Human Growth
+Hormone Therapy in Children Below Five Years of Age with Growth Hormone
+Deficiency. A 5-year Follow-up Study. Horm Res. 1987;27(3):126-33.
+The Use of Growth Hormone in Children and Adults
+53
+35. Rachmiel M, Rota V, Atenafu E, et. al. Final Height in Children with Idiopathic
+Growth Hormone Deficiency Treated with a Fixed Dose of Recombinant Growth
+Hormone. Horm Res. 2007;68:236-43.
+36. Keizer-Schrama Rikken B, Hokken-Koelega A, et. al. Comparative Effect of Two
+Doses of Growth Hormone for Growth Hormone Deficiency. The Dutch Growth
+Hormone Working Group. Arch Dis Child. 1994;71:12-8.
+37. Cohen P, Bright GM, Rogol AD, et. al. On Behalf Of The American Norditropin
+Clinical Trials Group. Effects of Dose and Gender on the Growth and Growth
+Factor Response to GH in GH-Deficient Children: Implications for Efficacy and
+Safety. J Clin Endocrinol Metab. 2002;87:90-8.
+38. MacGillivary MH, Baptista J, Johanson A. Genentech Study Group: Outcome of
+a Four-year Randomized Study of Daily Versus Three Times Weekly Somatropin
+Treatment in Prepubertal Na_ve Growth Hormone Deficient Children. J Clin
+Endocrinol Metab. 1996;81:1806-09.
+39. Boersma B, Rikken B, Wit. J.M., et. al. Catch-up Growth in Early Treated Patients
+With Growth Hormone Deficiency. Arch Dis Child. 1995;72:427- 31.
+40. Cohen P, Rogol AD, Howard CP, et. al. Insulin growth factor-based dosing
+of growth hormone therapy in children: a randomized, controlled study. J Clin
+Endocrinol Metab 2007 Jul;92(7):2480-6.
+41. Kristr_m B, Aronson AS, Dahlgren J, et. al. Growth Hormone Dosing During Catchup Growth Guided by Individual Responsiveness Decreases Growth Response
+Variability in Prepubertal Children with GH Deficiency or Idiopathic Short Stature.
+J Clin Endocrinol Metab. 2009 Feb;94 (2):483-90.
+42. Wilson TA, Rose SR, Cohen P, et. al. Update of Guidelines for the Use of Growth
+Hormone in Children: The Lawson Wilkins Pediatric Endocrinology Society Drug
+and Therapeutics Committee. J Pediatr. 2003 Oct;143(4):415-21.
+43. Cohen P, Clemmons DR, Rosenfeld RG. Does the GH-IGF Axis Play a Role in
+Cancer Pathogenesis?. Growth Horm IGF Res. 2000;10:297-05.
+44. Tillmann V, Patel L, Gill MS, et. al. Monitoring Serum Insulin-like Growth Factor-I
+(IGF-I), IGF Binding Protein-3 (IGFBP-3), IGF-I/IGFBP-3 Molar Ratio and Leptin
+During Growth Hormone Treatment for Disordered Growth. Clin Endocrinol.
+2000;53:329- 36.
+The Use of Growth Hormone in Children and Adults
+54
+45. Cutfield WS, Lundgren F. Insulin-Like Growth Factor I and Growth Responses
+during the First Year of Growth Hormone Treatment in KIGS Patients with
+Idiopathic Growth Hormone Deficiency, Acquired Growth Hormone Deficiency,
+Turner Syndrome and Born Small for Gestational Age. Horm Res. 2009;71(Suppl
+1):39-45.
+46. Kaufman FR, Sy JP. Regular Monitoring of Bone Age is Useful in Children Treated
+With Growth Hormone. Pediatrics. 1999 Oct;104 (4 Pt 2):1039-42.
+47. Sklar CA, Mertens AC, Mitby P, et al. Risk of Disease Recurrence and Second
+Neoplasms in Survivors of Childhood Cancer Treated with Growth Hormone:
+A Report From the Childhood Cancer Survivor Study. J Clin Endocrinol Metab.
+2002;87:3136-41.
+48. Ciresi A, Amato MC, Criscimanna A, et. al. Metabolic Parameters and Adipokine
+Profile During GH Replacement Therapy in Children with GH Deficiency. Eur J
+Endocrinol 2007;156:353- 60.
+49. Salerno M, Esposito V, Farina V, et. al. Improvement of Cardiac Performance and
+Cardiovascular Risk Factors in Children with GH Deficiency After Two Years of
+GH Replacement Therapy: An Observational, Open, Prospective, Case-control
+study. J Clin Endocrinol Metab. 2006 Apr;91(4):1288-95.
+50. Cutfield WS, Wilton P, Bennmarker H, et. al. Incidence of Diabetes Mellitus and
+Impaired Glucose Tolerance in Children and Adolescents Receiving Growthhormone Treatment. Lancet 2000;355:610-13.
+51. Hogler W, Briody J, Moore B, et. al. Effect of Growth Hormone Therapy and
+Puberty on Bone and Body Composition in Children with Idiopathic Short Stature
+and Growth Hormone Deficiency. Bone. 2005 Nov;37(5):642-50.
+52. Kuromaru R, Kohno H, Ueyama N, et. al. Long-Term Effect of Growth Hormone
+(GH) Treatment Body Composition in Children with GH Deficiency. Endocr J.
+1999;46 (Suppl)):S35- 8.
+53. Boot AM, Engels MAMJ, Boerma GJM, et. al. Changes in Bone Mineral Density,
+Body Composition, and Lipid Metabolism during Growth Hormone (GH) Treatment
+in Children with GH Deficiency. J Clin Endocrinol Metab 1997;82:2423-28.
+54. Hassan HMS, Kohno H, Kuromaru R, et. al. Body Composition, Atherogenic
+Risk Factors and Apolipoproteins Following Growth Hormone Treatment. Acta
+Paediatr. 1996;5:899-901
+The Use of Growth Hormone in Children and Adults
+55
+55. Van der Sluis IM, Annemieke MB, Wim CH, et. al. Long-Term Effects of Growth
+Hormone Therapy on Bone Mineral Density, Body Composition, and Serum Lipid
+Levels in Growth Hormone Deficient Children: A 6-Year Follow-Up Study. Horm
+Res. 2002;58:207-14.
+56. Baroncelli GI, Bertelloni S, Sodini F, et. al. Lumbar Bone Mineral Density at Final
+Height and Prevalence of Fractures in Treated Children with GH Deficiency. J Clin
+Endocrinol Metab. 2002;87:3624-31.
+57. Capalbo D, Vecchio AL, Farina V, et. al. Subtle Alterations of Cardiac Performance
+in Children with Growth Hormone Deficiency: Results of a Two-Year Prospective,
+Case-Control Study. Clin Endocrinol Metab. 2009;94:3347-55.
+58. Shulman DI, Root AW, Diamond FB, et. al. Effects of One Year of Recombinant
+Human Growth Hormone (GH) Therapy on Cardiac Mass and Function in Children
+with Classical GH Deficiency. J Clin Endocrinol Metab. 2003;88:4095-99
+59. Erling A, Wiklund I, Albertsson-Wikland K. The well-being of short statured
+children. Qual of Life Res 1995; l 4:422-23.
+60. Busschbacha JJV, Rikkenb B, Grobbeed DE, et. al. Quality of Life in Short Adults.
+Horm Res 1998;49:32-8.
+61. Sheppard L, Eiser C, Davies HA, et. al. The Effects of Growth Hormone Treatment
+on Health-Related Quality of Life in Children. Horm Res. 2006;65:243-49.
+62. Stabler B, Siege PT, Clopper RR, et. al. Behavior Change After Growth Hormone
+Treatment of Children with Short Stature. J of Pediatrics. 1998;133:366-73
+63. Allen DB. Safety of Human Growth Hormone Therapy:Current topics. Recurrence
+of tumour and risk of tumour. J Pediatr. 1996;128:8-13
+64. Nishi Y, Tanaka T, Takano K, et. al. Recent Status in the Occurrence of Leukemia
+in Growth Hormone-Treated Patients in Japan. J Clin Endocrinol Metab.
+1999;84:1961-65
+65. Moshang TJ, Rundle AC, Graves DA, et. al. Brain Tumor Recurrence in Children
+Treated with Growth Hormone: The National Cooperative Growth Study
+experience. J Pediatr. 1996;128:S4-7.
+66. Darendeliler F, Karagiannis G, Wilton P, et a. Recurrence of Brain Tumours in
+Patients Treated with Growth Hormone: Analysis of KIGS (Pfizer International
+Growth Database. Acta Paediatr 2006;95:1284-90
+The Use of Growth Hormone in Children and Adults
+56
+67. Karavitaki N, Warner JT, Marland A, et. al. GH Replacement Does Not Increase
+the Risk of Recurrence in Patients with Craniopharyngioma. Clin Endocrinol (Oxf).
+2006;64:556-60.
+68. Packer RJ, Boyett JM, Janss AJ, et. al. Growth Hormone Replacement Therapy
+in Children with Medulloblastoma: Use and Effect on Tumor Control. J Clin Oncol.
+2001;19:480-87
+69. Ergun-Longmire B, Mertens AC, Mitby P, et. al. Growth Hormone Treatment and
+Risk of Second Neoplasms in the Childhood Cancer Survivor. J Clin Endocrinol
+Metab 2006;91:3494-98.
+70. Malozowski S, Tanner IA, Wysowski DK, et. al. Benign Intracranial Hypertension
+In Children With Growth Hormone Deficiency Treated With Growth Hormone. J
+Pediatr. 1995;26:996-9.
+71. Blethen Sl, Allen DB, Graves D, et. al. Extensive Personal Experience Safety
+of Recombinant Deoxyribonucleic Acid-derived Growth Hormone: The National
+Cooperative Growth Study Experience. J Clin Endocrinol Metab 1996;81:170410.
+72. Crock PA, McKenzie JD, Nicoll AM, et. al. Benign Intracranial Hypertension and
+Recombinant Growth Hormone Therapy in Australia and New Zealand. Acta P_
+diatr. 1998;87:381-6.
+73. Darendeliler F, Karagiannis G, Wilton P. Headache, Idiopathic Intracranial
+Hypertension and Slipped Capital Femoral Epiphysis during Growth Hormone
+Treatment: A Safety Update from the KIGS Database. Horm Res. 2007;68(Suppl
+5):41- 7
+74. Wang ED, Drummond DS, Dormans JP, et. al. Scoliosis in Patients Treated with
+Growth Hormone. J Pediatr Orthop. 1997 Nov-Dec;17(6):708-11.
+75. Day GA, McPhee IB, Batch J, et. al. Growth rates and the prevalence and
+progression of scoliosis in short-statured children on Australian growth hormone
+treatment Programmes. Scoliosis. 2007;2:3.
+76. Nishi Y, Anaka T, Fujieda K, et. al. Slipped Capital Femoral Epiphysis, Perthes’
+Disease And Scoliosis In Children With Growth Hormone Deficiency. Endocrine J.
+1998;45 (Suppl):S167-69
+77. Kohno H, Kuromaru R, Ueyama N, et. al. Growth Hormone Treatment and Type 2
+Diabetes. Growth Horm IGF Res. 2001;11:196-97
+The Use of Growth Hormone in Children and Adults
+57
+78. Radetti G, Pasquino B, Gottardi E, et. al. Insulin Sensitivity in Growth Hormonedeficient Children: Influence of Replacement Treatment. Clin Endocrinol.
+2004;61:473-77.
+79. Wyatt D. Melanocytic Nevi in Children Treated With Growth Hormone. Pediatrics.
+1999;104:1045-50.
+80. Zvulunov A, Wyatt DT, Laud PW, et. al. Influence of Genetic and Environmental
+Factors on Melanocytic Naevis: Lesson From Turner’s Syndrome. Br J Dermatol.
+1998 Jun;138(6):993-7.
+81. Zvulunov A, Wyatt DT, Laud PW, et. al. Lack of Effect of Growth Hormone Therapy
+on The Count and Density of Melanocytic Naevi in Children. Br J Dermatol.
+1997;137(4):545-8.
+82. Bondy CA, Van PL, Bakalov VK, et. al. GH Treatment and Aortic Dimention in
+Turner Syndrome. JCEM 2006:1785-88
+83. Quigley CA, Crowe BJ, Anglin DG, et. al. Growth Hormone and Low Dose
+Estrogen in Turner Syndrome: Results of A United States Multi-center Trial to
+Near-final Height. J Clin Endocrinol Metab. 2002;87(5):2033-41
+84. Theo CJS. Normalisation of Height in Girls with Turner Syndrome After Long-Term
+Growth Hormone Treatment: Results of a Randomized Dose-Response Trial.
+J Clin Endocrinol Metab. 1999;84:4607-12.
+85. Baxter L, Bryant J, Cave CB, et. al. Recombinant Growth Hormone for Children
+and Adolescents with Turner Syndrome. Cochrane Database of Systematic
+Reviews. 2009 Issue 4
+86. The Canadian Growth Hormone Advisory Committee. The Impact of GH
+Supplementation on Adult Height in Turner Syndrome: Results of the Canadian
+Randomized Controlled Trial. J Clin Endocrinol Metab 2005;90:3360-66.
+87. Ranke MB, Lindberg A. Turner Syndrome Within KIGS Including An Analysis of
+1146 Patients Grown To Near Adult Height. Growth HormTherapy in Paediatrics.20
+years of KIGS. 2007.
+88. Ross JL. Effects of Growth Hormone on Cognitive Function. Horm Res. 2005;64
+(Suppl 3):89-94
+89. Ari M, Bakalov VK, Hill S, et. al. The Effects of GH Treatment on Bone
+Mineral Density and Body Composition in Girls with Turner Syndrome. JCEM
+2006;91:4302- 05
+The Use of Growth Hormone in Children and Adults
+58
+90.
+Carolyn A. Care of Girls and Women with Turner Syndrome: A Guideline of the
+Turner Syndrome Study Group. J Clin Endocrinol Metab 2007;92(1):10-25
+91.
+Chernausek SD, Attie KM, Cara JF, et. al. Growth Hormone Therapy of Turner
+Syndrome: The Impact of Age of Estrogen Replacement on Final Height. J Clin
+Endocrinol Metab. 2000 Jul;85(7):2439-45.
+92.
+Soriano-Guillen L, Coste J, Ecosse E, et. al. Adult Height and Pubertal Growth
+in TS After Treatment with rhGH. J Clin Endocrinol Metab. 2005;90:5197-204
+93.
+Moshang TJ. Delayed Puberty in Pediatric endocrinology Requisites in
+Pediatrics. 1st Ed. ed2005.
+94.
+Bolar K, Hoffman AR, Maneatis T, et. al. Long-term Safety of rhGH in Turner
+Syndrome. J Clin Endocrinol Metab. 2008;93:344-51
+95.
+Saenger P, Czernichow P, Hughes I, Reiter EO. Small for Gestational Age: Short
+Stature and Beyond. Endocr Rev. 2007 Apr;28(2):219-51
+96.
+Lee PA, Kendig JW, Kerrigan JR. Persistent Short Stature, Other Potential
+Outcomes, and the Effect of Growth Hormone Treatment in Children Who Are
+Born Small for Gestational Age. Pediatrics 2003;112:150-62
+97.
+Leger J, Levy-Marchal C, Bloch J, et. al. Reduced Final Height and Indications
+for Insulin Resistance in 20 Year Olds Born Small for Gestational Age: Regional
+Cohort Study. BMJ. 1997;315(7104): 341-7.
+98.
+Clayton PE, Cianfarani S, Czernichow P, et. al. Consensus Statement:
+Management of the Child Born Small for Gestational Age through to Adulthood:
+A Consensus Statement of the International Societies of Pediatric Endocrinology
+and the Growth Hormone Research Society. J Clin Endocrinol Metab
+2007;92(3):804-10.
+99.
+Van Pareren YK, Duivenvoorden HJ, Slijper FJ, et. al. Intelligence and
+Psychosocial Functioning During Long-term Growth Hormone Therapy in
+Children Born Small for Gestational Age. J of Clin Endocrinol & Metab.
+2004;89(11):5295-302.
+100. Sas T, Mulder P, Hokken-Koelega A. Body Composition, Blood Pressure,
+and Lipid Metabolism Before and During Long-Term Growth Hormone (GH)
+Treatment in Children with Short Stature Born Small for Gestational Age Either
+With or Without GH Deficiency. J Clin Endocrinol Metab. 2000;85:3786-92
+101. Arends NJ, Boonstra VH, Mulder PG, et. al. Growth Hormone Treatment and Its
+Effect On Bone Mineral Density, Bone Maturation and Growth in Short Children
+The Use of Growth Hormone in Children and Adults
+59
+Born Small for Gestational Age: 3-year Results of A Randomized, Controlled GH
+Trial. Clin Endocrinol (Oxf). 2003 Dec;59(6):779-87.
+102. Seminara S, Rapisardi G, La Cauza F, et. al. Catch-up Growth in Short-at-birth
+NICU Graduates. Horm Res. 2000;53(3):139-43.
+103. Simon D, Leger J, Carel JL. Optimal use of growth hormone therapy for
+maximizing adult height in children born small for gestational age. Clin Endorinol
+& Metab. 2008;22(3):525-37
+104. Czernichow P. Growth Hormone treatment strategy for short children born small
+for gestational age. Hormone Research. 2004;62 (suppl 3):137-40.
+105. Clayton PE, Cianfarani S, Czernichow P, et. al. Consensus Statement:
+Management of the Child Born Small for Gestational Age through to Adulthood:
+A Consensus Statement of the International Societies of Pediatric Endocrinology
+and the Growth Hormone Research Society. J Clin Endocrinol Metab.
+2007;92(3):804-10.
+106. Lee PA, Kendig JW, Kerrigan JR. Persistent Short Stature, Other Potential
+Outcomes, and the Effect of Growth Hormone Treatment in Children Who Are
+Born Small for Gestational Age. Pediatrics. 2003;112:150-62
+107. Bryant J, Baxter L, Cave CB, Milne R. Recombinant Growth Hormone for
+Idiopathic Short Stature in Children and Adolescents. Cochrane Database Syst
+Rev. 2007, Jul 18;3:CD004440.
+108. Wit JM, Rekers-Mombarg LT, Cutler GB, et. al. Growth Hormone (GH) Treatment
+to Final Height in Children with Idiopathic Short Stature: Evidence for A Dose
+Effect. J Pediatr. 2005, Jan;146(1):45-53.
+109. Visser-van BH, Sinnema G. Geenen R . Growing Up with Idiopathic Short Stature:
+Psychosocial Development and Hormone Treatment; A Critical Review. Arch Dis
+Child. 2006,May;91(5):433-9.
+110. Visser-van BH, Geenen R, Kamp GA, al. e. Long-term Psychosocial
+Consequences of Hormone Treatment for Short Stature. Acta Paediatr.
+2007;96(5):715-9.
+111. Cohen P, Rogol AD, Deal CL, . Consensus Statement on the Diagnosis and
+Treatment of Children with Idiopathic Short Stature: A Summary of the Growth
+Hormone Research Society, the Lawson Wilkins Pediatric Endocrine Society,
+and the European Society for Paediatric Endocrinology Workshop. J Clin
+Endocrinol Metab. 2008, Nov;93(11):4210-7.
+The Use of Growth Hormone in Children and Adults
+60
+112. Crowe BJ, Rekers-Mombarg LT, Robling K, et. al. Effect of Growth Hormone
+Dose on Bone Maturation and Puberty in Children with Idiopathic Short Stature.
+J Clin Endocrinol Metab. 2006, Jan;91(1):169-75.
+113. Kemp SF, Kuntze J, Attie KM, et. al. Efficacy and Safety Results of Long-term
+Growth Hormone Treatment of Idiopathic Short Stature. J Clin Endocrinol Metab.
+2005, Sep;90(9):5247-53.
+114. Elder CJ, Barton JS, Brook CG, et. al. A randomised study of the effect of two
+doses of biosynthetic human growth hormone on final height of children with
+familial short stature. Horm Res. 2008;70(2):89-92
+115. Vimalachandra D, Hodson EM, Willis NS, et. al. Growth Hormone for Children
+with Chronic Kidney Disease. Cochrane Database Syst Rev. 2006. Jul;19(3):
+CD003264.
+116. Mehls O, Wuhl E, Tonshoff B, et. al. Growth Hormone Treatment in Short
+Children with Chronic Kidney Disease. Acta Paediatr. 2008, Sep;97(9):1159-64.
+117. Burman P, Ritzen EM, Lindgren AC. Endocrine Dysfunction in Prader-Willi
+Syndrome: A Review with Special Reference to GH. Endocr Rev 2001
+Dec;22(6):787-9.
+118. Lindgren A, Lindberg A. Growth Hormone Treatment Completely Normalizes
+Adult Height and Improves Body Composition in Prader-Willi Syndrome. Horm
+Res 2008;70(3):182-7.
+119. Eiholzer U, L’allemand D, Schlumpf M, et al. Growth Hormone and Body
+Composition in Children Younger Than 2 Years with Prader-Willi Syndrome. J
+Pediatr. 2004 Jun;144(6):753-8.2.
+120. Festen DA, de Weerd AW, van den Bossche RA, et al. Sleep-related Breathing
+Disorders in Prepubertal Children with Prader-Willi Syndrome and Effects of
+Growth Hormone Treatment. J Clin Endocrinol Metab. 2006 Dec;91(12):4911-5.
+121. L’Allemand D, Eiholzer U, Schlumpf M, et al. Carbohydrate Metabolism Is Not
+Impaired After 3 Years of Growth Hormone Therapy in Children with Prader-Willi
+Syndrome. Horm Res. 2003;59(5):239-48.
+122. Lindgren A, Lindberg A. Growth Hormone Treatment Completely Normalizes
+Adult Height and Improves Body Composition in Prader-Willi Syndrome. Horm
+Res. 2008;70(3):182-7.
+123. de Lind van Wijngaarden RF, de Klerk LW, Festen DA, et. al. Scoliosis in PraderWilli Syndrome: Prevalence, Effects of Age, Gender, Body Mass Index, Lean
+Body Mass and Genotype. Arch Dis Child. 2008 Dec;93(12):1012-6.
+The Use of Growth Hormone in Children and Adults
+61
+124. Diene G, de Gauzy JS, Tauber M. Is scoliosis an issue for giving Growth hormone
+to children with Prader Willi Syndrome. Arch Dis Child 2008;93:1004-06
+125. Myers SE, Whitman BY, Carre lAL, et. al. Two Years of Growth Hormone Therapy
+in Young Children with Prader-Willi Syndrome: Physical and Neurodevelopmental
+Benefits. Am J Med Genet A. 2007 Mar 1;143(5):443-8.
+126. Noordam C, Peer PG, Francois I, et. al. Long-term GH Treatment Improves
+Adult Height in Children with Noonan Syndrome With and Without Mutations in
+Protein Tyrosine Phosphatase, Non-receptor-type 11. Eur J Endocrinol. 2008
+Sep;159(3):203-8.
+127. Raaijmakers R, Noordam C, Karagiannis G, et. al. Response to Growth Hormone
+Treatment and Final Height in Noonan Syndrome in a Large Cohort of Patietns
+in the KIGS Database. J Pediatr Endocrinol Metab. 2008 Mar;21(3):267-73.
+128. MacFarlane CE, Brown DC, Johnston LB, et. al. Growth Hormone Therapy and
+Growth in Children with Noonan’s Syndrome: Results of 3 Years’ Follow-up. J Clin
+Endocrinol Metab. 2001;86(5):1953-6
+129. Krysiak R, Gdula-dymek A, Bednarska-czerwinska A. Growth Hormone Therapy
+in Children and Adults. Pharmacol Rep. 2007 Sep-Oct;59(5):500-16.
+130. Azcona C, Stanhope R. Absence of Catch-down Growth in Russell-Silver
+Syndrome After Short-term Growth Hormone Treatment. Horm Res.
+1999;51(1):47-9.
+131. Stanhope R, Albanese A, Azcona C. Growth Hormone Treatment of RussellSilver Syndrome. Horm Res. 1998;49 (Suppl 2):37-40
+132. Dunger DB. KIGS 20 years: Children born small for gestational age: in Growth
+Hormone therapy in Pediatrics; 20 years in KIGS Basel, Karger; 2007.
+133. Hagenas L, Hertel T. Skeletal Dysplasia, Growth Hormone Treatment and
+Body Proportion: Comparison with Other Syndromic and Non-syndromic Short
+Children. Horm Res. 2003;60 (Suppl 3):65-70
+134. Tanaka N, Katsumata N, Horikawa R, et. al. The Comparison of the Effects of
+Short-term Growth Hormone Treatment in Patients with Achondroplasia and with
+Hypochondroplasia. Endocr J. 2003;50(1):69-75
+135. Mehta A, Hindmarsh PC. The Use of Somatropin (recombinant growth hormone)
+in Children of Short Stature. Paediatr Drugs. 2002;4(1):37-47
+136. Clayton PE, Cuneo RC, Juul A, et. al. Consensus Statement on The Management
+of The GH-treated Adolescent in The Transition to Adult Care. Eur J Endocrinol
+2005;152:165-70.
+The Use of Growth Hormone in Children and Adults
+62
+137. Attanasio AF, Howell S, Bates PC, et. al. Confirmation of Severe GH Deficiency
+After Final Height in Patients Diagnosed as GH Deficient During Childhood. Clin
+Endocrinol (Oxf). 2002 Apr;56(4):503-7.
+138. Juul A, Kastrup KW, Pedersen SA, et. al. Growth Hormone (GH) Provocative
+Retesting of Young Adults with Childhood-onset GH Deficiency and the
+Diagnostic Value of Insulin-like Growth Factor I (IGFI) and IGF-binding protein3. J Clin Endocrinol Metab. 1997;82:1195-201.
+139. Nicolson A, Toogood AA, Rahim A, et. al. The Prevalence of Severe Growth
+Hormone Deficiency in Adults Who Received Growth Hormone Replacement in
+Childhood. Clin Endocrinol (Oxf). 1996;44:311-16
+140. Tauber M, Moulin P, Pienkowski C, et. al. Growth Hormone (GH) Retesting and
+Auxological Data in 131 GH-Deficient Patients after Completion of Treatment.
+J Clin Endocrinol Metab. 1997;82:352-56.
+141. Leger J, Danner S, Simon D, et. al. Do All Patients with Childhood-onset Growth
+Hormone Deficiency (GHD) and Ectopic Neurohypophysis Have Persistent GHD
+in Adulthood? J Clin Endocrinol Metab. 2005;90:650-56.
+142. Hartman ML, Crowe BJ, Biller BMK, et. al. on Behalf of the HypoCCS Advisory
+Board and the U.S. HypoCCS Study Group. Which Patients Do Not Require a
+GH Stimulation Test for the Diagnosis of Adult GH Deficiency? J Clin Endocrinol
+Metab. 2002;87:477-85
+143. Gleeson HK, Gattamaneni HR, Smethurst L, et. al. Reassessment of Growth
+Hormone Status Is Required at Final Height in Children Treated with Growth
+Hormone Replacement after Radiation Therapy. J Clin Endocrinol Metab.
+2004;89:662-66
+144. Maghnie M, Strigazzi C, Tinelli C, et. al. Growth Hormone (GH) Deficiency
+(GHD) of Childhood Onset: Reassessment of GH Status and Evaluation of the
+Predictive Criteria for Permanent GHD in Young Adults. J Clin Endocrinol Metab.
+1999;84:324-28
+145. Cook DM, Yuen KCJ, Biller BMK, et. al. American Association of Clinical
+Endocrinologist Medical Guidelines for Clinical Practice for Growth Hormone
+Use in Growth Hormone Deficient Adults and Transition Patients-2009
+Update: Executive Summary of Recommendations. Endocr Pract. 2009 SepOct;15(6):580-6.
+146. Ho KKY. on behalf of the 2007 GH Deficiency Consensus Workshop Participants
+Consensus Guidelines for The Diagnosis and Treatment of Adults with GH
+Deficiency II: A Statement of the GH Research Society in Association with
+The Use of Growth Hormone in Children and Adults
+63
+the European Society for Pediatric Endocrinology, Lawson Wilkins Society,
+European Society of Endocrinology, Japan Endocrine Society, and Endocrine
+Society of Australia. Eur Jl of Endocrinol. 2007;157:695-700.
+147. Maghnie M, Aimaretti G, Bellone S, et. al. Diagnosis of GH Deficiency in The
+Transition Period: Accuracy of Insulin Tolerance Test and Insulin-like Growth
+Factor-I Measurement. Eur J Endocrinol. 2005;152 589-96
+148. di Iorgi N, Secco A, Napoli F, et. al. Deterioration of Growth Hormone Response
+and Anterior Pituitary Function in Young Adults with Childhood-onset GH
+Deficiency and Ectopic Posterior Pituitary: A Two-year Prospective Follow-up
+Study. J Clin Endocrinol Metab 2007;92:3875-84
+149. Conceicao FL, Fisker S, Andersen M, et. al. Evaluation of growth hormone
+stimulation tests in cured acromegalic patients. Growth Horm IGF Res. 2003;13
+(6):347-52.
+150. Gomez JM, Espadero R, M. Escobar-Jimen F, et. al. Growth hormone release
+after glucagon as a reliable test of growth hormone assessment in adults. Clin
+Endocrinol 2002;56(3):329-34
+151. Attanasio AF, Shavrikova E, Blum WF, et. al. Continued Growth Hormone(GH)
+Treatment after Final Height Is Necessary to Complete Somatic Development
+in Childhood-Onset GH-Deficient Patients. J Clin Endocrinol Metab. 2004
+Oct;89(10):4857-62.
+152. Shalet SM, Shavrikova E, Cromer M, et. al. Effect of Growth Hormone (GH)
+Treatment on Bone in Postpubertal GH-Deficient Patients: A 2-Year Randomized,
+Controlled, Dose-Ranging Study. J of Clin Endocrinol & Metab. 2003;88(9):412429.
+153. Underwood LE, Attie KM, Baptista J, et. al. Growth Hormone (GH) DoseResponse in Young Adults with Childhood-Onset GH Deficiency: A Two-Year,
+Multicenter, Multiple-Dose, Placebo-Controlled Study. J of Clin Endocrinol &
+Metab. 2003;88(11):5273-80.
+154. Caroll PV, Drake WM, Maher KT, et. al. Comparison of Continuation or Cessation
+of Growth Hormone (GH) Therapy on Body Composition and Metabolic Status in
+Adolescents with Severe GH Deficiency at Completion of Linear Growth. J Clin
+Endocrinol Metab 2004;89:3890-95.
+155. Hulthen L, Bengtsson B, Sunnerhagen KS, et. al. GH Is Needed for the
+Maturation of Muscle Mass and Strength in Adolescents. J Clin Endocrinol
+Metab. 2001;86:4765-70
+The Use of Growth Hormone in Children and Adults
+64
+156. Vahl N, Juul. A., Jorgensen JO, et. al. Continuation of Growth Hormone (GH)
+Replacement in GH-Deficient Patients during Transition from Childhood to
+Adulthood: A Two-Year Placebo-Controlled Study. J of Clin Endocrinol & Metab.
+2000;85 (5):1874-81.
+157. Johannsson G, Albertsson-Wikland K, Bengtsson B. Discontinuation of Growth
+Hormone (GH) Treatment: Metabolic Effects in GH-Deficient and GH-Sufficient
+Adolescent Patients Compared with Control Subjects. J Clin Endocrinol Metab.
+1999;84:4516-24
+158. Lanes R, Gunczler P, Lopez E, et. al. Cardiac Mass and Function, Carotid Artery
+Intima-Media Thickness, and Lipoprotein Levels in Growth Hormone-Deficient
+Adolescents. J Clin Endocrinol Metab. 2001;86:1061-65.
+159. Attanasio AF, Shavrikova EP, Blum WF, et. al. Quality of Life in Childhood Onset
+Growth Hormone-Deficient Patients in the Transition Phase from Childhood to
+Adulthood. J Clin Endocrinol Metab. 2005;90:4525-29.
+160. Conway GS, Szarras-Czapnik M, Racz K, et .al. Treatment for 24 months with
+recombinant human GH has a beneficial effect on bone mineral density in young
+adults with childhood-onset GH deficiency. Eur J of Endocrinol. 2009;160 89907
+161. Drake WM, Carroll PV, Maher KT, et. al. The Effect of Cessation of Growth
+Hormone (GH) Therapy on Bone Mineral Accretion in GH-Deficient Adolescents
+at the Completion of Linear Growth. J Clin Endocrinol Metab 2003;88:1658-63
+162. Boot AM, van der Sluis IM, Krenning EP, et. al. Bone Mineral Density and Body
+Composition in Adolescents with Childhood-Onset Growth Hormone Deficiency.
+Horm Res. 2009;71:364-71.
+163. Mauras N, Pescovitz OH, Allada V, et. al. Limited Efficacy of Growth Hormone
+(GH) during Transition of GH-Deficient Patients from Adolescence to Adulthood:
+A Phase III Multicenter, Double-Blind, Randomized Two-Year Trial. J of Clin
+Endocrinol & Metab. 2005;90(7):3946-55
+164. Stochholm K, Laursen T, Green A, et al. Morbidity and GH deficiency: a nationwide
+study. Eur J Endocrinol 2008;158:447-57.
+165. Stochholm K, Gravholt CH, Laursen T, et al. Mortality and GH deficiency: a
+nationwide study. Eur J Endocrinol 2007;157:9-18.
+166. Ho K. Growth Hormone deficiency in Adults. Endocrinol 2006 5th ed 755-65.
+167. Hyerm SL, Rodin DA, Tobias JH, et. al. Growth Hormone Deficiency During
+Puberty Reduces Adult Bone Mineral Density. Arc Dis Child. 1992;67:1472-74.
+The Use of Growth Hormone in Children and Adults
+65
+168. Rosen T, Wilhemsen L, Landin-Wilhemsen K, et. al. Increased fracture frequency
+in adult patients with hypopituitary and GH deficiency. Eur J of Endocrinol.
+1997;137:240-45.
+169. Brabant G, Poll EM, Jonsson P, et. al. Etiology, Baseline Characteristics and
+Biochemical Diagnosis of GH Deficiency in the Adult: Are There Regional
+Variations? Eur J Endocrinol. 2009;161:S25-31.
+170. Webb SM, Strasburger CJ, Mo D., et al. Changing Patterns of the Adult
+Growth Hormone Deficiency Diagnosis Documented in a Decade Long Global
+Surveillane Database. JCEM. 2009;94:392-99
+171. Agha A, Sherlock M, Brennan S, et. al. Hypothalamic-pituitary dysfunction
+after irradiation of nonpituitary brain tumors in adults. J Clin Endocrinol Metab
+2005;90(12):6355 - 60.
+172. Gurney JG, Ness KK, Sibley SD, et al. Metabolic Syndrome and GH Deficiency
+in Adult Survivors of Childhood Acute Lymphoblastic Leukaemia (ALL). Cancer.
+2006;107:1303-12.
+173. Schneider HJ, Andermahr I, Ghigo. E., et. al. Hypothalamopituitary Dysfunction
+Following Traumatic Brain Injury and Aneurysmal Subarachnoid Hemorrhage - A
+Systemic Review. JAMA. 2007 Sep 26;298(12):1429-38.
+174. Lorenzo M, Peino R, Castro A, et. al. Hypopituitarism and Growth Hormone
+Deficiency in Adult Subjects After Traumatic Brain Injury: Who and When To
+Test. Pituitary. 2005;8:233-37.
+175. Biller B. Concepts in the Diagnosis of Adult Growth Hormone Deficiency. Horm
+Res. 2007;68 (Suppl 5):59-65.
+176. Growth Hormone Research Society. Consensus Guidelines for the Diagnosis
+and Treatment of Adults with Growth Hormone Deficiency: Summary Statement
+of the Growth Hormone Research Society Workshop on Adult Growth Hormone
+Deficiency. J Clin Endocrinol Metab. 1998 Feb;83(2):379-81.
+177. Melmed S, Kleinberg D. Anterior Pituitary: William’s Textbook of Endocrinology;
+2008.
+178. Yuen KC, Biller BM, Molitch ME, et al. Clinical review: Is lack of recombinant
+growth hormone (GH) - releasing hormone in the United States a setback or time
+to consider glucagon testing for adult GH deficiency? J Clin Endocrinol Metab.
+2009; Aug 94(8):2702-7.
+The Use of Growth Hormone in Children and Adults
+66
+179. Deijen J, Arwert L, Witlox J, et. al. Differential Effect Sizes of Growth Hormone
+Replacement on Quality of Life, Well-being and Health Status in Growth
+Hormone Deficient Patients: A Meta-analysis. Health Qual Life Outcomes. 2005
+Oct 19;3:63.
+180. Monson JP. Long-term Experience with GH Replacement Therapy. Efficacy and
+Safety. Eu J Endocrin. 2003;148:S9-14.
+181. Chrisoulidou A, Kousta E, Beshyah SA, et. al. How Much, and By What
+Mechanism, Does Growth Hormone Replacement Improve The Quality of Life in
+GH-deficient Adults? Baillieres Clin Endocrinol Metab. 1998 Jul;12(2):261-79
+182. Hull KL, Harvey S. Growth Hormone Therapy and Quality of Life: Possibilities,
+Pitfalls and Mechanisms. J of Endocrinol. 2003;179:311-33.
+183. Wiren L, Johannsson G, Bengtsson BA. A Prospective Investigation of Quality
+of Life and Psychological Well-being After the Discontinuation of GH Treatment
+in Adolescent Patients Who Had GH Deficiency During Childhood. J Clin
+Endocrinol Metab. 2001 Aug;86(8):3494-8.
+184. Gibney J, Wallace JD, Spinks T, et. al. The Effects of 10 Years of Recombinant
+Human Growth Hormone (GH) in Adult. J Clin Endocrinol Metab. 1999
+Aug;84(8):2596-602
+185. Hew FL, O’Neal D, Kamarudin N, et. al. Growth Hormone Deficiency and
+Cardiovascular Risk. Bailliere’s Clin Endocrinol & Metab. 1998;12(2):199-217.
+186. Beshyah SA, Rutherford OM, Thomas E, et. al. Assessment of Regional Body
+Composition by Dual Energy X-Ray Absorptiometryin Hypopituitary Adults
+Before and During Growth Hormone Treatment. Endocrinology and Metabolism.
+1995;2:147- 55.
+187. Bengtsson BA, Eden S, Lonn L, et. al. Treatment of Adults With Growth Hormone
+(GH) Deficiency With Recombinant Human GH. J Clin Endocrinol Metab.
+1993;76:309-17.
+188. Hew FL, Koschmann M, Christopher M, et. al. Insulin resistance in growth
+hormone - deficient adults: defects in glucose utilization and glycogen synthase
+activity. J Clin Endocrinol Metab 1996;81:555-64.
+189. Snel YEM, Brummer RJM, Doerga ME, et. al. Adipose Tissue Assessed by
+Magnetic Resonance Imaging in Growth Hormone Deficient Adults: The Effect
+of Growth Hormone Replacement and A Comparison With Control Subjects. Am
+J of Clin Nutr. 1995;61:1290-94
+The Use of Growth Hormone in Children and Adults
+67
+190. Salomon F, Cuneo RC, Hesp R, e.t al. The Effects of Treatment With Recombinant
+Human Growth Hormone on Body Composition and Metabolism in Adults with
+Growth Hormone Deficiency. New Eng J Med. 1989;321:1797-803.
+191. Molitch ME, Clemmons DR, Malozowski S, et. al. for The Endocrine Society’s
+Clinical Guidelines Subcommittee. Evaluation and Treatment of Adult Growth
+Hormone Deficiency: An Endocrine Society Clinical Practice Guideline. J Clin
+Endocrinol Metab. 2006 91:1621-34
+192. Maison P, Griffin S, Nicoue-Beglah M, et. al. Impact of Growth Hormone (GH)
+Treatment on Cardiovascular Risk Factors in GH-Deficient Adults: A Meta-analysis
+of Blinded, Randomized, Placebo Controlled Trials. JCEM. 2004;89:2192-99.
+193. Beshyah SA, Henderson A, Niththyananthan R, et. al. Metabolic Abnormalities
+in Growth Hormone Deficient Adults II, Carbohydrate Tolerance and Lipid
+Metabolism. Endocrinol and Metab. 1994;1:173-80.
+194. Wuster C, Abs R, Bangtsson BA, et. al. The Influence of Growth Hormone
+Deficiency, Growth Hormone Replacement Therapy and Other Aspects of
+Hypopituitarism on Fracture Rate and Bone Mineral Density. J Bone Miner Res.
+2001;6:398-4.
+195. Hwu CM, Kwok CF, Lai TF, et. al. Growth Hormone (GH) Replacement Reduces
+Total Body Fat and Normalizes Insulin Sensitivity in GH-deficient Adults: A Report
+of One-year Clinical Experience. J Clin Endocrinol Metab. 1997;82:3285-92.
+196. Colao A, Di Somma C, Spiezia S, et. al. Growth Hormone Treatment On
+Atherosclerosis: Results of A 5-year Open, Prospective, Controlled Study in
+Male Patients with Severe Growth Hormone Deficiency. J Clin Endocrinol Metab
+2008 Sep;93(9):3416-24
+197. Chihara K, Kato Y, Shimatsu A, et. al. Efficacy and Safety of Individualized
+Growth Hormone Treatment in Adult Japanese Patients With Growth Hormone
+Deficiency. Growth Horm IGF Res 2008 Oct;18(5):394-03
+198. Verhelst J, Abs R, Vandeweghe M, et. al. Two Years of Replacement Therapy in
+Adults With Growth Hormone Deficiency. Clin Endocrinol (Oxf). 1997;47(4):48594.
+199. Cook DM, Yuen KCJ. Growth Hormone Dosing Variables in Growth Hormonedeficient Adults. Growth Horm IGF Res. 2006 Jul;16 (Suppl A):S49-54.
+200. Chihara K, Kato Y, Kohno H, et. al. Efficacy and Safety of Growth Hormone (GH)
+in The Treatment of Adult Japanese Patients with GH Deficiency: A Randomised,
+Placebo-controlled Study. Growth Horm IGF Res. 2006 Apr;16(2):132-42
+The Use of Growth Hormone in Children and Adults
+68
+201. Ezzat S. Circulating IGF-I Levels in Monitoring and Predicting Efficacy During
+Long Term GH Treatment of GH Deficient Adults. Eur J Endocrinol. 2003;149(499509).
+202. Svensson J, Bengtsson BA. Safety of Growth Hormone Replacement Therapy
+in Adults. KIMS Pfizer International Metabolic Database. 2007 Chapter 29.
+203. Arnold JR, Arnold DF, Marland A, et. al. GH Replacement in Patients with
+Non-functioning Pituitary Adenoma (NFA) Treated Solely By Surgery Is Not
+Associated With Increased Risk of Tumor Recurrence. Clin Endocrinol (Oxf).
+2009 Mar;70(3):435-8.
+204. Buchfelder M, Herbert KP, Wuster C, et. al. Influence of GH Substitution Therapy
+In Deficient Adults on The Recurrence Rate of Hormonally Inactive Pituitary
+Adenomas: A Case-control Study. Eur J Endocrinol. 2007;157:149-56
+205. Hatrick AG, Boghalo P, Bingham JB, et. al. Does GH Replacement Therapy in
+Adult GH-deficient Patients Result in Recurrence or Increase in Size of Pituitary
+Tumors? Eur J of Endocrinol 2002;146:807-11
+206. Roux CW, Jenkins PJ, Chew SL, et. al. Growth Hormone Replacement Does
+Not Increase Serum Prostate-specific Antigen in Hypopituitary Men Over 50
+Years. Eur J of Endocrinol. 2002;147:59-63
+207. Svensson J, Bengtsson BA, Rose TN, et. al. Malignant Disease and
+Cardiovascular Morbidity in Hypopituitary Adults with or without Growth Hormone
+Replacement Therapy. J of Clin Endocrinol & Metab. 2004;89(7):3306-12
+208. Przkora R, Herndon DN, Suman OE, et. al. Beneficial Effects of Extended
+Growth Hormone Treatment After Hospital Discharge in Pediatric Burn Patients.
+Ann Surg. 2006;243(6):796-803
+209. Takala J, Ruokonen E, Webster NR, et. al. Increased Mortality Associated With
+Growth Hormone Treatment in Critically Ill Adults. N Eng J Med. 1999;341:78592.
+210. Duska F, Fric M, Petr W, et. al. Frequent intravenous pulses of growth hormone
+together with glutamine supplementation in prolonged critical illness after
+multiple trauma: Effects on nitrogen balance, insulin resistance, and substrate
+oxidation. Crit Care Med. 2008 Jun;36(6):1707-13.
+211. Zhang MM, Wu XT, Zhou Y, et al. Short-term Application of Low-dose Growth
+Hormone in Surgical Patients: Effects on Nitrogen Balance and Blood Glucose.
+World J Gastroenterol. 2007;13:452-56.
+The Use of Growth Hormone in Children and Adults
+69
+212. Jones KM, Deodhar P, Lorentzen A, et. al. Growth Hormone Perturbations in
+Fibromyalgia: A Review. Semin Arthritis Rheum. 2007;36:357-79.
+213. Cuatrecasas G, Riudavets C, Guell M.A., et. al. Growth hormone as concomitant
+treatment in severe fibromyalgia associated with low IGF-1 serum levels. A pilot
+study. BMC Musculoskeletal Disorders. 2007;8(119 ).
+214. Liu H, Bravata DM, Olkin I, et. al. Systematic Review: The Safety and Efficacy of
+Growth Hormone in The Healthy Elderly. Ann Intern Med. 2007;146:104-15.
+215. Fanciulli G, Delitala A, Delitala G. Growth Hormone, Menopause and Ageing:
+No Definite Evidence For ‘Rejuvenation’ With Growth Hormone. Hum Reprod
+Update 2009. May-Jun;15(3):341-58
+216. Liu H, Bravata DM, Olkin. I., et. al. Systematic Review: The Effects of Growth
+Hormone on Athletic Performance. Ann Intern Med. 2008;148:747-58.
+217. Harper K, Proctor M, Hughes E, et. al. Growth Hormone for In-vitro Fertilization.
+Cochrane Database Syst Rev. 2003 Issue 3:CD000099.
+218. Tarlatzis BC, Zepiridis L, Grimbizis G, et. al. Clinical Management of Low
+Ovarian Response to Stimulation for IVF: A Systematic Review. Hum Rep Upd.
+2003;9:61.
+219. Mekala KC, Tritos NA. Effects of Recombinant Human Growth Hormone Therapy
+in Obesity in Adults: A Meta-analysis. JCEM. 2009;94(1):130-37.
+The Use of Growth Hormone in Children and Adults
+70
+Appendix 1
+SEARCH TERMS
+The following MeSH terms or free text terms were used either singly or
+in combination:
+“growth hormone deﬁciency” AND “traumatic brain injury, “cranial
+irradiation”, “neonatal hypoglycaemica”, “auxology”, “breech delivery”,
+“cleft palate”, “solitary central incisor”, “micropenis, “histiocytosis X,
+“craniopharyngioma”, “clinical features”, “pitfalls” AND “growth hormone
+deﬁciency diagnosis”, “Dwarﬁsm”, “Pituitary diagnosis”[MeSH] AND
+“pitfalls in diagnosis”, “Growth Hormone stimulation test” AND “precise”,
+“Growth Hormone stimulation test” AND “accuracy”, “insulin tolerance
+test” AND “accuracy”, “Growth Hormone stimulation test” AND “gold
+standard”, “Growth Hormone stimulation test” AND “sensitivity”, “growth
+hormone deﬁciency” AND “goal of treatment”, “objective of treatment”,
+“ﬁnal height”, “body composition”, “heart”, “bone mineral density”,
+“malignancy”, “scoliosis”, “slipped capital femoral epiphysis”, “growth
+hormone” AND “benign Intracranial Hypertension”, “Growth Hormone
+therapy” AND “Diabetes Mellitus”, “Growth Hormone deﬁcient” AND
+“cost-beneﬁt”, “growth hormone deﬁciency” AND “when to start”, “age
+starting treatment “treatment for young children”, “treatment in Growth
+Hormone deﬁciency” AND “dosing”, “treatment” AND “dose”, “growth
+hormone deﬁciency” AND “near ﬁnal height”, “growth hormone deﬁcient
+children” AND treatment AND “daily injection”, “children with growth
+hormone deﬁciency” AND “growth hormone dose through puberty”,
+“growth hormone therapy” AND “insulin growth factor based dosing”,
+“growth hormone deﬁcient children” AND “somatropin treatment”,
+“children with growth hormone deﬁciency” AND “use of gonadotropin
+releasing hormone agonist at puberty”, “children with growth hormone
+deﬁciency” AND “combination of LHRH analogue at puberty”,
+“growth hormone deﬁciency” AND “monitoring”, “IGF-1”, “bone age
+monitoring”, “growth hormone treatment” AND “impaired glucose
+tolerance”, “growth hormone deﬁcient” AND “beneﬁt” AND “growth
+hormone therapy”, “growth hormone deﬁciency” AND “growth hormone
+therapy” AND “children”, “growth hormone insufﬁciency” AND “Growth
+Hormone treatment”, “Growth Hormone deﬁciency” AND “Final
+Height”, “Adult height”, “Body composition”, “bone mineral density”,
+“bone markers”, “heart”, quality of life”, “Growth Hormone”[Mesh] AND
+“adverse effects”, “Growth Hormone”[Mesh] AND “Risk”[Mesh], “Growth
+Hormone” AND “cancer”, “malignancy”, “scoliosis”, “slipped capital
+femoral epiphysis”, “Benign Intracranial Hypertension “Pseudotumour
+The Use of Growth Hormone in Children and Adults
+71
+cerebri”, “Diabetes Mellitus”, “skin”, “Turner syndrome” AND “ﬁnal
+adult height”, “Turner syndrome” AND “somatotropin therapy” AND
+“ﬁnal adult height”, “45,X” AND “somatotropin therapy” AND “ﬁnal adult
+height”, “Genetic short stature” AND “Growth Hormone therapy” AND
+“height gain”, “SGA” AND “Growth Hormone somatotropin therapy”
+AND “ﬁnal adult height”, “SGA” AND “Growth Hormone therapy” AND
+“ﬁnal adult height”, “IUGR” AND “Growth Hormone therapy” AND “ﬁnal
+adult height”, “IUGR” AND “no Growth Hormone therapy” AND “ﬁnal
+adult height”, “IUGR” AND “ﬁnal adult height”, “IUGR” AND “improving
+short stature” “Chronic Renal Failure” AND “Growth Hormone therapy”
+AND “ﬁnal adult height”, “ESRF” AND “somatotropin therapy” AND “ﬁnal
+adult height”, “Renal insufﬁciency” AND “Growth Hormone therapy”
+AND “ﬁnal adult height”, “Prader-Willi Syndrome” AND “GH therapy”
+AND “improving short stature”, “Prader-Willi Syndrome” AND “Growth
+Hormone therapy” AND “improving body composition”, “Familial short
+stature” AND “Growth Hormone therapy” AND “ﬁnal adult height”,
+“Genetic short stature” AND “Growth Hormone therapy” AND “ﬁnal
+adult height”, “Familial short stature” AND “Growth Hormone therapy”
+AND “improving short stature”, “Genetic short stature” AND “Growth
+Hormone therapy” AND “improving short stature”, “Familial short stature”
+AND “Growth Hormone therapy” AND “height gain”, “Genetic short
+stature” AND “Growth Hormone therapy” AND “height gain” “Russell
+Silver syndrome” AND “GH therapy”, “Russell Silver syndrome” AND
+“Growth Hormone therapy” AND “improving short stature”,” Russell
+Silver syndrome” AND “Growth Hormone therapy” AND “growth
+velocity”, “Russell Silver syndrome” AND “short stature”, “Russell
+Silver syndrome” AND “Growth Hormone therapy”, “Hypochondroplasia” AND “Growth Hormone therapy” AND “improving short stature”,
+“Hypochondro-plasia” AND “Growth Hormone therapy” AND “height
+gain”, “Hypochondro-plasia” AND “no Growth Hormone therapy” AND
+“ﬁnal adult height”, “Noonan syndrome” AND “Growth Hormone
+therapy” AND “Short stature”, “Noonan syndrome” AND “Growth
+Hormone therapy” AND “Growth velocity”, “Noonan syndrome” AND
+“Growth Hormone therapy” AND “improving short stature”, “Noonan
+syndrome” AND “Growth Hormone therapy” AND “ﬁnal adult height”,
+“Noonan syndrome” AND “Growth Hormone therapy”.
+etiology AND “adult growth hormone deﬁciency”, “Causality”[Mesh]
+AND “Human Growth Hormone”[Mesh], “cause” AND “growth hormone
+deﬁciency”, “clinical practice guideline” AND “growth hormone
+deﬁciency”, “guideline” AND “growth hormone deﬁciency”, “Cause”
+AND “growth hormone deﬁciency”, “Symptom” AND “growth hormone
+deﬁciency”, “pituitary *adenoma” AND “growth hormone deﬁciency”,
+“pituitary microadenoma” AND “growth hormone deﬁciency”, “pituitary
+The Use of Growth Hormone in Children and Adults
+72
+macroadenoma” AND “growth hormone deﬁciency”, “pituitary *adenoma”
+AND “GH deﬁciency”, *adenoma AND “GH deﬁciency”, “Prevalence”
+AND “growth hormone deﬁciency”, “Diagnosis” AND “growth hormone
+deﬁciency”, “Indications” AND “growth hormone treatment”, “Indication”
+AND “growth hormone replacement”, “Treatment” AND “growth
+hormone deﬁciency”, “GHD adults”, “GH therapy”, “psychological well
+being”, “Quality Of Life”, “body composition”, “cardiovascular risk”,
+“diabetes”, “bone”, “growth hormone” (therapy or treatment) AND
+“growth hormone deﬁciency” AND “dose”, “growth hormone” “(therapy
+or treatment)”, “growth hormone” (therapy or treatment) AND “growth
+hormone deﬁciency” AND (risk OR side effects), “growth hormone”
+(therapy or treatment) AND “growth hormone deﬁciency” AND (risk OR
+side effects), “growth hormone” AND “short and long term side effects”,
+“Side effect* AND “growth hormone therapy”, “Risk”, “growth hormone
+deﬁciency” AND “treatment” AND “diabetes risk” OR “malignancy risk”,
+“adult growth hormone deﬁciency” AND “replacement” AND “tumor
+regrowth OR recurrence”, “rhGH therapyin growth hormone deﬁciency
+adult” AND “cancer”, “Growth hormone” AND “ageing”, “growth hormone
+cognition or cognitive function”, “growth hormone memory”, “growth
+hormone dementia”, “growth hormone therapy” and “burn and catabolic
+state”, “growth hormone therapy” and “burn”, “growth hormone in critical
+care”, “growth hormone in ﬁbromyalgia”, “growth hormone therapy” AND
+“athletics”, “growth hormone therapy” AND “infertility”, “conception”, “in
+vitro fertilization”, “growth hormone therapy” AND “obesity”
+The Use of Growth Hormone in Children and Adults
+73
+Appendix 2
+CLINICAL QUESTIONS
+A.
+Use of rhGH in Children
+1.
+Who should be investigated for GH deﬁciency (GHD)?
+2.
+How is GHD diagnosed in children?
+3.
+What are the pitfalls in the diagnosis of GHD?
+4.
+How should children with GHD be treated?
+5.
+What is the goal of treatment in terms of height achievement and
+optimisation of other deﬁciencies such as body composition?
+6.
+What is the starting dose and adverse events of the treatment?
+7.
+How long the treatment should be given?
+8.
+How should GH therapy be monitored?
+9.
+What are the beneﬁts of GH therapy?
+10. What are the risks of GH therapy?
+11. Is there a role of GH therapy in non-GHD children?
+• Turner syndrome
+• Small for Gestational Age
+• Idiopathic short stature
+• Familial/genetic short stature
+• Chronic renal failure
+• Prader Willi syndrome
+• Noonan syndrome
+• Russell-Silver syndrome
+• Skeletal dysplasia such as achondroplasia and
+hypochodroplasia
+12. How should these non-GHD children be treated?
+• What is the goal of treatment?
+• What is the starting dose and adverse events?
+•
+How long the treatment should be given?
+• How should they be monitored?
+B.
+Use of rhGH in Transition Period
+13. Who should continue rhGH therapy during the transition period?
+14. How to select them during the transition period?
+15. How to re-start rhGH therapy?
+16. How should rhGH therapy be monitored?
+17. What are the beneﬁts of rhGH therapy?
+The Use of Growth Hormone in Children and Adults
+74
+C.
+Use of rhGH in Adults
+18. Who are at risk for GHD in adults?
+•
+Hypothalamic pituitary dysfunction
+• Intracranial diseases (non-pituitary causes)
+• Childhood onset GHD
+19. What tests should be used to diagnose GHD and what are criteria
+to make the diagnosis?
+• IGF-1
+• Growth hormone
+• Dynamic testing
+20. What are the indications for growth hormone replacement therapy
+in GHD adults?
+21. What are the beneﬁts of GH therapy in GHD adults?
+• Psychological well-being
+• Body composition change
+• Cardiovascular risk
+• Bone health
+22. What treatment regime should be used and how should these be
+monitored?
+23. What are the short term and long term risks of rhGH therapy in
+GHD adults?
+24. Are there other indications for rhGH therapy?
+• Burns
+• Critically ill
+• Fibromyalgia
+• Anti-aging in healthy elderly
+• Athletic performance
+• Infertility
+• Obesity
+The Use of Growth Hormone in Children and Adults
+75
+Appendix 3
+National Child Health Statistic (NCHS) Growth Chart for
+Boys 0 to 36 months
+The Use of Growth Hormone in Children and Adults
+76
+Appendix 3 (cont...)
+National Child Health Statistic (NCHS) Growth Chart for
+Boys 2 to 20 years
+The Use of Growth Hormone in Children and Adults
+77
+Appendix 3 (cont...)
+National Child Health Statistic (NCHS) Growth Chart for
+Girls 0 to 36 months
+The Use of Growth Hormone in Children and Adults
+78
+Appendix 3 (cont...)
+National Child Health Statistic (NCHS) Growth Chart for
+Girls 2 to 20 years
+The Use of Growth Hormone in Children and Adults
+79
+Appendix 4
+SUGGESTED GROWTH HORMONE DOSAGES AND SIDE EFFECTS
+T o
+b e
+g i v e n
+subcutaneously
+0.025
+to
+0.050
+mg/kg/day
+0.045
+to
+0.055
+mg/kg/day
+The starting dose of GH is
+0.1–0.2 mg daily for men and
+0.2–0.3 mg daily for women.
+The GH dose is increased
+by 0.1 mg (men)
+or 0.2 mg (women) until
+the maintenance
+dose
+is
+achieved based on clinical
+response, IGF-1 levels, and
+limited by the occurrence of
+side effects.
+arthralgia, benign intracranial
+hypertension,
+glucose
+intolerance, peripheral oedema,
+hypertriglyceridaemia,
+intracranial tumour, lipoatrophy,
+leukaemia, meningioma, muscle
+pain,
+scoliosis
+progression,
+slipped capital femoral epiphysis
+ALT increased, AST increased,
+arthralgia, back pain, carpal
+tunnel syndrome, diaphoresis,
+dizziness,
+fatigue,
+glucose
+intolerance,
+hypertension,
+insulin
+resistance,
+myalgia,
+paresthesia, peripheral oedema,
+skeletal
+pain,
+stiffness
+in
+extremities,
+Monitor
+patients
+with
+pre-existing
+tumours for progression or recurrence.
+Increased risk of a second neoplasm in
+childhood cancer survivors treated with
+GH
+in
+particular
+meningiomas
+in
+patients treated with radiation to the
+head for their first neoplasm.
+May be unmasked. Periodically monitor
+glucose levels in all patients. Doses of
+concurrent antihyperglycaemic drugs in
+diabetics may require adjustment.
+Exclude
+preexisting papilloedema. May develop,
+usually reversible after discontinuation
+or dose reduction.
+The Use of Growth Hormone in Children and Adults
+80
+Source:
+•
+Rachmiel M., Rota V., Atenafu E., et al. Final Height in Children with Idiopathic Growth Hormone Deﬁciency Treated with a Fixed Dose of Recombinant Growth Hormone.
+Horm Res 2007. 68:236-243
+•
+Cohen P, Bright GM, Rogol AD, et al. On Behalf Of The American Norditropin Clinical Trials Group. Effects of Dose and Gender on the Growth and Growth Factor Response
+to GH in GH-Deﬁcient Children: Implications for Efﬁcacy and Safety. J Clin Endocrinol Metab 2002. 87: 90–98
+•
+Baxter L, Bryant J, Cave CB, et al. Recombinant Growth Hormone for Children and Adolescents with Turner Syndrome. Cochrane Database of Systematic Reviews 2009,
+Issue 4.
+•
+Cook DM, Yuen KCJ. Growth Hormone Dosing Variables in Growth Hormone-deﬁcient Adults. Growth Horm IGF Res. 2006. Jul;16 Suppl A:S49-54.
+•
+Sunthornraj N, Fun LW, Evangelista LF et al. MIMS Annual Malaysia. 2009/2010. 20th edition. CMP Medica Paciﬁc Ltd.
+•
+Lacy CF, Armstrong LL, Goldman MP et al. LexiComp Inc 2009-2010.American Pharmacists Association.
+(eg.
+oedema,
+arthralgia, carpal tunnel syndrome,
+especially
+in
+adults).
+May
+occur
+frequently. Reduce dose as necessary.
+May first become
+evident or worsen.
+May develop. Evaluate children with the
+onset of a limp or hip/knee pain.
+May develop.
+The Use of Growth Hormone in Children and Adults
+81
+LIST OF ABBREVIATIONS (alphabetical order)
+AACE
+American Association of Clinical Endocrinologists
+aBMD
+areal Bone Mineral Density
+ACTH
+Adrenocorticotropin Hormone
+ARG
+Arginine
+AST
+Arginine Stimulation Test
+BFM
+body fat mass
+BMI
+body mass index
+BMD
+bone mineral density
+CA
+chronological age
+CNS
+Central Nervous System
+COGHD
+Childhood Onset Growth Hormone Deficient
+CT
+Computed Tomography
+DEXA
+Dual Energy X-ray Absorptiometry
+EMH
+Ectopic posterior pituitary, Missing stalk and Hypoplastic anterior pituitary
+FH
+Final height
+FFM
+fat free mass
+FM
+fat mass
+FSH
+Follicle Stimulating Hormone
+GCS
+Glasgow Coma Scale
+GH
+Growth Hormone
+GHD
+Growth Hormone Deficient
+GHRH
+Growth Hormone Releasing Hormone
+GST
+Glucagon Stimulation Test
+HDL
+High Density Lipoprotein
+HV
+Height Velocity
+ISS
+Idiopathic Short Stature
+IRS
+Insulin Resistant Syndrome
+ITT
+Insulin Tolerance Test
+LDL
+Low Density Lipoprotein
+LH
+Luteinising Hormone
+MPH
+Mid-parental Height
+MPHD
+Multiple Pituitary Hormone Deficient
+MRI
+Magnetic Resonance Imaging
+NCHS
+National Child Health Statistics
+PPV
+Positive Predictive Value
+PSA
+Prostate Specific Antigen
+QoL
+Quality of Life
+RCT
+Randomised Clinical Trial
+rhGH
+recombinant human Growth Hormone
+SD
+Standard Deviation
+SDS
+Standard Deviation Score
+TBI
+Traumatic Brain Injury
+TG
+Triglyceride
+TH
+Target Height
+TS
+Turner Syndrome
+TSH
+Thyroid Stimulating Hormone
+vBMD
+volumetric Bone Mineral Density
+The Use of Growth Hormone in Children and Adults
+82
+PROPOSED CLINICAL AUDIT INDICATORS FOR QUALITY
+MANAGEMENT
+Percentage of GHD
+No. of GHD patients treated with GH
+patients treated with GH =
+x 100%
+No. of GHD patients diagnosed
+Percentage of TS referred No. of TS referred to paediatric
+to paediatric
+endocrinologist at age <6 years
+endocrinologist before
+=
+x 100%
+6 years old
+No. of TS referred to paediatric
+endocrinologist
+* Percentage of
+*No. of COGHD patients re-evaluated
+re-evaluation of COGHD at/after completion of growth
+patients at transition
+=
+x 100%
+period
+*No. of COGHD patients at/after
+completion of growth
+* after exclusion of COGHD due to hypothalamic pituitary disease
+with ≥3 pituitary hormone deﬁciency & IGF-1 below -2 SD
+Appropriate use of GH No. of patients on GH therapy who
+therapy in adults
+had ITT done
+=
+x 100%
+Total no. of patients treated with GH
+ACKNOWLEDGEMENT
+The members of development group of these guidelines would like
+to express their gratitude and appreciation to the following for their
+contributions:
+• Panel of external reviewers who reviewed the draft
+• Datin Dr. Rugayah Bakri, Head of Health Technology Assessment
+(HTA) Section, Medical Development Division, MOH
+• Dr. Mohd. Aminuddin Mohd. Yusof, Head of CPG Unit, HTA Section,
+Medical Development Division, MOH
+• Matron Sin Lian Thye and Madam Poh Wan Chai
+• Technical Advisory Committee for CPG for their valuable input and
+feedback
+• All those who have contributed directly or indirectly to the development
+of the CPG
+DISCLOSURE STATEMENT
+The panel members had completed disclosure forms. None held shares
+in pharmaceutical ﬁrms or acts as consultants to such ﬁrms. (Details are
+available upon request from the CPG Secretariat)
+The Use of Growth Hormone in Children and Adults
+83
+SOURCES OF FUNDING
+The development of the CPG on The Use of Growth Hormone In
+Children and Adults was supported ﬁnancially in its entirety by the
+Ministry of Health Malaysia and Malaysian Endocrine and Metabolic
+Society without any involvement of the pharmaceutical industry.
+oath Technology Assessment Secon,
+‘Medical Deolopment Ovsion
+Mitr of Heath Malaysia,
+4 Floor, Block Es,
+arco , 62500 Putrajaya
+Tol 603-0903 1246
+mal: tamalaysa@moh gov my

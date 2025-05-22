@@ -1,0 +1,2296 @@
+CLINICAL PRACTICE GUIDELINES
+2020 MOH/P/PAK/444,20(GU)-¢
+Management of
+Attention-Deficit/Hyperactivity Disorder
+in Children & Adolescents
+(Second Edition)
+bedaf
+vjklmn
+“ste
+yz
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+Published by:
+Malaysian Health Technology Assessment Section (MaHTAS)
+Medical Development Division, Ministry of Health Malaysia
+Level 4, Block E1, Precinct 1
+Federal Government Administrative Centre 62590
+Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is MaHTAS. Content may be
+reproduced in any number of copies and in any format or medium
+provided that a copyright acknowledgement to MaHTAS is included and
+the content is not changed, not sold, nor used to promote or endorse
+any product or service, and not used in an inappropriate or misleading
+context.
+e-ISBN: 978-967-19299-3-3
+Available on the following websites:
+http://www.moh.gov.my
+http://www.acadmed.org.my
+https://www.psychiatry-malaysia.org
+Also available as an app for Android and IOS platform: MyMaHTAS
+STATEMENT OF INTENT
+These clinical practice guidelines (CPG) are meant to be guides for
+clinical practice, based on the best available evidence at the time of
+development. Adherence to these guidelines may not necessarily
+guarantee the best outcome in every case. Every healthcare provider is
+responsible for the management of his/her unique patient based on the
+clinical picture presented by the patient and the management options
+available locally.
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+UPDATING THE CPG
+These guidelines were issued in 2020 and will be reviewed in a
+minimum period of four years (2024) or sooner if new evidence becomes
+available. When it is due for updating, the Chairperson of the CPG or
+National Advisor of the related specialty will be informed about it. A
+discussion will be done on the need for a revision including the scope of
+the revised CPG. A multidisciplinary team will be formed, and the latest
+systematic review methodology used by MaHTAS will be employed.
+Every care is taken to ensure that this publication is correct in every
+detail at the time of publication. However, in the event of errors or
+omissions, corrections will be published in the web version of this
+document, which will be the definitive version at all time. This version
+can be found on the websites mentioned above.
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+TABLE OF CONTENTS
+No.
+Title
+Page
+Levels of Evidence and Formulation of Recommendation
+i
+Key Recommendations
+ii
+Guidelines Development and Objectives
+iv
+Development Group
+vii
+Review Committee
+viii
+External Reviewers
+ix
+Algorithm 1 Management of ADHD
+x
+1.
+INTRODUCTION
+1
+2.
+RISK FACTORS
+2
+3.
+ASSESSMENT AND DIAGNOSIS
+4
+3.1 Assessment
+4
+3.2 Diagnostic Criteria
+5
+3.3 Investigations
+6
+3.4 Co-morbidities
+6
+4.
+TREATMENT
+8
+4.1 Psychoeducation
+8
+4.2 Non-pharmacological Treatment
+9
+4.3 Pharmacological Treatment
+14
+4.4 Combination Treatment
+16
+4.5 Dietary Modification
+16
+5.
+TRADITIONAL AND COMPLEMENTARY MEDICATION
+17
+6.
+SPECIAL POPULATION
+18
+6.1 Transition to Adulthood
+18
+6.2 Adults
+18
+7.
+MANAGEMENT IN PRIMARY CARE
+21
+8.
+REFERRAL
+21
+9.
+MONITORING AND FOLLOW-UP
+22
+10. IMPLEMENTING THE GUIDELINES
+23
+10.1 Facilitating and Limiting Factors
+23
+10.2 Potential Resource Implications
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+TABLE OF CONTENTS
+No.
+Title
+Page
+REFERENCES
+25
+Appendix 1. Example of Search Strategy
+29
+Appendix 2. Clinical Questions
+30
+Appendix 3. Diagnostic and Statistical Manual of Mental
+31
+Disorder Fifth Edition (DSM-5)
+Appendix 4. International Statistical Classification of
+34
+Diseases and Related Health Problems,
+10th Revision (ICD-10)
+Appendix 5. Advice for Behavioural Management
+35
+Appendix 6. School-based Intervention
+37
+Appendix 7. Pharmacological Treatment of ADHD
+38
+Appendix 8. Management of Common Adverse Effects
+40
+Associated With Stimulant Use in ADHD
+List of Abbreviations
+41
+Acknowledgement
+42
+Disclosure Statement
+42
+Source of Funding
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+i
+LEVELS OF EVIDENCE
+SOURCE: US / CANADIAN PREVENTIVE SERVICES TASK FORCE 2001
+FORMULATION OF RECOMMENDATION
+In line with new development in CPG methodology, the CPG Unit of
+MaHTAS is adapting Grading Recommendations, Assessment,
+Development and Evaluation (GRADE) in its work process. The
+quality of each retrieved evidence and its effect size are carefully
+assessed/reviewed by the CPG Development Group. In formulating
+the recommendations, overall balances of the following aspects are
+considered in determining the strength of the recommendations:-
+• overall quality of evidence
+• balance of benefits versus harms
+• values and preferences
+• resource implications
+• equity, feasibility and acceptability
+Level
+I
+II-1
+II-2
+II-3
+III
+Study design
+Evidence from at least one properly randomised controlled trial
+Evidence obtained from well-designed controlled trials without
+randomisation
+Evidence obtained from well-designed cohort or case-control
+analytic studies, preferably from more than one centre or
+group
+Evidence from multiple time series with or without intervention;
+dramatic results in uncontrolled experiments (such as the
+results of the introduction of penicillin treatment in the 1940s)
+could also be regarded as this type of evidence
+Opinions of respected authorities based on clinical experience;
+descriptive studies and case reports; or reports of expert
+committees
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+ii
+KEY RECOMMENDATIONS
+The following are highlighted by the CPG Development Group as the
+key recommendations that answer the main questions addressed in the
+CPG and should be prioritised for implementation.
+a.
+Assessment
+• Information from parents/carers and teachers should be sought
+to increase accuracy of the attention-deficit/hyperactivity disorder
+(ADHD) assessment.
+• Diagnosis of ADHD should be based on diagnostic criteria of
+Diagnostic and Statistical Manual of Mental Disorder Fifth Edition
+(DSM-5) or hyperkinetic disorders from International Statistical
+Classification of Diseases and Related Health Problems, 10th
+Revision (ICD-10).
+• Any child or adolescent presenting with academic difficulties,
+behavioural problems, mood disturbances, substance use or
+personality disorders should be evaluated for ADHD to prevent
+deleterious outcomes in adulthood.
+b.
+Psychoeducation
+• Psychoeducation should be offered in attention-deficit/hyperactivity
+disorder.
+c.
+Non-pharmacological treatment
+• Occupational therapy should be offered as an adjunct in attentiondeficit/hyperactivity disorder (ADHD).
+• The following therapies should be considered in ADHD:
+ organisational skills training
+ cognitive behavioural therapy-based interventions
+• Parent training and behavioural intervention should be offered in
+ADHD.
+• School-based interventions should be offered in ADHD.
+d.
+Pharmacological treatment
+• Methylphenidate should be offered to children aged ≥6 years and
+adolescents with attention-deficit/hyperactivity disorder (ADHD) if
+medication is indicated.
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+• If medication for ADHD is indicated in children <6 years old, it should
+be initiated by a child psychiatrist or a paediatrician with expertise in
+managing ADHD.
+e.
+Combination treatment
+• Combination treatment (pharmacological and non-pharmacological)
+should be considered in children ≥6 years of age and adolescents
+with attention-deficit/hyperactivity disorder when the symptoms
+persist and cause functional impairment.
+f.
+Monitoring
+• Healthcare providers should provide continued care and longterm monitoring to children and adolescents with attention-deficit/
+hyperactivity disorder.
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+GUIDELINES DEVELOPMENT
+The members of the Development Group (DG) for these Clinical
+Practice Guidelines (CPG) were from the Ministry of Health (MoH)
+and Ministry of Higher Education. There was active involvement of a
+multidisciplinary Review Committee (RC) during the process of the
+CPG development.
+A systematic literature search was carried out using the following
+electronic databases: mainly Medline via Ovid and Cochrane Database
+of Systemic Reviews and others e.g. PubMed and Guidelines
+International Network (refer to Appendix 1 for Example of Search
+Strategy). The search was limited to literature published on humans,
+“all child (0 to 18 years)” (in most searches), publication from year “2008
+to Current” and English language. In addition, the reference lists of all
+retrieved literature and guidelines were searched and, experts in the
+field contacted to identify relevant studies. All searches were conducted
+from 19 Mac 2017 to 18 May 2018. Literature searches were repeated
+for all clinical questions at the end of the CPG development process
+allowing any relevant papers published before 21 January 2020 to be
+included. Future CPG updates will consider evidence published after
+this cut-off date. The details of the search strategy can be obtained
+upon request from the CPG Secretariat.
+References were also made to other CPGs on attention-deficit/
+hyperactivity disorder (ADHD) e.g.:
+• Canadian ADHD Practice Guidelines (CAP-Guidelines), 4.1
+[Canadian ADHD Resource Alliance (CADDRA), 2020]
+• Clinical Practice Guideline for the Diagnosis, Evaluation, and
+Treatment of Attention-Deficit/Hyperactivity Disorder in Children
+and Adolescents [American Academy of Pediatrics (AAP), 2019]
+• Attention deficit hyperactivity disorder: diagnosis and management
+[National Institute for Health and Care Excellence (NICE), 2018]
+• Management of attention deficit and hyperkinetic disorders in
+children and young people [Scottish Intercollegiate Guidelines
+Network (SIGN), 2009]
+These CPGs were evaluated using the Appraisal of Guidelines for
+Research and Evaluation (AGREE) II prior to them being used as
+references.
+A total of 14 clinical questions (CQ) were developed under different
+sections. Members of the DG were assigned individual questions
+within these sections (refer to Appendix 2 for Clinical Questions).
+The DG members met 24 times throughout the development of these
+guidelines. All literature retrieved were appraised by at least two DG
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+v
+members using Critical Appraisal Skill Programme checklist, presented
+in evidence tables and further discussed in each DG meetings. All
+statements and recommendations formulated after that were agreed
+upon by both the DG and RC. Where evidence was insufficient, the
+recommendations were made by consensus of the DG and RC. This
+CPG is based largely on the findings of systematic reviews, metaanalyses and clinical trials, with local practices taken into consideration.
+The literature used in these guidelines were graded using the US/
+Canadian Preventive Services Task Force Level of Evidence (2001),
+while the grading of recommendation was done using the principles of
+GRADE (refer to the preceding page). The writing of the CPG follows
+strictly the requirement of AGREE II.
+On completion, the draft of the CPG was reviewed by external
+reviewers. It was also posted on the MoH Malaysia official website for
+feedback from any interested parties. The draft was finally presented
+to the Technical Advisory Committee for CPG, and the HTA and CPG
+Council MoH Malaysia for review and approval. Details on the CPG
+development methodology by MaHTAS can be obtained from Manual
+on Development and Implementation of Evidence-based Clinical
+Practice Guidelines published in 2015 (available at http://www.moh.
+gov.my/moh/resources/CPG_MANUAL_MAHTAS.pdf?mid=634).
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+OBJECTIVES
+The objectives of the CPG are to provide evidence-based
+recommendations on the management of ADHD in the following
+aspects:
+a. risk factors
+b. assessment and diagnosis
+c. treatment
+d. referral and follow-up
+CLINICAL QUESTIONS
+Refer to Appendix 2.
+TARGET POPULATION
+1. Inclusion Criteria
+Children and adolescents with ADHD (<18 years old)
+In certain CQs, evidence is done on adults with ADHD
+2. Exclusion Criteria
+Management of other disorders with ADHD as co-morbidity is beyond
+the scope of this CPG.
+TARGET GROUP/USERS
+This document is intended to guide those involved in the management
+of ADHD at any healthcare level including:
+i. doctors
+ii. allied health professionals
+iii. trainees and medical students
+iv. patients and their advocates
+v. professional societies
+HEALTHCARE SETTINGS
+Primary, secondary and tertiary care settings
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+vii
+Associate Professor Dr. Aili Hanim Hashim
+Consultant Child, Adolescent & Adult
+Psychiatrist
+Pusat Perubatan Universiti Malaya
+Kuala Lumpur
+Dr. Akramul Zikri Abd Malek
+Psychiatrist
+Hospital Kuala Lumpur, Kuala Lumpur
+Ms. Ang Wei Nei
+Pharmacist
+Hospital Selayang, Selangor
+Ms. Ee Su Im
+Occupational Therapist
+Hospital Tunku Azizah, Kuala Lumpur
+Dr. Eni Rahaiza Muhd Ramli
+Consultant Child & Adolescent Psychiatrist
+Hospital Taiping, Perak
+Dr. Farahidah Md Dai
+Senior Consultant Child & Adolescent
+Psychiatrist
+Hospital Sultanah Aminah, Johor
+Dr. Mohd Aminuddin Mohd Yusof
+Public Health Physician & Head of CPG Unit
+MaHTAS, Ministry of Health, Putrajaya
+Dr. Noor Ayuni Bazura Muhamad
+Senior Principal Assistant Director
+MaHTAS, Ministry of Health, Putrajaya
+Dr. Noorul Amilin Harun
+Child & Adolescent Psychiatrist
+Hospital Tengku Ampuan Afzan, Pahang
+Dr. Norley Shuib
+Lecturer & Psychiatrist
+Universiti Teknologi MARA, Selangor
+Dr. Norharlina Bahar
+Consultant Child & Adolescent Psychiatrist
+Prince Court Medical Centre, Kuala Lumpur
+Dr. Ranjini S Sivanesom
+Consultant Developmental Paediatrician
+Hospital Tunku Azizah, Kuala Lumpur
+Ms. Sharlene Teo Shu Lin
+Clinical Psychologist
+Hospital Tuanku Jaafar, Negeri Sembilan
+Dr. Selvasingam Ratnasingam
+Consultant Child & Adolescent Psychiatrist
+Hospital Umum Sarawak, Sarawak
+Datin Dr. Sheila Marimuthu
+Consultant Adolescent Paediatrician
+Hospital Tunku Azizah, Kuala Lumpur
+Dr. Tengku Bahiah Tengku Lih
+Family Medicine Specialist
+Klinik Kesihatan Padang Luas, Terengganu
+Dr. Ummu Kalsum Mustapha
+Family Medicine Specialist
+Klinik Kesihatan Sungai Chua, Selangor
+Dr. Yusni Yusuff
+Consultant Child & Adolescent Psychiatrist
+Hospital Sultanah Bahiyah, Kedah
+DEVELOPMENT GROUP
+Chairperson
+Dr. Nurulwafa Hussain
+Consultant Child & Adolescent Psychiatrist
+Hospital Melaka, Melaka
+Members (in alphabetical order)
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+Ms. Chan Pek Har
+Clinical Psychologist
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Hazli Zakaria
+President of Malaysian Psychiatric Association &
+Consultant Psychiatrist
+Kuala Lumpur
+Dr. Izan Hairani Ishak
+Family Medicine Specialist
+Klinik Kesihatan Bukit Kuda, Selangor
+Dr. Izzuna Mudla Mohamed Ghazali
+Deputy Director & Public Health Physician
+MaHTAS, Ministry of Health, Putrajaya
+Dr. Juriza Ismail
+Consultant Developmental Paediatrician
+Department of Paediatrics
+Universiti Kebangsaan Malaysia Medical Centre, Kuala Lumpur
+Professor Dr. Khairani Omar
+Consultant Family Medicine Specialist
+Management & Science University, Selangor
+Pn. Noor Ratna Naharuddin
+Head of Pharmacist
+Hospital Sultanah Aminah, Johor
+Pn. Rokiah Alias
+Head of Occupational Therapy Department
+Hospital Kuala Lumpur, Kuala Lumpur
+Associate Professor Dr. Wan Salwina Wan Ismail
+Consultant Child & Adolescent Psychiatrist
+Department of Psychiatry
+Faculty of Medicine
+Universiti Kebangsaan Malaysia Medical Centre, Kuala Lumpur
+viii
+REVIEW COMMITTEE
+The draft guidelines were reviewed by a panel of experts. They were
+asked to comment primarily on the comprehensiveness and accuracy
+of the interpretation of evidence supporting the recommendations in the
+guidelines.
+Chairperson
+Dr. Norhayati Nordin
+Director & Senior Consultant Child & Adolescent Psychiatrist
+Hospital Bahagia Ulu Kinta, Perak
+Members (in alphabetical order)
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+ix
+Dr. Anthony James
+Consultant Child and Adolescent
+Psychiatrist & Honorary Senior Lecturer
+University of Oxford
+Oxford Health Care NHS Foundation Trust
+United Kingdom
+Dr. Anuradha a/p Thiagarajan
+Family Medicine Specialist
+Klinik Kesihatan Bukit Minyak, Pulau Pinang
+Ms. Belinda Ling Lik Fung
+Pharmacist
+Hospital Permai, Johor
+Dr. Bruno Falissard
+Child & Adolescent Psychiatrist &
+Professor in Public Health
+Université Paris-Saclay, France
+Dr. Cindy Chan Su Huay
+Developmental Paediatrician
+Sunway Medical Centre, Selangor
+Dr. Daniel Fung Shuen Sheng
+Chairman of Medical Board &
+Senior Consultant
+Institute of Mental Health, Singapore
+Dr. Ezura Madiana Md Monoto
+Lecturer & Family Medicine Specialist
+Universiti Kebangsaan Malaysia
+Kuala Lumpur
+Datin Dr. Hjh Fauzi Ismail
+Consultant Child & Adolescent Psychiatrist
+Petaling Jaya, Selangor
+Dr. Masne Kadar
+Senior Lecturer & Occupational Therapist
+Universiti Kebangsaan Malaysia
+Kuala Lumpur
+Mr. Mohamad Minhajul Abidin Suhaimi
+Patient advocate & Vice President
+Persatuan ADHD Malaysia (myADHD)
+Dr. Norhazmi Mohamad
+General Practitioner
+Poliklinik Idaman, Tanjung Sepat, Selangor
+Ms. Norsyamimi Rusli
+Assistant Director (Occupational Therapy)
+Special Education Division
+Ministry of Education, Putrajaya
+Dr. Rose Peng
+Consultant Child and Adolescent Psychiatrist
+Cheras, Kuala Lumpur
+Ms. Salmah Jopri
+Director
+Special Education Division
+Ministry of Education, Putrajaya
+Datin Dr. Sherina Mohd Sidik
+Professor & Family Medicine Specialist
+Universiti Putra Malaysia, Selangor
+Ms. Tan Cheng Yii
+Chartered Educational Psychologist
+Subang Jaya Medical Centre, Selangor
+Dr. Toh Teck Hock
+Paediatrician &
+Head of Clinical Research Centre
+Hospital Sibu, Sarawak
+Dr. Yang Wai Wai
+Senior Lecturer & Clinical Child Psychologist
+Universiti Kebangsaan Malaysia Medical
+Centre, Kuala Lumpur
+Dr. Yee Kok Wah
+General Practitioner
+Klinik Dr Yee, Melaka
+EXTERNAL REVIEWERS (in alphabetical order)
+The following external reviewers provided feedback on the draft:
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+x
+ALGORITHM: MANAGEMENT OF ATTENTION-DEFICIT/
+HYPERACTIVITY DISORDER (ADHD)
+*Refer Chapter 7 on Referral
+YES
+NO
+NO
+YES
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+1. INTRODUCTION
+Attention-deficit/hyperactivity disorder (ADHD) is one of the most
+common neurodevelopmental disorders of childhood. It is defined as
+a persistent pattern of inattention and/or hyperactive and impulsive
+behaviour that is more frequent and severe than is typically seen in a
+child at a given developmental stage. It appears in childhood and often
+lasts into adulthood.
+Children and adolescents with ADHD face significant problems in
+behavioural control, interpersonal relationships, academic performance
+and personal issues.1, 2 They have worse health-related quality of life
+scores than the typically developing groups varying from a small to
+moderate degree in physical domains and a large degree in psychosocial
+domains.3 Therefore, early recognition, assessment and management
+of this condition is very important in helping them and their parents to
+improve the educational and psychosocial difficulties.
+Worldwide, the estimated prevalence of childhood ADHD is 5.29%.4
+In Malaysia, the estimated prevalence of ADHD range from 1.6% to
+4.6%.5, 6 Boys are three to four times more likely to be diagnosed with
+ADHD than girls.6 - 8
+This CPG is a full review of the previous edition of guidelines on the
+management of ADHD published in 2008. It aims to reduce variation
+in practice and, address advancement in diagnosis and treatment
+of ADHD. In this edition, a new scope on adult ADHD and transition
+period into adulthood is addressed because of its growing significance
+in clinical practice.
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+2. RISK FACTORS
+• ADHD has a multifactorial and complex aetiology which includes
+both biological and environmental factors.
+a. Biological factors
+• Gender
+ Males are associated with increased risk of ADHD (OR=3.05,
+95% CI 2.34 to 3.98).8, level II-2
+ This is supported by a recent cohort study of more than 1.5 million
+individuals in Sweden showing the ADHD ratio between male and
+female of 3.7:1.7, level II-2
+• Genetics
+ Genetics plays a role in the aetiology of ADHD with a heritability
+estimate of 76%.9 The rate of ADHD in relatives of individuals with
+ADHD compared with the rate in relatives of individuals without
+ADHD is increased with increasing genetic relatedness:7, level II-2
+- monozygotic twins, HR=70.45, 95% CI 38.19 to 129.96
+- dizygotic twins, HR=8.44, 95% CI 5.87 to 12.14
+- full siblings, HR=8.27, 95% CI 7.86 to 8.70
+- maternal half-siblings, HR=2.86, 95% CI 2.61 to 3.13
+- paternal half-siblings, HR=2.31, 95% CI 2.07 to 2.58
+- full cousins, HR=2.24, 95% CI 2.11 to 2.38
+- half cousins, HR=1.47, 95% CI 1.35 to 1.61
+b. Environmental factors
+• Pre-pregnancy maternal obesity
+ Pre-pregnancy maternal obesity (BMI ≥30 kg/m2) is associated
+with an increased risk of ADHD among children (HR=1.65, 95%
+CI 1.55 to 1.76). The risk is also increased in overweight women
+(BMI 25 - 29.9 kg/m2) with HR of 1.27 (95% CI 1.17 to 1.37).10, level II-2
+• Prenatal factors
+ Hypertensive disorder in pregnancy (HDP)
+In a meta-analysis, maternal HDP showed a small risk of ADHD in
+the offspring (OR=1.29, 95% CI 1.22 to 1.36).11, level II-2
+ Maternal diabetes
+A recent meta-analysis of six cohort studies demonstrated that
+maternal diabetes increased the risk for ADHD in offspring
+(RR=1.40, 95% CI 1.27 to 1.54), with gestational diabetes mellitus
+showing a higher risk (RR=2.00, 95% CI 1.42 to 2.81).12, level II-2
+However, significant publication bias would have overestimate the
+findings.
+ Maternal psychosocial stress
+Children born to mothers who experienced a major stressful event
+during pregnancy or reported a high level of perceived stress are
+more likely to have ADHD [OR of 1.45 (95% CI 1.06 to 1.99) and
+OR of 3.03 (95% CI 2.19 to 4.20) respectively].13, level II-2
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+ Maternal cigarette, drug and alcohol use
+- Maternal cigarette smoking and, drug and alcohol abuse are
+known to be associated with ADHD.14
+- Maternal smoking during pregnancy is associated with
+increased risk of ADHD in the offspring:15, level II-2
+ OR in cohort studies of 1.35, 95% CI 1.20 to 1.52
+ OR in case-control studies of 1.85, 95% CI 1.57 to 2.19
+ Maternal paracetamol use
+A
+meta-analysis
+showed
+that
+maternal
+acetaminophen
+(paracetamol) use during pregnancy was associated with a small
+risk of ADHD in the offspring (RR=1.25, 95% CI 1.17 to 1.34). The
+duration of its use for ≥28 days prenatally showed a RR of 1.63,
+95% CI 1.23 to 2.16.16, level II-2 However the primary papers used
+in this meta-analysis has heterogenous methodology leading to
+possible misclassification bias.
+ Maternal antidepressants use
+Antidepressants use during pregnancy was not associated with
+increased risk of ADHD (HR=1.2, 95% CI 1.0 to 1.4).17, level II-2
+ Maternal use of valproate
+There is contradictory evidence on the association of maternal
+valproate use and ADHD.18 - 19, level II-2
+• Perinatal factors
+ Apgar score
+A lower Apgar score is associated with a higher risk of ADHD
+in childhood compared with Apgar scores of 9 or 10 at 5
+minutes.20, level II-2
+- Apgar scores of 1 to 4 (HR=1.75, 95% CI 1.15 to 2.11)
+- Apgar scores of 5 to 6 (HR=1.63, 95% CI 1.25 to 2.11)
+ Preterm birth and low birth weight
+Preterm birth is associated with more than twice the risk of
+developing ADHD, while children with low birth weight have two-
+to three-fold increased risk.9
+• Traumatic brain injury (TBI)
+Children with TBI have higher risk of ADHD (HR=1.32, 95% CI 1.19
+to 1.45).21, level II-2
+• Nutritional factors in children
+ There is no association between sucrose consumption and the
+prevalence of ADHD among children.22, level II-2
+ To date there is no conclusive evidence that food dyes and food
+preservatives cause ADHD.
+• Screen-time
+Preschool children with more than 2-hours of screen-time/day have
+an increased risk of ADHD (OR=7.7, 95%CI 1.6 to 38.1).23, level II-2
+• Others
+Studies had shown that lead was associated with ADHD.24, level II-2
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+3. ASSESSMENT AND DIAGNOSIS
+Children and adolescents presenting with core symptoms of inattention
+and/or hyperactivity and impulsivity should be evaluated for ADHD.
+The assessment and diagnosis of ADHD requires obtaining information
+from multiple informants, including parents and teachers, as well as
+conducting a clinical examination on the individual.
+ADHD is commonly under-recognised in girls.1 ADHD without
+hyperactivity (i.e. predominantly inattentive symptoms) is a diagnosis
+that needs to be considered in girls.25
+A meta-analysis on diagnostic accuracy of ADHD using various rating
+scales revealed that either parents or teachers were able to identify
+ADHD with a sensitivity of 0.86. On the other hand, reports by both
+parents and teachers gave a specificity of 0.91.26, level III
+3.1 Assessment
+a. History
+The clinical history should include the following:
+• core symptoms of ADHD (inattention, hyperactivity and impulsivity)
+at home, in school and social settings and impact of the symptoms
+• age of onset, duration and progression of symptoms
+• perinatal history, birth and developmental history including
+development milestones, past medical history (e.g. meningitis,
+traumatic brain injury)
+• behaviour in school and academic performance, as well as
+strengths, weaknesses and possible difficulties or stressors.
+Explore areas of learning difficulty, disciplinary issues, parenting
+concerns, bullies, peers’ rejection, excessive punishment, school
+rejection and engagement in dangerous activities
+• estimated level of intellectual functioning (via a detailed learning
+and adaptive functioning history)
+• activities of daily living (ADL) functioning (self-care, play and
+leisure including screen-time, schoolwork and house chores)
+• impact of difficulties and behaviour on the individual i.e. selfesteem, self-worth
+• impact of child’s difficulties and behaviour on family functioning
+and peer relationships
+• restless, fidgety, disruptive and unsafe behaviours
+• co-morbid psychiatric conditions including changes in mood,
+appetite, sleep and any substance use
+• medical/social conditions that mimic ADHD symptoms (e.g.
+autism spectrum disorder (ASD), intellectual disability, conditions
+producing chronic sleep deprivation; obstructive sleep apnoea;
+neuro-behavioural side effects of medications taken for other
+chronic conditions; physical, sexual and emotional abuse)
+• family structure and dynamics, parenting styles and expectations
+• family history of ADHD, substance abuse and maternal smoking,
+parents’ or carers’ mental health e.g. maternal depression
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+b. Physical and Mental State Examination
+A comprehensive physical examination (including vital signs, height
+and weight) should be performed to exclude physical conditions which
+mimic ADHD.9
+Mental status examination should focus on the following:9
+• general appearance and behaviour
+• activity level and social interaction
+• speech and language
+• mood and affect
+• thought process
+• attention and concentration
+• intelligence and academic skills
+c. Rating scales
+• Behavioural rating scales are useful adjuncts to the clinical interview
+in gathering more information about the individual. It should not be
+used as the sole criterion for clinical diagnosis of ADHD.27, level III
+• Common behaviour rating scales used are:
+ Conners’ Rating Scales (CRS)
+ Child Behavior Checklist (CBCL)
+ Vanderbilt ADHD Rating Scale
+ ADHD Rating Scale-5
+ Strengths and Difficulties Questionnaire (SDQ)
+• These behavioural rating scales can be self-administered. However,
+they do not give a complete diagnosis of ADHD, and the scores
+should be interpreted with caution by trained healthcare providers.
+• The evaluation of any child and adolescent for ADHD should consist
+of clinical interviews with the parents/caregivers and the patient
+by obtaining information about the patient’s school or day care
+functioning, evaluating comorbid psychiatric disorders and reviewing
+the patient’s medical, family and social histories.2
+A meta-analysis showed that Conners’ Abbreviated Symptom
+Questionnaire (ASQ), Child Behavior Checklist-Attention Problem
+(CBCL-AP) scale and Conners’ Rating Scale–Revised (CRS-R) were
+effective rating scales to detect ADHD symptoms with sensitivity
+ranging from 0.75 to 0.83.28, level III
+3.2 Diagnostic Criteria
+• ADHD is diagnosed based on diagnostic criteria of Diagnostic and
+Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) (refer
+to Appendix 3) or hyperkinetic disorders from 10th Revision of
+the International Statistical Classification of Diseases and Related
+Health Problem (ICD-10) (refer to Appendix 4).
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+The core symptoms of ADHD are:29; 30
+• inattention
+• hyperactivity and impulsivity
+In order to meet diagnostic criteria, the core symptoms should:29; 30
+• be persistent
+• be pervasive (present in two or more setting)
+• have caused significant functional impairment
+• not better accounted for by other mental disorders (e.g. pervasive
+developmental disorder, schizophrenia, other psychotic disorders,
+depression or anxiety)
+The onset of symptoms should be before the age of five years for
+hyperkinetic disorder30 or 12 years for ADHD.29
+• Children and adolescents with signs and symptoms suggestive of
+ADHD should be referred for assessment and further management.
+Recommendation 1
+• Information from parents/carers and teachers should be sought
+to increase accuracy of the attention-deficit/hyperactivity disorder
+(ADHD) assessment.
+• Diagnosis of ADHD should be based on diagnostic criteria of
+Diagnostic and Statistical Manual of Mental Disorder Fifth Edition
+(DSM-5) or hyperkinetic disorders from International Statistical
+Classification of Diseases and Related Health Problems, 10th
+Revision (ICD-10).
+3.3 Investigations
+a. Laboratory tests
+There is no diagnostic laboratory test for ADHD. Laboratory tests should
+be performed only if there is clinical indication.
+b. Other investigations
+Electroencephalogram (EEG) and magnetic resonance imaging (MRI)
+are not indicated in the diagnosis of ADHD.
+3.4 Co-morbidities
+In children with ADHD:
+• learning disorders, sleep disorders and oppositional defiant
+disorders (ODD) are common31, level III
+• 31% have co-occurring ODD, 10% have conduct disorders (CD)
+while 3% have both ODD and CD32, level II-2
+• 20% developed chronic tic disorder33, level I
+In a meta-analysis of 18 cross-sectional studies, girls with ADHD
+showed higher risk of anxiety (OR=3.19, 95% CI 1.81 to 5.65) and
+depression (OR=4.21, 95% CI 2.08 to 8.51) compared with those
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+without ADHD.34, level III However, there was no mention on inclusion
+criteria and quality assessment in the meta-analysis.
+A systematic review showed that ADHD in children and adolescents
+were significantly associated with allergic conditions e.g. allergic rhinitis,
+allergic conjunctivitis, atopic dermatitis and asthma.35, level II-2
+• Children with ADHD should be evaluated for co-morbidities.
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+4. TREATMENT
+As ADHD is a chronic condition, children and adolescents with ADHD
+and their families require long-term follow-up.
+• The goal of treatment is to improve symptoms, functioning and
+learning. It also aims to increase the child’s self-esteem and self-worth.
+The treatment includes psychoeducation, non-pharmacological and/
+or pharmacological approaches. In view of difficulties with diagnosis
+and special requirements of management, pre-schoolers (children
+below six years old) suspected of ADHD should be referred to a child
+psychiatrist or a paediatrician.
+4.1 Psychoeducation
+Psychoeducation should be provided to patients, parents, caregivers
+and teachers. In a systematic review, psychoeducation demonstrated
+positive outcomes in children and adolescents with ADHD with regards
+to:36, level I
+• significant reduction of core ADHD symptoms
+• excellent adherence to medical recommendations
+• reduction in fears associated with medication usage (including
+side effects)
+• improvements in academic achievements
+Psychoeducation also improved maternal well-being.
+Parents’ perceptions of ADHD and treatment acceptability are the main
+barriers to medication adherence. An early structured psychoeducation
+programme provides a new approach in improving medication
+adherence and clinical symptoms in children with ADHD in the clinical
+setting.37, level I
+• Psychoeducation should ideally contain the following:
+ a good patient-healthcare provider relationship
+ disorder-related information e.g. symptoms, potential causation/
+risk factors and negative effects in the life course
+ treatment-related information outlining pharmacological and
+non-pharmacological approaches, particularly regarding the
+effectiveness and adverse effects of medication
+ barriers to adherence and coping skills
+ parenting skills
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+Recommendation 2
+• Psychoeducation should be offered in attention-deficit/hyperactivity
+disorder.
+4.2 Non-Pharmacological Treatment
+There are many non-pharmacological therapies available for individuals
+with ADHD. They differ in names and, have different techniques and
+strategies. However, they share a set of principles to achieve the same
+aims.
+4.2.1 Occupational therapy
+Occupational therapy is one of the supporting therapies in the
+management of ADHD. Therapeutic methods recommended include
+sensory motor activities, motor training, social skills training, cognitive
+interventions, behaviour intervention and play-based interventions.
+38 - 39, level I
+A systematic review on the effectiveness of occupational therapy
+interventions for school-aged children with ADHD showed:38, level I
+• cognitive interventions
+ cognitive orientation to daily occupational performance
+improved motor performance
+ family-centered intervention improved behavioural outcome
+and parental perception
+• motor interventions
+ three-dimensional fine motor training significantly improved
+speed and consistent letter shapes in handwriting
+ Theraplay intervention significantly improved visual motor
+integration
+• sensory interventions
+ weighted vests improved attention and on-task behaviour
+ stability balls improved in-seat and on-task behaviour
+• play based interventions
+ Theraplay intervention reduced ADHD symptoms and,
+enhanced relationships and child’s overall performance
+ play-based intervention improved playfulness and interpersonal
+empathy
+ parent-delivered intervention increased play skills
+ social skills training improved communication, interactions skills
+and improve process skills
+In local settings, occupational therapy is a useful adjunct intervention in
+the management of ADHD.
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+4.2.2 Organisational skills training
+Organisational skills deficits in children with ADHD are shown to impair
+academic performance and may be associated with psychosocial,
+occupational and economic difficulties later in life.40, level I These children
+frequently have problems dealing with school materials and completing
+school assignments on time.
+In a meta-analysis of 12 RCTs, organisational skills training was more
+effective than control in improving organisational skills and the ratings
+of inattention and academic performance of children with ADHD:40, level I
+• parent-reported organisational skills (Hedge’s g=0.830, 95% CI
+0.324 to 1.336)
+• teacher-reported organisational skills (Hedge’s g=0.539, 95% CI
+0.169 to 0.909)
+• parent-reported attention (Hedge’s g=0.558, 95% CI 0.379 to
+0.736)
+• teacher-reported attention (Hedge’s g=0.264, 95% CI 0.006 to
+0.522)
+• teacher-reported academic performance (Hedge’s g=0.326, 95%
+CI 0.143 to 0.508)
+4.2.3 Psychological intervention
+a. Cognitive behavioural therapy-based interventions
+Cognitive behavioural therapy-based intervention is one of the
+psychological interventions that has been proposed in the treatment of
+ADHD. A good meta-analysis showed modest effectiveness of cognitive
+behavioural therapy (CBT) in reducing externalising symptoms in children
+with ADHD (Cohen’s d= -0.549, 95% CI -0.774 to -0.324).41, level I
+In a cross-over RCT, an eight-month assessment showed CBT was
+effective for adolescents with ADHD who continued to exhibit persistent
+symptoms despite medications.42, level I
+In another RCT, CBT group was significantly more effective than control
+group in reducing ADHD symptoms and severity, and decreasing
+functional impairment in adolescents who continued presenting with
+significant symptoms despite being on pharmacological treatment:
+43, level I
+• self-rated ADHD symptoms (Cohen’s d=7.5)
+• parent-rated ADHD symptoms (Cohen’s d=8.38)
+• self-rated symptom severity (Cohen’s d=3.75)
+• clinician-rated symptom severity (Cohen’s d=7.71)
+• evaluator-rated functional impairment (Cohen’s d=7.51)
+CBT sessions include modules on psychoeducation, organisational/
+planning skills, impulsivity and motivation management, and relapse
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+prevention.42 - 43, level I These sessions should be conducted by trained
+personnel.
+b. Mindfulness-based intervention
+Mindfulness-based intervention (MBI) is a promising strategy to reduce
+ADHD symptoms.
+A meta-analysis demonstrated MBI was effective in children with ADHD
+in terms of:44, level I
+• reduction in inattention (Hedges’ g= -0.825, 95% CI -1.161 to
+-0.488)
+• reduction in hyperactivity/impulsivity (Hedges’ g= -0.676, 95% CI
+-0.975 to -0.377)
+However, the above results must be interpreted with caution because of
+high heterogeneity across the studies (I2=69.10 to 76.24%).
+4.2.4 Assistive Technology
+There is no strong evidence for assistive technology in ADHD. The
+use of fidget spinner is associated with only temporary decrease in
+gross motor activity (Cohen’s d= -0.44, p<0.05). It worsens attentional
+functioning (Cohen’s d=0.65, p<0.001).45, level II-3
+Recommendation 3
+• Occupational therapy should be offered as an adjunct in attentiondeficit/hyperactivity disorder (ADHD).
+• The following therapies should be considered in ADHD:
+ organisational skills training
+ cognitive behavioural therapy-based interventions
+4.2.5 Family-based Intervention
+Parent training and behavioural intervention
+Parents often experience high level of stress in handling children with
+ADHD and their associated impairments. Stress may affect parenting
+effectiveness, quality of parent-child relationships and the child’s
+functioning.
+Adolescents with ADHD and their parents reported more parentadolescent conflicts. Parents of adolescents with ADHD reported a
+greater intensity of anger in the parent-adolescent communication. They
+also reported having their own conflicts and mental health issues.3, level III
+Parent training and behavioural interventions improve parenting skills
+46, level I and reduce parenting stress.47, level I Parent training assists
+parents to understand and support the child, cope with stressful
+situations and encourage appropriate behaviours. It helps parents to
+modify and shape their child’s behaviour while improving the child’s
+ability to regulate his or her behaviour.
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+In children with ADHD, parent training and behavioural interventions:
+• reduce ADHD symptoms (SMD=0.61, 95% CI 0.40 to 0.83) for
+preschool children either with or without the child’s involvement
+48, level I
+• reduce oppositional behaviour,49, level I destructive behaviour and
+ADHD symptoms46, level I
+• reduce anxiety and depression,49, level I as well as internalising
+behaviour47, level I
+• increase self-control behaviour49, level I
+Parent training and behavioural interventions may need to be done
+continuously for overall benefits to be sustained.49, level I The intervention
+can be done individually or in groups. Other caregivers involved in
+the care of the child are encouraged to take part in the training and
+intervention.
+Parent training is also recommended by other guidelines in ADHD.
+1; 14; 50 The positive effect of behavioural therapy persists while positive
+effect of medications cease when the medication is stopped.2
+In view of the benefits of parent training, more local healthcare providers
+need to be trained to carry out the intervention. Refer Appendix 5 on
+Advice for Behavioural Management.
+Recommendation 4
+• Parent training and behavioural intervention should be offered in
+attention-deficit/hyperactivity disorder.
+4.2.6 School-based Intervention
+School-based intervention is any strategy implemented in a classroom
+setting to improve the well-being of students. It reduces and prevents
+school-related difficulties. The intervention requires interdisciplinary
+coordination among healthcare providers and educational staff handling
+children with ADHD. Interventions may incorporate activities e.g.
+behavioural interventions and modifications to academic instructions.
+A health technology assessment showed that school-based intervention
+led to improvement in both core ADHD symptoms and academic
+outcome:51, level I
+i. average beneficial effect on core ADHD symptoms
+• neurocognitive assessment on inattention (Cohen’s d=0.44,
+95% CI 0.18 to 0.70) and hyperactivity/impulsivity (Cohen’s
+d=0.33, 95% CI 0.13 to 0.53)
+• teacher-rated inattention assessed using various rating scales
+e.g. CRS, CRS-R, CBCL, ADHD-RS etc. (Cohen’s d=0.60, 95%
+CI 0.14 to 1.06)
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+ii. small effect on externalising symptoms reported by teachers
+(Cohen’s d=0.28, 95% CI 0.04 to 0.53)
+iii. small effect on perceptions of school-related adjustment as
+assessed by teachers (Cohen’s d=0.26, 95% CI 0.05 to 0.47)
+A meta-analysis of 19 moderate quality RCTs showed that behavioural
+classroom programmes had small positive effects on teacher-rated
+disruptive behaviour (Cohen’s d= -0.20, 95% CI -0.29 to -0.10) and
+classroom-observed on-task behaviour (Cohen’s d=0.39, p<0.001).
+52, level I
+National Institute for Health and Care Excellence (NICE) recommends
+that more education about ADHD be provided to trainee teachers.
+Teachers who have received training on ADHD and its management
+should provide behavioural interventions in the classroom to help
+children and young people with ADHD.1
+American Academy of Pediatrics recommends that educational
+interventions and individualised instructional supports, including school
+environment, class placement, instructional placement and behavioural
+supports, are a necessary part of any treatment plan and they often
+include an Individualised Education Programme (IEP).53
+Recommendation 5
+• School-based interventions should be offered in attention-deficit/
+hyperactivity disorder.
+Refer Appendix 6 on School-Based Intervention.
+4.2.7 Others
+Neurofeedback (NF) consists of measuring brain waves and providing
+a feedback signal which teaches self-control of brain functions.54 In
+a meta-analysis of 10 RCTs, NF was more effective than control in
+hyperactivity/impulsivity at six months follow-up (SMD=0.32, 95% CI
+0.14 to 0.49) but not in inattention.55, level I However there was no report
+on quality assessment of primary papers. The Canadian ADHD Practice
+Guidelines concludes that there is insufficient data to recommend NF
+as a standard treatment for ADHD.56
+• There is insufficient evidence to support the use of NF in the treatment
+of ADHD.
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+4.3 Pharmacological Treatment
+• Medication should be offered to children aged ≥6 years and
+adolescents with attention-deficit/hyperactivity disorder:
+ if their ADHD symptoms are persistent and causing significant
+impairment in at least one domain despite behavioural and
+environmental interventions.1
+ along
+with
+evidence-based
+training
+interventions
+and/or
+behavioural interventions, if available.53
+a. Stimulants/Non-stimulants
+Methylphenidate (MPH) and atomoxetine (ATX) are indicated for ADHD
+in children six years and older.57; 58, level III
+A Cochrane systematic review showed that MPH, compared with
+placebo, in children and adolescents with ADHD reduced:59, level I
+• teacher-rated ADHD symptoms (SMD= -0.77, 95% CI -0.90 to
+-0.64)
+• independent assessor-rated ADHD symptoms (SMD= -0.64, 95%
+CI -0.89 to -0.39)
+• parent-rated ADHD symptoms (SMD= -0.66, 95% CI -0.82 to
+-0.51)
+In a meta-analysis of 11 RCTs in children and adolescents with
+ADHD, symptom improvement was higher with MPH compared
+to ATX (RR=1.14, 95% CI 1.09 to 1.20). However, on the ADHDRS, improvement was seen only in inattention (SMD= -0.13, 95%
+CI -0.25 to -0.01) and not in the total and hyperactivity/impulsivity
+domains.60, level I
+In comparison with placebo, patients on MPH had more non-serious
+adverse events (RR=1.29, 95% CI 1.10 to 1.51).59, level I MPH had less
+drowsiness (RR=0.17, 95% CI 0.11 to 0.26), nausea (RR=0.49, 95% CI
+0.29 to 0.85) and vomiting (RR=0.41, 95% CI 0.27 to 0.63) but more
+insomnia (RR=2.27, 95% CI 1.63 to 3.15) compared with ATX.60, level I
+In both meta-analyses the primary papers were of moderate quality.
+NICE recommends offering MPH (either short- or long-acting) as firstline pharmacological treatment for children aged ≥5 years and young
+people with ADHD. ATX can be offered in those who:1
+• cannot tolerate MPH
+• do not respond to separate 6-week trials of MPH, having
+considered alternative preparations and adequate doses
+There is no current indication to perform an electrocardiogram (ECG)
+in a child prior to or during treatment using stimulants unless indicated
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+by history or physical examination.1; 61, level III Cardiac risk factors should
+be assessed, including child or adolescent’s history of specific cardiac
+symptoms apart from family history of sudden death, cardiovascular
+symptoms, etc.53
+Recommendation 6
+• Methylphenidate should be offered to children aged ≥6 years and
+adolescents with attention-deficit/ hyperactivity disorder if medication
+is indicated*.
+ Atomoxetine may be used as an alternative.
+*Refer yellow box above.
+b. Others
+In a good network meta-analysis of 133 double-blind RCTs on children
+and adolescents with ADHD, the following medications were superior to
+placebo in reducing ADHD core symptoms as rated by clinicians:62, level I
+• amphetamines (SMD= -1.02, 95% CI -1.19 to -0.85)
+• ATX (SMD= -0.56, 95% CI -0.66 to -0.45)
+• bupropion (SMD= -0.96, 95% CI -1.69 to -0.22)
+• clonidine (SMD= -0.71, 95% CI -1.17 to -0.24)
+• guanfacine (SMD= -0.67, 95% CI -0.85 to -0.50)
+• MPH (SMD= -0.78, 95% CI -0.93 to -0.62)
+• modafinil (SMD= -0.62, 95% CI -0.84 to -0.41)
+By contrast, in comparisons based on teachers’ ratings, only MPH
+(SMD= -0.82, 95% CI -1.16 to -0.48) and modafinil (SMD= -0.76, 95%
+CI -1.15 to -0.37) were more efficacious than placebo.
+In head to head comparisons, clinical ratings showed:62, level I
+• amphetamines were superior to modafinil (SMD= -0.39, 95% CI
+-0.67 to -0.12), ATX (SMD= -0.46, 95% CI -0.65 to -0.27), and
+MPH (SMD= -0.24, 95% CI -0.44 to -0.05)
+• ATX was inferior to MPH (SMD=0.22 95% CI 0.05 to 0.39)
+With respect to tolerability, all study medications were inferior to
+placebo:62, level I
+• amphetamines (OR=2.30, 95% CI 1.36 to 3.89)
+• ATX (OR=2.30, 95% CI 1.36 to 3.89)
+• bupropion (OR=1.51, 95% CI 0.17 to 13.27)
+• clonidine (OR=4.52, 95% CI 0.75 to 27.03)
+• guanfacine (OR=2.64, 95% CI 1.20 to 5.81)
+• MPH (OR=1.44, 95% CI 0.90 to 2.31)
+• modafinil (OR=1.34, 95% CI 0.57 to 3.18)
+In head to head comparisons, MPH was more tolerable than ATX,
+amphetamines, guanfacine, clonidine and bupropion. However, the
+differences were not statistically significant.
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+In the MoH Medicines Formulary, only MPH and ATX are approved
+for use in the treatment of ADHD in children over six years.57 Refer to
+Appendix 7 on Pharmacological Treatment of ADHD.
+c. Treatment for Pre-schoolers (Children below six years old)
+There was no strong evidence retrieved for pre-schoolers with ADHD
+and the CPG DG acknowledges the concerns around the adverse
+effects of medication in this group.
+NICE recommends not to offer medication to any child under five years
+without a second specialist opinion from an expert in managing ADHD
+in young children.1
+In the previous Malaysian CPG, the recommendation was that
+medication for pre-schoolers should be initiated by a child psychiatrist
+or a paediatrician familiar with the management of ADHD in this group.9
+Recommendation 7
+• If medication for attention-deficit/hyperactivity disorder (ADHD) is
+indicated in children <6 years old, it should be initiated by a child
+psychiatrist or a paediatrician with expertise in managing ADHD.
+4.4. Combination Treatment
+Pharmacotherapy alone or in combination with non-pharmacological
+treatment can be offered in ADHD. The combination of pharmacotherapy
+and behavioural therapy in ADHD allows for the use of lower stimulant
+dosages, which may reduce risk of medication-related side effects.2
+Recommendation 8
+• Combination treatment (pharmacological and non-pharmacological)
+should be considered in children ≥6 years of age and adolescents
+with attention-deficit/hyperactivity disorder when the symptoms
+persist and cause functional impairment.
+4.5. Dietary Modification
+Dietary modification for ADHD is divided into elimination and
+supplementation diets. Elimination diet includes removal of artificial
+food colourants, additives, sugar, artificial sweeteners and Few Foods
+Diet (FFD). FFD is a diet that excludes all but a few food items
+for a certain duration. It normally includes two types of meat, two
+sources of carbohydrates, two vegetables, two fruits, oil and water.
+Supplementation diet involve addition of amino acids, essential fatty
+acids, vitamins and minerals.63, level I
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+The evidence for dietary modification in management of ADHD are
+mostly inconclusive.63, level I
+NICE recommends not to advise elimination of artificial colouring,
+additives and dietary fatty acid supplementations. There is also no
+evidence of long-term effectiveness of FFD.1
+In the previous Malaysian CPG on ADHD, the recommendation was
+that parents should monitor and document the association between a
+particular food item and hyperactive behaviour in children with ADHD.
+The particular food item should be avoided if it is clearly associated with
+behavioural changes.9
+• There is insufficient evidence to recommend dietary modification in
+the treatment of ADHD.
+5. TRADITIONAL AND COMPLEMENTARY MEDICATION
+Traditional and complementary medication that were frequently studied
+in the management of ADHD include nutritional medicines (zinc, iron,
+omega-3, vitamin C and acetyl-L-carnitine) and herbal medicines
+[ginkgo, St. John’s wort, French maritime pine bark and Ningdong
+granule (traditional Chinese herbal formula)]. There is no clear evidence
+for recommendation of these medications in treating ADHD.64, level I
+A systematic review showed no evidence on the usefulness of medicinal
+cannabinoids for the treatment of ADHD in adults.65, level I
+In a meta-analysis, physical exercise has a medium effect on ADHD
+functional outcomes (Hedge’s g=0.627, 95% CI 0.273 to 0.982) with
+significant heterogeneity (I2=78%).66, level I However, quality assessment
+of primary studies was not reported.
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+6. SPECIAL POPULATION
+6.1. Transition to Adulthood
+Transition is the period from adolescence to adulthood. It is important
+to continuously provide accessible and age-appropriate services in this
+period. A majority (60 - 85%) of children with ADHD will continue to
+meet the criteria for the disorder during their teenage and adult years.2
+However, ADHD treatment rates decline sharply from childhood through
+young adulthood.67, level III The decline in treatment is because:
+• there is an interruption in management of the disorder when
+adolescent patients transit to adult health care services as there is
+no provision of transitional care for the patients67, level III
+• of the belief that ADHD resolves during adolescence and young
+adulthood with minimal impact in functioning68, level III
+• of the perception that adolescents with ADHD do not meet the
+diagnostic criteria and, therefore, do not require treatment69, level III
+• the presentation is masked by the presence of comorbid psychiatric
+syndromes68, level III
+• there is limited service availability67, level III
+• clinicians are not well equipped to handle adults with ADHD67, level III
+• the stigma and myths about ADHD and its treatment68, level III
+Symptoms of ADHD in adolescence and adulthood:68, level III
+• may change; hyperactivity and impulsivity becoming less evident,
+while inattention symptoms remain
+• include prominent impairment in executive functioning
+• are complicated by the presence of comorbid psychiatric symptoms
+• are associated with continued clinical and psychosocial impairments
+• Optimising services during childhood and transition to adult health
+care improves treatment and prognosis of individuals with ADHD.
+Recommendation 9
+• Children and adolescents with attention-deficit/hyperactivity disorder
+should continue to receive treatment throughout their lifespan.
+6.2. Adults
+Observational studies of childhood outcomes of ADHD suggested
+persistence of symptoms into adulthood. Inattention symptoms
+remained prominent, while symptoms of hyperactivity and impulsivity
+may persist, decline or change in their presentation.70, level II-2
+ADHD persistence rates from childhood to adulthood ranged from
+40 - 50%.71, level III
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+a. Risk factors for persistence of ADHD into adulthood
+A meta-analysis of 16 studies found that the risk factors for persistence
+of ADHD into adulthood were:72, level II-2
+• severity of ADHD (OR=2.33, 95% CI 1.60 to 3.39)
+• CD (OR=1.85, 95% CI 1.06 to 3.24)
+• major depressive disorder (MDD) (OR=1.80, 95% CI 1.10 to 2.95)
+• parental psychopathology
+ paternal anxiety-mood disorder (OR=2.40, 95% CI 1.10 to 5.50)
+ parental (mother or father) antisocial personality disorder
+(OR=2.20, 95% CI 1.20 to 4.20)
+The same meta-analysis showed that factors not significantly
+associated with the persistence of ADHD into adulthood were gender,
+socioeconomic status at childhood, intelligence quotient (IQ), ODD,
+exposure to trauma and adversities e.g. single parent families.72, level II-2
+b. Co-morbidities
+In a small cross-sectional study on individuals aged 17 to 74 years
+old, adults with ADHD had significantly higher rates of DSM-IV Axis I
+(46.9%) and Axis II (27.31%) co-morbidities compared with non-ADHD
+adults.73, level III
+Among adults with ADHD, those with ADHD-C (combined hyperactivity
+and inattention) had significantly higher rates of past and current MDD
+and anxiety disorders compared with ADHD-I (inattention). They also
+had significantly higher rates of past CD and antisocial personality
+disorder.73, level III
+c. Outcome of childhood ADHD
+Adults with childhood ADHD, compared with those without ADHD, had
+higher risk of:
+• academic difficulties74, level II-2
+ grade retention (OR=3.64, 95% CI 2.39 to 5.56)
+ school suspension (OR=6.31, 95% CI 2.53 to 15.73)
+ increased use of education services (OR=6.37, 95% CI 2.58 to
+15.73)
+ failure to finish high school (OR=3.70, 95% CI 1.96 to 6.99)
+• psychiatric disorders74, level II-2
+ ODD (OR=7.05, 95% CI 2.63 to 18.85)
+ CD (OR=5.40, 95% CI 2.53 to 11.55)
+ antisocial disorder (OR=2.83, 95% CI 1.23 to 6.52)
+ depression (OR=2.31, 95% CI 1.45 to 3.70)
+ use of mental health services (OR=2.35, 95% CI 1.42 to 3.89)
+• substance and alcohol use75, level II-2
+ lifetime nicotine use (OR=2.08, 95% CI 1.66 to 2.60)
+ lifetime marijuana use (OR=2.78, 95% CI 1.64 to 4.74)
+ nicotine abuse/dependence (OR=2.82, 95% CI 2.41 to 3.29)
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+ alcohol use disorder (OR=1.74, 95% CI 1.38 to 2.20)
+ marijuana abuse/dependence (OR=1.58, 95% CI 1.16 to 2.14)
+ cocaine abuse/dependence (OR=2.05, 95% CI 1.38 to 3.04)
+ general illicit drug abuse/dependence (OR=2.64, 95% CI 1.77
+to 3.94)
+• legal issues74, level II-2
+ arrests (OR=2.43, 95% CI 1.62 to 3.65)
+ convictions (OR=2.01, 95% CI 1.25 to 3.24)
+ driving summons (OR=2.13, 95% CI 1.09 to 4.19)
+ vehicular-accidents-at-faults (OR=1.98, 95% CI 1.03 to 3.81)
+• problems in other areas of life
+ social functioning76, level II-2
+ low self-esteem76, level II-2
+ less likely to stay married (p<0.001)70, level II-2
+ lower salary (p<0.001)70, level II-2
+ lower work functioning (p<0.001)70, level II-2
+ poorer social economic status (p<0.001)70, level II-2
+ obesity76, level II-2
+Adults with ADHD who received treatment in childhood compared to
+those who did not, had higher academic attainment and employment,
+lower rates of lifetime occurrence of depression, anxiety and bipolar
+disorder.77, level II-2 They also had better outcomes in driving, obesity, selfesteem, social functioning and drug use/addictive behaviour.76, level II-2
+• In the management of adults with ADHD, the assessment and
+treatment of ADHD, co-morbidities and psychosocial complications
+are crucial.
+Recommendation 10
+• Any child or adolescent presenting with academic difficulties,
+behavioural problems, mood disturbances, substance use or
+personality disorders should be evaluated for attention-deficit/
+hyperactivity disorder to prevent deleterious outcomes in adulthood.
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+7. MANAGEMENT IN PRIMARY CARE
+In primary care setting, diagnosis of ADHD can be confirmed by a
+Family Medicine Specialist (FMS)/Primary Care Physician. Patients can
+be managed in the primary care facility if the condition is mild. Patients
+with moderate to severe ADHD should be referred to a psychiatrist/
+paediatrician for further management.
+Table 1. Severity of ADHD based on DSM-5 Criteria
+Severity
+Features
+Mild
+Few, if any, symptoms in excess of those required
+to make the diagnosis are present, and symptoms
+result in no more than minor impairments in social or
+occupational functioning.
+Moderate Symptoms or functional impairment between “mild”
+and “severe” are present.
+Severe
+Many symptoms in excess of those required to make
+the diagnosis, or several symptoms that are particularly
+severe, are present, or the symptoms result in marked
+impairment in social or occupational functioning.
+Non-pharmacological treatment of ADHD can be initiated by FMS/
+Primary Care Physician. They can provide psychoeducation and
+general advice on family- and school-based interventions. Patients can
+also be referred to an occupational therapist for further interventions.
+8. REFERRAL
+In view of no retrievable evidence on referral criteria for ADHD, the
+CPG development group proposes the following terms for referral.
+• Patients with ADHD should be referred to the psychiatrist/
+paediatrician when there is:
+ uncertainty of diagnosis
+ lack of response to non-pharmacological treatment
+ indication to start pharmacotherapy
+ severe side effects of medication
+ co-morbidities (e.g. substance abuse)
+• All pre-schoolers (below six years of age) with suspicion of ADHD
+should be referred to the child psychiatrist or a paediatrician with
+expertise in managing ADHD for further management.
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+9. MONITORING AND FOLLOW-UP
+Clinicians should provide regular follow-up for individuals with ADHD.
+During the follow-up, emphasise treatment adherence and, monitor the
+effectiveness and side effects of medication prescribed.1
+The following should be monitored during follow-up:
+• height and weight
+• vital signs (especially heart rate and rhythm)
+• loss of appetite
+• rebound hyperactivity
+• sleep
+• worsening behaviour
+• mood changes
+• stimulant diversion (giving another person the medication meant
+for the individual, e.g. giving a friend or selling one’s prescribed
+medication)
+Refer to Appendix 8 for further information.
+In addition, for children aged 12 years and above, clinicians should
+assess for changes in mood and presence of risky behaviours
+e.g. intentional self-harm, substance use, suicidal and risky sexual
+behaviours. 2; 53
+If a child or adolescent’s growth over time is significantly affected by
+medication (i.e. they have weight loss and/or have not met the height
+expected for their age) consider a planned break in treatment over
+school holidays to allow “catch-up” growth.1
+If a patient with ADHD has been symptom free for at least one year,
+enquiries should be made on whether the patient and family still think
+the medication is beneficial. If the decision is made to discontinue the
+medication, it should be done at a low-stress time.2
+Parents and adolescents with ADHD are encouraged to discuss any
+preferences to stop or change medication and to be involved in any
+decision about stopping treatment.1 Medications should be resumed
+in the event of recurrence of symptoms or deterioration in functioning.
+• Children with ADHD are eligible to get additional support e.g.:
+ registration for Orang Kurang Upaya (OKU) with District Social
+Welfare Office (Pejabat Kebajikan Masyarakat Daerah)
+ special needs education under District Education Office (Pejabat
+Pendidikan Daerah), including inclusive education in the
+mainstream setting
+ examination and classroom accommodation (e.g. extra time,
+reduced distraction)
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+Recommendation 11
+• Healthcare providers should provide continued care and longterm monitoring to children and adolescents with attention-deficit/
+hyperactivity disorder.
+10. IMPLEMENTING THE GUIDELINES
+The management of ADHD should be guided by evidence-based
+approach in order to provide quality care to the patients. Several factors
+may affect the implementation of recommendations in the CPG.
+10.1. Facilitating and Limiting Factors
+Existing facilitators for application of the recommendations in the CPG
+include:
+• wide dissemination of the CPG (soft- and hardcopies) to healthcare
+providers
+• training and updates on ADHD
+• public awareness campaigns related to mental health
+Existing barriers for application of the recommendations of the CPG
+are:
+• limited exposure and training among healthcare providers on
+management of ADHD
+• variation in availability of expertise and access to service provision
+due to financial constraints
+• lack of awareness among patients, families and educators on ADHD
+10.2. Potential Resource Implications
+In local scenario, children with ADHD are often missed. Adults and
+peers often consider the children as having behavioural problems,
+not listening and not putting in effort. They are often labelled, isolated,
+ignored or punished.
+There are also negative/false perceptions regarding ADHD e.g.:
+• it is not a medical illness
+• the medications increase the risk of substance use
+• the condition will disappear as the child gets older
+• boys are usually hyperactive anyway
+• only boys have ADHD
+The CPG recommends early detection and referral, comprehensive
+assessment and treatment of the disorder. This requires increased
+awareness among parents, educators and healthcare providers to
+establish diagnosis and embark on intervention early. Collaboration
+with various experts and agencies is required to provide optimal
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+management e.g. psychological and behavioural intervention, parent
+and teachers training, and classroom accommodation.
+Thus, the implementation of this CPG requires resources to provide:
+• training of healthcare providers and educators
+• assessment and intervention tools
+• better access to pharmaco- and non-pharmacological therapy
+• access to policy makers
+The following is proposed as clinical audit indicator for quality
+management of ADHD:
+*if their ADHD symptoms are persistent and causing significant
+impairment in at least one domain despite behavioural and
+environmental interventions.
+Implementation strategies will be developed following the approval of
+the CPG by MoH which include launching of the CPG, Quick Reference
+and Training Module.
+• Percentage of newly
+diagnosed children
+and adolescents
+with ADHD offered
+parent training
+and behavioural
+intervention
+=
+Number of newly diagnosed children and
+adolescents with ADHD in the same period
+Number of newly diagnosed children and
+adolescents with ADHD offered parent training
+and behavioural intervention in a period
+• Percentage of
+children ≥6 years
+diagnosed with
+ADHD prescribed
+methylphenidate
+(MPH) when
+indicated*
+=
+Number of children ≥6 years diagnosed with
+ADHD and indicated for MPH in the same period
+Number of children ≥6 years diagnosed
+with ADHD prescribed MPH in a period
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+REFERENCES
+1. National Institute for Health and Care Excellence (NICE). Attention deficit hyperactivity disorder:
+diagnosis and management. London: NICE; 2018.
+2. Pliszka S. Practice parameter for the assessment and treatment of children and adolescents with
+attention-deficit/hyperactivity disorder. J Am Acad Child Adolesc Psychiatry. 2007;46(7):894-921.
+3. Lee YC, Yang HJ, Chen VC, et al. Meta-analysis of quality of life in children and adolescents with
+ADHD: By both parent proxy-report and child self-report using PedsQL™. Res Dev Disabil. 2016;5152:160-72.
+4. Polanczyk G, de Lima MS, Horta BL, et al. The worldwide prevalence of ADHD: a systematic review
+and metaregression analysis. The American journal of psychiatry. 2007;164(6):942-8.
+5. Sahril N, Ahmad NA, Idris IB, et al. Mental Health Problems of Children. National Health & Morbidity
+Survey 2015. 2. Kuala Lumpur: Ministry of Health Malaysia; 2015. p. 190-205.
+6. Gomez R, Hafetz N. DSM-IV ADHD: Prevalence based on parent and teacher ratings of Malaysian
+primary school children. Asian journal of psychiatry. 2011;4(1):41-4.
+7. Chen Q, Brikell I, Lichtenstein P, et al. Familial aggregation of attention-deficit/hyperactivity disorder.
+J Child Psychol Psychiatry. 2017;58(3):231-9.
+8. St Sauver JL, Barbaresi WJ, Katusic SK, et al. Early life risk factors for attention-deficit/hyperactivity
+disorder: a population-based cohort study. Mayo Clin Proc. 2004;79(9):1124-31.
+9. Ministry of Health Malaysia (MoH). Management of Attention Deficit Hyperactivity Disorder in
+Children and Adolescents. Kuala Lumpur: MoH; 2008.
+10. Jenabi E, Bashirian S, Khazaei S, et al. The maternal prepregnancy body mass index and the risk
+of attention deficit hyperactivity disorder among children and adolescents: a systematic review and
+meta-analysis. Korean journal of pediatrics. 2019;62(10):374-9.
+11. Maher GM, O’Keeffe GW, Kearney PM, et al. Association of Hypertensive Disorders of Pregnancy
+With Risk of Neurodevelopmental Disorders in Offspring: A Systematic Review and Meta-analysis.
+JAMA Psychiatry. 2018;75(8):809-19.
+12. Zhao L, Li X, Liu G, et al. The association of maternal diabetes with attention deficit and hyperactivity
+disorder in offspring: a meta-analysis. Neuropsychiatric disease and treatment. 2019;15:675-84.
+13. Okano L, Ji Y, Riley AW, et al. Maternal psychosocial stress and children’s ADHD diagnosis: a
+prospective birth cohort study. J Psychosom Obstet Gynaecol. 2019;40(3):217-25.
+14. Scottish Intercollegiate Guidelines Network (SIGN). Management of attention deficit and hyperkinetic
+disorders in children and young people. Edinburgh: SIGN; 2009.
+15. Huang L, Wang Y, Zhang L, et al. Maternal Smoking and Attention-Deficit/Hyperactivity Disorder in
+Offspring: A Meta-analysis. Pediatrics. 2018;141(1).
+16. Gou X, Wang Y, Tang Y, et al. Association of maternal prenatal acetaminophen use with the
+risk of attention deficit/hyperactivity disorder in offspring: A meta-analysis. Aust N Z J Psychiatry.
+2019;53(3):195-206.
+17. Boukhris T, Sheehy O, Berard A. Antidepressant Use in Pregnancy and the Risk of Attention Deficit
+with or without Hyperactivity Disorder in Children. Paediatr Perinat Epidemiol. 2017;31(4):363-73.
+18. Christensen J, Pedersen L, Sun Y, et al. Association of Prenatal Exposure to Valproate and Other
+Antiepileptic Drugs With Risk for Attention-Deficit/Hyperactivity Disorder in Offspring. JAMA Netw
+Open. 2019;2(1):e186606.
+19. Veroniki AA, Rios P, Cogo E, et al. Comparative safety of antiepileptic drugs for neurological
+development in children exposed during pregnancy and breast feeding: a systematic review and
+network meta-analysis. BMJ Open. 2017;7(7):e017248.
+20. Li J, Olsen J, Vestergaard M, et al. Low Apgar scores and risk of childhood attention deficit
+hyperactivity disorder. J Pediatr. 2011;158(5):775-9.
+21. Yang LY, Huang CC, Chiu WT, et al. Association of traumatic brain injury in childhood and attentiondeficit/hyperactivity disorder: a population-based study. Pediatr Res. 2016;80(3):356-62.
+22. Del-Ponte B, Anselmi L, Assuncao MCF, et al. Sugar consumption and attention-deficit/hyperactivity
+disorder (ADHD): A birth cohort study. J Affect Disord. 2019;243:290-6.
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+23. Tamana SK, Ezeugwu V, Chikuma J, et al. Screen-time is associated with inattention problems in
+preschoolers: Results from the CHILD birth cohort study. PLoS One. 2019;14(4):e0213995.
+24. Donzelli G, Carducci A, Llopis-Gonzalez A, et al. The Association between Lead and AttentionDeficit/Hyperactivity Disorder: A Systematic Review. Int J Environ Res Public Health. 2019;16(3).
+25. Quinn PO, Madhoo M. A review of attention-deficit/hyperactivity disorder in women and girls:
+uncovering this hidden diagnosis. Prim Care Companion CNS Disord. 2014;16(3).
+26. Bied A, Biederman J, Faraone S. Parent-based diagnosis of ADHD is as accurate as a teacherbased diagnosis of ADHD. Postgrad Med. 2017;129(3):375-81.
+27. Parker A, Corkum P. ADHD Diagnosis: As Simple As Administering a Questionnaire or a Complex
+Diagnostic Process? J Atten Disord. 2013;20(6):478-86.
+28. Chang LY, Wang MY, Tsai PS. Diagnostic Accuracy of Rating Scales for Attention-Deficit/
+Hyperactivity Disorder: A Meta-analysis. Pediatrics. 2016;137(3):e20152749.
+29. American Psychiatric Association (APA). Diagnostic and Statistical Manual of Mental Disorders, Fifth
+Edition. Arlington, VA: APA; 2013.
+30. World Health Organization (WHO). The ICD-10 classification of mental and behavioural disorders:
+Clinical descriptions and diagnostic guidelines. Geneva: WHO; 2016.
+31. Reale L, Bartoli B, Cartabia M, et al. Comorbidity prevalence and treatment outcome in children and
+adolescents with ADHD. Eur Child Adolesc Psychiatry. 2017;26(12):1443-57.
+32. Bendiksen B, Svensson E, Aase H, et al. Co-Occurrence of ODD and CD in preschool children with
+symptoms of ADHD. J Atten Disord. 2017;21(9):741-52.
+33. Bloch MH, Panza KE, Landeros-Weisenberger A, et al. Meta-analysis: treatment of attention-deficit/
+hyperactivity disorder in children with comorbid tic disorders. J Am Acad Child Adolesc Psychiatry.
+2009;48(9):884-93.
+34. Tung I, Li JJ, Meza JI, et al. Patterns of Comorbidity Among Girls With ADHD: A Meta-analysis.
+Pediatrics. 2016;138(4).
+35. Muskens JB, Velders FP, Staal WG. Medical comorbidities in children and adolescents with autism
+spectrum disorders and attention deficit hyperactivity disorders: a systematic review. Eur Child
+Adolesc Psychiatry. 2017;26(9):1093-103.
+36. Montoya A, Colom F, Ferrin M. Is psychoeducation for parents and teachers of children and
+adolescents with ADHD efficacious? A systematic literature review. Eur Psychiatry. 2011;26(3):166-75.
+37. Bai GN, Wang YF, Yang L, et al. Effectiveness of a focused, brief psychoeducation program for
+parents of ADHD children: improvement of medication adherence and symptoms. Neuropsychiatr
+Dis Treat. 2015;11:2721-35.
+38. Nielsen SK, Kelsch K, Miller K. Occupational Therapy Interventions for Children with Attention
+Deficit Hyperactivity Disorder: A Systematic Review. Occupational Therapy in Mental Health.
+2017;33(1):70-80.
+39. Wilkes-Gillan S, Bundy A, Cordier R, et al. A Randomised Controlled Trial of a Play-Based
+Intervention to Improve the Social Play Skills of Children with Attention Deficit Hyperactivity Disorder
+(ADHD). PLoS One. 2016;11(8):e0160558.
+40. Bikic A, Reichow B, McCauley SA, et al. Meta-analysis of organizational skills interventions
+for children and adolescents with Attention-Deficit/Hyperactivity Disorder. Clin Psychol Rev.
+2017;52:108-23.
+41. Battagliese G, Caccetta M, Luppino OI, et al. Cognitive-behavioral therapy for externalizing
+disorders: A meta-analysis of treatment effectiveness. Behav Res Ther. 2015;75:60-71.
+42. Sprich SE, Safren SA, Finkelstein D, et al. A randomized controlled trial of cognitive behavioral
+therapy for ADHD in medication-treated adolescents. J Child Psychol Psychiatry. 2016;57(11):1218-26.
+43. Vidal R, Castells J, Richarte V, et al. Group therapy for adolescents with attention-deficit/hyperactivity
+disorder: a randomized controlled trial. J Am Acad Child Adolesc Psychiatry. 2015;54(4):275-82.
+44. Xue J, Zhang Y, Huang Y. A meta-analytic investigation of the impact of mindfulness-based
+interventions on ADHD symptoms. Medicine. 2019;98(23):e15957-e.
+45. Graziano PA, Garcia AM, Landis TD. To Fidget or Not to Fidget, That Is the Question: A Systematic
+Classroom Evaluation of Fidget Spinners Among Young Children With ADHD. J Atten Disord.
+2018:1087054718770009.
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+46. Charach A, Carson P, Fox S, et al. Interventions for preschool children at high risk for ADHD: a
+comparative effectiveness review. Pediatrics. 2013;131(5):e1584-604.
+47. Zwi M, Jones H, Thorgaard C, et al. Parent training interventions for Attention Deficit Hyperactivity
+Disorder (ADHD) in children aged 5 to 18 years. Cochrane Database Syst Rev. 2011(12):Cd003018.
+48. Mulqueen JM, Bartley CA, Bloch MH. Meta-analysis: parental interventions for preschool ADHD. J
+Atten Disord. 2015;19(2):118-24.
+49. Huang YH, Chung CY, Ou HY, et al. Treatment effects of combining social skill training and parent
+training in Taiwanese children with attention deficit hyperactivity disorder. J Formos Med Assoc.
+2015;114(3):260-7.
+50. Singapore Academy of Medicine. AMS-MOH Clinical Practice Guidelines: Attention Deficit
+Hyperactivity Disorder. Singapore: MoH Singapore; 2014.
+51. Richardson M, Moore DA, Gwernan-Jones R, et al. Non-pharmacological interventions for attentiondeficit/hyperactivity disorder (ADHD) delivered in school settings: systematic reviews of quantitative
+and qualitative research. Health Technol Assess. 2015;19(45):1-470.
+52. Veenman B, Luman M, Oosterlaan J. Efficacy of behavioral classroom programs in primary school.
+A meta-analysis focusing on randomized controlled trials. PLoS One. 2018;13(10):e0201779.
+53. Wolraich ML, Hagan JF, Jr., Allan C, et al. Clinical Practice Guideline for the Diagnosis, Evaluation,
+and Treatment of Attention-Deficit/Hyperactivity Disorder in Children and Adolescents. Pediatrics.
+2019;144(4).
+54. Marzbani H, Marateb HR, Mansourian M. Neurofeedback: A Comprehensive Review on System
+Design, Methodology and Clinical Applications. Basic Clin Neurosci. 2016;7(2):143-58.
+55. Van Doren J, Arns M, Heinrich H, et al. Sustained effects of neurofeedback in ADHD: a systematic
+review and meta-analysis. Eur Child Adolesc Psychiatry. 2019;28(3):293-305.
+56. Canadian ADHD Resource Alliance (CADDRA). Canadian ADHD Practice Guidelines. 4.1 ed.
+Toronto ON: CADDRA; 2020.
+57. Bahagian Perkhidmatan Farmasi, Kementerian Kesihatan Malaysia. Formulari Ubat Kementerian
+Kesihatan Malaysia 2016. Petaling Jaya: KKM; 2016
+58. Medication Guide. Ritalin® (methylphenidate hydrochloride, USP) tablets CII. (Available at https://
+www.fda.gov/media/72922/download)
+59. Storebo OJ, Ramstad E, Krogh HB, et al. Methylphenidate for children and adolescents with
+attention deficit hyperactivity disorder (ADHD). Cochrane Database Syst Rev. 2015(11):Cd009885.
+60. Liu Q, Zhang H, Fang Q, et al. Comparative efficacy and safety of methylphenidate and atomoxetine
+for attention-deficit hyperactivity disorder in children and adolescents: Meta-analysis based on headto-head trials. J Clin Exp Neuropsychol. 2017;39(9):854-65.
+61. Hamilton R, Gray C, Belanger SA, et al. Cardiac risk assessment before the use of stimulant
+medications in children and youth: A joint position statement by the Canadian Paediatric Society, the
+Canadian Cardiovascular Society and the Canadian Academy of Child and Adolescent Psychiatry. J
+Can Acad Child Adolesc Psychiatry. 2009;18(4):349-55.
+62. Cortese S, Adamo N, Del Giovane C, et al. Comparative efficacy and tolerability of medications for
+attention-deficit hyperactivity disorder in children, adolescents, and adults: a systematic review and
+network meta-analysis. Lancet Psychiatry. 2018;5(9):727-38.
+63. Heilskov Rytter MJ, Andersen LB, Houmann T, et al. Diet in the treatment of ADHD in children - a
+systematic review of the literature. Nord J Psychiatry. 2015;69(1):1-18.
+64. Sarris J, Kean J, Schweitzer I, et al. Complementary medicines (herbal and nutritional products)
+in the treatment of Attention Deficit Hyperactivity Disorder (ADHD): a systematic review of the
+evidence. Complement Ther Med. 2011;19(4):216-27.
+65. Black N, Stockings E, Campbell G, et al. Cannabinoids for the treatment of mental disorders
+and symptoms of mental disorders: a systematic review and meta-analysis. Lancet Psychiatry.
+2019;6(12):995-1010.
+66. Vysniauske R, Verburgh L, Oosterlaan J, et al. The Effects of Physical Exercise on Functional
+Outcomes in the Treatment of ADHD: A Meta-Analysis. J Atten Disord. 2020;24(5):644-54.
+67. Treuer T, Chan KLP, Kim BN, et al. Lost in transition: A review of the unmet need of patients with
+attention deficit/hyperactivity disorder transitioning to adulthood. Asia Pac Psychiatry. 2017;9(2).
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+68. Kooij SJ, Bejerot S, Blackwell A, et al. European consensus statement on diagnosis and treatment
+of adult ADHD: The European Network Adult ADHD. BMC Psychiatry. 2010;10:67.
+69. Robb A, Findling RL. Challenges in the transition of care for adolescents with attention-deficit/
+hyperactivity disorder. Postgrad Med. 2013;125(4):131-40.
+70. Klein RG, Mannuzza S, Olazagasti MA, et al. Clinical and functional outcome of childhood attentiondeficit/hyperactivity disorder 33 years later. Arch Gen Psychiatry. 2012;69(12):1295-303.
+71. Sibley MH, Mitchell JT, Becker SP. Method of adult diagnosis influences estimated persistence of
+childhood ADHD: a systematic review of longitudinal studies. The lancet Psychiatry. 2016;3(12):1157-65.
+72. Caye A, Spadini AV, Karam RG, et al. Predictors of persistence of ADHD into adulthood: a systematic
+review of the literature and meta-analysis. Eur Child Adolesc Psychiatry. 2016;25(11):1151-9.
+73. Cumyn L, French L, Hechtman L. Comorbidity in adults with attention-deficit hyperactivity disorder.
+Can J Psychiatry. 2009;54(10):673-83.
+74. Erskine HE, Norman RE, Ferrari AJ, et al. Long-Term Outcomes of Attention-Deficit/Hyperactivity
+Disorder and Conduct Disorder: A Systematic Review and Meta-Analysis. J Am Acad Child Adolesc
+Psychiatry. 2016;55(10):841-50.
+75. Lee SS, Humphreys KL, Flory K, et al. Prospective association of childhood attention-deficit/
+hyperactivity disorder (ADHD) and substance use and abuse/dependence: a meta-analytic review.
+Clin Psychol Rev. 2011;31(3):328-41.
+76. Shaw M, Hodgkins P, Caci H, et al. A systematic review and analysis of long-term outcomes
+in attention deficit hyperactivity disorder: effects of treatment and non-treatment. BMC Med.
+2012;10:99.
+77. Halmoy A, Fasmer OB, Gillberg C, et al. Occupational outcome in adult ADHD: impact of symptom
+profile, comorbid psychiatric problems, and treatment: a cross-sectional study of 414 clinically
+diagnosed adult ADHD patients. J Atten Disord. 2009;13(2):175-87.
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+Appendix 1
+EXAMPLE OF SEARCH STRATEGY
+Clinical Question: What are the safe and effective pharmacological
+treatments for ADHD? - Stimulants
+1.
+ATTENTION DEFICIT DISORDER WITH HYPERACTIVITY/
+2.
+(attention deficit adj2 disorder*).tw.
+3.
+attention deficit disorder* with hyperactivity.tw.
+4.
+((attention deficit hyperactivity or attention deficit-hyperactivity)
+adj3 disorder*).tw.
+5.
+(hyperkinetic adj1 syndrome*).tw.
+6.
+adhd.tw.
+7.
+1 or 2 or 3 or 4 or 5 or 6
+8.
+CENTRAL NERVOUS SYSTEM STIMULANTS/
+9.
+(analeptic adj1 (agent* or drug*)).tw.
+10. analeptic*.tw.
+11. central nervous system stimulant*.tw.
+12. METHYLPHENIDATE/
+13. methylphenidate.tw.
+14. (methylphenidate adj1 hydrochloride).tw.
+15. ritalin.tw.
+16. ritalin sr.tw.
+17. ritalin-sr.tw.
+18. concerta.tw.
+19. ritalin LA.tw.
+20. adderall.tw.
+21. 8 or 9 or 10 or 11 or 12 or 13 or 14 or 15 or 16 or 17 or 18 or 19
+or 20
+22. 7 and 21
+23. limit 22 to (english language and humans and yr=”2008 -Current”
+and “all child (0 to 18 years)”)
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+Appendix 2
+CLINICAL QUESTIONS
+1. Risk Factors
+• What are the risk factors for ADHD?
+2. Diagnosis
+• What are the accurate screening instruments for ADHD?
+• What are the accurate diagnostic criteria and diagnostic
+instruments for ADHD?
+• What are the accurate supporting investigations for the diagnosis
+of ADHD?
+• What are the associated co-morbidities of ADHD?
+3. Treatment
+• What are the safe and effective non-pharmacological treatments
+for ADHD?
+ Psychoeducation
+ Behavioural therapy
+ Individual
+ Family-based
+ School-based
+ Assistive technology
+• What are the safe and effective pharmacological treatments for
+ADHD?
+ Stimulants
+ Non-stimulants
+ Others
+• What are the appropriate assessments for pre-pharmacological
+treatment in ADHD?
+• What are the safe and effective pharmacological treatments for
+pre-schoolers with ADHD?
+• What are the safe and effective traditional and complementary
+medication in ADHD?
+• What are the safe and effective dietary modification in ADHD?
+4. Special populations
+• What are the important issues to be addressed in ADHD in the
+following special population?
+ Transition to adulthood
+ Adults
+5. Referral
+• What are the referral criteria of children with ADHD to the
+following services:
+ Primary care
+ Secondary/tertiary care
+6. Monitoring and follow-up
+• What are the effective follow-up and monitoring practices in ADHD?
+• What is the safety and effectiveness of drug holiday in ADHD?
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+Appendix 3
+DIAGNOSTIC AND STATISTICAL MANUAL OF MENTAL
+DISORDER FIFTH EDITION (DSM-5)
+Attention-Deficit/Hyperactivity Disorder
+Diagnostic Criteria
+A. A persistent pattern of inattention and/or hyperactivity-impulsivity
+that interferes with functioning or development, as characterised by
+(1) and/or (2):
+1. Inattention: Six (or more) of the following symptoms have
+persisted for at least 6 months to a degree that is inconsistent
+with developmental level and that negatively impacts directly on
+social and academic/occupational activities:
+Note: The symptoms are not solely a manifestation of
+oppositional behavior, defiance, hostility, or failure to understand
+tasks or instructions. For older adolescents and adults (age 17
+and older), at least five symptoms are required.
+a. Often fails to give close attention to details or makes careless
+mistakes in schoolwork, at work, or during other activities
+(e.g., overlooks or misses details, work is inaccurate).
+b. Often has difficulty sustaining attention in tasks or play
+activities (e.g., has difficulty remaining focused during
+lectures, conversations, or lengthy reading).
+c. Often does not seem to listen when spoken to directly (e.g.,
+mind seems elsewhere, even in the absence of any obvious
+distraction).
+d. Often does not follow through on instructions and fails
+to finish schoolwork, chores, or duties in the workplace
+(e.g., starts tasks but quickly loses focus and is easily side
+tracked).
+e. Often has difficulty organising tasks and activities (e.g.,
+difficulty managing sequential tasks; difficulty keeping
+materials and belongings in order; messy, disorganised
+work; has poor time management; fails to meet deadlines).
+f.
+Often avoids, dislikes, or is reluctant to engage in tasks
+that require sustained mental effort (e.g., schoolwork or
+homework; for older adolescents and adults, preparing
+reports, completing forms, reviewing lengthy papers).
+g. Often loses things necessary for tasks or activities (e.g.,
+school materials, pencils, books, tools, wallets, keys,
+paperwork, eyeglasses, mobile telephones).
+h. Is often easily distracted by extraneous stimuli (for older
+adolescents and adults, may include unrelated thoughts).
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+i.
+Is often forgetful in daily activities (e.g., doing chores,
+running errands; for older adolescents and adults, returning
+calls, paying bills, keeping appointments).
+2. Hyperactivity and impulsivity: Six (or more) of the following
+symptoms have persisted for at least 6 months to a degree that
+is inconsistent with developmental level and that negatively
+impacts directly on social and academic/occupational activities:
+Note: The symptoms are not solely a manifestation of
+oppositional behavior, defiance, hostility, or a failure to
+understand tasks or instructions. For older adolescents and
+adults (age 17 and older), at least five symptoms are required.
+a. Often fidgets with or taps hands or feet or squirms in seat.
+b. Often leaves seat in situations when remaining seated is
+expected (e.g., leaves his or her place in the classroom,
+in the office or other workplace, or in other situations that
+require remaining in place).
+c. Often runs about or climbs in situations where it is
+inappropriate. (Note: In adolescents or adults, may be
+limited to feeling restless.)
+d. Often unable to play or engage in leisure activities quietly.
+e. Is often “on the go,” acting as if “driven by a motor” (e.g., is
+unable to be or uncomfortable being still for extended time,
+as in restaurants, meetings; may be experienced by others
+as being restless or difficult to keep up with).
+f.
+Often talks excessively.
+g. Often blurts out an answer before a question has been
+completed (e.g., completes people’s sentences; cannot
+wait for turn in conversation).
+h. Often has difficulty waiting his or her turn (e.g., while waiting
+in line).
+i.
+Often interrupts or intrudes on others (e.g., butts into
+conversations, games, or activities; may start using other
+people’s things without asking or receiving permission; for
+adolescents and adults, may intrude into or take over what
+others are doing).
+B. Several inattentive or hyperactive-impulsive symptoms were
+present prior to age 12 years.
+C. Several inattentive or hyperactive-impulsive symptoms are present
+in two or more settings (e.g., at home, school, or work; with friends
+or relatives; in other activities).
+D. There is clear evidence that the symptoms interfere with, or reduce
+the quality of, social, academic, or occupational functioning.
+E. The symptoms do not occur exclusively during the course of
+schizophrenia or another psychotic disorder and are not better
+explained by another mental disorder (e.g., mood disorder, anxiety
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+disorder, dissociative disorder, personality disorder, substance
+intoxication or withdrawal).
+Specify whether:
+314.01 (F90.2) Combined presentation: If both Criterion A1
+(inattention) and Criterion A2 (hyperactivity-impulsivity) are met for
+the past 6 months.
+314.00 (F90.0) Predominantly inattentive presentation: If
+Criterion A1 (inattention) is met but Criterion A2 (hyperactivityimpulsivity) is not met for the past 6 months.
+314.01
+(F90.1)
+Predominantly
+hyperactive/impulsive
+presentation: If Criterion A2 (hyperactivity-impulsivity) is met and
+Criterion A1 (inattention) is not met for the past 6 months.
+Specify if:
+in partial remission: When full criteria were previously met,
+fewer than the full criteria have been met for the past 6 months,
+and the symptoms still result in impairment in social, academic, or
+occupational functioning.
+Specify current severity:
+Mild: Few, if any, symptoms in excess of those required to make
+the diagnosis are present, and symptoms result in no more than
+minor impairments in social or occupational functioning.
+Moderate: Symptoms or functional impairment between “mild” and
+“severe” are present.
+Severe: Many symptoms in excess of those required to make the
+diagnosis, or several symptoms that are particularly severe, are
+present, or the symptoms result in marked impairment in social or
+occupational functioning.
+Source: American Psychiatric Association. Diagnostic and Statistical Manual of
+Mental Disorders: DSM-5. Arlington, VA: American Psychiatric Association,
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+Appendix 4
+INTERNATIONAL STATISTICAL CLASSIFICATION OF DISEASES
+AND RELATED HEALTH PROBLEMS, 10TH REVISION (ICD-10)
+F90 Hyperkinetic disorders
+A group of disorders characterized by an early onset (usually in the
+first five years of life), lack of persistence in activities that require
+cognitive involvement, and a tendency to move from one activity to
+another without completing any one, together with disorganized, illregulated, and excessive activity. Several other abnormalities may be
+associated. Hyperkinetic children are often reckless and impulsive,
+prone to accidents, and find themselves in disciplinary trouble because
+of unthinking breaches of rules rather than deliberate defiance. Their
+relationships with adults are often socially disinhibited, with a lack of
+normal caution and reserve. They are unpopular with other children
+and may become isolated. Impairment of cognitive functions is
+common, and specific delays in motor and language development are
+disproportionately frequent. Secondary complications include dissocial
+behaviour and low self-esteem.
+Excl.: anxiety disorders (F41.-)
+mood [affective] disorders (F30-F39)
+pervasive developmental disorders (F84.-)
+schizophrenia (F20.-)
+F90.0 Disturbance of activity and attention
+Attention deficit:
+• disorder with hyperactivity
+• hyperactivity disorder
+• syndrome with hyperactivity
+Excl.: hyperkinetic disorder associated with conduct disorder (F90.1)
+F90.1 Hyperkinetic conduct disorder
+Hyperkinetic disorder associated with conduct disorder
+F90.8 Other hyperkinetic disorders
+F90.9 Hyperkinetic disorder, unspecified
+Hyperkinetic reaction of childhood or adolescence NOS
+Hyperkinetic syndrome NOS
+Source: World Health Organisation. ICD-10 Classifications of Mental and Behavioural
+Disorder: Clinical Descriptions and Diagnostic Guidelines. Geneva. 2016.
+(Available at: https://icd.who.int/browse10/2016/en#/F90.0)
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+Appendix 5
+ADVICE FOR BEHAVIOURAL MANAGEMENT
+General advice for parents
+1. Remain calm and in control.
+2. Schedule one on one time, at least 10 to 15 minutes every day with
+your child to let him/her know how important he or she is to you.
+3. Individuals with ADHD benefit from frequent feedback. Notice your
+child’s strength and praise him/her regularly.
+4. Model the behaviour you would like to see from your child.
+5. Use schedules and routines.
+6. Post lists and reminders for the routines in places they will be seen.
+7. Discuss the behavioural goals with your child.
+8. Discuss the behavioural target(s), expectation and feedback with
+your child’s other caregivers so he/she gets a consistent message.
+9. Target one to two behaviours that you want to change at one time.
+10. Give directions one at a time and track your child’s response.
+11. Use desired activities (screen time/play) as privileges/rewards for
+success on behavioural targets.
+12. Ensure regular mealtimes and good rest for your child and yourself.
+Younger Children
+1. Routines are very important. Balance higher energy and quieter
+activities throughout the day.
+2. Use visual prompts in the order of routines you would like him/her
+to learn (e.g. steps to get ready for bed).
+3. Choose your battles - ignore minor misbehaviours.
+4. Give choices but limit the number.
+5. Use and reinforce “rules” (e.g. keeping hands to self) immediately
+before venturing into a community setting.
+6. Prepare your child before an outing (e.g. crowded areas, in the car)
+School-age child at home
+1. Include homework/study time as a part of the family routine in a
+venue free from distraction.
+2. Check your child’s school schedule every day and help him/her
+organise the homework into doable portions.
+3. Help your child use a system (e.g. labelled folders for each subject)
+to get the homework back to school.
+4. Plan brief breaks between the homework portions.
+5. Use the activities your child enjoys as incentives for getting work
+done (homework and chores).
+6. Consider getting one to one help for your child’s schoolwork.
+7. Help the child to be mindful of his/her deadlines.
+8. Communicate with your child’s teacher about homework, grades,
+and behaviour.
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+9. If your child is still struggling at school, consider working with the
+school and special education unit for inclusive assistance in the
+mainstream or in an integrated special education setting.
+10. Invite peers one at a time to reduce stimulation and encourage
+appropriate social behaviours.
+Adapted: Ministry of Health Malaysia (MoH). Management of Attention Deficit
+Hyperactivity Disorder in Children and Adolescents. Kuala Lumpur: MoH;
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+Appendix 6
+SCHOOL-BASED INTERVENTION
+The following are suggestions for implementation of school-based
+intervention programme.
+• Have consistent rules and expectations with predictable classroom
+settings e.g. use visual schedules in class.
+• Allow regular breaks and incorporate movement during the breaks.
+• Place the child near the teacher and away from distractions (e.g.
+windows and doors).
+• Give short and simple instructions.
+• Periodically check to see if the child stays focused.
+• Teach the child time management and study skills (e.g. using timers).
+• Reduce the need for the children to copy assignments from the board.
+Instead use handouts and worksheets.
+• Establish a daily communication method between school and home
+regarding targeted behaviours and learning tasks (e.g. homework).
+• Praise and reward performance and good behaviour (e.g. use reward
+chart).
+• Refrain from using verbal or physical punishments.
+• Consider allowing computers or other digital devices to help the child in
+the learning process.
+• Establish “buddy system” in class to help the child adjust with
+schoolwork and socialisation.
+• Work with school and education department for special measures that
+children with ADHD are eligible during tests and examination (e.g. extra
+time, separate exam room, reminder from invigilator to stay on task,
+etc).
+Adapted: Ministry of Health Malaysia (MoH). Management of Attention Deficit
+Hyperactivity Disorder in Children and Adolescents. Kuala Lumpur: MoH;
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+Appendix 7
+PHARMACOLOGICAL TREATMENT OF ADHD
+Methylphenidate
+HCL 10 mg
+Immediate-release
+(IR) tablet
+Children over six
+years and
+adolescents:
+Initial 5 mg
+1 - 2 times daily
+Increase by 5 - 10 mg
+daily at weekly intervals
+3 - 5 hours
+Headache, insomnia,
+irritability, decreased
+appetite, xerostomia,
+nausea, increased
+heart rate
+It is advisable to have a meal
+before taking the medication if
+patient develops loss of appetite
+as a side effect
+Avoid dosing late in the day
+because of risk of insomnia
+Conversion from IR to LA:
+Use equivalent total daily dose
+administered once daily
+Refer to product insert for porcine/
+bovine origin of gelatine capsule
+Total daily dose
+60 mg/day
+(in 2 to 3 divided doses),
+not to exceed
+2 mg/kg/day
+Methylphenidate
+HCL 18 mg, 27 mg*,
+36 mg Extendedrelease (ER) tablet
+Children over six
+years and
+adolescents:
+18 mg once daily
+Increase by 18 mg at
+weekly intervals
+Administer in the morning
+with or without food
+8 - 12 hours
+Conversion from IR to ER:
+• IR 5 mg 2 to 3 times daily: ER 18
+mg once every morning
+• IR 10 mg 2 to 3 times daily: ER 36
+mg once every morning
+• IR 15 mg 2 to 3 times daily: ER 54
+mg once every morning
+• IR 20 mg 2 to 3 times daily: ER 72
+mg once every morning
+Total 72 mg once daily
+Methylphenidate
+HCI 20 mg, 30 mg*,
+40 mg Long-acting
+(LA) capsule
+Children over six
+years and
+adolescents:
+20 mg once daily
+May increase 10 mg daily
+at weekly intervals
+Administer in the morning
+with or without food
+For patients with
+swallowing difficulties,
+contents may be
+sprinkled on soft food
+6 - 8 hours
+Total 60 mg/day
+Drug
+Minimum Dose Maximum Dose
+Titration and Timing
+Duration of
+Action
+Common Adverse
+Effects
+Comments
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+*not listed in MoH Medicines Formulary
+Source:
+1. Ministry of Health Medicines Formulary (Updated April 2019)(Available at https://www.pharmacy.gov.my/v2/sites/default/files/document-upload/fukkmbil.1.2019.pdf)
+2. Wolters Kluwer Clinical Drug Information, Inc. UpToDate® [Mobile application software]
+3. American Pharmacists Association. Drug Information Handbook with International Trade Names Index, 24th Edition. Lexi-Comp’s Inc. Houston, 2015
+Atomoxetine HCl
+10 mg, 18 mg,
+25 mg, 40 mg,
+60 mg capsule
+Children over six
+years and
+adolescents:
+≤70 kg: Initial
+dose 0.5 mg/kg/
+day once daily
+Increase after minimum
+of three days to
+1.2 mg/kg/day
+May administer as either
+a single daily dose or two
+evenly divided doses in
+the morning and late
+afternoon/early
+evening
+Up to 24 hours
+Headache, insomnia,
+drowsiness,
+hyperhidrosis,
+xerostomia, nausea,
+decreased appetite,
+abdominal pain,
+vomiting, constipation
+In adolescents:
+erectile dysfunction,
+ejaculatory
+dysfunction,
+dysmenorrhoea
+Renal impairment:
+No dosage adjustment necessary
+Hepatic impairment:
+Mild: No dosage adjustment
+Moderate: Reduce to 50%
+of normal dose
+Severe: Reduce to 25% of
+normal dose
+1.4 mg/kg/day
+or 100 mg,
+whichever is less
+Children over six
+years and
+Adolescents:
+>70 kg: Initial
+dose 40 mg once
+daily
+Increase after minimum
+of three days to 80 mg/day
+May administer as either
+a single daily dose or two
+evenly divided doses in
+the morning and late
+afternoon/early
+evening
+May increase to
+100 mg/day in 2 - 4
+additional weeks to achieve
+optimal response
+Take with or without food
+Swallow capsules whole
+Do not open capsules
+100 mg/day
+Drug
+Minimum Dose Maximum Dose
+Titration and Timing
+Duration of
+Action
+Common Adverse
+Effects
+Comments
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+Appendix 8
+MANAGEMENT OF COMMON ADVERSE EFFECTS ASSOCIATED
+WITH STIMULANT USE IN ADHD
+Adapted:National Institute for Health and Clinical Excellence. Attention Deficit
+Hyperactivity Disorder: Diagnosis and Management (NG87). London, NICE,
+2018
+• Ask about appetite regularly
+• Children ≤10 years old: measure weight every three months
+after starting treatment
+• Children >10 years old: measure weight at three and six
+months after starting treatment and, every six months
+thereafter or more often if concerns arise
+• Advise taking medication either with or after food, rather than
+before meals
+• Take additional meals early in the morning or late in the evening
+after medications effects have worn off
+• Take a planned break from treatment (drug holiday)
+• Change medication
+• Measure height every six months in children and adolescents
+• Consider drug holiday
+• Monitor the behaviour response to medication
+• If behaviour worsens, adjust medication and review diagnosis
+• Review ADHD medication and stop any medication that might
+be contributing to the seizures
+• After investigation and if ADHD medication is unlikely to cause
+the seizures, may cautiously reintroduce the medication or
+consider non-stimulant medications
+• Consider if the tics are related to the stimulant (tics naturally
+wax and wane)
+• Observe and if it worsens may consider non-stimulant
+medications
+• Monitor changes in sleep pattern (e.g. with a sleep diary)
+• Adjust medication accordingly
+• Monitor heart rate and blood pressure and, compare with the
+normal range for age before and after each dose change and
+every six months
+• ECG is not indicated unless there is clinical indication
+• If there is persistent tachycardia, reduce the dose and may
+refer to paediatrician or physician
+ADVERSE EFFECTS
+MONITORING AND ADVICE
+Decrease appetite and
+weight loss
+Linear growth impairment
+Insomnia
+Palpitation
+(tachycardia)
+Tics
+Seizures
+Worsening behaviour
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+LIST OF ABBREVIATIONS
+ADHD
+attention-deficit/hyperactivity disorder
+ADHD-C
+ADHD, combined type
+ADHD-I
+ADHD, inattentive type
+ADHD-RS
+ADHD Rating Scale
+ADL
+activities of daily living
+ASD
+autism spectrum disorder
+ASQ
+Abbreviated Symptom Questionnaire
+ATX
+atomoxetine
+CBCL
+Child Behaviour Checklist
+CBCL-AP
+Child Behaviour Checklist - Attention Problem
+CBT
+cognitive behavioural therapy
+CD
+conduct disorder
+CI
+confidence interval
+CPG
+clinical practice guidelines
+CQ(s)
+clinical question(s)
+CRS-R
+Conners Rating Scale - Revised
+DSM-5
+Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition
+DSM-IV
+Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition
+ECG
+electrocardiogram
+EEG
+electroencephalogram
+e.g.
+example
+ER
+extended release
+FFD
+few foods diet
+FMS
+Family Medicine Specialist
+HCl
+hydrochloride
+HDP
+hypertensive disorder in pregnancy
+HR
+hazard ratio
+ICD-10
+10th Revision of the International Statistical Classification of
+Diseases and Related Health Problem
+IEP
+Individualised Education Programme
+IQ
+intelligence quotient
+IR
+immediate release
+kg
+kilogramme
+LA
+long-acting
+MBI
+mindfulness-based intervention
+MDD
+major depressive disorder
+mg
+miligramme
+MPH
+methylphenidate
+MRI
+magnetic resonance imaging
+NF
+neurofeedback
+NICE
+National Institute for Health and Care Excellence
+NOS
+not otherwise specified
+ODD
+oppositional defiance disorder
+OR
+odds ratio
+p
+p-value
+RCT(s)
+randomised controlled trial(s)
+RR
+risk ratio
+SDQ
+Strengths and Difficulties Questionnaire
+SMD
+standardised mean difference
+TBI
+traumatic brain injury
+Management of Attention-Deﬁcit/Hyperactivity Disorder in Children & Adolescents (Second Edition)
+ACKNOWLEDGEMENT
+The DG members of these guidelines would like to express their
+gratitude and appreciation to the following for their contributions:
+• Panel of external reviewers who reviewed the draft
+• Technical Advisory Committee of CPG for their valuable input and
+feedback
+• Health Technology Assessment and Clinical Practice Guidelines
+Council for approving the CPG
+• Dr. Toh Chin Lee, Senior Consultant Child and Adolescent
+Psychiatrist on the development of the CPG
+• Dr. Junainah Sabirin, Consultant Public Health Physician on the
+development of the CPG
+• Ms. Zamilah Mat Jusoh@Yusof on retrieval of evidence
+• All those who have contributed directly or indirectly to the
+development of the CPG
+DISCLOSURE STATEMENT
+The panel members of both DG and RC had completed disclosure
+forms. None held shares in pharmaceutical firms or acts as consultants
+to such firms. Details are available upon request from the CPG
+Secretariat.
+SOURCE OF FUNDING
+The development of the CPG on Management of Attention-Deficit/
+Hyperactivity Disorder in Children and Adolescents (Second Edition)
+was supported financially in its entirety by the MoH Malaysia.
+MALAYSIAN HEALTH TECHNOLOGY
+ASSESSMENT SECTION
+Medical Development Division
+Ministry of Health Malaysia
+Level 4, Block E1, Precinct 1
+62590 Putrajaya, Malaysia

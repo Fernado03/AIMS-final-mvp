@@ -1,0 +1,4879 @@
+CLINICAIAPRACTICE
+SGUIDELINES
+Ma\aGement
+of Haemophilia
+Management of Haemophilia
+Published by:
+Malaysian Health Technology Assessment Section (MaHTAS)
+Medical Development Division, Ministry of Health Malaysia
+Level 4, Block E1, Precinct 1
+Federal Government Administrative Centre 62590
+Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is MaHTAS. Content may be
+reproduced in any number of copies and in any format or medium
+provided that a copyright acknowledgement to MaHTAS is included and
+the content is not changed, not sold, nor used to promote or endorse
+any product or service, and not used in an inappropriate or misleading
+context.
+ISBN: 978-967-2173-64-9
+Available on the following websites:
+http://www.moh.gov.my
+http://www.acadmed.org.my
+http://maspho.org
+http://haematology.org.my
+Also available as an app for Android and IOS platform: MyMaHTAS
+STATEMENT OF INTENT
+These clinical practice guidelines (CPG) are meant to be guides for
+clinical practice, based on the best available evidence at the time of
+development. Adherence to these guidelines may not necessarily
+guarantee the best outcome in every case. Every healthcare provider is
+responsible for the management of his/her unique patient based on the
+clinical picture presented by the patient and the management options
+available locally.
+Management of Haemophilia
+UPDATING THE CPG
+These guidelines were issued in 2018 and will be reviewed in a
+minimum period of four years (2022) or sooner if new evidence becomes
+available. When it is due for updating, the Chairman of the CPG or
+National Advisor of the related specialty will be informed about it. A
+discussion will be done on the need for a revision including the scope of
+the revised CPG. A multidisciplinary team will be formed and the latest
+systematic review methodology used by MaHTAS will be employed.
+Every care is taken to ensure that this publication is correct in every
+detail at the time of publication. However, in the event of errors or
+omissions, corrections will be published in the web version of this
+document, which is the definitive version at all times. This version can
+be found on the websites mentioned above.
+Management of Haemophilia
+TABLE OF CONTENTS
+No.
+Title
+Page
+Levels of Evidence and Formulation of Recommendation
+i
+Key Recommendations
+ii
+Guidelines Development and Objectives
+iv
+Development Group
+vii
+Review Committee
+viii
+External Reviewers
+ix
+Algorithm 1: Haemophilia Genetic Inheritance (X-linked)
+x
+Algorithm 2: Genetic Testing for Haemophilia Patient
+xi
+and Carrier Screening
+Algorithm 3: Physiotherapy Management
+xii
+1.
+INTRODUCTION
+1
+2.
+CLINICAL PRESENTATION
+2
+3.
+INVESTIGATIONS
+4
+3.1 Laboratory Tests
+4
+3.2 Genetic Tests
+5
+4.
+GENERAL PRINCIPLES OF CARE
+7
+4.1 Stratification of Haemophilia Centre with regards to
+7
+Haemophilia Services
+4.2 National Haemophilia Registry
+8
+5.
+TREATMENT
+10
+5.1 Pharmacological Treatment
+10
+5.1.1 Factor Replacement Therapy
+10
+5.1.2 Adjunct Therapies
+14
+5.1.3 Analgesia
+16
+5.2 Non-pharmacological Treatment
+18
+5.2.1 Rehabilitation of Musculoskeletal System
+18
+5.2.2 Protection, Rest, Ice, Compression and Elevation 20
+5.2.3 Joint Protection
+21
+5.2.4 Sports/physical Activity
+21
+5.2.5 Post-operative Care
+21
+5.2.6 Weight Management
+22
+6.
+TREATMENT FOR ACUTE BLEEDING IN SPECIFIC SITES 23
+6.1 Central Nervous System
+23
+6.2 Joints
+23
+6.3 Musculoskeletal
+24
+6.4 Ear, Nose, Throat and Eye
+27
+6.5 Gastrointestinal Tract
+Management of Haemophilia
+TABLE OF CONTENTS
+No.
+Title
+Page
+6.6 Genitourinary Tract
+27
+6.7 Oral Cavity
+28
+7.
+TREATMENT OF MUSCULOSKELETAL COMPLICATIONS 30
+7.1 Synovitis
+30
+7.2 Joint Arthropathy
+31
+7.3 Pseudotumour
+31
+8.
+INHIBITORS
+33
+8.1 Treatment of Acute Bleeding
+34
+8.2 Prophylaxis Therapy
+34
+8.3 Eradication of Inhibitors
+35
+9.
+HOME THERAPY
+37
+10. ADHERENCE IN HAEMOPHILIA TREATMENT
+39
+11. SPECIAL SITUATIONS
+41
+11.1 Surgeries and Invasive Procedures
+41
+11.2 Management of Pregnant Carrier
+42
+11.3 Vaccination
+43
+11.4 Circumcision
+43
+12. DENTAL CARE
+44
+12.1 Preventive Dental Measures
+44
+12.2 Dental Procedures
+44
+12.3 Management of Oral Bleeding
+46
+13. MONITORING
+48
+13.1 Inhibitors
+48
+13.2 Bleeding Frequency
+48
+13.3 Joint Health
+49
+13.4 Radiological Measures
+49
+14. IMPLEMENTING THE GUIDELINES
+50
+14.1 Facilitating and Limiting Factors
+51
+14.2 Potential Resource Implications
+51
+REFERENCES
+53
+Appendix 1 Example of Search Strategy
+59
+Appendix 2 Clinical Questions
+60
+Appendix 3 Guidelines on Sample Collection and
+62
+Transportation
+Management of Haemophilia
+Appendix 4 Recommended Sports/Physical Activities in
+63
+Haemophilia
+Appendix 5 Development of Abnormal Posture
+65
+Following Bleeds
+Appendix 6 Face, Legs, Activity, Cry,
+66
+Consolability (FLACC) Scale, Visual Analog
+Scale and Numeric Rating Scale
+Appendix 7 Analgesic Medication Table
+67
+Suggested Dose Conversion Ratio
+Appendix 8 Haemophilia Joint Health Score
+72
+Appendix 9 Petterson Score
+78
+List of Abbreviations
+79
+Acknowledgement
+81
+Disclosure Statement
+81
+Source of Funding
+81
+TABLE OF CONTENTS
+No.
+Title
+Page
+Management of Haemophilia
+i
+LEVELS OF EVIDENCE
+SOURCE: US / CANADIAN PREVENTIVE SERVICES TASK FORCE 2001
+FORMULATION OF RECOMMENDATION
+In line with new development in CPG methodology, the CPG Unit of
+MaHTAS is adapting Grading Recommendations, Assessment,
+Development and Evaluation (GRADE) in its work process. The
+quality of each retrieved evidence and its effect size are carefully
+assessed/reviewed by the CPG Development Group. In formulating
+the recommendations, overall balances of the following aspects are
+considered in determining the strength of the recommendations:-
+• overall quality of evidence
+• balance of benefits versus harms
+• values and preferences
+• resource implications
+• equity, feasibility and acceptability
+Level
+I
+II-1
+II-2
+II-3
+III
+Study design
+Evidence from at least one properly randomised controlled trial
+Evidence obtained from well-designed controlled trials without
+randomisation
+Evidence obtained from well-designed cohort or case-control
+analytic studies, preferably from more than one centre or
+group
+Evidence from multiple time series with or without intervention;
+dramatic results in uncontrolled experiments (such as the
+results of the introduction of penicillin treatment in the 1940s)
+could also be regarded as this type of evidence
+Opinions of respected authorities based on clinical experience;
+descriptive studies and case reports; or reports of expert
+committees
+Management of Haemophilia
+ii
+KEY RECOMMENDATIONS
+The following recommendations are highlighted by the CPG
+Development Group (DG) as the key recommendations that answer
+the main questions addressed in the CPG and should be prioritised for
+implementation.
+Investigations
+• Factor VIII or factor IX assay should be performed in persons
+suspected of haemophilia with prolonged Activated Partial
+Thromboplastin Time and normal Prothrombin Time.
+• Mixing test should be done to screen for factor inhibitor in haemophilia.
+ If it is not corrected, Bethesda or Nijmegen assay should be done
+to determine the factor inhibitor level.
+• Mutation analysis for haemophilia should be performed on affected
+male and his mother.
+• Cascade screening for haemophilia should be offered to at least first-
+and second-degree female relatives if the mother of persons with
+haemophilia is a confirmed carrier.
+Pharmacological Treatment
+• Prophylactic factor infusion should be given to ALL persons with
+severe haemophilia.
+• Analgesia should be offered for pain relief according to its severity in
+haemophilia.
+Non-pharmacological Treatment
+• Rehabilitation should be offered in PWH during acute or sub-acute
+bleeds and those with chronic arthropathy.
+• Protection, Rest, Ice therapy, Compression, Elevation (PRICE)
+should be commenced as a first aid measure in acute and sub-acute
+bleed in persons with haemophilia.
+Inhibitors
+• Bypassing agents should be used to treat acute bleeding in
+haemophilia with inhibitors.
+• Immune tolerance induction should be considered in all persons with
+haemophilia with inhibitor.
+Management of Haemophilia
+Home therapy
+• Home therapy should be advocated to all persons with haemophilia.
+Special Situations
+• All injectable vaccinations in haemophilia should be given
+subcutaneously.
+Dental Care
+• In persons with haemophilia,
+ comprehensive oral health care should be initiated early within six
+months after the first tooth erupts and no later than 12 months
+ routine dental examination with preventive care measures should
+be conducted regularly throughout life
+ good oral hygiene and dietary counselling should be advocated to
+prevent dental diseases
+• Comprehensive oral health care in haemophilia should be performed
+by a multidisciplinary team which include a dental surgeon.
+Monitoring
+• Monitoring of care in persons with haemophilia should include:
+ Annual Bleeding Rate
+ inhibitor screening
+ Annual Haemophilia Joint Health Score
+ ultrasound of knee, ankle and elbow when feasible
+Management of Haemophilia
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+GUIDELINES DEVELOPMENT
+The members of the DG for this CPG were from the Ministry of Health
+(MoH). There was active involvement of a multidisciplinary Review
+Committee (RC) during the process of the CPG development.
+A literature search was carried out using the following electronic
+databases: mainly Medline via Ovid and Cochrane Database of
+Systemic Reviews and others e.g. Pubmed and Guidelines International
+Network (refer to Appendix 1 for Example of Search Strategy). The
+search was limited to humans and English. In addition, the reference
+lists of all retrieved literature and guidelines were searched further to
+look for relevant studies. Experts in the field were also contacted to
+identify relevant studies. All searches were conducted from 6 March
+2016 to 15 August 2018. Literature searches were repeated for all
+clinical questions at the end of the CPG development process allowing
+any relevant papers published before 31 July 2018 to be included.
+Future CPG updates will consider evidence published after this cut-off
+date. The details of the search strategy can be obtained upon request
+from the CPG Secretariat.
+References were made to other CPGs on haemophilia e.g.
+• Guidelines for the Management of Haemophilia (World Federation
+of Haemophilia, 2012)
+• Guidelines for the Management of Haemophilia in Australia
+(Australian Haemophilia Centre Directors’ Organisation, 2016)
+The CPGs were evaluated using the Appraisal of Guidelines for
+Research and Evaluation (AGREE) II prior to being used as references.
+A total of 17 main clinical questions were developed under three
+different sections (screening, treatment and monitoring). Members of
+the DG were assigned individual questions within these sections (refer
+to Appendix 2 for Clinical Questions). The DG members met 26 times
+throughout the development of these guidelines. All literature retrieved
+were appraised by at least two DG members using Critical Appraisal
+Skill Programme checklist, presented in evidence tables and further
+discussed in their meetings. All statements and recommendations
+formulated subsequently were agreed upon by both the DG and RC.
+Where evidence was insufficient, the recommendations were made
+by consensus of the DG and RC. This CPG is based largely on the
+findings of systematic reviews, meta-analyses and clinical trials, with
+local practices taken into consideration.
+The literature used in these guidelines were graded using the US/
+Canadian Preventive Services Task Force Level of Evidence (2001),
+Management of Haemophilia
+while the grading of recommendation was done using the principles of
+GRADE (refer to the preceding page). The writing of the CPG follows
+strictly the requirement of AGREE II.
+Upon completion, the draft of the CPG was reviewed by external
+reviewers. It was also posted on the MoH Malaysia official website for
+feedback from any interested parties. The draft was finally presented
+to the Technical Advisory Committee for CPG, and the HTA and CPG
+Council MoH Malaysia for review and approval. Details on the CPG
+development methodology by MaHTAS can be obtained from Manual
+on Development and Implementation of Evidence-based Clinical
+Practice Guidelines published in 2015 (available at http://www.moh.
+gov.my/penerbitan/mymahtas/CPG_MANUAL_MAHTAS.pdf).
+Management of Haemophilia
+OBJECTIVES
+The objectives of the CPG are to provide evidence-based recommendations
+on the management of haemophilia in the following aspects:
+a) diagnosis
+b) treatment
+c) monitoring
+CLINICAL QUESTIONS
+Refer to Appendix 2.
+TARGET POPULATION
+Inclusion Criteria
+• All patients with congenital haemophilia A and B
+Exclusion Criteria
+• Patients with:
+a. Acquired haemophilia
+b. Other congenital bleeding disorders
+TARGET GROUP/USERS
+This document is intended to guide health professionals and relevant
+stakeholders in primary and secondary/tertiary care in the management of
+haemophilia including:
+i. doctors
+ii. allied health professionals
+iii. trainees and medical students
+iv. policy makers
+v. patients and their advocates
+vi. professional societies
+HEALTHCARE SETTINGS
+Primary, secondary and tertiary care settings
+Management of Haemophilia
+DEVELOPMENT GROUP
+Chairperson
+Dr. Zulaiha Muda
+Consultant Paediatric Haemato-oncologist
+Women & Children Hospital, Kuala Lumpur
+Members (in alphabetical order)
+vii
+Dr. Aisyah Muhammad Rivai
+Consultant Paediatric
+Haemato-oncologist
+Hospital Raja Permaisuri Bainun, Perak
+Dr. Azman Othman
+Family Medicine Specialist
+Klinik Kesihatan Tengkera, Melaka
+Dr. Cheah Yee Keat
+Consultant Paediatrician
+Hospital Tuanku Jaa’far,
+Negeri Sembilan
+Dr. Che Hadibiah Che Mohd Razali
+Consultant Paediatric
+Haemato-oncologist
+Hospital Sultan Ismail, Johor
+Dato’ Dr. Goh Ai Sim
+Senior Consultant Haematologist
+Hospital Pulau Pinang, Pulau Pinang
+Dr. Kamalia Kamarulzaman
+Nuclear Medicine Physician
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Lim Soo Min
+Consultant Haematologist
+Hospital Sultanah Aminah, Johor
+Dr. Mohd Aminuddin Mohd Yusof
+Head of CPG Unit &
+Public Health Physician
+MaHTAS, MoH, Putrajaya
+Mr. Mohd Helmi Hashim
+Physiotherapist
+Hospital Ampang, Selangor
+Dr. Nazzlin Dizana Din
+Paediatric Haemato-oncologist
+Hospital Sultanah Nur Zahirah,
+Terengganu
+Dr. Nor’Ashikin Johari
+Consultant Paediatric Orthopaedic Surgeon
+Women & Children Hospital,
+Kuala Lumpur
+Ms. Norhafizah Ayob
+Physiotherapist
+Women & Children Hospital,
+Kuala Lumpur
+Dr. Norjehan Yahaya
+Specialist in Special Needs Dentistry
+Hospital Kuala Lumpur,
+Kuala Lumpur
+Dr. Ong Gek Bee
+Consultant Paediatric
+Haemato-oncologist
+Hospital Umum Sarawak,
+Sarawak
+Dr. Raja Zarina Raja Shahardin
+Consultant in Paediatric Dentistry
+Women & Children Hospital,
+Kuala Lumpur
+Ms. Siti Mariam Mohtar
+Senior Assistant Director
+MaHTAS, MoH, Putrajaya
+Ms. Subasyini a/p Sivasupramaniam
+Pharmacist
+Women & Children Hospital,
+Kuala Lumpur
+Dr. Wan Hayati Mohd Yaakob
+Pathologist (Haematology)
+Hospital Tuanku Ampuan Rahimah,
+Selangor
+Management of Haemophilia
+Ms. Wong Shu Ping
+Pharmacist
+Hospital Ampang, Selangor
+Dr. Yeoh Seoh Leng
+Consultant Paediatric
+Haemato-oncologist
+Hospital Pulau Pinang, Pulau Pinang
+Dr. Yuslina Mat Yusoff
+Pathologist (Haematology)
+Institut Penyelidikan Perubatan,
+Kuala Lumpur
+Management of Haemophilia
+viii
+REVIEW COMMITTEE
+The draft guidelines were reviewed by a panel of experts. They were
+asked to comment primarily on the comprehensiveness and accuracy
+of the interpretation of evidence supporting the recommendations in the
+guidelines.
+Chairperson
+Dr. Hishamshah Mohd Ibrahim
+Senior Consultant Paediatric Haematolo-oncologist
+Head of Department
+Paediatric Department
+Women & Children Hospital, Kuala Lumpur
+Members (in alphabetical order)
+Dr. Abd. Razak Muhamad
+Consultant Paediatric Orthopaedic &
+Trauma Surgeon
+Gleneagles Hospital, Kuala Lumpur
+Associate Professor Dr. Azlan Husin
+Consultant Physician & Clinical
+Haematologist Hospital Universiti Sains
+Malaysia, Kelantan
+Dr. Carol Lim Kar Koong
+Head of Department & Consultant
+Obstetrician & Gynaecologist (Maternal
+Fetal Medicine)
+Hospital Sultan Ahmad Shah, Pahang
+Ms. Haironi Ismail
+Physiotherapist
+Hospital Putrajaya, Putrajaya
+Ms. Halimah Hashim
+Physiotherapist
+Hospital Raja Perempuan Zainab II,
+Kelantan
+Dr. Jalil Ishak
+Family Medicine Specialist
+Klinik Kesihatan Jasin, Melaka
+Dr. Jameela Sathar
+Senior Consultant Haematologist
+Hospital Ampang, Selangor
+Dr. Junainah Sabirin
+Deputy Director & Public Health Physician
+MaHTAS, MoH, Putrajaya
+Dr. Lily Wong Lee Lee
+Senior Consultant Haematologist
+Hospital Queen Elizabeth, Sabah
+Professor Dr. Noraini @ Nun Nahar Yunus
+Professor in Paediatric Dentistry
+Lincoln University College
+Petaling Jaya, Selangor
+Ms. Norima Md. Noor
+Pharmacist
+Hospital Banting, Selangor
+Dr. Nik Rus Mazeni Nik Yusoff
+Consultant Pathologist
+Hospital Kuala Lumpur
+Mr. Taqrir Akramin Khalib
+Patient Advocate & President
+Pertubuhan Hemofilia Malaysia
+Dr. Zainah Shaikh Hedra
+Consultant Paediatrician
+Hospital Sultanah Nora Ismail, Johor
+Management of Haemophilia
+ix
+EXTERNAL REVIEWERS (in alphabetical order)
+The following external reviewers provided feedback on the draft:
+Dr. Ganasalingam Sockalingam
+Head of Department & Senior
+Consultant in Paediatric Dentistry
+Women & Children Hospital,
+Kuala Lumpur
+Dr. Graeme Ting
+Consultant and Head of Discipline
+Special Needs Dentistry
+University of Otago, Dunedin,
+New Zealand
+Dr. Jafanita Jamaluddin
+Senior Principal Assistant Director
+Obstetrics & Gynaecology, &
+Paediatrics Services Unit, Medical
+Development Division, MoH, Putrajaya
+Dr. Thiyagar Nadarajaw
+Head of Department & Consultant
+Paediatrician and Adolescent
+Medicine Specialist
+Hospital Sultanah Bahiyah, Kedah
+Professor Mike Laffan
+Professor of Thrombosis and
+Haemostasis
+Imperial College London
+London, United Kingdom
+Ms. Nor Hasni Haron
+Senior Principal Assistant Director
+Pharmaceutical Care Section
+Pharmacy Practice &
+Development Division
+MoH, Selangor
+Mr. Peit De Klient
+Physiotherapist
+UMC Utrecht Department of
+Rehabilitation
+Utrecht, Netherlands
+Dr. Ri Liesner
+Consultant in Paediatric Haemostasis
+and Thrombosis
+Great Ormond Street Hospital for
+Children
+London, United Kingdom
+Dr. Ridzuan Dato’ Isa
+Head of Department & Emergency
+Physician
+Hospital Ampang, Selangor
+Dr. Siti Zaleha Suleiman
+Family Medicine Specialist
+Klinik Kesihatan Merlimau, Melaka
+Professor Dr. Wan Zaidah Abdullah
+Head of Department &
+Consultant Haematopathologist
+Hospital Universiti Sains Malaysia,
+Kelantan
+Management of Haemophilia
+ALGORITHM 1. HAEMOPHILIA GENETIC INHERITANCE
+(X-LINKED)
+x
+XY XX
+XY
+XY
+XX
+XX
+XY XX
+XY
+XY
+XX
+XX
+A.
+Father with haemophilia Non-carrier mother (normal)
+B. Non-haemophilia father (normal) carrier mother
+All sons are unaffected All daughters are carriers
+50% chance of son
+will have haemophilia
+50% chance of daughter
+will be carriers
+Management of Haemophilia
+xi
+ALGORITHM 2. GENETIC TESTING FOR
+HAEMOPHILIA PATIENT AND CARRIER SCREENING
+*Send samples in sodium citrate tubes of index case and both parents if testing
+is done in Pusat Darah Negara and in ethylenediaminetetraacetic acid tubes
+of index case and mother if testing is done in IMR. Refer to Appendix 3 on
+Guidelines on Sample Collection and Transportation.
+Index case of haemophilia (diagnosed by factor assay)
+Offer pre-test counselling to patient and
+parents and, obtain informed consent
+Send specimen using ‘molecular analysis for haemophilia’ request form
+for each person*
+Carrier status of mother is
+confirmed positive
+Counselling
+Counselling
+Offer carrier screening
+for female siblings
+and maternal aunties
+Management of Haemophilia
+ALGORITHM 3. PHYSIOTHERAPY MANAGEMENT
+xii
+Physiotherapy Management
+Active Bleeding
+Post-operative
+Sports/physical activities
+PRICE
+P - Protection
+(splint)
+R - Rest
+I - Ice
+C - Compression
+E - Elevation
+Acute
+(within 72 hours):
+Subacute
+(>3 days)
+Chronic
+(>6 months):
+- Hydrotherapy
+- Mobilising
+exercise
+- Strengthening
+exercise
+- Mechanical
+exercise
+- Hydrotherapy
+- Mobilising exercise
+- Strengthening
+exercise
+- Mechanical exercise
+- Weight-bearing
+exercise
+- PRICE
+- Isometric exercise
+- Mobilisation
+• Active exercise
+• Bed mobility
+• Ambulation
+- All PWH should do regular
+sports/physical activities.
+- Refer to Appendix 4 for
+the type of sport/physical
+activities in relation to the
+risk of bleeding.
+• All these activities are preferably carried out within 24-hour of factor infusion.
+• Sports and physical fitness are important to maintain good muscle tone to protect the joints from the haemophilic-induced injuries, and
+these activities contribute to improvement in quality of life.
+Management of Haemophilia
+1. INTRODUCTION
+Haemophilia is a group of inherited blood disorders in which there is
+life-long defect in the clotting mechanism. The most common types of
+haemophilia are haemophilia A (factor VIII deficiency) and haemophilia
+B (factor FIX deficiency). They are inherited as X-linked recessive traits;
+therefore, males are affected and females are carriers. Females can
+be affected as well. In 30% of cases, no family history is obtainable
+because of spontaneous new mutation. The mean prevalence of
+haemophilia A in Malaysia has increased from 5.6 per 100,000 males
+in 1998 to 6.6 per 100,000 males in 2006, with a mean of 5.9 ± 0.4
+per 100,000 males and for haemophilia B, 1.00 ± 0.11 per 100,000
+males. The prevalence for the high income countries was 2.69 ± 1.61
+per 100,000 males whereas the prevalence for the rest of the world was
+1.20 ± 1.33 per 100,000 males.1
+These rare disorders are complex to diagnose and manage. Persons
+with haemophilia (PWH) are at risk of life-threatening bleeding and
+musculoskeletal deformities if not treated properly. There are variations
+in practice among the clinicians in the management of haemophilia. The
+cost escalates when complications e.g. inhibitor development and/or
+chronic arthropathy develops. Standardising haemophilia management
+may help contain cost while optimising clinical outcomes.
+The haemophilia services started in the blood bank in 1980s and hence
+for historical reasons, outpatient haemophilia care was provided by the
+blood bank and PWH referred to the haematology or paediatric wards
+when required. More recently, haemophilia care is being taken over
+by clinicians in line with haemophilia care internationally. In the past
+two decades, many advances have been made in the understanding
+of these bleeding disorders and their management. In the newlydeveloped National Haemophilia Programme, the need for a local
+evidence-based CPG on haemophilia is deemed important. Therefore,
+this document has been developed by a multidisciplinary team is
+intended to provide recommendations on the diagnosis, treatment and
+monitoring of haemophilia and its complications.
+Management of Haemophilia
+2. CLINICAL PRESENTATION
+PWH can present with the following symptoms:2
+• easy bruising in early childhood
+• ‘spontaneous’ bleeding particularly into the soft tissues, muscles,
+joints and gums
+• excessive bleeding following trauma or surgery
+A newborn or infant with haemophilia can present with spontaneous
+intracranial bleed.
+A child may also present with post-vaccination or vitamin K injection
+haematoma.
+A positive family history is present in two-thirds of patients while another
+one-third may have spontaneous mutation.2
+The most common site of bleeding in haemophilia is the joints (70 - 80%)
+especially hinged joints (e.g. ankles, knees and elbows).2
+Bleeding is considered:2
+• serious if it occurs in the
+ joints (hemarthrosis)
+ muscles, especially deep compartments (iliopsoas, calf and
+forearm)
+ mucous membranes in the mouth, gums, nose and genitourinary
+tract
+• life-threatening if it occurs in the
+ neck or throat (including floor of the mouth)
+ intracranial
+ gastrointestinal
+The severity of haemophilia is based on the clotting factor level as
+shown in Table 1.
+Management of Haemophilia
+Table 1. Relationship of bleeding severity to clotting factor
+level in haemophilia
+Source: World Federation of Haemophilia. Guidelines for the Management of
+Haemophilia (2nd edition). Montréal: Blackwell Publishing Ltd; 2012
+Severity
+Clotting factor level
+Bleeding manifestations
+<1 IU/dL (<0.01 IU/ml)
+or
+<1% of normal
+Spontaneous bleeding into joints or
+muscles, predominantly in the
+absence of identifiable haemostatic
+challenge
+Severe
+1 - 5 IU/dL (0.01 - 0.05 IU/ml)
+or
+1 - 5% of normal
+Occasional spontaneous bleeding;
+prolonged bleeding with minor
+trauma or surgery
+Moderate
+5 - 40 IU/dL (0.05 - 0.40 IU/ml)
+or
+5% to <40% of normal
+Severe bleeding with major trauma or
+surgery; spontaneous bleeding is rare
+Management of Haemophilia
+3. INVESTIGATIONS
+3.1 Laboratory Tests
+Other bleeding disorders may have similar symptoms to haemophilia.
+Hence reliable laboratory services are crucial to ensure an accurate
+diagnosis so that management is given appropriately.
+Screening tests for suspected hereditary bleeding disorders include:
+•
+Prothrombin Time (PT)
+•
+Activated Partial Thromboplastin Time (APTT)
+•
+Platelet count
+The interpretation of the screening tests is illustrated in Table 2.
+Table 2. Interpretation of screening tests
+*Normal value depends on individual laboratory reference range.
+Adapted: World Federation of Haemophilia. Guidelines for the Management of
+Haemophilia (2nd edition). Montréal: Blackwell Publishing Ltd; 2012
+If APTT is prolonged and there is positive family history of haemophilia,
+proceed to perform FVIII or FIX factor assay. Otherwise, mixing study
+should be done first. The interpretation of mixing test is illustrated in
+Table 3.
+Table 3. Interpretation of mixing test
+Source: McKenzie SB & Wiliams L. Clinical Laboratory Haematology, Third Edition.
+San Antonio: Pearson Clinical Laboratory Science Series; 2015
+Investigations of other causes of bleeding disorder must be performed
+if PT and APTT are normal.
+With regards to factor VIII (FVIII) and factor IX(FIX) assays:
+•
+FVIII or FIX assay is performed to confirm the deficiency of
+coagulation factor.
+PT
+APTT
+Platelet count
+Possible diagnosis
+Normal
+Prolonged
+Normal
+Haemophilia A or B
+Normal
+Normal
+Normal or reduced
+Platelet defects
+Normal
+Normal or prolonged Normal or reduced Von Willebrand Disease (VWD)
+Mixing study results
+Immediate
+2-hour incubation
+Interpretation
+Corrected
+Corrected
+Not corrected
+Corrected
+Not corrected
+Not corrected
+Factor deficiency
+Time dependent inhibitor e.g. FVIII inhibitor
+Immediately acting inhibitor
+e.g. Lupus anticoagulant antibody
+Management of Haemophilia
+•
+The severity of haemophilia A and B is correlated with FVIII
+and FIX level respectively (refer to Table 1 in Chapter 2 on
+Relationship of bleeding severity to clotting factor level in
+haemophilia).
+•
+To detect all mild Haemophila A, more than one type of FVIII
+assay is needed e.g. chromogenic assay.
+With regards to inhibitor test in congenital haemophilia:2
+•
+Refer to Chapter 8 for indication on inhibitor screening.
+•
+Mixing test can help to screen for factor inhibitor.
+•
+Bethesda assay or Nijmegen assay can determine factor inhibitor
+level. Inhibitor level ≥0.6 Bethesda unit (BU) is considered positive.
+Recommendation 1
+•
+Factor VIII or factor IX assay should be performed in persons
+suspected of haemophilia with prolonged Activated Partial
+Thromboplastin Time and normal Prothrombin Time.
+•
+Mixing test should be done to screen for factor inhibitor in
+haemophilia.
+ If it is not corrected, Bethesda or Nijmegen assay should be
+done to determine the factor inhibitor level.
+3.2 Genetic Tests
+Close
+collaboration
+between
+coagulation
+laboratory,
+genetics
+laboratory and a clinical genetic counselling service is fundamental for
+the provision of a successful genetic diagnostic service.3, level III
+Haemophilia is an X-linked recessive disorder [refer to Algorithm 1 on
+Haemophilia Genetic Inheritance (X-Linked)] which affects males,
+who will pass on the haemophilia gene to their daughters. Female
+carrying a FVIII or FIX gene mutation are carriers.2
+The following are considered to be obligate carriers:2
+•
+daughters of a PWH
+•
+mothers of one son with haemophilia and who have at least one
+other family member with haemophilia
+•
+mothers of one son with haemophilia and who have a family
+member as a known carrier of the haemophilia gene
+•
+mothers of two or more sons with haemophilia
+Genetic testing for carrier status should be offered to all at-risk female
+family members of PWH to facilitate genetic counselling. Mutation
+analysis is best performed on an affected male, while cascade carrier
+testing should be offered to first-degree female relatives. If the female
+is a carrier, then clotting studies including FVIII should be undertaken.
+Management of Haemophilia
+Ideally, management advice and genetic counselling should be offered
+to all PWH, carriers and their families to make informed choices, which
+should be provided through a centre with experience in managing
+haemophilia.2; 4 In local setting, molecular testing is offered to the
+affected child and his mother. If the mother is a confirmed carrier,
+cascade screening will be done for the first- and second-degree female
+relatives (sisters and maternal aunties).
+Genetic testing may also help in assessing risk of inhibitor development
+in PWH.4
+The method selected for mutation detection will depend on resources
+and expertise available in a particular laboratory.3, level III; 5, level III
+For Haemophilia A, it is recommended that severe haemophiliacs
+should be screened for the FVIII intron 22 inversion mutation followed
+by the FVIII intron 1 inversion mutation. This approach should identify
+the underlying mutation in 45 - 50% of severe haemophilia A patients.
+The remaining severe haemophilia A pedigrees should then be analysed
+further by full mutation analysis of FVIII.3, level III
+For Haemophilia B, direct deoxyribonucleic acid (DNA) sequencing of
+the essential regions of FIX should be done without a pre-screening
+step.5, level III
+Recommendation 2
+•
+Mutation analysis for haemophilia should be performed on affected
+male and his mother.
+•
+Cascade screening for haemophilia should be offered to at least
+first- and second-degree female relatives if the mother of persons
+with haemophilia is a confirmed carrier.*
+*Refer to Algorithm 2 on Genetic Testing for Haemophilia Patient
+and Carrier Screening.
+Prenatal testing may be offered if couple is interested. However, it is not
+available in public hospitals.
+Management of Haemophilia
+4. GENERAL PRINCIPLES OF CARE
+4.1 Stratification of Haemophilia Centre with regards to
+Haemophilia Services
+Haemophilia is a complex disorder. The wide-ranging needs of PWH and
+their care givers are best met through a coordinated, comprehensive
+and multidisciplinary care by a team of healthcare professionals, in
+accordance with accepted protocols and national CPG.
+Haemophilia treatment centres (HTCs) should be established to ensure
+that PWH have access to the full range of services necessary to manage
+their condition. The aim of care is to improve health and quality of life.
+This includes prevention of bleeding, long-term management of joint
+and muscle damage, and management of complications from treatment
+including inhibitor development and possible transfusion-transmitted.
+HTC carries out the following functions and activities:6, level III
+•
+provides care for PWH, including diagnosis, treatment, follow-up
+and rehabilitation
+•
+provides PWH with safe and effective treatment products
+•
+provides a 24-hour emergency treatment service
+•
+provides basic diagnostic and monitoring laboratory support
+during normal working hours for the more common inherited
+bleeding disorders
+•
+provides access to multidisciplinary support, locally or in
+conjunction with:
+ physiotherapy and orthopaedics
+ surgery
+ dental care
+ hepatology
+ infectious diseases
+ obstetrics and gynaecology
+ peadiatric if children are treated
+ genetics
+ nuclear medicine
+ clinical psychology
+ pharmacy
+ social work
+•
+offers specific treatment for PWH with inhibitors and immune
+tolerance in collaboration with a Haemophilia Comprehensive
+Care Centre (HCCC)
+•
+provides advisory service, including genetic counselling to PWH
+and healthcare professionals
+•
+promotes information and training programmes on inherited
+bleeding disorders to PWH and healthcare professionals
+Management of Haemophilia
+HCCC, apart from performing above roles of HTC, also carries out the
+following additional functions and activities:6, level III
+•
+co-ordinates the delivery of haemophilia services - both in the
+hospital and community including liaison with affiliated HTCs
+•
+provides reference laboratory service with a full repertoire of tests
+for the diagnosis and monitoring of inherited bleeding disorders
+•
+provides access to a genetic diagnosis service which include
+carrier detection and antenatal diagnosis
+•
+collates data (e.g. product usage, PWH demographics)
+•
+participates in research, including clinical trials
+The pharmacist in HCCC should also provide Haemophilia Medication
+Therapy Adherence Clinic (HMTAC) and drug counselling.
+In the local setting, the following stratification is proposed in the
+management of haemophilia (refer to Figure 1).
+HTC = Other hospitals with specialist within a region and not assigned
+as HCCC
+Figure 1. Proposed stratification of haemophilia centres in Malaysia
+4.2 National Haemophilia Registry
+•
+A national haemophilia registry is of utmost importance to ensure
+cost-effective treatment of PWH.
+A national haemophilia registry is a database of information on PWH.
+The aims of the registry are:7, level III
+•
+to increase awareness of the disease prevalence
+•
+to identify the needs of PWH
+•
+to recognise shortcomings in the healthcare delivery system
+•
+to predict future needs and areas of concern
+•
+to empower the national haemophilia organisation and clinicians
+to lobby effectively on behalf of PWH
+HTC
+HTC
+HTC
+HCCC Sabah
+& Sarawak
+Region
+HTC
+HTC
+HTC
+HCCC
+East-coast
+Region
+HTC
+HTC
+HTC
+HCCC
+Northern
+Region
+HTC
+HTC
+HTC
+HCCC
+Southern
+Region
+HTC
+HTC
+HTC
+HCCC
+Central
+Region
+Management of Haemophilia
+•
+MoH registry on haemophilia:7, level III
+ contains demographic and clinical information obtained from all
+hospitals and clinics
+ reflects a true national picture of the condition
+ requires government support to motivate and sustain participation
+of all treating centres for data entry
+Important data in a haemophilia registry should include:8 - 9, level III
+•
+epidemiology and clinical care
+•
+co-morbidity and mortality outcomes e.g. allergic reactions,
+transfusion-transmitted infections, thrombosis and deaths
+•
+joint outcomes
+•
+bleeding specifications and outcomes
+•
+burden of disease and cost of treatment
+•
+patient reported outcomes e.g. annual bleeding rate (ABR),
+quality of life (QoL) (refer to Chapter 13 on Monitoring)
+Management of Haemophilia
+5. TREATMENT
+Repeated joint bleeds is the major cause of morbidity in PWH. In
+patients with severe haemophilia, bleeding episodes may occur as
+frequently as 20 - 30 times per year. PWH are 20 - 50 times more likely
+to develop intracranial haemorrhage (ICH) compared with those without
+haemophilia, with a reported prevalence of 2.7 - 12% and an incidence
+rate of 290 - 748/10 000 patient-years.10, level III and a mortality rate of
+19.6%.11, level III Factor replacement therapy, non-pharmacological and
+adjunctive treatments are essential in preventing joint damage and
+other potential serious and life-threatening events.
+5.1 Pharmacological Treatment
+5.1.1 Factor replacement therapy
+There are two types of clotting factor concentrate (CFC) used for
+replacement therapy:
+•
+Plasma-derived factor (pdF) Concentrates - manufactured via
+fractionation of human pooled plasma
+•
+Recombinant factor concentrates - manufactured via DNA
+engineering technology
+In a well-regulated environment, guided by regulatory agencies e.g.
+Food and Drug Administration (FDA)/European Medical Agency (EMA),
+products approved are of adequate efficacy and safety.12, level III
+The World Federation of Haemophilia (WFH) publishes and regularly
+updates a Registry of CFC, listing all the currently available factor
+concentrates in the market approved by regulatory agencies. WFH
+does not express preference for recombinant over pdF. Choices of
+factor concentrates and their classes must be made according to local
+criteria.2
+Efficacy of CFC can be assessed against the scale of response to
+infusion as shown in Table 4.
+Management of Haemophilia
+Table 4. CFC efficacy scale of response to bleeding episodes
+Source: World Federation of Haemophilia. Guidelines for the Management of
+Haemophilia (2nd edition). Montréal: Blackwell Publishing Ltd; 2012
+The currently manufactured products show a good safety record on
+lipid enveloped viruses e.g. human immunodeficiency virus (HIV) and
+hepatitis C virus. In the last 25 years, there has been no report on HIV,
+hepatitis B and hepatitis C transmission via plasma-derived products.
+However, the current viral inactivation/removal process does not
+eliminate a majority of the non-lipid viruses/prions e.g. hepatitis A virus,
+parvovirus B19, Creutzfeldt-Jakob. At the moment, the transmission is
+probably kept at a lower level by excluding at-risk blood donors.2
+•
+Blood borne infectious diseases remain a concern in PWH using
+pdF especially the unknown/yet to be discovered viruses which may
+escape the current viral reduction process.
+Factor concentrates vary widely in their purity. Those with low purity
+have a tendency to cause allergic reaction. The use of high purity FIX is
+preferred to PCC as a replacement therapy for haemophilia B as PCC
+may predispose to the risk of thromboembolism especially when used
+in high doses.2
+Inhibitor development is the most serious complication of haemophilia
+treatment. Refer to Chapter 8 on Inhibitors.
+A multi-centred RCT demonstrated that PDF containing von Willebrand
+factor (vWF) had a lower incidence of inhibitor development than those
+treated with recombinant factor VIII (rFVIII).13, level I However the EMA’s
+Committee for Medical Products for Human Use (CHMP) concluded
+that there was no clear and consistent evidence to indicate a difference
+in the incidence of inhibitor development between plasma-derived and
+recombinant factors.12, level III
+Outcome
+Treatment of bleeding episodes
+Abrupt pain relief and/or unequivocal improvement in objective
+signs of bleeding within approximately eight hours of a single
+infusion
+Excellent
+Definite pain relief and/or improvement in signs of bleeding within
+approximately 8 - 12 hours of an infusion; requiring up to two
+infusions for complete resolution
+Good
+Probable or slight beneficial effect within approximately 12 hours
+of the first infusion; requiring >2 infusions for complete resolution
+Moderate
+No improvement within 12 hours or worsening of symptoms
+requiring >2 infusions for complete resolution
+Poor
+Management of Haemophilia
+PWH with HIV, hepatitis B and hepatitis C should be treated the same as
+patients without haemophilia. PWH who have and continue to receive
+pdF should be screened for these infections every 6 - 12 months or if
+clinically indicated.2
+•
+In view of risk of blood-borne infection with plasma-derived products,
+recombinant factor concentrate is the preferred choice for factor
+replacement in haemophilia.
+The optimal approach to haemophilia treatment is using CFC to prevent
+bleeds, chronic joint damage and reduce complications (short and
+long term). Factor replacement therapy can either be on-demand or
+prophylaxis.
+On-demand therapy, also known as episodic therapy, is defined as
+therapy to stop an acute haemorrhage. Cessation of bleeding does not
+reverse the deleterious effects on synovial tissues by the blood which
+has accumulated in the affected joint.
+Prophylactic factor replacement therapy is defined as regular infusion of
+CFC in an attempt to raise clotting factor levels and to keep them at 1%
+or higher at all times.14, level I It can be divided into primary, secondary or
+tertiary prophylaxis:2
+•
+Primary - starts in the absence of joint disease before the second
+large joint bleed and before age three years old
+•
+Secondary - starts after the second large joint bleed but before
+onset of joint disease
+•
+Tertiary - starts after joint disease to prevent further damage
+A systematic review advocated starting prophylaxis before the age of
+three in PWH for better joint outcome.15, level l
+A Cochrane systematic review and a randomised controlled trial
+(RCT) reported that prophylactic factor replacement therapy was more
+effective than on-demand therapy in severe haemophilia in terms of:
+•
+reduction in bleeding frequency (RR=0.30, 95% CI 0.12 to 0.76)16, level I
+•
+protection from joint damage (RD=0.70, 95% CI 0.39 to 1.01)16, level I
+•
+lower median number of total bleeding episodes per year which
+included joint bleeds (0 vs 27.9; p<0.0001)17, level I
+•
+fewer annualised spontaneous (median of 0 vs 16.3) and traumarelated (median of 0 vs 6.4) bleeding events17, level I
+Incidence of ICH is significantly reduced in the prophylactic group
+compared with the no prophylaxis group (0.00033 cases/patient year
+vs 0.017 cases/patient year; RR 50.06).18, level II-2
+Management of Haemophilia
+In a retrospective cohort study, regular prophylactic therapy reduced
+the risk of inhibitor development by 60% compared with on-demand
+therapy (RR=0.4, 95% CI 0.2 to 0.8) at 50 exposure days in severe
+haemophilia.19, level II-2 In a more recent large prospective cohort study,
+the association was observed after 20 days with a HR ranged from 0.22
+to 0.32. It was more pronounced in low risk FVIII genotypes.20, level II-2
+However, the Cochrane systematic review showed no significant
+difference in the risk of inhibitor development and infection between
+prophylaxis and on-demand therapies.16, level I
+There are many different prophylactic factor replacement therapy
+protocols used but optimal regimen remains to be defined. The
+commonly used protocols are as shown in Table 5.
+Table 5. Prophylactic factor replacement therapy regimens in
+haemophilia
+Adapted:
+1. World Federation of Haemophilia. Guidelines for the Management of Haemophilia
+(2nd edition). Montréal: Blackwell Publishing Ltd; 2012
+2. Wu R, Luke KH, Poon MC, et al. Low dose secondary prophylaxis reduces joint
+bleeding in severe and moderate haemophilic children: a pilot study in China.
+Haemophilia. 2011;17(1):70-4
+Prophylactic regimens should be individualised according to bleeding
+phenotype, activity and pharmacokinetics. Other issues e.g. age,
+venous access and availability of clotting factor must also be taken
+into consideration. Patients on high dose prophylaxis (Malmo protocol)
+showed improved HJHS and reduction in joint bleeds (p<0.001) but
+at a significant increase in cost.21, level II-2 When high dose prophylaxis
+is not possible due to financial constraint, a low or intermediate dose
+could be used.
+Prophylaxis should be initiated as soon as possible after a first major
+bleed (joint, muscle or intracranial bleed) and before the age of three
+if there is no major bleed. Prophylaxis before the age of three is being
+Protocol
+Dosage
+25 - 40 IU/kg three times/week for haemophilia A
+30 - 50 IU/kg twice/week for haemophilia B
+High dose prophylaxis;
+Malmo protocol
+10 IU/kg two times/week for haemophilia A
+20 IU/kg once/week for haemophilia B (secondary
+prophylaxis)
+Low dose prophylaxis
+15 - 25 IU/kg two to three times/week for haemophilia A
+30 - 50 IU/kg once or twice/week for haemophilia B
+(after first/second joint bleed or two bleeds per month)
+Intermediate dose
+prophylaxis;
+Utrecht protocol
+Management of Haemophilia
+advocated as evidence has shown better outcome compared with when
+it is started after that age.15, level I
+There are two ways to start the prophylaxis:15, level I
+i. Give full dose prophylaxis following one of the above regimes
+(refer to Table 5).
+ii. Start once weekly first and escalate the frequency of infusions if
+significant spontaneous bleeding occurs until full dose prophylaxis
+is achieved. A detailed account of bleeding events should be
+maintained and frequency of infusions adjusted appropriately.
+The on-going trials of new generation of coagulation factors with
+extended half-life show promising results which may improve the
+management of PWH once available locally.
+Recommendation 3
+•
+Prophylaxis should be given to ALL persons with severe haemophilia.
+ Primary
+prophylaxis
+should
+start
+following
+intracranial
+haemorrhage, first joint bleed, severe intramuscular bleed or by
+three years old, whichever comes first.
+ Malmo protocol is the preferred prophylactic therapy regimen in
+haemophilia.
+5.1.2 Adjunct therapies
+a. Desmopressin
+Desmopressin (DDAVP) is a synthetic analogue of vasopressin that
+boosts plasma level of FVIII and vWF in mild to moderate haemophilia
+A and certain subtypes of VWD. It may also be used in symptomatic
+carrier of haemophila A.
+DDAVP is effective and safe in mild haemophilia A. It is also
+haemostatically effective in 96% of cases when used prophylactically
+in minor procedures.22, level II-2
+The decision to use DDAVP must be based on baseline concentration
+of FVIII, increment achieved and duration of treatment required. This is
+applicable in minor form of bleeding. It should not be used in moderate
+to severe form of bleeding.2 DDAVP can be given through various
+routes as shown in Table 6.
+Management of Haemophilia
+Table 6. Administration of DDAVP
+Source: Mannucci PM, Desmopressin (DDAVP) in the Treatment of Bleeding
+Disorders (Revised edition). Montréal: WFH; 2012
+A single dose of DDAVP either via IV or SC route can be expected to
+boost the level of FVIII to 3 - 6 folds higher than the baseline.2 There is
+however some variability in response and a test dose is the only way
+to distinguish good responders from poor or non-responders. Plasma
+half-life is 5 - 8 hours for FVIII and 8 - 10 hours for vWF. PWH treated
+repeatedly with DDAVP may become less responsive because the stores
+are exhausted. The average FVIII responses if DDAVP is repeated at
+24-hour interval are approximately 30% less than responses obtained
+after the first dose.2; 23, level III Due to its anti-diuretic side effect, plasma
+osmolality and sodium level should be measured when repeated doses
+are given.2
+•
+DDAVP is relatively contraindicated in children less than two years
+old who may be at risk of seizure secondary to cerebral oedema due
+to hyponatremia.
+b. Tranexamic Acid
+Tranexamic acid (TXA) is an anfibrinolytic agent that promotes clot
+stability by inhibiting the activation of plasminogen to plasmin. It
+is particularly useful in controlling bleeding from skin and mucosal
+surfaces e.g. oral bleeding, epistaxis and menorrhagia.2
+TXA is available in three preparations i.e. oral, IV and mouthwash. In
+centres where the mouthwash preparation is not available, the oral
+form (tablet/capsule) can be dissolved in water and subsequently used
+as a mouthwash (5% weight in volume or 500 mg in 10 ml). The dose is
+15 - 25 mg/kg/dose every eight hours.
+Types
+Dose
+Time to peak
+Side effects
+0.3 µg/kg diluted into
+50 -100 ml of
+physiological saline and
+infused over 20 - 30
+minutes
+30 - 60 minutes
+Rapid infusion can
+cause tachycardia,
+flushing, tremor and
+abdominal
+discomfort
+Due to anti-diuretic
+activity, observe for:
+• hyponatremia
+• water retention
+IV
+90 - 120 minutes
+0.3 µg/kg
+Subcutaneous
+(SC)
+Intranasal
+Adult: 1.5 mg/ml in
+each nostril
+Those <40 kg, a single
+dose in 1 nostril is
+sufficient
+Management of Haemophilia
+TXA can either be used alone or in combination with standard dose
+of CFC and can be a helpful adjunctive therapy in the prevention and
+treatment of all bleeds except those involving the renal tract. In patients
+with inhibitory antibodies, it can be used to treat bleeds or to manage
+surgery in combination with activated recombinant Factor VII (rVIIa)
+or activated Prothrombin Complex Concentrate (aPCC). However,
+combination use must be done with caution in any elderly PWH or
+those who have cerebral or cardiovascular risk factors.
+TXA should not be used in the treatment of haematuria as it may
+prevent dissolution of clots in the ureters which may result in obstructive
+uropathy and potential damage to the kidney function.2
+c. Others
+There is no good evidence on the use of fibrin glue and floseal in
+haemophilia. However, these treatments have been used in local
+practice. These treatments had been used fairly commonly since 1990s
+in surgical procedures involving high risk patients which includes PWH.
+The procedures highlighted were circumcision, dental extraction/oral
+surgery and resection of pseudotumour. It had been observed that
+there was low risk of bleeding with significant reduction in the CFC
+usage when fibrin glue was added in the management of those surgical
+procedures.24, level III
+5.1.3 Analgesia
+Pain in PWH may be acute or chronic. This may include pain caused
+by venous access, joint or muscle bleed, post-operative pain, dental
+extraction and/or chronic haemophilic arthropathy.
+Pain assessment can be done using the following pain scales as
+recommended by MoH (refer to Table 7 and Appendix 6).
+Table 7. Recommended pain scale by MoH
+Source: Ministry of Health, Malaysia. Pain Medication Therapy Management Service:
+Guideline for Pharmacy (Second Edition) Petaling Jaya: MoH; 2018
+Age group
+Scale
+1 - 3 years and adult patient unable
+to communicate verbally
+Face, Legs, Activity, Cry, Consolability
+(FLACC) Scale
+>3 - 7 years
+Visual Analogue Scale (VAS)
+>7 years and adults
+Numeric Rating Scale (NRS)
+Management of Haemophilia
+Pain severity is categorised in Table 8 and its management is described
+following it.
+Table 8. Category of pain
+Source: Ministry of Health, Malaysia. Pain Management Handbook. Putrajaya: MoH;
+2013
+Effectiveness of analgesics in PWH:
+•
+Paracetamol is recommended for mild pain.2
+•
+Cyclooxygenase-2 (COX-2) inhibitors are effective analgesics:
+ celecoxib in chronic synovitis and non-specific mild to
+moderate pain25, level II-3
+ etoricoxib in hemophilic arthropathy26, level II-2
+•
+Mild opioid is recommended as an alternative in moderate pain.2
+•
+If pain is moderate to severe in children, a strong opioid
+is necessary. Morphine is the opioid of choice.27, level III In
+haemophilia, morphine is recommended in severe pain.2
+Safety of analgesics in PWH:
+•
+The risk of upper gastrointestinal bleeding increases by two-folds
+in traditional nonsteroidal anti-inflammatory drugs (NSAIDs)
+compared with celecoxib or rofecoxib in haemophilic arthropathy
+although it is statistically not significant.28, level II-2
+•
+Celecoxib was noted to have no serious adverse events
+including hypertension or other CV events in a non-comparative
+study.25, level II-3
+•
+Etoricoxib was noted to have higher bleeding duodenal ulcer,
+upper respiratory tract infection and headache compared with
+placebo (p=0.043) in a cohort study.26, level II-2
+Total pain score
+Severity of pain
+1 - 3
+4 - 6
+7 - 10
+Mild
+Moderate
+Severe
+Management of Haemophilia
+Pain management strategies are as follows:
+Figure 2. Pain relief ladder
+Notes:
+1. Celecoxib: effectiveness and safety are not established in children <2 years old
+2. Etoricoxib: effectiveness and safety are not established n patients <16 years old
+3. Tramadol: effectiveness and safety not established in children <12 years old;
+caution in children 12 - 18 years who have risk factors that may increase respiratory
+depression
+4. Codeine: effectiveness and safety are not established in children <18 years old
+Adapted:
+1. Ministry of Health, Malaysia. Management of Cancer Pain. Putrajaya: MoH; 2010.
+2. Micromedex® Solution (Available at
+http://www.micromedexsolutions.com/micromedex2/4.24.0/WebHelp/
+MICROMEDEX_2.htm)
+3. Shann F. Drug Doses (Seventeenth Edition), Parkville: University of Melbourne;
+2017
+4. Etoricoxib package insert.
+Recommendation 4
+•
+Analgesia should be offered for pain relief according to pain severity
+in haemophilia*.
+*Refer to Table 8 and Figure 2.
+5.2 Non-pharmacological Treatment
+5.2.1 Rehabilitation of musculoskeletal system
+Rehabilitation in PWH improves joint health status and muscle strength
+and, reduces pain. Physiotherapists play an important role in the
+Increasing pain severity
+Non-opioid
+• Paracetamol
+• COX-2 inhibitors
+± Adjuvants
+Weak Opioid
+• Tramadol
+• Dihydrocodeine
+(DF118)
+± Non-opioid
+± Adjuvants
+Strong Opioid
+• Morphine
+• Oxycodone
+• Fentanyl
+Non-opioid
+± Adjuvants
+Pain score 1 - 3
+(Mild Pain)
+Pain score 4 - 6
+(Moderate Pain)
+Pain score 7 - 10
+(Severe Pain)
+Management of Haemophilia
+management of both acute and sub-acute bleeds, chronic synovitis,
+chronic arthropathy and other musculoskeletal pathology in PWH.
+Post-bleed rehabilitation include PRICE and exercise programmes
+for restoration of pre-morbid status, minimisation of re-bleed risk and
+prevention of secondary musculoskeletal complications.2
+Rehabilitation must be stressed as an active part in the management of
+acute joint bleeding episodes in PWH:2
+•
+PWH should be encouraged to change the position of the
+affected joint from a position of comfort to a position of function
+as soon as the pain and swelling begin to subside. The gentle
+passive movement will gradually decrease the flexion of the
+joint and strive for complete extension. Refer to Appendix 5 on
+Development of Abnormal Posture Following Bleeds.
+•
+Active movement should be done as much as possible with
+muscle contractions to minimise muscle atrophy and prevent
+chronic loss of joint motion.
+•
+Active exercises and proprioceptive training should be continued
+until complete pre-bleed joint range of motion (ROM) and
+functioning are restored and, signs of acute synovitis resolve.
+•
+If exercises progress cautiously, factor replacement is not
+necessarily required before the exercises.
+Rehabilitation, e.g. hydrotherapy, mechanical exercises (static bicycle,
+treadmill or multigym) and strengthening exercises, significantly
+improve joint health status, ROM and pain score compared with no
+intervention in haemophilia.29 - 30, level I No adverse effects e.g. bleeding
+have been reported as a result of any of these exercises.29, level I
+Participation in physical activity, exercise and sports lead to physical
+and psychological benefits as well as supporting emotional and social
+well-being of PWH.31, level II-2
+For PWH with significant musculoskeletal dysfunction, weight-bearing
+activities that promote development and maintenance of good bone
+density (e.g.weight training, walking and hiking) should be encouraged.2
+Manual therapy treatment using ankle joint traction, passive stretching,
+proprioceptive training, isometric exercise and active counter-resistance
+exercise significantly improves gastrocnemius muscle circumference
+and reduces ankle pain compared with educational session and no
+intervention in haemophilia.32, level III
+Prolonged immobilisation after fracture in PWH can lead to limited
+ROM. Physiotherapy should be started once the fracture is stabilised
+to restore:4
+•
+ROM
+•
+muscle strength
+•
+function
+Management of Haemophilia
+Recommendation 5
+•
+Rehabilitation should be offered in person with haemophilia during
+acute or sub-acute bleeds and those with chronic arthropathy for
+functional recovery.
+5.2.2 Protection, Rest, Ice, Compression and Elevation
+Protection, Rest, Ice, Compression and Elevation (PRICE) is important
+in pain management in haemophilia.2; 33 It relieves acute pain and
+decreases risk of re-bleeding.33; 34, level lll This is further explained in the
+following Table 9.
+Table 9. Application of PRICE
+Adapted:
+1. World Federation of Haemophilia. Guidelines for the Management of Haemophilia
+(2nd edition). Montréal: Blackwell Publishing Ltd; 2012
+2. Hanley J, McKernan A, Creagh MD, et al. Musculoskeletal Working Party of the
+UKHCDO. Guidelines for the management of acute joint bleeds and chronic
+synovitis in haemophilia: A United Kingdom Haemophilia Centre Doctors’
+Organisation (UKHCDO) guideline. Haemophilia. 2017;23(4):511-20
+3. Rodríguez-Merchán EC. Articular Bleeding (Hemarthrosis) in Hemophilia: An
+Orthopedist’s Point of View (Second edition). Montréal: WFH; 2008
+Recommendation 6
+•
+Protection, Rest, Ice therapy, Compression, Elevation (PRICE)
+should be commenced as a first aid measure in acute and sub-acute
+bleed in persons with haemophilia.
+• Avoidance of weight bearing
+• Restriction of activities until swelling and temperature of the
+joint return to normal
+• Use of a sling, removable splint and compressive bandage
+for the affected joints
+• Immobilisation of the affected joint until pain resolves
+• Use of crutches when ambulating
+• Should not be applied directly to the skin Should not exceed
+20 minutes at 2-hourly intervals
+• Always be guided by levels of pain and discomfort
+• Configuration follows the limb/joint shape
+• Provision of a graduated compressive force which is
+comfortable for the individual
+• Elevation when sitting and lying in supine position
+Components
+Application
+Protection (P)
+Rest (R)
+Ice Therapy (I)
+Compression
+(C)
+Elevation (E)
+Management of Haemophilia
+5.2.3 Joint protection
+Target joints can be protected with braces or splints during physical
+activity. Adjunctive therapies for bleeding in muscles and joint are
+important, especially when clotting factor concentrates (CFC) are
+limited or not available. They include:2
+•
+first aid measures e.g. PRICE
+•
+removable splint or compressive bandage
+•
+walking aid
+It is advisable for PWH to use appropriate foot wear which provides
+good cushioning, arch support and wiggle room for toes to reduce risk
+of bleeding.35, level III
+5.2.4 Sports/physical activity
+PWH should be encouraged to perform physical/sport activities to
+promote:2; 32, level III; 36, level III; 37, level I
+•
+physical fitness
+•
+normal neuromuscular development
+•
+psychological and social benefits
+•
+quality of life (QoL)
+Participation in non-contact sports, e.g. walking, swimming and cycling,
+are encouraged for PWH.2 It does not increase the risk of bleeding
+nor development of target joints.36, level III PWH who want to cycle need
+proper and adequate protective gear and for children, should be under
+supervision.
+High contact and collision sports (e.g. soccer, hockey, rugby, boxing and
+wrestling) and high-velocity sports (e.g. motocross racing and skiing)
+are best avoided because of the potential life-threatening injuries.2
+5.2.5 Post-operative care
+Physiotherapy plays an important role in management of PWH who has
+undergone surgical intervention e.g. total knee replacement (TKR) and
+total hip replacement (THR). An exercise plan is prescribed according
+to the mobility level of PWH on discharge. This includes:38, level III
+•
+PRICE - immediately after operation
+•
+isometric exercise - starts when the drains and bandages are
+removed; focused on quadriceps strengthening
+•
+mobilisation - includes active exercise, bed mobility and
+ambulation after 7 - 10 days of post-operation
+Post-operative rehabilitation should be carried out gradually by
+physiotherapist to improve strength, proprioception and normal function
+of the joint.2
+Management of Haemophilia
+The summary on non-pharmacological treatment is shown in Algorithm
+3 on Physiotherapy Management in Haemophilia.
+5.2.6 Weight management
+Body Mass Index (BMI) and body weight can increase due to lack of
+physical activity. In adults, normal BMI is 18 - 23 kg/m2, overweight
+when BMI >23 - 29.9 kg/m2 and obesity if BMI >30 kg/m2. In children,
+overweight and obesity varies according to age.
+A high BMI has been associated with:2
+•
+significant limitation in ROM of the joints
+•
+increased arthropathic pain and risk of developing target joints
+•
+increased risk of cardiovascular diseases which may further
+damage arthropathic joints
+Regular physical activity should be advised. The physiotherapist
+should advise PWH on modification in daily physical activities if there
+are restrictive functional limitations.2 This should be accompanied by a
+proper calorie restricted diet by a dietitian.
+Management of Haemophilia
+6. TREATMENT FOR ACUTE BLEEDING IN SPECIFIC SITES
+Acute bleed should be treated as soon as possible preferably within two
+hours. Amount of factors to be given is dependent on site and severity;
+usually it is given until bleeding resolves. Haemostatic agents e.g. TXA
+should be given concurrently except in genitourinary bleeding. For
+PWH on prophylaxis with good compliance, prophylactic regime should
+be reviewed if bleed is not due to trauma.2
+•
+In PWH, bleeding in head, neck and gastrointestinal tract is a medical
+emergency. Factor replacement should precede investigation.
+6.1 Central Nervous System
+All post-traumatic head injuries and significant headache in PWH must
+be treated as ICH until proven otherwise.2
+•
+The initial factor replacement therapy to raise factor levels to 100 IU/
+dL should precede all investigations.2; 39, level III
+ICH must be confirmed by urgent imaging e.g. Computed Tomography
+(CT) scan/magnetic resonance imaging (MRI) before further administration
+of factors.2
+Following ICH, prophylaxis is indicated.2
+Refer to Table 10 on recommended treatment.
+6.2 Joints
+Haemarthrosis is defined as bleeding into a joint space which may
+occur spontaneously or in response to trauma especially in moderate
+and severe haemophilia. The joints most commonly affected are the
+knees, elbows and ankles.2
+Patients often describe a tingling sensation and tightness in the joint
+preceding the clinical signs of haemarthrosis. It is difficult to differentiate
+from flare ups of haemophilia arthropathy. However, for haemarthrosis, the
+joint rapidly loses ROM and becomes acutely painful, warm and swollen.
+A re-bleed is defined as worsening of the condition while on treatment
+or within 72 hours of stopping treatment.
+Recurrent haemarthroses are almost invariably associated with
+severe haemophilia. When it occurs in the same joint ≥3 times within
+a consecutive 6-month period, the joint will become a target joint and
+eventually lead to haemophilic arthropathy if not treated.2
+Management of Haemophilia
+A joint ceases to be a target joint when there is <2 bleeds into the joint
+within 12 consecutive months.33
+The goal of treatment of acute haemarthrosis is to stop the bleeding
+as soon as possible. Subsequent treatment aims to prevent recurrent
+bleeding and progressive joint damage. The management for these
+conditions are:2
+•
+Factor replacement therapy
+ Administer the appropriate dose of factor concentrate to raise
+the patient’s factor level suitably (refer to Table 10).
+ If bleeding does not stop, a second infusion maybe required
+by repeating half the initial loading dose in 12 hours
+(haemophilia A) or 24 hours (haemophilia B) until satisfactory
+resolution (refer to Table 5 and Table 10).
+•
+Pain relief
+Refer to Subchapter 5.2.3.
+•
+Radiological imaging
+Routine use of imaging is not indicated and should be reserved
+for patients presenting with atypical features, major swelling or
+trauma of a joint to exclude a concomitant traumatic lesion.
+•
+Rehabilitation
+Rehabilitation should be emphasised in the active management
+of haemathrosis. Refer to Subchapter 5.1.1.
+•
+Arthrocentesis (joint aspiration)
+Arthrocentesis may be considered for symptomatic relief of a
+tense haemarthrosis which shows no improvement 24 hours after
+conservative treatment.2 It is safe when done by experienced
+physicians using established protocol.40, level II-3
+Further evaluation for the presence of inhibitor, septic arthritis or
+fracture is necessary if the symptoms and signs continue longer than
+three days.
+6.3 Musculoskeletal
+Early identification and proper management of muscle bleeding are
+important to prevent complications e.g. re-bleeding, compartment
+syndrome, joint contractures and formation of pseudotumours.2
+Clinical features of muscle bleeding are:2
+•
+pain if the muscle is stretched or actively contracted
+•
+affected limb is positioned in a comfortable posture to avoid pain
+•
+tenderness upon palpation
+•
+swelling (may not be visible)
+The following groups of muscle bleeding are associated with
+neurovascular compromise and require immediate management to
+prevent permanent damage and loss of function:2
+Management of Haemophilia
+•
+iliopsoas muscle (risk of femorocutaneous, crural and femoral
+nerve palsy)
+•
+superior-posterior and deep posterior compartments of the lower
+leg (risk of posterior tibial and deep peroneal nerve injury)
+•
+flexor group of forearm muscles (risk of Volkmann’s ischemic
+contracture)
+The goals of treatment are to stop the bleeding, prevent re-bleeding
+and to restore muscle function. The management for this condition
+includes:2
+•
+Factor replacement therapy
+Administer the appropriate dose of factor concentrate as soon as
+possible; ideally when the patient recognises the first symptoms
+of discomfort or after trauma (refer to Table 10).
+•
+Pain relief
+Refer to Subchapter 5.2.3.
+•
+Radiological imaging
+Ultrasonography (US) and MRI are important diagnostic tools to
+confirm diagnosis and monitor recovery especially at critical sites.
+•
+Rehabilitation
+Refer to Subchapter 5.1.1.
+In PWH, choice of sport and level of activity should be based on individual
+factor levels, bleeding history and physical health to prevent acute
+muscle bleeding. Routine musculoskeletal review helps to promote
+general muscle fitness and to individualise exercises for specific sports.
+Single dose prophylaxis is considered prior to engaging in physical
+activities that might precipitate bleed in severe haemophiliacs.41, level III
+Iliopsoas haemorrhage
+Iliopsoas haemorrhage has a unique presentation. It may mimic an
+acute abdomen. Symptoms may include pain in the lower abdomen,
+groin, lower back and pain on extension of the hip joint. There may
+be paraesthesia in the medial aspect of the thigh or other signs of
+femoral nerve compression e.g. loss of patellar reflex and quadriceps
+weakness.2; 42, level III
+USG is a useful and fastest tool to diagnose iliopsoas haematoma.42, level III
+Management of iliopsoas haemorrhage includes:2
+•
+hospitalise the patient for control of pain and strict bed rest
+•
+maintain the factor levels for 5 - 7 days or longer, as symptoms
+dictate (refer to Table 10)
+•
+monitor recovery using an imaging study (USG or MRI)
+•
+limit the patient’s activity until pain resolves and hip extension
+improves; rehabilitation aimed at restoration of complete hip
+extension before returning to full activity
+Management of Haemophilia
+Fractures
+The principle management of fracture in PWH is the same as those
+without haemophilia. It can be divided into:
+•
+conservative management
+•
+operative management
+For conservative management, the factor replacement regimen is the
+same as treating intramuscular haemorrhage (refer to Table 10). On the
+other hand, in operative management, the factor replacement regimen
+is as per major surgery.
+CFC should be given immediately to raise the level to at least 50% and
+maintained for 3 - 5 days. Low dose CFC may be continued for 10 - 14
+days to prevent soft tissue bleeding.2
+The management plan should follow the orthopaedic principle for
+fracture, including operative treatment under appropriate coverage of
+CFC.2
+For fracture treated with conservative management:
+•
+in the initial stage, it is safe to use backslab; do not use
+circumferential plaster
+•
+full cast can be used once the bleeding is controlled with the
+factor replacement and swelling subsides
+•
+the duration of immobilisation is as the fracture treatment in a
+normal patient
+For fracture treated with surgery, avoid prolonged immobilisation and
+start physiotherapy as soon as the fracture is stabilised.2
+For factor coverage, the following regimen is suggested:
+•
+Day 1 - 2, raise the factor level to 80 - 100% and given 8-hourly
+for haemophilia A, 12-hourly for haemophilia B
+•
+Day 3 - 5, raise the factor level to 30 - 60% and given 12-hourly
+for haemophilia A, daily for haemophilia B
+•
+thereafter, raise the factor to 30%, given daily until soft callus is
+formed (total duration is approximately about two weeks)
+Refer to Subchapter 5.1.1 on Rehabilitation of musculoskeletal
+system.
+Management of Haemophilia
+6.4 Ear, Nose, Throat and Eye
+For bleeding arising from the ear, nose, throat and eye in PWH,
+immediately raise patient’s factor levels (refer to Table 10). Antifibrinolytic
+therapy e.g. TXA may be used as adjunctive therapy. They should be
+referred to the respective disciplines if necessary.2
+6.5 Gastrointestinal Tract
+For bleeding arising from the gastrointestinal tract in PWH, immediately
+raise patient’s factor levels (refer to Table 10). Antifibrinolytic therapy e.g.
+TXA may be used as adjunctive therapy. Imaging may be necessary.2
+6.6 Genitourinary Tract
+For bleeding in the genitourinary tract in PWH, vigorous hydration should
+be started at 3 L/m2 for a minimum of 48 hours. The factor level needs
+to be raised up to 50% if there is pain or persistent gross haematuria
+after 48 hours (refer to Table 10). Watch out for complications e.g.
+urinary tract obstruction that may require urological referral.2
+•
+Avoid using anti-fibrinolytic agent as it may cause clots leading to
+urinary tract obstruction.
+Management of Haemophilia
+6.7 Oral Cavity
+Refer to Chapter 12.
+Table 10. Suggested plasma peak levels and duration of treatment
+for acute bleeding in specific sites and surgeries*
+*Table is based on country with no resource constraint.
+** IU/dL=%
+Source: World Federation of Haemophilia. Guidelines for the Management of
+Haemophilia (2nd edition). Montréal: Blackwell Publishing Ltd; 2012
+In the absence of an inhibitor, each unit of FVIII/kg body weight infused via intravenous
+(IV) will raise the plasma FVIII level approximately 2 IU/dL. The half-life of FVIII is
+approximately 8 - 12 hours and FIX is 18 - 24 hours.43, level III
+Renal
+Deep laceration
+Type of
+Haemorrhage
+Desired
+level
+(IU/dL)**
+Duration
+(Days)
+Central Nervous System/head
+Throat and neck
+Gastrointestinal
+Surgery (major)
+Surgery (minor)
+Duration
+(Days)
+Haemophilia A
+Haemophilia B
+1 - 5, depending on
+type of procedure
+1 - 5, depending on
+type of procedure
+1 - 2
+3 - 5, sometimes
+longer as secondary
+prophylaxis during
+physiotherapy
+1 - 2
+3 - 5, sometimes
+longer as secondary
+prophylaxis during
+physiotherapy
+50 - 80
+30 - 80
+60 - 80
+40 - 60
+30 - 50
+20 - 40
+80 - 100
+60 - 80
+40 - 60
+30 - 50
+1 - 3
+4 - 6
+7 - 14
+1 - 3
+4 - 6
+7 - 14
+50 - 80
+30 - 80
+• Pre-op
+• Post-op
+• Pre-op
+• Post-op
+• Initial
+• maintenance
+• Initial
+• maintenance
+• Initial
+• maintenance
+• Initial
+• maintenance
+50
+50
+80 - 100
+50
+60 - 80
+30
+5 - 7
+3 - 5
+7 - 14
+7 - 14
+80 - 100
+50
+60 - 80
+30
+1 - 7
+8 - 14
+1 - 7
+8 - 14
+80 - 100
+50
+80 - 100
+30 - 60
+60 - 80
+30 - 60
+2 - 3, sometimes
+longer if response
+is inadequate
+2 - 3, sometimes
+longer if response
+is inadequate
+40 - 60
+40 - 60
+1 - 2 , may be longer
+if response is
+inadequate
+1 - 2 , may be longer
+if response is
+inadequate
+40 - 60
+40 - 60
+60 - 80
+30
+1 - 7
+8 - 21
+1 - 7
+8 - 21
+5 - 7
+3 - 5
+40
+40
+Superficial muscle/ no neurovascular compromise (except iliopsoas)
+Joint
+Iliopsoas and deep muscle with neurovascular injury, or substantial blood loss
+Desired
+level
+(IU/dL)**
+Management of Haemophilia
+•
+A formula for dose of factor concentrate calculation is as follows:
+Dose required = (desired % rise - baseline level) x (kg body weight)
+K
+•
+For severe haemophilia, the baseline level is assumed to be 0%.
+K = 2.0 for plasma-derived FVIII (Haemophilia A) or 1.5 for
+recombinant FVIII
+1.0 for plasma-derived FIX (Haemophilia B) or 0.6 for
+recombinant FIX
+Source: Haemophilia and Bleeding Disorders Protocol. Ampang Hospital, 2012
+(unpublished document)
+Recommendation 7
+•
+Acute bleed in persons with haemophilia (PWH) should be treated
+with factor replacement as soon as possible, preferably within two
+hours.
+ The desired factor level is dependent on site and severity*;
+usually it is given until bleeding resolves.
+ Factor replacement should precede investigation and aim to
+achieve factor level of 100% for life-threatening bleed.
+*Refer to Table 10.
+Management of Haemophilia
+7. TREATMENT OF MUSCULOSKELETAL COMPLICATIONS
+7.1 Synovitis
+Synovitis is defined as hypertrophy and hypervascularity of the
+synovium characterised by painless chronic swelling of the affected joint,
+evidenced by clinical examination and imaging e.g. US and/or MRI.33
+The goal of treatment is to deactivate the synovium as soon as possible
+and preserve joint function. The treatment modalities include:
+•
+factor concentrate replacement (refer to Table 10)
+•
+physiotherapy (refer to Subchapter 5.1)
+•
+NSAIDs (COX-2 inhibitors) to reduce inflammations
+•
+synovectomy including radiosynovectomy (RS)
+RS is a local form of radiotherapy that involves intra-articular injection
+of small radioactive particles to treat synovitis. It offers a conservative
+alternative to surgical synovectomy in patients with synovitis and
+recurrent bleeding in the target joint, which has proven refractory to
+intensive treatment with clotting factor concentrates.33
+RS is an effective, safe and minimally invasive procedure in haemophilic
+synovitis with:44, level III
+•
+significant reduction in articular pain (69.4%), haemarthrosis
+(64.1%), and degree of synovitis (31.3%)
+•
+improvement in WFH clinical score (19%)
+•
+small number of patients (0.9%) develop complications e.g. knee
+septic arthritis, severe swelling or small cutaneous burn
+•
+no patient develop cancer
+There is no difference in outcomes between patients with prophylaxis
+and on-demand treatment.
+In synovitis (haemophilia and VWD) treated with RS using rhenium-186,
+the mean time to progression (TTP) is:45, level II-3
+•
+72.0 + 4.8 months with a median follow-up of 36 months for ankle
+•
+67.5 + 6.5 months with a median follow-up of 35 months for
+elbow joint
+There is significant inverse correlation between the number of joint
+bleeding in both ankle and elbow within six months after therapy and
+TTP (p<0.05). This is independent of patient’s age, haemophilia type
+and severity, inhibitor status, radiological score, ROM status and pretreatment bleeding frequency.
+Recommendation 8
+•
+Radiosynovectomy should be considered in haemophilic synovitis
+with recurrent bleeding in the target joint.
+Management of Haemophilia
+7.2 Joint Arthropathy and Contracture
+Chronic haemophilic arthropathy may occur from the second decade of
+life or earlier, depending on the severity of bleeding and its treatment.
+The goals of treatment are to improve joint function, relieve pain and
+assist PWH to continue/resume normal ADL.
+The treatment includes:
+•
+pain management (refer to Subchapter 5.2.3)
+•
+rehabilitation (refer to Subchapter 5.1.1)
+•
+secondary prophylaxis should be optimised
+Surgical intervention may be considered if these conservative measures
+fail. These may include prosthetic joint replacement for severe disease
+involving a major joint (knee, hip, shoulder and elbow). For surgical
+procedure, adequate resources, including sufficient factor concentrates,
+laboratory support and post-operative rehabilitation, must be available.
+In PWH, joint contracture can be treated by:
+•
+botulinum toxin injection46, level II-3
+•
+muscle release surgery47, level III
+7.3 Pseudotumour
+Pseudotumour is a rare complication of haemophilia, occuring in 1 - 2%
+of the haemophilic population.
+A pseudotumour is an encapsulated haematoma with a thick, fibrous
+capsule. Repeated cycles of bleeding and calcification will lead to
+progressive enlargement of the mass and subsequent erosion of the
+adjacent bone. The rich vascular supply of the capsule is the cause of
+excessive bleeding during and after surgery, and this vascular supply
+usually originates from more than a single artery.
+There are two types of pseudotumour:
+•
+proximal pseudotumour
+•
+distal pseudotumour
+Proximal pseudotumour frequently occurs in the proximal axial skeleton,
+especially around the femur and pelvis. This slow growing tumour
+occurs more frequently in adults and do not respond to conservative
+treatment.48, level III
+Distal pseudotumour predominantly affects younger age group, develop
+rapidly and appear to be secondary to an intraosseous haemorrhage.
+The sites of the tumour includes tibia, metacarpal, phallanges,
+paranasal sinus,48, level III mandible and maxilla.49, level III
+Management of Haemophilia
+Pseudotumour generally presents with painless, firm, expanding
+masses that may appear to be multilocular and adherent to the deeper
+structures. It may remain asymptomatic until complications occur.48, level III
+The typical radiological features are large soft-tissue masses and areas
+of adjacent bone destruction. Calcification within the mass is a frequent
+finding. Pseudotumour of the ilium may cause significant bony erosion
+with little new periosteal bone formation.48, level III
+Untreated pseudotumour leads to complications e.g.:
+•
+fistulisation to skin or intraabdominal organs
+•
+infection
+•
+pathological fracture
+•
+septicaemia
+•
+internal bleeding
+•
+death
+Treatment for pseudotumour
+a. Proximal pseudotumour
+•
+Surgical resection
+Surgical resection is curative and should ideally be performed in a
+HCCC. This procedure is usually difficult and carries a high complication
+rate including vascular and neurological damage, haemorrhage and
+infection.
+•
+Embolisation:48, level III
+ serves as a sole therapeutic modality to reduce the size and
+stabilise the pseudotumour where surgery poses a great risk of
+life-threatening haemorrhage
+ has a role to minimise the vascularisation of the pseudotumour
+and reduce its size prior to surgery
+b. Distal pseudotumour
+•
+Irradiation
+Irradiation works by causing direct injury to the blood vessels feeding
+the pseudotumour and disruption to the endothelial proliferation of
+the wall of the pseudotumour. It is indicated when the pseudotumour
+occurs in multiple sites, inaccessible sites and sites where anatomy
+and function should be preserved. The treatment involves a total dose
+of 6 - 23.5 Gy (2 Gy per fraction) together with factor replacement. It is
+effective if the pseudotumour is <10 cm.48, level III
+•
+Curettage and filling with:50, level III; 51, level III; 52, level III
+ fibrin seal and cancellous bone graft (involvement of soft tissue
+and bone)
+ cancellous bone graft alone (bone involvement)
+Management of Haemophilia
+8. INHIBITORS
+Inhibitors are antibodies that neutralise clotting factors which develop
+following factor replacement therapy. Presence of inhibitors lead to
+ineffective factor replacement therapy. The cumulative incidence (i.e.
+lifetime risk) of inhibitor development is:2
+•
+20 - 30% in severe haemophilia A
+•
+5 - 10% in mild or moderate haemophilia A
+•
+<5% in haemophilia B
+Risk factors of inhibitor development are:
+•
+high intensity treatment of clotting factor [FVIII concentrate
+>150 IU/kg/week within the first 8 - 12 weeks of therapy (HR=1.9,
+95% CI 1.3 to 2.8)]53, level II-2
+•
+FVIII genotype - large deletions and nonsense mutations
+have higher risk compared with intron 22 inversions [pooled
+OR=3.6 (95% CI 2.3 to 5.7) and OR=1.4 (95% CI 1.1 to 1.8)
+respectively]20, level II-2
+•
+family history of inhibitors (RR=3.5, 95% CI 1.5 to 8.1)19, level II-2
+Regular prophylaxis is associated with a lower risk of inhibitor
+development than on-demand treatment.19 - 20, level II-2
+•
+Inhibitors can develop in all patients who have been exposed to
+factor concentrates.
+•
+Presence of inhibitors should be suspected in the following
+situations:
+ poor response to replacement therapy
+ recovery assays are not as expected
+ increase bleeding episodes despite optimal prophylaxis
+•
+Inhibitor should be screened:2
+ at regular intervals
+-
+for children - once every five exposure days until 20 exposure
+days, then every 10 exposure days between 21 and 50
+exposure days, then at least twice a year until 150 exposure
+days
+-
+for adults with >150 exposure days, every 6 - 12 months
+ after intensive treatment for >5 days, within four weeks of the last
+infusion
+ prior to surgery
+Recommendation 9
+•
+Screening for inhibitor should be done in all persons with haemophilia
+exposed to factor replacement therapy.*
+*Refer to the preceding yellow box.
+Management of Haemophilia
+8.1 Treatment of Acute Bleeding in PWH with Inhibitors
+The main treatment option for bleeding episodes in PWH with inhibitors
+is bypassing agents e.g. rFVIIa or aPCC. These agents bypass the
+coagulation pathway that normally utilises FVIII. aPCC should be used
+with caution in patients planned for ITI as it may cause anamnestic
+response with the rise of inhibitor levels.
+rFVIIa and aPCC are equally effective and well tolerated with no
+increase in thromboembolic risk in the treatment of acute bleeding
+episodes in haemophilia with inhibitors.54, level I
+The dose of rFVIIa is 90 - 120 µg/kg rounded up to the nearest vial
+size, given every 2 - 3 hours until haemostasis achieved. Equivalent
+effectiveness and safety have been demonstrated with a single dose
+of 270 µg/kg vs three doses of 90 µg/kg54, level I aPCC can be used at
+doses of 50 - 100 IU/kg given every 8 - 12 hours, but should not exceed
+200 IU/kg/day.33; 54, level I
+Home treatment with bypassing products is effective in haemostasis
+and safe with no serious adverse events.55, level II-3
+Recommendation 10
+•
+Bypassing agents should be used to treat acute bleeding in
+haemophilia with inhibitors.
+8.2 Prophylaxis Therapy in PWH with Inhibitors
+There is a role for prophylaxis with bypassing agents in PWH with
+inhibitors. In a Cochrane systematic review:56, level I
+•
+both bypassing agents as prophylaxis were significantly effective
+in reducing bleeding as compared with on-demand group
+•
+there was lack of evidence on the superiority of one agent over
+the other
+•
+there was no significant difference between high dose 270 ug/
+kg daily and low dose 90 ug/kg daily rFVIIa regimen in reducing
+overall bleeding and serious adverse events while the prophylaxis
+dose for aPCC is 85 ± 15 IU/kg three times a week or every other
+day
+Prophylaxis can be considered after life-threatening bleed or in frequent
+bleeders. However, the high cost limits its use. Based on current local
+price, the estimated cost of prophylactic aPCC in a 50 kg patient is
+RM4.5 million/year (1 vial of 500 IU=RM2726).
+Management of Haemophilia
+Novel agents such as SC emicizumab, concizumab and fitusiran are
+being investigated as alternative prophylaxis for PWH with inhibitors.
+Emicizumab, a bispecific monoclonal antibody that bridges factor IXa
+and factor X, and given as a weekly SC injection has been approved
+by FDA and EMA.
+8.3 Eradication of Inhibitors
+The rationale for advocating immune tolerance induction (ITI) in PWH
+with inhibitor is because treatment with bypassing agents is suboptimal
+as compared with factor replacement therapy in PWH without inhibitor.
+Hence, eradication of inhibitor is important to put the patient back on
+prophylactic therapy with factor concentrate.
+ITI is a therapy where repeated medium to large doses of factor
+concentrate are administered over a period of weeks to years to
+induce antigen specific tolerance and reduce inhibitory antibodies.
+It is carried out until the antibodies disappear. There are different
+regimens consisting of various factor dosages with or without immune
+suppression. The success rate in haemophilia A is about 50 - 80%57, level III
+and haemophilia B 13 - 31%.58, level III
+Initiation of ITI should be postponed until the inhibitor titre has dropped
+to <10 BU. An inhibitor titre of <10 BU immediately before ITI initiation
+positively affects both the likelihood of success and the time required to
+achieve tolerance.59, level III
+Consider starting ITI regardless of the inhibitor titre if:59, level III
+•
+the inhibitor titre does not fall below 10 BU within a 1- to 2-year
+period of close observation or
+•
+a severe life- or limb-threatening bleeding event occurs
+•
+Prerequisite for starting ITI to ensure no interruption of treatment for
+best response:
+ commitment from PWH with inhibitor/care giver
+ good venous access
+ adequate budget
+Management of Haemophilia
+Refer to Table 11 for dose recommendations on initial regimens and
+escalation of low-or intermediate-dose regimens based on response
+and breakthrough bleeds.
+Table 11. Regimen for ITI
+Source: Collins P, Chalmers E, Alamelu J, et al. First-Line Immune Tolerance
+Induction for Children with Severe Haemophilia A: A Protocol from The UK
+Haemophilia Centre Doctors’ Organisation Inhibitor and Paediatric Working
+Parties. Haemophilia. 2017; 23:654-659
+In a Cochrane systematic review, the time taken to eradicate inhibitor
+was shorter in the high dose regimen (200 IU/kg/day) as compared with
+low dose (50 IU/kg three times a week) resulting in less bleeding event
+(p=0.027). However, there was no difference in successful tolerance
+between the two regimens (RR=1.07, 95% CI 0.68 to 1.68).60, level I
+The off-label use of rituximab had been shown in some studies to be
+effective in eradicating inhibitors in haemophilia. A durable remission
+was achieved in 53.1% with no serious adverse reactions reported. The
+response was better in mild/moderate haemophilia and with concomitant
+treatment with factor VIII concentrates and immunosuppressive
+agents.61, level III
+Recommendation 11
+•
+Immune tolerance induction should be considered in all persons
+with haemophilia with inhibitor.
+• Start ITI at a dose of 50 IU/kg every other day
+• To control clinically significant breakthrough bleeds,
+escalate to daily treatment, then only increase the dose by
+increments of 50 IU/kg/day up to 200 IU/kg/day
+• If the inhibitor titre on this ITI regimen increases above 40
+BU, increase dose immediately to 100 IU/kg/day. If the
+inhibitor titre increases above 200 BU, increase the dose
+immediately to 200 IU/kg/day
+• Start ITI at a dose of 100 IU/kg/day
+• To control clinically significant breakthrough bleeds,
+escalate the dose by increments of 50 IU/kg/day up to 200
+IU/kg/day
+• If the inhibitor titre rises to >200 BU, increase dose
+immediately to 200 IU/kg/day
+• Start ITI at a dose of 100 IU/kg/day
+<5 BU
+>5 and <200 BU
+>200 BU
+Historic peak
+inhibitor titre
+Regimen
+Management of Haemophilia
+9. HOME THERAPY
+Home therapy is part of haemophilia comprehensive care, where the
+administration of replacement therapy is done outside hospitals, with
+its safety and effectiveness closely supervised.62, level III
+Home therapy allows immediate access to clotting factor. The earlier
+the factor is initiated, ideally within two hours of bleeding onset, the
+faster the bleeding will resolve.2 PWH who practice home therapy have
+better QoL compared with those who do not. They have a lower risk of
+hospitalisation for bleeding (RR=0.8, 95% CI 0.7 to 0.9).63, II-2
+•
+Requirements for home therapy
+ Initiation of home therapy should only be done after adequate
+education and training. This is followed by close supervision of
+its safety and efficacy. Education should include:2
+-
+general knowledge of haemophilia
+-
+recognition of bleeds and common complications
+-
+first aid measures
+-
+dosage calculation, preparation, storage and administration
+of clotting factor concentrates
+-
+aseptic techniques and venepuncture techniques (or access
+of central venous catheter)
+-
+record keeping
+-
+proper storage and disposal of needles/sharps, and handling
+of blood spills
+E-learning programme improves knowledge and skills of PWH on home
+treatment (p=0.002).64, level I
+Recommendation 12
+•
+Home therapy should be advocated to all persons with haemophilia.
+Central venous access device
+It is essential to have patent venous access for factor delivery in PWH.
+Peripheral venous is the route of choice; however, central venous
+access device (CVAD) facilitates easier factor administration in young
+children with small and difficult veins.2
+CVAD is indicated in PWH with difficult venous access who require
+immune tolerance induction therapy or prophylaxis.65, level III
+However, despite the benefits of CVAD, its usage in haemophilia should
+be approached cautiously because of its potential complications e.g.
+risk of surgery, infection, mechanical complication, thrombosis and should
+only be inserted and used in centres with expertise of CVAD.2; 65, level III
+Management of Haemophilia
+Risk factors for CVAD infections are:
+•
+patient with inhibitors at insertion (p=0.0040)65, level III
+•
+age under six years at the time of insertion66, level lll
+•
+external catheter devices compared to implanted ports66, level lll
+An arteriovenous fistula is a feasible option for venous access in
+haemophilia but formation of a fistula in a haemophiliac and its
+management should only be done in centres with this expertise
+and there are associated risks as well (inadequate maturation and
+hypertrophy of the fistula arm).67, level II-2
+Management of Haemophilia
+10. ADHERENCE IN HAEMOPHILIA TREATMENT
+Adherence is defined as the extent to which a person’s behaviour on
+taking medication, following diet, and/or executing lifestyle changes
+corresponds with agreed recommendations from a healthcare
+provider.68, level III Life-long dedication and adherence to prophylactic
+therapy is crucial to prevent bleeding and maintain good health in PWH.
+a. Factors influencing adherence
+•
+Motivators for haemophilia treatment adherence:
+ experience of bleeding symptoms (p<0.05)69, level III
+ good relationship with healthcare providers (p<0.001)69, level III
+ positive belief in necessity of treatment (p<0.01)69, level III
+ haemophilia perceived as a highly chronic condition
+(p=0.003)70, level III
+ less negative emotions (p=0.023)70, level III
+•
+Barriers for haemophilia treatment adherence:69, level III
+o absence or infrequent bleeding symptoms
+o increasing age (older patients) (p=0.002)
+b. Measures to improve adherence
+•
+Ensure adequate time and resources are allocated for family
+adherence education.71, level II-2
+•
+Promote interventions aiming at PWHs’ acceptance of their
+chronic condition.70, level III
+•
+Target young adults as they are transitioning from adolescence
+and assuming primary responsibility for their haemophilia
+care.71, level II-2
+c. Haemophilia Medication Therapy Adherence Clinic
+•
+(HMTAC) is an adherence programme in Malaysia where trained
+pharmacists assist PWH and caregivers based on structured
+modules to:
+ understand haemophilia and its treatment
+ identify healthy lifestyle decisions which may impact bleeding
+tendencies and factor concentrate use
+ utilise HMTAC team members for queries or feedback on
+problems
+ maintain good attendance at work or school
+•
+Objectives and benefits of HMTAC include:
+ to help PWH understand and treat haemophilia
+ to support PWH and their family through continuous
+supervision of all pharmacotherapy related to bleeding
+disorders
+Management of Haemophilia
+ to educate and empower PWH to be independent and be
+able to do home therapy
+ to lower morbidity and to provide long-term cost-effective
+care
+Recommendation 13
+•
+Haemophilia Medication Therapy Adherence Clinic should be made
+available in all haemophilia treatment centres.
+Management of Haemophilia
+11. SPECIAL SITUATIONS
+11.1 Surgeries and Invasive Procedures
+Surgeries for PWH require proper planning, effective communication
+and multidisciplinary collaboration. It is best managed at or in
+consultation with a comprehensive HTC and the following requirements
+need to be considered:2
+•
+surgery is scheduled early in the week and early in the day for
+optimal laboratory and factor support
+•
+anaesthesiologist involved has experience in treating patients
+with bleeding disorders
+•
+adequate laboratory support for monitoring factor level and
+inhibitor testing
+•
+adequate quantities of factor concentrates must be available
+peri-operatively and during the duration of healing and/or
+rehabilitation
+Pre-operatively, inhibitor screening and inhibitor assay must be carried
+out, particularly if the recovery of the replaced factor is less than
+expected.2
+Surgical procedures can be either major or minor. A major procedure is
+defined as one that requires haemostatic support for a period exceeding
+five consecutive days.2 It often refers to major abdominal, intracranial,
+cardiovascular, spinal, major orthopaedic (e.g. joint replacement)
+and any other surgery with risk of large volume blood loss or blood
+loss into a confined anatomical space. In children this may include
+adeno-tonsillectomy. Minor surgery refers to removal of skin lesions,
+arthroscopy, minor dental procedures and dental extractions.73, level III
+Infusion of factor concentrates is also necessary before invasive
+procedures e.g. lumbar puncture, arterial blood gas or any endoscopy
+with biopsy.2
+The dosage and duration of factor concentrate coverage depends on
+the type of surgery performed (refer to Table 10).
+Recommendation 14
+•
+Persons with haemophilia who need surgery or invasive procedure
+should have an optimal plan (which include adequate factor coverage
+peri-operatively) and managed by a multidisciplinary team.
+Management of Haemophilia
+11.2 Management of Pregnant Carrier
+The care of known carriers of haemophilia should be undertaken by an
+obstetric unit in close liaison with a haemophilia care centre. A written
+management plan should include the haemostatic management of the
+mother and baby.74, level III
+Gender identification should be made during antenatal period by US
+scan between 18 and 20 weeks. Foetal gender can also be determined
+by maternal blood sampling at around 10 weeks of gestation. If the foetus
+is found to be male, the diagnosis of haemophilia maybe confirmed
+by amniocentesis to decide the management at delivery.74, level III In our
+local setting, these tests are available in some private laboratories.
+FVIII level should be measured in carriers during the third trimester of
+pregnancy and if it is <50 IU/dL, clotting factor replacement is necessary
+for surgical or invasive procedures during delivery.2
+In a meta-analysis, delivery of infants with known or suspected
+haemophilia should be atraumatic, regardless of whether it is vaginal or
+caesarean, in order to decrease the risk of bleeding.75, level II-2
+•
+Cranial bleeding occurred with a significantly higher frequency
+in newborns with haemophilia compared with the general
+population i.e.:
+ ICH (OR=44, 95% CI 34.7 to 57.1)
+ extracranial haemorrhage: (OR=8.2, 95% CI 5.38 to12.6)
+•
+In newborns with haemophilia, delivery by caesarean section
+was associated with the lowest risk of ICH (OR=0.34, 95% CI
+0.14 to 0.83).
+•
+Assisted vaginal delivery (forceps and vacuum extraction)
+increased the risk of ICH (OR=4.39, 95% CI1.46 to 13.7).
+•
+The care of known carriers of haemophilia in pregnancy should
+should involve a multidisciplinary team with expertise in haemophilia
+care.
+•
+Route of delivery in haemophilia carriers should be as per obstetric
+indications.
+•
+Assisted vaginal delivery and invasive procedures should be
+avoided in male foetus.
+Intramuscular (IM) vitamin K and hepatitis B vaccination should be
+withheld until haemophilia is excluded. Oral vitamin K should be given
+if there is a delay in diagnosis or if haemophilia is confirmed.74, level III
+Management of Haemophilia
+•
+In view of limitation of laboratory services in the local setting, the
+management of a male newborn of a carrier mother are as follow:
+ the newborn is assumed to have haemophilia until proven otherwise
+ oral vitamin K should be given instead of IM vitamin K
+ hepatitis B vaccination should be given subcutaneously
+ APTT and factor assay should be done as soon as possible to
+confirm haemophilia; cord blood is preferable if feasible.
+Recommendation 15
+•
+All haemophilia carriers should have FVIII level done during third
+trimester of pregnancy.
+ If FVIII level is <50 IU/dL, clotting factor replacement is necessary
+for surgical or invasive procedures during delivery.
+•
+Gender identification should be determined antenatally in
+haemophilia carriers.
+11.3 Vaccination
+Patients with bleeding disorders should receive the recommended
+vaccinations for their age group. However, these vaccinations should
+be given subcutaneously rather than intramuscularly to reduce the
+injection site complications.2
+Hepatitis B vaccination by SC route is as effective as IM route.76, level III
+Recommendation 16
+•
+All injectable vaccinations in haemophilia should be given
+subcutaneously.
+11.4 Circumcision
+Circumcision is not absolutely contraindicated in PWH but should be
+performed cautiously by the surgeon in liaison with the haematologist in a
+haemophilia care centre. However, it should be taken into consideration
+that bleeding and other complications maybe more serious in those
+with inhibitors.
+Fibrin glue is a topical, biological sealant which stimulates the final
+stages of coagulation. It diminishes the risk of post-operative bleeding
+and reduces the need of factor replacement therapy.77, level III; 78, level II-2
+•
+Muzakarah Jawatankuasa Fatwa Majlis Kebangsaan Bagi Hal Ehwal
+Ugama Islam Malaysia Kali Ke-77 has decided that circumcision in
+PWH is considered life-threatening and hence it is not obligatory.79
+Management of Haemophilia
+12. DENTAL CARE
+12.1 Preventive Dental Measures
+Routine dental examination with preventive care should be conducted
+regularly.80, level III In PWH, it should be initiated at the time the baby
+teeth start to erupt.2; 81, level III It is advisable to refer all PWH for oral
+assessment within six months of eruption of the first tooth and no later
+than 12 months of age.82
+Good oral hygiene practice helps to prevent periodontal disease
+(gum disease), dental caries, gum bleeding and the need for dental
+extraction. Brushing teeth twice a day (using soft bristle toothbrush)
+with toothpaste containing fluoride will remove plaque deposits.2; 81, level
+III Dental floss or interdental brush should be used wherever possible.2
+Early childhood caries (ECC) is a significant oral health related disease
+in the baby teeth of young children. Dietary counselling including
+reduced sugar intake should be part of the oral health advice for PWH83,
+level III and those with high risk of ECC.82
+Properly
+designed
+and
+implemented
+oral
+health
+educational
+programmes are helpful to make positive changes in oral health of
+PWH.84, level III; 85, level II-3; 86, level II-1; 87, level III
+Recommendation 17
+•
+In person with haemophilia,
+ comprehensive oral health care should be initiated early within
+six months after the first tooth erupts and no later than 12 months
+ routine dental examination with preventive care measures
+should be conducted regularly throughout life
+ good oral hygiene practice and dietary counselling should be
+advocated to prevent dental diseases
+12.2 Dental Procedures
+Effective and safe dental procedures should be a priority in PWH.
+A multidisciplinary approach involving dental surgeon and the
+haemophilia team is important for comprehensive oral health
+care.2; 80, level III Before performing any invasive dental or surgical
+procedures, the dental surgeon must liase with the haematologist in
+order to prevent or minimise potential bleeding or infection risks. Careful
+planning for haemostatic cover is crucial for PWH with inhibitors.2 With
+respect to local anaesthetic (LA) and factor replacement therapy, the
+recommendations is as stipulated in Table 12.
+Management of Haemophilia
+Table 12. Dental anaesthetic procedures and factor
+replacement therapy
+Source: Anderson JA, Brewer A, Creagh D, et al. Guidance on The Dental
+Management of Patients with Haemophilia and Congenital Bleeding
+Disorders. Br Dent J. 2013;215(10):497-504
+*In local practice, these procedures are best avoided for paediatric
+patient.
+Locally, different types of dental local anaesthetic are used e.g.
+mepivacaine hydrochloride (HCL) 2%, lignocaine HCL 2% and articaine
+HCL 4%. The articaine HCL 4% with 1:100,000 epinephrine has been
+described for infiltration as an alternative to inferior dental block in the
+restoration of mandibular molars and may remove the need for preoperative factor cover.80, level III
+PWH must seek immediate care from the haematologist/dental surgeon
+post-operatively if one of these events occur:2
+•
+prolonged bleeding
+•
+difficulty in speaking
+•
+difficulty in swallowing
+•
+difficulty in breathing
+Refer to Subchapter 5.2.3 on Analgesia.
+Malocclusion e.g. overcrowding teeth may lead to periodontal (gum)
+disease if left untreated.88, level III Therefore, an orthodontic assessment
+for PWH should be considered between the ages of 10 - 14 which is
+during the late mixed to early permanent dentition stages.2
+Recommendation 18
+•
+Comprehensive oral health care in haemophilia should be performed
+by a multidisciplinary team which include a dental surgeon.
+• Labial/buccal infiltration
+• Intra-papillary injections
+• Intra-ligamentary injections
+• Inferior dental block/
+mandibular block*
+• Lingual infiltration*
+Procedures that do not require factor cover
+(applies to adult patients only). Paediatric
+patients may receive factor replacement
+therapy before local anaesthetic infiltration
+as advised by haematologist
+Procedures that require factor
+cover (applies to both adult
+and paediatric patients)
+Management of Haemophilia
+12.3 Management of Oral Bleeding
+Causes of oral bleeding in PWH include:
+•
+eruption of permanent teeth with exfoliation of baby teeth83, level III
+•
+gingival/gum bleeding associated with poor oral hygiene2
+•
+trauma2
+•
+invasive dental procedures e.g. dental extractions, surgical
+procedures, etc.2
+In children with haemophilia, the surrounding gum may appear bluish
+and swollen when the baby teeth are erupting or teething. Normally,
+these conditions do not bleed. Therefore, it is suggested to allow the
+baby teeth to self-exfoliate in order to minimise risk of bleeding.83, level III
+In local setting, extraction is indicated when the baby tooth is mobile
+and causes gum bleeding. The need for factor coverage should be
+discussed with the haematologist.
+The type of dental procedures significantly affects the bleeding
+outcome and can be categorised according to risk of bleeding. Highrisk procedures have higher bleeding outcome compared with low-risk
+procedures (OR=8.97, 95% CI 3.5 to 23).89, level III The risk of bleeding
+in dental procedures is shown in Table 13.
+Table 13. Dental procedures and risk of bleeding
+Source: Givol N, Hirschhorn A, Lubetsky A, et al. Oral Surgery-Associated
+Postoperative Bleeding in Haemophilia Patients - A Tertiary Centre’s Two
+Decade Experience. Haemophilia. 2015; 21(2):234-40
+Antifibrinolytic agents e.g. TXA and epsilon aminocaproic acid therapy
+administered systemically in PWH undergoing minor oral surgery or
+dental extraction are beneficial in preventing post-operative bleeding
+(RD= -0.57, 95% CI -0.76 to -0.37). The antifibrinolytic agents reduce
+the need for clotting factor concentrates and post-operative bleeding.
+No significant adverse events have been reported.90, level I
+• Flap elevation
+• Teeth extractions
+• Crown lengthening procedure
+• Soft tissue biopsy
+• Scaling and/or root planning
+• Inferior alveolar nerve block
+• Restorative treatment e.g. filling, crown, bridge, etc.
+• Prosthodontics treatment e.g. denture fabrication, root
+canal treatment, etc.
+• Orthodontic treatment
+High-risk
+Low-risk
+Type of dental procedure
+Level of risk
+Management of Haemophilia
+Antifibrinolytic therapy in the form of TXA 5% weight/volume mouthwash
+(four times a day) should be kept in the mouth for two minutes before
+discarding.91, level III Oral TXA and/or 5% TXA mouthwash should be
+prescribed alone or in combination pre- and post-dental extraction for up
+to seven days. The mouthwash should not be given to younger children
+as they may inadvertently swallowed it, leading to overdosage.80, level III
+In local setting, compression of the bleeding area using gauze soaked
+with diluted TXA (TXA 500 mg diluted in 10 ml of distilled water) is used
+until bleeding stops.
+In PWH undergoing dental extractions, bleeding may be minimised
+by using either resorbable or non-resorbable sutures, surgical splints
+and other additional local haemostatic measures.80, level III Factor
+replacement may be required for PWH according to the haematologist’s
+care plan.2
+•
+The relative risk of bleeding in person with haemophilia depends on
+the types of dental procedures.
+•
+Antifibrinolytic therapy reduces the need for clotting factor
+concentrate and post-operative oral bleeding.
+Management of Haemophilia
+13. MONITORING
+Haemophilia care involves managing PWH from birth until adulthood.
+Clinical follow-up of PWH has become more complex with the
+introduction of new treatment strategies and the emergence of new
+tools to evaluate the medical and social consequences.
+Regular and standardised evaluation should be done at least
+12-monthly so that problems are identified early and treatment modified
+accordingly.2 The parameters to monitor are:
+•
+inhibitors
+•
+bleed frequency
+•
+joint health
+•
+radiological measures
+13.1 Inhibitors
+Refer to Chapter 8 on Inhibitors.
+13.2 Bleeding Frequency
+Bleeding pattern is the key parameter to evaluate the efficacy of
+treatment strategy and thus, information on bleeding episodes should
+be thoroughly documented. Issues related to haemostasis (bleed
+record) should be evaluated.2
+Standard assessment of bleed frequency includes ABR, which is the
+number of bleeds collected over 12 consecutive months. In addition
+to ABR, annual joint bleeding rate (AJBR) should be specified.92, level III
+ABR is calculated based on the following formula:93, level I
+ABR
+=
+Number of bleeding events
+(Number of days receiving treatment/365.25 days)
+Information to be recorded on haemarthrosis and other types of
+bleeding are:92, level III; 94, level III
+•
+number of episodes
+•
+time and site of each bleed
+•
+provoked (i.e. traumatic) or spontaneous bleed
+•
+target joint or non-target joint bleed
+•
+dose, number, interval and response to factor administration
+In PWH treated with early prophylaxis, self-reported bleeding does
+not significantly correlate with any other outcome parameters (ABR
+with HJHS: r=0.107; Functional Independence Score in Haemophilia
+(FISH): r=0.300; Pettersson scores: r=0.016; Arnold-Hilgartner (AH)
+Management of Haemophilia
+scores: r=0.081; and additive and progressive scores: r=0.073 and
+0.066 respectively).95, level III
+In addition to self-reported bleeding, outcome assessment in PWH
+on long-term prophylaxis should include objective joint assessment,
+assessment of activities and health-related QoL.15, level III
+13.3 Joint Health
+Preservation of good joint status is an important component of
+haemophilia care. The HJHS is a clinical measure of joint structure and
+function. It is more efficient than WFH score at differentiating:96, level III
+•
+severe from mild and moderate haemophilia (97%, p=0.003)
+•
+subjects treated with prophylaxis from those treated on-demand
+(74%, p=0.003)
+Inter-physiotherapist discrepancies in routine HJHS have been shown
+to hamper comparison of scores between treatment regimens.97, level III
+Thus, training of physiotherapist on HJHS assessment is essential.
+HJHS may be used safely as a first-line tool for monitoring of joint
+health as it has significantly strong correlation with radiological scores
+(r=0.67), moderate correlation with physical domains of the quality of life
+questionaire (SF-36) (r= -0.50), utility (r= -0.41),15, level III and MRI scores
+(r=0.444 with additive score and r=0.440 with progressive score).95, level III
+It is recommended to do HJHS at least once a year.94, level III Refer to
+Appendix 8 on HJHS Score.
+13.4 Radiological Measures
+Diagnostic imaging provides objective information on the joint status
+in PWH.
+In PWH on prophylaxis, imaging of the six major joints (knees, ankles
+and elbows) should be considered at the age of eight years or before
+if clinically indicated. Usual interval is at 4- to 5-year intervals.94, level III
+When using conventional radiography for assessment, WFH
+recommends the use of Pettersson score.2 The Pettersson scoring
+system has excellent reliability when used by radiologists experienced
+in reading musculoskeletal images. It can be used for assessment of
+advanced osteochondral changes.92, level III Refer to Appendix 9 on
+Pettersson Score.
+MRI and USG can detect early soft-tissue and osteochondral changes
+in a joint before they become apparent on physical examination or plain
+radiographs.92, level III
+Management of Haemophilia
+A systematic review showed that USG had the ability to detect pathological
+changes e.g. synovial thickening and osteochondral abnormalities in
+haemophilic joints. There was association between USG findings and
+functional status of the joint. However, its ability to detect a change in
+arthropathy with therapy has yet to be determined.98, level III
+The current practice of prescribing clotting factor or conservative
+measures based on pain perception seems inadequate. There are
+discrepancies between musculoskeletal USG findings and patient/
+physician-perceived pain aetiology. Only approximately one-third of
+the painful musculoskeletal episodes are judged correctly either by the
+patient or physician. Thus, USG should be part of the assessment when
+PWH presents with musculoskeletal pain.99, level III
+In a systematic review on MRI as a tool for evaluating haemophilic
+arthropathy in children, MRI had good diagnostic accuracy for
+discriminating the presence of arthropathy. The association between
+early MRI findings and long-term functional joint outcomes has yet to
+be determined.100, level II- 2
+Recommendation 19
+•
+Monitoring of care in person with haemophilia should include:
+ Annual Bleeding Rate
+ inhibitor screening*
+ Annual Haemophilia Joint Health Score
+ ultrasound of knee, ankle and elbow when feasible
+*Refer to Chapter 8 on Inhibitor.
+Management of Haemophilia
+14. IMPLEMENTING THE GUIDELINES
+The management of haemophilia should be guided by evidence-based
+approach in order to provide quality care to the patients. Several factors
+may affect the implementation of recommendations in the CPG.
+14.1 Facilitating and Limiting Factors
+Existing facilitators for application of the recommendations in the CPG
+include:
+a. wide dissemination of the CPG to healthcare providers (hard-
+and soft-copies)
+b. regular topic update for healthcare providers via continuous
+medical education (seminar/conference/course)
+c. National Haemophilia Programme
+d. involvement of governmental/NGOs e.g. World Haemophilia
+Day, Haemophilia Camp, etc.
+e. accessibility to relevant multidisciplinary teams
+Existing barriers for application are:
+a. poor understanding/limited knowledge on the topic
+b. insufficient resources in terms of budget, expertise, diagnostic
+tools, medications
+c. no national registry
+d. variation in clinical management and preferences
+e. low priority on the issue by the stakeholders
+14.2 Potential Resource Implications
+To implement the CPG, there must be strong commitment to:
+a. ensure widespread distribution of the CPG to health care
+personnel via printed copies, electronic websites, etc.
+b. reinforce training of health care personnel by regular seminars or
+workshops to ensure information is made available
+c. develop multidisciplinary teams at hospital and community level
+to include involvement of specialists, medical/dental officers,
+pharmacists, allied health professional and nurses
+d. ensure screening and monitoring facilities, and medications are
+available at HTC
+e. ensure widespread distribution of patient education materials
+Management of Haemophilia
+The following is proposed as clinical audit indicator for quality
+management of haemophilia:
+*Monitoring by ABR, inhibitor screening and HJHS
+Implementation strategies will be developed following the approval of
+the CPG by MoH which include launching of the CPG, Quick Reference
+and Training Module.
+=
+X 100%
+Percentage of
+prophylactic factor
+infusion given to person
+with severe haemophilia
+Total number of persons with
+severe haemophilia in the same year
+Total number of persons with
+severe haemophilia receiving
+prophylaxis factor infusion in a year
+=
+X 100%
+Percentage of monitoring*
+done in PWH
+Total number of PWH in a year
+Total number of PWH
+being monitored* in a year
+Management of Haemophilia
+REFERENCES
+1.
+Stonebraker JS, Bolton-Maggs PH, Michael Soucie J, et al. A study of variations
+in the reported haemophilia B prevalence around the world. Haemophilia.
+2012;18(3):e91-94
+2.
+World Federation of Haemophilia. Guidelines for the Management of Haemophilia
+(2nd edition ). Montréal: Blackwell Publishing Ltd; 2012
+3.
+Keeney S, Mitchell M, Goodeve A. Practice guidelines for the molecular diagnosis
+of Haemophilia A. (Available at: http://www.ukhcdo.org/docs/Haemophilia%20
+A%20BPG%20revision%20Sept%202011%20APPROVED.pdf)
+4.
+Australian Haemophilia Centre Directors’ Organisation’s. Guidelines for the
+management of haemophilia in Australia. Malvern East: AHCDO; 2016
+5.
+Keeney S, Mitchell M, Goodeve A. Practice Guidelines for the Molecular Diagnosis
+of Haemophilia B. (Available at: http://www.acgs.uk.com/media/774631/
+haemophilia_b_bpg_revision_sept_2011_approved.pdf)
+6.
+European guidelines for the certification of Haemophilia Centres, Sheffield,
+UK, European Haemophilia Network, 2013 (Available at http://www.euhanet.
+org/docs/EuhanetEuropean_guidelines_for_the_certification_of_Haemophilia_
+Centres_2013.pdf)
+7.
+Evatt B. World Federation of Hemophilia Guide to Developing a National Patient
+Registry. Montréal: WFH; 2005
+8.
+Osooli M, Berntorp E. Registry-based outcome assessment in haemophilia: a
+scoping study to explore the available evidence. J Intern Med. 2016;279(6):
+502-514
+9.
+Dolan G, Makris M, Bolton-Maggs PH, et al. Enhancing haemophilia care
+through registries. Haemophilia. 2014;20 Suppl 4:121-129
+10. Ljung RC. Intracranial haemorrhage in haemophilia A and B Br J Haematol.
+2008;140(4):378-384
+11. Witmer C, Presley R, Kulkarni R, et al. Associations between intracranial
+haemorrhage and prescribed prophylaxis in a large cohort of haemophilia
+patients in the United States. Br J Haematol. 2011;152(2):211-216
+12. Farrugia A. Guide for the assessment of clotting factor (3rd edition). Montreal:
+WFH; 2017
+13. Peyvandi F, Mannucci PM, Garagiola I, et al. Randomized Trial of Factor VIII and
+Neutralizing Antibodies in Hemophilia A. N Engl J Med. 2016;374(21):2054-2064
+14. Malaysia MoH. Management of Haemophilia Putrajaya: MoH; 2012
+15. Fischer K, Nijdam A, Holmström M, et al. Evaluating outcome of prophylaxis
+in haemophilia: objective and self-reported instruments should be combined.
+Haemophilia. 2016;22(2):e80-86
+16. Iorio A, Marchesini E, Marcucci M, et al. Clotting factor concentrates given to
+prevent bleeding andbleeding-related complications in people with hemophilia
+A or B.Cochrane Database of Systematic Reviews 2011, Issue 9. Art.
+No.:CD003429
+17. Manco-Johnson MJ, Kempton CL, Reding MT, et al. Randomized, controlled,
+parallel-group trial of routine prophylaxis vs. on-demand treatment with sucroseformulated recombinant factor VIII in adults with severe hemophilia A (SPINART).
+J Thromb Haemost. 2013;11(6):1129-1127
+18. Andersson NG, Auerswald G, Barnes C, et al. Intracranial haemorrhage
+in children and adolescents with severe haemophilia A or B - the impact of
+prophylactic treatment. Br J Haematol. 207;179(2):298-307
+19. Gouw SC, van der Bom JG, Marijke van den Berg H. Treatment-related risk
+factors of inhibitor development in previously untreated patients with hemophilia
+A: the CANAL cohort study. Blood. 2007;109(11):4648-4654
+Management of Haemophilia
+20. Gouw SC, van den Berg HM, Fischer K, et al. Intensity of factor VIII treatment
+and inhibitor development in children with severe hemophilia A: the RODIN
+study. Blood. 2013;121(20):4046-4055
+21. Fischer K, Steen Carlsson K, Petrini P, et al. Intermediate-dose versus highdose prophylaxis for severe hemophilia: comparing outcome and costs since the
+1970s. Blood. 2013;122(7):1129-1136
+22. Di Perna C, Riccardi F, Franchini M, et al. Clinical efficacy and determinants of
+response to treatment with desmopressin in mild hemophilia a Semin Thromb
+Hemost. 2013;39(7):732-739
+23. Mannucci PM. Desmopressin (DDAVP) in the treatment of bleeding disorders
+(Revised edition). Montréal: WFH; 2012
+24. Rodriguez-Merchan EC. Fibrin glue for local haemostasis in haemophilia surgery
+Hosp Pract (1995). 2017;45(5):187-191
+25. Rattray B, Nugent DJ, Young G. Celecoxib in the treatment of haemophilic
+synovitis, target joints, and pain in adults and children with haemophilia.
+Haemophilia. 2006;12(5):514-517
+26. Tsoukas C, Eyster ME, Shingo S, et al. Evaluation of the efficacy and safety of
+etoricoxib in the treatment of hemophilic arthropathy. Blood. 2006;107(5):17851790
+27. World Health Organisation. WHO guidelines on the pharmacological treatment
+of persisting pain in children with medical illnesses. Geneva: WHO; 2012
+28. Eyster ME, Asaad SM, Gold BD, et al. Upper gastrointestinal bleeding in
+haemophiliacs: incidence and relation to use of non-steroidal anti-inflammatory
+drugs. Haemophilia. 2007;13(3):279-286
+29. Strike K, Mulder K, Michael R. Exercise for haemophilia.Cochrane Database of
+Systematic Reviews 2016, Issue 12. Art. No.:CD011180
+30. Schäfer GS, Valderramas S, Gomes AR, et al. Physical exercise, pain and
+musculoskeletal function in patients with haemophilia: a systematic review.
+Haemophilia. 2016;22(3):e119-129
+31. Negrier C, Seuser A, Forsyth A, et al. The benefits of exercise for patients with
+haemophilia and recommendations for safe and effective physical activity.
+Haemophilia. 2013;19(4):487-498
+32. Cuesta-Barriuso R, Torres-Ortuño A, Pérez-Alenda S, et al. Sporting Activities
+and Quality of Life in Children With Hemophilia: An Observational Study. Pediatr
+Phys Ther. 2016;28(4):453-459
+33. Hanley J, McKernan A, Creagh MD, et al. Guidelines for the management of
+acute joint bleeds and chronic synovitis in haemophilia: A United Kingdom
+Haemophilia Centre Doctors’ Organisation (UKHCDO) guideline. Haemophilia.
+2017;23(4):511-520
+34. Rodríguez-Merchán EC. Articular bleeding (hemarthrosis) in hemophilia: An
+orthopedist’s point of view (Second edition). Montréal: WFH; 2008
+35. Heijnen L, Heim M, Jansen HIdMR. Manufactured shoes and orthopedic shoes
+(Third edition). Montréal: WHF; 2008
+36. Khair K, Littley A, Will A, et al. The impact of sport on children with haemophilia.
+Haemophilia. 2012;18(6):898-905
+37. Gomis M, Querol F, Gallach JE, et al. Exercise and sport in the treatment of
+haemophilic patients: a systematic review. Haemophilia. 2009;15(1):43-54
+38. De Kleijn P, Fischer K, Vogely HCh, et al. In-hospital rehabilitation after multiple
+joint procedures of the lower extremities inhaemophilia patients: clinical
+guidelines for physical therapists. Haemophilia. 2011;17(6):971-978
+39. Nagel K, Pai MK, Paes BA, et al. Diagnosis and treatment of intracranial
+hemorrhage
+in
+children
+with
+hemophilia.
+Blood
+Coagul
+Fibrinolysis.
+2013;24(1):23-27
+Management of Haemophilia
+40. Manners PJ, Price P, Buurman D, et al. Joint Aspiration for Acute Hemarthrosis
+in Children Receiving Factor VIII Prophylaxis for Severe Hemophilia: 11-year
+Safety Data. J Rheumatol. 2015;42(5):885-890
+41. Sørensen B, Benson GM, Bladen M, et al. Management of muscle haematomas
+in patients with severe haemophilia in an evidence-poor world. Haemophilia.
+2012;18(4):598-606
+42. Balkan C, Kavakli K, Karapinar D. Iliopsoas haemorrhage in patients with
+haemophilia: results from one centre. Haemophilia. 2005;11(5):463-467
+43. Björkman S, Berntorp E. Pharmacokinetics of coagulation factors: clinical
+relevance for patients with haemophilia. Clin Pharmacokinet. 2001;40(11):815832
+44. Rodriguez-Merchan EC, De la Corte-Rodriguez H, Jimenez-Yuste V.
+Radiosynovectomy in haemophilia: long-term results of 500 procedures
+performed in a 38-year period. Thromb Res. 2014;134(5):985-990
+45. Zulfikar B, Turkmen C, Kilicoglu O, et al. Long-term outcomes in haemophilic
+synovitis after radiosynovectomy using rhenium-186: a single-centre experience.
+Haemophilia. 2013;19(2):275-280
+46. Daffunchio C, Caviglia H, Nassif J, et al. Knee flexion contracture treated
+with botulinum toxin type A in patients with haemophilia (PWH). Haemophilia.
+2016;22(1):136-141
+47. Rodríguez-Merchán EC, Magallón M, Galindo E, et. al. Hamstring release
+for fixed knee flexion contracture in hemophilia. Clin Orthop Relat Res.
+1997(343):63-67
+48. Espandar R, Heidari P, Rodriguez-Merchan EC. Management of haemophilic
+pseudotumours with special emphasis on radiotherapy and arterial embolization.
+Haemophilia. 2009;15(2):448-457
+49. Kwon AY, Huh KH, Yi WJ, et al. Haemophilic pseudotumour in two parts of the
+maxilla: case report. Dentomaxillofac Radiol. 2016;45(6):20150440
+50. Petratos DV, Pergantou H, Matsinos GS, et al. Intraosseous pseudotumour of
+the talus in a child with severe haemophilia. J Pediatr Orthop B. 2009;18(6):357-61
+51. Caviglia HA, FernAndez-Palazzi F, Gilbert MS. Haemophilic pseudotumours of
+the limbs and their percutaneous treatment. Haemophilia. 2002;8(3):402-406
+52. Sagarra M, Lucas M, De La Torre E, et al. Successful surgical treatment of
+haemophilic pseudotumour, filling the defect with hydroxyapatite. Haemophilia.
+2000;6(1):55-56
+53. Marcucci M, Mancuso ME, E. S, et al. Type and intensity of FVIII exposure on
+inhibitor development in PUPs with haemophilia A. A patient-level meta-analysis.
+Thromb Haemost. 2015;113(5):958-967
+54. Matino D, Makris M, Dwan K, et al. Recombinant factor VIIa concentrate versus
+plasma-derived concentrates for treating acute bleeding episodes in people with
+haemophilia and inhibitors. Cochrane Database of Systematic Reviews 2015,
+Issue 12. Art. No.: CD004449
+55. Holme PA, Glomstein A, Grønhaug S, et al. Home treatment with bypassing
+products
+in
+inhibitor
+patients:
+a
+7.5-year
+experience.
+Haemophilia.
+2009;15(3):727-732
+56. Chai-Adisaksopha C, Nevitt SJ, Simpson ML, et al. Bypassing agent prophylaxis
+in peoplewith hemophilia A or B with inhibitors. Cochrane Database of Systematic
+Reviews 2017, Issue 9. Art. No.: CD011441
+57. Coppola A, Di Minno MN, Santagostino E. Optimizing management of immune
+tolerance induction in patients with severe haemophilia A and inhibitors: towards
+evidence-based approaches. Br J Haematol. 2010;150(5):515-528
+58. DiMichele DM. Immune tolerance in haemophilia: the long journey to the fork in
+the road. Br J Haematol. 2012;159(2):123-134
+Management of Haemophilia
+59. DiMichele DM, Hoots WK, Pipe SW, et al. International workshop on immune
+tolerance induction: consensus recommendations. Haemophilia. 2007;13 Suppl
+1:1-22
+60. Athale AH, Marcucci M, Iorio A. Immune tolerance induction for treating inhibitors
+in people with congenital haemophiliaA or B. Cochrane Database of Systematic
+Reviews 2014, Issue 4. Art. No.: CD010561
+61. Franchini M, Mengoli C, Lippi G, et al. Immune tolerance with rituximab in
+congenital haemophilia with inhibitors: a systematic literature review based on
+individual patients’ analysis. 2008. Haemophilia;14(5):903-912
+62. Teitel JM, Barnard D, Israels S, et al. Home management of haemophilia.
+Haemophilia. 2004;10(2):118-133
+63. Soucie JM, Symons J 4th, Evatt B, et al. Home-based factor infusion therapy
+and hospitalization for bleeding complications among males with haemophilia.
+Haemophilia. 2001;7(2):198-206
+64. Mulders G, de Wee EM, Vahedi Nikbakht-Van de Sande MC, et al. E-learning
+improves knowledge and practical skills in haemophilia patients on home
+treatment: a randomized controlled trial. Haemophilia. 2012;18(5):693-698
+65. Vepsäläinen K, Lassila R, Arola M, et al. Complications associated with central
+venous access device in children with haemophilia: a nationwide multicentre
+study in Finland. Haemophilia. 2015;21(6):747-753
+66. Ewenstein
+BM,
+Valentino
+LA,
+Journeycake
+JM,
+et
+al.
+Consensus
+recommendations for use of central venous access devices in haemophilia.
+Haemophilia. 2004;10(5):629-648
+67. Mancuso ME, Berardinelli L, Beretta C, et al. Improved treatment feasibility in
+children with hemophilia using arteriovenous fistulae: the results after seven
+years of follow-up. Haematologica. 2009;94(5):687-692
+68. Adherence to Long-term Therapy - Evidence for Action. (Available at: http://
+apps.who.int/medicinedocs/en/d/Js4883e/6.html#Js4883e.6.1.1)
+69. Schrijvers LH, Uitslager N, Schuurmans MJ, et al. Barriers and motivators of
+adherence to prophylactic treatment in haemophilia: a systematic review.
+Haemophilia. 2013.19(3):355-361
+70. Lamiani G, Strada I, Mancuso ME, et al. Factors influencing illness
+representations and perceived adherence in haemophilic patients: a pilot study.
+Haemophilia. 2015;21(5):598-604
+71. Witkop ML, McLaughlin JM, Anderson TL, al e. Predictors of non-adherence
+to prescribed prophylactic clotting-factor treatment regimens among adolescent
+and young adults with a bleeding disorder. Haemophilia. 2016;22(4):e245-250
+72. Ministry of Health Malaysia. Protocol Haemophilia Medication Therapy
+Adherence Clinic (HMTAC) (First Edition): MoH; 2012
+73. Australian Haemophilia Centre Directors’ Organisation (AHCDO). A Consensus
+Statement on the Dental Treatment of Patients with Inherited Bleeding Disorders
+(Available at: www.ahcdo.org.au/documents/item/14)
+74. Chalmers E, Williams M, Brennand J, et al. Guideline on the management of
+haemophilia in the fetus and neonate. Br J Haematol. 2011;154(2):208-215
+75. Davies J, RA Kadir. Mode of delivery and cranial bleeding in newborns
+with haemophilia: a systematic review and meta-analysis of the literature.
+Haemophilia. 2016;22(1):32-38
+76. Carpenter SL, Soucie JM, Presley RJ, et al. Hemophilia Treatment Center
+Network Investigators. Hepatitis B vaccination is effective by subcutaneous
+route in children with bleeding disorders: a universal data collection database
+analysis. Haemophilia. 2015;21(1):e39-43
+77. Sasmaz I, Antmen B, Leblebisatan G, et al. Circumcision and complications
+in patients with haemophilia in southern part of Turkey: Çukurova experience.
+Haemophilia. 2012;18(3):426-430
+Management of Haemophilia
+78. Avanogmacr;lu A, Celik A, Ulman I, et al. Safer circumcision in patients with
+haemophilia: the use of fibrin glue for local haemostasis. BJU Int. 1999;83(1):91-94
+79. Hukum Khatan Bagi Pesakit Heamophilia Dan Kanak-Kanak Cacat Akal. Kuala
+Lumpur, Malaysia, Muzakarah Jawatankuasa Fatwa Majlis Kebangsaan Bagi
+Hal Ehwal Ugama Islam Malaysia, Jabatan Kemajuan Islam Malaysia, 2007
+(Available at http://piswi.islam.gov.my/index.php/himpunan-fatwa/30-himpunanfatwa/sosial/32-hukum-khatan-bagi-pesakit-heamophilia-dan-kanak-kanakcacat-akal)
+80. Anderson JA, Brewer A, Creagh D, et al. Guidance on the dental management
+of patients with haemophilia and congenital bleeding disorders. Br Dent J.
+2013;215(10):497-504
+81. Shastry SP, Kaul R, Baroudi K, et al. Hemophilia A: Dental considerations and
+management. J Int Soc Prev Community Dent. 2014;4(Suppl 3):S147-152
+82. Ministry of Health Malaysia. Management of Severe Early Childhood Caries (2nd
+Edition): MoH; 2012
+83. Scully C, Dios PD, P G. Oral care for people with hemophilia or a hereditary
+bleeding tendency (Second edition). Montréal: WFH; 2008
+84. Evangelista LM, Lima CC, RC I, et al. Oral health in children and adolescents
+with haemophilia. Haemophilia. 2015;21(6):778-783
+85. Gaddam KR, Nuvvula S, Nirmala S, et al. Oral health status among 6- to 12-yearold haemophilic children--an educational intervention study. Haemophilia.
+2014;20(4):e338-341
+86. Kabil N, ElAlfy MS, Metwalli N. Evaluation of the oral health situation of a group of
+Egyptian haemophilic children and their re-evaluation following an oral hygiene
+and diet education programme. Haemophilia. 2007;13(3):287-292. Erratum in:
+Haemophilia. 2011;17(6):979. El Alfy, M [corrected to ElAlfy, M S]
+87. Rajantie H, Alapulli H, Mäkipernaa A, et al. Oral health care in children with
+haemophilia in Helsinki, Finland. Eur Arch Paediatr Dent. 2013;14(5):339-43
+88. Alsulaiman AA, Kaye E, Jones J, et al. Incisor malalignment and the risk
+of periodontal disease progression. Am J Orthod Dentofacial Orthop.
+2018;153(4):512-522
+89. Givol N, Hirschhorn A, Lubetsky A, et al. Oral surgery-associated postoperative
+bleeding in haemophilia patients - a tertiary centre’s two decade experience.
+Haemophilia. 2015;21(2):234-240
+90. van Galen KPM, Engelen ET, Mauser-Bunschoten EP, al e. Antifibrinolytic therapy
+for preventingoral bleeding in patients with haemophilia or Von Willebrand
+disease undergoing minor oral surgery or dental extractions. CochraneDatabase
+of Systematic Reviews 2015, Issue 12. Art. No.: CD011385
+91. Rasaratnam L, Chowdary P, Pollard D, et al. Risk-based management of dental
+procedures in patients with inherited bleeding disorders: Development of a
+Dental Bleeding Risk Assessment and Treatment Tool (DeBRATT). Haemophilia.
+2017;23(2):247-254
+92. Fischer K, Poonnoose P, Dunn AL, et al. Choosing outcome assessment tools
+in haemophilia care and research: a multidisciplinary perspective. Haemophilia.
+2017;23(1):11-24
+93. Valentino LA, Rusen L, Elezovic I, et al. Multicentre, randomized, open-label
+study of on-demand treatment with two prophylaxis regimens of recombinant
+coagulation factor IX in haemophilia B subjects. Haemophilia. 2014;20(3):398406
+94. de Moerloose P, Fischer K, Lambert T, et al. Recommendations for assessment,
+monitoring and follow-up of patients with haemophilia. Haemophilia.
+2012;18(3):319-325
+Management of Haemophilia
+95. Oymak Y, Yildirim AT, Yaman Y, et al. The effectiveness of tools for monitoring
+hemophilic arthropathy. J Pediatr Hematol Oncol. 2015;37(2):e80-85
+96. Feldman BM, Funk SM, Bergstrom BM, et al. Validation of a new pediatric joint
+scoring system from the International Hemophilia Prophylaxis Study Group:
+validity of the hemophilia joint health score. Arthritis Care Res (Hoboken).
+2011;63(2):223-230
+97. Nijdam A, Bladen M, Hubert N, et al. Using routine Haemophilia Joint Health
+Score for international comparisons of haemophilia outcome: standardization is
+needed. Haemophilia. 2016;22(1):142-147
+98. Ligocki CC, Abadeh A, Wang KC, et al. A systematic review of ultrasound
+imaging as a tool for evaluating haemophilic arthropathy in children and adults.
+Haemophilia. 2017;23(4):598-612
+99. Ceponis A, Wong-Sefidan I, Glass CS, et al. Rapid musculoskeletal ultrasound
+for painful episodes in adult haemophilia patients. Haemophilia. 2013;19(5):790708
+100. Chan MW, Leckie A, Xavier F, et al. A systematic review of MR imaging as a tool for
+evaluating haemophilic arthropathy in children. Haemophilia. 2013;19(6):e324Management of Haemophilia
+Appendix 1
+EXAMPLE OF SEARCH STRATEGY
+Clinical Question: What are the effective and safe treatments for/in
+haemophilia?
+1.
+HEMOPHILIA A/
+2.
+congenital hemophilia a.tw.
+3.
+hemophilia a.tw.
+4.
+hemophilia.tw.
+5.
+haemophilia.tw.
+6.
+HEMOPHILIA B/
+7.
+christmas disease.tw.
+8.
+((f9 or factor ix) adj deficienc*).tw.
+9.
+((haemophilia or hemophilia) adj b).tw.
+10. 1 or 2 or 3 or 4 or 5 or 6 or 7 or 8 or 9
+11. FACTOR VIIA/
+12. (activated adj1 factor vii).tw.
+13. (coagulation adj1 factor viia).tw.
+14. factor viia.tw.
+15. Novoseven.tw.
+16. activated blood coagulation factor vii.tw.
+17. Factor Eight Inhibitor Bypassing Agent.tw.
+18. Activated Prothrombin Complex Concentrate.tw.
+19. Activated PCC.tw.
+20. aPCC.tw.
+21. Immune Tolerance/
+22. Immune Tolerance.tw.
+23. 11 or 12 or 13 or 14 or 15 or 16 or 17 or 18 or 19 or 20 or 21 or 22
+24. 10 and 23
+25. limit 24 to English language and humans
+Management of Haemophilia
+Appendix 2
+CLINICAL QUESTIONS
+1.
+What are the clinical presentations of haemophilia?
+2.
+What are the accurate laboratory tests for haemophilia?
+3.
+What are the accurate laboratory tests for inhibitor detection in
+haemophilia?
+4.
+Who and what tests should be done for haemophilia screening?
+5.
+What are the general principles of care in haemophilia?
+6.
+Are the following non-pharmacological treatments effective and
+safe in haemophilia?
+• Rehabilitation for musculoskeletal
+• PRICE
+• Joint protection
+• Sports/physical activity
+• Post-operative care
+7.
+Are the following pharmacological treatments effective and safe in
+haemophilia?
+• Factors - plasma-derived factors, recombinant
+• Adjuvant - desmopressin, tranexamic acid, others
+8.
+What are the effective and safe treatments for pain in haemophilia?
+9.
+What are the effective and safe treatments for acute bleeding in
+various body systems in haemophilia?
+• Central Nervous System
+• Joint
+• Muscles
+• Nose, throat and eye
+• Gastrointestinal tract
+• Genitourinary tract
+10. What are the effective and safe treatments for complications in
+haemophilia?
+• Synovitis
+• Pseudotumour
+• Inhibitors
+11. What are the benefits and requirements for home therapy in
+haemophilia?
+12. What are the factors to improve adherence/compliance in
+haemophilia treatment?
+13. What are the management in the following special situations of
+haemophilia?
+• Surgeries and Invasive Procedures
+• Delivery of Infant with Known/Suspected Haemophilia
+• Vaccination
+• Circumcision
+Management of Haemophilia
+14. What are the effective and safe preventive measures for oral
+diseases in haemophilia?
+15. What are the effective and safe dental procedures in haemophilia?
+16. What are the effective and safe methods for the management of
+oral bleeding in haemophilia?
+17. How to monitor effectively and safely the following parameters in
+haemophilia on treatment?
+• Inhibitors
+• Bleeding frequency
+• Joint health
+• Radiological measures
+Management of Haemophilia
+Appendix 3
+GUIDELINES ON SAMPLE COLLECTION AND TRANSPORTATION
+FOR COAGULATION TEST
+Adapted:
+1. Kitchen S, McCraw A, Echenagucia M. Diagnosis of Hemophilia and Other
+Bleeding Disorders, A Laboratory Manual (Second Edition). Montréal: WFH World
+Federation of Hemophilia; 2010
+2. Mackie I, Cooper P, Lawrie A, et al. Guidelines on the laboratory aspects of assays
+used in haemostasis and thrombosis. Int J Lab Hematol. 2013;35(1):1-13
+Variables
+Recommendations
+• Ensure correct patient identification
+• Non-traumatic venepuncture
+• Avoid drawing blood from indwelling IV line
+• Avoid inappropriately narrow gauge needle
+• Avoid capillary blood
+• Relaxed and in warm surroundings
+• Withdraw blood without pressure cuff, if possible. If need
+to use pressure cuff, do not apply more than one minute.
+• 3.2 % sodium citrate anticoagulant tube. Citrate tubes
+must be properly filled.
+• Once drawn, the tube should be gently inverted five times.
+• Anticoagulant/blood ratio is 1:9.
+• The sample must reach the laboratory within three hours
+of collection.
+• Freeze platelet-free plasma. Specimens can be stored at
+-20°C for up to two weeks or at -70°C for up to six
+months.
+• Transport the frozen specimen with ice-pack or dried-iced
+immediately to referral laboratory.
+Patient
+identification
+Venepuncture
+Condition
+Pressure cuff
+Tube and
+anticoagulant
+Ratio
+Time
+If test is
+outsourced to
+referral
+laboratory
+Management of Haemophilia
+Appendix 4
+RECOMMENDED SPORTS/PHYSICAL ACTIVITIES IN
+HAEMOPHILIA
+Different sports/physical activities carry different risks in PWH. It is
+important to understand these risks in order to choose the appropriate
+sports/physical activities as shown in the table below. Levels 1 - 2
+indicate that the benefits of these sports/physical activities outweigh
+the associated risks. All sports rated 3 are not recommended for PWH.
+Activity Category
+The following is the list of sports/physical activities with the related
+coding:
+1
+1.5
+2
+2.5
+3
+Safe
+Safe to
+moderate risk
+Moderate risk
+Moderate to
+dangerous risk
+Dangerous
+Activity
+Category
+1
+1.5
+2
+2.5
+3
+Aerobics
+2
+Archery
+1
+Aquatics
+1
+Badminton
+1.5
+Baseball
+2.5
+Basketball
+2.5
+Bicycling
+1.5
+Bicycle Motorcross (BMX)
+3
+Bowling
+2
+Boxing
+3
+Canoeing
+2.5
+CV Training Equipment
+• Elliptical Machine
+1
+• Rowing Machine
+1.5
+• Ski Machine
+1.5
+• Stationary Bike
+1
+• Stepper
+2
+• Treadmill
+1.5
+Cheerleading
+2.5
+Circuit Training
+1.5
+Dance
+2
+Diving/Competitive
+3
+Diving/Recreational
+2
+Exercise Classes
+• Body Sculpting
+1.5
+• Cardio Kick-Boxing
+2
+• Physioball
+1.5
+• Spinning
+1.5
+Fishing
+1
+Football
+3
+Frisbee
+1
+Frisbee Golf
+1.5
+Ultimate Frisbee
+2
+Golf
+1
+Gymnastics
+2.5
+Hiking
+1
+Hockey (Field, Ice, Street)
+3
+Horseback Riding
+2.5
+Ice-Skating
+2.5
+Management of Haemophilia
+Source: National Hemophilia Foundation, for all bleeding and clotting disorders,
+Playing it Safe, Bleeding Disorders, Sports and exercise. 2005 (Available at:
+https://www.hemophilia.org/sites/default/files/document/files/Playing-ItSafe.pdf)
+Activity
+Category
+1
+1.5
+2
+2.5
+3
+Inline Skating
+2.5
+Jet Skiing
+2.5
+Jumping Rope
+2
+Kayaking
+2.5
+Lacrosse
+3
+Martial Arts - Karate/Kung Fu/Tae Kwon Do
+2.5
+Martial Arts/Tai Chi
+1
+Motorcycling/Motor Cross Racing
+3
+Mountain Biking
+2.5
+Pilates
+1.5
+Power Lifting
+3
+Racquetball
+2.5
+River Rafting
+2.5
+Rock Climbing
+• (Indoor/Challenge Course)
+2
+• Rock Climbing (Natural Setting)
+3
+Rodeo
+3
+Roller-skating
+2
+Rowing/Crew
+2
+Rugby
+3
+Running and Jogging
+2
+Scooter (Motorised)
+3
+Scooter (Non-motorised)
+2.5
+Scuba Diving
+2.5
+Skateboarding
+2.5
+Skiing/Cross Country
+2
+Skiing/Downhill
+2.5
+Skiing/Telemark
+2.5
+Snorkelling
+1
+Snowboarding
+2.5
+Snowmobiling
+3
+Soccer
+2.5
+Softball
+2.5
+Surfing
+2.5
+Swimming
+1
+T-Ball
+2
+Tennis
+2
+Track and Field
+2.5
+Trampoline
+3
+Volleyball
+2.5
+Walking
+1
+Water-skiing
+2.5
+Weight Lifting/Resistance Training
+1.5
+Weight Lifting/Power Lifting
+3
+Wrestling
+3
+Yoga
+Management of Haemophilia
+Appendix 5
+DEVELOPMENT OF ABNORMAL POSTURE FOLLOWING BLEEDS
+Source: Mulder, Kathy. Exercises for People with Hemophilia. World Federation of
+Haemophilia. 2006,
+(Available at https://www.researchgate.net/publication/228383305_Exercises_
+for_People_with_Hemophilia)
+Knee
+Flexion
+Walking on flexed
+knee,
+with
+hip
+flexed and/or ankle
+plantarflexed
+to
+compensate
+Pain in patellofemoral
+joint; stress on ankle;
+overuse of hamstrings;
+weak quadriceps
+Elbow
+Flexion
+Loss
+of
+elbow
+extension, arm may
+be
+carried
+with
+shoulder extended
+Eventual difficulty with
+forward elevation of the
+arm
+Shoulder
+Adduction, internal
+rotation
+Arm held close to
+body
+Difficulty with ADL and
+self-care
+Hip extensors
+Hip extensors
+Hip extensors
+Unable to sit
+Hamstrings
+Knee, flexion, hip
+extension
+Knee flexed
+Altered gait; knee flexed,
+walking on toes
+Biceps brachii
+Elbow flexion,
+shoulder internal
+rotation
+Elbow flexed
+Incomplete
+elbow
+extension;
+decreased
+protective
+balance
+reactions
+Calf
+(gastrocnemius)
+Ankle plantarflexion,
+knee flexion
+Ankle plantarflexed, knee flexed
+Walking on toes, knee
+flexed; stress on knee
+and ankle joints
+Wrist and finger
+extensors
+Wrist and finger
+extension, elbow
+flexion
+Wrist
+and
+finger
+extension,
+elbow
+flexion
+Walking on toes, knee
+flexed; stress on knee
+and ankle joints
+Thigh
+(quadriceps)
+Knee extension
+Incomplete knee flexion;
+risk of re-injury with sudden
+knee flexion; functional
+difficulties
+on
+stairs,
+squatting, etc.
+Knee
+remains
+extended
+Wrist and finger
+flexors
+Wrist and finger
+flexion, elbow flexion
+Wrist
+and
+finger
+flexion, elbow flexion
+Inability to open hand;
+weak
+grip
+due
+to
+incomplete wrist extension
+Hip flexor
+(iliopsoas)
+Hip flexed, extreme
+lordosis, walking on
+toes
+Back pain; incomplete
+hip extension; stress on
+knee and ankle
+Wrist and fingers
+Flexion
+Wrist flexed, hand
+closed
+Difficulty extending wrist
+and fingers; inefficient grip
+Toes
+Extension (dorsiflexion)
+Extension (dorsiflexion)
+Difficulty wearing shoes
+Ankle
+Plantarflexion
+Walking on toes,
+with knee and/or
+hip
+flexed
+to
+compensate
+Ankle
+in
+unstable
+position, with small area
+of
+weight-bearing
+on
+talus and sole of foot;
+overuse of calf muscles;
+pressure on knee
+Hip (unusual site)
+Flexion, external
+rotation
+Hip flexed, increased
+lumbar
+lordosis,
+compensatory knee
+flexion
+Incomplete
+hip
+extension during gait;
+compensation
+with
+increased
+rotation
+of
+pelvis or spine
+Joint bleeds
+Position of comfort
+Habitual posture
+Potential problems
+Muscle bleeds
+Position of comfort
+Habitual posture
+Potential problems
+Hip
+flexion,
+some
+external rotation and
+increased
+lumbar
+lordosis
+Management of Haemophilia
+Appendix 6
+PAIN ASSESSMENT TOOLS
+FACE, LEGS, ACTIVITY, CRY, CONSOLABILITY (FLACC) SCALE
+Each of the five categories (F) face, (L) leg, (A) activity, (C) cry and (C) consolability
+is scored from 0 – 2 resulting in total range of 0 – 10
+VISUAL ANALOG SCALE
+NUMERIC RATING SCALE
+Source: Ministry of Health, Malaysia. Pain Medication Therapy Management Service:
+Guideline for Pharmacy (Second Edition). Petaling Jaya: MoH; 2018
+CATEGORIES
+SCORING
+0
+1
+2
+No particular
+expression or smile
+Occasional grimace
+or frown, withdrawn,
+disinterested
+Frequent to
+constant quivering
+chin, clenched jaw
+Content, relaxed
+Reassured by
+occasional touching,
+hugging or being
+talk to, distractable
+Difficult to console
+Normal position or
+relaxed
+Uneasy, restless, tense
+Kicking or legs
+drawn up
+No cry
+(awake or asleep)
+Moans or whimpers;
+occasional complaint
+Crying steadily,
+screams or sobs,
+frequent complaints
+Lying quietly, normal
+position, moves easily
+Squiring, shifting back
+and forth, tense
+Arched, rigid or jerking
+Face
+Legs
+Activity
+Cry
+Consolability
+Management of Haemophilia
+Appendix 7
+ANALGESIC MEDICATION TABLE
+Drug class
+Drug
+Recommended dosages
+Side effects
+Cautions and contraindications
+Simple
+analgesic
+Paracetamol
+Adults (oral or IV):
+0.5 - 1 gm, 6 - 8-hourly
+Max: 4 gm/day
+Rare
+Hepatic
+impairment,
+alcohol
+dependence
+Preferred drug particularly in elderly
+patients
+Liver damage following over-dosage
+Child >1 month old (oral or IV):
+20 mg/kg stat, then15 mg/kg every
+4 - 6-hourly
+Max: 60 mg/kg (up to 90 mg/kg for
+48 hours)
+Selective Cox-2
+Inhibitors
+Celecoxib
+Adults (oral):
+100 - 400 mg, 12 - 24-hourly
+Max: 800 mg/day
+Not recommended in severe renal
+and/or hepatic impairment
+Initiate therapy at lowest recommended
+dose in elderly
+Ischaemic heart disease
+Cerebrovascular disease
+Contraindicated in hypersensitivity to
+sulfonamides
+Associated with a lower risk of serious
+upper
+gastrointestinal
+side
+effects
+compared to NSAIDs
+*Child 2 years or older (oral):
+(10 - 25 kg): 50 mg 12-hourly
+(>25 kg): 100 mg 12-hourly
+or 4 mg/kg daily
+Etoricoxib
+Children and adults >16 years old
+(oral):
+60 - 90 mg daily
+120 mg daily in acute pain
+Max: 90/day; long-term use should
+be limited to a maximum of 90 mg
+daily
+120 mg daily may be used for acute
+pain relief but for short-term only
+Hypertension
+Renal impairment
+Increase in CVS events
+Uncontrolled hypertension
+Ischaemic heart disease
+Cerebrovascular disease
+Associated with a lower risk of serious
+upper
+gastrointestinal
+side
+effects
+compared to NSAIDs
+Renal impairment
+Allergic reaction in susceptible
+individuals
+Increase in CVS events
+Management of Haemophilia
+Drug class
+Drug
+Recommended dosages
+Side effects
+Cautions and contraindications
+Weak opioids
+Tramadol
+Adults (oral or IV):
+50 - 100 mg, 6 - 8-hourly
+Max: 400 mg/day
+Dizziness
+Nausea
+Vomiting
+Constipation
+Risk of seizures in patients with history
+of seizures with high doses
+In elderly, start at lowest dose (50 mg)
+and maximum of 300 mg daily
+Child (oral or IV):
+2 - 3 mg/kg stat, then 1 - 2 mg/kg
+every 4 - 6-hourly
+Drowsiness
+Interaction with tricyclic antidepressant,
+selective serotonin reuptake inhibitor
+and serotonin-norepinephrine reuptake
+inhibitor.
+Safety and effectiveness not established
+in children <12 years old; caution in
+children 12 - 18 years old who have risk
+factors that may increase respiratory
+depression
+Dihydrocodeine
+tartrate
+(DF118)
+Adults (oral): 30 - 60 mg, 6 - 8hourly
+Max: 240 mg/day
+Nausea
+Vomiting
+Constipation
+Drowsiness
+Respiratory depression
+Acute alcoholism
+Paralytic ileus
+Raised intracranial pressure
+Child (oral):
+0.5 - 1 mg/kg every 4 - 6-hourly
+Combinations of
+paracetamol 500 mg
++ codeine 8 mg
+(Panadeine®)
+Children and adults (oral): 1 - 2
+tablets, 6 - 8-hourly
+Max: 8 tablets/day
+Constipation
+Reduce dose in elderly
+Safety and effectiveness not established
+in children <18 years old
+Combinations of
+paracetamol 325 mg
++ tramadol 37.5 mg
+(Ultracet®)
+Adults (oral): 1 - 2 tablets, 6 - 8hourly
+Max: 8 tablets/day
+Nausea
+Vomiting
+Drowsiness
+Hepatic impairment
+Renal impairment
+Alcohol dependence
+Epilepsy
+Safety and efficacy is not established in
+children <12 years old; caution in
+children 12 – 18 years old who have risk
+factors that may increase respiratory
+depression
+Management of Haemophilia
+Drug class
+Drug
+Recommended dosages
+Side effects
+Cautions and contraindications
+Strong opioids
+Morphine
+Adults:
+(oral immediate-release):
+5 - 10 mg every 4-hourly (elderly:
+2.5 - 5 mg every 4 - 6-hourly)
+(oral sustained-release):
+To be given in 12-hourly dosing
+(SC/IM): 5 - 20 mg every 4-hourly
+as needed
+(IV): 2 - 10 mg every 4-hourly as
+needed
+Common:
+Nausea
+Vomiting
+Constipation
+Drowsiness
+Sedation
+Not common in cancer pain:
+Sweating
+Euphoria
+Respiratory depression
+Acute bronchial asthma
+Respiratory depression
+Dose adjustment for renal impairment
+and head injuries
+Transdermal fentanyl -
+• Not to be used unless opioid dose is
+stable
+• Minimum dose: 12 g/hr = 30 mg oral
+morphine in 24 hours
+Child:
+(oral immediate-release):
+1 - 12 months old: 0.08 - 0.2 mg/kg
+every 4-hourly
+1 - 2 years old: 0.2 - 0.4 mg/kg
+every 4-hourly
+2 - 12 years old: 0.2 - 0.5 mg/kg
+every 4-hourly (max: 5 mg per
+dose)
+(oral sustained-release):
+1 - 12 years old: 0.2 - 0.8 mg/kg
+every 12-hourly
+(SC/IV):
+Neonates: 25 - 50
+g/kg every 6hourly
+1 - 6 months old: 100 g/kg every 6hourly (max: 2.5 mg per dose)
+6 months - 2 years old: 100 g/kg
+every 4-hourly (max: 2.5 mg per
+dose)
+2 -12 years old: 100 - 200
+g/kg
+every 4-hourly (max: 2.5 mg per
+dose)
+Pruritus
+Myoclonus
+• Not to be used in opioid naive patients
+Management of Haemophilia
+Drug class
+Drug
+Recommended dosages
+Side effects
+Cautions and contraindications
+Oxycodone
+Adults (oral):
+Immediate-release: 5 - 10 mg every
+4 - 6-hourly
+Controlled-release: To be given in
+12-hourly dosing
+Children (oral): 0.2 mg/kg every 4 -
+6-hourly
+Controlled-release: 0.6 - 0.9 mg/kg
+every 12-hourly
+Oxycodone + Naloxone Children >12 years old and adults
+(oral):
+Oxycodone 10 mg/ naloxone 5 mg
+every 12-hourly titrated every 1 - 2
+days (max: oxycodone 80 mg
+/naloxone 40 mg/ day)
+Transdermal fentanyl
+Equianalgesic dose of total 24
+hours opioid requirement (refer to
+Conversion Table)
+*Celecoxib capsules can be opened and the contents emptied onto a teaspoon of applesauce or dispersed in water. One 200 mg of celebrex capsule is
+to be dispersed in 20 ml of water to yield a 10 mg/ml dispersion. Suspension should be freshly prepared, required volume immediately administered and
+balance discarded (internet communication, 9 September 2018 at https://www.rch.org.au/uploadedFiles/Main/Content/pharmacy/Celecoxib.pdf)
+Management of Haemophilia
+SUGGESTED DOSE CONVERSION RATIO
+Adapted:
+1. Ministry of Health Malaysia, Management of Cancer Pain. Putrajaya: MoH; 2010
+2. Micromedex® Solution (Available at http://www.micromedexsolutions.com/micromedex2/4.24.0/WebHelp/MICROMEDEX_2.htm)
+3. Shann F, Drug Doses, 17th Edition. Victoria, Australia. 2017; 24-104
+4. Etoricoxib package insert
+To
+From
+Codeine (mg/day)
+Oral Morphine
+(mg/day)
+SC Morphine
+(mg/day)
+Oxycodone
+(mg/day)
+Fentanyl
+transdermal patch
+( g/hr)
+Codeine (mg/day)
+8
+20
+12
+24
+Oral Morphine
+(mg/day)
+8
+2.5
+1.5
+3
+SC Morphine
+(mg/day)
+20
+2.5
+0.6
+1.2
+Oxycodone
+(mg/day)
+12
+1.5
+0.6
+2
+Fentanyl
+transdermal patch
+( g/hr)
+24
+3
+1.2
+Management of Haemophilia
+SWELLING
+None (N), Puffy (P), Spongy (S), Tense (T)
+Landmarks:
+Visible (V); Partially Visible (PV); Not Visible
+(NV)
+Palpable (P); Not Palpable (NP)
+Left Elbow
+N P S T
+V PV
+P NP
+Right Elbow
+N P S T
+V PV NV
+P NP
+Left Knee
+N P
+V PV NV
+P NP
+Right Knee
+V PV NV
+P NP
+Left Ankle
+V PV NV
+P NP
+Right Ankle
+V PV NV
+P NP
+SCORE
+0 = No swelling
+1 = Mild – appears, feels slightly swollen: landmarks
+visible
+2 = Moderate – looks swollen, feels spongy: some landmarks partly
+obscured
+3 = Severe – looks very swollen; is tense:
+bony landmarks fully obscured
+Comments:
+Please provide any comments in the space
+provided
+(If necessary may note circumference in cm)
+DURATION OF SWELLING
+Note number of months
+Please checkmark one
+Patient Report
+Parent Report
+Reported from chart
+Other: ______________________
+0 = No swelling or <6 months
+1 = 6 months
+N
+P
+S T
+N
+P
+S T
+N
+P
+S T
+NV
+Appendix 8
+HAEMOPHILIA JOINT HEALTH SCORE
+Assessment #: Evaluator Name: __________________
+Subject ID #: ____________________
+Date of Evaluation: ________________
+yyyy / mm / dd
+Haemophilia Joint Health Score Worksheet 2.1
+Management of Haemophilia
+Left Elbow
+Right Elbow
+Left Knee
+Right Knee
+Left Ankle
+Right Ankle
+MUSCLE ATROPHY
+SCORE
+0 = None – no atrophy
+1 = Mild – muscle has slightly less contour, or mild flattening of the muscle belly is noted
+2 = Severe – moderate/severe muscle wasting and depression or flattening of the muscle belly is noted
+Comments:
+Please note decreased contour, muscle
+flattening, marked wasting.
+CREPITUS ON MOTION
+Note: Audible (A) Mild (M)
+Palpable (P) Severe (S)
+If none apply:
+None (N)
+Left Elbow
+A
+P
+Right Elbow
+A
+P
+Left Knee
+A
+P
+Right Knee
+A
+P
+Left Ankle
+A
+P
+Right Ankle
+A
+P
+M
+S
+N
+M
+S
+N
+M
+S
+N
+M
+S
+N
+M
+S
+N
+M
+S
+N
+SCORE
+0 = No crepitus
+1 = Mild – slightly audible and/or palpable
+2 = Severe – Consistently moderately or very pronounced audible and/or palpable grinding and crunching
+Assessment #: Evaluator Name: __________________
+Subject ID #: ____________________
+Date of Evaluation: ________________
+yyyy / mm / dd
+Haemophilia Joint Health Score Worksheet 2.1
+Management of Haemophilia
+FLEXION LOSS
+Note Range of Motion (ankle
+record from 90˚ starting point)
+Left Elbow
+Flex:
+Measured in:
+1) Supine
+2) Sitting
+Right Elbow
+Flex:
+Measured in:
+1) Supine
+2) Sitting
+Left Knee
+Flex:
+Measured in:
+1) Supine
+2) Sitting
+Right Knee
+Flex:
+Measured in:
+1) Supine
+2) Sitting
+Left Ankle
+PlantarFlex:
+Measured in:
+1) Supine
+2) Sitting
+Right Ankle
+PlantarFlex:
+Measured in:
+1) Supine
+2) Sitting
+The recommendation is to score using both methods (normal contralateral side and normative tables) and then record the worse score.
+SCORE
+Contralateral Side:
+0 = <5˚
+1 = Loss of 5˚ - 10 ˚
+2 = Loss of 11˚ - 20˚
+3 = Loss of >20˚
+Normative Tables :
+0 = Within Range
+1 = Loss of 1 to 4˚
+2 = Loss of 5˚ - 10˚
+3 = Loss of >10˚
+EXTENSION LOSS
+Note Range of Motion (ankle
+record from 90˚ starting point)
+Hyperextension: record as “plus”
+(+)
+_____degrees
+Loss of extension record as
+“minus” (-)
+_____degrees
+Left Elbow
+Ext:
+Measured in:
+1)
+Supine
+2)
+Sitting
+Right Elbow
+Ext:
+Measured in:
+1) Supine
+2) Sitting
+Left Knee
+Ext:
+Measured in:
+1) Supine
+2) Sitting
+Right Knee
+Ext:
+Measured in:
+1) Supine
+2) Sitting
+Left Ankle
+DorsiFlex:
+Measured in:
+1) Supine
+2) Sitting
+Right Ankle
+DorsiFlex:
+Measured in:
+1) Supine
+2) Sitting
+The recommendation is to score using both methods (normal contralateral side and normative tables) and then record the worse score.
+SCORE
+Contralateral Side:
+0 = <5˚
+1 = Loss of 5˚ - 10 ˚
+2 = Loss of 11˚ - 20˚
+3 = Loss of >20˚
+Normative Tables :
+0 = Within Range
+1 = Loss of 1 to 4˚
+2 = Loss of 5˚ - 10˚
+3 = Loss of >10˚
+Assessment #: Evaluator Name: __________________
+Subject ID #: ____________________
+Date of Evaluation: ________________
+yyyy / mm / dd
+Haemophilia Joint Health Score Worksheet 2.1
+Management of Haemophilia
+JOINT PAIN
+Active joint mov’t through
+range with gentle
+pressure (at end range)
+Left Elbow
+Comments:
+Right Elbow
+Comments:
+Left Knee
+Comments:
+Right Knee
+Comments:
+Left Ankle
+Comments:
+Right Ankle
+Comments:
+SCORE
+0 = No pain through active range of motion
+1 = No pain through active range; only pain on gentle overpressure or palpation
+2 = Pain through active range
+STRENGTH
+Using the Daniels &
+Worthingham’s scale.
+Within available
+ROM, note grade
+Left Elbow
+Flexion
+Extension
+Right Elbow
+Flexion
+Extension
+Left Knee
+Flexion
+Extension
+Right Knee
+Flexion
+Extension
+Left Ankle
+# of heel
+raises____
+PlantarFlex.
+DorsiFlex
+Right Ankle
+# of heel
+raises____
+PlantarFlex.
+DorsiFlex
+SCORE
+0 = Holds test position against gravity with maximum resistance (gr.5)
+1 = Holds test position against gravity with moderate resistance (but breaks with maximal resistance)
+(gr.4)
+2 = Holds test position against gravity with minimal resistance (gr.3+), or holds test position against
+gravity (gr.3)
+3 = Able to partially complete ROM against gravity (gr.3-/2+), or able to move through ROM gravity
+eliminated (gr.2), or through partial ROM gravity eliminated (gr.2-)
+4 = Trace (gr.1) or no muscle contraction (gr.0)
+NE = Non-evaluable
+# of Heel Raises:
+(to be used only for plantarflexion scoring)
+Score 0 = 4 to 5 heel raises
+Score 1 = 2 to 3 heel raises
+Score 2 = Sufficiently plantar flexes to clear heel
+Score 3 = Plantar flexes ankle through range
+(gravity eliminated)
+Score 4 = trace or no muscle contraction
+Assessment #: Evaluator Name: __________________
+Subject ID #: ____________________
+Date of Evaluation: ________________
+yyyy / mm / dd
+Haemophilia Joint Health Score Worksheet 2.1
+Management of Haemophilia
+GAIT (Skills)
+Walking
+Stairs
+Running
+Hopping on 1 leg
+Left Knee
+Right Knee
+Left Ankle
+Right Ankle
+*Individual joints to be observed but not scored*
+Note: N (Normal), L (limp), TW (toe walking), WSF (walking on side of foot), US (uneven strides), NPO (no push off), AWS (abnormal weight shift), FTO (foot turned
+out), NHS (No heel strike), EHO (early heel off) OR DSP (decreased stance phase), LKE (limited knee extension), KH (knee hyperextension)
+0 = All skills are within normal limits Global Score
+1 = One skill is not within normal limits
+2 = Two skills are not within normal limits
+3 = Three skills are not within normal limits
+4 = No skills are within normal limits
+NE = Non-evaluable
+*Axial alignment to be observed and not scored*
+AXIAL ALIGNMENT
+To be measured in weightbearing position
+Left Knee
+Right Knee
+Left Ankle
+Right Ankle
+______ degrees
+Please checkmark one:
+valgus
+or
+varus
+______ degrees
+Please checkmark one:
+valgus
+or
+varus
+______ degrees
+Please checkmark one:
+valgus
+or
+varus
+______ degrees
+Please checkmark one:
+valgus
+or
+varus
+Assessment #: Evaluator Name: __________________
+Subject ID #: ____________________
+Date of Evaluation: ________________
+yyyy / mm / dd
+Haemophilia Joint Health Score Worksheet 2.1
+Management of Haemophilia
+Hemophilia Joint Health Score 2.1 – Summary Score Sheet
+Left Elbow
+Right Elbow
+Left Knee
+Right Knee
+Left Ankle
+Right Ankle
+Swelling
+NE
+NE
+NE
+NE
+NE
+NE
+Duration (swelling)
+NE
+NE
+NE
+NE
+NE
+NE
+Muscle Atrophy
+NE
+NE
+NE
+NE
+NE
+NE
+Crepitus on motion
+NE
+NE
+NE
+NE
+NE
+NE
+Flexion Loss
+NE
+NE
+NE
+NE
+NE
+NE
+Extension Loss
+NE
+NE
+NE
+NE
+NE
+NE
+Joint Pain
+NE
+NE
+NE
+NE
+NE
+NE
+Strength
+NE
+NE
+NE
+NE
+NE
+NE
+Joint Total
+NE
+NE
+NE
+NE
+NE
+NE
+Sum of Joint Totals
+NE = Non-evaluable
++
+Global Gait Score
+(
+NE included in Gait Items)
+HJHS Total Score =
+Swelling
+0 = No swelling
+1 = Mild
+2 = Moderate
+3 = Severe
+Crepitus on Motion
+0 = None
+1 = Mild
+2 = Severe
+Strength (Using the Danials & Worthingham’s scale)
+Within available ROM
+0 = Holds test position against gravity with maximum resistance
+(gr.5)
+1 = Holds test position against gravity with moderate resistance
+(but breaks with maximal resistance) (gr.4)
+2 = Holds test position with minimal resistance (gr.3+), or holds test
+position against gravity (gr.3)
+3 = Able to partially complete ROM against gravity (gr.3-/2+), or able
+to move through ROM gravity eliminated (gr.2),
+or through partial ROM gravity eliminated (gr.2-)
+4 = Trace (gr.1) or no muscle contraction (gr.0)
+NE = Non-evaluate
+Duration
+0 = No swelling
+or <6 months
+1 = 6 months
+Flexion Loss
+Contralateral:
+0 = <5˚
+1 = 5˚ - 10˚
+2 = 11˚ - 20˚
+3 = 20˚
+Normative Tables:
+0 = within range
+1 = 1˚ - 4˚
+2 = 5˚ - 10˚
+3 = >10˚
+Muscle Atrophy
+0 = None
+1 = Mild
+2 = Severe
+Extention loss
+Contralateral:
+0 = <5˚
+1 = 5˚ - 10˚
+2 = 11˚ - 20˚
+3 = 20˚
+(from hyperextension)
+Normative Tables:
+0 = within range
+1 = 1˚ - 4˚
+2 = 5˚ - 10˚
+3 = >10˚
+Global Gait (walking, stairs, running, hopping on 1 leg)
+0 = All skills are within normal limits
+1 = One skill is not within normal limits
+2 = Two skills are not within normal limits
+3 = Three skills are not within normal limits
+4 = No skills are within normal limits
+NE = Non-evaluable
+Joint Pain
+0 = No pain through active range of motion
+1 = No pain through active range; only pain on gentle
+overpressure or palpation
+2 = Pain through active range
+NOTE: There is an accompanying instruction manual and worksheets that are required when administering the HJHS
+General Comments:
+_________________________________________________________________________
+_________________________________________________________________________
+_________________________________________________________________________
+_________________________________________________________________________
+Source: Feldman BM, Funk S, Hilliard P, et al. Haemophilia Joint Health Score 2.1,
+World Federation of Haemophilia; 2011 (Available at http://wfh.org/2/7/7_0_
+Assessment_Tools_HJHS.htm)
+Subject ID #: __________________ Name of Physiotherapist:______________
+Assessment #: _______________ Date: ______________
+yyyy / mm / dd
+Hemophilia Joint Health Score 2.1 – Summary Score Sheet
+Management of Haemophilia
+Possible joint score: 0 - 13 points
+Add up the score for each radiologic change to get the total score. The higher the total
+score, the worst is the arthropathy. There’s no specified degree of score to say it’s
+mild/moderate or severe.
+Source: Pettersson H, Ahlberg A, Nilsson IM. A radiologic classification of hemophili
+arthropathy. Clin Orthop Relat Res. 1980;(149):153-159
+Radiologic Change
+Finding
+Score
+(Points)
+Osteoporosis
+Absent
+Present
+0
+1
+Enlargement of epiphysis
+Absent
+Present
+0
+1
+Irregularity
+of
+subchondral
+surface
+Absent
+Present
+Pronounced
+0
+1
+2
+Narrowing of joint space
+Absent
+<50%
+>50%
+0
+1
+2
+Subchondral cyst formation
+Absent
+1 cyst
+>1 cyst
+0
+1
+2
+Erosions at joint margins
+Absent
+Present
+0
+1
+Incongruence
+between
+joint
+surfaces
+Absent
+Slight
+Pronounced
+0
+1
+2
+Deformity
+(angulation
+and/or
+displacement
+of
+articulating
+bones)
+Absent
+Slight
+Pronounced
+0
+1
+2
+Appendix 9
+Pettersson Score
+Management of Haemophilia
+LIST OF ABBREVIATIONS
+µg
+microgramme
+ABR
+Annual Bleeding Rate
+AGREE
+Appraisal of Guidelines for Research and Evaluation
+AH
+Arnold-Hilgartner
+AJBR
+annual joint bleed rates
+aPCC
+activated prothrombin complex concentrate
+APTT
+Activated Partial Thromboplastin Time
+BMI
+body mass index
+BU
+Bethesda unit
+CCC
+Comprehensive Care Centre
+CFC
+clotting factor concentrate
+CHMP
+Committee for Medical Products for Human Use
+COX-2
+Cyclooxygenase-2
+CPG(s)
+clinical practice guidelines
+CT
+computer tomography
+CV
+cardiovascular
+CVAD
+central venous access device
+DG
+Development Group
+DNA
+deoxyribonucleic acid
+DDAVP
+desmopressin
+dL
+decilitre
+EDTA
+ethylenediaminetetraacetic acid
+EMA
+European Medical Agency
+FDA
+Food Drug Agency
+FISH
+Functional Independence Score in Haemophilia
+FIX
+factor IX assay
+FLACC
+Face, Legs, Activity, Cry, Consolability
+FVIII
+factor VIII assay
+g
+gramme
+GRADE
+Grading Recommendations, Assessment, Development and
+Evaluation
+Gy
+Gray
+HAV
+hepatitis A virus
+HCCC
+Haemophilia Comprehensive Care Centre
+HCV
+hepatitis C virus
+HIV
+human immunodeficiency virus
+HJHS
+Haemophilia Joint Health Score
+HMTAC
+Haemophilia Medication Therapy Adherence Clinic
+HR
+hazard ratio
+HRQoL
+Health-related Quality of Life
+HTA
+Health Technology Assessment
+HTC
+Haemophilia Treatment Centre
+ICH
+intracranial haemorrhage
+IM
+intramuscular
+ITI
+immune tolerance induction
+IU
+international unit
+IU/kg
+international unit/kilogram
+IV
+intravenous
+kg
+kilogramme
+Management of Haemophilia
+LA
+local anaesthesia
+MaHTAS
+Malaysian Health Technology Assessment Section
+mg
+milligramme
+ml
+millilitre
+MoH
+Ministry of Health
+MRI
+magnetic resonance imaging
+NSAID(s)
+non-steroidal anti imflammatory drug(s)
+OR
+odds ratio
+p
+p value
+PCC
+prothrombin complex concentrate
+pdF
+plasma-derived factor
+PRICE
+protection, rest, ice therapy, compression, elevation
+PT
+prothrombin time
+PWH
+person with haemophilia
+QoL
+quality of life
+RC
+Review Committee
+RCT(s)
+randomised controlled trial(s)
+RD
+risk difference
+rFVIIa
+recombinant FVIIa
+ROM
+range of motion/movement
+RR
+risk ratio
+RS
+radiosynovectomy
+SC
+subcutaneous
+THR
+total hip replacement
+TKR
+total knee replacement
+TTP
+time to progression
+TXA
+tranexamic acid
+USG
+ultrasonography
+VAS
+Visual Analogue Score
+VWD
+von Willebrand Disease
+vWF
+von Willebrand Factor
+vs
+versus
+WFH
+World Federation of Haemophilia
+Management of Haemophilia
+ACKNOWLEDGEMENT
+The DG members of these guidelines would like to express their
+gratitude and appreciation to the following for their contributions:
+• Panel of external reviewers who reviewed the draft
+• Technical Advisory Committee of CPG for their valuable input and
+feedback
+• Health Technology Assessment and Clinical Practice Guidelines
+Council for approval of the CPG
+• All those who have contributed directly or indirectly to the
+development of the CPG
+• Ms. Wong Wai Chee and Ms. Norharlina Che Zakaria on retrieval
+of evidence and, Dr. Izzuna Mudla Mohamed Ghazali on critical
+appraisal in the CPG development
+DISCLOSURE STATEMENT
+The panel members of both DG and RC had completed disclosure
+forms. None held shares in pharmaceutical firms or acts as consultants
+to such firms. (Details are available upon request from the CPG
+Secretariat)
+SOURCE OF FUNDING
+The development of the CPG on Management of Haemophilia was
+supported financially in its entirety by the Ministry of Health Malaysia.
+MALAYSIAN HEALTH TECHNOLOGY

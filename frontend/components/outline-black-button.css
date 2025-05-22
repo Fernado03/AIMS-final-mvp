@@ -1,0 +1,21 @@
+.outline-black-button-container {
+  display: flex;
+  position: relative;
+}
+ 
+.outline-black-button-button {
+  color: var(--dl-color-secondary-700);
+  cursor: pointer;
+  outline: none;
+  min-width: 150px;
+  transition: 0.3s;
+  padding-top: var(--dl-layout-space-triplequarterunit);
+  padding-left: var(--dl-layout-space-fourunits);
+  border-radius: var(--dl-layout-radius-radius75);
+  padding-right: var(--dl-layout-space-fourunits);
+  padding-bottom: var(--dl-layout-space-triplequarterunit);
+}
+ 
+.outline-black-button-button:hover {
+  transform: scale(1.02);
+}

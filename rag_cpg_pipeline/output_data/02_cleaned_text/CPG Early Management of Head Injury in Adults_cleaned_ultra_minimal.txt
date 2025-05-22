@@ -1,0 +1,3779 @@
+Published by:
+Malaysia Health Technology Assessment Section (MaHTAS)
+Medical Development Division, Ministry of Health Malaysia
+Level 4, Block E1, Precinct 1
+Federal Government Administrative Centre 62590
+Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is MaHTAS. Content may be
+reproduced in any number of copies and in any format or medium
+provided that a copyright acknowledgement to MaHTAS is included and
+the content is not changed, not sold, nor used to promote or endorse
+any product or service, and not used in an inappropriate or misleading
+context.
+ISBN: 978-967-0769-45-5
+Available on the following websites:
+http://www.moh.gov.my
+http://www.acadmed.org.my
+http://www.nam.org.my
+Also available as an app for Android and iOS platform: MyMaHTAS
+STATEMENT OF INTENT
+These clinical practice guidelines (CPG) are meant to be guides for
+clinical practice, based on the best available evidence at the time of
+development. Adherence to these guidelines may not necessarily
+guarantee the best outcome in every case. Every healthcare provider is
+responsible for the management of his/her unique patient based on the
+clinical picture presented by the patient and the management options
+available locally. Priority of care in multisystem injuries is beyond the
+scope of this CPG.
+REVIEW UPDATE
+These guidelines were issued in 2015 and will be reviewed in a
+minimum period of four years (2019) or sooner if new evidence becomes
+available. When it is due for updating, the Chairman of the CPG or
+National Advisor of the related specialty will be informed about it. A
+discussion will be done on the need for a revision including the scope of
+the revised CPG. A multidisciplinary team will be formed and the latest
+systematic review methodology used by MaHTAS will be employed.
+TABLE OF CONTENTS
+No.
+Title
+Page
+Levels of Evidence and Grades of Recommendation
+i
+Guidelines Development and Objectives
+ii
+Guidelines Development Group
+v
+Review Committee
+vi
+External Reviewers
+vii
+Algorithm 1. General Management of Adults
+viii
+with Isolated Head Injury
+Algorithm 1a. General Management of Adults
+ix
+with Isolated Head Injury in Hospital
+without CT Scan
+Algorithm 1b. General Management of Adults
+x
+with Isolated Head Injury with CT Scan
+Algorithm 2. Triaging of Adults with Suspected Head
+xi
+Injury in Pre-Hospital Care or
+Emergency Department
+Algorithm 3. Selection of Adults with Head Injury
+xii
+for Head CT
+Algorithm 4. Selection of Adults with Head Injury
+xiii
+for Imaging of the Cervical Spine
+Algorithm 5. Management of Adults Patient with
+xiv
+Mild Head Injury Requiring
+Urgent Surgery other than Cranial Surgery
+1.
+INTRODUCTION
+1
+2.
+DEFINITION
+3
+3
+CLASSIFICATION OF SEVERITY
+5
+4.
+DIFFERENTIAL DIAGNOSES
+6
+5.
+PRE-HOSPITAL CARE (PHC)
+6
+5.1 Assessment and General Treatment
+6
+5.2 Initial Management
+7
+5.3 Referral or Discharge at Primary Care Setting
+9
+5.4 Transportation
+11
+6.
+MANAGEMENT IN EMERGENCY DEPARTMENT (ED)
+15
+6.1 Triage
+15
+6.2 General Treatment
+16
+6.3 Observation in ED
+No.
+Title
+Page
+7.
+IMAGING
+25
+7.1 Head CT
+25
+7.2 Skull X ray
+27
+7.3 Repeat Head CT
+28
+7.4 Cervical Imaging
+29
+8.
+MEDICATION IN INITIAL MANAGEMENT
+31
+8.1 Analgesia/sedation
+31
+8.2 Intravenous fluid
+32
+8.3 Diuretic
+32
+8.4 Anticonvulsant
+33
+9.
+SPECIAL CONSIDERATIONS
+35
+9.1 Reversal of Antiplatelet and Anticoagulant in
+35
+Patients with Head Injury
+9.2 Restarting Antiplatelet/Anticoagulant in
+36
+Patients with Head Injury
+9.3 Patients with Mild Head Injury Requiring Non-Life
+37
+Threatening Urgent Surgery other than Cranial Surgery
+9.4 Safe Extubation of Patients with Head Injury
+38
+10.
+TELECONSULTATION
+40
+11.
+DISCHARGE ADVICE
+41
+12.
+FOLLOW-UP
+42
+13.
+IMPLEMENTING THE GUIDELINES
+43
+13.1 Facilitating and Limiting Factors
+43
+13.2 Potential Resource Implications
+43
+13.3 Clinical Audit Indicator
+43
+REFERENCES
+44
+Appendix 1 Example of Search Strategy
+49
+Appendix 2 Clinical Questions
+51
+Appendix 3 Glasgow Coma Scale and Score
+52
+Appendix 4 Head Chart
+53
+Appendix 5 Discharge Advice for Head Injury
+54
+Appendix 6 Canadian Cervical Rule (CCR)
+55
+Appendix 7 The NEXUS Low-Risk Criteria for
+56
+Low Probability of Cervical Injury
+Appendix 8 Equipments for Transfer
+57
+Appendix 9 Transfer Checklist for Neurosurgical Patients
+58
+Appendix 10 Safe Extubation Criteria in Head Injury
+59
+Appendix 11 Drug Dosing Regimen for Initial Management
+60
+List of Abbreviation
+62
+Acknowledgement
+63
+Disclosure Statement
+63
+Source of Funding
+63
+No.
+Title
+Page
+LEVELS OF EVIDENCE
+SOURCE: US / CANADIAN PREVENTIVE SERVICES TASK FORCE 2001
+In line with the current development in CPG methodology, the CPG Unit
+of MaHTAS is in the process of adapting Grading Recommendations,
+Assessment, Development and Evaluation (GRADE) in its
+work process. The quality of each retrieved evidence and its effect
+size are carefully assessed/reviewed by the CPG Development
+Group. In formulating the recommendations, overall balances of the
+following aspects are considered in determining the strength of the
+recommendations:-
+•
+overall quality of evidence
+•
+balance of benefits versus harms
+•
+values and preferences
+•
+resource implications
+•
+equity, feasibility and acceptability
+Level
+I
+II-1
+II-2
+II-3
+III
+Study design
+Evidence from at least one properly randomised controlled trial
+Evidence obtained from well-designed controlled trials without
+randomisation
+Evidence obtained from well-designed cohort or case-control
+analytic studies, preferably from more than one centre or
+group
+Evidence from multiple time series with or without intervention.
+Dramatic results in uncontrolled experiments (such as the
+results of the introduction of penicillin treatment in the 1940s)
+could also be regarded as this type of evidence
+Opinions of respected authorities based on clinical experience;
+descriptive studies and case reports; or reports of expert
+committees
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+GUIDELINES DEVELOPMENT
+The members of the Development Group (DG) for this Clinical Practice
+Guidelines (CPG) were from the Ministry of Health (MoH) and Ministry
+of Education. There was active involvement of a multidisciplinary
+Review Committee (RC) during the process of the CPG development.
+A literature search was carried out using the following electronic
+databases: Guidelines International Network (G-I-N), Medline via Ovid,
+Pubmed and Cochrane Database of Systemic Reviews (CDSR) (refer to
+Appendix 1 for Example of Search Strategy). The search was limited
+to literature published in the last ten years, on humans and in English. In
+addition, the reference lists of all retrieved literature and guidelines were
+searched to further identify relevant studies. Experts in the field were
+also contacted to identify further studies. All searches were conducted
+from 5 January 2014 to 9 July 2014. Literature searches were repeated
+for all clinical questions at the end of the CPG development process
+allowing any relevant papers published before 31 August 2015 to be
+included. Future CPG updates will consider evidence published after
+this cut-off date. The details of the search strategy can be obtained
+upon request from the CPG Secretariat.
+References were also made to other CPGs on Head Injury such as
+Scottish Intercollegiate Guidelines Network (SIGN) - Early management
+of patients with a head injury (2009) and National Institute for Health
+and Clinical Excellence (NICE) - Head injury: Triage, assessment,
+investigation and early management of head injury in infants, children
+and adults (2014). The CPG was evaluated using the Appraisal of
+Guidelines for Research and Evaluation (AGREE) II prior to them being
+used as references.
+A total of 27 clinical questions were developed under different sections.
+Members of the DG were assigned individual questions within these
+sections (refer to Appendix 2 for Clinical Questions). The DG
+members met 25 times throughout the development of these guidelines.
+All literature retrieved were appraised by at least two DG members using
+Critical Appraisal Skill Programme checklist, presented in evidence
+tables and further discussed in each DG meetings. All statements and
+recommendations formulated after that were agreed upon by both the
+DG and RC. Where evidence was insufficient, the recommendations
+were made by consensus of the DG and RC. This CPG is based largely
+on the findings of systematic reviews, meta-analyses and clinical trials,
+with local practices taken into consideration.
+iii
+The literature used in these guidelines were graded using the US/
+Canadian Preventive Services Task Force Level of Evidence (2001),
+while the grading of recommendation was done using the principles of
+GRADE (refer to the preceding page).
+On completion, the draft of the CPG was reviewed by external
+reviewers. It was also posted on the MoH Malaysia official website for
+feedback from any interested parties. The draft was finally presented
+to the Technical Advisory Committee for CPG, and the HTA and
+CPG Council MoH Malaysia for review and approval. Details on the
+CPG development by MaHTAS can be obtained from Manual on
+Development and Implementation of Evidence-based Clinical Practice
+Guidelines published in 2015 (available at http://www.moh.gov.my/
+index.php/pages/view/117).
+iv
+OBJECTIVES
+To provide evidence-based guidelines to those involved in the early
+management of head injury in primary and secondary/tertiary care
+CLINICAL QUESTIONS
+Refer to Appendix 2
+TARGET POPULATION
+Inclusion Criteria
+Adult patients presenting with head injury (18 years old and above)
+Exclusion Criteria
+The guidelines do not cover definitive management of head injury:
+•
+all surgeries pertaining to neurosurgery and post-operative care
+•
+rehabilitation
+•
+management of multisystem injuries
+TARGET GROUP/USERS
+This document is intended to guide healthcare professionals and
+relevant stakeholders including:
+i.
+Doctors
+ii. Pharmacists
+iii. Allied health professionals
+iv. Medical students and healthcare trainees
+v. Professional societies
+vi. Patients and carers/non-governmental organisations
+HEALTHCARE SETTINGS
+Primary or secondary/tertiary care settings
+GUIDELINES DEVELOPMENT GROUP
+Chairperson
+Dr. Liew Boon Seng
+Neurosurgeon
+Hospital Sungai Buloh, Selangor
+Members (alphabetical order)
+v
+Dr. Andre Das
+Head of Department & Consultant Surgeon
+Hospital Kajang, Selangor
+Dr. Cecilia Anthonysamy
+Emergency Physician
+Hospital Serdang, Selangor
+Dr. Clement Edward A/L Thaumanavar
+Head of Department & Consultant Surgeon
+Hospital Tuanku Fauziah, Perlis
+Dr. Gee Teak Sheng
+Neurosurgeon
+Hospital Pulau Pinang, Pulau Pinang
+Dr. Jalil Ishak
+Consultant Family Medicine Specialist
+Klinik Kesihatan Jasin, Melaka
+Dr. Mohd. Aminuddin Mohd. Yusof
+Head of CPG Unit
+MaHTAS, MoH, Putrajaya
+Dr. Mohd. Sofan Zenian
+Neurosurgeon
+Hospital Queen Elizabeth, Sabah
+Dr. Nik Ahmad Shaiffudin Nik Him
+Consultant Emergency Physician
+Universiti Sultan Zainal Abidin
+Terengganu
+Dr. Noor Aishah Yussof
+Coordinator
+Klinik Kesihatan Dengkil, Selangor
+Mdm. Norsima Nazifah Sidek
+Pharmacist
+Hospital Sultanah Nur Zahirah
+Terengganu
+Dr. Tony Yong Yee Khong
+General Surgeon
+Hospital Sultanah Aminah, Johor
+Dr. Vanitha Sivanaser
+Anaesthesiologist
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Zainab Kusiar
+Family Medicine Specialist
+Klinik Kesihatan Mantin, Negeri Sembilan
+Dr. Zarina Yakof
+Radiologist
+Hospital Sungai Buloh, Selangor
+REVIEW COMMITTEE
+The draft guidelines were reviewed by a panel of experts from both
+public and private sectors. They were asked to comment primarily on
+the comprehensiveness and accuracy of the interpretation of evidence
+supporting the recommendations in the guidelines.
+Chairperson
+Datuk Dr. Johari Siregar Adnan
+Head of Department & Senior Consultant Neurosurgeon
+Hospital Kuala Lumpur, Kuala Lumpur
+Members (alphabetical order)
+vi
+Dr. Adienuar Ahmad Norawi
+Consultant Family Medicine Specialist
+Klinik Kesihatan Kuantan, Pahang
+Dr. Andrew Gunn Kean Beng
+Consultant Surgeon
+Gleneagles Medini Johor Bahru, Johor
+Professor Dato’ Dr. Hj Jafri Malin
+Datuk Hj. Abdullah
+Director & Senior Consultant Neurosurgeon
+Centre for Neuroscience Services &
+Research
+Universiti Sains Malaysia, Kelantan
+Dr. Lim Wee Leong
+Head of Department & Senior Consultant
+Anaesthesiologist
+Hospital Sungai Buloh, Selangor
+Dato’ Dr. Mohamed Yusof Hj. Abdul Wahab
+Head of Department & Senior Consultant
+Surgeon
+Hospital Tengku Ampuan Rahimah
+Selangor
+Datuk Dr. Mohd Saffari Mohd Haspani
+Senior Consultant Neurosurgeon
+Hospital Kuala Lumpur, Kuala Lumpur
+Datin Dr. Rugayah Bakri
+Consultant Public Health Physician
+Kuala Lumpur
+Dr. Sabariah Faizah Jamaluddin
+Head of Department &
+Senior Consultant
+Emergency Department
+Hospital Sungai Buloh, Selangor
+Dato’ Dr. Hjh. Salwah Hashim
+Head of Department & Consultant
+Radiologist
+Hospital Pulau Pinang, Pulau Pinang
+EXTERNAL REVIEWERS (in alphabetical order)
+The following external reviewers provided feedback on the draft:
+vii
+Professor Dr. Ab Fatah Ab Rahman
+Dean, Faculty of Health Sciences
+Universiti Sultan Zainal Abidin
+Terengganu
+Professor Dato’ Dr. Ahmad Zubaidi Abdul Latif
+Vice Chancellor & Senior Consultant
+Neurosurgeon
+Universiti Sultan Zainal Abidin
+Terengganu
+Dr. Azmin Kass Rosman
+Head of Department & Senior Consultant
+Neurosurgeon
+Hospital Sungai Buloh
+Selangor
+Dr. Jaidon Ramli
+Consultant Family Medicine Specialist
+Klinik Kesihatan Johor Bahru, Johor
+Dr. Hjh. Khatijah Abu Bakar
+Head of Department &
+Consultant Radiologist
+Hospital Sultanah Aminah, Johor
+Professor Dr. Mathew Joseph
+Head of Department & Professor of
+Neurosurgery
+Department of Neurological Sciences
+Christian Medical College
+Vellore, India
+Professor Dr. Rashidi Ahmad
+Head of Department & Consultant
+Emergency Physician
+Pusat Perubatan Universiti Malaya
+Kuala Lumpur
+Dr. Rizal Imran Alwi
+Consultant Trauma Surgeon
+Hospital Sultanah Aminah, Johor
+Dr. Ruziaton Hashim
+Consultant Family Medicine Specialist
+Klinik Kesihatan Pandamaran
+Selangor
+Dr. Shaun Goh
+Consultant Emergency Physician &
+Trauma Director
+Khoo Teck Puat Hospital
+Singapore
+Professor Dr. Syed Azhar Syed Sulaiman
+Professor in Clinical Pharmacy
+Pusat Pengajian Sains Farmasi
+Universiti Sains Malaysia
+Pulau Pinang
+Dr. Tan It
+Consultant Anaesthesiologist
+Sunway Medical Centre, Selangor
+Dr. Vaughn Eaton
+Director of Pharmacy
+Southern Adelaide Local Health Network
+Adelaide, Australia
+Dr. W Mohd Nazaruddin W Hassan
+Senior Lecturer & Consultant NeuroAnaesthesiologist
+Pusat Pengajian Sains Perubatan
+Universiti Sains Malaysia, Kelantan
+Professor Dr. Poon Wai Sang
+Consultant Neurosurgeon
+National University of Hong Kong
+Hong Kong
+ALGORITHM 1. GENERAL MANAGEMENT OF ADULTS
+WITH ISOLATED HEAD INJURY
+!
+Triage and
+Trauma Life Support
+Health clinic/private clinic
+Hospital without CT
+Hospital with CT
+Requiring
+hospital
+admission*
+Requiring
+CT brain ±
+spine**
+YES
+YES
+NO
+NO
+If a healthcare provider is unsure which hospital to refer to, the patient should then
+be referred to the nearest hospital.
+* Refer to Recommendation 3 on Criteria of Referral to Hospital on Patients with MHI.
+** Refer to Algorithm 3 on Selection of Adults with Head Injury for Head CT.
+CT = computed tomography
+Isolated Head Injury
+Referral to the nearest
+hospital with CT scan
+Refer to Algorithm 1b
+Refer to Algorithm 1a
+Referral to the nearest
+hospital for observation
+Discharge with head injury advice (verbal and written) and follow-up if necessary
+ALGORITHM 1a. GENERAL MANAGEMENT OF ADULTS WITH
+ISOLATED HEAD INJURY IN HOSPITAL WITHOUT CT SCAN
+Isolated Head Injury
+Triage and
+Trauma Life Support
+Requiring
+CT brain ±
+spine*
+NO
+YES
+YES
+YES
+Referral to the nearest
+hospital with CT scan
+ED observation**
+NO
+NO
+YES
+NO
+ward
+observation
+Discharge with head injury advice (verbal and written) and follow-up if necessary
+* Refer to Algorithm 3 on Selection of Adults with Head Injury for Head CT.
+** Refer to Recommendation 7 on Criteria of Patients with Mild Head Injury (MHI)
+who can be Safely Observed in ED.
+*** Refer to Recommendation 10 on Criteria for Admission of MHI Patients
+Post-observation in ED.
+CT = computed tomography; ED = Emergency Department
+Indication for
+observation
+Admit for ward
+observation
+Requiring further
+observation***
+ALGORITHM 1b. GENERAL MANAGEMENT OF ADULTS WITH
+ISOLATED HEAD INJURY IN HOSPITAL WITH CT SCAN
+Discharge with head injury advice (verbal and written) and follow-up if necessary
+Isolated Head Injury
+Triage and
+Trauma Life Support
+Requiring
+CT brain ±
+spine*
+NO
+YES
+YES
+YES
+YES
+CT scan brain ± spine
+Indication for
+neuro-trauma
+referral
+NO
+NO
+NO
+NO
+YES
+Indication for
+observation
+Admit for ward
+observation
+Requiring further
+observation***
+ED
+observation**
+ward
+observation
+Refer to hospital
+with neuro-trauma
+services
+* Refer to Algorithm 3 on Selection of Adults with Head Injury for Head CT.
+** Refer to Recommendation 7 on Criteria of Patients with Mild Head Injury (MHI)
+who can be Safely Observed in ED.
+*** Refer to Recommendation 10 on Criteria for Admission of MHI Patients
+Post-observation in ED.
+CT = computed tomography; ED = Emergency Department
+ALGORITHM 2. TRIAGING OF ADULTS WITH
+SUSPECTED HEAD INJURY IN PRE-HOSPITAL CARE OR
+EMERGENCY DEPARTMENT
+YES
+NO
+NO
+• Airway obstruction
+• GCS <13
+• RR <10 or >30 breaths/minute
+• SBP <90 mmHg
+• HR <60 beats/minute or
+>110 beats/minute
+• SpO2 <90% on room air
+STEP 1
+STEP 2
+STEP 3
+STEP 4
+Measure vital signs and level of consciousness
+• All penetrating injuries to head,
+neck, torso and extremities
+proximal to elbow and knee
+• Chest wall instability/deformity
+(flail chest)
+• Two or more proximal
+long-bone fractures
+• Crushed, degloved or mangled
+or pulseless extremity
+• Amputation proximal to wrist
+and ankle
+• Pelvic fractures
+• Open or depressed skull
+fracture
+• Paralysis
+Assess anatomy of injury
+NO
+• Falls
+- >6 metres (one storey is equal to 3 metres)
+• High-risk auto crash
+- Intrusion: >30 cm occupant site or >46 cm any site
+- Ejection (partial or complete) from vehicle
+- Death in same passenger compartment
+- Vehicle telemetry data consistent with high risk of injury
+• Auto vs pedestrian/bicyclist
+• Thrown, run over, or with significant (>30 km/h) impact
+• Motorcycle crash >30 km/h
+• Older adults:
+- Risk of injury/death increases with age ≥65 years
+- SBP <110 mmHg might represent shock after age of 65 years old
+- Low impact mechanisms (e.g. ground level falls) might results in
+severe injury
+• Anticoagulation and bleeding disorders
+• Burns
+• Pregnancy >20 weeks
+• Emergency Medical Staff clinical judgement
+Assess mechanism of injury and evidence of high-energy impact
+Assess special patients or system considerations
+YES
+YES
+NO
+Adapted: Sasser SM, Hunt RC, Faul M, et al. Guidelines for field triage of injured patients: recommendations of the
+National Expert Panel on Field Triage, 2011. MMWR Recomm Rep. 2012 Jan 13;61(RR-1):1-20
+YELLOW
+ZONE
+Reassess
+RED ZONE
+Steps 1 and
+2 attempts to
+identify the
+most injured
+patients
+RED ZONE
+YELLOW
+ZONE
+GREEN
+ZONE
+ALGORITHM 3. SELECTION OF ADULTS WITH
+HEAD INJURY FOR HEAD CT
+NO
+Presence
+of risk factors for
+urgent scan
+Presence
+of risk factors for
+immediate
+scan
+Adults present to the ED
+with head injury
+YES
+Perform Head
+CT within 6 to 8
+hours of the
+head injury*
+NO
+Continue other managements as required
+Risk factors for immediate scan:
+• GCS <13 on initial management
+• GCS <15 at 2 hours after injury
+• Open, penetrating, suspected open,
+close or depressed skull fracture
+• Any sign of basal skull fracture
+(haemotympanum, ‘raccoon’ eyes,
+cerebrospinal fluid leakage from the
+ear or nose, or Battle’s sign)
+• Post-traumatic seizure
+• Focal neurological deficit
+• Vomiting ≥2 since the head injury
+• Patient on anticoagulant and/or
+antiplatelet or bleeding disorder with
+symptoms such as diffuse headache,
+loss of consciousness, amnesia or
+vomiting
+Risk factors for urgent scan:
+• Age ≥65 years old
+• A history of bleeding/clotting disorder
+or on anticoagulant and/or antiplatelet
+• Dangerous mechanism of injury
+(a pedestrian or cyclist struck by a
+motor vehicle, an occupant ejected
+from a motor vehicle or a fall from
+height >1 metre or 5 stairs)
+• More than 30 minutes retrograde
+amnesia of events immediately before
+the head injury
+• Previous cranial surgery
+• History of epilepsy
+Presence
+of risk factors during
+observation
+NO
+Risk factors during observation:
+• GCS <15
+• Post-traumatic seizure
+• Focal neurological deficit
+• Vomit ≥2 since the head injury
+• Worsening diffuse headache
+• Abnormal behaviour
+• Amnesia
+Ensure patient’s airway secured and
+hemodynamically stable before CT scan.
+Adapted: National Institute for Health and Care Excellence. Triage, assessment, investigation and early management
+of head injury in children, young people and adults. London: NICE; 2014.
+YES
+Perform Head CT within
+1 to 2 hours of risk factor
+being identified*
+*A provisional/preliminary
+verbal radiology report
+should be made
+available within 1 hour
+of the CT taking place
+(depends on local setting)
+YES
+ALGORITHM 4. SELECTION OF ADULTS WITH HEAD INJURY
+FOR IMAGING OF THE CERVICAL SPINE
+Adults presenting with head injury
+Is one or more of the following risk factors present?
+• Initial assessment GCS <13
+• Intubated patients
+• A definitive diagnosis of cervical spine injury is required urgently (e.g. before surgery)
+• Other body areas are being scanned for head injury or multi-region trauma
+• The patient is alert and stable, there is a suspicion of cervical spine injury and any of
+the following high risk factors are present:
+- Age ≥65 years old
+- Dangerous mechanism of injury*
+- Focal peripheral neurological deficit or paraesthesia
+YES
+Perform CT cervical spine within 1 - 2
+hours of risk factor being identified
+Perform three-view cervical spine X-rays
+within 1 hour of risk factor being identified
+NO
+A provisional written/verbal radiology
+report should be made available within
+1 - 2 hours of the CT taking place
+Are the three-view cervical spine
+X-rays technically inadequate,
+suspicious or definitely abnormal?
+If any of the following present factors that
+allow safe assessment on range of
+movement of cervical spine?
+- Simple rear-end motor vehicle collision (MVC)**
+- Sitting position in ED
+- Ambulatory at any time
+- Delayed onset of neck pain***
+- Absence of midline c-spine tenderness
+YES
+NO
+YES
+NO
+Can the patient actively rotate the
+neck to 45 degrees to the left and
+right on assessment?
+No imaging/further imaging required.
+Consider further imaging (CT/MRI)
+if symptoms persist
+YES
+NO
+*Dangerous mechanism
+- Fall from elevation >1 metre/5
+stairs
+- Axial load to head e.g. diving
+- MVC high speed (>100 km/hour)
+- Rollover, ejection
+- Motorised recreational vehicles
+- Bicycle collision
+**Simple rear-end MVC excludes:
+- Pushed into oncoming traffic
+- Hit by bus/large truck
+- Rollover
+- Hit by high speed vehicle
+***Delayed
+i.e. not immediate onset of neck
+pain
+Adapted: National Institute for Health and Care
+Excellence. Triage, assessment, investigation
+and early management of head injury in
+children, young people and adults. London:
+NICE; 2014.
+ALGORITHM 5. MANAGEMENT OF ADULTS WITH
+MILD HEAD INJURY REQUIRING URGENT SURGERY
+OTHER THAN CRANIAL SURGERY
+NO
+YES
+Manage
+according
+to the specific
+injuries
+Patient with mild head injury
+Life-threatening
+injuries
+Presence of risk
+factors for immediate
+Head CT*
+Surgery**
+NO
+YES
+YES
+Availability of CT scan
+Refer for CT scan
+NO
+Perform CT scan
+Positive findings
+Negative findings
+Discuss with
+neurosurgeon
+Proceed with
+surgery**
+* Refer to Algorithm 3 on Selection of Adults with Head Injury for Head CT.
+** Anaesthesia administration adheres to principles of neuroanesthesia.
+1. INTRODUCTION
+In the Malaysian National Trauma Database 2009 report, blunt trauma
+made up 96% of all injuries. Road traffic accident (RTA) accounted
+for 75% of cases with motorcyclists being most commonly injured. The
+younger age group of 15 - 34 years old (56.6%) is at highest risk of
+major trauma. A high proportion of those with major trauma (85%) had
+injuries to the head and neck with Abbreviated Injury Scale (AIS) ≥3.1, level III
+Injury was the fifth (7.86%) commonest cause of hospitalisation
+in Malaysian public hospitals in 20142, level III with RTA being the
+commonest cause of injury-related hospitalisation. Apart from that,
+head injury constituted the commonest diagnosis leading to intensive
+care unit (ICU) admission.3, level III
+Based on the World Health Organization Global status report on
+road safety 2013, the road traffic fatality rate in Malaysia was higher
+than global rate (25 vs 18 per 100 000 population). Many lives can be
+saved with good pre-hospital care (PHC) and quick transportation to
+hospital.4, level III
+Strengthening of emergency services and PHC were identified as
+crucial in improving secondary care as stated in the country health plan
+strategy 2011 - 2015 report. Subspecialties development will continue
+to be strengthened in regional hospitals including expansion and
+strengthening of tertiary care related to trauma.5, level III
+A local study on the effectiveness of trauma services provided by
+secondary and tertiary hospitals showed an 83% mortality reduction in
+severe injuries among those admitted to hospital with specialist trauma
+services compared with those without such services. Nevertheless, they
+had a higher likelihood of disability and impairment upon discharge.
+It was concluded that improvement in access to trauma services for
+severely injured patients and standardisation in management of trauma
+care within hospitals in the country were required.6, level III
+A specialty and subspecialty framework of MoH hospitals 10th Malaysia
+Plan (2010 - 2015) reported that Hospital Kuala Lumpur and 13 states
+hospitals will be provided with neurosurgery subspecialty to manage
+complicated head injury.7, level III However, currently there are only
+nine states and one district hospital with an additional three university
+hospitals providing neurosurgical services.
+In view of the above issues, this first evidence-based local CPG has
+been developed with the aim of guiding healthcare providers in the
+early management of head injury. It intends to reduce clinical practice
+variation, provide optimum care for head injury patients and eventually
+achieve significant reduction in mortality and morbidity related to the
+condition. It also helps in optimising limited neurosurgical subspecialty
+services in the country with a referral system that includes tele-health
+services.
+2. DEFINITION
+Head injury is defined as blunt and/or penetrating injury to the head
+(above the neck) and/or brain due to external force* with temporary or
+permanent impairment in brain function which may or may not result in
+underlying structural changes in the brain.
+One or more of the following conditions from anatomical and
+physiological changes must be present in patients with head
+injury:8
+1. Physiological changes
+• observed or self-reported loss of or decreased level of
+consciousness (any duration)
+• any loss of memory (amnesia) of events immediately before or
+after the injury
+• any alteration in mental state or neuropsychological abnormality
+at the time of the injury [such as loss of consciousness (LOC),
+confusion, disorientation and slow thinking]
+• objective neurological deficits (such as weakness, loss of balance,
+change in vision, praxis, paresis/paraplegia, sensory loss and
+aphasia) that may or may not be transient
+2. Anatomical changes
+• scalp and/or facial wound or swelling
+• skull fracture (facial, basilar or vault) and/or clinical signs of skull
+fracture***
+• diagnosed intracranial lesion such as brain parenchyma injury,
+injury to intracranial blood vessels, injury to the dura mater,
+intracranial haemorrhage (ICH), subarachnoid haemorrhage or
+intraventricular haemorrhage
+• To define head injury, criteria i and ii must be present with/without
+criteria iii:
+i. mechanism - presence of external force*
+ii. physiological - alteration in physiology of the brain
+iii. anatomical - scalp and/or face and/or skull and/or brain injury
+(internal and external)**
+*The external forces may include any of the following events:
+• the head being struck by an object
+• the head striking an object
+• the brain undergoing an acceleration/deceleration movement
+without direct external trauma to the head
+• a foreign body penetrating the brain
+• forces generated from events such as blast or explosion, or other
+forces yet to be defined
+**The anatomical or mechanical changes in the brain such as axonal
+injury which may not be visualised in the CT scan does not rule out
+such injury.
+***Clinical signs of skull base fractures such as periorbital ecchymosis
+(“Raccoon’s eyes”), retro-auricular ecchymosis (“Battle’s sign”),
+cerebrospinal fluid leakage either from the nose [cerebral spinal fluid
+(CSF) rhinorhoea] or ear (CSF otorhoea), or seventh and eighth
+cranial nerves deficits causing facial paralysis and hearing loss
+respectively.
+3. CLASSIFICATION OF SEVERITY
+The severity of head injury can be classified according the presenting
+Glasgow Coma Score (GCS):9 level III
+• mild head injury (MHI): GCS 13 - 15
+• moderate head injury: GCS 9 - 12
+• severe head injury: GCS 3 - 8
+The MHI group can be subdivided into two types as shown in Table 1.10 - 11, level III
+Table 1. Classification of MHI
+Refer to Appendix 3 on Glasgow Coma Scale.
+Cerebral concussion
+Should only be used if there is no imaging
+evidence of brain injury
+With or without history of LOC
+Can be further subdivided into:
+GCS 15
+Mild head injury
+GCS 13 - 15
+With or without imaging evidence of brain
+injury
+Requires a LOC (≤30 minutes) or posttraumatic amnesia (≤24 hours)
+Can be further subdivided according to
+the risk of deterioration and expected
+outcome:
+Grade 1
+Grade 2
+Grade 3
+• History of
+confusion
+• No history
+of LOC
+• Concussion
+symptoms
+resolve
+in <15
+minutes
+• History of
+confusion
+• No history
+of LOC
+• Concussion
+symptoms
+last >15
+minutes
+• History
+of LOC
+either brief
+(seconds)
+or
+prolonged
+(minutes)
+Low Risk
+Medium Risk
+High Risk
+GCS 15
+GCS 14 - 15
+GCS 13
+With one
+or more of
+the clinical
+findings
+With neurological deficits or
+skull fracture or risk factors
+with/without clinical findings
+Concussion symptoms are divided into four
+categories:
+1. Physical
+headache, fuzzy or blurry vision,
+sensitivity to noise and/or light,
+dizziness, feeling tired and lacking
+energy, and problems with balance
+2. Cognition/memory
+difficulty thinking clearly, feeling slowed
+down, trouble concentrating, and
+difficulty remembering new information
+3. Emotional/mood
+irritability, inexplicable sadness,
+nervousness and/or anxiety
+4. Sleep disturbances
+interruptions in normal sleep patterns
+Clinical findings:
+LOC, amnesia, diffuse headache, vomiting
+Risk factors:
+Coagulopathy, alcohol consumption and/or
+drug misuse, age ≥65 years old, previous
+cranial surgery and history of pre-trauma
+epilepsy
+4. DIFFERENTIAL DIAGNOSES
+The differential diagnoses of adult head injury include the following:
+• primary anoxic, inflammatory, infectious, toxic or metabolic
+encephalopathies, which are not complications of head trauma
+• neoplasm
+• brain infarction (ischaemic stroke) and intracranial haemorrhage
+(haemorrhagic stroke) without associated trauma
+• alcohol intoxication, psychotropic drugs or substance abuse
+• seizure
+5. PRE-HOSPITAL CARE (PHC)
+PHC is defined as an immediate assistance a patient receives from
+PHC providers before arriving at hospital. Mortality and morbidity due
+to head injury may be reduced by adequate pre-hospital trauma care.
+The first responder who recognises the emergency situation is
+encouraged to rapidly activate emergency response system by dialling
+999 and provide basic first aid measures. Most deaths in the first hour
+after injury are the result of airway and circulatory systems compromise.
+Appropriate assessment, stabilisation and care of trauma victim
+including referral and transportation to appropriate receiving facility will
+help avoid secondary brain injury.
+5.1 Assessment and General Treatment
+The Glasgow Coma Scale and Score are widely used in patients with
+head injury due to their good reliability and validity. Patient’s best
+eye, motor and verbal response are assessed and categorised into
+mild (GCS 13 to 15), moderate (GCS 9 to12) and severe (GCS 3 to
+8).12 These are reliable tools to monitor and detect deterioration in
+patients with head injury. Alcohol intoxication, sedative medications,
+hypoxia and hypotension can influence the conscious level. Therefore
+any assessment of GCS should be repeated after resuscitation from
+cardiopulmonary insult or recovery from intoxication and sedation in
+patients with head injury. Other assessments that can be used other
+than GCS are Head (AIS) and Trauma Score - Injury Severity Score.
+• GCS score can be influenced by alcohol intoxication, sedative
+medications, hypoxia and hypotension.
+• Training on the use of GCS (technique and application) is essential
+for accurate assessment of patients with head injury.
+Total GCS and GCS Motor Scores including those at pre-hospital are
+stronger predictors of 2-weeks mortality than Head AIS Score scales
+after traumatic brain injury (TBI). In those aged ≥60 years, irrespective
+of motor scale component of GCS, total GCS score and head AIS score
+is an independent risk factor for the mortality.13, level II-2
+Alcohol intoxication (blood alcohol concentration >0.08%) is an
+important confounder which may influence pre-hospital assessment of
+GCS in patients with TBI (p<0.001).14, level II-2
+Recommendation 1
+• Glasgow Coma Scale (GCS) and Glasgow Coma Scale Score (GCS
+score) should be used in the assessment of all patients with head
+injury by trained healthcare providers.
+5.2 Initial Management
+5.2.1 Airway and ventilation
+The most important pre-hospital management in head injury is the
+maintenance of airway, breathing and circulation. Hypoxaemia [oxygen
+saturation (SpO2) <90%] is the most important factor related to worse
+outcome (more mortality and severe disability with SPO2 less than
+90%) and therefore needs urgent attention.15
+A systematic review of studies on pre-hospital intubation in severe head
+injury concludes:16, level II-2
+• The adjusted ORs for in-hospital mortality ranged from 0.24 (95%
+CI 0.11 to 0.49) to 1.42 (95% CI 1.13 to 1.78).
+• There were inconclusive results on functional outcome.
+• Intubation failure or complication rates (e.g. pneumonia) ranged
+from 2.1% to 41.1%.
+Although there was insufficient evidence to suggest any recommendation,
+beneﬁt and harm of pre-hospital intubation in severe TBI depend on
+organisation of PHC services, skills of staff, risk of procedure failure
+and expected transport times.16, level II-2
+An airway should be established by the most appropriate means
+available in severe TBI (GCS <9) to maintain an adequate airway or
+when hypoxaemia is not corrected by supplemental oxygen.15
+Patients should be maintained with normal breathing rates [End tidal
+carbon dioxide (ET CO2) 35 - 40 mmHg]. Hyperventilation (ET CO2 <35
+mmHg) should be avoided unless the patients shows sign of cerebral
+herniation.15
+Manual in line stabilisation must be performed in suspected cervical
+spine injury and rapid sequence intubation is the preferred choice of
+intubation technique as it is proven to be not associated with increased
+risk of adverse neurological outcomes.17, level I
+If tracheal intubation is required, manual in-line stabilisation is provided
+by an assistant during intubation by using the fingers and palms of both
+hands to stabilise the patient's occiput and mastoid processes to gently
+counteract the forces of airway intervention. Prior to this maneuver, the
+anterior half of a semi rigid collar is removed. The assistant stands at
+the head or side of the patients. Manual in-line stabilisation anchors
+the occiput and the torso anchors the lower cervical spine.18, level III The
+procedure should be performed with caution as laryngoscopic forces
+can be translated to mid-cervical spine.
+5.2.2 Cervical spine
+Unstable spinal injury may occur concomitantly with TBI and may lead
+to permanent neurological deficit if not addressed appropriately.19, level III
+Hence, cervical injury must be considered in all head injury.
+Cervical spine immobilisation should be carried out in TBI patients with
+any of the following risk factors:20
+• GCS <15 on initial assessment by the healthcare professional
+• paraesthesia in the extremities
+• neck pain or tenderness
+• focal neurological deficit
+• any other clinical suspicion of cervical spine injury
+Maintain cervical spine immobilisation until full risk assessment including
+clinical assessment (and imaging if deemed necessary) indicates it is
+safe to remove the immobilisation device.20
+5.2.3 Circulation
+Hypotension is defined as a SBP <90 mmHg in adults.15 Untreated
+hypotension will produce secondary brain insult and studies have
+demonstrated that a single episode of hypotension significantly worsens
+the outcome.21, level III Treatment includes fluid and vasopressors to
+maintain a mean arterial pressure (MAP) of 80 mmHg or more.20
+There is no benefit on survival or functional outcome, and also no
+difference in hospital length of stay by using hyperosmolar crystalloid
+or colloid solutions over isotonic crystalloids in pre-hospital fluid
+resuscitation of patients with TBI. Hypotension and hypoxia however
+must be avoided, and fluid resuscitation should be sufficient to maintain
+cerebral perfusion.22, level I
+A multicentre Saline Albumin Fluid Resuscitation Trial showed that the
+use of albumin was associated with higher mortality in patients with
+severe head injury. Among patients with severe brain injury (GCS 3 -
+8), 41.8% of them died in the albumin group as compared with 22.2%
+patients in the saline group. However in those with GCS scores of 9 -
+12, death occurred in eight of 50 patients in the albumin group (16.0%)
+and eight of 37 patients in the saline group (21.6%).23, level I
+Recommendation 2
+• Hypoxaemia [oxygen saturation (SpO2) <90%] should be avoided in
+head injury and corrected immediately upon identification. Oxygen
+supplementation should be given to all patients with head injury to
+prevent hypoxaemia.
+• An airway should be established in head injury patients, by the most
+appropriate means* available in the following conditions:
+ severe head injury (Glasgow Coma Scale ≤8)
+ inability to maintain an adequate airway
+ hypoxaemia not corrected by supplemental oxygen
+Manual in-line immobilisation should be performed during intubation.
+• Cervical collar should be applied in head injury patients with
+suspected cervical injury**.
+• Isotonic crystalloid is the preferred choice of intravenous fluid
+resuscitation in head injury.
+* Use either definitive (e.g. endotracheal intubation) or non-definitive
+airway (e.g. laryngeal mask airway) depending on expertise and
+resources.
+**Refer to the related preceding text.
+5.3 Referral or Discharge at Primary Care Setting
+The need to make a decision to refer or discharge a patient with head
+injury who is seen in a primary health setting can be very challenging.
+This is especially so in presumably mild cases as there is a possibility
+that the cases may have pre-existing risk factors to intracranial bleeding
+or symptoms masked by intoxication.
+Patients presenting with MHI with the following findings may eventually
+require neurosurgical intervention:24, level III
+• restlessness
+• decrease in GCS score within six hours
+• severe headache
+• focal temporal blow
+• vomiting
+• confusion
+Male gender (OR=3.82, 95% CI 1.60 to 9.13) and alcohol intoxication
+(OR=12.44, 95% CI 2.14 to 72.38) are important risk factors of delayed
+referral.25, level III A healthcare provider should be aware that a quick
+and accurate decision of referral for patient with presumably mild head
+injury can be hindered if the patient is male and intoxicated by alcohol.
+There is a possibility of ICH after minor head trauma in patients taking
+anticoagulant and/or antiplatelet medication. The frequency of a
+positive computed tomography (CT) with regards to anticoagulation is
+27%, antiplatelet 41% and combined therapy 14%.26, level III
+Low platelet count in TBI patients on antiplatelet therapy contributed
+to negative outcome. Patients on clopidogrel therapy and high-dose
+aspirin therapy (325 mg) (p=0.001) are more likely to have progression
+of ICH and require neurosurgical intervention (p=0.01) compared with
+patients on low-dose aspirin therapy (81mg). Platelet count of ≤135,000/
+µL is the strongest predictor for progression of initial ICH (p<0.001)
+on repeat head computed tomography (RHCT). A lower platelet count
+i.e. ≤95,000/µL is the strongest predictor (p<0.001) for neurosurgical
+intervention.27, level III
+In older patients (≥55 years old) with TBI, those on anticoagulation
+therapy are 4.6 times (95% CI 1.08 to 19.6) more likely to have a
+secondary intracranial haemorrhage event (SIHE) compared with
+antiplatelet users and non-users on follow-up. The anticoagulant users
+are also more likely to have progression of initial haemorrhage.28, level II-2
+Predictors of mortality for patients who present with isolated moderate
+to severe TBI were assessed using a multivariable logistic model.
+Age, male gender, ISS ≥16, GCS score ≤8, systolic blood pressure,
+and diabetes mellitus (DM) were signiﬁcant predictors of mortality after
+moderate to severe TBI. DM was associated with an increased for
+mortality OR of 1.5 (95% CI 1.29 to 1.74).29, level III
+In a cohort study of isolated TBI patients, pre-hospital hypertension of
+>160 mmHg was an predictor for in-hospital mortality:30, level III
+• OR for pre-hospital SBP of 160 - 180 mmHg was 1.33 (95% CI
+1.22 to 1.44)
+• OR for pre-hospital SBP of 190 - 230 mmHg was 1.97 (95% CI
+1.76 to 2.21)
+A deviation from admission heart rate (HR) of 70 beats per minute
+(bpm) to 89 bpm was associated with increased mortality (p<0.001).
+Another cohort study factors showed that factors associated with
+mortality in TBI patients were:31, level II-2
+• GCS <9 (HR=2.08, 95% CI 1.25 to 3.46)
+• abnormal pupil (HR=2.08, 95% CI 1.25 to 3.46)
+• ISS score ≥25 (HR=2.62, 95% CI 1.48 to 4.63)
+• SBP <90 mmHg (HR=2.13, 95% CI 1.12 to 4.04)
+• hypothermia <35°C (HR=1.42, 95% CI 1.00 to 2.01)
+In local context, social issues such as transport, communication
+problem or no supervision by a responsible adult should be considered
+when referring patients with mild head injury.
+Recommendation 3
+• Referral of patients with mild head injury to the nearest hospital
+should be considered especially if they have any of the following
+factors:
+ Glasgow Coma Scale (GCS) of 15 but symptomatic such as
+amnesia, headache, vomiting or restlessness
+ age ≥65 years old
+ treated with antiplatelets or anticoagulants
+ GCS <15 and/or declining GCS score
+ alcohol intoxication and substance misuse
+ focal temporal blow
+ social issues
+ indicated for head CT (refer to Algorithm 3 on Selection of Adults
+with Head Injury for Head CT)
+5.4 Transportation
+Surgical neuro-trauma management in Malaysia is provided by general
+and/or neurosurgeons. Many patients with head injuries are transferred
+to these hospitals by road or occasionally by air or river/sea. During
+transportation, patients with impaired consciousness and physiological
+instability may develop secondary insults and are predisposed to
+worse outcome. Adhering to best practice directed by evidence-based
+protocols or management prior and during transport can help minimise
+these adverse events.12
+Patients with head injury should be transferred in a safe and timely
+manner. The mode and rapidity of transferring patients with head
+injury in the pre-hospital setting are based on the risk of intracranial
+complications and severity of head injury.
+Refer to Appendix 8 on Equipments for Transfer.
+5.4.1 Transferring head injury patients from the scene of injury to
+hospital
+Patients with suspected TBI preferably should be transported from the
+scene directly to a centre where TBI can be managed in its entirety
+(centre with resources necessary to resuscitate, investigate and manage
+any patients with major trauma or suspected polytrauma). Alternatively
+patients can be directly transported to a centre capable of initial
+management. Calls should be made earlier to inform the ED to standby
+especially in cases of GCS ≤8. Cervical spine immobilisation should
+be maintained during transfer until a full assessment and appropriate
+investigations are performed. The mode of transport selected should
+minimise total pre-hospital time. On scene management of TBI patient
+and transfer must follow current standard management. Unnecessary
+delay in transfer must be avoided.32
+Transferring polytrauma patients with suspected TBI to an appropriate
+facility with established trauma system is associated with a 15%
+reduction in overall mortality.32
+5.4.2 Transfer of Head Injury Patients from Clinic to Hospital
+• Criteria for rapid transfer:32
+ deterioration in patient’s condition
+ GCS <15
+ focal neurological deficit
+ seizure
+ suspected skull fracture or penetrating head injury
+ high impact head injury
+ suspected neck injury
+Patients referred from primary care should be accompanied by a
+competent adult. The referring health care providers should determine
+whether an ambulance or other mode of transport is required. Public
+transport and car may be an appropriate alternative provided the
+patient is clinically stable and accompanied. The referring health care
+providers should contact the referral hospital by phone of the impending
+transfer.20 The decision to transfer patients from a rural location
+should be discussed between the referring and receiving healthcare
+providers.12 The rapidity and mode of transport from the pre-hospital
+setting to ED depend on the risk of clinically important head injury and
+the acute complications of head injury.
+5.4.3 Transfer of Head Injury Patient from ED/Hospital without
+Neuro-trauma Service to Neuro-trauma Centre
+Patients with persistent hypotension despite resuscitation should have
+the cause of hypotension identified and managed in a hospital with
+surgical services. Advanced airway management including intubation
+may be required prior to transfer and must be done by trained healthcare
+providers.33, level I The risk of secondary brain injury during transfer to
+tertiary centre is high if poorly executed. Transfer purely for the purpose
+of imaging in unstable patients should be avoided.12
+• Initial management including resuscitation and stabilisation are
+essentials, and should be completed before transferring TBI
+patients:15; 19, level III; 20
+ Intubate* and ventilate patients with TBI if:
+- GCS ≤8 or significant drop of total GCS score ≥2 or motor
+component ≥1
+- unstable fractures of the facial skeleton
+- copious bleeding into mouth (e.g. from skull base fracture)
+- hypoxaemia
+- seizure
+- respiratory irregularities
+- hyperventilation causing hypocarbia (keep ET CO2 35 - 40
+mmHg)
+ Cause of persistent hypotension should be identified and managed
+in hospital with surgical services.
+ If patient has seizures, treat with anticonvulsants (refer to Chapter
+8.4 on Anticonvulsant).
+*if intubation is not possible, LMA insertion is acceptable
+During transfer, hypotension, hypercarbia and hypoxia are the main
+causes of secondary brain damage in patients with TBI. Hence, it is
+important to maintain adequate oxygenation and ventilation with
+appropriate short-acting sedation and analgesia and to avoid SpO2
+<90%.19, level III
+The general principles of safe transfer are:
+• ensure haemodynamic optimisation (Refer to Section 5.2 on Prehospital Management and Section 8.2 on Intravenous Fluid)
+• secure bleeding prior to transfer e.g. apply haemostatic suturing for
+bleeding scalp wounds and splints for long bone fractures.19, level III
+• intubation if required (Refer to Section 5.2 on Pre-hospital
+Management)
+• cervical immobilisation
+• the transfer team should be trained in neuro-trauma management
+• reliable communication equipment is essential to allow effective
+communication between the transfer team with their hospital and the
+neurosurgical team
+• completed transfer checklist for neurosurgical patients (Refer to
+Appendix 9 on Transfer Checklist for Neurosurgical Patients)
+Stretcher is preferable to traditional spinal board. Hence, patient
+should be taken off the spinal board while awaiting transfer. There is
+insufficient evidence of safe duration for patient immobilisation on spinal
+board.17, level I
+• The fundamental requirements prior to transfer include adequate
+oxygenation delivery and optimised vital parameters:32
+ target MAP >80 mmHg, PaO2 >97.5 mmHg (13 kPa), PaCO2 within
+35 - 40 mmHg, SpO2 >90%
+• Parameters to monitor during transfer include:
+ cardiac monitoring, BP, pulse oximetry, capnography (if available),
+pupil size and reaction to light ± urine output
+• Investigations before transfer when necessary are*:
+ full blood count, coagulation screen, blood sugar, blood group
+and cross-match, arterial blood gases, radiological investigations
+[CT scan (where available), chest x-ray, pelvic X-rays and other
+investigations as appropriate]
+*The investigations should not delay transfer.
+A copy of the summary and transfer record should be kept in the
+referring hospital for audit purposes and potential medico-legal
+consideration.19, level III
+Recommendation 4
+• Hypotension, hypoxia, hypocarbia and hypercarbia, and inadvertent
+cervical injury should be avoided before and during transfer of
+patients with head injury.
+• Continuous monitoring of vital signs should be conducted during
+transfer of head injured patients*.
+• Effective communication should be established between the transfer
+team and receiving hospital of head injury cases.
+*Refer to Appendix 9 on Transfer Checklist for Neurosurgical
+Patients.
+6. MANAGEMENT IN EMERGENCY DEPARTMENT (ED)
+6.1 Triage
+The purpose of triage is to ensure the right patient receives appropriate
+timely treatment in the right place before she or he deteriorates. A
+systematic method ensures quick work flow process. Triage of patients
+with head injury in many countries has been based on American
+College of Surgeon-Committee on Trauma/Centre for Disease Control
+(ACOS-COT/CDC) 2011 Physiologic and Anatomical Guidelines for
+field triaging of injured patients.34, level III
+Based on this guideline, there is increased likelihood of death in TBI
+with the following physiological factors:34, level III
+• GCS ≤13 (OR=17.4, 95% CI 10.7 to 28.3)
+• Respiratory rate (RR) <10 breaths per minute and >29 breaths per
+minute in adults (OR=20.3, 95% CI 13.4 to 30.8)
+• SBP <90 mmHg (OR=18.6, 95% CI 14.0 to 24.7)
+Combination of all three physiologic criteria markedly increases the
+OR to 67.8 (95% CI 48.3 to 95.3).
+In trauma patient, with the following anatomical criteria outlined in the
+same guidelines, there is increased likelihood of death:35, level III
+• flail chest (LR=42.4, 95% CI 6.3 to 284.0)
+• open or depressed skull fracture (LR=18.9, 95% CI 11.6 to 30.8)
+• pelvic fracture (LR=12.3, 95% CI 9.1 to 16.5)
+• penetrating injury to the head, neck, torso and extremities
+(LR=49.7, 95% CI 42.3 to 58.3)
+• two or more proximal long-bone fractures (LR=7.1, 95% CI 5.0 to
+10.1)
+An earlier study showed that the predictors of mortality in patients with
+blunt TBI were:36, level II-2
+• age (OR=1.04. 95% CI 1.01 to 1.07)
+• GCS <9 (OR=19.29, 95% CI 5.04 to 73.82)
+• skull bone fracture (OR=10.44, 95% CI 3.59 to 30.38)
+A four-step algorithm based on physiologic abnormalities, anatomic
+injuries, mechanism of injuries, and co-morbidities and age (modified
+from ACOS-COT/CDC triaging guidelines) shows that the following
+factors are associated with a higher risk of undertriage:37, level III
+• isolated head injury with GCS 13-15 (talk and deteriorate)
+(OR=14.0, 95% CI 4.55 to 43.3)
+• age of 45-54 years old (OR=10.8, 95% CI 1.88 to 61.7)
+• isolated pelvic injury (OR=14.2, 95% CI 2.58 to 78.0)
+• night time arrival (OR=2.45, 95% CI 1.04 to 5.79)
+Triage of patients suspected of head injury should follow an Algorithm
+2 on Triaging of Adults with Suspected Head Injury in PHC or ED which
+has been adapted from ACOS-COT/CDC triaging guidelines.34, level III
+Recommendation 5
+• Triage of patients suspected of head injury in pre-hospital care or on
+arrival in emergency department should follow a four-step algorithm*
+based on physiologic abnormalities, anatomic injuries, mechanism of
+injuries, co-morbidities and age.
+*Refer to Algorithm 2 on Triaging of Adults with Suspected Head
+Injury PHC or ED.
+6.2 General Treatment
+Initial management of patients with head injury should be performed
+according to primary survey of trauma patients as recommended by
+Advanced Trauma Life Support guidelines:38, level III
+• airway patency and cervical spine protection
+• breathing
+• circulation and haemorrhage control
+• disability
+• exposure
+• Stabilisation of airway, breathing and circulation is the priority for all
+ED patients before attending to other injuries.
+• In patients with depressed conscious level, head injury need to be
+ruled out before diagnosis of intoxication is made.
+• All healthcare providers in ED should be trained in the assessment of
+patients with head injury and identification of risk factors for CT head
+and cervical spine imaging.
+In patients with head injury with GCS of ≤8, intubation is recommended
+for airway protection. To prevent secondary injuries, parameters such
+as PO2, PCO2, BP, PR, SpO2 and glucose level should be assessed
+and be normalised.38, level III
+National Trauma Data Bank study, which included mild and moderate
+head injury, base deficit and mortality analysis, showed that the first
+presenting SBP <110 mmHg in hospital was a more clinically relevant
+definition of hypotension and hypoperfusion than SBP <90 mmHg.
+This was independent of both age and gender of the patients. There
+was an increase of approximately 6% in mortality for every 10 mmHg
+decrease below SBP 115 mmHg, with a maximum of 40% mortality
+at SBP 60 mmHg. However, further studies are warranted to support
+these findings.39, level III
+In traumatic ICH, those who do not require critical care interventions
+are patients with full GCS, isolated head injury and age <65 years
+(AUC=0.74, 95% CI 0.70 to 0.77).40, level II-2
+There is a significant association between death and age (OR=1.04),
+GCS (OR=0.59), ISS (OR=1.03), mean arterial BP (OR=0.71) and RR
+(OR=0.82) in patients with TBI.41, level III
+Recommendation 6
+• Initial assessment and management of patients with head injury in
+emergency department (ED) includes:
+ airway patency and cervical spine protection
+ breathing (to detect any intrathoracic injury)
+ circulation and haemorrhage control
+ disability including Glasgow Coma Scale (GCS), pupil size and
+reaction to light
+ exposure including log roll
+• Secondary survey (head to toe examinations) should be done
+in patients with head injury which includes signs of base of skull
+fracture*.
+• Head chart which includes serial GCS, blood pressure, pulse rate and
+pupil size should be done at least hourly on patients with head injury
+in ED including while awaiting computed tomography or transfer to
+another ward/hospital.
+ Monitor for signs of intracranial hypertension such as decreased
+pupillary response to light, hypertension with bradycardia, posturing
+or respiratory abnormalities.
+*Refer to Chapter 7 on Imaging - Skull X-ray.
+6.3 Observation in ED
+Head injury is one of the common reasons for ED visits. Most cases are
+mild and self-limiting. However they usually require further observation
+after initial systematic assessment and treatment. The primary aim is to
+detect promptly patients who deteriorate neurologically and to ensure
+safe home discharge.
+Early imaging, rather than admission and observation for neurological
+deterioration, will reduce the time to detection for life-threatening
+complications and is associated with better outcomes.11, level II-2 Patients
+with MHI (who do not have criteria for CT scan) can be managed in ED.
+The management at ED observation wards is efficient at dealing with
+short stay observation patients.20
+6.3.1 Patients who can be safely observed in ED
+Patients with MHI (who do not meet the criteria for head CT) can be
+managed in the ED observation ward.
+In the management of head injury, patients with GCS score of 15
+and normal neurological findings who either have CT scan performed
+immediately or undergo routine observation have similar extended
+Glasgow outcome score (GOS) at three months follow-up.42, level I
+In a RCT, all adult patients with mild TBI (GCS 13 - 15), without a history
+of inherited coagulopathy or anticoagulant therapy, platelet aggregation
+inhibitor therapy, intoxication or multiple associated injuries, who
+present with a single ICH with maximum diameter <5 mm regained
+full GCS within two hours. These patients may not require 24-hour
+observation.43, level I
+Patients with MHI and ICH of ≤4 mm, normal neurological examination,
+no skull fracture, not on any warfarin (anticoagulant), aspirin or
+clopidogrel (antiplatelet) and not intoxicated, can be safety observed
+for six hours without neurosurgical consultation.44, level III
+Patients with minor head injury (GCS 15), ≥65 years old, on low dose
+aspirin with systolic blood pressure <150 mmHg and presenting with
+initial negative primary head CT, should have a routine repeat head CT
+within 12 - 24 hours to accurately identify head injury or such patients
+should be subjected to a prolonged hospital observation for at least 48
+hours.45, level III
+Recommendation 7
+• Patients with mild head injury in whom computed tomography scan is
+not indicated and with all the following criteria can be safely observed
+in emergency department* for a minimum of six hours:
+ Glasgow Coma Scale score 15 on arrival or two hours later
+ no neurological abnormality
+ age <65 years old
+ not on any anticoagulant or antiplatelet therapy
+ no history of coagulopathy
+ no multiple injuries
+ not intoxicated and not under influence of psychotropic drugs
+*For hospital without observation ward, these patients may be admitted.
+• Patients with MHI who are ≥65 years old and/or on anticoagulant/
+antiplatelet should be admitted directly to ward irrespective of CT
+findings.
+6.3.2 Parameters for observation in ED
+It is well established that the risk of intracranial complications and
+subsequent need for surgery increases as GCS score declines.
+Extensive studies have supported their repeatability and validity.12
+A prospective observational study comparing GCS score of patients
+done in the field, with the GCS score obtained by emergency
+physicians upon arrival in ED showed a moderate relationship (r=0.45,
+p=0.003). Assuming most GCS scores improve from field to ED, there
+is concordance between ECP and physicians in assessment of TBI
+patients using the GCS.46, level III
+Variables that are highly accurate in predicting clinically significant
+outcomes of mild TBI patients include GCS (OR=11.74, 95% CI 8.42
+to 16.37), neurological deficit (OR=1.90, 95% CI 1.33 to 2.71), clinical
+findings [such as amnesia, diffuse headache, vomiting and LOC
+(OR=4.31, 95% CI 2.81 to 6.61)], skull fracture (OR=31.01, 95% CI
+20.36 to 47.21) and risk factors [such as coagulopathy, age >60 years
+old, previous neurosurgery, post-traumatic seizure (PTS) and alcohol/
+drug abuse (OR=2.12, 95% CI 1.62 to 3.01)].11, level III
+In patients with TBI, the significant risk factors for mortality are
+increasing age, lower GCS, higher ISS, lower mean arterial BP and
+abnormal RR (>25 and <10).41, level III
+In patients with head injury admitted for observation, the minimum
+acceptable documented neurological observations are GCS, pupil size
+and reactivity, limb movements, RR, HR, BP, temperature and blood
+oxygen saturation.20 Even though the evidence is based on patients
+admitted for observation in hospital, the same principles apply to
+patients observed in ED.
+• Emergency care providers (ECP) should use a standard head injury
+proforma in their documentation when assessing and observing
+patients with head injury (refer to Appendix 4 on Head Chart).
+• All healthcare providers caring for patients with head injury should
+be capable of performing observations of the standard parameters
+effectively.
+• The acquisition and maintenance of observation and recording skills
+require dedicated training and this should be available to all relevant
+staff.
+• When using GCS, document and communicate each response
+(for example a patient scoring 13/15 based on scale of 4 on eye
+opening, 4 on verbal response and 5 on motor response should
+be communicated verbally as E4 opening eyes spontaneously, V4
+confused, M5 localising pain) and written as E4V4M5.
+Recommendation 8
+• The following parameters should be used for observation of patients
+with head injury:
+a) Glasgow Coma Scale and Score
+b) Vital signs
+ Respiratory rate and oxygen saturation
+ Pulse rate
+ Blood pressure
+ Pain score
+ Temperature
+c) Neurological deficits
+ Pupil size and reactivity
+ Limb movement
+ Unusual behaviour, temperament or speech impairment
+d) Other symptoms such as persistent vomiting, seizure, amnesia
+and diffuse headache
+Refer to Appendix 4 on Head Chart.
+6.3.3 Method, frequency and duration of observation/assessment
+in ED
+There is insufficient evidence on method, frequency and duration of
+observation/assessment of head injury in ED. In management of
+head injury, pre-emptive investigation to detect lesions before they
+lead to further neurological deterioration has superseded the earlier
+deterioration dependent approach.12
+i. Method
+Safe assessment of TBI in ED requires consistent observation and reevaluation as the injury is dynamic.12
+• During handover of patient care, ECP should communicate with
+healthcare providers in ED on details of the mechanism and type of
+injury, and records of neurological progress since arrival in ED.
+• Head chart should be used to monitor patient’s progress. Any
+discrepancy in assessment should be discussed immediately with
+the senior medical officer or EP.
+ii. Frequency
+Frequency of observation should relate to risk of clinically important
+findings in order to detect early deterioration of head injury.
+The risk of rapid deterioration due to intracranial complications is
+high during the first six hours and diminishes after that. Therefore,
+observations should be more frequent during this period.20
+a. In-patients with GCS 15/15
+Patients with head injury, who warrant admission, should have
+neurological observations carried out at least in the following frequency
+starting after initial assessment in the ED:12
+• half hourly for two hours
+• hourly for four hours
+• two hourly for six hours
+• four hourly thereafter until agreed to be no longer necessary
+b. In-patients with GCS <15/15
+Perform and record observation on a half-hourly basis until GCS 15 has
+been achieved. Thereafter, the minimum frequency of observation are
+as follows:20
+• half-hourly for two hours
+• hourly for next four hours
+• 2-hourly thereafter
+• should there be any deterioration at any time after the initial 2-hour
+period, observations should revert to half-hourly and follow the
+original frequency schedule
+iii. Duration
+Patients with MHI can be safely observed for six hours without
+neurosurgical consultation if they have the following features:44, level III
+• ICH of ≤4 mm
+• normal neurological examination
+• no skull fracture
+• not on any warfarin, aspirin or clopidogrel
+• not intoxicated
+Patient who have been provided with emergency care and having
+clinical and/or physiological conditions that are expected to deteriorate
+or resolve and require close observation may be admitted to ED
+observation ward. These patients should have a pre-defined care plan
+within stipulated time frame of eight hours or prerogative of EP in
+charge as clinically indicated.47, level III
+Recommendation 9
+• Patients with head injury should be monitored with findings recorded
+immediately using head chart.
+ Any deterioration should prompt immediate re-evaluation of the
+patients by the attending doctor.
+• Observations may be performed and documented hourly in head
+injury patients. Should there be any deterioration at any time after
+the initial 2-hour period, the minimum frequency of observation
+respectively are as follows until GCS 15 is achieved:
+ half-hourly for first two hours
+ hourly for next four hours
+ 2-hourly for six hours
+ 4-hourly thereafter until no longer necessary and/or fit for discharge
+• Patients with mild head injury in whom computed tomography scan is
+not indicated can be safely observed in emergency department for a
+minimum of six hours.
+6.3.4 Admission after observation in ED
+The primary reasons for in-hospital admission after observation in ED
+is for further management of patients who develop worsening postconcussion symptoms or presence of features indicating risk of further
+complications. Patients with persistent impaired consciousness or
+neurological impairment will need continued observation and in-patient
+care.20
+Some clinical risk factors can be used as a guide to identify those who
+need neurosurgical intervention. In pre-injury warfarin and clopidogrel
+use, the risk factors for ICH are vomiting (OR=3.68, 95% CI 1.55 to
+8.76) and abnormal mental status (OR=3.08, 95% CI 1.60 to 5.94).48,
+level III GCS (OR=11.74, 95% CI 8.42 to 16.37), neurological deficit
+(OR=1.90, 95% CI 1.33 to 2.71), clinical findings [such as amnesia,
+diffuse headache, vomiting and LOC (OR=4.31, 95% CI 2.81 to 6.61)],
+skull fracture (OR=31.01, 95% CI 20.36 to 47.21) and risk factors [such
+as coagulopathy, age >60 years old, previous neurosurgery, PTS and
+alcohol/drug abuse (OR=2.12, 95% CI 1.62 to 3.01)] was found to be
+highly accurate in predicting clinically significant outcomes of mild TBI
+patients.11, level III
+CT can be used as a safe modality to triage patients for admission
+as it leads to similar clinical outcomes compared with observation in
+hospital.42, level I
+The criteria below are used for admitting patients to hospital following
+a head injury:12; 20
+• patients with new, clinically significant abnormalities on imaging
+• patients whose GCS has not returned to 15 after imaging, regardless
+of the imaging results
+• when a patient has indications for CT scan but this cannot be done
+within appropriate period, either because CT is not available or
+because the patient is not sufficiently cooperative to allow scanning
+• continuing worrying signs (e.g. persistent vomiting, unresolved
+amnesia and headache) of concern to the clinician
+• other sources of concern to the clinician (e.g. anticoagulant use,
+drug or alcohol intoxication, other injuries, shock, suspected nonaccidental injury, meningism, cerebrospinal fluid leak)
+• social problems or cannot be supervised by a responsible adult
+Recommendation in this section is formulated based on extrapolation
+from other guidelines and tailored to local context.
+Recommendation 10
+• Patients with mild head injury who have been observed for six hours
+in emergency department should be admitted to ward if they have:
+ clinically significant abnormalities on head computed tomography
+(CT) imaging
+ Glasgow Coma Scale Score <15*
+ worrying signs (e.g. vomit ≥2 times, seizure, diffuse headache,
+amnesia, abnormal behaviour or neurological deficit)*
+ other body system injuries requiring admission
+ social problem** including no supervision by a responsible adult
+* Patients should have a head CT before admission.
+**Transport issue, no communication, stay in remote area, suspected
+abuse case or other factors affecting the monitoring and safety of
+patients.
+6.3.5 Discharge home from ED without observation
+It is neither feasible nor desirable to admit all MHI patients attending
+ED for observation especially those who have recovered and at low
+risk of intracranial complications. Furthermore, patients with MHI who
+present with a GCS of 15 to the ED rarely require urgent neurosurgical
+intervention or experience precipitous deterioration.24, level II-2
+Patients with low risk MHI can be discharged home after assessment
+without observation. Low risk patients are those with:11, level III; 49, level II-2
+• GCS of 15
+• no clinical finding (amnesia, vomiting, diffuse headache and LOC)
+• no neurological deficit
+• no skull fracture
+• no risk factors (coagulopathy, age <60 years, previous neurosurgery,
+pre-trauma epilepsy and/or alcohol and/or drug misuse)
+• Criteria to be met by patients of head injury prior to discharge:
+ Presence of a willing responsible adult for at least 24-hour
+observation
+ Verbal and written discharge advice given to responsible care
+givers and discussed prior to discharge
+ Easy access to an emergency response system e.g. 999
+ Living within reasonable access to medical care.
+ Availability of home transport.
+Adapted: Scottish Intercollegiate Guidelines Network. Early management of patients
+with a head injury. Edinburgh; SIGN; 2009
+Recommendation 11
+• Patient with low risk mild head injury* and who is living with a reliable
+care giver can be discharged home safely without observation from
+emergency department.
+*Refer to preceding paragraph.
+7. IMAGING
+Management of moderate and severe head injury depends largely
+on imaging to detect intracranial lesions. Timely imaging expedites
+appropriate surgical and medical interventions. Exclusion or demonstration
+of intracranial injury can guide decision about extent and duration of
+observation in such cases.
+7.1 Head CT
+There are a few head CT rules available to guide the need for CT scan.
+Canadian CT Head Rule (CCTHR) is used to select patients with MHI
+(GCS 13 - 15) for CT head. CCTHR identifies five high risk factors (refer
+to yellow box below) which predict neurological intervention [sensitivity
+of 100% (95% CI 92 to 100%) and specificity of 68.7% (95% CI 62 to
+70)].50, level II-2
+CCTHR also identifies two medium-risk factors (refer to yellow box
+below) which predict clinically important brain injury [sensitivity 98.4%
+(95%CI 96 to 99%) and specificity 49.6% (95% CI 48 to 51%)].50, level II-2
+However, CCTHR is not applicable in the presence of seizure, penetrating
+skull injury, focal neurological deficit and use of anticoagulant.50, level II-2
+The New Orleans Criteria (NOC) derived a set of clinical findings
+to identify a group of minor head injury patients who need CT scan.
+Presence of any the following findings will predict positive head CT
+[sensitivity of 100% (95% CI 95 to 100%) and specificity of 25% (95%
+CI 22 to 28%)]:51, level II-2
+• headache
+• vomiting
+• age >60 years
+• drug or alcohol intoxication
+• deficits in short-term memory
+• physical evidence of trauma above the clavicles
+• seizure
+Both CCHTR and NOC had been externally validated in detecting
+all patients who require neurosurgical intervention in two studies.
+For CCTHR, the sensitivities remained the same but with variable
+specificities (37.2% and 58%). For NOC, the sensitivities were also high
+(96% and 100%) but specificities were low (5.3% and 26%).52 - 53, level II -2
+Scandinavian Neurotrauma Committee has concluded that the
+presence of the following criteria warrants a head CT:54
+• GCS ≤14
+• LOC
+• repeated (≥2) vomiting
+• anticoagulant or coagulation disorders
+• clinical signs of depressed or basal skull fracture
+• PTS
+• focal neurological deficits
+There is no retrievable evidence on the timing of head CT. However, the
+Scottish International Guidelines Network (SIGN) guidelines list down
+factors for immediate (within one hour) and urgent (within eight hours)
+CT scan in head injury. The timing for CT scan in MHI for local context
+is based on expert opinion of CPG DG.
+Canadian CT Head Rule
+CT Head Rule is only applicable for patients with minor head injuries
+and any of the following:
+A. High risk (for neurological intervention)
+ GCS score <15 at two hours after injury
+ Suspected open or depressed skull fracture
+ Any sign of basal skull fracture (haemotympanum, ‘racoon’ eyes,
+cerebrospinal fluid otorrhoea/rhinorrhoea, Battle’s sign)
+ Vomiting ≥2 episodes
+ Age ≥65 years
+B. Medium risk (for brain injury on CT)
+ Amnesia before impact >30 minutes
+ Dangerous mechanism (pedestrian struck by motor vehicle,
+occupant ejected from motor vehicle, fall from height >3 feet or 5
+stairs)
+Minor head injury is defined as witnessed loss of consciousness,
+definite amnesia or witnessed disorientation in a patient with a GCS
+score of 13 - 15.
+Patients on anticoagulation or antiplatelet therapy have a positive head
+CTs of 29% despite having a GCS score of 15. LOC is a predictor of
+a positive CT result (p=0.008), suggesting that head CT should be
+strongly considered in these patients.26, level III
+In polytrauma patients with TBI, priority for initial management including
+timing of head CT is complex. Primary cause of hypotension must
+be urgently sought and treated, e.g. patients with exsanguinating
+intra-abdominal injuries should be operated on and stabilised before
+obtaining head CT. Neurologic examination of patients with hypotension
+is unreliable. Closed head injury will not cause haemorrhagic shock.
+Hypotension may occur with concomitant spinal cord injury or when
+medullary failure supervenes in the terminal stages of ICH.38, level III
+Recommendation 12
+• Canadian Computed Tomography Head Rule (CCTHR) may be used
+to decide on the need of Computed Tomography (CT) of the head in
+mild head injury (MHI).
+• Patients with MHI on anticoagulation and/or antiplatelet should be
+considered for head CT.
+• Urgency* for head CT in head injury patients should be based on
+severity of the injury and risk factors.
+• Patient's cardiopulmonary status should be stabilised before
+performing head CT.
+*Refer to the preceding text.
+7.2 Skull X-ray
+The definitive imaging for head injury is head CT. The scan is indicated
+when there is anatomical and/or physiological evidence of head injury.
+In MHI group with GCS of 15, asymptomatic and no neurological
+deficit, external evidences of head injury especially skull fracture is an
+indication for head CT prior to a definitive management plan.
+Skull fractures may occur in the cranial vault or skull base. They may
+be linear or comminuted, and open or closed. Open fractures are
+diagnosed when any of the following is present:38, level III
+• obvious evidence of penetrating head injury (involving skull bone
+and structure beneath it)
+• skull fracture visualised beneath scalp laceration wound
+• clinical signs suggestive of skull base fracture
+Closed fracture is diagnosed when skull depression is detected by
+scalp palpation with or without overlying scalp swelling or hematoma.
+Skull fracture is an important finding to predict intracranial lesion
+following MHI which require a head CT.
+• If skull fracture is present, the probability of an ICH is 4.9 times
+higher than those without skull fracture.55, level III
+• Skull fracture, with or without clinical signs, in MHI is an
+independent risk marker of neurosurgically relevant intracranial
+lesion (RR=3.9, 95% CI 2.2 to 7.1).56, level II-2
+Head CT is the investigation of choice to identify ICH following head
+injury. The plain skull x-ray is ineffective screening tool in predicting ICH
+in MHI with a mean sensitivity of 50.0% (ranges from 13.0% to 75.0%)
+and a mean specificity of 97.0% (ranges from 91.0% to 99.5%).55, level III
+Skull fracture can only be ruled out by radiographic imaging such as
+skull x-ray and head CT. In the absence of clinical signs of skull fracture,
+one cannot rule out the presence of skull fracture. This is because
+the sensitivities and specificities of clinical signs are low compared to
+radiographic imaging, as shown in the Table 2 below.56, level II-2
+Table 2. Sensitivity and specificity of clinical assessment
+on skull fracture
+If CT scan is not immediately available and patient does not fulfil clinical
+criteria for CT scan of head, a skull x-ray can be performed. The patients
+should undergo CT scan of head if skull x-ray is positive.56, level II-2
+• A normal skull x-ray does not exclude ICH and may miss a fracture.
+Recommendation 13
+• Skull x-ray may be considered in mild head injury patients who do not
+fulfil the criteria for head CT*.
+*Refer to the Chapter 7.1 on Indications for CT.
+7.3 Repeat Head CT
+Given the high cost and radiation risk associated with head CT, the
+practice of routine repeat CT scan of patients with head injury needs to
+be addressed.
+In a recent meta-analysis of 16 cohort studies, intervention rates were
+higher in patients with MHI who had CT scan done based on neurological
+deterioration compared with those who had routine repeat CT regardless
+of neurological changes (2.7% vs 0.6%, p<0.001). The findings suggest
+that it is unnecessary to repeat a CT scan after MHI when neurological
+status remain unchanged or improves.57, level II-2 Neurological deterioration
+is an independent predictor on the need for neurosurgical intervention in
+patients with TBI who are not on antiplatelet or anticoagulation therapy
+(OR=3.98, 95% CI 1.7 to 9.1).58, level II-2
+Clinical findings
+Clinical assessment (both clinical signs
+of skull fracture and scalp wound)
+Clinical signs of skull fracture alone
+with absence of scalp wound
+Scalp wound alone
+Sensitivity
+51.6%
+36.1%
+15.4%
+Specificity
+71.4%
+87.5%
+50.0%
+Patients with MHI who are ≥65 years old and on low dose aspirin, with
+initial negative primary head CT, have secondary ICH accurately identified
+in routine repeat head CT within 12 hours to 24 hours (p<0.00001).
+For those who do not have a repeat scan, they should be subjected to
+prolonged in-hospital observation for at least 48 hours.45, level III
+In another meta-analysis of low quality cohort studies, repeat CT in
+patients with TBI resulted in change of management for a minority of
+patients. Better designed studies are needed to address the value of
+repeat CT in the management of TBI.59, level II-2
+• There is insufficient evidence to recommend routine repeat head CT
+in MHI.
+7.4 Cervical Imaging
+• All patients with head injury are presumed to have cervical spine
+injury until proven otherwise. Protection of the cervical spine in these
+patients is a priority.
+Assessment for the need of cervical spine imaging in patients with
+head injury depends on their conscious level and ability to cooperate
+in clinical examination. Two independent decision rules [Canadian
+Cervical Spine Rule (CCR) and National Emergency X-radiography
+Utilization Study (NEXUS)] are available to assist such assessment.
+Refer to Appendix 6 and Appendix 7 on CCR and NEXUS criteria.
+In a study comparing these two decision rules of cervical radiography,
+CCR was more sensitive (99.4% vs 90.7%, p<0.001) and more specific
+(45.1% vs 36.8%, p<0.001) than Nexus criteria for detection of cervical
+spine injury in alert and stable patients with trauma to the head and
+neck. The use of CCR when compared with Nexus criteria resulted in
+lower radiography rates (55.9% vs 66.6%, p<0.001).60, level I
+Validation of the CCR, using CT scan as a gold standard, to identify
+cervical spine fracture demonstrated that CCR was very sensitive
+(100%) but had very low specificity (0.60%). The study evaluated 19
+of the 20 clinical findings described in the CCR excluding 45° rotation
+of the neck and found eight predictors of cervical spine fracture which
+were:61, level III
+• midline tenderness
+• GCS <15
+• age ≥65 year
+• paraesthesia
+• high speed motor vehicle collision (MVC) 100 km/hour
+• rollover MVC
+• MVC with ejection/ejection
+• patients who were never in sitting position in ED
+In another study, several factors were significantly associated with
+cervical spine injury (CSI) in patients with TBI. Patients in the older age
+group (>65 years old) have a higher odds ratio of CSI when compared
+to younger age patients in MVA but not in fall related injuries (OR=1.26,
+95% CI 1.15 to 1.39). Skull/face fracture, other spine fracture/dislocation,
+upper limb injury, thorax injury, and hypotension were significantly
+associated with CSI (OR range from 32 to 3.34).62, level III
+The incidence of CSI in patients with blunt polytrauma and reduced levels
+of consciousness (GCS <15) ranges between 5.2% and 13.9%.63, level III In
+a meta-analysis of seven studies, cervical CT was more sensitive (98%,
+95% CI 96 to 99) than cervical spine plain radiography (52%, 95% CI 47
+to 56) in detecting CSI.64, level I Thus, it is a good practice to include cervical
+spine when performing head CT.
+Recommendation 14
+• Canadian Cervical Spine Rule (CCR) or National Emergency
+X-radiography Utilization Study (NEXUS) criteria may be used as
+selection criteria for cervical radiograph in alert and stable head
+injury patients.
+• Head Computed Tomography (CT) for patient with a Glasgow Coma
+Scale <15 should have cervical spine CT at the same setting.
+Refer to Algorithm 4 on Selection of Adults with Head Injury for
+Imaging of the Cervical Spine.
+8. MEDICATION FOR INITIAL MANAGEMENT
+Agitation, pain and seizure may potentially contribute to elevation in
+intracranial pressure (ICP), BP and body temperature. Analgesia,
+sedative and anticonvulsant are administered to treat these conditions.65
+Diuretic may be used to control raised ICP. Intravenous (IV) fluid is
+administered to restore and maintain the systemic and cerebral
+perfusion.
+8.1 Analgesia and Sedative
+Ideal properties of analgesia and sedative in neuro-trauma patients:
+• quick onset and offset
+• predictable clearance independent of end-organ function
+• easily titrated to effect
+• reduce ICP by cerebral blood volume reduction or cerebral
+vasoconstriction
+• maintain cerebral autoregulation
+• permit normal cerebral vascular reactivity to changes in PaCO2
+• minimal cardiovascular depressant effects
+• inexpensive
+• Analgesia and sedative are commonly administered in adults with
+head injury for one or more of the following indications:
+ to induce anxiolysis
+ to control agitation/restlessness
+ to control pain
+ to facilitate mechanical ventilation
+ to improve ICP and cerebral perfusion pressure (CPP)
+A systematic review showed that etomidate and propofol improved ICP
+and CPP in adults with severe TBI. Boluses or short infusions of opioids
+such as fentanyl and morphine resulted in clinically and statistically
+significant increases in ICP and decreases in MAP and CPP. However,
+there was no strong evidence to support that one agent was more
+efficacious than another for improvement of favourable neurological
+outcome (defined as a GOS score of 4 to 5) and mortality rate.66, level I In
+a meta-analysis on severe TBI, there was no difference between the use
+of propofol and midazolam in term of neurological outcome (OR=1.139,
+95% CI 0.397 to 3.273) and mortality (OR=0.758, 95% CI 0.237 to
+2.424).67, level I
+A Cochrane systematic review revealed no significance in mortality
+and severe disability between the use of barbiturate and control group.
+However, barbiturate therapy resulted in increased occurrence of
+hypotension (OR=1.8, 95% CI 1.19 to 2.7) which offset any ICP lowering
+effect on CPP and lowered the mean body temperature.68, level l This is
+supported by a large, multicentre cohort study which showed high dose
+barbiturate decreased ICP but also caused hemodynamic instability
+leading to increased use of high doses of vasopressors in severe TBI.69, level lll
+In a meta-analysis of 19 RCTs, naloxone was safe to be used in severe
+TBI in terms of mortality, ICP and prognosis.70, level I
+There is no recent evidence retrieved on the use of analgesia/sedation
+or their reversal agents in mild to moderate head injury. However, CPG
+DG is of the opinion that this issue should be addressed based on
+expert opinion.
+For MHI, oral analgesic such as paracetamol, non-steroidal antiinflammatory drugs and tramadol can be used provided there is no
+definite contraindication.
+8.2 Intravenous Fluids
+In patients with head injury, resuscitation fluids are fundamental
+components of the restoration and maintenance of the systemic and
+cerebral perfusion.
+A systematic review found no evidence to support the use of
+hyperosmolar crystalloid or colloid solutions over isotonic crystalloids
+for pre-hospital fluid resuscitation of patients with TBI.22, level I In a RCT,
+fluid resuscitation with albumin was associated with higher mortality
+rates and fewer favourable neurologic outcomes when compared with
+saline in severe TBI patients in ICU.23, level l
+A systematic review found only one RCT showing no significant
+differences in mortality and morbidity between pre-hospital and delayed
+fluid resuscitation (mean transfer time to hospital of 19 minutes).22, level I
+8.3 Diuretic
+Mannitol is widely used in the control of raised ICP following brain injury.
+However, there is uncertainty over the optimal treatment regimen,
+the effectiveness of mannitol as compared with other ICP lowering
+agents and the usefulness of mannitol given at other stages following
+head injury, for example in the pre-hospital setting prior to volume
+resuscitation.
+A Cochrane systematic review showed that mannitol therapy for raised
+ICP had no significant beneficial or detrimental effect on mortality
+when compared with pentobarbital or hypertonic saline. ICP-directed
+treatment had small beneficial effect compared to treatment directed by
+neurological signs and physiological indicators.71, level I
+In view of insufficient evidence on the use of IV fluid regime for
+resuscitation in PHC and the important of the issue to be addressed,
+the CPG DG formulates the recommendations based on their expert
+opinion.
+8.4 Anticonvulsant
+PTS is defined as a recurrent seizure disorder due to TBI. PTS can
+be divided into three groups: immediate seizure (occurring within 24
+hours of injury), early seizure (occurring within seven days of injury) and
+late seizure (occurring more than seven days after injury). The peak
+incidence of early PTS occurs within the initial 48 hours of the causative
+head injury.72, level III
+The incidence of early and late PTS without anticonvulsant prophylaxis
+has been estimated from 4% to 25% and 9% to 42% respectively.65
+Effective prophylaxis of early PTS reduces brain metabolic demands,
+therefore reducing intracranial pressure and neurotransmitter release.
+This can prevent secondary brain injury.73, level III
+The risk factors for PTS include:74, level l
+• GCS score <10/15
+• cortical contusions
+• depressed skull fractures
+• early intracranial haematoma
+• wounds with dural penetration
+• prolonged length of coma (>24 hours)
+• prolonged length of post-traumatic amnesia (>24 hours)
+• damage in the region adjacent to the temporal sulcus
+In a systematic review, IV prophylactic phenytoin administered within
+eight hours of injury (ideally in the first one hour) was efficacious in
+reducing the incidence of early PTS in moderate to severe head
+injury.74, level l
+There is no clinically significant advantage between levetiracetam
+and phenytoin with regards to seizure control, adverse drug reaction,
+complication and mortality.75, level ll-2
+Recommendation 15
+• Analgesia and sedative should be used in severe head injury patients
+who are intubated and ventilated.
+• In mild to moderate head injury:
+ analgesia should be used to control pain
+ short-acting sedative agent may be offered in titrated dose to
+control agitation/restlessness
+• Naloxone may be used as opioid reversal in head injury.
+• Isotonic crystalloid is the preferred choice of intravenous fluid in head
+injury.
+• Mannitol, hypertonic saline or frusemide may be used to reduce
+intracranial pressure in head injury after consultation with a specialist.
+ Diuretics should not be used in hypotensive patients.
+• Phenytoin should be given as prophylaxis against early posttraumatic seizure in head injury with risk factors*.
+*Refer to preceding paragraph.
+Refer to Appendix 11 on Drug Dosing Regimen for Initial
+Management of Head Injury.
+9. SPECIAL CONSIDERATION
+9.1 Reversal of Antiplatelet and Anticoagulant in Patients with
+Head Injury
+Patients with pre-injury use of antiplatelet agents (e.g. clopidogrel
+and aspirin) are at an increased risk for mortality with blunt traumatic
+ICH.76, level III It is prudent to achieve rapid control of haemorrhage as the
+haemorrhagic expansion in traumatic ICH occurs within the first 24 hours
+after injury77, level III and is an independent predictor of mortality.78, level III
+The transfusion of platelet in patients with mild TBI does not significantly
+increase cardiac and pulmonary events, or mortality compared with
+patients without transfusion. It is also not significantly associated
+with progression of injury based on imaging. Combined transfusion of
+platelet, fresh frozen plasma and/or factor VII is associated with clinical
+deterioration, specifically cardiac and respiratory events (OR=5.8, 95%
+CI 1.2 to 28.2).79, level II-3
+A systematic review of five articles on the utility of platelet transfusion
+in adults with pre-injury antiplatelet and traumatic ICH showed
+inadequate evidence to support the routine use of platelet transfusion in
+the ED.80, level II-2
+• There is insufficient evidence to recommend routine transfusion of
+platelet in patients with MHI and on antiplatelet therapy.
+Anticoagulant-associated ICH has a high risk of bleeding expansion,
+disability or death. Pre-injury use of warfarin is a significant predictor
+of mortality in patients with traumatic ICH. The important aspect of
+management of anticoagulant-associated ICH is urgent reversal of
+coagulopathy with rapid decrease of the International Normalized
+Ratio (INR) to a value of <1.4, preferably to <1.2. Interventions aimed
+at preventing the haematoma expansion are paramount as larger
+haematomas are associated with poorer functional outcomes.78, level III
+International consensus-based guidelines emphasise immediate
+discontinuation of anticoagulant and reversal of anticoagulation in ICH
+by administration IV vitamin K, fresh frozen plasma (FFP), prothrombin
+complex concentrate (PCC) or recombinant factor VIIa as indicated.
+However there is no specific target INR for adequate reversal in ICH
+patients on warfarin.81, level III
+In a review of treatments for reversing warfarin anticoagulation
+in patients with acute ICH, PCC was statistically faster than FFP in
+correcting INR. Recombinant factor VIIa rapidly reversed the effect of
+warfarin on INR with a reported 5% thromboembolic risk. Vitamin K has
+slow onset of action. It carries a risk of allergic reaction. Hence it should
+be given slowly to all patients with warfarin-associated ICH. Despite the
+multiple treatment options available, the review did not demonstrate an
+improved patient survival with any particular treatment option.82, level III
+A study was conducted on 13 coagulopathic patients with traumatic
+ICH and treated with recombinant factor VIIa. It demonstrated rapid
+correction of INR to a threshold of 1.3 prevented expansion of bleeding
+and facilitated urgent surgical intervention.83, level II-3
+Recommendations 16
+• Anticoagulants should be immediately stopped and reversed in
+patients with intracranial bleeding by using vitamin K (only for
+warfarin), fresh frozen plasma, prothrombin complex concentrate or
+recombinant factor VIIa as indicated and there should be consultation
+on this matter among relevant specialties.
+9.2 Restarting Antiplatelet/Anticoagulant in Patients with Head
+Injury
+Reinitiating warfarin therapy in a patient with recent warfarin associated
+intracranial haemorrhage (WAICH) is a challenging decision for the
+physician. The risks include the reoccurrence of ICH once warfarin is
+restarted versus the risk of thromboembolism without warfarin therapy.
+Careful control of anticoagulation level decreases the risk of ICH.84, level III
+A long-term clinical study indicated that recurrent WAICH is
+uncommon when anticoagulant therapy is resumed. The end point
+of thromboembolic events and WAICH is not statistically significant
+between those restarted and not restarted on warfarin (p=0.62). Clinical
+decision to resume anticoagulant therapy after WAICH should include
+patient’s general medical condition, risk of falls and risk factors for
+systemic haemorrhage. Patients without these risks may benefit from
+restarting warfarin therapy. Failure to resume therapy may subject the
+patient to thromboembolic complications.85, level III
+A systematic review concluded that it may be advisable to reinitiate
+anticoagulation earlier with the timing and intensity modified based on
+predictors of thromboembolic and haemorrhagic complications. The
+predictors for haemorrhagic complications are:86, level II-2
+• younger patients (p<0.0001)
+• traumatic causes (p=0.002)
+• subdural haemorrhage (p=0.049),
+• patients anticoagulated for cardiac indications (p=0.0047)
+• failure to reverse anticoagulation (OR=3.633, 95% CI 1.431 to
+9.226)
+Predictors for thromboembolic complications are:86, level II-2
+• younger patients (p=0.048)
+• spinal haemorrhage, multiple haemorrhage and non-traumatic
+causes (p=0.046)
+• anticoagulation started at lower intensity (p=0.0001)
+• There is insufficient evidence on when to restart antiplatelet and
+anticoagulant in patients with head injury.
+• If there is an urgent need for anticoagulation but risk of bleeding is
+still considered reasonably high, decision on when and how to start
+anticoagulant should be decided by a multidisciplinary team.
+9.3 Patient with Mild Head Injury Requiring Non-Life Threatening
+other than Cranial Surgery
+Head injury may co-exist with other injuries such as compound femur
+fracture that may need urgent surgery. Any delay may lead to morbidity
+and mortality.87, level III
+Reported benefits of early long-bone stabilisation in polytrauma
+patients include increased patient mobilisation by eliminating the need
+for traction and reducing pulmonary morbidity, hospital care costs,
+mortality, hospital length of stay, intensive care unit and ventilator
+days.88, level II-2
+The concerns for patients with head injury include:
+• possibility of secondary brain injury
+• timing for performing non-urgent surgery
+• interruption in GCS monitoring for patients while undergone
+anaesthesia
+• MHI with no indication for a CT scan but require surgery
+As the types of non-urgent surgery is limitless and choices aplenty,
+the CPG DG has decided to use compound fracture of the femur as
+a surrogate indicator. It is probably the most major among non-lifethreatening or limb-threatening surgeries. Urgent intervention for a
+compound injury is to prevent osteomyelitis.87, level III
+There is no retrievable evidence on indications for CT scan in patients
+with MHI who do not fulfil the CCHTR criteria but require urgent
+surgery. The decision on the need of CT scan should be made by a
+multidisciplinary team. The period of greatest risk for delayed ICH
+(causing significant morbidity and mortality) following trauma is the first
+six hours.12
+• Delayed ICH should be considered in patients who do not regain full
+consciousness or develop new neurological deficit post-anaesthesia.
+Early fixation of long bone fracture under general anaesthesia (GA)
+in patients with head injury is an acceptable practice. In multisystem
+trauma patients with TBI and chest injury, early timing of orthopaedic
+femur fracture fixation under GA is not associated with worse outcome
+than those without femur fracture and no surgery.89, level II-2 Orthopaedic
+and facial fracture fixation under GA (<24 hours) is not associated with
+worse neuropsychological or functional outcome than late surgery. As
+there is no evidence that early stabilisation has any detrimental effect,
+it is preferable to perform early long-bone stabilisation in polytrauma
+patients.89, level II-2
+Recommendation 17
+• Early extracranial surgery in head injury patients can be performed
+safely under general anaesthesia.
+Refer to Algorithm 5 on Adults with Mild Head Injury Requiring
+Urgent Surgery Other Than Cranial Surgery.
+9.4 Safe Extubation of Patients with Head Injury
+Patients may have to be pre-emptively intubated for certain situations
+(e.g. intoxicated, restlessness and for radiological or diagnostic
+procedures). However, there may be a need to extubate these patients
+after that. Extubation of these patients demands consideration of airway
+patency, respiratory parameters, neurological status and associated
+injury. Points to be considered include timing and place of extubation,
+and post-extubation care.
+There is limited evidence on the above issues. An observational study
+showed that it was safe to extubate patients in ED provided that certain
+rules and criteria were followed as the following:90, level III
+• pre-extubation
+ resolution of the clinical issue requiring intubation
+ fraction of inspired oxygen (FiO2) ≤40%
+ positive end-expiratory pressure (PEEP) ≤5 cm H2O
+ SpO2 >95%, SBP >100 mmHg, HR <130 bpm
+ patient not known to be a case of difficult intubation
+• post-extubation
+ patient should receive close monitoring for at least 60 minutes
+A person trained in airway and ventilator management preferably an
+anaesthesiologist or EP should carry out the extubation.
+• For patients who have been intubated for certain situations (eg.
+intoxicated, restlessness and for radiological and diagnostic
+procedures), the following points are to be considered prior to
+extubation:
+ Equipments for intubation with a person trained in airway
+management should be readily available.
+ At least 60 minutes post-extubation close observation (GCS, SpO2,
+BP, PR, RR and sign of hypoxia or airway compromise) is required.
+ When in doubt, extubation should not be attempted.
+ Patients are preferably placed in High Dependency Unit (HDU) or
+Critical Care Area.
+*Refer to Appendix 10 on Safe Extubation Criteria in Head Injury.
+A RCT showed that GCS score ≥8 and partial pressure arterial oxygen/
+fraction of inspired oxygen ratio (PaO2/FiO2) >200 were associated with
+increased odds of successful extubation.91, level I
+10. TELECONSULTATION
+Observation in a general hospital with telemedicine facilities does not
+put patients with mild to moderate head injury and positive CT scan at
+a significant risk provided there are:92, level II-2
+• careful initial assessment
+• continuous observation
+• easy access to neurosurgical services in the event of progression
+Teleconsultation avoids unnecessary transfer of one third of patients
+with head injury (34%). It changes the treatment at the referring hospital
+on the advice of the neurosurgeon (42%).93, level II-3
+A local study showed that teleradiology significantly reduced the
+number of inter-hospital transfer by 37%. However 20.1% of patients
+who were not transferred based on clinical data alone would have to
+be transferred when the clinical data and images were reviewed. On
+multiple logistic regression analysis, MHI was twice as likely to be
+transferred if both clinical data and images were reviewed compared
+with clinical data alone.94, level III
+iPad2 is equally efficacious as LCD monitor in interpretation of radiologic
+images during teleconsultation (AUC of 0.900 and 0.935 respectively,
+p=0.183).95, level II-3
+Video consultation (VC) may be a safe mode of consultation in emergency
+neurosurgery compared with teleradiology (TR) and telephone
+consultation (TC). Although the time taken for VC is significantly longer,
+VC and TR have unequivocally better diagnostic accuracy than TC
+alone. VC is more likely to result in logistical problems, as reflected by
+the unacceptably high failure rate of 30.1%.96, level I
+Recommendation 18
+• Teleconsultation should be used in the management of head injury if
+available.
+• Patient’s confidentiality must always be upheld at all times when
+utilising teleconsultation.
+11. DISCHARGE ADVICE
+It is important to give careful verbal and written discharge advice to
+patients with head injury and their care givers. This will help them to
+identify alarming features that need immediate medical attention and
+those who need post-concussion rehabilitation.97, level III; 98, level I The
+discharge form should include phone contact number of the hospital in
+the event of a emergency or related queries.99, level III
+A standardised head injury discharge advice is beneficial provided that
+the staff are trained and well versed with it.97, level III Factors that may
+influence the comprehension of the advice are age group, years of
+schooling, literacy level and simplicity of the discharge form.100, level I
+Therefore a discharge form should be standardised and comprehensible
+at all levels. Patient with minor TBI may be discharged from ED provided
+there is a responsible care giver. Carers should understand the given
+discharge advice.101, level III
+• All patients or their care givers should be given verbal and written
+discharge advice. This must be documented.
+ They should be asked to repeat the advice to ensure that they
+understand the content upon discharge.
+• Where possible, head injury discharge form should be available in
+multiple local languages.
+Discharge instructions to patients and care giver should highlight the
+following alarming features:99, level III
+• GCS <15 (unable to open eyes spontaneously, disorientated or
+unable to obey command)
+• vomiting
+• headache
+• amnesia
+• seizure
+• neurological deficit
+Recommendation 19
+• Head injury discharge advice form should be comprehensible. It
+should include instructions to recognise alarming features and phone
+contact number of local healthcare facilities*.
+*Refer to Appendix 5 on Discharge Advice for Head Injury.
+12. FOLLOW-UP
+Patients with minor head injury can be followed up by telephone
+conversation within 48 hours on their ability to recall alarming features
+and well-being.101, level III Early rehabilitation significantly aids patients
+with MHI who continue to experience difficulties with everyday
+activities.102, level I
+Patients with moderate or severe head injury should be discharged with
+routine follow-up. Rehabilitation programme improves patients’ condition
+by reducing social disabilities and post-concussion symptoms.98, level I
+Recommendation 20
+• Moderate to severe head injury should have scheduled clinic follow-up.
+• Mild head injury may have follow-up via clinic visit or telephone call
+within 48 hours.
+13. IMPLEMENTING THE GUIDELINES
+The management of head injury should be guided by evidence-based
+approach in order to provide quality care to the patients. Several factors
+may affect the implementation of recommendations in the CPG.
+13.1 Facilitating and Limiting Factors
+Existing facilitators for implementations of the recommendations in the
+CPG include:
+1. wide dissemination of the CPG (soft- and hard-copies) to healthcare
+providers
+2. regular update on HI management at conferences and scientific
+meeting locally
+Existing barriers for implementations of the recommendations of the
+CPG are:
+1. evolving understanding of the illness and its treatment
+2. insufficient resources for integrated care at different level of
+service delivery
+3. variation in treatment practice and preferences
+4. no national registry for HI for further planning of services
+13.2 Potential Resource Implications
+To implement the CPG, there must be strong commitment to:
+1. ensure widespread distribution of the CPG to healthcare providers
+via printed and electronic copies
+2. reinforce regular training of healthcare providers, with adequate funding
+3. ensure trained multidisciplinary team is available at different
+levels of healthcare
+4. ensure widespread distribution of updated patient education materials
+13.3 Clinical Audit Indicator
+The following is proposed as clinical audit indicator for quality management:
+Inclusion criteria: All MHI who are treated at all healthcare facilities
+Implementation strategies will be developed following the approval of
+the CPG by MoH which include Quick Reference and Training Module.
+Percentage
+of patients
+with isolated
+mild head
+injury initially
+treated as
+inpatient and
+died
+Number of patients with isolated mild head
+injury initially treated as inpatient and died
+during admission within one year period
+Number of patients with isolated mild head
+injury initially treated as inpatient
+in the same period
+=
+x 100%
+REFERENCES
+1.
+Jamaluddin SF, Abd Wahab M , Abdul Wahab MY , et al. National Trauma Database January
+2009 To December 2009– Fourth Report; Malaysia: 2011.
+2.
+Health Informatics Centre. Health Facts 2015; Ministry of Health, Malaysia, 2015.
+3.
+Technical Committee of Malaysian Registry of Intensive Care. 6th Report of Malaysian Registry
+of Intensive Care 2008; Ministry of Health, Malaysia; May 2009.
+4.
+World Health Organization. Global status report on road safety 2013: supporting a decade of
+action. WHO: Geneva; 2013.
+5.
+Medical Development Division. Country Health Plan 10th Malaysia Plan 2011-2015; Ministry of
+Health, Malaysia.
+6.
+Sethi D, Aljunid S, SB S, et al. Comparison of the effectiveness of trauma services provided by
+secondary and tertiary hospitals in Malaysia. Ann Emerg Med. 2007 49(1):52-61.
+7.
+Medical Development Division. Specialty and subspecialty Framework of Ministry of Health
+hospitals 10 MP (2010-2015); Ministry of Health, Malaysia; Dec 2011.
+8.
+Department of Veterans Affairs (VA) and The Department of Defense (DoD). VA/DoD Clinical
+Practice Guideline for Management of Concussion/Mild Traumatic Brain Injury (mTBI);
+Washington: 2009.
+9.
+Jennett B, Teasdale G. Aspects of coma after severe head injury. Lancet. 1977;23;1(8017):878959.
+10.
+Carney N, Ghajar J, Jagoda A, et al. Concussion guidelines step 1: systematic review of
+prevalent indicators. Neurosurgery. 2014;75 Suppl 1:S3-15.
+11.
+Fabbri A, Servadei F, Marchesini G, et al. Prospective validation of a proposal for diagnosis and
+management of patients attending the emergency department for mild head injury. J Neurol
+Neurosurg Psychiatry. 2004;75(3):410-416.
+12.
+Early management of patients with a head injury. Scottish Intercollegiate Guidelines Network.
+SIGN. Edinburgh:2009.
+13.
+Timmons SD, Bee T, Webb S, et al. Using the abbreviated injury severity and Glasgow Coma
+Scale scores to predict 2-week mortality after traumatic brain injury. J Trauma. 2011;71(5):11721178.
+14.
+Shahin H, Gopinath SP, Robertson CS. Influence of Alcohol on Early Glasgow Coma
+Scale in Head-Injured Patients. The Journal of Trauma: Injury, Infection, and Critical Care.
+2010;69(5):1176-1181.
+15.
+Badjatia N, Carney N, Crocco TJ, et al. Brain Trauma Foundation; BTF Center for Guidelines
+Management. Guidelines for prehospital management of traumatic brain injury 2nd edition.
+Prehosp Emerg Care. 2008;12 Suppl 1:S1-52.
+16.
+von Elm E, Schoettker P, Henzi I, et al. Pre-hospital tracheal intubation in patients with traumatic
+brain injury: systematic review of current evidence. Br J Anaesth. 2009;103(3):371-386.
+17.
+Ahn H, Singh J, Nathens A, et al. Pre-hospital care management of a potential spinal cord injured
+patient: a systematic review of the literature and evidence-based guidelines. J Neurotrauma.
+2011;28(8):1341-1361.
+18.
+Austin N, Krishnamoorthy V, Dagal A, et al. Airway management in cervical spine injury. .
+International Journal of Critical Illness and Injury Science. 2014;4(1):50-56.
+19.
+Association of Anesthetists of Great Britain and Ireland. Recommendations for the Safe Transfer
+of Patients with Brain Injury. London: AAGBI; 2006.
+20.
+The National Institute for Health and Care Excellence. Triage, assessment, investigation and
+early management of head injury in children, young people and adults. UK: NICE; 2014.
+21.
+Chowdhury T, Kowalski S, Arabi Y, et al. Pre-hospital and initial management of head injury
+patients: An update. Saudi J Anaesth. 2014;8(1):114-120.
+22.
+Tan PG, Cincotta M, Clavisi O, et al. Review article: Prehospital fluid management in traumatic
+brain injury. Emerg Med Australas. 2011;23(6):665-676.
+23.
+SAFE Study Investigators; Australian and New Zealand Intensive Care Society Clinical Trials
+Group; Australian Red Cross Blood Service; George Institute for International Health, Myburgh
+J, Cooper DJ, Finfer S, et al. Saline or albumin for fluid resuscitation in patients with traumatic
+brain injury. . N Engl J Med. 2007;357(9):874-884.
+24.
+Clement CM, Stiell IG, Schull MJ, et al. Clinical features of head injury patients presenting with a
+Glasgow Coma Scale score of 15 and who require neurosurgical intervention. Ann Emerg Med.
+2006;48(3):245-251.
+25.
+Raj R, Siironen J, Kivisaari R, et al. Factors correlating with delayed trauma center admission
+following traumatic brain injury. Scand J Trauma Resusc Emerg Med. 2013;21:67.
+26.
+Brewer ES, Reznikov B, Liberman RF, et al. Incidence and predictors of intracranial hemorrhage
+after minor head trauma in patients taking anticoagulant and antiplatelet medication. J Trauma.
+2011;70(1):E1-5.
+27.
+Joseph B, Pandit V, Meyer D, et al. The significance of platelet count in traumatic brain injury
+patients on antiplatelet therapy. J Trauma Acute Care Surg. 2014;77(3):417-421.
+28.
+Peck KA, Calvo RY, Schechter MS, et al. The impact of preinjury anticoagulants and prescription
+antiplatelet agents on outcomes in older patients with traumatic brain injury. J Trauma Acute
+Care Surg. 2014;76(2):431-436.
+29.
+Ley EJ, Srour MK, Clond MA, et al. Diabetic patients with traumatic brain injury: insulin deficiency
+is associated with increased mortality. J Trauma. 2011;70(5):1141-1144.
+30.
+Barmparas G, Liou DZ, Lamb AW, et al. Prehospital hypertension is predictive of traumatic brain
+injury and is associated with higher mortality. J Trauma Acute Care Surg. 2014;77(4):592-598.
+31.
+Tohme S, Delhumeau C, Zuercher M, et al. Prehospital risk factors of mortality and impaired
+consciousness after severe traumatic brain injury: an epidemiological study. Scand J Trauma
+Resusc Emerg Med. 2014;7:22:21.
+32.
+Ayson M. Best-evidence Review of Transfer Protocols for Moderate to Severe Traumatic Brain
+Injury. ACC: 2011.
+33.
+Ryynänen O-P, Iirola T, Reitala J, et al. Is advanced life support better than basic life support
+in prehospital care? A systematic review. Scandinavian Journal of Trauma, Resuscitation and
+Emergency Medicine. 2010;18(1):62.
+34.
+Pearson WS, Ovalle F, Faul M, et al. A Review of Traumatic Brain Injury Trauma Center Visits
+Meeting Physiologic Criteria from the American College of Surgeons Committee on Trauma/
+Centers for Disease Control and Prevention Field Triage Guidelines. Prehospital Emergency
+Care. 2012;16(3):323-328.
+35.
+Lerner EB, Roberts J, Guse CE, et al. Does EMS Perceived Anatomic Injury Predict Trauma
+Center Need? Prehospital Emergency Care. 2013;17(3):312-316.
+36.
+Hsiao KY, Hsiao CT, Weng HH, et al. Factors predicting mortality in victims of blunt trauma brain
+injury in emergency department settings. Emergency Medicine Journal. 2008;25(10):670-673.
+37.
+Nakahara S, Matsuoka T, Ueno M, et al. Predictive Factors for Undertriage Among Severe Blunt
+Trauma Patients: What Enables Them to Slip Through an Established Trauma Triage Protocol?
+The Journal of Trauma: Injury, Infection, and Critical Care. 2010;68(5):1044-1051.
+38.
+American College of Surgeon Committee on Trauma. Advanced Trauma Life Support Student
+Course Manual (9th Edition). Chicago: 2012.
+39.
+Eastridge BJ, Salinas J, McManus JG, et al. Hypotension Begins at 110 mm Hg: Redefining
+Hypotension With Data. The Journal of Trauma: Injury, Infection, and Critical Care.
+2007;63(2):291-299.
+40.
+Nishijima DK, Shahlaie K, Echeverri A, et al. A clinical decision rule to predict adult patients with
+traumatic intracranial haemorrhage who do not require intensive care unit admission. Injury.
+2012;43(11):1827-1832.
+41.
+Saadat S, Akbari H, Khorramirouz R, et al. Determinants of mortality in patients with traumatic
+brain injury. Turkish Journal of Trauma and Emergency Surgery. 2012;18(3):219-224.
+42.
+af Geijerstam JL, Oredsson S, M B. OCTOPUS Study Investigators. Medical outcome after
+immediate computed tomography or admission for observation in patients with mild head injury:
+randomised controlled trial. BMJ. 2006;333(7566):465.
+43.
+Schaller B, Evangelopoulos DS, Muller C, et al. Do we really need 24-h observation for patients
+with minimal brain injury and small intracranial bleeding? The Bernese Trauma Unit Protocol.
+Emergency Medicine Journal. 2010;27(7):537-539.
+44.
+Joseph B, Friese RS, Sadoun M, et al. The BIG (brain injury guidelines) project. Journal of
+Trauma and Acute Care Surgery. 2014;76(4):965-969.
+45.
+Tauber M, Koller H, Moroder P, et al. Secondary Intracranial Hemorrhage After Mild Head Injury
+in Patients With Low-Dose Acetylsalicylate Acid Prophylaxis. The Journal of Trauma: Injury,
+Infection, and Critical Care. 2009;67(3):521-525.
+46.
+Bazarian JJ, Eirich MA, SD S. The relationship between pre-hospital and emergency department
+Glasgow coma scale scores. Brain Inj. 2003 17(7):553-560.
+47.
+Medical Development Division. Emergency Medicine and Trauma Services Policy. Putrajaya:
+MoH, Malaysia; 2012.
+48.
+Nishijima DK, Offerman SR, Ballard DW, et al. Risk of Traumatic Intracranial Hemorrhage In
+Patients With Head Injury and Preinjury Warfarin or Clopidogrel Use. Academic Emergency
+Medicine. 2013;20(2):140-145.
+49.
+Fabbri A, Servadei F, Marchesini G, et al. Which type of observation for patients with high-risk
+mild head injury and negative computed tomography? Eur J Emerg Med. 2004;11(2):65-69.
+50.
+Stiell IG, Wells GA, Vandemheen K, et al. The Canadian CT Head Rule for patients with minor
+head injury. Lancet. 2001 357(9266):1391-1396.
+51.
+Haydel MJ, Preston CA, Mills TJ, et al. Indications for computed tomography in patients with
+minor head injury. N Engl J Med. 2000 343(2):100-105.
+52.
+Bouida W, Marghli S, Souissi S, et al. Prediction value of the Canadian CT head rule and the
+New Orleans criteria for positive head CT scan and acute neurosurgical procedures in minor
+head trauma: a multicenter external validation study. Ann Emerg Med. 2013;61(5):521-527.
+53.
+Smits M, Dippel DW, de Haan GG, et al. External validation of the Canadian CT Head Rule
+and the New Orleans Criteria for CT scanning in patients with minor head injury. JAMA.
+2005;294(12):1519-1525.
+54.
+Undén J, Ingebrigtsen T, Romner B, et al. Scandinavian Neurotrauma Committee (SNC).
+Scandinavian guidelines for initial management of minimal, mild and moderate head injuries in
+adults: an evidence and consensus-based update. BMC Med. 2013;11:50.
+55.
+Hofman PA, Nelemans P, Kemerink GJ, et al. Value of radiological diagnosis of skull fracture
+in the management of mild head injury: meta-analysis. J Neurol Neurosurg Psychiatry. 2000
+68(4):416-422.
+56.
+Muñoz-Sánchez MA, Murillo-Cabezas F, Cayuela-Domínguez A, et al. Skull fracture, with
+or without clinical signs, in mTBI is an independent risk marker for neurosurgically relevant
+intracranial lesion: a cohort study. Brain Inj. 2009;23(1):39-44.
+57.
+Almenawer SA, Bogza I, Yarascavitch B, et al. The value of scheduled repeat cranial computed
+tomography after mild head injury: single-center series and meta-analysis. Neurosurgery. 72.
+2013;1(56-62):discussion 63-64.
+58.
+Joseph B, Aziz H, Pandit V, et al. A three-year prospective study of repeat head computed
+tomography in patients with traumatic brain injury. J Am Coll Surg. 2014;219(1):45-51.
+59.
+Reljic T, Mahony H, Djulbegovic B, et al. Value of repeat head computed tomography after
+traumatic brain injury: systematic review and meta-analysis. J Neurotrauma. 2014 31(1):78-98.
+60.
+Stiell IG, Clement CM, McKnight RD, et al. The Canadian C-spine rule versus the NEXUS lowrisk criteria in patients with trauma. N Engl J Med. 2003 349(26):2510-2518.
+61.
+Duane TM, Wilson SP, Mayglothling J, et al. Canadian Cervical Spine rule compared with
+computed tomography: a prospective analysis. J Trauma. 2011;71(2):352-355.
+62.
+Fujii T, Faul M, Sasser S, et al. Risk factors for cervical spine injury among patients with traumatic
+brain injury. J Emerg Trauma Shock. 2013;6(4):252-258.
+63.
+Thomas M, Teece S. Towards evidence based emergency medicine: best BETs from Manchester
+Royal Infirmary. Computed tomography and the exclusion of upper cervical spine injury in trauma
+patients with altered mental state. Emerg Med J. 2002;19(6):551-552.
+64.
+Holmes JF, Akkinepalli R. Computed tomography versus plain radiography to screen for cervical
+spine injury: a meta-analysis. . J Trauma. 2005;58:902-905.
+65.
+Brain Trauma Foundation; American Association of Neurological Surgeons; Congress of
+Neurological Surgeons, et al. Guidelines for the management of severe traumatic brain injury. II.
+Hyperosmolar therapy. J Neurotrauma. 2007;24 Suppl 1:S14-20. Erratum in: J Neurotrauma.
+2008 Mar;25(3):276-8.
+66.
+Roberts DJ, Hall RI, Kramer AH, et al. Sedation for critically ill adults with severe traumatic brain
+injury: a systematic review of randomized controlled trials. Crit Care Med. 2011;39(12):27432751.
+67.
+Gu JW, Yang T, Kuang YQ, et al. Comparison of the safety and efficacy of propofol with
+midazolam for sedation of patients with severe traumatic brain injury: a meta-analysis. J Crit
+Care. 2014;29(2):287-290.
+68.
+Roberts I, Sydenham E. Barbiturates for acute traumatic brain injury. Cochrane Database Syst
+Rev. 2012;12:12 CD000033.
+69.
+Majdan M, Mauritz W, Wilbacher I, et al. Barbiturates use and its effects in patients with severe
+traumatic brain injury in five European countries. J Neurotrauma. 2013;30(1):23-29.
+70.
+Zafar SN, Khan AA, Ghauri AA, et al. Phenytoin versus Leviteracetam for seizure prophylaxis
+after brain injury - a meta analysis. BMC Neurol. 2012;12:30.
+71.
+Wakai A, Roberts I, Schierhout G, et al. Mannitol for acute traumatic brain injury. Cochrane
+Database Syst Rev. 2007;24(1):CD001049.
+72.
+Grisar T, Bottin P, de Borchgrave d'Alténa V, et al. Prophylaxis of the epilepsies: should antiepileptic drugs be used for preventing seizures after acute brain injury? Acta Neurol Belg.
+2005;105(1):5-13.
+73.
+Practice parameter: antiepileptic drug treatment of posttraumatic seizures. Brain Injury Special
+Interest Group of the American Academy of Physical Medicine and Rehabilitation. Arch Phys
+Med Rehabil. 1998 May;79(5):594-7.
+74.
+Khan AA, Banerjee A. The role of prophylactic anticonvulsants in moderate to severe head injury.
+Int J Emerg Med. 2010;22;3(3):187-191.
+75.
+Inaba K, Menaker J, Branco BC, et al. A prospective multicenter comparison of levetiracetam
+versus phenytoin for early posttraumatic seizure prophylaxis. J Trauma Acute Care Surg.
+2013;74(3):766-771.
+76.
+Wong DK, Lurie F, Wong LL. The effects of clopidogrel on elderly traumatic brain injured patients.
+J Trauma. 2008;65(6):1303-1308.
+77.
+Narayan RK, Maas AI, Servadei F, et al. Traumatic Intracerebral Hemorrhage Study Group.
+Progression of traumatic intracerebral hemorrhage: a prospective observational study. J
+Neurotrauma. 2008;25(6):629-639.
+78.
+Davis SM, Broderick J, Hennerici M, et al. Recombinant Activated Factor VII Intracerebral
+Hemorrhage Trial Investigators. Hematoma growth is a determinant of mortality and poor
+outcome after intracerebral hemorrhage. Neurology. 2006;66(8):1175-1181
+79.
+Washington CW, Schuerer DJ, Grubb RL Jr. Platelet transfusion: an unnecessary risk for mild
+traumatic brain injury patients on antiplatelet therapy. J Trauma. 2011;71(2):358-363.
+80.
+Nishijima DK, Zehtabchi S, Berrong J, et al. Utility of platelet transfusion in adult patients with
+traumatic intracranial hemorrhage and preinjury antiplatelet use: a systematic review. J Trauma
+Acute Care Surg. 2012;72(6):1658-1663.
+81.
+Ansell J, Hirsh J, Hylek E, et al. American College of Chest Physicians. Pharmacology and
+management of the vitamin K antagonists: American College of Chest Physicians EvidenceBased Clinical Practice Guidelines (8th Edition). Chest. 2008;133(6 Suppl):160S-198S.
+82.
+Bechtel BF, Nunez TC, Lyon JA, et al. Treatments for reversing warfarin anticoagulation in
+patients with acute intracranial hemorrhage: a structured literature review. Int J Emerg Med.
+2011;4(1):40.
+83.
+Bartal C, Freedman J, Bowman K, et al. Coagulopathic patients with traumatic intracranial
+bleeding: defining the role of recombinant factor VIIa. J Trauma. 2007;63(4):725-732.
+84.
+Broderick J, Connolly S, Feldmann E, et al. American Heart Association; American Stroke
+Association Stroke Council; High Blood Pressure Research Council; Quality of Care and
+Outcomes in Research Interdisciplinary Working Group. Guidelines for the management of
+spontaneous intracerebral hemorrhage in adults: 2007 update: a guideline from the American
+Heart Association/American Stroke Association Stroke Council, High Blood Pressure Research
+Council, and the Quality of Care and Outcomes in Research Interdisciplinary Working Group. 38.
+2007;6(2001-23).
+85.
+Claassen DO, Kazemi N, Zubkov AY, et al. Restarting anticoagulation therapy after warfarinassociated intracerebral hemorrhage. Arch Neurol. 2008;65(10):1313-1318.
+86.
+Hawryluk GW, Austin JW, Furlan JC, et al. Management of anticoagulation following central
+nervous system hemorrhage in patients with high thromboembolic risk. J Thromb Haemost.
+2010;8(7):1500-1508.
+87.
+Nau T, Aldrian S, Koenig F, et al. Fixation of femoral fractures in multiple-injury patients with
+combined chest and head injuries. ANZ J Surg. 2003;73(12):1018-1021.
+88.
+Dunham CM, Bosse MJ, Clancy TV, et al. EAST Practice Management Guidelines Work Group.
+Practice management guidelines for the optimal timing of long-bone fracture stabilization in
+polytrauma patients: the EAST Practice Management Guidelines Work Group. J Trauma.
+2001;50(5):958-967.
+89.
+Wang MC, Temkin NR, Deyo RA, et al. Timing of surgery after multisystem injury with traumatic
+brain injury: effect on neuropsychological and functional outcome. J Trauma. 2007;62(5):12501258.
+90.
+Weingart SD, Menaker J, Truong H, et al. Trauma patients can be safely extubated in the
+emergency department. J Emerg Med. 2011;40(2):235-239.
+91.
+Namen AM, Ely EW, Tatter SB, et al. Predictors of successful extubation in neurosurgical
+patients. Am J Respir Crit Care Med. 2001;163(3Pt 1):658-664.
+92.
+Fabbri A, Servadei F, Marchesini G, et al. Observational approach to subjects with mild-tomoderate head injury and initial non-neurosurgical lesions. J Neurol Neurosurg Psychiatry.
+2008;79(10):1180-1185.
+93.
+Stormo A, Sollid S, Størmer J, et al. Neurosurgical teleconsultations in northern Norway. J
+Telemed Telecare. 2004;10(3):135-139.
+94.
+Hassan R, Siregar JA, NA. ARM. The implementation of teleneurosurgery in the management
+of referrals to a neurosurgical department in Hospital Sultanah Amninah Johor Bahru. Malays J
+Med Sci. 2014;21(2):54-62.
+95.
+Park JB, Choi HJ, Lee JH, et al. An assessment of the iPad 2 as a CT teleradiology tool using
+brain CT with subtle intracranial hemorrhage under conventional illumination. J Digit Imaging.
+2013 26(4):683-690.
+96.
+Wong HT, Poon WS, Jacobs P, et al. The comparative impact of video consultation on emergency
+neurosurgical referrals. Neurosurgery. 2006 59(3):607-613.
+97.
+Kerr J, Swann IJ, Pentland B. A survey of information given to head-injured patients on direct
+discharge from emergency departments in Scotland. Emerg Med J. 2007;24(5):330-332.
+98.
+Wade DT, King NS, Wenden FJ, et al. Routine follow up after head injury: a second randomised
+controlled trial. J Neurol Neurosurg Psychiatry. 1998;65(2):177-183.
+99.
+Fung M, Willer B, Moreland D, et al. A proposal for an evidenced-based emergency department
+discharge form for mild traumatic brain injury. Brain Inj. 2006;20(9):889-894.
+100. Yates K, Pena A. Comprehension of discharge information for minor head injury: a randomised
+controlled trial in New Zealand. N Z Med J. 2006;119(1239):U2101.
+101. Heng KW, Tham KY, How KY, et al. Recall of discharge advice given to patients with minor head
+injury presenting to a Singapore emergency department. Singapore Med J. 2007 48(12):11071110.
+102. Wade DT, Crawford S, Wenden FJ, et al. Does routine follow up after head injury help? A
+randomised controlled trial. J Neurol Neurosurg Psychiatry. 1997;62(5):478-484.
+APPENDIX 1
+EXAMPLE OF SEARCH STRATEGY
+The following MeSH terms or free text terms were used either singly or
+in combination, search was limit to English, human and last 10 years:-
+1. Craniocerebral Trauma/
+2. (traum* adj1 (craniocerebral or cranial or
+frontal region or frontal or parietal region or
+parietal or temporal region or temporal or
+occipital region or occipital or forehead or head
+or skull or posterior fossa)).tw.
+3. (traum* adj1 (occipital or parietal or frontal)).
+tw.
+4. (head injur* adj1 (multiple or superficial or
+minor or open or closed)).tw.
+5. (injur* adj1 (cranial or head or craniocerebral
+or multiple head or superficial head or minor
+head or open head or skull)).tw.
+6. Skull Fractures/
+7. (skull adj1 fracture*).tw.
+8. (skull fracture* adj1 (linear or non depressed
+or non-depressed)).tw.
+9. (fracture* adj1 (non-depressed skull or non
+depressed skull linear skull or compound
+skull)).tw.
+10. Brain Injuries/
+11. (injur* adj1 (traum* brain or mild traum* brain
+or brain traum* mild or diffuse brain or focal
+brain or acute brain or brain)).tw.
+12. (brain injur* adj1 (traum* or acute or focal or
+diffuse)).tw.
+13. (encephalopath* adj1 (post concussive or
+post-concussive or traum* or post-traum* or
+post traum*)).tw.
+14. (brain adj1 (traum* or laceration* or
+contusion*)).tw.
+15. (cortical adj1 contusion*).tw.
+16. traum* brain injury.tw.
+17. tbi*.tw.
+18. Diffuse Axonal Injury/
+19. (injur* adj1 diffuse axonal).tw.
+20. diffuse axonal injury.tw.
+21. axonal injur* diffuse.tw.
+22. Post-Concussion Syndrome/
+23. ((post concuss* or post-concuss*) adj1
+(syndrome* or symptom*)).tw.
+24. Brain Concussion/
+25. (concussion* adj1 (cerebral or brain or severe
+or mild or moderate or intermediate)).tw.
+26. Skull Fracture, Depressed/
+27. (compound depressed adj1 skull fracture*).tw.
+28. (skull fracture* adj1 depressed).tw.
+29. Multiple Trauma/
+30. ((injur* or wound* or traum*) adj1 multiple).tw.
+31. polytrauma*.tw.
+32. Contrecoup Injury/
+33. (injur* adj1 (contre-coup or contre coup or
+contrecoup)).tw.
+34. Brain Hemorrhage, Traumatic/
+35. (h?emorrhage* adj1 (traumatic cerebellar or
+traum* brain)).tw.
+36. (traum* adj1 (cerebellar h?emorrhage* or
+brain h?emorrhage*)).tw.
+37. Brain Stem Hemorrhage, Traumatic/
+38. (traum* adj1 (brainstem h?em* or brain stem
+h?em* or bulbar h?em* or medullary h?em*
+or pontine h?em* or midbrain h?em* or h?em*
+brain stem or h?em* brainstem)).tw.
+39. (h?em* adj1 (traumatic medullary or traumatic
+bulbar or post-traumatic brainstem)).tw.
+40. Cerebral Hemorrhage, Traumatic/
+41. (traum* adj1 (cerebral h?em* or intracerebral
+h?em* or cerebral parenchymal h?em*
+or brain h?em* cerebral or cerebral
+intraparenchymal h?em*)).tw.
+42. (h?em* traum* adj1 (intracerebral or cerebral)).
+tw.
+43. Epilepsy, Post-Traumatic/
+44. (seizure* adj1 (disorder* post traum* or
+disorder* post-traum* or early post-traum* or
+early post traum* or impact)).tw.
+45. ((post-traum* seizure* or post traum* seizure*)
+adj1 (disorder* or early)).tw.
+46. (epileps* adj1 (post-traum* or post traum* or
+traum*)).tw.
+47. (concussive adj1 convulsion*).tw.
+48. Pneumocephalus/
+49. (pneumocephalus adj1 (traum* or tension or
+pressure)).tw.
+50. Cerebrospinal Fluid Otorrhea/
+51. ((otorrh?ea or rhinorrh?ea*) adj1 (posttraum* cerebrospinal fluid or post traum*
+cerebrospinal fluid or cerebrospinal fluid
+traum* or traum* cerebrospinal fluid or
+cerebrospinal fluid post- traum*)).tw.
+52. (cerebrospinal
+fluid
+adj1
+(post-traum*
+otorrh?ea or post traum* otorrh?ea or
+otorrh?ea traum* or traum* otorrh?ea or
+otorrh?ea post-traum* or otorrh?ea post
+traum* or post-traum* rhinorrh?ea* or post
+traum* rhinorrh?ea* or rhinorrh?ea* traum*
+or traum* rhinorrh?ea* or rhinorrh?ea* posttraum* or rhinorrh?ea* post traum*)).tw.
+53. Cerebrospinal Fluid Rhinorrhea/
+54. Coma, Post-Head Injury/
+55. (coma* adj1 (post-traum* or post traum* or
+post-head injury or post head injury or postconcussive or post concussive)).tw.
+56. Head Injuries, Closed/
+57. ((head injur* or head traum*) adj1 (closed or
+nonpenetrating or blunt or penetrating)).tw.
+58. ((traum* or injur*) adj closed head).tw.
+59. OCULOMOTOR NERVE INJURIES/
+60. ((traum* or injur*) adj1 (third-nerve or third
+nerve or third-nerve palsy or third nerve palsy
+or oculomotor nerve or oculomotor neuropath*
+or third cranial nerve or cranial nerve iii or
+second-nerve or second nerve or secondnerve palsy or second nerve palsy or optic
+nerve or optic neuropath* or second cranial
+nerve or cranial nerve ii)).tw.
+61. ((oculomotor or optic) adj (nerve traum* or
+nerve injur*)).tw.
+62. Optic Nerve Injuries/
+63. HEAD INJURIES, PENETRATING/
+64. (penetrating adj1 (craniocerebral traum* or brain
+traum* or brain injur* or cranial traum* or head
+traum* or head injur*)).tw.
+65. ((traum* or injur*) adj1 (penetrating head
+or
+penetrating
+cranial
+or
+penetrating
+craniocerebral)).tw.
+66. Intracranial Hemorrhage, Traumatic/
+67. (intracranial h?em* adj traum*).tw.
+68. (traum* intracranial adj1 h?em*).tw.
+69. Brain Hemorrhage, Traumatic/
+70. ((traum* cerebellar or traum* brain) adj1
+h?em*).tw.
+71. (traum* adj1 (brain h?em* or cerebellar
+h?em*)).tw.
+72. HEMATOMA, EPIDURAL, CRANIAL/
+73. ((cranial or intracranial) adj1 (extradural h?em*
+or epidural h?em*)).tw.
+74. HEMATOMA, SUBDURAL/
+75. (subdural adj1 h?em*).tw.
+76. (traum* adj1 subdural h?em*).tw.
+77. HEMATOMA, SUBDURAL, ACUTE/
+78. (subdural adj1 h?em* acute).tw.
+79. (h?em* adj1 (acute subdural or subdural
+acute)).tw.
+80. HEMATOMA, SUBDURAL, INTRACRANIAL/
+81. (subdural h?em* adj2 (intracranial or traum*)).
+tw.
+82. (subdural adj1 h?em* intracranial).tw.
+83. (h?em* adj1 (subdural intracranial or subdural
+cranial or intracranial subdural)).tw.
+84. Skull Fracture, Basilar/
+85. ((frontobasilar or basilar) adj1 skull fracture*).
+tw.
+86. (fracture* adj1 basilar skull).tw.
+87. (battle* adj1 sign).tw.
+88. Subarachnoid Hemorrhage, Traumatic/
+89. ((traum* or post-traum* or post traum*) adj1
+subarachnoid h?em*).tw.
+90. (h?em* adj (traum* or post-traum* or post
+traum*)).tw.
+91. or/1-90
+92. (prehospital adj1 emergency care).tw.
+93. ((pre-hospital or primary care) adj (assess* or
+evaluat*)).tw.
+94. Abbreviated Injury Scale/
+95. (abbreviated adj1 injur* scale*).tw.
+96. Injury Severity Score/
+97. iss score*.tw.
+98. injur* severity score*.tw.
+99. score* injury severity.tw.
+100. GLASGOW COMA (coma adj1 scale Glasgow).
+101. coma scale Glasgow.tw.
+102. Glasgow Coma Scale.tw.
+103. 92 or 93 or 94 or 95 or 96 or 97 or 98 or 99 or
+100 or 101 or 102
+104. 91 and 103
+91. or/1-90
+92. tomography, x-ray computed/ or tomography,
+spiral computed/ or multidetector computed
+tomography/
+93. (helical adj1 ct*).tw.
+94. ((compute*-assisted or compute* assisted
+or compute*) adj1 (tomography spiral or
+tomography helical)).tw.
+95. (spiral
+adj1
+(c?t
+scan*
+or
+compute*
+tomography or ct*)).tw.
+96. (scan* adj1 spiral c?t*).tw.
+97. (tomography adj1 (spiral compute* or spiral
+compute*-assisted or helical computed)).tw.
+98. ((ct scan* or cat scan* or ct) adj1 (x-ray* or x
+ray* or cine)).tw.
+99. ((scan* x-ray* or scan x ray*) adj (ct or cat)).tw.
+91. or/1-90
+92. (anticoagulant adj1 agent*).tw.
+93. anticoagulant*.tw.
+94. (thrombin inhibitor adj1 indirect).tw.
+95. Inhibitors indirect thrombin.tw.
+96. PLATELET AGGREGATION INHIBITORS/
+97. (antiplatelet adj1 drug*).tw.
+98. (platelet adj1 antogonist*).tw.
+99. Blood platelet adj1 antagonist*).tw.
+100. antiplatelet agent*.tw.
+101. Anticoagulants/
+102. (platelet adj1 inhibitor*).tw.
+103. (blood platelet adj1 antiaggregrant*).tw
+104. (platelet adj1 antiaggregant*).tw.
+105. blood platelet aggregation inhibitor*.tw.
+106. platelet aggregation inhibitors.tw.
+100. (tomodensitometry.tw.
+101. (tomograph* adj1 (x-ray* compute* or x ray*
+compute* or xray* compute* or electron beam
+or compute* x-ray* or compute* x ray* or
+compute* xray* or transmission compute*)).tw.
+102. ((compute*
+tomograp*
+or
+tomograp*
+compute*) adj1 (x-ray* or x ray* or xray* or
+transmission)).tw.
+103. ((x-ray* compute* or xray* compute* or x ray*
+compute* or electron beam compute*) adj1
+(assisted tomograph* or tomograph* or axial
+tomograph*)).tw.
+104. tomograph* x ray* or tomograph* xray* or
+tomograph* x-ray*) adj1 (compute* assisted or
+compute* axial)).tw.
+105. tomography multisection computed.tw.
+106. tomography multidetector-row computed.tw.
+107. ((multidetector row or multidetector-row or
+multidetector or multislice or multisection) adj1
+computed tomography).tw.
+108. tomography multislice computed.tw.
+109. tomography multidetector computed.tw.
+110. 92 or 93 or 94 or 95 or 96 or 97 or 98 or 99 or
+100 or 101 or 102 or 103 or 104 or 105 or 106
+or 107 or 108 or 109
+111. 91 and 110
+107. Aspirin/
+108. (acid adj1 acetylsalicylic).tw.
+109. aspirin.tw.
+110. Ticlopidine/
+111. ticlopidine.tw.
+112. (ticlopidine adj1 hydrochloride).tw
+113. ticlid.tw.
+114. 92 or 93 or 94 or 95 or 96 or 97 or 98 or 99 or
+100 or 101 or 102 or 103 or 104 or 105 or 106
+or 107 or 108 or 109 or 110 or 111 or 112 or
+113
+115. 91 and 114
+APPENDIX 2
+CLINICAL QUESTIONS
+1.
+What is the definition of head injury?
+2.
+What are the differential diagnoses in suspected head injury?
+3.
+What are the classifications of severity in head injury?
+4.
+What is the safe and effective pre-hospital/primary care assessment
+in a patient with head injury by healthcare providers (e.g. GCS)?
+5.
+What is the safe and effective pre-hospital care/primary care in a
+patient with head injury?
+6.
+What are the criteria for discharge or referral of a patient with head
+injury at primary care?
+7.
+What are the safe and effective measures to prevent secondary brain
+injury during transfer of a patient with head injury to hospital?
+8.
+What are the triage criteria for a patient with head injury in ED?
+9.
+What is the safe and effective initial management of a patient with
+mild/moderate/severe head injury in ED?
+10. What are the criteria for observation of a patient with head injury in
+ED?
+11. What are the safe and effective method, frequency and duration of
+observation/assessment in a patient with mild head injury in ED?
+12. What are the criteria for admission of a patient with head injury (postobservation at ED)?
+13. What are the criteria for discharge of a patient with head injury from
+ED without observation?
+14. What are the indications for urgent/immediate head CT in head injury?
+15. What are the criteria for skull x-ray in head injury if CT is not available?
+16. What are the criteria for a repeat head CT in a patient with head injury
+who does not require surgical intervention?
+17. What are the indications for cervical imaging in head injury?
+18. Is anaesthesia for non-urgent and non-life threatening extracranial
+surgery safe for a patient with mild head injury?
+19. What is the safe and effective method of reversing or restarting
+antiplatelet or anticoagulant in a patient with head injury on the
+medications?
+20. What are the criteria for safe extubation in a patient with head injury?
+21. What is the safe and effective analgesia in a patient with head injury?
+22. What is the safe and effective sedation and reversal of sedation in a
+patient with head injury?
+23. What are the criteria to start anticonvulsant in a patient with head
+injury?
+24. What are the safe and effective IV fluids (e.g. hypertonic saline)/
+diuretic in a patient with head injury?
+25. Is tele-consultation safe and effective in management of head injury?
+26. What discharge advice should be provided to a patient with head
+injury or his/her care givers?
+27. When and how should a patient with head injury be followed-up?
+Eye Opening Response
+Verbal Response
+Motor Response
+4
+3
+2
+1
+5
+4
+3
+2
+1
+6
+5
+4
+3
+2
+1
+Component
+Response
+Score
+Spontaneous
+To voice/sound
+To pressure/pain
+None
+Orientated
+Confused
+Words
+Sounds
+None
+Obeys commands
+Localising
+Flexion withdrawal
+Abnormal flexion
+Extension
+None
+APPENDIX 3
+GLASGOW COMA SCALE AND SCORE
+The GCS is based on a 15-point scale used for estimating and
+categorising the severity of brain injury following a TBI. The scale
+measures the best motor, verbal and eye opening response.
+Glasgow Coma Score
+The score is the cumulative sum of the scale in each component. The
+levels of head injury severity are classified as:
+Mild
+GCS 13 - 15
+Moderate
+GCS 9 - 12
+Severe
+GCS 3 - 8
+APPENDIX 4
+HEAD CHART
+Date
+Time
+PUPILS SCALE
+TEMP(+)
+Pulse
+(Blue)
+BP
+(Red)
+S
+T
+A
+T
+U
+S
+Temp(ºc)
+Pulse
+41
+180
+40
+160
+39
+140
+38
+120
+37
+100
+36
+80
+35
+60
+34
+40
+Pain Score
+Respiratory Rate
+Oxygen (L/ min or %)
+Oxygen saturation %
+Pupils
+Right
+Left
+Size
+Reaction
+Size
+Reaction
+SPONTANEOUS
+TO VOICE/SOUND
+WORDS
+SOUNDS
+TO PRESSURE/PAIN
+NONE
+NONE
+ORIENTATED
+CONFUSED
+OBEYS COMMANDS
+LOCALISING
+FLEXION WITHDRAWAL
+ABNORMAL FLEXION
+EXTENSION
+NONE
+GRUNTS, AGITATED, RESTLESS
+NONE
+SMILE, COOS APPROPRIATELY
+CONSOLABLE CRIES
+NORMAL SPONTANEOUS
+MOVEMENTS
+LOCALISING
+INCONSOLABLE CRIES
+NORMAL FLEXION
+ABNORMAL FLEXION
+EXTENSION
+NONE
+TOTAL GCS
+NORMAL POWER
+MILD WEAKNESS
+SEVERE WEAKNESS
+SPASTIC FLEXION
+NO RESPONSE
+SEVERE WEAKNESS
+SPASTIC FLEXION
+NO RESPONSE
+NORMAL POWER
+MILD WEAKNESS
+E
+V
+M
+>2 YR
+>1 YR
+>1 YR
+M
+O
+V
+E
+M
+E
+N
+T
+L
+I
+M
+B
+S
+B
+E
+S
+T
+C
+O
+M
+A
+S
+C
+A
+L
+E
+ARMS
+LEGS
+7mm
+6mm
+5mm
+4mm
+3mm
+2mm
+1mm
+8mm
+E
+V
+M
+EYE CLOSED
+DUE TO
+SWELLING (C)
+ENDOTRACHEAL
+TUBE OR
+TRACHEOSTOMY
+(T)
+USUALLY
+RECEIVED BEST
+ARM RESPONSE
+E
+V
+M
+<1 YR
+<1 YR
+<2 YR
+SPONTANEOUS
+TO VOICE/SOUND
+TO PRESSURE/PAIN
+NONE
+RECORD RIGHT (R) AND LEFT (L)
+SEPARATELY IF THERE IS A
+DIFFERENCE BETWEEN THE
+TWO SIDES
+CLINICAL EVENTS:
+vomit ≥2x
+seizure
+diffuse headache
+amnesia
+abnormal behaviour
+Name:________________________
+Age:___________
+Sex: Male / Female
+IC:___________________________
+RN:____________
+Ward: _____________
+APPENDIX 5
+DISCHARGE ADVICE FOR HEAD INJURY
+Patient's name:
+Contact no.:
+Care giver's name:
+Date:
+IC/RN:
+If any of the following alarming symptoms are present, you or your care
+giver should immediately contact the hospital for advice.
+If within the next 24 hours you experience/as observed by care giver:
+• Fainting or sleepiness
+• Increasing confusion, inability to recognise time, place or people
+• Change in behaviour
+• Constant headache which is worsening
+• Vomiting
+• Inability to remember new events
+• Jerking or seizures, abnormal speech
+• Blood or fluid coming out of the ear
+• Inability to move any part of your body
+What you should and should not do
+Name of Doctor:
+Emergency Contact:
+Witness:
+ Take paracetamol for headache
+ Take your usual medications
+ Mild exercise when you feel
+better
+ Take rest or a few days off from
+work
+DO
+ Take
+sleeping
+pills
+and
+anticoagulants/ antiplatelets
+ Take alcohol
+ Play contact sport
+ Drive
+DON’T (until advised by your doctor)
+APPENDIX 6
+CANADIAN CERVICAL RULE (CCR)
+•
+For alert (GCS=15) and stable trauma patients where cervical spine
+injury is concern
+Source: Stiell IG, Clement CM, McKnight RD, et al. The Canadian C-spine rule
+versus the NEXUS low-risk criteria in patients with trauma. N Engl J Med.
+2003 349(26):2510-2518
+Any High Risk Factors Which Mandates Radiography?
+Any of the following:
+- Age >65 years old
+- Dangerous mechanism*
+- Paraesthesia in extremities
+NO
+YES
+NO
+YES
+UNABLE
+ABLE
+*Dangerous mechanism:
+- Fall from elevation >3 feet/5 stairs
+- Axial load to head e.g. diving
+- MVC high speed (>100km/hour), rollover, ejection
+- Motorised recreational vehicles
+- Bicycle collision
+**Simple rear-end MVC excludes:
+- Pushed into oncoming traffic
+- Hit by bus/large truck
+- Rollover
+- Hit by high speed vehicle
+***Delayed
+i.e. not immediate onset of neck pain
+Any Low Risk Factors Which Allows Safe Assessment
+of Range of Motion?
+Any of the following:
+- Simple rear-end MVC**
+- Sitting position in ED
+- Ambulatory at any time
+- Delayed onset of neck pain***
+- Absence of midline c-spine tenderness
+Able to Actively Rotate Neck?
+45
+o left and right
+No Radiography
+Radiography
+APPENDIX 7
+THE NEXUS LOW-RISK CRITERIA FOR LOW PROBABILITY
+OF CERVICAL INJURY
+Cervical-spine radiography is indicated for patients with trauma
+unless they meet all of the following criteria:
+• No posterior midline cervical-spine tenderness
+a
+• No evidence of intoxication
+b
+• A normal level of alertness
+c
+• No focal neurologic deficit
+d
+• No painful distracting injuries
+e
+Criteria are from Hoffman and colleagues.
+a. Midline posterior bony cervical-spine tenderness is present if the patient
+reports pain on palpation of the posterior midline neck from the nuchal
+ridge to the prominence of the first thoracic vertebra, or if the patient
+evinces pain with direct palpation of any cervical spinous process.
+b. Patients should be considered intoxicated if they have either of the
+following: a recent history provided by the patient or an observer of
+intoxication or intoxicating ingestion, or evidence of intoxication on
+physical examination such as an odour of alcohol, slurred speech,
+ataxia, dysmetria, or other cerebellar findings, or any behaviour
+consistent with intoxication. Patients may also be considered to be
+intoxicated if tests of bodily secretions are positive for alcohol or
+drugs that affect the level of alertness.
+c. An altered level of alertness can include any of the following: a GCS
+score of 14 or less; disorientation to person, place, time, or events;
+an inability to remember three objects at five minutes; a delayed or
+inappropriate response to external stimuli; or other findings.
+d. A focal neurologic deficit is any focal neurologic finding on motor or
+sensory examination.
+e. No precise definition of a painful distracting injury is possible.
+This category includes any condition thought by the clinician to be
+producing pain sufficient to distract the patient from a second (neck)
+injury. Such injuries may include, but are not limited to, any longbone fracture; a visceral injury requiring surgical consultation; a large
+laceration, degloving injury, or crush injury; large burns; or any other
+injury causing acute functional impairment. Physicians may also
+classify any injury as distracting if it is thought to have the potential to
+impair the patient’s ability to appreciate other injuries.
+Source: Stiell IG, Clement CM, McKnight RD, et al. The Canadian C-spine rule
+versus the NEXUS low-risk criteria in patients with trauma. N Engl J Med.
+2003 349(26):2510-2518.
+APPENDIX 8
+EQUIPMENTS FOR TRANSFER
+A. Essential equipments:
+• portable mechanical ventilator
+• adequate supply of O2
+• portable battery powered multifunction monitor to include:
+ ECG
+ non-invasive BP set
+ pulse oximetry
+ temperature (optional)
+ invasive pressure monitoring (optional)
+ capnography (optional)
+B. Other equipments:
+• suction
+• battery powered syringe pumps
+• battery powered IV volumetric pumps (infusion by gravity is
+unreliable during transfer)
+• intubation equipment
+• self-inflating bag, valve and mask
+• venous access equipment
+• defibrillator/AED
+• spare batteries
+• blanket
+C. An adequate supply of essential drugs to go with the patient:
+• sedative agents (e.g. midazolam)
+• muscle relaxants (e.g. suxamethonium) may be required for
+re-intubation
+• analgesics (e.g. fentanyl)
+• anticonvulsants (e.g. diazepam)
+• vasoactive drugs (e.g. ephedrine, dopamine, noradrenaline)
+• atropine
+• sodium bicarbonate
+• intravenous fluids (e.g. 0.9%NaCl)
+• ±mannitol 20%, frusemide
+D. Communication equipments
+Adapted: Best-evidence Review of Transfer Protocols for Moderate to Severe
+Traumatic Brain Injury. (Available at http://www.acc.co.nz/PRD_EXT_
+CSMP/groups/external_providers/documents/reports_results/wpc111560.
+pdf)
+APPENDIX 9
+TRANSFER CHECKLIST FOR NEUROSURGICAL PATIENTS
+The development of standardised transfer documentation is encouraged
+according to the local setting.
+Adapted: Best-evidence Review of Transfer Protocols for Moderate to Severe
+Traumatic Brain Injury. (Available at http://www.acc.co.nz/PRD_EXT_
+CSMP/groups/external_providers/documents/reports_results/wpc111560.
+pdf)
+NO
+YES
+Checklist
+SpO2 >90%?
+Airway clear?
+Airway protected adequately? (where applicable)
+Intubation and ventilation required? (where applicable)
+BP MAP >80 mmHg? (adults)
+Pulse <100/min? (adults)
+Continuous cardiac monitoring?
+Peripheral perfusion adequate?
+Two reliable large bore IV cannulae in situ?
+Estimated blood loss already replaced?
+Arterial line? (optional)
+Central venous access? (optional)
+Admission GCS recorded?
+GCS before transfer recorded?
+Pupillary size and reactivity recorded?
+Focal signs recorded?
+Seizures controlled?
+Raised ICP appropriately managed?
+Cervical spine injury (cervical spine protection), chest
+injury, fractured ribs, pneumothorax addressed?
+Intra-thoracic, intra-abdominal bleed addressed?
+Pelvic fracture addressed?
+Long bone injuries splinted?
+Continuous bladder drainage?
+Nasogastric tube? (where applicable)
+Blood available? (where applicable)
+Chest tube function? (where applicable)
+Appropriate personnel escorting adequately experienced
+and trained?
+Instructed about this case?
+Adequate equipment and drugs?
+Sufficient oxygen supplies? (should be additional one
+hour or twice the estimated journey time)
+Referral letter attached?
+CT scans/X-rays films/CD attached?
+Where to go in the neurosurgical unit?
+Telephone numbers programmed into mobile phone?
+Electronic and communication equipment battery fully
+function?
+Name and contact number of receiving doctor?
+Respiration
+Circulation
+Head injury
+Others
+Escort
+APPENDIX 10
+SAFE EXTUBATION CRITERIA IN HEAD INJURY
+If the patients are to be safely extubated in ED, the following criteria
+should be met:
+Preferably patients should be placed in HDU or Critical Care Area.
+Source: Gray SH, Ross JA, Green RS. How to safely extubate a patient in the emergency
+department: a user's guide to critical care. CJEM. 2013 Sep;15(5):303-6.
+NO
+YES
+Criteria
+Resolution of the process necessitating intubation
+The original airway or breathing problem has resolved
+Able to oxygenate and ventilate on low ventilator settings
+A. Options for assessing ability to oxygenate and
+ventilate would include oxygen saturation >92% or a
+normal arterial blood gas
+B. A common assessment of respiratory strength would
+be negative inspiratory force (NIF) <-30cm H2O
+(normal NIF values would be -90 to -120 cm H2O)
+C. Typical low ventilator settings would include the
+following:
+• Pressure support ≤10 mmHg
+• PEEP ≤5 cm H2O
+• Tidal volumes ≥5 mL/kg
+• FiO2 ≤0.40%
+Able to maintain a patent airway
+A. Anatomically easy airway for laryngoscopy and
+intubation
+B. Patient follows commands (opens eyes, grasps
+hand, lifts head off bed)
+C. A cuff leak is present: with the cuff of the endotracheal
+tube deflated, a leak >25% should be present
+(exhaled volume less than inhaled volume due to
+leak)
+Anticipated clinical course does not require mechanical
+ventilation
+A. Good cough with acceptable secretions
+B. Haemodynamically stable, with no vasopressors
+• SpO2 >92% on FiO2 <0.4
+• HR <100 beats/min
+• RR <30 breaths/min
+• SBP >90 mmHg
+• No active cardiac ischemia
+C. No other mitigating factor
+• Cervical spine injury or instability
+• Acute lung injury
+• Acute pharyngeal injury
+• Plan for imminent operation or transport
+• Attending physician feels uncomfortable with
+extubation
+No.
+1.
+2.
+3.
+4.
+APPENDIX 11
+DRUG DOSING REGIMEN FOR INITIAL MANAGEMENT
+OF HEAD INJURY
+Drug
+Dose
+Adverse Reaction (>10%)
+Drug
+Dose
+Adverse reaction
+Cardiovascular: bradycardia,
+oedema
+Central Nervous (CN): CN
+depression, confusion, dizziness,
+drowsiness, fatigue, headache,
+sedation
+Endocrine and metabolic:
+dehydration
+Gastrointestinal (GI): Constipation,
+nausea, vomiting, xerostomia
+Local: application site reaction
+Neuromuscular and skeletal: chest
+wall rigidity (high dose IV), muscle
+rigidity, weakness
+Ocular: miosis
+Respiratory: dyspnoea, respiratory
+depression
+Miscellaneous: diaphoresis
+Respiratory:
+Decreased respiratory rate (23%)
+Apnoea (13%)
+Cardiovascular: bradycardia,
+hypotension
+CN: drowsiness (9 - 48%), dizziness
+(6 -20%)
+GI: xerostomia (78%), constipation
+(9 -40%), nausea (7 - 28%)
+Sedation:
+IV infusion 0.05 - 0.1 mg/kg
+over at least 2 - 5 minutes
+Analgesia:
+0.5 - 2 µg/kg/h continuous
+infusion
+Analgesia :
+0.05 - 0.1 mg/kg/hr
+continuous infusion
+Benzodiazepines
+Midazolam
+Fentanyl
+Morphine
+sulphate
+Opioids
+IV effects: hypotension, bradycardia,
+cardiac arrhythmia, cardiovascular
+collapse (especially with rapid IV
+use),venous irritation and pain
+Concentration related effects:
+Nystagmus, blurred vision, diplopia,
+ataxia, slurred speech, dizziness,
+drowsiness, lethargy, coma, rash,
+fever, nausea, vomiting, confusion,
+mood changes
+B. Anticonvulsant
+A. Analgesia/Sedation
+Loading dose:
+15 - 20 mg/kg IV infusion
+over 30 - 60 minutes
+Rate: should not be more
+than 50 mg/minute (to avoid
+hypotension)
+Maintenance dose:
+IV 100 mg given three times daily
+Phenytoin
+Source:
+• Brain Trauma Foundation; American Association of Neurological Surgeons; Congress
+of Neurological Surgeons et al. J Neurotrauma. 2008 Mar;25(3):276-8.
+• Flower O, Hellings S. Sedation in traumatic brain injury. Emerg Med Int.
+2012;2012:637171
+• American Pharmacists Association. Drug Information Handbook, 22th Edition
+Hudson: Wolters Kluwer Clinical Drug Information, Inc.; 2013
+>20 µg/mL: far lateral nystagmus
+>30 µg/mL: 45
+o lateral gaze
+nystagmus and ataxia
+>40 µg/mL: decreased mentation
+>100 µg/mL: death
+CN: behavioural symptoms
+(agitation, aggression, anger,
+anxiety, apathy, depersonalization,
+depression, emotional lability,
+hostility, hyperkinesias, irritability,
+nervousness, neurosis, and
+personality disorder (5 - 13%),
+somnolence (8 - 23%), headache
+(14%), hostility (2 - 12%)
+GI: vomiting (15%)
+Levetiracetam
+Oral 300 mg ON for a total of
+seven days
+Loading dose: 20 mg/kg IV
+(rounded to the nearest 250
+mg and administered over
+60 minutes)
+Maintenance dose:
+1000 mg IV every 12 hours
+(given over 15 minutes)
+The dose may be adjusted
+as needed for therapeutic
+effect up to 1500 mg every
+12 hours (3000 mg/day).
+LIST OF ABBREVIATIONS
+µg
+microgramme
+µL
+microlitre
+AIS
+Abbreviated Injury Scale
+BP
+blood pressure
+bpm
+beats per minute
+ACOS-COT/
+American College of Surgeon – Committee on Trauma /Centre
+CDC
+for Disease Control
+CCR
+Canadian Cervical Spine Rule
+CCTHR
+Canadian CT Head Rule
+CI
+confidence interval
+CN
+central nervous
+CPG
+clinical practice guidelines
+CPP
+cerebral perfusion pressure
+CSI
+cervical spine injury
+CSF
+cerebral spinal fluid
+CT
+computed tomography
+DG
+Development Group
+DM
+diabetes mellitus
+ECP
+emergency care providers
+ED
+emergency department
+EP
+emergency physician
+ET CO2
+end tidal carbon dioxide
+FFP
+fresh frozen plasma
+FiO2
+fraction of inspired oxygen
+GA
+general anaesthesia
+GCS
+Glasgow Coma Score
+GI
+gastrointestinal
+GOS
+Glasgow Outcome Scale
+HDU
+High Dependency Unit
+HR
+heart rate
+ICH
+intracranial haemorrhage
+ICP
+intracranial cerebral pressure
+ICU
+Intensive care unit
+INR
+international normalized ratio
+IPH
+intraparenchymal haemorrhage
+ISS
+Injury Severity Score
+IV
+intravenous
+kg
+kilogramme
+kPa
+kilopascal
+LOC
+loss of consciousness
+LR
+likelihood ratio
+NEXUS
+National Emergency X-radiography Utilization Study
+NOC
+New Orleans Criteria
+MAP
+mean arterial pressure
+mg
+milligramme
+MoH
+Ministry of Health
+MHI
+mild head injury
+mL
+millilitre
+ACKNOWLEDGEMENT
+The members of development group of these guidelines would like
+to express their gratitude and appreciation to the following for their
+contributions:
+• Panel of external reviewers who reviewed the draft
+• Technical Advisory Committee of CPG for their valuable input and
+feedback
+• All those who have contributed directly or indirectly to the
+development of the CPG
+• Ms Loong Ah Moi, CPG Unit, MaHTAS, MoH, Putrajaya for retrieval
+of evidence
+DISCLOSURE STATEMENT
+The panel members of both Development Group and Review Committee
+had completed disclosure forms. None held shares in pharmaceutical
+firms or acts as consultants to such firms. (Details are available upon
+request from the CPG Secretariat)
+SOURCE OF FUNDING
+The development of the CPG on Early Management of Head Injury in
+Adults was supported financially in its entirety by the MoH Malaysia.
+mm
+millimetre
+mmHg
+millimetre mercury
+MVC
+motor vehicle collision
+OR
+odd ratio
+PCC
+prothrombin complex concentrate
+PEEP
+positive end-expiratory pressure
+PHC
+pre-hospital care
+PTS
+post-traumatic seizure
+RC
+Review Committee
+RCT
+randomised control trial
+RR
+respiratory rate
+RTA
+road traffic accident
+SAH
+subarachnoid haemorrhage
+SBP
+systolic blood pressure
+SpO2
+oxygen saturation
+TBI
+traumatic brain injury
+vs
+versus
+WAICH
+Warfarin-associated intracranial haemorrhage

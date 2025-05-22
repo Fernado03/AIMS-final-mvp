@@ -1,0 +1,1034 @@
+CLINICAL PRACTICE GUIDELINES
+WITHHOLDING AND WITHDRAWING
+OF LIFE SUPPORT IN CHILDREN
+MINISTRY OF HEALTH MALAYSIA
+B
+E
+RS
+AT
+U•
+BE
+R
+U
+SA
+HA
+•B
+ER
+BA
+KT
+I•
+December 2005
+MOH/P/PAK/102.05(GU)
+ACADEMY OF MEDICINE
+Statement of Intent
+This clinical practice guideline is meant to be a guide for clinical practice,
+based on the best available evidence at the time of development.
+Adherence to these guidelines may not necessarily ensure the best
+outcome in every case. Every health care provider is responsible for the
+management of his/her unique patient based on the clinical picture
+presented by the patient and the management options available locally.
+Review of the Guidelines
+This guideline was issued in 2005 and will be reviewed if new evidence
+becomes available.
+CPG Secretariat
+c/o Health Technology Assessment Unit
+Medical Development Division
+Ministry of Health Malaysia
+Level 4, Block E1, Parcel E,
+Government Office Complex,
+62250, Putrajaya.
+Available on the following website : http//www.moh.gov.my
+http://www.acadmed.org.my
+GUIDELINE DEVELOPMENT AND OBJECTIVES
+Guideline Development
+The working group for the development of this guideline comprised of
+paediatricians, a paediatric anaesthesiologist and a legal advisor from the Ministry
+of Health and the Ministry of Education, as well as a legal personnel from the
+private sector. This guideline is based on the findings of a systematic review of
+current medical literature, taking into consideration local paediatric practices.
+The grading of evidence is based on a modified version of that suggested by the
+Catalonian Agency for Health Technology Assessment & Research, Spain. The
+draft guidelines were sent to various paediatricians for comment and feedback.
+These guidelines have also been presented to the Technical Advisory Committee
+for Clinical Practice Guidelines and the Health Technology Assessment and
+Clinical Practice Guidelines Council, Ministry of Health Malaysia for review and
+approval.
+Objectives
+The aim of this guideline is to aid paediatricians and intensivists in clinical decision
+making by providing well-balanced evidence based information and expert advice
+on management of withholding and withdrawing of life support in children.
+Clinical Questions
+The clinical questions for this guidelines are:
+(i)
+When should withholding or withdrawal of life support be considered
+in children?
+(ii)
+What are the legal implications of withholding or withdrawal of life
+support?
+(iii)
+What are the economic implications of withholding or withdrawal of
+life support?
+(iv)
+How should withholding or withdrawal of life support be carried out?
+Target Population
+This guideline is applicable to children under the age of 18 years old who are
+critically ill and require life support or are on life support.
+Target Group
+This guideline is meant for all healthcare professionals who are involved in
+providing clinical management of withholding and withdrawing of life support in
+children.
+GUIDELINES DEVELOPMENT COMMITTEE
+Dr Wong Swee Lan (Chairperson)
+Consultant Paediatrician
+(General Paediatrics and Child Health)
+and Head Department of Paediatrics
+Hospital Kuala Lumpur
+Dato’ Dr Lim Nyok Lin
+Consultant Paediatrician
+(Neonatology)
+and Head Department of Paediatrics
+Selayang Hospital
+Dr Lim Yam Ngoh
+Consultant Paediatrician
+(Nephrology)
+Department of Paediatrics
+Kuala Lumpur Hospital
+Dr Thavaranjitham
+Consultant Paediatric Anesthesiologist
+Paediatric Institute
+Kuala Lumpur Hospital
+Prof. Ong Lye Choo
+Consultant Paediatrician ( Neurology)
+Universiti Kebangsaan Malaysia
+Hospital
+Prof. Madya Dr Lucy Lam
+Consultant Paediatrician
+(Intensive Care)
+University Malaya Medical Center
+Ms Miriam George
+Advocate & Solicitor
+Shearn Delamore & Co
+7th Floor, Wisma Hamzah–Kwong Hing,
+Kuala Lumpur
+Dr Hussien Imam
+Consultant Paediatrician
+(Neurology)
+and Head Department of Paediatrics
+Penang Hospital
+Dr Amar Singh HSS
+Consultant Paediatrician
+(Community Paediatrics)
+and Head Department of Paediatrics
+Ipoh Hospital
+Dr Teh Keng Hwang
+Consultant Paediatrician
+(Intensive Care)
+and Head Department of Paediatrics
+Alor Setar Hospital
+Dr Hasmawati Hassan
+Consultant Paediatrician
+(Neonatology)
+Kota Bharu Hospital
+Prof Boo Nem Yun
+Consultant Paediatrician (Neonatology)
+Universiti Kebangsaan Malaysia
+Hospital
+Prof. Jackie Ho
+Consultant Paediatrician (Neonatology)
+Head, Department of Paediatrics
+Perak Medical College
+Miss Farahnini Dusuki
+Lecturer
+Law Faculty
+International Islamic University
+Guidelines Coordinator
+Dr S Sheamini
+Principal Assistant Director
+Health Technology Assessment Unit
+Medical Development Division
+Puan Nik Jah bin Mat
+Scientific Officer
+Health Technology Assessment Unit
+Medical Development Division
+Reviewed and edited by
+Dr S Sivalal
+Head, Health Technology Assessment
+Deputy Director, Medical Development Division
+Ministry of Health Malaysia
+TABLE OF CONTENTS
+GUIDELINE DEVELOPMENT AND OBJECTIVES
+i
+GUIDELINES DEVELOPMENT COMMITTEE
+ii
+TABLE OF CONTENTS
+iv
+1.
+INTRODUCTION
+1
+2.
+METHODOLOGY
+1
+3.
+REASONS FOR WITHDRAWAL/WITHOLDING LIFE SUPPORT
+2
+3.1
+NEONATES
+2
+3.1.1
+Labour room / operation theatre
+2
+3.1.2
+Neonatal Intensive Care Units
+2
+a. No chance for survival
+3
+b. Quality of life issues
+3
+3.1.3
+Disorders or Specific Structural Defects Incompatible
+with Life
+4
+3.2
+CHILDREN
+5
+3.2.1 Medical Factors
+5
+3.2.2 Futility of Care
+5
+4.
+INTENSIVE CARE IN THE CRITICALLY ILL CHILD
+6
+5.
+LEGAL IMPLICATIONS
+7
+6.
+ECONOMIC IMPLICATIONS
+7
+6.1
+Cost Implications of End-of-Life Care
+7
+6.2
+Care of Extremely Low Birth Weight Babies
+7
+7.
+WITHRAWAL OR WITHOLDING LIFE SUPPORT IN PRACTICE
+8
+7.1
+The decision to withdraw life support
+8
+7.2
+Pre-Withdrawal Preparation
+8
+7.3
+Withdrawal Procedure
+9
+7.4
+Post-Withdrawal Management (After Death)
+10
+7.5
+Emotional Health of Staff
+10
+8.
+REFERENCES
+11
+9.
+APPENDIX 1 - DEFINITION OF TERMS
+15
+10.
+APPENDIX 2 - UNITED NATIONS CONVENTION ON THE RIGHTS
+19
+OF THE CHILD
+11.
+APPENDIX 3 - LEVELS OF EVIDENCE SCALE
+20
+CLINICAL PRACTICE GUIDELINES ON
+WITHHOLDING AND WITHDRAWING OF LIFE SUPPORT IN CHILDREN
+1.
+INTRODUCTION
+Technological advances in modern medicine have had a great impact on the care of
+critically ill patients, saving many children’s lives, but also leaving others with chronic
+diseases and disabilities. The increased ability to sustain life with intensive care
+may lead, unfortunately, sometimes only to prolonging suffering when treatment is
+unsuccessful, and prolonging the dying process, attached to technology, instead of
+dying with dignity in the company of loved ones. Thus, with these new technologies
+also comes the responsibility to understand how, when, and why these technologies
+are applied, and when technology should not be used or withdrawn.
+Professionals have a duty to act in their patients’ best interests, to sustain life and
+restore health to an acceptable standard (Chantler & Doyal, 2000, Level 9). However,
+it is important both from an ethical as well as an economic viewpoint, for these
+professionals to recognise the limits of unnecessary prolongation of life. Furthermore,
+recognition that resources are finite, limit the provision of care that is deemed futile.
+The decision by a doctor to withhold or withdraw treatment, but not care, (please
+see Appendix 1 for definition of terms) from a patient may result in a serious conflict
+with a parent who insists otherwise. However, this may be ethically justifiable and
+legally defensible under certain circumstances, since doctors are morally obliged to
+question if providing treatment is inconsistent with his professional ethics. The
+decision to withhold or withdraw treatment can be made on the basis that treatment
+is contrary to the child’s best interests, disproportionately burdensome, futile, or
+even harmful (Larcher & Hird 2002, Level 9; Schneiderman et al, 1996, Level 9).
+2.
+METHODOLOGY
+A systematic search of the literature using PubMed, Proquest, Ovid, and Ebsco was
+carried out. The key words used included withdrawal, withholding, limitation, lifesustaining therapy, life support, treatment, children, neonate, intensive care, paediatric
+intensive care, ethical, cost, and financial implication, used singly or in combination.
+The Cochrane Database of Systematic Reviews and Evidence Based Medicine
+Database of Abstracts of Reviews (DARE) were also searched. Additional literature
+search was carried out using the words nutrition and hydration.
+3.
+REASONS FOR WITHDRAWAL/WITHOLDING LIFE SUPPORT
+3.1.
+Neonates
+Decisions relating to the withholding and withdrawal of life-sustaining medical
+treatments are a necessary part of a neonatal unit’s practice (Larcher & Hird
+2002, Level 9). Many decisions regarding life support call for the use of ‘best
+interests’ standard, involving weighing the benefits and burdens of lifesustaining medical treatment (please see Appendix 1 for the range of LSMT).
+The benefits include the following:
+•
+Prolongation of life (understanding that the continuation of biological
+existence without consciousness may not be a benefit)
+•
+Improved quality of life (including reduction of pain or disability)
+•
+Increased physical pleasure, emotional enjoyment and intellectual
+satisfaction.
+The burden of life sustaining medical treatment (LSMT) may include the
+following
+•
+Intractable pain
+•
+Irremediable disability or helplessness
+•
+Emotional, psychosocial and economic suffering
+•
+Invasive and/or inhumane interventions that severely detract from the
+patient’s quality of life (i.e. experience of life as viewed by the patient,
+and not social worth as judged by others) (Meisel, 1989, Level 9)
+3.1.1. Labour room/ operation theatre
+Cardiopulmonary resuscitation in the labour room presents clinicians with
+significant ethical issues. The resuscitation of critically ill infants is a difficult
+choice and decision of whether to resuscitate or not must often be made
+rapidly. Generally, it is recommended that if there is any doubt, resuscitative
+efforts should be provided, since it allows time for increased prognostic
+certainty and opportunity for joint decision-making (Meadow et al, 1996, Level 8).
+Resuscitation may be inappropriate for the following:
+•
+Extremely low birth weight - gestation <23 weeks or birth weight
+<400gm
+•
+Neonate with severe congenital defects e.g. anencephaly
+•
+Severe perinatal asphyxia e.g. persistent asystole for >15 min.
+(Niermeyer et al 2000 Level 9; Goldsmith et al, 1996, Level 8)
+3.1.2. Neonatal Intensive Care Units
+In UK, withdrawal of treatment accounts for up to 30% of neonatal intensive
+care deaths (Wall & Partridge, 1997, Level 8). In USA, according to the Baby
+Doe regulations (1985) doctors must treat all infants with life-threatening
+conditions, except in the following situations (Lantos et al 1994, Level 8):
+•
+Infant is chronically and irreversibly comatose
+•
+Provision of treatment would merely prolong dying, not be effective in
+relieving or correcting all the infant’s life-threatening conditions, or otherwise
+be futile in terms of survival of the infant (Lantos et al, 1994, Level 8)
+•
+Treatment under such circumstances would be inhumane (Department
+of Health and Human Services, 1985, Level 9)
+Decisions to withhold or withdraw life-sustaining medical treatment have to
+be based on careful assessments of the infant’s clinical condition. The longterm implications of clinical findings such as the following:
+•
+bilateral cerebral intraparenchymal haemorrhage
+•
+diffuse periventricular leukomalacia
+•
+severe perinatal asphyxia with grade III hypoxic-ischaemic
+encephalopathy have been established as having poor prognosis, the
+neurodevelopmental outlook in many other situations is often not clear
+(Larcher & Hird 2002, Level 9). Thus, while reasons for withholding or
+withdrawal may vary, these will fall into the following 2 categories:
+a.
+No chance for survival (Cook & Watchko, 1996, Level 8; Caniano et
+al 1995, Level 8) or continued treatment futile in the face of
+imminent death (Cuttini et al 2000, Level 8; Caniano et al 1995, Level 8)
+•
+Limited life expectancy
+-
+End of treatment line-death inevitable (Kelly et al 1994, Level 8)
+-
+Lesion incompatible with life (Kelly et al 1994, Level 8)
+-
+Poor chance of survival (Hazebroek et al 1993, Level
+8; Whitelaw,1986, Level 8)
+•
+Inevitable dependency on life-sustaining treatment
+-
+Lesion will not allow meaningful survival (Kelly et al 1994, Level
+8) or poor prognosis for later life (Hazebroek et al 1993, Level 8)
+•
+Impossibility that the infant would ever go home
+(daCosta et al 2002, Level 8 ; Van der Heide et al 1998, Level 9;
+Wall & Partridge 1997, Level 8; Van der Heide et al. 1997,de
+Leeuw et al 1996, Level 8 ; Level 8 ; Lantos et al 1994, Level 8 )
+b.
+Quality of life issues (Cook & Watchko et al 1996, Level 8; Hazebroek
+et al 1993, Level 8)
+Expected poor quality of life/severe disabilities or severely
+deforming and incapacitating condition with little or no hope of
+achieving meaningful ‘humanhood’ (Cuttini et al 1999, Level 9; Fost
+1999, Level 9)
+•
+Severe brain damage when death may be preferable to life (Kelly
+et al 1994, Level 8)
+•
+No prospects for improvement
+•
+A high degree of suffering or unnecessary suffering - neonate’s
+burden of pain and suffering with treatment does not outweigh
+the benefits of life even if the infant is not in a terminal state (Cuttini
+et al 1999, Level 8; Ryan et al 1993, Level 8)
+•
+An expected poor developmental outcome (Fost 1999, Level 9)
+•
+Poor social support for disabled (Fost 1999, Level 9)
+•
+A very high burden of treatment (Van der Heide et al 1998, Level
+9; Wall & Partridge 1997; Level 8; Whitelaw 1996, Level 9; Doyal
+& Wilsher. 1994, Level 9; Lantos et al. 1994, Level 8;Airede 1991,
+Level 8)
+Causes of these may include the following:
+•
+Extremely Low Birth Weight infants
+
+gestational age <26 weeks with intrauterine infection
+
+gestational age <26 weeks with severe complications
+•
+Prematurity with severe complications
+•
+Respiratory distress syndrome with complications
+•
+Severe intracranial haemorrhage
+•
+Perinatal asphyxia with hypoxic ischaemic encephalopathy
+•
+Severe intractable septicaemia
+•
+Intractable respiratory failure
+•
+Severe/multiple congenital malformations
+3.1.3. Disorders or Specific Structural Defects Incompatible with Life
+•
+Cephalic disorders
+
+Hydranencephaly
+
+Anencephaly
+
+Holoprosencephaly
+
+Sirenomelia
+•
+Genetic defects
+
+13 trisomy syndrome
+
+18 trisomy syndrome
+
+Triploidy
+•
+Short-limb dwarfing syndromes
+
+Achondrogenesis-hypochondrogenesis
+
+Type II achondrogenesis-hypochondrogenesis
+
+Fibrochondrogenesis
+
+Atelosteogenesis
+
+Short-rib polydactyly syndrome, Saldinonoonan type
+
+Thanatophoric dysplasia
+
+Osteogenesis imperfecta type II
+•
+Miscellaneous syndromes
+
+Lethal multiple pterygium syndrome
+
+Neu-Laxova syndrome
+
+Meckel-Gruber syndromes (Goldsmith et al 1996, Level 8)
+3.2.
+CHILDREN
+Most deaths (65%) occur in paediatric intensive care unit (PICU), and these
+deaths are mostly in children less than one year, with up to 50% having
+underlying chronic disease (Martinot et al, 1995, Level 8; Levetown et al;
+1994, Level 7; Vernon et al, 1993, Level 8; Mink & Pollack, 1992)
+3.2.1. Medical factors
+
+Clinical assessments should be based on whether each potentially
+available treatment would benefit the patient, taking into account the
+residual effect of any remaining medication or treatment on the patient.
+
+Treatment decisions must be based on the best available clinical
+evidence - guidelines should be consulted as part of the clinical
+assessment (where available), additional advice being sought where
+necessary.
+
+Active treatment may be withheld or withdrawn, if unable to achieve
+its intended clinical goal, or the patient’s imminent death is inevitable,
+
+Where the patient has an existing condition, a management plan should
+be formulated to anticipate progression of the disorder or cardiac arrest
+
+Where the patient presents with a sudden or unexpected medical event,
+the condition should be stabilized to allow proper assessment
+3.2.2. Futility of care
+With patient autonomy, some patients and their families claim the right to receive
+any aggressive high tech medical interventions on a chance of improving
+survival, even if the medical provider judges the treatment to be futile.
+Futility refers to whether treatment will benefit an individual patient
+(Schneiderman et al, 1996, Level 9), and is an increasingly common
+justification for refusing to provide treatment requested (Prendergast 1995,
+Level 9). Nelson (1995, Level 9) suggest that futile be restricted to judgments
+of “strict futility” and to use disproportionate burden when a doctor judges
+that the burden of continued treatment for the child far outweighs any expected
+benefit.
+Strict futility or physiologic futility is when a certain treatment fails to preserve
+a physiologic function vital for survival, resulting in imminent death e.g. the
+administration of vasopressors that fails to maintain an adequate blood
+pressure following a cardiac arrest. The doctor is not ethically or legally bound
+to offer or provide it, regardless of patient or parental wishes.
+Disproportionate burden involves value judgment about the benefits and
+burdens of continued treatment. Treatment will not benefit the patient, causes
+pain and suffering, and does not contribute to restoring acceptable quality of
+life, although the patient may survive for years. The doctor may be justified in
+refusing to provide that treatment despite parental disagreement, but foregoing
+treatment should not be the doctor’s decision alone unless death is imminent.
+However, it has been shown that few paediatric intensive care beds were used
+for futile care (Goh & Mok, 2001, Level 8; Sachdeva et al, 1996, Level 8).
+4.
+INTENSIVE CARE IN THE CRITICALLY ILL CHILD
+Injudicious application of intensive care i.e. mechanical ventilation, dialysis and
+cardiopulmonary resuscitation (CPR) may create a clinical scenario in which a patient
+can be maintained alive in an ICU setting with burdensome therapy, never entering
+a conscious state, survive and be discharged home with an unacceptable quality of
+life, or when therapy is failing, deprive another patient who has a chance of a more
+meaningful survival if given access to the ICU.
+Some questions one should consider when making decisions on whether to admit a
+critically ill patient with cancer to the ICU or to institute CPR are:
+1.
+Is there a chance of the disease being cured, controlled or put into remission,
+and a meaningful life?
+2.
+Is autonomy of patient respected?
+3.
+Is there distributive justice? Patient with the best chance of benefiting from
+intensive therapy should receive priority for admission.
+Australian Classification system for cancer provides a framework to discuss goals
+of care relative to cancer status (Meadow et al 1996, Level 9)
+As healthcare costs continue to increase economic analysis will be necessary to
+guide resource allocation decisions. Cost effectiveness analysis is the most popular
+and it evaluates the effectiveness of one treatment versus another. In end-of-life
+issues the perspective needs to be broad and include all those who gain as well as
+those who pay (ATS Bioethics Task Force 1997; Level 9).
+The value of the health consequence is usually reported as a quality of adjusted life
+year (QALY). QALY is simply the weighted average of the value of a health related
+quality of life where death is 0 and optimum health is 1. This assumption may not
+hold true when considering terminally ill patients.
+5.
+LEGAL IMPLICATIONS
+Legally and ethically, the decision to treat or not to treat is justifiable only when it is
+in the best interests of the child (please see Appendix 2 for details of rights of a
+child). However, perceptions about the child’s best interest may differ, and ‘best
+interest’ may not be synonymous with prolongation of life.
+Those with parental responsibility for a child are legally and morally entitled to give
+or withhold consent to treatment, unless they conflict seriously with the interpretation
+of those providing care in the child’s best interests. According to the Child Act 2001,
+parents can lose their rights and the child taken into protection, if parents object to
+the child’s needs to be examined, investigated or treated for the purpose of restoring
+or preserving his health. Although a child under 18 years of age with a sufficient
+level of competence and understanding can give valid consent to treatment, he/she
+however cannot refuse to have life saving treatment.
+In general, doctors judge the clinical factors, and parents determine best interests
+of the child. If there is a disagreement that cannot be resolved, a Court may determine
+whether the provision of life-prolonging treatment would benefit the child.
+6.
+ECONOMIC IMPLICATIONS
+6.1.
+Cost Implications of End-of-Life Care
+It has been shown that end-of-life care consumes 10-12% of all health care
+expenditures. For terminally ill patients, significant cost savings can be achieved
+with the use of hospice, and the lower use of high technology interventions.
+Initiation of renal support such as dialysis as well as CPR in critically ill patients
+has been found not to be cost effective. The cost effectiveness of palliative
+therapies is difficult to calculate since there is no good measure for valuing
+the quality of death.
+6.2.
+Care of Extremely Low Birth Weight Babies
+Extremely low birth weight (ELBW) babies require expensive and scarce
+resources, having poor prognosis for survival should they require intensive
+care. Intensive care is costly and outcomes are often uncertain, and hence,
+rationing of these resources is inevitable. Neonatal intensive care mortality
+decreases as the birth weight increases, so that most NICU deaths occur
+during the first few days leaving a relatively healthier population with greater
+likelihood of survival (Meadow et al 1996, Level 9). Since premature ELBW
+babies result in early deaths, the policy is to initiate treatment on most babies
+to see who will do well and who will develop life-threatening complications
+(Peabody 1996, Level 9). However, many studies have shown aggressive
+treatment and surgical management of ELBW babies has poor outcome and
+is not cost effective (Young & Stevenenson 1990, Level 9; Civetta 1996, Level
+9; ATS Bioethics Task Force 1997, Level 9). Treating them over-vigorously
+violates the moral principles of non-maleficence and distributive justice.
+Similarly, failing to treat vigorously due to concerns regarding non-maleficence
+and distributive justice could violate the principle of patient-centered
+beneficence. Distributive justice compels the doctor to allocate finite resources
+equitably (Young & Stevenson 1990, Level 9; Pronovost & Angus 2001, Level 9).
+7.
+WITHDRAWAL OR WITHHOLDING LIFE SUPPORT IN PRACTICE
+The practical issues for withdrawal in neonates and children are similar in many
+respects and will be discussed together, unless indicated otherwise! The term “child”
+designates both neonates and children.
+7.1
+The decision to withdraw life support
+In principle the decision on when to withdraw life support is made by the attending
+consultant paediatrician with the assistance of the whole team (colleagues,
+medical officers, nursing personnel) and in consultation with parents.
+7.2
+Pre-Withdrawal Preparation
+1.
+It is important that the decision to withdraw life support is a team effort
+in which the parents are fully involved. The decision should first be
+discussed with personnel involved in the care of the child. It should
+then be discussed with the parents before a final decision is made.
+2.
+If a parent (e.g. mother post LSCS) has not seen the child since
+admission, attempts should be made for that parent to see the child
+before the actual withdrawal is done.
+3.
+For continuity and trust, it is important that the attending team -
+consultant paediatrician, medical officer and nurse be present to see
+the parents through the whole process: pre-withdrawal, withdrawal
+and post-withdrawal counseling.
+4.
+The attending consultant paediatrician (or most senior member of the team),
+medical officer and nurse should discuss the following with the parents:
+a.
+The timing of the procedure - the date and time of the actual withdrawal
+should be decided by the parents (within reasonable limits).
+b. What the procedure entails - care should be taken to indicate how
+long the breathing might continue, that the child may have gasping
+respiration, that sedation may be used if the child in anyway
+appears to suffer.
+c.
+Who, if any, of the family members will be present with the child,
+during the preparation of the child, during the switching off, and
+after switching off. It may be meaningful in the grieving process for
+siblings and grandparents to be present.
+d.
+Religious needs - at times parents may request a religious person
+to be present to pray for the child, or this spiritual role can be
+undertaken by anyone else like a staff member.
+5.
+Establish the parents’ preferences for the following:
+a. Naming the child.
+b. Photographs - parents may wish to take photographs of the child
+(these can be taken at the time of withdrawal when the child is
+fully clothed or earlier).
+c.
+Hand and footprints, hair clippings etc (may be taken by the parents
+later if they prefer).
+d. Holding the child during the dying process.
+e. Clothing the child.
+f.
+Post-mortem
+7.3
+Withdrawal Procedure
+1.
+The attending nurse prepares an empty cot, child’s clothes, any
+prescribed sedation or analgesia. Photograph child before stopping
+ventilator if desired.
+2.
+Place screens around child and ask visitors to other babies to leave
+the ventilation area.
+3.
+The attending nurse prepares the child in the following manner:
+a. Removing all invasive lines except the endotracheal tube. Just
+prior to this it may be wise to give sedation (e.g. a morphine purge
+to limit the trauma of gasping). Alternatively, it is possible to keep
+one heparinised IV line in case of need for sedation.
+b. Cleaning any blood or fluid stains on skin if necessary.
+c. Changing nappy and dressing child in selected clothes.
+4.
+Parents and designated family members can be present for this
+process or be waiting in a designated room.
+5.
+Allow for time to pray – formal prayers by person designated by parents
+or by ward staff.
+6.
+Designated person (preferably attending paediatrician or medical
+officer) to stop ventilator and withdraw endotracheal tube.
+7.
+The attending nurse to hand over the child to parents and family. At
+times it may be appropriate to wrap the newborn in a shawl so as to
+cover birth defects and present the child as best as possible. Place in
+cot and wheel to a private room with family (this may be a designated
+“bereavement room”, a counselling room or the room used for breast
+milk expression)
+8.
+The attending nurse and doctor should do the following during the
+dying process:
+a. Encourage parents to hold the child.
+b. Standby with parents if requested but it is generally preferred to
+allow them to be alone with child during the dying process.
+c. Check child and parents intermittently.
+d. Leave family with child for as long as they want but not for too long
+a period.
+e. Provide tissues and refreshments as necessary.
+7.4
+Post-Withdrawal Management (After Death)
+1.
+The attending nurse and doctor should express sympathy to parents. Some
+physical contact may be meaningful (e.g. a hug or holding the hand).
+2.
+The attending doctor to certify the death.
+3.
+The attending nurse should explain the process of releasing the child’s
+dead body.
+4.
+Before the parents leave, the attending doctor should arrange a one
+week appointment for parents with the attending consultant paediatrician
+(or neonatologist) to facilitate the grieving process. The primary focus
+of the follow- up is to help parents with the decision for withdrawal and
+assess/discuss any guilt feelings. In addition, there may be a need to
+re-discuss the diagnosis or provide more information from tests.
+7.5
+Emotional Health of Staff
+The withdrawal of life support is an emotionally traumatic experience. This is
+true even for local paediatric departments which have been practising this for
+years. It is important that the nursing staff and doctors caring for these children
+have opportunities to express their own pain and grief. This can be done
+informally or having formal staff meetings for the purpose.
+7.
+REFERENCES
+Airede KI (1991). Should we resuscitate? Ethical dilemmas. Ann Trop Paediatr.;
+11(2):169-74.
+American Academy of Pediatrics Committee on Bioethics: Guidelines on foregoing
+life-sustaining medical treatment (1994). Pediatrics. Mar; 93(3):532-6.
+ATS Bioethics Task Force (1997). Fair allocation of intensive care unit resources.
+Am. J Respir Crit Care Med, 156:1282–1301
+Caniano DA, Hazebroek FW, DenBesten KE, Tibboel D (1995). End-of-life decisions
+for surgical neonates: experience in The Netherlands and United States. J Pediatr
+Surg. Oct;30(10):1420-4.
+Chantler C, Doyal L. Medical ethics; the duties of care in principle and practice. In
+Powers M, Harris (eds). Clinical Negligence London: Butterworths 2000
+Child Act 2001 (Act 611); Part I Section 2(1)
+Civetta, Joseph (1996). Another point of view. Futile care or caregiver frustration? A
+practical approach, Critical Care Medicine Vol. 24 Number 2 February
+Convention on the Rights of the Child 1989. Adopted by the General Assembly of
+the United Nations on 20th November 1989; Article 1
+Cook LA, Watchko JF (1996). Decision making for the critically ill neonate near the
+end of life. J Perinatol. Mar-Apr;16(2 Pt 1):133-6.
+Cuttini M, Rebagliato M, Bortoli P, Hansen G, de Leeuw R, Lenoir S, Persson J, Reid M,
+Schroell M, de Vonderweid U, Kaminski M, Lenard H, Orzalesi M, Saracci R
+(1999).Parental visiting, communication, and participation in ethical decisions: a
+comparison of neonatal unit policies in Europe. Arch Dis Child Fetal Neonatal Ed. Sep;
+81(2):F84-91.
+Cuttini M, Nadai M, Kaminski M, Hansen G, de Leeuw R, Lenoir S, Persson J,
+Rebagliato M, Reid M, de Vonderweid U, Lenard HG, Orzalesi M, Saracci R (2000).
+End-of-life decisions in neonatal intensive care: physicians’ self-reported practices
+in seven European countries. EURONIC Study Group. Lancet. Jun 17;
+355(9221):2112-8.
+da Costa DE, Ghazal H, Al Khusaiby S (2002). Do Not Resuscitate orders and
+ethical decisions in a neonatal intensive care unit in a Muslim community. Arch Dis
+Child Fetal Neonatal Ed. Mar; 86(2):F115-9.
+de Leeuw R, de Beaufort AJ, de Kleine MJ, van Harrewijn K, Kollee LA (1996). Foregoing
+intensive care treatment in newborn infants with extremely poor prognosis. A study in
+four neonatal intensive care units in The Netherlands. J Pediatr; 129 (5):661-666
+Department of Health and Human Services. Child abuse and neglect prevention
+and treatment program: Final rule. Federal Register. 1985; 50:1478-92
+Doyal L, Wilsher D (1994). Towards guidelines for withholding and withdrawal of life
+prolonging treatment in neonatal medicine. Arch Dis Child Fetal Neonatal Ed. Jan;
+70(1):F66-70.
+Fost N (1999). Decisions regarding treatment of seriously ill newborns. JAMA. Jun
+2; 281(21):2041-2043
+Goh AY, Mok Q (2001). Identifying futility in a paediatric critical care setting: a
+prospective observational study. Arch Dis Child. Mar; 84(3):265-8
+Goh AY, Lum LCS, Chan PWK, Bakar F, Chong BO (1999). Withdrawal and limitation
+of life support in paediatric intensive care. Arch Dis Child; 80:424-428
+Goldsmith JP, Ginsberg HG, McGettigan MC (1996). Ethical decisions in the delivery
+room. Clin Perinatol. Sep; 23(3):529-550
+Hazebroek FW, Tibboel D, Mourik M, Bos AP, Molenaar JC (1993). Withholding and
+withdrawal of life support from surgical neonates with life-threatening congenital
+anomalies. J Pediatr Surg. Sep; 28(9):1093-1097
+Kelly NP, Rowley SR, Harding JE (1994). Death in neonatal intensive care. J Paediatr
+Child Health. Oct; 30(5):419-422
+Lantos JD, Tyson JE, Allen A, Frader J, Hack M, Korones S, Merenstein G, Paneth
+N, Poland RL, Saigal S, et al(1994). Withholding and withdrawing life-sustaining
+treatment in neonatal intensive care: issues for the 1990s. Arch Dis Child Fetal
+Neonatal Ed. Nov; 71(3):F218-223.
+Larcher V, Hird MF (2002). Withholding and withdrawing neonatal intensive care.
+Current Pediatrics; 12: 470-475
+Levetown M, Pollack MM, Cuerdon TT, Ruttimann UE, Glover JJ (1994). Limitations
+and withdrawals of medical intervention in pediatric critical care. JAMA. Oct
+26;272(16):1271-1275
+Maillet JO, Potter RL, Heller L (2002). Position of the American Dietetic Association:
+ethical and legal issues in nutrition, hydration, and feeding. J Am Diet Assoc.
+May;102(5):716-26.
+Martinot A, Lejeune C, Hue V, Fourier C, Beyaert C, Diependaele JF, Deschildre A,
+Leclerc F (1995). [Modality and causes of 259 deaths in a pediatric intensive care
+unit] Arch Pediatr. Aug;2(8):735-41. French.
+Meadow W, Lantos JD, Mokalla M, Reimshisel T (1996). Distributive justice across
+generations. Epidemiology of ICU care for the very young and the very old. Clin
+Perinatol. Sep; 23(3):597-608.
+Meisel A (1989). The care of the dying: a symposium on the case of Betty Wright –
+Refusing treatment, refusing to talk, and refusing to let go: on whose terms will
+death occur? Law Med Health Care. Fall; 17(3):221-226.
+Mink RB, Pollack MM (1992). Resuscitation and withdrawal of therapy in pediatric
+intensive care. Pediatrics. May; 89(5):961-3
+Nelson LJ, Rushton CH, Cranford RE, Nelson RM, Glover JJ, Truog RD (1995). Forgoing
+medically provided nutrition and hydration in paediatrics patients. J Law Med Ethics;
+23: 33-46.
+Niermeyer S, Kattwinkel J, Van Reempts P, Nadkarni V, Phillips B, Zideman
+D,Azzopardi D, Berg R, Boyle D, Boyle R, Burchfield D, Carlo W, Chameides L,
+Denson S, Fallat M, Gerardi M, Gunn A, Hazinski MF, Keenan W, Knaebel S, Milner
+A, Perlman J, Saugstad OD, Schleien C, Solimano A, Speer M, Toce S, Wiswell T,
+Zaritsky A (2000). International Guidelines for Neonatal Resuscitation: An excerpt
+from the Guidelines 2000 for Cardiopulmonary Resuscitation and Emergency
+Cardiovascular. Contributors and Reviewers for the Neonatal Resuscitation
+Guidelines. Pediatrics. Sep; 106(3):E29.
+Peabody JL, Martin GI (1996). From how small is too small to how much is too
+much. Clinics in Perinatology; Sep: 23(3): 473-489
+Prendergast TJ (1995). Futility and the common cold. How requests for antibiotics
+can illuminate care at the end of life. Chest; 107 (3):836-844
+Pronovost P, Angus DC (2001). Economics of end-of-life care in the intensive care
+unit. Crit Care Med. Feb; 29(2 Suppl):N46-51
+Report of Special Task Force (1987). Guidelines for the determination of brain death
+in children. American Academy of Pediatrics Task Force on Brain Death in Children.
+Pediatrics. Aug; 80(2):298-300.
+Ryan CA, Byrne P, Kuhn S, Tyebkhan J (1993). No resuscitation and withdrawal of
+therapy in a neonatal and a pediatric intensive care unit in Canada. J Pediatr. Oct;
+123(4):534-8.
+Sachdeva RC, Jefferson LS, Coss-Bu J, Brody BA (1996). Resource consumption
+and the extent of futile care among patients in a pediatric intensive care unit setting.
+J Pediatr. Jun; 128(6):742-747.
+Schneiderman LJ, Jecker NS, Jonsen AR (1996). Medical futility: its meaning and
+ethical implications. Ann Intern Med. Jun 15; 112(12):949-54
+Truog RD, Cist AF, Brackett SE, Burns JP, Curley MA, Danis M, DeVita MA, Rosenbaum
+SH, Rothenberg DM, Sprung CL, Webb SA, Wlody GS, Hurford WE (2001).
+Recommendations for end-of-life care in the intensive care unit: The Ethics Committee
+of the Society of Critical Care Medicine. Crit Care Med. Dec; 29(12):2332-2348
+Van der Heide A, van der Maas PJ, van der Wal G, de Graaff CL, Kester JG, Kollee
+LA, de Leeuw R, Holl RA l (1997) Medical end-of-life decisions made for neonates
+and infants in the Netherlands. Lancet; 350(9073): 251-255
+Van der Heide A. van der Maas PJ, van der Wal G, Kollee LA, de Leeuw R, Holl
+(1998). The role of parents in end-of-life decisions in neonatology: Physicians’ views
+and practices. Pediatrics Mar; 101: 413-418
+Vernon DD, Dean JM, Timmons OD, Banner W Jr, Allen-Webb EM (1993). Modes of
+death in the pediatric intensive care unit: withdrawal and limitation
+of supportive care. Crit Care Med. Nov; 21(11):1798-802
+Wall SN, Partridge JC (1997). Death in the Intensive care Nursery: Physician Practice
+of Withdrawing and Withholding Life Support. Pediatrics 99:64-70
+Whitelaw A (1986). Death as an option in neonatal intensive care. Lancet. Aug
+9;2(8502):328-31.
+Young EW, Stevenson DK (1990). Limiting treatment for the extremely premature,
+Low Birth weight infants (500 – 700g). Am J Dis. Child. May 144(5):549-52.
+Appendix 1
+DEFINITION OF TERMS
+1.
+Benefit versus burden of care: The primary goal of medical treatment is to
+benefit the patient by restoring and maintaining the patient’s health as far as
+possible, maximising benefit and minimising harm. However, sometimes the
+course of the disease may cause health professionals and the child’s family
+to consider whether continued treatment truly represents the best option. If
+treatment fails to provide a net benefit to the patient, it no longer becomes
+appropriate to prolong life at all costs, with no regard to its quality or the
+burdens of treatment. In such circumstances there is justification, ethically
+and legally, for withholding or withdrawing treatment. The goal of medicine
+should then shift to palliative care.
+2.
+Withholding and withdrawing: The term “forgo” is synonymously used for
+both stopping a treatment already begun (“withdraw”) as well as not starting
+a treatment (“withhold”). Other terms include “limitation of treatment” (Goh et
+al 1999). There is no important ethical or legal difference between withholding
+or withdrawing treatment when making decisions about an individual patient
+(AAP guidelines 1994). Yet, many health care professionals, as well as
+families, feel an emotional difference between the two, largely due to the
+impression that withdrawing treatment can be interpreted as “giving up on
+the patient”. Some health professionals may be reluctant to start treatment in
+the mistaken belief that once started the treatment cannot be withdrawn.
+Treatment should never be withheld, especially when there is a chance the
+patient may benefit, simply because withholding is considered easier than
+withdrawing. When great uncertainty prevails, a better course would be to
+initiate treatment to ascertain whether it is able to benefit the patient, and
+subsequently withdraw it if it proves unhelpful.
+3.
+Life-sustaining medical treatment (LSMT): Other terms commonly used
+include “life prolonging treatment” and “life support”. It encompasses ALL
+interventions that may prolong the life of the patient and postpone death.
+There is evidence that if these interventions are withdrawn or withheld, death
+usually ensues (Goh et al, 1999; and Wall et al, 1997) There is no difference
+between “extraordinary” (technically demanding and often scarce) and
+“ordinary” interventions. However, in reality, health care professionals have
+many preferences and biases regarding the type and order of withdrawal of
+such treatment. In light of these subconscious biases, it is useful to review
+the wide range of LSMT and work towards an approach focusing on the unique
+situation and needs of the patient rather than physician preferences.
+Table 1 Illustrates the range of LSMTs that may be withheld or withdrawn
+(Recommendations for end of life care, Troug et al, 2001)
+Therapeutic goal
+Circulatory
+haemostasis
+Respiratory
+haemostasis
+Renal
+haemostasis
+Neurologic
+haemostasis
+Treatment of
+infection,
+inflammation
+or neoplasm
+Nutritional
+haemostasis
+(artificial hydration
+and nutrition)
+“Routine”
+measures
+Therapy
+Cardiopulmonary resuscitation (CPR)
+Vasopressors & inotropic medication
+Transfusion of blood products, albumin, crystalloids
+Invasive pressure monitoring
+Mechanical ventilation
+Supplemental oxygen
+Artificial airway (endotracheal or tracheostomy tube,
+oropharyngeal airway)
+Extra Corporeal Membrane Oxygenation
+Haemodialysis
+Peritoneal dialysis
+Haemofiltration
+Cerebrospinal fluid drainage
+Intracranial pressure monitoring
+Hyperventilation techniques
+Steroids/mannitol
+Antibiotics, antifungal, antiviral medication
+Immunosuppressive/ anti-inflammatory medication
+Cytotoxic medication
+Radiation therapy
+Total parenteral nutrition
+Enteral (tube/ gastrostomy) feeding
+Intravenous fluids
+Frequent phlebotomy for laboratory tests
+Frequent vital sign measurements
+Radiologic examinations
+Aggressive chest physiotherapy and endotracheal
+suctioning
+Placement of intravenous and intra-arterial lines,
+urinary catheters
+4.
+Artificial nutrition and hydration: refers specifically to those techniques for
+providing nutrition or hydration that bypass the normal swallowing process. It
+is now accepted that providing nutrition and hydration via tube or intravenously
+constitutes a medical treatment (AAP guidelines, 1994). Evidence suggests
+that neither nutrition nor hydration in terminally ill patients increases the
+comfort or quality of life, and may in fact exacerbate discomfort and suffering
+(American Dietetic Association, 2002). In these situations the goal is to provide
+comfort, not adequate nutrition. Good practice should include moistening
+their mouths as necessary to keep them comfortable. There are three major
+categories in which it is ethically permissible to forgo artificial nutrition in
+children: neurological devastation, irreversible total intestinal failure and
+imminent death from any cause (Nelson, 1995). However, it is recognized
+that many health professionals and families are emotionally uncomfortable
+with forgoing artificial nutrition and hydration, on the premise that feeding
+children is the most basic aspect of care. Discussions with the family about
+the consequences of forgoing artificial nutrition and their beliefs and
+preferences are necessary. Informed and shared decision making is the best
+ethical practice, but respect for the opinion of the family is paramount.
+5.
+Brain death: Denotes the irreversible cessation of all functions of the brain,
+including the brain stem. There should be no confusion over the concept and
+definition of brain death - a child who is brain dead is dead. It is a legally
+defined state that does not require agreement or consent from the family
+(Report of Special Task Force (1987). Discontinuing technologic support for
+a brain dead patient is not an issue, and is distinctly different from the issues
+of withdrawing or withholding LMST in a patient who has an extremely poor
+prognosis for survival but does not meet the criteria for brain death.
+6.
+Palliative care: sometimes referred to as “end of life care”. When cure or
+recovery is no longer possible, the focus must shift to ensuring that the patient
+has a “good death”, with relief from pain and suffering. Both humanistic and
+technical skills are required to ensure that the needs of the child and family
+are met. However, patients and their families do not suddenly switch from the
+hope of survival to the acceptance of death and pursuit of comfort. This process
+occurs gradually over varying periods of time, ranging from hours to weeks,
+depending on the clinical situation. Similarly, forgoing LSMTs rarely happens
+all at once and is likewise a gradual process that parallels the shift in goals.
+It should be emphasized that palliative care and LSMT are not mutually
+exclusive options but rather coexistent.
+7.
+Futility: comes from the Latin word futilis meaning leaky. In Greek mythology,
+Aegyptus and Danaus were brothers. Aegyptus decided that his fifty sons
+would marry Danaus’ fifty daughters. Danaus, king of Argos, did not like the
+idea, so he told his daughters to kill their husbands on their wedding nights
+and supplied them with ruby tipped poisoned pins to stick into their hearts. All
+of the Danaides did so except one, who fell in love with her husband. The
+daughters who obeyed their father were condemned by Hades to draw water
+in leaky sieves. Needless to say, their labours went for naught. The story
+carries in all its fullness the meaning of the term, useless or incapable of
+being achieved, no matter how often repeated.
+8.
+‘Forego’ refers to both stopping a treatment already begun as well as not
+starting a treatment. There is no important ethical or legal distinction between
+not instituting a treatment and discontinuing treatment already initiated
+although many health care professionals feel reluctant to discontinue lifesustaining treatments (AAP guidelines, 1994).
+Appendix 2
+UNITED NATIONS CONVENTION ON THE RIGHTS OF THE CHILD
+The United Nations Convention on the Rights of the Child and the Malaysian Child
+Act 2001 defines a child as a person under the age of 18 years.
+Article 3 of the UN Convention on the Rights of the Child states that “all actions
+concerning children, whether undertaken by public or private social welfare
+institutions, courts of law, administrative authorities or legislative bodies, the best
+interests of the child shall be a primary consideration.” The child shall be provided
+the opportunity to be heard in any judicial and administrative proceedings affecting
+the child and his/her views be given due weight in accordance with the age and
+maturity of the child. Malaysia signed this convention on 28 December 1994 and
+ratified it with 12 reservations in February 1995.
+Appendix 3
+LEVELS OF EVIDENCE SCALE
+Study Design
+Level
+Strength of
+Evidence
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Good
+Good
+Good to Fair
+Good to Fair
+Fair
+Fair
+Poor
+Poor
+Poor
+Meta-analysis of RCT, Systematic review
+Large sample RCT
+Small sample RCT
+Non-randomised controlled prospective trial
+Non-randomised controlled prospective trial
+with historical control
+Cohort studies
+Case-control studies
+Non-controlled clinical series, descriptive
+studies multi-centre
+Expert committees, consensus, case reports
+anecdotes
+Adapted from Catalonian Agency for Health Technology Assessment & Research,
+(CAHTAR) Spain

@@ -1,0 +1,10 @@
+Flask
+Flask-Cors
+google-cloud-speech
+google-cloud-storage
+google-cloud-aiplatform
+vertexai
+python-dotenv
+numpy
+sentence-transformers
+einops

@@ -1,0 +1,24 @@
+.outline-gray-button-container {
+  display: flex;
+  position: relative;
+}
+ 
+.outline-gray-button-button {
+  color: var(--dl-color-secondary-500); /* Darker gray text */
+  background-color: #f0f0f0; /* Light gray background */
+  outline: none;
+  transition: all .15s ease-in;
+  padding-top: var(--dl-layout-space-triplequarterunit);
+  border-width: 0px; /* No border */
+  border-style: none;
+  border-color: transparent; /* No border color */
+  padding-left: var(--dl-layout-space-unitandahalfunit);
+  border-radius: 1.875rem;
+  padding-right: var(--dl-layout-space-unitandahalfunit);
+  padding-bottom: var(--dl-layout-space-triplequarterunit);
+}
+ 
+.outline-gray-button-button:hover {
+  cursor: pointer;
+  transform: scale(1.02);
+}

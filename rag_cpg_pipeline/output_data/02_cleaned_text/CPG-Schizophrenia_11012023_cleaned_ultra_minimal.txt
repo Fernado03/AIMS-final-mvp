@@ -1,0 +1,5048 @@
+MANAGEMENT OF
+2021
+MOH/P/PAK/467.21(GU)-e
+(SECOND EDITION)
+CLINICAL PRACTICE GUIDELINES
+Management of Schizophrenia (Second Edition)
+Published by:
+Malaysian Health Technology Assessment Section (MaHTAS)
+Medical Development Division, Ministry of Health Malaysia
+Level 4, Block E1, Precinct 1
+Federal Government Administrative Centre 62590
+Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is MaHTAS. Content may be
+reproduced in any number of copies and in any format or medium
+provided that a copyright acknowledgement to MaHTAS is included and
+the content is not changed, not sold, nor used to promote or endorse
+any product or service, and not used in an inappropriate or misleading
+context.
+e-ISBN: 978-967-2887-32-4
+Available on the following websites:
+http://www.moh.gov.my
+http://www.acadmed.org.my
+https://www.psychiatry-malaysia.org
+Also available as an app for Android and iOS platforms: MyMaHTAS
+STATEMENT OF INTENT
+These clinical practice guidelines (CPG) are meant to be guides for
+clinical practice, based on the best available evidence at the time of
+development. Adherence to these guidelines may not necessarily
+guarantee the best outcome in every case. Every healthcare provider is
+responsible for the management of his/her unique patient based on the
+clinical picture presented by the patient and the management options
+available locally.
+Management of Schizophrenia (Second Edition)
+UPDATING THE CPG
+These guidelines were issued in 2021 and will be reviewed in a
+minimum period of four years (2025) or sooner if new evidence
+becomes available. When it is due for updating, the Chairperson of
+the CPG or National Advisor of the related specialty will be informed. A
+discussion will be done on the need for a revision including the scope of
+the revised CPG. A multidisciplinary team will be formed, and the latest
+systematic review methodology used by MaHTAS will be employed.
+Every care is taken to ensure that this publication is correct in every
+detail at the time of publication. However, in the event of errors or
+omissions, corrections will be published in the web version of this
+document, which will be the definitive version at all times. This version
+can be found on the websites mentioned above.
+Management of Schizophrenia (Second Edition)
+TABLE OF CONTENTS
+No.
+Title
+Page
+Levels of Evidence and Formulation of Recommendation
+i
+Key Recommendations
+ii
+Guidelines Development and Objectives
+iv
+Development Group
+vii
+Review Committee
+viii
+External Reviewers
+ix
+Algorithm 1. Management of Schizophrenia
+x
+Algorithm 2. Pharmacotherapy for Schizophrenia
+xi
+1.
+INTRODUCTION
+1
+2.
+EARLY DETECTION AND REFERRAL
+3
+2.1 Risk Factors
+3
+2.2 Screening
+3
+2.3 Referral
+4
+3.
+ASSESSMENT AND DIAGNOSIS
+6
+3.1 Bio-psychosocial Assessment
+6
+3.2 Criteria of Diagnostic Classifications
+9
+4.
+TREATMENT
+11
+4.1 Pharmacological Intervention
+11
+4.1.1 Pharmacological agents
+11
+4.1.2 Rapid tranquillisation in acute exacerbation
+14
+4.1.3 Depot/long-acting injectable antipsychotics in
+16
+achieving remission
+4.1.4 Antipsychotics in relapse prevention
+17
+4.1.5 Intermittent treatment in relapse prevention
+18
+4.1.6 Treatment for extrapyramidal signs, sedation
+19
+and weight gain associated with antipsychotics
+4.2 Physical Intervention
+24
+4.2.1 Electroconvulsive therapy
+24
+4.2.2 Transcranial magnetic stimulation
+24
+4.2.3 Transcranial direct current stimulation
+24
+4.3 Psychosocial Intervention
+24
+4.3.1 Psychoeducation
+24
+4.3.2 Supported Employment
+26
+4.3.3 Cognitive Remediation Therapy
+26
+4.3.4 Social Skills Training
+27
+4.3.5 Peer Support Services
+28
+4.3.6 Family Therapy
+Management of Schizophrenia (Second Edition)
+TABLE OF CONTENTS
+No.
+Title
+Page
+4.3.7 Cognitive Behaviour Therapy
+29
+4.3.8 Supportive psychotherapy/Counselling
+30
+4.3.9 Others
+30
+5.
+SERVICE LEVEL INTERVENTION
+32
+5.1 Crisis and Emergency Service
+32
+5.2 Assertive Community Treatment
+33
+5.3 Intensive Case Management
+33
+5.4 Collaborative Community-based Service Intervention
+34
+5.5 Day Hospitalisation/Day Treatment
+35
+5.6 Residential Services
+35
+5.7 Early Intervention in Psychosis
+36
+6.
+TRADITIONAL AND COMPLEMENTARY MEDICINE
+38
+7.
+CHALLENGES IN MANAGEMENT
+39
+7.1 Treatment-Resistant Schizophrenia
+39
+7.1.1 Definition
+39
+7.1.2 Predictors
+39
+7.1.3 Treatment
+40
+7.2 Treatment in Special Population
+43
+7.2.1 Co-morbid substance use and
+43
+tobacco use disorders
+7.2.2 Pregnancy and breastfeeding
+45
+7.2.3 Suicide
+47
+7.3 Social issues
+49
+8.
+IMPLEMENTING THE GUIDELINES
+51
+8.1 Facilitating and Limiting Factors
+51
+8.2 Potential Resource Implications
+51
+REFERENCES
+53
+Appendix 1. Example of Search Strategy
+60
+Appendix 2. Clinical Questions
+61
+Appendix 3. Diagnostic Criteria for Schizophrenia (DSM-5)
+63
+Appendix 4. International Statistical Classification of Diseases 65
+and Related Health Problems, 10th Revision
+(ICD 10)
+Appendix 5. Dosing Regimen for Oral Antipsychotics
+67
+Appendix 6. Dosing Regimen for Depot Injections of
+70
+Antipsychotics
+Management of Schizophrenia (Second Edition)
+Appendix 7. Clozapine Initiation and Titration Regimen for
+73
+In-Patient
+Suggested Titration Regimen for
+74
+Clozapine Initiation in the Community
+Appendix 8. Monitoring Parameters for Antipsychotics
+76
+Appendix 9. Consensus Criteria for Assessment and
+79
+Definition of Treatment-Resistant Schizophrenia
+List of Abbreviations
+81
+Acknowledgement
+83
+Disclosure Statement
+83
+Source of Funding
+83
+TABLE OF CONTENTS
+No.
+Title
+Page
+Management of Schizophrenia (Second Edition)
+i
+LEVELS OF EVIDENCE
+SOURCE: US / CANADIAN PREVENTIVE SERVICES TASK FORCE 2001
+FORMULATION OF RECOMMENDATION
+In line with new development in CPG methodology, the CPG Unit of
+MaHTAS is adapting Grading Recommendations, Assessment,
+Development and Evaluation (GRADE) in its work process. The
+quality of each retrieved evidence and its effect size are carefully
+assessed/reviewed by the CPG Development Group. In formulating
+the recommendations, overall balances of the following aspects are
+considered in determining the strength of the recommendations:-
+• overall quality of evidence
+• balance of benefits versus harms
+• values and preferences
+• resource implications
+• equity, feasibility and acceptability
+In this CPG the word ‘should’ is used to reflect a strong recommendation
+and ‘may’ to reflect a weaker recommendation.
+Level
+I
+II-1
+II-2
+II-3
+III
+Study design
+Evidence from at least one properly randomised controlled trial
+Evidence obtained from well-designed controlled trials without
+randomisation
+Evidence obtained from well-designed cohort or case-control
+analytic studies, preferably from more than one centre or
+group
+Evidence from multiple time series with or without intervention;
+dramatic results in uncontrolled experiments (such as the
+results of the introduction of penicillin treatment in the 1940s)
+could also be regarded as this type of evidence
+Opinions of respected authorities based on clinical experience;
+descriptive studies and case reports; or reports of expert
+committees
+Management of Schizophrenia (Second Edition)
+ii
+KEY RECOMMENDATIONS
+The following recommendations are highlighted by the CPG
+Development Group as the key recommendations that answer the
+main questions addressed in the CPG and should be prioritised for
+implementation.
+REFERRAL
+• Early referral to psychiatric service should be considered for people
+with schizophrenia having diagnostic or treatment issues.
+ASSESSMENT AND DIAGNOSIS
+• People with possible schizophrenia should be assessed thoroughly
+by history taking, (self-report and collateral), physical examination,
+mental state examination and relevant investigations (if indicated).
+• Schizophrenia should be diagnosed using either Diagnostic and
+Statistical Manual of Mental Disorders, 5th Edition (DSM-5) or
+International Classification of Diseases and Related Health Problem
+10th Revision (ICD-10).
+TREATMENT
+a. Pharmacological intervention
+• Antipsychotics (APs) should be offered in schizophrenia as it is the
+mainstay of the treatment.
+• Treatment adherence should be regularly monitored and maximised
+until the termination of treatment is indicated in schizophrenia.
+• Long-acting (depot) injectable AP in schizophrenia:
+ should be offered when there is medication adherence issue
+ may be considered based on patient’s preference
+• APs should be offered to prevent relapse in schizophrenia.
+ Second-generation APs are the preferred choice.
+ Standard dose of APs should be considered as maintenance
+treatment.
+• Intermittent treatment using APs should be avoided in schizophrenia.
+b. Physical intervention
+• Electroconvulsive therapy may be considered in schizophrenia to
+achieve rapid and short-term improvement of severe symptoms
+after an adequate trial of AP is proven ineffective and in treatmentresistant schizophrenia.
+Management of Schizophrenia (Second Edition)
+iii
+c. Psychosocial intervention
+• Psychoeducation which includes early warning signs interventions
+should be given in addition to other interventions in schizophrenia.
+• Supported employment should be offered in schizophrenia.
+• Cognitive remediation therapy may be considered as an intervention
+for cognitive difficulties in schizophrenia.
+• The following may be offered in schizophrenia:
+ social skills training
+ peer support
+ family therapy
+ cognitive behaviour therapy for psychosis
+SERVICE LEVEL INTERVENTION
+• Crisis intervention services should be offered to people with
+schizophrenia in acute phase.
+• Assertive community treatment should be provided for people with
+schizophrenia who have difficulties engaging with the mental health
+services.
+• Intensive case management should be considered for people with
+schizophrenia who are at risk of treatment non-adherence.
+• Collaborative community-based service intervention may be offered
+for people with schizophrenia.
+• Early intervention in psychosis service should be provided for people
+with first episode of psychosis.
+TREATMENT OF TREATMENT-RESISTANT SCHIZOPHRENIA
+• Clozapine should be offered in treatment-resistant schizophrenia.
+CHALLENGES IN MANAGEMENT
+• People with schizophrenia and co-morbid substance use disorder
+should be referred to a psychiatric service for further management.
+• People with schizophrenia and smoking should be offered help with
+smoking cessation.
+• Pre-pregnancy care which includes counselling should be offered to
+all women in reproductive age with schizophrenia.
+• Multidisciplinary care should be offered in the management of
+pregnant women with schizophrenia.
+• Clozapine may be considered in schizophrenia with persistent
+suicidal risk.
+• Patient’s rights in schizophrenia should be included in the training of
+healthcare providers and family members.
+Management of Schizophrenia (Second Edition)
+iv
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+GUIDELINES DEVELOPMENT
+The members of the Development Group (DG) for these Clinical
+Practice Guidelines (CPG) were from the Ministry of Health (MoH)
+and Ministry of Higher Education. There was active involvement of a
+multidisciplinary Review Committee (RC) during the process of the
+CPG development.
+A systematic literature search was carried out using the following
+electronic databases: mainly Medline via Ovid and Cochrane Database
+of Systemic Reviews and others e.g. PubMed and Guidelines
+International Network (refer to Appendix 1 for Example of Search
+Strategy). The search was limited to literature published on humans,
+“all adults (19 plus years)”, publication from year “2009 to Current” and
+English language. In addition, the reference lists of all retrieved literature
+and guidelines were searched and, experts in the field contacted to
+identify relevant studies. All searches were conducted from 19 Nov
+2018 to 26 Feb 2019. Literature searches were repeated for all clinical
+questions at the end of the CPG development process allowing any
+relevant papers published before 30 June 2021 to be included. Future
+CPG updates will consider evidence published after this cut-off date.
+The details of the search strategy can be obtained upon request from
+the CPG Secretariat.
+References were also made to other CPGs on schizophrenia e.g.:
+• Practice Guideline for The Treatment of Patients with Schizophrenia
+(Third Edition) [The American Psychiatric Association (APA),
+2021]
+• Psychosis and Schizophrenia in Adults [National Institute for
+Health and Care Excellence (NICE), 2014]
+• Management of Schizophrenia [Scottish Intercollegiate Guidelines
+Network (SIGN), 2013]
+These CPGs were evaluated using the Appraisal of Guidelines for
+Research and Evaluation (AGREE) II prior to them being used as
+references.
+A total of 35 clinical questions (CQ) were developed under different
+sections. Members of the DG were assigned individual questions within
+these sections (refer to Appendix 2 for Clinical Questions). The DG
+members met 33 times throughout the development of these guidelines.
+All literature retrieved were appraised by at least two DG members using
+Critical Appraisal Skill Programme checklist, presented in evidence
+tables and further discussed at each DG meeting. All statements and
+recommendations formulated were agreed upon by both the DG and
+Management of Schizophrenia (Second Edition)
+v
+RC. Where evidence was insufficient, the recommendations were made
+by consensus of the DG and RC. This CPG was developed largely
+based on the findings of systematic reviews, meta-analyses and clinical
+trials, with local practices taken into consideration.
+The literature used in these guidelines were graded using the US/
+Canadian Preventive Services Task Force Level of Evidence (2001),
+while the grading of recommendation was done using the principles of
+GRADE (refer to the preceding page). The writing of the CPG follows
+strictly the requirement of AGREE II.
+On completion, the draft of the CPG was reviewed by external
+reviewers. It was also posted on the MoH Malaysia official website for
+feedback from any interested parties. The draft was finally presented
+to the Technical Advisory Committee for CPG and, the HTA and CPG
+Council MoH Malaysia for review and approval. Details on the CPG
+development methodology by MaHTAS can be obtained from Manual
+on Development and Implementation of Evidence-based Clinical
+Practice Guidelines published in 2015 (available at http://www.moh.
+gov.my/moh/resources/CPG_MANUAL_MAHTAS.pdf?mid=634).
+Management of Schizophrenia (Second Edition)
+vi
+OBJECTIVES
+The objectives of the CPG are to provide recommendations on the
+management of schizophrenia on following aspects:
+a) early detection and referral
+b) assessment and diagnosis
+c) treatment and follow-up
+d) challenges in management including special groups
+CLINICAL QUESTIONS
+Refer to Appendix 2.
+TARGET POPULATION
+Inclusion Criteria
+Adults (aged ≥18 years old) with a diagnosis of schizophrenia
+TARGET GROUP/USERS
+This document is intended to guide those involved in the management
+of schizophrenia at any healthcare level including:
+i. doctors
+ii. allied health professionals
+iii. trainees and medical students
+iv. patients and their advocates
+v. professional organisations
+HEALTHCARE SETTINGS
+Primary, secondary and tertiary care settings
+Management of Schizophrenia (Second Edition)
+vii
+DEVELOPMENT GROUP
+Chairperson
+Dr. Siti Nor Aizah Ahmad
+Senior Consultant Psychiatrist
+Hospital Pulau Pinang, Pulau Pinang
+Members (in alphabetical order)
+Dr. Ahmad Zabidin Zakaria
+Consultant Psychiatrist
+Hospital Pakar Sultanah Fatimah, Johor
+Dr. Hilwa Abdullah @ Mohd. Nor
+Senior Lecturer & Clinical Psychologist
+Universiti Kebangsaan Malaysia
+Selangor
+Dr. Izyan A. Wahab
+Senior Lecturer & Pharmacist
+Universiti Malaya, Kuala Lumpur
+Dr. Mohd Aminuddin Mohd Yusof
+Head of CPG Unit & Public Health Physician
+Malaysian Health Technology
+Assessment Section, Ministry of Health
+Putrajaya
+Prof. Dr. Muhammad Najib Mohamad Alwi
+Senior Lecturer & Consultant Psychiatrist
+International Medical School
+Management & Science University
+Selangor
+Ms. Nor Asmawati Mohamad Ali Abdul
+Rahman
+Medical Social Work Officer
+Hospital Umum Sarawak, Sarawak
+Ms. Norhameza Ahmad Badruddin
+Clinical Psychologist
+Hospital Permai, Johor
+Dr. Parveen Thanabalen
+Senior Principal Assistant Director
+Malaysian Health Technology Assessment
+Section, Ministry of Health, Putrajaya
+Dr. Ranimah Yahya
+Family Medicine Specialist
+Klinik Kesihatan Rahmat, Terengganu
+Associate Prof. Dr. Salina Mohamed
+Senior Lecturer & Consultant Psychiatrist
+Universiti Teknologi Mara, Selangor
+Dr. Sharifah Nurul Aida Syed Ghazaili
+Family Medicine Specialist
+Klinik Kesihatan Bestari Jaya, Selangor
+Dr. Siti Hazrah Selamat Din
+Consultant Psychiatrist (Community &
+Rehabilitation)
+Hospital Tuanku Ja’afar, Negeri Sembilan
+Dr. Suhaila Mohd Som
+Consultant Psychiatrist
+Hospital Permai, Johor
+Management of Schizophrenia (Second Edition)
+viii
+Dr. Abdul Kadir Abu Bakar
+Consultant Psychiatrist
+Gleneagles Hospital, Johor
+Datin Dr. Ang Kim Teng
+Secretary General
+Malaysia Mental Health Association
+Ms. Anita Abu Bakar
+President
+Mental Illness Awareness and Support
+Association
+Dr. Baizury Bashah
+Consultant Family Medicine Specialist
+Putrajaya
+Dr. Izzuna Mudla Mohamed Ghazali
+Deputy Director & Public Health Physician
+Malaysian Health Technology Assessment
+Section, Ministry of Health, Putrajaya
+Dr. Hazli Zakaria
+President
+Malaysia Psychiatric Association
+Ms. Noor Ratna Naharuddin
+Pharmacist
+Hospital Sultanah Aminah, Johor
+Dr. Noraini Darus
+Head of Clinical Psychology Services
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Norhayati Nordin
+Director & Senior Consultant Psychiatrist
+Hospital Bahagia Ulu Kinta, Perak
+Mr. Zulhan Ambi
+Head of Medical Social Work
+Hospital Kuala Lumpur, Kuala Lumpur
+REVIEW COMMITTEE
+The draft guidelines were reviewed by a panel of experts. They were
+asked to comment primarily on the comprehensiveness and accuracy
+of the interpretation of evidence supporting the recommendations in the
+guidelines.
+Chairperson
+Chairperson
+Professor Dr. Ahmad Hatim Sulaiman
+Head of Department & Consultant Psychiatrist
+Pusat Perubatan Universiti Malaya, Kuala Lumpur
+Members (in alphabetical order)
+Management of Schizophrenia (Second Edition)
+ix
+EXTERNAL REVIEWERS (in alphabetical order)
+The following external reviewers provided feedback on the draft:
+Mr. Abd Halim Jamil
+Head of Medical Social Work Profession
+Ministry of Health, Hospital Sultanah
+Aminah Johor
+Professor Dr. Alvin Lai Oon Ng
+Senior Lecturer & Consultant Psychologist
+Sunway University, Selangor
+Professor Dr. Chee Ng
+Healthscope Chair of Psychiatry
+University of Melbourne
+Melbourne, Australia
+Dr. Ganeshabala Thanabalen
+General Practitioner
+Kinta Medical Center, Ipoh, Perak
+Dr. Hassan Basri Mukhali
+Lecturer & Family Medicine Specialist
+Universiti Sultan Zainal Abidin
+Terengganu
+Assoc. Prof. Dr. Jamilah Hanum Abdul
+Khaiyom
+Assistant Professor & Clinical Psychologist
+Universiti Islam Antarabangsa Malaysia
+Kuala Lumpur
+Dato Seri Dr. Lau Keen Lee
+General Practitioner &
+President of Pertubuhan Sokongan
+Kesihatan Minda (MINDA), Johor
+Dr. Lim Chong Hum
+Consultant Psychiatrist &
+Clinical Epidemiologist
+Ramsay Sime Darby/ParkCity Medical Centre
+Selangor
+Professor Dr. Manit Srisurapanont
+Department of Psychiatry
+Faculty of Medicine, Chiang Mai University
+Chiang Mai, Thailand
+Assoc. Prof. Dr. Mohd. Pazudin Ismail
+Head of Department &
+Consultant Obstetrician & Gynaecologist
+Hospital Universiti Sains Malaysia
+Kelantan
+Mr. Muhammad Zairul Rezal Zainol Abidin
+Occupational Therapist
+Hospital Kuala Lumpur, Kuala Lumpur
+Assoc. Prof. Dr. Nik Ruzyanei Nik Jaafar
+Lecturer & Consultant Psychiatrist
+Hospital Canselor Tuanku Muhriz
+Kuala Lumpur
+Dr. Norizzati Bukhary Ismail Bukhary
+Consultant Family Medicine Specialist
+Klinik Kesihatan Bandar Baru Bangi
+Bandar Baru Bangi, Selangor
+Assoc. Prof. Dr. Roger Ho
+Senior Consultant Psychiatrist
+National University of Singapore &
+National University Health System
+Singapore
+Dr. Salina Abdul Aziz
+National Advisor for Psychiatry Service &
+Senior Consultant Psychiatrist
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Selvasingam Ratnasingam
+Consultant Child & Adolescent Psychiatrist
+Hospital Umum Sarawak, Sarawak
+Ms. Shamini Rama
+Pharmacist
+Hospital Raja Permaisuri Bainun, Perak
+Dr. Siobhan Gee
+Principal Pharmacist, South London &
+Maudsley NHS Foundation Trust &
+Honorary Senior Lecturer at King’s College
+London, London, United Kingdom
+Dr. Suresh Sundram
+Chair and Head of Department of Psychiatry
+& Director of Research, Mental Health
+Program, Monash University, Selangor
+Management of Schizophrenia (Second Edition)
+x
+ALGORITHM 1. MANAGEMENT OF SCHIZOPHRENIA
+No
+Yes
+No
+No
+Yes
+Acute phase/exacerbation
+Stable phase/relapse prevention
+Adequate
+response**
+Adequate
+response**
+Follow-up at
+health/psychiatric
+clinic
+AP
+= antipsychotic
+SGA = second-generation
+AP
+ACT = assertive community
+treatment
+EPS = extrapyramidal side
+Yes
+• Offer AP, preferably SGA***
+• Psychoeducation
+• Monitor clinical response,
+side effect & treatment
+adherence
+Refer to hospital with psychiatric services
+• Exclude substance use disorder,
+treatment non-adherence & co-
+morbidities
+• Optimise AP usage (adequate dose &
+duration)
+• Optimise psychosocial interventions
+• Rule out treatment-resistant
+schizophrenia
+• Offer AP, preferably SGA***
+• Psychoeducation
+• Monitor clinical response,
+side effect & treatment
+adherence
+• Plan for recovery (psychoeducation, ACT, family intervention, social skill
+training, cognitive remediation therapy and supported employment)
+• AP monotherapy; use depot when non-adherent
+• Monitor for clinical response, side effect & treatment adherence
+• Oral SGA if patient is
+cooperative*
+• Intramuscular haloperidol +
+parenteral benzodiazepine if
+patient is not cooperative*
+Need for rapid
+stabilisation
+Diagnosis of
+schizophrenia
+*Cases to be referred
+urgently to psychiatric
+services
+**Adequate response: A
+reduction in symptoms
+as a result of treatment
+that is associated with
+clinically significant
+benefit in functioning
+and/or quality of life
+***Prevention &
+management of side
+effect of AP at all phases
+• Monitor EPS/akathisia/
+weight gain/diabetes/
+cardiovascular disease/
+sexual dysfunction
+• Follow schedule of
+physical care
+Management of Schizophrenia (Second Edition)
+ALGORITHM 2. PHARMACOTHERAPY FOR SCHIZOPHRENIA
+xi
+Initial Phase
+Follow-Up Phase
+Yes
+No
+Yes
+No
+Psychiatric Service
+No
+Yes
+No
+No
+Yes
+Yes
+IR/SE
+present?
+IR/SE
+present?
+IR/SE
+present?
+IR/SE
+present?
+Augment
+clozapine with
+another AP for
+>8 - 10 weeks
+or ECT
+Start different
+AP for 6
+weeks
+Adequate
+response
+Relapse prevention
+management
+Start AP
+for 2 - 6
+weeks
+Diagnosis of
+schizophrenia
+IR/SE: Inadequate
+response or
+intolerable side
+effect
+In inadequate
+response, review
+diagnosis &
+consider
+co-morbidities
+AP
+= antipsychotic
+ECT = electroconvulsive
+therapy
+Primary/Secondary Care
+Psychiatric Services
+Primary/Secondary Care
+Persistent
+suicidal risk present?
+Start clozapine
+for >8 weeks
+Management of Schizophrenia (Second Edition)
+1. INTRODUCTION
+Schizophrenia is a term that describes a major psychiatric disorder
+that alters an individual’s perception, thought, affect and behaviour.
+Globally, it was ranked as the 11th leading cause of disability in 2013.1
+In the Second Report of the National Mental Health Registry on
+Schizophrenia in 2003 to 2005, the incidence rate of schizophrenia in
+Malaysia was stated as 5 cases/100,000 population/year. However, the
+expected rate was 100 cases/100,000 population/year and possible
+reasons for low reported incidence were delayed or under reporting and
+administrative reasons. The duration of untreated psychosis (DUP) was
+long with a mean of 28.7 months and longer among females. The clinical
+importance of DUP was that it was one of the few prognostic factors
+which can be altered through changes in health service delivery.2 This
+emphasises the value of early recognition and the necessity for early
+referral and intervention including during prodromal period.
+Although the prevalence of schizophrenia worldwide was low,3 its
+impact on health, social and economy are tremendous for patients,
+families/caregivers and society. In an economic evaluation in Malaysia,
+based on a total estimated number of treated cases of 15,104, the total
+economic burden of treatment for schizophrenia stood at USD100
+million which was equivalent to 0.04% of the national gross domestic
+product. On average, the mean cost per patient was USD6,594. Of
+the total economic burden, 72% was attributed to indirect cost (USD72
+million), followed by direct medical cost at 26% and the remaining on
+direct non-medical cost.4 This huge magnitude of this disease burden is
+vital for policymakers to prioritise service for schizophrenia.
+Worldwide, mental health services have experienced a series of
+paradigm shifts along with the development of medical technologies
+and the human rights movements where the services are delivered in
+the community.5; 6 The community-based mental health service takes
+into account the fact that people with schizophrenia face difficulties
+in essential issues e.g. employment, housing, and relationship
+with families and friends,6; 7 besides stigma and discrimination. Ideally,
+such service should include care and treatment delivered close to
+home.8, level III In Malaysia, efforts on integrating the care for mentally
+ill patients in the community have started since 1997 as outlined in
+the National Mental Health Policy.9; 10 Subsequently, the development
+of community mental health centre (CMHC) begun in 2011. CMHC,
+or Mentari as it is branded in Malaysia, is a centre for treatment and
+care of mental health that offers screening, diagnosis, treatment
+and rehabilitation of any person suffering from any mental disorder
+in accordance with the Mental Health Act 2001 and Mental Health
+Regulation 2010.11
+Management of Schizophrenia (Second Edition)
+The holistic management of schizophrenia encompasses biologicalpsychosocial-spiritual approach to various dysfunction domains
+i.e. positive symptoms, negative symptoms, cognitive dysfunction,
+mood symptoms and motor symptoms. Since the first edition of
+Management of Schizophrenia in Adults in 2009, numerous advances
+in the management of mental disorder have developed including
+treatment targeting those who are difficult to treat or have intolerable
+to medications and non-adherence to treatment. In this edition of CPG,
+more clinical questions were added to address the advances. New
+issues being addressed are screening, early intervention in psychosis,
+special population and social issues. The summary on management
+and pharmacotherapy of schizophrenia are illustrated in Algorithm 1
+and 2.
+Management of Schizophrenia (Second Edition)
+2. EARLY DETECTION AND REFERRAL
+2.1 Risk Factor
+Latest meta-analysis/systematic review showed significant risk factors
+for schizophrenia were:
+a. substance-induced
+psychoses
+associated
+with
+cannabis,
+hallucinogens and amphetamines had an increased risk of
+transition to schizophrenia12, level II-2
+b. increasing paternal age with RR ranging from 1.05 to 1.7913, level II-2
+c. most urban environment compared with most rural environment
+(OR=2.37, 95% CI 2.01 to 2.81)14, level II-2
+d. prenatal exposure to a range of infections and inflammatory
+responses may be a risk factor e.g. Herpes Simplex (HSV-2)
+with OR ranging from 1.5 to 1.8 and toxoplasma gondii (OR=1.79,
+95% CI 1.01 to 3.15)15, level II-2
+In a recent systemic review, there was a risk to develop schizophrenia
+in the offspring of mother with prenatal Toxoplasma gondii infection.
+Association with HSV-2 infection was likely due to confounding factor.
+In contrast, maternal influenza infection was a viable risk factor for
+schizophrenia.16, level III However, quality of the included primary papers
+were not mentioned.
+Other risk factors would include:
+• family history of schizophrenia17
+• history of obstetric complications e.g. pre-eclampsia and extreme
+prematurity17
+• cannabis use17
+• history of childhood central nervous system infection17
+• refugee and migrant status with HR of 2.90 (95% CI 2.31 to 3.64)
+and 1.75 (95% CI 1.51 to 2.02) respectively18, level II-2
+2.2 Screening
+A new 32-item self-rating screening tool (SPro) was developed for prepsychotic states. SCL-90-R-PARA/PSYC was generated based on
+“Paranoid Ideation” (PARA) and “Psychoticism” (PSYC) subscales of
+Symptom-Checklist-90-Revised (SCL-90-R) to explore psychosis-like
+symptoms. A study examining predictive validity of SPro against SCL90-R-PARA/PSYC on military men showed an AUC of 0.74 (95% CI
+0.65 to 0.84).19, level III
+In another study on preliminary validity of the brief version self-report
+Prodromal Questionnaire (PQ-B) among adolescents and young adults
+at two prodromal psychosis research clinics showed good validity of
+prodromal psychosis syndromes (AUC=0.78, 95% CI 0.70 to 0.84).20, level III
+Management of Schizophrenia (Second Edition)
+A two-stage study to screen relatives of people with schizophrenia
+and general individuals for sub-threshold psychosis used Screening
+Questionnaire (SQ) and General Health Questionnaires-12 (GHQ-12)
+in the initial stage. Those who screened positive were reassessed using
+the Comprehensive Assessment of At-Risk Mental State in the second
+stage. Of 29% people initially screened positive by both SQ and GHQ-12,
+only 4% were positive after final assessment. These indicated that both
+SQ and GHQ-12 were not suitable for screening early psychosis.21, level III
+• More evidence is warranted before screening tools for pre-psychosis
+in schizophrenia can be recommended.
+• Prodromal phase is characterised by impairments in psychosocial
+functioning, odd and eccentric behaviour, poor communication
+and motivation, blunted or flattened affect and neglect of personal
+hygiene.
+• People with risk factors* in developing schizophrenia and with
+prodromal symptoms may require further assessment to rule out
+schizophrenia; this may be repeated if indicated over time.
+*refer to Subchapter 2.1
+2.3 Referral
+Since the integration of mental health care into the primary care
+services in 1996,10 most health facilities in Malaysia are able to provide
+mental health services that focus on mental health promotion and
+provide early detection and treatment for people with mental disorders.
+These facilities include the primary care clinics (both in the government
+and private sectors) and the district hospitals. The integration program
+underlines the importance of both the primary and tertiary centres
+working together to create a seamless pathway for people with mental
+illness in receiving care.
+• For people with schizophrenia treated in primary care, early
+referral to psychiatric service should be considered in the following
+circumstances:17; 22
+ presence of prodromal or attenuated symptoms
+ unclear diagnosis
+ plan for psychosocial rehabilitation
+ treatment adherence issues
+ poor response to treatment
+ potential violent behaviour to self or others
+ intolerable side effects from medication
+ co-morbid substance use disorder
+ special group e.g. pregnancy, paediatric and geriatric age
+Management of Schizophrenia (Second Edition)
+For group of people at high risk of developing psychosis, emerging
+practices advocate that they should be referred for mental health
+assessment preferably to the early intervention services, e.g. person in
+distress with declining social function plus any of the following:22
+• transient or attenuated psychotic symptoms
+• experiences or behaviour suggestive of possible psychosis
+• a first-degree relative with psychosis or schizophrenia
+Recommendation 1
+• Early referral to psychiatric service should be considered for people
+with schizophrenia having diagnostic or treatment issues*.
+*refer to the preceding yellow box
+In addition to the primary care clinics, the Community Mental Health
+Centres or Mentari also plays a role in screening and early intervention
+in mental illness including schizophrenia. Mentari offers walk-in services
+where people in the community who have symptoms of mental illness
+can visit nearby Mentari to have assessment done on them.17
+Management of Schizophrenia (Second Edition)
+3. ASSESSMENT AND DIAGNOSIS
+3.1 Bio-Psychosocial Assessment
+Bio-psychosocial assessment is essential in the diagnosis of
+schizophrenia. Established tools e.g. Mini International Neuropsychiatric
+Interview (MINI) and Structured Clinical Interview for DSM Disorders
+(SCID) are used for diagnosis, while Brief Psychiatric Rating Scales
+(BPRS) and Positive and Negative Symptoms Scale for Schizophrenia
+(PANSS) are performed for severity assessment. It can be used in both
+primary and secondary/tertiary care.
+In two cross-sectional studies, Structured Clinical Interview for
+DSM-5 Disorders-Clinician Version (SCID-5-CV) showed κ value
+of >0.8 for diagnosis of schizophrenia with sensitivity and specificity
+>0.70.23 - 24, level III
+New evidence on assessments for people with schizophrenia are
+discussed below:
+• A small cross-sectional study showed Self-evaluation of Negative
+Symptoms had excellent psychometric properties in measuring the
+symptoms (Cronbach’s α of 0.867 at baseline and 0.897 at 4 - 8
+weeks).25, level III
+• The 4-item Negative Symptom Assessment (NSA-4) on speech
+quantity, emotion, social drive and interest was effective in rapidly
+assessing negative symptoms in people with schizophrenia. It
+was not affected by geographic regions of practice, professional
+credentialing or their familiarity with the use of schizophrenia
+symptom rating instruments.26, level III
+• A small validation study demonstrated that Personal and Social
+Performance (PSP) scale was significantly correlated with other
+similar functioning measures such as PANSS, Global Assessment
+of Functioning (GAF), Quality of Life Scale (QLS) and Clinical
+Global Impression Scale (CGI-S) with r of -0.31, 0.35, 0.37 and
+-0.27 respectively for construct validity at baseline. A stronger
+correlation between PSP and CGI-S at follow-up was noted with
+r= -0.60 in test-retest reliability.27, level III In another study on those with
+acute symptoms, PSP had good interclass reliability of 0.87. The
+correlations between baseline severity based on PANSS and CGI-S
+with PSP were also significant.28, level I
+• Among neurocognitive assessments, the Brief Cognitive Assessment
+Tool for Schizophrenia (B-CATS) had an administration time
+of approximately 10 minutes. It correlated significantly (r=0.76)
+with widely used neurocognitive battery i.e. the Measurement
+and Treatment Research to Improve Cognition in Schizophrenia
+(MATRICS).29, level III
+Management of Schizophrenia (Second Edition)
+• In a large multicentre validation study in people with schizophrenia,
+Brief Negative Symptom Scale showed excellent internal consistency
+(Cronbach’s α=0.94), strong correlation with the PANSS negative
+subscale score (ρ=0.76) but weak correlations with the PANSS
+positive subscale (ρ=0.21) and Calgary Depression Rating Scale for
+schizophrenia (CDSS) total score (ρ=0.27).30, level III
+Besides the above assessments, the self-administered WHO Disability
+Assessment Schedule II (WHODAS 2.0) has been used for assessing
+health status and disability in people with schizophrenia and mentally
+ill patients.31, level III
+Assessment of people with possible schizophrenia consists of
+thorough history taking (collaborative history from patient/family/
+caregiver), physical examination, mental state examination (MSE) and
+investigations where indicated. This is summarised in Table 1.
+Table 1. Initial Psychiatric Assessment
+History taking
+Reason for current visit
+Current symptom
+Precipitating factor
+Hospitalisation and emergency visit for psychiatric
+issues including substances abuse
+Psychiatric treatment including type and duration,
+treatment setting, dose of medication and, response and
+adherence to treatment
+Prior psychiatric diagnosis and symptom including
+hallucination, delusion, negative symptom, aggressive
+idea or behaviour, suicidal idea or attempt, impulsivity
+Tobacco, alcohol or illicit substance
+Recent or current substance use
+Allergy or drug sensitivity
+All current medication use and side effect including
+non-prescribed medication or supplement
+Current or past medical/surgical illness including related
+hospitalisation e.g.
+• endocrine disease e. g. diabetes mellitus, thyroid
+disorder
+• cardiovascular disease e.g. hypertension
+• dyslipidemia
+• neurological disease
+• connective tissue disease e.g. systemic lupus
+erythematosus
+• infectious disease e.g. human immunodeficiency
+virus, tuberculosis, sexually transmitted infections
+• malignancy
+• physical trauma or head injury
+Traditional and complementary medicine
+History of present
+illness
+Past psychiatric
+history
+Substance use
+history
+Medical history
+Management of Schizophrenia (Second Edition)
+History of mental illness including history of suicidal or
+aggressive behaviour
+Presence of psychosocial stressors e.g. financial,
+housing,
+legal,
+school/occupation,
+interpersonal
+relationship, social support, disfiguring or terminal
+illness
+Exposure to physical, sexual or emotional trauma or
+childhood abuse
+Temperament, stress management, interest or hobby,
+relationship, beliefs and personality traits. These include
+highest and current level of functioning/education/
+vocation, interpersonal relationships and independent
+living
+Full physical examination including height, weight and
+body mass index (BMI), vital signs, cardiovascular and
+neurological examinations
+• Level of consciousness
+• General
+appearance
+-
+body
+build,
+posture,
+cleanliness, dressing, evidence of weight loss,
+self-harm
+• Face - eye contact, emotional expression
+• Posture and movement - posture of depressed or
+anxious person, agitated, restless, biting nails etc.
+• Motor - fast or slow movement, choreoathetosis,
+tardive dyskinesia, dystonias, abnormal movement
+(e.g. grimacing, echopraxia, tics, mannerism/
+stereotyped movement)
+• Attitude to examination and social behaviour - friendly,
+hostile, suspicious
+• Production - spontaneity, speed (pressured or
+retarded), loudness, quantity, tone, quality (dysarthria)
+• Forms - neologism, punning and clang associations,
+expressive dysphasia
+• Content - obscene words, poor fluency (shyness, poor
+education, thought disorder or circumstantiality,
+receptive
+dysphasia,
+echolalia,
+perseveration),
+coherence, relevance
+• Mood (by asking the patient about predominant mood
+or subjective mood) - euthymic, depressed, elevated
+• Affect (by observation of the expression or objective
+mood) - types (anxious, sad, happy, angry, euphoria,
+elation), range (broad, restricted, blunted, flat),
+stability/lability (labile, non-labile), appropriateness/
+congruity (congruent/incongruent)
+Family history
+Social history
+Pre-morbid
+personality
+Physical
+examination
+MSE
+Appearance and
+behaviour
+Speech
+Mood and affect
+Management of Schizophrenia (Second Edition)
+Adapted from: Keepers GA, Fochtmann LJ, Anzia JM, et al. The American Psychiatric
+Association Practice Guideline for the Treatment of Patients With
+Schizophrenia. Am J Psychiatry. 2020:1;177(9):868-872.
+To date, there is no evidence found on biological assessment for
+schizophrenia. Nevertheless, relevant investigations should be
+performed if a medical condition is suspected.
+3.2 Criteria of Diagnostic Classifications
+The diagnosis and classification of schizophrenia is important and
+based on Diagnostic and Statistical Manual of Mental Disorders,
+5th Edition (DSM-5) or International Classification of Diseases and
+Related Health Problem 10th Revision (ICD-10). Refer to Appendix 3
+on Diagnostic Criteria for Schizophrenia:(DSM-5) and Appendix 4
+on International Statistical Classification of Diseases and Related
+Health Problems, 10th Revision (ICD 10).
+Abnormal thought content - delusional, non-delusional
+a. Delusion
+• primary delusion (delusional mood, delusional
+perception, autochthonous delusion)
+• possession
+of
+thought
+(thought
+withdrawal,
+insertion, broadcast)
+• passivity phenomena (experience of action,
+thought, feeling under control)
+• theme/content (persecutory, grandiose, nihilistic,
+somatic)
+• secondary
+delusion
+(mood
+congruence/
+incongruence)
+b. Non-delusional
+• phobia, obsession, suicidal ideation
+Abnormal thought form
+• fluency
+(circumstantiality,
+loosening
+of
+associations)
+• flow (pressured, poverty of thought, thought
+blocking, perseveration, derailment, tangential,
+flight of idea)
+• word (punning, neologism)
+Suicidal thought
+Homicidal thought
+• Hallucination - auditory, visual, olfactory, gustatory,
+tactile
+• Illusion
+• Pseudo-hallucination
+• Depersonalisation, derealisation
+Orientation/memory/attention and concentration/abstract
+thinking/general knowledge
+Patient’s recognition of consequences of action
+Patient’s awareness and understanding of illness and
+need for treatment
+Thought
+disturbances
+Perceptual
+disturbance
+Cognitive
+function
+Judgement
+Insight
+Management of Schizophrenia (Second Edition)
+The ICD-11 was released on June 18, 2018 and was officially presented
+at the World Health Assembly in May 25, 2019. It will be used as the
+official reporting system by member states on January 1, 2022.
+Issues arise on the sufficiency of current ICD-10 or DSM-5 on
+therapeutic and prognostic management of schizophrenia. The stability
+of the diagnostic criteria are as below.
+• A large randomised controlled trial (RCT) on second-generation
+antipsychotic (SGA) in acute schizophrenia showed 99.5%
+of the patients with DSM-IV met DSM-5 diagnostic criteria for
+schizophrenia.32, level I
+• In a small prevalence study on individuals with DSM-IV schizophrenia,
+DSM-5 changes in criteria A showed a negligible effect on the
+prevalence of schizophrenia as over 98% of individuals continued to
+receive a DSM-5 diagnosis of schizophrenia.33, level III
+• A meta-analysis of 42 studies showed a high diagnostic stability in
+schizophrenia spectrum using either DSM-IV or ICD-10.34, level II-2
+In a Cochrane systematic review of 21 studies of old and limited
+qualities, first rank symptoms correctly identified schizophrenia 75% to
+95% of the time.35, level III
+• Disease severity is assessed based on presenting psychopathology
+and risk assessment (risk to self and/or others). The psychopathology
+may be assessed using the severity scale e.g. PANSS or BPRS by
+trained personnel.
+Recommendation 2
+• People with possible schizophrenia should be assessed thoroughly
+by history taking (self-report and collateral), physical examination,
+mental state examination and relevant investigations (if indicated).
+• Schizophrenia should be diagnosed using either Diagnostic and
+Statistical Manual of Mental Disorders, 5th Edition (DSM-5) or
+International Classification of Diseases and Related Health Problem
+10th Revision (ICD-10).
+Management of Schizophrenia (Second Edition)
+4. TREATMENT
+The modalities of treatment in schizophrenia are:
+• pharmacological intervention
+• physical intervention
+• psychosocial intervention
+• service level intervention
+These are offered both in acute and relapse prevention phases.
+People with schizophrenia who present early and for the first time at
+primary care should be provided with the following:17
+• assessment and early treatment
+• early referral to specialist care in the following circumstances
+(refer to Subchapter 2.3)
+• initial treatment and urgent referral in the acutely-ill cases
+• collaboration with hospital-based psychiatric services
+• registration of cases at health clinics and the National Mental
+Health Registry
+• Current available guidelines for mental health services in primary
+care:
+ Garispanduan Perkhidmatan Rawatan Susulan Pesakit Mental di
+Klinik Kesihatan 2009
+ Garispanduan Pelaksanaan Perkhidmatan Pemulihan Psikososial
+Bagi Pesakit Mental Di Penjagaan Kesihatan Primer 2000
+4.1 Pharmacological Intervention
+Antipsychotics (APs) treat the symptoms of schizophrenia. Since the
+discovery of chlorpromazine in 1952, APs remain the cornerstone of
+schizophrenia treatment in both acute as well as maintenance phases.
+They generally can be classified as first-generation APs (FGA) and
+second-generation APs (SGA). The FGAs derive their effect on positive
+symptoms by predominantly blocking the dopamine 2 (D2) receptors,
+which often results in debilitating extrapyramidal side effects (EPS).
+The SGAs are however more versatile and act by blocking other
+subtype dopamine receptors (e.g. clozapine blocks D1 and D4) as well
+as serotonergic, adrenergic and histaminergic receptors. SGAs tend to
+cause more metabolic issues.
+Although there may be meaningful distinctions in clinical response and
+tolerability of different APs in an individual patient, there is no definitive
+evidence that one AP is superior to another, with the possible exception
+of clozapine.
+Management of Schizophrenia (Second Edition)
+It is essential for clinicians to discuss with the patients on the best
+possible medication for them in terms of both effectiveness and
+tolerability and, develop a dosing regimen that will minimise the impact
+of side effects on daily functions. Their previous experiences with
+medication should also be considered. An evidence-based ranking
+of FGAs and SGAs or an algorithmic approach to AP selection is not
+possible because of the significant heterogeneity in clinical trial designs
+and, limited numbers of head-to-head comparisons of APs and clinical
+trial data for a number of APs.36
+The APs registered in Malaysia, either in oral, intramuscular (IM) or
+long-acting injectable (LAI) depot IM preparations in alphabetical orders
+are listed below:
+In the treatment of acute phase of schizophrenia, the recommended
+optimal oral dose of AP is two or three times minimum effective dose
+(MED) [(RR for 2-fold MED is 1.24 (95% CI 1.00 to 1.54) and for 3-fold
+MED is 1.44 (95% CI 1.10 to 1.89)] and adverse effects (AEs) should
+be closely monitored.37, level I In relapse prevention, the standard doses
+should be used.17 APs should be used for at least 6 - 8 weeks with
+adequate dosage before switching to other APs.38, level III The CPG DG
+opines that 2 - 6 weeks duration of APs should be used to assess
+response in schizophrenia.
+Refer to:
+i. Appendix 5 (Dosing Regimen for Oral Antipsychotics) and
+Appendix 6 (Dosing Regimen for Depot Injections of Antipsychotics)
+ii. Table 2 (Relative AEs of APs) and Table 3 (Common AEs of APs
+and their management strategies)
+iii. Appendix 8 on Monitoring Parameters for Antipsychotics
+4.1.1
+Pharmacological agents
+In a meta-analysis of 20 RCTs on people with schizophrenia with
+follow-up from 5 to 14 years, those on any APs had lower mortality risk
+• Chlorpromazine
+• Flupenthixol
+• Fluphenazine
+• Haloperidol
+• Perphenazine
+• Sulpiride
+• Trifluoperazine
+• Zuclopenthixol
+• Amisulpride
+• Aripiprazole
+• Asenapine
+• Brexpiprazole
+• Cariprazine
+• Clozapine
+• Olanzapine
+• Paliperidone
+• Quetiapine
+• Risperidone
+• Ziprasidone
+FGAs
+SGAs
+Management of Schizophrenia (Second Edition)
+compared with those without the treatment (RR=0.57, 95% Cl 0.46 to
+0.76). Causes of death reported were cardiovascular disease in 15.7%
+and suicide in 6.7%. The remaining causes were described as other
+natural, unnatural or undetermined. However, reasons for the increased
+risk of death for those without APs requires further research. Quality of
+the primary studies was variable but most scored as moderate.39, level I
+A network meta-analysis on schizophrenia showed that APs reduced
+overall symptoms compared with placebo, with SMD ranging from -0.89
+(95% CrI -1.08 to -0.71) for clozapine to -0.03 (95% CrI -0.59 to 0.52)
+for levomepromazine. The effectiveness differences between APs were
+mostly small. Only clozapine, amisulpride, zotepine, olanzapine and
+risperidone were significantly more effective for the primary outcome
+(change in overall symptoms) than other APs. With regard to side
+effects:40, level I
+• the RR for sedation ranged from 0.92 (95% CrI 0.17 to 2.03) for
+pimozide to 10.20 (95% CrI 4.72 to 29.41) for zuclopenthixol
+• the MD for weight gain ranged from -0.16 kg (-0.73 to 0.40) for
+ziprasidone to 3.21 kg (2.10 to 4.31) for zotepine
+• the MD for prolactin elevation ranged from -77.05 ng/mL (-120.23
+to -33.54) for clozapine to 48.51 ng/mL (43.52 to 53.51) for
+paliperidone
+• the MD for QTc prolongation ranged from -2.21 ms (-4.54 to 0.15)
+for lurasidone to 23.90 ms (20.56 to 27.33) for sertindole
+In addition, the RR on the use of antiparkinsonian medication as a
+measure of EPS ranged from 0.46 (0.19 to 0.88) for clozapine to 6.14
+(4.81 to 6.55) for pimozide. The certainty of the evidence in this network
+meta-analysis was generally low.
+In a Cochrane systematic review, AP combination may improve clinical
+response compared with AP monotherapy in schizophrenia (RR=0.73,
+95% CI 0.64 to 0.83). There was no significant difference in relapse
+(RR=0.63, 95% CI 0.31 to 1.29) and rate of hospitalisation (RR=0.96,
+95% CI 0.36 to 2.55). There was also no significant difference for
+serious AEs, movement disorders and weight gain. Most evidence was
+from short-term trials and graded very low in quality.41, level I
+In a network meta-analysis of 19 RCTs on acute treatment in first
+episode of schizophrenia:42, level I
+• for overall reduction of symptoms, amisulpride (SMD= -0.37, 95%
+CI -0.61 to -0.14), olanzapine (SMD= -0.25, 95% CI -0.39 to -0.12),
+ziprasidone (SMD= -0.25, 95% CI -0.48 to -0.01) and risperidone
+(SMD= -0.14, 95% CI -0.27 to -0.01) were more effective than
+haloperidol
+• in improvement of negative symptoms, olanzapine was more
+effective than risperidone (SMD= 0.20, 95% CI 0.03 to 0.37) and
+haloperidol (SMD= 0.31, 95% CI 0.13 to 0.48)
+Management of Schizophrenia (Second Edition)
+• in treatment of parkinsonism,
+ olanzapine showed less frequent use of drugs compared with
+haloperidol (OR=0.10, 95% CI 0.03 to 0.29), zuclopenthixol
+(OR=0.02, 95% CI 0.00 to 0.37) and risperidone (OR=0.24,
+95% CI 0.07 to 0.78)
+ quetiapine showed less frequent use of drugs compared with
+haloperidol (OR=0.10, 95% CI 0.01 to 0.75) and zuclopenthixol
+(OR=0.02, 95% CI 0.00 to 0.66)
+• haloperidol showed less weight gain compared with olanzapine
+(SMD=0.63, 95% CI 0.11 to 1.16)
+The primary evidence was of very low to moderate quality.
+There was no RCT found on the use of depot AP on first episode of
+schizophrenia.
+• APs are the mainstay of pharmacological treatment in schizophrenia.
+• There is small difference in effectiveness between APs except for
+clozapine.
+• All APs are different in their side effects profiles.
+• Reasons to switch include lack of clinical response, intolerability and
+drug interaction.
+• The choice of APs mainly depends on their differences in side-effect
+profiles.
+• APs should be used for at least 1 - 2 years for the first episode and
+for a longer duration in those with chronic schizophrenia.
+• If AP is to be withdrawn, it should be done gradually whilst symptoms
+of potential relapse are monitored for at least two years.
+• There is limited evidence in using combination APs.
+Recommendation 3
+• Antipsychotics should be offered in schizophrenia as it is the mainstay
+of the treatment.
+4.1.2
+Rapid tranquillisation in acute exacerbation
+In rapid tranquillisation, medications are used to calm the patient and
+not to induce sleep, so that he/she can be more accurately assessed
+by healthcare providers when stable. The medications commonly used
+are FGA, SGA and benzodiazepines. Side effects should be anticipated
+and antidotes should be readily available. The choice of medication
+depends on the underlying cause of the aggression.43
+Parenteral [intramuscular (IM) or intravenous (IV)] medications are
+used during acute exacerbation of schizophrenia to stabilise the
+aggressiveness of the patients. Evidence supporting the effectiveness
+and safety of this clinical practice is as follows:
+Management of Schizophrenia (Second Edition)
+• A meta-analysis of 167 RCTs showed that APs were more effective
+than placebo in reducing positive symptoms (SMD=0.45, 95% CI
+0.40 to 0.50) and negative symptoms (SMD=0.35, 95% CI 0.31
+to 0.40). However, they had more movement disorders (RR=1.93,
+95% CI 1.65 to 2.29), sedation (RR=2.80, 95% CI 2.30 to 3.55) and
+weight gain (SMD= -0.40, 95% CI -0.47 to -0.33).44, level I
+• In a Cochrane systematic review, IM aripiprazole:45, level I
+ prevented the need of additional injection to achieve tranquilisation
+by 31% compared with placebo at 24 hours (RR=0.69, 95%
+CI 0.56 to 0.85); in addition, it was more effective in reducing
+agitation in two hours (RR=1.50, 95% CI 1.17 to 1.92)
+ showed no difference with IM haloperidol in the need of additional
+injection to achieve tranquilisation and reducing agitation in two
+hours
+ was less effective in reducing agitation in two hours compared
+with IM olanzapine (RR=0.77, 95% CI 0.60 to 0.99)
+ showed no difference in adverse effects with placebo, IM
+haloperidol and IM olanzapine
+The primary evidence was of very low quality. IM olanzapine is not
+available in Malaysia.
+• In another Cochrane systematic review, IM haloperidol compared
+with placebo:46, level I
+ prevented non-tranquillisation by 12% at two hours (RR=0.88,
+95% CI 0.82 to 0.95)
+ reduced the need of repeated injection by 49% at 24 hours
+(RR=0.51, 95% CI 0.42 to 0.62)
+ was more effective in reducing agitation in two hours (RR=1.62,
+95% CI 1.28 to 2.07)
+ had more overall adverse events at 72 hours (RR=1.78, 95% CI
+1.23 to 2.59)
+The primary papers were mainly on schizophrenia and of very low
+quality.
+• In an RCT, oral haloperidol 15 mg, olanzapine 20 mg and risperidone
+2 - 6 mg improved PANSS psychotic agitation subscale score
+significantly as early as two hours from baseline and sustained
+until day five in acute severe psychotic agitation in schizophrenia.
+However there was no difference between the three medications.47, level I
+• NICE recommends IM haloperidol combined with promethazine for
+rapid tranquillisation in adults.22
+• In the previous MoH CPG, IM preparations recommended for rapid
+tranquillisation are lorazepam, midazolam, haloperidol, olanzapine,
+ziprasidone and zuclopenthixol acetate. Wherever possible, a single
+agent is preferred. When rapid tranquillisation is urgently needed,
+a combination of IM haloperidol plus lorazepam or promethazine
+should be considered.17
+Management of Schizophrenia (Second Edition)
+• If patient is cooperative, oral medications e.g. olanzapine or
+risperidone is preferred.
+• If patient is uncooperative, parenteral medications e.g. IM haloperidol
+and IM midazolam or IV diazepam can be used.
+4.1.3
+Depot/long-acting injectable antipsychotics in achieving
+remission
+Treatment adherence is a widely recognised problem in schizophrenia
+but knowledge on improving it is still limited. About 50 - 70% of people
+with schizophrenia had treatment non-adherence which includes
+failure to enter a treatment programme, default outpatient clinic
+appointments and incomplete implementation of instructions (including
+prescriptions).17; 22 Clinically effective management will result in low
+non-adherence rate. Studies have shown that non-adherence in
+psychiatric patients resulted in high morbidity and mortality.
+In a prospective cohort study, clinic defaulters had lower social
+functioning and more severe mental disorder e.g. schizophrenia than
+those who attended the clinic. Patients who missed their appointment
+more than 12 months were more likely to have been admitted than
+clinic attendees.48, level II-2
+Depot or LAI APs may be considered based on patient’s preference or
+when there is medication adherence issue for maintenance treatment
+in schizophrenia.22; 36; 49 Available such preparations in Malaysia are:
+• fluphenazine decanoate
+• flupenthixol decanoate
+• zuclopenthixol decanoate
+• risperidone microspheres
+• paliperidone palmitate
+• aripiprazole
+A meta-analysis of five RCTs showed that depot AAPs had higher
+remission rate than oral AAPs for follow-up lasting ≥1 year (RR=1.42,
+95% CI 1.18 to 1.71). However, extrapyramidal symptoms (RR=1.61,
+95% CI 1.27 to 2.04) and prolactin-related adverse effects (RR=2.48,
+95% CI 1.60 to 3.84) occurred more frequently in the depot
+preparation.50, level I The primary evidence was of moderate to high
+quality.
+A cross-sectional study showed that 17.6% of psychiatrists had initiated
+depot APs for people with schizophrenia having non-adherence issues.
+The initiation was significantly and positively associated with public
+insurance, prior inpatient admission, longer duration of non-adherence,
+average or above average intellectual functioning and living in a mental
+health residence. The use of depot was inversely associated with
+Management of Schizophrenia (Second Edition)
+SGA and other oral psychotropic medications prior to medication nonadherence.51, level III
+Recommendation 4
+• Treatment adherence should be regularly monitored and maximised
+until the termination of treatment is indicated in schizophrenia.
+• Long-acting (depot) injectable antipsychotic in schizophrenia:
+ should be offered when there is medication adherence issue
+ may be considered based on patient’s preference
+4.1.4
+Antipsychotics in relapse prevention
+In a large Cochrane systematic review of 75 RCTs, APs were better than
+placebo in preventing relapse in schizophrenia at 12 months (RR=0.38,
+95% CI 0.32 to 0.45; NNTB=3). Furthermore, they also:52, level I
+• reduced hospitalisation (RR=0.43 95% CI 0.32 to 0.57; NNTB=8)
+• lessen aggressive behaviour (RR=0.35, 95% CI 0.19 to 0.66;
+NNTB=50)
+• improved quality of life (QoL) (SMD= -0.32, 95% CI -0.57 to -0.07)
+However, they increased movement disorders (RR=1.52, 95% CI 1.25
+to 1.85; NNTH=20), sedation (RR=1.52, 95% CI 1.24 to 1.86) and
+weight gain (RR=1.69, 95% CI 1.21 to 2.35; NNTH=25). The evidence
+for relapse prevention and hospitalisation were of high quality.
+A meta-analysis showed that SGA was more effective than FGA in
+preventing relapse in schizophrenia (RR=0.80, 95% CI 0.70 to 0.91;
+NNT=17).53, level I There was no quality assessment of primary paper
+mentioned. However, in the recent Cochrane systematic review,
+subgroup analysis found no significant difference in reduction of relapse
+risk in schizophrenia between FGA (RR=0.35, 95% CI 0.25 to 0.48) and
+SGA (RR=0.39, 95% CI 0.32 to 0.48).52, level I
+In a network meta-analysis on schizophrenia, olanzapine was more
+effective than chlorpromazine (OR=0.35, 95% CI 0.14 to 0.88) and
+haloperidol (OR=0.50, 95% CI 0.30 to 0.82) in reducing relapses. The
+primary papers were of moderate quality.54, level I
+In another meta-analysis, studies before 1991 which were exclusively
+on long-acting injection (LAI) fluphenazine showed that the medication
+was more effective in preventing relapse compared with oral FGA in
+schizophrenia (RR=0.79, 95% CI 0.65 to 0.96). There was no difference
+in effectiveness between SGA LAI and oral SGA.55, level I However,
+there was no quality assessment of primary paper mentioned. Depot
+preparations may be considered when treatment adherence issue
+arises.17
+Management of Schizophrenia (Second Edition)
+A large meta-analysis of 24 RCTs compared the effectiveness and
+safety of standard vs reduced dose of APs. The median duration of
+follow-up was 52 weeks (IQR 46 - 53). Doses were classified as:56, level I
+• standard dose (above or equal to the lower limit of the
+recommended target dose range for acute treatment)
+• low dose (50 - 99% of the lower limit)
+• very low dose (<50% of the lower limit)
+Compared with standard dose:
+• low dose increased risk of relapse by 44% (RR=1.44, 95% CI 1.10
+to 1.87) and all-cause discontinuation by 12% (RR=1.12, 95% CI
+1.03 to 1.22)
+• very low dose increased risk of relapse by 72% (RR=1.72, 95%
+CI 1.29 to 2.29) and all-cause discontinuation by 31% (RR=1.31,
+95% CI 1.11 to 1.54)
+In terms of safety, there were no significant differences between
+different doses in intolerability -related discontinuations, anticholinergic
+use and rating scale-based assessments of akathisia, dyskinesia and
+parkinsonism. Most primary studies in the meta-analysis were classified
+as having some concerns in risk of bias assessment.
+Recommendation 5
+• Antipsychotics (APs) should be offered to prevent relapse in
+schizophrenia.
+ Second-generation APs are the preferred choice.
+ Standard dose of APs should be considered as maintenance
+treatment.
+4.1.5
+Intermittent treatment in relapse prevention
+In a Cochrane systematic review on people with schizophrenia,
+intermittent AP treatment compared with maintenance treatment at ≥26
+weeks follow-up showed:57, level I
+• higher relapse (RR=2.46, 95% CI 1.70 to 3.54)
+• higher hospitalisation rate (RR=1.65, 95% CI 1.33 to 2.06)
+• no difference in tardive dyskinesia (RR=1.15, 95% CI 0.58 to
+2.30)
+The quality of evidence in the first two outcomes was moderate while
+the last outcome low.
+In a later meta-analysis of ten studies, stabilised people with
+schizophrenia who had been exposed for at least six months to
+intermittent or placebo strategies had higher risk of relapse compared
+with those on continuous treatment with OR of (3.36, 95% CI 2.36 to
+5.45) and 5.64 (95% CI 4.47 to 7.11) respectively.58, level I
+Management of Schizophrenia (Second Edition)
+Recommendation 6
+• Intermittent treatment using antipsychotics should be avoided in
+schizophrenia.
+4.1.6
+Treatment for extrapyramidal signs, sedation and weight
+gain associated with antipsychotics
+There are several common adverse effects of APs e.g. sedation, EPS,
+weight gain, constipation, cardiovascular complications and metabolic
+syndrome. These adverse effects can happen at any point of time and
+majority are dose dependent.
+Summary of Relative AEs of APs and Common AEs of APs with
+their management strategies are shown in Table 2 and Table 3.
+• Neuroleptic malignant syndrome (NMS) is a rare medical
+emergency but potentially life-threatening condition caused by APs.
+It is characterised by fever, rigidity, tremors, sympathetic nervous
+system dysregulation and creatinine kinase elevation. Immediate
+diagnosis and treatment are essential and this condition should be
+referred to the medical team.
+Management of Schizophrenia (Second Edition)
+Table 2. Relative AEs of APs
++++ High incidence/severity
+++ Moderate incidence/severity
++ Low incidence/severity
+- Very low incidence/severity
+Source:
+1. Taylor DM, Barnes TRE, Young AH. The Maudsley Prescribing Guidelines in Psychiatry (14th Edition). London: Wiley Blackwell; 2021
+2. Stroup TS, Gray N. Management of common adverse effects of antipsychotic medications. World Psychiatry. 2018;17(3):341-35
+Amisulpride
+Aripiprazole
+Asenapine
+Brexpiprazole
+Cariprazine
+Chlorpromazine
+Clozapine
+Flupentixol
+Fluphenazine
+Haloperidol
+Olanzapine
+Paliperidone
+Perphenazine
+Quetiapine
+Risperidone
+Sertindole
+Sulpiride
+Trifluoperazine
+Ziprasidone
+Zuclopenthixol
+++
++
++
+-
+++
+++
++++
++
++
+++
+++
+++
++
+++
+++
+-
+++
+-
++
+++
+-
+-
++
+-
+-
++++
++++
++
++
++
+++
++
++
+++
++
+-
+-
++
++
+++
++
+-
++
+-
+-
+++
++++
+++
++
++
++++
+++
++
+++
+++
++
++
++
+-
+++
++
++
++
+-
++
++
+-
+++
+++
++++
+-
++
+++
+-
+++
++
++
++
++
+++
++
+-
+-
+-
+-
+++
+-
+++
++++
++++
+-
++
++++
+-
++
+-
++
++++
++
+++
+-
+-
+-
+-
+-
+++
++++
+++
++
++
++
++
++
++
++
+-
+-
++
+-
+++
+-
+-
+-
+-
+-
++++
++++
++
++
++
++
+++
++
+++
+++
++++
+-
++
++
++
+++
++
++
+-
+-
+++
+-
++
++
+++
++
++
++
+++
++
++++
++
+-
+++
+-
++++
+-
++
+-
+-
++++
+-
++++
++++
+++
++
++++
++++
+-
++++
+-
++++
++++
++
++++
++
++
++
+-
+-
+++
+-
++
++
+++
++
++
+++
++
++
++
+-
++
++
+APs
+Constipation
+Sedation
+Weight gain
+Akathisia
+Parkinsonism
+Tardive
+dyskinesia
+Anticholinergic
+Hypotension
+QT
+prolongation
+Prolactin
+elevation
+Management of Schizophrenia (Second Edition)
+Table 3. Common AEs of APs and their management strategies
+• Clozapine-induced
+gastrointestinal hypomotility
+is a common AE, 3 times
+that seen with other APs
+• Avoid bulk-forming laxatives
+• Stop other medicines that
+may contribute to
+constipation if possible
+• Majority of patients do not
+require long-term
+anticholinergic medication
+(its use should be reviewed
+at least every 3 months and
+not to be prescribed at night)
+Where symptoms do not
+respond to simpler measures,
+including switching to an AP
+with low propensity for EPS,
+botulinum toxin may be
+effective
+• 5-HT2 antagonists e.g.
+cyproheptadine,
+mirtazapine, trazodone, and
+mianserin may help
+• Antimuscarinic or
+benzodiazepine may also be
+useful
+• Anticholinergics are generally
+unhelpful
+-
+Anticholinergic
+medication (e.g.
+trihexyphenidyl,
+benztropine)
+Benzodiazepine
+(e.g. clonazepam,
+diazepam)
+Beta-blockers (e.g.
+propranolol)
+Change to AP with
+lower risk (refer to
+Table 2)
+Change to AP
+with lower risk
+(refer to Table 2)
+Antihistaminic
+medication (e.g.
+diphenhydramine)
+Change to AP with
+lower risk (refer to
+Table 2)
+• Ensure adequate
+fibre, fluid and
+exercise
+• Osmotic laxatives
+(e.g. lactulose)/
+stimulant laxatives
+(e.g. senna)
+Reduce dose of
+AP
+Anticholinergic
+medication (e.g.
+trihexyphenidyl,
+procyclidine)
+Reduce dose of
+AP
+Within the first four
+months of AP
+administration
+Days to weeks
+after AP
+administration or
+dose increase
+Within hours to
+days of AP
+administration or
+dose increase
+Within hours to
+weeks of AP
+administration or
+dose increase
+Constipation
+EPS:
+Pseudoparkinsonis
+m (tremor, rigidity,
+bradykinesia)
+EPS: Dystonia
+Akathisia
+Adverse effects
+Onset
+Dose
+dependent
+Management strategies
+First choice
+Second choice
+Third choice
+Comments
+
+
+
+
+Management of Schizophrenia (Second Edition)
+• Change to AP with lower
+propensity for TD e.g.
+clozapine and quetiapine
+Stimulants have unclear
+benefit
+Valbenazine,
+tetrabenazine or
+deutetrabenazine
+(not available in
+Malaysia yet)
+Change to AP
+with lower risk
+(refer to Table 2)
+• Reduce dose of
+AP
+• Stop
+anticholinergic if
+prescribed
+After months to
+years of AP
+administration
+Tardive dyskinesia
+Reduce dose
+Dose at night
+before sleep
+Within hours to
+days of AP
+administration
+Sedation
+Treat accordingly and refer to Clinical
+Practice Guidelines Management of Type
+2 Diabetes Mellitus (6th Edition)*
+Treat accordingly and refer to local CPG
+on Management of Dyslipidaemia (5th
+Edition)**
+Change to AP with
+lower risk(haloperidol,
+aripiprazole,
+amisulpride,
+ziprasidone)
+Within one month
+of AP
+administration
+Diabetes mellitus
+-
+Adverse effects
+Onset
+Dose
+dependent
+Management strategies
+First choice
+Second choice
+Third choice
+Comments
+
+
+
+
+
+
+Change to less
+sedating APs
+(refer to Table 2)
+Stimulants have unclear
+benefit
+Behavioural
+modification (diet,
+exercise) + change AP
+Within three
+months of AP
+administration
+Dyslipidaemia
+Pharmacological medication
+e.g. metformin should be
+considered only where
+behavioural methods, switching
+of AP have failed or where
+obesity presents clear, immediate
+physical risk to the patient
+Behavioural
+modification +
+change AP
+Behavioural
+modification (diet,
+exercise)
+Within three
+months of AP
+administration
+Weight gain
+Add aripiprazole/
+cariprazine to
+existing treatment
+Metformin has been shown to
+improve prolactin related
+symptoms and levels
+respectively
+Add aripiprazole
+Change to
+‘prolactin-sparing’
+APs (aripiprazole,
+quetiapine,
+clozapine)
+Within hours to
+months of AP
+administration
+Hyperprolactinaemia
+Consider
+dopamine agonists
+(cabergoline,
+bromocriptine,
+amantadine) or
+referral to
+endocrinologist
+Management of Schizophrenia (Second Edition)
+Avoid APs that are potent α
+1-adrenergic receptor
+antagonist (clozapine,
+quetiapine) and/or
+concomitant intake of
+medications that can reduce
+BP
+Change to AP
+with lower risk
+(refer to Table 2)
+Adequate
+hydration
+Adjust dose or
+slow dose
+titration
+Within hours to
+days of AP
+administration or
+dose increase
+Orthostatic
+hypotension
+-
+• >440 ms (men)/
+>470 ms (women)
+but <500 ms:
+reduce dose or
+switch AP with
+lower risk (refer to
+Table 2 below
+• >500 ms:
+ repeat ECG
+ stop suspected
+causative drugs
+and switch to
+lower risk AP
+ immediately
+refer to
+cardiologist
+Abnormal T-wave
+morphology: review
+treatment, consider
+reduce dose or
+switching to lower
+risk AP
+After 2 - 4 weeks
+of AP
+administration
+Adverse effects
+Onset
+Dose
+dependent
+Management strategies
+First choice
+Second choice
+Third choice
+Comments
+
+
+Electrocardiogram
+(ECG) changes - QT
+prolongation
+Risk is high with any IV AP or
+combination of APs with
+doses exceeding
+recommended maximum
+*Available at https://www.moh.gov.my/moh/resources/Penerbitan/CPG/Endocrine/CPG_T2DM_6th_Edition_2020_13042021.pdf
+Adapted:
+1. Pillinger T, McCutcheon RA, Vano L, et al. Comparative effects of 18 antipsychotics on metabolic function in patients with schizophrenia, predictors
+of metabolic dysregulation, and association with psychopathology: a systematic review and network meta-analysis. Lancet Psychiatry. 2020;7(1):64-77
+2. Stroup TS, Gray N. Management of common adverse effects of antipsychotic medications. World Psychiatry. 2018;17(3):341-35
+3. Taylor DM, Barnes TRE, Young AH. The Maudsley Prescribing Guidelines in Psychiatry (13th Edition). London: Wiley Blackwell; 2018
+Management of Schizophrenia (Second Edition)
+4.2 Physical Intervention
+4.2.1
+Electroconvulsive therapy
+Electroconvulsive therapy (ECT) may be a useful adjunct to AP when
+there is a need for rapid improvement and reduction of symptoms or
+limited response to AP in schizophrenia.17; 36; 49; 59 ECT in combination
+with AP may be beneficial in people with treatment-resistant
+schizophrenia (refer to Subchapter 7.1.3 on Treatment for treatmentresistant schizophrenia)
+4.2.2
+Transcranial magnetic stimulation
+In a Cochrane SR of 41 RCTs on schizophrenia or schizoaffective/
+related disorder, temporoparietal transcranial magnetic stimulation
+(TMS) compared with sham TMS or others showed:60, level I
+• improved global state on CGI scale (MD= -0.5, 95% CI -0.76 to -0.23)
+• positive symptoms on PANSS scale (MD= -6.09, 95% CI -10.95 to
+-1.22)
+However, study subjects showed no significant clinical improvement in
+global state or early withdrawal from study when TMS was used as
+adjunctive therapy.
+4.2.3
+Transcranial direct current stimulation
+A meta-analysis of 10 RCTs found no effect of transcranial direct current
+stimulation compared with sham treatment on auditory hallucinations,
+positive symptoms or negative symptoms in schizophrenia or
+schizoaffective disorder.61, level I
+Recommendation 7
+• Electroconvulsive therapy may be considered in schizophrenia to
+achieve rapid and short-term improvement of severe symptoms
+after an adequate trial of antipsychotic is proven ineffective and in
+treatment-resistant schizophrenia.
+4.3 Psychosocial Intervention
+There are various forms of psychosocial intervention which are
+not limited to psychotherapy and psychological techniques in
+the management of people with schizophrenia. The aim of these
+psychosocial intervention varies depending on the treatment goal. The
+commonly used interventions are discussed below.
+4.3.1
+Psychoeducation
+Psychoeducation improves understanding of mental health issues,
+recognising early warning signs of relapse and understanding on
+the work of psychiatric services.22 A psychoeducation programme
+includes key information about diagnosis, symptoms, psychosocial
+Management of Schizophrenia (Second Edition)
+interventions, medications and side effects as well as information about
+stress and coping, crisis plans, early warning signs (EWS) and, suicide
+and relapse prevention.36
+In a Cochrane systematic review of low-quality evidence on people with
+schizophrenia, brief psychoeducation either individual, group or family,
+was better than routine care in prevention of:62, level I
+• non-compliance with medication at short-term (RR=0.63, 95% CI
+0.41 to 0.96) and medium-term (RR=0.17, 95% CI 0.05 to 0.54)
+• relapse at medium-term (RR=0.70, 95% CI 0.52 to 0.93)
+Another Cochrane systematic review on promoting well-being
+and reducing distress of siblings of people with schizophrenia,
+psychoeducation was better than standard care in coping with (family)
+burden at 12 months (MD= -8.80, 95% CI -15.22 to -2.34).63, level I
+In an RCT looking on community-based comprehensive intervention
+which included psychoeducation, social skills training, cognitive
+behaviour therapy (CBT) and, strategies against stigma and
+discrimination (SASD) vs control for people with schizophrenia, the
+intervention was significantly effective at nine months on the following
+outcomes:64, level I
+• overcoming stigma
+• anticipated discrimination
+• functioning based on GAF total score
+• reduction in BPRS total score
+• reduction in PANSS negative score
+EWS are early symptoms that are distinctive to the person with
+schizophrenia and often precede acute psychotic relapse. Examples
+are change in sleep pattern, irritability, social withdrawal, difficulty in
+concentration and decline in self-care. Thus, intervention on EWS aims
+to detect and manage these signs for prevention of relapse. A Cochrane
+systematic review showed that training to recognise EWS of relapse in
+schizophrenia was better compared with treatment as usual in:65, level I
+• preventing relapses (RR=0.53, 95% CI 0.36 to 0.79)
+• preventing re-hospitalisation (RR=0.48, 95% CI 0.35 to 0.66)
+• improving medication compliance (MD=0.57, 95% CI 0.42 to 0.77)
+In subgroup analysis, time taken to relapse after treatment was
+longer if EWS intervention was delivered to patients only compared
+with treatment as usual (HR=0.26, 95% CI 0.13 to 0.53), but no
+difference was shown when EWS intervention was delivered to both
+patient and their carer/health professionals. Apart from that, time to rehospitalisation after treatment was longer (HR=0.62, 95% CI 0.46 to
+0.83) when the intervention was delivered to both patients and their
+carer/health professional. In this review, the overall quality of the 34
+RCTs was very low.
+Management of Schizophrenia (Second Edition)
+SIGN recommends that psychoeducation should not be offered as a
+stand-alone intervention to people with schizophrenia and professionals
+should ensure that people with schizophrenia and their families/carers
+are informed about the illness.49 APA recommends that people with
+schizophrenia receive psychoeducation.36
+In Malaysia, family psychoeducation programmes have been conducted
+for many years based on the Family Link programme module.66
+Recommendation 8
+• Psychoeducation which includes early warning signs interventions
+should be given in addition to other interventions in schizophrenia.
+4.3.2
+Supported employment
+In a Cochrane systematic review for adults with severe mental illness
+where schizophrenia disorders were well represented, supported
+employment increased levels of any employment compared with other
+vocational approaches (RR=3.24, 95% CI 2.17 to 4.82). It also showed
+some advantages in other secondary outcomes e.g. duration of any
+form of paid employment, job tenure for competitive employment and
+time to first competitive employment in long-term. However the primary
+papers were of very low quality.67, level I
+NICE recommends to offer supported employment programmes to
+people with psychosis or schizophrenia who wish to find or return to
+work. Apart from that, it is recommended to consider other occupational
+or educational activities, including pre-vocational training, for people
+who are unable to work or unsuccessful in finding employment.22
+APA also recommends that patients with schizophrenia receive
+supported employment services.36 Guidelines on implementation of
+supported employment programme for people with mental illness
+including schizophrenia has also been developed locally.17
+Recommendation 9
+• Supported employment should be offered in schizophrenia.
+4.3.3
+Cognitive remediation therapy
+Cognitive impairment is a core feature of schizophrenia that is fully
+evident at the time of first episode and the most affected areas are
+attention, verbal memory and executive functioning. Cognitive deficits
+in schizophrenia influence functional outcomes in work, independent
+living, social functioning and illness management. Cognitive remediation
+therapy (CRT) is a behavioural treatment intervention that aims to
+Management of Schizophrenia (Second Edition)
+improve the cognitive processes e.g. memory, attention, executive
+function, metacognition and social cognition. It uses techniques which
+modify cognition in people with schizophrenia e.g. errorless learning,
+repetition and positive reinforcement.68
+A meta- analysis of 38 moderate quality RCTs demonstrated a moderate
+effect of CRT on global cognition in people with schizophrenia (Cohen’s
+d=0.45, 95% CI 0.31 to 0.59). The CRT also showed significant effect
+on all cognitive domains i.e. attention/vigilance (Cohen’s d=0.25),
+processing speed (Cohen’s d=0.258), verbal working memory (Cohen’s
+d=0.346), verbal learning and memory (Cohen’s d=0.410), reasoning/
+problem solving (Cohen’s d=0.572) and social cognition (Cohen’s
+d=0.651).69, level I
+The meta-analysis also suggested that functioning outcomes were
+best achieved by adding cognitive remediation to other rehabilitation
+programmes. The cognitive remediation programmes on psychosocial
+functioning reported significant stronger effects in studies that provided
+adjunctive psychiatric rehabilitation (Cohen’s d=0.59, 95% CI 0.30 to
+0.88) compared with those on cognitive remediation alone (Cohen’s
+d=0.28, 95% CI -0.02 to 0.58).69, level I
+CRT has been suggested for people with schizophrenia.36 It may be
+offered as part of a multimodal psychosocial intervention.17 in people
+with schizophrenia with persisting problems associated with cognitive
+difficulties.49
+Recommendation 10
+• Cognitive remediation therapy may be considered as an intervention
+for cognitive difficulties in schizophrenia.
+4.3.4
+Social skills training
+Social skills training (SST) is a psychosocial intervention, whether group
+or individual, aimed at enhancing the social performance and reducing
+the distress and difficulty in social situations. A Cochrane systematic
+review of 13 studies found that in people with schizophrenia, compared
+with standard care, SST:70, level I
+• significantly improved social functioning based on various rating
+scales
+• significantly improved mental state based on various severity rating
+scales
+• prevented relapse (RR=0.52, 95% CI 0.34 to 0.79)
+The primary papers were of very low quality.
+Existing evidence-based guidelines do not strongly recommend SST in
+the management of schizophrenia.22; 36; 49
+Management of Schizophrenia (Second Edition)
+Recommendation 11
+• Social skills training may be offered in schizophrenia.
+4.3.5
+Peer support services
+Peer support is a social emotional support which is mutually provided
+by persons having a mental health condition to others sharing a similar
+problem in order to bring about a desired social or personal change.22
+A Cochrane systematic review found very limited and very low quality
+of evidence on the effectiveness of peer support for people with
+schizophrenia. In view of that, it could not be recommended as yet.71, level I
+NICE recommends to consider peer support for people with
+schizophrenia to improve their experience and quality of life. It should
+be delivered by a trained peer support worker who has recovered from
+schizophrenia and remains stable. The workers should receive support
+from their whole team and, support and mentorship from experienced
+peer workers.22
+Recommendation 12
+• Peer support may be offered in schizophrenia.
+4.3.6
+Family therapy
+Family therapy is a form of psychotherapy involving significant family
+members together with the person with schizophrenia based on
+individual family needs. It focuses on relationship in which the problem
+is manifested by providing support, skills and education through
+solution-oriented approach. It aims to reduce level of distress and
+improve communication within families.49
+In a Cochrane systematic review of 53 studies on schizophrenia, family
+therapy:72, level I
+• decreased frequency of relapse at 7 to 12 months (RR=0.55, 95% CI
+0.48 to 0.62; NNT=7, 95% CI 6 to 8)
+• reduced hospital admission at 7 to 12 months (RR=0.78, 95% CI
+0.63 to 0.98; NNT 8 CI 6 to 13)
+• improved non-compliance with medication (RR=0.60, 95% CI 0.49 to
+0.73; NNT 6 CI 5 to 9)
+The primary papers in the review were of poor methodological quality.
+Recommendation 13
+• Family therapy may be offered in schizophrenia.
+Management of Schizophrenia (Second Edition)
+4.3.7
+Cognitive behaviour therapy
+Cognitive behaviour therapy (CBT) is a structured, short-term, presentoriented psychotherapy. It focuses on problem solving and modifying
+dysfunctional thinking and behaviour. The application of CBT is based
+on conceptualisation of individual person’s belief, behaviour and
+emotional experience.
+Two meta-analyses on CBT against two different comparisons (other
+psychosocial intervention and standard care) showed:
+• favourable outcomes in relapse, mental state, hospitalisation,
+social functioning and QoL in CBT added to standard care
+compared with standard care alone at long-term although nonsignificant in a Cochrane systematic review of 60 RCTs. However,
+the risk of adverse event was reduced in the combined treatment
+(CBT plus standard care) (RR=0.44, 95% CI 0.27 to 0.72). The
+quality of primary papers included was low.73, level I
+• no significant difference between combination of CBT and
+standard care vs standard care and other psychosocial therapies
+in relapse, mental state, hospitalisation, adverse event, social
+functioning and QoL in another Cochrane systematic review. The
+quality of primary papers included was low.74, level I
+CBT for psychosis (CBT-p) aims to normalise and make sense of the
+individual’s psychotic experiences and also reduce the associated
+distress and impact on functioning. In a meta-analysis, CBT-p comparing
+with treatment as usual (TAU), CBT-p showed:75, level I
+• improved functioning at the end-point of intervention (Hedges’s
+g=0.25, 95% CI 0.14 to 0.33) but not sustained at follow-up
+(Hedges’s g=0.10, 95% CI -0.07 to 0.26)
+• reduced distress (Hedges’s g=0.37, 95% CI 0.05 to 0.69)
+• did not improve QoL (Hedges’s g=0.04, 95% CI -0.12 to 0.19)
+However, there was no report on quality of primary papers included in
+this study.
+An RCT comparing Recovery-Oriented Cognitive Therapy (CT-R) with
+TAU showed that CT-R had earlier improvement in global functioning
+for people with low functioning schizophrenia with shorter duration of
+illness ≤12 years (Cohen’s d 0.53).76, level I
+Guidelines recommend CBTp in schizophrenia with persistent positive
+symptoms and/or depression.17; 36; 49
+Recommendation 14
+• Cognitive behaviour therapy for psychosis may be offered in
+schizophrenia.
+Management of Schizophrenia (Second Edition)
+4.3.8
+Supportive psychotherapy/Counselling
+Supportive psychotherapy/counselling relies on therapeutic alliances
+with the aim to assist change in attitude and behaviour and, reinforce
+the ability to cope.
+A Cochrane systematic review of 24 very low quality RCTs found no
+significant differences in the relapse, hospitalisation and general
+functioning between supportive therapy and standard care in
+schizophrenia on medium- and/or long-term follow-up. However,
+supportive therapy had poorer outcomes compared with other
+psychological or psychosocial treatments at long-term follow-up:77, level I
+• increased hospitalisation rates (RR=1.82, 95% CI 1.11 to 2.99)
+• no clinical improvement in mental state (RR=1.27, 95% CI 1.04 to
+1.54)
+• dissatisfaction of treatment for the recipient of care (RR=3.19,
+95% CI 1.01 to 10.7)
+• Supportive psychotherapy has not been shown to be beneficial in the
+treatment of schizophrenia.
+4.3.9
+Others
+•
+Life skills training
+Life skills programmes for serious mental illness are rehabilitation
+programmes that address the needs associated with independent
+functioning e.g. financial awareness, communication, domestic care,
+personal self-care and community living skills.
+A Cochrane systematic review found no good evidence to suggest that
+life skills programmes were effective for people with chronic mental
+illnesses which were mostly schizophrenia.78, level I
+•
+Exercise therapy
+A Cochrane systematic review of small RCTs looked into the
+effectiveness of exercise therapy on people with schizophrenia.
+The therapy was defined as any intervention either used alone or
+in conjunction with others where physical activity or exercise was
+considered to be the main or active element. Compared with standard
+treatment, exercise therapy improved depression, anxiety, both negative
+and positive PANSS scores and also physical fitness. However, it was
+less effective than yoga in total and negative PANSS scores.79, level I
+•
+Dance therapy
+Dance therapy uses movement and dance to explore a person’s
+emotion in a non-verbal way by interpreting their dance to personal
+feelings.
+Management of Schizophrenia (Second Edition)
+In a Cochrane systematic review on schizophrenia, a moderate quality
+RCT showed that dance therapy was more effective than standard care
+in reducing PANSS negative symptoms score by 20 - 40% (RR=0.62,
+95% CI 0.39 to 0.97).80, level I
+•
+Music therapy
+Music therapy is a systematic process of intervention promoting health
+using expression of music.
+A Cochrane systematic review on schizophrenia, compared with
+standard care, showed that music therapy improved:81, level I
+• global state at medium-term (NNTB=2, 95% CI 2 to 4)
+• general mental state on PANSS at medium-term (SMD= -0.97
+95% CI -1.31 to -0.63)
+• negative symptoms on SANS at short-term (SMD= -0.5 95% CI
+-0.73 to -0.27) and medium-term (SMD= -0.55 95% CI -0.87 to
+-0.24)
+• social functioning on Social Disability Screening Schedule (SDSS)
+at medium-term (SMD= -0.72, 95% CI -1.04 to -0.40)
+The quality of primary papers used in the review was low to moderate.
+•
+Religion/spiritual activities
+Religious/spiritual activities are multidimensional approaches that
+promote positive coping. It provides sense of meaning and purpose,
+emotional comfort, personal control and connection with others and a
+higher power.
+In a small cross-sectional study on schizophrenia, there was a modest
+correlation between positive religious coping and psychological aspect
+in QoL (r=0.28, p=0.03).82, level III
+Management of Schizophrenia (Second Edition)
+5. SERVICE LEVEL INTERVENTION
+Following the global paradigm shifts from institutionalisation to
+community-based mental health services, Malaysia is steadily
+progressing towards developing more community-based psychiatric
+services. Hence this chapter addresses this issue based on common
+service level interventions provided in the management of schizophrenia.
+5.1 Crisis and Emergency Service
+Crisis and Emergency Mental Health Service provides intensive care
+in the community for people with acute psychiatric symptoms, thus
+avoiding the need for hospitalisation. A Cochrane systematic review
+of mixed quality RCTs on mainly schizophrenia showed that those
+receiving crisis intervention services compared with standard care
+had:83, level I
+• fewer re-admissions after initial crisis (RR=0.53, 95% CI 0.41 to
+0.68)
+• fewer days in acute care post-crisis (MD= -10.30, 95% CI - 14.77
+to -5.83)
+• lesser family burden at three months (RR=0.57, 95% CI 0.41 to
+0.80) and six months (RR=0.34, 95% CI 0.20 to 0.59)
+• higher family satisfaction with treatment at three months (RR=0.63,
+95% CI 0.44 to 0.89) and six months (RR=0.57, 95% CI 0.42 to
+0.78)
+• significantly higher patient satisfaction with treatment at 6 - 20
+months
+• Crisis resolution and home treatment team provides the following:22
+ assessment for admission to acute psychiatric wards
+ initiation of home treatment programme with frequent visits as an
+alternative to hospitalisation
+ continuation of home treatment until the crisis has resolved and
+subsequently transfer to other services for further care
+ facilitate early discharge from acute wards
+NICE recommends offering crisis resolution and home treatment teams
+as a first-line service to support people with schizophrenia during an
+acute episode in the community and should be considered before
+admission to the hospital and as means to enable timely discharge.22
+Recommendation 15
+• Crisis intervention services should be offered to people with
+schizophrenia in acute phase.
+Management of Schizophrenia (Second Edition)
+5.2 Assertive Community Treatment
+Assertive community treatment (ACT) is a service that provides
+continuous care for people with serious mental illness in the community
+especially those who have difficulty engaging with the mental health
+services. The Assertive Community Treatment in Schizophrenia
+Spectrum Disorders (ACCESS II) study showed positive outcomes for
+those receiving ACT which sustained even after four years:84, level II-3
+• 75.7% were fully adherent to medications compared with baseline
+(p < 0.001)
+• 73.0% received psychotherapeutic treatment conducted by the
+ACT team or private psychotherapists
+• significant reduction of inpatient treatment from 22.4 days at year
+one to 4.7 days at year four
+• significant clinical improvement based on BPRS, CGI-S, GAF and
+Q-LES-Q
+• Key elements of ACT are as follows:22
+ a multidisciplinary approach involving a dedicated psychiatrist
+ care for people with serious mental illness
+ shared responsibility for the same client by team members
+ provision of all psychiatric and social care for each client
+ care is provided at home or workplace
+ emphasis on medication adherence
+People with schizophrenia should receive ACT if there is a history of
+poor engagement with services leading to frequent relapse or social
+disruption, high use of inpatient services and presence of residual
+psychotic symptoms.36; 49
+Recommendation 16
+• Assertive community treatment should be provided for people with
+schizophrenia who have difficulties engaging with the mental health
+services.
+5.3 Intensive Case Management
+Intensive case management (ICM) is a small case-load (up to 20 people)
+of community-based psychiatric service for people with serious mental
+illness that may follow many models e.g. ACT, case management etc.
+In a large Cochrane systematic review, compared with standard care,
+people (majority with schizophrenia) receiving ICM had:85, level I
+• reduced number of days in hospital per month at 24 months (MD=
+-0.86, 95% CI -1.37 to -0.34)
+Management of Schizophrenia (Second Edition)
+• reduced number of people living dependently at medium-term
+(RR=0.80, 95% CI 0.66 to 0.97) and long-term (RR=0.65, 95% CI
+0.49 to 0.88)
+• improved functioning outcomes based on GAF at long-term
+(MD=3.41, 95% CI 1.66 to 5.16).
+• less likely to be lost to psychiatric services (RR=0.43, 95% CI 0.30
+to 0.61)
+• significantly higher client satisfaction at short-, medium- and longterm
+A recent large cohort study investigated the change in medical
+utilisation of case management (CM) for psychiatric home care among
+mainly people with schizophrenia. CM led to a significant decrement
+of psychiatric and involuntary admissions, and the utilisation shifted
+toward psychiatric outpatient service. The effect persisted after two
+years of intervention. However, CM showed no impact on lowering the
+admission rate for co-morbid physical illnesses.86, level II-2
+In another cohort study with a long follow-up, ICM significantly improved
+treatment adherence and reduced suicide and suicidal attempts
+compared with previous standard treatment received in mental health
+units. Apart from that, combination of ICM and LAI treatment improved
+the outcomes.87, level II-2
+NICE recommends for consideration of ICM for people with psychosis or
+schizophrenia who are likely to disengage from treatment or services.22
+Recommendation 17
+• Intensive case management should be considered for people with
+schizophrenia who are at risk of treatment non-adherence.
+5.4 Collaborative Community-based Service Intervention
+Collaborative community-based service intervention is run by the people
+in the community who are trained in mental health. This is a strategy
+to deliver mental health care in low resource setting. The community
+health workers were defined as non-healthcare workers who had at
+least 10 years of schooling, good interpersonal skills, systematic
+training over six weeks and assessment for competency.
+An RCT compared collaborative community-based care delivered
+through community health workers plus standard facility-based
+care with standard facility-based care alone in schizophrenia. The
+community-based intervention had better score in the general subscale
+of PANSS (MD= -2.16, 95% CI -4.23 to -0.09) and locally validated
+Management of Schizophrenia (Second Edition)
+Indian Disability Evaluation and Assessment (MD= -0.95, 95% CI -1.68
+to -0.23) at 12 months.88, level I
+Recommendation 18
+• Collaborative community-based service intervention may be offered
+for people with schizophrenia.
+5.5 Day Hospitalisation/Day Treatment
+Day hospital or day treatment centre is an ambulatory treatment
+programme that emphasises psychosocial and pre-vocational treatment
+modalities designed for people with serious mental disorders who
+require co-ordinated, intensive, comprehensive and multi-disciplinary
+treatment not provided in an outpatient clinic setting.
+A Cochrane systematic review found that people with schizophrenia
+allocated to day hospital care had less admissions to hospital beyond
+one year compared with those receiving out-patient care (RR=0.71,
+95% CI 0.56 to 0.89). The heterogeneity was significant while the
+quality of primary papers was moderate.89, level I
+5.6 Residential Services
+A quasi-experimental study on people with serious mental illnesses
+(predominantly schizophrenia spectrum disorders) compared those
+who were under the Full-Service Partnerships (FSP) programme,
+which provided a combination of subsidised permanent housing and
+full-fidelity assertive community treatment, and those receiving public
+mental health services. FSP participants had significant increase
+in:90, level II-1
+• number of days spent in either independent or congregate/
+residential living situations
+• case management
+• medication management
+• therapy/rehabilitation
+• total outpatient visits
+There was also significant decline in:
+• mean number of days spent homeless per year
+• use of inpatient, emergency and justice system services
+On quality of life, FSP clients gave significantly more favorable
+responses in all domains especially the living situation domain.
+In a recent large RCT, there was no significant difference in number
+of ED visits and hospital admissions between immediate access to
+independent housing and support from the ACT team also known as
+Management of Schizophrenia (Second Edition)
+Housing First group and TAU group for people who were homeless with
+severe mental disorders with predominantly schizophrenia. However,
+the housing first group showed less inpatient days (RR=0.62, 95% CI
+0.48 to 0.80).91, level I
+• Residential services may be useful in schizophrenia to reduce
+homelessness.
+5.7 Early Intervention in Psychosis
+Psychosis can lead to persistent disability, increased cost in treatment,
+social inequalities and suicide if not intervened early.22; 92 The initial 3 - 5
+years from a first episode of psychosis is a critical period whereby early
+intervention improves outcomes and alters the trajectory of illness and
+disability.22 Early intervention in psychosis consists of early detection of
+people at risk and phase-specific treatment93; 94, level I
+Specialised high-risk service is a psychiatric service meant for those
+at risk of psychosis e.g. in Outreach and Support in South London
+(OASIS). In a cohort study on patients with first episode psychosis which
+mainly consisted of schizophrenia at 24 months follow-up, compared
+with conventional service, OASIS showed significantly:95, level II-2
+• fewer days in hospital
+• shorter median referral-to-diagnosis time
+• reduced likelihood of compulsory hospital admission
+• lower frequency of admission
+In a recent Cochrane systematic review of three RCTs, extended
+specialised early intervention (SEI) resulted in fewer disengagements
+from mental health treatment compared with standard SEI + TAU for
+people with recent-onset psychosis (RR=0.45, 95% CI 0.27 to 0.75).
+However, there was no significant difference in remission.96, level I
+People with schizophrenia experiencing first episode of psychosis
+should receive treatment from the early intervention services which
+provide a full range of pharmacological, psychological, social,
+occupational and educational interventions.22; 36; 49
+Management of Schizophrenia (Second Edition)
+• Key elements in early intervention in psychosis services are:22
+ swift assessment through a readily accessed point of contact by
+a practitioner competent in recognising first episode psychosis
+ staff who build up trust and confidence
+ provision of good information on psychosis and treatment options
+ a care coordinator who will support throughout their time in the
+service, including helping them with self-management skills,
+social care issues e.g. housing or debt management, and relapse
+prevention work
+ a choice of psychological and pharmacological interventions
+ support, information and advice for families and carers, including
+carers’ assessments where required
+ support with employment, training and/or education
+ regular physical health checks, monitoring and appropriate
+treatment, with support and/or education
+ regular monitoring of risk
+ routine monitoring of other co-existing conditions, including
+depression, anxiety and substance misuse, particularly in the
+early phases of treatment
+ a crisis plan and prompt service response in crisis
+Recommendation 19
+• Early intervention in psychosis service should be provided for
+people with first episode of psychosis.
+Management of Schizophrenia (Second Edition)
+6. TRADITIONAL AND COMPLEMENTARY MEDICINE
+In a Cochrane systematic review, acupuncture added to standard AP
+may prevent absence of clinical response compared with standard AP
+in people with schizophrenia at 3 - 12 months follow-up (RR=0.44, 95%
+CI 0.28 to 0.57). In addition, adverse effects were less in combined
+treatment (RR=0.30, 95% CI 0.11 to 0.83). However, the certainty of
+evidence in this review was generally low and of short duration.97, level I
+In another Cochrane review, yoga as part of a package of care
+compared with standard care in schizophrenia may have a better
+QoL at <6 months follow-up (MD=22.93, 95% CI 19.74 to 26.12). This
+review included a few small studies which lacked many key
+outcomes.98, level I
+In a meta-analysis of eight RCTs, extracted Gingko Biloba used
+as adjunct therapy to AP may improve symptoms of schizophrenia
+compared with AP alone (SMD= - 0.49, 95% CI -0.69 to -0.30). The
+certainty of evidence was generally low because most evidence was
+from short-term trials and graded very low in quality.99, level I
+• There is insufficient evidence to recommend traditional and
+complementary medicine in schizophrenia.
+Management of Schizophrenia (Second Edition)
+7. CHALLENGES IN MANAGEMENT
+7.1 Treatment-Resistant Schizophrenia
+7.1.1 Definition
+The definition for treatment-resistant schizophrenia (TRS) in guidelines
+on schizophrenia is varied. For clinical purposes, TRS is defined as a
+condition when patient’s symptoms show no response or partial and
+suboptimal response to trial of two different APs for at least six weeks
+with each medication used at an adequate dosage of medication. Some
+definitions specify on using medications from different classes.36
+Due to lack of uniformity in the definition of TRS, the Treatment
+Response and Resistance in Psychosis (TRRIP) Working Group has
+conducted a systematic review and established minimum and optimum
+criteria to identify TRS for future trials.100, level I Refer to Appendix 9 on
+Consensus Criteria for Assessment and Definition of TreatmentResistant Schizophrenia. TRS occurs in up to 23% of people with
+schizophrenia.101 - 102, level II-2
+7.1.2 Predictors
+In the Aetiology and Ethnicity in Schizophrenia and Other Psychoses
+(AESOP-10) study on first episode psychosis in United Kingdom,
+predicted odds of treatment-resistant schizophrenia (TRS) were 1.09
+higher in people with negative symptoms compared with those without
+negative symptoms. Predicted odds of TRS for people with four and
+nine negative symptoms were 1.40 and 2.13 respectively.101, level II-2
+A systematic review of 47 studies showed that clinical predictive factors
+of TRS were:103, level I
+• poor premorbid functioning
+• male gender
+• younger age at onset
+• presence of neurobiological factors
+• lower educational level
+• single marital status
+• negative symptoms
+• substance use disorder
+• non-adherence
+• non-response within two weeks of initiation of treatment
+• longer duration of untreated psychosis
+However, there was no mention of quality assessment in this review.
+A Danish cohort study of 4,674 person-years follow-up showed no
+evidence in polygenic risk score for TRS.102, level II-2
+Management of Schizophrenia (Second Edition)
+7.1.3 Treatment
+Four Cochrane systematic reviews studied treatment of TRS. The
+summary of findings on the effectiveness of pharmacological treatment
+from the three reviews were:
+• clozapine was more effective than typical AP in improvement in
+BPRS endpoint scores at short-term (WMD= -7.83, 95% CI -10.0
+to -5.6) and reduction of relapse rate at long-term (RR=0.17, 95%
+CI 0.1 to 0.3)104, level I
+• clozapine showed inconclusive efficacy compared with AAPs
+which required further trials to confirm the findings105, level I
+• no significant difference of effect on mental state between very
+low, low and standard dose of clozapine106, level I
+For adverse events, the reviews showed:
+• comparing with medication typical AP, clozapine caused less
+movement disorder (RR=0.77, 95% CI 0.7 to 0.9) but more
+hypersalivation (RR=2.01, 95% CI 1.7 to 2.3) and weight gain
+(RR=1.33, 95% CI 1.1 to 1.6)104, level I
+• comparing with AAPs, clozapine produced fewer EPS than
+risperidone (RR=0.39, 95% CI 0.22 to 0.68) and zotepine
+(RR=0.05, 95% CI 0.00 to 0.86); however, it caused more
+reduction in white blood cells count, hypersalivation, sedation,
+weight gain and seizures than other AAPs105, level I
+• lower dose of clozapine was associated with less weight gain
+(MD= -1.60, 95% CI -2.90 to -0.30), lower glucose level after meal
+(MD= -1.6, 95% CI -2.90 to -0.30) and lower Treatment Emergent
+Side Effect Scale score (MD= -3.99, 95% CI -5.75 to -2.24)106, level I
+The quality of primary papers in the reviews varied from moderate to
+low quality.
+Guidelines of SIGN, NICE and APA recommend to offer clozapine to
+TRS.22; 36; 49 Refer to Appendix 7 on Suggested titration regimen for
+clozapine initiation in the community and Clozapine initiation and
+titration regimen for in-patient.
+Recommendation 20
+• Clozapine should be offered in treatment-resistant schizophrenia.
+• Clozapine augmentation with another medications
+For people with schizophrenia whose illness has not responded
+adequately to clozapine at an optimised dose, healthcare providers
+should consider the followings before adding a second AP to augment
+treatment with the clozapine:22
+ review the diagnosis
+ ensure adherence to AP (adequate dose and duration)
+ review engagement with psychosocial intervention
+Management of Schizophrenia (Second Edition)
+ consider other causes of non-response e.g. co-morbid substance
+misuse disorder (including alcohol, nicotine), concurrent use of
+other prescribed medication or physical illness
+In a Cochrane systematic review, augmentation of clozapine with
+another APs in five different RCTs (low to very low quality) showed the
+following results:107, level I
+ clozapine + aripiprazole vs clozapine + haloperidol
+- no significant differences in mental state based on BPRS at
+12, 24 and 52 weeks
+- less side effects in clozapine + aripiprazole based on Liverpool
+University Neuroleptic Side Effects Rating Scale (LUNSERS)
+at 12 (MD= -4.90, 95% CI -8.48 to -1.32) and 24 (MD= -4.90,
+95% CI -8.25 to -1.55) weeks
+ clozapine + amisulpride vs clozapine + quetiapine
+- clozapine + amisulpride showed better CGI score (MD= -0.90,
+95% CI -1.38 to 0.42), BPRS score (MD= -4.00, 95% CI -5.86,
+-2.14), SAPS score (MD= -6.90, 95% CI -12.82 to -0.98) and
+SANS score (MD= -5.20, 95% CI -7.14 to -3.26) at eight weeks
+- no report on side effects
+ clozapine + risperidone vs clozapine + sulpiride
+- clozapine + risperidone had better PANSS positive score at
+eight weeks (MD= -2.55, 95% CI -4.64 to -0.46)
+- no significant differences in PANSS total score (20% to 50%
+reduction and mean at end point) and PANSS negative score
+- no significant differences in weight gain and hypersalivation
+ clozapine + risperidone vs clozapine + ziprasidone
+- clozapine + risperidone had better HAMD score at six weeks
+(MD= -3.40, 95% CI -6.71 to -0.09) but not at 26 weeks
+- no significant differences in PANSS, CGI and GAF scores
+- no significant differences in EPS and CGI adverse effect
+scores
+ clozapine + ziprasidone vs clozapine + quetiapine
+- clozapine + ziprasidone had better CGI-S (MD= -0.70, 95%
+CI -1.18 to -0.22), PANSS total score (MD= -12.30, 95% CI
+-22.43 to -2.17) and PANSS positive score (MD= -3.10, 95%
+CI -5.52 to -0.68) at 12 weeks
+- no significant difference in PANSS negative score
+- no significant differences in EPS and overall adverse effect
+rate
+Recommended duration of augmentation to clozapine varies i.e. 8 - 10
+weeks22 or a minimum of 10 weeks.49
+Management of Schizophrenia (Second Edition)
+• Augmentation with AP may be beneficial in people with schizophrenia
+who did not respond adequately to clozapine.
+• Before adding a second AP to clozapine, adequate assessment of
+the reasons for treatment failure should be conducted.
+• The risks and benefits should be weighed if an augmentation
+treatment is introduced.
+• It is important to monitor side effects and potential drug-drug
+interactions.
+• Regular review of the medication regimen should be carried out to
+justify the continuity of treatment.
+• Electroconvulsive therapy
+A Cochrane systematic review of 15 moderate to low quality RCTs on
+ECT for TRS showed:108, level I
+ no significant difference in clinical response compared with
+clozapine
+ improvement in clinical response at short-term (RR=1.91, 95%
+CI 1.09 to 3.36) and long-term (RR=2.06, 95% CI 1.75 to 2.42)
+compared with standard care; however, ECT was associated with
+more memory deterioration (RR=27.00, 95% CI 1.67 to 437.68)
+ fewer readmissions (RR=0.29, 95% CI 0.10 to 0.85) compared
+with sham ECT
+In two meta-analyses of moderate to low quality RCTs which compared
+combination of ECT and AP vs AP alone in patients with TRS, the
+former had:
+ better endpoint improvement in total score of PANSS (SMD=
+-0.67, 95% CI -0.95 to -0.39)109, level I and BPRS (RR=1.25, 95%
+CI 1.14 to 1.37)110, level I
+ more side effects
+- headache with NNH of 6 (95% CI 4 to 11)109, level I and OR of
+9.1 (95% CI 3.97 to 20.86)110, level I
+- memory impairment with NNH of 3 (95% CI 2 to 5)109, level I and
+OR of 6.48 (95% CI 3.54 to 11.87)110, level I
+• ECT in combination with AP may be beneficial in people with
+treatment-resistant schizophrenia.
+• Common adverse reactions e.g. headache and memory impairment
+should be monitored.
+• Cognitive behaviour therapy
+A large multicentre RCT studied the effectiveness and safety of CBT
+in clozapine-resistant schizophrenia. The CBT was more effective
+than TAU in reduction of symptoms severity (PANSS total score) at
+Management of Schizophrenia (Second Edition)
+nine months (MD= -2.40 points, 95% CI -4.79 to -0.02) but showed no
+difference at 21 months. There was no significant difference in at least
+one AE between the two groups.111, level I
+7.2 Treatment in Special Populations
+7.2.1 Co-morbid substance use and tobacco use disorders
+People with schizophrenia have been found to have higher rates of
+substance use disorders (SUD). In a meta-analysis of 123 studies
+with 165,811 subjects and excluding nicotine dependence, the pooled
+prevalence of any SUD was 41.7%, with specific prevalence of 27.5%
+for illicit drugs, 26.2% for cannabis, 24.3% for alcohol and 7.3% for
+stimulants. The prevalence varies according to geographical distribution
+and type of substance use.112, level II-2
+The co-morbidity of SUD among people with schizophrenia carries
+poorer prognosis and more complex management. Referral to
+psychiatric services should be considered for these people. SUD
+should always be considered and monitored across all phases of care
+for people with schizophrenia.22
+Evidence on treatment of schizophrenia with co-morbid SUD is limited
+by scarcity of relevant and high-quality studies. The best option is
+to offer comprehensive treatment using both pharmacological and
+psychosocial interventions in treating these patients.
+A Cochrane systematic review of eight very low quality RCTs on people
+with schizophrenia and co-occurring substance misuse showed the
+following results:113, level I
+ risperidone vs clozapine
+- clozapine had lower score for endpoint negative symptoms in
+PANSS (MD=4.00, 95% CI 0.79 to 7.21) but no difference in
+positive symptoms (MD=0.90, 95% CI -2.21 to 4.01)
+- clozapine had lower scores in craving for substance in
+Marijuana Craving Questionnaire (MD=7.00, 95% CI 2.37 to
+11.63) and Obsessive-Compulsive Craving Scale (MD=14.2,
+95% CI 4.45 to 23.95)
+- no significant difference in adherence to AP, EPS and
+reduction in substance use
+ risperidone vs olanzapine
+- no significant difference in reduction of positive symptoms,
+cannabis use, craving for cannabis and parkinsonism
+In a systematic review of 14 studies on patients with schizophrenia
+and co-morbid substance use disorder, clozapine use in SUD (other
+than nicotine) was superior than FGA and risperidone in substance use
+reduction and abstinence. However, it was not superior to olanzapine
+and ziprasidone. Findings on nicotine use was scarce.114, level I
+Management of Schizophrenia (Second Edition)
+Another meta-analysis involving 19 RCTs on schizophrenia subjects
+with SUD found that clozapine showed reduction of substance use
+compared with any APs (MD= -1.08, 95% CI -1.84 to -0.32) while
+risperidone showed reduction for craving compared with olanzapine
+(SMD= 0.82, 95% CI 0.18 to 1.46). In terms of symptom reduction,
+olanzapine, clozapine and risperidone were more effective than other
+APs. The reported side effects followed the established patterns of
+each APs. Overall quality of primary studies was of low quality.115, level I
+Based on a Cochrane systematic review, there was absence of highquality evidence to support any psychosocial treatment over standard
+care for important outcomes e.g. remain in treatment, reduction in
+substance use or improved mental or global state in people with serious
+mental illnesses and substance misuse. These findings indicated the
+complexities in the treatment of dual diagnosis.116, level I
+A meta-analysis of worldwide studies demonstrated an association
+between schizophrenia and current smoking (OR=5.9, 95% CI 4.9
+to 5.7).117, level II-2 A local study showed the prevalence of nicotine
+dependence (smoking) among people with schizophrenia in a hospital
+at 38.1%.118, level III This was higher than the overall prevalence of
+smoking of any tobacco products at 21.3% among Malaysian adults in
+the National Health and Morbidity Survey 2019.119, level III
+Guidelines recommend that the attending doctor has to assess the
+smoking status of all people with schizophrenia.36; 120 People with
+schizophrenia should be offered help to stop smoking, even if previous
+attempts have been unsuccessful.22
+• Tobacco cessation
+ Smoking of tobacco and tobacco products (cigarette, electronic
+cigarette/vape, shisha, pipe, cigar etc.) can lead to various noncommunicable diseases (NCDs). Worldwide, more than eight
+million people die every year because of this habit.121
+ Hence, the decision to integrate smoking treatment with NCDs
+is important to reduce the prevalence of NCDs and their
+complications. This decision was made during the World Health
+Organization Framework Convention on Tobacco Control (WHO
+FCTC) Steering Committee Meeting in December 2019 chaired
+by the Honourable Health Minister of Malaysia.
+ The treatment for smoking should be initiated by the treating
+doctor based on the assessment and treatment of tobacco use
+disorder as in Table 4. Details on this can be found in the CPG on
+Treatment of Tobacco Use Disorder 2016, available at:
+https://www.moh.gov.my/moh/resources/Penerbitan/CPG/
+Respiratory/CPG_TobacoDisorder.pdf
+Management of Schizophrenia (Second Edition)
+Table 4. Assessment and Treatment of Tobacco Use Disorder
+Recommendation 21
+• People with schizophrenia and co-morbid substance use disorder
+should be referred to a psychiatric service for further management.
+• People with schizophrenia and smoking should be offered help with
+smoking cessation.
+7.2.2
+Pregnancy and breastfeeding
+The principles of treatment for pregnant women with schizophrenia
+should be based on risk-benefit analysis to optimise the outcomes
+and reduce the complication for both mothers and their babies. The
+management can be of a great challenge due to the limited availability
+of evidence. Cohort studies showed that women with schizophrenia
+had increased risk of complications in pregnancy and delivery, and
+neonatal morbidity.122 - 123, level II-2 Postpartum relapse in mothers with
+schizophrenia in a cohort study was:124, level II-2
+• highest in 0 to 9 days following childbirth (RR=5.67, 95% CI 3.23
+to 9.96), followed by 10 to 19 days after childbirth (RR=4.58, 95%
+CI 2.48 to 8.48) compared with 180 days after childbirth
+• increased if there was admission during pregnancy (RR=6.83,
+95% CI 3.58 to 13.04)
+• increased when the child’s father had a mental disorder (RR=1.80,
+95% CI 1.21 to 2.69)
+1.
+Ask and document smoking status for all patients.
+2.
+Provide brief advice on quit smoking at every visit to all smokers.
+3.
+Assess level of nicotine addiction using Modified Fagerström Test for
+Cigarette Dependence Questionnaire (COMPULSORY) and verify
+smoking
+status
+using
+carbon
+monoxide
+breath
+analyser
+(IF
+AVAILABLE).
+4.
+Offer pharmacotherapy to all smokers who are attempting to quit, unless
+contraindicated.
+5.
+If selected, use nicotine replacement therapy (NRT) for at least eight to
+twelve weeks, whereas varenicline should be used for at least twelve
+weeks.
+6.
+Combination therapy (e.g. two NRTs, a non-NRT, e.g. bupropion with an
+NRT) is better than monotherapy in smoking cessation treatment and
+may be most useful for those smokers at highest risk of relapse.
+7.
+Use smoking cessation medications with caution in special populations
+(e.g. children and adolescents, pregnant, breastfeeding women,
+psychiatric and substance abuse disorder patients).
+8.
+Arrange a minimum of six to eight face to face follow-up sessions for
+smoking cessation interventions in six months through counselling
+support team (health education officer, pharmacists or any officer
+trained for quit smoking services).
+ASSESSMENT AND TREATMENT
+Management of Schizophrenia (Second Edition)
+Women with schizophrenia in their reproductive age should receive
+pre-pregnancy care (PPC) in a nearby health clinic or an obstetric and
+gynaecology clinic at least three months prior to conception. During
+PPC, women should be informed regarding their risks and benefits
+related to conception and during the perinatal period, as well as options
+for contraception. If she wishes for pregnancy, the treatment of preexisting schizophrenia must be optimised and the illness is controlled
+prior to pregnancy. Folic acid supplementation of 5 mg/day should be
+offered preconceptionally and for the first trimester of pregnancy.125, level III
+The risks and benefits of continuing AP and consequences of changing
+treatment must also be discussed, taking into consideration the severity
+of schizophrenia, risk of relapse, past response to treatment and
+individual’s preference. It is essential to collaborate with the patient,
+partner and multidisciplinary team in the management of patient
+throughout the pregnancy and postpartum period.
+Pregnant women with schizophrenia should be managed with lowest
+effective dose using a single AP.36 Continuing APs in pregnant
+women with schizophrenia is preferable considering the risk of
+relapse when they are discontinued, which can further impair the
+antenatal care, health and social functioning, and mother-infant
+relationship.22; 36; 126, level III Change of treatment is not advisable when a
+pregnant woman is stable on a specific AP and she is likely to experience
+relapse of schizophrenia without it.36 Changing of APs may expose
+the foetus to two different medications and increases possibilities of
+relapse in mother.36; 126, level III
+Limited evidence suggests that FGAs and SGAs have minimal
+teratogenic risk or toxic effects to the foetus.126, level III In a cohort study,
+women with schizophrenia who received:127, level II-2
+• FGA and SGA did not show higher odds of babies with low birth
+weight, small for gestational age or large for gestational age
+compared with those not receiving APs during pregnancy
+• FGA during pregnancy had higher odds of preterm birth (OR=2.46,
+95% CI 1.50 to 4.11)
+Use of depot preparation during pregnancy should be avoided in order
+to limit the duration of any possible toxic effect to the foetus.17
+All APs that have been studied to date cross the placenta, are present
+in amniotic fluid and excreted in breast milk.128 Hence, APs withdrawal
+symptoms can occur in the newborns when they are used in the third
+trimester. The symptoms are crying, agitation, increased suckling,
+abnormal increase in tone, tremors, sleepiness, difficulty in feeding
+and difficulty in breathing which alleviate within hours or days and do
+not require specific treatment. However, the benefits of treatment for
+Management of Schizophrenia (Second Edition)
+mothers and newborns superseded the harm of discontinuing APs and
+generally favours continuation of APs.129
+Decisions about breastfeeding on exposure to APs in infants and
+associated benefits and harms should be discussed with all women with
+schizophrenia.22 Women taking APs are usually advised to continue
+the treatment used during pregnancy.36; 126, level III Mothers on clozapine
+should continue the treatment but advised not to breastfeed.49; 126, level III
+• For lactating mothers, the benefits associated with treatment and
+risk of exposure to infant are important to be discussed.
+• Lactating mother on clozapine are advised not to breastfeed while
+on treatment.
+• For those who do not wish to continue lactating, formula milk
+supplementation should be offered to the infants.
+Refer to Appendix 5 (Dosing Regimen for Oral Antipsychotics)
+and Appendix 6 (Dosing Regimen for Depot Injections of
+Antipsychotics) during pregnancy and breastfeeding.
+NICE recommends considering psychological intervention (CBT or
+family intervention) for women with psychosis or schizophrenia who
+become pregnant and are at risk of relapse due to:22
+• stress associated with pregnancy or postnatal period
+• change in medication, including stopping APs
+Recommendation 22
+• Pre-pregnancy care which includes counselling should be offered to
+all women in reproductive age with schizophrenia.
+• Multidisciplinary care should be offered in the management of
+pregnant women with schizophrenia.
+7.2.3
+Suicide
+• Prevalence
+The worldwide overall prevalence of suicide in the general population is
+about 9.0 per 100,000 population (range 2 to 80 per 100,000 population)
+and it is 2.3 times more common in men compared to women.130, level III
+A systematic review on the prevalence of suicide in schizophrenia
+concluded that the life-time risk of suicide among patients with
+schizophrenia was approximately 5%.131, level II-2
+A case-control study among 5,650 completed suicides concluded that
+the overall prevalence of suicide was 11.7% for schizophrenia and
+related mental disorder with 10.3% in males and 15.7% in females.
+Management of Schizophrenia (Second Edition)
+In terms of age group, the prevalence was 21.7% in young adults
+(25 - 34 years old) and 7.7% in elderly (65 years of old). The patients
+who committed suicide were also most likely coming from the urban
+poor neighbourhoods, in the younger age group, with more clinically
+complex presentation and in those with higher rates of mental health
+service utilisation.132, level II-2
+• Individuals with schizophrenia account for over 1 in 10 suicide
+deaths with a life-time risk of about 5%.
+• Risk factors
+A meta-analysis of 96 observational studies concluded that significant
+risk factors associated with suicide related behaviours in patients with
+schizophrenia were:133, level II-2
+ suicidal ideation
+- presence of depressive symptoms
+- higher PANSS general score
+- higher number of psychiatric hospitalisations
+ suicide attempts
+- history of alcohol use
+- family history of psychiatric illness
+- physical co-morbidity
+- history of depression
+- family history of suicide
+- history of drug use
+- history of tobacco use
+- presence of depressive symptoms
+ completed suicide:
+- male gender
+- history of attempted suicide
+- younger age
+- higher intelligence quotient
+- poor adherence to treatment
+- presence of hopelessness
+• The highest risk for suicide in people with schizophrenia is among
+those who have symptoms of self-devaluation (perceiving oneself
+to be completely flawed and worthless or as having exaggerated
+negative qualities and hopelessness).
+• Suicide prevention strategy
+Clozapine is indicated in the treatment of persistent suicidal thoughts
+or behaviours.17 APA recommends patients with schizophrenia to be
+treated with clozapine if the risk for suicide attempts or suicide remains
+substantial despite other treatments.36
+Management of Schizophrenia (Second Edition)
+Refer to Appendix 7 on Suggested Titration Regimen for Clozapine
+Initiation in The Community and Clozapine Initiation and Titration
+Regimen for In-Patient.
+Recommendation 23
+• Clozapine should be considered in schizophrenia with persistent
+suicidal risk.
+7.3 Social Issues
+In a cross-sectional study, the prevalence of perceived stigma was
+noted to be high at 83.5%. Education status (not able to read and
+write), difficulties of adherence to AP and duration of illness <1 year
+were associated factors of the stigma with OR of 2.64 (95% CI 1.12
+to 6.23), 4.49 (95% CI 2.31 to 8.73) and 3.48 (95% CI 2.24 to 5.42)
+respectively.134, level III
+An RCT showed that psychoeducation programme significantly reduced
+stigma, improved QoL and medication compliance apart from increased
+consumer satisfaction of people with schizophrenia and their families,
+beyond the effects of AP.135, level I
+Factors that affect and impact social engagement, QoL and life
+satisfaction for people with schizophrenia were studied in a systematic
+review of 41 observational studies. A decrease in QoL and social
+relationships was found due to several factors:136, level II-2
+• interpersonal relationship status
+• employment status
+• effects of stigma
+• neuro-cognitive skills and functioning
+• effectiveness of intervention
+However, there was no quality assessment done on the primary papers
+in the review.
+In a cross-sectional study on people with schizophrenia in a hospital,
+the overall prevalence of psychosocial disabilities was high at 98.1%.
+The highest prevalence was in social disabilities, followed by vocational,
+self-hygiene, educational and family-related disabilities.137, level III
+A population-based study looked into the crime rates in schizophrenia.
+The overall prevalence of crime in people with schizophrenia was 72.7
+to 90.3 per 10,000 from 2012 through 2016, which was about one fifth
+that of the general population. Further analysis showed that the rates
+of most types of crimes including violence, intellectual crimes and theft
+were lower in people with schizophrenia than the general population.
+Management of Schizophrenia (Second Edition)
+However, the prevalence of murder, arson, and drug-related crimes
+was about five, six and two times higher in people with schizophrenia
+respectively.138, level I
+QualityRights is WHO’s global initiative to increase access to good
+quality mental health services and to promote the human rights of people
+with psychosocial, intellectual and cognitive disabilities. It offers a new
+approach to mental health care which is rights-based and recoveryoriented. A pragmatic trial over a 12-month period used QualityRights
+as an intervention for public mental health services. The core elements
+of the intervention comprised:139, level II-1
+• WHO QualityRights toolkit for service assessment
+• introduction of service-level policy and processes to protect
+against inhumane/degrading treatment, violence and abuse
+(including use of restraints)
+• improvements in the service environment within existing service
+and government resources
+• training for healthcare professionals, family members and service
+users
+• peer support volunteers to encourage participation of family
+members and service users
+Compared with usual care, the intervention improved significantly the
+quality of services in:
+• theme 1 (right to adequate standard of living)
+• theme 2 (right to enjoyment of highest attainable standards of
+physical and mental health)
+• theme 4 (freedom from torture or cruel, inhumane or degrading
+treatment or punishment and from exploitation, violence and
+abuse)
+Apart from that, staff in these services showed substantially improved
+attitudes towards service users (Hedges’ g of -0.50 to 0.17)
+According to Section 43 of Malaysian Mental Health Regulations 2010,
+it is made mandatory for every psychiatric hospital to display statements
+on patient’s rights in a conspicuous part of the hospital.11
+Recommendation 24
+• Patient’s rights in schizophrenia should be included in the training of
+healthcare providers and family members.
+Management of Schizophrenia (Second Edition)
+8. IMPLEMENTING THE GUIDELINES
+The management of schizophrenia should be guided by an evidencebased approach, in order to provide quality care to the people with
+schizophrenia. Several factors may affect the implementation of
+recommendations in the CPG
+8.1 Facilitating and Limiting Factors
+Existing facilitators for application of the recommendations in the CPG
+include:
+• wide dissemination of the CPG (soft- and hardcopies) to
+healthcare providers
+• training and updates in relation to schizophrenia to healthcare
+providers
+• accessibility to relevant multidisciplinary teams
+• public awareness campaigns related to mental health and mental
+disorders including schizophrenia
+• inter-ministerial
+collaboration
+and
+involvement
+of
+nongovernmental organisations to support the people with
+schizophrenia and their caregivers
+Existing barriers for application of the recommendations of the CPG
+are:
+• limited exposure and training among healthcare providers on
+management of schizophrenia
+• variation in availability of expertise and access to service provision
+• insufficient resources in terms of budget, expertise, medications,
+psychosocial intervention
+• socio-cultural barriers and stigma and lack of awareness among
+patients, families, community and healthcare providers
+• lack of local data on schizophrenia, e.g. research, registry, etc.,
+for planning on services
+8.2 Potential Resource Implications
+This CPG recommends early detection and referral, comprehensive
+assessment and treatment of schizophrenia. These require increased
+awareness among healthcare providers, the public and other
+stakeholders to establish early diagnosis and uninterrupted various
+forms of treatment as well as support to the patients and their caregivers.
+Patient-centred care and shared decision making are key elements in
+successful management in schizophrenia.
+However, treatment non-adherence is a widely recognised problem
+in schizophrenia. This includes failure to start treatment programmes,
+Management of Schizophrenia (Second Edition)
+default in outpatient clinic appointments and failure to medicate with
+prescribed APs. The outcome of this discouraging situation is increase
+in relapse of psychotic symptoms, hospitalisation, aggression, poor
+QoL, stigmatisation and premature death.
+Accordingly, a Key Performance Index for psychiatric service i.e.
+outpatient defaulter rate is being monitored in both primary and
+secondary/tertiary care under MoH. By doing so, effective psychosocial
+interventions e.g. psychoeducation can be targeted to people with
+schizophrenia. This CPG also recommends that depot APs be prescribed
+to patients with a history of non-adherence in order to improve their
+outcomes. Simultaneously, data on depot prescriptions can be captured
+easily along with the KPI of defaulted patients as a surrogate maker of
+CPG utilisation based on the recommendation of depot. Moreover, the
+slightly expensive SGA depots with few intolerance issues and longer
+injection intervals should be used more widely in the country.
+Based on the key recommendations, the following are proposed as
+clinical audit indicators for quality management of schizophrenia:
+Implementation strategies will be developed following the approval of
+the CPG by MoH which include launching of the CPG, Quick Reference
+and Training Module.
+Percentage of
+defaulters* among
+patients with
+schizophrenia in
+outpatient clinic
+at primary or
+secondary/
+tertiary care
+(Target of ≤10%)
+*patients who
+default one month
+follow-up
+=
+X 100%
+Number of patients with schizophrenia
+in outpatient clinic at primary or
+secondary/tertiary care
+in the same period
+Number of defaulters among patients
+with schizophrenia in outpatient clinic
+at primary or secondary/tertiary care
+in a period
+Percentage of
+patients with
+schizophrenia
+having treatment
+non-adherence
+prescribed with
+depot AP
+(Target of ≥30%)
+=
+X 100%
+Number of patients with schizophrenia
+having treatment non-adherence in
+the same period
+Number of patients with schizophrenia
+having treatment non-adherence
+prescribed with
+depot AP in a period
+Management of Schizophrenia (Second Edition)
+REFERENCES
+1.
+Global, regional, and national incidence, prevalence, and years lived with
+disability for 301 acute and chronic diseases and injuries in 188 countries,
+1990-2013: a systematic analysis for the Global Burden of Disease Study 2013.
+Lancet. 2015;386(9995):743-800.
+2.
+Aziz AA, Salina AA, Abdul Kadir AB, et al. The National Mental Health Registry
+(NMHR). Med J Malaysia. 2008;63 Suppl C:15-17.
+3.
+Saha S, Chant D, Welham J, et al. A systematic review of the prevalence of
+schizophrenia. PLoS Med. 2005;2(5):e141.
+4.
+Teoh SL, Chong HY, Abdul Aziz S, et al. The economic burden of schizophrenia
+in Malaysia. Neuropsychiatr Dis Treat. 2017;13:1979-1987.
+5.
+Better Mental Health Care. Cambridge, UK: Cambridge University Press; 2009.
+6.
+Thornicroft G, Bebbington P. Deinstitutionalisation--from hospital closure to
+service development. Br J Psychiatry. 1989;155:739-753.
+7.
+Russo G, Carelli F, Barnet V, et al. Dismantling asylums: The Italian job. Lond J
+Prim Care. 2009(2).
+8.
+Abdul Kadir AB. Community Psychiatric Services in Malaysia: Where do we go
+from here? Malaysian Journal of Psychiatry. 2011;20(1):1-3.
+9.
+Haque A. Mental health concepts and program development in Malaysia.
+Journal of Mental Health. 2005;14(2):183-195.
+10.
+Jamaiyah H. Community mental health in Malaysia: marriage of psychiatry and
+public health Jurnal Kesihatan Masyarakat. 2000;6:155-166.
+11.
+Khan NN, Yahya B, Abu Bakar AK, et al. Malaysian mental health law. BJPsych
+Int. 2015;12(2):40-42.
+12.
+Murrie B, Lappin J, Large M, et al. Transition of Substance-Induced, Brief, and
+Atypical Psychoses to Schizophrenia: A Systematic Review and Meta-analysis.
+Schizophr Bull. 2020;46(3):505-516.
+13.
+Miller B, Messias E, Miettunen J, et al. Meta-analysis of paternal age
+and schizophrenia risk in male versus female offspring. Schizophr Bull.
+2011;37(5):1039-1047.
+14.
+Vassos E, Pedersen CB, Murray RM, et al. Meta-analysis of the association of
+urbanicity with schizophrenia. Schizophr Bull. 2012;38(6):1118-1123.
+15.
+Khandaker GM, Zimbron J, Lewis G, et al. Prenatal maternal infection,
+neurodevelopment and adult schizophrenia: a systematic review of populationbased studies. Psychol Med. 2013;43(2):239-257.
+16.
+Cheslack-Postava K, Brown AS. Prenatal infection and schizophrenia: A decade
+of further progress. Schizophr Res. 2021.
+17.
+Ministry of Health Malaysia. CPG Management of Schizophrenia Putrajaya:
+MoH; 2009.
+18.
+Hollander AC, Dal H, Lewis G, et al. Refugee migration and risk of schizophrenia
+and other non-affective psychoses: cohort study of 1.3 million people in Sweden.
+BMJ. 2016;352:i1030.
+19.
+Müller M, Vetter S, Buchli-Kammermann J, et al. The Self-screen-Prodrome
+as a short screening tool for pre-psychotic states. Schizophr Res. 2010;123(23):217-224.
+20.
+Loewy RL, Pearson R, Vinogradov S, et al. Psychosis risk screening with the
+Prodromal Questionnaire--brief version (PQ-B). Schizophr Res. 2011;129(1):4246.
+21.
+Razali SM, Abidin ZZ, Othman Z, et al. Screening for schizophrenia in initial
+prodromal phase: Detecting the sub-threshold psychosis. Asian J Psychiatr.
+2015;16:26-31.
+22.
+National Institute for Health and Care Excellence. Psychosis and schizophrenia
+in adults: prevention and management. London: NICE; 2014.
+Management of Schizophrenia (Second Edition)
+23.
+Shabani A, Masoumian S, Zamirinejad S, et al. Psychometric properties of
+Structured Clinical Interview for DSM-5 Disorders-Clinician Version (SCID-5CV). Brain Behav. 2021;11(5):e01894.
+24.
+Osório FL, Loureiro SR, Hallak JEC, et al. Clinical validity and intrarater and
+test-retest reliability of the Structured Clinical Interview for DSM-5 - Clinician
+Version (SCID-5-CV). Psychiatry Clin Neurosci. 2019;73(12):754-760.
+25.
+Dollfus S, Mach C, Morello R. Self-Evaluation of Negative Symptoms: A Novel
+Tool to Assess Negative Symptoms. Schizophr Bull. 2016;42(3):571-578.
+26.
+Alphs L, Morlock R, Coon C, et al. The 4-Item Negative Symptom Assessment
+(NSA-4) Instrument: A Simple Tool for Evaluating Negative Symptoms in
+Schizophrenia Following Brief Training. Psychiatry (Edgmont). 2010;7(7):26-32.
+27.
+Nafees B, van Hanswijck de Jonge P, Stull D, et al. Reliability and validity of
+the Personal and Social Performance scale in patients with schizophrenia.
+Schizophr Res. 2012;140(1-3):71-76.
+28.
+Patrick DL, Burns T, Morosini P, et al. Reliability, validity and ability to detect
+change of the clinician-rated Personal and Social Performance scale in patients
+with acute symptoms of schizophrenia. Curr Med Res Opin. 2009;25(2):325338.
+29.
+Hurford IM, Ventura J, Marder SR, et al. A 10-minute measure of global
+cognition: Validation of the Brief Cognitive Assessment Tool for Schizophrenia
+(B-CATS). Schizophr Res. 2018;195:327-333.
+30.
+Mucci A, Vignapiano A, Bitter I, et al. A large European, multicenter,
+multinational validation study of the Brief Negative Symptom Scale. Eur
+Neuropsychopharmacol. 2019;29(8):947-959.
+31.
+Wada R, Fujiwara M, Yamada Y, et al. Validity and Reliability of the Japanese
+Version of the 12-item Self-administered World Health Organization Disability
+Assessment Schedule (WHODAS) 2.0 in Patients with Schizophrenia. Acta Med
+Okayama. 2021;75(3):315-322.
+32.
+Mattila T, Koeter M, Wohlfarth T, et al. Impact of DSM-5 changes on the diagnosis
+and acute treatment of schizophrenia. Schizophr Bull. 2015;41(3):637-643.
+33.
+Tandon R, Bruijnzeel D, Rankupalli B. Does change in definition of psychotic
+symptoms in diagnosis of schizophrenia in DSM-5 affect caseness? Asian J
+Psychiatr. 2013;6(4):330-332.
+34.
+Fusar-Poli P, Cappucciati M, Rutigliano G, et al. Diagnostic Stability of ICD/
+DSM First Episode Psychosis Diagnoses: Meta-analysis. Schizophr Bull.
+2016;42(6):1395-1406.
+35.
+Soares-Weiser K, Maayan N, Bergman H, et al. First rank symptoms for
+schizophrenia. Cochrane Database Syst Rev. 2015;1(1):Cd010653.
+36.
+The American Psychiatric Association. Practice Guideline for the Treatment of
+Patients with Schizophrenia (Third Edition) Washington: APA; 2021.
+37.
+Takeuchi H, MacKenzie NE, Samaroo D, et al. Antipsychotic Dose in Acute
+Schizophrenia: A Meta-analysis. Schizophr Bull. 2020;46(6):1439-1458.
+38.
+Gardner KN, Bostwick JR. Antipsychotic treatment response in schizophrenia.
+Am J Health Syst Pharm. 2012;69(21):1872-1879.
+39.
+Vermeulen J, van Rooijen G, Doedens P, et al. Antipsychotic medication and
+long-term mortality risk in patients with schizophrenia; a systematic review and
+meta-analysis. Psychol Med. 2017;47(13):2217-2228.
+40.
+Huhn M, Nikolakopoulou A, Schneider-Thoma J, et al. Comparative efficacy and
+tolerability of 32 oral antipsychotics for the acute treatment of adults with multiepisode schizophrenia: a systematic review and network meta-analysis. Lancet.
+2019;394(10202):939-951.
+41.
+Ortiz-Orendain J, Castiello-de Obeso S, Colunga-Lozano LE, et al.
+Antipsychotic combinations for schizophrenia. Cochrane Database Syst Rev.
+2017;6(6):CD009005.
+Management of Schizophrenia (Second Edition)
+42.
+Zhu Y, Krause M, Huhn M, et al. Antipsychotic drugs for the acute treatment of
+patients with a first episode of schizophrenia: a systematic review with pairwise
+and network meta-analyses. Lancet Psychiatry. 2017;4(9):694-705.
+43.
+Ministry of Health Malaysia. Guidelines on Management of Aggressive Patients
+in Ministry of Health Facilities. Putrajaya: MoH; 2016.
+44.
+Leucht S, Leucht C, Huhn M, et al. Sixty Years of Placebo-Controlled
+Antipsychotic Drug Trials in Acute Schizophrenia: Systematic Review, Bayesian
+Meta-Analysis, and Meta-Regression of Efficacy Predictors. Am J Psychiatry.
+2017;174(10):927-942.
+45.
+Ostinelli EG, Jajawi S, Spyridi S, et al. Aripiprazole (intramuscular) for psychosisinduced aggression or agitation (rapid tranquillisation). Cochrane Database
+Syst Rev. 2018;1(1):CD008074.
+46.
+Ostinelli EG, Brooke-Powney MJ, Li X, et al. Haloperidol for psychosis-induced
+aggression or agitation (rapid tranquillisation). Cochrane Database Syst Rev.
+2017;7(7):CD009377.
+47.
+Walther S, Moggi F, Horn H, et al. Rapid tranquilization of severely agitated
+patients with schizophrenia spectrum disorders: a naturalistic, rater-blinded,
+randomized, controlled study with oral haloperidol, risperidone, and olanzapine.
+J Clin Psychopharmacol. 2014;34(1):124-128.
+48.
+Killaspy H, Banerjee S, King M, et al. Prospective controlled study of psychiatric
+out-patient non-attendance. Characteristics and outcome. Br J Psychiatry.
+2000;176:160-165.
+49.
+Scottish
+Intercollegiate
+Guidelines
+Network
+(SIGN).
+Management
+of
+Schizophrenia. Edinburgh: SIGN; 2013.
+50.
+Park SC, Choi MY, Choi J, et al. Comparative Efficacy and Safety of Long-acting
+Injectable and Oral Second-generation Antipsychotics for the Treatment of
+Schizophrenia: A Systematic Review and Meta-analysis. Clin Psychopharmacol
+Neurosci. 2018;16(4):361-375.
+51.
+West JC, Marcus SC, Wilk J, et al. Use of depot antipsychotic medications for
+medication nonadherence in schizophrenia. Schizophr Bull. 2008;34(5):9951001.
+52.
+Ceraso A, Lin JJ, Schneider-Thoma J, et al. Maintenance treatment with
+antipsychotic drugs for schizophrenia. Cochrane Database Syst Rev.
+2020;8:CD008016.
+53.
+Kishimoto T, Agarwal V, Kishi T, et al. Relapse prevention in schizophrenia:
+a systematic review and meta-analysis of second-generation antipsychotics
+versus first-generation antipsychotics. Mol Psychiatry. 2013;18(1):53-66.
+54.
+Zhao YJ, Lin L, Teng M, et al. Long-term antipsychotic treatment in schizophrenia:
+systematic review and network meta-analysis of randomised controlled trials.
+BJPsych Open. 2016;2(1):59-66.
+55.
+Kishimoto T, Robenzadeh A, Leucht C, et al. Long-acting injectable vs oral
+antipsychotics for relapse prevention in schizophrenia: a meta-analysis of
+randomized trials. Schizophr Bull. 2014;40(1):192-213.
+56.
+Højlund M, Kemp AF, Haddad PM, et al. Standard versus reduced dose
+of antipsychotics for relapse prevention in multi-episode schizophrenia: a
+systematic review and meta-analysis of randomised controlled trials. Lancet
+Psychiatry. 2021;8(6):471-486.
+57.
+Sampson S, Mansour M, Maayan N, et al. Intermittent drug techniques for
+schizophrenia. Cochrane Database Syst Rev. 2013(7):CD006196.
+58.
+De Hert M, Sermon J, Geerts P, et al. The Use of Continuous Treatment
+Versus Placebo or Intermittent Treatment Strategies in Stabilized Patients
+with Schizophrenia: A Systematic Review and Meta-Analysis of Randomized
+Controlled Trials with First- and Second-Generation Antipsychotics. CNS Drugs.
+2015;29(8):637-658.
+Management of Schizophrenia (Second Edition)
+59.
+Galletly C, Castle D, Dark F, et al. Royal Australian and New Zealand College of
+Psychiatrists clinical practice guidelines for the management of schizophrenia
+and related disorders. Aust N Z J Psychiatry. 2016;50(5):410-472.
+60.
+Dougall N, Maayan N, Soares-Weiser K, et al. Transcranial magnetic stimulation
+(TMS) for schizophrenia. Cochrane Database Syst Rev. 2015(8):CD006081.
+61.
+Kim J, Iwata Y, Plitman E, et al. A meta-analysis of transcranial direct current
+stimulation for schizophrenia:“Is more better?”. 2019;110:117-126.
+62.
+Zhao S, Sampson S, Xia J, et al. Psychoeducation (brief) for people with serious
+mental illness. Cochrane Database Syst Rev. 2015(4):CD010823.
+63.
+Sin J, Jordan CD, Barley EA, et al. Psychoeducation for siblings of people with
+severe mental illness. Cochrane Database Syst Rev. 2015;2015(5):CD010540.
+64.
+Li J, Huang YG, Ran MS, et al. Community-based comprehensive intervention
+for people with schizophrenia in Guangzhou, China: Effects on clinical
+symptoms, social functioning, internalized stigma and discrimination. Asian J
+Psychiatr. 2018;34:21-30.
+65.
+Morriss R, Vinjamuri I, Faizal MA, et al. Training to recognize the early signs of
+recurrence in schizophrenia. Schizophr Bull. 2013;39(2):255-256.
+66.
+Family Link Education Program. Janssen-Cilag; 2003.
+67.
+Kinoshita Y, Furukawa TA, Kinoshita K, et al. Supported employment for adults with
+severe mental illness. Cochrane Database Syst Rev. 2013;2013(9):CD008297.
+68.
+Reeder C, Smedley N, Butt K, et al. Cognitive predictors of social functioning
+improvements following cognitive remediation for schizophrenia. Schizophr
+Bull. 2006;32 Suppl 1(Suppl 1):S123-131.
+69.
+Wykes T, Huddy V, Cellard C, et al. A meta-analysis of cognitive remediation for
+schizophrenia: methodology and effect sizes. Am J Psychiatry. 2011;168(5):472485.
+70.
+Almerie MQ, Okba Al Marhi M, Jawoosh M, et al. Social skills programmes for
+schizophrenia. Cochrane Database Syst Rev. 2015;2015(6):CD009006.
+71.
+Chien WT, Clifton AV, Zhao S, et al. Peer support for people with
+schizophrenia or other serious mental illness. Cochrane Database Syst Rev.
+2019;4(4):CD010880.
+72.
+Pharoah F, Mari J, Rathbone J, et al. Family intervention for schizophrenia.
+Cochrane Database Syst Rev. 2010(12):CD000088.
+73.
+Jones C, Hacker D, Xia J, et al. Cognitive behavioural therapy plus standard
+care versus standard care for people with schizophrenia. Cochrane Database
+Syst Rev. 2018;12(12):CD007964.
+74.
+Jones C, Hacker D, Meaden A, et al. Cognitive behavioural therapy plus standard
+care versus standard care plus other psychosocial treatments for people with
+schizophrenia. Cochrane Database Syst Rev. 2018;11(11):CD008712.
+75.
+Laws KR, Darlington N, Kondel TK, et al. Cognitive Behavioural Therapy for
+schizophrenia - outcomes for functioning, distress and quality of life: a metaanalysis. BMC Psychol. 2018;6(1):32.
+76.
+Grant PM, Bredemeier K, Beck AT. Six-Month Follow-Up of Recovery-Oriented
+Cognitive Therapy for Low-Functioning Individuals With Schizophrenia.
+Psychiatr Serv. 2017;68(10):997-1002.
+77.
+Buckley LA, Maayan N, Soares-Weiser K, et al. Supportive therapy for
+schizophrenia. Cochrane Database Syst Rev. 2015;2015(4):CD004716.
+78.
+Tungpunkom P, Maayan N, Soares-Weiser K. Life skills programmes for chronic
+mental illnesses. Cochrane Database Syst Rev. 2012;1(1):CD000381.
+79.
+Gorczynski P, Faulkner G. Exercise therapy for schizophrenia. Cochrane
+Database Syst Rev. 2010(5):CD004412.
+80.
+Ren J, Xia J. Dance therapy for schizophrenia. Cochrane Database of Syst Rev.
+2013(10): CD006868.
+81.
+Geretsegger M, Mössler KA, Bieleninik Ł, et al. Music therapy for people with
+schizophrenia and schizophrenia-like disorders. Cochrane Database Syst Rev.
+2017;5(5):CD004025.
+Management of Schizophrenia (Second Edition)
+82.
+Nolan JA, McEvoy JP, Koenig HG, et al. Religious coping and quality of life
+among individuals living with schizophrenia. Psychiatr Serv. 2012;63(10):10511054.
+83.
+Murphy SM, Irving CB, Adams CE, et al. Crisis intervention for people with severe
+mental illnesses. Cochrane Database Syst Rev. 2015;2015(12):CD001087.
+84.
+Schöttle D, Schimmelmann BG, Ruppelt F, et al. Effectiveness of integrated care
+including therapeutic assertive community treatment in severe schizophreniaspectrum and bipolar I disorders: Four-year follow-up of the ACCESS II study.
+PLoS One. 2018;13(2):e0192929.
+85.
+Dieterich M, Irving CB, Park B, et al. Intensive case management for severe
+mental illness. Cochrane Database Syst Rev. 2010(10):CD007906.
+86.
+Chen WY, Hung YN, Huang SJ, et al. Nationwide analysis of medical utilization
+in people with severe mental illness receiving home care case management.
+Schizophr Res. 2019;208:60-66.
+87.
+Díaz-Fernández S, Frías-Ortiz DF, Fernández-Miranda JJ. Suicide attempts
+in people with schizophrenia before and after participating in an intensive
+case managed community program: A 20-year follow-up. Psychiatry Res.
+2020;287:112479.
+88.
+Chatterjee S, Naik S, John S, et al. Effectiveness of a community-based
+intervention for people with schizophrenia and their caregivers in India (COPSI):
+a randomised controlled trial. Lancet. 2014;383(9926):1385-1394.
+89.
+Shek E, Stein AT, Shansis FM, et al. Day hospital versus outpatient care for people
+with schizophrenia. Cochrane Database Syst Rev. 2009;2009(4):CD003240.
+90.
+Gilmer TP, Stefancic A, Ettner SL, et al. Effect of full-service partnerships on
+homelessness, use and costs of mental health services, and quality of life
+among adults with serious mental illness. Arch Gen Psychiatry. 2010;67(6):645-652.
+91.
+Tinland A, Loubière S, Boucekine M, et al. Effectiveness of a housing support
+team intervention with a recovery-oriented approach on hospital and emergency
+department use by homeless people with severe mental illness: a randomised
+controlled trial. Epidemiol Psychiatr Sci. 2020;29:e169.
+92.
+McGorry PD. Early intervention in psychosis: obvious, effective, overdue. J Nerv
+Ment Dis. 2015;203(5):310-318.
+93.
+Early Psychosis Guidelines Writing Group and EPPIC, National Support
+Program. Australian Clinical Guidelines for Early Psychosis Second Edition.
+Melbourne: Orygen, The National Centre of Excellence in Youth Mental Health;
+2016.
+94.
+Marshall M, Rathbone J. Early intervention for psychosis. Cochrane Database
+Syst Rev. 2011(6):CD004718.
+95.
+Fusar-Poli P, Díaz-Caneja CM, Patel R, et al. Services for people at high risk
+improve outcomes in patients with first episode psychosis. Acta Psychiatr
+Scand. 2016;133(1):76-85.
+96.
+Puntis S, Minichino A, De Crescenzo F, et al. Specialised early intervention
+teams (extended time) for recent-onset psychosis. Cochrane Database Syst
+Rev. 2020;11(11):CD013287.
+97.
+Shen X, Xia J, Adams CE. Acupuncture for schizophrenia. Cochrane Database
+Syst Rev. 2014(10):CD005475.
+98.
+Broderick J, Vancampfort D. Yoga as part of a package of care versus standard
+care for schizophrenia. Cochrane Database Syst Rev. 2017;9(9):CD012145.
+99.
+Chen X, Hong Y, Zheng P. Efficacy and safety of extract of Ginkgo biloba as an
+adjunct therapy in chronic schizophrenia: A systematic review of randomized,
+double-blind, placebo-controlled studies with meta-analysis. Psychiatry Res.
+2015;228(1):121-127.
+100. Howes OD, McCutcheon R, Agid O, et al. Treatment-Resistant Schizophrenia:
+Treatment Response and Resistance in Psychosis (TRRIP) Working Group
+Consensus Guidelines on Diagnosis and Terminology. Am J Psychiatry.
+2017;174(3):216-229
+Management of Schizophrenia (Second Edition)
+101. Demjaha A, Lappin JM, Stahl D, et al. Antipsychotic treatment resistance in
+first-episode psychosis: prevalence, subtypes and predictors. Psychol Med.
+2017;47(11):1981-1989.
+102. Wimberley T, Gasse C, Meier SM, et al. Polygenic Risk Score for Schizophrenia
+and Treatment-Resistant Schizophrenia. Schizophr Bull. 2017;43(5):10641069.
+103. Bozzatello P, Bellino S, Rocca P. Predictive Factors of Treatment Resistance in
+First Episode of Psychosis: A Systematic Review. Front Psychiatry. 2019;10:67.
+104. Essali A, Al-Haj Haasan N, Li C, et al. Clozapine versus typical
+neuroleptic medication for schizophrenia. Cochrane Database Syst Rev.
+2009;2009(1):CD000059.
+105. Asenjo Lobos C, Komossa K, Rummel-Kluge C, et al. Clozapine versus other
+atypical antipsychotics for schizophrenia. Cochrane Database Syst Rev.
+2010(11):CD006633.
+106. Subramanian S, Völlm BA, Huband N. Clozapine dose for schizophrenia.
+Cochrane Database Syst Rev. 2017;6(6):CD009555.
+107. Barber S, Olotu U, Corsi M, et al. Clozapine combined with different antipsychotic
+drugs for treatment-resistant schizophrenia. Cochrane Database Syst Rev.
+2017;3(3):CD006324.
+108. Sinclair DJ, Zhao S, Qi F, et al. Electroconvulsive therapy for treatment-resistant
+schizophrenia. Cochrane Database Syst Rev. 2019;3(3):CD011847.
+109. Zheng W, Cao XL, Ungvari GS, et al. Electroconvulsive Therapy Added
+to
+Non-Clozapine
+Antipsychotic
+Medication
+for
+Treatment
+Resistant
+Schizophrenia: Meta-Analysis of Randomized Controlled Trials. PLoS One.
+2016;11(6):e0156510.
+110. Wang W, Pu C, Jiang J, et al. Efficacy and safety of treating patients with
+refractory schizophrenia with antipsychotic medication and adjunctive
+electroconvulsive therapy: a systematic review and meta-analysis. Shanghai
+Arch Psychiatry. 2015;27(4):206-219.
+111. Morrison AP, Pyle M, Gumley A, et al. Cognitive-behavioural therapy for
+clozapine-resistant schizophrenia: the FOCUS RCT. Health Technol Assess.
+2019;23(7):1-144.
+112. Hunt GE, Large MM, Cleary M, et al. Prevalence of comorbid substance
+use in schizophrenia spectrum disorders in community and clinical settings,
+1990-2017: Systematic review and meta-analysis. Drug Alcohol Depend.
+2018;191:234-258.
+113. Temmingh HS, Williams T, Siegfried N, et al. Risperidone versus other
+antipsychotics for people with severe mental illness and co-occurring substance
+misuse. Cochrane Database Syst Rev. 2018;1(1):CD011057.
+114. Arranz B, Garriga M, García-Rizo C, et al. Clozapine use in patients with
+schizophrenia and a comorbid substance use disorder: A systematic review.
+Eur Neuropsychopharmacol. 2018;28(2):227-242.
+115. Krause M, Huhn M, Schneider-Thoma J, et al. Efficacy, acceptability
+and tolerability of antipsychotics in patients with schizophrenia and
+comorbid substance use. A systematic review and meta-analysis. Eur
+Neuropsychopharmacol. 2019;29(1):32-45.
+116. Hunt GE, Siegfried N, Morley K, et al. Psychosocial interventions for people
+with both severe mental illness and substance misuse. Cochrane Database of
+Systematic Reviews. 2019(12).
+117. de Leon J, Diaz FJ. A meta-analysis of worldwide studies demonstrates an
+association between schizophrenia and tobacco smoking behaviors. Schizophr
+Res. 2005;76(2-3):135-157.
+118. Yee A, Bt Nek Mohamed NN, Binti Hashim AH, et al. The effect of nicotine
+dependence on psychopathology in patients with schizophrenia. Biomed Res
+Int. 2015;2015:730291.
+Management of Schizophrenia (Second Edition)
+119. National Institute of Health Ministry of Health Malaysia. National Health and
+Morbidity Survey 2019. Non-communicable Diseases, Healthcare Demand and
+Health Literacy Shah Alam NIH; 2019
+120. Ministry of Health Malaysia. Clinical Practice Guidelines on Treatment of
+Tobacco Use Disorder. Putrajaya: MoH 2016
+121. Tobacco [Available at:https://www.who.int/news-room/fact-sheets/detail/tobacco].
+122. Simoila L, Isometsä E, Gissler M, et al. Schizophrenia and pregnancy: a national
+register-based follow-up study among Finnish women born between 1965 and
+1980. Arch Womens Ment Health. 2020;23(1):91-100.
+123. Vigod SN, Kurdyak PA, Dennis CL, et al. Maternal and newborn outcomes
+among women with schizophrenia: a retrospective population-based cohort
+study. Bjog. 2014;121(5):566-574.
+124. Munk-Olsen T, Laursen TM, Mendelson T, et al. Risks and predictors of
+readmission for a mental disorder during the postpartum period. Arch Gen
+Psychiatry. 2009;66(2):189-195.
+125. Bahagian Pembangunan Kesihatan Keluarga. Garis Panduan Perkhidmatan
+Prakehamilan di Penjagaan Kesihatan Primer. Putrajaya: BPKK; 2019.
+126. Taylor DM, Barnes TRE, Young AH. The Maudsley prescribing guidelines in
+psychiatry, 14th Edition. London Wiley-Blackwell; 2021.
+127. Lin HC, Chen IJ, Chen YH, et al. Maternal schizophrenia and pregnancy
+outcome: does the use of antipsychotics make a difference? Schizophr Res.
+2010;116(1):55-60.
+128. American Academy of Pediatric and the American College of Obstetricians and
+Gynecologists. Guidelines for Perinatal Care Eight Edition Washington AAP &
+ACOG; 2017.
+129. FDA Drug Safety Communication: Antipsychotic drug labels updated on use
+during pregnancy and risk of abnormal muscle movements and withdrawal
+symptoms in newborns: U. S. Food and Drug Administration; [Available
+at: https://www.fda.gov/drugs/drug-safety-and-availability/fda-drug-safetycommunication-antipsychotic-drug-labels-updated-use-during-pregnancy-and-risk].
+130. One in 100 deaths is by suicide: World Health Organization [Available at: https://
+www.who.int/news/item/17-06-2021-one-in-100-deaths-is-by-suicide].
+131. Hor K, Taylor M. Suicide and schizophrenia: a systematic review of rates and
+risk factors. J Psychopharmacol. 2010;24(4 Suppl):81-90.
+132. Zaheer J, Jacob B, de Oliveira C, et al. Service utilization and suicide among
+people with schizophrenia spectrum disorders. Schizophr Res. 2018;202:347-353.
+133. Cassidy RM, Yang F, Kapczinski F, et al. Risk Factors for Suicidality in Patients
+With Schizophrenia: A Systematic Review, Meta-analysis, and Meta-regression
+of 96 Studies. Schizophr Bull. 2018;44(4):787-797.
+134. Bifftu BB, Dachew BA. Perceived Stigma and Associated Factors among
+People with Schizophrenia at Amanuel Mental Specialized Hospital, Addis
+Ababa, Ethiopia: A Cross-Sectional Institution Based Study. Psychiatry J.
+2014;2014:694565.
+135. Ngoc TN, Weiss B, Trung LT. Effects of the family schizophrenia psychoeducation
+program for individuals with recent onset schizophrenia in Viet Nam. Asian J
+Psychiatr. 2016;22:162-166.
+136. Kingston Stevens A, McNichol J, Magalhaes L. Social relationships in
+schizophrenia: A review. Personality and Mental Health. 2009;3(3):203-216.
+137. Goreishizadeh M, Mohagheghi A, Farhang S, et al. Psychosocial disabilities in
+patients with schizophrenia. Iran J Public Health. 2012;41(5):116-121.
+138. Kim AM. Crimes by people with schizophrenia in Korea: comparison with the
+general population. BMC Psychiatry. 2019;19(1):377.
+139. Pathare S, Funk M, Drew Bold N, et al. Systematic evaluation of the QualityRights
+programme in public mental health facilities in Gujarat, India. The British Journal
+of Psychiatry. 2021;218(4):196-203.
+Management of Schizophrenia (Second Edition)
+APPENDIX 1
+EXAMPLE OF SEARCH STRATEGY
+Clinical Question: Is intermittent treatment safe and effective compared
+with continuous treatment for relapse prevention in schizophrenia?
+1. SCHIZOPHRENIA/
+2. (schizophrenic adj1 disorder*).tw.
+3. schizophrenia*.tw.
+4. 1 or 2 or 3
+5. ANTIPSYCHOTIC AGENTS/
+6. (antipsychotic adj1 (agent* or drug* or effect*)).tw.
+7. (major tranquili* adj2 agent*).tw.
+8. (neuroleptic adj1 (agent* or drug*)).tw.
+9. (major adj1 tranquili*).tw.
+10. antipsychotic*.tw.
+11. neuroleptic*.tw.
+12. 5 or 6 or 7 or 8 or 9 or 10 or 11
+13. intermittent.tw.
+14. continuous.tw.
+15. 13 or 14
+16. 12 and 15
+17. 4 and 16
+18. limit 17 to (english language and humans and yr=”2009 -Current”
+and “all adult (19 plus years)”)
+Management of Schizophrenia (Second Edition)
+APPENDIX 2
+CLINICAL QUESTIONS
+1. What are the risk factors for schizophrenia?
+2. What are the accurate screening tools for schizophrenia?
+3. What are the cost-effective screening tools for schizophrenia?
+4. Is early referral to psychiatric service more effective and safer
+compared with treatment in primary care?
+5. What are the accurate bio-psychosocial assessments in
+schizophrenia?
+6. What are criteria of diagnostic classification of schizophrenia?
+7. Is the current diagnostic classification sufficient for therapeutic and
+prognostic management of schizophrenia?
+8. Are the following service level interventions effective and safe in
+schizophrenia?
+• crisis and emergency service
+• intensive care management
+• assertive outreach team
+• early intervention service
+• community mental health teams
+• day hospitalisation/day care
+• residential care
+• integrating mental health to primary care
+• services in primary care
+9. Are the following pharmacological agents safe and effective in
+schizophrenia?
+• single atypical antipsychotic (AP)
+• single conventional AP
+• combined AP
+10. Is rapid escalation of AP/other agents safe and effective in acute
+exacerbation of schizophrenia?
+11. Is depot AP/AAP safe and effective in achieving remission in
+schizophrenia?
+12. Is depot AP/AAP safe and effective in first episode in schizophrenia?
+13. Are AAPs more effective and safe compared with conventional APs
+to prevent relapse in schizophrenia?
+14. Is early initiation of AP safe and effective for first episode or early
+schizophrenia?
+15. Is intermittent treatment safe and effective compared with
+continuous treatment for relapse prevention in schizophrenia?
+16. What is the safe and effective treatment for extrapyramidal signs,
+sedation and weight gain associated with AP?
+17. What are the safe and effective physical therapies in schizophrenia?
+18. Are the following psychosocial interventions safe and effective
+(improving function or quality of life) in schizophrenia?
+Management of Schizophrenia (Second Edition)
+• family therapy
+• psychoeducation
+• problem solving skill
+• counseling and psychotherapy
+• Cognitive Behaviour Therapy
+• Cognitive Remediation Therapy
+• social skills training
+• supported employment
+• social enterprise
+• physical exercise
+• peer support services
+• life skills training (social and academic)
+• creative and expressive art therapy
+• religion and spiritual
+19. Is traditional and complementary medicine safe and effective in
+schizophrenia?
+20. What is the predictor for treatment-resistant schizophrenia (TRS)?
+21. What is the safe and effective AP in TRS?
+22. Is augmentation of clozapine with other medication safe and
+effective in patients who do not respond to clozapine monotherapy?
+23. Does pregnancy increase the risk of psychosis development or
+relapse of schizophrenia?
+24. Is AP safe and effective in pregnancy, post-partum and breastfeeding
+in schizophrenia?
+25. Is psychosocial treatment safe and effective in pregnancy, postpartum and breastfeeding in schizophrenia?
+26. What is the prevalence of substance-related disorder in
+schizophrenia?
+27. Are the following safe and effective in schizophrenia with substancerelated disorder (dual diagnosis):
+• dual diagnosis service vs usual care
+• AP
+• psychosocial treatment
+28. What is the prevalence of suicide in schizophrenia?
+29. What is the risk factor of suicide in schizophrenia?
+30. What is the safe and effective suicide prevention strategy in
+schizophrenia?
+31. What is the prevalence of stigma against schizophrenia?
+32. What are the safe and effective strategies to combat stigma in
+schizophrenia?
+33. What is the mental health literacy of schizophrenia among service
+users?
+34. What are the common social problems in schizophrenia?
+35. What are the safe and effective interventions for social problems in
+schizophrenia?
+Management of Schizophrenia (Second Edition)
+APPENDIX 3
+DIAGNOSTIC CRITERIA FOR SCHIZOPHRENIA (DSM-5)
+The following criteria, as outlined by the DSM-5, must be met in order
+for schizophrenia to be accurately diagnosed:
+A. The individual experiences two or more of the following for a
+significant portion of time during a 1-month period. And at least one
+of these must be (1), (2), or (3):
+1. Delusions
+2. Hallucinations
+3. Disorganized speech (incoherence or derailment)
+4. Completely disorganized or catatonic behavior
+5. Negative symptoms, such as diminished emotional expression
+B. For a significant amount of time since the disturbance began, level
+of functioning in one or more major areas (e.g., work, interpersonal
+relations, or self-care) is clearly below the level achieved prior to
+onset.
+• In children or adolescents, there is a failure to achieve the expected
+level of interpersonal, academic, or occupational functioning.
+C. Signs of the disturbance continue for 6 months or longer. This period
+must include at least 1 full month of symptoms that meet the first
+criteria and may include periods of residual symptoms. During these
+residual periods, the signs of the disturbance may be manifested
+only by negative symptoms or by two or more symptoms outlined in
+the first criteria, only in a lesser form.
+D. The disturbance cannot be better explained by schizoaffective
+disorder, depressive or bipolar disorder because either:
+• No major depressive or manic episodes have occurred concurrently
+with the active-phase symptoms or if mood episodes have occurred
+during active phase symptoms, it’s been for a minor amount of time.
+E. The disturbance cannot be attributed to the physiological effects of a
+substance (e.g., a drug of abuse or medication) or another medical
+condition.
+F. If the individual has a history of autism spectrum disorder or a
+communication disorder of childhood onset, the additional diagnosis
+of schizophrenia is only made if delusions or hallucinations as well
+as the other required symptoms of schizophrenia are present for a
+month or more.
+G. There are a few specifications that should be made when it comes
+to diagnosing schizophrenia. This includes specifying the severity, if
+Management of Schizophrenia (Second Edition)
+it is with catatonia, as well as categorizing it episodically:
+• First episode, currently in partial remission: Partial remission
+refers to a period of time in which the individual has improved
+after a previous episode is maintained and the criteria are only
+partially met.
+• First episode, currently in full remission: Full remission refers to a
+period of time after a previous episode during which no symptoms
+are present.
+• Multiple episodes, currently in acute episode: Several episodes
+may be determined after a minimum of two.
+• Multiple episodes currently in partial remission
+• Multiple episodes, currently in full remission
+• Continuous: Symptoms of the disorder remain for the majority of
+the illness.
+• Unspecified
+Management of Schizophrenia (Second Edition)
+APPENDIX 4
+INTERNATIONAL STATISTICAL CLASSIFICATION OF DISEASES
+AND
+RELATED HEALTH PROBLEMS, 10TH REVISION (ICD 10)
+Schizophrenia is coded under F20.
+General
+criteria
+for
+Paranoid,
+Hebephrenic,
+Catatonic
+and
+Undifferentiated type of Schizophrenia:
+G1. Either at least one of the syndromes, symptoms and signs listed
+below under (1), or at least two of the symptoms and signs listed
+under (2), should be present for most of the time during an episode
+of psychotic illness lasting for at least one month (or at some time
+during most of the days).
+1. At least one of the following:
+a. Thought echo, thought insertion or withdrawal, or thought
+broadcasting.
+b. Delusions of control, influence or passivity, clearly referred
+to body or limb movements or specific thoughts, actions,
+sensations or delusional perception.
+c. Hallucinatory voices giving a running commentary on the
+patient's behaviour, or discussing him between themselves,
+or other types of hallucinatory voices coming from some part
+of the body.
+d. Persistent delusions of other kinds that are culturally
+inappropriate and completely impossible (e.g. being able to
+control the weather or being in communication with aliens
+from another world).
+2. or at least two of the following:
+e. Persistent hallucinations in any modality, when occurring
+every day for at least one month, when accompanied by
+delusions (which may be fleeting or half-formed) without
+clear affective content, or when accompanied by persistent
+over-valued ideas.
+f. Neologisms, breaks or interpolations in the train of thought,
+resulting in incoherence or irrelevant speech.
+g. Catatonic behaviour, such as excitement, posturing or waxy
+flexibility, negativism, mutism and stupor.
+h. "Negative" symptoms such as marked apathy, paucity of
+speech, and blunting or incongruity of emotional responses
+(it must be clear that these are not due to depression or to
+neuroleptic medication).
+G2. Most commonly used exclusion criteria: If the patient also meets
+criteria for manic episode (F30) or depressive episode (F32), the
+criteria listed under G1.1 and G1.2 above must have been met
+before the disturbance of mood developed.
+Management of Schizophrenia (Second Edition)
+G3. The disorder is not attributable to organic brain disease (in
+the sense of F0), or to alcohol- or drug-related intoxication,
+dependence or withdrawal.
+Pattern of course
+F20.x0 Continuous (no remission of psychotic symptoms throughout
+the period of observation).
+F20.x1 Episodic, with a progressive development of 'negative'
+symptoms in the intervals between psychotic episodes;
+F20.x2 Episodic, with persistent but non-progressive 'negative'
+symptoms in the intervals between psychotic episodes;
+F20.x3 Episodic (remittent) with complete or virtually complete
+remissions between psychotic episodes;
+F20.x4 Incomplete remission;
+F20.x5 Complete or virtually complete remission;
+F20.x8 Other pattern of course.
+F20.x9 Course uncertain, period of observation too short.
+Management of Schizophrenia (Second Edition)
+APPENDIX 5
+DOSING REGIMEN FOR ORAL ANTIPSYCHOTICS
+Chlorpromazine
+Haloperidol
+Perphenazine
+Sulpiride
+Trifluoperazine
+Amisulpride
+Aripiprazole
+Asenapine
+First-generation APs
+Second-generation APs
+50 - 100
+2 - 5
+4 - 8
+200 - 400
+5 - 10
+10 - 15
+10
+50
+200
+2
+16
+400
+10
+10
+10
+300
+TDS
+OD/BD
+TDS
+BD
+BD
+OD
+BD
+BD
+C
+C
+C
+NA
+C
+C
+C
+NA
+L3
+L2
+NA
+NA
+NA
+L3
+NA
+NA
+1000
+20
+24 (64 mg -
+hospitalised
+patients)
+2400
+30
+30
+30
+1200
+50 - 200/day
+2 - 5 every
+1 - 7 days
+4 - 8/day
+200 every
+3 - 7 days
+5 every
+3 - 7 days
+10 - 15 after
+2 weeks
+5 - 10 after
+1 week
+50 - 100 every
+2 - 3 days
+2 mg/day
+10 mg/day
+200 mg/day
+5 mg/day
+400 mg/day
+15 mg/day
+10 mg/day
+100 mg/day
+(reference)
+1 for the first 4
+days. Then,
+increased to 2
+mg on Day 5
+through 7.
+From Day 8,
+dose can be
+increased up
+to 4
+Brexpiprazole
+1
+2
+OD
+NA
+NA
+4
+2 mg/day
+Management of Schizophrenia (Second Edition)
+Cariprazine
+Clozapine
+Olanzapine
+Paliperidone
+Quetiapine
+Risperidone
+Ziprasidone
+1.5
+12.5
+5 - 10
+3
+IR: 50
+ER: 300
+40 - 80
+1 - 2
+1.5
+300 - 900
+5
+6 - 12
+IR: 300 - 450
+ER: 600 - 800
+40
+2 - 4
+OD
+OD/BD
+OD
+OD
+IR: BD
+ER: OD
+BD
+OD/BD
+NA
+B
+C
+C
+C
+C
+C
+NA
+L3
+L2
+NA
+L4
+L4
+L3
+6
+900
+20
+12
+IR: 750
+ER: 800
+160
+16
+Slow
+increment of
+1.5
+Refer
+to Appendix
+3 and 4
+5/day for
+every 1 week
+3 every 5 days
+IR: Refer to
+footnote c
+ER: Refer to
+footnote d
+20 every
+2 - 3 days
+1 every
+2 - 3 days
+1.5 mg/day
+-
+10 mg/day
+-
+400 mg/day
+4 mg/day
+80 mg/day
+IR: immediate release, ER: extended release, OD: once daily, BD: twice daily, TDS: thrice daily, NA: not available
+*Chlorpromazine equivalent dose represents the approximate dose equivalent to 100 mg of chlorpromazine (relative potency)
+aUnited States Food and Drug Administration (US FDA) categorization of risk of drug use in pregnancy:
+A=Controlled studies fail to demonstrate a risk to the foetus in the first trimester, and the possibility of foetal harm remains remote
+B=Either animal-reproduction studies have not demonstrated a foetal risk but there is no controlled in human
+C=Either studies in animals have revealed adverse effects on the foetus (teratogenic or embryocidal or other) and there are no controlled studies in human
+D=There is positive evidence of human foetal risk
+X=Studies in animals or human beings have demonstrated foetal abnormalities
+Management of Schizophrenia (Second Edition)
+bAmerican College of Obstetricians and Gynecologists lactation risk categories: L1=Safest; L2=Safer; L3=Moderately safe; L4=Possibly hazardous;
+L5=Contraindicated
+cQuetiapine IR tablet: Day 1- 25 mg BD, Day 2- 50 mg BD, Day 3- 100 mg BD, Day 4- 150 mg BD. Then adjusted according to response.
+dQuestiapine ER tablet: Day 1- 300 mg OD, Day 2- 600 mg OD. Then adjusted according to response.
+Source:
+1. Taylor DM, Barnes TRE, Young AH. The Maudsley Prescribing Guidelines in Psychiatry (14th Edition). London: Wiley Blackwell; 2021
+2. British National Formulary (BNF) 80. London: BMJ Group and Pharmaceutical Press; 2021
+3. Monthly Index of Medical Specialities – MIMS Malaysia Online (Available at: http://www.mims.com/malaysia)
+4. ACOG Practice Bulletin. Clinical Practice Guidelines for Obstetrician-Gynaecologist – Use of Psychiatric Medications During Pregnancy and Lactation
+Management of Schizophrenia (Second Edition)
+APPENDIX 6
+DOSING REGIMEN FOR DEPOT INJECTIONS OF ANTIPSYCHOTICS
+Aripiprazole
+Flupenthixol decanoate
+Fluphenazine decanoate
+400 mg/month
+400 mg/week
+100 mg/2
+weeks
+4 weeks
+2 - 4 weeks
+14 - 35 days
+C
+C
+NA
+10 mg/week
+5 mg/week
+300 mgc -
+400 mgd
+20 mg
+(elderly -
+quarter to
+half adult
+dose)
+12.5 mg
+(elderly -
+6.25 mg)
+300 - 400 mg
+every month
+50 mg every
+4 weeks to
+300 mg every
+12.5 - 100 mg
+Not required
+Test dose 20 mg,
+then 20 - 40 mg
+after at least
+7 days, then
+20 - 40 mg
+every 2 - 4
+weeks,
+adjusted
+according to
+response
+Test dose
+12.5 mg, then
+12.5 - 100 mg
+after 4 - 7
+days, then
+12.5 - 100 mg
+every 14 - 35
+days,
+adjusted
+according
+to response
+L3
+NA
+L3
+400 mg/month
+Paliperidone palmitate
+150 mg/month
+525/3 months
+1 - 3 months
+NA
+150 mge
+175 mg
+f
+25 - 150
+every 1 month or
+175 - 525 mg
+every 3 months
+Refer to
+footnote
+e and
+f
+NA
+100 mg/month
+Management of Schizophrenia (Second Edition)
+Risperidone microsphere
+50 mg/
+2 weeks
+2 weeks
+C
+50 mg/2 weeks
+25/37.5
+g
+25 - 50
+Refer to
+footnote
+g
+L3
+Zuclopenthixol decanoate
+600 mg/week
+1 - 4 weeks
+NA
+100 mg/week
+100 mg
+(elderly -
+quarter to
+half adult
+dose)
+200 - 500 mg
+every 1 to
+4 weeks
+Test dose
+100 mg, then
+200 - 500 mg
+after at least 7
+days, then
+200 - 500 mg
+every 1 - 4
+weeks,
+adjusted
+according to
+response
+NA
+NA: Not available
+*Chlorpromazine equivalent dose represents the approximate dose equivalent to 100 mg of chlorpromazine (relative potency)
+aUnited States Food & Drug Administration (US FDA) categorisation of risk of drug use in pregnancy:
+A=Controlled studies fail to demonstrate a risk to the foetus in the first trimester, and the possibility of foetal harm remains remote
+B=Either animal-reproduction studies have not demonstrated a foetal risk but there is no controlled in human
+C=Either studies in animals have revealed adverse effects on the foetus (teratogenic or embryocidal or other) and there are no controlled studies in human
+D=There is positive evidence of human foetal risk
+X=Studies in animals or human beings have demonstrated foetal abnormalities
+bAmerican College of Obstetricians and Gynecologists lactation risk categories: L1=Safest; L2=Safer; L3=Moderately safe; L4=Possibly hazardous;
+L5=Contraindicated
+cCPD2D6 poor metabolisers
+dStarting dose can be administered following either one regimen (Abilify Maintena®):
+1) One injection start: Administer 1 injection 400 mg and continue treatment with 10 mg to 20 mg oral aripiprazole/day for 14 consecutive days to maintain
+therapeutic aripiprazole concentrations during initiation of therapy
+Management of Schizophrenia (Second Edition)
+2) Two injection start: Administer two separate injections at separate injection sites, along with one 20 mg dose of oral aripiprazole. After the injection
+start, the recommended dose range (300 - 400 mg) should be administered once monthly as a single injection (no sooner than 26 days after the previous
+injection).
+eMaintenance in patients previously responsive to paliperidone or risperidone (Invega Sustenna®): 150 mg for 1 dose on day 1, then 100 mg for 1 dose
+on day 8. The third dose subsequently adjusted at monthly intervals according to response.
+fMaintenance in patients who are clinically stable on once-monthly IM paliperidone (Invega Trinza®): Initially 175 - 525 every 3 months using 3.5-fold
+higher dose of the last once-monthly dose, adjusted according to response
+g1) Patient tolerant to risperidone by mouth and taking oral risperidone ≤4 mg daily - Initially 25 mg every 2 weeks, adjusted in steps of 12.5 mg (maximum
+per dose 50 mg every 2 weeks) at intervals of at least 4 weeks. During initiation, risperidone by mouth may need to be continued for 4 - 6 weeks.
+Risperidone by mouth may also be used during dose adjustment of depot injection.
+2) Patient tolerant to risperidone by mouth and taking oral risperidone >4 mg daily - Initially 37.5 mg every 2 weeks, adjusted in steps of 12.5 mg (maximum
+per dose 50 mg every 2 weeks) at intervals of at least 4 weeks. During initiation, risperidone by mouth may need to be continued for 4 - 6 weeks.
+Risperidone by mouth may also be used during dose adjustment of depot injection.
+Source:
+1. Taylor DM, Barnes TRE, Young AH. The Maudsley Prescribing Guidelines in Psychiatry (14th Edition). London: Wiley Blackwell; 2021
+2. British National Formulary (BNF) 80. London: BMJ Group and Pharmaceutical Press; 2021
+3. Monthly Index of Medical Specialities - MIMS Malaysia Online (Available at: http://www.mims.com/malaysia)
+4. ACOG Practice Bulletin. Clinical Practice Guidelines for Obstetrician-Gynaecologist - Use of Psychiatric Medications During Pregnancy and Lactation
+Management of Schizophrenia (Second Edition)
+APPENDIX 7
+CLOZAPINE INITIATION AND TITRATION REGIMEN
+FOR IN-PATIENT
+Target dose for: a female non-smokers (250 mg/day) b male non-smokers (350 mg/day)
+c female smokers (450 mg/day)
+Treatment breaks and blood monitoring for patients who have been on clozapine for
+more than 18 weeks:
+1. If clozapine is omitted ≥48 hours to ≤72 hours, start at 12.5 mg once or twice a day,
+gradually increase to avoid the risk of serious AEs (e.g. hypotension, tachycardia,
+raised temperature). Continue with the established monitoring frequency.
+2. If clozapine is omitted >72 hours to <28 days, start at 12.5 mg and titrate up. If
+no haematologically abnormality occurs, monitoring at intervals not exceeding 4
+weeks may be resumed.
+3. If clozapine is omitted ≥28 days, start as new patient, new and pre-treatment
+result and monitoring same as new commencement for the next 18 weeks of
+treatment. Start at 12.5 mg and titrate up.
+Discontinuation of treatment and blood monitoring:
+1. If a patient discontinues treatment, blood monitoring is required at their current
+monitoring frequency for a period of 4 weeks after stopping.
+2. If clozapine is to be stopped for non-haematological reasons or is a planned
+discontinuation, then a gradual reduction in dose over a 1 to 2-week period is
+recommended.
+Source:
+1. Taylor DM, Barnes TRE, Young AH. The Maudsley Prescribing Guidelines in
+Psychiatry (14th Edition). London: Wiley Blackwell; 2021
+2. Northamptonshire Healthcare NHS. Foundation Trust. Clozapine Treatment
+Operational Procedures; Oct 2017140
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+18
+21
+28
+Day
+-
+12.5
+25
+25
+25
+25
+50
+50
+75
+75
+100
+100
+125
+125
+150
+150
+200
+200
+Morning dose (mg)
+12.5
+12.5
+25
+25
+25
+50
+50
+75
+75
+100
+100
+125
+125a
+150
+150
+200b
+200
+250c
+Evening dose (mg)
+Management of Schizophrenia (Second Edition)
+SUGGESTED TITRATION REGIMEN FOR CLOZAPINE INITIATION IN THE COMMUNITY
+1
+Monday
+6.25
+6.25
+A
+100
+2
+Tuesday
+6.25
+6.25
+A
+3
+Wednesday
+6.25
+6.25
+A
+4
+Thursday
+6.25
+12.5
+A, B, full blood count (FBC)
+5
+Friday
+12.5
+12.5
+A
+Check results from day 4. Remind patient of
+out-of-hours arrangements for weekend
+6
+Saturday
+12.5
+12.5
+No routine monitoring unless clinically indicated
+7
+Sunday
+12.5
+12.5
+No routine monitoring unless clinically indicated
+8
+Monday
+12.5
+25
+A
+75*
+9
+Tuesday
+12.5
+25
+A
+10
+Wednesday
+25
+25
+A
+11
+Thursday
+25
+37.5
+A, B, FBC
+12
+Friday
+25
+37.5
+A
+Check results from day 4. Remind patient of
+out-of-hours arrangements for weekend
+13
+Saturday
+25
+37.5
+No routine monitoring unless clinically indicated
+14
+Sunday
+25
+37.5
+No routine monitoring unless clinically indicated
+15
+Monday
+37.5
+37.5
+A
+50*
+16
+Tuesday
+37.5
+37.5
+Not seen unless problems
+17
+Wednesday
+37.5
+50
+A
+18
+Thursday
+37.5
+50
+Not seen unless problems
+19
+Friday
+50
+50
+A, B, FBC
+20
+Saturday
+50
+50
+No routine monitoring unless clinically indicated
+21
+Sunday
+50
+50
+No routine monitoring unless clinically indicated
+22
+Monday
+50
+75
+A
+25*
+23
+Tuesday
+50
+75
+Not seen unless problems
+24
+Wednesday
+75
+75
+A
+25
+Thursday
+75
+75
+Not seen unless problems
+26
+Friday
+75
+100
+A, B, FBC
+27
+Saturday
+75
+100
+No routine monitoring unless clinically indicated
+28
+Sunday
+75
+100
+No routine monitoring unless clinically indicated
+Day Day of the week
+Morning dose (mg) Evening dose (mg)
+Monitoring
+Percentage dose of
+previous antipsychotics
+Management of Schizophrenia (Second Edition)
+Note that much faster titrations can be undertaken in many patients where tolerability allows.
+Further increments should be 25 - 50 mg/day (generally 25 mg/day) until target dose is reached.
+A. Pulse, postural blood pressure, temperature should be taken before the dose and, ideally, between 30 minutes and 6 hours after the dose. Enquire
+about AEs.
+B. Mental state, weight, review and actively manage AEs (e.g. behavioural advice, slow clozapine titration or reduce dose of other AP, start adjunctive
+treatments). Consider troponin, C-Reactive Protein, beta-natriuretic peptide.
+*May need to be adjusted depending on AEs and mental state.
+Source: Taylor DM, Barnes TRE, Young AH. The Maudsley Prescribing Guidelines in Psychiatry (14th Edition). London: Wiley Blackwell; 2021
+Management of Schizophrenia (Second Edition)
+APPENDIX 8
+MONITORING PARAMETERS FOR ANTIPSYCHOTICS
+Blood Pressure
+Baseline, frequently during dose
+titration and dose changes to
+detect AP-induced changes and
+generally for physical health
+check
+If severe hypotension or
+hypertension (with clozapine)
+observed, slower the rate of
+titration Consider switching to
+another AP if symptomatic
+postural hypotension
+Treat hypertension in line with
+Malaysia CPG on Management
+of Hypertension (5th Edition)
+Clozapine, chlorpromazine
+and quetiapine are most
+likely to be associated with
+postural hypotension
+Amisulpride, aripiprazole,
+sulpiride
+Weight (include waist
+size and BMI, if
+possible)
+Baseline, frequently for three
+months then yearly to detect
+AP-induced changes and
+generally for physical health
+check
+Offer lifestyle advice
+Consider changing AP and/or
+dietary/pharmacological
+intervention
+Clozapine, olanzapine
+-frequently for three months,
+then 3-monthly for first year,
+then yearly
+Aripiprazole, ziprasidone are
+not clearly associated with
+weight gain but monitoring is
+required nonetheless –
+prevalence of obesity is high in
+this patient group
+Full blood count
+Baseline and yearly as part of a
+routine physical health check and
+to detect chronic bone marrow
+suppression (small risk
+associated with some APs)
+Stop suspected medication if
+neutrophils <1.5x109/L
+Refer to specialist medical care
+if neutrophils <0.5x109/L
+Note high frequency of benign
+ethnic neutropenia in certain
+ethnic groups
+Clozapine - FBC weekly for
+18 weeks, then monthly
+None
+Management of Schizophrenia (Second Edition)
+Baseline and yearly as part of a
+routine physical health check
+Urea and electrolytes
+including creatinine or
+estimated glomerular
+filtration rate (eGFR)
+Investigate all abnormalities
+detected
+Amisulpride and sulpiride
+are renally excreted -
+consider reducing dose if
+eGFR reduced
+None
+Blood lipids (cholesterol,
+triglycerides) - fasting
+sample if possible
+Baseline, three months, then
+yearly to detect AP-induced
+changes and generally for
+physical health check
+Offer lifestyle advice
+Consider changing AP and/or
+initiating statin therapy
+Clozapine, olanzapine -
+3-monthly for first year, then
+yearly
+Some APs (e.g. aripiprazole)
+not clearly associated with
+dyslipidaemia, but as
+prevalence of dyslipidaemia is
+high in this patient group, so
+all patients should be
+monitored
+Plasma glucose -
+fasting sample if possible
+Baseline, at 4 - 6 months, then
+yearly to detect AP-induced
+changes and generally for
+physical health check
+Offer lifestyle advice
+Obtain fasting sample or
+non-fasting HbA1c
+Refer to medical
+specialist/family physician care
+Clozapine, olanzapine,
+chlorpromazine - test at
+baseline, one month, then
+4 - 6 monthly
+Some APs are not clearly
+associated with impaired
+fasting glycemia, but as its
+prevalence is high in this
+patient group, so all patients
+should be monitored
+Liver function test (LFT)
+Baseline, then yearly as part of a
+routine physical health check and
+to detect chronic AP-induced
+changes (rare)
+Stop suspected medication if
+LFT indicates hepatitis
+(transaminases x3 normal) or
+functional damage (prothrombin
+time/albumin change)
+Clozapine and chlorpromazine are associated with
+hepatic failure
+Amisulpride, sulpiride
+Prolactin
+Baseline, then at six months,
+then yearly to detect AP-induced
+changes
+Switch drugs if hyperprolactinaemia confirmed and
+symptomatic Consider tests of
+bone mineral density for those
+with chronically raised prolactin
+Amisulpride, sulpiride,
+risperidone and paliperidone
+are particularly associated
+with hyperprolactinaemia
+Asenapine, aripiprazole,
+clozapine, quetiapine,
+olanzapine (<20 mg) and
+ziprasidone usually do not
+elevate prolactin, but worth
+measuring if symptoms arise
+Management of Schizophrenia (Second Edition)
+Baseline and when target dose is
+reached (ECG changes are rare
+in clinical practice) on admission
+to hospital and before discharge
+if medication regimen is changed
+Electrocardiogram
+Discuss with/refer to medical
+specialist/family physician care
+if abnormality detected
+Haloperidol, sertindole -
+ECG is mandatory
+Ziprasidone - ECG is
+mandatory in some situations
+Risk of sudden cardiac death
+increased with most APs
+Ideally all patients should be
+offered an ECG at least yearly
+Creatinine
+phosphokinase
+Baseline, then if NMS is
+suspected
+In the psychiatric unit:
+- stop suspected medication,
+monitor temperature, pulse,
+blood pressure
+- consider benzodiazepines if
+not already prescribed – IM
+lorazepam
+In the medical/emergency unit:
+rehydration, bromocriptine +
+dantrolene, sedation with
+benzodiazepines, artificial
+ventilation if required
+NMS is more likely with
+FGAs
+None
+Adapted:
+1. Taylor DM, Barnes TRE, Young AH. The Maudsley Prescribing Guidelines in Psychiatry (14th Edition). London: Wiley Blackwell; 2021
+2. Clinical Practice Guidelines Management of Schizophrenia in Adults. 2009. [Available at: https://www.moh.gov.my/moh/attachments/3882.pdf]
+Management of Schizophrenia (Second Edition)
+APPENDIX 9
+CONSENSUS CRITERIA FOR ASSESSMENT AND DEFINITION OF
+TREATMENT-RESISTANT SCHIZOPHRENIA
+Interview using standardised
+rating scale (e.g., PANSS,
+BPRS, SANS, SAPS)
+Assessment
+Prospective evaluation of
+treatment using a standardised
+rating scale
+≥12 weeks
+Duration
+Subjective distress
+Adequate treatment
+Not required
+Not required
+Dosage
+Equivalent to >600 mg of
+chlorpromazine per day
+Same as for minimum criteria
+≥12 weeks; specify duration of
+treatment resistance
+At least moderate severity
+Severity
+At least moderate severity and
+<20% symptom reduction
+during a prospective trial or
+observation of ≤6 weeks
+At least moderate functional
+impairment measured using
+a validated scale (e.g.,
+SOFAS)
+Functioning
+Same as for minimum criteria
+Information to be gathered
+from patient/carer’s report,
+staff and case notes, pill
+counts and dispensing
+charts
+Assessment of past
+response
+Same as for minimum criteria
+≥6 weeks at a therapeutic
+dosage; record minimum
+and mean (SD) duration for
+each treatment episode
+Duration
+Same as for minimum criteria
+≥2 past adequate treatment
+episodes with different AP
+Specify median number of
+failed antipsychotic trials
+Number of APs
+≥2 past treatment episodes
+with different AP and at least
+one utilising a LAI AP (for at
+least four months)
+Specify median number of
+failed AP trials
+≥80% of prescribed doses
+taken; adherence should be
+assessed using at least two
+sources (pill counts,
+dispensing chart reviews and
+patient/carer’s report)
+AP plasma levels monitored
+on at least one occasion
+Specify methods used to
+establish adherence
+Current adherence
+Same as the minimum criteria,
+with addition of trough AP
+serum levels measured on at
+least two occasions separated
+by at least two weeks (without
+prior notification to patient)
+Management of Schizophrenia (Second Edition)
+Symptom domain
+Positive, negative, cognitive
+Same as for minimum criteria
+Meets the above criteria for
+treatment resistance plus
+failure to respond to adequate
+clozapine treatment
+Ultra-treatment
+resistant: clozapine
+Same as for minimum criteria
+Early onset (within one year
+of treatment onset), mediumterm onset (1 - 5 years after
+treatment onset), late onset
+(>5 years after treatment
+onset)
+Time course
+Same as for minimum criteria
+Adapted: Howes OD, McCutcheon R, Agid O, et al. Treatment-Resistant
+Schizophrenia: Treatment Response and Resistance in Psychosis (TRRIP)
+Working Group Consensus Guidelines on Diagnosis and Terminology. Am
+J Psychiatry. 2017;174(3):216-229
+Management of Schizophrenia (Second Edition)
+LIST OF ABBREVIATIONS
+AAP(s)
+atypical antipsychotic(s)
+ACT
+assertive community treatment
+AE(s)
+adverse event(s)
+AGREE II
+Appraisal of Guidelines for Research and Evaluation II
+AP(s)
+antipsychotic(s)
+APA
+American Psychiatric Association
+AUC
+area under the curve
+BPRS
+Brief Psychiatric Rating Scale
+B-CATS
+Brief Cognitive Assessment Tool for Schizophrenia
+CM
+case management
+CBT
+cognitive behaviour therapy
+CBT-p
+cognitive behaviour therapy for psychosis
+CGI-S
+Clinical Global Impression Scale
+CI
+confidence interval
+CDSS
+Calgary Depression Rating Scale for Schizophrenia
+CMHC
+community mental health centre
+CPG
+clinical practice guidelines
+CPZ
+chlorpromazine
+CQ
+clinical questions
+CrI
+credible interval
+CT-R
+Recovery-Oriented Cognitive Therapy
+CRT
+cognitive remediation therapy
+DG
+development group
+DSM-5
+Diagnostic and Statistical Manual of Mental Disorders 5th Edition
+DUP
+duration of untreated psychosis
+ECG
+electrocardiogram
+ECT
+electroconvulsive therapy
+eGFR
+estimated glomerular filtration rate
+EPS
+extrapyramidal side effects
+EWS
+early warning signs
+FGA(s)
+first-generation antipsychotic(s)
+FSP
+full service partnerships
+g
+gramme
+GAF
+Global Assessment of Functioning
+GRADE
+Grading Recommendations, Assessment, Development and Evaluation
+GHQ
+General Health Questionnaire
+HAMD
+Hamilton Depression Rating Scale
+HTA
+Health Technology Assessment
+HR(s)
+hazard ratio(s)
+ICD
+International Statistical Classification of Diseases and Related Health Problems
+ICM
+intensive case management
+IM
+intramuscular
+IQR
+interquartile range
+IV
+intravenous
+kg
+kilogram
+LAI
+long-acting injection
+LBW
+low birth weight
+LFT
+liver function test
+MD
+mean difference
+mg
+milligram
+Management of Schizophrenia (Second Edition)
+MINI
+Mini International Neuropsychiatric Interview
+ml
+millilitre
+MoH
+Ministry of Health
+ms
+millisecond
+MSE
+mental state examination
+ng
+nanogram
+NICE
+National Institute for Health and Care Excellence
+NMS
+neuroleptic malignant syndrome
+NNT(B)
+number needed to treat (to benefit)
+NNTH
+number needed to treat to harm
+NSA-4
+The 4-item Negative Symptom Assessment
+OR
+odds ratio
+PANSS
+Positive and Negative Symptom Scale for Schizophrenia
+PPC
+pre-pregnancy care
+PSP
+Personal and Social Performance
+PQ-B
+Prodromal Questionnaire - Brief Version
+QLS
+Quality of Life Scale
+Q-LES-Q
+Quality of Life Enjoyment and Satisfaction Questionnaire
+QoL
+quality of life
+RCT(s)
+randomised controlled trial(s)
+RC
+review committee
+RR
+relative risk
+SCID
+Structured Clinical Interview for DSM Disorders
+SCID-5-CV Structured Clinical Interview for DSM-5 Disorders-Clinician Version
+SCL-90-R
+Symptom-Checklist-90-Revised
+SEI
+specialised early intervention
+SGA(s)
+second-generation antipsychotic(s)
+SMD
+standardised mean difference
+SPro
+Self-screen-Prodrome
+SST
+social skills training
+SUD
+substance use disorder
+SQ
+Screening Questionnaire
+TAU
+treatment as usual
+tDCS
+transcranial direct current stimulation
+TESS
+Treatment Emergent Side Effect Scale
+TMS
+transcranial magnetic stimulation
+TRRIP
+Treatment Response and Resistance in Psychosis
+TRS
+treatment-resistant schizophrenia
+US FDA
+United States Food and Drug Administration
+USD
+United States Dollar
+vs
+versus
+Management of Schizophrenia (Second Edition)
+ACKNOWLEDGEMENT
+The CPG DG members would like to express their gratitude and
+appreciation to the following for their contributions:
+• Panel of external reviewers who reviewed the draft
+• Technical Advisory Committee of CPG for their valuable input and
+feedback
+• Health Technology Assessment and Clinical Practice Guidelines
+Council for approving the CPG
+• Dr. Junainah Sabirin, Consultant Public Health Physician on the
+development of the CPG
+• Ms. Rosnani Latip, Ms. Zamilah Mat Jusoh and Ms. Subhiyah Ariffin
+on retrieval of evidence
+• Ms. Sofea Amir on the design cover of the CPG
+• All those who have contributed directly or indirectly to the
+development of the CPG
+DISCLOSURE STATEMENT
+The panel members of both DG and RC had completed disclosure
+forms. None held shares in pharmaceutical firms or acts as consultants
+to such firms. Details are available upon request from the CPG
+Secretariat.
+SOURCE OF FUNDING
+The development of the CPG on Management of Schizophrenia
+(Second Edition) was supported financially in its entirety by the MoH
+Malaysia while the printing of the CPG was sponsored by the Malaysian
+Psychiatric Association.
+Management of Schizophrenia (Second Edition)

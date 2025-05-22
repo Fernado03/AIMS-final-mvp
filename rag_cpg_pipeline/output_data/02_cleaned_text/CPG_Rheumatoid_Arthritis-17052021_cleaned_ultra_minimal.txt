@@ -1,0 +1,3217 @@
+CLINICAL PRACTICE GUIDELINES
+2019 MOHIPIPAKI422.19(6U)-©
+Management of
+Rheumatoid Arthritis
+Management of Rheumatoid Arthritis
+Published by:
+Malaysia Health Technology Assessment Section (MaHTAS)
+Medical Development Division, Ministry of Health Malaysia
+Level 4, Block E1, Precinct 1
+Federal Government Administrative Centre
+62590 Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is MaHTAS. Content may be
+reproduced in any number of copies and in any format or medium
+provided that a copyright acknowledgement to MaHTAS is included and
+the content is not changed, not sold, nor used to promote or endorse
+any product or service, and not used in an inappropriate or misleading
+context.
+ISBN: 978-967-2173-82-3
+Available on the following websites:
+http://www.moh.gov.my
+http://www.acadmed.org.my
+http://www.msr.my/
+Also available as an app for Android and IOS platform: MyMaHTAS
+STATEMENT OF INTENT
+These clinical practice guidelines (CPG) are meant to be guides for
+clinical practice, based on the best available evidence at the time of
+development. Adherence to these guidelines may not necessarily
+guarantee the best outcome in every case. Every healthcare provider is
+responsible for the management of his/her unique patient based on the
+clinical picture presented by the patient and the management options
+available locally.
+Management of Rheumatoid Arthritis
+UPDATING THE CPG
+These guidelines were issued in 2019 and will be reviewed in a minimum
+period of four years (2023) or sooner if there is a need to do so. When
+it is due for updating, the Chairman of the CPG or National Advisor of
+the related specialty will be informed about it. A discussion will be done
+on the need for a revision including the scope of the revised CPG. A
+multidisciplinary team will be formed and the latest systematic review
+methodology used by MaHTAS will be employed.
+Every care is taken to ensure that this publication is correct in every
+detail at the time of publication. However, in the event of errors or
+omissions, corrections will be published in the web version of this
+document, which is the definitive version at all times. This version can
+be found on the websites mentioned above.
+Management of Rheumatoid Arthritis
+TABLE OF CONTENTS
+No.
+Title
+Page
+Key Recommendations
+i
+Levels of Evidence and Formulation of Recommendation
+ii
+Guidelines Development and Objectives
+iii
+Development Group
+vi
+Review Committee
+vii
+External Reviewers
+viii
+Algorithm 1. Diagnosis of Rheumatoid Arthritis
+ix
+Algorithm 2. Treatment of Rheumatoid Arthritis
+x
+1.
+INTRODUCTION
+1
+2.
+CLINICAL FEATURES
+2
+3.
+INVESTIGATIONS
+4
+3.1 Laboratory Test
+4
+3.2 Imaging
+5
+3.2.1 Plain Radiography
+5
+3.2.2 Musculoskeletal Ultrasound
+6
+3.2.3 Magnetic Resonance Imaging
+7
+4.
+CLASSIFICATION CRITERIA
+8
+5.
+PROGNOSTIC FACTORS
+9
+6.
+REFERRAL
+10
+7.
+TREATMENT
+12
+7.1 Non-Pharmacological Treatment
+12
+7.1.1 Patient Education
+12
+7.1.2 Occupational Therapy
+13
+7.1.3 Physiotherapy
+13
+7.1.4 Podiatry
+14
+7.1.5 Dietetics
+14
+7.2 Pharmacological Treatment
+14
+7.2.1 Non-Steroidal Anti-Inflammatory Drugs
+14
+7.2.2 Corticosteroids
+16
+7.2.3 Disease Modifying Anti-Rheumatic Drugs
+17
+a. Conventional Synthetic DMARDs
+18
+b. Targeted Synthetic DMARDs
+20
+c. Biologics
+21
+d. Biosimilars
+25
+8.
+TRADITIONAL AND COMPLEMENTARY MEDICINES
+Management of Rheumatoid Arthritis
+TABLE OF CONTENTS
+No.
+Title
+Page
+9.
+RHEUMATOLOGY NURSE-LED CARE
+26
+10. SPECIAL CONSIDERATIONS
+27
+10.1 Co-morbidity
+27
+10.2 Pregnancy and Lactation
+27
+10.3 Vaccination
+28
+11. MONITORING AND FOLLOW-UP
+29
+12. IMPLEMENTING THE GUIDELINES
+29
+REFERENCES
+31
+Appendix 1 Examples of Search Strategy
+36
+Appendix 2 Clinical Questions
+37
+Appendix 3 Outcome Measures
+38
+Appendix 4 Patient Information Leaflet
+41
+Appendix 5 Principles of Joint Protection
+45
+Appendix 6 Pharmacological Treatment of
+48
+Rheumatoid Arthritis
+Appendix 7 Drug Monitoring
+53
+Appendix 8 Tuberculosis Workup Prior
+57
+to Biologic Therapy in Rheumatoid Arthritis
+List of Abbreviations
+58
+Acknowledgement
+60
+Disclosure Statement
+60
+Source of Funding
+Management of Rheumatoid Arthritis
+i
+KEY RECOMMENDATIONS
+The following recommendations were highlighted by the CPG
+Development Group as the key clinical recommendations that should
+be prioritised for implementation.
+Diagnosis and Investigation
+• Consider rheumatoid arthritis if inflammation involving multiple joints
+is present for at least six weeks.
+• Inflammatory markers and rheumatoid factor ± anti-citrullinated
+peptide antibody should be tested when there is clinical suspicion of
+rheumatoid arthritis.
+Referral
+• All patients suspected of having rheumatoid arthritis (RA) should be
+referred to the rheumatologist.
+• All RA patients should be primarily managed by rheumatologists.
+ Co-management plan with primary healthcare providers may be
+offered subsequently.
+Treatment
+• Aim to achieve a state of clinical remission or at least low disease
+activity within six months using a treat-to-target strategy in rheumatoid
+arthritis.
+• Patient education should be included in the management of
+rheumatoid arthritis.
+• Short term low-dose corticosteroids may be used in active rheumatoid
+arthritis.
+• Methotrexate should be used as the first-line Disease Modifying
+Anti-Rheumatic Drug in all patients with rheumatoid arthritis unless
+contraindicated.
+Management of Rheumatoid Arthritis
+ii
+LEVELS OF EVIDENCE
+SOURCE: US / CANADIAN PREVENTIVE SERVICES TASK FORCE 2001
+FORMULATION OF RECOMMENDATION
+In line with new development in CPG methodology, the CPG Unit of
+MaHTAS is adapting Grading Recommendations, Assessment,
+Development and Evaluation (GRADE) in its work process. The
+quality of each retrieved evidence and its effect size are carefully
+assessed/reviewed by the CPG Development Group. In formulating
+the recommendations, overall balances of the following aspects are
+considered in determining the strength of the recommendations:-
+• overall quality of evidence
+• balance of benefits versus harms
+• values and preferences
+• resource implications
+• equity, feasibility and acceptability
+Level
+I
+II-1
+II-2
+II-3
+III
+Study design
+Evidence from at least one properly randomised controlled trial
+Evidence obtained from well-designed controlled trials without
+randomisation
+Evidence obtained from well-designed cohort or case-control
+analytic studies, preferably from more than one centre or
+group
+Evidence from multiple time series with or without intervention;
+dramatic results in uncontrolled experiments (such as the
+results of the introduction of penicillin treatment in the 1940s)
+could also be regarded as this type of evidence
+Opinions of respected authorities based on clinical experience;
+descriptive studies and case reports; or reports of expert
+committees
+Management of Rheumatoid Arthritis
+iii
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+GUIDELINES DEVELOPMENT
+The members of the Development Group (DG) for these CPG were
+from the Ministry of Health (MoH), Ministry of Education (MoE) and
+private sector. There was active involvement of a multidisciplinary
+Review Committee (RC) during the process of the CPG development.
+A systematic literature search was carried out using the following
+electronic databases/platforms: mainly Medline via Ovid and
+Cochrane Database of Systemic Reviews and others e.g. Pubmed
+and Guidelines International Network (G-I-N). Refer to Appendix 1 for
+Example of Search Strategy. The inclusion criteria were all patients
+with rheumatoid arthritis regardless of study design. The search was
+limited to literature published in the last 15 years and on humans and
+in English. In addition, the reference lists of all retrieved literature and
+guidelines were searched and experts in the field contacted to identify
+relevant studies. All searches were conducted from 29 May 2017 to 2
+June 2017. Literature search was repeated for all clinical questions at
+the end of the CPG development process allowing any relevant papers
+published before 31 January 2019 to be included. Future CPG updates
+will consider evidence published after this cut-off date. The details
+of the search strategy can be obtained upon request from the CPG
+Secretariat.
+Reference was also made to other guidelines as listed below:
+• Rheumatoid Arthritis in Adults: Management [National Institute for
+Health and Clinical Excellence (NICE), July 2018]
+• Management of Early Rheumatoid Arthritis [Scottish Intercollegiate
+Guidelines Network (SIGN), February 2011]
+The CPGs were evaluated using the Appraisal of Guidelines for
+Research and Evaluation (AGREE) II prior to being used as reference.
+A total of seven main clinical questions were developed under different
+sections. Members of the DG were assigned individual questions
+within these sections. Refer to Appendix 2 for Clinical Questions.
+The DG members met 19 times throughout the development of these
+guidelines. All literatures retrieved were appraised by at least two DG
+members using Critical Appraisal Skill Programme checklist, presented
+in evidence tables and further discussed in each DG meetings. All
+statements and recommendations formulated after that were agreed
+upon by both the DG and RC. Where evidence was insufficient, the
+recommendations were made by consensus of the DG and RC. Any
+differences in opinion were resolved consensually. The CPG was
+based largely on the findings of systematic reviews, meta-analyses and
+clinical trials, with local practices taken into consideration.
+Management of Rheumatoid Arthritis
+iv
+The literatures used in these guidelines were graded using the US/
+Canadian Preventive Services Task Force Level of Evidence (2001)
+while the grading of recommendation was done using the principles of
+GRADE (refer to the preceding page). The writing of the CPG follows
+strictly the requirement of AGREE II.
+On completion, the draft CPG was reviewed by external reviewers. It
+was also posted on the MoH Malaysia official website for feedback from
+any interested parties. The draft was finally presented to the Technical
+Advisory Committee for CPG, and the Health Technology Assessment
+(HTA) and CPG Council, MoH Malaysia, for review and approval. Details
+on the CPG development by MaHTAS can be obtained from Manual on
+Development and Implementation of Evidence-based Clinical Practice
+Guidelines published in 2015 (available at http://www.moh.gov.my/
+penerbitan/mymahtas/CPG_MANUAL_MAHTAS.pdf)
+Management of Rheumatoid Arthritis
+v
+OBJECTIVES
+The objectives of the CPG are to provide evidence-based recommendations in
+rheumatoid arthritis (RA) based on the following aspects:
+• diagnosis
+• investigations
+• treatment (non-pharmacological and pharmacological)
+• special considerations
+• referral and follow-up
+CLINICAL QUESTIONS
+Refer to Appendix 2.
+TARGET POPULATION
+Inclusion Criteria
+• All patients with RA (16 years and above)
+Exclusion criteria
+• Juvenile-onset Idiopathic Arthritis
+TARGET GROUP/USER
+This CPG is intended to guide those in primary, secondary or tertiary care who
+are involved in management of RA:
+• doctors
+• allied health professionals
+• trainees and medical students
+• policy makers
+• patients and their advocates
+• professional societies
+HEALTHCARE SETTINGS
+Primary, secondary or tertiary care
+Management of Rheumatoid Arthritis
+vi
+DEVELOPMENT GROUP
+Chairperson
+Datin Dr. Asmahan Mohamed Ismail
+Consultant Rheumatologist
+Hospital Raja Perempuan Zainab II, Kelantan
+Members (in alphabetical order)
+Dr. Asmah Mohd
+Consultant Rheumatologist
+Hospital Sultanah Nur Zahirah,
+Terengganu
+Dr. Chong Chin Eu
+Principal Assistant Director
+Health Technology Assessment Section
+Ministry of Health Malaysia, Putrajaya
+Dr. Chong Hwee Cheng
+Consultant Rheumatologist
+Hospital Melaka, Melaka
+Ms. Chu Ai Reen
+Occupational Therapist
+Hospital Tuanku Ja’afar,
+Negeri Sembilan
+Dr. Habibah Mohamed Yusoof
+Consultant Rheumatologist
+Hospital Selayang, Selangor
+Dr. Hazlyna Baharuddin
+Lecturer & Consultant Rheumatologist
+Faculty of Medicine
+Universiti Teknologi MARA, Selangor
+Dr. Liza Mohd Isa
+Consultant Rheumatologist
+Hospital Putrajaya, Putrajaya
+Dr. Mohd. Aminuddin Mohd. Yusof
+Head of CPG Unit & Public Health
+Physician
+Health Technology Assessment Section
+Ministry of Health Malaysia, Putrajaya
+Ms. Noornazli Zahirah Abdullah
+Pharmacist
+Hospital Putrajaya, Putrajaya
+Dr. Norhaslira Abdul Rahim
+Family Medicine Specialist
+Klinik Kesihatan Sg. Besi, Kuala Lumpur
+Dr. Shereen Ch’ng Suyin
+Consultant Rheumatologist
+Hospital Selayang, Selangor
+Dr. Tan Bee Eng
+Consultant Rheumatologist
+Gleneagles Penang, Pulau Pinang
+Dr. Zil Azwan Abdullah
+Family Medicine Specialist
+Klinik Kesihatan Presint 9, Putrajaya
+Management of Rheumatoid Arthritis
+REVIEW COMMITTEE
+The draft CPG was reviewed by a panel of experts from both public
+and private sectors. They were asked to comment primarily on the
+comprehensiveness and accuracy of the interpretation of evidence
+supporting the recommendations in the CPG.
+Chairperson
+Dr. Mollyza Mohd. Zain
+Senior Consultant Rheumatologist
+(National Head of Clinical Service Rheumatology)
+Hospital Selayang, Selangor
+Members (in alphabetical order)
+Dato’ Dr. Azmillah Hj. Rosman
+Senior Consultant Rheumatologist
+Hospital Selayang, Selangor
+Dr. Chow Sook Khuan
+Consultant Rheumatologist
+Sunway Medical Centre, Selangor
+Ms. Ding Mee Hong
+Patient Advocate
+Dato’ Dr. Gun Suk Chyn
+Senior Consultant Rheumatologist
+Hospital Tuanku Ja’afar,
+Negeri Sembilan
+Dr. Junainah Sabirin
+Deputy Director
+Health Technology Assessment
+Section
+Ministry of Health Malaysia, Putrajaya
+Dr. Hjh. Rosaida Hj. Md. Said
+Consultant Gastroenterologist & Hepatologist
+Hospital Ampang, Selangor
+Assoc. Prof. Dr. Sargunan Sockalingam
+Lecturer & Consultant Rheumatologist
+Universiti Malaya, Kuala Lumpur
+Dr. Siti Aminah Akbar Merican
+Consultant Family Medicine Specialist
+Klinik Kesihatan Batu Rakit, Terengganu
+Ms. Siti Rabi’atul ‘Adawiyah Nasri
+Pharmacist
+Hospital Tuanku Ja’afar, Negeri Sembilan
+Dr. Yoong Kar Yaw
+Head of Department & State Physician
+Hospital Sultan Ismail, Johor
+Management of Rheumatoid Arthritis
+viii
+EXTERNAL REVIEWERS (in alphabetical order)
+The following external reviewers provided feedback on the draft:
+Mr. Ang Yu Joe
+Pharmacist
+Hospital Selayang, Selangor
+Dr. Foo Meng How
+General Practitioner
+Klinik Foo Sdn. Bhd., Kelantan
+Adj. Prof. Dr. Geoffrey O. Littlejohn
+Consultant Rheumatologist
+Monash University, Australia
+Adj. Prof. Dr. Koh Ee Tzun
+Consultant Rheumatologist
+Tan Tock Seng Hospital, Singapore
+Prof. Dr. Mohd Shahrir Mohamed Said
+Consultant Rheumatologist
+Universiti Kebangsaan Malaysia
+Prof. Dr. Rohini Handa
+Senior Consultant Rheumatologist
+Indraprastha Apollo Hospitals, India
+Dr. Rozita Zakaria
+Consultant Family Medicine Specialist
+Klinik Kesihatan Presint 18, Putrajaya
+Datuk Dr. Sheikh Mohd. Amin Sheikh
+Mubarak
+Dean of Graduate Studies & Family
+Medicine Specialist
+Academy of Family Physicians of
+Malaysia (AFPM)
+Ms. Tan Foo Lan
+Occupational Therapist
+Hospital Tengku Ampuan Rahimah,
+Selangor
+Datuk Dr. Tarmizi Thayaparan Abdullah
+Part-time Lecturer
+International Medical University,
+Negeri Sembilan
+Dr. Yeap Swan Sim
+Consultant Rheumatologist
+Subang Jaya Medical Centre, Selangor
+Dr. Yoon Chee Kin
+Consultant Physician
+Hospital Pulau Pinang, Pulau Pinang
+Management of Rheumatoid Arthritis
+ix
+ALGORITHM 1. DIAGNOSIS OF RHEUMATOID ARTHRITIS
+*presence of a first-degree relative with RA, raised inflammatory markers and
+extra-articular features
+ACPA: anti-citrullinated peptide antibody
+ACR/EULAR: American College of Rheumatology/European League Against
+Rheumatism
+RA: rheumatoid arthritis
+RF: rheumatoid factor
+Modified:
+1. D’Agostino MA, Terslev L, Wakefield R, et al. Novel algorithms for the pragmatic
+use of ultrasound in the management of patients with rheumatoid arthritis: from
+diagnosis to remission. Ann Rheum Dis. 2016 Nov;75(11):1902-1908.
+2. van Steenbergen HW, Aletaha D, Beaart-van de Voorde LJ, et al. EULAR definition
+of arthralgia suspicious for progression to rheumatoid arthritis. Ann Rheum Dis.
+2017;76(3):491-496.
+Inflammatory joint symptoms and/or
+positive serology (RF ± ACPA)
+Clinical
+synovitis
+present?
+Yes
+Yes
+No
+ACR/EULAR
+criteria
+fulfilled?
+No
+Yes*
+No
+Clinical
+suspicion
+of RA?
+Yes
+No
+• Reassurance
+• Consider other
+diagnosis
+RA
+ACR/EULAR
+criteria
+fulfilled?
+Yes
+No
+Synovitis
+detected?
+• Inflammatory
+arthritis for
+close monitoring
+Musculoskeletal
+ultrasound
+Management of Rheumatoid Arthritis
+ALGORITHM 2. TREATMENT OF RHEUMATOID ARTHRITIS
+DMARDs: Disease Modifying Anti-Rheumatic Drugs
+NSAIDs: Non-Steroidal Anti-Inflammatory Drugs
+RA: Rheumatoid Arthritis
+x
+Fulfilled classification criteria of RA
+Conventional synthetic
+DMARDs
+Non-pharmacological
+treatment
+Patient Education
+• Disease information
+• Medications
+• Lifestyle modification
+Allied Health Care
+• Physiotherapy
+• Occupational therapy
+Nurse-led Care
+Pharmacological
+treatment
+Biologic DMARDs
+or
+Targeted synthetic
+DMARDs
+Add-on therapy
+• NSAIDs
+• Corticosteroids
+Second Line
+First Line
+Management of Rheumatoid Arthritis
+1. INTRODUCTION
+Rheumatoid arthritis (RA) is a chronic and progressive autoimmune
+disease which primarily affects the joints. It is characterised by
+uncontrolled proliferation of synovial tissue and a wide array of
+multisystem co-morbidities. The disease has an insidious onset
+with unpredictable and variable courses. Typically, RA manifests
+as symmetrical polyarthritis but may also present with non-specific
+symptoms e.g. fatigue, malaise and mild fever. Bone erosion,
+destruction of cartilage and complete loss of joint integrity can occur
+over time if treatment is delayed or inadequate.
+Numerous multicentre international studies have shown that disease
+progression can be minimised with early and appropriate treatment.
+Treatment paradigm of RA has evolved over the last two decades with
+the advent of biologics and implementation of treat-to-target (T2T)
+strategy.
+The Malaysian National Inflammatory Arthritis Registry (NIAR) reported
+that there is often a delay in RA diagnosis as only about 50% of cases
+are diagnosed within a year of the symptom onset. This may be due to
+a lack of awareness and understanding of the disease among public
+and healthcare providers. Furthermore, limited human, financial and
+infrastructure resources may also contribute to the difficulty of accessing
+rheumatology care.4
+This is the first national CPG on the management of RA aimed to
+increase awareness among healthcare providers on the importance of
+recognizing early RA, timely referral to rheumatologist and initiation of
+treatment. We hope that this CPG will foster close collaboration between
+various stakeholders in providing evidence-based management of RA
+to improve outcomes and ultimately patients’ quality of life (QoL).
+Management of Rheumatoid Arthritis
+2. CLINICAL FEATURES
+Clinical features of RA can be divided into articular and extra-articular
+manifestations. Extra-articular features may involve multiple organs
+including the skin, eyes, lungs and blood vessels. Non-specific systemic
+features such as fever, malaise and weight loss may precede overt joint
+symptoms.
+RA may be associated with other connective tissue diseases and chronic
+non inflammatory pain e.g. fibromyalgia. It is also an independent risk
+factor for cardiovascular (CV) diseases and osteoporosis.
+The key presenting symptoms of joint inflammation are:
+• joint pain and swelling
+• early morning stiffness lasting ≥30 minutes
+The typical articular pattern of RA is symmetrical polyarthritis affecting:
+• metacarpophalangeal (MCP) joints
+• proximal interphalangeal (PIP) joints
+• interphalangeal joint of thumbs
+• wrists
+• elbows
+• metatarsophalangeal (MTP) joints
+The symptoms of joint inflammation should be present for at least six
+weeks.
+Findings on physical examination include:
+• clinical synovitis
+ joint tenderness
+ boggy swelling (may be subtle in early RA)
+• restricted range of motion
+• joint deformities e.g. radial deviation of the wrist, ulnar deviation
+at the MCPs, “swan-neck” [flexion of distal interphalangeal (DIP)
+joint, hyperextension of PIP] and “boutonniere” (hyperextension of
+DIP, flexion of PIP) deformities
+Differential diagnosis of polyarthritis should take into consideration:
+• duration of symptoms
+• pattern of joint involvement
+• presence of systemic features and/or other diseases
+Important differentials include:
+• psoriatic arthritis
+• erosive inflammatory osteoarthritis
+• polyarticular gout
+• arthritis related to infection
+• systemic lupus erythematosus
+Management of Rheumatoid Arthritis
+•
+Early diagnosis and prompt treatment of RA are mandatory to
+prevent irreversible joint damage.
+Recommendation 1
+•
+Consider rheumatoid arthritis if inflammation involving multiple joints
+is present for at least six weeks.
+Management of Rheumatoid Arthritis
+3. INVESTIGATIONS
+Laboratory and imaging investigations are performed to assist in
+diagnosis, screen pre-existing abnormalities and co-morbidities, as well
+as to monitor treatment-related adverse events (AEs).
+3.1 Laboratory Test
+Relevant laboratory tests in RA are shown in table below.
+Table 1. Laboratory Investigations in RA
+*ACPA is interchangeable with anti-cyclic citrullinated peptide (anti-CCP)
+RF and ACPA have similar diagnostic sensitivity (67% and 79%
+respectively)1 although ACPA has a higher specificity compared with
+RF (95 - 98% and 79 - 85% respectively).1-2 Presence of both RF and
+ACPA indicate a more severe disease. ACPA should be considered in
+clinically suspected RA where RF is negative. Both RF and ACPA are
+not recommended for disease monitoring.
+Phase of
+management
+Investigations
+• Inflammatory markers
+o Erythrocyte sedimentation rate (ESR) and/or
+o C-reactive protein (CRP)
+• Rheumatoid factor (RF) and/or
+• Anti-citrullinated peptide antibody (ACPA)*
+• Full blood count (FBC)
+• Renal profile (RP)
+• Fasting blood sugar
+• Fasting lipid profile
+• Liver function test (LFT)
+• Viral hepatitis screening [hepatitis B surface
+antigen (HBsAg), hepatitis C antibody]
+• Human immunodeficiency virus (HIV) if risk factor
+present
+• FBC
+• RP
+• LFT
+• ESR and CRP
+• Hepatitis B core antibody, if HBsAg negative
+• Mantoux ± Interferon Gamma Release Assay
+(IGRA)
+• HIV screening
+• Immunoglobulin (Ig) G, A and M [prior to rituximab
+(RTX)]
+Diagnosis
+Pre-treatment and
+co-morbidities
+screening
+Treatment:
+Disease activity
+monitoring and
+treatment AEs
+Pre-biologic therapy
+Management of Rheumatoid Arthritis
+•
+Positive RF does not equate to RA as it is present in normal
+population with a higher incidence in the elderly.
+•
+Negative RF does not exclude RA as 30 - 40% of patients with RA
+are seronegative.3-4
+Recommendation 2
+•
+Inflammatory markers and rheumatoid factor ± anti-citrullinated
+peptide antibody should be tested when there is clinical suspicion of
+rheumatoid arthritis.
+3.2 Imaging
+3.2.1 Plain Radiography
+a. Chest X-Ray
+Chest X-ray is performed at baseline evaluation and repeated on
+follow-up for assessment of disease complications and co-morbidities.
+It is also mandatory as part of pre-biologic tuberculosis screening (refer
+to Appendix 8).
+b. Hand X-Ray
+Plain radiograph is the most common modality used to assess
+the joints. It may be normal within the first six months of RA onset.
+The radiograph findings include soft-tissue swelling, juxta-articular
+demineralisation, joint space narrowing and bone erosions. These
+changes are symmetrical and spare the distal IP joints. Refer to
+Figure 1 and 2.
+Management of Rheumatoid Arthritis
+Figure 1. Anteroposterior view (AP) of hands in early RA:
+(A) periarticular osteopenia and (B) soft tissue swelling
+Figure 2. AP and supinator oblique views of hands in advanced RA:
+(A) ulnar deviation of fingers at MCP joints, (B) hitchhiker’s thumb
+deformity, (C) boutonniere deformity, (D) subchondral cyst, (E) sclerosis
+and joint space narrowing at MCP joints. Similar abnormalities seen in
+PIP, radiocarpal and intercarpal joints.
+3.2.2 Musculoskeletal Ultrasound
+Musculoskeletal ultrasound is a useful bedside tool that is increasingly
+being used by rheumatologists to aid early diagnosis and management
+of RA. Ultrasound is more accurate than clinical assessment in early RA
+patients especially those with negative ACPA:
+•
+Clinical synovitis (tender or swollen joint) vs subclinical synovitis
+(ultrasound detected):5, level II-2
+ Gray Scale (GS) ≥1: sensitivity 58.8% vs 78.0%, specificity
+79.4% vs 79.4%
+ GS ≥1/Power Doppler (PD) ≥1: sensitivity 58.5% vs 56.2%,
+specificity 79.4% vs 93.7%
+A
+B
+E
+A
+B
+C
+Management of Rheumatoid Arthritis
+•
+In patients with negative ACPA, combining ultrasound detected
+synovitis joint counts with 2010 ACR/EULAR classification
+criteria increased diagnostic sensitivity from 55.2% to 72.4% and
+specificity from 78.5% to 87.7%.6, level II-2
+Presence of ultrasound detected synovitis increases the prevalence
+of clinical synovitis. This may classify patients with musculoskeletal
+symptoms more accurately.5-7, level II-2
+•
+Ultrasound of the joints is useful in detecting subclinical synovitis for
+suspected inflammatory arthritis including RA.
+3.2.3 Magnetic Resonance Imaging
+Magnetic resonance imaging (MRI) is another imaging modality to
+detect synovitis in hands and wrists in early RA which may not be
+clinically evident:
+•
+In a systematic review, MRI hand and wrist had good accuracy in
+the diagnosis of RA in patients with <6 months disease duration
+(AUC=0.81).8, level l
+•
+MRI synovitis in PIP joint is a strong predictor of early RA without
+typical symptoms (OR=3.1, 95% CI 1.2 to 8.1).9, level II-2
+MRI can detect synovitis, bone erosions and bone marrow oedema
+better than conventional radiography but its use is limited due to cost
+and availability.
+Management of Rheumatoid Arthritis
+4. CLASSIFICATION CRITERIA
+RA should be suspected in patients who present with inflammatory
+polyarthritis. Initial evaluation of such patients requires a careful history,
+physical examination and selected laboratory tests to identify features
+that are characteristic of RA. Patients are classified as having RA based
+on the criteria established by American College of Rheumatology/
+European League Against Rheumatism (ACR/EULAR) 2010 (refer to
+Table 2). This classification criteria supersedes the older ACR 1987
+revised criteria.
+Table 2. The 2010 American College of Rheumatology/European
+League Against Rheumatism Classification Criteria
+for Rheumatoid Arthritis
+Source: Aletaha D, Neogi T, Silman AJ, et al. 2010 Rheumatoid arthritis
+classification criteria: an American College of Rheumatology/European
+League Against Rheumatism collaborative initiative. Arthritis Rheum.
+2010 Sep;62(9):2569-81.
+Scores
+Target population (Who should be tested?): Patients who
+1) have at least 1 joint with definite clinical synovitis (swelling)*
+2) with the synovitis not better explained by another disease
+Classification criteria for RA (score-based algorithm: add score of
+categories A - D; a score of ≥6/10 is needed for classification of a
+patient as having definite RA)
+A. Joint involvement
+1 large joint
+2 - 10 large joints
+1 - 3 small joints (with or without involvement of large joints)
+4 - 10 small joints (with or without involvement of large joints)
+>10 joints (at least 1 small joint)
+B. Serology (at least 1 test result is needed for
+classification)
+Negative RF and negative ACPA
+Low-positive RF or low-positive ACPA
+High-positive RF or high-positive ACPA
+C. Acute-phase reactants (at least 1 test result is needed for
+classification)
+Normal CRP and normal ESR
+Abnormal CRP or abnormal ESR
+D. Duration of symptoms
+<6 weeks
+≥6 weeks
+0
+1
+2
+3
+5
+0
+2
+3
+0
+1
+0
+Management of Rheumatoid Arthritis
+A score of ≥6 is classified as having definite RA
+A score of <6 may fulfil the criteria over time
+There are four domains in the classification criteria:
+A. Joint involvement (swollen or tender joint on examination, which
+may be confirmed by imaging evidence of synovitis)
+Large joints refer to shoulders, elbows, hips, knees and ankles.
+Small joints refer to MCPs, PIPs, second through fifth MTPs,
+thumb IPs and wrists.
+*DIP joints, first carpometacarpal joints and first MTP joints are
+excluded from assessment.
+B. Serology
+High positive refers to International Unit values >3 times upper
+limit normal.
+C. Acute-phase reactants
+Normal or abnormal is determined by local laboratory standards.
+D. Duration
+Patient self-report on the duration of signs or symptoms of
+synovitis.
+5. PROGNOSTIC FACTORS
+RA outcome is influenced by many factors and awareness of these
+factors can guide the healthcare providers on early referral for initiation
+of treatment.
+Poor prognostic factors in RA are:
+•
+older age (OR=1.45, 95% CI 1.08 to 1.94)10, level II-2
+•
+female (OR=3.36, 95% CI 1.20 to 9.40)11, level II-2
+•
+obesity (OR=5.2, 95% CI 1.8 to 15.2)12, level I
+•
+smoking (OR=2.17, 95% CI 1.06 to 4.45)13, level I
+•
+presence of ACPA/anti-CCP (OR ranging from 1.01 to 4.22)11, level II-2;
+14, level I; 15-16, level II-2; 17, level III
+•
+presence of RF (OR ranging from 2.483 to 3.64)10-11, level II-2; 18, level III
+•
+high CRP (OR ranging from 1.04 to 1.52)13, level I; 19, level II-2
+•
+high ESR (OR ranging from 1.72 to 3.20)11, level II-2; 13, level I; 15, level II-2
+•
+anaemia20, level II-2
+•
+high erosion score at baseline (OR ranging from 2.29 to 18.060)
+13, level I; 16, level II-2; 19, level II-2
+Management of Rheumatoid Arthritis
+6. REFERRAL
+All RA patients should be primarily managed by rheumatologists. This
+is due to the complexity of making a definite diagnosis and ensuring
+adequate treatment of the disease.
+Indications for referral are as listed below:21-22
+a. Referral for diagnosis
+1. Clinical suspicion of RA supported by the presence of any of the
+following:
+•
+more than three swollen joints
+•
+MCP/MTP joint involvement with positive squeeze test (refer
+to Figure 3)
+•
+early morning stiffness of more than 30 minutes
+2. Clinical evidence of persistent synovitis of undetermined cause
+Figure 3. Positive Squeeze Test
+b. Referral following diagnosis
+1. Development of a co-management plan
+2. Optimisation of therapy in active disease
+3. Disease-related complications (e.g. acute flare or interstitial lung
+disease) or treatment-related complications (e.g. infection or
+transaminitis)
+c. Referral of patients with special considerations
+1. Pre-pregnancy care, pregnancy and lactation
+2. History of hepatitis B and/or hepatitis C
+3. History of malignancy
+Management of Rheumatoid Arthritis
+•
+Referral of RA cases to rheumatology clinic should provide the
+following information:
+ Symptoms and signs: duration, joint distribution, severity and
+impact on activity of daily living
+ Extra-articular involvement
+ Co-morbidities that may require further medical assessment
+ Current medications
+ Relevant investigation results
+Recommendation 3
+•
+All patients suspected of having rheumatoid arthritis (RA) should be
+referred to the rheumatologist.
+•
+All RA patients should be primarily managed by rheumatologists.
+ Co-management plan with primary healthcare providers may be
+offered subsequently.
+Management of Rheumatoid Arthritis
+7. TREATMENT
+Optimal care of patients with RA consists of an integrated approach that
+includes both non-pharmacological and pharmacological treatments
+(refer to Algorithm 2). Pharmacological treatment should be initiated
+as soon as RA diagnosis is made to preserve joint function and QoL.
+Successful treatment in RA is determined using outcome measures.
+Although they were originally used in the field of research, the
+development of effective RA treatment had promoted their use
+in clinical practice. There are many validated outcome measures
+reflecting various RA manifestations such as the underlying disease
+process, level of discomfort and disability, and organ damage (refer to
+Appendix 3). The use of these outcome measures allows standardised
+objective assessments of RA disease activity, which in turn drives
+treatment decisions.
+•
+Treatment goals in RA include:
+ pain relief and control of inflammation
+ preservation of joint function and QoL
+ minimising systemic complications and managing co-morbidities
+•
+Treat-to-target (T2T) treatment strategy, formulated in 2010, has
+resulted in better disease outcomes. It includes:23
+ a defined treatment target (clinical remission or at least low
+disease activity)
+ shared decision making
+ assessment of disease activity
+ regular adjustment of treatment
+Recommendation 4
+•
+Aim to achieve a state of clinical remission or at least low disease
+activity within six months using a treat-to-target treatment strategy*
+in rheumatoid arthritis.
+*Refer to preceding yellow box
+7.1 Non-Pharmacological Treatment
+7.1.1 Patient Education
+Patient education is an important non-pharmacological component in
+the management of RA. It should include information on the diagnosis,
+nature of the disease including its complications, benefits and risks of
+therapeutic options. This may improve patient’s understanding and
+compliance to treatment (refer to Appendix 4 on Patient Education
+Leaflet).
+Management of Rheumatoid Arthritis
+A
+B
+C
+D
+7.1.2 Occupational Therapy
+Patients with RA may benefit from occupational therapy. Joint protection
+with hand strengthening and mobilisation exercise is adapted to the
+disease stage, patient and environment.
+Joint protection advice with hand strengthening and mobilisation
+exercises improve Arthritis Impact Measurement Scale (AIMS) of
+the upper limb function compared with joint protection and hand
+mobilisation exercises, and joint protection advice alone, in RA at six
+months (p=0.012).24, level I
+Most of the advice on joint protection deals with manual activities. They
+are effective in reducing morning stiffness, pain and functional capacity.
+These include:
+•
+movement training to facilitate daily activities
+•
+self-exercise programme for hands
+•
+provision of information on assistive devices and handling of
+orthoses
+Refer to Appendix 5 on Joint Protection Principles.
+Figure 4 illustrates the various steps for hand strengthening exercise.
+Figure 4. Hand strengthening exercise.
+Arrows illustrate the directions of the hand movement. (A) The hand is
+squeezing the putty. (B) The putty is moved between the wrist proper
+and the fingertips. (C) The wrist proper is placed in the putty, and then
+the MCP joints are stretched in the putty. (D) The thumb and fingers are
+shaping the putty. The fingertips are bent during the motion.
+7.1.3 Physiotherapy
+Physiotherapy may offer beneficial modalities to help RA patients
+in reducing pain. These include Transcutaneous Electrical Nerve
+Stimulation (TENS) therapy and aerobic activities.
+TENS therapy reduces pain at rest compared with placebo in RA (WMD
+in VAS 100 mm= -59.50, 95% CI -76.58 to -42.42).25, level I
+When RA is active, aerobic activities with low impact on the joints or
+with load alleviation is preferred. Aerobic activity, dynamic muscular
+Management of Rheumatoid Arthritis
+reinforcement and patient education are valuable in the nonpharmacological management of RA.26
+7.1.4 Podiatry
+Every patient with RA should be advised on proper footwear. Customised
+orthotic insoles are recommended for patients with foot pain from weightbearing and deformities as they may reduce pain on walking and improve
+functional capacity. Custom manufactured rigid foot orthoses under
+podiatry supervision has been shown to be more effective compared with
+foot orthoses prescribed under normal medical care.27, level I
+7.1.5 Dietetics
+At present, there is no strong evidence that dietary interventions help in
+reducing disease activity in RA.
+Recommendation 5
+•
+Patient education should be included in the management of
+rheumatoid arthritis (RA).
+•
+Joint protection advice with hand strengthening and mobilisation
+exercises should be offered in RA.
+7.2 Pharmacological Treatment
+Pharmacological treatment should be initiated as soon as RA
+diagnosis is made. It consists of non-steroidal anti-inflammatory drugs
+(NSAIDs), corticosteroids and DMARDs. NSAIDs are generally used
+for symptomatic treatment on a short-term and/or ‘as needed basis’,
+to reduce pain, joint stiffness and inflammation, as well as to improve
+diminished joint function. On the other hand, DMARDs are a group of
+drugs targeted to the underlying aetiology of RA, used on a longer term to
+suppress an overactive immune system that causes joint and systemic
+inflammation. Hence, DMARDs delay disease progression, preserve
+joint integrity and minimise systemic complications. Corticosteroids
+serve as a bridging therapy while awaiting the initiation and/or effect of
+DMARDs. It can also be used as short-term therapy for acute RA flare.
+Refer Appendix 6 on Pharmacological Treatment of RA.
+7.2.1 Non-Steroidal Anti-Inflammatory Drugs
+NSAIDs are used to relieve pain and reduce inflammation in RA. There
+is no evidence to suggest NSAIDs alter the course of the disease.
+Although there are a variety of preparations, topical and oral forms
+are the most widely used. This category of medication encompasses
+traditional NSAIDs (e.g. ibuprofen, ketoprofen, diclofenac and naproxen)
+and the cycloooxygenase-2 enzyme (COX-2) inhibitors - selective and
+specific (e.g. meloxicam, etoricoxib and celecoxib). Important sideeffects involve the gastrointestinal, renal and CV systems.
+Management of Rheumatoid Arthritis
+A randomised controlled trial (RCT) showed the use of ketoprofen patch
+for two weeks was more effective than placebo in relieving local pain
+[mean percentage change in Visual Analogue Scale (VAS) score (%) ±
+SD: 31.2±30.3, 95% CI 28.0 to 34.4] and as safe (overall incidence and
+laboratory AEs) as placebo in RA. The most common AE was contact
+dermatitis.28, level I
+In another RCT, naproxen 500 mg twice daily was more effective than
+placebo:29, level I
+•
+reduction in tender and swollen joints (MD= -1.39, 95% CI -4.96
+to -1.36 and MD= -3.16, 95% CI -2.60 to -0.19 respectively)
+•
+patient global assessment (PGA) of disease activity (MD= -10.0,
+95% CI -13.7 to -6.32)
+•
+investigator global assessment (IGA) (MD= -0.51, 95% CI -0.66
+to -0.35)
+•
+health assessment questionnaire disability (HAQ disability) (MD=
+-0.29, 95% CI -0.38 to -0.20)
+•
+PGA of pain (MD= -10.46, 95% CI -14.25 to -6.66)
+•
+American College of Rheumatology 20 (ACR20) responder
+criteria (MD=16.68, 95% CI 7.80 to 25.57)
+The same RCT showed that etoricoxib was more effective than
+placebo but comparable to naproxen in improving signs and symptoms
+of RA.29, level I
+•
+Etoricoxib 90 mg daily vs placebo
+ tender and swollen joints (MD= -3.42, 95% CI -4.89 to -1.94)
+ PGA of disease activity (VAS 0 - 100 mm) (MD= -9.93, 95% CI
+-12.96 to -6.90)
+ IGA (0 - 4 Likert scale) (MD= -0.43, 95% CI -0.55 to -0.30)
+ HAQ 0-3 scale (MD= -0.20, 95% CI -0.28 to -0.13)
+ PGA of pain (VAS 0 - 100 mm) (MD= -9.62, 95% CI -12.73 to
+-6.51)
+ ACR20 responder criteria (MD= 17.83, 95% CI 10.55 to 25.12)
+•
+Etoricoxib 90 mg daily vs naproxen 500 mg twice daily
+ tender and swollen joints (MD= -0.26, 95% CI -2.05 to 1.54)
+ PGA of disease activity (VAS 0-100 mm) (MD=0.09, 95% CI
+-3.61 to 3.79)
+ investigator global assessment (0-4 Likert scale) (MD=0.08,
+95% CI -0.08 to 0.24)
+ HAQ 0-3 scale (MD=0.08, 95% CI -0.08 to 0.24)
+ PGA of pain (VAS 0-100 mm) (MD=0.84, 95% CI -2.96 to 4.63)
+ ACR20 responder criteria (MD=1.15, 95% CI -7.74 to 10.03)
+A Cochrane review involving eight RCTs concluded that celecoxib 200
+mg daily was more effective than placebo in RA:30, level I
+•
+ACR20 improvement (RR=1.53, 95% CI 1.25 to 1.86)
+•
+alleviation of pain (VAS) (NNT= 4, 95% CI 3 to 6)
+Management of Rheumatoid Arthritis
+•
+improvement in physical function (HAQ) (3.3% absolute
+improvement, 95% CI 9.6% better to 3.3% worse)
+In assessment of ACR20, alleviation of pain (VAS) and HAQ, celecoxib
+200 mg daily was as effective as naproxen 1000 mg daily, diclofenac
+150 mg daily and meloxicam 15 mg daily.30, level I
+Etoricoxib 90 mg daily has better gastrointestinal (GI) tolerability than
+diclofenac 75 mg twice daily for up to 24 months:31, level I
+•
+abdominal pain and gastritis (HR=0.70, 95% CI 0.53 to 0.93)
+•
+changes in alanine aminotransferase (ALT) and aspartate
+aminotransferase (AST) (HR=0.14, 95% CI 0.04 to 0.48)
+However, it has significantly more renovascular AEs (oedema and
+hypertension). There is no difference in cardiac AEs and renal
+dysfunction.31-32, level I
+Celecoxib 200 mg daily is as safe as placebo in the incidence of
+gastroduodenal ulcers ≥3 mm but safer compared with traditional
+NSAIDs (NNH=9, 95% CI 8 to 10). There is no conclusive evidence
+that celecoxib has more CV events than traditional NSAIDs.30, level I
+A Cochrane systematic review concluded that there are no studies
+to guide clinicians on the best choice of pharmacotherapy for pain
+management in RA patients with CV and renal co-morbidities.33, level I
+•
+NSAIDs are more effective than placebo in reducing pain and
+improving function of patients with RA. However, concerns of
+gastrointestinal, renal and CV adverse effects limit their use in the
+general population.
+•
+NSAIDs do not have disease modifying property in the treatment of
+RA.
+•
+Use NSAIDs judiciously (at the lowest effective dose and for the
+shortest duration possible) in RA patients especially those with comorbidities.
+Recommendation 6
+•
+Non-steroidal anti-inflammatory drugs may be used as an adjunct
+therapy to reduce pain and inflammation in patients with rheumatoid
+arthritis treated with Disease Modifying Anti-Rheumatic Drugs.
+7.2.2 Corticosteroids
+Corticosteroids such as cortisone, hydrocortisone and prednisolone
+are useful in the treatment of inflammatory diseases. Prednisolone
+is preferred over other long-acting corticosteroids (betamethasone,
+dexamethasone) in the treatment of RA since it causes less inhibition of
+Management of Rheumatoid Arthritis
+the hypothalamic-pituitary-adrenal axis. Long-term use of corticosteroids
+predisposes to several complications, in particular osteoporosis and
+infection (refer to Appendix 6). Hence, patients on corticosteroids
+should be supplemented with calcium and vitamin D, and have regular
+surveillance for infection.
+In a large, multicentre RCT, inclusion of low-dose prednisolone (10 mg
+daily) in a methotrexate (MTX)-based treatment strategy for tight control
+in early RA significantly improved erosion score at two years compared
+with MTX-placebo. It also improved Disease Activity Score 28 (DAS28)
+at three and six months. The time to first sustained remission was
+shorter by five months (p=0.001).34, level I
+In a Cochrane systematic review of moderate quality primary
+papers, addition of a low-dose prednisolone (≤10 mg) or step-down
+corticosteroids regime to DMARDs was effective compared with
+placebo or active control, in early active RA at one year:35, level I
+•
+erosion (SMD= -0.39, 95% CI -0.52 to -0.26)
+•
+joint space narrowing (SMD= -0.27, 95% CI -0.50 to -0.04)
+In terms of safety profile, there was no significant difference in adverse
+effects between MTX-prednisolone and MTX-placebo treatment
+strategies.34, level I However, two cohort studies showed corticosteroid
+therapy was associated with increased risk of myocardial infarction and
+cerebrovascular accidents in RA.36 - 37, level II-2
+•
+Corticosteroids can be used as an add-on therapy to conventional
+synthetic or biologic DMARDs.
+Recommendation 7
+•
+Short-term* low-dose corticosteroids** may be used in active
+rheumatoid arthritis.
+*short-term refers to <3 months
+**if oral prednisolone is used, the dose should be ≤10 mg once daily
+7.2.3 Disease Modifying Anti-Rheumatic Drugs
+Disease Modifying Anti-Rheumatic Drugs (DMARDs) are used as soon
+as RA is diagnosed to retard disease progression. Treatment options
+include:
+•
+conventional synthetic DMARDs (csDMARDs)
+•
+targeted synthetic DMARDs (tsDMARDs)
+•
+biologic DMARDs (bDMARDs)
+•
+biosimilar DMARDs (bsDMARDs)
+The treatment options are guided by disease severity, presence of comorbidities, patient’s compliance and physician’s experience.
+Management of Rheumatoid Arthritis
+a. Conventional Synthetic DMARDs
+The four commonly used csDMARDs are MTX, sulfasalazine (SSZ),
+hydroxychloroquine (HCQ) and leflunomide (LEF). They may be used
+as monotherapy or in combination to achieve treatment target. In
+general, csDMARDs may take up to eight weeks to exert their effects
+hence the need for bridging therapy with corticosteroids.
+i. Methotrexate
+MTX is the mainstay treatment of RA. In a Cochrane systematic review,
+patients on MTX monotherapy were more likely to achieve ACR50 at one
+year compared with placebo. The improvement of parameters included
+number of tender and swollen joints, and inflammatory markers:38, level I
+•
+improvement of ACR50 (RR=3.03, 95% CI 1.53 to 5.98)
+•
+reduction of tender joint count (TJC) (RR= -0.64, 95% CI -0.88 to
+-0.41) and swollen joint count (SJC) (RR= -0.73, 95% CI -0.97 to
+-0.49)
+•
+reduction of inflammatory markers at 52 weeks; ESR (RR=
+-12.60, 95% CI -18.97 to -6.23) and CRP (RR= -1.56, 95%
+CI -2.11 to -1.01)
+In another Cochrane systematic review on different groups of
+populations receiving MTX:39, level I
+•
+MTX-naïve patients - MTX monotherapy was as effective as MTX
+combination therapy with other non-biologic DMARDs
+ improvement in ACR50 (RR=1.76, 95% CI 0.64 to 4.85)
+•
+MTX-inadequate response patients - combination MTX with nonbiologic DMARDs was more effective than MTX monotherapy
+ improvement of ACR50 (RR=4.54, 95% CI 2.51 to 8.20)
+ reduction of TJC (SMD= -0.51, 95% CI -0.69 to -0.33) and
+SJC (SMD= -0.45, 95% CI -0.63 to -0.27)
+ reduction of CRP (SMD= -12.1, 95% CI -19.84 to -4.36)
+•
+Non-MTX DMARDs inadequate response patients - MTX
+combination therapy was as effective as MTX monotherapy
+in improvement of ACR50, but was more effective than MTX
+monotherapy in reduction of TJC and SJC
+ improvement of ACR50 (RR=1.68, 95% CI 0.94 to 2.99)
+ reduction of TJC (WMD= -4, 95% CI -6.82 to -1.18) and SJC
+(SMD= -0.66, 95% CI -1.15 to -0.17)
+Significant AEs experienced by patients on MTX were infection
+(commonly upper respiratory tract infections, bronchitis and pneumonia),
+liver enzyme abnormalities, stomatitis, oral ulcers, alopecia and
+gastrointestinal (GI) AEs.
+Patients on MTX were less likely to discontinue medication compared
+with placebo (RR=0.73, 95% CI 0.62 to 0.88). The main reason for
+Management of Rheumatoid Arthritis
+discontinuation in the MTX group was due to liver enzyme abnormalities
+(RR=3.75, 95% CI 1.59 to 8.84).38, level I
+Combination therapy of MTX with other non-biologic DMARDs had
+significantly more GI AEs [MTX+SSZ (RR=1.75, 95% CI 1.14 to
+2.67); MTX+LEF (RR=1.67, 95% CI 1.17 to 2.40)] and abnormal LFT
+[MTX+LEF (RR=4.30, 95% CI 2.58 to 7.15)].39, level I
+•
+Subcutaneous (SC)/intramuscular (IM) MTX can be used in patients
+intolerant to MTX.
+•
+Folic acid (minimum 5 mg/week) should be given to prevent MTXrelated AEs.
+•
+MTX is contraindicated in pregnancy and breastfeeding. It should be
+stopped for at least three months in women prior to conception.
+Recommendation 8
+•
+Methotrexate should be used as the first-line Disease Modifying
+Anti-Rheumatic Drug in all patients with rheumatoid arthritis unless
+contraindicated.
+ii. Sulfasalazine
+In a Cochrane systematic review, SSZ was more effective compared
+with placebo for the following outcome measures:40, level I
+•
+tender joint (SMD= -0.49, 95% CI -0.75 to -0.36)
+•
+swollen joints (SMD= -0.49, 95% CI -0.79 to -0.12)
+•
+pain (SMD= -0.42, 95% CI -0.72 to -0.12)
+•
+ESR (WMD= -17.6 mm, 95% CI -21.93 to -13.23)
+Patients on SSZ were significantly less likely to withdraw from
+treatment due to lack of efficacy (OR=0.23, 95% CI 0.14 to 0.37).
+However, adverse reactions requiring withdrawal of therapy were three
+times more frequent in the treatment group, with gastrointestinal and
+mucocutaneous symptoms being the most frequent.40, level I
+iii. Hydroxychloroquine
+A Cochrane systematic review showed that HCQ was more effective
+than placebo in improving clinical outcomes i.e:41, level I
+•
+tender joints (SMD= -0.33, CI -0.50 to -0.17)
+•
+swollen joints (SMD= -0.52, CI -0.69 to -0.36)
+•
+pain (SMD= -0.45, CI -0.50 to -0.17)
+In terms of safety profile, there were no significant withdrawals in
+HCQ group compared with placebo due to adverse reaction. None
+of the studies which conducted ophthalmologic evaluations reported
+withdrawals due to ocular toxicity.
+Management of Rheumatoid Arthritis
+•
+All patients on HCQ should have a baseline eye examination and
+ophthalmological review while they are on treatment.
+iv. Leflunomide
+In a meta-analysis on RA of moderate quality primary papers, LEF
+monotherapy was:42, level I
+•
+more effective than placebo in
+ ACR50 at one year (RR=1.45, 95% CI 1.07 to 1.96)
+ total reduction in TJC (WMD= -5.02, 95% CI -6.41 to -3.64)
+and SJC (WMD= -3.21, 95% CI -4.32 to -2.09)
+ ESR (WMD= -9.22, 95% CI -12.37 to -6.07)
+•
+as effective as MTX monotherapy at one year in total reduction
+of TJC, SJC and ESR except for ACR50 where LEF was more
+effective (RR=1.45, 95% CI 1.07 to 1.96)
+•
+as effective as SSZ monotherapy at one year in improvement of
+ACR50 and total reduction of TJC, SJC and ESR; however, it was
+more effective in ACR50 after two years of treatment (RR=2.10,
+95% CI 1.25 to 3.53)
+LEF was significantly associated with alopecia, elevation of liver
+enzymes, diarrhoea and allergic reactions compared with placebo.
+More patients on LEF monotherapy experienced pruritus, hypertension,
+diarrhoea and alopecia compared with MTX, while less patients on
+LEF experienced mouth ulceration and liver enzyme elevation (more
+than three times upper limit normal). When compared with SSZ, more
+patients on LEF experienced diarrhoea.42, level I
+b. Targeted Synthetic DMARDs
+i. Tofacitinib
+In a meta-analysis, tofacitinib 5 mg BD was more effective in ACR50
+compared with placebo and adalimumab at 12 weeks in MTX-resistant
+RA:43, level I
+•
+placebo: RR=2.91, 95% CI 2.03 to 4.16
+•
+adalimumab: RR=1.95, 95% CI 1.00 to 3.80
+In an RCT, tofacitinib 5 mg BD monotherapy was more effective in
+ACR50 than MTX in early (<1 year) compared with established RA at
+24 months (p<0.001 vs p<0.05).44, level I
+No difference in safety profile was observed between patients on
+tofacitinib and placebo.43, level I
+Management of Rheumatoid Arthritis
+ii. Baricitinib
+Two RCTs reported that baricitinib 4 mg was effective in treating RA
+compared to placebo in patients with:
+•
+insufficient response or intolerance to one or more conventional
+synthetic DMARDs45, level I
+•
+inadequate response to or experience unacceptable side effects
+associated with one or more tumour necrosis factor inhibitors,
+other biologic DMARDs or both46, level I
+No difference in safety profile was observed between patients on
+baricitinib and placebo.45 - 46, level I
+c. Biologics
+bDMARDs are agents designed to specifically target immune cells
+involved in the pathogenesis of RA. There are a number of bDMARDs
+that have been shown to be effective and safe. bDMARDs are
+considered when the treatment target is not achieved with csDMARDs
+and in the presence of poor prognostic factors. Early introduction of
+bDMARDs has been shown to retard the development of clinically
+relevant radiographic progression.19, level II-2
+bDMARDs currently available and approved in Malaysia for RA are:
+•
+Anti-Tumour Necrosis Factor (anti-TNF): infliximab (IFX),
+etanercept (ETN), adalimumab (ADA) and golimumab (GOL)
+•
+Interleukin-6 (IL-6) receptor blocker: tocilizumab (TCZ)
+•
+Anti-B cell agent: RTX
+The use of bDMARDs for the treatment of RA has increased the risk of
+tuberculosis (TB) reactivation especially in patients treated with antiTNF.47, level I Thus, screening for latent tuberculosis infection (LTBI) or
+active TB infection must be done prior to starting bDMARDs (refer to
+Table 1 and Appendix 8). Mantoux test is the main screening test
+but where available, IGRA may be considered as an alternative or
+complementary screening test.
+i. Infliximab
+A meta-analysis showed that IFX at doses of 3 mg/kg or 5 mg/kg
+in combination with MTX had better ACR50 in the following
+comparisons:48, level I
+•
+vs MTX monotherapy or combined DMARDs
+ at 20 weeks (RR=2.45, 95% CI 1.73 to 3.48)
+ at 52 weeks (RR=1.47, 95% CI 1.25 to 1.74)
+•
+vs DMARDs in early RA (RR=1.47, 95% CI 1.02 to 2.14)
+•
+vs DMARDs in established or late RA (RR=2.11, 95% CI 1.48 to
+3.01)
+•
+vs DMARDs in patients who were MTX-naïve (RR=1.44, 95% CI
+1.18 to 1.76)
+Management of Rheumatoid Arthritis
+•
+vs DMARDs in patients who failed or had insufficient response to
+MTX (RR=2.13, 95% CI 1.53 to 2.97)
+The combination of IFX+MTX favoured clinical remission (RR=1.92,
+95% CI 1.35 to 2.74) and showed lower radiographic progression [MD
+for total Sharp score (TSS)= -2.57, 95% CI -3.64 to -1.49] (in particular
+those who had insufficient response to MTX or MTX-naïve) compared
+with DMARDs.48, level I
+There was no significant difference in AEs of infection, serious infection,
+serious adverse event, tumour and death between groups. However,
+infusion reactions occurred more frequently in IFX+MTX group.48, level I
+ii. Etanercept
+Results from a Cochrane systematic review showed that SC etanercept
+(ETN) 25 mg twice weekly in combination with DMARD (MTX or
+SSZ) was more effective than DMARD monotherapy (MTX or SSZ)
+in reducing disease activity and disability as well as delaying joint
+radiographic progression:49, level I
+•
+ETN+DMARD vs DMARD
+ ACR50 at 12 months (RR=1.52, 95% CI 1.36 to 1.70)
+ remission at 12 months (RR=1.95, 95% CI 1.61 to 2.35)
+ improvement in HAQ score at six months (MD in HAQ
+score= -0.49, 95% CI -0.77 to -0.21)
+ delay in radiographic progression, regardless of response to
+treatment, at three years (MD for TSS= -6.09, 95% CI -9.22 to
+-2.96)
+•
+ETN+DMARD vs ETN
+ ACR50 at 12 months (RR=1.43, 95% CI 1.22 to 1.69)
+ remission at 12 months (RR=2.18, 95% CI 1.57 to 3.03)
+ delay in radiographic progression, regardless of response to
+treatment, at three years (MD for TSS= -1.75, 95% CI -3.27 to
+-0.23)
+These findings are supported by another meta-analysis which
+analysed ETN as monotherapy or combination but with a longer
+follow-up:50, level I
+•
+ETN ± combination vs MTX
+ ACR50 at one to three years (RR=1.37, 95% CI 1.22 to 1.53)
+•
+ETN vs MTX
+ delay in radiographic progression at three years (MD in TSS=
+-4.34, 95% CI -7.56 to -1.12)
+In terms of safety profile, there was no statistical difference in infection
+rate between ETN+DMARD vs DMARD monotherapy.49, level I
+Management of Rheumatoid Arthritis
+iii. Adalimumab
+A systematic review showed that SC ADA 40 mg every two weeks
+either as monotherapy or in combination with DMARD (mainly MTX)
+was more effective than DMARD in the treatment of RA:51, level I
+•
+ADA vs placebo at 24 weeks
+ ACR50 of RR=3.19, 95% CI 1.81 to 5.62
+•
+ADA+DMARD vs placebo+DMARD at 24 weeks
+ ACR50 of RR=3.23, 95% CI 2.35 to 4.44
+ HAQ reduction: MD= -0.32, 95% CI -0.40 to -0.24
+•
+ADA+MTX vs MTX at 52 and 104 weeks
+ TSS increased by 0.8 vs 2.7 (p≤0.01)
+There was no statistical significant difference in safety except for
+injection site reactions in ADA-treated group up to 52 weeks (RR=1.32,
+95% CI 1.02 to 1.71).51, level I
+iv. Golimumab
+A systematic review showed that SC GOL at 50 mg every four weeks
+combined with MTX was more effective than MTX monotherapy in
+active RA up to 24 weeks:52, level I
+•
+ACR50: RR=2.57, 95% CI 1.34 to 4.94
+•
+DAS remission: RR=5.12, 95% CI 1.67 to 15.66
+A multicentre double-blind RCT showed improvements in disease
+activity and physical function as well as less radiographic progression in
+SC GOL 50 mg combined with MTX compared with MTX monotherapy
+at 24 weeks. Extension of the study showed that the improvements
+were maintained up to five years in the combination group:53, level I
+•
+ACR50: 49.4% vs 36.1%
+•
+HAQ-Disability Index (DI) ≥0.25: 67.4% vs 58.6%
+•
+estimated annual rate of radiographic progression (mean±SD):
+0.35±1.22 vs 0.63±1.83
+An RCT showed that IV GOL 2 mg/kg in combination with MTX given
+at 0, 4 and subsequently every 8 weeks was more effective than MTX
+monotherapy in active RA:54, level I
+•
+ACR50: 34.9% vs 13.2% at 24 weeks (p<0.001)
+•
+increase in HAQ score 0.50 vs 0.15 at 14 weeks (p<0.001)
+The responses were seen as early as two weeks.
+There was no significant difference in the number of AEs and serious
+adverse events (SAEs) in SC GOL+MTX vs placebo+MTX.52, level I
+Safety findings through five years follow-up were generally consistent
+with studies of other anti-TNF agents.53, level I There were similar AEs
+between IV GOL+MTX vs placebo+MTX but SAE particularly infection
+was higher in IV GOL+MTX.54, level I
+Management of Rheumatoid Arthritis
+v. Tocilizumab
+Results from four meta-analyses and two RCTs showed that intravenous
+(IV) TCZ as monotherapy or in combination with DMARDs was more
+effective than MTX and combination DMARDs in improving clinical and
+functional outcomes in RA:
+•
+TCZ monotherapy 8 mg/kg vs MTX
+ ACR50: 44% vs 34% (p=0.002)55, level I
+ DAS28-ESR remission at 24 weeks: RR=3.70, 95% CI 2.47 to
+5.5556, level I
+ sustained remission (DAS28 <2.6, swollen joint count ≤4,
+persisting for at least 24 weeks): RR=1.86, 95% CI 1.48 to
+2.3257, level I
+ radiographic progression at 104 weeks: 1.45 vs 1.53
+(p=0.0381)57, level I
+•
+TCZ combination vs DMARD
+ ACR50:
+- OR=4.67, 95% CI 2.63 to 8.2958, level I
+- RR=3.79, 95% CI 2.39 to 6.0059, level I
+ DAS28-ESR remission at 24 weeks: RR=4.77, 95% 3.19 to
+7.1456, level I
+ sustained remission: RR=2.00, 95% CI 1.59 to 2.5157, level I
+ reduction in HAQ score: -0.81 vs -0.64 (p=0.0024)56, level I
+ radiographic progression at 104 weeks:
+- 1.18 vs 1.53 (p=0.0207)57, level I
+- 0.37 vs 1.96 (p<0.0001)60, level I
+In patients with inadequate response to anti-TNF, TCZ+MTX was
+shown to be more effective than MTX monotherapy (28.8% vs 3.8%,
+p<0.0001).55, level I; 58, level I
+An RCT showed that SC and IV TCZ were comparable in ACR50,
+DAS28, HAQ DI and safety.61, level I
+TCZ in combination with MTX as compared with placebo or DMARD
+is associated with a slight increased risk of AEs [OR=1.53 (95%
+CI 1.26 to 1.86)] and infection [OR=1.30 (95% CI 1.07 to 1.58)]. No
+increased incidence of malignancy, TB reactivation or hepatitis has
+been observed.62, level I
+vi. Rituximab
+A Cochrane systematic review showed that IV RTX (given two weeks
+apart) in combination with MTX was more effective in improving
+clinical, functional and radiographic outcomes compared with MTX
+monotherapy at 24 weeks:63, level I
+•
+RTX (1000 mg at D1 and D15)+MTX vs MTX
+ ACR50: RR=3.25, 95% CI 2.31 to 4.58
+Management of Rheumatoid Arthritis
+ HAQ-DI minimal clinically important difference (MCID) of
+-0.22: RR=1.61, 95% CI 1.22 to 2.12
+ no radiographic progression: RR=1.18, 95% CI 1.03 to 1.35
+•
+RTX (500 mg at D1 and D15)+MTX vs MTX
+ ACR50: RR=2.69, 95% CI 1.85 to 3.90
+ HAQ-DI MCID of -0.22: RR=1.58, 95% CI 1.18 to 2.11
+ no radiographic progression: RR=1.33, 95% CI 1.07 to 1.64
+A greater proportion of patients receiving RTX (1000 mg x 2 doses)
+in combination with MTX developed infusion reaction after the first
+infusion compared with those receiving MTX monotherapy and
+placebo infusions (RR=1.6, 95% CI 1.3 to 1.9). However, no significant
+differences were noted in the rates of SAEs.63, level I
+d. Biosimilars
+Biosimilars are products which are highly similar to the reference
+biologics and have no clinically meaningful differences in efficacy
+and safety. A recent systematic review demonstrated comparable
+effectiveness and safety outcomes between the pivotal trials of
+originators (IFX, ADA and ETN) and their respective biosimilars in
+DMARDs-experienced RA patients.64, level I
+i. Biosimilar Infliximab
+CT-P13 (Remsima) infusion in combination with MTX is effective, well
+tolerated and highly comparable with reference IFX.65, level I Results from
+a meta-analysis also showed no significant differences between the
+efficacy of IFX-biosimilar and other biologics.66, level I
+ii. Biosimilar Adalimumab
+Biosimilar adalimumab is also effective, well tolerated and highly
+comparable with reference ADA in DMARDs-naïve patients.67, level I
+•
+bMARDs and tsDMARDs are effective in both early-onset and
+established RA.
+Recommendation 9
+•
+Biologic Disease Modifying Anti-Rheumatic Drug (bDMARDs) and
+targeted synthetic DMARDs (tsDMARDs) should be considered
+when the treatment target is not achieved with conventional synthetic
+DMARDs. Where available, biosimilar DMARDs (bsDMARDs) may
+be considered as effective alternatives.
+•
+All patients should be screened for tuberculosis, hepatitis B and
+C, and human immunodeficiency virus prior to treatment with
+bDMARDs, bsDMARDs or tsDMARDs.
+Management of Rheumatoid Arthritis
+8. TRADITIONAL AND COMPLEMENTARY MEDICINES
+Traditional and complementary medicines (TCM) is often part of the
+cultural practice in Malaysian society in maintaining health. The intake
+of nutritional supplements as well as Chinese herbal medicine and
+Ayurvedic therapies are common practices among patients with RA.
+•
+There is insufficient evidence on safety and efficacy of TCM to
+support its use in the treatment of RA.
+9. RHEUMATOLOGY NURSE-LED CARE
+The escalating demand for rheumatology care has extended the role
+of nurses in addressing unmet management needs of patients with RA.
+In some countries, rheumatology nurse-led care was established to
+enhance follow-up care for patients with RA, which includes monitoring
+of laboratory results, assessment of disease activity, patient education
+and psychosocial support.
+The effectiveness of nurse-led care in rheumatology was reported in three
+systematic reviews. Short-term (12 - 24 months) rheumatology nurseled care was as effective as medical-care involving rheumatologists,
+physicians and general practitioners in the management of RA (DAS28,
+HAQ, pain and fatigue scores).68, level I There was no significant difference
+in RA disease activity at one to two years follow-up between nurse-led
+care and care by rheumatologists and junior hospital doctors.69 - 70, level I
+Nurse-led care was safe in the management of patients with RA when
+compared with medical care involving rheumatologists, physicians and
+general practitioners. The outcome measures were out of range blood
+test, monitoring adherence, healthcare contacts, hospitalisations and
+death.68, level I
+Recommendation 10
+•
+Rheumatology nurse-led care should be considered in the
+management of rheumatoid arthritis.
+Management of Rheumatoid Arthritis
+Drugs
+Schedule surgery (relative to last dose
+administered)
+Week 2 or 3
+Week 2
+Week 5
+Week 9
+Week 5, 7 or 9 (depending on dosing interval of
+every 4, 6 or 8 weekly)
+Month 7
+Week 2
+Week 5
+7 days after last dose
+1 day after last dose (withhold on day of surgery)
+Adalimumab
+Etanercept
+SC Golimumab
+IV Golimumab
+Infliximab
+Rituximab
+SC Tocilizumab
+IV Tocilizumab
+Tofacitinib
+Baricitinib
+10. SPECIAL CONSIDERATIONS
+10.1 Co-morbidity
+10.1.1
+Infection
+All DMARDs should be discontinued in the presence of serious infection
+but can be recommenced once the infection has resolved.71
+10.1.2
+Elective Surgery
+csDMARDs may be continued throughout the perioperative period in
+patients undergoing elective joint replacement surgery. tsDMARDs and
+bDMARDs should be withheld close to one dosing cycle prior to elective
+surgery and restarted after evidence of wound healing, typically 14
+days, in the absence of infection (refer to Table 3).72
+Table 3. Guideline for the Perioperative Management of
+bDMARDs and tsDMARDs in Patients with Rheumatic Diseases
+Undergoing Elective Surgery
+Adapted: Goodman SM, Springer B, Guyatt G, et al. 2017 American College
+of Rheumatology/American Association of Hip and Knee Surgeons
+Guideline for the Perioperative Management of Antirheumatic
+Medication in Patients with Rheumatic Diseases Undergoing Elective
+Total Hip or Total Knee Arthroplasty. J Arthroplasty. 2017;32(9):2628-38
+10.2 Pregnancy and Lactation
+RA often affects women in their reproductive years. The disease activity
+may improve, stabilise or become active during pregnancy.73, level II-3
+Although there are medications to control disease activity, several are
+Management of Rheumatoid Arthritis
+RA
+treatment
+DMARDS
+monotherapy
+Combination
+DMARDS
+Anti-TNF
+biologics
+Non-TNF
+biologics
+DMARDS
+monotherapy
+Combination
+DMARDS
+Anti-TNF
+biologics
+Non-TNF
+biologics
+Not
+recommended
+Not
+recommended
+Killed vaccines
+Recombinant
+Live
+attenuated
+Pneumococcal Influenza
+(IM)
+Hepatitis
+B
+Human
+papillomavirus
+Herpes
+zoster
+Before initiating therapy
+While already taking therapy
+contraindicated in pregnancy and lactation due to limited available
+safety data. Refer to Appendix 6.
+Pre-conception counselling includes disease course and medication
+safety during pregnancy and lactation. These must be addressed in
+women with RA and men who wish to father a child to ensure favourable
+pregnancy outcomes.
+10.3 Vaccination
+Vaccinations are important in the management of RA since the patients
+are at higher risk of infections compared with general population. This
+is due to the underlying autoimmune disease and immunosuppressive
+therapies (e.g. corticosteroids and DMARDs). The 2015 ACR
+recommendations regarding the use of vaccines in patients with RA are
+outlined in Table 4.
+Table 4. 2015 ACR recommendations regarding the use of
+vaccines in RA on DMARDs or biologic agents.
+Source: Singh JA, Saag KG, Bridges SL Jr, et al. 2015 American College of
+Rheumatology Guideline for the Treatment of Rheumatoid Arthritis.
+Arthritis Rheumatol. 2016 Jan;68(1):1-26.
+•
+Killed and conjugate vaccines are safe and may be considered in
+RA patients.
+Management of Rheumatoid Arthritis
+11. MONITORING AND FOLLOW-UP
+Many drugs used in the treatment of RA have potential side-effects
+and may aggravate co-morbidities associated with the underlying
+disease. Combination of DMARDs are often needed to control disease
+activity and this may pose a greater risk for AEs. Hence, an integral
+part in the management of RA include the healthcare provider’s
+understanding of the safety profiles of each therapy and vigilance in
+monitoring for potential harms to patients. Nurse- and/or pharmacy-led
+patient counselling on the importance of routine laboratory tests and
+recognition of adverse symptoms may enable early detection of drug
+toxicity and appropriate action to be taken to minimise harm.
+An overview of laboratory abnormalities of each drug and a summary of
+current guidelines for laboratory monitoring as well as recommendation
+on frequency of monitoring is provided in the Appendix 7.
+12. IMPLEMENTING THE GUIDELINES
+Implementation of this CPG is important as it helps in providing quality
+healthcare services based on the best and most recent available
+evidence applied to local scenario. Various factors and resource
+implications should be considered for the success of the uptake in the
+CPG recommendations.
+12.1 Facilitating and Limiting Factors
+The facilitating factors in implementing the CPG are:
+1. availability of CPG to healthcare providers (hardcopies and
+softcopies)
+2. conferences and updates on management of RA including
+those involving professional bodies (e.g. Malaysian Society of
+Rheumatology)
+3. Key Performance Indicator on Rheumatology Services monitored
+by MoH (i.e. screening for viral hepatitis on RA patients prior to
+starting MTX)
+4. related registries - Malaysian NIAR (myNIAR) and Malaysian
+Rheumatology Biologics Registry (MARBLE)
+5. public awareness during World Arthritis Day
+Limiting factors in the CPG implementation include:
+1. limited awareness and knowledge in management of RA among
+healthcare providers
+2. insufficient resources in RA care e.g. expertise, diagnostic tests
+and medications
+3. poor access to rheumatology services
+4. misconception on the disease and its management by the public
+Management of Rheumatoid Arthritis
+=
+X 100%
+• Percentage of
+patients with clinical
+suspicion of RA
+tested for CRP±ESR
+and RF±ACPA*
+Number patients with
+clinical suspicion of RA
+within the same period
+Number of patients with clinical
+suspicion of RA tested for CRP±ESR
+and RF±ACPA in a period
+=
+X 100%
+• Percentage of RA
+patients prescribed
+with MTX as first-line
+DMARD**
+Number of RA patients prescribed with
+DMARD within the same period
+Number of RA patients prescribed
+with MTX as first-line DMARD
+in a period
+12.2 Potential Resource Implications
+To implement the CPG, there must be strong commitments to:
+1. ensure widespread distribution of CPG to healthcare providers
+via printed copies and online accessibility
+2. reinforce training of healthcare providers via regular seminars
+and workshops
+3. involve multidisciplinary team at all levels of health care
+4. improve the diagnostic and therapeutic facilities
+5. train more experts and develop rheumatology nurse-led care in
+the field of RA
+6. strengthen related national registries on RA
+To assist in the implementation of the CPG, the following are proposed
+as clinical audit indicators for quality management:
+*Target of 70%
+**Unless contraindicated; Target of 80%
+Implementation strategies will be developed following the approval of
+the CPG by MoH which include Quick Reference and Training Module.
+Management of Rheumatoid Arthritis
+REFERENCES
+1.
+Chang PY, Yang CT, Cheng CH, et al. Diagnostic performance of anti-cyclic
+citrullinated peptide and rheumatoid factor in patients with rheumatoid arthritis.
+Int J Rheum Dis. 2016;19(9):880-886.
+2.
+Nishimura K, Sugiyama D, Kogata Y, et al. Meta-analysis: diagnostic accuracy
+of anti-cyclic citrullinated peptide antibody and rheumatoid factor for rheumatoid
+arthritis. Ann Intern Med. 2007;146(11):797-808.
+3.
+Miller A, Nightingale AL, Sammon CJ, et al. Estimating the diagnostic accuracy
+of rheumatoid factor in UK primary care: a study using the Clinical Practice
+Research Datalink. Rheumatology (Oxford). 2015;54(10):1882-1889.
+4.
+National Inflammatory Arthritis Registry. Preliminary Report: April 2009 - August
+2010. Selangor: NIAR; 2011.
+5.
+Nakagomi D, Ikeda K, Okubo A, et al. Ultrasound can improve the accuracy of the
+2010 American College of Rheumatology/European League against rheumatism
+classification criteria for rheumatoid arthritis to predict the requirement for
+methotrexate treatment. Arthritis Rheum. 2013;65(4):890-898.
+6.
+Ji L, Deng X, Geng Y, et al. The additional benefit of ultrasonography to 2010
+ACR/EULAR classification criteria when diagnosing rheumatoid arthritis in
+the absence of anti-cyclic citrullinated peptide antibodies. Clin Rheumatol.
+2017;36(2):261-267.
+7.
+Minowa K, Ogasawara M, Murayama G, et al. Predictive grade of ultrasound
+synovitis for diagnosing rheumatoid arthritis in clinical practice and the possible
+difference between patients with and without seropositivity. Mod Rheumatol.
+2016;26(2):188-193.
+8.
+Suter LG, Fraenkel L, Braithwaite RS. Role of magnetic resonance imaging in the
+diagnosis and prognosis of rheumatoid arthritis. Arthritis Care Res (Hoboken).
+2011;63(5):675-688.
+9.
+Li R, Liu X, Ye H, et al. Magnetic resonance imaging in early rheumatoid arthritis:
+a multicenter, prospective study. Clin Rheumatol. 2016;35(2):303-308.
+10. Goronzy JJ, Matteson EL, Fulbright JW, et al. Prognostic markers of radiographic
+progression in early rheumatoid arthritis. Arthritis Rheum. 2004;50(1):43-54.
+11. Syversen SW, Gaarder PI, Goll GL, et al. High anti-cyclic citrullinated peptide
+levels and an algorithm of four variables predict radiographic progression in
+patients with rheumatoid arthritis: results from a 10-year longitudinal study. Ann
+Rheum Dis. 2008;67(2):212-217.
+12. Levitsky A, Brismar K, Hafstrom I, et al. Obesity is a strong predictor of worse
+clinical outcomes and treatment responses in early rheumatoid arthritis: results
+from the SWEFOT trial. RMD Open. 2017;3(2):e000458.
+13. Saevarsdottir S, Rezaei H, Geborek P, et al. Current smoking status is a strong
+predictor of radiographic progression in early rheumatoid arthritis: results from
+the SWEFOT trial. Ann Rheum Dis. 2015;74(8):1509-1514.
+14. Hetland ML, Stengaard-Pedersen K, Junker P, et al. Radiographic progression
+and remission rates in early rheumatoid arthritis - MRI bone oedema and antiCCP predicted radiographic progression in the 5-year extension of the doubleblind randomised CIMESTRA trial. Ann Rheum Dis. 2010;69(10):1789-1795.
+15. Courvoisier N, Dougados M, Cantagrel A, et al. Prognostic factors of 10-year
+radiographic outcome in early rheumatoid arthritis: a prospective study. Arthritis
+Res Ther. 2008;10(5):R106.
+16. Markatseli TE, Voulgari PV, Alamanos Y, et al. Prognostic factors of radiological
+damage in rheumatoid arthritis: a 10-year retrospective study. J Rheumatol.
+2011;38(1):44-52.
+Management of Rheumatoid Arthritis
+17. Azzouzi AR, Vincendeau S, Barret E, et al. Padeliporfin vascular-targeted
+photodynamic therapy versus active surveillance in men with low-risk prostate
+cancer (CLIN1001 PCM301): an open-label, phase 3, randomised controlled
+trial. Lancet Oncol. 2017;18(2):181-191.
+18. Gomez EL, Gun SC, Somanath SD, et al. Ethnic differences in the prognostic utility
+of rheumatoid factor isotypes and anticyclic citrullinated peptides in rheumatoid
+arthritis patients: a cross-sectional study. Mod Rheumatol. 2013;23(4):716-721.
+19. Koga T, Okada A, Fukuda T, et al. Prognostic Factors Toward Clinically Relevant
+Radiographic Progression in Patients With Rheumatoid Arthritis in Clinical
+Practice: A Japanese Multicenter, Prospective Longitudinal Cohort Study for
+Achieving a Treat-to-Target Strategy. Medicine (Baltimore). 2016;95(17):e3476.
+20. Moller B, Scherer A, Forger F, et al. Anaemia may add information to standardised
+disease activity assessment to predict radiographic damage in rheumatoid
+arthritis: a prospective cohort study. Ann Rheum Dis. 2014;73(4):691-696.
+21. National Institute for Health and Clinical Excellence. Rheumatoid arthritis in
+adults: management (NICE guideline 100). London: NICE, 2018.
+22. Emery P, Breedveld FC, Dougados M, et al. Early referral recommendation for
+newly diagnosed rheumatoid arthritis: evidence based development of a clinical
+guide. Ann Rheum Dis. 2002;61(4):290-297.
+23. Smolen JS, Aletaha D, Bijlsma JW, et al. Treating rheumatoid arthritis to target:
+recommendations of an international task force. Ann Rheum Dis. 2010;69(4):631637.
+24. O’Brien AV, Jones P, Mullis R, et al. Conservative hand therapy treatments in
+rheumatoid arthritis--a randomized controlled trial. Rheumatology (Oxford).
+2006;45(5):577-583.
+25. Brosseau L, Judd MG, Marchand S, et al. Transcutaneous electrical nerve
+stimulation (TENS) for the treatment of rheumatoid arthritis in the hand.
+Cochrane Database Syst Rev. 2003(3):CD004377.
+26. Forestier R, Andre-Vert J, Guillez P, et al. Non-drug treatment (excluding
+surgery) in rheumatoid arthritis: clinical practice guidelines. Joint Bone Spine.
+2009;76(6):691-698.
+27. Woodburn J, Barker S, Helliwell PS. A randomized controlled trial of foot orthoses
+in rheumatoid arthritis. J Rheumatol. 2002;29(7):1377-1383.
+28. Kawai S, Uchida E, Kondo M, et al. Efficacy and safety of ketoprofen patch
+in patients with rheumatoid arthritis: a randomized, double-blind, placebocontrolled study. J Clin Pharmacol. 2010;50(10):1171-1179.
+29. Collantes E, Curtis SP, Lee KW, et al. A multinational randomized,
+controlled, clinical trial of etoricoxib in the treatment of rheumatoid arthritis
+[ISRCTN25142273]. BMC Fam Pract. 2002;3:10.
+30. Fidahic M, Jelicic Kadic A, Radic M, et al. Celecoxib for rheumatoid arthritis.
+Cochrane Database Syst Rev. 2017;6:CD012095.
+31. Krueger K, Lino L, Dore R, et al. Gastrointestinal tolerability of etoricoxib in
+rheumatoid arthritis patients: results of the etoricoxib vs diclofenac sodium
+gastrointestinal tolerability and effectiveness trial (EDGE-II). Ann Rheum Dis.
+2008;67(3):315-322.
+32. Cannon CP, Curtis SP, FitzGerald GA, et al. Cardiovascular outcomes with
+etoricoxib and diclofenac in patients with osteoarthritis and rheumatoid arthritis
+in the Multinational Etoricoxib and Diclofenac Arthritis Long-term (MEDAL)
+programme: a randomised comparison. Lancet. 2006;368(9549):1771-1781.
+33. Marks JL, Colebatch AN, Buchbinder R, et al. Pain management for rheumatoid
+arthritis and cardiovascular or renal comorbidity. Cochrane Database Syst Rev.
+2011(10):CD008952.
+Management of Rheumatoid Arthritis
+34. Bakker MF, Jacobs JW, Welsing PM, et al. Low-dose prednisone inclusion in
+a methotrexate-based, tight control strategy for early rheumatoid arthritis: a
+randomized trial. Ann Intern Med. 2012;156(5):329-339.
+35. Kirwan JR, Bijlsma JW, Boers M, et al. Effects of glucocorticoids on
+radiological progression in rheumatoid arthritis. Cochrane Database Syst Rev.
+2007(1):CD006356.
+36. Avina-Zubieta JA, Abrahamowicz M, De Vera MA, et al. Immediate and past
+cumulative effects of oral glucocorticoids on the risk of acute myocardial
+infarction in rheumatoid arthritis: a population-based study. Rheumatology
+(Oxford). 2013;52(1):68-75.
+37. Avina-Zubieta JA, Abrahamowicz M, Choi HK, et al. Risk of cerebrovascular
+disease associated with the use of glucocorticoids in patients with incident
+rheumatoid arthritis: a population-based study. Ann Rheum Dis. 2011;70(6):990995.
+38. Lopez-Olivo MA, Siddhanamatha HR, Shea B, et al. Methotrexate for treating
+rheumatoid arthritis. Cochrane Database Syst Rev. 2014(6):CD000957.
+39. Katchamart W, Trudeau J, Phumethum V, et al. Methotrexate monotherapy
+versus methotrexate combination therapy with non-biologic disease modifying
+anti-rheumatic drugs for rheumatoid arthritis. Cochrane Database Syst Rev.
+2010(4):CD008495.
+40. Suarez-Almazor ME, Belseck E, Shea B, et al. Sulfasalazine for rheumatoid
+arthritis. Cochrane Database Syst Rev. 2000(2):CD000958.
+41. Suarez-Almazor ME, Belseck E, Shea B, et al. Antimalarials for treating
+rheumatoid arthritis. Cochrane Database Syst Rev. 2000(4):CD000959.
+42. Golicki D, Newada M, Lis J, et al. Leflunomide in monotherapy of rheumatoid
+arthritis: meta-analysis of randomized trials. Pol Arch Med Wewn. 2012;122(12):22-32.
+43. He Y, Wong AY, Chan EW, et al. Efficacy and safety of tofacitinib in the
+treatment of rheumatoid arthritis: a systematic review and meta-analysis. BMC
+Musculoskelet Disord. 2013;14:298.
+44. Fleischmann RM, Huizinga TW, Kavanaugh AF, et al. Efficacy of tofacitinib
+monotherapy in methotrexate-naive patients with early or established rheumatoid
+arthritis. RMD Open. 2016;2(2):e000262.
+45. Dougados M, van der Heijde D, Chen YC, et al. Baricitinib in patients with
+inadequate response or intolerance to conventional synthetic DMARDs: results
+from the RA-BUILD study. Ann Rheum Dis. 2017;76(1):88-95.
+46. Genovese MC, Kremer J, Zamani O, et al. Baricitinib in Patients with Refractory
+Rheumatoid Arthritis. N Engl J Med. 2016;374(13):1243-1252.
+47. Zhang Z, Fan W, Yang G, et al. Risk of tuberculosis in patients treated with
+TNF-α antagonists: a systematic review and meta-analysis of randomised
+controlled trials. BMJ Open. 2017;7(3):e012567.
+48. Costa Jde O, Lemos LL, Machado MA, et al. Infliximab, methotrexate and their
+combination for the treatment of rheumatoid arthritis: a systematic review and
+meta-analysis. Rev Bras Reumatol. 2015;55(2):146-158.
+49. Lethaby A, Lopez-Olivo MA, Maxwell L, et al. Etanercept for the treatment of
+rheumatoid arthritis. Cochrane Database Syst Rev. 2013(5):CD004525.
+50. Chen M, Peng D, Zhang Z, et al. Efficacy of etanercept for treating the
+active rheumatoid arthritis: an updated meta-analysis. Int J Rheum Dis.
+2016;19(11):1132-1142.
+51. Machado MA, Maciel AA, de Lemos LL, et al. Adalimumab in rheumatoid arthritis
+treatment: a systematic review and meta-analysis of randomized clinical trials.
+Rev Bras Reumatol. 2013;53(5):419-430.
+Management of Rheumatoid Arthritis
+52. Singh JA, Noorbaloochi S, Singh G. Golimumab for rheumatoid arthritis: a
+systematic review. J Rheumatol. 2010;37(6):1096-1104.
+53. Keystone EC, Genovese MC, Hall S, et al. Safety and Efficacy of Subcutaneous
+Golimumab in Patients with Active Rheumatoid Arthritis despite Methotrexate
+Therapy: Final 5-year Results of the GO-FORWARD Trial. J Rheumatol.
+2016;43(2):298-306.
+54. Weinblatt ME, Bingham CO, 3rd, Mendelsohn AM, et al. Intravenous golimumab
+is effective in patients with active rheumatoid arthritis despite methotrexate
+therapy with responses as early as week 2: results of the phase 3, randomised,
+multicentre, double-blind, placebo-controlled GO-FURTHER trial. Ann Rheum
+Dis. 2013;72(3):381-389.
+55. Navarro-Millan I, Singh JA, Curtis JR. Systematic review of tocilizumab for
+rheumatoid arthritis: a new biologic agent targeting the interleukin-6 receptor.
+Clin Ther. 2012;34(4):788-802 e783.
+56. Burmester GR, Rigby WF, van Vollenhoven RF, et al. Tocilizumab in early
+progressive rheumatoid arthritis: FUNCTION, a randomised controlled trial. Ann
+Rheum Dis. 2016;75(6):1081-1091.
+57. Bijlsma JWJ, Welsing PMJ, Woodworth TG, et al. Early rheumatoid arthritis
+treated with tocilizumab, methotrexate, or their combination (U-Act-Early): a
+multicentre, randomised, double-blind, double-dummy, strategy trial. Lancet.
+2016;388(10042):343-355.
+58. Navarro G, Taroumian S, Barroso N, et al. Tocilizumab in rheumatoid arthritis:
+a meta-analysis of efficacy and selected clinical conundrums. Semin Arthritis
+Rheum. 2014;43(4):458-469.
+59. Singh JA, Beg S, Lopez-Olivo MA. Tocilizumab for rheumatoid arthritis. Cochrane
+Database Syst Rev. 2010(7):CD008331.
+60. Fleischmann RM, Halland AM, Brzosko M, et al. Tocilizumab inhibits structural
+joint damage and improves physical function in patients with rheumatoid arthritis
+and inadequate responses to methotrexate: LITHE study 2-year results. J
+Rheumatol. 2013;40(2):113-126.
+61. Burmester GR, Rubbert-Roth A, Cantagrel A, et al. Efficacy and safety of
+subcutaneous tocilizumab versus intravenous tocilizumab in combination with
+traditional DMARDs in patients with RA at week 97 (SUMMACTA). Ann Rheum
+Dis. 2016;75(1):68-74.
+62. Campbell L, Chen C, Bhagat SS, et al. Risk of adverse events including
+serious infections in rheumatoid arthritis patients treated with tocilizumab: a
+systematic literature review and meta-analysis of randomized controlled trials.
+Rheumatology (Oxford). 2011;50(3):552-562.
+63. Lopez-Olivo MA, Amezaga Urruela M, McGahan L, et al. Rituximab for
+rheumatoid arthritis. Cochrane Database Syst Rev. 2015;1:CD007356.
+64. Moots RJ, Curiale C, Petersel D, et al. Efficacy and Safety Outcomes for
+Originator TNF Inhibitors and Biosimilars in Rheumatoid Arthritis and Psoriasis
+Trials: A Systematic Literature Review. BioDrugs. 2018;32(3):193-199.
+65. Yoo DH, Racewicz A, Brzezicki J, et al. A phase III randomized study to evaluate
+the efficacy and safety of CT-P13 compared with reference infliximab in patients
+with active rheumatoid arthritis: 54-week results from the PLANETRA study.
+Arthritis Res Ther. 2016;18:82.
+66. Baji P, Pentek M, Czirjak L, et al. Efficacy and safety of infliximab-biosimilar
+compared to other biological drugs in rheumatoid arthritis: a mixed treatment
+comparison. Eur J Health Econ. 2014;15 Suppl 1:S53-64.
+67. Jani RH, Gupta R, Bhatia G, et al. A prospective, randomized, double-blind,
+multicentre, parallel-group, active controlled study to compare efficacy and safety
+of biosimilar adalimumab (Exemptia; ZRC-3197) and adalimumab (Humira) in
+Management of Rheumatoid Arthritis
+patients with rheumatoid arthritis. Int J Rheum Dis. 2016;19(11):1157-1168.
+68. Garner S, Lopatina E, Rankin JA, et al. Nurse-led Care for Patients with
+Rheumatoid Arthritis: A Systematic Review of the Effect on Quality of Care. J
+Rheumatol. 2017;44(6):757-765.
+69. de Thurah A, Esbensen BA, Roelsgaard IK, et al. Efficacy of embedded nurse-led
+versus conventional physician-led follow-up in rheumatoid arthritis: a systematic
+review and meta-analysis. RMD Open. 2017;3(2):e000481.
+70. Ndosi M, Vinall K, Hale C, et al. The effectiveness of nurse-led care in people
+with rheumatoid arthritis: a systematic review. Int J Nurs Stud. 2011;48(5):642654.
+71. Holroyd CR, Seth R, Bukhari M, et al. The British Society for Rheumatology
+biologic DMARD safety guidelines in inflammatory arthritis. Rheumatology
+(Oxford). 2019;58(2):372.
+72. Goodman SM, Springer B, Guyatt G, et al. 2017 American College of
+Rheumatology/American Association of Hip and Knee Surgeons Guideline for
+the Perioperative Management of Antirheumatic Medication in Patients With
+Rheumatic Diseases Undergoing Elective Total Hip or Total Knee Arthroplasty. J
+Arthroplasty. 2017;32(9):2628-2638.
+73. de Man YA, Dolhain RJ, van de Geijn FE, et al. Disease activity of rheumatoid
+arthritis during pregnancy: results from a nationwide prospective study. Arthritis
+Rheum. 2008;59(9):1241-1248.
+Management of Rheumatoid Arthritis
+APPENDIX 1
+EXAMPLE OF SEARCH STRATEGY
+Clinical Question: Is methotrexate effective and safe in the treatment
+of RA?
+1. ARTHRITIS, RHEUMATOID/
+2. rheumatoid arthritis.tw.
+3. 1 or 2
+4. METHOTREXATE/
+5. amethopterin.tw.
+6. mexate.tw.
+7. 4 or 5 or 6
+8. 3 and 7
+9. limit 8 to (English language and humans and last 15 years)
+Management of Rheumatoid Arthritis
+APPENDIX 2
+CLINICAL QUESTIONS
+1. Are the following investigations accurate in supporting the diagnosis
+of RA?
+•
+musculoskeletal ultrasound
+•
+MRI
+2. What are the poor prognostic factors of RA?
+3. What are the effective and safe non-pharmacological treatments of
+RA?
+•
+patient education
+•
+smoking cessation
+•
+physiotherapy
+•
+occupational therapy
+•
+podiatry
+•
+dietetics
+4. Is rheumatology nurse-led care effective and safe in the treatment
+of RA?
+5. What are the effective and safe pharmacological treatments of RA?
+•
+NSAIDs
+•
+corticosteroids
+•
+analgesics (paracetamol, opioids)
+•
+corticosteroids
+•
+DMARDs (synthetic, biologic)
+6. Is TCM effective and safe in the treatment of RA?
+7. What are the indications for referral to secondary/tertiary care?
+Management of Rheumatoid Arthritis
+Measurement of RA disease activity & improvement
+A composite index based on a summation of four
+parameters without using acute phase reactant, which are:
+- TJC
+- SJC
+- PGA of disease activity based on VAS 0 - 10 cm
+- physician global assessment of disease activity based on
+VAS 0 - 10 cm
+Definition of RA disease activity (ranges from 0-76):
+- Remission: ≤2.8
+- Low disease activity: >2.8 to ≤10
+- Moderate disease activity: >10 to ≤22
+- High disease activity: >22
+A composite index based on summation of parameters
+similar to CDAI but with the addition of CRP in mg/dL
+Definition of RA disease activity (ranges from 0-86):
+- Remission: ≤3.3
+- Low disease activity: >3.3 to ≤11
+- Moderate disease activity: >11 to ≤26
+- High disease activity: >26
+A composite calculation of four parameters which includes
+TJC and SJC (based on 28 joints assessment*), ESR (or
+CRP) and PGA (VAS 0-100mm).
+Definition of RA disease activity based on DAS28-ESR:
+- Remission: ≤2.6
+- Low disease activity: >2.6 to ≤3.2
+- Moderate disease activity: >3.2 to ≤5.1
+- High disease activity: >5.1
+A composite measure defined as improvement of 50% in
+number of tender (68 joints) and swollen joints (66 joints;
+hip joints excluded) AND in three of the following five
+criteria:
+- PGA
+- physician global assessment
+- functional ability measurement
+- visual analogue pain scale
+- ESR and CRP
+Clinical Disease
+Activity Index
+(CDAI)
+Simplified
+Disease Activity
+Index (SDAI)
+Disease Activity
+Score (DAS28)
+American
+College of
+Rheumatology
+50 (ACR50)
+based on 28 joints assessment*
+}
+APPENDIX 3
+OUTCOME MEASURES
+Management of Rheumatoid Arthritis
+Measurement of functional status and quality of life
+A self-administered questionnaire to assess functional
+status in adults with arthritis. It evaluates patient difficulty
+with activities of daily living over the past week; it covers
+eight categories including dressing and grooming, arising,
+eating, walking, hygiene, reaching, gripping and, errands
+and chores, as well as the use of specific aids or devices
+and the need for assistance from another person
+A 36-item, patient-reported survey of patient health, used
+to measure health status and QoL
+A scoring system used to quantify the radiological changes
+in patients with RA; the system describes 16 areas of
+erosions (evaluated from 0 to 5 points) and 15 areas of
+narrowing of the joint space (evaluated from 0 to 4 points)
+of 27 small joints of the hand, including the carpal bones
+Health
+Assessment
+Questionnaire
+(HAQ)
+Short Form 36
+Health Survey
+(SF36)
+Total Sharp
+Score (TSS)
+Measure of radiological changes
+*28 joints assessed are PIP
+joints (10 joints), MCP joints (10),
+wrists (2), elbows (2), shoulders
+(2) and knees (2)
+Management of Rheumatoid Arthritis
+Source:
+1. Aletaha D, Nell VP, Stamm T, et al. Acute phase reactants add little to
+composite disease activity indices for rheumatoid arthritis: validation of a
+clinical activity score. Arthritis Res Ther. 2005;7(4):R796-806.
+2. Smolen JS, Breedveld FC, Schiff MH, et al. A simplified disease activity index
+for rheumatoid arthritis for use in clinical practice. Rheumatology (Oxford).
+2003;42(2):244-257.
+3. Fransen J, Creemers MC, Van Riel PL. Remission in rheumatoid arthritis:
+agreement of the disease activity score (DAS28) with the ARA preliminary
+remission criteria. Rheumatology (Oxford). 2004;43(10):1252-1255.
+4. van der Heijde DM, van ‘t Hof M, van Riel PL, et al. Development of a disease
+activity score based on judgment in clinical practice by rheumatologists. J
+Rheumatol. 1993;20(3):579-581.
+5. Felson DT, Anderson JJ, Boers M, et al. The American College of Rheumatology
+preliminary core set of disease activity measures for rheumatoid arthritis
+clinical trials. The Committee on Outcome Measures in Rheumatoid Arthritis
+Clinical Trials. Arthritis Rheum. 1993;36(6):729-740.
+6. Fries JF, Spitz P, Kraines RG, et al. Measurement of patient outcome in
+arthritis. Arthritis Rheum. 1980;23(2):137-145.
+7. Ware JE, Jr., Sherbourne CD. The MOS 36-item short-form health survey (SF36). I. Conceptual framework and item selection. Med Care. 1992;30(6):473483.
+8. van der Heijde D. How to read radiographs according to the Sharp/van der
+Heijde method. J Rheumatol. 2000;27(1):261-263.
+Management of Rheumatoid Arthritis
+APPENDIX 4
+PATIENT EDUCATION LEAFLET
+A. Disease Information
+I. How does RA affect the joints?
+• RA causes inflammation in the joints. This leads to pain and
+stiffness in the morning, lasting more than 30 minutes. Other
+symptoms include redness, warmth and swelling at the joint.
+• RA affects joints by causing inflammation at the synovium
+(refer Figure 5). If untreated, the inflammation may damage
+cartilage and bone.
+• The commonly affected joints are the small joints of the hands
+and feet but other joints like shoulders, elbows, knees and
+ankles may also be affected.
+• In some people, RA may also affect other parts of the body
+including the eyes, lungs and blood vessels. Other associated
+symptoms include fatigue and mild fever.
+II. Causes
+• RA is caused by a problem in the immune system, unlike
+osteoarthritis which is usually caused by ‘wear and tear’.
+• The exact cause of RA is still unclear but certain factors are
+thought to increase the risk of developing it:
+ environment - e.g. infection
+ genes - the chance of developing RA is partly genetic
+ hormones - women are more likely to have RA
+ lifestyle - smoking cigarettes can double the risk of
+developing RA
+III. Diagnosis
+• There is no single test to diagnose RA. The diagnosis is made
+based on symptoms, physical examination, x-rays and/or
+ultrasound and blood tests.
+Management of Rheumatoid Arthritis
+Joint affected by RA
+Normal Joint
+Muscle
+Cartilage
+Tendon
+Bone
+Synovium
+Synovial fluid
+Joint capsule
+Bone loss
+Cartilage loss
+(generalized)
+Infiamed
+synovium
+Swollen Joint capsule
+Bone loss/Erosion
+Bone
+Figure 5. Normal joint and joint affected by RA
+B. Medication
+There is no cure for RA but treatment is available to control joint pain,
+minimise joint damage and ultimately, improve physical function and
+QoL. Types of medications commonly prescribed:
+• NSAIDs to relieve joint pain and swelling
+• DMARDs to treat joint inflammation and slow the disease process;
+used long-term
+• corticosteroids to treat joint inflammation; used short-term
+• biologics and targeted DMARDs when DMARDs are not effective
+or not tolerated
+Treatment is individualised and not all medications work for everyone.
+Hence, it is important to discuss treatment options and inform your
+doctor if there are any issues with the prescribed medications. Your
+doctor will monitor for any possible side effects from medications and
+adjust treatment as needed. It is important to adhere to your clinic
+appointments and treatment for optimal management of your RA.
+Management of Rheumatoid Arthritis
+C. Lifestyle Modification
+Lifestyle modification is also important to improve RA symptoms and
+QoL. By staying active, eating well and limiting stress, overall health
+can be optimised.
+I. Physical activity
+• It is best to rest the joint when it is acutely inflamed (painful
+and swollen).
+• Regular, gentle exercises can be done once inflammation
+has resolved. This will improve joint flexibility and general
+well-being. They include:
+ low impact aerobic exercises e.g. line dancing, wateraerobic
+ strengthening exercises e.g. walking, swimming, stationary
+cycling
+ stretching and range-of-motion exercises e.g. tai chi, yoga
+II. Daily tasks
+You may need to make some adaptations to your daily tasks
+to make it safer and easier to be performed. Some examples
+include:
+• At home
+ change door knobs to lever type
+ replace squatting toilets with sitting toilets
+ place regularly used items on reachable shelves
+ replace heavy appliances with lighter ones
+• At work
+ arrange the workspace to make it easier to complete tasks
+with the least amount of physical strain
+ take breaks from repetitive motion tasks
+III. Healthy eating
+There is no specific diet that improves or worsens RA. A healthy
+and well-balanced diet is important to maintain a healthy
+weight and prevent other diseases e.g. diabetes mellitus and
+heart disease. In general, a healthy dietary habit includes the
+following:
+• consume more fresh fruits and vegetables
+• reduce sugar and salt
+• avoid processed food and high saturated fat diet
+• if you drink alcohol, do so in moderation; some people on
+certain RA medications may need to avoid alcohol completely
+IV. Emotional health
+Living with RA can be a challenge. It is normal to feel angry or
+frustrated because tasks that used to be done routinely may
+now be difficult. Emotional stress may make it harder to deal
+with pain. Some steps that you can take to understand and
+control your emotional health include:
+• avoid things that cause you stress e.g. make changes to
+your daily routine to reduce physical strain
+Management of Rheumatoid Arthritis
+• make time for things that you enjoy e.g. listening to music
+• find positive ways to cope with stress e.g. joining a support
+group
+• learn relaxation techniques e.g. deep breathing technique
+V. Smoking
+Smoking is one of the poor prognostic factors for RA. Cessation
+of smoking is advisable in view of its association with high CV
+risk.
+Talk to a health care worker if you are experiencing symptoms of
+depression, having relationship problems or facing sleep difficulties.
+Management of Rheumatoid Arthritis
+APPENDIX 5
+PRINCIPLES OF JOINT PROTECTION
+The purpose of joint protection is to allow patients to participate in daily
+activities with the least amount of damage to the affected joints. These
+principles can help to reduce pain, inflammation and injury caused by
+excessive stress on the joint.
+The Principles of Joint Protection:
+1. Respect pain
+There are many activity-related factors influencing the onset and
+intensity of joint pain.
+Time - the length of time one spends on an activity can influence
+pain; e.g. pain resulting from five minutes of an activity may be
+manageable, but an hour of the same task may result in pain that
+lasts for a few days.
+Weight - weight can influence pain in several ways; e.g. carrying a
+lighter bag of groceries a few times may not cause any difficulties
+but a heavier bag can cause or worsen pain in the affected joint.
+Repetition - repetition of an activity can cause or worsen pain;
+e.g. stapling a few sheets of paper may not cause any pain, but
+repeating this activity 50 times may cause significant pain that
+lingers for hours or days.
+2. Distribute the load over stronger joints and/or larger surface areas
+Small hand joints are vulnerable to pain and inflammation when
+overused, causing overstretching of ligaments leading to instability
+(a). When possible, spread the load over several joints or to a larger
+joint (b).
+(a)
+(b)
+Management of Rheumatoid Arthritis
+Poor posture
+Good posture
+3. Avoid maintaining the same joint position for prolonged periods
+Joints kept in one position for prolonged periods of time are inclined
+to get stiff. Immobilisation of a joint for days or weeks can lead to
+muscle atrophy and joint contractures. Shifting weight, stretching or
+changing positions frequently can alleviate the pain and stiffness.
+4. Use good posture and body mechanics
+Each joint should be used in its most anatomically stable and
+functional plane. Good body mechanics and posture are important
+to minimise musculoskeletal strain, thereby preventing or reducing
+pain. While it takes more energy initially, once it becomes a habit,
+less energy is needed to maintain a good posture.
+5. Use the minimum amount of force necessary to complete the job
+Squeezing and pinching activities should be avoided, as they tend
+to aggravate soft tissue injury and hand deformities. Holding an
+object with less effort, taking rest breaks and using special aids can
+reduce stress on the joint.
+(a)
+(b)
+Management of Rheumatoid Arthritis
+(c)
+(d)
+(e)
+(f)
+Photos (a), (c) and (e) indicate the improper ways of performing an
+activity.
+Photos (b), (d) and (f) show the recommended ways.
+6. Simplify work by using efficiency principles: plan, organise,
+balance work with rest
+Planning, organising and balancing work with rest are useful
+principles to be employed in reducing stress on joints.
+7. Maintain strength and range of motion
+Remain active to maintain/increase strength and range of motion.
+Exercise plays an important role in control of body weight, CV fitness
+and prevention of coronary heart disease. When individualised for
+people with arthritis, exercise is expected to improve rather than
+worsen joint pain and function.
+Source: Arthritis Foundation. Pain Management: Joint Protection. (Available at:
+https://www.arthritis.org/living-with-arthritis/pain-management/jointprotection)
+Management of Rheumatoid Arthritis
+Appendix 6
+PHARMACOLOGICAL TREATMENT OF RHEUMATOID ARTHRITIS
+Drug
+Administration
+Recommended Dosage
+Possible Adverse Events
+Oral
+Oral
+Oral
+Oral
+Oral
+Oral
+Patch
+Corticosteroids
+Non-steroidal anti-inflammatory drugs
+400 - 800 mg TDS
+(maximum: 3200 mg daily)
+50 mg TDS
+250 - 500 mg BD
+(equivalent to 275 - 550 mg
+naproxen sodium)
+7.5 - 15 mg OD
+60 - 90 mg OD
+200 mg OD or BD
+Apply for 12 hours
+• Contact dermatitis at application site
+Low dose as suggested in
+Recommendation 7
+Example: Triamcinolone
+40 - 80 mg or equivalent
+Dose depends on the site
+of injection
+• Body fluid retention
+• Elevated blood pressure
+• Acne
+• Decreased body growth
+• Hyperglycaemia
+• Osteoporosis
+• Muscle weakness
+• Headache
+• Injection site infection
+Pregnancy
+• Can be continued at lowest
+effective dose
+Lactation
+• Compatible with breastfeeding
+after 4 hours from the last dose if
+taking prednisolone more than
+20 mg daily
+Oral
+IM
+IA
+Corticosteroids
+• GI intolerance
+• Rash
+• Peripheral oedema
+• Changes in ALT/AST
+• Elevated blood pressure
+Pregnancy
+• Traditional NSAIDs can be used if
+needed to control symptoms but
+use is restricted to first and second
+trimester
+• Selective cyclooxygenase-2
+(COX-2) inhibitors should be
+avoided in pregnancy
+Lactation
+NSAIDs are compatible with lactation
+Celecoxib is compatible with lactation,
+other COX-2 inhibitors should be
+avoided
+Ibuprofen
+Diclofenac
+Naproxen
+Meloxicam
+Etoricoxib
+Celecoxib
+Ketoprofen
+Pregnancy and Lactation
+Drug
+Administration
+Recommended Dosage
+Possible Adverse Events
+Oral
+Oral
+Oral
+Oral
+Oral
+Oral
+Patch
+Corticosteroids
+Non-steroidal anti-inflammatory drugs
+400 - 800 mg TDS
+(maximum: 3200 mg daily)
+50 mg TDS
+250 - 500 mg BD
+(equivalent to 275 - 550 mg
+naproxen sodium)
+7.5 - 15 mg OD
+60 - 90 mg OD
+200 mg OD or BD
+Apply for 12 hours
+• Contact dermatitis at application site
+Low dose as suggested in
+Recommendation 7
+Example: Triamcinolone
+40 - 80 mg or equivalent
+Dose depends on the site
+of injection
+• Body fluid retention
+• Elevated blood pressure
+• Acne
+• Decreased body growth
+• Hyperglycaemia
+• Osteoporosis
+• Muscle weakness
+• Headache
+• Injection site infection
+Pregnancy
+• Can be continued at lowest
+effective dose
+Lactation
+• Compatible with breastfeeding*
+*breastfeeding after 4 hours from the
+last dose if taking prednisolone more
+than 20 mg daily
+Oral
+IM
+IA
+Corticosteroids
+• GI intolerance
+• Rash
+• Peripheral oedema
+• Changes in ALT/AST
+• Elevated blood pressure
+Pregnancy
+• Traditional NSAIDs can be used if
+needed to control symptoms but
+use is restricted to first and second
+trimester
+• Selective cyclooxygenase-2
+(COX-2) inhibitors should be
+avoided in pregnancy
+Lactation
+NSAIDs are compatible with lactation
+Celecoxib is compatible with lactation,
+other COX-2 inhibitors should be
+avoided
+Ibuprofen
+Diclofenac
+Naproxen
+Meloxicam
+Etoricoxib
+Celecoxib
+Ketoprofen
+Pregnancy and Lactation
+Management of Rheumatoid Arthritis
+Drug
+Administration
+Recommended Dosage
+Possible Adverse Events
+Disease Modifying Anti-Rheumatic Drugs (DMARDs)
+7.5 - 20 mg weekly
+• GI intolerance
+• Alopecia
+• Mucositis
+• Photosensitivity, rash
+• Abnormal FBC
+• Elevated ALT/AST
+• Interstitial pneumonia (acute/chronic)
+Pregnancy
+• Contraindicated in pregnancy
+• Stop at least three months in
+women prior to conception
+Lactation
+• Avoid in lactation
+Pregnancy
+• Compatible in pregnancy with folate
+supplementation
+Lactation
+• Breastfeeding is safe in a healthy,
+full-term infant
+• Caution in premature infant,
+hyperbilirubinemia, and glucose-6-
+phosphate dehydrogenase (G6PD)
+deficiency
+Methotrexate
+Sulfasalazine
+Pregnancy and Lactation
+Conventional Synthetic DMARDs
+Oral
+SC
+Intramuscular
+(IM)
+Dose adjustment for renal
+impairment:
+CrCl (ml/min
+/1.7 m2)
+≥60
+30-59
+<30
+% Standard
+dose
+Full dose
+50
+Contraindicated
+Oral
+500 - 1000 mg BD
+• Pruritus
+• Rash
+• GI intolerance
+• Abnormal FBC
+• Elevated ALT/AST
+• Oligospermia
+Hydroxychloroquine
+Oral
+200 - 400 mg OD
+(not exceeding 6.5 mg/kg
+ideal body weight) *BSR 2017
+• Retinal disorder
+• Compatible in pregnancy and
+lactation
+Leflunomide
+Oral
+10 - 20 mg OD
+• Alopecia
+• Abnormal FBC
+• Elevated ALT/AST
+• Elevated blood pressure
+• Avoid in pregnancy and lactation
+• A washout procedure should be
+completed pre-conception
+Management of Rheumatoid Arthritis
+Drug
+Administration
+Recommended Dosage
+Possible Adverse Events
+5 mg BD
+5 mg OD (CrCl 30 - 60 mL/min)
+• Increased low-density lipoprotein and
+high-density lipoprotein level
+• Herpes Zoster infection
+• Elevated ALT/AST
+• Gut perforation (especially in
+diverticulitis)
+Pregnancy
+• Avoid in pregnancy
+• Should be stopped 2 months before
+conception
+Lactation
+• Insufficient data to support safety
+Pregnancy
+• Can be continued up to gestational
+week 20; if indicated can be used
+throughout pregnancy
+Lactation
+• Compatible with lactation
+Tofacitinib
+Pregnancy and Lactation
+Oral
+Infliximab
+IV
+3 mg/kg every 8 weeks
+May increase to 5 mg/kg
+• Rash
+• GI intolerance
+• Infusion related reaction
+• Infections (including TB)
+Pregnancy
+• Can be continued up to gestational
+week 30-32; if indicated can be
+used throughout pregnancy
+Lactation
+• Compatible with lactation
+Etanercept
+SC
+50 mg every week
+• Injection site reaction
+• Infections (including TB)
+Baricitinib
+Oral
+4 mg OD
+2 mg OD (CrCl 30 - 60 mL/min)
+• Elevated ALT/AST
+• GI intolerance
+• Herpes Zoster infection
+• Abnormal FBC
+• Increased low-density lipoprotein,
+high-density lipoprotein and triglyceride
+levels
+• Insufficient data to support safety
+in pregnancy and lactation
+Biologic DMARDs
+Targeted Synthetic DMARDs
+Management of Rheumatoid Arthritis
+Drug
+Administration
+Recommended Dosage
+Possible Adverse Events
+40 mg every 2 weeks
+• Injection site reaction
+• Rash
+• GI intolerance
+• Infections (including TB)
+Pregnancy
+• Can be continued up to gestational
+week 20; if indicated can be used
+throughout pregnancy
+Lactation
+• Compatible with lactation
+Pregnancy
+• Limited evidence; consider
+alternative treatments
+Lactation
+• Compatible with lactation
+• Contraindicated in pregnancy and
+lactation
+Adalimumab
+Pregnancy and Lactation
+SC
+Tocilizumab
+SC
+162 mg every week
+• Injection site reaction
+• Rash
+• GI intolerance
+• Elevated ALT/AST
+• Abnormal FBC
+• Infections (including TB)
+• Gut perforation (especially in diverticulitis)
+• Increased low-density lipoprotein level
+Golimumab
+SC
+50 mg every month
+IV
+2 mg/kg every 8 weeks
+IV
+4 - 8 mg/kg every 4 weeks
+• Injection site reaction
+• Rash
+• Infections (including TB)
+• Elevated ALT/AST
+Biologic DMARDs
+Management of Rheumatoid Arthritis
+Drug
+Administration
+Recommended Dosage
+Possible Adverse Events
+Pregnancy and Lactation
+Pregnancy
+• Can be used in exceptional cases
+in early gestation; if used at later
+stages of pregnancy, clinician
+should be aware of risk of B cell
+depletion and other cytopaenias in
+the neonate
+Lactation
+• Avoid in lactation
+Rituximab
+IV
+1000 mg on day 1 and
+day 15
+May be repeated every
+6 months
+• Peripheral oedema
+• Pruritus
+• Rash
+• GI intolerance
+• Abnormal FBC
+• Infections
+• Infusion related reaction
+• Low IgG/IgA/IgM
+OD=once a day; BD=two times a day; TDS=three times a day
+Adapted:
+1. Gotestam Skorpen C, Hoeltzenbein M, Tincani A, et al. The EULAR points to consider for use of antirheumatic drugs before pregnancy, and
+during pregnancy and lactation. Annals of the rheumatic diseases. 2016;75(5):795-810.
+2. Ledingham J, Gullick N, Irving K, et al. BSR and BHPR guideline for the prescription and monitoring of non-biologic disease-modifying antirheumatic drugs. Rheumatology (Oxford). 2017;56(12):2257.
+Management of Rheumatoid Arthritis
+APPENDIX 7
+DRUG MONITORING
+csDMARDs
+Baseline
+investigations
+Drug
+Subsequent
+investigations
+Frequency of
+monitoring
+Additional
+monitoring
+Action
+• FBC
+• Serum creatinine
+• ALT and/or AST
+• Albumin
+• HBsAg
+• Anti-hepatitis C
+virus
+• Chest X-ray
+Methotrexate
+• FBC
+• Serum creatinine
+• ALT and/or AST
+• Albumin
+2 - 4 weekly for the
+first 3 months or
+at every dose
+increase, then
+3-monthly
+-
+Early consultation with rheumatology team or
+consider interruption in treatment if any of the
+following occurs:
+i.
+WBC <3.5 x 10^9/L
+ii.
+Neutrophils <1.6 x 10^3/L
+iii. Unexplained eosinophilia >0.5 x 10^3/L
+iv. MCV >105 fL
+v. Platelet <140 x 10^9/L
+vi. Creatinine increase >30%
+vii. AST/ALT > 3x ULN (upper limit normal)
+viii. Unexplained reduction in albumin <30 g/L
+Sulfasalazine
+Leflunomide
+• BP and weight at
+each visit
+• Baseline ophthalmic
+examination within
+1 year of commencing
+treatment and
+annually after
+5 years
+-
+-
+Hydroxychloroquine
+As above
+As above
+As above
+As above
+Management of Rheumatoid Arthritis
+tsDMARDs
+Baseline
+investigations
+Drug
+Subsequent
+investigations
+Frequency of
+monitoring
+Additional
+monitoring
+Action
+• FBC
+• LFT
+• Serum creatinine
+• Fasting glucose
+• Fasting lipid
+• Serology for HIV,
+HBsAg, HBcAb
+and hepatitis C
+virus
+• Urine pregnancy
+test (if indicated)
+• TB screening
+(refer to
+Appendix 8)
+Tofacitinib
+• FBC
+• Serum creatinine
+• ALT and/or AST
+• ESR/CRP
+• Fasting lipid
+• Albumin
+• At week 4 then
+3-monthly
+• 4 - 8 weeks after
+initiation then
+3-monthly
+-
+Early consultation with rheumatology team or
+consider interruption in treatment if any of the
+following occurs:
+i.
+WBC <3.5 x 10^9/L
+ii.
+Neutrophils <1.6 x 10^3/L
+iii. Unexplained eosinophilia >0.5 x 10^9/L
+iv. MCV >105 fL
+v. Platelet <140 x 10^9/L
+vi. Creatinine increase >30%
+vii. AST/ALT > 3x ULN
+Baricitinib
+As above
+As above
+Management of Rheumatoid Arthritis
+Biologics
+Baseline
+investigations
+Drug
+Subsequent
+investigations
+Frequency of
+monitoring
+Additional
+monitoring
+Action
+• Serology for HIV,
+HBsAg, HBcAb
+and hepatitis C
+virus
+• Urine pregnancy
+test (if indicated)
+• TB screening
+(refer to
+Appendix 8)
+Rituximab
+• During and up to
+12 months after
+treatment
+• IgG level
+• Hepatitis B virus
+reactivation
+Infliximab/
+Biosimilar
+Golimumab
+• 8 weeks after
+initiation then
+3-monthly
+• Fasting lipid
+Tocilizumab
+• FBC
+• LFT
+• Serum creatinine
+• Fasting glucose
+• Fasting lipid
+Adalimumab
+• FBC
+• Serum creatinine
+• ALT and/or AST
+• ESR/CRP
+• At week 4 then
+3-monthly
+-
+Early consultation with rheumatology team or
+consider interruption in treatment if any of the
+following occurs:
+i.
+WBC <3.5 x 10^9/L
+ii.
+Neutrophils <1.6 x 10^3/L
+ii.
+Unexplained eosinophilia >0.5 x 10^9/L
+iv. MCV >105 fL
+v. Platelet <140 x 10^9/L
+vi. Creatinine increase >30%
+vii. AST/ALT > 3x ULN
+Caution in initiating RTX in patients with
+hypogammaglobulinaemia
+Etanercept
+As above
+As above
+As above
+As above
+Source:
+1. Xeljanz® (Tofacitinib) [package insert]. New York, NY. Pfizer Inc; 2018.
+2. Cosentyx® (Secukinumab) [package insert]. East Hanover, NJ. Novartis Pharmaceuticals Corp; 2018
+3. Simponi® (Golimumab) [package insert]. Hoddesdon, Herts. Merck Sharp & Dohme Ltd; 2018.
+Management of Rheumatoid Arthritis
+4. Actemra® (Tocilizumab) [package insert]. Mississauga, ON. Hoffmann-La Roche Ltd; 2019.
+5. Olumiant® (Baricitinib) [product insert]. Indianapolis, IN. Eli Lily & Co; 2018.
+6. Ledingham J, Gullick N, Irving K, et al. BSR and BHPR guideline for the prescription and monitoring of non-biologic disease-modifying antirheumatic drugs. Rheumatology (Oxford). 2017;56(12):2257.
+7. Ding T, Ledingham J, Luqmani R, et al. BSR and BHPR rheumatoid arthritis guidelines on safety of anti-TNF therapies. Rheumatology
+(Oxford). 2010 Nov;49(11):2217-9.
+8. National Osteoporosis Guideline Group. NOGG 2017: Clinical Guideline for the Prevention and Treatment of Osteoporosis. Sheffield: NOGG;
+2017.
+9. 2015 Singh JA, Saag KG, Bridges SL Jr, et al. 2015 American College of Rheumatology Guideline for the Treatment of Rheumatoid Arthritis.
+Arthritis Rheumatol. 2016 Jan;68(1):1-26.
+10. Holroyd CR, Seth R, Bukhari M, et al. The British Society for Rheumatology biologic DMARD safety guidelines in inflammatory arthritis.
+Rheumatology (Oxford). 2019;58:e3-e42.
+11. Goodman SM, Springer B, Guyatt G, et al. 2017 American College of Rheumatology/American Association of Hip and Knee Surgeons
+Guideline for the Perioperative Management of Antirheumatic Medication in Patients With Rheumatic Diseases Undergoing Elective Total
+Hip or Total Knee Arthroplasty. Arthritis Rheumatol. 2017;69(8):1538-1551.
+Management of Rheumatoid Arthritis
+APPENDIX 8
+TUBERCULOSIS WORKUP PRIOR TO TARGETED SYNTHETIC
+DMARDs AND BIOLOGIC THERAPY IN RHEUMATOID ARTHRITIS
+IGRA: Interferon Gamma Release Assay
+LTBI: latent tuberculosis infection
+TB: tuberculosis
+Adapted: Ministry of Health Malaysia. Management of Tuberculosis (3rd
+Edition). Putrajaya: MoH; 2012; Centers for Disease Control and
+Prevention. TB Elimination: Tuberculin Skin Testing. Atlanta: CDC;
+2011
+Yes
+No
+IGRA
+Positive
+Negative
+Monitor and
+reassess if
+symptoms
+develop
+Refer chest
+physician for
+further
+assessment
+No
+action
+No
+action
+Treat as LTBI
+Adequate
+TB treatment
+previously?
+History and physical
+examination suggestive of TB
+OR
+Previous history of TB
+OR
+Abnormal chest X-ray
+Investigations to
+confirm TB
+TB positive
+Anti-TB regime
+TB negative
+Yes
+No
+Mantoux test
+<5 mm*
+≥5 mm*
+Management of Rheumatoid Arthritis
+LIST OF ABBREVIATIONS
+ACPA
+anti-citrullinated peptide antibody
+ACR
+American College of Rheumatology
+ADA
+adalimumab
+AE
+adverse events
+AGREE
+Appraisal of Guidelines for Research and Evaluation
+AIIRD
+autoimmune inflammatory rheumatic diseases
+AIMS
+Arthritis Impact Measurement Scale
+ALT
+alanine aminotransferase
+AP
+anteroposterior
+anti-CCP
+anti-cyclic citrullinated peptide
+anti-TNF
+anti-Tumour Necrosis Factor
+AST
+aspartate aminotransferase
+AUC
+area under the curve
+BD
+twice daily
+bDMARDs
+biologic Disease Modifying Anti-Rheumatic Drugs
+CI
+confidence interval
+COX-2
+cyclooxygenase
+CPG
+clinical practice guidelines
+CRP
+C-reactive protein
+csDMARDs
+conventional synthetic Disease Modifying Anti-Rheumatic Drugs
+CV
+cardiovascular
+D
+day
+DI
+disability index
+DAS28
+Disease Activity Score 28
+DIP
+distal interphalangeal
+DG
+Development Group
+DMARDs
+Disease Modifying Anti-Rheumatic Drugs
+ESR
+erythrocyte sedimentation rate
+ETN
+etanercept
+EULAR
+European League Against Rheumatism
+FBC
+full blood count
+G6PD
+glucose-6-phosphate dehydrogenase
+GI
+gastrointestinal
+GOL
+golimumab
+GS
+Gray Scale
+HAQ
+health assessment questionnaire
+HBcAb
+hepatitis B core antibody
+HBsAg
+hepatitis B surface antigen
+HCQ
+hydroxychloroquine
+HR
+hazard ratio
+HIV
+human immunodeficiency virus
+IFX
+infliximab
+IG
+immunoglobulin
+IGA
+investigator global assessment
+IGRA
+Interferon Gamma Release Assay
+IL-6
+interleukin 6
+IM
+intramuscular
+IV
+intravenous
+LEF
+leflunomide
+LFT
+liver function test
+LTBI
+latent tuberculosis infection
+Management of Rheumatoid Arthritis
+MaHTAS
+Malaysian Health Technology Assessment Section
+MARBLE
+Malaysian Rheumatology Biologics Registry
+MCP
+metacarpophalangeal
+MCID
+minimal clinically important difference
+MD
+mean difference
+MoH
+Ministry of Health
+MRI
+magnetic resonance imaging
+MTP
+metatarsophalangeal
+MTX
+methotrexate
+myNIAR
+Malaysian National Inflammatory Arthritis Registry
+NNT
+number needed to treat
+NNH
+number needed to harm
+NSAIDs
+non-steroidal anti-inflammatory drugs
+NIAR
+National Inflammatory Arthritis Registry
+NICE
+National Institute for Health and Clinical Excellence
+OD
+daily
+OR
+odds ratio
+PD
+Power Doppler
+PIP
+proximal interphalangeal
+PGA
+patient global assessment
+QoL
+quality of life
+RA
+rheumatoid arthritis
+RC
+Review Committee
+RCT
+randomised controlled trial
+RF
+rheumatoid factor
+RP
+renal profile
+RR
+relative risk
+RTX
+rituximab
+SAE
+serious adverse events
+SC
+subcutaneous
+SD
+standard deviation
+SIGN
+Scottish Intercollegiate Guidelines Network
+SJC
+swollen joint count
+SMD
+standardised mean difference
+SSZ
+sulfasalazine
+T2T
+treat-to-target
+TB
+tuberculosis
+TCM
+Traditional and Complementary Medicines
+TCZ
+tocilizumab
+TDS
+thrice daily
+TENS
+Transcutaneous Electrical Nerve Stimulation
+TJC
+tender joint count
+tsDMARDs
+targeted synthetic Disease Modifying Anti-Rheumatic Drugs
+TSS
+total Sharp score
+ULN
+upper limit normal
+URTI
+upper respiratory tract infection
+VAS
+Visual Analogue Scale
+vs
+versus
+Management of Rheumatoid Arthritis
+ACKNOWLEDGEMENT
+The members of CPG DG would like to express their gratitude and
+appreciation to the following for their contributions:
+• Panel of external reviewers who reviewed the draft
+• Technical Advisory Committee of CPG for their valuable input and
+feedback
+• Health Technology Assessment and Clinical Practice Guidelines
+Council for approval of the CPG
+• Ms. Rosnani Abdul Latip on retrieval of evidence
+• Ms. Siti Aisah Fadzilah, Senior Principal Assistant Director, MaHTAS
+• All those who have contributed directly or indirectly to the
+development of the CPG
+DISCLOSURE STATEMENT
+The panel members of both Development Group and Review
+Committee had completed disclosure forms. None held shares in
+pharmaceutical firms or acts as consultants to such firms. Details are
+available upon request from the CPG Secretariat.
+SOURCE OF FUNDING
+The development of the CPG on Management of Rheumatoid Arthritis
+was supported financially in its entirety by the MoH.

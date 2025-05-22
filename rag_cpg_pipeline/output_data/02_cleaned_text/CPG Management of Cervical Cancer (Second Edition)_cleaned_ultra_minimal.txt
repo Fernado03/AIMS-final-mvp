@@ -1,0 +1,3701 @@
+CLINICAL PRACTICE GUIDELINES
+MOH/P/PAK/294.15(GU)
+Y
+Management of Cervical Cancer (Second Edition)
+Published by:
+Malaysia Health Technology Assessment Section (MaHTAS)
+Medical Development Division, Ministry of Health Malaysia
+Level 4, Block E1, Precinct 1
+Federal Government Administrative Centre
+62590, Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is MaHTAS. Content may be
+reproduced in any number of copies and in any format or medium provided that a copyright acknowledgement to MaHTAS is included and
+the content is not changed, not sold, nor used to promote or endorse
+any product or service, and not used in an inappropriate or misleading
+context.
+ISBN: 978-967-0769-27-1
+Available on the following websites:
+http://www.moh.gov.my
+http://www.acadmed.org.my
+http://www.malaysiaoncology.org
+http://www.themgcs.blogspot.com
+Also available as an app for Android and iOS Platform: MyMaHTAS
+STATEMENT OF INTENT
+These clinical practice guidelines (CPG) are meant to be guides for
+clinical practice, based on the best available evidence at the time of
+development. Adherence to these guidelines may not necessarily
+guarantee the best outcome in every case. Every healthcare provider is
+responsible for the management of his/her unique patient based on the
+clinical picture presented by the patient and the management options
+available locally.
+These guidelines were issued in 2015 and will be reviewed in 2019 or
+sooner if new evidence becomes available. When it is due for updating,
+the Chairman of the CPG or National Advisor of the related specialty
+will be informed about it. A discussion will be done on the need for
+a revision including the scope of the revised CPG. A multidisciplinary
+team will be formed and the latest systematic review methodology used
+by MaHTAS will be employed.
+Management of Cervical Cancer (Second Edition)
+TABLE OF CONTENTS
+No.
+Title
+Page
+Levels of Evidence & Formulation of Recommendation
+v
+Guidelines Development and Objectives
+vi
+Guidelines Development Group
+viii
+Review Committee
+ix
+External Reviewers
+x
+Algorithm on Management of Cervical Cancer
+xi
+1.
+INTRODUCTION
+1
+2.
+EPIDEMIOLOGY
+1
+3.
+RISK FACTORS
+2
+4.
+CLINICAL PRESENTATION
+2
+5.
+REFERRAL 3
+6.
+DIAGNOSIS
+4
+7.
+STAGING
+7
+8.
+TREATMENT
+11
+9.
+SPECIAL CIRCUMSTANCES
+21
+10. FOLLOW-UP
+27
+11.
+RECURRENT DISEASE
+29
+12.
+TREATMENT COMPLICATIONS
+32
+13.
+PALLIATIVE CARE
+34
+14.
+PSYCHOSEXUAL CARE AND SUPPORT
+42
+15.
+IMPLEMENTING THE GUIDELINES
+44
+16.
+REFERENCES
+46
+17.
+Appendix 1 Examples of Search Strategy
+52
+Appendix 2 Clinical Questions
+53
+Appendix 3 WHO histological classification of tumours
+55
+of the uterine cervix
+Management of Cervical Cancer (Second Edition)
+Appendix 4 Reporting Proforma for Cervical Cancer
+57
+Excisional Cervical Biopsies/Hysterectomy
+Specimens
+Appendix 5 Revised FIGO Cervical Cancer Staging 2009
+60
+Appendix 6 Modified Delgado Score for Cervical Cancer
+61
+Appendix 7 ECOG Performance Status
+62
+Appendix 8 Systemic Therapy of Cancer Protocol 63
+Appendix 9 Malaysian Hospice Directory
+65
+Appendix 10 International Society of Lymphology (ISL) 67
+Appendix 11 Distress Thermometer Screening Tool
+68
+Appendix 12 Medication List
+69
+List of Abbreviations
+Acknowledgement
+70
+Disclosure Statement
+71
+Source of Funding
+71
+No.
+Title
+Page
+Management of Cervical Cancer (Second Edition)
+LEVELS OF EVIDENCE
+SOURCE: US / CANADIAN PREVENTIVE SERVICES TASK FORCE 2001
+In line with the current development in CPG methodology, the CPG Unit
+of MaHTAS is in the process of adapting Grading Recommendations,
+Assessment, Development and Evaluation (GRADE) in its
+work process. The quality of each retrieved evidence and its effect
+size are carefully assessed/reviewed by the CPG Development
+Group. In formulating the recommendations, overall balances of the
+following aspects are considered in determining the strength of the
+recommendations:-
+• overall quality of evidence
+• balance of benefits versus harms
+• values and preferences
+• resource implications
+• equity, feasibility and acceptability
+Level
+I
+II -1
+II-2
+II-3
+III
+Study design
+Evidence from at least one properly randomised controlled trial
+Evidence obtained from well-designed controlled trials without
+randomisation
+Evidence obtained from well-designed cohort or case-control
+analytic studies, preferably from more than one centre or
+group
+Evidence from multiple time series with or without intervention.
+Dramatic results in uncontrolled experiments (such as the
+results of the introduction of penicillin treatment in the 1940s)
+could also be regarded as this type of evidence
+Opinions of respected authorities based on clinical experience;
+descriptive studies and case reports; or reports of expert
+committees
+Management of Cervical Cancer (Second Edition)
+ii
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+GUIDELINES DEVELOPMENT
+The members of the Development Group (DG) for these CPG were
+from the Ministry of Health (MoH) and Ministry of Education (MoE).
+There was active involvement of a multidisciplinary Review Committee
+(RC) during the process of the CPG development.
+The previous CPG entitled Management of Cervical Cancer 2003
+was used as the basis for the development of the present guidelines.
+A literature search was carried out using the following electronic
+databases: Guidelines International Network (G-I-N); Medline via Ovid,
+Pubmed and Cochrane Database of Systemic Reviews (CDSR). Refer
+to Appendix 1 for Example of Search Strategy). The inclusion criteria
+are all literature on women with cervical cancer, regardless of study
+design. The search was limited to literature published in the last ten
+years and on humans and in English. In addition, the reference lists of
+all retrieved literature and guidelines were searched to further identify
+relevant studies. Experts in the field were also contacted to identify
+relevant studies. All searches were conducted from 11 Jan 2013 to 20
+Feb 2013. Literature searches were repeated for all clinical questions
+at the end of the CPG development process allowing any relevant
+papers published before 28 February 2015 to be included. Future CPG
+updates will consider evidence published after this cut-off date. The
+details of the search strategy can be obtained upon request from the
+CPG Secretariat.
+Reference was also made to other CPG on cervical cancer developed
+by Scottish Intercollegiate Guidelines Network (SIGN) 2008. The CPG
+was evaluated using the Appraisal of Guidelines for Research and
+Evaluation (AGREE) II prior to them being used as references.
+A total of 13 clinical questions were developed under different
+sections. Members of the DG were assigned individual questions
+within these sections. Refer to Appendix 2 for Clinical Questions.
+The DG members met 26 times throughout the development of these
+guidelines. All literatures retrieved were appraised by at least two DG
+members using Critical Appraisal Skill Programme checklist, presented
+in evidence tables and further discussed in each DG meetings. All
+statements and recommendations formulated after that were agreed
+upon by both the DG and RC. Where evidence was insufficient, the
+recommendations were made by consensus of the DG and RC. Any
+differences in opinion are resolved consensually. These CPG are
+based largely on the findings of systematic reviews, meta-analyses and
+clinical trials, with local practices taken into consideration.
+Management of Cervical Cancer (Second Edition)
+The literatures used in these guidelines were graded using the US/
+Canadian Preventive Services Task Force Level of Evidence (2001),
+while the grading of recommendation was done using the principles of
+GRADE (refer to the preceding page).
+On completion, the draft guideline was reviewed by external reviewers.
+It was also posted on the MoH Malaysia official website for feedback
+from any interested parties. The draft was finally presented to the
+Technical Advisory Committee for CPG, and the HTA and CPG Council
+MoH Malaysia for review and approval.
+Management of Cervical Cancer (Second Edition)
+iv
+OBJECTIVES
+The objectives of the CPG are to provide evidence-based
+recommendations management of cervical cancer based on the
+following aspects:-
+i.
+Diagnosis and staging of cervical cancer
+ii. Treatment
+iii. Referrals and Follow-up
+CLINICAL QUESTIONS
+Refer to Appendix 2
+TARGET POPULATION
+Inclusion Criteria
+•
+All women with cervical cancer
+Exclusion Criteria
+•
+Pre-invasive cervical disease
+•
+Screening of cervical cancer
+TARGET GROUP/USER
+This CPG is intended to guide those involved in the management of
+cervical cancer either in primary or secondary/tertiary care namely:-
+i.
+Medical officers and general practitioners
+ii. Allied health professionals
+iii. Trainees and medical students
+iv. Patients and their advocates
+v. Professional societies
+HEALTHCARE SETTINGS
+Outpatient, inpatient and community settings
+Management of Cervical Cancer (Second Edition)
+v
+GUIDELINES DEVELOPMENT GROUP
+Chairperson
+Dr. Yong Chee Meng
+Consultant Gynae-oncologist
+Hospital Ampang, Selangor
+Members (alphabetical order)
+Dr. Ana Fizalinda Abdullah Sani
+Senior Principal Director
+Health Technology Assessment Section
+(HTA)
+MoH, Putrajaya
+Dr. Azura Deniel
+Consultant Oncologist
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Carol Lim
+Consultant Maternal Fetal Medicine
+Hospital Sultan Haji Ahmad Shah,
+Pahang
+Ms. Chan Pek Har
+Clinical Psychologist
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Cindy Teoh Cy Oun
+Fellow in Palliative Medicine
+Hospital Selayang, Selangor
+Dr. Faizatuddarain Mahmood
+Consultant Radiologist
+Hospital Kajang, Selangor
+Dr. Fuziah Paimin
+Family Medicine Specialist
+Klinik Kesihatan Salak, Selangor
+Ms. Gillian Phua
+Pharmacist
+Hospital Sultanah Bahiyah,
+Kedah
+Dr. Habshoh Hat
+Family Medicine Specialist
+Klinik Kesihatan Bandar Sungai Petani
+Kedah
+Dr. Hemlata Kumari a/p Gnanasegran
+Pathologist
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Ismail Aliyas
+Consultant Gynae-oncologist
+Hospital Sultanah Bahiyah, Kedah
+Dr. Mohd. Aminuddin Mohd. Yusof
+Head of CPG Unit
+HTA Section, MoH, Putrajaya
+Dr. Mohd. Azam Mohd. Yusoff
+Obstetrician & Gynaecologist
+Hospital Pekan, Pahang
+Dr. Nirmala Chandralega a/p Kampan
+Lecturer & Obstetrician and Gynaecologist
+Universiti Kebangsaan Malaysia Medical
+Centre, Kuala Lumpur
+Dr. Ros Suzanna Ahmad Bustamam
+Clinical Oncologist
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Rozita Abdul Malik
+Lecturer & Clinical Oncologist
+University Malaya Medical Centre
+Kuala Lumpur, Kuala Lumpur
+Management of Cervical Cancer (Second Edition)
+vi
+REVIEW COMMITTEE
+The draft guideline was reviewed by a panel of experts from both
+public and private sectors. They were asked to comment primarily on
+the comprehensiveness and accuracy of the interpretation of evidence
+supporting the recommendations in the guidelines.
+Chairperson
+Dato’ Dr. Ghazali Ismail
+Head of Department & Senior Consultant Gynae-oncologist
+Chairman of Gynae-oncology Services Sub Committee
+Hospital Sultan Ismail, Johor
+Members (alphabetical order)
+Associate Professor Dr. Ho Gwo Fuang
+Lecturer & Senior Consultant
+Clinical Oncologist
+Universiti Malaya Medical Centre,
+Kuala Lumpur
+Dr. J. Ravichandran Jeganathan
+Head of Department & Senior
+Consultant Obstetrician & Gynaecologist
+Hospital Sultanah Aminah, Johor
+Dr. Lau Fenn Nee
+Consultant Clinical Oncologist
+Institut Kanser Negara, Putrajaya
+Dr. Maimunah Mahmud
+Consultant Family Medicine Specialist
+Klinik Kesihatan Jinjang, Kuala Lumpur
+Dato’ Dr. Mohd. Rushdan Md. Noor
+Head of Department & Senior
+Consultant Gynae-oncologist
+Chairman of Malaysian Gynaecological
+Cancer Society
+Hospital Sultanah Bahiyah, Kedah
+Associate Professor Dr. Noor Azmi Mat
+Adenan
+Lecturer &
+Consultant Obstetrician & Gynaecologist
+Universiti Malaya Medical Centre
+Kuala Lumpur
+Dr. Razmin Ghazali
+Senior Consultant Pathologist
+Hospital Kuala Lumpur,
+Kuala Lumpur
+Dr. Richard Lim Boon Leong
+Head of Department & Consultant
+Palliative Medicine Specialist
+Hospital Selayang, Selangor
+Datin Dr. Rugayah Bakri
+Deputy Director
+HTA Section, MoH, Putrajaya
+Dr. Sharifah @ Mastura Syed Abu Bakar
+Head of Department & Consultant
+Radiologist
+Hospital Serdang, Selangor
+Professor Dato’ Dr. Sivalingan Nalliah
+Lecturer & Senior Consultant O&G
+International Medical University
+Seremban, Negeri Sembilan
+Management of Cervical Cancer (Second Edition)
+vii
+EXTERNAL REVIEWERS (in alphabetical order)
+The following external reviewers provided feedback on the draft:-
+Associate Professor Dato’. Dr. Fuad Ismail
+Senior Lecturer & Consultant Oncologist
+Universiti Kebangsaan Malaysia Medical Centre
+Kuala Lumpur
+Associate Professor Ghauri Aggarwal
+Head of Department Palliative Care
+Concord Hospital, Australia
+Dr. Jamil Bin Omar
+Consultant Obstetrician & Gynaecologist (Gynae-oncologist)
+Hospital Ampang, Selangor
+Dr. Murali Ganesalingam
+Head of Department & Consultant Obstetrician & Gynaecologist
+Hospital Ampang, Selangor
+Dr. Norsiah Md Noor
+Consultant Family Medicine Specialist
+Klinik Kesihatan Kuala Setar, Kedah
+Associate Clinical Professor Dr. Subathra Sabaratnam
+Consultant Pathologist
+Jeffrey Cheah School of Medicine & Health Sciences
+Monash University Malaysia, Johor
+Dr. Syazarina Sharis Osman
+Senior Lecturer & Consultant Radiologist
+Universiti Kebangsaan Malaysia Medical Centre, Kuala Lumpur
+Management of Cervical Cancer (Second Edition)
+viii
+ALGORITHM 1. ASSESSMENT OF CERVICAL CANCER
+Histologically
+-confirmed cervical
+cancer
+Staging by a gynaecologist/gynae-oncologist
+Visible lesion
+• Pelvic examination
+• Cervical conisation
+• Laboratory tests as
+indicated
+• Pelvic examination ± anaesthesia
+• Cystoscopy and sigmoidoscopy
+if indicated
+• Imaging assessment:
+o CT/MRI
+If above not feasible:
+o CXR
+o U/S KUB
+o IVU
+o Skeletal survey if indicated
+• Laboratory test as indicated
+No
+Yes
+Stage 1A
+Treatment
+Stage 1B
+Stage ll
+Stage lll
+Stage lV
+Management of Cervical Cancer (Second Edition)
+ALGORITHM 2. MANAGEMENT OF FIGO STAGE IA1
+FIGO Stage IA1
+Fertility
+preservation
+required
+*If repeat conisation
+is not feasible,
+proceed with
+trachelectomy
+Yes
+No
+Cervical conisation
+Repeat Conisation*
+Treat as FIGO stage IB
+Follow-up
+Follow-up
+Follow-up
+Simple /extrafascial
+hysterectomy
+Margin positive
+Margin positive
+Yes
+No
+Yes
+No
+Management of Cervical Cancer (Second Edition)
+ALGORITHM 3. MANAGEMENT OF FIGO STAGE IA2
+FIGO Stage 1A2
+Fertility
+preservation
+required
+*If repeat conisation is
+not feasible, proceed
+with trachelectomy
+Yes
+No
+Treat as FIGO stage IB
+Repeat conisation*
+Follow-up
+Consider adjuvant if
+node positive
+Simple/ extrafascial
+hysterectomy +
+pelvic lymphadenectomy
+Cervical conisation
++ pelvic
+lymphadenectomy
+Node positive
+Margin positive
+Yes
+No
+Yes
+No
+Treat as FIGO stage IB
+Follow-up
+Margin positive
+Yes
+No
+Management of Cervical Cancer (Second Edition)
+ALGORITHM 4: MANAGEMENT OF FIGO STAGE IB1 / IIA
+FIGO Stage IB1 / IIA1
+Nodal
+involvement
+on imaging
+Yes
+No
+Radical hysterectomy +
+pelvic lymph nodes
+dissection
+Microscopic FIGO
+Stage IB1
+Macroscopic FIGO
+Stage IB1 (up to 2 cm)
+Consider adjuvant in
+high risk for
+recurrence
+Cervical conisation +
+pelvic lymph
+nodes dissection
+Radical trachelectomy
++ pelvic lymph nodes
+dissection
+Concurrent
+Chemoradiotherapy
+(CCRT)
+Fertility
+preservation
+Concurrent
+Chemoradiotherapy
+(CCRT)
+Repeat conisation.
+If margin still positive,
+then treat as macroscopic IB1
+Follow-up
+Node positive
+Margin positive
+Yes
+No
+Yes
+No
+Yes
+No
+Management of Cervical Cancer (Second Edition)
+1. INTRODUCTION
+Cervical cancer remains an important health issue among women in
+Malaysia. Despite numerous screening programmes for early detection
+of pre-invasive disease of the cervix, many women have been diagnosed
+at invasive stage of cervical cancer. This has tremendous implications
+to the patients, carers and healthcare system.
+The first edition of CPG on Management of Cervical Cancer was
+published in 2003. Many new development especially in the treatment
+of the condition has emerged which lead to variation in clinical practice.
+Based on these, the CPG have been updated using a systematic review
+methodology. It aims to guide healthcare providers on the evidencebased management of invasive cervical cancer in the Malaysian
+healthcare setting.
+2. EPIDEMIOLOGY
+There is an increasing trend of cancer worldwide. A total of 14.1 million
+new cancer cases and 8.2 million cancer deaths occurred in 2012,
+compared to 12.7 million and 7.6 million respectively in 2008. Cervical
+cancer is the fifth (3.7%) common cause of cancer following prostate
+(7.9%), colorectal (9.7%), breast (11.9%) and lung cancer (13.0%)
+globally. It is the fourth (7.9%) common cause of cancer among women
+after breast (25.2%), colorectal (9.2%) and lung cancer (8.8%). Seventy
+percent of cervical cancer cases occur in low resourced countries.1, level III
+In Malaysia, cervical cancer is the second most common cancer
+among women following breast cancer.1 - 2, level III The age-standardised
+rate is highest among Indians (10.3/100,000) followed by Chinese
+(9.5/100,000) and Malays (5.3/100,000). The rate increases after 30
+years of age and peaks at 65 - 69 years. Among all cancer deaths,
+cervical cancer ranked fifth.3, level III
+In the United States, a declining overall incidence of cervical cancer
+has been reported; largely attributed to the decrease in the incidence
+of squamous cell carcinoma. However, there is an unexplained rise of
+adenocarcinoma (AC).4, level II-2 There is no published local data on the
+trend of cervical cancer.
+Management of Cervical Cancer (Second Edition)
+3. RISK FACTORS
+The primary cause of cervical cancer is infection with certain types of
+Human Papilloma Virus (HPV) which is transmitted sexually. Multiple
+risk factors are associated with the development of the cancer:
+• >3 sexual partners5, level II-2
+• early sexual intercourse (<17 years old)5, level II-2
+• >10 years’ use of oral contraceptive5, level II-2
+• first delivery before age of 176, level II-2
+• high parity (≥7 full term pregnancies)6, level II-2
+• smoking6 - 7, level II-2
+• lower socioeconomic status8, level II-2
+4. CLINICAL PRESENTATION
+The symptoms associated with cervical cancer are commonly
+encountered at primary care. However, most data on clinical presentations
+are based on research at secondary care.
+Common presenting symptoms in cervical cancer are postmenopausal
+bleeding (84.0%), vaginal discharge (72.0%), postcoital bleeding (PCB)
+(64.0%) and abdominal pain (56.0%).9, level III The prevalence of PCB
+in cervical cancer ranges between 0.7% to 39%.10, level III In patients with
+PCB, cervical cancer is found in 3.6% of women with no record of smear
+or with normal smear and 5% of women with abnormal smear.11, level III
+• Most patients are asymptomatic. However, common presenting
+symptoms that may suggest cervical cancer are:
+ postmenopausal bleeding
+ vaginal discharge
+ post-coital bleeding
+ abdominal pain
+Among those with PCB:12, level III
+• cervical cytology (conventional pap smear) has sensitivity,
+specificity and positive predictive value (PPV) of 50%, 86.5% and
+92.8% respectively for cervical cancer
+• colposcopy has sensitivity and PPV of 78.6% and 23.4%
+respectively for cervical cancer
+Based on the Malaysian National Cancer Statistics 2007, 21% of
+cervical cancer patients presented at stage I, 34.7% at stage II, 25.6%
+at stage III and 18.7% at stage IV.3, level III
+Management of Cervical Cancer (Second Edition)
+5. REFERRAL
+Appropriate referral mechanism can improve the quality of care given to
+patients. Referral to gynaecology/gynae-oncology clinic after abnormal
+cytology/pap smear is important to establish prompt diagnosis. The
+proposed criteria and time frame for referral is shown in Table 1.
+Table 1. Time frame for referral of abnormal cytology to
+gynaecology clinic
+Modified:
+1. Luesley D, Leeson S. editors. Colposcopy and Programme Management. Second
+Edition. Sheffield; NHS Cancer Screening Programme: 2010
+2. Division of Family Health Development, Ministry of Health Malaysia. Guidebook
+for Pap Smear Screening. Putrajaya; MoH: 2004
+Once diagnosed with cervical cancer, patients should receive definitive
+treatment within 31 days of agreeing to their care plan or within 62 days
+on the referral pathway.13, level III
+Time frame for
+referral
+Within 8 weeks
+Within 4 weeks
+Within 2 weeks
+Criteria
+• After three consecutive inadequate samples
+• After three tests reported as inflammatory
+smear in a series
+• One test reported as AGC-US or AGC-H
+• After two tests reported as LSIL or ASCUS*
+* HPV DNA testing should be considered if
+available. If positive for high risk HPV, to
+refer for colposcopy.
+• One test reported as HSIL
+• One test reported as possible invasion
+• One test reported as possible glandular
+neoplasia
+• Women with symptoms of postcoital bleeding
+particularly >40 years, intermenstrual
+bleeding and persistent vaginal discharge
+Management of Cervical Cancer (Second Edition)
+6. DIAGNOSIS
+a. Histopathological Examination
+A definitive diagnosis of cervical cancer is made by histopathological
+examination of cervical tissue. Type of cervical tumour is diagnosed
+based on the World Health Organization (WHO) histological classification
+of tumours of the uterine cervix (refer to Appendix 3).2, level III
+Histological reports of cervical cancers in small resection (loop/cone
+biopsies) and hysterectomy specimens should follow the minimum
+Dataset for Histological reporting of cervical neoplasia (3rd edition) of
+the Royal College of Pathologists. Meticulous and accurate reporting
+of gross pathological and histological parameters determine treatment
+and prognosis of the patients. Regular tumour board meetings are also
+advocated to optimise patient management decisions.14, level III
+There are numerous independent histopathologic prognostic factors
+which are important in determining the patient’s management, which
+includes lymph node status (p=0.0004), parametrial invasion (p=0.016),
+lymph vascular space invasion (LVSI), p=0.046) and histology of pure
+AC (p=0.012).15, level III
+The presence of LVSI must be recorded for tumours of all types and
+stages. It is the only significant prognostic factor for cumulative 5-year
+survival rate in tumour confined to uterus (p=0.0078).15, level III
+Based on survival analysis, patients can be stratified into three
+prognostic risk groups.15, level III
+• Low risk: Tumour confined to uterus not associated with LVSI
+(estimated 5-year survival rate of 100 ± 0%).
+• Intermediate risk: Tumour confined to uterus associated
+with positive LVSI or squamous/adenosquamous carcinoma
+associated with parametrial invasion or pelvic lymph node
+metastasis (estimated 5-year survival rate of 85.5 ± 3.9%).
+• High risk: Pure AC associated with parametrial invasion or
+pelvic lymph node metastasis with common iliac/paraaortic node
+metastasis (estimated 5-year survival rate 25.1 ± 9.7%).
+All patients with lymph node micrometastasis (LNmM), regardless of
+its size, are considered LVSI positive. LVSI (RR=2.64, 95% CI 1.67 to
+5.49) and lymph node micrometastasis (LNmM) <2 mm (RR=2.44, 95%
+CI 1.58 to 3.78) has double the risk of recurrence following surgical
+resection of early-stage cervical cancer.16, level III
+Management of Cervical Cancer (Second Edition)
+• Histopathological reports of cervical cancer should include core
+histological data, which are:14, level III; 16, level III; 17
+ tumour type (based on WHO classification)
+ tumour grade (based on modified Broders grading)
+ tumour dimension (depth and maximal horizontal dimension)
+ if tumour is multifocal in origin, to be indicated, staging is based on
+the largest focus
+ presence of LVSI
+ status of resection margins (presence of tumour, distance of
+tumour and location of the closest excision margin)*
+ lymph node status (number of nodes retrieved and involved),
+presence of micrometastases and extranodal spread*
+ involvement of other organs or tissue*
+ presence of involvement of endometrial cavity (endomyometrium)*
+ presence of involvement of paracervical, parametrial and vaginal
+tissue*
+* included in post-surgical specimens
+Refer to Appendix 4 for proposed Reporting Proforma for Cervical
+Cancer in Excisional Cervical Biopsies/Hysterectomy Specimens.
+There is preference for avoiding the term ‘microinvasive carcinoma’
+and using the specific The International Federation of Gynecology and
+Obstetrics (FIGO) stage as a descriptor.14, level III
+Tumours should be staged according to the revised FIGO staging of
+2009. The decision to use Tumour-Node-Metastases (TNM) as well as
+FIGO staging for cervical cancer is left to the discretion of the pathologist
+and the preference of their tumour board meetings.14, level III
+b. Frozen Section Assessment
+In most institutions, frozen section assessment is not used routinely
+for the evaluation of resection margins. However it may be performed
+on clinically suspicious lymph nodes to look for metastasis before
+proceeding with or abandoning a radical surgery.14, level III
+Intraoperative frozen examination of sentinel node (SN) accurately
+predicts the status of pelvic lymph nodes and is effective for selecting
+intraoperatively the group of patients who will benefit from radical
+hysterectomy.18, level III
+• Sensitivity and negative predictive value (NPV) of frozen section
+pathological examination for the detection of macrometastatic
+disease are 100%.
+• Sensitivity for the detection for macrometastatic and micrometastatic
+disease, excluding isolated tumour cells, and NPV are 88.9% and
+98.8% respectively.
+Management of Cervical Cancer (Second Edition)
+Refer to Chapter 8 on Treatment (Sentinel Nodes).
+Recommendation 1
+• In cervical cancer,
+ reporting of histopathological examination for surgical specimens
+of radical hysterectomy should be standardised and contained
+core histological data*.
+ frozen section assessment of suspicious pelvic or para-aortic
+lymph nodes may be performed intra-operatively.
+*Refer to the yellow box above.
+Management of Cervical Cancer (Second Edition)
+7. STAGING
+a. Clinical Staging
+Staging of cervical cancer plays an important role in determining further
+investigations and treatment as well as survival of patients. Hence, an
+adequate and appropriate staging is an integral part of management for
+these patients.
+There are two commonly used staging systems for cervical cancer
+namely FIGO staging19, level III and TNM classification.20, level III The latest
+revised FIGO staging of 2009 is currently the standard staging system
+used in Malaysia for all histological types (refer to Appendix 5).
+FIGO staging is based on clinical examination. A thorough pelvic
+examination with/without anaesthesia is mandatory to provide
+information for the staging. When there is doubt as to which stage a
+particular cancer should be allocated, the lower stage is assigned.19, level III
+The office pelvic examination has a weak but significant correlation
+with the actual extent of disease in determination of vaginal (r=0.255,
+p<0.01) and parametrial invasion (r=0.174, p<0.01). The overall
+accuracy is 70.4% for vaginal involvement and 74.5% for parametrial
+disease. It also has high accuracy in early FIGO stage cervical cancer
+(85.4% for stage IB1 and 77.4% for stage IB2) but low accuracy in
+FIGO stage II (35.5% for stage IIA and 20.5% for stage IIB).22, level III
+The following examinations are permitted for the determination of FIGO
+staging, as indicated by presenting characteristics: palpation, inspection,
+colposcopy, endocervical curettage, hysteroscopy, cystoscopy, proctoscopy,
+intravenous urography, and X-ray examination of the lungs and skeleton.
+Blood tests should include full blood count, renal and liver function tests.
+Syphilis and human immunodeficiency virus serology need to be
+considered based on discussion with the patient about risk factors.21, level III
+• Initial assessment of microinvasive disease
+ Assessment of FIGO stage IA
+Diagnosis of both Stage IA1 and IA2 should be based on microscopic
+examination of excised tissue, including cone biopsy with negative
+margins, trachelectomy or hysterectomy. If the margins of the cone
+biopsy are positive for cervical intraepithelial neoplasia III or invasive
+cancer, a second cone biopsy should be performed or the patient
+treated as FIGO stage IB1 disease.21, level III
+ Assessment of FIGO stage IB and above
+Biopsy of the visible lesions is mandatory to confirm the diagnosis of
+cervical cancer.
+Management of Cervical Cancer (Second Edition)
+Chest X-ray and evaluation of hydronephrosis are mandatory in
+grossly invasive disease. Evaluation of hydnonephrosis can be done
+using renal ultrasound, intravenous urography, computed tomography
+(CT) or magnetic resonance imaging (MRI). The bladder and rectum
+are evaluated by cystoscopy and sigmoidoscopy only if the patient
+is clinically symptomatic. The presence of bullous oedema alone on
+the bladder or rectal mucosa should not be assigned as FIGO stage
+IV. Suspected bladder or rectal involvement should be confirmed
+histologically.21, level III
+CT and/or MRI with/without positron emission tomography (PET) may
+provide information on nodal status or systemic spread but are not
+mandatory.21, level III Refer to section on Radiological Staging for further
+details.
+In our local context, as CT scan is widely available, the CPG DG suggests
+it is a preferred modality as part of the assessment of cervical cancer.
+In healthcare facilities where this modality is not readily available or if
+patients are not suitable for contrast studies, other modalities such as
+chest X-ray and ultrasound scan may be used.
+• The staging of cervical cancer is determined at the time of the
+primary diagnosis and cannot be altered, even at recurrence.
+b. Radiological Staging
+It is important to assess prognostic factors based on radiological
+imaging such as tumour size, parametrial and pelvic side invasion,
+adjacent organ invasion and lymph node metastases to complement
+clinical assessment. Utilisation of different imaging modalities depends
+on accessibility, patients’ clinical stage, clinicians’ preference and
+cost, among others. Worldwide, CT and MRI are preferred over other
+modalities in cervical cancer staging. However, radiological imaging is
+not included in the revised FIGO staging.
+In a meta-analysis of eight studies, MRI showed higher sensitivity
+compared to CT in locally advanced cervical cancer (LACC) in
+evaluating:23, level III
+• parametrial invasion: 74% (95% CI 68 to79) vs 55% (95% CI 44 to
+66), p=0.0027
+• bladder invasion: 75% (95% CI 66 to 83) vs 64% (95% CI 39 to 82)
+• rectal invasion: 71% (95% CI 53 to 83) vs 45% (95% CI 20 to 73%)
+• lymph node involvement: 60% (95% CI 52 to 68%) vs 43% (95%
+CI 31 to 57), p=0.047
+However, heterogeneity is an issue in this study in terms of equipment
+and techniques used in the primary papers.
+Management of Cervical Cancer (Second Edition)
+In a diagnostic study, MRI showed sensitivity of 100% and specificity of
+85.7% to 90% in detecting vaginal infiltration and tumour extension to
+cervical stroma with an accuracy of 92.2%.24, level III
+Parametrial infiltration is an important parameter in determining
+management options of apparent early stage cervical cancer. In a
+diagnostic study, MRI appeared to perform better than examination under
+anaesthesia (EUA) although not statistically significant (NPV of 76.9% vs
+65.3%, p=0.162). This evidence is limited by measurement bias.25, level III
+In cervical cancer FIGO stage IB1, preoperative MRI-measured tumour
+diameter is significantly associated with pathological prognostic factors
+namely parametrial involvement, lymph node metastasis, deep stromal
+invasion and LVSI. Tumour diameter ≤20 mm may serve as a strong
+predictor for absence of parametrial involvement (p=0.01).26, level II-3
+The use of transvaginal ultrasound (TVS) has recently been advocated
+in view of its accessibility and cost; however it is operator-dependent. In
+early stage cervical cancer (FIGO stage IA2 to IIA):27, level II-3
+• TVS has better sensitivity and specificity than MRI in residual
+tumour detection and assessment of parametrial invasion. The
+results are not affected by the status of prior cone biopsies.
+• TVS is comparable to MRI in tumour size and stromal invasion
+determination (κ of 0.81 and 0.77 respectively).
+• TVS is excellent in classifying bulky tumours and detecting deep
+stromal invasion (κ of 0.82 and 0.81 respectively).
+Diagnostic performance of PET or PET-CT for the assessment of
+para-aortic lymph nodes (PAN) metastases (prevalence of >15%) is
+acceptable when performed in those with FIGO stage III or IV.28, level II-2
+In normal-sized hypermetabolic lymph nodes, the diagnostic value of
+PET-CT requires further evaluation.29, level III Fluorodeoxyglucose (FDG)
+PET/CT is useful for primary evaluation of locally advanced cervical
+cancer (LACC), monitoring treatment response and others.30, level III
+Pre-treatment PAN assessment surgically (laparoscopy or laparotomy)
+in FIGO stage IIB - IVA cervical cancer planned for pelvic radiotherapy
+(RT) does not offer additional survival benefit compared with standard
+imaging techniques (CT scan or MRI).31, level I
+In grossly invasive disease, CT or MRI with/without PET may provide
+information on nodal status or systemic spread but such radiological
+modalities are not mandatory. Compared with CT and MRI, PET-CT
+is a more accurate imaging method for detecting nodal metastases
+that are >10 mm. Isolated and unexpected areas of PET enhancement
+should be confirmed histologically if possible, to confirm or exclude the
+presence of distant metastatic disease.21, level III
+Management of Cervical Cancer (Second Edition)
+• The use of positron emission tomography computed tomography
+requires further evidence before it can be recommended in early
+stage cervical cancer.
+In post-treatment LACC, there is a moderate correlation (r=0.68)
+between clinical and MRI assessments at three months which improved
+at six months (r=0.86).32, level II-3
+The role of abdominal or pelvic CT, MRI PET or TVS as part of routine
+follow-up has not been fully evaluated in prospective studies.33, level I
+Recommendation 2
+• Clinical staging with/without anaesthesia should be performed
+before initiating cervical cancer treatment.
+• In early stage cervical cancer, magnetic resonance imaging (MRI)
+may be used to complement examination under anesthesia for
+surgical decision-making.
+• Computed tomography scan or MRI, when available, may be offered
+to assess nodal status and systemic spread in grossly invasive
+cervical cancer.
+Management of Cervical Cancer (Second Edition)
+8. TREATMENT
+• Patients’ involvement in decision-making is essential in the management
+of cervical cancer.
+a. Primary Treatment
+Surgery is the preferred modality of treatment for early stage cervical
+cancer, if it is not contraindicated. Similar survival outcomes have been
+reported in surgically treated early stage cervical cancer compared with
+RT.34, level I It also has the advantage of preserving coital and ovarian
+function in young patients.
+i. Surgery
+• Fertility-preserving surgery
+Cervical cancer is the third most common cancer in women younger
+than 40 years. Up to 42% of all cervical cancers are diagnosed in
+women before the age of 45 years, and up to 40% of early cervical
+cancers are diagnosed in young women who are potentially interested
+in a fertility-preserving surgery.35, level III Therefore, simple and radical
+trachelectomy has been increasingly used.35 - 36, level III
+Fertility-preserving surgery may be considered in young patients with
+early stage cervical cancer. The surgical options include cervical
+conisation, large loop excision of transformation zone (LLETZ), simple
+and radical trachelectomy via vaginal or abdominal approaches. These
+procedures may be combined with pelvic lymph nodes dissection
+(PLND).
+Careful patient selection is important to ensure low complication rates
+and optimal obstetric and oncologic outcomes. Cases should be
+evaluated and managed by experienced gynae-oncologists. Careful
+evaluation of the initial diagnostic specimens from cervical conisation
+or trachelectomy by experienced pathologists is needed.35, level III
+There is no evidence retrieved specifically for the treatment of FIGO
+stage IA1 cervical cancer. In Malaysia, such condition is treated by
+cervical conisation for those who want to preserve fertility or otherwise
+simple hysterectomy. Pelvic lymphadenectomy is not recommended for
+treatment in FIGO stage IA1 disease.17
+Cold knife conisation or LLETZ combined with PLND may be offered
+to women having FIGO stage IA2 and microscopic IB1 cervical cancer
+with no LVSI requesting fertility preservation.17 A less radical surgery,
+Management of Cervical Cancer (Second Edition)
+such as cervical conisation or simple hysterectomy, combined with
+pelvic lymphadenectomy in this group of patients has 100% recurrencefree survival at median follow-up of 56 months and low post-operative
+morbidity.37 level II-2
+In women with FIGO stage IB1 cervical cancer who desire to
+preserve fertility, radical trachelectomy in combination with PLND is
+recommended, provided that the tumour diameter is less than 2 cm and
+absence of LVSI.17 Techniques available include vaginal, abdominal,
+laparoscopic and robotic approaches.35, level III Type II radical abdominal
+trachelectomy (RAT) has similar obstetrics and oncologic outcomes as
+type III RAT with better recovery of bladder function (p<0.01).36, level III
+In FIGO stage IA to IB1, radical vaginal trachelectomy (RVT) is
+associated with shorter hospital stay, less blood loss and significantly
+fewer blood transfusions, compared with radical hysterectomy (RH).
+The oncologic outcomes appear uncompromised. There is no statistical
+difference in 5-year overall survival (OS) and 5-year progression-free
+survival (PFS) between the two types of surgery.38, level I The recurrence
+rate is low (4.2% at median follow-up of 48 months) and obstetrics
+outcomes are good with 59% term delivery rate after RVT. First and
+second trimester loss are 13% and 19% respectively.39, level III
+RAT has similar surgical and pathological outcomes [i.e. histologic type,
+residual disease in specimen, conversion to hysterectomy, median
+hospital stay and the use of post-operative adjuvant RT or concurrent
+chemoradiotherapy (CCRT)] with RVT. However, RAT allows a
+significantly wider parametrial resection.40, level II-3
+The following criteria can be used as a guide for choosing modality of
+surgery when fertility preservation is required:
+1. Cervical conisation
+• FIGO stage IA1
+• Squamous cell carcinoma (SCC), AC or adenosquamous carcinoma
+histological type
+• Age 40 years old or younger.
+2. Simple trachelectomy
+• Age 40 years old or younger.
+• FIGO stage IA2 or microscopic FIGO stage IB1
+• Absent of LVSI
+• SCC, AC or adenosquamous carcinoma histological type.
+• No deep stromal invasion, endocervical or lower uterine segment
+involvement, parametrial involvement and nodal metastasis on
+pelvic MRI
+Management of Cervical Cancer (Second Edition)
+3. Radical trachelectomy
+• Age 40 years old or younger
+• Small volume FIGO stage IB1 up to 2 cm tumour size
+• SCC, AC or adenosquamous carcinoma histological type
+• No deep stromal invasion, endocervical or lower uterine segment
+involvement, parametrial involvement and nodal metastasis on
+pelvic MRI
+• Limited endocervical extension on colposcopic evaluation
+Future pregnancy plan:35, level III
+• It is advisable to wait for 6 to 12 months after radical trachelectomy
+before attempting pregnancy to allow healing and to exclude early
+cancer recurrence.
+• Pregnancy after radical trachelectomy is at higher risk of cervical
+stenosis, prematurity and obstetrics complications.
+• Delivery is via caesarean section.
+• Intra-operative frozen section is preferred to assess surgical margins
+and suspicious nodes during simple and radical trachelectomy with
+pelvic lymph nodes dissection in fertility-preserving cervical cancer
+surgery.
+Recommendation 3
+• Women with early stage cervical cancer desiring fertility preservation
+is preferably managed by gynae-oncologists and the following may
+be offered:
+ FIGO stage IA1: cervical conisation without pelvic lymph node
+dissection (PLND)
+ FIGO stage IA2: cold knife cervical conisation with PLND
+ Microscopic FIGO stage IB1: simple trachelectomy with PLND
+ FIGO stage IB1: radical trachelectomy with PLND
+• Non-fertility-preserving surgery
+Simple hysterectomy is the standard treatment for FIGO stage IA1
+cervical cancer, while simple hysterectomy and PLND is the treatment
+of choice for FIGO stage IA2.
+RH and PLND is the preferred treatment for FIGO stage IB1 cervical
+cancer, if there are no contraindications to surgery. Simple hysterectomy
+and PLND may be an alternative for small volume (microscopic) FIGO
+stage IB1 cervical cancer with excellent prognosis.37, level II-2
+Controversy arises over the best primary management options for bulky
+tumour >4 cm (FIGO stage IB2 and IIA2) which can be either surgery or
+Management of Cervical Cancer (Second Edition)
+CCRT. There is no recent evidence addressing this issue but the CPG
+DG favours CCRT, as the risk of nodal involvement is high and thus
+requires post-operative chemoradiotherapy.
+The outcome of early stage AC (FIGO stage IA to IIB) treated with either
+primary RT/CCRT or surgery are comparable in terms of 5-year survival
+(OR=0.67, 95% CI 0.20 to 2.26), disease-free survival (OR=0.43, 95%
+CI 0.13 to 1.43) and complications (OR=3.32, 95% CI 0.61 to 18.12).
+Although not statistically significant, the trend of survival rate favours
+surgery.34, level I
+Intra-operative detection of nodal metastasis in patients undergoing
+RH for early stage cervical cancer raises a management dilemma i.e.
+whether to proceed or abandon the surgery. These patients would still
+require RT/CCRT. However, given the lack of well-designed randomised
+controlled trials (RCTs), no definite conclusion can be made regarding
+the superiority of one approach over another.41, level III; 42, level II-2
+• Treatment for patients with intra-operative detection of nodal metastasis
+should be individualised.
+The incidence of ovarian metastasis in patients with early stage cervical
+cancer is low (0.9% - 3.7%). The most significant factor associated with
+the metastasis is the AC histological type.43 - 44, level II-2; 45, level III Other
+factors are older age group (>45 years old), bulky tumour size (>4
+cm), FIGO stage IB2 to IIA43, level II-2 and the presence of gross vascular
+erosion.45, level III The incidence of ovarian metastases in FIGO stages IB
+to IIB is higher in AC compared to SCC.44, level III
+Ovarian preservation is safe during radical surgery in young patients
+with early stage SCC of cervix.43, level II-2; 44 - 46, level III The incidence
+of subsequent complication in the retained ovary is rare.46, level III
+However in AC, bilateral salphingo-oophorectomy should be performed.
+44, level II-2; 46, level III
+There is no significant difference in survival rate between SCC and
+AC in patients with confirmed metastasis on the removed ovaries
+(p>0.05).44, level II-2
+Management of Cervical Cancer (Second Edition)
+Recommendation 4
+• In women with early stage cervical cancer who do not require fertility
+preservation,
+ simple/extrafascial hysterectomy should be performed for FIGO
+stage IA1 cervical cancer.
+ simple/extrafascial hysterectomy with pelvic lymphadenectomy
+may be performed for FIGO stage IA2.
+ radical hysterectomy with pelvic lymphadenectomy is the preferred
+treatment for FIGO stage IB1 cervical cancer.
+ concurrent chemoradiotherapy is the preferred treatment for bulky
+cervical cancer (FIGO stage IB2 and IIA2).
+ ovarian preservation during radical surgery may be offered in
+young patients with early stage squamous cell carcinoma of cervix.
+However in adenocarcinoma, bilateral salphingo-oophorectomy
+should be performed.
+• Laparoscopic and Robotic Surgery
+Laparoscopic and robotic surgeries in oncology are getting more
+attention with the advancement in the field of minimally invasive surgery.
+In a Cochrane systematic review, there was no reliable evidence in
+the efficacy, safety and long term outcomes of laparoscopic-assisted
+vaginal radical hysterectomy in the treatment of early stage cervical
+cancer.47, level I
+Laparoscopic radical hysterectomy and robotic radical hysterectomy,
+compared with radical abdominal hysterectomy (RAH), are associated
+with lesser blood loss (p<0.05), lower post-operative infectious morbidity
+(p=0.005) and shorter hospital stay (p<0.05).48, level II-2 However, there is
+no evidence on long-term oncologic outcomes.48, level II-2
+There is insufficient evidence to support surgical assessment of paraaortic nodal status (laparoscopy or laparotomy) prior to pelvic RT.31, level I
+• Laparoscopic and robotic radical hysterectomy has short-term
+benefits but require further evidence on long term outcomes before
+any recommendation can be made.
+• Laparoscopic and robotic radical hysterectomy should be performed
+by a trained persomels in the presence of a gynae-oncologist.
+• Sentinel Nodes (SN)
+Systematic lymphadenectomy followed by histological assessment
+is the standard technique currently used to detect nodal spread. In
+Management of Cervical Cancer (Second Edition)
+histologically proven nodal metastases, CCRT is the primary treatment.
+According to the SN hypothesis, histologically tumour-negative SN
+predicts that the remaining lymph nodes will be tumour-free.
+There is a higher probability in determining lymph node status in
+cervical cancer by SN biopsy compared with imaging methods such
+as CT scan, MRI and PET scan (OR=18.49, 95% CI 3.59 to 95.17).49, level III In
+a meta-analysis of 21 studies, the pooled sensitivity of positive SN
+in detecting nodal metastasis was 89% (95% CI 83 to 94) with no
+significant difference in detection techniques used (p=0.17).50, level III
+There is no significant difference in the detection rate of SN using either
+99mTc or blue dye and also in the methods in identifying and retrieving
+SN (laparotomy versus laparoscopy).49, level III Combined 99mTc and blue
+dye has a significantly higher SN detection rate compared to 99mTc or
+blue dye alone (97%, 88% and 84% respectively).50, level III
+Recommendation 5
+• Sentinel nodes detection may be considered to detect nodal
+metastasis in early stage cervical cancer where facilities are
+available.
+ii. Definitive Chemoradiotherapy/Radiotherapy
+The role of definitive chemoradiotherapy in FIGO stage IB2 and
+above is well established. The treatment consists of external beam
+radiotherapy (EBRT) 45-50.4 Gray (Gy) in 25-28 fractions over five
+to six weeks concurrent with weekly cisplatin-based chemotherapy
+and brachytherapy. The recommended total tumour dose in 2 Gy per
+fraction radiobiologic equivalence to Point A is 80 to 90 Gy, depending
+on the initial stage of the disease.
+Earlier RCTs have shown that CCRT is superior to RT alone for LACC.
+This treatment has been the standard of care for LACC since 1999.
+Two meta-analyses showed that CCRT improved OS, PFS and
+disease-free survival compared to RT alone in FIGO stage IB to
+IVA cervical cancer. Most of these trials were using platinum-based
+chemotherapy.51 - 52, level I
+In a systematic review of limited quality, CCRT caused significant
+increase of acute haematological and gastrointestinal toxicities and no
+significant difference in late toxicities.51, level I In view of the consistent
+survival benefit from CCRT, the additional acute toxicities described
+may be justified.
+Management of Cervical Cancer (Second Edition)
+Extended field RT, which involves treating the pelvis and the PAN with or
+without chemotherapy, may be considered for cervical cancer patients
+with PAN involvement at the expense of increased but manageable
+toxicities.53 - 54, level II-2 The decision for this treatment should be made at
+the discretion of the treating oncologist.
+Intracavitary brachytherapy (ICBT) is an essential part of RT for cervical
+cancer, treating mainly the primary tumour. High doses of radiation can
+be delivered to the tumour while the surrounding normal tissues, such
+as rectum, are relatively spared. High dose rate (>12Gy/hour) ICBT is
+as efficacious and safe as low dose rate (<2Gy/hour) ICBT in LACC
+in terms of OS, disease specific survival, relapse free survival, local
+regional recurrence and distant metastasis. The additional advantages
+of high dose rate ICBT are convenient outpatient treatment and rigid
+immobilisation for better accuracy of source applicator positioning.55, level I
+The treatment time (from first fraction of RT to the last fraction of RT
+or brachytherapy) should not be more than 56 days as this would
+adversely affect the local control rate. However, this is not associated
+with distant failure or disease-specific mortality.56, level II-1
+Recommendation 6
+• Concurrent chemoradiotherapy should be given as the primary
+treatment in FIGO stage IB2 to IVA (locally advanced cervical
+cancer). The treatment time should not exceed eight weeks.
+• Intracavitary high dose rate or low dose rate brachytherapy should
+be given in locally advanced cervical cancer.
+b. Adjuvant Treatment
+i. Surgery
+The role of adjuvant post-radiation hysterectomy for patients with FIGO
+stage IB2 cervical cancer has been a source of controversy since this
+combined approach was first advocated. It is suggested that these bulky
+tumours and the associated tumour hypoxia was better addressed by
+hysterectomy than by additional intra-cavitary radiation.
+In a large RCT, adjuvant surgery with extrafascial hysterectomy after
+radiation in FIGO stage IB cervical cancer had no clinical benefit
+compared with no adjuvant surgery. Even though there was a trend
+towards reduction in progression of disease and death but it was nonsignificant (RR for progression=0.77, p=0.07; RR for death=0.89,
+p=0.26). This may be due to lower cumulative incidence of local
+relapse (14% vs 27%) but higher distant progression (20% vs 16%)
+in the adjuvant surgery group at five years. Further analysis showed a
+Management of Cervical Cancer (Second Edition)
+significant 28% reduction in progression of disease in bigger tumours
+(4 to 6 cm) in the adjuvant surgery group. The rates of grade 3 and 4
+adverse events were similar at 10% in both group.57, level I
+In cervical cancer patients with localised residual disease after primary
+radiation therapy, adjuvant hysterectomy is an effective salvage
+procedure even in patients with FIGO stage III disease and in those
+with non-SCC. The 5-year survival rate in the adjuvant surgery group is
+significantly higher than the group without adjuvant surgery (68.6% vs
+14.5%). Apart from that:58, level II-2
+• there is no difference in survival between SCC and non-SCC
+(p=0.6862).
+• there is a trend for better survival of smaller tumours compared
+with larger tumours, although non-significant (p=0.053).
+Adjuvant hysterectomy after unsuccessful ICBT does not offer advantage
+in recurrence-free and survival nor increase late toxicity.59, level II-2
+• 50% of patients treated with pelvic EBRT alone have recurrent
+disease, whereas none among adjuvant hysterectomy patients
+(p=0.068).
+• 43% of patients treated with pelvic EBRT alone have died of
+disease recurrence, whereas none among adjuvant hysterectomy
+patients (p=0.152).
+• No patients develop late toxicity such as fistulae, wound
+dehiscence or bowel stenosis.
+Recommendation 7
+• Adjuvant surgery should not be routinely offered in cervical cancer.
+• Hysterectomy after primary radiation therapy may be offered as a
+salvage procedure in cervical cancer with bulky primary tumour >4
+cm or post-treatment localised residual tumour.
+ii. Chemotherapy
+Adjuvant chemotherapy is chemotherapy given after primary treatment.
+In a multi-centered open label RCT, the addition of gemcitabine to
+standard CCRT, followed by adjuvant chemotherapy with gemcitabine
+and cisplatin improved OS (HR=0.68, 95%CI 0.49 to 0.95) and PFS
+(HR=0.68, 95% CI 0.49 to 0.95). The addition of gemcitabine increased
+grade 3/4 acute haematological (neutropenia) and non-haematological
+toxicities (vomiting and diarrhoea). When further analysed, the
+gemcitabine-related toxicities occurred mostly during the preadjuvant
+phase. There was no difference in the incidence of late toxicities with or
+without gemcitabine.60, level I
+Management of Cervical Cancer (Second Edition)
+In view of the different regime used as primary treatment in the RCT,
+further studies are warranted before any recommendation can be made
+on adjuvant chemotherapy in cervical cancer.
+iii. Chemoradiotherapy/Radiotherapy
+• Pathological factors that increase the risk of recurrence for early
+cervical cancer following radical surgery:61 - 62, level I
+ positive lymph nodes
+ parametrial or vaginal margin involvement
+ LVSI
+ lower uterine segment involvement
+ deep stromal invasion
+ non-squamous histology
+ high grade tumour
+ tumours >4 cm in size
+Adjuvant platinum-based chemoradiotherapy after radical surgery may
+be required for high risk factors mentioned above. The modified Delgado
+score is accepted to stratify the risk for adjuvant chemoradiotherapy
+(refer to Appendix 6).63
+Two meta-analyses have shown that chemoradiotherapy is more
+efficacious than RT alone:
+• Reduces the risk of death (HR=0.56, 95% CI 0.36 to 0.87) and
+disease progression (HR=0.47, 95% CI 0.30 to 0.74) in early stage
+cervical cancer (FIGO stage IA2 to IIA).62, level I
+• Acute grade 4 toxicity occurred more frequently in the
+chemoradiotherapy group (RR=5.66, 95% CI 2.14 to 14.98).
+However, long term data is limited.62, level I
+• Improves OS (RR=0.74, 95% CI 0.64 to 0.86) in locally advanced,
+bulky FIGO stage IB or post-operative high-risk cervical cancer.64 level I
+Adjuvant RT alone reduces risk of local recurrence (HR=0.6, 95% CI
+0.4 to 0.9) without improvement of OS in FIGO stage IB cervical cancer
+compared to no further treatment. Adverse events are not significantly
+increased.61, level I
+Recommendation 8
+• Adjuvant chemoradiotherapy should be considered in cervical
+cancer patients with high risk of recurrence* after radical surgery.
+• Patients with cervical cancer who are medically unfit for
+chemoradiotherapy may be offered adjuvant radiotherapy alone.
+*Refer to Appendix 6
+Management of Cervical Cancer (Second Edition)
+iv. Neoadjuvant Chemotherapy (NAC)
+CCRT is the standard treatment for early stage cervical cancer with
+bulky disease and locally advanced cervical cancer. NAC is used to
+downstage the tumour prior to surgery.
+In a Cochrane systematic review, NAC followed by surgery, with or
+without RT, improved OS (OR=0.65, 95% CI 0.53 to 0.80) compared to
+RT alone in FIGO stage IB - IVA cervical cancer.52, level I
+In another Cochrane systematic review, NAC followed by surgery had
+significantly better OS and PFS than surgery alone in early-stage or
+LACC.65, level I However, in a more recent systematic review with a
+well-defined study population (FIGO stage IB1 to IIA), there was no
+difference in OS and PFS between NAC followed by surgery and
+surgery alone.66, level I
+NAC before surgery reduces the need of adjuvant RT by significantly
+decreasing tumour size and distant metastasis,66, level I as well as
+reducing nodal metastasis.65 - 66, level I In early stage or LACC, there is
+less parametrial infiltration with NAC (OR=0.52, 95% CI 0.30 to 0.91).
+65, level I
+In one of the reviews, there was insufficient data for quantitative analysis
+on the adverse effects of NAC. Three studies stated that surgical
+morbidity was similar between the NAC and standard treatment groups
+while one suggested lower surgical morbidity in the NAC group which
+may be due to a lower frequency of urological events.65, level I In the
+other review, data showed that serious late toxicity to the bladder,
+gastrointestinal tract and vagina were similar in both study groups.52, level I
+The addition of NAC may improve survival if given in shorter cycle length
+(<14 days) and higher dose intensity (≥25 mg/m2/week).52, level I; 65, level I
+Patients who achieved response to NAC before surgery have a
+favourable prognosis, with significant improvement in PFS and OS up
+to five years.67, level II-2
+• Neoadjuvant chemotherapy is not routinely recommended for
+patients in cervical cancer due to debatable evidence and the decision
+should be made at the discretion of treating gynae-oncologist/
+oncologist.
+Management of Cervical Cancer (Second Edition)
+9. SPECIAL CIRCUMSTANCES
+a. Pregnancy
+Pregnancy does not worsen the prognosis of cervical cancer. Delaying
+treatment while awaiting foetal maturity in patients with early-stage
+disease diagnosed during first and second trimesters of pregnancy
+does not seem to have a major impact on patients’ survival.68, level III
+• Factors to be considered in the management of cervical cancer in
+pregnancy:
+ stage of disease
+ tumour size
+ nodal status
+ histology subtype
+ gestational week
+ patient’s/couple’s desire for pregnancy preservation (if oncologically
+safe)
+FIGO staging is the same for non-pregnant and pregnant states. MRI
+is the imaging procedure of choice for assessment of locoregional
+spread.69, level III If required, CT scan can be offered and preferably
+done after 15 weeks gestation. PET-CT is not recommended during
+pregnancy.68, level III
+Histological assessment of lymph node is the gold standard for nodal
+status. Laparoscopic lymphadenectomy is feasible up to 20 weeks
+gestation. Lymphatic mapping and SN detection are technically feasible
+during pregnancy.68, level III
+The following recommendations are modified from the French
+Recommendations on the Management of Invasive Cervical Cancer
+during Pregnancy.70, level III In the SCC and AC histological subtypes,
+treatment is based on gestational age and the stage/size of tumour:
+i. For FIGO stage IB1
+• If tumour is diagnosed when foetal maturity is considered attained,
+ deliver foetus, optimally by caesarean section followed by cervical
+cancer treatment thereafter.
+ consider radical hysterectomy during caesarean section for
+women who are multiparous or completed family.
+• If tumour is diagnosed >18 - 22 weeks gestation but before foetal
+maturity and patient wishes to preserve pregnancy,
+ for tumour size <2 cm, close follow-up is required including clinical
+and radiological imaging.
+ for tumour size of 2 - 4 cm, management should be individualised.
+If tumour size is close to 4 cm, offer NAC and inform of the
+treatment risks.
+Management of Cervical Cancer (Second Edition)
+ deliver foetus once maturity attained, followed by cervical cancer
+treatment as per standard of care.
+• If tumour is diagnosed <18 - 22 weeks gestation (when pelvic
+laparoscopic lymphadenectomy is technically feasible and possible)
+and patient wishes to preserve pregnancy,
+ consider laparoscopic pelvic lymphadenectomy for tumour size
+<2 cm. In the absence of nodal involvement, follow-up closely
+by clinical examination and imaging modality. If no disease
+progression, start cancer treatment as soon as foetal maturity is
+attained. In the presence of nodal involvement, consider termination
+of pregnancy (TOP) and start chemoradiation therapy thereafter.
+ consider TOP for tumour size 2 - 4 cm as there is a higher risk of
+nodal involvement.
+ii. For FIGO stage IB2 and above, CCRT is the standard treatment,
+• If tumour is diagnosed when foetal maturity is considered attained,
+ deliver foetus, optimally by caesarean section followed by cervical
+cancer treatment thereafter.
+ nodal staging surgery (pelvic nodes with/without para-aortic nodes
+for tumor >4 cm or positive pelvic nodes) at the same sitting is
+recommended.
+• If tumour diagnosed >22 weeks gestation but before foetal maturity
+is attained, and without extracervical spread, offer CCRT after
+caesarean section once foetal maturity attained, and do not delay
+treatment for >6 - 8 weeks. Dissect pelvic ± para-aortic lymph nodes
+for tumour >4 cm or positive pelvic nodes during caesarean section.
+• For tumour diagnosed <20 - 22 weeks gestation, offer CCRT after
+uterus is evacuated (hysterotomy or other procedure) or with foetus
+in utero (if expulsion impossible and bulky cervical cancer).
+iii. For non-SCC and non-AC, such as the more aggressive SCC,
+diagnosed during first or second trimester of pregnancy, treatment
+is individualised and pregnancy preservation is not advisable.
+Recommendations on treatment of cervical cancer in pregnancy are
+based on expert opinion and discussion among the CPG DG members.
+Management of Cervical Cancer (Second Edition)
+Recommendation 9
+• Treatment of cervical cancer (squamous cell carcinoma and
+adenocarcinoma) in pregnancy should be based on gestational age
+and stage/size of tumour.
+• If tumour is diagnosed when foetal maturity is attained, deliver foetus
+followed by cancer treatment.
+• If tumour is diagnosed before foetal maturity, for FIGO stage IB1:
+ tumour <2 cm and patient wishes to preserve pregnancy, close
+follow-up till maturity attained and deliver, followed by cancer
+treatment.
+ tumour 2 - 4 cm, consider termination of pregnancy followed by
+cancer treatment.
+• For FIGO stage IB2 and above:
+ if tumour diagnosed <20 - 22 weeks gestation, consider termination
+of pregnancy followed by concurrent chemoradiation therapy.
+ if tumour diagnosed >22 weeks gestation and absence of
+extracervical spread, offer concurrent chemoradiotherapy after
+caesarean section once foetal maturity is attained.
+• Neoadjuvant chemotherapy may be offered to a patient with operable
+cervical cancer whose surgery is delayed more than six weeks to
+allow optimal foetal maturity.
+As cervical cancer in pregnancy is uncommon, the use of chemotherapy
+during pregnancy is mostly described in case reports.
+In a methodologically-limited systematic review of observational
+studies, platinum derivatives especially cisplatin, may be used safely
+during the second and third trimesters as its use in the first trimester
+increases the risk of abortion or congenital anomalies.71, level II-2
+Complete response (10%), partial response (63.4%) and stable disease
+(23.3%) were achieved after chemotherapy, whereas progression was
+observed in only 3.3% of cases. Chemotherapy was well tolerated with
+no serious adverse outcomes to both mothers and babies.71, level II-2
+Recommendation 10
+• Platinum-based chemotherapy may be considered after the first
+trimester in pregnant women with cervical cancer.
+b. Tumour Arising from Cervical Stump
+The incidence of cancer arising from the cervical stump in patients with
+prior subtotal hysterectomy is approximately 2%.72 - 73, level II-3
+Cancer of the cervical stump should be managed in the same way as
+cervical cancer arising in an intact uterus.(17) This is supported by:
+Management of Cervical Cancer (Second Edition)
+• Good OS (68% for 5-year survival rate) and low treatment
+morbidity (10%) when treated with either surgery followed by
+tailored adjuvant RT in operable disease, RT or CCRT.73, level II-3
+• Prognosis is similar when managed with the same treatment
+regimen.72, level II-3
+Recommendation 11
+• Cancer of the cervical stump should be managed in the same way
+as cervical cancer arising in an intact uterus.
+c. Cervical Cancer Diagnosed after Hysterectomy for Benign
+Gynaecological Disorder
+Cervical cancer may be diagnosed incidentally after hysterectomy
+for benign gynaecological disease. Further management is based on
+clinical and pathological parameter. The choices are include no further
+treatment, further surgery with parametriectomy and lymphadenectomy
+and chemoradiation therapy.
+Cervical cancer of FIGO stage IA1 diagnosed after simple hysterectomy
+can be followed up safely without further treatment regardless of LVSI
+status.74, level II-2
+In FIGO stage IA2 – IIA cervical cancer,
+• adjuvant treatment such as RT, CCRT or surgery [radical
+parametrectomy + paraaortic lymphadenectomy (RP + PLND)]
+significantly increases 10- year DFS compared to observation alone
+or chemotherapy; however, there is no significant difference in OS.74,
+level II-2
+• surgery vs RT/CCRT have comparable DFS and OS with lower
+rate of late complications observed in surgery.74, level II-2
+• post-operative radiotherapy gives high relapse-free and OS but
+has high overall treatment related complications.75, level II-2
+Surgery (RP + PLND) alone is a safe option and achieves good OS rate
+in patients who fulfill these criteria,
+• SCC, AC or adenosquamous cancer
+• disease FIGO stage IA2 and IB1
+• no evidence of deep invasion or tumour at margin and
+• no clinical evidence of residual disease at vagina vault or
+parametrium
+It avoids radiation therapy in 83% of patients and hence, preserves
+ovarian function and reduces sexual dysfunction.76, level II-2
+Management of Cervical Cancer (Second Edition)
+Recommendation 12
+• In cervical cancer diagnosed after hysterectomy for benign
+gynaecological disorder,
+ followed up safely without further treatment in FIGO stage IA1.
+ adjuvant treatment [radiotherapy, concurrent chemoradiotherapy
+or surgery (radical parametrectomy + pelvic lymphadenectomy]
+should be considered in FIGO stage IA2 - IIA.
+d. Neuroendocrine Cancers
+Most neuroendocrine cancers (NEC) of the cervix are small cell
+carcinomas, which account for up to 2% of cervical cancers.77, level III; 78, level II-2
+Median age of diagnosis is in the fifth decade. The usual presenting
+symptom is vaginal bleeding and a cervical mass can often be identified
+on examination. Some patients have abnormal pap smears.77, level IIl
+In rare cases, patients may present with clinical or biochemical evidence
+of ectopic hormone production including corticotropin (Cushing’s
+syndrome), vasopressin (syndrome of inappropriate anti-diuretic hormone
+secretion), insulin (hypoglycemia), serotonin (carcinoid syndrome) and
+parathyroid hormone (hypercalcemia) or myasthenia gravis.77, level II
+There is an increased risk for LVSI and high rate of extrapelvic recurrence
+in NEC which correlates with poor prognosis.77, level III; 79, level II-2 Most
+common sites of extrapelvic metastasis are bone, supraclavicular
+lymph nodes and lungs. Imaging evaluation generally includes CT scan
+of thorax, abdomen and pelvis or PET/CT scan. Head CT scan is not
+recommended on initial evaluation for small cell NEC of the cervix.
+77 - 80, level III
+Surgery is primarily used either to achieve a diagnosis and for resection
+of early stage disease. RH, which is the standard surgery for FIGO
+stage IB to IIA cervical cancer of the ordinary type, has been adopted for
+the treatment of NEC. For early stage disease, patients with complete
+surgical resection should be considered for adjuvant chemotherapy.
+Recent data supports the use of platinum with or without etoposide
+in small cell and large cell NEC in improving survival.77, level III; 79, level II-2
+CCRT is offered in non-surgical candidates (such as locally
+advanced disease, unfit for surgery, early disease with evidence of
+lymphadenopathy or FDG-avid nodal metastasis) and it is typically given
+with concurrent etoposide/cisplatinum.81, level II-2 For advanced stage
+disease, metastatic sites are treated with platinum-based combination
+chemotherapy. Extrapolating from small cell lung cancer, vincristine/
+doxorubicin/cyclophosphamide and topotecan are considered as
+alternative or second-line therapies.77, level III
+Management of Cervical Cancer (Second Edition)
+In local practice, CCRT regime is similar to other histological types;
+however additional adjuvant chemotherapy (cisplatin/etoposide) is
+given for 4 - 6 cycles.
+NAC or adjuvant radiation does not improve survival. Multimodality
+treatment appears to produce the best outcomes for this disease.
+Primary tumours <4 cm and no clinical evidence of lymph node
+metastasis have better prognosis.77, level III
+The follow-up is similar to other histological types with particular
+emphasis on periodic full body imaging with either CT or PET/CT. Brain
+imaging should be considered if patient is symptomatic.77, level III
+Recommendation 13
+• Neuroendocrine cancer of cervix should be managed by gynaeoncologists/oncologists.
+Management of Cervical Cancer (Second Edition)
+10. FOLLOW-UP
+The most appropriate follow-up strategy for clinically disease-free
+cervical cancer patients after receiving primary treatment varies from
+institution to institution.
+There is modest low quality evidence to inform the most appropriate
+follow-up strategy. The majority of cervical cancer recurrences (62%
+to 89%) are detected within two years of primary treatment.82, level III A
+total of 58% of cervical cancer recurrences occur in the pelvis. Most of
+the patients (65%) are symptomatic at recurrence. Among them, 53%
+are found by exclusive pelvic examination.83, leveI III All asymptomatic
+pelvic recurrences are diagnosed by pelvic examination.84 - 85, level III
+A high percentage (85%) of the cancer can be diagnosed by pelvic
+examination and/or CT.83, leveI III
+DFS for cervical cancer significantly correlates with site of relapse, type
+of relapse and symptoms at relapse. A better OS from relapse is observed
+in localised pelvic recurrence as compared to distant sites.83, leveI III
+Follow-up is recommended for every three months in the first year,
+every four months in the second year, every six months in the third to
+fifth year and annually thereafter.83, leveI III
+At a minimum, follow-up visits should include a complete physical
+examination with a patient history to detect symptomatic and asymptomatic
+recurrence.82, level III Cervical cytology or vault smears are not indicated
+to detect asymptomatic recurrence as it does not permit earlier detection
+of recurrence and does not increase survival.82, level III; 86, level III
+Routine use of chest X-ray, abdominal and pelvic ultrasound, PET, CT,
+MRI, intravenous pyelography or blood analysis/tumour markers (CA
+125 and SCCA) is not recommended as their role has yet to be evaluated
+in a definitive manner.82, level III MRI or CT should be considered initially
+to assess potential clinical recurrence in symptomatic patients. A whole
+body PET scan or PET-CT should be recommended on all patients in
+whom recurrent or persistent disease has been demonstrated on MRI
+or CT and in whom salvage therapy (either pelvic exenteration or RT)
+is being considered.
+Patients should return to annual population-based general physical and
+pelvic examination after five years of recurrence-free follow-up.82, level III
+Short-term hormone replacement therapy (HRT) does not appear to
+have an adverse effect on oncologic outcome in most gynecologic
+cancer survivors and improves quality of life (QOL). The treatment
+appears to be safe although not as effective as HRT in the treatment of
+Management of Cervical Cancer (Second Edition)
+vasomotor symptoms, selective serotonin reuptake inhibitors (SSRIs)
+and alpha-2 adrenergic agonists are reasonable alternatives.87, level II-2
+Recommendation 14
+• After primary treatment, patients with cervical cancer may be followed
+up every three months in the first year, four months in the second
+year, six months in the third to fifth year and annually thereafter.
+ Physical examination including pelvic examination should be
+performed during follow-up.
+Management of Cervical Cancer (Second Edition)
+11. RECURRENT DISEASE
+a. Pelvic exenteration
+In advanced and recurrent cervical cancer, the role of surgery is limited.
+In this situation, pelvic exenteration may be an option in selected group
+of patients.
+Primary or secondary pelvic exenteration with curative or palliative
+intention is an effective option with high percentage of long-term
+survival in LACC FIGO stage IVA:
+• Median survival between 29 – 30 months88, level II-1; 89, level II-2
+• 5 - years OS ranging from 36.8% to 52%88, level II-1; 90 - 91, level II-2
+Patients who have undergone pelvic exenteration of curative intent
+have higher OS compared with those of palliative intent (5-year and
+10-year OS are 64% and 57% for curative intent vs 19% and 18%
+for palliative intent). There is no significant difference in 5-year OS
+when pelvic exenteration is performed in SCC or AC cervical cancer
+(p>0.05).92, level II-1
+In a mixed population that includes cervical cancer, 61% 5-year OS is
+achieved when resection margin is negative.93, level II-2
+For cervical cancer patients who have undergone pelvic exenteration,
+the following factors are significantly associated with lower OS:
+• positive pelvic lympnode88, level II-1; 94, level II-2
+• positive resection margin91, level II-2; 94, level II-2
+• shorter time between primary treatment and recurrence91, level II-2
+• surgery of palliative intent91, level II-2
+Management of Cervical Cancer (Second Edition)
+In pelvic exenteration:
+• the overall complication rates range between 51.6% and 66%.91, level II-2;
+92, level II-1; 94, level II-2
+• the early complication rates (≤30 days ) range between 44.8% and
+50%.89 - 90, level II-2; 94 level II-2
+• the late complication rates (>30 days) range between 48.5% and
+74%.89 - 90, level II-2; 94, level II-2
+• the rate of major complication requiring surgical treatment is 20%.95, level II-2
+• the rates of infectious morbidity, intestinal obstruction and fistula are
+86%, 33% and 23%.93, level II-2
+• the rate of operative mortality is 5.5%.91, level II-2
+• Contraindication for pelvic exenteration:
+ distant metastasis/extra pelvic spread
+ pelvic side wall involvement such as hydronephrosis/hydroureter
+and lumbosacral plexopathy
+ poor performance status
+• Common complications for pelvic exenteration are infectious morbidity,
+intestinal obstruction, fistula formation, anastomotic leak and
+prolonged hospital stay.
+Recommendation 15
+• In patients with cervical cancer, pelvic exenteration may be considered
+in locally advanced disease or in pelvic recurrence, after thorough
+counselling on its benefits and risks.
+b. Chemotherapy
+Chemotherapy with palliative intent may be an option in patients with
+recurrent or metastatic cervical cancer with Eastern Cooperative
+Oncology Group (ECOG) Performance Status grades 0 to 2 (refer to
+Appendix 7).
+In recurrent or metastatic cervical cancer,
+• there is no difference in response rates between platinumcontaining regimens and non-platinum-containing regimens
+(RR=1.33, 95% CI 0.50 to 3.54).96, level I
+• combination cisplatin-based chemotherapy has better response
+(complete and partial response) and improve survival compared
+to single-agent cisplatin chemotherapy.96 - 97, level I
+• combination of paclitaxel and platinum chemotherapy has better
+response compared to non-paclitaxel-containing combination
+(RR=1.47, 95% CI 1.01 to 2.15).96, level I
+• response rate towards platinum-containing chemotherapy is
+better in out-of-radiotherapy-field (non-irradiated site) recurrence
+compared to in-radiotherapy-field (irradiated site) recurrence.
+(RR=0.62, 95% CI 0.46 to 0.83).96, level I
+Management of Cervical Cancer (Second Edition)
+• combination chemotherapy has more toxicities compared to
+single agent chemotherapy.96 - 97, level I
+Recommendation 16
+• Combination chemotherapy* may be offered to patients with recurrent
+or metastatic cervical cancer with good performance status.
+* Refer to Appendix 8 on Systemic Therapy of Cancer (revised edition
+MoH and MoE Malaysia) for suggested chemotherapy regime.
+c. Salvage Radiotherapy/Chemoradiotherapy
+The treatment for recurrent cervical cancer depends on the mode of
+primary treatment and the site and extent of recurrent disease. Salvage
+RT or CCRT may be a feasible treatment option for locally recurrent
+cervical cancer following surgery with high salvage rate (41 – 45 %) and
+acceptable late complication rate.98 - 99, level II-2
+Recommendation 17
+• In radiotherapy naïve cervical cancer patients with local recurrence,
+salvage radiotherapy to the pelvis may be offered.
+Management of Cervical Cancer (Second Edition)
+12. TREATMENT COMPLICATIONS
+Radiation proctitis and cystitis are known complications of radiation
+therapy. Acute radiation complication refers to radiation-induced injury
+during the time of treatment and for up to 90 days after completion of
+RT. This is a frequently occurring early adverse effect and the pathology
+is of an inﬂammatory process affecting the rectal or bladder mucosa,
+and is generally self-limiting.
+Late radiation complications are complications occurring more than 90
+days after completing radiotherapy treatment and are relatively rare.
+The underlying pathology is of submucosal injury with a combination of
+ﬁbrosis, ischaemia, and subsequent ulceration, which can be localised,
+diffuse or full thickness penetrating the wall of the rectum. The
+clinical presentation may have an inﬂammatory component producing
+tenesmus, urgency, diarrhoea, constipation, anal sphincter dysfunction
+(affecting the control of the bowels), mucoid or bloody discharge per
+rectum or frank bleeding with ulceration which may perforate. These
+chronic and episodic symptoms will cause impaired QOL of the patients.
+At present, there is no recommended standard treatment for both late
+radiation proctitis and cystitis in view of lack of evidence with regards
+to effectiveness and impact on QOL by the treatment approaches or
+methods. There is no recent evidence on the above issues and thus
+the CPG DG has decided to use the best available evidence beyond
+the scope of the search.
+a. Radiation Proctitis
+Late radiation proctitis is episodic and variable in nature. A Cochrane
+systematic review on non-surgical interventions for the management of
+late radiation proctitis had identified several treatment approaches with
+varying results.100, level I
+• Rectal sucralfate showed greater clinical improvement for proctitis
+than anti-inflammatories (OR=14, 95% CI 1.46 to 134.26),
+though no difference was seen for endoscopic improvement
+(OR=2.74, 95% CI 0.64 to 11.76). Other effective medications
+were combination of metronidazole and anti-inflammatory drugs,
+and rectal hydrocortisone.
+• Short chain fatty acid enemas did not appear to be efficacious
+compared to placebo.
+• Thermal coagulation therapy appeared to have clinical improvement
+in the management of haemorrhagic radiation proctitis refractory
+to other treatments.
+• Hyperbaric oxygen therapy improved radiation proctitis compared
+to placebo (RR=2.7, 95% CI 1.2 to 6.0; NNT=3).
+Management of Cervical Cancer (Second Edition)
+b. Radiation Cystitis
+Late radiation cystitis is relatively uncommon treatment complication.
+The same Cochrane systematic review found no evidence from trials
+determining the effects of non-surgical treatments for late radiation
+cystitis. Therefore, there is no standard treatment in managing patients
+with radiation cystitis.100, level I
+• There is insufficient good quality evidence to recommend treatment
+for late radiation proctitis and cystitis in cervical cancer. Therefore,
+the treatment should be individualised according to the attending
+doctor.
+c. Lymphoedema
+Refer to Chapter on Palliative Care (Lymphoedema).
+d. Chronic Bladder Dysfunction
+It is a common late complication of radical hysterectomy ranging
+from 0-44% and the most distressing one, requiring voiding by the
+clock with the help of abdominal muscles and in some cases, selfcatheterisation.101
+Radicality of the surgery is closely related to post-operative bladder
+dysfunction. Compared with the extent of lateral parametrial resection,
+the extent of vaginal resection has stronger association with bladder
+dysfunction.102
+Direct, nerve-sparing radical hysterectomy is a technique that spares
+the pelvic autonomic nerves without compromising radicality, providing
+another approach to improve quality of life and reduce bladder and
+bowel morbidity.103, level III
+Management of Cervical Cancer (Second Edition)
+13. PALLIATIVE CARE
+There is an increasing trend of integration of modern cancer care with
+palliative medicine. Palliative care focuses on preventing and relieving
+suffering, optimising symptom control, preserving hope and improving
+QOL.104
+All healthcare providers should be trained to deliver basic palliative care.
+Specialist palliative care providers may be required for management
+of complex symptoms and end of life issues.105 Inpatient specialised
+palliative care units and community hospices nationwide are listed in
+Appendix 9.
+This chapter aims to address some common issues experienced by
+patients with advanced disease which include:
+• pain
+• malignant/malodorous wounds
+• thrombosis and haemorrhage
+• fistulae
+• lymphoedema
+• malignant ureteric obstruction
+• end of life care
+• Appropriate symptom management in advanced cervical cancer can
+be complex and a clear understanding of prognosis is essential to
+guide assessment and subsequent management.
+a. Pain
+Principles of pain management are described in the Clinical Practice
+Guidelines for the Management of Cancer Pain by MoH.106
+Patients with advanced cervical cancer may experience complex
+neuropathic pain as a complication of RT or chemotherapy, or develop
+lumbar plexopathy from nerve infiltration.107, level III
+Management of selected pain syndromes may benefit from specialist
+consultations for intrathecal or epidural procedures in addition to
+conventional analgesic medications. A combination of opioids, local
+anaesthetics and clonidine can be used for temporary neural blockade
+while neurolytic agents such as alcohol are used for permanent
+blockade.17
+Malignant psoas syndrome refers to proximal lumbosacral plexopathy
+by painful fixed flexion of the ipsilateral hip, with radiological or pathological
+evidences of ipsilateral psoas major muscle malignant involvement.
+Treatment options include opioids, agents for neuropathic pain, muscle
+relaxants to counter psoas muscle spasm, agents to reduce peritumoural oedema and anti-tumoural agents if suitable.108, level III
+Management of Cervical Cancer (Second Edition)
+b. Malignant/Malodorous Wounds
+Patients with malodorous malignant wounds often associate the
+condition with advance, progressing disease. This not only causes
+physical discomfort, but also significant psychological and social
+impact, and negatively affects the woman’s body image and sense of
+worth.107, level III
+Malodorous discharges are generally caused by tissue breakdown from
+ulcerating necrotic tissue, erosion into a hollow viscous such as the
+bowel or urinary tract, and/or an added infection of the fluid. Benign
+lesions such as pressure-related breakdown can also contribute to the
+malodour.107, level III
+Management involves treating infection, containing or removing fluid
+loss, reducing local irritation and improving QOL.(17) There is limited
+published evidence guiding the management of wounds in cancer
+patients and no evidence regarding QOL improvement.109, level I
+Surgical methods to manage malodour may include removal or
+debridement of necrotic tissue, and nephrostomies or defunctioning
+colostomies for fistula-related urinary or faecal incontinence. Tumour
+burden may also be reduced by interventional radiology techniques to
+reduce tumour circulation, palliative RT or chemotherapy.107, level III
+Patients using topical metronidazole, mesalt dressing, activated carbon
+dressing and curcumin ointment can control the odour of malignant
+fungating wounds.110, level II-3 Other suggested methods include:17, level III;
+107, level III
+• systemic metronidazole
+• aromatherapy
+• pads and tampons
+• vaginal douches
+• topical steroids
+• barrier creams to avoid local skin irritation and excoriation
+• treatment of bacterial and fungal infections
+• oral tranexamic acid 1000 - 1500 mg two to three times daily for
+bleeding wounds
+• octreotide and hyoscine butylbromide to reduce faecal loss from
+enterovaginal fistulae
+• suprapubic catheterisation for vesicovaginal fistulae
+c. Fistulae
+The risk to develop vesicovaginal and/or rectovaginal fistulae is high
+(22 – 48%) after curative RT with or without chemotherapy in patients
+with FIGO stage IVA cervical cancer.111, level III Fistula formation
+occurs between six and 48 months after RT, with possible serious
+complications occurring even after five years.107, level III The routine use
+Management of Cervical Cancer (Second Edition)
+of EUA, cyctoscopy and proctoscopy at the time of initial diagnosis
+helps in counseling women about the likelihood of this complication.
+112, level III
+Appropriate radiological investigations are often needed to establish the
+fistula site and its complexity. Surgical interventions may include:17, level III;
+107, level III
+• fistula repair
+• formation of ileal conduit
+• stoma formation for enterovaginal fistulae
+• colonic stenting in bowel obstruction
+• percutaneous nephrotomies or internal ureteric stents for urological
+fistulae
+Primary exenteration surgery for selected patients in FIGO stage
+IVA have been suggested to avoid morbidity associated with fistula
+formation.111, level III
+Patients with advance disease where non-surgical measures are more
+appropriate may benefit from:17
+• octreotide, hyoscine butylbromide or glycopyrronium to reduce
+discharge volume
+• codeine phosphate or loperamide to reduce motility and increase
+stool consistency
+• barrier creams to prevent local irritation and excoriation
+• topical steroids
+• tampons and pads
+• low residue diet
+d. Thrombosis and Haemorrhage
+Venous thromboembolism (VTE) causes high mortality and morbidity in
+patients with cancer, and is the second most common cause of death
+after cancer progression.113, level III
+The risk of thromboembolic events is up to seven times higher in cancer
+patients, with the incidence being highest in the first few months of
+diagnosis. Others at high risk are those with metastatic disease at
+the time of diagnosis and after tumour recurrence.113, level III Cancer
+patients receiving anticoagulant treatment for VTE also showed a two
+to threefold increased risk of developing recurrent VTE.114 - 115, level I
+Management of Cervical Cancer (Second Edition)
+The mechanisms of VTE in cancer patients can be summarised in the
+following table:
+Table 2. Mechanism of VTE in Cancer Patients
+Source: Ministry of Health. Prevention and Treatment of Venous Thromboembolism.
+Putrajaya: MoH; 2013
+• Initial management of VTE
+For the initial management of VTE in cancer patients, low molecular
+weight heparin (LMWH) is superior to unfractionated heparin (UFH),
+with reduced risk of mortality (RR=0.71, 95% CI 0.52 to 0.98) and no
+significant difference in recurrent VTE events.114, level I Among various
+LMWH regimes, once daily treatment is as safe and efficacious as twice
+daily treatment, and is more convenient for the patient.116, level I
+A Cochrane systematic review showed fondaparinux was as safe and
+efficacious as UFH, and dalteparin as safe and efficacious as tinzaparin
+in the initial management of VTE in cancer patients.114, level I
+• Long-term management of VTE
+For the long-term treatment of VTE in cancer patients, LMWH reduces
+recurrent VTE events (HR=0.47, 95% CI 0.32 to 0.71) but not death
+when compared with vitamin K antagonists (VKA).115, level I
+If VKA is the choice of long-term treatment, current Malaysian VTE
+guidelines recommend starting warfarin within 24 hours of diagnosis in
+combination with LMWH or fondaparinux. Treatment with LMWH is to
+be continued for five days or until International Normalised Ratio (INR)
+is above 2 for at least 24 hours, whichever is longer. Anticoagulation
+should be continued indefinitely or until cancer is resolved.117
+Currently, there is insufficient evidence on the usage of novel
+anticoagulants (such as dabigatran and rivaroxaban) in the management
+of VTE in cancer patients.115, level I
+Mechanism of VTE in Cancer Patients
+Tumour-associated
+• Extrinsic vascular compression and
+invasion
+• Tissue factor production
+• Cancer pro-coagulant production
+• Accentuated platelet activation
+• Inflammation-mediated increases in
+factor VIII, vWF and fibrinogen
+• Impaired fibrinolysis due to high PAI-1
+• Acquired deficiencies of natural
+anticoagulants
+Non-tumour associated
+• Central venous access devices
+• Anti-neoplastic mediated platelet
+activation
+• Anti-neoplastic mediated
+endothelial cell damage
+• Anti-angiogenesis therapy
+• Anthracycline-induced congestive
+heart failure
+• Immobility
+Management of Cervical Cancer (Second Edition)
+More than 50% of cancer patients have renal insufficiency, in turn
+affecting treatment choices and dosages. In severe renal insufficiency,
+UFH is used for the initial treatment, followed by VKA or long-term LMWH
+with anti-Xa monitoring. Tinzaparin may be a safe option for the
+treatment and prevention of VTE in cancer patients with renalfailure.
+113, level III
+Patients with Deep Vein Thrombosis (DVT) who receive home treatment,
+compared with inpatient treatment, are less likely to have recurrence of
+VTE (RR=0.61, 95% CI 0.42 to 0.90), have a lower mortality (RR=0.61,
+95% CI 0.42 to 0.90) and show a trend for fewer major bleeding
+complications but more minor bleeding complications.118, level I
+Vena caval filter (VCF) usage for the prevention of pulmonary embolism
+increases risk of long-term lower limb DVT (HR=1.52, 95% CI 1.02 to
+2.27) with no significant improvement in mortality or reduction in the
+rate of pulmonary embolism or DVT.119, level I Current Malaysian VTE
+guidelines list only two indications for the insertion of a VCF which
+are contraindication to anticoagulation and the presence of large free
+floating iliocaval thrombus.
+• Haemorrhage
+Patients with cervical cancer may suffer from bleeding problems
+due to advanced or metastatic disease. Chemotherapy causing
+thrombocytopaenia and myelosuppression, vitamin K deficiency and
+adverse drug effects are factors contributing to clotting and bleeding
+problems.107, level III
+Palliative RT for cervical carcinoma results in complete cessation
+of vaginal bleeding in up to 45% of patients after the first radiation
+fraction.120, level III Other methods suggested to treat minor haemorrhage
+include fibrinolytic inhibitors such as oral or intravenous tranexamic
+acid.17
+e. Lymphoedema
+In patients with cervical cancer, 12.2% of them have a clinical diagnosis
+of lower limb lymphoedema. They are 3.5 times more likely to develop
+lower limb lymphoedema if they receive pelvic RT and have 3.3 times
+higher risk if pelvic lymph nodes are surgically removed.121, level III
+Lymph node metastases, infiltrative carcinoma and pressure from large
+tumours also contribute to secondary lymphoedema.
+Patients report a poor QOL due to pain, changes in lower limb
+sensation, appearance, restriction in activities and distress.17 Those at
+risk of lymphedema should be identified early, monitored and taught
+of self-care. Patients and carers should be offered information about
+lymphoedema, its prevention and management.122, level III
+Management of Cervical Cancer (Second Edition)
+General approaches to minimise the risk of developing lymphoedema
+are:122, level III
+• good care of skin and nails
+• maintain optimal body weight
+• eat a balanced diet
+• avoid injury to area at risk
+• avoid tight underwear, clothing, watches and jewellery
+• avoid exposure to extreme temperatures
+• use high factor sunscreen and insect repellent
+• wear prophylactic compression garments, if prescribed
+• perform exercise/movement and limb elevation
+• wear comfortable, supportive shoes
+Diagnosis criteria for lymphoedema have been identified as:17
+• increase in limb circumference
+• changes in sensation: fullness, tightness, heaviness, throbbing
+and shooting pains
+• reduce in limb flexibility
+• palpable changes to the skin or subcutaneous tissue such as
+fibrosclerosis that may be pitting or non-pitting
+Severity of disease is classified into stages as described by the
+International Society of Lymphology (refer to Appendix 10).
+The evidence for treatment of lymphoedema is poor with no clear
+conclusions on the efficacy of benzo-pyrones,123, level I and weak evidence
+supporting usage of multi-layer bandaging over hosiery.124, level I
+A consensus report outlines the approach to managing lymphoedema:
+122, level III
+• exercise and movement
+• swelling reduction and maintenance by compression garments,
+multi-layer bandaging, exercise and lymphatic massage
+• skin care
+• pain management
+• psychosocial management
+Lymphoedema is best managed by specialist lymphoedema practitioners,
+usually physiotherapists, who are available at some healthcare
+settings.122, level III
+f. Malignant Ureteric Obstruction
+Obstructive renal failure occurs due to locally advanced cervical cancer.
+Patients may be asymptomatic, but may complain of pelvic pain or
+uraemic symptoms due to renal failure.125, level II-2
+Management of Cervical Cancer (Second Edition)
+Treatment options are:17; 126, level II-2
+• retrograde stenting
+• percutaneous nephrostomy (PN) with/without antegrade stenting
+• conservative management
+Endoscopic placement of ureteral stents are often considered as the
+first-line option for relieving ureteral obstruction.126, level II-2 If retrograde
+stenting is unsuccessful, alternative options would be PN and/or
+antegrade stenting.
+PN can be of clinical benefit for patients with performance status 1
+- 3 (refer to Appendix 7). High levels of morbidity (44%) have been
+reported with median OS of 8.9 weeks after the surgery. Half of the
+patients experience clinical benefit, as measured by recovery from
+uraemic symptoms, lumbar pain or generally poor renal function.125, level II-2
+Malignant ureteric obstruction indicates poor prognosis. Palliative
+surgical interventions may be inappropriate if patients are terminally
+ill with irreversible renal failure. The high morbidity associated with
+palliative diversion may impair QOL. Treatment decisions should be
+based on clear discussions of options, prognosis, cost, complications
+and QOL, between patients and a multidisciplinary team.126, level II-2
+g. Malignant Bowel Obstruction
+The incidence of malignant bowel obstruction (MBO) in gynaecologic
+cancer appears to be commonest in ovarian cancer (54.5%), followed
+by cervical or endometrial cancer (27.3%).127, level II-3 Patients often have
+high morbidity due to symptoms such as abdominal pain, colic, nausea
+and vomiting, as well as from treatment such as surgery, nasogastric
+tube insertion and intravenous therapy.
+Management of MBO should be tailored to the underlying aetiology,
+stage of disease and goals of care. Treatment options may include
+surgical management with corrective or non-corrective laparotomies,
+venting tubes and stent insertions, or medical management such as
+symptomatic relief with opioids, anti-emetics, anti-spasmodics, antisecretory drugs and steroids.104, level III
+In patients with advanced gynaecologic cancers who present with MBO,
+treatment with dexamethasone (6 - 16 mg/day) may resolve bowel
+obstruction but will not improve survival. A therapeutic trial of four to
+five days is suggested.128, level I Octreotide may be considered in these
+patients, and will reduce overall nausea, vomiting and nasogastric
+drainage volume.127, level II-3
+There are no clear recommendations for surgery in resolving symptoms
+of MBO in advanced gynaecologic cancer.128, level I Consider medical
+Management of Cervical Cancer (Second Edition)
+management for patients with advanced stage cancer and a shorter
+time interval between cancer diagnosis and bowel obstructions.129, level III
+h. End of Life Care
+The final phase of terminal illness can be the most challenging time
+for the patient, their carers and healthcare providers. Increased clinical
+vigilance on symptom control, psychosocial and spiritual distress is
+needed, along with sensitive communication and decision making.130, level III
+Those closely affected by a death should be offered bereavement,
+emotional and spiritual support appropriate to their needs and
+preferences.131
+Recommendation 18
+• Patients with advanced cervical cancer should receive palliative
+care and be referred to a specialised palliative team if necessary.
+• Low molecular weight heparin should be used for the initial and
+long-term treatment of venous thromboembolism in cervical cancer,
+where available.
+Management of Cervical Cancer (Second Edition)
+14. PSYCHOSEXUAL CARE AND SOCIAL SUPPORT
+In cervical cancer patients, psychological distress is often unrecognised.
+Therefore, a simple and practical screening tool such as the Distress
+Thermometer may help to identify underlying issues and make
+necessary referrals. Refer to Appendix 11 for Distress Thermometer
+Screening Tool.
+Following diagnosis of cervical cancer, women often experience
+distress in many domains of life such as:132, level III
+• emotional (feelings of sadness, down or depressed, anxiety and
+worry that treatment is beyond control)
+• physical (lack of energy and unable to do things they used to do)
+• psychological (fears about cancer returning and spreading)
+• social (concerns about the worries of close ones)
+Locoregional cervical cancer survivors report chronic fatigue after RT.
+They also experience lower pleasure and QOL, higher discomfort and
+higher levels of depression and anxiety, than those without chronic
+fatigue.133, level III
+Sexual dysfunction is a common problem after cervical cancer treatment.
+Many factors contribute to this including the loss of psychologic selfesteem, distorted physical appearance, or deterioration of organ
+function. Although most women resume sexual activity after radical
+hysterectomy, 41% of them have decreased sexual satisfaction while
+36% have increased dyspareunia.134, level III Physical intimacy and body
+image are highly vulnerable to disruption after cancer diagnosis and
+treatment.135, level I
+Patients should be advised that their physical and psychological
+functions are likely to deteriorate in the initial post-treatment period, but
+they should anticipate improvement thereafter.17
+Recommendation 19
+• Psychosocial assessment should be performed in all cervical cancer
+patients.
+• Psychoeducation regarding potential deterioration and treatment
+outcome-related to the cervical cancer should be offered after
+diagnosis.
+• The sexual health of women diagnosed with cervical cancer should
+be assessed pre-treatment and monitored during the treatment.
+Women with cervical cancer require help for various needs. These
+needs should be identified early so that resources and intervention
+can be put in place as promptly as possible.132, level III Many women
+Management of Cervical Cancer (Second Edition)
+report an increase need for emotional and physical closeness with their
+spouse.135, level I
+Some women show concern about their sexual health, which include:134, level III
+• potential harm from sexual activity on health
+• appropriate time to resume sexual activity
+• ways to relieve pelvic pain or increase sexual desire
+• self-awareness of being feminine
+Several psychological interventions for patients with cervical cancers
+have been evaluated. Couple-focused intervention has stronger effects
+compared to women-focused intervention. It improves most sexual
+aspects including adjustment, drive, satisfaction and intimacy. It also has
+strong effects for the male partners’ sexual drive and satisfaction.135, level I
+Other psychological interventions with some positive effects:
+• Cognitive Behavioural Therapy on changing unhelpful thoughts or
+behaviour and coping skills.136, level I
+• counselling on emotional distress including anxiety and depression.
+136 level I
+• relaxation and guided imagery on emotional distress and body
+discomfort.137, level III
+• information-based intervention on disease, treatment options and
+coping strategies.136, level III
+• social support (including family, friend and special person) is
+associated with higher quality of life and lower rate of depression
+and anxiety.137, level III
+• In cervical cancer:
+ couple-focused intervention is preferred over women-focused
+intervention to improve sexual health.
+ Cognitive Behavioural Therapy can reduce psychosocial distress.
+ social support improves quality of life and reduces negative mood
+symptoms, including depression and anxiety.
+Management of Cervical Cancer (Second Edition)
+15. IMPLEMENTING THE GUIDELINES
+It is important to standardise the management of cervical cancer at all
+healthcare levels in Malaysia by using an evidence-based CPG. This
+aims to prevent long-term morbidity and mortality.
+a. Facilitating and Limiting Factors
+Existing facilitators for application of the recommendations in the CPG
+include:-
+• dissemination of CPG
+ availability and dissemination of CPG to healthcare providers
+(hardcopies and softcopies)
+ conferences and updates on management of cervical cancer
+• implementation of CPG
+ public awareness via Cervical Cancer Awareness
+ accessibility to relevant multidisciplinary teams
+ active involvement of government and non-governmental
+organisations
+Existing barriers for application of the recommendations of the CPG
+are:-
+• limited awareness in managing and referrals among primary care
+providers
+• variation of practice and treatment at different levels of care
+• limited facilities and human resources
+• inadequate training at all levels of healthcare providers
+• lack of networking between public and private health-care providers
+b. Potential Resource Implications
+To implement the CPG, there must be a strong commitment to:-
+• distribute the CPG widespread to healthcare providers
+• strengthen training on cervical cancer management for healthcare
+providers
+• establish a cervical cancer registry in Malaysia
+• develop of multidisciplinary teams in secondary and tertiary care
+levels
+Management of Cervical Cancer (Second Edition)
+• Percentage
+of patients
+with cervical
+cancer
+receiving
+definitive
+treatment
+within six
+weeks of
+histological
+diagnosis
+=
+x 100%
+Number of patients with cervical cancer
+receiving definitive treatment within six
+weeks
+of histological diagnosis in a year
+Number of patients with cervical cancer with
+histological diagnosis in the same period
+• Percentage
+of patients
+with cervical
+cancer
+completing
+CCRT within
+eight weeks
+=
+x 100%
+Number of patients with cervical cancer
+completing CCRT within eight weeks in a
+year
+Number of patients with cervical cancer
+receiving CCRT in the same period
+To assist in the implementation of the CPG, the following is proposed as
+clinical audit indicator for quality management:-
+Implementation strategies will be developed following the approval of
+the CPG by MoH. These include a Quick Reference and a Training
+Module.
+Management of Cervical Cancer (Second Edition)
+References
+1.
+Torre L a, Bray F, Siegel RL, et al. Global Cancer Statistics, 2012. 2015;00(00):1–22.
+2.
+WHO Classification of tumours of the female reproductive organs 20142014.
+3.
+Omar ZA, Tamin NSI. National Cancer Registry Report 2007. 2011. 42-43 p.
+4.
+Ward KK, Shah NR, Saenz CC, et al. Changing demographics of cervical cancer in the United
+States (1973-2008). Gynecol Oncol; 2012;126(3):330–3.
+5.
+Berrington de González a, Sweetland S, Green J. Comparison of risk factors for squamous cell
+and adenocarcinomas of the cervix: a meta-analysis. Br J Cancer. 2004;90(9):1787–91.
+6.
+Rajkumar T, Cuzick J, Appleby P, et al. Cervical carcinoma and reproductive factors: Collaborative
+reanalysis of individual data on 16,563 women with cervical carcinoma and 33,542 women
+without cervical carcinoma from 25 epidemiological studies. Int J Cancer. 2006;119(5):1108–24.
+7.
+Plummer M, Peto J, Franceschi S. Time since first sexual intercourse and the risk of cervical
+cancer. Int J Cancer. 2012;130(11):2638–44.
+8.
+Parikh S, Brennan P, Boffetta P. Meta-analysis of social inequality and the risk of cervical cancer.
+Int J Cancer. 2003;105(5):687–91.
+9.
+Ikechebelu JI, Onyiaorah I V, Ugboaja JO, et al. Clinicopathological analysis of cervical cancer
+seen in a tertiary health facility in Nnewi, south-east Nigeria. J Obstet Gynaecol. 2010;30(3):299–
+301.
+10. Shapley M, Jordan J, Croft PR. A systematic review of postcoital bleeding and risk of cervical
+cancer. Br J Gen Pract. 2006;56(527):453–60.
+11. Khattab A F, Ewies A A, Appleby D, et al. The outcome of referral with postcoital bleeding (PCB).
+J Obstet Gynaecol. 2005;25(3):279–82.
+12. Tehranian A, Rezaii N, Mohit M, et al. Evaluation of women presenting with postcoital bleeding
+by cytology and colposcopy. Int J Gynecol Obstet; 2009;105(1):18–20.
+13. Sahu B, Latheef R, Aboel Magd S. Prevalence of pathology in women attending colposcopy for
+postcoital bleeding with negative cytology. Arch Gynecol Obstet. 2007;276(5):471–3.
+14. Hirschowitz L, Ganesan R, Sighn N, et al. Standards and datasets for reporting cancers Dataset
+for histological reporting of cervical neoplasia (3rd edition). R Coll Pathol. 2011;G071(April
+2011):1–26.
+15. Takeda N, Sakuragi N, Takeda M, et al. Multivariate analysis of histopathologic prognostic factors
+for invasive cervical cancer treated with radical hysterectomy and systematic retroperitoneal
+lymphadenectomy. Acta Obstet Gynecol Scand. 2002;81(12):1144–51.
+16. Marchiolé P, Buénerd A, Benchaib M, et al. Clinical significance of lympho vascular space
+involvement and lymph node micrometastases in early-stage cervical cancer: A retrospective
+case-control surgico-pathological study. Gynecol Oncol. 2005;97(3):727–32.
+17. Scottish Intercollegiate Guidelines Network. Management of cervical cancer. (SIGN Guideline No
+99). 2008;(January):77.
+18. Martínez A, Mery E, Filleron T, et al. Accuracy of intraoperative pathological examination of SLN
+in cervical cancer. Gynecol Oncol; 2013;130(3):525–9.
+19. Pecorelli S, Zigliani L, Odicino F. Revised FIGO staging for carcinoma of the cervix. Int J Gynecol
+Obstet; 2009;105(2):107–8.
+20. Edge SB, Compton CC. The American Joint Committee on Cancer: the 7th edition of the AJCC
+cancer staging manual and the future of TNM. Ann Surg Oncol. 2010;17(6):1471–4.
+21. Wiebe E, Denny L, Thomas G. Cancer of the cervix uteri. Int J Gynecol Obstet [Internet].
+International Federation of Gynecology and Obstetrics; 2012;119:S100–9.
+22. Qin Y, Peng Z, Lou J, et al. Discrepancies between clinical staging and pathological findings of
+operable cervical carcinoma with stage IB-IIB: A retrospective analysis of 818 patients: Original
+Article. Aust New Zeal J Obstet Gynaecol. 2009;49(5):542–4.
+23. Bipat S, Glas AS, Van Der Velden J, et al. Computed tomography and magnetic resonance
+imaging in staging of uterine cervical carcinoma: A systematic review. Gynecol Oncol. 2003;
+91(1):59–66.
+24. Shweel M, Abdel-Gawad E, Abdel-Gawad E, et al. Uterine Cervical Malignancy: Diagnostic
+Accuracy of MRI with Histopathologic Correlation. J Clin Imaging Sci. 2012;2(1):42.
+Management of Cervical Cancer (Second Edition)
+25. Bleker SM, Bipat S, Spijkerboer AM, et al. The negative predictive value of clinical examination
+with or without anesthesia versus magnetic resonance imaging for parametrial infiltration in
+cervical cancer stages IB1 to IIA. Int J Gynecol Cancer 2013;23(1):193–8.
+26. Kamimori T, Sakamoto K, Fujiwara K, et al. Parametrial involvement in FIGO stage IB1 cervical
+carcinoma diagnostic impact of tumor diameter in preoperative magnetic resonance imaging. Int
+J Gynecol Cancer. 2011;21(2):349–54.
+27. Epstein E, Testa A, Gaurilcikas A, et al. Early-stage cervical cancer: Tumor delineation by
+magnetic resonance imaging and ultrasound - A European multicenter trial. Gynecol Oncol;
+2013;128(3):449–53.
+28. Kang S, Kim SK, Chung DC, et al. Diagnostic value of (18)F-FDG PET for evaluation of
+paraaortic nodal metastasis in patients with cervical carcinoma: a metaanalysis. J Nucl Med.
+2010;51(3):360–7.
+29. Loubeyre P, Navarria I, Undurraga M, et al. Is imaging relevant for treatment choice in early stage
+cervical uterine cancer? Surg Oncol; 2012;21(1):e1–6.
+30. Patel CN, Nazir SA, Khan Z, et al. 18F-FDG PET/CT of cervical carcinoma. AJR Am J Roentgenol.
+2011;196(5):1225–33.
+31. Brockbank E, Kokka F, Bryant A, et al. Pre-treatment surgical para-aortic lymph node assessment
+in locally advanced cervical cancer ( Review ). 2013;(3).
+32. Valduvieco I, Biete A, Rios I, et al. Correlation between clinical findings and magnetic resonance
+imaging for the assessment of local response after standard treatment in cervical cancer.
+Reports Pract Oncol Radiother J Gt Cancer Cent Poznań Polish Soc Radiat Oncol [Internet].
+Wielkopolskie Centrum Onkologii; 2013;18(4):214–9.
+33. Lanceley A, Fiander A, McCormack M, et al. Follow-up protocols for women with cervical cancer
+after primary treatment. Cochrane database Syst Rev. 2013;11(11):CD008767.
+34. Baalbergen A, Veenstra Y, Stalpers LL, et al. Primary surgery versus primary radiation therapy
+with or without chemotherapy for early adenocarcinoma of the uterine cervix. Cochrane Database
+Syst Rev. 2010;(1):CD006248.
+35. Plante M. Evolution in Fertility-Preserving Options for Early-Stage Cervical Cancer. Int J Gynecol
+Cancer. 2013;23(6):982–9.
+36. Muraji M, Sudo T, Nakagawa E, et al. Type II Versus Type III Fertility-Sparing Abdominal Radical
+Trachelectomy for Early-Stage Cervical Cancer. Int J Gynecol Cancer. 2012;22(3):479–83.
+37. Biliatis I, Kucukmetin A, Patel A, et al. Small volume stage 1B1 cervical cancer: Is radical surgery
+still necessary? Gynecol Oncol; 2012;126(1):73–7.
+38. Han L, Yang XY, Zheng A, et al. Systematic comparison of radical vaginal trachelectomy and
+radical hysterectomy in the treatment of early-stage cervical cancer. Int J Gynecol Obstet
+[Internet]. International Federation of Gynecology and Obstetrics; 2011;112(2):149–53.
+39. Dursun P, LeBlanc E, Nogueira MC. Radical vaginal trachelectomy (Dargent’s operation): A
+critical review of the literature. Eur J Surg Oncol. 2007;33(8):933–41.
+40. Einstein MH, Park KJ, Sonoda Y, et al. Radical vaginal versus abdominal trachelectomy for
+stage IB1 cervical cancer: A comparison of surgical and pathologic outcomes. Gynecol Oncol
+[Internet]. Elsevier Inc.; 2009;112(1):73–7.
+41. Ziebarth AJ, Smith H, Killian ME, et al. Completed versus aborted radical hysterectomy for nodepositive stage IB cervical cancer in the modern era of chemoradiation therapy. Gynecol Oncol;
+2012;126(1):69–72.
+42. Garg G, Shah JP LR. Should Radical Hysterectomy Be Aborted on Intraoperative Detection
+of Nodal Tumor Metastasis in Early Stage Cervical Cancer? Am Soc Colposc Cerv Pathol.
+2010;14(4):3740381.
+43. Landoni F, Zanagnolo V, Lovato-Diaz L, et al. Ovarian metastases in early-stage cervical cancer
+(IA2-IIA): A multicenter retrospective study of 1965 patients (a cooperative task force study). Int
+J Gynecol Cancer. 2007;17(3):623–8.
+44. Shimada M, Kigawa J, Nishimura R, et al. Ovarian metastasis in carcinoma of the uterine cervix.
+Gynecol Oncol. 2006;101(2):234–7.
+45. Yamamoto R, Okamoto K, Yukiharu T, et al. A study of risk factors for ovarian metastases in
+stage Ib-IIIb cervical carcinoma and analysis of ovarian function after a transposition. Gynecol
+Oncol. 2001;82(2):312–6.
+Management of Cervical Cancer (Second Edition)
+46. Windbichler GH, Müller-Holzner E, Nicolussi-Leck G, et al. Ovarian preservation in the surgical
+treatment of cervical carcinoma. Am J Obstet Gynecol. 1999;180(4):963–9.
+47. Kucukmetin A, Biliatis I, Naik R, et al. Laparoscopically assisted radical vaginal hysterectomy
+versus radical abdominal hysterectomy for the treatment of early cervical cancer ( Review ).
+2013;(10).
+48. Geetha P, Nair Mk. Laparoscopic, robotic and open method of radical hysterectomy for cervical
+cancer: A systematic review. J Minim Access Surg. 2012;8(3):67.
+49. Selman TJ, Mann C, Zamora J, et al. Diagnostic accuracy of tests for lymph node status in
+primary cervical cancer: a systematic review and meta-analysis. CMAJ. 2008;178(7):855–62.
+50. Van de Lande J, Torrenga B, Raijmakers PGHM, et al. Sentinel lymph node detection in early
+stage uterine cervix carcinoma: a systematic review. Gynecol Oncol. 2007;106(3):604–13.
+51. Green J, Kirwan J, Tierney J, et al. Concomitant chemotherapy and radiation therapy for cancer
+of the uterine cervix. Cochrane Database Syst Rev. 2005;(3):CD002225.
+52. Tierney JF, Vale C, Symonds P. Concomitant and Neoadjuvant Chemotherapy for Cervical
+Cancer. Clin Oncol. 2008;20(6):401–16.
+53. Uno T, Mitsuhashi A, Isobe K, et al. Concurrent daily cisplatin and extended-field radiation
+therapy for carcinoma of the cervix. Int J Gynecol Cancer. 2008;18(1):80–4.
+54. Rajasooriyar C, Van Dyk S, Bernshaw D, et al. Patterns of failure and treatment-related toxicity in
+advanced cervical cancer patients treated using extended field radiotherapy with curative intent.
+Int J Radiat Oncol Biol Phys. 2011;80(2):422–8.
+55. Wang X, Liu R, Ma B, et al. High dose rate versus low dose rate intracavity brachytherapy for
+locally advanced uterine cervix cancer. Cochrane Database Syst Rev. 2010;(7):CD007563.
+56. Song S, Rudra S, Hasselle MD, et al. The effect of treatment time in locally advanced cervical
+cancer in the era of concurrent chemoradiotherapy. Cancer. 2013;119(2):325–31.
+57. Keys HM, Bundy BN, Stehman FB, et al. Radiation therapy with and without extrafascial
+hysterectomy for bulky stage IB cervical carcinoma: A randomized trial of the Gynecologic
+Oncology Group. Gynecol Oncol. 2003;89(3):343–53.
+58. Ota T, Takeshima N, Tabata T, et al. Adjuvant hysterectomy for treatment of residual disease in
+patients with cervical cancer treated with radiation therapy. Br J Cancer. 2008;99(8):1216–20.
+59. Walji N, Chue AL, Yap C, et al. Is There a Role for Adjuvant Hysterectomy after Suboptimal
+Concurrent Chemoradiation in Cervical Carcinoma? Clin Oncol; 2010;22(2):140–6.
+60. Dueñas-Gonzalez A, Coronel J, Cetina L. Pharmacokinetic evaluation of gemcitabine
+hydrochloride for the treatment of cervical cancer. Expert Opin Drug Metab Toxicol. 2011
+Dec;7(12):1601-12
+61. Rogers L, Siu SSN, Luesley D, et al. Radiotherapy and chemoradiation after surgery for early
+cervical cancer. Cochrane database Syst Rev [Internet]. 2012;5(5):CD007583.
+62. Rosa DD, Medeiros LRF, Edelweiss MI, et al. Europe PMC Funders Group Adjuvant platinumbased chemotherapy for early stage cervical cancer. 2014;
+63. Bundy B, Zaino R, Major F. Prospective Surgical-Pathological Study of Disease-Free Interval in
+Patients with Stage I6 Squamous Cell Carcinoma of the Cervix : A Gynecologic Oncology Group
+Study. 1990;357:352–7.
+64. Lukka H, Hirte H, Fyles A, et al. Concurrent cisplatin-based chemotherapy plus radiotherapy for
+cervical cancer - A meta-analysis. Clin Oncol. 2002;14(3):203–12.
+65. Rydzewska L, Tierney J, Vale CL, et al. Neoadjuvant chemotherapy plus surgery versus surgery
+for cervical cancer. Cochrane Database Syst Rev. 2010;(1):CD007406.
+66. Kim HS, Sardi JE, Katsumata N, et al. Efficacy of neoadjuvant chemotherapy in patients with
+FIGO stage IB1 to IIA cervical cancer: An international collaborative meta-Analysis. Eur J Surg
+Oncol; 2013;39(2):115–24.
+67. Ye Q, Yuan HX, Chen HL. Responsiveness of neoadjuvant chemotherapy before surgery
+predicts favorable prognosis for cervical cancer patients: A meta-analysis. J Cancer Res Clin
+Oncol. 2013;139(11):1887–98.
+68. Morice P, Uzan C, Gouy S, et al. Gynaecological cancers in pregnancy. Lancet;
+2012;379(9815):558–69.
+69. Hunter MI, Tewari K, Monk BJ. Cervical neoplasia in pregnancy. Part 2: current treatment of
+invasive disease. Am J Obstet Gynecol. 2008;199(1):10–8.
+Management of Cervical Cancer (Second Edition)
+70. Morice P, Narducci F, Mathevet P, et al. French recommendations on the management of
+invasive cervical cancer during pregnancy. Int J Gynecol Cancer. 2009;19(9):1638–41.
+71. Zagouri F, Sergentanis TN, Chrysikos D, et al. Platinum derivatives during pregnancy in cervical
+cancer: a systematic review and meta-analysis. Obstet Gynecol 2013;121(2 Pt 1):337–43.
+72. Hellström AC, Sigurjonson T, Pettersson F. Carcinoma of the cervical stump. The radiumhemmet
+series 1959-1987. Treatment and prognosis. Acta Obstet Gynecol Scand. 2001;80(2):152–7.
+73. Chen L, Xia T, Yang Z, et al. Comprehensive treatment and prognostic factors in patients with
+carcinoma of the cervical stump. Clin Oncol Cancer Res. 2009;6(6):426–9.
+74. Park JY, Kim DY, Kim JH, et al. Management of occult invasive cervical cancer found after simple
+hysterectomy. Ann Oncol. 2009;21(5):994–1000.
+75. Smith KB, Amdur RJ, Yeung AR, et al. Postoperative radiotherapy for cervix cancer incidentally
+discovered after a simple hysterectomy for either benign conditions or noninvasive pathology.
+Am J Clin Oncol. 2010 Jun;33(3):229-32
+76. Leath CA., Straughn JM, Bhoola SM, et al. The role of radical parametrectomy in the treatment
+of occult cervical carcinoma after extrafascial hysterectomy. Gynecol Oncol. 2004;92(1):215–9.
+77. Gardner GJ, Reidy-Lagunes D, Gehrig PA. Neuroendocrine tumors of the gynecologic tract: A
+Society of Gynecologic Oncology (SGO) clinical document. Gynecol Oncol; 2011;122(1):190–8.
+78. McCusker ME, Coté TR, Clegg LX, et al. Endocrine tumors of the uterine cervix: Incidence,
+demographics, and survival with comparison to squamous cell carcinoma. Gynecol Oncol.
+2003;88(3):333–9.
+79. Zivanovic O, Leitao MM, Park KJ, et al. Small cell neuroendocrine carcinoma of the cervix:
+Analysis of outcome, recurrence pattern and the impact of platinum-based combination
+chemotherapy. Gynecol Oncol; 2009;112(3):590–3.
+80. Kasamatsu T, Sasajima Y, Onda T, et al. Surgical treatment for neuroendocrine carcinoma of the
+uterine cervix. Int J Gynecol Obstet. 2007;99(3):225–8.
+81. Wang KL, Chang TC, Jung SM, et al. Primary treatment and prognostic factors of small cell
+neuroendocrine carcinoma of the uterine cervix: A Taiwanese Gynecologic Oncology Group
+study. Eur J Cancer; 2012;48(10):1484–94.
+82. Elit L, Fyles AW, Devries MC, et al. Follow-up for women after treatment for cervical cancer: A
+systematic review. Gynecol Oncol; 2009;114(3):528–35.
+83. Sartori E, Pasinetti B, Carrara L, et al. Pattern of failure and value of follow-up procedures in
+endometrial and cervical cancer patients. Gynecol Oncol. 2007;107(1 SUPPL.).
+84. Kew FM, Roberts AP, Cruickshank DJ. The role of routine follow-up after gynecological
+malignancy. Int J Gynecol Cancer. 2005 May-Jun;15(3):413-9
+85. Bodurka-Bevers D, Morris M, Eifel PJ, et al. Posttherapy surveillance of women with cervical
+cancer: an outcomes analysis. Gynecol Oncol. 2000;78(2):187–93.
+86. Morice P, Deyrolle C, Rey A, et al. Value of routine follow-up procedures for patients with stage
+I/II cervical cancer treated with combined surgery-radiation therapy. Ann Oncol. 2004;15(2):218–
+23.
+87. Ibeanu O, Modesitt SC, Ducie J, et al. Hormone replacement therapy in gynecologic cancer
+survivors: Why not? Gynecol Oncol; 2011;122(2):447–54.
+88. Forner DM, Lampe B. Exenteration as a primary treatment for locally advanced cervical cancer:
+Long-term results and prognostic factors. Am J Obstet Gynecol; 2011;205(2):148.e1–148.e6.
+89. Benn T, Brooks RA., Zhang Q, et al. Pelvic exenteration in gynecologic oncology: A single
+institution study over 20 years. Gynecol Oncol; 2011;122(1):14–8.
+90. De Wilt JHW, van Leeuwen DHJ, Logmans A, et al. Pelvic exenteration for primary and recurrent
+gynaecological malignancies. Eur J Obstet Gynecol Reprod Biol. 2007;134(2):243–8.
+91. Marnitz S, Köhler C, Müller M, et al. Indications for primary and secondary exenterations in
+patients with cervical cancer. Gynecol Oncol. 2006;103(3):1023–30.
+92. Schmidt A, Imesch P, Fink D, Egger H. Gynecologic Oncology Indications and long-term clinical
+outcomes in 282 patients with pelvic exenteration for advanced or recurrent cervical cancer.
+Gynecol Oncol; 2012;125(3):604–9.
+93. Berek JS, Howe C, Lagasse LD, et al. Pelvic exenteration for recurrent gynecologic malignancy:
+Survival and morbidity analysis of the 45-year experience at UCLA. Gynecol Oncol.
+2005;99(1):153–9.
+Management of Cervical Cancer (Second Edition)
+94. Maggioni A, Roviglione G, Landoni F, et al. Pelvic exenteration: Ten-year experience at the
+European Institute of Oncology in Milan. Gynecol Oncol. 2009;114(1):64–8.
+95. Ungar L, Palfalvi L, Novak Z. Primary pelvic exenteration in cervical cancer patients. Gynecol
+Oncol; 2008;111(2 SUPPL.):S9–12.
+96. Scatchard K, Forrest JL, Flubacher M, Cornes P, Williams C. Chemotherapy for metastatic and
+recurrent cervical cancer. Cochrane Database Syst Rev. 2012 Oct 17;10:CD006469
+97. Hirte HW, Strychowsky JE, Oliver T, et al. Chemotherapy for recurrent, metastatic, or persistent
+cervical cancer: a systematic review. Int J Gynecol Cancer. 2007;17(6):1194–204.
+98. Lee YS, Kim YS, Kim JH, et al. Feasibility and outcome of concurrent chemoradiotherapy for
+recurrent cervical carcinoma after initial surgery. Tumori. 2010;96(4):553–9.
+99. Haasbeek CJA, Uitterhoeve ALJ, van der Velden J, et al. Long-term results of salvage
+radiotherapy for the treatment of recurrent cervical carcinoma after prior surgery. Radiother
+Oncol. 2008;89(2):197–204.
+100. Denton AS, Clarke NW, Maher EJ. Non-surgical interventions for late radiation cystitis in
+patients who have received radical radiotherapy to the pelvis. Cochrane Database Syst Rev.
+2002;(3):CD001773.
+101. Covens A. Differences in morbitidy of radical hysterectomy between gynecological oncologists.pdf.
+102. MA Zullo, N Manci RA et al. Vesical dysfunctions after radical hysterectomy for cervical cancer:
+a critical review. Crit Rev Oncol Hematol. 2003;48(3):287.
+103. S Fujii. Anatomic identification of nerve-sparing radical hysterectomy: a step-by-step procedure.
+Gynecol Oncol. 2008;111(2 Suppl):S33.
+104. Hanks G, Cherny NI, Christakis NA E. Oxford Textbook of Palliative Medicine (4 Ed.). 2009.
+105. Network NCC. NCNN Clinical Practice Guidelines in Oncology (NCCN Guidelines). 2015.
+106. Mx of Cancer pain malaysia.pdf.
+107. Booth S, Bruera E TT. Palliative Care Consultation in Gynaeoncology. 2004.
+108. Agar M, Broadbent A, Chye R. The management of malignant psoas syndrome: Case reports
+and literature review. J Pain Symptom Manage. 2004;28(3):282–93.
+109. Adderley U, Smith R. Topical agents and dressings for fungating wounds. Cochrane Database
+Syst Rev. 2007;(2).
+110. Da Costa Santos CM, de Mattos Pimenta CA, Nobre MRC. A Systematic Review of Topical
+Treatments to Control the Odor of Malignant Fungating Wounds. J Pain Symptom Manage.
+2010;39(6):1065–76.
+111. Biewenga P, Mutsaerts MAQ, Stalpers LJ, et al. Can we predict vesicovaginal or rectovaginal
+fistula formation in patients with stage IVA cervical cancer? Int J Gynecol Cancer. 2010;20(3):471–5.
+112. Moore KN, Gold MA., McMeekin DS, et al. Vesicovaginal fistula formation in patients with Stage
+IVA cervical carcinoma. Gynecol Oncol. 2007;106(3):498–501.
+113. Scotté F, Rey JB, Launay-Vacher V. Thrombosis, cancer and renal insufficiency: Low molecular
+weight heparin at the crossroads. Support Care Cancer. 2012;20(12):3033–42.
+114. Ea A, Sr V, Gunukula S, et al. Anticoagulation for the initial treatment of venous thromboembolism
+in patients with cancer ( Review ). 2013;(1).
+115. Ea A, Labedi N, Barba M, et al. Anticoagulation for the long-term treatment of venous
+thromboembolism in patients with cancer ( Review ). 2013;(1).
+116. Bhutia S, Wong PF. Once versus twice daily low molecular weight heparin for the initial treatment
+of venous thromboembolism. Cochrane database Syst Rev [Internet]. 2013;7(7):CD003074.
+Available from: http://www.ncbi.nlm.nih.gov/pubmed/23857562
+117. Ministry of Health M. Prevention and Treatment of Venous Thromboembolism. 2013.
+118. Othieno R, Abu Affan M, Okpo E. Home versus in-patient treatment for deep vein thrombosis.
+Cochrane Database Syst Rev. 2007;(3):CD003076.
+119. Young T, Tang H, Hughes R. Vena caval filters for the prevention of pulmonary embolism
+( Review ). 2010;(2).
+120. Van Lonkhuijzen L, Thomas G. Palliative radiotherapy for cervical carcinoma, a systematic
+review. Radiother Oncol [Internet]. Elsevier Ireland Ltd; 2011;98(3):287–91.
+121. Beesley V, Janda M, Eakin E, et al. Lymphedema after gynecological cancer treatment:
+Prevalence, correlates, and supportive care needs. Cancer. 2007;109(12):2607–14.
+Management of Cervical Cancer (Second Edition)
+122. Framework L. Best practice for the management of lymphoedema International consensus.
+London: MEP Ltd. 2006. 3–52 p.
+123. Cma B, Nj P, Seers K, Ps M. Benzo-pyrones for reducing and controlling lymphoedema of the
+limbs ( Review ). 2009;(1).
+124. Badger C, Preston N, Seers K, et al. Physical therapies for reducing and controlling lymphoedema
+of the limbs. Cochrane Database Syst Rev. 2004;(4):CD003141.
+125. Dienstmann R, da Silva Pinto C, Pereira MT, et al. Palliative Percutaneous Nephrostomy in
+Recurrent Cervical Cancer: A Retrospective Analysis of 50 Consecutive Cases. J Pain Symptom
+Manage. 2008;36(2):185–90.
+126. Yan Song, Xiang Fei, and Yongsheng Song. Percutaneous Nephrostomy Versus Indwelling
+Ureteral Stent in the Management of Gynecological Malignancies. Int J Gynecol Cancer.
+2012;22(4):697.
+127. Watari H, Hosaka M, Wakui Y et al. A prospective study on the efficacy of octreotide in the
+management of malignant bowel obstruction in gynecologic cancer. Int J Gynecol Cancer.
+2012;22(4):692.
+128. DJ Feuer KB. Corticosteroids for the resolution of malignant bowel obstruction in advanced
+gynaecological and gastrointestinal cancer. Cochrane Database Syst Rev. 2000;2.
+129. Mirensky T, Schuster K, UA Ali et al. Outcomes of small bowel obstruction in patients with
+previous gynecologic malignancies. Am J Surg. 2012;203(4):472.
+130. Cherny N, Fallon M, Kaasa S, Al E. Oxford Textbook of Palliative Medicine. 2015. 1123 p.
+131. NICE Quality Standard 13. End of Life care for adults. 2011;(October). Available from: http://www.
+nice.org.uk/guidance/QS13/chapter/introduction-and-overview
+132. Steele R, Fitch MI. Supportive care needs of women with gynecologic cancer. Cancer Nurs.
+2008;31(4):284–91.
+133. Vistad I, Fosså SD, Kristensen GB, Dahl a. a. Chronic fatigue and its correlates in longterm survivors of cervical cancer treated with radiotherapy. BJOG An Int J Obstet Gynaecol.
+2007;114(9):1150–8.
+134. Tangjitgamol S, Manusirivithaya S, Leelahakorn S, Thawaramara T, Lapcharoen O. Sexual
+dysfunction in Thai women with early-stage cervical cancer after radical hysterectomy.
+2007;(6):1104–12.
+135. Scott JL, Kayser K. A review of couple-based interventions for enhancing women’s sexual
+adjustment and body image after cancer. Cancer J. 2009;15(1):48–56.
+136. Hersch J, Juraskova I, Price M, Mullan B. Psychosocial interventions and quality of
+life in gynaecological cancer patients: a systematic review. Psychooncology [Internet].
+2008;810(December 2008):795–810. Available from: http://www.ncbi.nlm.nih.gov/entrez/query.
+fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=19090556
+137. Pinar G, Okdem S, Buyukgonenc L, Ayhan A. The Relationship Between Social Support and the
+Level of Anxiety, Depression, and Quality of Life of Turkish Women With Gynecologic Cancer.
+2012;35(3):229–35.
+Management of Cervical Cancer (Second Edition)
+Appendix 1
+EXAMPLE OF SEARCH STRATEGY
+The following MeSH terms or free text terms were used either singly or
+in combination, search was limit to English, human and last 10 years:-
+1.
+Uterine Cervical Neoplasms/
+2.
+(uterine cervical adj1 (cancer$ or neoplasm$ or carcinoma or
+tumo?r$ or malignanc$)).tw.
+3.
+(uterine cervix adj1 (cancer$ or neoplasm$ or carcinoma or
+tumo?r$ or malignanc$)).tw.
+4.
+1 or 2 or 3
+5.
+Recurrence/
+6.
+recurr*.tw.
+7.
+recrudescen*.tw.
+8.
+relaps*.tw.
+9.
+5 or 6 or 7 or 8
+10. 4 and 9
+11. Antineoplastic Agents/
+12. ((drug* or agent*) adj1 anticancer).tw.
+13. (chemotherapeutic anticancer adj1 (agent* or drug*)).tw.
+14. (cancer chemotherapy adj1 (drug* or agent*)).tw.
+15. chemotherapy drugs cancer.tw.
+16. chemotherapy agent cancer.tw.
+17. chemotherapy agents cancer.tw.
+18. chemotherapy drug cancer.tw.
+19. (antitumo?r adj1 (drug* or agent*)).tw.
+20. antineoplastic*.tw.
+21. (antineoplastic adj1 (agent* or drug*)).tw.
+22. 11 or 12 or 13 or 14 or 15 or 16 or 17 or 18 or 19 or 20 or 21
+23. 10 and 22
+24. limit 23 to (english and humans and last 10 years)
+Management of Cervical Cancer (Second Edition)
+Appendix 2
+CLINICAL QUESTIONS
+1. Epidemiology/Risk factors/Clinical presentation
+1.1 What is the epidemiology of cervical cancer?
+1.2 What are the risk factors of cervical cancer?
+1.3 What are clinical presentations of cervical cancer?
+2. Referral
+2.1 When should the patients with cervical cancer be referred to
+gynae-oncology/oncology team?
+3. Diagnosis and Staging
+3.1 What are the important histopathological parameters in the
+diagnosis of cervical cancer?
+3.2 What is the role of frozen section assessment in cervical
+cancer?
+3.3 Is clinical staging effective in the assessment of cervical
+cancer?
+3.4 What is the role of imaging in the assessment of cervical
+cancer?
+4. Treatment
+4.1 Are the following modalities effective and safe in the primary
+treatment of cervical cancer?
+• Surgery
+• Definitive Chemoradiotherapy/Radiotherapy
+4.2 What are the effective and safe adjuvant therapies in cervical
+cancer?
+• Surgery
+• Chemotherapy
+• Chemoradiotherapy/Radiotheraphy
+• Neoadjuvant Chemotherapy
+4.3 What are the effective and safe management of cervical
+cancer in the following special circumstances?
+• Pregnancy
+• Tumour arising from cervical stump
+• Cervical cancer diagnosed after hysterectomy for benign
+gynaecological disorder
+• Neuroendocrine cancers
+4.4 What are follow-up plans for patients with cervical cancer?
+4.5 What are the effective and safe modalities for diagnosis,
+assessment and treatment of recurrent cervical cancer?
+• Surgery
+• Chemotherapy
+• Salvage radiotherapy/Chemoradiotherapy
+Management of Cervical Cancer (Second Edition)
+4.6 What are the effective and safe management of complications
+following treatment of cervical cancer?
+4.7 What are the effective and safe palliative care following
+treatment of cervical cancer?
+4.8 What are the effective psychosexual care and social support
+for patients and carers?
+Management of Cervical Cancer (Second Edition)
+Appendix 3
+WHO histological classification of tumours of the uterine cervix
+Epithelial tumours
+Squamous tumours and precursors
+Squamous cell carcinoma, not otherwise specified
+8070/3
+Keratinizing
+8071/3
+Non-keratinizing
+8072/3
+Basaloid
+8083/3
+Verrucous
+8051/3
+Warty
+8051/3
+Papillary
+8052/3
+Lymphoepithelioma-like
+8082/3
+Squamotransitional
+8120/3
+Early invasive (microinvasive) squamous cell carcinoma
+8076/3
+Squamous intraepithelial neoplasia
+Cervical intraepithelial neoplasia (CIN) 3 /
+8077/2
+Squamous cell carcinoma in situ
+8070/2
+Benign squamous cell lesions
+Condyloma acuminatum
+Squamous papilloma
+8052/0
+Fibroepithelial polyp
+Glandular tumours and precursors
+Adenocarcinoma
+8140/3
+Mucinous adenocarcinoma
+8480/3
+Endocervical
+8482/3
+Intestinal
+8144/3
+Signet-ring cell
+8490/3
+Minimal deviation
+8480/3
+Villoglandular
+8262/3
+Endometrioid adenocarcinoma
+8380/3
+Clear cell adenocarcinoma
+8310/3
+Serous adenocarcinoma
+8441/3
+Mesonephric adenocarcinoma
+9110/3
+Early invasive adenocarcinoma
+8140/3
+Adenocarcinoma in situ
+8140/2
+Glandular dysplasia
+Benign glandular lesions
+Müllerian papilloma
+Endocervical polyp
+Other epithelial tumours
+Adenosquamous carcinoma
+8560/3
+Glassy cell carcinoma variant
+8015/3
+Adenoid cystic carcinoma
+8200/3
+Adenoid basal carcinoma
+8098/3
+Neuroendocrine tumours
+Carcinoid
+8240/3
+Atypical carcinoid
+8249/3
+Small cell carcinoma
+8041/3
+Large cell neuroendocrine carcinoma
+8013/3
+Undifferentiated carcinoma
+8020/3
+Management of Cervical Cancer (Second Edition)
+Mesenchymal tumours and tumour-like conditions
+Leiomyosarcoma
+8890/3
+Endometrioid stromal sarcoma, low grade
+8931/3
+Undifferentiated endocervical sarcoma
+8805/3
+Sarcoma botryoides
+8910/3
+Alveolar soft part sarcoma
+9581/3
+Angiosarcoma
+9120/3
+Malignant peripheral nerve sheath tumour
+9540/3
+Leiomyoma
+8890/0
+Genital rhabdomyoma
+8905/0
+Postoperative spindle cell nodule
+Mixed epithelial and mesenchymal tumours
+Carcinosarcoma (malignant müllerian mixed tumour;
+metaplastic carcinoma)
+8980/3
+Adenosarcoma
+8933/3
+Wilms tumour
+8960/3
+Adenofibroma
+9013/0
+Adenomyoma
+8932/0
+Melanocytic tumours
+Malignant melanoma
+8720/3
+Blue naevus
+8780/0
+Miscellaneous tumours
+Tumours of germ cell type
+Yolk sac tumour
+9071/3
+Dermoid cyst
+9084/0
+Mature cystic teratoma
+9080/0
+Lymphoid and haematopoetic tumours
+Malignant lymphoma (specify type)
+Leukaemia (specify type)
+Secondary tumours
+1.
+Morphology code of the International Classification of Diseases for
+Oncology (ICD-O) {921} and the Systematized Nomenclature of Medicine
+(http://snomed.org). Behaviour is coded /0 for benign tumours, /2 for in situ
+carcinomas and grade 3 intraepithelial neoplasia, /3 for malignant tumours,
+and /1 for borderline or uncertain behaviour.
+2.
+Intraepithelial neoplasia does not have a generic code in ICD-O. ICD-O
+codes are only available for lesions categorized as squamous intraepithelial
+neoplasia grade 3 (e.g. cervical intraepithelial neoplasia 3) = 8077/2,
+squamous cell carcinoma in situ = 8070/2, glandular ntraepithelial neoplasia
+grade 3 = 8148/2 and adenocarcinoma in situ = 8140/2.
+Source: Kurman RJ, Carcangiu ML, Herrington CS et al. WHO Classification of Tumours
+of Female Reproductive Organs. Fourth Edition. Geneva, WHO. 2014; Chapter 5
+Management of Cervical Cancer (Second Edition)
+REPORTING PROFORMA FOR CERVICAL CANCER IN EXCISIONAL
+CERVICAL BIOPSIES / HYSTERECTOMY SPECIMENS
+MACROSCOPIC
+Specimen labelled as:
+Orientation markers:
+Specimen gross/external appearance:
+mm
+mm
+mm
+mm
+mm
+mm
+mm
+Present
+Absent
+Normal
+Abnormal (specify)
+Right ovary dimension
+mm
+Right fallopian tube
+mm
+Left ovary dimension:
+mm
+Left fallopian tube:
+mm
+Present
+Absent
+Anterior
+Posterior
+Right
+Left
+Circumferential
+Vaginal cuff dimension:
+____mm (length) x ____mm(width/circumferential) x ____ mm(thickness)
+Parametrium included
+Paracervix included
+Macroscopically visible tumour
+Number of visible tumour(s)
+Tumour location (position)
+Yes
+No
+Yes
+No
+SPECIMEN MEASUREMENTS
+Length of specimen:
+Length of canal:
+Ectocervix diameter (3-9 o’clock):
+Ectocervix diameter (6-12 o’clock):
+UTERINE DIMENSION
+Cervix-fundus:
+Anterior-posterior:
+Distance between cornu:
+ADNEXA
+Type of procedure/specimen:
+LLETZ
+CONE Biopsy
+Trachelectomy
+Simple Hysterectomy
+Radical Trachelectomy
+Radical Hysterectomy
+_________
+Appendix 4
+Management of Cervical Cancer (Second Edition)
+Exophytic
+Endophytic
+Gross appearance of tumour
+Carcinoma subtype
+Histological tumour grade
+Maximum depth of invasion
+Cervical wall thickness
+Minimum thickness of uninvolved
+cervical stroma
+Ulceration
+Horizontal measurement
+Transverse measurement
+Tumour size:
+____mm (vertical/length) x _____mm horizontal/width) x ____mm(depth/thickness)
+Thickness of cervical wall at
+deepest invasion site
+Macroscopic involvement of vagina
+Macroscopic involvement of
+parametrium
+Macroscopic involvement of
+paracervix
+Lymph nodes
+mm
+MICROSCOPIC
+Tumour
+Multiple tumours
+: Present
+Absent
+Histological tumour type
+: Squamous carcinoma
+Adenocarcinoma
+Adenosquamous carcinoma
+Neuroendocrine carcinoma
+Other (Specify):
+Well / Grade 1
+Moderate / Grade 2
+Poor / Grade 3
+Not assessable / Not applicable
+mm
+mm
+mm
+mm
+mm
+Present
+Absent
+Yes
+No
+Yes
+No
+Yes
+No
+Management of Cervical Cancer (Second Edition)
+EXTENT
+Lymphovascular invasion
+Parametrium
+Paracervix
+Vagina cuff
+Associated AIS : Absent
+Present
+(If present, describe extention)
+Associated CIN : Absent
+Present
+(If present, describe grade and
+extention)
+Associated SMILE : Absent
+Present
+(If present, describe extention)
+Present
+Absent
+Involved
+Not Involved
+If involved: Right Left
+(distance from excision margin:_____ mm)
+Involved
+Not Involved
+If involved: Right Left
+(distance from excision margin:_____ mm)
+Involved
+Not Involved
+(distance from excision margin:_____ mm)
+Not Applicable
+No Yes
+(Please specify)
+Involvement of other organs
+MARGIN STATUS
+Invasive tumour
+Endocervical margin
+Involved
+Not Involved
+(specify distance:_____ mm)
+Ectocervical margin
+Involved
+Not Involved
+(specify distance:_____ mm)
+Radial margin
+Involved
+Not Involved
+(specify distance:_____ mm)
+Margin status of AIS
+Involved
+Not Involved
+(specify distance:_____ mm)
+Margin status of CIN
+Involved
+Not Involved
+(specify distance:_____ mm)
+Margin status of SMILE
+Involved
+Not Involved
+(specify distance:_____ mm)
+NON-INVASIVE COMPONENT
+ANCILLARY TEST
+Management of Cervical Cancer (Second Edition)
+Appendix 5
+Revised FIGO Cervical Cancer Staging 2009
+Cancer of the cervix uteria
+Stage
+Description
+I
+The carcinoma is strictly confined to the cervix (extension to the
+uterus corpus should be disregarded).
+IA
+• Invasive cancer identified only microscopically (all gross lesion
+even with superficial invasion are Stage IB cancers).
+• Invasion is limited to measured stromal invasion with a maximum
+depth of 5 mmb and no wider than 7 mm.
+• IA1 : Measured invasion of stroma ≤ 3 mm in depth and ≤7 mm
+width
+• IA2 : Measured invasion of stroma >3 mm and <5 mm in depth
+and ≤7 mm width
+IB
+Clinical lesions confined to the cervix, or preclinical lesions greater
+than stage IA
+• IB1 : Clinical lesions no greater than 4 cm in size
+• IB2 : Clinical lesions >4 cm in size
+II
+The carcinoma extends beyond the uterus, but has not extended
+onto the pelvic wall or to the lower third of vagina.
+IIA
+Involvement up to the upper 2/3. No obvious parametrial involvement
+• IIA1 : Clinically visible lesion ≤4 cm
+• IIA2 : Clinically visible lesion >4 cm
+IIB
+Obvious parametrial involvement but not onto the pelvic sidewall
+III
+The carcinoma has extended onto the pelvic sidewall. On rectal
+examination, there is no cancer-free space between the tumor and
+pelvic sidewall. The tumor involves the lower third of the vagina.
+All cases of hydroneprosis or non-functioning kidney should be
+included unless they are known to be due to other causes.
+IIIA
+Involvement of the lower vagina but no extension onto the pelvic
+sidewall
+IIIB
+Extension onto the pelvic sidewall, or hydronephrosis/nonfunctioning kidney
+IV
+The carcinoma has extended beyond the true pelvis or has clinically
+involved the mucosa of the bladder and/or the rectum.
+IVA
+Spread to adjacent pelvic organs
+IVB
+Spread to distant organs
+a Adapted from FIGO Committee on Gynecology Oncology (2)
+b The depth of invasion should not be more than 5mm taken from the base of epithelium, either
+surface or glandular, from which it originates. Vascular space invasion should not alter the staging.
+Source: Pecorelli S; Revised FIGO staging for carcinoma of the vulva, cervix, and endometrium.
+Int J Gynaecol Obstet. 2009 May;105(2):103-4. Erratum in: Int J Gynaecol Obstet. 2010
+Feb;108(2):176
+Management of Cervical Cancer (Second Edition)
+Appendix 6
+Modified Delgado’s Prognostic Risk Scoring System
+Relative risk of recurrence after radical hysterectomy for cervical cancer
+Variable
+Relative risk
+Depth of tumor penetration (mm)
+Superficial
+3
+1.0
+4
+3.0
+5
+7.2
+6
+14
+7
+21
+8
+26
+10
+21
+Middle
+5
+20
+6
+22
+7
+23
+8
+25
+10
+28
+12
+32
+14
+36
+Deep
+7
+28
+8
+30
+10
+34
+12
+37
+14
+41
+16
+45
+18
+49
+19
+54
+Clinical tumor size (cm)
+Occult tumor
+1.0
+1
+1.6
+2
+1.9
+3
+2.4
+4
+2.9
+6
+4.4
+8
+6.6
+Capillary/lymphatic space involvement
+No
+1.0
+Yes
+1.7
+The GOG score is calculated by multiplying the relative-risk for depth X tumour size x capillary/
+lymphatic space involvement
+Source: Greater Metropolitan Clinical Task force. Gynaecological Cancer Guidelines 2009.
+Sydney: NSW Department of Health; 2009
+Management of Cervical Cancer (Second Edition)
+Appendix 7
+ECOG PERFORMANCE STATUS
+Grade
+ECOG
+0
+Fully active, able to carry on all pre-disease performance
+without restriction
+1
+Restricted in physically strenuous activity but ambulatory
+and able to carry out work of a light or sedentary nature,
+such as light house work and office work
+2
+• Ambulatory and capable of all self-care but unable to
+carry out any work activities
+• Up and about more than 50% of waking hours•
+3
+Capable of only limited self-care, confined to bed or chair
+more than 50% of waking hours
+4
+• Completely disabled
+• Cannot carry on any self-care
+• Totally confined to bed or chair
+5
+Dead
+Source: Oken MM, Creech RH, Tormey DC, et al. Toxicity and response criteria of the Eastern
+Cooperative Oncology Group. Am J Clin Oncol. 1982 Dec;5(6):649-55
+Management of Cervical Cancer (Second Edition)
+Appendix 8
+Systemic Therapy Cancer Protocol
+CERVICAL CANCER CHEMOTHERAPY
+Concurrent chemo-radiotherapy
+Source: Ministry of Health & Ministry of Higher Education Malaysia. Systemic Therapy of Cancer
+2nd Edition. Putrajaya: MoH & MoHE; 2008
+1 hour
+1
+Drugs
+Route
+Days
+Cycle length (days) = 21
+Anti-emetic = 4
+Dose (mg/m2)
+IV
+30 - 40
+Infusion
+Time
+Cisplatin
+N.B. In practice, 50 mg total dose per week of cisplatin could be used
+Single agent cisplatin
+1 hour
+1
+Drugs
+Route
+Days
+Cycle length (days) = 21
+Anti-emetic = 4
+Dose (mg/m2)
+IV
+50
+Infusion
+Time
+Cisplatin
+*Carboplatin can be used if the patient is unable to tolerate cisplatin
+Single agent cisplatin
+Palliative chemotheraphy
+Drugs
+Route
+Days
+Cycle length (days) = 21
+Anti-emetic = 4
+Dose (mg/m2)
+Infusion
+Time
+Cisplatin-5FU
+24 hour
+1 - 5
+IV
+750 - 1000
+5Fluorouracil
+1 hour
+1
+IV
+50 - 75
+Cisplatin
+Drugs
+Route
+Days
+Cycle length (days) = 21
+Anti-emetic = 4
+Dose (mg/m2)
+Infusion
+Time
+Cisplatin-MTX
+Bolus
+1 - 5
+IV
+100
+Methotrexate
+1 hour
+1
+IV
+50
+Cisplatin
+Drugs
+Route
+Days
+Cycle length (days) = 21
+Anti-emetic = 4
+Dose (mg/m2)
+Infusion
+Time
+Paclitaxel-cisplatin
+Bolus
+1 - 5
+IV
+75
+Cisplatin
+1 hour
+1
+IV
+175
+Paclitaxel
+Management of Cervical Cancer (Second Edition)
+Appendix 9
+Pain Management and Palliative Care Service Providers
+PAIN CLINICS
+Hospital
+Hospital Selayang, Selangor
+Hospital Melaka, Melaka
+Hospital Sultan Ismail, Johor
+Hospital Raja Permaisuri Bainun, Perak
+Hospital Raja Perempuan Zainab II, Kelantan
+Hospital Tengku Ampuan Rahimah, Selangor
+Pusat Perubatan Univeristi Malaya,
+Kuala Lumpur
+Pusat Perubatan Universiti Kebangsaan Malaysia,
+Kuala Lumpur
+Hospital Universiti Sains Malaysia, Kelantan
+PALLIATIVE CARE UNITS
+Hospital
+Hospital Selayang, Selangor
+Hospital Bukit Mertajam, Kedah
+Hospital Duchness of Kent, Sabah
+Hospital Melaka, Melaka
+Hospital Pulau Pinang, Pulau Pinang
+Hospital Queen Elizabeth, Sabah
+Hospital Raja Permaisuri Bainun, Perak
+Hospital Raja Perempuan Zainab II, Kelantan
+Hospital Sultanah Aminah, Johor
+Hospital Sultanah Bahiyah, Kedah
+Hospital Sultanah Nur Zahirah, Terengganu
+Hospital Tawau, Sabah
+Hospital Tengku Ampuan Afzan, Pahang
+Hospital Tuanku Ja’afar, Negeri Sembilan
+Hospital Umum Sarawak, Sarawak
+Pusat Perubatan Universiti Malaya, Kuala Lumpur
+Pusat Perubatan Universiti Kebangsaan Malaysia,
+Kuala Lumpur
+Tel No.
+603-61203233
+606-2822344
+607-3565000
+605-2533333
+609-7452000
+603-33757000
+603-79494422
+603-91455555
+609-7663000
+Tel No.
+603-61203233
+604-5383333
+6089-212111
+606-2707653
+604-2293333
+6088-206258
+605-5222245
+609-7485533
+607-2231666
+604-7303333
+609-6233333
+6089-773533
+609-5133333
+606-7623333
+6082-208069
+603-79494422
+603-91455555
+Tel No.
+http://www.hselayang.moh.gov.my
+http://www.hmelaka.moh.gov.my
+http://www.hsi.moh.gov.my
+http://www.hipoh.moh.gov.my
+http://www.hrpz2.moh.gov.my
+http://www.htar.moh.gov.my
+http://www.ummc.edu.my
+http://www.ppukm.ukm.my
+http://www.hselayang.moh.gov.my
+URL
+http://www.hselayang.moh.gov.my
+http://www.hospbm.moh.gov.my
+http://www.hdok.moh.gov.my
+http://www.hmelaka.moh.gov.my
+http://www.hpp.moh.gov.my
+http://www.qeh.moh.gov.my
+http://www.hipoh.moh.gov.my
+http://www.hrpz2.moh.gov.my
+http://www.hsajb.moh.gov.my
+http://www.hsbas.moh.gov.my
+http://www.hsnzkt.moh.gov.my
+http://www.htwu.moh.gov.my
+http://www.htaa.moh.gov.my
+http://www.htjs.moh.gov.my
+http://www.hus.moh.gov.my
+http://www.ummc.edu.my
+http://www.ppukm.ukm.my
+Source: Ministry of Health. Management of Cancer Pain. Putrajaya; MoH: 2010
+Management of Cervical Cancer (Second Edition)
+Malaysian Hospice Directory
+PERSATUAN HOSPICE ARK
+No. 2, 2A, 2B Jalan Sutera Merah 3
+Taman Sutera, 81200, Johor Bahru, Johor
+Tel: 07-556 0878
+Contact Person: Ms Alice
+Email: hospice_ark@hotmail.com
+PERSATUAN HOSPIS KEDAH
+d/a Pej Kesihatan Kota Setar, Lebuhraya
+Darul Aman
+Jalan Bakar Bata, 05100 Alor Setar, Kedah
+Tel: 04-771 3487
+Fax: 04-771 0116
+E-mail: sriwahyu2006@yahoo.com.my
+hospiskedah.blogspot.com
+HOSPICE MALACCA
+621-F, Jalan Delima 12, Tmn Bkt Melaka,
+Bukit Beruang, 75450 Melaka
+Tel : 012-6235 115
+Fax: 06-2321 479
+Contact Person: S/N Chong Fei Gin
+E-mail: drrajagopal@hotmail.com
+www.hospismelaka.org
+PERSATUAN HOSPIS PAHANG
+A4614 Lorong Alor Akar 19
+25250 Kuantan, Pahang
+Tel / Fax: 09-5670 743
+Email: hospispahang@gmail.com
+NCSM PENANG
+Rumah Hospis Pulau Pinang
+250A, Jalan Air Itam, 10460 Penang
+Tel: 04-228 4140
+Fax: 04-226 4676
+Contact Person: Nor Asikin Abd Kadir
+E-mail: ncsmpg@gmail.com
+www.ncsmpenang.org
+PURE LOTUS HOSPICE OF COMPASSION
+73, Jalan Utama, 10460 Penang
+Tel / Fax: 04-229 5481
+Email: lyanshih@gmail.com
+purelotushospice.org
+PERAK PALLIATIVE CARE SOCIETY
+54, Jalan Sultan Ahmad Shah,
+31400 Ipoh, Perak
+Tel/Fax: 05-546 4732
+Contact Person: Ms Leong Lai Peng
+E-mail: admin@ppcs.org.my
+www.ppcs.org.my
+PALLIATIVE CARE ASSOC. OF JOHOR BAHRU
+44, Jalan Tun Abdul Razak, Susur 1
+80000 Johor Bahru
+Tel: 07-222 9188/222 8858 Fax: 07-222 4858
+Contact Person: Ms Nancy Yee
+Email: nancyyee.pcajb@gmail.com
+www.pcajb.com
+PERSATUAN HOSPIS NEGERI KELANTAN
+Hospital Raja Perempuan Zainab II,
+15586 Kota Bharu, Kelantan
+Tel: 09-745 2000
+Fax: 09-747 5418
+E-mail: drimisairi@klt.moh.gov.my
+PERTUBUHAN HOSPICE NEGERI SEMBILAN
+No. 41, Off Jalan Rasah
+70300 Seremban, Negeri Sembilan
+Tel: 06-762 1216
+Fax: 06-762 1216
+Contact Person : Ms Kala
+E-mail: hospicens2012@yahoo.com
+pertubuhanhospicenegerisembilan.com
+PERSATUAN HOSPIS TERENGGANU
+Klinik Bedah Pakar, Kompleks Rawatan Harian,
+Hospital Sultanah Nur Zahirah, 20400 KT,
+Terengganu
+Tel /Fax: 09-6212121 ext 2058
+Email: drnona31765@gmail.com
+PENANG HOSPICE SOCIETY
+c/o Rumah Hospis Pulau Pinang
+250A Jalan Air Itam, 10460 Penang
+Tel: 04-228 4140 Fax: 04-2264676
+Contact Person : Ms Chitra Alagan
+E-mail: penanghospicesociety@gmail.com
+www.penanghospice.org.my
+CHARIS HOSPICE
+15, Cangkat Minden, Jalan 12, 11700 Penang
+Tel: 011-1246 6757, 04-6587668 Fax: 04-6587669
+Email: charishospice@gmail.com
+www.charishospice.com
+TAIPING PALLIATIVE SOCIETY
+48, Jalan Lim Sam Kip,
+34000 Taiping, Perak
+Tel/Fax: 05-807 2457
+Contact Person: Ms Veronica Liew
+E-mail: veraliew@hotmail.com
+Management of Cervical Cancer (Second Edition)
+HOME CARE HOSPICE PROGRAMME,
+SABAH
+c/o Sabah Cancer Society
+No.15, Lorong Tupai 3, Teck Guan Villa,
+Jalan Penampang, 88300 Kota Kinabalu,
+Sabah
+Tel: 088-222 315
+Fax: 088-210 377
+E-mail: sabahcancersociety@yahoo.com
+www.sabah.org.my/scss/cancer
+PERSATUAN HOSPIS TAWAU
+TB 14748 Mile 3.5, Jalan James Power,
+Off Jalan Kuhara, 91008 Tawau, Sabah
+Tel: 089-711 515
+Fax: 089-711 514
+Contact Person: Mr Victor Raja
+E-mai: hospistwu@gmail.com,vicraja@gmail.com
+PERSATUAN HOSPICE ST. FRANCIS
+XAVIER
+St. Francis Xavier’s Mission,
+Peti Surat 92, 89007 Keningau, Sabah
+Tel/ Fax : 087-339 114
+E-mail: liewlucy@hotmail.com
+Contact Person : Shelly
+SARAWAK HOSPICE SOCIETY
+c/o Radiotherapy Unit,
+Sarawak General Hospital, 93586 Kuching,
+Sarawak
+Tel: 082-276 575 Fax: 082- 414 443
+E-mail: tangtiengswee@gmail.com
+www.sarawakhospicesociety.org
+HOSPICE KLANG
+82 Jalan Sri Sarawak 4, Tmn Sri Andalas,
+41200 Klang, Selangor
+Tel: 03-3324 2125
+Fax: 03-3324 3125
+Contact Person: Ms Tan Guat Hong
+E-mail: hpsklang@gmail.com
+www.hospiceklang.org
+KASIH HOSPICE CARE SOCIETY
+No 7, Jalan 14/29 aka Jalan Dato Abdul Aziz,
+46100 Petaling Jaya, Selangor
+Tel: 03-7960 7424
+E-mail: admin@kasihfoundation.org
+www.kasihfoundation.org Fax: 03-7956 6442
+PALLIATIVE CARE ASSOCIATION OF
+KOTA KINABALU, SABAH
+PWD 7396 & 7397 Taman Rose,
+Off Jln Penampang,
+88300 Kota Kinabalu, Sabah, Malaysia
+Tel: 088-231 505 Fax: 088- 231 506
+Contact Person: Ms Grace Chong
+E-mail: pcakk@yahoo.com
+www.sabah.org.my/pcakks
+THE HOSPICE ASSOCIATION OF SANDAKAN
+P.P.M No 324, Elopura
+90000 Sandakan, Sabah
+Tel: 089-632 219 Fax: 089-632 269
+Contact Person: Ms Michelle Chong
+E-mail: hcs98@hospicesdk.com
+KUCHING HOSPICE CANCER CARE
+287, Lot2643 Central Park Commercial Centre,
+Jalan Rock, 93250 Kuching, Sarawak
+Tel: 082-337 689 Fax: 082- 488 444
+E-mail: cancercare.kuching@gmail.com
+Contact Person: Ms Molly
+MIRI PALLIATIVE CARE HOME PROGRAMME
+Daycare centre, Hospital Miri,
+Jalan Cahaya, 98000 Miri, Sarawak
+Tel: 085-420033 Fax: 085-416514
+Contact Person: Dr. Frances Wilkinson
+ASSUNTA PALLIATIVE CARE CENTRE
+Assunta Hospital, No. 83 Jalan Templer
+46990 Petaling Jaya, Selangor
+Tel / Fax: 03-7954 3389
+Email: aspacc.assuntahospital@gmail.com
+www.aspacc.org
+HOSPIS MALAYSIA
+2 Jalan 4/96, off Jalan Sekuci, Tmn Sri Bahtera,
+Jalan Cheras, 56100 Kuala Lumpur
+Tel : 03-9133 3936
+Fax : 03-9133 3941
+Email: info@hospismalaysia.org
+www.hospismalaysia.org
+Source: Malaysian Hospice Council (available at http://www.malaysianhospicecouncil.org)
+Management of Cervical Cancer (Second Edition)
+Appendix 10
+International Society of Lymphology (ISL) Lymphoedema Staging
+Stage
+A subclinical state where swelling is not
+evident despite impaired lymph transport.
+This stage may exist for months or years
+before oedema becomes evident
+This represents early onset of the condition
+where there is accumulation of tissue fluids
+that subsides with limb elevation. The
+oedema may be pitting at this stage
+Limb elevation alone rarely reduces the
+swelling and pitting is manifest
+There may or may not be pitting as tissue
+fibrosis is more evident
+The tissue is hard (fibrotic) and pitting is
+absent. Skin changes as such thickening,
+hyperpigmentation, increased skin folds, fat
+deposits and warty overgrowth develop
+ISL Stage 0
+ISL Stage I
+ISL Stage II
+ISL late Stage II
+ISL Stage III
+Source: Lymphoedema Framework. Best Practice for the Management of Lymphodema.
+International Consensus. London: MEP Ltd; 2006
+Management of Cervical Cancer (Second Edition)
+Appendix 11
+Distress Thermometer Screening Tool
+Source: Reproduced with permission from The NCCN 1.2010 Distress Management Clinical
+Practice Guidelines in Oncology. ©National Comprehensive Cancer Network, 2010.
+Available at: http://www.nccn.org.
+SCREENING TOOLS FOR MEASURING DISTRESS
+Instructions: First please circle the number (0-10) that best
+describes how much distress you have been experiencing in
+the past week including today.
+Extreme distress
+No distress
+Second, please indicate if any of the following has been a
+problem for you in the past week including today. Be sure to
+check YES or NO for each.
+YES NO Practical Problems
+Child care
+Housing
+Transportation
+Work/school
+Insurance/financial
+YES NO Physical Problems
+Appearance
+Bathing/dressing
+Changes in urination
+Constipation
+Breathing
+Diarrhea
+Eating
+Feeling Swollen
+Fevers
+Fatigue
+Getting around
+Indigestion
+Mouth sores
+Nausea
+Memory/concentration
+Nose dry/congested
+Pain
+Skin dry/itchy
+Sleep
+Sexual
+Tingling in hands/feet
+Family Problems
+Dealing with children
+Dealing with partner
+Ability to have children
+Emotional Problems
+Depression
+Fears
+Nervousness
+Spiritual/religious
+concerns
+Sadness
+Worry
+Loss of interest in
+usual activities
+Other Problems:
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+Management of Cervical Cancer (Second Edition)
+Appendix 12
+Medication List
+•
+To monitor FBC and serum electrolytes prior to every cycle of chemotherapy.
+Source:
+1.
+Lacy CF, Armstrong, Goldman MP et al. editors. Drug Information Handbook 2012-2013 w/International Trade Names Index , 21st Edition. Ohio: Lexi-Comp; 2012
+2.
+Ministry of Health & Ministry of Higher Education Malaysia. Systemic Therapy of Cancer 2nd Edition. Putrajaya: MoH & MoHE; 2008
+Gemcitabine
+• Fever
+• Nausea,vomiting
+• Myelosuppression
+• Increased hepatic
+transaminases
+• Monitor liver function
+Topotecan
+• Myelosupression
+• Nausea, vomiting
+• Monitor for interstitial lung disease
+5-Fluorouracil
+• Diarrhoea
+• Monitor for hand-foot syndrome
+Mitomycin-C
+• Myelosuppression
+• Observe for extravasation (vesicant)
+• Monitor for haemolytic-uremic syndrome
+Cisplatin
+Chemotherapy Drug Common side effects
+Comments
+• Peripheral neuropathy
+• Nausea, vomiting
+• Myelosuppression
+• Nephrotoxicity
+• Ototoxicity
+• Adequate hydration and urinary output at least 24 hours after administration
+• Obtain baseline renal function, then monitor renal function (SCr, CrCl) at every cycle. Observe for cumulative renal toxicity.
+• Recommend to perform baseline audiography and prior to each subsequent dose
+• Observe for anaphylactic-like reactions during infusion
+• Monitor renal function (SCr, CrCl)
+• Observe for anaphylactic-like reactions during infusion
+Carboplatin
+• Electrolyte imbalance
+(hyponatremia,
+hypomagnesemia,
+hypocalcaemia,
+hypokalaemia)
+• Nausea, vomiting
+• Myelosupression
+• Monitor renal function (SCr, CrCl)
+• Observe for anaphylactic-like reactions during infusion
+Paclitaxel
+• Alopecia
+• Nausea, vomiting
+• Myelosuppression
+• Peripheral neuropathy
+• Arthalgia/myalgia
+• Monitor for hypersensitivity reaction during infusion
+Management of Cervical Cancer (Second Edition)
+LIST OF ABBREVIATIONS
+AC
+adenocarcinoma
+AGC-H
+Atypical glandular cells - hyperplasia
+AGC-US
+Atypical glandular cells of undetermined significance
+ASCUS
+Atypical Squamous Cells of Undetermined Significance
+CCRT
+concurrent chemoradiotherapy
+CI
+confidence interval
+CIN
+cervical intraepithelial neoplasia
+cm
+centimeter
+CPG(s)
+clinical practice guidelines
+CT
+computed tomography
+DVT
+deep vein thrombosis
+DFS
+disease free survival
+DG
+Development Group
+ECOG
+Eastern Cooperative Oncology Group
+EUA
+examination under anaesthesia
+EBRT
+external beam radiotherapy
+FDG-PET
+Fluorodeoxyglucose positron emission tomography
+FIGO
+The International Federation of Gynecology and Obstetrics
+Gy
+Gray
+HPV
+Human Papilloma Virus
+HR
+hazard risk
+HRT
+hormone replacement therapy
+HSIL
+high-grade squamous intraepithelial lesion
+HTA
+health technology asessment
+INR
+International Normalised Ratio
+ICBT
+intracavitary brachytherapy
+LLETZ
+large loop excision of transformation zone
+LACC
+locally advanced cervical cancer
+LSIL
+low grade squamous intraepithelial lesion
+LMWH
+low molecular weight heparin
+LNmM
+lymph node micrometastasis
+LVSI
+lymph vascular space involvement
+MoH
+Ministry of Health
+MRI
+magnetic resonance imaging
+MBO
+malignant bowel obstruction
+NPV
+negative predictive value
+NAC
+neoadjuvant chemotherapy
+NEC
+neuroendocrine cancers
+OR
+odds ratio
+OS
+overall survival
+PAN
+para-aortic lymph nodes
+PN
+percutaneous nephrostomy
+PET
+positron emission tomography
+PET-CT
+positron emission tomography-computed tomography
+PLND
+pelvic lymph nodes dissection
+PPV
+positive predictive value
+PCB
+postcoital bleeding
+PFS
+progression-free survival
+Management of Cervical Cancer (Second Edition)
+ACKNOWLEDGEMENT
+The members of development group of these guidelines would like to express
+their gratitude and appreciation to the following for their contributions:-
+• Ms. Zalina Azman, Nursing Sister, Pejabat Kesihatan Putrajaya
+• Dr. Hanin Farhana Kamaruzzaman, MaHTAS Putrajaya
+• Panel of external reviewers who reviewed the draft
+• Technical Advisory Committee for CPG for their valuable input and
+feedback
+• All those who have contributed directly or indirectly to the development
+of the CPG
+DISCLOSURE STATEMENT
+The panel members of both Development Group and Review Committee
+had completed disclosure forms. None held shares in pharmaceutical firms
+or acts as consultants to such firms. (Details are available upon request
+from the CPG Secretariat)
+SOURCE OF FUNDING
+The development of the CPG on Management of Cervical Cancer (Second
+Edition) was supported financially in its entirety by the Ministry of Health
+Malaysia.
+QOL
+quality of life
+RC
+Review Committee
+RAT
+radical abdominal trachelectomy
+RAH
+radical abdominal hysterectomy
+RH
+radical hysterectomy
+RP
+radical parametrectomy
+RVT
+radical vaginal trachelectomy
+RT
+radiotherapy
+RCT(s)
+randomised controlled trials
+RR
+relative risk
+SIGN
+Scottish Intercollegiate Guidelines Network
+SSRIs
+selective serotonin reuptake inhibitor(s)
+SN
+sentinel nodes
+SCC
+squamous cell carcinoma
+TOP
+termination of pregnancy
+TNM
+tumor-node-metastasis
+TVS
+transvaginal ultrasound
+UFH
+unfractionated heparin
+VCF
+vena caval filter
+VTE
+venous thromboembolism
+vs
+versus
+WHO
+World Health Organization
+Management of Cervical Cancer (Second Edition)

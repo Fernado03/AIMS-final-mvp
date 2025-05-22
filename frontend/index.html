@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>KINAVIS AI MEDICAL SCRIBE</title>
+    <meta property="og:title" content="KINAVIS AI MEDICAL SCRIBE" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta property="twitter:card" content="summary_large_image" />
+
+    <style data-tag="reset-style-sheet">
+        html { line-height: 1.15;}
+        body { margin: 0;}
+        * { box-sizing: border-box; border-width: 0; border-style: solid; -webkit-font-smoothing: antialiased;}
+        p,li,ul,pre,div,h1,h2,h3,h4,h5,h6,figure,blockquote,figcaption { margin: 0; padding: 0;}
+        button { background-color: transparent;}
+        button,input,optgroup,select,textarea { font-family: inherit; font-size: 100%; line-height: 1.15; margin: 0;}
+        button,select { text-transform: none;}
+        button,[type="button"],[type="reset"],[type="submit"] { -webkit-appearance: button; color: inherit;}
+        button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner { border-style: none; padding: 0;}
+        button:-moz-focus,[type="button"]:-moz-focus,[type="reset"]:-moz-focus,[type="submit"]:-moz-focus { outline: 1px dotted ButtonText;}
+        a { color: inherit; text-decoration: inherit;}
+        input { padding: 2px 4px;}
+        img { display: block;}
+        details { display: block; margin: 0; padding: 0;}
+        summary::-webkit-details-marker { display: none;}
+        [data-thq="accordion"] [data-thq="accordion-content"] { max-height: 0; overflow: hidden; transition: max-height 0.3s ease-in-out; padding: 0;}
+        [data-thq="accordion"] details[data-thq="accordion-trigger"][open] + [data-thq="accordion-content"] { max-height: 1000vh;}
+        details[data-thq="accordion-trigger"][open] summary [data-thq="accordion-icon"] { transform: rotate(180deg);}
+        html { scroll-behavior: smooth }
+    </style>
+    <style data-tag="default-style-sheet">
+        html {
+            font-family: Open Sans;
+            font-size: 1rem;
+        }
+
+        body {
+            font-weight: 400;
+            font-style:normal;
+            text-decoration: none;
+            text-transform: none;
+            letter-spacing: normal;
+            line-height: 1.625;
+            color: var(--dl-color-secondary-400);
+            background: var(--dl-color-gray-white);
+
+            fill: var(--dl-color-secondary-400);
+        }
+    </style>
+    <link
+        rel="stylesheet"
+        href="https://unpkg.com/animate.css@4.1.1/animate.css"
+    />
+    <link
+        rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&amp;display=swap"
+        data-tag="font"
+    />
+    <link
+        rel="stylesheet"
+        href="https://unpkg.com/@teleporthq/teleport-custom-scripts/dist/style.css"
+    />
+    <link rel="stylesheet" href="/style.css" />
+    <link rel="stylesheet" href="/components.css" />
+    <link rel="stylesheet" href="/page-layout.css" />
+    <style>
+        html * {
+            -webkit-font-smoothing: antialiased;
+        }
+        input::placeholder, textarea::placeholder {
+            color: #d2d6da;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <div>
+            <link href="/index.css" rel="stylesheet" />
+            <div class="transcript3-container10"> <!-- Changed class for consistent page styling -->
+                <div class="home-hero">
+                    <div class="home-container11">
+                        <div class="home-card">
+                            <h1 class="home-text10 HeadingOne">Your LLM AI-Powered&nbsp;</h1>
+                            <h1 class="home-text11 HeadingOne">Medical Scribe.</h1>
+                            <span class="home-text12">Upload. Review. Approve. Save time on documentation.</span>
+                            <div class="home-container12">
+                                <div class="home-container13">
+                                    <primary-blue-button-wrapper
+                                        class="primary-blue-button-wrapper"
+                                        rootclassname="primary-blue-buttonundefined"
+                                    >
+                                        <div
+                                            class="primary-blue-button-container primary-blue-buttonroot-class-name"
+                                        >
+                                            <a href="subjective.html">
+                                                <button
+                                                    class="primary-blue-button-button button ButtonSmall"
+                                                >
+                                                    <span>GET STARTED</span>
+                                                </button>
+                                            </a>
+                                        </div>
+                                    </primary-blue-button-wrapper>
+                                </div>
+                                <outline-gray-button-wrapper
+                                    class="outline-gray-button-wrapper"
+                                >
+                                    <div
+                                        class="outline-gray-button-container"
+                                    >
+                                        <button
+                                            class="outline-gray-button-button button ButtonSmall"
+                                        >
+                                            <span>read more</span>
+                                        </button>
+                                    </div>
+                                </outline-gray-button-wrapper>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <img
+                    alt="image"
+                    src="https://images.unsplash.com/photo-1584467735871-8e85353a8413?ixid=M3w5MTMyMXwwfDF8c2VhcmNofDM0fHxkb2N0b3J8ZW58MHx8fHwxNzQ2ODAwMjYyfDA&amp;ixlib=rb-4.1.0&amp;h=1500"
+                    class="home-image1"
+                />
+                <section class="home-features">
+                    <h1 class="home-text28 HeadingOne" style="padding-bottom: 60px;">S.O.A.P Note Generation LLM-based</h1>
+                    <feature-card-wrapper class="feature-card-wrapper">
+                        <div class="feature-card-container">
+                            <img
+                                alt="image"
+                                src="/public/cube1.svg"
+                                class="feature-card-image"
+                            />
+                            <h5 class="feature-card-text1 HeadingThree">
+                                <span>Subjective</span>
+                            </h5>
+                            <span class="feature-card-text2">
+                                <fragment class="home-fragment1">
+                                    <span class="home-text13">
+                                        <span>What the patient says.</span>
+                                        <br />
+                                        <span>
+                                            Includes symptoms, feelings, or medical history told by
+                                            the patient.
+                                        </span>
+                                        Get the latest design ideas and turn it into reality.
+                                    </span>
+                                </fragment>
+                            </span>
+                        </div>
+                    </feature-card-wrapper>
+                    <feature-card-wrapper-s7ne class="feature-card-wrapper-s7ne">
+                        <div class="feature-card-container1">
+                            <img
+                                alt="image"
+                                src="/public/person1.svg"
+                                class="feature-card-image1"
+                            />
+                            <h5 class="feature-card-text3 HeadingThree">
+                                <span>Objective</span>
+                            </h5>
+                            <span class="feature-card-text4">
+                                <fragment class="home-fragment2">
+                                    <span class="home-text17">
+                                        <span>What the doctor observes.</span>
+                                        <br />
+                                        <span>
+                                            Includes vital signs, physical exam findings, lab
+                                            results, etc.
+                                        </span>
+                                    </span>
+                                </fragment>
+                            </span>
+                        </div>
+                    </feature-card-wrapper-s7ne>
+                    <feature-card-wrapper-97yo class="feature-card-wrapper-97yo">
+                        <div class="feature-card-container2">
+                            <img
+                                alt="image"
+                                src="/public/rocket1.svg"
+                                class="feature-card-image2"
+                            />
+                            <h5 class="feature-card-text5 HeadingThree">
+                                <span>Assessment</span>
+                            </h5>
+                            <span class="feature-card-text6">
+                                <fragment class="home-fragment3">
+                                    <span class="home-text21">
+                                        <span>The doctor’s diagnosis.</span>
+                                        <br />
+                                        <span>
+                                            May include possible causes or conditions being
+                                            considered.
+                                        </span>
+                                    </span>
+                                </fragment>
+                            </span>
+                        </div>
+                    </feature-card-wrapper-97yo>
+                    <feature-card-wrapper-fxa0 class="feature-card-wrapper-fxa0">
+                        <div class="feature-card-container3">
+                            <img
+                                alt="image"
+                                src="/public/credit%20card1.svg"
+                                class="feature-card-image3"
+                            />
+                            <h5 class="feature-card-text7 HeadingThree">
+                                <span>Plan</span>
+                            </h5>
+                            <span class="feature-card-text8">
+                                <fragment class="home-fragment4">
+                                    <span class="home-text25">
+                                        <span>The treatment plan going forward.&nbsp;</span>
+                                        <span>
+                                            Includes medications, tests, advice, follow-ups.
+                                        </span>
+                                    </span>
+                                </fragment>
+                            </span>
+                        </div>
+                    </feature-card-wrapper-fxa0>
+                </section>
+                <section class="home-container14">
+                    <div class="home-container15">
+                        <h1 class="home-text29"> Focus on the Care, AI notes the Care.</h1>
+                        <span class="home-text30">Project XXX helps clinicians reduce burnout by instantly
+                            generating structured SOAP notes from patient conversations.</span>
+                    </div>
+                    <div class="home-container16">
+                        <div class="home-container17">
+                            <img
+                                alt="image"
+                                src="https://images.unsplash.com/photo-1631217871099-88310a909a32?ixid=M3w5MTMyMXwwfDF8c2VhcmNofDYyfHxkb2N0b3J8ZW58MHx8fHwxNzQ2ODAwMjYzfDA&amp;ixlib=rb-4.1.0&amp;w=1100"
+                                class="home-image2"
+                            /><span class="home-text31 Small">
+                                <span class="home-text32">"Clinicans spend up to 2 hours on notes for every 1 hour with
+                                    patients. We're fixing that."</span>
+                                <br /><span class="home-text34">-KinaVis, 2025</span></span
+                            >
+                            <div class="home-container18">
+                                <img
+                                    alt="image"
+                                    src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/coding.jpg"
+                                    class="home-image3"
+                                />
+                            </div>
+                        </div>
+                        <div class="home-container19">
+                            <img
+                                alt="image"
+                                src="https://images.unsplash.com/photo-1557825835-70d97c4aa567?ixid=M3w5MTMyMXwwfDF8c2VhcmNofDY3fHxkb2N0b3J8ZW58MHx8fHwxNzQ2ODAwMjYzfDA&amp;ixlib=rb-4.1.0&amp;w=600"
+                                class="home-image4"
+                            />
+                            <div class="home-container20">
+                                <h3 class="home-text35 HeadingTwo">
+                                    Say Hello to Faster, Smarter Medical Documentation.
+                                </h3>
+                                <p>
+                                    <span
+                                        >AI Medical Scribe is your LLM AI-powered partner in
+                                        reducing clinician burnout. Designed for healthcare
+                                        professionals, it transforms pre-recorded consultation audio
+                                        into structured, accurate SOAP notes—automatically. Using
+                                        advanced speech recognition and large language models, it
+                                        captures key details in seconds. Review the transcript,
+                                        approve the draft, and save hours each day. Built with
+                                        Malaysian clinicians in mind, it’s your smarter way to
+                                        handle medical documentation.</span
+                                    >
+                                    <br />
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section class="home-testimonials">
+                    <div class="home-container21">
+                        <div class="home-container22">
+                            <div class="home-container23">
+                                <h2 class="home-text39 HeadingOne">Join Our Mission</h2>
+                                <p class="home-text40 Lead">We are KinaVis, based in Sabah, Malaysia.</p>
+                                <p class="home-text41">
+                                    <span class="home-text42">"</span>
+                                    <span
+                                        >We believe one powerful idea can change how the world
+                                        works. At KinaVis, we’re combining technology and empathy to
+                                        transform healthcare. Every skill matters. Every voice
+                                        counts. Let's reshape the future of medical
+                                        documentation—together</span
+                                    >
+                                    <span class="home-text44">."</span>
+                                </p>
+                                <p class="home-text45">Fernado George, Asyiqin Nazirah, Aishah Juan, Iyzman Daniel,
+                                    Zaeem Zharfan</p>
+                                <p class="home-text46 Small">Members of KinaVis</p>
+                            </div>
+                        </div>
+                        <div class="home-logos">
+                            <div class="home-container24">
+                                <img
+                                    alt="image"
+                                    src="/public/c0199d2f-4ac6-4d64-b426-7b64eb6e2b26-500h.jpg"
+                                    class="home-image5"
+                                />
+                            </div>
+                        </div>
+                    </div>
+                    <img
+                        alt="image"
+                        src="/public/bottom.svg"
+                        class="home-bottom-wave-image"
+                    /><img
+                        alt="image"
+                        src="/public/waves-white.svg"
+                        class="home-image6"
+                    /><img
+                        alt="image"
+                        src="/public/top.svg"
+                        class="home-top-wave-image"
+                    />
+                </section>
+                <section class="home-container">
+                    <div class="home-container25">
+                        <div class="home-container26">
+                            <svg viewBox="0 0 1024 1024" class="home-icon1">
+                                <path
+                                    d="M363.722 722.052l41.298-57.816-45.254-45.256-57.818 41.296c-10.722-5.994-22.204-10.774-34.266-14.192l-11.682-70.084h-64l-11.68 70.086c-12.062 3.418-23.544 8.198-34.266 14.192l-57.818-41.298-45.256 45.256 41.298 57.816c-5.994 10.72-10.774 22.206-14.192 34.266l-70.086 11.682v64l70.086 11.62c3.418 12.060 8.198 23.544 14.192 34.266l-41.298 57.816 45.254 45.256 57.818-41.296c10.722 5.994 22.204 10.774 34.266 14.192l11.682 70.084h64l11.68-70.086c12.062-3.418 23.544-8.198 34.266-14.192l57.818 41.296 45.254-45.256-41.298-57.816c5.994-10.72 10.774-22.206 14.192-34.266l70.088-11.68v-64l-70.086-11.682c-3.418-12.060-8.198-23.544-14.192-34.266zM224 864c-35.348 0-64-28.654-64-64s28.652-64 64-64 64 28.654 64 64-28.652 64-64 64zM1024 384v-64l-67.382-12.25c-1.242-8.046-2.832-15.978-4.724-23.79l57.558-37.1-24.492-59.128-66.944 14.468c-4.214-6.91-8.726-13.62-13.492-20.13l39.006-56.342-45.256-45.254-56.342 39.006c-6.512-4.766-13.22-9.276-20.13-13.494l14.468-66.944-59.128-24.494-37.1 57.558c-7.812-1.892-15.744-3.482-23.79-4.724l-12.252-67.382h-64l-12.252 67.382c-8.046 1.242-15.976 2.832-23.79 4.724l-37.098-57.558-59.128 24.492 14.468 66.944c-6.91 4.216-13.62 8.728-20.13 13.494l-56.342-39.006-45.254 45.254 39.006 56.342c-4.766 6.51-9.278 13.22-13.494 20.13l-66.944-14.468-24.492 59.128 57.558 37.1c-1.892 7.812-3.482 15.742-4.724 23.79l-67.384 12.252v64l67.382 12.25c1.242 8.046 2.832 15.978 4.724 23.79l-57.558 37.1 24.492 59.128 66.944-14.468c4.216 6.91 8.728 13.618 13.494 20.13l-39.006 56.342 45.254 45.256 56.342-39.006c6.51 4.766 13.22 9.276 20.13 13.492l-14.468 66.944 59.128 24.492 37.102-57.558c7.81 1.892 15.742 3.482 23.788 4.724l12.252 67.384h64l12.252-67.382c8.044-1.242 15.976-2.832 23.79-4.724l37.1 57.558 59.128-24.492-14.468-66.944c6.91-4.216 13.62-8.726 20.13-13.492l56.342 39.006 45.256-45.256-39.006-56.342c4.766-6.512 9.276-13.22 13.492-20.13l66.944 14.468 24.492-59.13-57.558-37.1c1.892-7.812 3.482-15.742 4.724-23.79l67.382-12.25zM672 491.2c-76.878 0-139.2-62.322-139.2-139.2s62.32-139.2 139.2-139.2 139.2 62.322 139.2 139.2c0 76.878-62.32 139.2-139.2 139.2z"
+                                ></path></svg>
+                        </div>
+                        <h2 class="home-text47 HeadingTwo">Key Features of AI Medical Scribe</h2>
+                        <h3 class="home-text48 HeadingTwo">
+                            <span class="home-text49">What Our System Can Do for You</span>
+                            <br />
+                        </h3>
+                        <span class="home-text51">We’re redefining how medical documentation works—powered by AI,
+                            guided by clinicians.</span>
+                    </div>
+                    <div class="home-container27">
+                        <div class="home-container28">
+                            <div class="home-container29"></div>
+                            <div class="home-container30">
+                                <svg viewBox="0 0 987.4285714285713 1024" class="home-icon3">
+                                    <path
+                                        d="M438.857 508.571l312 312c-79.429 80.571-190.286 130.286-312 130.286-242.286 0-438.857-196.571-438.857-438.857s196.571-438.857 438.857-438.857v435.429zM545.714 512h441.714c0 121.714-49.714 232.571-130.286 312zM950.857 438.857h-438.857v-438.857c242.286 0 438.857 196.571 438.857 438.857z"
+                                    ></path></svg>
+                                <h1 class="home-text52 HeadingOne">Search and Discover!</h1>
+                                <span class="home-text53">Explore your SOAP notes, transcripts, and patient
+                                    interactions in one clean dashboard.</span>
+                                <outline-black-button-wrapper
+                                    class="outline-black-button-wrapper"
+                                >
+                                    <div
+                                        class="outline-black-button-container"
+                                    >
+                                        <a href="subjective.html">
+                                            <button class="outline-black-button-button button ButtonSmall">
+                                                <span>get started</span>
+                                            </button>
+                                        </a>
+                                    </div>
+                                </outline-black-button-wrapper>
+                            </div>
+                        </div>
+                        <div class="home-container31">
+                            <list-item-wrapper class="list-item-wrapper">
+                                <div class="list-item-container">
+                                    <h5 class="list-item-text HeadingThree">
+                                        <span>1. Upload consultation audio secretly.</span>
+                                    </h5>
+                                </div>
+                            </list-item-wrapper>
+                            <list-item-wrapper-tj0m class="list-item-wrapper-tj0m">
+                                <div class="list-item-container1">
+                                    <h5 class="list-item-text1 HeadingThree">
+                                        <span>2. Instantly receive generated SOAP notes.</span>
+                                    </h5>
+                                </div>
+                            </list-item-wrapper-tj0m>
+                            <list-item-wrapper-jmez class="list-item-wrapper-jmez">
+                                <div class="list-item-container2">
+                                    <h5 class="list-item-text2 HeadingThree">
+                                        <span>3. Review, edit, and finalize with ease.</span>
+                                    </h5>
+                                </div>
+                            </list-item-wrapper-jmez>
+                        </div>
+                    </div>
+                </section>
+                <footer-wrapper class="footer-wrapper">
+                    <footer class="footer-footer">
+                        <div class="footer-container1">
+                            <div class="footer-container2">
+                                <span class="footer-text10">KinaVis AI Medical Scribe</span>
+                                <span>Copyright © 2025 LLM-based by KinaVis.</span>
+                            </div>
+                            <div class="footer-container3">
+                                <div class="footer-container4">
+                                    <span class="footer-text12 Large">Company</span>
+                                    <span class="footer-text13 Large">About Us</span>
+                                </div>
+                                <div class="footer-container5">
+                                    <span class="footer-text14 Large">Pages</span>
+                                    <span class="footer-text15 Large">Login</span>
+                                    <span class="footer-text16 Large">Register</span>
+                                    <span class="footer-text17 Large">About</span>
+                                </div>
+                                <div class="footer-container6">
+                                    <span class="footer-text18 Large">Features</span>
+                                    <span class="footer-text19 Large">AI SOAP Notes</span>
+                                    <span class="footer-text20 Large">Audio Transcription</span>
+                                </div>
+                            </div>
+                        </div>
+                        <img
+                            alt="image"
+                            src="/public/waves-white.svg"
+                            class="footer-image"
+                        />
+                    </footer>
+                </footer-wrapper>
+                <header-wrapper class="header-wrapper" rootclassname="headerundefined">
+                    <div
+                        data-role="Header"
+                        class="header-header headerroot-class-name3"
+                    >
+                        <nav class="header-nav">
+                            <div class="header-container1">
+                                <a href="index.html" class="header-navlink1 Large">AI Medical Scribe</a>
+                                <div class="header-menu1">
+                                   <a href="index.html" class="header-navlink2 Large">Home</a>
+                                   <a href="subjective.html" class="header-navlink3 Large">New SOAP Note</a>
+                               </div>
+                               <div class="header-container2">
+                                   <div data-role="BurgerMenu" class="header-burger-menu">
+                                        <svg viewBox="0 0 1024 1024" class="header-icon1">
+                                            <path
+                                                d="M128 256h768v86h-768v-86zM128 554v-84h768v84h-768zM128 768v-86h768v86h-768z"
+                                            ></path></svg>
+                                    </div>
+                                </div>
+                            </div>
+                        </nav>
+                        <div data-role="MobileMenu" class="header-mobile-menu">
+                            <div class="header-top">
+                                <a href="index.html" class="header-navlink6 Large">Soft UI Design System</a>
+                                <div data-role="CloseMobileMenu" class="header-close-menu">
+                                    <svg viewBox="0 0 1024 1024" class="header-icon3">
+                                        <path
+                                            d="M810 274l-238 238 238 238-60 60-238-238-238 238-60-60 238-238-238-238 60-60 238 238 238-238z"
+                                        ></path></svg>
+                                </div>
+                            </div>
+                            <div class="header-mid">
+                                <div class="header-menu2">
+                                    <a href="index.html" class="header-navlink7 Large">Home</a>
+                                    <a href="subjective.html" class="header-navlink8 Large">New SOAP Note</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </header-wrapper>
+            </div>
+        </div>
+    </div>
+    <script
+        defer=""
+        src="https://unpkg.com/@teleporthq/teleport-custom-scripts"
+    ></script>
+</body>
+</html>

@@ -1,0 +1,2692 @@
+CPG on Management of Geriatric Hip Fracture
+Published by:
+Malaysian Health Technology Assessment Section (MaHTAS)
+Medical Development Division, Ministry of Health Malaysia
+Level 4, Block E1, Precinct 1
+Federal Government Administrative Centre 62590
+Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is MaHTAS. Content may be
+reproduced in any number of copies and in any format or medium
+provided that a copyright acknowledgement to MaHTAS is included and
+the content is not changed, not sold, nor used to promote or endorse
+any product or service, and not used in an inappropriate or misleading
+context.
+e ISBN : 978-967-2887-67-6
+Available on the following websites:
+https://www.moh.gov.my
+https://www.acadmed.org.my
+https://www.moa-home.com/
+https://www.msgm.com.my/
+Also available as an app for Android and IOS platform: MyMaHTAS
+STATEMENT OF INTENT
+The clinical practice guideline (CPG) is meant to be a guide to
+clinical practice based on the best available evidence at the time of
+development. The guideline should not override the responsibility of
+the practitioners to make decision appropriate to the circumstances of
+the individual. This should be done in consultation with the patients and
+their families or guardians, taking into account the management options
+available locally.
+CPG on Management of Geriatric Hip Fracture
+UPDATING THE CPG
+These guidelines were issued in 2023 and will be reviewed in a
+minimum period of four years (2027) or sooner if there is urgent need
+to do so. When it is due for updating, the Chairman of the CPG or
+National Advisor of the related specialty will be informed about it. A
+discussion will be done on the need for a revision including the scope of
+the revised CPG. A multidisciplinary team will be formed and the latest
+systematic review methodology used by MaHTAS will be employed.
+Every care is taken to ensure that this publication is correct in every
+detail at the time of publication. However, in the event of errors or
+omissions, corrections will be published in the web version of this
+document, which is the definitive version at all times. This version can
+be found on the websites mentioned above.
+CPG on Management of Geriatric Hip Fracture
+TABLE OF CONTENTS
+No.
+Title
+Page
+Levels of Evidence and Formulation of Recommendation
+i
+Key Recommendations
+ii
+Guidelines Development and Objectives
+iv
+Development Group
+vii
+Review Committee
+viii
+External Reviewers
+ix
+Algorithm on Management of Geriatric Hip Fracture
+x
+1.
+INTRODUCTION
+1
+2.
+RISK FACTORS
+3
+3.
+SIGNS AND SYMPTOMS
+4
+4.
+DIAGNOSIS
+5
+5.
+REFERRAL CRITERIA
+6
+6.
+TREATMENT
+7
+6.1 Pre-operative Optimisation and Criteria for Safe Surgery
+7
+6.2 Safe Anaesthesia
+14
+6.3 Surgery
+16
+6.4 Rehabilitation
+24
+6.5
+Discharge Plan and Follow-up
+26
+7.
+PREVENTION
+27
+7.1 Primary prevention
+27
+7.2 Secondary prevention
+28
+8.
+IMPLEMENTING THE GUIDELINES
+29
+8.1 Facilitating and Limiting Factors
+29
+8.2 Potential Resource Implications
+29
+References
+31
+Appendix 1 Example of Search Strategy
+37
+Appendix 2 Clinical Questions
+38
+Appendix 3 Principles of Analgesic Prescriptions in the
+39
+Elderly and Pre-operative Analgesia in GHF
+Appendix 4 Comprehensive Geriatric Assessment (CGA)
+41
+for GHF
+Appendix 5 Guidelines on Time Intervals Before and
+42
+After Neuraxial Blocks Related to the Use of
+Antiplatelet Agents and Anticoagulants
+CPG on Management of Geriatric Hip Fracture
+TABLE OF CONTENTS
+No.
+Title
+Page
+Appendix 6 Assessment of Falls Risk Factors and
+46
+Interventions to Reduce Identified Risk Factors
+Algorithm on Risk Stratification, Assessment
+and Interventions for Community-Dwelling
+Older Adults
+List of Abbreviations
+48
+Acknowledgement
+49
+Disclosure Statement
+49
+Source of Funding
+CPG on Management of Geriatric Hip Fracture
+i
+Level
+I
+II-1
+II-2
+II-3
+III
+Study design
+Properly powered and conducted randomised controlled
+trial; well-conducted systematic review or meta-analysis of
+homogeneous randomised controlled trials
+Well-designed controlled trial without randomisation
+Well-designed cohort or case-control analysis study
+Multiple time series, with or without the intervention; results
+from uncontrolled studies that yield results of large magnitude
+Opinions of respected authorities, based on clinical experience;
+descriptive studies or case reports; reports of expert committees
+LEVELS OF EVIDENCE
+SOURCE: U.S. Preventive Services Task Force. U.S. Preventive Services Task Force Procedure
+Manual. Rockville, MD: USPSTF; 2015.
+FORMULATION OF RECOMMENDATION
+• In line with the new development in CPG methodology, the
+CPG Unit of MaHTAS is adapting Grading Recommendations,
+Assessment, Development and Evaluation (GRADE) in its
+work process. The quality of body of evidence and related effect
+size are carefully assessed/reviewed by the CPG DG.
+• Recommendations are formulated based on certainty of
+evidence and the wording used denotes the strength of
+recommendations. This takes into account:
+ quality and level of the evidence
+ balance of benefits and harms of the options
+ patient’s preference and values
+ resource implications
+ relevancy and applicability to the local target population
+• The more criteria being fulfilled, the more certain is the evidence
+leading to strong recommendations using the word “should”
+being considered. Otherwise, weak recommendations use the
+word “may” in proposing an action to be made.
+• In the CPG, a yellow box highlights important message(s) in
+the management while a blue box contains evidence-based
+recommendation(s) for the particular condition.
+CPG on Management of Geriatric Hip Fracture
+ii
+KEY RECOMMENDATIONS
+The following recommendations are highlighted by the CPG
+Development Group as the key recommendations that answer the
+main questions addressed in the CPG and should be prioritised for
+implementation.
+a.
+Diagnosis
+• Patients with suspected geriatric hip fracture (GHF) should have plain
+radiographs according to standard views to confirm the diagnosis.
+• Those with occult GHF (presence of symptoms and signs of hip
+fractures despite normal plain radiographs) should have computed
+tomography scan or magnetic resonance imaging done to rule out
+the fracture.
+b.
+Treatment
+• Analgesia should be prescribed adequately in geriatric hip fractures
+(GHF).
+ Peripheral nerve block may be considered if pain persists and
+resources are available.
+• Traction should not routinely be used in GHF.
+• Comprehensive geriatric assessment should be performed by the
+attending physician for all frail geriatric patients with hip fracture.
+• Oral nutritional support should be considered for all patients with
+GHF.
+• Patients with GHF should be given venous thromboembolism (VTE)
+prophylaxis (chemoprophylaxis and/or mechanical prophylaxis).
+ Low molecular weight heparin (LMWH) is the preferred choice for
+chemoprophylaxis peri-operatively.
+ Post-operatively VTE prophylaxis should be extended up to
+4 - 5 weeks with either an anti-coagulant (LMWH, direct oral
+anticoagulants, warfarin) or anti-platelet (aspirin only) according
+to individual deep vein thrombosis risk assessment.
+• Patients with GHF may be offered regional or general anaesthesia
+for hip surgery according to individual’s risk and benefit assessment.
+ Caution has to be taken to avoid hypotension intra-operatively.
+• Cemented stem should be offered for arthroplasty in displaced neck
+of femur fracture in geriatric patients.
+• Arthroplasty is the preferred choice in non-displaced fracture neck of
+femur in geriatric patients for early full weight-bearing ambulation.
+• In GHF,
+ cephalomedullary nail (CMN) or extramedullary device may be
+offered for stable intertrochanteric fracture.
+ CMN is the preferred choice for unstable intertrochanteric fracture.
+CPG on Management of Geriatric Hip Fracture
+iii
+• Surgery should be performed within 48 hours of admission in
+medically stable GHF patients.
+• Analgesia should be provided peri-operatively in GHF.
+ Multimodal analgesia is the preferred choice.
+• Early mobilisation should be advocated as early as on post-operative
+day 1, e.g. sitting at the edge of the bed, unless contraindicated.
+• Rehabilitation should be offered to all patients with GHF postoperatively with the aim to improve mobility and functional recovery.
+ A multidisciplinary approach is the preferred choice.
+c.
+Prevention
+• Geriatric population should be screened and assessed for falls risk.
+ Education about falls prevention should be offered accordingly.
+CPG on Management of Geriatric Hip Fracture
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+GUIDELINES DEVELOPMENT
+The members of the Development Group (DG) for these Clinical
+Practice Guidelines (CPG) were from the Ministry of Health (MoH) and
+the Ministry of Higher Education. There was active involvement from
+a multidisciplinary Review Committee (RC) during the process of the
+CPG development.
+This is the first edition of an evidence-based CPG on the Management
+of Geriatric Hip Fracture (GHF). Literature search was carried out
+using the following electronic databases: mainly Medline via Ovid and
+Cochrane Database of Systemic Reviews and others e.g. Pubmed
+(refer to Appendix 1 for Example of Search Strategy). The search was
+limited to literature published on humans, in English and last 15 years.
+In addition, the reference lists of all retrieved literature and guidelines
+were searched to further identify relevant studies. Experts in the field
+were also contacted for studies related to the issues addressed. All
+searches were conducted from 3 January 2022 to 28 February 2022.
+Literature searches were repeated for all clinical questions at the end of
+the CPG development process, allowing any relevant papers published
+before 1 July 2023 to be included. Future CPG updates will consider
+evidence published after this cut-off date. The details of the search
+strategy can be obtained upon request from the CPG Secretariat.
+References were also made to other guidelines on GHF as listed below:
+• American Academy of Orthopaedic Surgeons - Management of
+Hip Fractures in Older Adults Evidence-Based Clinical Practice
+Guideline (2021)
+• National Institute for Health and Care Excellence - Hip fracture:
+Management (2023)
+A total of five clinical questions were developed under four sections
+(diagnosis, risk factors, treatment and referral/follow-up). Members of
+the DG were assigned individual questions within the sections (refer to
+Appendix 2 for Clinical Questions). The DG members met 43 times
+throughout the development of these guidelines. All literature retrieved
+were appraised by at least two DG members using Critical Appraisal
+Skill Programme checklist when applicable, presented in evidence
+tables and further discussed in DG meetings. All statements and
+recommendations subsequently formulated were agreed upon by both
+the DG and RC. Where evidence was insufficient, the recommendations
+were made by consensus of the DG and RC. This CPG is based largely
+on the findings of systematic reviews and clinical trials, with local
+practices taken into consideration.
+CPG on Management of Geriatric Hip Fracture
+The literature used in these guidelines were graded using the US/
+Canadian Preventive Services Task Force Level of Evidence (2015),
+while the grading of recommendation was done using the principles of
+GRADE as much as possible (refer to the preceding page). The writing
+of the CPG strictly followed the requirements of Appraisal of Guidelines
+for Research and Evaluation (AGREE) II.
+Upon completion, the draft of the CPG was reviewed by
+external reviewers. It was also posted on the MoH Malaysia
+official website for feedback from any interested parties. The draft
+was finally presented to the Technical Advisory Committee
+for CPG, and the Health Technology Assessment and ClinicalPractice
+Guidelines Council MoH Malaysia for review and approval. Details
+on the CPG development methodology by MaHTAS can be obtained
+from the Manual on Development and Implementation of Evidencebased Clinical Practice Guidelines published in 2015 (available at
+https://www.moh.gov.my/moh/resources/CPG_MANUAL_MAHTAS.pdf ).
+CPG on Management of Geriatric Hip Fracture
+OBJECTIVES
+The objective of this CPG is to provide evidence-based recommendations
+on the management of GHF on the following aspects:
+a) diagnosis and risk factors
+b) treatment
+c) referral and follow-up
+CLINICAL QUESTIONS
+Refer to Appendix 2
+TARGET POPULATION
+Inclusion Criteria
+• Patients with suspected and confirmed GHF (evidence on patients
+aged 60 years old and above).
+TARGET GROUP/USERS
+This document is intended to guide health professionals and relevant
+stakeholders in primary and secondary/tertiary care in the management
+of GHF, including:
+i. doctors
+ii. allied health professionals
+iii. trainees and medical students
+iv. policymakers
+v. patients and their advocates
+vi. professional societies
+HEALTHCARE SETTINGS
+Primary and secondary/tertiary care settings
+CPG on Management of Geriatric Hip Fracture
+vii
+DEVELOPMENT GROUP
+Chairperson
+Dr. Mohd Yusof Ibrahim
+Consultant Orthopaedic Surgeon
+Hospital Raja Perempuan Zainab II
+Kelantan
+Members (in alphabetical order)
+Dr. Abdul Rahman Ab Hamid
+Consultant Rehabilitation Physician
+Hospital Rehabilitasi Cheras
+Kuala Lumpur
+Dr. Chung Wai Mun
+Emergency Physician
+Hospital Taiping, Perak
+Dr. Elizabeth Chong Gar Mit
+Consultant Geriatrician
+Hospital Kuala Lumpur, Kuala Lumpur
+Assoc. Prof. Dr. Khor Hui Min
+Senior Lecturer & Consultant Geriatrician
+Faculty of Medicine, Universiti Malaya
+Kuala Lumpur
+Dr. Kunalan A/L Ganthel @ Annamalai
+Consultant Arthroplasty Surgeon
+Hospital Kuala Lumpur, Kuala Lumpur
+Assoc. Prof. Dr. Loh Pui San
+Senior Lecturer & Senior Consultant
+Anaesthesiologist
+Faculty of Medicine, Universiti Malaya
+Kuala Lumpur
+Dr. Mohd. Aminuddin Mohd. Yusof
+Head of Clinical Practice Guidelines Unit
+& Public Health Physician
+Malaysian Health Technology
+Assessment Section, Ministry of Health,
+Putrajaya
+Dr. Muhammad Azrin Mohd Asihin
+Consultant Orthopaedic Surgeon
+Hospital Shah Alam, Selangor
+Dr. Nur Hanani Mat Daud
+Senior Principal Assistant Director
+Malaysian Health Technology Assessment
+Section, Ministry of Health, Putrajaya
+Dr. Rafidah Mohd Rafie
+Family Medicine Specialist
+Klinik Kesihatan Setapak, Kuala Lumpur
+Dr. Raiha Hasni Mohd Hanaffi
+Rehabilitation Physician
+Hospital Sungai Buloh, Selangor
+Dr. Rizal Abdul Rani
+Lecturer & Consultant Orthopaedic Surgeon
+Faculty of Medicine, Universiti Kebangsaan
+Malaysia, Kuala Lumpur
+Dr. Sheliza Jamil
+Consultant Anaesthesiologist
+Hospital Cyberjaya, Selangor
+Dr. Zainura Che Isa
+Consultant Acute Internal Medicine
+Hospital Sultan Abdul Halim, Kedah
+CPG on Management of Geriatric Hip Fracture
+REVIEW COMMITTEE
+The draft guidelines were reviewed by a panel of experts from both
+public and private sectors. They were asked to comment primarily on
+the comprehensiveness and accuracy of the interpretation of evidence
+supporting the recommendations in the guidelines.
+Chairperson
+Dato’ Dr. Mohammad Anwar Hau Abdullah
+Consultant Orthopaedic Surgeon
+Hospital Raja Perempuan Zainab II
+Kelantan
+Members (alphabetical order)
+viii
+Dr. Azahirafairud Abdul Rahim
+Acute Internal Medicine Physician
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. C. Sankara Kumar Chandrasekaran
+Lecturer & Consultant Orthopaedic
+Surgeon & Traumatologist
+Faculty of Medicine, Universiti Malaya
+Kuala Lumpur
+Dr. Faris Kamaruddin
+Consultant Orthopaedic Surgeon
+Hospital Umum Sarawak, Sarawak
+Dr. Izzuna Mudla Mohamed Ghazali
+Deputy Director &
+Public Health Physician
+Malaysian Health Technology
+Assessment Section, Ministry of Health
+Putrajaya
+Dr. Shah Jahan Mohd Yussof
+Consultant Trauma Physician
+Hospital Sg. Buloh, Selangor
+Dr. Suhail Suresh
+Consultant Orthopaedic Surgeon
+Sunway Medical Centre, Selangor
+Dr. Nagammai a/p Thiagarajan
+Consultant Family Physician
+Klinik Kesihatan Kuala Lumpur
+Kuala Lumpur
+Dr. Yau Weng Keong
+Consultant Geriatrician
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Yusniza Mohd Yusof
+Head of Rehabilitation Service &
+Consultant Rehabilitation Physician
+Hospital Rehabilitasi Cheras, Kuala Lumpur
+Dr. Zalina Abd Razak
+Head of Anaesthesiology Service &
+Consultant Anaesthesiologist
+Hospital Kuala Lumpur, Kuala Lumpur
+CPG on Management of Geriatric Hip Fracture
+EXTERNAL REVIEWERS (in alphabetical order)
+The following external reviewers provided feedback on the draft:
+ix
+Dr. Hannah Seymour
+Consultant Orthogeriatrician
+Clinical Director Electronic Medical
+Program
+WA Health, Perth, Australia
+Professor Dr. Howe Tet Sen
+Consultant Orthopaedic Trauma
+Surgeon
+Singapore General Hospital, Singapore
+Dr. Jamal Azmi Mohamad
+Consultant Orthopaedic Surgeon
+KPJ Selangor Specialist Hospital
+Selangor
+Professor Datin Dr. Lydia Abd Latif
+Consultant Rehabilitation Physician
+ReGen Rehab Hospital, Selangor
+Professor Dr. Matthew Costa
+Professor of Orthopaedic Trauma
+University of Oxford, Oxford
+United Kingdom
+Assoc. Prof. Dr. Mohd. Amin Mohd.
+Mokhtar
+Head of Department, Lecturer &
+Consultant Emergency Physician
+Faculty of Medicine, University
+Teknologi MARA, Selangor
+Dr. Omar Sulaiman
+Head of Department &
+Senior Consultant Anaesthesiologist
+Hospital Sultanah Aminah, Johor
+Dr. Tan Wan Chuan
+Emergency Physician
+Hospital Raja Permaisuri Bainun, Perak
+Dr. Teinny Suryadi
+Physical Medicine &
+Rehabilitation Physician
+Rumah Sakit Hermina Podomoro
+Jakarta, Indonesia
+Dr. Terence Ong Ing Wei
+Senior Lecturer & Consultant Geriatrician
+Faculty of Medicine, Universiti Malaya
+Kuala Lumpur
+Assoc. Prof. Dr. Ti Lian Kah
+Senior Consultant Anaesthesiologist
+National University of Singapore, Singapore
+Dr. S. Kantha Ruban Sivalingam
+General Practitioner & Director
+Kantha Medical Group, Kuala Lumpur
+Dr. Saadon Ibrahim
+Head of Orthopaedic Service &
+Consultant Orthopaedic & Musculoskeletal
+Oncology Surgeon
+Hospital Sultan Ismail, Johor
+Dr. Sathiya Moorthi Poonosamy
+Patient Advocate
+Dr. Vijayan P. Panirselvam
+Internal Medicine Consultant (Acute Internal
+Medicine)
+Hospital Tengku Ampuan Rahimah,
+Selangor
+Dr. Wong Ping Foo
+Family Medicine Specialist
+Klinik Kesihatan Cheras Baru
+Kuala Lumpur
+CPG on Management of Geriatric Hip Fracture
+ALGORITHM ON MANAGEMENT OF GERIATRIC HIP FRACTURE
+x
+Suspected hip fracture case*
+arrives at Emergency and Trauma
+Department (ETD) from scene of
+injury/home/healthcare facilities
+Confirmed hip fracture
+case* referred from other
+healthcare facilities
+Assessment by ETD team (which include haemodynamic
+status, X-ray of pelvis/femur/chest, blood investigations, etc.)
+Lifethreatening
+medical
+conditions
+Refer and
+treat
+accordingly
+at Intensive
+Care
+Unit/High
+Dependency
+Unit
+No hip fracture
+Hip fracture
+confirmed by x-ray
+Possible occult hip
+fracture (normal x-ray)
+Refer to
+relevant
+disciplines
+Refer to orthopaedics
+Computed tomography
+scan/magnetic resonance
+imaging required and done
+Ward admission and
+pre-operative optimisation
+(medical/anaesthesia)
+Fracture
+Treat
+accordingly
+Early multidisciplinary care
+Operating theatre for
+surgery
+Post-operative
+management (orthopaedic
+ward/HDW/ICU)
+In-patient rehabilitation
+Discharge with
+follow-up plan
+*Stable cases i.e. without
+life-threatening medical
+conditions; unstable cases
+should be referred to
+emergency department
+No
+Yes
+CPG on Management of Geriatric Hip Fracture
+1. INTRODUCTION
+A hip fracture is a break in the proximal part of the femur bone and/
+or around the hip joint. In older adults, it usually occurs following low
+energy trauma. The decline in bone mineral density and increase in
+frequency of fall among the older adults are the main reasons for the
+high incidence of hip fracture among them.
+The Centers for Disease Control and Prevention, United States of
+America (CDC) states that more than 300,000 people >65 years old are
+hospitalised for hip fractures yearly. More than 95% of these fractures
+are caused by falls and women account for three-quarters of all cases.1
+Based on 2004 - 2006 figures, the residual lifetime risk of hip fracture
+≥50 years of age in Japan was estimated to be 5.6% for men and 20%
+for women. The highest incidence of hip fractures from Asia had been
+reported from Singapore where the annual rates were 152 in men
+and 402 in women per 100,000 based on 1991 - 1998 data.2, level III In
+Malaysia, a comprehensive study on 56 public and private hospitals
+between 1996 to 1997 showed an overall incidence of hip fracture of
+90/100,000 population aged 50 years and above.3, level III
+In an annual report by National Orthopedic Registry Malaysia (NORM)
+Hip Fracture 2009, analysis on patient above 50 years old with GHF
+revealed the incidence being highest among those in 70 - 79 years old
+age group which accounted 41.4% of all cases. The incidence was also
+higher in women than men with the ratio of 2:1. In terms of ethnicity,
+majority of cases were Chinese (44.5%) followed by Malays (40%) and
+Indians (13.9%).4, level III
+Hip fractures are associated with increased morbidity and mortality.
+Individuals with hip fractures utilise significant healthcare resources
+as their hospital treatments consume large number of inpatient beddays. Majority of them require surgical fixation and many on discharge
+need some form of support for daily living.5 - 6, level III Despite constituting
+only 14% of osteoporosis-related fractures, hip fractures account for
+nearly 75% of the economic burden related to osteoporotic fracture.
+These fractures are associated with significant morbidity and mortality,
+with one-year mortality after the fracture approaching 30%.7 - 8, level II-2; 9,
+level III In a retrospective analysis of patients with hip fractures admitted
+to the Department of Orthopaedics in a Singapore tertiary hospital,
+the mean cost of hospitalisation was SGD 13,313.81 per patient.10, level III
+In general, the definitive management for geriatric hip fracture (GHF)
+is surgery. The type of surgery performed depends on type of fracture
+and patient’s pre-morbid functional status.11, level III Elderly patients with
+hip fractures have complex medical, surgical and rehabilitation needs,
+CPG on Management of Geriatric Hip Fracture
+and a well-coordinated multidisciplinary team approach is essential for
+the best outcomes.12, level III
+Similarly in Malaysia, the speed of increase in both proportion and
+absolute numbers of older adults is unprecedented. In 2010, only 5%
+(1.43 million) of the population were 65 years and over but by 2040 this
+will increase to 14.5% (6.02 million). Many of the older adults will also
+live longer with the average life expectancy projected to increase from
+73.6 to 78.9 in men and 78.5 to 82.9 in women from 2020 to 2050.13
+In view of the increased number of ageing populations, the risk of
+hip fractures among them is anticipated which will impact the health
+services in country.
+Thus, the development of clinical practice guidelines (CPG) on the
+management of GHF is timely to reduce variation in practice. It will
+be the first evidence-based CPG that will guide healthcare providers
+locally on the best practice in the management of the condition.
+Recommendations will emphasise the importance of early surgery
+and coordinating care through a multidisciplinary approach to help the
+patients recover fast and regain their mobility.
+CPG on Management of Geriatric Hip Fracture
+2. RISK FACTORS
+Identifying risk factors for GHF is important as it can help to prevent the
+occurrence of the fracture in in the susceptible groups. Established risk
+factors are:14
+• increasing age
+• low bone density
+• impaired gait and balance
+• poor vision
+• hazardous living environments (e.g. cluttered spaces, loose rugs
+and mats or handrails and grab bars where appropriate)
+Other risk factors are as below:
+• women have a higher risk of hip fracture primarily due to the
+decline in oestrogen levels after menopause15, level III
+• history of previous fractures, particularly in the hip or spine15, level III
+• certain medications e.g. glucocorticoids, proton pump inhibitors
+and selective serotonin reuptake inhibitors.16, level III
+• chronic heavy alcohol consumption15, level III
+• cognitive impairments e.g. dementia15, level III
+In two large meta-analyses of observational studies, the following were
+found to be significant risk factors for a contralateral hip fracture in
+elderly patients with initial hip fracture:
+• female17 - 18, level II-2
+• advanced age18, level II-2
+• initial trochanteric fracture18, level II-2
+• osteoporosis17 - 18, level II-2
+• living in institutions17, level II-2
+• low vision17, level II-2
+• dementia17, level II-2
+• respiratory diseases17, level II-2
+The quality of primary studies in the two meta-analyses was moderate
+to high. The heterogeneity was mainly insignificant.17 - 18, level II-2
+In a recent meta-analysis of cohort studies, a sub-group analysis
+showed that sarcopenia was a risk factor for hip fracture in elderly
+(HR=1.89, 95% CI 1.16 to 3.08).19, level II-2 Apart from that, a systematic
+review of 11 studies showed that hand grip strength among elderly
+patients with hip fracture was significantly lower than those without hip
+fractures.20, level II-2
+Other evidence which included a geriatric population increased risk of
+hip fracture in those with:
+• lower Alternative Healthy Eating Index scores21, level II-2
+• current cigarette smokers22, level II-2
+CPG on Management of Geriatric Hip Fracture
+• Modifiable risk factors for GHF e.g. impaired gait and balanced, low
+vision, low bone density, alcohol consumption, cigarette smoking
+and hazardous living environment are important to be identified and
+addressed.
+3. SIGNS AND SYMPTOMS
+Patients with GHF often present with a history of fall and may complain
+of:
+• hip pain and/or
+• inability to weight bear or walk
+Patients with occult GHF may present with vague pain at the buttock,
+groin, knee or thigh. Those with minimally impacted fracture may
+continue to bear weight or walk.
+The principles of physical examination in GHF are to look, feel and
+move. Examinations may reveal the following:
+• the affected lower limb may be externally rotated and shortened
+(in a displaced hip fracture)
+• bruising, deformity, swelling and ecchymosis can occur at the site
+of fracture (in intertrochanteric and subtrochanteric fractures)
+• palpation on the affected hip joint may elicit localised tenderness
+• patient cannot perform straight leg raising
+• movement of the affected hip joint causes pain
+• Geriatric patients with hip pain following a fall need to be assessed
+to rule out hip fracture.
+CPG on Management of Geriatric Hip Fracture
+4. DIAGNOSIS
+• Diagnosis of GHF is confirmed by imaging investigations.
+ Plain radiographs are the main imaging modalities for patients
+with suspected hip fractures.
+• The majority of GHF are easily identified on plain radiographs;
+however, a normal plain radiograph does not exclude a fractured hip.
+The plain radiographs of the affected hip should include the following
+views:
+• anterior-posterior (AP) view of femur
+• lateral view of femur
+• AP pelvis view (with 15◦ lower limb internal rotation in neutral
+abduction-adduction)
+Comparison with the unaffected hip can be helpful.
+However, patients with highly suspicious hip fracture, despite normal
+radiographs, may require alternative forms of imaging. They are those
+with:
+• persistent hip pain after fall
+• inability to bear weight, pain on attempted straight leg raising,
+passive rotation or axial loading tests
+In occult GHF, computed tomography (CT) is the modality of choice as
+it is widely available locally even though magnetic resonance imaging
+(MRI) has higher accuracy. A cross-sectional study showed that CT
+scan detected 20% femoral neck fractures and 10.7% isolated greater
+trochanter fractures in geriatric patients with radiologically occult
+(normal plain radiograph) hip fractures.23, level III This is supported by a
+recent a meta-analysis of 35 cohort studies that showed CT scan was
+able to detect 39% occult GHF.24, level II-2
+National Institute for Health and Care Excellence (NICE) recommends
+MRI to be offered if hip fracture is suspected despite negative
+plain radiograph of the hip. If it is not available within 24 hours or is
+contraindicated, CT scan should be considered.25
+CPG on Management of Geriatric Hip Fracture
+Recommendation 1
+• Patients with suspected geriatric hip fracture (GHF) should have
+plain radiographs according to standard views to confirm the
+diagnosis.
+• Those with occult GHF (presence of symptoms and signs of hip
+fractures despite normal plain radiographs) should have computed
+tomography scan or magnetic resonance imaging done to rule out
+the fracture.
+5. REFERRAL CRITERIA
+There is no retrieval evidence on referral criteria of GHF. The CPG DG
+opines that the following criteria should be used to refer to orthopaedic
+services e.g.:
+• confirmed GHF (by imaging) for further management
+• suspected occult GHF (normal plain radiographs) for confirmation
+of diagnosis
+• late presentation of GHF
+CPG on Management of Geriatric Hip Fracture
+6. TREATMENT
+The definitive treatment for GHF is surgical intervention with the aims
+to control pain, allow early mobilisation and good functional outcomes.
+Non-surgical or conservative treatment is rarely an option and only
+considered when the risk of the surgery outweighs benefits (e.g.
+approaching end of life, severe acute medical illness, etc.) or patient’s
+refusal. However, such treatment is associated with prolonged pain.
+A systematic review revealed that non-surgical treatment following hip
+fracture were associated with substantially higher complication and
+mortality compared with surgery.26, level I Hence, the decision for surgery
+should be re-evaluated if patient’s medical condition improves.
+All patients with GHF should receive early multidisciplinary care to
+ensure optimal analgesia, immobilisation and appropriate medical
+management.
+6.1 Pre-operative Optimisation and Criteria for Safe Surgery
+a.
+Analgesics
+Adequate analgesia is key in GHF care and should be initiated at
+the first encounter. Unfortunately, pain is often undertreated and may
+increase the risk of other medical conditions including delirium.27, level II-2
+Treatment of pain is a combination of pharmacological and nonpharmacological modalities. The approach to management of acute pain
+is as stated in the Ministry of Health’s “Pain as the 5th Vital Sign” guideline
+with strong emphasis on pain assessment and pharmacotherapy. World
+Health Organization (WHO) analgesic pain ladder is used to guide for
+pain management as choice of pharmacological agents in elderly is
+highly individualised.28
+In the Guidelines of Pain Management in the Elderly by MoH, the
+followings were recommended:29
+• paracetamol is considered as the first-line treatment for acute pain
+in older patients due to its effectiveness and good safety profile
+• opioid therapy may be considered for patients with moderate or
+severe pain
+• selective cyclooxygenase-2 (COX-2) inhibitors must be used with
+caution in older people
+• non-selective non-steroidal anti-inflammatory drugs may be
+cautiously used if other safer treatments have not provided
+adequate pain relief
+If pain persists and resources are available, regional nerve blocks
+with ultrasound guidance can be administered to reduce pain and
+minimise sedation and other potential complications caused by opioids.
+In an RCT on GHF comparing pre-operative nerve stimulator-guided
+femoral nerve block and fascia iliaca compartment block, the result
+showed:30, level I
+CPG on Management of Geriatric Hip Fracture
+• nerve blocks contributed in mean reduction of pain score
+• femoral nerve block was more effective in pain reduction and also
+required less morphine
+A recent Cochrane systematic review compared peripheral nerve blocks
+(PNBs) used as pre- and post-operative analgesia or as a supplement
+to general anaesthesia with no nerve block (or sham block) for adults
+with hip fracture. PNBs was shown to be effective in reducing:31, level I
+• pain on movement within 30 minutes after block placement
+(SMD= -1.05, 95% CI -1.25 to -0.86)
+• risk of acute confusional state (RR=0.67, 95% CI 0.50 to 0.90)
+• risk of chest infection (RR=0.41, 95% CI 0.19 to 0.89)
+• time to first mobilisation (MD= -10.80 hours, 95% CI -12.83 to -8.77)
+These were based on GRADE assessment where the evidence was of
+moderate to high certainty quality.
+Training, credentialing and privileging are required to perform the nerve
+blocks procedures.
+Recommendation 2
+• Analgesia should be prescribed adequately in geriatric hip fractures.
+ Peripheral nerve block may be considered if pain persists and
+resources are available.
+Refer to Appendix 3 on Principles of Analgesic Prescriptions in the
+Elderly and the choice of analgesia that can be offered in GHF.
+b.
+Acute care and immobilisation on early admission
+GHF patients should be immobilised in bed by resting the affected
+limb in a comfortable position to reduce pain. Traditionally this is done
+by applying skin traction over the affected leg while awaiting surgery.
+However, current evidence shows no advantages of skin traction as
+stated below.
+• A Cochrane systematic review of 11 RCTs found that routine use
+of traction for GHF did not appear to have any benefit with regards
+to pain relief nor analgesia use prior to surgery and reduced
+incidence of pressure sores. The review used mainly evidence
+published before 2006. The quality of primary papers were
+generally low.32, level I
+• In an RCT on GHF comparing skin traction against non-traction
+also found no difference in pre-operative pain score, postoperative analgesia and quality of reduction.33, level I
+American Association of Orthopaedic Surgeon (AAOS) guidelines
+recommend that pre-operative traction should not routinely be used for
+patients with hip fracture. Only in some instances, the traction may be
+required e.g. specific cases with peri-trochanteric fractures.14
+CPG on Management of Geriatric Hip Fracture
+Recommendation 3
+• Traction should not routinely be used in geriatric hip fracture.
+c.
+Early multi-disciplinary care
+Older adults who sustain hip fractures are often of advanced age
+and, may have cognitive and functional impairment with multiple comorbidities. The risk of perioperative complications is also higher in this
+group of vulnerable individuals. Hence, multidisciplinary care involving
+orthopedic surgeons, geriatricians and others is important in improving
+the outcomes of hip fracture surgery.
+The orthogeriatric care is a multidisciplinary care model with systematic
+orthopedic fracture management and geriatric optimisation of patients
+peri-operatively. The orthogeriatric input also involves multidisciplinary
+comprehensive geriatric assessment by relevant health providers
+including allied health professionals to tailor treatment according to
+patient’s needs.
+A prospective cohort study showed that orthogeriatric approach
+improved hip fracture outcomes e.g. shorter time to surgery (OR=2.62,
+95% CI 1.40 to 4.91), shorter length of hospitalisation (p=0.045) and
+lower one-year mortality (OR=0.31, 95% CI 0.10 to 0.96) compared
+with standard orthopaedic care.34, level II-2
+•
+Comprehensive geriatric assessment
+Comprehensive geriatric assessment (CGA) is a multidisciplinary
+diagnostic and treatment process that addresses the medical,
+psychosocial and functional limitations of the frail older patients. This
+is performed with the help of a coordinated team to provide a rapid
+optimisation of fitness for surgery, early identification of individual goals
+to recover independence and the sustenance of long-term well-being.
+A Cochrane systematic review showed that CGA reduced delirium
+rates (RR=0.75, 95% CI 0.60 to 0.94) and discharge to an increased
+level of care (RR=0.71, 95% CI 0.55 to 0.92) for the older patients with
+hip fracture during their hospitalisation.35, level I In another meta-analysis
+on a similar group of study population admitted to a surgical service,
+interdisciplinary approach, compared with routine orthopaedic care,
+showed that patients post-operatively:36, level I
+ regained the same activities of daily living (ADL) performance
+level as before fracture at three months (OR=2.34, 95% CI 1.53
+to 3.29) and 12 months (OR=1.76, 95% CI 1.11 to 2.78)
+ regained the same level of walking ability at three months
+(OR=1.84, 95% CI 1.42 to 2.39) and 12 months (OR=2.17, 95%
+CI 1.52 to 3.10)
+CPG on Management of Geriatric Hip Fracture
+ were discharged from hospital to the same place of residence
+(OR=1.67, 95% CI 1.26 to 2.21)
+However, randomised controlled trials (RCTs) had illustrated that the
+use of CGA in patient above 60 years old with GHF did not show any
+difference in length of stay37, level I and in-patient morbidity or mortality
+up to 12 months of follow-up post-surgery.36, level I There was also no
+difference with regards to readmission rates.35, level I
+Refer to Appendix 4 on Components of CGA.
+Recommendation 4
+• Comprehensive geriatric assessment should be performed by the
+attending physician for all frail* geriatric patients with hip fracture.
+*Frailty is an aging-related syndrome of physiological decline,
+characterised by marked vulnerability to adverse health outcomes.38 - 39, level III
+•
+Assessment of delirium
+Delirium is a common complication among older patients with hip
+fractures as these patients often suffer from various co-morbidities
+and have poor compensatory capacity. The assessment of delirium
+can be conducted using validated tools e.g. 4AT Delirium Detection
+Tool. Meta-analyses of cohort studies on older patients with post-hip
+fracture surgery showed that significant predictors for incident delirium
+included those aged >80 years old and living in institutional residential
+care.40 - 41, level II-2
+Risk of delirium increases in those with co-morbidities e.g.
+visual impairment, depression, stroke,40, level II-2 cardiac failure and
+dementia.40 - 41, level II-2 In addition, those with post-operative infection
+e.g. pneumonia or urinary tract infection40, level II-2 and the use of
+morphine41, level II-2 also have increased risk of developing delirium.
+Therefore, it is important to closely monitor for delirium and institute
+delirium prevention and treatment strategies for the older patients with
+hip fracture, as it has been shown that patients with hip fracture who
+develop delirium have an increased perioperative, 30-day and overall
+mortality at follow-up.42, level II-2
+•
+Optimum nutritional support
+Optimal nutrition is important for recovery following a hip fracture.
+Older adults with hip fractures are often undernourished or at risk
+of malnutrition on admission to the hospital. Poor nutritional status
+is associated with unfavourable outcomes following hip fracture e.g.
+increased risk of post-operative complications, impaired post-operative
+rehabilitation and functional recovery, and mortality.
+CPG on Management of Geriatric Hip Fracture
+Mini Nutritional Assessment-Short Form (MNA-SF) is a nutritional
+assessment tool that can predict mortality in older adult undergoing
+surgery for hip fractures as shown by a meta-analysis of cohort studies
+where patients with low MNA-SF scores had a higher risk of mortality
+compared with those with higher scores (OR=3.61, 95% CI 1.70 to
+7.70).43, level II-2
+Two meta-analyses of low grade RCTs reported that patients with hip
+fracture who received oral nutritional supplementation had reduced
+post-operative complications compared with those receiving standard
+care. The interventions were:44 - 45, level I
+ oral multinutrient feeds that provided non-protein energy, protein,
+vitamins and minerals given within the first month following hip
+fracture (RR=0.71, 95% CI 0.59 to 0.86)
+ protein-based oral nutrition supplements given pre-operatively
+(OR=0.48, 95% CI 0.26 to 0.89)
+In terms of mortality, there were no significant differences in the risk
+reported between the two groups.
+NICE guidelines on nutrition support for adults recommends that
+healthcare professionals should ensure that overall nutrient support is
+offered peri-operatively to all patients.46
+Recommendation 5
+• Oral nutritional support should be considered for all patients with
+geriatic hip fractures.
+•
+Safe haemoglobin level
+Hip fractures put the patients at higher risk of blood loss as a
+consequence of the fracture itself or from the surgical intervention
+rendered to them. Judicious use of red blood cell transfusion is pertinent
+to minimise the risk related to this procedure.
+A Cochrane systemic review of six RCTs compared the liberal red
+blood cell transfusion thresholds (10 g/dL) and restrictive transfusion
+thresholds (8 g/ dL) in surgery for hip fracture. The analysis on patients
+with mean age range of 81 - 87 years old showed:47, level I
+ no difference in mortality post-hip fracture surgery -
+- at 30 days (RR=0.92, 95% CI 0.67 to 1.26)
+- at 60 days (RR=1.08, 95% CI 0.80 to 1.44)
+ no difference in functional recovery at 60 days (RR=1.00, 95% CI
+0.87 to 1.15)
+ no difference in post-operative morbidity e.g.
+- thromboembolism stroke
+- wound infection
+- respiratory infection
+- new diagnosis of congestive heart failure
+CPG on Management of Geriatric Hip Fracture
+However, the study found a 41% lower risk of myocardial infarction in
+the liberal group (RR=0.59, 95% CI 0.36 to 0.96). The primary papers
+were graded as low quality.
+• Ideally, a haemoglobin (Hb) level of ≥10 g/dL is aimed for surgery
+on GHF. However, patients with Hb 8 - 10 g/dL may undergo the
+surgery if they are asymptomatic of anaemia and with no underlying
+ischemic heart disease, provided that blood is available in operating
+theatre.
+•
+Prophylaxis for venous thromboembolism
+Perioperative immobility in GHF places the patients at risk of developing
+venous thromboembolism (VTE) which comprises of deep venous
+thrombosis and pulmonary embolism. These may lead to significant
+mortality, morbidity and financial burdens to the patient and the
+carers. Existing international guidelines recommend the use of either
+mechanical prophylaxis with intermittent pneumatic compression and
+potent chemoprophylaxis especially in those with high risk of VTE.
+However, there is a scarcity of evidence on effectiveness and safety of
+any specific chemoprophylaxis.14, 48, 49
+An RCT compared the effectiveness and safety of rivaroxaban, low
+molecular weight heparin (LMWH) and sequential therapy of LMWH and
+rivaroxaban in post-surgery GHF. There was no significant difference in
+the incidence of VTE between the three arms. However, both LMWH
+therapy and sequential therapy had significantly lower post-operative
+drainage.50, level I
+In a large cohort study on the use of anticoagulants in post-GHF
+surgery, enoxaparin and apixaban had no significant difference in
+90-day VTE risk, whereas warfarin had greater odds of 90-day VTE
+compared with apixaban (OR=1.58, 95% CI 1.28 to 1.96). Apixaban
+also had significantly half the odds of transfusions compared with
+enoxaparin.51, level II-2
+In the local CPG on Prevention and Treatment of Venous
+Thromboembolism, LMWH has been recommended as one of the
+chemoprophylaxis in patients with hip fracture surgery.52 Recent
+guidelines suggest duration of post-operative VTE prophylaxis to be 4 -
+5 weeks for either an anti-coagulant (LMWH, direct oral anticoagulants
+(DOACs), warfarin) or anti-platelet (aspirin only) according to individual
+deep vein thrombosis risk assessment.53, 54
+There is no evidence on prophylaxis VTE on GHF alone. The
+recommendation formulated is based on extrapolation of evidences on
+other study population.
+CPG on Management of Geriatric Hip Fracture
+Recommendation 6
+• Patients with geriatric hip fracture should be given venous
+thromboembolism (VTE) prophylaxis (chemoprophylaxis and/or
+mechanical prophylaxis)
+ Low molecular weight heparin (LMWH) is the preferred choice for
+chemoprophylaxis peri-operatively.
+ Post-operatively VTE prophylaxis should be extended up to
+4 - 5 weeks with either an anti-coagulant (LMWH, direct oral
+anticoagulants, warfarin) or anti-platelet (aspirin only) according
+to individual deep vein thrombosis risk assessment.
+•
+Plan for post-operative care
+Patients with GHF usually have multiple co-morbidities, hence the postoperative care after their major hip surgery is an important consideration
+to optimise medical care. However, the decision to transfer these
+patients post-operatively to a critical care setting e.g. Intensive Care
+Unit (ICU) usually causes delay to the surgery because of limited
+resources in most healthcare institutions. Therefore, evidence plays an
+important role to identify patients who truly require ICU admission postoperatively that will benefit their clinical outcomes.
+A large retrospective cohort study in a critical care unit in the United
+Kingdom investigated the epidemiology, critical care interventions
+and outcomes of patients with hip fracture. The significant reasons
+for critical care admission (respiratory and cardiovascular support)
+and its timing (before surgery or two days after surgery) were major
+determinants of mortality. In fact, many patients admitted to this unit
+required no organ support but monitoring and, attention to oxygenation
+and fluid balance.55, level II-2
+Another prospective cohort study identified that American Society of
+Anesthesiologists (ASA) status and prolonged ICU stay (>3 days) were
+independent risk factors affecting 6- and 12-month mortality, and nursing
+care dependency.56, level II-2 There was also no significant difference in
+early post-operative mortality rates between patients admitted to ICU
+vs orthopaedic ward after surgery on ASA III patients operated under
+spinal anaesthesia when patients had been evaluated thoroughly in the
+pre-operative period.57, level III
+Identifying risk factors for ICU admission is important. A study found
+that age (≥80 years), pre-operative pulmonary disease, peri-operative
+anaemia (haemoglobin <8 g/dL), peri-operative lactic acid level (>2
+mmol/L), ASA classification (III/IV) and types of anaesthesia were
+independent risk factors for GHF requiring transfer to ICU postoperatively. Using these variables, a risk stratification index (RSI) was
+developed to guide ICU assignment. Patients with RSI scores of >4
+CPG on Management of Geriatric Hip Fracture
+were required for ICU admission. Thus, using this index significantly
+reduced the number of patients transferred to ICU post-operatively
+and unplanned transfers from the general ward to the ICU within 24
+hours.58, level III
+In a large retrospective cohort, a clinical nomogram was developed
+using significant predictors of unplanned ICU admission after hip
+fracture surgery which were age, coronary heart disease, chronic heart
+failure, chronic obstructive pulmonary disease, Parkinson disease,
+serum creatinine and albumin concentration. It was validated and had
+shown good discrimination on unplanned ICU admission with AUC of
+0.96 (95% CI 0.91 to 0.99).59, level II-2
+• Pre-operative evaluation of GHF patients is important in identifying
+those who require ICU admission post-operatively. Risk factors e.g.
+increasing age, cardiac and pulmonary disease, are important to be
+identified in determining the need for ICU admission.
+6.2 Safe Anaesthesia
+a.
+Methods of anesthesia
+In GHF patients, method of anesthesia is important in assisting a safe
+surgery. The option for either regional or general anesthesia is often
+debated as the method of choice for lowest mortality and post-operative
+complications.
+Two studies comprising of a Cochrane systematic review of moderate
+quality RCTs and a large RCT compared regional anesthesia using
+neuroaxial block and general anesthesia and, found no significant
+difference in post-operative short-term mortality. Other secondary
+outcomes e.g pneumonia, acute myocardial infarction, cerebrovascular
+accident, acute confusional state and ability to walk independently were
+also not significantly different.60 - 61, level I
+NICE guidelines recommend to offer a choice of spinal or general
+anaesthesia after discussing the risks and benefits to the patients.25
+However, careful delivery of anaesthesia may be of greater importance
+than the type of anaesthesia delivered.62, level III
+In a secondary analysis of outcomes on a large post-surgery hip fracture,
+the risk of death increased as blood pressure fell. The OR for mortality
+within five days after surgery was 0.983 (95% CI 0.973 to 0.994) for
+each 5 mmHg intra-operative increment in systolic blood pressure
+and 0.980 (98% CI 0.967 to 0.993) for each mmHg increment in mean
+pressure. The equivalent ORs for 30-day mortality were 0.968 (95% CI
+0.951 to 0.985) and 0.976 (95% CI 0.964 to 0.988) respectively.63, level III
+CPG on Management of Geriatric Hip Fracture
+Recommendation 7
+• Patients with geriatric hip fracture may be offered regional or general
+anaesthesia for hip surgery according to individual’s risk and benefit
+assessment.
+ Caution has to be taken to avoid hypotension intra-operatively.
+b.
+Patients on anti-platelets
+Patients with GHF and on anti-platelets, especially clopidogrel, are at
+risk of bleeding during surgery. Surgery will usually be delayed for 5
+- 7 days after withholding the drug. However, delaying the surgery is
+associated with increased risks of complications and mortality.
+A meta-analysis of 24 cohort studies looked into the outcomes of surgery
+on GHF patients with anti-platelets. In the first analysis of early surgery
+(<5 days), the risk of blood transfusion is higher in patients with antiplatelets compared with those without anti-platelets (OR=1.21, 95% CI
+1.01 to 1.44). There were no differences in other outcomes including
+mortality and length of stay. For the second analysis on patients with
+anti-platelets, early surgery had lower mortality (OR=0.43, 95% CI 0.23
+to 0.79) and shorter length of stay (MD= -6.05, 95% CI -7.06 to -5.04)
+than delayed surgery (>5 days).64, level II-2 The quality of the primary
+studies was high.
+Two case-control studies showed that, by withholding clopidogrel for
+<5 days in patients with GHF, there was no significant differences in
+estimated perioperative blood loss65 - 66, level II-2 and blood transfusion
+rate.65, level II-2 One of the studies also showed no significant
+differences in perioperative complications, 30-day mortality and
+one-year mortality.65, level II-2 The other study revealed no significant
+difference in intraoperative blood loss according to different surgical
+procedures.66, level II-2
+As there is no evidence on the difference in outcomes between
+spinal and general anaesthesia, for patients on anti-platelet and anticoagulation who have contraindications to spinal anaesthesia, general
+anaesthesia may be administered for them.
+For guidelines on the use of neuraxial bocks in patients on antiplatelet
+agents and anticoagulants, refer to Appendix 5.
+6.3 Surgery
+Out of all GHF, the proportion of extracapsular and intracapsular
+fractures were 60% and 40% respectively.67, level II-2 Fracture neck of
+femur can be classified using Garden’s Classification as shown in
+CPG on Management of Geriatric Hip Fracture
+Figure 1 (Type 1 and Type 2 are nondisplaced fractures while Type 3
+and Type 4 are displaced fractures).
+Figure 1: Garden’s classification neck of femur fracture
+a.
+Arthroplasty in displaced neck of femur fracture
+The geriatric neck of femur fracture is most commonly displaced
+at presentation. Surgical options include total hip replacement and
+hemiarthroplasty. The type of surgical intervention depends on
+assessment of the patient’s:
+• cognitive status
+• pre-fracture mobility
+• co-morbidities and frailty
+Two meta-analyses on geriatric hip fracture showed that cemented
+femoral stem was associated with less implant-related complications by
+60 - 70% and reoperation rate by 40 - 50% compared with cementless
+stem. There was no difference in mortality at three months. The
+quality of primary papers in the two meta-analyses was moderate to
+high.68 - 69, level I
+Comparison between total hip arthroplasty (THA) and hemiarthroplasty
+(HA) in patients more than 70 years old with hip fracture was studied
+in two meta-analyses. THA had significantly lower risk of erosion rate
+but higher dislocation rate.70 - 71, level I Apart from that, revision rate was
+reduced in HA for RCTs <5 years follow-up (OR=2.19, 95% CI 10.9 to
+4.40) and in THA for RCTs >5 years follow-up (OR=0.25, 95% CI 0.12 to
+0.53).71, level I The functional Harris Hip Score (HHS) was higher in THA
+T
+y
+p
+e
+1
+T
+y
+p
+e
+2
+T
+y
+p
+e
+3
+T
+y
+p
+e
+CPG on Management of Geriatric Hip Fracture
+up to five years.70, level I The primary papers of the two meta-analyses
+were of moderate to high quality.
+NICE recommends total hip replacement for people with a displaced
+neck of femur fracture who meet all of the following criteria:25
+• able to walk independently outdoors with or without the use of a
+stick
+• no co-morbidity that makes the procedure unsuitable for them
+• expected to be able to carry out ADL independently beyond two
+years
+Recommendation 8
+• Cemented stem should be offered for arthroplasty in displaced neck
+of femur fracture in geriatric patients.
+b.
+Surgery in non-displaced fracture neck of femur
+Among patients with intracapsular hip fracture, between 5% and 15% of
+them have an undisplaced fracture.25
+A meta-analysis of 29 cohort studies on patients with undisplaced
+(Garden type I or Garden type II) femoral neck fracture), internal fixation
+had a higher union rate than conservative treatment (92.6% vs 68.8%;
+p<0.001). The rates of secondary displacement, non-union and bed
+rest-related complications were also significantly lower. Although the
+rate of avascular necrosis was higher in the conservative treatment,
+the result was non-significance. Most primary studies were moderate in
+methodological quality assessment.72, level II-2
+In a multicentre RCT on nondisplaced femoral neck fracture,
+hemiarthroplasty had better mobility (MD=6.2 seconds, 95% CI 1.9 to
+10.5) and less major reoperation rate (p=0.002) compared with internal
+fixation.73, level I In another RCT, arthroplasty was associated with a
+reduction in the odds of mortality within 24 months of injury compared
+with internal fixation in patients with displaced femoral neck fracture
+(OR=0.56, 95% CI 0.44 to 0.72).74, level I
+• In patients with stable (impacted/non-displaced) femoral neck
+fractures, hemiarthroplasty, internal fixation or non-operative care
+may be considered for surgical treatment.14
+Recommendation 9
+• Arthroplasty is the preferred choice in non-displaced fracture neck of
+femur in geriatric patients for early full weight-bearing ambulation.
+CPG on Management of Geriatric Hip Fracture
+c.
+Mode of fixation for intertrochanteric fracture of femur
+Intertrochanteric fractures can be categorised into stable and unstable
+fractures. Pertrochanteric fracture has been designated code 31A
+according to Arbeitsgemeinschaft für Osteosynthesefragen Foundation
+and Orthopaedic Trauma Association (AO/OTA) classification.75, level III
+These fractures can be further subdivided into stable (31A1) and
+unstable (31A2 & 31A3) fracture patterns. Figure 2 shows stable
+intertrochanteric femur fractures.
+Figure 2. Stable intertrochanteric femur fracture pattern
+(31A1 and its subtypes)
+A fracture is considered unstable in the presence of one or more of the
+following features as seen in Figure 4 and 5.
+i. incompetent lateral wall (<20.5 mm) and more than one
+intermediate fragment
+ii. incompetent lateral wall (<20.5 mm) and posteromedial buttress
+fracture
+iii. reverse oblique fracture pattern
+iv. subtrochanteric fracture extension
+The lateral wall thickness is taken at a point 3 cm below the innominate
+tubercle of the greater trochanter angled 135○ upward to the fracture
+line on the anteroposterior radiographs. Thickness must be less than
+20.5 mm to be considered an 31A2 fracture. Refer to Figure 3.
+Figure 3. Measurement of lateral wall thickness (d)
+Subgroups:
+Isolated single trochanter fracture
+31A1.1*
+Two-part fracture
+31A1.2
+Lateral wall intact (>20.5 mm) fracture
+31A1.3
+d
+3 cm
+CPG on Management of Geriatric Hip Fracture
+Figure 4. Unstable intertrochanteric femur fracture pattern with
+compromised lateral wall and posteromedial buttress fracture
+(31A2 and its subtypes)
+Figure 5. Unstable intertrochanteric femur fracture with
+reverse oblique pattern (31A3 and its subtypes)
+In intertrochanteric femur fracture, the proximal femur blood supply
+is usually preserved and therefore there is a higher chance of union
+compared to femoral neck fracture. Intertrochanteric fractures are
+often treated with either a cephalomedullary nail (CMN) e.g. proximal
+femoral nail (PFN) or extramedullary device (EMD) e.g. dynamic hip
+screw (DHS). In recent years, CMN has become more popular as it is
+biomechanically stronger compared with EMD. Refer to Figure 6 on
+Features of DHS and PFN.
+(a) (b)
+With 1 intermediate fragment
+31A2.2
+With 2 or more intermediate fragments
+31A2.3
+Simple oblique fracture
+31A3.1
+Simple transverse fracture
+31A3.2
+Wedge or multifragmentary fracture
+31A3.3
+Source: AO (Arbeitsgemeinschaft für Osteosvnthesefragen) Surgery Reference.
+Features of DHS and PFN. 2023. Copright by AO Foundation, Switzerland
+[Available at: https://surgeryreference.aofoundation.org].
+CPG on Management of Geriatric Hip Fracture
+(a) Picture of an intertrochanteric fracture with a DHS in-situ. Proximal
+femur has been partially removed to show the internal position of
+the DHS.
+(b) Picture of a PFN. This cephalomedullary device is inserted into the
+proximal femur.
+Figure 6. Features of DHS and PFN
+In a meta-analysis of 14 RCTs on patients >60 years old who had either
+proximal femoral nail anti-rotation (PFNA), Gamma nail or DHS for
+peritrochanteric femur fractures, there was no difference in mortality,
+operative time and risks of complication e.g. pneumonia and wound
+infection between the three interventions. However, PFNA compared
+with DHS had lower:76, level I
+• operative blood loss (MD= -253.86, 95% CI -270.25 to -237.47)
+• fixation failure (MD=0.20, 95% CI 0.07 to 0.59)
+Jadad score showed moderate quality of primary papers in the metaanalysis.
+A recent Cochrane systematic review comparing CMN and EMD for
+intertrochanteric femur fracture in older adults found no significant
+difference in the following outcomes:77, level I
+• functional status at four months
+• delirium
+• deep infections
+• unplanned return to theatre
+• mortality at four and 12 months
+However, CMN had less:
+• superficial infections (RR=0.71, 95% CI 0.53 to 0.96)
+• non-union (RR = 0.55, 95% CI 0.32 to 0.96)
+but more:
+• intra-operative fractures (RR=2.94, 95% CI 1.65 to 5.24)
+• post-operative fractures (RR=3.62, 95% CI 2.07 to 6.33)
+Most of the primary papers used early generations of CMN implant.
+GRADE gave a moderate quality to the evidence used in the review.
+A meta-analysis of 12 RCTs compared PFN and DHS for throchanteric
+fractures AO 31A2 and 31A3 in older patients and found that the former
+was associated with:78, level I
+• shorter operative time (MD= -9.49 minutes, 95% CI -18.74 to
+-0.25)
+• less intraoperative blood loss (MD= -158.2 mL, 95% CI -203.05 to
+-113.34)
+The level of evidence based on GRADE were low and very low
+respectively. Apart from that, PFN had lower risk of non-union, implant
+failure and revision surgery although they were non-significant. The
+evidence level was moderate for these outcomes.
+CPG on Management of Geriatric Hip Fracture
+In another meta-analysis of 11 RCTs on unstable femoral
+intertrochanteric fracture AO 31A2 and 31A3 in patients older than 60
+years old, comparison between CMN with DHS found no significant
+difference in many outcomes including operative time, blood transfusion,
+adverse events (AE) and hospital stay. However, CMN had:79, level I
+• better functional scores (SMD= 0.43, 95 % CI 0.14 to 0.73)
+• less blood loss (SMD= -0.94, 95 % CI -1.77 to -0.11)
+CMN also showed lower risk in screw cut out, non-union, implant failure
+and re-operation rate although they were non-significant. The quality of
+the primary papers was moderate.
+AAOS guidelines recommend DHS or intramedullary nail (IMN) for
+stable intertrochanteric fractures while IMN for the unstable fractures.14
+NICE guidelines recommend extramedullary implants e.g. a sliding hip
+screw in preference to an intramedullary nail with trochanteric fractures
+and including the lesser trochanter except reverse oblique.25
+Recommendation 10
+• In geriatric hip fractures,
+ cephalomedullary nail (CMN) or extramedullary device may be
+offered for stable intertrochanteric fracture
+ CMN is the preferred choice for unstable intertrochanteric fracture
+d.
+Mode of fixation for subtrochanteric fracture of femur
+Subtrochanteric femur fractures are defined as fractures of the proximal
+femur that occur within 5 cm below the lesser trochanter. They occur
+in the older adults from low energy trauma e.g. fall from standing. The
+fractures are unique due to its deforming anatomical forces and often
+difficult to manage. They are mainly treated with extramedullary plates
+or intramedullary nails, with the latter being more biological and have
+become the gold standard in the treatment of this fracture pattern.
+In a meta-analysis of five RCTs on elderly patients with subtrochanteric
+femur fracture, CMN had lower fracture fixation complications compared
+with extramedullary device in terms of:80, level I
+• revision rate (RR=0.17, 95% CI 0.05 to 0.60)
+• fixation failure rate (RR=0.24, 95% CI 0.07 to 0.89)
+• non-union rate (RR=0.23, 95% CI 0.07 to 0.81)
+However, there was no difference in neck of femur fracture rate and,
+intra-operative parameters and post-operative complications. The
+quality of the primary papers was generally moderate.
+A mixed cohort study compared treatment of subtrochanteric fractures
+using CMN with open technique cerclage wiring and close CMN
+technique in geriatric patients. The former was significantly better in the
+following outcomes:81, level II-2
+CPG on Management of Geriatric Hip Fracture
+• EQ-5D (health-related quality of life) Index at 12 months
+• Jensen Index at 12 and 18 months
+• shorter length of stay (average of two days)
+• better fracture reduction
+• shorter time to union
+However, duration of surgery was longer (average of 16 minutes;
+p=0.024). There was also no difference in one-year mortality and
+complications rate.
+• CMN is the preferred surgical fixation technique in subtrochanteric
+fracture in older adults.
+ Certain fractures configuration may require additional cerclage
+wiring to improve fracture reduction and shorten time to union.
+e.
+Appropriate waiting time for surgery
+Waiting time is an important issue in GHF management but there is no
+definitive time on proper time of surgery. The waiting time is very much
+influenced by the availability of operation theatre (OT), co-morbidities of
+the patients and human resource factors.
+In a large meta-analysis of 28 prospective cohort studies on impact of
+surgery timing in elderly hip fracture patients:82, level II-2
+• comparison surgery within 24 hours vs surgery after 24 hours
+ no significant difference in short-term and long-term mortality
+ mortality was slightly significantly reduced from surgery within
+24 hours in those with co-morbidities
+• comparison surgery within 48 hours vs surgery after 48 hours
+ 20% smaller risk of long-term mortality i.e within one year
+(RR=0.80, 95% CI 0.66 to 0.97) but no difference in short-term
+mortality (within one month)
+ in patients 90 years and above with POSSUM scores of ≥42,
+delayed surgery (after 48 hours) had significantly higher
+mortality
+ based on Instrumental Activities of Daily Living scores, 1-year
+mortality increased significantly in group 1 (dependence) and
+group 2 (intermediate level) with HR of 1.14 (95% CI 1.06
+to 1.22) and 1.21 (95% CI 1.09 to 1.34) respectively but no
+difference in group 3 (high independence)
+In terms of perioperative complications, evidence showed that surgery
+within 48 hours was associated with decreased odds of the pressure
+ulcers, pneumonia and urinary tract infection. Primary papers used in
+the meta-analysis are of mixed quality.
+A later meta-analysis on 27 studies comparing early vs delayed surgery
+on proximal femoral fractures in elderly patients showed the following
+outcomes:83, level I
+CPG on Management of Geriatric Hip Fracture
+• early surgery reduced perioperative complication with OR of 0.57
+(95% CI 0.35 to 0.95) for surgery within 72 hours, 0.39 (95% CI
+0.19 to 0.79) for surgery within 48 hours and 0.59 (95% CI 0.44 to
+0.78) for surgery within 24 hours than later surgery
+• early surgery also reduced mortality with RR of 0.77 (95% CI 0.65
+to 0.93) for surgery within 24 and 0.72 (95% CI 0.71 to 0.73) for
+surgery within 48 hours compared with later surgery
+The quality of the primary papers was moderate to high.
+A recent cross-sectional study showed that operation waiting time
+of >36 hours was significantly associated with increased risks of
+pneumonia, myocardial infarction and heart failure in geriatric patients
+with hip fracture but not with 30-day mortality.84, level III
+Guidelines by AAOS states that hip fracture surgery within 24 - 48 hours
+of admission may be associated with better outcomes.14
+Recommendation 11
+• Surgery should be performed within 48 hours of admission* in
+medically stable geriatric hip fracture patients.
+*after physical consultation by orthopaedic team
+f.
+Analgesics in post-operative period
+Inadequate pain relief after hip fracture surgery in older adults may
+be associated with prolonged bed rest, disruption in physical therapy
+and delay in mobilisation. These potentially increased the risks of
+thromboembolism, functional impairment and longer hospitalisation.
+Oral analgesia may be offered post-operatively for pain relief.
+Multimodal techniques were compared with control for perioperative
+pain relief on elderly patients undergoing hip fracture surgery in a wellconducted RCT. They involved using different analgesic agents that act
+on different sites of pain pathway i.e. pre-emptive oral analgesia with
+intra-articular and periarticular injections of local anaesthetic agents
+during total joint arthroplasty. The interventions significantly reduced
+post-operative pain (day one and four) and fentanyl consumption.
+There was no difference in incidence of nausea, vomiting and delirium
+between the groups.85, level I
+Regional anaesthesia with peripheral nerve blocks e.g fascia iliaca
+compartment block (FICB) is another analgesic technique that can
+be used to provide superior pain relief for pain management after
+hip surgery in the older adults. In a systematic review of 27 RCTs,
+FICB application was proven to be beneficial in pain reduction perioperatively. It also showed:86, level I
+CPG on Management of Geriatric Hip Fracture
+• reduction in risk of perioperative complications e.g. delirium,
+pruritus, nausea and vomiting
+• decrease in length of hospital stay
+• acceleration of functional recovery
+The quality of the primary papers was generally moderate.
+Recommendation 12
+• Analgesia should be provided peri-operatively in geriatric hip
+fractures.
+ Multimodal analgesia is the preferred choice.
+Refer to Appendix 4 on Principles of Analgesic Prescriptions in the
+Elderly.
+6.4 Rehabilitation
+Rehabilitation addresses the impact of a health condition on a person’s
+everyday life by optimising their function and reducing their experience
+of disability. Anyone may need rehabilitation at some point in their life
+due to injury/illness or simply because declining function with advancing
+age. In relation to these, GHF result in impaired mobility and ability
+to perform activities of daily living (ADL). NICE recommends to offer
+people a physiotherapy assessment and mobilisation on the day after
+surgery unless medically or surgically contraindicated.25
+An RCT assessed different post-operative outcomes among patients
+aged ≥70 years old with femoral neck fracture. Compared with
+conventional care, multidisciplinary intervention was more effective in
+terms of:87, level I
+• reduction of fall [IRR of 0.38 (95% CI 0.20 to 0.76) for total sample
+and 0.07 (95% CI 0.01 to 0.57) for dementia sample]
+• shorter post-operative in-hospital stay (p=0.028)
+• significantly lesser post-operative complications e.g. delirium,
+delirious days, urinary tract infections, sleeping disturbances,
+nutritional problems and decubitus ulcers
+A systematic review of moderate quality mixed studies on the elderly
+looked into the effectiveness of different interventions and settings in
+hip fracture rehabilitation. The findings were:88, level I
+• clinical pathway, a multidisciplinary treatment approach provided
+within acute care setting, improved functional recovery, decreased
+length of stay and led to more favourable discharge destination
+• early supported discharge during acute care reduced risk of
+fall (improved falls efficacy) and improved short-term functional
+recovery at three months
+CPG on Management of Geriatric Hip Fracture
+• occupational therapy combined with physical therapy in acute
+care improved short-term functional recovery at two months
+• weight-bearing exercise for inpatient setting improved ambulation
+and reduced requirement for walking aid
+A meta-analysis on GHF compared multidisciplinary rehabilitation and
+usual care post-operatively. The former was more effective in improving
+ADL/physical function (SMD=0.32, 95% CI 0.17 to 0.47) and mobility
+(SMD=0.32, 95% CI 0.12 to 0.52). However, there was no difference
+in survival or chance of living in one’s own home after discharge. The
+quality of the primary papers was generally moderate based on Pedro
+scale.89, level I
+Comprehensive geriatric care (CGC-multidisciplinary team approach)
+when compared with orthopaedic care alone in an RCT of geriatric
+patients after hip fracture surgery showed significantly better:90, level I
+• upright time and number of upright events on day 4
+• Short Physical Performance Battery scores on day 5
+However, Cumulated Ambulation score did not significantly differ
+between the groups.
+In a recent and large Cochrane systematic review on older adults with
+post-hip fracture surgery, multidisciplinary rehabilitation (MDR) was
+compared with usual care. The former was more effective in preventing
+death or deterioration of functional status leading to increased
+dependency/admission to institutional care, all-cause mortality at
+follow-up and readmission rate to the hospital. However, these were not
+statistically significant. The quality of the primary papers was generally
+moderate.91, level I
+In a meta-analysis on older people with post-hip fracture surgery, OT
+post-operatively improved health perception and emotion compared
+with conventional care without OT (SMD=0.391, 95% CI 0.104 to 0.678).
+It is measured by using Goldberg General Health Questionnaire-28.
+However, there was no difference in performance of ADL, physical
+function and occurrence of fall. The quality of the primary papers was
+generally moderate.92, level I
+• Communication between multidisciplinary team members is crucial
+to determine suitable timing and level of weight bearing which will
+depend on the aspects of hip fracture, types of hip surgery and
+findings at the time of surgery.
+• Before patient is discharged, review by any members of the
+rehabilitation team (doctor/ physiotherapist/occupational therapist)
+shall be done to provide education on mobilisation activites and postsurgery function.
+CPG on Management of Geriatric Hip Fracture
+Recommendation 13
+• Early mobilisation should be advocated as early as on post-operative
+day 1, e.g. sitting at the edge of the bed, unless contraindicated.
+• Rehabilitation should be offered to all patients with geriatric hip
+fracture post-operatively with the aim to improve mobility and
+functional recovery.
+ A multidisciplinary approach is the preferred choice.
+6.5 Discharge Plan and Follow-up
+Osteoporotic treatment should be initiated prior to discharge. Bone
+mineral density for osteoporosis assessment can be performed before
+discharge or during follow-up.
+Patients after hip fracture surgery should be followed-up.25 Upon
+discharge, patients should be followed-up by the orthopaedic team to
+look for surgical site infection, fracture healing (intertrochanteric and
+subtrochanteric fractures), joint stiffness and ambulation capability.
+CPG on Management of Geriatric Hip Fracture
+7.
+PREVENTION
+7.1 Primary Prevention
+Prevention of GHF can be directed towards reducing the risk factors as
+mentioned in Chapter 2.
+•
+Prevention of GHF
+A Cochrane systematic review showed non-significant results of hip
+protectors in reducing hip fracture among participants in nursing/
+residential care settings compared with participants in the community.
+The adherence to hip protector was at 24 - 80% and the incidence of
+skin irritation with hip protectors was at 0 - 5%. Most studies in the
+review were generally at low risk of bias for fracture outcomes.93, level I
+In another Cochrane systematic review, supplements of vitamin D
+and calcium may prevent new hip fracture (RR=0.84, 95% CI 0.74 to
+0.96). GRADE assessment showed high quality of evidence in new hip
+fracture outcome. However, there was a small but significant increase
+in gastrointestinal symptoms and renal disease. This review also found
+that there was no increased risk of death from taking calcium and
+vitamin D.94, level I
+•
+Prevention of fall
+CDC reports that >95% of GHF are caused by falls.1 Two guidelines
+recommend opportunistic screening at least annually on older adults of
+their risk of falls during a medical encounter.95 - 96 Three key questions
+have good sensitivity in screening risk of falls i.e.95
+ Have you fallen in the past year?
+ Do you feel unsteady when standing or walking?
+ Do you have worries about falling?
+All older adults should be advised on falls prevention and physical
+activity. Individuals at high risk of falls should be offered a comprehensive
+multifactorial falls risk assessment.95 Refer to Assessment of Falls
+Risk Factors and Interventions to Reduce Identified Risk Factors
+and Algorithm on Risk Stratification, Assessment and Interventions for
+Community-Dwelling Older Adults in Appendix 6.
+For further information on the management of osteoporosis and fall
+prevention, refer to CPG on Management of Osteoporosis (3rd Edition).96
+Recommendation 14
+• Geriatric population should be screened and assessed for falls risk.
+ Education about falls prevention should be offered accordingly.
+CPG on Management of Geriatric Hip Fracture
+7.2 Secondary prevention
+Fracture liaison service (FLS) is a coordinated system of care that
+streamlines bone health management for an effective follow-up
+strategy. FLS identifies patient following a hip fracture, investigates
+the patient and initiates appropriate treatment to reduce risk of a
+subsequent fracture. The delivery of the service should also incorporate
+the integration of primary and secondary/tertiary care.
+A meta-analysis which included 16 RCTs looked into the clinical impact
+of FLS in predicting outcomes for older persons with osteoporoticrelated fractures. The pooled results of the RCTs showed:97, level I
+ a 23% increase in bone mineral density testing
+ a 14% increase in initiation of osteoporosis treatment
+Although FLS had favourable outcomes in treatment adherence,
+reduced risk of re-fractures and reduced mortality but they were not
+significant:
+ a 22% increase in treatment adherence
+ a 5% reduction in absolute risk of re-fracture
+ a 3% reduction in mortality
+Majority of the RCTs in the meta-analysis were considered of high
+quality.
+In 2021, the National Osteoporosis Guideline Group had strongly
+recommended a multidisciplinary, coordinator-based FLS as a model
+of care for fracture prevention on patients who have sustained fragility
+fractures.98
+• Fracture Liaison Service has become an important component of
+management in secondary fracture prevention.
+CPG on Management of Geriatric Hip Fracture
+8.
+IMPLEMENTING THE GUIDELINES
+Implementation of this CPG is important as it helps in providing quality
+healthcare services based on the best and most recent available
+evidence applied to local scenario and expertise. Various factors and
+resource implications should be considered for the success of the
+uptake in the CPG recommendations.
+8.1 Facilitating and Limiting Factors
+The facilitating factors in implementing the CPG are:
+i)
+availability of CPG to healthcare providers (hardcopies and
+softcopies)
+ii) conferences and updates on or include topics on management of
+GHF including those involving professional bodies (e.g. Malaysian
+Orthopaedic Association and Malaysian Society of Geriatric
+Medicine)
+iii) public awareness campaigns on geriatric populations (e.g.
+International Day of Older Persons)
+Limiting factors in the CPG implementation include:
+i)
+different levels of care and wide variation in practice due to
+expertise, facilities and financial constraints
+ii) limited awareness and knowledge in management of GHF among
+healthcare providers
+iii) lack of awareness of hip fracture injury and its management by the
+public
+iv) lack of resources in maintaining National Orthopaedic Registry
+Malaysia Hip Fracture
+8.2 Potential Resource Implications
+The resource implications in the management of GHF falls mainly on
+the treatment part of the condition. The CPG recommends surgery to
+be conducted within 48 hours of admission after physical consultation
+by orthopaedic team on medically stable GHF patients. However, this
+may not be feasible in view of optimisation of patients, availability of
+operating theatre and arrangement to acquire the suitable implant. In
+the unstable intertrochanteric fracture, CMN has been recommended
+but cost is the hindering factor in obtaining it. Thus, patient may have to
+opt for less suitable implant which is DHS.
+In line with the key recommendations in this CPG, the following is
+proposed as clinical audit indicator for quality management of GHF:
+CPG on Management of Geriatric Hip Fracture
+*after physical consultation by orthopaedic team and after excluding
+those medically unfit for early surgery and refuse surgery
+Target of above indicator is at 75% yearly
+Implementation strategies will be developed following the approval of
+the CPG by MoH which include Quick Reference and Training Module.
+Percentage of
+patients with
+GHF operated
+within 48 hours
+of admission*
+=
+Total number of patients with GHF operated
+in the same period
+Number of patients with GHF operated within
+48 hours of admission* in a period
+x100%
+CPG on Management of Geriatric Hip Fracture
+References
+1.
+Centers for Disease Control and Prevention (CDC). Hip Fractures Among Older
+Adults. 2016. [Available at: https://www.cdc.gov/falls/hip-fractures.html].
+2.
+Dhanwal DK, Dennison EM, Harvey NC, et al. Epidemiology of hip fracture:
+Worldwide geographic variation. Indian J Orthop. 2011;45(1):15-22.
+3.
+Lee JK, Khir ASM. The incidence of hip fracture in Malaysians above 50 years of
+age: variation in different ethnic groups. APLAR J Rheumatol. 2007 10(4):300-5.
+4. Abdullah MAH, Abdullah AT (Eds) (2009). Annual Report of the National
+Orthopaedic Registry of Malaysia - Registry, 2009.
+5.
+Stevenson MD, Davis SE, Kanis JA. The hospitalisation costs and out-patient
+costs of fragility fractures. Women’s Health Medicine. 2006;3(4):149-151.
+6.
+Veronese N, Maggi S. Epidemiology and social costs of hip fracture. Injury.
+2018;49(8):1458-1460.
+7.
+Wolinsky FD, Fitzgerald JF, Stump TE. The effect of hip fracture on mortality,
+hospitalization, and functional status: a prospective study. Am J Public Health.
+1997;87(3):398-403.
+8.
+Panula J, Pihlajamaki H, Mattila VM, et al. Mortality and cause of death in hip
+fracture patients aged 65 or older: a population-based study. BMC Musculoskelet
+Disord. 2011;12:105.
+9.
+Okike K, Chan PH, Paxton EW. Effect of Surgeon and Hospital Volume on Morbidity
+and Mortality After Hip Fracture. J Bone Joint Surg Am. 2017;99(18):1547-1553.
+10. Tan LT, Wong SJ, Kwek EB. Inpatient cost for hip fracture patients managed with
+an orthogeriatric care model in Singapore. Singapore Med J. 2017;58(3):139-144.
+11. Tay E. Hip fractures in the elderly: operative versus nonoperative management.
+Singapore Med J. 2016;57(4):178-81.
+12. Lisk R, Yeong K. Reducing mortality from hip fractures: a systematic quality
+improvement programme. BMJ Qual Improv Rep. 2014;3(1).
+13. Economic and Social Commission for Asia and the Pacific (ESCAP).
+Demographic Changes in Asia and the Pacific - Malaysia. [Available at: https://
+www.population-trends-asiapacific.org/data/MYS].
+14. American Academy of Orthopaedic Surgeons. Management of Hip Fractures
+in Older Adults Evidence-Based Clinical Practice Guideline. Rosemont: AAOS;
+2021.
+15. Cassel CK, Leipzig RM, Cohen HJ, et al. Geriatric Medicine: An Evidence-Based
+Approach 4th Edition. New York Springer; 2003.
+16. Gallo JJ, Bogner HR, Fulmer T, et al. Handbook of Geriatric Assessment 4th
+Edition. Sudbury, Massachussetts: Jones & Bartlett Publishers; 2006
+17. Liu S, Zhu Y, Chen W, et al. Risk factors for the second contralateral hip
+fracture in elderly patients: a systematic review and meta-analysis. Clin Rehabil.
+2015;29(3):285-94.
+18. Zhu Y, Chen W, Sun T, et al. Epidemiological characteristics and outcome in
+elderly patients sustaining non-simultaneous bilateral hip fracture: a systematic
+review and meta-analysis. Geriatr Gerontol Int. 2015;15(1):11-8.
+19. Chen H, Ma J, Liu A, et al. The association between sarcopenia and fracture
+in middle-aged and elderly people: A systematic review and meta-analysis of
+cohort studies. Injury. 2020;51(4):804-811.
+20. Denk K, Lennon S, Gordon S, et al. The association between decreased hand
+grip strength and hip fracture in older people: A systematic review. Exp Gerontol.
+2018;111:1-9.
+21. Panahande B, Sadeghi A, Parohan M. Alternative healthy eating index and risk
+of hip fracture: a systematic review and dose-response meta-analysis. J Hum
+Nutr Diet. 2019;32(1):98-107.
+CPG on Management of Geriatric Hip Fracture
+22. Wu ZJ, Zhao P, Liu B, et al. Effect of Cigarette Smoking on Risk of Hip Fracture
+in Men: A Meta-Analysis of 14 Prospective Cohort Studies. PLoS One.
+2016;11(12):e0168990.
+23. Heikal S, Riou P, Jones L. The use of computed tomography in identifying
+radiologically occult hip fractures in the elderly. Ann R Coll Surg Engl.
+2014;96(3):234-7.
+24. Haj-Mirzaian A, Eng J, Khorasani R, et al. Use of Advanced Imaging for
+Radiographically Occult Hip Fracture in Elderly Patients: A Systematic Review
+and Meta-Analysis. Radiology. 2020;296(3):521-531.
+25. National Institute for Health and Care Excellence. Hip fracture: Management.
+London: NICE; 2023.
+26. Kim SJ, Park HS, Lee DW. Outcome of nonoperative treatment for hip fractures
+in elderly patients: A systematic review of recent literature. J Orthop Surg (Hong
+Kong). 2020;28(2):2309499020936848.
+27. Titler MG, Herr K, Schilling ML, et al. Acute pain treatment for older adults
+hospitalized with hip fracture: current nursing practices and perceived barriers.
+Appl Nurs Res. 2003;16(4):211-27.
+28. Ministry of Health, Malaysia. Pain as the 5th Vital Sign Guideline: 3rd Edition.
+Putrajaya: MoH; 2018
+29. Ministry of Health, Malaysia. Guidelines for Pain Management in the Elderly 1st
+Edition. Putrajaya: MoH; 2018.
+30. Newman B, McCarthy L, Thomas PW, et al. A comparison of pre-operative nerve
+stimulator-guided femoral nerve block and fascia iliaca compartment block in
+patients with a femoral neck fracture. Anaesthesia. 2013;68(9):899-903.
+31. Guay J, Kopp S. Peripheral nerve blocks for hip fractures in adults. Cochrane
+Database Syst Rev. 2020;11(11):CD001159.
+32. Handoll HH, Queally JM, Parker MJ. Pre-operative traction for hip fractures in
+adults. Cochrane Database Syst Rev. 2011(12):CD000168.
+33. Endo J, Yamaguchi S, Saito M, et al. Efficacy of preoperative skin traction for
+hip fractures: a single-institution prospective randomized controlled trial of skin
+traction versus no traction. J Orthop Sci. 2013;18(2):250-5.
+34. Baroni M, Serra R, Boccardi V, et al. The orthogeriatric comanagement improves
+clinical outcomes of hip fracture in older adults. Osteoporos Int. 2019;30(4):907916.
+35. Eamer G, Taheri A, Chen SS, et al. Comprehensive geriatric assessment for
+older people admitted to a surgical service. Cochrane Database Syst Rev.
+2018;1(1):CD012485.
+36. Wang H, Li C, Zhang Y, et al. The influence of inpatient comprehensive geriatric
+care on elderly patients with hip fractures: a meta-analysis of randomized
+controlled trials. Int J Clin Exp Med. 2015;8(11):19815-30.
+37. Lin SN, Su SF, Yeh WT. Meta-analysis: Effectiveness of Comprehensive
+Geriatric Care for Elderly Following Hip Fracture Surgery. West J Nurs Res.
+2020;42(4):293-305.
+38. Dent E, Lien C, Lim WS, et al. The Asia-Pacific Clinical Practice Guidelines for
+the Management of Frailty. J Am Med Dir Assoc. 2017;18(7):564-575.
+39. Morley JE, Vellas B, van Kan GA, et al. Frailty consensus: a call to action. J Am
+Med Dir Assoc. 2013;14(6):392-7.
+40. Smith TO, Cooper A, Peryer G, et al. Factors predicting incidence of postoperative delirium in older people following hip fracture surgery: a systematic
+review and meta-analysis. Int J Geriatr Psychiatry. 2017;32(4):386-396.
+41. Yang Y, Zhao X, Dong T, et al. Risk factors for postoperative delirium following
+hip fracture repair in elderly patients: a systematic review and meta-analysis.
+Aging Clin Exp Res. 2017;29(2):115-126.
+CPG on Management of Geriatric Hip Fracture
+42. Bai J, Liang Y, Zhang P, et al. Association between postoperative delirium and
+mortality in elderly patients undergoing hip fractures surgery: a meta-analysis.
+Osteoporos Int. 2020;31(2):317-326.
+43. Liu N, Lv L, Jiao J, et al. Association between nutritional indices and mortality
+after hip fracture: a systematic review and meta-analysis. Eur Rev Med
+Pharmacol Sci. 2023;6:2297-2304.
+44. Lai WY, Chiu YC, Lu KC, et al. Beneficial effects of preoperative oral nutrition
+supplements on postoperative outcomes in geriatric hip fracture patients:
+A PRISMA-compliant systematic review and meta-analysis of randomized
+controlled studies. Medicine (Baltimore). 2021;100(47):e27755.
+45. Avenell A, Smith TO, Curtain JP, et al. Nutritional supplementation for hip fracture
+aftercare in older people. Cochrane Database Syst Rev. 2016;11(11):CD001880.
+46. National Institute for Health and Care Excellence. Nutrition support for adults: oral
+nutrition support, enteral tube feeding and parenteral nutrition. London: NICE;
+2017.
+47. Brunskill SJ, Millette SL, Shokoohi A, et al. Red blood cell transfusion for
+people undergoing hip fracture surgery. Cochrane Database Syst Rev.
+2015(4):CD009699.
+48. Anderson DR, Morgano GP, Bennett C, et al. American Society of Hematology
+2019 guidelines for management of venous thromboembolism: prevention
+of venous thromboembolism in surgical hospitalized patients. Blood Adv.
+2019;3(23):3898-3944.
+49. National Institute for Health and Care Excellence. Venous thromboembolism
+in over 16s: reducing the risk of hospital-acquired deep vein thrombosis or
+pulmonary embolism. London: NICE; 2019.
+50. Tang Y, Wang K, Shi Z, et al. A RCT study of Rivaroxaban, low-molecularweight heparin, and sequential medication regimens for the prevention of
+venous thrombosis after internal fixation of hip fracture. Biomed Pharmacother.
+2017;92:982-988.
+51. Joo PY, Modrak M, Park N, et al. Comparing Venous Thromboembolism
+Prophylactic Agents After Hip Fracture Surgery: A National Database Study. J
+Am Acad Orthop Surg Glob Res Rev. 2022;6(12).
+52. Malaysian Society of Haematology. Prevention and Treatment of Venous
+Thromboembolism. Petaling Jaya: MSH; 2013.
+53. National Institute for Health and Care Excellence. Venous thromboembolism in
+adults. London: NICE; 2021.
+54. American College of Chest Physicians. Prevention of VTE in Orthopedic
+Surgery Patients. Antithrombotic Therapy and Prevention of Thrombosis, 9th
+Ed: American College of Chest Physicians Evidence-Based Clinical Practice
+Guidelines. Illinois: ACCP; 2012.
+55. Gibson AA, Hay AW, Ray DC. Patients with hip fracture admitted to critical care:
+epidemiology, interventions and outcome. Injury. 2014;45(7):1066-70.
+56. Eschbach D, Bliemel C, Oberkircher L, et al. One-Year Outcome of Geriatric
+Hip-Fracture Patients following Prolonged ICU Treatment. Biomed Res Int.
+2016;2016:8431213.
+57. Kanar M, Armagan R, Oc Y, et al. Is intensive care unit necessary for geriatric hip
+fractures? isli Etfal Hastan Tip Bul. 2017;51(3):201-6
+58. Guo Z, Zhao F, Wang Y, et al. Intensive Care Unit Resource Utilization After
+Hip Fracture Surgery in Elderly Patients: Risk Factor Identification and Risk
+Stratification. Orthopedics. 2020;43(3):e159-e165.
+59. Ju J, Zhang P, Wang Y, et al. A clinical nomogram predicting unplanned intensive
+care unit admission after hip fracture surgery. Surgery. 2021;170(1):291-297.
+CPG on Management of Geriatric Hip Fracture
+60. Neuman MD, Feng R, Carson JL, et al. Spinal Anesthesia or General Anesthesia
+for Hip Surgery in Older Adults. N Engl J Med. 2021;385(22):2025-2035.
+61. Guay J, Parker MJ, Gajendragadkar PR, et al. Anaesthesia for hip fracture
+surgery in adults. Cochrane Database Syst Rev. 2016;2(2):CD000521.
+62. Griffiths R, Babu S, Dixon P, et al. Guideline for the management of hip
+fractures 2020: Guideline by the Association of Anaesthetists. Anaesthesia.
+2021;76(2):225-237.
+63. White SM, Moppett IK, Griffiths R, et al. Secondary analysis of outcomes after
+11,085 hip fracture operations from the prospective UK Anaesthesia Sprint Audit
+of Practice (ASAP-2). Anaesthesia. 2016;71(5):506-14.
+64. Yang Z, Ni J, Long Z, et al. Is hip fracture surgery safe for patients on antiplatelet
+drugs and is it necessary to delay surgery? A systematic review and metaanalysis. J Orthop Surg Res. 2020;15(1):105.
+65. Yang MH, Li B, Yao DC, et al. Safety of early surgery for geriatric hip fracture
+patients taking clopidogrel: a retrospective case-control study of 120 patients in
+China. Chin Med J (Engl). 2021;134(14):1720-1725.
+66. Zheng Y, Zhou Y, Yang M, et al. Evaluation of Clopidogrel Safety in Geriatric
+Patients with Hip Fracture: A Retrospective Study. Orthop Surg. 2021;13(6):1912-1921.
+67. Alpantaki K, Papadaki C, Raptis K, et al. Gender and Age Differences in Hip
+Fracture Types among Elderly: a Retrospective Cohort Study. Maedica (Bucur).
+2020;15(2):185-190.
+68. Li L, Jiang X, Fu L, et al. Reactivation rates of hepatitis B or C or HIV in patients
+with psoriasis using biological therapies: a systematic review and meta-analysis.
+Clin Exp Med. 2023;23(3):701-715.
+69. Fu CW, Ma HH, Liu YC, et al. Are functional outcomes and reoperation rates
+really better than those of cementless stems in displaced femoral neck fractures?
+An updated systematic review and meta-analysis of randomized controlled trials
+in current-generation stem designs. J Chin Med Assoc. 2021;84(10):969-981.
+70. Liu Y, Chen X, Zhang P, et al. Comparing total hip arthroplasty and hemiarthroplasty
+for the treatment of displaced femoral neck fracture in the active elderly over 75
+years old: a systematic review and meta-analysis of randomized control trials. J
+Orthop Surg Res. 2020;15(1):215.
+71. Migliorini F, Trivellas A, Driessen A, et al. Hemiarthroplasty versus total
+arthroplasty for displaced femoral neck fractures in the elderly: meta-analysis of
+randomized clinical trials. Arch Orthop Trauma Surg. 2020;140(11):1695-1704.
+72. Xu DF, Bi FG, Ma CY, et al. A systematic review of undisplaced femoral neck
+fracture treatments for patients over 65 years of age, with a focus on union rates
+and avascular necrosis. J Orthop Surg Res. 2017;12(1):28.
+73. Dolatowski FC, Frihagen F, Bartels S, et al. Screw Fixation Versus
+Hemiarthroplasty for Nondisplaced Femoral Neck Fractures in Elderly
+Patients: A Multicenter Randomized Controlled Trial. J Bone Joint Surg Am.
+2019;101(2):136-144.
+74. Afaq S, O’Hara NN, Schemitsch EH, et al. Arthroplasty Versus Internal Fixation
+for the Treatment of Undisplaced Femoral Neck Fractures: A Retrospective
+Cohort Study. J Orthop Trauma. 2020;34 Suppl 3:S9-S14.
+75. Meinberg EG, Agel J, Roberts CS, et al. Fracture and Dislocation Classification
+Compendium-2018. J Orthop Trauma. 2018;32 Suppl 1:S1-S170
+76. Ma KL, Wang X, Luan FJ, et al. Proximal femoral nails antirotation, Gamma
+nails, and dynamic hip screws for fixation of intertrochanteric fractures of femur:
+A meta-analysis. Orthop Traumatol Surg Res. 2014;100(8):859-66.
+77. Lewis SR, Macey R, Gill JR, et al. Cephalomedullary nails versus extramedullary
+implants for extracapsular hip fractures in older adults. Cochrane Database Syst
+Rev. 2022;1(1):CD000093.
+CPG on Management of Geriatric Hip Fracture
+78. Xu H, Liu Y, Sezgin EA, et al. Comparative effectiveness research on proximal
+femoral nail versus dynamic hip screw in patients with trochanteric fractures: a
+systematic review and meta-analysis of randomized trials. J Orthop Surg Res.
+2022;17(1):292.
+79. Li AB, Zhang WJ, Wang J, et al. Intramedullary and extramedullary fixations for
+the treatment of unstable femoral intertrochanteric fractures: a meta-analysis of
+prospective randomized controlled trials. Int Orthop. 2017;41(2):403-413.
+80. Liu P, Wu X, Shi H, et al. Intramedullary versus extramedullary fixation in the
+management of subtrochanteric femur fractures: a meta-analysis. Clin Interv
+Aging. 2015;10:803-11.
+81. Codesido P, Mejia A, Riego J, et al. Subtrochanteric fractures in elderly people
+treated with intramedullary fixation: quality of life and complications following
+open reduction and cerclage wiring versus closed reduction. Arch Orthop
+Trauma Surg. 2017;137(8):1077-1085.
+82. Klestil T, Roder C, Stotter C, et al. Impact of timing of surgery in elderly hip fracture
+patients: a systematic review and meta-analysis. Sci Rep. 2018;8(1):13933.
+83. Chen P, Shen X, Xu W, et al. Comparative assessment of early versus delayed
+surgery to treat proximal femoral fractures in elderly patients: A systematic
+review and meta-analysis. Int J Surg. 2019;68:63-71.
+84. Shen CY, Hsiao CH, Tsai W, et al. Associations between Hip Fracture Operation
+Waiting Time and Complications in Asian Geriatric Patients: A Taiwan Medical
+Center Study. Int J Environ Res Public Health. 2021;18(6).
+85. Kang H, Ha YC, Kim JY, et al. Effectiveness of multimodal pain management
+after bipolar hemiarthroplasty for hip fracture: a randomized, controlled study. J
+Bone Joint Surg Am. 2013;95(4):291-6.
+86. Wan HY, Li SY, Ji W, et al. Fascia Iliaca Compartment Block for Perioperative
+Pain Management of Geriatric Patients with Hip Fractures: A Systematic Review
+of Randomized Controlled Trials. Pain Res Manag. 2020;2020:8503963.
+87. Stenvall M, Olofsson B, Lundstrom M, et al. A multidisciplinary, multifactorial
+intervention program reduces postoperative falls and injuries after femoral neck
+fracture. Osteoporos Int. 2007;18(2):167-75.
+88. Chudyk AM, Jutai JW, Petrella RJ, et al. Systematic review of hip fracture
+rehabilitation practices in the elderly. Arch Phys Med Rehabil. 2009;90(2):24662.
+89. Nordstrom P, Thorngren KG, Hommel A, et al. Effects of Geriatric Team
+Rehabilitation After Hip Fracture: Meta-Analysis of Randomized Controlled
+Trials. J Am Med Dir Assoc. 2018;19(10):840-845.
+90. Taraldsen K, Sletvold O, Thingstad P, et al. Physical behavior and function early
+after hip fracture surgery in patients receiving comprehensive geriatric care or
+orthopedic care - a randomized controlled trial. J Gerontol A Biol Sci Med Sci.
+2014;69(3):338-45.
+91. Handoll HH, Cameron ID, Mak JC, et al. Multidisciplinary rehabilitation for older
+people with hip fractures. Cochrane Database Syst Rev. 2021;11(11):CD007125.
+92. Lee SY, Jung SH, Lee SU, et al. Is Occupational Therapy After Hip Fracture
+Surgery Effective in Improving Function?: A Systematic Review and MetaAnalysis of Randomized Controlled Studies. Am J Phys Med Rehabil.
+2019;98(4):292-298.
+93. Santesso N, Carrasco-Labra A, Brignardello-Petersen R. Hip protectors
+for preventing hip fractures in older people. Cochrane Database Syst Rev.
+2014(3):CD001255.
+94. Avenell A, Mak JC, O’Connell D. Vitamin D and vitamin D analogues for
+preventing fractures in post-menopausal women and older men. Cochrane
+Database Syst Rev. 2014;2014(4):CD000227.
+CPG on Management of Geriatric Hip Fracture
+95. Montero-Odasso M, van der Velde N, Martin FC, et al. World guidelines for falls
+prevention and management for older adults: a global initiative. Age Ageing.
+2022;51(9).
+96. Malaysian Osteoporosis Society (MOS). Management of Osteoporosis (3rd
+Edition). Kuala Lumpur MOS; 2022.
+97. Wu CH, Tu ST, Chang YF, et al. Fracture liaison services improve outcomes of
+patients with osteoporosis-related fractures: A systematic literature review and
+meta-analysis. Bone. 2018;111:92-100.
+98. Gregson CL, Armstrong DJ, Bowden J, et al. UK clinical guideline for the
+prevention and treatment of osteoporosis. Arch Osteoporos. 2022;17(1):581.
+CPG on Management of Geriatric Hip Fracture
+Appendix 1
+EXAMPLE OF SEARCH STRATEGY
+Clinical Question: What are the effective and safe arthroplasty in
+displaced fracture neck of femur?
+1.
+HIP FRACTURES/
+2.
+(fracture* adj1 (hip or intertrochanteric or subtrochanteric or
+trochanteric)).tw.
+3.
+FEMORAL NECK FRACTURES/
+4.
+(femoral neck adj2 fracture*).tw.
+5.
+(femur neck adj2 fracture*).tw.)
+6.
+fracture neck of femur.tw.
+7.
+1 or 2 or 3 or 4 or 5 or 6
+8.
+ARTHROPLASTY, REPLACEMENT, HIP/
+9.
+(hip replacement adj2 arthroplast*).tw.
+10. (total hip adj2 arthroplast*).tw.
+11. (hip prosthesis adj2 implantation*).tw.
+12. (total hip adj2 replacement).tw.
+13. HEMIARTHROPLASTY/
+14. (hemi adj1 arthroplast*).tw.
+15. hemi-arthroplast*.tw.
+16. hemiarthroplast*.tw.
+17. 8 or 9 or 10 or 11 or 12 or 13 or 14 or 15 or 16
+18. 7 and 17
+19. limit 18 to (english language and humans and “middle aged (45
+plus years)” and “systematic review” and last 15 years)
+CPG on Management of Geriatric Hip Fracture
+Appendix 2
+CLINICAL QUESTIONS
+1.
+What are the accurate imaging modalities to diagnose geriatric hip
+fracture?
+2.
+What are the risk factors for geriatric hip fracture?
+3.
+What are the effective and safe primary prevention strategies for
+geriatric hip fracture?
+4.
+What are the effective and safe analgesics pre-operatively for
+geriatric hip fracture?
+5.
+What are the effective and safe prophylaxis for venous
+thromboembolism pre-operatively for geriatric hip fracture?
+6.
+What are the pre-operative optimisation/criteria for safe surgery in
+geriatric hip fracture?
+7.
+What are the effective and safe method of anaesthesia for geriatric
+hip fracture?
+8.
+What are the effective and safe arthroplasties in geriatric displaced
+fracture neck of femur?
+9.
+What are the effective and safe surgeries in geriatric non-displaced
+fracture neck of femur?
+10. What are the effective and safe mode of fixations for:
+a.
+geriatric intertrochanteric fracture of femur?
+b.
+geriatric subtrochanteric fracture of femur?
+11. What is the recommended appropriate waiting time for surgery for
+geriatric hip fracture?
+12. What are the effective and safe treatments following surgical
+operation of geriatric hip fracture?
+13. What are the effective and safe rehabilitations for post-operative
+geriatric hip fracture?
+14. What are the effective and safe follow-up post-operatively for
+geriatric hip fracture?
+CPG on Management of Geriatric Hip Fracture
+Appendix 3
+PRINCIPLES OF ANALGESIC PRESCRIPTIONS IN THE ELDERLY
+1.
+Timing of medication administration is important.
+• Severe, episodic pain requires treatment of a rapid onset of
+action and short duration.
+• For continuous pain, regular analgesia is the most effective,
+possibly using modified release formulations.
+2.
+Start with a low dose single agent at a time, followed by low
+incremental dose titration.
+3.
+Allow adequate intervals for assessment of the effect before
+considering another agent.
+4.
+Combination therapy using agents with different mechanisms of
+action may have synergistic effects to provide greater pain relief
+with fewer side effects than higher doses of a single agent.
+5.
+Consider the use of non-pharmacological strategies, e.g
+physiotherapy
+and
+cognitive
+behavioural
+approaches,
+in
+combination with medication.
+6.
+Treatment should be monitored regularly and adjusted if required
+to improve effectiveness and minimise side effects.
+7.
+On choosing an analgesic agent, co-morbidity, contraindications
+and possibilities of drug-disease and drug-drug interactions should
+be considered.
+PRE-OPERATIVE ANALGESIA IN GHF
+Paracetamol
+325 - 500 mg 4-hourly
+or 500 - 1,000 mg
+6-hourly per oral (PO)
+• Maximum dose usually 4 g daily
+• Reduce maximum dose 50% to 75% in
+patients with hepatic insufficiency or
+history of alcohol abuse
+Oxycodone
+2.5 - 5 mg 4 - 6-hourly
+PO
+• Useful for acute recurrent, episodic or
+breakthrough pain
+Morphine
+2 - 3 mg 4 - 6-hourly
+(subcutaneous (SC)
+or PO)
+• Most commonly used for episodic or
+breakthrough pain
+• Intravenous (IV) morphine may be
+considered in severe pain (refer to
+Guidelines of Pain as 5th Vital Sign)
+Celecoxib
+Etericoxib
+200 mg twice daily
+(BD) for 2 - 5 days,
+then 200 mg once
+daily (OD) PO
+90 mg OD PO
+• Higher doses are associated with higher
+incidence of gastrointestinal (GI) and
+cardiovascular side effects
+• Consider prescribing proton-pump
+inhibitor to reduce GI side effects and
+when patients on aspirin
+Drug
+Recommended dose
+Comments
+CPG on Management of Geriatric Hip Fracture
+Adapted:
+1. Ministry of Health, Malaysia. Guidelines for Pain Management in the Elderly 1st
+Edition. Putrajaya: MoH; 2018
+2. Ministry of Health, Malaysia. Management of Cancer Pain. Putrajaya: MoH
+Malaysia; 2010
+Tramadol
+50 mg 6 - 12-hourly
+PO
+• Monitor side effects e.g. confusion,
+drowsiness, constipation and nausea
+• Risk of seizures in high doses
+• May precipitate serotonin syndrome if
+used with selective serotonin reuptake
+inhibitors
+• Use with caution in renal impairment;
+if creatinine clearance (CrCl) <30
+millilitres per minute (mL/min),
+requires dose reduction
+Dihydrocodeine
+tartrate
+(DF118)
+30 - 60 mg 6 - 8-hourly
+PO
+• Useful for acute recurrent, episodic or
+breakthrough pain
+Drug
+Recommended dose
+Comments
+CPG on Management of Geriatric Hip Fracture
+Appendix 4
+COMPREHENSIVE GERIATRIC ASSESSMENT (CGA) FOR GHF
+The main dimensions covered in a CGA should include the following
+assessments:
+Adapted: National Clinical Programme for Older People. Specialist Geriatric Team
+Guidance on Comprehensive Geriatric Assessment. (Available at: https://
+www.hse.ie/eng/services/publications/clinical-strategy-and-programmes/
+comprehensive-geriatric-assessment-document-.pdf)
+Physical
+• Presenting
+complaint
+• Acute medical
+issues which
+include cardiac
+assessment
+• Past medical
+history
+• Medication
+review
+• Nutritional
+status
+(e.g. MNA-SF)
+• Fraility
+assessment
+(e.g. Clinical
+Frailty Scale)
+Note: Advanced
+directives should
+also be explored
+Functional
+• Activities of daily
+living (e.g.
+Barthel Index)
+• Functional ability
+• Balance and gait
+stability
+• Mobility
+Social
+• Social support
+• Caregiver stress
+• Living
+arrangements
+(domestic
+support)
+• Living
+environment
+• Financial
+circumstances
+Psychological
+• Delirium
+assessment
+(e.g. 4AT
+Delirium
+Detection Tool)
+• Baseline cognition
+[e.g. Mini Mental
+State Examination
+(MMSE),
+Abbreviated
+Mental Test Score
+(AMTS)]
+• Mood [e.g.
+Geriatric
+Depression
+Scale (GDS)]
+CPG on Management of Geriatric Hip Fracture
+Appendix 5
+GUIDELINES ON TIME INTERVALS BEFORE AND AFTER NEURAXIAL BLOCKS RELATED TO THE USE OF
+ANTIPLATELET AGENTS AND ANTICOAGULANTS
+A. Antiplatelet agents
+Antiplatelet agent
+Timing of initiation of neuraxial block
+after agent is stopped
+Restarting agent with
+neuraxial catheter in-situ
+Restarting agent after
+neuraxial block/catheter removal
+Aspirin
+No additional precaution
+No additional precaution
+No additional precaution
+NSAIDS
+No additional precaution
+No additional precaution
+No additional precaution
+Abciximab
+24 - 48 hours
+Contraindicated within 4 weeks of surgery
+No specific guidance
+Tirofiban
+4 - 8 hours
+Contraindicated within 4 weeks of surgery
+No specific guidance
+Eptifibatide
+4 - 8 hours
+Contraindicated within 4 weeks of surgery
+No specific guidance
+Dipyridamole
+24 hours for extended-release formulation
+Not recommended
+6 hours after removal
+Clopidogrel
+5 - 7 days
+• Start 24 hours post-operatively
+• Acceptable to maintain catheter for
+1 - 2 days provided no loading dose given
+• Start 24 hours post-operatively
+• Acceptable to maintain catheter for
+1 - 2 days provided no loading dose given
+Immediately
+(loading dose may be given 6 hours
+after removal)
+Prasugrel
+7 - 10 days
+Not recommended
+Immediately
+(loading dose may be given 6 hours
+after removal)
+Ticagrelor
+5 - 7 days
+Not recommended
+Immediately
+(loading dose may be given 6 hours
+after removal)
+Ticlopidine
+10 days
+Immediately
+(loading dose may be given 6 hours
+after removal)
+CPG on Management of Geriatric Hip Fracture
+B. Parenteral anticoagulant agents
+Anticoagulant
+agent (parenteral)
+Timing of initiation of neuraxial block
+after agent is stopped
+Restarting agent with
+neuraxial catheter in-situ
+Restarting agent after
+neuraxial block/catheter removal
+Unfractionated
+heparin (UFH) SC
+• Ensure normal platelet count
+• Low dose: Acceptable to give whilst
+catheter in-situ; catheter removal
+4 - 6 hours after administration
+• Higher dose (doses >5,000 U or daily
+total >15,000): Analyse risk/benefit in
+the patient; if given, institute
+neurological observation monitoring
+regimen
+1 hour
+• Low-dose prophylaxis (5,000 units (U)
+BD/ thrice daily (TDS)
+• Higher-dose prophylaxis
+(7,500 - 10,000 U
+BD or <20,000 U daily total): 12 hours
+UFH IV
+• Ensure normal platelet count and
+coagulation status
+• Catheter removal 4 - 6 hours after
+stopping infusion
+1 hour
+6 hours
+Avoid
+4 - 6 hours after stopping the infusion
+and normal coagulation status
+LMWH
+• Ensure normal platelet count
+• Prophylactic OD dose: First dose
+acceptable 4 hours after catheter
+placement; removal of catheter at
+minimum of 12 hours after last dose
+• Treatment dose: Not recommended
+• Prophylactic dose: 4 hours
+• Treatment dose: 24 hours after surgery
+and removal of catheter
+• Prophylactic dose: 12 hours
+• Treatment dose: 24 hours
+Fondaparinux
+• Prophylactic dose: 36 - 48 hours
+• Treatment dose: 72 hours
+• Only for single puncture neuraxial
+blockade
+• Avoid indwelling neuraxial catheters
+Parenteral heparin alternatives
+CPG on Management of Geriatric Hip Fracture
+C. Oral anticoagulant agents
+Anticoagulant
+agent (oral)
+Timing of initiation of neuraxial block
+after agent is stopped
+Restarting agent with
+neuraxial catheter in-situ
+Restarting agent after
+neuraxial block/catheter removal
+Rivaroxaban
+• Not recommended
+• With unanticipated administration, hold
+rivaroxaban dosing for 22 - 26 hours or
+assess an anti-factor Xa assay
+calibrated to rivaroxaban before
+catheter removal
+6 hours
+• 72 hours; if earlier, consider rivaroxaban
+or anti-factor Xa level [(safe residual
+level for central neuraxial blockade
+(CNB) is unknown)]
+• Prophylactic dose: CrCl >30 mL/min;
+18 hours
+• Treatment dose: CrCl >30 mL/min;
+48 hours
+Edoxaban
+• Not recommended
+• With unanticipated administration, hold
+edoxaban dosing for 20 - 28 hours or
+assess an anti-factor Xa assay
+calibrated to edoxaban before catheter
+removal
+• Not recommended
+• With unanticipated administration, hold
+apixaban dosing for 26 - 30 hours or
+assess an anti-factor Xa assay
+calibrated to apixaban before catheter
+removal
+6 hours
+6 hours
+6 hours
+• Not recommended
+• With unanticipated administration, hold
+dabigatran dosing for 34 - 36 hours or
+assess the dTT or ECT before catheter
+removal
+72 hours; if earlier, consider edoxaban
+or anti-factor Xa level (safe residual
+level for CNB is unknown)
+72 hours; if earlier, consider apixaban
+or anti-factor Xa level (safe residual
+level for CNB is unknown)
+Apixaban
+Dabigatran
+120 hours; if no additional risk factors for
+bleeding:
+• CrCl >80 mL/min: 72 hours
+• CrCl 50 - 79 mL/min: 96 hours
+• CrCl 30 - 49 mL/min: 120 hours
+• CrCl 30 mL/min: Avoid
+CPG on Management of Geriatric Hip Fracture
+D. Thrombolytic drugs
+Adapted:
+1. Ashken T, West S. Regional anaesthesia in patients at risk of bleeding. BJA Educ. 2021;21(3):84-94.
+2. NYSORA. Regional Anesthesia in Anticoagulated Patients (Available at: https://www.nysora.com/topics/sub-specialties/regional-anesthesia-inanticoagulated-patients/)
+Anticoagulant
+agent (oral)
+Timing of initiation of neuraxial block
+after agent is stopped
+Restarting agent with
+neuraxial catheter in-situ
+Restarting agent after
+neuraxial block/catheter removal
+Thrombolytic
+agent
+Timing of initiation of neuraxial block
+after agent is stopped
+Restarting agent with
+neuraxial catheter in-situ
+Restarting agent after
+neuraxial block/catheter removal
+Warfarin
+• Not recommended when catheter
+in-situ, suggest bridging therapy
+appropriately
+• Check INR daily and, routine sensory
+and motor neurological testing
+Not recommended; if unexpectedly given,
+measure fibrinogen to guide timing of
+catheter removal
+• Remove catheter when INR ≤1.5
+• After catheter removal, continue
+neurological observations for 24 hours
+No recommendation, but note that
+original contraindications to these agents
+state that they should not be given for
+10 days after puncture of
+non-compressible
+Ideally stop international normalised
+ratio (INR) 3 days before and
+INR “normalised”
+48 hours and documented
+normal clotting (including fibrinogen)
+Thrombolytic
+agents
+(e.g. alteplase and
+streptokinase)
+CPG on Management of Geriatric Hip Fracture
+Appendix 6
+ASSESSMENT OF FALLS RISK FACTORS AND
+INTERVENTIONS TO REDUCE IDENTIFIED RISK FACTORS
+Source: Malaysian Osteoporosis Society (MOS). Management of Osteoporosis 2022
+(3rd Edition). Kuala Lumpur; MOS: 2022
+Evaluate lower limb muscle strength,
+gait, and balance
+Timed Up and Go
+(high risk >13.5 sec)
+Identify medications that increase
+fall risk
+Ask about potential home hazards
+(e.g. slippery bathroom floor, loose rugs)
+Measure positional blood pressure
+(supine and standing blood pressure
+measurement)
+Check visual acuity
+Assess feet and footwear
+Assess vitamin D intake
+Previous history of falls OR fear of
+falling
+Poor gait, strength and balance
+• Refer for physical therapy
+• Engagement in exercise programmes
+that involve balance, functional exercise
+and resistance training
+Medication(s) likely to increase fall risk
+• Optimise medications by stopping,
+switching or reducing dosage
+(especially for psychoactive medications)
+Home hazards likely to increase fall risk
+• Refer to occupational therapist to
+evaluate home safety assessment ±
+modification
+Orthostatic hypotension observed
+• Review medications
+• Encourage adequate hydration
+• Consider use of compression stockings,
+abdominal binders or physical
+manoeuvres
+Visual impairment observed
+• Refer ophthalmologist/optometrist
+• Avoid wearing multifocal glasses when
+walking, particularly on stairs
+Feet or footwear issues identified
+• Appropriate treatment for foot problem
+identified
+• Advise wearing well-fitted shoes indoors
+and outdoors
+Vitamin D deficiency observed or likely
+• Recommend daily vitamin D (800 - 1000
+IU) supplement for individuals with
+proven vitamin D deficiency
+• Provide falls education and information
+to all patients
+• Regular follow-up to ensure adherence
+to interventions
+Assessment
+Interventions
+CPG on Management of Geriatric Hip Fracture
+ALGORITHM ON RISK STRATIFICATION, ASSESSMENT AND
+INTERVENTIONS FOR COMMUNITY-DWELLING OLDER ADULTS
+1To increase sensitivity, use three Key Questions (3KQ) with any positive answer
+to a) Has fallen in the past year? b) Feels unsteady when standing or walking? or c)
+Worries about falling? prompts to “fall severity” step.
+Fall severity: fall with injuries (severe enough to consult a physician), laying on the
+ground with no capacity to get up, a visit to emergency room or loss of consciousness/
+suspected syncope.
+2Assess fall severity (one is enough): ● injury ● ≥2 falls last year ● frailty ● lying
+on the floor/unable to get up ● loss of consciousness/suspected syncope (syncope
+suspicion should trigger evaluation/management)
+3Gait speed ≤0.8 m/s or alternatively Timed up and go >15 seconds
+4Exercise on balance/leg strength is recommended for the intermediate group
+which may also be referred to a physiotherapist.
+5High risk individuals with falls can deteriorate rapidly and close follow-up is
+recommended which is guided on frequency of consequent health service utilisation.
+Adapted: Montero-Odasso M, van der Velde N, Martin FC, et al. World guidelines for
+falls prevention and management for older adults: a global initiative. Age
+Ageing. 2022;51(9).
+Opportunistic case finding
+Regular health visit
+Health records
+(if available)
+(30% risk of ≥1 fall
+in the next year)
+Presenting to healthcare
+with fall or related injury
+(70% risk of ≥1 fall in
+the next year)
+Fall in past
+12 months1
+Gait and balance
+impaired3
+Presence of
+fall severity2
+High Risk Goal:
+Secondary prevention
+and treatment
+Intermediate Risk Goal:
+Secondary prevention to
+improve major risk factors
+Low Risk Goal:
+Primary Prevention
+• Tailored exercises on
+balance, gait and strength4
+(physiotherapist referral)
+• Education on falls
+prevention
+• Education on falls prevention
+• Advice on physical activity/
+exercise
+Multifactorial falls
+risk assessment
+Reassess in one year
+Individualised-tailored
+interventions
+Follow-up in 30 to
+90 days5
+Yes
+No
+No
+No
+Yes
+Yes
+CPG on Management of Geriatric Hip Fracture
+LIST OF ABBREVIATIONS
+AO/OTA
+Arbeitsgemeinschaft für Osteosynthesefragen Foundation and
+Orthopaedic Trauma Association
+AAOS
+American Association of Orthopaedic Surgeon
+ACCP
+American College of Chest Physicians
+ADL
+activities of daily living
+AGREE
+Appraisal of Guidelines for Research and Evaluation
+AP
+anterior-posterior
+ASA
+American Society of Anesthesiologists
+AUC
+area under curve
+BD
+twice daily
+CGA
+comprehensive geriatric assessment
+CGC
+comprehensive geriatric care
+CI
+confidence interval
+cm
+centimetre
+CMN
+cephalomedullary nail
+CNB
+central neuraxial blockade
+COX-2
+cyclooxygenase-2
+CPG
+clinical practice guidelines
+CrCl
+creatinine clearance
+CT
+computed tomography
+DG
+development group
+DHS
+dynamic hip screw
+ETD
+Emergency & Trauma Department
+EMD
+extramedullary device
+FICB
+fascia iliaca compartment block
+FLS
+fracture liaison service
+g
+gramme
+GHF(s)
+geriatric hip fracture(s)
+GI
+gastrointestinal
+GRADE
+Grading Recommendations, Assessment, Development and Evaluation
+HA
+hemiarthroplasty
+Hb
+haemoglobin
+HR
+hazard ratio
+HHS
+Harris Hip Score
+ICU
+intensive care unit
+IMN
+intramedullary nail
+INR
+international normalised ratio
+IRR
+incidence rate ratio
+IU
+International unit
+IV
+intravenous
+LMWH
+low molecular weight heparin
+MaHTAS
+Malaysian Health Technology Assessment Section
+MD
+mean difference
+MDR
+multidisciplinary rehabilitation
+mg
+milligramme
+mL/min
+millilitre per minute
+mm
+millimetre
+mmHg
+millimetre mercury
+MNA-SF
+Mini Nutritional Assessment-Short Form
+MoH
+Ministry of Health
+CPG on Management of Geriatric Hip Fracture
+NICE
+National Institute for Health and Care Excellence
+NSAIDs
+non-steroidal anti-inflammatory drugs
+OD
+once daily
+OR(s)
+odds ratio(s)
+OT
+operation theatre
+p
+p value
+PNBs
+peripheral nerve blocks
+PO
+per oral
+PPI
+proton pump inhibitor
+PFN
+proximal femoral nail
+PFNA
+proximal femoral nail anti-rotation
+RCTs
+randomised controlled trial(s)
+RC
+review committee
+RR
+relative risk
+RSI
+risk stratification index
+SGD
+Singapore dollar
+SMD
+standardised mean difference
+THA
+total hip arthroplasty
+UFH
+unfractionated heparin
+U
+units
+vs
+versus
+VTE
+venous thromboembolism
+WHO
+World Health Organization
+CPG on Management of Geriatric Hip Fracture
+ACKNOWLEDGEMENT
+The DG members of these guidelines would like to express their
+gratitude and appreciation to the following for their contributions:
+• Panel of external reviewers who reviewed the draft
+• Technical Advisory Committee of CPG for their valuable input and
+feedback
+• Health Technology Assessment and Clinical Practice Guidelines
+Council for approval of the CPG
+• Ms Subhiyah Ariffin on retrieval of evidence
+DISCLOSURE STATEMENT
+The panel members of both DG and RC had completed disclosure
+forms. None held shares in pharmaceutical firms or acts as consultants
+to such firms. Details are available upon request from the CPG
+Secretariat.
+SOURCE OF FUNDING
+The development of the CPG on Management of GHF was supported
+financially in its entirety by the MoH Malaysia.

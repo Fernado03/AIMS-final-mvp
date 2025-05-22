@@ -1,0 +1,1251 @@
+Management of Unerupted and Impacted Third Molar Teeth
+MINISTRY OF HEALTH MALAYSIA
+ORAL HEALTH PROGRAMME
+MANAGEMENT OF UNERUPTED AND
+IMPACTED THIRD MOLAR TEETH
+(2nd Edition)
+November 2021
+MOH/P/PAK/468.21(GU)-e
+CLINICAL PRACTICE GUIDELINES
+Management of Unerupted and Impacted Third Molar Teeth
+Published by:
+Oral Health Technology Section
+Oral Health Programme
+Ministry of Health Malaysia
+Level 5, Block E10, Precinct 1
+Federal Government Administrative Centre
+62590 Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is Oral Health Programme (OHP), Ministry of Health Malaysia.
+Content may be reproduced in any number of copies and in any format or medium provided that a
+copyright acknowledgement to OHP is included and the content is not changed, not sold, nor used
+to promote or endorse any product or service and not used inappropriately or misleading context.
+ISBN: 978-967-19520-3-0
+Available on the following websites:
+http://www.moh.gov.my
+http://www.ohd.gov.my
+http://www.acadmed.org.my
+Also available as an app for Android and iOS platform: MyMaHTAS
+STATEMENT OF INTENT
+These guidelines update and supplant the previous guidelines developed in 2005 and are based on
+the best available contemporary evidence. They are intended as a guide for the best clinical practice
+in the management of unerupted and/or impacted third molar teeth presently. However, it must be
+noted that adherence to these guidelines do not necessarily lead to the best clinical outcome in
+individual patient care, as every health care provider is responsible for the management of his/her
+unique patient based on the clinical presentation and management options available locally.
+REVIEW OF THE GUIDELINES
+These guidelines were issued in November 2021 and will be reviewed in 2026 or earlier if important
+new evidence becomes available. When it is due for updating, the head of the related specialty will
+be informed about it. A multidisciplinary team will be formed and discussion will be done on the need
+for a revision including the scope of the revised CPG. The systematic review methodology used by
+the Malaysia Health Technology Assessment Section (MaHTAS) will be employed in reviewing the
+guidelines.
+Every care is taken to ensure that this publication is correct in every detail at the time of publication.
+However, in the event of errors or omissions, corrections will be published in the web version of this
+document, which is the definitive version at all times.
+Management of Unerupted and Impacted Third Molar Teeth
+TABLES OF CONTENTS
+Page
+LEVELS OF EVIDENCE
+i
+FORMULATION OF RECOMMENDATION
+i
+LIST OF KEY MESSAGES
+ii
+LIST OF RECOMMENDATIONS
+ii
+GUIDELINES DEVELOPMENT
+iv
+OBJECTIVES AND CLINICAL QUESTIONS
+v
+TARGET POPULATION, TARGET GROUP / USER AND SETTINGS
+vi
+DEVELOPMENT GROUP
+vii
+REVIEWERS
+viii
+ALGORITHM: Management of Unerupted and/or Impacted Third Molar
+ix
+1.
+INTRODUCTION
+1
+2.
+DIAGNOSIS
+2
+2.1
+History Taking & Clinical Examination
+2
+2.2
+Imaging
+2
+2.2.1 Plain Radiography
+2
+2.2.2 Cone Beam Computed Tomography (CBCT)
+3
+3.
+INDICATIONS
+3
+3.1 Caries
+4
+3.2 Periodontal Problems
+5
+3.3 Crowding
+6
+3.4 Cyst / Pathology
+6
+3.5 In the line of Mandibular Fracture
+6
+3.6 Orthognathic Surgery
+6
+3.7 Asymptomatic Third Molar
+6
+4.
+TREATMENT
+7
+4.1
+Conservative
+7
+4.2
+Surgical
+7
+4.2.1 Surgical Procedure
+7
+4.2.2 Coronectomy
+Management of Unerupted and Impacted Third Molar Teeth
+4.2.2.1 Inferior Alveolar Nerve (IAN) Injury
+8
+4.2.2.2 Post-Operative Pain
+8
+4.2.2.3 Post-Operative Infection
+8
+4.2.2.4 Dry Socket / Alveolar Osteitis
+8
+4.2.2.5 Root Migration
+8
+4.2.2.6 Reoperation
+9
+4.3 Perioperative Treatment
+9
+4.3.1 Analgesics
+9
+4.3.2 Antibiotics
+10
+4.3.3 Corticosteroids
+11
+4.3.4 Mouthwash
+11
+4.4 Treatment of Complications
+12
+4.4.1 Dry Socket / Alveolar Osteitis
+12
+4.4.2 Wound Infection / Post-Operative Infection
+12
+4.4.3 Post-Operative Bleeding
+12
+4.4.4 Inferior Alveolar Nerve (IAN) Injury
+13
+4.4.5 Platelet-Rich Fibrin (PRF)
+13
+4.5 Follow-Up
+13
+5.
+IMPLEMENTING THE GUIDELINES
+14
+5.1
+Facilitating and Limiting Factors
+14
+5.2
+Potential Resource Implications
+14
+5.3
+Proposed Clinical Audit Indicators
+15
+REFERENCES
+16
+APPENDIX 1: Search Strategy
+18
+APPENDIX 2: Clinical Questions
+19
+ACKNOWLEDGEMENTS, DISCLOSURE STATEMENT AND SOURCES OF
+FUNDING
+Management of Unerupted and Impacted Third Molar Teeth
+LEVELS OF EVIDENCE
+LEVEL
+STUDY DESIGN
+l
+Evidence obtained from at least one properly designed randomised
+controlled trial.
+ll-1
+Evidence obtained from well-designed controlled trials without
+randomisation.
+ll-2
+Evidence obtained from well-designed cohort or case-control analytic
+studies, preferably from more than one centre or research group.
+ll-3
+Evidence obtained from multiple time series studies, with or without
+intervention. Dramatic results in uncontrolled experiments (such as the
+results of the introduction of penicillin treatment in the 1940s) could also
+be regarded as this type of evidence.
+lll
+Opinions or respected authorities, based on clinical experience;
+descriptive studies and case reports; or reports of expert committees.
+Source: Adapted from Harris RP, Helfand M, Woolf SH, Lohr KN, Mulrow CD, Teutsch SM, Atkins D.
+Current Methods of the U.S. Preventive Services Task Force: A Review of the Process. Am J Prev Med.
+2001;20 (suppl 3):21-35.
+FORMULATION OF RECOMMENDATION
+In line with the current development in CPG methodology, the Grading Recommendations,
+Assessment, Development and Evaluation (GRADE) was adopted in the work process. The
+quality of each retrieved evidence and its effect size are carefully assessed and reviewed
+by the CPG Development Group. In formulating the recommendations, overall balances of
+the following aspects are considered in determining the strength of the recommendations:
+•
+overall quality of evidence
+•
+balance of benefits versus harms
+•
+values and preferences
+•
+resource implications
+•
+equity, feasibility and acceptability
+Management of Unerupted and Impacted Third Molar Teeth
+LIST OF KEY MESSAGES
+Key Message 1
+•
+OPG is used when IOPA is unable to show the relationship between IAN and the
+third molar.
+Key Message 2
+•
+In view of limited evidence, CBCT imaging is indicated in cases where conventional
+(panoramic and/or intraoral) imaging cannot provide satisfactory diagnostic
+information.
+Key Message 3
+•
+The clinical status of second molar is important to determine the need or indication
+for the removal of third molar.
+LIST OF KEY RECOMMENDATIONS
+Recommendation 1
+•
+Removal of third molars may be considered to reduce the risk of dental caries in the
+adjacent second molars.
+Recommendation 2
+•
+Removal of third molars may be considered in reducing periodontal problem in
+adjacent second molars.
+Recommendation 3
+•
+Triangular or envelop flap may be used in the surgical removal of impacted
+mandibular third molars.
+Management of Unerupted and Impacted Third Molar Teeth
+Recommendation 4
+•
+Coronectomy may be considered in the management of unerupted and/or impacted
+mandibular third molar which has close proximity with the IAN to reduce the risk of
+IAN injury.
+Recommendation 5
+•
+Analgesics should be prescribed for removal of third molars.
+o Non-steroidal anti-inflammatory drugs are the preferred option.
+Recommendation 6
+•
+Antibiotics may be considered in third molar surgery when there is significant bone
+removal and/or prolonged operation time.
+o Amoxicillin is the preferred option.
+Recommendation 7
+•
+Corticosteroids should be used in third molar surgery to reduce post-surgery
+oedema and trismus when there is no contraindication.
+Recommendation 8
+•
+Chlorhexidine mouthwash should be used in third molar surgery to prevent dry
+socket.
+Recommendation 9
+•
+Third molars and post-coronectomy cases should be monitored periodically. Patients
+should be made aware of the risks that can arise even when it is asymptomatic and
+be involved in the decision making.
+Management of Unerupted and Impacted Third Molar Teeth
+GUIDELINES DEVELOPMENT
+These clinical practice guidelines (CPG) were developed by a multidisciplinary expert
+committee consisting of Oral & Maxillofacial Surgeons, a Paediatric Dental Specialist, a
+Periodontist, an Orthodontist and a Dental Officer mainly from the Ministry of Health and the
+Ministry of Higher Education.
+The previous edition of the CPG on Management of Unerupted and Impacted Third Molar
+Teeth (December 2005) was used as the basis for the development of these guidelines. The
+recommendations were formulated taking into consideration the best available evidence and
+local practices. Several improvements have been introduced in this edition. The scope has
+been expanded to include new and updated information. In addition, clinical audit indicators
+have also been identified for the purpose of monitoring and evaluating outcomes.
+Literature search was carried out using the following electronic databases: Medline,
+Pubmed, Cochrane Database of Systemic Reviews (CDSR) and Embase while full text
+journal articles were retrieved from these databases. The literature search was limited to
+human study, English language and published articles from 2006 to September 2021. In
+addition, the reference lists of all retrieved literature and guidelines were searched to further
+identify relevant studies. Future CPG updates will consider evidence published after this cutoff date. An example of the search strategy used can be found in Appendix 1. Details of the
+search strategy can be obtained upon request from the CPG Secretariat.
+There were five (5) clinical questions which were assigned to members of the development
+group. The group members met a total of 22 times throughout the development of these
+guidelines. All retrieved articles were appraised using the Critical Appraisal Skill Programme
+(CASP) checklist by at least two members, presented in the form of evidence tables and
+discussed during group meetings. All statements and recommendations formulated were
+agreed upon by both the development group and reviewers. This CPG is based on the
+findings of systematic reviews, randomised controlled trials, observational studies and case
+reports, with local practices taken into consideration. However, when there was lack of
+evidence, recommendations were based on consensus of group members. Although ideally
+patients’ views and preferences need to be considered in the development of CPGs, in this
+instance, it was not feasible.
+Management of Unerupted and Impacted Third Molar Teeth
+The literature used in these guidelines were graded using the US / Canadian Preventive
+Services Task Force Level of Evidence (2001), while the formulation of recommendation was
+done using the principles of GRADE. The writing of the CPG strictly follows the requirements
+of Appraisal of Guidelines Research and Evaluation (AGREE II).
+The draft was reviewed by a panel of internal and external reviewers. Recommendations
+were presented to the Technical Advisory Committee for CPGs, and finally to the HTA and
+CPG Council, Ministry of Health, Malaysia for approval.
+GENERAL OBJECTIVE
+To provide evidence-based recommendations for the best management practices of
+unerupted and/or impacted third molar teeth.
+SPECIFIC OBJECTIVES
+1. To determine indications for removal of unerupted and/or impacted third molar teeth.
+2. To determine suitable imaging modalities for diagnosis and assessment of unerupted
+and/or impacted third molar teeth and their adjacent structures.
+3. To determine factors that affect the outcome of removal of unerupted and/or impacted
+third molar teeth.
+CLINICAL QUESTIONS
+The clinical questions addressed by these guidelines can be found in Appendix 2.
+Management of Unerupted and Impacted Third Molar Teeth
+TARGET POPULATION
+These guidelines are to be applied to all patients presenting with unerupted and/or impacted
+third molar teeth.
+Inclusion criteria
+Newly diagnosed:
+•
+unerupted third molars
+•
+impacted third molars
+•
+unerupted and impacted third molars
+Exclusion criteria
+Nil
+TARGET GROUP / USER
+This document is intended to guide those involved in the management of unerupted and/or
+impacted third molar teeth at any healthcare level including:
+i. Dental specialists
+ii. Dental officers
+iii. General dental practitioners
+iv. Dental students
+v. Patients and their advocates
+vi. Professional societies
+SETTINGS
+Primary and specialist oral healthcare settings.
+Management of Unerupted and Impacted Third Molar Teeth
+DEVELOPMENT GROUP
+Chairperson
+Secretary
+Dr Kok Tuck Choon
+Senior Consultant Oral & Maxillofacial
+Surgeon
+Jabatan Bedah Mulut & Maksilofasial
+Hospital Queen Elizabeth
+88586 Kota Kinabalu, Sabah
+Dr. Hafizah binti Mansor
+Dental Officer
+Jabatan Bedah Mulut & Maksilofasial
+Hospital Shah Alam
+Persiaran Kayangan, Section 7
+40000 Shah Alam, Selangor
+Members
+Dr Bahruddin bin Saripudin
+Senior Consultant Paediatric Dental
+Specialist
+Jabatan Pergigian Pediatrik
+Hospital Tunku Azizah
+Jalan Raja Muda Abdul Aziz
+50300 WP Kuala Lumpur
+Dr Cri Saiful Jordan Melano Bin Basri
+Consultant Oral & Maxillofacial Surgeon
+Jabatan Bedah Mulut & Maksilofasial
+Hospital Seberang Jaya
+Jalan Tun Hussien Onn
+13700 Seberang Jaya, Pulau Pinang
+Dr Sherrie Chong Mei Yee
+Oral & Maxillofacial Surgeon
+Jabatan Bedah Mulut & Maksilofasial
+Hospital Tengku Ampuan Rahimah
+Jalan Langat
+41200 Klang, Selangor
+Dr Khairulzaman bin Adnan
+Oral & Maxillofacial Surgeon
+Jabatan Bedah Mulut & Maksilofasial
+Hospital Sultan Ahmad Shah
+Jalan Maran
+28000 Temerloh, Pahang
+Dr Izrawatie Mardiana binti Shapeen
+Periodontist
+Unit Pakar Periodontik
+Klinik Pergigian Cahaya Suria
+Bangunan UTC Pudu Sentral
+Jalan Pudu
+55100 WP Kuala Lumpur
+Dr Tan Huann Lan
+Senior Lecturer and Oral & Maxillofacial
+Surgeon
+Jabatan Bedah Mulut dan Maksilofasial
+Fakulti Pergigian
+Universiti Kebangsaan Malaysia
+Jalan Raja Muda Abdul Aziz
+50300 WP Kuala Lumpur
+Dr Maria Jirom Gere
+Consultant Orthodontist
+Klinik Pergigian Cahaya Suria
+Bangunan UTC Pudu Sentral
+Jalan Pudu
+55100 WP Kuala Lumpur
+Dr Ferdinand Jesudian K. Pillai
+Consultant Oral & Maxillofacial Surgeon
+Jabatan Bedah Mulut & Maksilofasial
+Hospital Seberang Jaya,
+Jalan Tun Hussein Onn,
+13700 Seberang Jaya, Pulau Pinang
+Management of Unerupted and Impacted Third Molar Teeth
+REVIEWERS (INTERNAL AND EXTERNAL)
+These guidelines were reviewed by a panel of independent reviewers from both public
+and private sectors who were asked to comment primarily on the comprehensiveness and
+accuracy of interpretation of the evidence supporting the recommendations in this CPG.
+The following internal and external reviewers provided comments and feedbacks on the
+proposed draft:
+INTERNAL REVIEWERS
+Dr Stephen Joseph Royan
+Senior Consultant Oral & Maxillofacial
+Surgeon
+Hospital Tuanku Jaafar
+Jalan Rasah
+70300 Seremban, Negeri Sembilan
+Dr Saadah binti Atan
+Senior Consultant Paediatric Dental
+Specialist
+Hospital Tunku Azizah
+Jalan Raja Muda Abdul Aziz
+50300 WP Kuala Lumpur
+EXTERNAL REVIEWERS
+Prof. Dr Ngeow Wei Cheong
+Senior Lecturer and Consultant Oral &
+Maxillofacial Surgeon
+Oral Surgery Department
+University of Malaya
+Jalan Profesor Diraja Ungku Aziz
+50603 WP Kuala Lumpur
+Kol. (Dr) Normah binti Samsuri
+Colonel of Dental Service
+Malaysian Armed Forces
+Headquarters of Malaysian Armed Forces
+Ministry of Defense
+Jalan Tekpi, Off Jalan Padang Tembak
+50634 WP Kuala Lumpur
+Assoc. Prof. Dr Syed Nabil bin Syed
+Omar
+Oral & Maxillofacial Surgeon
+Faculty of Dentistry
+National University of Malaysia
+Jalan Raja Muda Abdul Aziz
+50300 WP Kuala Lumpur
+Assoc. Prof. Dr Savithri a/p N.
+Vengadasalam
+Dental Public Health Specialist
+Faculty of Dentistry, MAHSA University
+Jalan SP2, Bandar Saujana Putra
+42610 Kuala Langat, Selangor
+Dr Ong Siew Tin
+Oral & Maxillofacial Surgeon
+Ong Klinik Pakar Pergigian & Bedah Mulut
+41C & 43C Jalan SS21/37
+Damansara Utama
+47400 Petaling Jaya, Selangor
+Pn. Nor Hazlin binti Hassim
+Educator
+Sekolah Agama Menengah Tinggi
+Tengku Ampuan Jemaah
+Persiaran Bandaraya Seksyen 11
+40000 Shah Alam, Selangor
+Management of Unerupted and Impacted Third Molar Teeth
+Total
+Removal
+Monitoring***
+Look for any of
+these disease:
+● Caries
+● Periodontitis
+● Pericoronitis
+Removal of
+third molar
+Yes
+Yes
+Yes
+Yes
+No
+No
+No
+No
+Unerupted and/or
+impacted third molar
+Presence of
+disease in
+second molar
+Presence of
+symptoms/disease
+on third molar
+Removal of
+second molar
+Imaging
+Good
+prognosis****
+of second molar
+Close
+proximity to
+IAN*
+Options for treatment
+based on risk vs benefit:
+● Total removal
+● Coronectomy**
+ALGORITHM
+MANAGEMENT OF UNERUPTED AND/OR IMPACTED THIRD MOLAR TEETH
+*IAN : Inferior Alveolar Nerve
+**Monitoring of post-coronectomy cases should be done periodically.
+***Patients should be made aware of the risks that can arise even when it is asymptomatic
+and be involved in the decision making.
+****Good prognosis refers to restorable cavity, periodontally stable, etc.
+Management of Unerupted and Impacted Third Molar Teeth
+1.
+INTRODUCTION
+Third molars, also known as wisdom teeth, are generally the last teeth to erupt after the age
+of seventeen. The position of the teeth is posterior to the second molars, where space can be
+limited for the eruption to take place. Impaction of third molars can be due to several factors,
+including lack of space, obstruction by adjacent structures or tooth and abnormal position
+during tooth development. 1 Impacted third molars can be entirely or partially covered by
+bone and/or soft tissue. Wisdom teeth that are partially erupted in dental arches are usually
+visible clinically, but have not achieved the normal functional position.
+The average rate of third molar impaction worldwide was 24.4% in adults 17 years and above.
+The prevalence of mandibular impaction (25.4%) was significantly higher than maxillary
+impaction (14.2%). Adults with impacted wisdom teeth would commonly have one or two
+impacted wisdom teeth rather than three or four impacted teeth. There was no significant
+predilection between genders on the occurrence of impacted third molars. In terms of angle
+of impaction, clinicians would more likely encounter mesio-angular impaction (41.2%),
+followed by vertical (25.6%), disto-angular (12.2%) and horizontal impaction (11.1%). 2
+The introduction of cone beam computed tomography (CBCT) has led clinicians to consider
+its usage for three-dimensional assessment of third molars and its relationship with adjacent
+structures, particularly inferior alveolar nerve (IAN). However, there is a need to address its
+clinical usefulness in these cases.
+Surgical removal of third molar is associated with the risk of IAN injury. In the last two
+decades, a new surgical technique, coronectomy, has been introduced to reduce the risk
+of IAN injury. There has been much debate among clinicians with regards to this technique.
+In view of new developments in the management of unerupted and/or impacted third molar,
+this CPG is updated to include the aforementioned issues. Thus, evidence-based decision
+making in managing unerupted and impacted third molars is necessary to allow clinicians
+to identify and assess updated multifactorial aspects relevant to the management of this
+specific dental condition.
+Management of Unerupted and Impacted Third Molar Teeth
+2.
+DIAGNOSIS
+2.1
+History Taking & Clinical Examination
+Unerupted and/or impacted third molar is diagnosed clinically by detailed history taking and
+good clinical examination. Common signs and symptoms for this condition include:
+•
+pain
+•
+swelling
+•
+trismus
+•
+fever
+Imaging may be required to confirm the diagnosis and to observe the morphology of the tooth
+and surrounding structures and associated pathological conditions (e.g. caries, periodontal
+disease and cyst).
+2.2
+Imaging
+2.2.1 Plain Radiography
+The most commonly used plain radiographs in the management of unerupted and/or impacted
+third molar are orthopantomogram (OPG) and intraoral periapical (IOPA) radiographs. Three
+meta-analyses studied the predictors of inferior alveolar nerve (IAN) exposure in OPG among
+patients with impacted mandibular third molars. The number of primary studies ranged from
+five to nine and of moderate quality. The sensitivities and specificities of the predictors are
+shown in the following table. 3-5, level III
+Table 1. Sensitivities and Specificities of Predictors in IAN Exposure
+Predictor
+Range of Sensitivity (CI)
+Range of Specificity (CI)
+Darkening of root
+0.49 (95% CI 0.39 to 0.60) to
+0.56 (95% CI 0.50 to 0.61)
+0.81 (95% CI 0.80 to 0.83) to
+0.89 (95% CI 0.87 to 0.90)
+Interruption of radiopaque
+border of mandibular canal
+0.39 (95% CI 0.30 to 0.48) to
+0.54 (95% CI 0.44 to 0. 64)
+0.80 (95% CI 0.78 to 0.82) to
+0.84 (95% CI 0.82 to 0.85)
+Diversion of mandibular canal
+0.29 (95% CI 0.21 to 0.97) to
+0.294 (95% CI 0.22 to 0.38)
+0.95 (95% CI 0.936 to 0.957) to
+0.96 (95% CI 0.95 to 0.97)
+Narrowing of canal
+0.15 (95% CI 0.07 to 0.26)
+0.95 (95% CI 0.94 to 0.96)
+Management of Unerupted and Impacted Third Molar Teeth
+Darkening of root and interruption of radiopaque border of mandibular canal were better
+in predicting inferior alveolar nerve injury compared with other predictors. However, it was
+concluded that more high quality evidence is required before OPG can be recommended in
+IAN assessment. 3-5, level III
+Key Message 1
+•
+OPG is used when IOPA is unable to show the relationship between IAN and the
+third molar.
+2.2.2
+Cone Beam Computed Tomography (CBCT)
+CBCT is a recent advancement in dental imaging that provides a three-dimensional view of
+the relationships between orofacial structures. It is widely used in diagnosis and treatment
+planning of unerupted and/or impacted third molar.
+A systematic review studied the diagnostic accuracy of CBCT compared with OPG in
+predicting exposure of IAN in impacted third molar. Two diagnostic studies showed conflicting
+results in the comparison. Due to limited evidence in the systematic review, a firm conclusion
+cannot be made. 6, level I
+Key Message 2
+•
+In view of limited evidence, CBCT imaging is indicated in cases where conventional
+(panoramic and/or intraoral) imaging cannot provide satisfactory diagnostic
+information.
+3.
+INDICATIONS
+The decision to remove the impacted third molars must be made with due consideration to
+the patient’s overall health status and the potential risks of complications. The indications of
+removing the impacted third molars are discussed below.
+Management of Unerupted and Impacted Third Molar Teeth
+3.1
+Caries
+In a meta-analysis of moderate quality cross-sectional studies, the presence of third molars
+led to increased risk of caries in adjacent molars: 7, level III
+•
+Third molars in A versus C positions (OR=3.45, 95% CI 2.28 to 5.22) based on Pell &
+Gregory classification (Figure 1).
+•
+Third molars in horizontal versus vertical (OR=8.12, 95% CI 3.75 to 17.58) and
+distoangular (OR=9.75, 95% CI 3.49 to 27.25) positions based on Winter’s classification
+(Figure 2).
+•
+Third molars in mesioangular vs vertical (OR=7.25, 95% CI 3.48 to 15.10) and
+distoangular (OR=9.54, 95% CI 3.47 to 26.21) positions based on Winter’s classification.
+Figure 1. Pell & Gregory Classification 8
+Class A impaction. Occlusal
+plane of impacted as
+occlusal plane of second
+molar.
+Class B impaction. Occlusal
+plane of impacted tooth is
+between occlusal plane
+and cervical line of second
+molar.
+Class C impaction.
+Impacted tooth is below
+cervical line of second
+molar.
+Figure 2. Winter’s Classification 9
+However, in another Cochrane systematic review with moderate risk of bias, a cohort study
+showed no difference in the prevalence of distal caries associated with the adjacent second
+molar in the absence compared with the presence of bony impacted wisdom teeth (RR=0.69,
+95% CI 0.27 to 1.82). 10, level I
+Management of Unerupted and Impacted Third Molar Teeth
+In local setting, removal of third molar should be considered when caries is present in third molar
+and unlikely to be restored. Removal may also be considered when there is distal caries on the
+second molar.
+Key Message 3
+•
+The clinical status of second molar is important to determine the need or indication
+for the removal of third molar.
+Recommendation 1
+•
+Removal of third molars may be considered to reduce the risk of dental caries in the
+adjacent second molars.
+3.2
+Periodontal Problems
+In a Cochrane systematic review, presence of third molar can secondarily lead to greater
+probing depth (RR=0.63, 95% CI 0.37 to 1.04) and alveolar bone loss on the distal surface
+of second molar (RR=0.32, 95% CI 0.19 to 0.54). 10, level I
+In the same review, the absence of third molar compared to when it is present showed: 10, level I
+•
+reduced risk of probing depth >4 mm associated with distal of adjacent second molar
+in the presence of soft tissue impaction (RR=0.15, 95% CI 0.07 to 0.34) but not in bony
+impaction (RR=0.63, 95% CI 0.37 to 1.04).
+•
+reduced risk of alveolar bone loss at distal of adjacent second molar in presence of soft
+tissue or bony impaction with RR of 0.11 (95% CI 0.06 to 0.22) and 0.32 (95% CI 0.19 to
+0.54) respectively.
+Recommendation 2
+•
+Removal of third molars may be considered in reducing periodontal problem in
+adjacent second molars.
+Management of Unerupted and Impacted Third Molar Teeth
+3.3
+Crowding
+In a Cochrane systematic review, a randomised clinical trial (RCT) comparing surgical
+removal and retention of asymptomatic disease-free third molars showed no significant
+effect on dimensional changes in the dental arch (crowding): 10, level I
+•
+Little’s irregularity index (mean difference, MD= -0.3 mm, 95% CI -1.3 to 0.7)
+•
+Intercanine width (MD= -0.01 mm, 95% CI -0.37 to 0.35)
+Although there were differences in arch length (MD= -1.03 mm, 95% CI -0.56 to -1.50), it was
+unlikely to be clinically significant. 10, level I However, this RCT had high risk of bias. Thus, the
+systematic review did not provide strong evidence to support or refute the prophylactic removal
+of disease-free impacted third molars to prevent crowding.
+3.4
+Cyst / Pathology
+Impacted third molars should be removed when it is associated with cyst / tumour. 11, level III
+3.5
+In the line of Mandibular Fracture
+Angle of the mandible is a common site for mandibular fracture. Impacted lower third molar
+can be in the line of the fracture and poses possible complications such as infection if not
+removed. Generally, removal of an impacted third molar may be considered based on clinical
+judgment.
+3.6
+Orthognathic Surgery
+One of the complications during bilateral sagittal split osteotomy (BSSO) in orthognathic surgery
+is bad split, which is an unwanted pattern of fracture. A meta-analysis showed no significant
+difference in the incidence of bad split between lower third molars removed concomitantly
+during surgery and at least six months preoperatively (OR=1.16, 95% CI 0.73 to 1.85). 12, level II-2
+However, lower third molars are usually removed prior to surgery in clinical practice.
+3.7
+Asymptomatic Third Molar
+The prophylactic removal of asymptomatic third molars is defined as removal of third molars
+in the absence of local diseases. Based on a Cochrane systematic review, there was
+insufficient evidence to determine removal of asymptomatic impacted third molars. 10, level I
+However, consideration needs to be given to the risk to the adjacent second molar or there
+may be other possible risks to retention of third molar due to patient’s medical or surgical
+condition. The clinician needs to balance the risks and benefits with patient’s involvement.
+Management of Unerupted and Impacted Third Molar Teeth
+4.
+TREATMENT
+4.1
+Conservative
+A Cochrane systematic review could not provide sufficient evidence to support the removal
+or retention of asymptomatic third molars in preventing further problems e.g: crowding and
+cyst formation. 10, level I
+4.2
+Surgical
+4.2.1
+Surgical Procedure
+The surgical procedure in removal of impacted third molar generally involves:
+•
+raising of soft tissue flaps (triangular or envelope) for exposure with or without lingual
+flap retraction
+•
+removing bone using either chisel or bur with irrigation
+•
+delivering the whole tooth with or without prior division
+•
+performing wound toilet and suturing
+A Cochrane systematic review consisting of low to moderate quality primary studies evaluated
+the relative beneﬁts and risks of different techniques for undertaking various aspects or
+stages of the surgical removal of mandibular wisdom teeth. The review concluded that: 13, level I
+•
+Triangular ﬂaps were associated with reduction in pain at 24 hours (MD= -0.21, 95% CI
+-0.32 to -0.10) and a 71% reduction in alveolar osteitis at one week (RR=0.29, 95% CI
+0.11 to 0.78) compared with envelope ﬂaps. There was no difference in overall infection
+rates, maximum mouth opening or permanent loss of sensation. However, there was
+slight increase in residual swelling after one week in the triangular ﬂap (MD=0.66 mm,
+95% CI 0.26 to 1.07).
+•
+Lingual flap retraction caused more temporary altered sensation up to one month
+(Peto OR=5.19, 95% CI 1.38 to 19.49).
+•
+No conclusion could be made on bone removal using bur or chisel in view of small
+number of studies and heterogeneity in the outcomes.
+There is insufficient evidence on the use of lingual flap retraction and bone removal in
+impacted third molar surgery. However, in local practice, lingual flap retraction is generally
+not performed because of the possible injury to lingual nerve, while bur is usually used for
+bone removal.
+Management of Unerupted and Impacted Third Molar Teeth
+Recommendation 3
+•
+Triangular or envelope flap may be used in the surgical removal of impacted
+mandibular third molars.
+4.2.2
+Coronectomy
+Coronectomy is an alternative procedure for surgical removal of impacted mandibular third
+molars that present with a high risk of inferior alveolar nerve injury. The main aim of coronectomy
+technique is to prevent inferior alveolar nerve injury by removing the wisdom tooth crown and
+leaving behind the roots that show signs of proximity with IAN undisturbed. 14, level I
+Key criteria for coronectomy include: 15, level III
+•
+high risk of IAN injury
+•
+vital mandibular third molar
+•
+healthy non-immunocompromised patient
+•
+access to care for (and understanding of) related coronectomy risks
+4.2.2.1 Inferior Alveolar Nerve (IAN) Injury
+In a meta-analysis of moderate quality RCTs and CCTs, coronectomy has lower risk of IAN
+injury probability (OR=0.11, 95% CI 0.03 to 0.36) than total removal of the mandibular third
+molar. 14, level I
+4.2.2.2 Post-Operative Pain
+Similar meta-analysis reported that there was no significant difference between total removal
+of third molars and coronectomy in post-operative pain (OR=0.8, 95% CI 0.28 to 2.66). 14, level I
+4.2.2.3 Post-Operative Infection
+There was no significant difference in the risk of post-operative infection between total
+removal of third molars and coronectomy (OR=0.87, 95% CI 0.41 to 1.84). 14, level I
+4.2.2.4 Dry Socket / Alveolar Osteitis
+The risk of dry socket occurrence in coronectomy was lower in comparison with total removal
+of mandibular third molar (OR=0.44, 95% CI 0.10 to 0.96). 14, level I
+4.2.2.5 Root Migration
+There is possibility of root migration in post-coronectomy cases. However, the occurrence of
+root migration could not be pooled due to lack of homogenous data. 14, level I
+Management of Unerupted and Impacted Third Molar Teeth
+4.2.2.6 Reoperation
+From a systematic review of moderate quality RCTs and CCTs, the incidence of reoperation
+for removal of retained root after initial successful coronectomy is infrequent, ranging
+between 0.6% to 6.9%. 16, level I
+Recommendation 4
+•
+Coronectomy may be considered in the management of unerupted and/or impacted
+mandibular third molar which has close proximity with the IAN to reduce the risk of
+IAN injury.
+4.3
+Perioperative Treatment
+4.3.1
+Analgesics
+Analgesic is an important component in the management of impacted third molar. In a
+Cochrane systematic review, ibuprofen 400 mg was reported to be more effective than
+paracetamol 1000 mg in postoperative pain management following the surgical removal of
+lower wisdom teeth. 17, level I
+•
+The risk ratio of patient with >50% maximum total pain relief (TOTPAR) over two hours
+was 1.30 (95% CI 1.09 to 1.55)
+•
+The risk ratio of patient with >50% TOTPAR over six hours was 1.47 (95% CI 1.28 to
+1.69)
+In another comparison, combined analgesics (ibuprofen and paracetamol) was more
+effective than single drugs in achieving >50% TOTPAR over six hours (RR=1.77, 95% CI
+1.32 to 2.39). 17, level I All drugs studied in this review were generally considered safe with
+minimal side effects noted when used for short-term pain relief. The quality of primary papers
+was generally moderate.
+In another meta-analysis, three out of five RCTs reported better analgesic efficacy of nonsteroidal anti-inflammatory drugs (NSAIDs) compared with tramadol in surgical removal of
+third molars. The other two RCTs showed similar efficacy. In terms of safety, 21.8% (95% CI
+13.81 to 29.86) of patients experienced adverse effects from tramadol with number needed
+to harm (NNH) of 4.6 (95% CI 3.3 to 7.2). 18, level I However, there was no mention of the quality
+assessment of the primary papers.
+Management of Unerupted and Impacted Third Molar Teeth
+In local setting, NSAIDs such as ibuprofen, diclofenac sodium, celecoxib and etoricoxib are
+commonly prescribed for removal of third molars. Tramadol is usually used for patients when
+NSAIDs are contraindicated. Paracetamol is used in combination with NSAIDs or Tramadol
+for breakthrough pain control.
+Recommendation 5
+•
+Analgesics should be prescribed for removal of third molars.
+o Non-steroidal anti-inflammatory drugs are the preferred option.
+4.3.2
+Antibiotics
+Infection is one of the complications in post-operative unerupted impacted third molar. Two
+meta-analyses addressed the use of antibiotics as prophylaxis for this condition.
+In a Cochrane systematic review of 18 RCTs, any regimen of systemic antibiotic prophylaxis
+administered before or after third molar removal compared with placebo in healthy patients
+resulted in reduction of: 19, level I
+•
+infection (RR=0.29, 95% CI 0.16 to 0.50)
+•
+pain (MD= -8.17, 95% CI -11.90 to -4.45)
+•
+dry socket (RR=0.62, 95% CI 0.41 to 0.95)
+A recent good quality meta-analysis of five RCTs showed that prophylactic amoxycillin
+reduced the risk of infection compared with no treatment / placebo in healthy patients before
+and after removal of third molar but not significant (OR=0.26, 95% CI 0.06 to 1.17). 20, level I
+The antibiotics were associated with an increase in mild and transient adverse effects
+compared with placebo (RR=1.98, 95% CI 1.10 to 3.59). 19, level I However, there was no
+increased risk of adverse effects in the amoxicillin group compared with no treatment /
+placebo (OR=0.71, 95% CI 0.32 to 1.60). 20, level I
+In an evidence-based local guidelines on the use of antibiotic prophylaxis in oral surgery for
+prevention of surgical site infection, antibiotic prophylaxis may be indicated for minor surgery
+with a high degree of difficulty in which the duration of the surgery is predicted to be long.
+21, level III In local setting, prophylactic amoxicillin has been given in lower third molar surgery
+when there is significant bone removal and/or prolonged operation time.
+Management of Unerupted and Impacted Third Molar Teeth
+Recommendation 6
+•
+Antibiotics may be considered in third molar surgery when there is significant
+bone removal and/or prolonged operation time.
+o Amoxicillin is the preferred option.
+4.3.3
+Corticosteroids
+A meta-analysis on 12 clinical trials showed that various types of perioperative corticosteroids
+significantly reduced early and late oedema and trismus but not pain. 22, level I The primary
+papers used were of moderate quality. The time of administration and dosage of the
+corticosteroids varied among studies.
+In another meta-analysis of 11 moderate quality RCTs, submucosal injection of
+dexamethasone compared with control (inactive treatment) showed: 23, level I
+•
+reduced oedema in early (standard mean difference, SMD=3.28, 95% CI 2.21 to 4.36)
+and late (SMD=0.56, 95% CI 0.27 to 0.86) period post-surgery
+•
+reduced trismus in early (SMD=5.34, 95% CI 2.44 to 8.24) and late (SMD=1.84, 95%
+CI 0.38 to 3.29) period post-surgery
+The outcome on pain could not be pooled because of heterogeneity.
+In the papers that were reviewed, the side effects of corticosteroids used in third molar
+surgeries were not well addressed.
+Recommendation 7
+•
+Corticosteroids should be used in third molar surgery to reduce post-surgery
+oedema and trismus when there is no contraindication.
+4.3.4
+Mouthwash
+In a Cochrane systematic review, rinsing perioperatively with chlorhexidine (0.12% and 0.2%)
+was effective in preventing dry socket after the extraction of third molar teeth (RR=0.58, 95%
+CI 0.43 to 0.78). There were no serious side effects or reactions reported unless there was
+allergic reaction to chlorhexidine. 24, level I
+Management of Unerupted and Impacted Third Molar Teeth
+Recommendation 8
+•
+Chlorhexidine mouthwash should be used in third molar surgery to prevent dry
+socket.
+4.4
+Treatment of Complications
+The complications rate of third molar surgery ranges from 9.1% to 12.6%. The most common
+complications are: 25, level III
+•
+dry socket / alveolar osteitis (0.3% - 35%)
+•
+wound infection / post-operative infection (1% - 16%)
+•
+post-operative bleeding (1.5%)
+•
+lingual and inferior alveolar nerve injuries
+o transient disturbances of the inferior alveolar nerve (0.4 - 0.6%)
+o transient disturbances of the lingual nerve (0.06 - 11.5%)
+o permanent nerve disturbances (0.2 - 1%)
+4.4.1
+Dry Socket / Alveolar Osteitis
+A Cochrane systematic review was unable to provide sufficient evidence to recommend any
+treatment for dry socket. 24, level I
+4.4.2
+Wound Infection / Post-Operative Infection
+Based on clinical judgement, it is suggested that antibiotics should be given to treat
+established post-operative infection.
+4.4.3
+Post-Operative Bleeding
+Post-operative bleeding from surgical removal of unerupted and/or impacted third molars
+can originate from local or systemic causes. Due to limited evidence, it is suggested that
+post-operative bleeding should be treated accordingly.
+Management of Unerupted and Impacted Third Molar Teeth
+4.4.4
+Inferior Alveolar Nerve (IAN) Injury
+The improvement of neurosensory deficit with surgical and non-surgical treatment varies.
+This was not evaluated in any RCT and thus no firm conclusion can be drawn on it at present.
+4.4.5
+Platelet-Rich Fibrin (PRF)
+Platelet-rich fibrin (PRF) is platelet concentrates that act as a reservoir and release of
+important growth factors such as vascular endothelial growth factor (VEGF), transforming
+growth factor (TGF) and platelet derived growth factor (PDGF). In a meta-analysis of low
+to moderate quality RCTs with moderate risk of bias, the use of PRF in post-operative
+mandibular third molar removal: 26, level I
+•
+reduced post-operative pain on day-3 (SMD= -0.53, 95% CI -1.02 to -0.05)
+•
+reduced swelling on day-1 (WMD= -0.55, 95% CI -1.08 to -0.01)
+•
+reduced risk of alveolar osteitis (RR=0.35, 95% CI 0.16 to 0.75)
+•
+had no significant improvement on trismus, osteoblastic activity and soft tissue healing.
+However, there is limited evidence on the use of PRF in reduction of pain, swelling and
+alveolar osteitis. Therefore, there is no strong clinical benefit on the use of PRF in postoperative third molar surgeries.
+4.5
+Follow-Up
+There was insufficient evidence to recommend a specific follow-up. The Faculty of Dentistry
+England 2020 recommended that active surveillance or clinical review may be considered
+for third molars which are not indicated for removal. 15, level III
+The American Association of Oral Maxillofacial Surgeon (AAOMS) recommended that the
+frequency of follow-up visits be approximately every 24 months and the examination be
+completed by a specialist or general dentist. Active surveillance as a management strategy
+is based on expert opinion. 15, level III
+In local setting, monitoring of unerupted and/or impacted third molars and post-coronectomy
+should be done as part of routine dental check-up annually in view of future diseases that
+may be associated with retained third molars.
+Recommendation 9
+•
+Third molars and post-coronectomy cases should be monitored periodically. Patients
+should be made aware of the risks that can arise even when it is asymptomatic and
+be involved in the decision making.
+Management of Unerupted and Impacted Third Molar Teeth
+5.
+IMPLEMENTING THE GUIDELINES
+It is important to standardise the management of unerupted and/or impacted third molars in
+an appropriate manner at all healthcare levels in Malaysia using an evidence-based CPG
+in order to manage it appropriately. Clinicians are required to keep abreast with knowledge
+through continuing professional education as well as understanding of patients’ expectations.
+Therefore, it is important for these guidelines to be disseminated to all healthcare
+professionals in primary and secondary healthcare facilities. This can be facilitated through
+the development of appropriate training modules and quick references. Several factors may
+affect the implementation of the recommendations of the CPG.
+5.1
+Facilitating and Limiting Factors
+Existing facilitators for application of the recommendations in the CPG include:
+a) wide dissemination of the CPG to healthcare professionals and teaching institutions via
+printed and electronic copies
+b) continuing professional education on the management of unerupted and/or impacted
+third molar teeth for healthcare professionals
+c) adequate facilities at primary and secondary care level for diagnosing and treating
+unerupted and/or impacted third molar teeth
+Existing barriers for application of the recommendations of the CPG include:
+a) lack of understanding or limited knowledge on the management of unerupted and/or
+impacted third molar teeth
+b) variation in skills and treatment practices
+c) constraints in equipment and facilities
+5.2
+Potential Resource Implications
+To implement the CPG, there must be strong commitment to:
+a) ensure widespread distribution of the CPG in hard and soft copy to healthcare
+professionals in primary and secondary healthcare facilities
+b) strengthen training of healthcare professionals to ensure knowledge and information is
+up to date
+Management of Unerupted and Impacted Third Molar Teeth
+5.3
+Proposed Clinical Audit Indicators
+To assist in the implementation of the CPG, the following are proposed as clinical audit
+indicators for quality management of unerupted and/or impacted third molars:
+Percentage of nerve
+injury following surgical
+removal of impacted
+lower third molar
+=
+Number of patients developed
+nerve injury after surgical removal of
+impacted lower third molar yearly
+X
+100%
+Number of impacted lower third molar
+surgery cases done yearly
+Percentage of patients
+given chlorhexidine
+mouthwash
+perioperatively for
+surgical removal of
+impacted lower third
+molar developed dry
+socket.
+=
+Number of patients given chlorhexidine
+mouthwash perioperatively for surgical
+removal of impacted lower third molar
+developed dry socket yearly
+X
+100%
+Number of patients given chlorhexidine
+mouthwash perioperatively for surgical
+removal of impacted lower third molar
+done yearly
+Management of Unerupted and Impacted Third Molar Teeth
+REFERENCES
+1.
+Mettes TG, Ghaeminia H, Nienhuijs MEL, Perry J, Van Der Sanden WJ, Plasschaert A. Surgical
+Removal versus Retention for the Management of Asymptomatic Impacted Wisdom Teeth.
+Cochrane Database Syst Rev. 2012; (6): CD003879.
+2.
+Carter K, Worthington S. Predictors of third molar impaction: A systematic review and metaanalysis. J Dent Res. 2016; 95: 267-276.
+3.
+Su N, van Wijk A, Berkhout E, Sanderink G, De Lange J, Wang H, van der Heijden GJMG.
+Predictive Value of Panoramic Radiography for Injury of Inferior Alveolar Nerve After Mandibular
+Third Molar Surgery. J Oral Maxillofac Surg. 2017; 75(4): 663-679.
+4.
+Liu W, Yin W, Zhang R, Li J, Zheng Y. Diagnostic value of panoramic radiography in predicting
+inferior alveolar nerve injury after mandibular third molar extraction: a meta-analysis. Aust Dent
+J. 2015; 60(2): 233-9.
+5.
+Atieh MA. Diagnostic accuracy of panoramic radiography in determining relationship between
+inferior alveolar nerve and mandibular third molar. J Oral Maxillofac Surg. 2010; 68(1): 74-82.
+6.
+Guerrero ME, Shahbazian M, Elsiena Bekkering G, Nackaerts O, Jacobs R, Horner K. The
+diagnostic efficacy of cone beam CT for impacted teeth and associated features: a systematic
+review. J Oral Rehabil. 2011; 38(3): 208-16.
+7.
+Glória JCR, Martins CC, Armond ACV, Galvão EL, Dos Santos CRR, Falci SGM. Third Molar
+and Their Relationship with Caries on the Distal Surface of Second Molar: A Meta-analysis. J
+Maxillofac Oral Surg. 2018; 17(2): 129-41.
+8.
+Peterson LJ, Ellis E, Hupp JR, Tucker MR. Contemporary Oral and Maxillofacial Surgery. St
+Louis: CV Mosby Co. 1988; 229-30.
+9.
+Jadu F, Alhazmi D, Badr F, Jan A. Classification of impacted mandibular third molars in a sample
+of the Saudi population as assessed by cone beam CT. J Am Sci. 2016; 12(11): 24-27.
+10.
+Ghaeminia H, Perry J, Nienhuijs ME, Toedtling V, Tummers M, Hoppenreijs TJ, Van der Sanden
+WJ, Mettes TG. Surgical removal versus retention for the management of asymptomatic
+disease-free impacted wisdom teeth. Cochrane Database Syst Rev. 2016; (8): CD003879.
+11.
+NICE. Guidance on the Extraction of Wisdom Teeth. National Institute for Health and Care
+Excellence, 2000 (Accessed 15 August 2019 at https://www.nice.org.uk/guidance/ta1/resources/
+guidance-on-the-extraction-of-wisdom-teeth-pdf-63732983749).
+12.
+Steenen SA, van Wijk AJ, Becking AG. Bad splits in bilateral sagittal split osteotomy: systematic
+review and meta-analysis of reported risk factors. Int J Oral Maxillofac Surg. 2016; 45(8): 971-9.
+13.
+Coulthard P, Bailey E, Esposito M, Furness S, Renton TF, Worthington HV. Surgical techniques
+for the removal of mandibular wisdom teeth. Cochrane Database Syst Rev. 2014; (7): CD004345.
+14.
+Cervera-Espert J, Pérez-Martínez S, Cervera-Ballester J, Peñarrocha-Oltra D, PeñarrochaDiago M. Coronectomy of impacted mandibular third molars: A meta-analysis and systematic
+review of the literature. Med Oral Patol Oral Cir Bucal. 2016; 21(4): e505-13.
+Management of Unerupted and Impacted Third Molar Teeth
+15.
+FDS Parameters of care for patients undergoing mandibular third molar surgery. Faculty of
+Dental Surgery, The Royal College of Surgeons of England, 2020 (Accessed 19 August 2021 at
+https://www.rcseng.ac.uk/dental-faculties/fds/publications-guidelines/clinical-guidelines/).
+16.
+Martin A, Perinetti G, Costantinides F, Maglione M. Coronectomy as a surgical approach to
+impacted mandibular third molars: a systematic review. Head Face Med. 2015; 11: 9.
+17.
+Bailey E, Worthington HV, van Wijk A, Yates JM, Coulthard P, Afzal Z. Ibuprofen and/or
+paracetamol (acetaminophen) for pain relief after surgical removal of lower wisdom teeth.
+Cochrane Database Syst Rev. 2013; (12): CD004624.
+18.
+Isiordia-Espinoza MA, Pozos-Guillén AJ, Aragon-Martinez OH. Analgesic efficacy and safety
+of single-dose tramadol and non-steroidal anti-inflammatory drugs in operations on the third
+molars: a systematic review and meta-analysis. Br J Oral Maxillofac Surg. 2014; 52: 775–783.
+19.
+Lodi G, Figini L, Sardella A, Carrassi A, Del Fabbro M, Furness S. Antibiotics to prevent
+complications following tooth extractions. Cochrane Database Syst Rev. 2012 Nov 14; 11:
+CD003811.
+20.
+Isiordia-Espinoza MA, Aragon-Martinez OH, Martínez-Morales JF, Zapata-Morales JR. Risk of
+wound infection and safety profile of amoxicillin in healthy patients which required third molar
+surgery: a systematic review and meta-analysis. Br J Oral Maxillofac Surg. 2015; 53(9): 796804.
+21.
+OHP Clinical Practice Guidelines. Antibiotic Prophylaxis In Oral Surgery For Prevention of
+Surgical Site Infection. Oral Health Programme, Ministry of Health, Malaysia, 2015.
+22.
+Markiewicz MR, Brady MF, Ding EL, Dodson TB. Corticosteroids reduce postoperative morbidity
+after third molar surgery: a systematic review and meta-analysis. J Oral Maxillofac Surg. 2008;
+66(9): 1881-94.
+23.
+Chen Q, Chen J, Hu B, Feng G, Song J. Submucosal injection of dexamethasone reduces
+postoperative discomfort after third-molar extraction: A systematic review and meta-analysis. J
+Am Dent Assoc. 2017; 148(2): 81-91.
+24.
+Daly B, Sharif MO, Newton T, Jones K, Worthington HV. Local interventions for the management
+of alveolar osteitis (dry socket). Cochrane Database Syst Rev. 2012; 12: CD006968.
+25.
+OHP Clinical Practice Guidelines. Management of Unerupted and Impacted Third Molar Tooth.
+Oral Health Programme, Ministry of Health, Malaysia, 2005.
+26.
+Xiang X, Shi P, Zhang P, Shen J, Kang J. Impact of platelet-rich fibrin on mandibular third molar
+surgery recovery: a systematic review and meta-analysis. BMC Oral Health. 2019; 19: 163.
+Management of Unerupted and Impacted Third Molar Teeth
+Appendix 1
+Example of Search Strategy
+Literature search was carried out using the following electronic databases: Medline, Pubmed,
+Cochrane Database of Systemic Reviews (CDSR) and Embase while full text journal articles
+were retrieved from these databases. The following Medical Subject Heading terms of
+free text terms were used either singly or in combination. The literature search was limited
+to human study, English language and published articles from inception of databases to
+September 2021.
+Clinical Question: How to diagnose unerupted and impacted third molar teeth?
+1.
+MOLAR, THIRD/ (6807)
+2.
+TOOTH, UNERUPTED/ (1776)
+3.
+TOOTH, IMPACTED/ (7153)
+4.
+Third molar*.tw. (10008)
+5.
+((unerupted or impacted or wisdom) adj1 teeth).tw. (2370)
+6.
+((unerupted or impacted or wisdom) adj1 tooth).tw. (1273)
+7.
+1 or 2 or 3 or 4 or 5 or 6 (18561)
+8.
+DIAGNOSIS/ (17435)
+9.
+diagnose*.tw. (792185)
+10.
+(diagnose* adj1 examination*).tw. (250)
+11.
+8 or 9 or 10 (808747)
+12.
+7 and 11 (568)
+13.
+limit 12 to (english language and humans and yr=”2006 -Current”) (334)
+Management of Unerupted and Impacted Third Molar Teeth
+Appendix 2
+CLINICAL QUESTIONS
+a)
+How to diagnose unerupted and/or impacted third molar teeth?
+b)
+What is plain radiograph and CBCT’s role in treatment of unerupted and/or impacted
+third molar teeth?
+c)
+What are the indications for removal of unerupted and/or impacted third molar teeth?
+•
+Caries
+•
+Periodontal problem
+•
+Cyst / Pathology
+•
+Crowding
+•
+In the line of mandibular fracture
+•
+Asymptomatic / Prophylactic removal
+•
+Orthognatic surgery
+d)
+Are the following treatments effective and safe in unerupted and/or impacted third
+molar teeth removal?
+•
+Surgical procedure
+•
+Antibiotic
+•
+Steroid
+•
+Analgesic
+•
+Platelet-Rich Fibrin (PRF)
+•
+Coronectomy
+e)
+What are the complications of unerupted and/or impacted third molar teeth removal?
+Management of Unerupted and Impacted Third Molar Teeth
+ACKNOWLEDGEMENTS
+The members of the development group of these guidelines would like to express their
+gratitude and appreciation to the following for their contributions:
+-
+Panel of internal and external reviewers
+-
+Technical Advisory Committee for CPG for their valuable input and feedback
+-
+HTA and CPG Council for approval of the CPG
+-
+Dr Mohd Aminuddin bin Mohd Yusof and Dr Ainol Haniza binti Kherul Anuwar, CPG
+Unit, Malaysian Health Technology Assessment Section, Medical Development
+Division, Ministry of Health Malaysia
+-
+Dr Maryana binti Musa and Dr Aina Najwa binti Mohd Khairuddin, Oral Health
+Technology Section, Oral Health Programme, Ministry of Health Malaysia
+-
+All those who have contributed directly or indirectly to the development of the CPG
+DISCLOSURE STATEMENT
+The panel members had completed disclosure forms. None held shares in pharmaceutical
+firms or acts as consultants to such firms. (Details are available upon request from the CPG
+Secretariat)
+SOURCES OF FUNDING
+The development of the CPG on “Management of Unerupted and Impacted Third Molar
+Teeth” was supported financially in its entirety by the Ministry of Health Malaysia and was
+developed without any involvement of the pharmaceutical industry.
+Management of Unerupted and Impacted Third Molar Teeth
+Oral Health Technology Section
+Oral Health Programme
+Ministry of Health Malaysia
+Level 5, Block E10, Precinct 1
+Federal Government Offices Centre
+62590 Putrajaya, Malaysia
+ISBN 978-967-19520-3-0
+9 7 8 9 6 7 1 9 5 2 0 3 0

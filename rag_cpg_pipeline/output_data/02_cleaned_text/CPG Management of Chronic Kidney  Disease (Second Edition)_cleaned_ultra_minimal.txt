@@ -1,0 +1,3077 @@
+CLINICAL PRACTICE GUIDELINES
+2018 MOHIIPAKIG96.18(GU)
+CHRONIC KIDNEY DISEASE
+(SECOND EDITION)
+Management of Chronic Kidney Disease in Adults (Second Edition)
+Published by:
+Malaysian Health Technology Assessment Section (MaHTAS)
+Medical Development Division, Ministry of Health Malaysia
+Level 4, Block E1, Precinct 1
+Federal Government Administrative Centre 62590
+Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is MaHTAS. Content may be
+reproduced in any number of copies and in any format or medium
+provided that a copyright acknowledgement to MaHTAS is included and
+the content is not changed, not sold, nor used to promote or endorse
+any product or service, and not used in an inappropriate or misleading
+context.
+ISBN: 978-967-2173-39-7
+Available on the following websites:
+http://www.moh.gov.my
+http://www.acadmed.org.my
+https://www.msn.org.my
+Also available as an app for Android and IOS platform: MyMaHTAS
+STATEMENT OF INTENT
+These clinical practice guidelines (CPG) are meant to be guides for
+clinical practice, based on the best available evidence at the time of
+development. Adherence to these guidelines may not necessarily
+guarantee the best outcome in every case. Every healthcare provider is
+responsible for the management of his/her unique patient based on the
+clinical picture presented by the patient and the management options
+available locally.
+Management of Chronic Kidney Disease in Adults (Second Edition)
+UPDATING THE CPG
+These guidelines were issued in 2018 and will be reviewed in a
+minimum period of four years (2022) or sooner if new evidence becomes
+available. When it is due for updating, the Chairman of the CPG or
+National Advisor of the related specialty will be informed about it. A
+discussion will be done on the need for a revision including the scope of
+the revised CPG. A multidisciplinary team will be formed and the latest
+systematic review methodology used by MaHTAS will be employed.
+Every care is taken to ensure that this publication is correct in every
+detail at the time of publication. However, in the event of errors or
+omissions, corrections will be published in the web version of this
+document, which is the definitive version at all times. This version can
+be found on the websites mentioned above.
+Management of Chronic Kidney Disease in Adults (Second Edition)
+TABLE OF CONTENTS
+No.
+Title
+Page
+Levels of Evidence and Grading Recommendations,
+i
+Assessment, Development and Evaluation
+Key Recommendations
+ii
+Guidelines Development and Objectives
+v
+Development Group
+viii
+Review Committee
+ix
+External Reviewers
+x
+Algorithm 1 Screening and Investigations for
+xi
+Chronic Kidney Disease in Adults
+with Diabetes
+Algorithm 2 Screening and Investigations for
+xii
+Chronic Kidney Disease in Adults
+without Diabetes
+Algorithm 3 Evaluation of Haematuria in
+xiii
+Chronic Kidney Disease in Adults
+Algorithm 4 Treatment for Chronic Kidney Disease
+xiv
+in Adults
+1.
+INTRODUCTION
+1
+2.
+RISK FACTORS
+2
+3
+ASSESSMENT
+4
+3.1 Screening
+4
+3.2 Renal Function
+6
+3.3 Renal Ultrasound
+7
+3.4 Classification
+8
+4.
+INTERVENTIONS IN DELAYING THE PROGRESSION
+11
+OF CHRONIC KIDNEY DISEASE
+4.1 Treatment of Hypertension and Proteinuria for
+11
+Renoprotection
+4.2 Glycaemic Control for Renoprotection
+16
+4.3 Protein Restriction for Renoprotection
+17
+4.4 Lipid Lowering for Renoprotection
+17
+4.5 Uric Acid Reduction for Renoprotection
+18
+4.6 Miscellaneous Agents for Renoprotection
+18
+4.7 Special Precautions
+Management of Chronic Kidney Disease in Adults (Second Edition)
+TABLE OF CONTENTS
+No.
+Title
+Page
+5.
+INTERVENTIONS IN REDUCING THE RISK OF
+20
+CARDIOVASCULAR DISEASE IN CHRONIC
+KIDNEY DISEASE
+5.1 Lipid Lowering Agents
+20
+5.2 Antiplatelet Agents
+20
+6.
+CHRONIC KIDNEY DISEASE WITH PREGNANCY
+22
+7.
+REFERRAL
+24
+8.
+SCREENING FOR COMPLICATIONS
+26
+8.1 Anaemia
+26
+8.2 Chronic Kidney Disease-Mineral and Bone Disorder
+27
+9.
+IMPLEMENTING THE GUIDELINES
+29
+9.1 Facilitating and Limiting Factors
+29
+9.2 Potential Resource Implications
+29
+10.
+REFERENCES
+31
+Appendix 1 Example of Search Strategy
+35
+Appendix 2 Clinical Questions
+36
+Appendix 3 Dosage Recommendation in CKD for
+37
+Commonly Prescribed Oral Medications
+Appendix 4 United States Food and
+45
+Drug Administration (FDA)
+Pharmaceutical Pregnancy Categories
+List of Abbreviations
+46
+Acknowledgement
+47
+Disclosure Statement
+47
+Source of Funding
+Management of Chronic Kidney Disease in Adults (Second Edition)
+i
+LEVELS OF EVIDENCE
+SOURCE: US / CANADIAN PREVENTIVE SERVICES TASK FORCE 2001
+FORMULATION OF RECOMMENDATION
+In line with new development in CPG methodology, the CPG Unit of
+MaHTAS is in the process of adapting Grading Recommendations,
+Assessment, Development and Evaluation (GRADE) in its
+work process. The quality of each retrieved evidence and its effect
+size are carefully assessed/reviewed by the CPG Development
+Group. In formulating the recommendations, overall balances of the
+following aspects are considered in determining the strength of the
+recommendations:
+• overall quality of evidence
+• balance of benefits versus harms
+• values and preferences
+• resource implications
+• equity, feasibility and acceptability
+Level
+I
+II-1
+II-2
+II-3
+III
+Study design
+Evidence from at least one properly randomised controlled trial
+Evidence obtained from well-designed controlled trials without
+randomisation
+Evidence obtained from well-designed cohort or case-control
+analytic studies, preferably from more than one centre or
+group
+Evidence from multiple time series with or without intervention.
+Dramatic results in uncontrolled experiments (such as the
+results of the introduction of penicillin treatment in the 1940s)
+could also be regarded as this type of evidence
+Opinions of respected authorities based on clinical experience;
+descriptive studies and case reports; or reports of expert
+committees
+Management of Chronic Kidney Disease in Adults (Second Edition)
+ii
+KEY RECOMMENDATIONS
+The following recommendations are highlighted by the CPG
+Development Group as the key recommendations that answer the
+main questions addressed in the CPG and should be prioritised for
+implementation.
+Risk factors
+• Patients with diabetes mellitus and/or hypertension should be
+screened at least yearly for chronic kidney disease (CKD).
+• Screening for CKD may be considered for patients with:
+ age >65 years old
+ obesity
+ cardiovascular disease
+ metabolic syndrome
+ drugs e.g. nephrotoxic drugs, long-term use of proton-pump
+inhibitors or analgesics
+ family history of CKD or hereditary kidney disease
+ gout
+ multisystem diseases with potential kidney involvement e.g.
+systemic lupus erythematosus
+ structural renal tract disease, renal calculi or prostatic hypertrophy
+ opportunistic (incidental) detection of haematuria or proteinuria
+Assessment and classification
+• Renal function should be assessed using estimated glomerular
+filtration rate (eGFR) based on the 2009 CKD-epidemiology (CKDEPI) creatinine equation.
+• Serum creatinine should not be used alone in the assessment of
+renal function.
+• Kidney Disease Improving Global Outcomes (KDIGO) staging should
+be used to classify chronic kidney disease.
+Management of Chronic Kidney Disease in Adults (Second Edition)
+Treatment
+• Blood pressure target for chronic kidney disease (CKD) should be
+aimed at*:
+SBP=systolic blood pressure
+*Blood pressure targets should be individualised according to co-morbidities and
+age.
+• Angiotensin-Converting
+Enzyme
+Inhibitor
+(ACEi)/Angiotensin
+Receptor Blocker (ARB) should be used as first-line agent in:
+ diabetic kidney disease (DKD) with albuminuria
+ non-DKD when urinary protein excretion ≥1.0 g/day
+ non-DKD with hypertension when urinary protein excretion ≥0.5
+g/day
+• The target HbA1c should be ≤7% in DKD but this should be
+individualised according to co-morbidities and age.
+• Statin should be offered to patients with CKD for primary and
+secondary prevention of cardiovascular events.
+• Aspirin should be used in patients with CKD for secondary prevention
+of cardiovascular disease (CVD).
+• Aspirin should not be used as primary prevention of CVD in CKD.
+• Combination of clopidogrel with aspirin should be avoided in patients
+with CKD unless compelling indications are present.
+Pregnancy
+• All female patients of reproductive age with chronic kidney disease
+(CKD) should receive pre-pregnancy care.
+• Pregnancy should be avoided in women with either:
+ moderate to severe renal impairment
+ poorly controlled hypertension
+ heavy proteinuria
+ active systemic disease
+• All pregnant women with CKD should be co-managed by a
+multidisciplinary team.
+iii
+Diabetic Kidney
+Disease (DKD)
+Non-DKD
+Cause
+≥1 g/day
+<1 g/day
+≤130/80 mmHg
+(SBP 120 to 130 mmHg)
+≤130/80 mmHg
+(SBP 120 to 130 mmHg)
+≤130/80 mmHg
+(SBP 120 to 130 mmHg)
+≤140/90 mmHg*
+(SBP 120 to 140 mmHg)
+Proteinuria
+Management of Chronic Kidney Disease in Adults (Second Edition)
+Referral
+• A patient with chronic kidney disease (CKD) with any of the following
+criteria should be referred to a nephrologist/physician:
+ persistent heavy proteinuria [urine protein ≥1 g/day or urine
+protein: creatinine ratio (uPCR) ≥100 mg/mmol*] despite optimal
+treatment
+ persistent isolated microscopic haematuria after excluding
+urogynaecological cause
+ persistent haematuria with proteinuria (urine protein ≥0.5 g/day or
+uPCR ≥50 mg/mmol*)
+ rapidly declining renal function [loss of estimated glomerular
+filtration rate (eGFR) >5 ml/min/1.73 m2 in one year or >10 ml/
+min/1.73 m2 within five years]
+ eGFR <30 ml/min/1.73 m2 (eGFR categories G4 - G5)
+ resistant hypertension (failure to achieve target blood pressure
+despite three antihypertensive agents including a diuretic)
+ suspected renal artery stenosis
+ suspected hereditary kidney disease
+ pregnant or when pregnancy is planned
+ persistent abnormalities of serum potassium
+ unexplained cause of CKD
+*This is an estimation for practical purpose. The actual conversion of urine
+protein 1 g/day=uPCR 113 mg/mmol.
+Management of Chronic Kidney Disease in Adults (Second Edition)
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+GUIDELINES DEVELOPMENT
+The members of the Development Group (DG) for these Clinical
+Practice Guidelines (CPG) were from the Ministry of Health (MoH),
+Ministry of Higher Education and private healthcare. There was active
+involvement of a multidisciplinary Review Committee (RC) during the
+process of the CPG development.
+The CPG update was done based on the first edition of evidencebased CPG on Management of Chronic Kidney Disease (CKD) in
+Adults, issued in 2011. In the update, certain methodology was used
+e.g. GRADE principles, and the scope expanded/added on risk factors,
+classification, treatment, pregnancy and complications (e.g. anaemia
+and CKD-Mineral Bone Disease). Dietary interventions and lifestyle
+modification were not included. A literature search was carried out
+using the following electronic databases: mainly Medline via Ovid and
+Cochrane Database of Systemic Reviews and others e.g. Pubmed and
+Guidelines International Network (refer to Appendix 1 for Example of
+Search Strategy). The search was limited to literature published in the
+last four years, on humans and in English. In addition, the reference
+lists of all retrieved literature and guidelines were searched to further
+identify relevant studies. Experts in the field were also contacted to
+identify further studies. All searches were conducted from 13 May 2016
+to 10 October 2016. Literature searches were repeated for all clinical
+questions at the end of the CPG development process allowing any
+relevant papers published before 31 December 2017 to be included.
+Future CPG updates will consider evidence published after this cut-off
+date. The details of the search strategy can be obtained upon request
+from the CPG Secretariat.
+References were made to other CPGs on CKD e.g.
+• KDIGO 2012 Clinical Practice Guideline for the Evaluation and
+Management of Chronic Kidney Disease (Kidney Disease: Improving
+Global Outcomes CKD Work Group, 2013)
+• Chronic kidney disease in adults: assessment and management
+(National Institute for Health and Care Excellence, 2014)
+• Chronic Kidney Disease (CKD) Management in General Practice
+(3rd Edition) (Kidney Health Australia, 2015)
+The CPGs were evaluated using the Appraisal of Guidelines for
+Research and Evaluation (AGREE) II prior to being used as references.
+A total of 11 main clinical questions were developed under four
+different sections (screening, treatment, referral and CKD-related
+complications). Members of the DG were assigned individual questions
+within these sections (refer to Appendix 2 for Clinical Questions).
+The DG members met 19 times throughout the development of
+Management of Chronic Kidney Disease in Adults (Second Edition)
+these guidelines. All literature retrieved were appraised by at least
+two DG members using Critical Appraisal Skill Programme checklist,
+presented in evidence tables and further discussed in DG meetings.
+All statements and recommendations subsequently formulated were
+agreed upon by both the DG and RC. Where evidence was insufficient,
+the recommendations were made by consensus of the DG and RC.
+This CPG is based largely on the findings of systematic reviews, metaanalyses and clinical trials, with local practices taken into consideration.
+The literature used in these guidelines were graded using the US/
+Canadian Preventive Services Task Force Level of Evidence (2001),
+while the grading of recommendation was done using the principles of
+GRADE (refer to the preceding page). The writing of the CPG strictly
+follows the requirement of AGREE II.
+On completion, the draft of the CPG was reviewed by external
+reviewers. It was also posted on the MoH Malaysia official website
+for feedback from any interested parties. The draft was finally
+presented to the Technical Advisory Committee for CPG, and the
+HTA and CPG Council MoH Malaysia for review and approval. Details
+on the CPG development methodology by MaHTAS can be obtained
+from Manual on Development and Implementation of Evidencebased Clinical Practice Guidelines published in 2015 (available at
+http://www.moh.gov.my/penerbitan/mymahtas/CPG_MANUAL_MAHTAS.pdf).
+Management of Chronic Kidney Disease in Adults (Second Edition)
+OBJECTIVES
+The objectives of the CPG are to provide recommendations on the
+following:
+• Identification of risk in developing CKD
+• Screening and early detection of CKD
+• Treatment of early CKD to prevent progression
+• Reduction in risk of cardiovascular disease in CKD
+• Management of CKD in special populations
+• Indications and timing for referral
+• Screening for CKD-related complications
+CLINICAL QUESTIONS
+Refer to Appendix 2
+TARGET POPULATION
+a. Inclusion Criteria
+•
+Adults at risk of/with CKD
+b. Exclusion Criteria
+•
+CKD patients on dialysis and transplant
+The CPG will also not address detail treatment for CKD-related
+complications and specific renal diseases.
+TARGET GROUP/USERS
+This document is intended to guide health professionals and relevant
+stakeholders in primary and secondary/tertiary care in the management
+of CKD in adults including:
+i. doctors
+ii. allied health professionals
+iii. trainees and medical students
+iv. policy makers
+v. patients and their advocates
+vi. professional societies
+HEALTHCARE SETTINGS
+Primary and secondary/tertiary care settings
+Management of Chronic Kidney Disease in Adults (Second Edition)
+viii
+DEVELOPMENT GROUP
+Chairperson
+Dr. Ching Chen Hua
+Consultant Nephrologist
+Hospital Sultanah Bahiyah, Kedah
+Members (alphabetical order)
+Dr. Ang Hock Aun
+Consultant Physician & Endocrinologist
+Bagan Specialist Centre, Pulau Pinang
+Dr. Anita Bhajan Manocha
+Consultant Nephrologist
+Hospital Seberang Jaya, Pulau Pinang
+Dr. Iliza Idris
+Family Medicine Specialist
+Klinik Kesihatan Ampangan
+Negeri Sembilan
+Dr. Kong Wei Yen
+Lecturer & Consultant Nephrologist
+Pusat Perubatan Universiti Kebangsaan Malaysia, Kuala Lumpur
+Dr. Kow Fei Ping
+Family Medicine Specialist
+Klinik Kesihatan Bandar Baru Air Itam
+Pulau Pinang
+Associate Professor Dr. Lim Soo Kun
+Lecturer & Consultant Nephrologist
+Pusat Perubatan Universiti Malaya
+Kuala Lumpur
+Ms. Manjulaa Devi Subramaniam
+Clinical Pharmacist
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Mohd. Aminuddin Mohd. Yusof
+Head, Clinical Practices Guidelines Unit
+MaHTAS, Ministry of Health, Putrajaya
+Dr. Sunita Bavanandan
+Consultant Nephrologist
+Hospital Kuala Lumpur, Kuala Lumpur
+Management of Chronic Kidney Disease in Adults (Second Edition)
+ix
+REVIEW COMMITTEE
+The draft guidelines were reviewed by a panel of experts from both
+public and private sectors. They were asked to comment primarily on
+the comprehensiveness and accuracy of the interpretation of evidence
+supporting the recommendations in the guidelines.
+Chairperson
+Dato’ Dr. Tan Chwee Choon
+Senior Consultant Nephrologist
+Members
+Dr. Baizury Bashah
+Consultant Family Medicine Specialist
+Klinik Kesihatan Kuala Lumpur, Kuala Lumpur
+Datuk Dr. Ghazali Ahmad Kutty
+Head of Department & Senior Consultant Nephrologist
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Hooi Lai Seong
+Senior Consultant Nephrologist
+Dr. Junainah Sabirin
+Deputy Director
+MaHTAS, Ministry of Health, Putrajaya
+Dr. Norkasihan Ibrahim
+Clinical Pharmacist
+Hospital Kuala Lumpur, Kuala Lumpur
+Dato’ Dr. Ong Loke Meng
+Senior Consultant Nephrologist
+Hospital Pulau Pinang, Pulau Pinang
+Dr. Mithra A/P Seganathirajah
+Consultant General Physician
+Hospital Serdang, Selangor
+Dato’ Dr. Zaki Morad Mohamad Zaher
+Consultant Nephrologist, KPJ Ampang Puteri Specialist Hospital &
+Chairman, National Kidney Foundation
+Management of Chronic Kidney Disease in Adults (Second Edition)
+x
+EXTERNAL REVIEWERS (in alphabetical order)
+The following external reviewers provided feedback on the draft:
+Professor Dr. Amir S. Khir
+Foundation Professor Medicine,
+Penang Medical College &
+Consultant Endocrinologist,
+Gleneagles Penang Hospital
+Pulau Pinang
+Dr. Bee Boon Cheak
+Consultant Nephrologist
+Hospital Selayang, Selangor
+Ms. Choong Chiau Ling
+Clinical Pharmacist
+Hospital Selayang, Selangor
+Dr. Chuah Siew Kee
+Consultant General Physician
+Pantai Hospital, Kelang, Selangor
+Assoc. Prof. Dr. Jimmy Teo Boon Wee
+Head, Division of Nephrology
+Yong Loo Lin School of Medicine
+National University of Singapore
+Singapore
+Dr. Mohd. Fozi Kamarudin
+Consultant Family Medicine Specialist
+Klinik Kesihatan Beseri, Perlis
+Assoc. Prof. Dr. Nik Sherina Haidi Hanafi
+Consultant Family Medicine Specialist
+Pusat Perubatan Universiti Malaya
+Kuala Lumpur
+Dr. Ong Hean Teik
+Consultant Cardiologist
+HT Ong Heart Clinic, Pulau Pinang
+Dr. Philip Navaratnam Jeremiah
+Consultant Physician & Nephrologist
+Ampang Puteri Specialist Hospital
+Kuala Lumpur
+Dr. Sharmini Diana Parampalam
+Consultant Obstetrician & Gynaecologist
+Hospital Pulau Pinang, Pulau Pinang
+Professor Dr. Sydney Tang Chi Wai
+Chair of Renal Medicine &
+Yu Professor in Nephrology
+The University of Hong Kong, China
+Professor Dr. Winnie Chee Siew Swee
+Consultant Dietitian
+International Medical University
+Kuala Lumpur
+Management of Chronic Kidney Disease in Adults (Second Edition)
+xi
+ALGORITHM 1. SCREENING AND INVESTIGATIONS FOR
+CHRONIC KIDNEY DISEASE IN ADULTS WITH DIABETES
+Source: Ministry of Health Malaysia. Management of Chronic Kidney Disease in
+Adults. Putrajaya: MoH; 2011
+Urine dipstick for protein
+a) Type 1: After 5 years history of
+diabetes or earlier in the presence of
+other cardiovascular risk factors.
+b) Type 2: At time of diagnosis
+NEGATIVE
+POSITIVE on 2 occasions
+(Urine protein >0.3 mg/mol)
+(exclude other causes e.g. urinary
+tract infection (UTI), congestive
+cardiac failure (CCF), others)
+Overt nephropathy
+Screen for
+microalbuminuria
+on early morning
+spot urine
+POSITIVE
+NEGATIVE
+Yearly test for
+microalbuminuria
+and renal function
+Retest twice in 3 - 6 months
+(exclude other causes e.g.
+UTI, CCF, others)
+• If 2 of 3 tests are
+positive, diagnosis of
+diabetic kidney
+disease is established
+• Quantify
+microalbuminuria
+• 3- to 6-monthly followup of microalbuminuria
+• Check renal function
+• Exclude other
+nephropathies
+• Perform renal
+ultrasound scan if
+indicated (refer to
+Section 3.3)
+Quantify
+proteinuria
+Management of Chronic Kidney Disease in Adults (Second Edition)
+xii
+ALGORITHM 2. SCREENING AND INVESTIGATIONS FOR
+CHRONIC KIDNEY DISEASE IN ADULTS WITHOUT DIABETES
+Source: Ministry of Health Malaysia. Management of Chronic Kidney Disease in
+Adults. Putrajaya: MoH; 2011
+Risk factors for Chronic Kidney Disease:
+•
+hypertension
+•
+age >65 years old
+•
+obesity
+•
+cardiovascular disease
+•
+metabolic syndrome
+•
+drugs e.g. nephrotoxic drugs, long-term use of
+proton-pump inhibitors or analgesics
+•
+family history of CKD or hereditary kidney disease
+•
+gout
+•
+multisystem diseases with potential kidney
+involvement e.g. systemic lupus
+erythematosus
+•
+structural renal tract disease, renal calculi or
+prostatic hypertrophy
+•
+opportunistic (incidental) detection of haematuria
+Check urine using dipstick
+(refer to Section 3.1)
+Proteinuria on
+2 out of 3 occasions
+Yearly urine test
+and renal function test
+(refer to Section 3.2)
+•
+Quantify proteinuria
+•
+Check renal function
+(refer to Section 3.2)
+•
+Perform renal ultrasound scan
+if indicated (refer to Section 3.3)
+NO
+YES
+Management of Chronic Kidney Disease in Adults (Second Edition)
+xiii
+ALGORITHM 3. EVALUATION OF HAEMATURIA IN CHRONIC KIDNEY DISEASE IN ADULTS
+Presence of microscopic haematuria
+Signs and
+symptoms
+of UTI
+Yes
+No
+• Treat infection
+• Confirm resolution of
+microscopic
+haematuria with
+follow-up urinalysis
+after six weeks
+completion of
+therapy
+Yes
+No
+Stop
+contributing
+factors
+Refer to
+nephrologist
+Refer to
+urologist
+*vigorous exercise, trauma to urethra,
+menstruation, medications
+**proteinuria, red cell casts, dysmorphic red
+blood cells, elevated creatinine
+Other
+aetiologies*
+Evidence of
+glomerular
+disease**
+Yes
+No
+Re-test for
+microscopic
+haematuria
+No
+haematuria
+Discharge
+Presence of haematuria
+Management of Chronic Kidney Disease in Adults (Second Edition)
+ALGORITHM 4. TREATMENT FOR CHRONIC KIDNEY DISEASE IN ADULTS
+Source: Ministry of Health Malaysia. Management of Chronic Kidney Disease in Adults. Putrajaya: MoH; 2011
+Diabetic Kidney Disease
+• Optimisation of glycaemic control
+• Strict blood pressure (BP) control
+• Angiotensin-Converting Enzyme
+Inhibitor (ACEi)/Angiotensin
+Receptor Blocker (ARB)
+Non-Diabetic Kidney Disease
+Hypertension
+(BP >140/90
+mmHg)
+Yes
+No
+Proteinuria
+( 0.5 g/day)
+Yes
+Proteinuria
+( 1.0 g/day)
+Yes
+No
+No
+Any antihypertensive to
+achieve target BP
+• ACEi/ARB (preferred)
+• Non-dihydropyridine calcium channel blockers
+General measures in the management of CKD
+•
+Encourage exercise, weight reduction and Manage cardiovascular risks including
+smoking cessation dyslipidaemia
+•
+•
+•
+Restrict sodium intake to <2,400 mg/day Monitor renal profile according to individual
+(1 teaspoon of table salt) patient’s characteristics (baseline renal
+•
+Avoid excessive protein intake function, risk factors for CKD progression and
+•
+Identify other end-organ damage of diabetes specific treatment given)
+and hypertension
+Diagnosis of Chronic Kidney Disease (CKD)
+Management of Chronic Kidney Disease in Adults (Second Edition)
+1. INTRODUCTION
+Chronic kidney disease (CKD) has emerged as a global public health
+problem because of the increasing number of patients with CKD, risk of
+progression to end-stage renal disease (ESRD), and high morbidity and
+mortality.1 This growing figure will impose enormous socio-economic
+burdens on the healthcare system.
+CKD is a common but silent and often under-recognised condition.
+The Malaysian National Health and Morbidity Survey 2011 showed a
+prevalence of 9.07% in adults with CKD, and only 4% of respondents
+were aware of the diagnosis.2 There were 37,183 patients on regular
+dialysis in 2015, with 7,595 new patients entering dialysis.3 The number
+of Malaysians with CKD is projected to significantly increase in the future
+mainly due to the increasing prevalence of diabetes, hypertension and
+the aging population.
+CKD is a strong risk factor for mortality and coronary events.4, 5 However,
+it is preventable and treatable. If CKD is detected early and managed
+appropriately, the deterioration in kidney function can be reduced by as
+much as 50%.6 Lifestyle changes, initiation of Angiotensin-Converting
+Enzyme Inhibitor (ACEi) or Angiotensin Receptor Blocker (ARB) are
+proven interventions to delay renal disease progression and also
+reduce cardiovascular disease (CVD) risk.
+In Taiwan, the prevalence of CKD was estimated to be 11.9% while
+awareness was only 3.5%.7 After the introduction of a nationwide CKD
+Preventive Project in 2001, consisting of screening high-risk populations,
+patient education and multidisciplinary team care, the prevalence rate
+was greatly reduced and the annual growth rate of patients requiring
+dialysis decreased from 6% to 3%.8 This is a successful CKD prevention
+programme that can be emulated in Malaysia.
+Early detection at primary care and timely intervention are important
+strategies in delaying CKD progression. Shared decision making and
+close collaboration between different levels of healthcare should
+be implemented in the management of CKD locally.
+The aim of this CPG is to provide an evidence-based guidance
+for healthcare providers to screen for CKD and commence early
+interventions to ameliorate or even halt the progression of CKD. It can
+also be used as a reference for the relevant stakeholders when forming
+public health plans for comprehensive CKD management.
+Management of Chronic Kidney Disease in Adults (Second Edition)
+2. RISK FACTORS
+Early detection and intervention on patients at risk of CKD may prevent
+the development and progression of the disease.
+Recommendation 1
+• Patients with diabetes mellitus and/or hypertension should be
+screened at least yearly for chronic kidney disease (CKD).
+• Screening for CKD may be considered for patients with:
+○ age >65 years old
+○ obesity
+○ cardiovascular disease
+○ metabolic syndrome
+○ drugs e.g. nephrotoxic drugs, long-term use of proton-pump
+inhibitors or analgesics
+○ family history of CKD or hereditary kidney disease
+○ gout
+○ multisystem diseases with potential kidney involvement e.g.
+systemic lupus erythematosus
+○ structural renal tract disease, renal calculi or prostatic hypertrophy
+○ opportunistic (incidental) detection of haematuria or proteinuria
+The risk factors of CKD are as follows:
+A. Diabetes mellitus
+Diabetes mellitus (DM) is an established risk factor for CKD.
+Patients with DM should be screened at least yearly for CKD.9
+B. Hypertension
+Hypertension may be a cause or consequence of CKD and may
+accelerate the progression of renal disease leading to ESRD.
+Patients with hypertension should also be screened at least yearly
+for CKD.9
+C. Age
+Individual >65 years are at increased risk of CKD.9
+D. Obesity
+Obesity increases the risk of developing low estimated glomerular
+filtration rate (eGFR) with RR of 1.18 (95% CI 1.09 to 1.28) and
+albuminuria with RR of 1.51 (95% CI 1.36 to 1.67), independent of
+metabolic syndrome.10, level II-2
+E. Cardiovascular Disease
+Patients with atherosclerotic vascular disease have 1.4 times
+greater risk of developing CKD compared with those without the
+disease in a 2-year follow-up.9
+Management of Chronic Kidney Disease in Adults (Second Edition)
+F. Metabolic Syndrome
+Metabolic syndrome is a risk factor for CKD as shown by a large
+meta-analysis of 11 cohort studies (OR=1.55, 95% CI 1.34 to
+1.80). The strength of the association increases as the number of
+components of metabolic syndrome increases (p=0.02).11, level II-2
+G. Drugs
+There is conflicting evidence in the association between chronic
+non-steroidal anti-inflammatory drugs (NSAIDs), aspirin and
+paracetamol usage and the development of CKD.9 However, among
+the most common risk factors for acute decline in GFR for patients
+with established CKD is NSAIDs, including cyclooxygenase-2
+inhibitors.12
+Use of proton pump inhibitors (PPI) has been shown to
+significantly increase the risk of developing CKD (RR/OR range
+of 1.10 to 1.50)13 - 15, level II-2 and progression of CKD (HR between
+1.26 to 1.32).15 - 16, level II-2 The risk correlates with cumulative dose
+of exposure.14 - 16, level II-2 However, this association was not evident
+with cumulative dose of H2-blocker.16, level II-2
+• Certain herbal products including those containing aristolochic acid
+are associated with CKD.9
+H. Family history
+Family history of kidney disease in first degree relatives increases
+the risk of CKD by 40% in a 25-year follow-up.9
+I.
+Other risk factors
+Gout17, level II-2 and asymptomatic hyperuricaemia18, level II-2 are
+associated with CKD.
+Individuals with incidental detection of proteinuria and/or haematuria
+during opportunistic medical screening need to be investigated for
+CKD.9
+Other possible risk factors include autoimmune disease,
+nephrolithiasis, structural renal tract disease, prostatic hypertrophy,
+low birth weight of <2,500 g, smoking, low socioeconomic status,
+anaemia, nocturia and physical inactivity.9
+Management of Chronic Kidney Disease in Adults (Second Edition)
+3. ASSESSMENT
+3.1 Screening
+CKD screening includes urinalysis and renal function.
+3.1.1 Proteinuria
+Recommendation 2
+• Urine dipstick should be used to screen for proteinuria and
+haematuria.
+• In patients with diabetes, albumin: creatinine ratio on an early
+morning spot urine sample should be performed to screen for
+microalbuminuria if urine dipstick for protein is negative.
+Proteinuria has both diagnostic and prognostic value in CKD. Presence
+of proteinuria should be confirmed by a repeat test within three months.
+Refer to Algorithm 1 and 2 on Screening and Investigations for CKD
+in Adults with and without Diabetes.
+Urine protein excretion may be influenced by factors as shown in Table 1.
+Table 1. Factors affecting urinary protein excretion
+Source: Ministry of Health Malaysia. Management of Chronic Kidney Disease in
+Adults. Putrajaya: MoH; 2011
+Albumin concentration should be reported as a ratio to urinary creatinine
+concentration [urine albumin: creatinine ratio (ACR) in mg/mmol or
+mg/g].12 Urine ACR is highly sensitive and specific for microalbuminuria.
+An early morning urine sample is preferred to minimise the effect of
+posture and exercise.9
+Increases protein excretion
+• Strenuous exercise
+• Uncontrolled DM
+• Uncontrolled hypertension
+• Heart failure
+• UTI
+• Acute febrile illness
+• Haematuria
+• Menstruation
+• Pregnancy
+Decreases protein excretion
+• ACEi/ARB
+• NSAIDs
+Management of Chronic Kidney Disease in Adults (Second Edition)
+The proposed albuminuria categories A1-3 are more clinically
+meaningful than the term microalbuminuria. The term microalbuminuria
+is discouraged as it can be misleading in suggesting that the albumin
+may be small or different in some way.12
+24-hour urine collection should be used for protein quantification.
+However, an early morning urine protein: creatinine ratio (uPCR) can
+be used as an alternative.12
+The diagnosis of proteinuria is shown in Table 2.9
+Table 2. Diagnosis of abnormal protein or albumin excretion
+Source: Ministry of Health Malaysia. Management of Chronic Kidney Disease in
+Adults. Putrajaya: MoH; 2011
+Refer to Algorithm 1 and 2 on screening and investigations in CKD.
+3.1.2 Haematuria
+Persistence microscopic haematuria may indicate significant pathology
+such as infection, glomerulonephritis, renal calculi, malignancy and
+other forms of kidney damage. A positive dipstick test for blood on two
+out of three occasions warrant a full microscopic examination.
+Urine microscopy (preferably phase contrast microscopy) on a fresh
+specimen can be used to differentiate haematuria of glomerular or nonglomerular origin. Non-glomerular haematuria warrants a urological
+evaluation. Refer to Algorithm 3 on Evaluation of Haematuria in
+Chronic Kidney Disease in Adults.
+Urine
+dipstick
+reading
+Urine PCR
+in
+mg/mmol
+Urine total
+protein
+excretion
+in g/24
+hour
+Urine ACR
+in
+mg/mmol
+Urine
+albumin
+excretion
+in
+µg/min
+(mg/24 hour)
+Class
+Normal
+Negative
+<15
+Microalbuminuria Negative
+<15
+Trace
+15 - 44
+Macroalbuminuria
+1+
+2+
+3+
+45 - 149
+0.45 - 1.49
+150 - 449 1.50 - 4.49
+≥450
+≥4.50
+0.15 - 0.44
+<0.15
+<0.15
+≥2.5 to 30
+(male)
+≥3.5 to 30
+(female)
+<2.5 (male)
+<3.5
+(female)
+<20
+(<30)
+20 - 200
+(30 - 300)
+>200
+(>300)
+>30
+Management of Chronic Kidney Disease in Adults (Second Edition)
+3.2 Renal Function
+Recommendation 3
+• Renal function should be assessed using estimated glomerular
+filtration rate (eGFR) based on the 2009 CKD-epidemiology (CKDEPI) creatinine equation.
+• Serum creatinine should not be used alone in the assessment of
+renal function.
+Serum creatinine (SCr) is not sensitive to diagnose early CKD as it
+is affected by age, gender, ethnicity, muscle mass and dietary protein
+intake. It will only rise after a 50% decline of eGFR.9 (Refer to Figure 1)
+Figure 1. The relationship between glomerular filtration rate and
+serum creatinine concentration
+Adapted: Investigation of renal function (1) (Available at https://clinicalgate.com/
+investigation-of-renal-function-1/)
+There are various formulae to evaluate eGFR. CKD-epidemiology
+(CKD-EPI) creatinine equation validated in the Western population
+has shown superiority over the Modification of Diet in Renal Disease
+(MDRD) equation especially at higher eGFR (>60 ml/min/1.73 m2).19, level III
+A study in Malaysian population showed that CKD-EPI creatinine
+equation had better accuracy over MDRD in patients with eGFR
+<60 ml/min/1.73 m2 and ≥90 ml/min/1.73 m2, using Cr-51-EDTA as
+a reference. However, both formulae were comparable in those with
+eGFR between 60 and 89 ml/min/1.73 m2.20, level III
+In the elderly (age >65 years), there is no accurate method to assess
+renal function. The Cockcroft-Gault Creatinine Clearance equation, MDRD
+Serum creatinine
+(µmol/L)
+1000
+800
+600
+400
+200
+0
+0
+20
+40
+60
+80 100 120 140 160
+GFR (mL/min)
+Reference
+interval
+Management of Chronic Kidney Disease in Adults (Second Edition)
+equation and cystatin C have the highest correlation to the gold
+standards e.g. inulin, Cr-51-EDTA, Tc-DTPA or iohexol assays.21, level III More
+studies are required to address the best formula for this age group.
+The Cockcroft-Gault equation has been traditionally used for drug
+dosing based on creatinine clearance. In recent practice, CKD-EPI
+equation is used for drug dosing based on eGFR especially for newer
+generation drugs. However drug dosing adjustment should be done
+according to the United States Food and Drug Administrative- or
+European Medicines Agency-approved product labelling.
+Cystatin C is used for eGFR assessment and it is independent of
+muscle mass, age, sex, weight, height or dietary protein intake.9
+The combination of SCr and serum cystatin C is more accurate than
+either marker alone for eGFR. Cystatin C is expensive and not widely
+available. It may be used for confirmation of CKD in adults with eGFR of
+45 - 59 ml/min/1.73 m2 with no other markers of kidney damage.22, level III
+Equations for Estimation of Renal Function
+i. 2009 CKD-EPI creatinine equation =
+141 x min (Scr/κ,1)α x max (Scr/κ,1)-1.209 x 0.993Age [x 1.018 if female]
+[x 1.159 if black], where Scr is serum creatinine (in mg/dl), κ is 0.7
+for females and 0.9 for males, α is -0.329 for females and -0.411 for
+males, min indicates the minimum of Scr/κ or 1, and max indicates
+the maximum of Scr/κ or 1
+ii. Cockcroft-Gault Creatinine Clearance =
+CrCl (ml/min/1.73 m2) = (140 - age (yrs)) x body weight (kg)/SCr
+(umol/l) x Constant where the constant is 1.23 in male or 1.04 in
+female
+When creatinine-based equations are used, calibration of SCr should
+confer to the isotope dilution mass spectrophotometry method to
+minimise variations in results.9
+3.3 Renal Ultrasound
+Ultrasound is a useful first-line test for renal tract imaging. It provides
+information on:
+• renal size and symmetry
+• cortical thickness and echogenicity
+• urinary tract obstruction
+• solid or cystic lesions
+Management of Chronic Kidney Disease in Adults (Second Edition)
+• General indications for renal ultrasound:9
+○ rapid deterioration of renal function (loss of eGFR >5 ml/min/1.73 m2
+within one year or 10 ml/min/1.73 m2 within five years)
+○ haematuria
+○ symptoms or history of urinary tract obstruction
+○ family history of polycystic kidney disease and age over 20 years
+○ when a renal biopsy is indicated
+3.4 Classification
+Recommendation 4
+• Kidney Disease Improving Global Outcomes (KDIGO) staging should
+be used to classify chronic kidney disease.
+The current classification of CKD is based on KDIGO 2012 guidelines
+which has health and prognostic implications.12
+• CKD is defined as:
+○ eGFR <60 ml/min/1.73 m2 that is present >3 months with or
+without evidence of kidney damage*
+OR
+○ evidence of kidney damage* that is present >3 months with or
+without eGFR <60 ml/min/1.73 m2
+*Markers of kidney damage are:
+a. albuminuria (AER ≥30 mg/24 hours or ACR ≥3 mg/mmol)
+b. urine sediment abnormalities
+c. electrolyte and other abnormalities due to tubular disorders
+d. abnormalities detected by histology
+e. structural abnormalities detected by imaging
+f. history of kidney transplantation
+• CKD in itself is NOT a diagnosis. There should be attempts to identify
+the underlying cause.
+Classification of CKD should be based upon cause, GFR category and
+albumin category (CGA).
+a. Cause
+The cause of CKD is based on the presence or absence of a systemic
+disease and the location within the kidney of observed or presumed
+histopathology findings.
+Management of Chronic Kidney Disease in Adults (Second Edition)
+b. GFR category
+GFR category is based upon the following table:
+Table 3. GFR categories in CKD
+c. Albuminuria category
+Albuminuria category is based upon the following table:
+Table 4. Albuminuria categories in CKD
+Albuminuria is an independent CV risk factor at any stage of CKD.
+Presence of albuminuria significantly increases the risk of CV events
+by ≥85% in stage 1 and 2 diabetic kidney disease (DKD).9
+Presence and the degree of proteinuria predicts progression of CKD
+and development of ESRD. In a Japanese cohort study, proteinuria
+significantly increased the risk of ESRD by more than four times.
+Another study showed that presence of higher level of albuminuria
+conferred a higher risk of developing ESRD compared with lower level
+(HR of 47.2 vs 13.0).9
+Stages of CKD
+<3
+>30
+Severely increased
+Category
+AER
+ACR
+Terms
+A1
+A2
+A3
+3 - 30
+<30
+30 - 300
+>300
+<30
+30 - 300
+>300
+Normal to mildly
+increased
+Moderately
+increased
+(mg/24 hours)
+(mg/mmol)
+(mg/g)
+Term
+Stages of CKD
+GFR category
+GFR (ml/min/1.73 m2)
+G1
+G2
+G3a
+G3b
+G4
+G5
+≥90
+60 - 89
+45 - 59
+30 - 44
+15 - 29
+≤15
+Normal or high
+Mildly decreased
+Mildly to moderately
+decreased
+Moderately to severely
+decreased
+Severely decreased
+Renal failure
+Management of Chronic Kidney Disease in Adults (Second Edition)
+The prognosis of CKD is based upon four factors (refer to Table 5):
+a. cause of CKD
+b. GFR category
+c. albuminuria category
+d. other risk factors and co-morbid conditions
+Table 5. Prognosis of CKD by GFR and albuminuria category
+Green - low risk, Yellow - moderate risk, Orange - high risk, Red and Deep Red - very
+high risk
+Modified: Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work
+Group. KDIGO 2012 Clinical Practice Guideline for the Evaluation and
+Management of Chronic Kidney Disease. Kidney inter., Suppl. 2013; 3:
+1-150
+CKD-EPI creatinine equation is a better predictor of risk than the MDRD
+study equation. Risk implications include:23, level III
+• all-cause mortality
+• CV mortality
+• ESRD
+• acute kidney injury (AKI)
+• progressive CKD
+Risks of ESRD and mortality are higher with larger eGFR decline
+24 - 25, level III and higher albuminuria levels.25, level III
+G1
+G2
+Normal to
+mildly
+increased
+Moderately
+increased
+Severely
+increased
+<30 mg/g
+<3 mg/mmol
+30 - 300
+mg/g
+3 - 30
+mg/mmol
+>300 mg/g
+>30 mg/mmol
+Persistent albuminuria categories
+Description and range
+A1
+A2
+A3
+Normal or high
+Mildly decreased
+Mildly to moderately
+decreased
+Moderately to
+severely decreased
+severely decreased
+Renal failure
+G5
+G4
+G3b
+G3a
+≥90
+60 - 89
+45 - 59
+30 - 44
+15 - 29
+<15
+GFR
+categories
+(ml/min/
+1.73 m2)
+Description
+and range
+Management of Chronic Kidney Disease in Adults (Second Edition)
+4. INTERVENTIONS IN DELAYING THE PROGRESSION OF
+CHRONIC KIDNEY DISEASE
+The aim of CKD treatment is to delay its progression, reduce CV risk
+and manage CKD-related complications.
+Optimal blood pressure (BP) and blood glucose control and, use of
+renin-angiotensin system (RAS) blockers in proteinuric-CKD are the
+main strategies to delay CKD progression. Lifestyle modifications
+(smoking cessation, reduction of weight, low salt diet and other dietary
+interventions) and avoidance of potentially nephrotoxic agents are
+additional measures that should be instituted.
+Refer to Algorithm 4 for Treatment for Chronic Kidney Disease in
+Adults.
+4.1 Treatment of Hypertension and Proteinuria for Renoprotection
+The majority of CKD patients (70 - 80%) have hypertension (usually
+systolic) which is more severe than non-CKD patients.9 Control of
+hypertension and proteinuria are the two most important interventions
+in delaying renal disease progression.
+Any class of antihypertensive agents can be used to control BP in
+CKD.9 However, some antihypertensive agents have additional antiproteinuric effect.
+ACEi/ARB should be the first-line therapy in DKD because they have
+additional renoprotective effect apart from BP reduction. ACEi/ARB is
+also the preferred antihypertensive agent in non-diabetic, hypertensive
+CKD patients with proteinuria. However, in the absence of significant
+proteinuria, there is no preferred class of antihypertensive agent as
+long as the target blood pressure is achieved.
+Proteinuria is an independent predictor for renal disease progression.
+The magnitude of baseline proteinuria has a linear relationship with
+progression of CKD and risk of CV events. The degree of proteinuria
+reduction correlates with the degree of delaying CKD progress and
+CVD mortality reduction.9
+Management of Chronic Kidney Disease in Adults (Second Edition)
+4.1.1
+Blood Pressure Target
+Recommendation 5
+• Blood pressure target for chronic kidney disease should be aimed at:
+SBP=systolic blood pressure
+*Blood pressure targets should be individualised according to co-morbidities and
+age.
+*Based on SPRINT (Systolic Blood Pressure Intervention Trial) study (median
+follow-up of 3.3 years), lowering SBP towards 120 mmHg can be considered in
+non-DKD patients with high CV risk, in whom BP lowering is well-tolerated.27, level I
+BP lowering has an impact on all-cause mortality, CV events, stroke
+risk and progression of kidney disease. A target BP of ≤140/90 mmHg
+has been universally adopted since 2011 as there is no strong data
+to support further benefits with more intensified therapy. On the other
+hand, there have been concerns on harmful effects particularly on CV
+outcomes with the more intensified approach.
+In patients with DKD, a post-hoc analysis of the Reduction of Endpoints
+in Non-insulin-dependent DM (RENAAL) study showed that patients
+who achieved SBP <130 mmHg had a significantly lower risk of
+reaching the combined endpoint of doubling of SCr, ESRD or mortality
+compared with those achieving SBP 140 - 159 mmHg. However, there
+was no difference in those with BP 130 - 139 mmHg.9 This is supported
+by another recent post-hoc analysis in Olmesartan Reducing Incidence
+of Endstage Renal Disease in Diabetic Nephropathy Trial (ORIENT)
+where the renoprotection effect was significant in those with proteinuria
+>1 g/day.26, level I
+In SPRINT study that included hypertensive non-diabetic patients with
+high CV risk, more intensified BP lowering had demonstrated significant
+positive impact on CV outcomes and all-cause mortality.27, level I In
+the CKD subgroup, more intensified BP lowering showed significant
+reduction in all-cause mortality but not on CV and renal outcomes.
+28, level I These findings were further confirmed by systematic reviews
+and meta-analyses published later.15, level I; 29 - 30, level I
+Diabetic Kidney
+Disease (DKD)
+Non-DKD
+Cause
+≥1 g/day
+<1 g/day
+≤130/80 mmHg
+(SBP 120 to 130 mmHg)
+≤130/80 mmHg
+(SBP 120 to 130 mmHg)
+≤130/80 mmHg
+(SBP 120 to 130 mmHg)
+≤140/90 mmHg*
+(SBP 120 to 140 mmHg)
+Proteinuria
+Management of Chronic Kidney Disease in Adults (Second Edition)
+In general, BP target for CKD patients should be tailored based on
+diabetic status, level of proteinuria and CV risk profile. Recent data
+demonstrated that lowering systolic BP towards 120 mmHg conferred
+some CV benefits in non-DKD patients with high CV risk.27, level I However,
+physicians need to be cautious on adverse effects from intensified BP
+lowering e.g. symptomatic hypotension and AKI.
+4.1.2
+Pharmacological Agents
+Recommendation 6
+• Any class of antihypertensive agents may be used to treat
+hypertension in chronic kidney disease (CKD) patients without
+proteinuria. The choice will depend on the patient’s co-morbidity.
+• Angiotensin-Converting
+Enzyme
+Inhibitor
+(ACEi)/Angiotensin
+Receptor Blocker (ARB) should be used as first-line agent in:
+○ diabetic kidney disease (DKD) with albuminuria
+○ non-DKD when urinary protein excretion ≥1.0 g/day
+○ non-DKD with hypertension when urinary protein excretion ≥0.5 g/
+day
+• Renal profile should be carefully monitored following initiation or
+dose escalation of ACEi/ARB.
+• Dual renin-angiotensin system blockade should only be used in
+carefully selected non-DKD patients with proteinuria* under close
+supervision by nephrologists.
+*Refer to text in Subchapter 4.1.2b.
+a. Angiotensin-Converting
+Enzyme
+Inhibitor/Angiotensin
+Receptor Blocker
+ACEi and ARB confer both renoprotective and cardioprotective effects.
+A systematic review of randomised controlled trials (RCTs) on ACEi
+in both type 1 diabetes mellitus (T1DM) and type 2 diabetes mellitus
+(T2DM), and ARB in T2DM with kidney disease showed that the risk
+of ESRD was significantly reduced by 40% with ACEi and 22% with
+ARB when compared with placebo or no treatment. ACEi and ARB also
+significantly reduced progression of micro- to macroalbuminuria and
+induced regression from micro- to normoalbuminuria (RR of 3.1 and
+1.4 respectively). This benefit was seen regardless of baseline BP.9
+There was conflicting evidence on the use of ACEi or ARB in nonproteinuric DKD. In a meta-analysis of diabetes patients with
+normoalbuminuria, ACEi reduced the development of DKD by 42%. In
+a subsequent combined analysis of three RCTs, the use of candesartan
+did not prevent microalbuminuria in normotensive normoalbuminuric
+T1DM or T2DM.9
+Management of Chronic Kidney Disease in Adults (Second Edition)
+For proteinuric non-DKD, a meta-analysis of RCTs showed that after
+adjustment for levels of systolic BP and urine protein excretion, the
+risk for kidney disease progression was lower in patients assigned to
+ACEi therapy (RR=0.67, 95% CI 0.53 to 0.84) compared with other
+antihypertensive agents. However, there was no benefit of ACEi use for
+non-DKD with hypertension if proteinuria <0.5 g/day.9
+Good quality evidence on the beneficial effects of ACEi/ARB in
+advanced CKD is lacking. There is difference in opinion as to whether
+once a patient has advanced CKD, the potential gain of eGFR with
+ACEi/ARB cessation could improve morbidity and mortality by
+delaying the need for RRT or whether this would cause an increase in
+adverse CV outcomes. Hence there is an on-going trial (STOP-ACEi)
+that addresses the benefits and safety of these agents in advanced
+progressive CKD (stage 4 - 5).31, level I
+Health economic evidence has established that ACEi and ARB confer
+both health gains and net cost savings compared with non-ACEi
+therapy in CKD. While there is no evidence to support the superiority of
+one ACEi over another or ARB over ACEi, health economic evidence
+suggests increased cost-effectiveness for ACEi vs ARB. Hence ACEi
+should be prescribed first and changed to an ARB only if there is nonrenal adverse drug reaction.9
+• Renal profile should be reassessed within two weeks upon initiation
+or dose escalation of ACEi/ARB therapy. The interval depends on
+the baseline renal function.
+• ACEi/ARB should be titrated to the maximum recommended dose to
+achieve optimal BP and anti-proteinuric targets provided:
+○ SCr levels remain <30% from the baseline (or eGFR reduces <25%) or
+○ serum potassium <5.6 mmol/L
+• Consider to reduce or discontinue ACEi/ARB within two months upon
+commencement (after excluding other precipitating factors) when
+○ SCr levels remain ≥30% from the baseline (or eGFR reduces
+≥25%) or
+○ serum potassium ≥5.6 mmol/L
+b. Dual Renin-Angiotensin System Blockade
+Dual RAS blockade has additional reduction in proteinuria and
+hospitalisation for heart failure in both diabetes and non-diabetes
+patients.32, level I However, it does not reduce mortality.32 - 33, level I There
+are mixed results for hard end-points e.g. progression of CKD and
+ESRD.33 - 34, level I Data for outcome of ESRD are restricted mainly to
+patients who have macroalbuminuria and those with T2DM.34, level I Dual
+RAS blockade has higher risk of adverse events e.g. hyperkalaemia,
+hypotension and AKI compared with monotherapy.32 - 33, level I
+Management of Chronic Kidney Disease in Adults (Second Edition)
+Hence, dual RAS blockade should not be prescribed routinely. However,
+it may be considered in non-DKD patients who remain hypertensive
+with persistent proteinuria >0.5 g/day provided that serum potassium
+is within normal range. They should be under close supervision by
+nephrologists.9
+c. Calcium Channel Blockers
+Calcium Channel Blockers (CCBs) are effective antihypertensive
+agents but the evidence for its renoprotective effect is not conclusive.
+Previous meta-analysis showed that non-dihydropyridine (NDHP)
+CCBs such as verapamil and diltiazem had greater anti-proteinuric
+effect than dihydropyridine (DHP) CCBs in both DKD and non-DKD.
+However, the evidence on long-term renal outcomes is lacking.9
+Recent meta-analysis addressing different subtypes of DHP CCBs
+reported that L/T- and L/N-type CCBs, as add-on therapy to RAS
+blockers, offered better renal outcome. The eGFR was lower
+(MD=0.23 ml/min/1.73 m2, 95% CI 0.11 to 0.35), in addition to decrease
+in albuminuria and proteinuria (net change= -1.01 g, 95% CI -1.78
+to -0.23). Common T-type and N-type CCBs include lercanidipine,
+azelnidipine, efonidipine, benidipine and cilnidipine. However, most
+studies included in the meta-analysis had small sample size with short
+study duration.35, level I
+In clinical practice, CCBs as an add-on therapy to RAS blockers in the
+management of CKD is a reasonable and safe approach to optimise
+blood pressure control. NDHP CCBs and certain subtypes of DHP
+CCBs may have additional anti-proteinuric effect. However, effect on
+CKD progression and ESRD cannot be ascertained based on current
+evidence.
+d. Aldosterone Antagonists
+Evidence has shown that aldosterone antagonists (AA) reduced
+proteinuria and BP in CKD patients on RAS blockers. The main adverse
+effects of non-selective AA are hyperkalaemia and/or gynaecomastia,
+which occur less in selective AA e.g. eplerenone and finerenone.9; 36, level I In
+DKD patients on RAS blockade, additional finerenone reduces urine
+ACR in dose-dependent manner compared with placebo. However
+there is a drop in eGFR at higher doses.37, level I There is no long-term
+data on renal outcomes and mortality.9; 36, level I
+e. Direct Renin Inhibitors
+Direct renin inhibitors were developed to provide an alternative for RAS
+blockade. However in several RCTs [Veterans Affairs Nephropathy in
+Diabetes (VA Nephron D) and Aliskiren Trial in Type 2 Diabetes Using
+Cardiorenal Endpoints (ALTITUDE)], the use of this agent in addition
+Management of Chronic Kidney Disease in Adults (Second Edition)
+to standard RAS blockade did not confer additional benefits but was
+associated with more adverse events.9; 33, level I; 38, level I
+4.2 Glycaemic Control for Renoprotection
+Recommendation 7
+• The target HbA1c should be ≤7% in diabetic kidney disease but this
+should be individualised according to co-morbidities and age.
+Optimal glycaemic control should be attained to reduce the complications
+of diabetes. Lowering HbA1c to approximately 6.5% to 7% reduces the
+development of micro- and macroalbuminuria. However, aggressive
+glycaemic control in patients with established CVD increase the risks of
+hypoglycaemia and death due to impaired drug metabolism.9
+Regular blood glucose measurements are advised for more accurate
+assessment of diabetic control as HbA1c maybe falsely low in CKD due
+to anaemia.9
+For the appropriate choice and dosing adjustment of oral anti-diabetic
+agents in CKD, refer to Appendix 3 on Dosage Recommendation in
+CKD for Commonly Prescribed Oral Medications.
+Recent trials on sodium-glucose co-transporter-2 (SGLT2) inhibitors
+have been shown to reduce CV outcomes and may have renoprotective
+effect.
+• In Empagliflozin Cardiovascular Outcome Event Trial in Type 2
+Diabetes Mellitus Patients–Removing Excess Glucose (EMPA-REG
+Outcome) trial on patients with T2DM at high CV risk and eGFR of
+≥30 ml/min/1.73 m2, empagliflozin reduced incident or worsening
+nephropathy by 39% at four years (HR=0.61, 95% CI 0.53 to 0.70).39, level I
+• There was also a possible benefit of canagliflozin in reducing the
+progression of albuminuria (HR=0.73, 95% CI 0.67 to 0.79). It also
+reduced the composite outcome of a sustained 40% reduction in
+eGFR, need for renal replacement therapy (RRT) or death from
+renal causes (HR=0.60, 95% CI 0.47 to 0.77) in Canagliflozin
+Cardiovascular Assessment Study (CANVAS) and CANVAS-R
+studies. However, there was an increased risk of amputation
+primarily at the level of the toe or metatarsal (HR=1.97, 95% CI 1.41
+to 2.75).40, level I
+Management of Chronic Kidney Disease in Adults (Second Edition)
+4.3 Protein Restriction for Renoprotection
+Recommendation 8
+• Low protein diet (0.6 - 0.8 g/kg/day) with adequate energy intake (30
+- 35 kcal/kg/day) may be given in chronic kidney disease stage 3 - 5.
+• Dietary protein restriction should be supervised by a dietitian.
+Protein restriction is one of the supportive measures to delay CKD
+progression. Low protein diet of 0.8 g/kg/day is recommended in DKD
+vs 0.6 - 0.8 g/kg/day in non-DKD. The benefits in slowing down the
+progression should be weighed against the risks of protein-calorie
+malnutrition and death. Low protein diet (0.6 g/kg/day) is not advised in
+overt DKD due to the risk of malnutrition.9; 41, level III
+Very low protein diet (VLPD) with keto-acid supplementation
+may be considered in patients with non-DKD stage 4 - 5 (pre-dialysis).
+Earlier evidence shows conflicting results on VLPD of 0.3 g/kg/day
+supplemented with keto-acid in CKD.9 However, in a recent RCT,
+vegetarian VLPD supplemented with keto-acid among non-DKD
+deferred dialysis initiation in patients with Unit eGFR <20 ml/min/1.73 m2
+and was also nutritionally safe. Over the 18 months period of the study,
+RRT initiation was required in a lower proportion in the keto-acid diet
+group compared with control (11% vs 30%, p<0.001).42, level I
+• Only patients who adhere to VLPD may benefit from keto-acid
+supplements at the recommended dose (1 tablet for every 5 kg
+body weight/day). They should be carefully supervised by a dietitian
+(preferably renal-trained) to monitor nutritional status and ensure
+compliance.
+4.4 Lipid Lowering for Renoprotection
+There is insufficient evidence to support the use of statin therapy for
+delaying CKD progression or proteinuria reduction.
+In a Cochrane systematic review, statin therapy [median dose equivalent
+to simvastatin 20 mg (ranged from 5 to 80 mg/day)] had uncertain
+effects on kidney function or risk of progression to ESRD even though
+it had some proteinuria reduction (MD= -0.47 g/24 h, 95% CI -0.75 to
+-0.19) compared with control.43, level I
+In another meta-analysis, high-intensity statin (atorvastatin 40 - 80 mg/day)
+minimally improved eGFR (MD rate of eGFR was 0.10 ml/min/1.73 m2
+per year, 95% CI 0.09 to 0.12). However, no safety concerns were
+addressed.44, level I
+Management of Chronic Kidney Disease in Adults (Second Edition)
+4.5 Uric Acid Reduction for Renoprotection
+There is emerging evidence to suggest uric acid reduction is a potential
+strategy to delay CKD progression. However, more RCTs are needed
+to confirm the renoprotective effect.
+One meta-analysis which included publications of all languages reported
+that uric acid reduction mainly by allopurinol led to higher eGFR and
+lower SCr compared with control in CKD.45, level I Another meta-analysis
+that included only English papers showed non-significant difference in
+GFR change between allopurinol and control in patients with various
+baseline kidney function.46, level I
+An RCT reported that febuxostat potentially improved renal outcome of
+CKD with asymptomatic hyperuricemia. However, the duration of the
+study is short i.e. six months.47, level I
+4.6 Miscellaneous Agents for Renoprotection
+There is no conclusive evidence on pentoxifylline, vitamin D analogues
+and traditional medications in improving renal outcomes.
+In two meta-analyses, pentoxifylline reduced proteinuria and improved
+eGFR minimally.48 - 49, level I However, the primary papers used were of
+low to moderate quality, generally small sample sizes and short duration
+of follow-up.
+Although vitamin D analogues were found to reduce proteinuria against
+the background of RAS blockade,50 - 51, level I there was a trend towards
+hypercalcemia.51 - 52, level I More RCTs are needed to address its efficacy
+and safety on hard end-points e.g. mortality, CV events, doubling of
+SCr and ESRD.
+There were many studies on traditional medications for renoprotection.
+In a Cochrane systematic review, Cordyceps preparations (Cordyceps
+sinensis), used as adjuvant therapy to conventional medicine, decreased
+SCr levels and reduced 24-hour proteinuria.53, level I A meta-analysis
+of eight trials in China demonstrated that puerarin (Pueraria lobate)
+decreased the urinary AER in DKD with few adverse effects.54, level I
+However, definitive conclusions could not be made as most studies in
+these reviews were of low methodological quality.
+Management of Chronic Kidney Disease in Adults (Second Edition)
+4.7 Special Precautions
+CKD patients often have multiple co-morbidities, thus may be exposed
+to potentially nephrotoxic agents. Therefore, the following precautions
+should be taken:9
+i. Review all prescribed medications regularly to ensure the dose
+is appropriate to current renal function (refer to Appendix 3 on
+Dosage Recommendation in CKD for Commonly Prescribed
+Oral Medications).
+ii. Avoid
+NSAIDs
+including
+cyclooxygenase-2
+inhibitors
+[e.g.
+mefenamic acid, diclofenac acid, ibuprofen, naproxen, indomethacin,
+ketoprofen, salicylic acid (high dose), meloxicam, celecoxib and
+etoricoxib]
+iii. Avoid long-term PPI use unless with clear indication.
+iv. Adhere to risk mitigation strategies to avoid contrast-induced AKI.
+• Avoid radio-contrast agents in high risk patients if possible. They
+are those with pre-existing renal impairment (SCr ≥132 μmol/L
+or an eGFR <60 ml/min/1.73 m2), DM, volume depletion, CCF,
+nephrotic syndrome, decompensated liver cirrhosis or concurrent
+NSAIDs/diuretic use.
+• Consider an alternative imaging study e.g. ultrasound, noncontrasted computerised tomography scan or magnetic resonance
+imaging.
+• Use isotonic saline peri-procedure.
+• There is insufficient evidence to support the use of N-acetylcysteine
+and sodium bicarbonate.
+• Use non-ionic contrast media with low osmolarity (e.g. ioversol
+and iopamidol) or iso-osmolarity (e.g. iodixanol).
+• Use the lowest dose of contrast possible and avoid repeated
+studies within 48 hours.
+v. Gadolinium should be avoided in patients with impaired renal
+function (eGFR <30 ml/min/1.73 m2) due to increased risk of
+nephrogenic systemic fibrosis.
+vi. Avoid using oral sodium phosphate (FLEET®) in bowel preparation
+for colonoscopy in CKD with eGFR <60 ml/min/1.73 m2 due to
+increased risk of acute hyperphosphataemia.12 Use alternative
+preparations e.g. macrogol (FORTRANS®).
+Management of Chronic Kidney Disease in Adults (Second Edition)
+5. INTERVENTIONS IN REDUCING THE RISK OF CARDIOVASCULAR
+DISEASE IN CHRONIC KIDNEY DISEASE
+Patients with CKD are at high risk for CV morbidity and mortality. The
+risk factors e.g. high BP and hyperlipidaemia should be appropriately
+controlled and anti-platelet agents should be used for the secondary
+prevention of CVD.
+5.1 Lipid Lowering Agents
+Recommendation 9
+• Statin should be offered to patients with chronic kidney disease for
+primary and secondary prevention of cardiovascular events.
+Beneficial effects of statin in primary and secondary prevention of CV
+events (total mortality, CV mortality and non-fatal CV events) were
+significant in patients with CKD:9
+• In the primary prevention of CV event, the SHARP (Study
+of Heart and Renal Protection) study supported the use of
+lipid-lowering therapy in CKD stages 3 - 5. In this large study,
+patients on ezetimibe/simvastatin had a 17% reduction of major
+atherosclerotic events compared with placebo.
+• In the secondary prevention of CV event, post-hoc analyses of
+three studies [ALLIANCE (Aggressive Lipid-Lowering Initiation
+Abates New Cardiac Events)-LDL, TNT (Treating to New Targets)
+and 4S (Scandinavian Simvastatin Survival Study)] showed that
+patients with and without CKD had reduction of CV events with
+statin treatment.
+• Statin use was not associated with an increased incidence of
+adverse events or drug discontinuation in patients with CKD.
+5.2 Antiplatelet Agents
+Recommendation 10
+• Aspirin should be used in patients with chronic kidney disease (CKD)
+for secondary prevention of cardiovascular disease (CVD).
+• Aspirin should not be used as primary prevention of CVD in CKD.
+• Combination of clopidogrel with aspirin should be avoided in patients
+with CKD unless compelling indications are present.
+Aspirin is beneficial for secondary prevention of CVD in both general
+and CKD population. In a meta-analysis on secondary prevention trials,
+aspirin lowered the risk of major coronary events by 20%, ischaemic
+strokes by 22% and total mortality by 10%. In a cohort with renal
+disease, heart failure and coronary artery disease, aspirin significantly
+Management of Chronic Kidney Disease in Adults (Second Edition)
+reduced 1-year mortality by 16% in patients with CrCl 30 - 59 ml/min
+compared with non-use of aspirin but non-significant in those with CrCl
+<30 ml/min.9
+CKD patients are at increased risk of bleeding compared with the
+general population. The UKHARP (United Kingdom Heart and Renal
+Protection)-1 study showed that aspirin 100 mg daily in CKD patients
+was associated with a 3-fold increase in minor bleeding but not
+significant in major bleeding.9
+A recent meta-analysis of three low-to-moderate quality RCTs concluded
+that there was no clear benefit of aspirin in primary prevention of CV
+events in CKD and no statistically significant reduction in mortality.
+Aspirin is likely to increase the risk of major bleeding events.55, level I
+Post-hoc analysis of CHARISMA (Clopidogrel for High Atherothrombotic
+Risk and Ischemic Stabilization, Management, and Avoidance) trial
+showed that the combination of aspirin and clopidogrel was associated
+with significant increase in overall mortality by 60% compared with
+aspirin alone in DKD. In post-hoc analysis of CREDO (Clopidogrel for
+the Reduction of Events During Observation) trial on CKD patients
+scheduled for elective percutaneous coronary intervention, this
+combination was associated with a slight increase in major or minor
+bleeding.9
+Management of Chronic Kidney Disease in Adults (Second Edition)
+6. CHRONIC KIDNEY DISEASE WITH PREGNANCY
+Recommendation 11
+• All female patients of reproductive age with chronic kidney disease
+(CKD) should receive pre-pregnancy care*.
+• Pregnancy may be considered in women with mild renal impairment
+(serum creatinine <124 µmol/L), well controlled blood pressure and
+without significant proteinuria (<1 g/day).
+• Pregnancy should be avoided in women with either:
+○ moderate to severe renal impairment
+○ poorly controlled hypertension
+○ heavy proteinuria
+○ active systemic disease
+• All pregnant women with CKD should be co-managed by a
+multidisciplinary team.
+*Pre-Pregnancy Care (PPC) is a set of healthcare and interventions given to women
+in their reproductive age before conception occur. Components of pre-pregnancy
+care:56
+• screening for medical conditions and medical risk factors
+• management and optimisation of medical conditions and risk factors
+• nutrition and supplementations
+• family planning
+Pregnancy in CKD is associated with increased risk of adverse maternal
+outcomes (gestational hypertension, pre-eclampsia, eclampsia and
+maternal death) and foetal outcomes (premature birth, intra-uterine
+growth retardation, small-for-gestational age, low birth weight, still birth
+and neonatal mortality). The risks begin at CKD stage I and increased
+with more advanced stage of CKD. Baseline hypertension, baseline
+proteinuria (>1 g/day), and presence of systemic disease are significant
+predictors of adverse maternal-foetal outcomes.57, level III
+Rate of renal function deterioration and worsening of proteinuria during
+pregnancy correlates significantly with CKD stages.
+• Renal function deteriorates more in CKD stage 3/4 compared with
+stage 2 (60% vs 14.3%).58, level III
+• Doubling of proteinuria as CKD stage progresses are 20.5%,
+86.5% and 70% in stage 1, 3 and 4 - 5 respectively.57, level III
+Adverse maternal outcomes (pre-eclampsia, hypertension and
+caesarean delivery) are significantly higher as CKD stage advances.
+Risks of pre-term delivery and IUGR correlate with maternal renal
+function and level of proteinuria.58 - 59, level III Thus, the decision to
+continue with pregnancy should be individualised.
+Pregnancy may be considered in women with CKD having mild
+renal impairment (SCr <124 µmol/L) and blood pressure well
+controlled.9; 57 - 60, level III
+Management of Chronic Kidney Disease in Adults (Second Edition)
+• Pregnancy in patients with CKD should be planned, taking into
+consideration the clinical status of the woman, with pre-conception
+review of medication and early referral for combined specialist care.
+• ACEi and ARB should be avoided in pregnancy. Refer to Appendix
+4 on United States Food and Drug Administration (FDA)
+Pharmaceutical Pregnancy Categories.
+Management of Chronic Kidney Disease in Adults (Second Edition)
+7. REFERRAL
+Recommendation 12
+• A patient with chronic kidney disease (CKD) with any of the following
+criteria should be referred to a nephrologist/physician:
+○ persistent heavy proteinuria [urine protein ≥1 g/day or urine
+protein: creatinine ratio (uPCR) ≥100 mg/mmol*] despite optimal
+treatment
+○ persistent isolated microscopic haematuria after excluding
+urogynaecological cause
+○ persistent haematuria with proteinuria (urine protein ≥0.5 g/day or
+uPCR ≥50 mg/mmol*)
+○ rapidly declining renal function [loss of estimated glomerular
+filtration rate (eGFR) >5 ml/min/1.73 m2 in one year or >10 ml/
+min/1.73 m2 within five years]
+○ eGFR <30 ml/min/1.73 m2 (eGFR categories G4 - G5)
+○ resistant hypertension (failure to achieve target blood pressure
+despite three antihypertensive agents including a diuretic)
+○ suspected renal artery stenosis
+○ suspected hereditary kidney disease
+○ pregnant or when pregnancy is planned
+○ persistent abnormalities of serum potassium
+○ unexplained cause of CKD
+*This is an estimation for practical purpose. The actual conversion of urine protein 1
+g/day=uPCR 113 mg/mmol.
+Referral to nephrologist is indicated when a healthcare provider feels
+that additional expert input is required for patient’s management. The
+aim may be:
+• to rule out AKI
+• to delay CKD progression
+• to prepare for RRT
+There is no clear evidence to recommend indications of referral
+to nephrologist. However, several published guidelines have
+recommended referral criteria as listed in the recommendation box
+above.9, 12, 61, 62, 63
+Early referral to nephrologist has the benefit in reducing mortality and
+hospital stay, achieving higher haemoglobin (Hb) levels and better
+dialysis preparation compared with late referral.64, level II-2 Shared-care
+with effective communication between the nephrologist and primary
+healthcare provider is strongly encouraged.
+Management of Chronic Kidney Disease in Adults (Second Edition)
+• It is important to look at the trend of SCr and eGFR when deciding
+on the urgency of referral. The optimal time depends on the aim of
+referral which must always be individualised, taking into consideration
+the patient’s co-morbidities, functional status and life expectancy.
+• Immediate discussion with nephrologist is indicated in patients with:9
+○ AKI superimposed on CKD
+○ newly detected ESRD
+○ accelerated or malignant hypertension
+○ life-threatening hyperkalaemia
+○ suspected rapidly progressive glomerulonephritis
+• Patients with CKD and renal outflow obstruction should be referred
+to urological services.9
+• When referring to a nephrologist, ensure patient has:9
+○ serial blood chemistry and urine analysis
+○ preferably a recent renal ultrasound report
+Special issues in elderly
+• An eGFR <60 ml/min/1.73 m2 is common in elderly people which
+may be physiological or age-appropriate.
+• Elderly patients with stable eGFR and low risk of CKD progression
+(proteinuria ≤1 g/day, optimal BP and glycaemic control) can be
+managed in primary care setting in collaboration with a nephrologist.
+• In elderly patients with advanced CKD, referral with the aim of RRT
+initiation should take into consideration the co-morbidity, functional
+status, life expectancy, family support and patient’s wishes because
+RRT may not confer better quality of life and survival.
+Management of Chronic Kidney Disease in Adults (Second Edition)
+8. SCREENING FOR COMPLICATIONS
+CKD patients are prone to develop a host of complications, reflecting
+the loss of exocrine and endocrine function of the kidneys.
+The two most common complications i.e. anaemia and Chronic Kidney
+Disease-Mineral and Bone Disorder (CKD-MBD) are discussed here.
+The evidence on the screening and monitoring of these complications
+are scarce. Thus, the recommendations in this CPG are mainly adapted
+from pre-existing international CPGs.
+Recommendation 13
+• In chronic kidney disease (CKD), screening for:
+○ anaemia should be done when estimated Glomerular Flitration
+Rate (eGFR) <60 ml/min/1.73 m2
+○ CKD-mineral and bone disorder when eGFR <45 ml/min/1.73 m2
+8.1 Anaemia
+Anaemia is defined as a Hb concentration of <13 g/dL in adult males
+and <12 g/dL in adult females.12, 65
+Renal anaemia is a common complication of CKD due to reduced
+erythropoietin production by the kidney and reduced absorption of iron.
+It usually starts to develop when the eGFR is <60 ml/min/1.73 m2. The
+prevalence of anaemia increases markedly with decreasing eGFR.61
+When the eGFR is ≥60 ml/min/1.73 m2, the anaemia is more likely to be
+related to other causes.66
+Iron deficiency and other causes of anaemia e.g. vitamin B12 and
+folate deficiency, bone marrow suppression, hypothyroidism and
+haemoglobinopathies should be excluded during the work-up for renal
+anaemia.12, 61, 67
+The frequency of Hb monitoring is influenced by kidney function (refer
+to Table 6), underlying disease process, initial Hb concentration and
+rate of change in Hb concentration.12, 65
+Management of Chronic Kidney Disease in Adults (Second Edition)
+Table 6. Suggested Hb monitoring in CKD
+*ND=non-dialysis
+Treatment with ESA must be commenced by or in consultation with a
+nephrologist.61
+The optimal Hb target in CKD is 10.0 - 12.0 g/dL. However, it should be
+individualised based on symptoms and co-morbidities.66
+8.2 Chronic Kidney Disease-Mineral and Bone Disorder
+CKD-MBD is a common complication of CKD. Changes in the
+metabolism of calcium, phosphate, parathyroid hormone (PTH) and
+alkaline phosphatase (ALP) typically start to occur when eGFR <60 ml/
+min/1.73 m2.61
+KDIGO recommends to start monitoring serum levels of corrected
+calcium, phosphate and ALP at CKD stage G3a.68 However it may be
+more relevant to initiate the monitoring when eGFR <45 ml/min/1.73 m2
+in local setting.
+Frequency of monitoring of the above parameters depends on stage of
+CKD, its treatment, presence and magnitude of abnormalities, and rate
+of progression of CKD.68, 69
+The suggested frequency of monitoring for CKD-MBD is outlined in
+Table 7.
+Stage 3
+Stage 4
+Stage 5 ND*
+CKD without anaemia
+CKD with anaemia
+(not treated with
+erythropoiesisstimulating agent (ESA)
+At least annually
+At least every
+3 months
+At least twice a year
+At least every
+3 months
+At least twice a year
+At least every
+3 months
+Management of Chronic Kidney Disease in Adults (Second Edition)
+Table 7. Suggested frequency of monitoring for CKD-MBD
+Elevated phosphate level should be lowered towards the normal range
+and hypercalcaemia should be avoided in most stages of CKD.68
+In
+hyperphosphataemia,
+dietary
+restriction
+of
+phosphate
+is
+recommended.61, 68, 69 In persistent hyperphosphataemia, patient’s
+compliance to dietary phosphate restriction should be re-assessed
+before considering the use of phosphate binders.
+Excess calcium administration (in the form of calcium-based phosphate
+binders) and vitamin D analogue should be avoided as this may be
+associated with increased risk of vascular calcification in CKD.61, 68
+Stage 3
+Stage 4
+Stage 5 non-dialysis
+Calcium and
+phosphate
+ALP
+6 - 12 monthly
+3 - 6 monthly
+3-monthly,
+more frequent
+if indicated
+6 - 12 monthly
+3 - 6 monthly
+3-monthly,
+more frequent
+if indicated
+Management of Chronic Kidney Disease in Adults (Second Edition)
+9. IMPLEMENTING THE GUIDELINES
+The management of CKD in adults should be guided by evidencebased approach in order to provide quality care to the patients. Several
+factors may affect the implementation of recommendations in the CPG.
+9.1 Facilitating and Limiting Factors
+Existing facilitators for application of the recommendations in the CPG
+include:
+a. National Healthy Kidneys Action plan (2017 - 2025) - upcoming
+b. extensive networking of nephrologists nationwide
+c. collaboration between primary and secondary/tertiary health care
+d. availability of CPGs in hardcopy and softcopy (online)
+e. active involvement of local NGOs in screening and educational
+activities
+Existing barriers for application are:
+a. inadequate support or attention on CKD prevention programme
+from various stakeholders
+b. inadequate human resources to form dedicated CKD teams to
+focus on CKD management
+c. lack of CKD database for planning of services
+9.2 Potential Resource Implications
+To implement the CPG, there must be strong commitment to:
+a. ensure widespread distribution of the CPG to health care
+personnel via printed copies, electronic websites, etc.
+b. reinforce training of health care personnel by regular seminars or
+workshops to ensure information is made available
+c. develop multidisciplinary teams at hospital and community level to
+include involvement of specialists, primary care doctors, medical
+officers, pharmacists, dietitians and nurse educators
+d. ensure screening and monitoring facilities are available at all sites
+e. ensure availability of the drugs mentioned in the CPG
+f. develop coordinated linkage between specialists and primary
+health care teams to facilitate referral and management
+g. have a national database on CKD
+h. ensure widespread distribution of patient education materials
+Management of Chronic Kidney Disease in Adults (Second Edition)
+The following is proposed as clinical audit indicator for quality
+management of CKD:
+Implementation strategies will be developed following the approval of
+the CPG by MoH which include launching of the CPG, Quick Reference
+and Training Module.
+• Percentage of diabetes
+patients screened
+for proteinuria/
+microalbuminuria
+=
+X 100%
+Total number of diabetes patients
+on follow up in the same period
+Number of diabetes patients screened for
+proteinuria/microalbuminuria within a year
+• Percentage of
+hypertensive
+patients screened for
+proteinuria
+=
+X 100%
+Total number of hypertensive patients
+on follow up in the same period
+Number of hypertensive patients
+screened for proteinuria within a year
+• Percentage of
+diabetic CKD patients
+with BP ≤130/80
+=
+X 100%
+Total number of diabetic CKD patients
+in the same period
+Number of diabetic CKD patients
+with BP ≤130/80 within a year
+• Percentage of nondiabetic CKD patients
+with BP ≤140/90
+=
+X 100%
+Total number of non-diabetic CKD
+patients in the same period
+Number of non-diabetic CKD patients
+with BP ≤140/90 within a year
+• Percentage of patients
+with hypertension and
+proteinuria receiving
+treatment with ACEi or
+ARB
+=
+X 100%
+Total number of hypertension and proteinuria
+in the same period without
+contraindications to ACEi or ARB
+Number of patients with hypertension and
+proteinuria receiving treatment with
+ACEi or ARB within a year
+• Percentage of patients
+with diabetes and
+proteinuria receiving
+treatment with ACEi or
+ARB
+=
+X 100%
+Total number of diabetes and proteinuria
+in the same period without contraindications
+to ACEi or ARB
+Number of patients with diabetes and
+proteinuria receiving treatment with
+ACEi or ARB within a year
+Management of Chronic Kidney Disease in Adults (Second Edition)
+References
+1. Levey AS, Atkins R, Coresh J, et al. Chronic kidney disease as a global public
+health problem: approaches and initiatives - a position statement from Kidney
+Disease Improving Global Outcomes. Kidney Int. 2007;72(3):247-59.
+2. Hooi LS, Ong LM, Ahmad G, et al. A population-based study measuring the
+prevalence of chronic kidney disease among adults in West Malaysia. Kidney Int.
+2013;84(5):1034-40.
+3. 23rd Report of the Malaysian Dialysis and Transplant Registry 2015 (Available at
+https://www.msn.org.my/nrr/mdtr2015.jsp).
+4. Briasoulis A, Bakris GL. Chronic kidney disease as a coronary artery disease risk
+equivalent. Curr Cardiol Rep. 2013;15(3):340.
+5. Tonelli M, Muntner P, Lloyd A, et al. Risk of coronary events in people with chronic
+kidney disease compared with those with diabetes: a population-level cohort
+study. Lancet. 2012;380(9844):807-14.
+6. Johnson DW, Atai E, Chan M, et al. KHA-CARI guideline: Early chronic kidney
+disease: detection, prevention and management. Nephrology (Carlton).
+2013;18(5):340-50.
+7. Wen CP, Cheng TY, Tsai MK, et al. All-cause mortality attributable to chronic
+kidney disease: a prospective cohort study based on 462 293 adults in Taiwan.
+Lancet. 2008;371(9631):2173-82.
+8. Chen YP, Lu YW, Yang CC. Outcome of the Five-Year-Plan for Chronic Kidney
+Disease Prevention in Taiwan. Ann Urol Res. 2017;1(2):1007.
+9. Ministry of Health, Malaysia. Management of Chronic Kidney Disease in Adults.
+Putrajaya: MoH; 2011.
+10. Garofalo C, Borrelli S, Minutolo R, et al. A systematic review and meta-analysis
+suggests obesity predicts onset of chronic kidney disease in the general
+population. Kidney Int. 2017;91(5):1224-35.
+11. Thomas G, Sehgal AR, Kashyap SR, et al. Metabolic syndrome and kidney
+disease: a systematic review and meta-analysis. Clin J Am Soc Nephrol.
+2011;6(10):2364-73.
+12. Kidney Disease: Improving Global Outcomes (KDIGO) CKD Work Group. KDIGO
+2012 Clinical Practice Guideline for the Evaluation and Management of Chronic
+Kidney Disease. Kidney Inter, Suppl. 2013;3:1-150.
+13. Arora P, Gupta A, Golzy M, et al. Proton pump inhibitors are associated with
+increased risk of development of chronic kidney disease. BMC Nephrol.
+2016;17(1):112.
+14. Lazarus B, Chen Y, Wilson FP, et al. Proton Pump Inhibitor Use and the Risk of
+Chronic Kidney Disease. JAMA Intern Med. 2016;176(2):238-46.
+15. Xie X, Atkins E, Lv J, et al. Effects of intensive blood pressure lowering on
+cardiovascular and renal outcomes: updated systematic review and metaanalysis. Lancet. 2016;387(10017):435-43.
+16. Klatte DCF, Gasparini A, Xu H, et al. Association Between Proton Pump Inhibitor
+Use and Risk of Progression of Chronic Kidney Disease. Gastroenterology.
+2017;153(3):702-10.
+17. Roughley MJ, Belcher J, Mallen CD, et al. Gout and risk of chronic kidney disease
+and nephrolithiasis: meta-analysis of observational studies. Arthritis Res Ther.
+2015;17:90.
+18. Zhu P, Liu Y, Han L, et al. Serum uric acid is associated with incident chronic
+kidney disease in middle-aged populations: a meta-analysis of 15 cohort studies.
+PLoS One. 2014;9(6):e100801.
+19. Levey AS, Stevens LA, Schimd CH, et al. A New Equation to estimate Glomerular
+Filtration Rate. Ann Intern Med. 2009;150 (9):604-12.
+20. Jalalonmuhali M, Lim SK, Md Shah MN, et al. MDRD vs. CKD-EPI in comparison
+to (51)Chromium EDTA: a cross sectional study of Malaysian CKD cohort. BMC
+Nephrol. 2017;18(1):363.
+Management of Chronic Kidney Disease in Adults (Second Edition)
+21. Van Pottelbergh G, Van Heden L, Matheï C, et al. Methods to evaluate renal
+function in elderly patients: a systematic literature review. Age Ageing.
+2010;39(5):542-8.
+22. Inker LA, Schmid CH, Tighiouart H, et al. Estimating glomerular filtration rate from
+serum creatinine and cystatin C. N Engl J Med. 2012;367(1):20-9. Erratum in: N
+Engl J Med. 2012;367(7):681. N Engl J Med. 2012;367(21):2060.
+23. Matsushita K, Mahmoodi BK, Woodward M, et al. Comparison of risk prediction
+using the CKD-EPI equation and the MDRD study equation for estimated
+glomerular filtration rate. JAMA. 2012;307(18):1941-51.
+24. Coresh J, Turin TC, Matsushita K, et al. Decline in estimated glomerular filtration
+rate and subsequent risk of end-stage renal disease and mortality. JAMA.
+2014;311(24):2518-31.
+25. Hallan SI, Matsushita K, Sang Y, et al. Age and association of kidney measures
+with mortality and end-stage renal disease. AMA. 2012;308(22):2349-60.
+26. Imai E, Ito S, Haneda M, et al. Effects of blood pressure on renal and cardiovascular
+outcomes in Asian patients with type 2 diabetes and overt nephropathy: a post
+hoc analysis (ORIENT-blood pressure). Nephrol Dial Transplant. 2016;31(3):44754.
+27. SPRINT Research Group, Wright JT Jr, Williamson JD, et al. A Randomized
+Trial of Intensive versus Standard Blood-Pressure Control. N Engl J Med.
+2015;373(22):2103-16.
+28. Cheung AK, Rahman M, Reboussin DM, et al. Effects of Intensive BP Control in
+CKD. J Am Soc Nephrol. 2017;28(9):2812-23.
+29. Tsai WC, Wu HY, Peng YS, et al. Association of Intensive Blood Pressure
+Control and Kidney Disease Progression in Nondiabetic Patients with Chronic
+Kidney Disease: A Systematic Review and Meta-analysis. JAMA Intern Med.
+2017;177(6):792-9.
+30. Ettehad D, Emdin CA, Kiran A, et al. Blood pressure lowering for prevention
+of cardiovascular disease and death: a systematic review and meta-analysis.
+Lancet. 2016;387(10022):957-67.
+31. Bhandari S, Ives N, Brettell EA, et al. Multicentre randomized controlled trial of
+angiotensin-converting enzyme inhibitor/angiotensin receptor blocker withdrawal
+in advanced renal disease: the STOP-ACEi trial. Nephrol Dial Transplant.
+2016;31(2):255-61.
+32. Makani H, Bangalore S, Desouza KA, et al. Efficacy and safety of dual blockade
+of the renin-angiotensin system: meta-analysis of randomized trials BMJ.
+2013;346:f360.
+33. Fried LF, Emanuele N, Zhang JH, et al. Combined angiotensin inhibition for the
+treatment of diabetic nephropathy. N Engl J Med. 2013;369(20):1892-903.
+34. Palmer SC, Mavridis D, Navarese E, et al. Comparative efficacy and safety of
+blood pressure-lowering agents in adults with diabetes and kidney disease: a
+network meta-analysis. Lancet. 2015;385(9982):2047-56.
+35. Thamcharoen N, Susantitaphong P, Wongrakpanich S, et al. Effect of N- and
+T-type calcium channel blocker on proteinuria, blood pressure and kidney function
+in hypertensive patients: a meta-analysis. Hypertens Res. 2015;38(12):847-55.
+36. Bolignano D, Palmer SC, Navaneethan SD, et al. Aldosterone antagonists for
+preventing the progression of chronic kidney disease. Cochrane Database of
+Systematic Reviews 2014, Issue 4 Art No: CD007004.
+37. Bakris GL, Agarwal R, Chan JC, et al. Effect of Finerenone on Albuminuria
+in Patients With Diabetic Nephropathy: A Randomized Clinical Trial. JAMA.
+2015;314(9):884-94.
+38. Parving HH, Brenner BM, McMurray JJ, et al. Cardiorenal end points in a trial of
+aliskiren for type 2 diabetes. N Engl J Med. 2012;367(23):2204-13.
+39. Wanner C, Inzucchi SE, Lachin JM, et al. Empagliflozin and Progression of Kidney
+Disease in Type 2 Diabetes. N Engl J Med. 2016;375(4):323-34.
+Management of Chronic Kidney Disease in Adults (Second Edition)
+40. Neal B, Perkovic V, Mahaffey KW, et al. Canagliflozin and Cardiovascular and
+Renal Events in Type 2 Diabetes. N Engl J Med. 2017;377(7):644-57.
+41. American Diabetes Association. 4. Lifestyle Management. Diabetes Care.
+2017;40(Suppl 1):S33-S43.
+42. Garneata L, Stancu A, Dragomir D, et al. Ketoanalogue-Supplemented Vegetarian
+Very Low-Protein Diet and CKD Progression. J Am Soc Nephrol. 2016;27(7):216476.
+43. Palmer SC, Navaneethan SD, Craig JC, et al. HMG CoA reductase inhibitors
+(statins) for people with chronic kidney disease not requiring dialysis. Cochrane
+Database Syst Rev. 2014;(5):CD007784.
+44. Sanguankeo A, Upala S, Cheungpasitporn W, et al. Effects of Statins on Renal
+Outcome in Chronic Kidney Disease Patients: A Systematic Review and MetaAnalysis. PLoS One. 2015;10(7):e0132970.
+45. Kanji T, Gandhi M, Clase CM, et al. Urate lowering therapy to improve renal
+outcomes in patients with chronic kidney disease: systematic review and metaanalysis. BMC Nephrol. 2015;16:58.
+46. Bose B, Badve SV, Hiremath SS, et al. Effects of uric acid-lowering therapy on
+renal outcomes: a systematic review and meta-analysis. Nephrol Dial Transplant.
+2014;29(2):406-13.
+47. Sircar D, Chatterjee S, Waikhom R, et al. Efficacy of Febuxostat for Slowing
+the GFR Decline in Patients With CKD and Asymptomatic Hyperuricemia: A
+6-Month, Double-Blind, Randomized, Placebo-Controlled Trial. Am J Kidney Dis.
+2015;66(6):945-50.
+48. Liu D, Wang LN, Li HX, et al. Pentoxifylline plus ACEIs/ARBs for proteinuria
+and kidney function in chronic kidney disease: a meta-analysis. J Int Med Res.
+2017;45(2):383-98.
+49. Leporini C, Pisano A, Russo E, et al. Effect of pentoxifylline on renal outcomes
+in chronic kidney disease patients: A systematic review and meta-analysis.
+Pharmacol Res. 2016;107:315-32.
+50. de Borst MH, Hajhosseiny R, Tamez H, et al. Active vitamin D treatment for
+reduction of residual proteinuria: a systematic review. J Am Soc Nephrol.
+2013;24(11):1863-71.
+51. Cheng J, Zhang W, Zhang X, et al. Efficacy and safety of paricalcitol therapy for
+chronic kidney disease: a meta-analysis. Clin J Am Soc Nephrol. 2012;7(3):391400. Erratum in: Clin J Am Soc Nephrol. 2012;7(6):1053.
+52. Han T, Rong G, Quan D, et al. Meta-analysis: the efficacy and safety of paricalcitol
+for the treatment of secondary hyperparathyroidism and proteinuria in chronic
+kidney disease. Biomed Res Int. 2013;2013:320560.
+53. Zhang HW, Lin ZX, Tung YS, et al. Cordyceps sinensis (a traditional Chinese
+medicine) for treating chronic kidney disease. Cochrane Database Syst Rev.
+2014;(12):CD008353.
+54. Wang B, Chen S, Yan X, et al. The therapeutic effect and possible harm of
+puerarin for treatment of stage III diabetic nephropathy: a meta-analysis. Altern
+Ther Health Med. 2015;21(1):36-44.
+55. Major RW, Oozeerally I, Dawson S, et al. Aspirin and cardiovascular primary
+prevention in non-endstage chronic kidney disease: A meta-analysis.
+Atherosclerosis. 2016;251:177-82.
+56. Pre Pregnancy Care (PPC) (Available at www.myhealth.gov.my/en/prepregnancy-care-ppc/).
+57. Piccoli GB, Cabiddu G, Attini R, et al. Risk of Adverse Pregnancy Outcomes in
+Women with CKD. J Am Soc Nephrol. 2015;26(8):2011-22.
+58. Alsuwaida A, Mousa D, Al-Harbi A, et al. Impact of early chronic kidney disease
+on maternal and fetal outcomes of pregnancy. J Matern Fetal Neonatal Med.
+2011;24(12):1432-6.
+59. Wang F, Xing T, Wang N, et al. A clinical study of pregnancy-associated renal
+insufficiency. Kidney Blood Press Res. 2011;34(1):34-40.
+Management of Chronic Kidney Disease in Adults (Second Edition)
+60. Piccoli GB, Attini R, Vasario E, et al. Pregnancy and chronic kidney disease: a
+challenge in all CKD stages. Clin J Am Soc Nephrol. 2010;5(5):844-55.
+61. Kidney Health Australia. Chronic Kidney Disease (CKD) Management in General
+Practice (3rd Edition). Melbourne: . Melbourne: Kidney Health Australia; 2015.
+62. National Institute for Health and Care Excellence. Chronic kidney disease in
+adults: assessment and management. London: NICE; 2014.
+63. Kidney Health Australia. When to refer for specialist renal care. Melbourne:
+Kidney Health Australia; 2012.
+64. Smart NA, Titus TT. Outcomes of early versus late nephrology referral in chronic
+kidney disease: a systematic review. Am J Med. 2011;124(11):1073-80.e2.
+65. Kidney Disease: Improving Global Outcomes (KDIGO) Anemia Work Group.
+KDIGO Clinical Practice Guideline for Anemia in Chronic Kidney Disease. Kidney
+Inter, Suppl. 2012;2:279-335.
+66. National Institute for Health and Care Excellence. Chronic kidney disease:
+managing anaemia. London: NICE; 2015.
+67. KDOQI; National Kidney Foundation. KDOQI Clinical Practice Guidelines and
+Clinical Practice Recommendations for Anemia in Chronic Kidney Disease.
+Am J Kidney Dis. 2006;47(5 Suppl 3):S11-145. Erratum in: Am J Kidney Dis.
+2006;48(3):518.
+68. Kidney Disease: Improving Global Outcomes (KDIGO) CKD-MBD Update Work
+Group. KDIGO 2017 Clinical Practice Guideline Update for the Diagnosis,
+Evaluation, Prevention, and Treatment of Chronic Kidney Disease–Mineral and
+Bone Disorder (CKD-MBD). Kidney Int Suppl. 2017;7:1-59.
+69. National Kidney Foundation. K/DOQI clinical practice guidelines for bone
+metabolism and disease in chronic kidney disease. Am J Kidney Dis. 2003;42(4
+Suppl 3):S1-201.
+Management of Chronic Kidney Disease in Adults (Second Edition)
+Appendix 1
+EXAMPLE OF SEARCH STRATEGY
+Clinical Question: What are the blood pressure targets in chronic kidney
+disease?
+1.
+Renal Insufficiency, Chronic/
+2.
+Kidney Failure, Chronic/
+3.
+(chronic adj1 (kidney disease* or kidney insufficienc* or renal
+disease* or renal insufficienc*)).tw.
+4.
+ckd.tw.
+5.
+Renal Insufficiency/
+6.
+((kidney or renal) adj1 (failure* or insufficienc*)).tw.
+7.
+1 or 2 or 3 or 4 or 5 or 6
+8.
+Blood Pressure/
+9.
+(blood adj1 pressure*).tw.
+10. (systolic adj1 pressure*).tw.
+11. (diastolic adj1 pressure).tw.
+12. or/8-11
+13. reduc*.tw.
+14. aim*.tw.
+15. target*.tw.
+16. control*.tw.
+17. or/13-16
+18. 12 and 17
+19. 7 and 18
+20. limit 19 to (english language and humans and yr="2010 -Current"
+and "all adult (19 plus years)")
+21. limit 20 to systematic reviews
+Management of Chronic Kidney Disease in Adults (Second Edition)
+Appendix 2
+CLINICAL QUESTIONS
+A. Screening
+1. Who are at high risk of developing chronic kidney disease?
+2. Who should be screened for chronic kidney disease?
+3. What methods should be used for screening chronic kidney disease?
+• urine dipstick
+• urine protein/albumin-creatinine ratio
+• time urine collection
+4. What methods should be used to assess renal function?
+• serum creatinine
+• 24-hour urine creatinine clearance
+• prediction equation e.g. MDRD, Cockcroft-Gault, CKD-epi (in
+elderly, stages of CKD)
+• serum and urine cystatin C
+*Classification of CKD
+B. Treatment
+5. What are the effective and safe interventions in slowing down the
+progression of chronic kidney disease?
+• reduction in blood pressure and proteinuria
+○ ACEi/ARB
+○ calcium channel blockers
+○ combined Renin-Angiotensin
+System Blockade
+○ aldosterone antagonists
+○ direct renin inhibitors
+• glycaemic control
+• lipid lowering
+• uric acid reduction
+6. What are the blood pressure targets in chronic kidney disease?
+7. What are the effective interventions in reducing the risk of
+cardiovascular disease in CKD?
+• as above
+• aspirin
+8. How should pregnancy with chronic kidney disease be managed?
+C. Referral
+9. When should a patient with chronic kidney disease be referred to a
+nephrologist?
+D. CKD-related Complications
+10. When to screen complications in chronic kidney disease (anaemia
+and mineral bone disease)?
+11. How to screen complications in chronic kidney disease?
+• miscellaneous agents
+○ pentoxifylline
+○ protein restriction (ketoacid)
+○ supplement agents
+○ traditional medication
+• smoking cessation
+• salt restriction
+• weight reduction
+• exercise
+• sulodexide
+• sodium bicarbonate
+Management of Chronic Kidney Disease in Adults (Second Edition)
+Appendix 3
+DOSAGE RECOMMENDATION IN CKD FOR COMMONLY PRESCRIBED ORAL MEDICATIONS
+US FDA
+Pregnancy
+Category
+Note
+Severe
+(GFR <30 ml/min)
+Moderate
+(GFR 30 - 59 ml/min)
+Mild
+(GFR 60 - 90 ml/min)
+Usual Dose
+Medication
+Dose Adjustment in Renal Failure
+HMG-CoA reductase inhibitors
+Statin should be started at low dose and titrated upwards in order to minimise the adverse effects (e.g.myopathy)
+^HI
+Rosuvastatin
+20 - 40 mg OD
++MI
+Rosuvastatin
+5 - 10 mg OD
+^HI
+40 - 80 mg OD
++MI
+10 - 20 mg OD
+~LI
+Simvastatin
+10 mg OD
++MI
+20 - 40 mg OD
++MI
+40 - 80 mg OD
+~LI
+10 - 20 mg OD
++MI
+20 - 80 mg OD
+~LI
+20 - 40 mg OD
++MI
+40 mg OD
+~LI
+20 mg OD
+No dosage adjustment necessary
+No dosage adjustment necessary
+No dosage adjustment necessary
+No dosage adjustment necessary
+No dosage adjustment necessary
+15 - 29: 5 - 10 mg OD
+<15: Avoid (no data)
+10 - 20 mg OD
+(Initial dose: 5 mg OD)
+10 - 40 mg OD
+10 - 40 mg OD
+10 - 20 mg OD
+10 - 80 mg OD
+10 - 40 mg OD
+25%
+50%
+50%
+Severe impairment:
+10 mg OD
+May increase
+serum creatinine
+No dosage adjustment
+necessary
+No dosage adjustment
+necessary
+No dosage adjustment
+necessary
+Fibric acid derivatives
+Cholesterol absorption inhibitor
+145 mg OD
+600 mg BD
+Fenofibrate
+Gemfibrozil
+10 mg OD
+Ezetimibe
+15 - 30: 25%
+<15: Avoid
+15 - 30: 50%
+<15: Avoid
+X
+X
+X
+X
+X
+X
+C
+C
+C
+Atorvastatin
+Atorvastatin
+Simvastatin
+Pravastatin
+Pravastatin
+Fluvastatin
+Fluvastatin
+Lovastatin
+Lovastatin
+Management of Chronic Kidney Disease in Adults (Second Edition)
+Thiazide diuretics
+Chlorthalidone
+Chlorothiazide
+Hydrochlorothiazide
+Indapamide
+US FDA
+Pregnancy
+Category
+Note
+Severe
+(GFR <30 ml/min)
+Moderate
+(GFR 30 - 59 ml/min)
+Mild
+(GFR 60 - 90 ml/min)
+Usual Dose
+Medication
+Dose Adjustment in Renal Failure
+Loop diuretics
+Potassium sparing diuretics
+0.5 - 4 mg/day
+in 2 - 3 doses
+C
+C
+No dosage adjustment necessary
+No dosage adjustment necessary
+No dosage adjustment necessary
+No dosage adjustment necessary
+No dosage adjustment necessary
+No dosage adjustment necessary
+12.5 - 50 mg OD
+12.5 - 50 mg OD
+12.5 - 5 mg OD
+500 - 1000
+mg/day
+in 1 - 2 doses
+<10: Avoid
+<10: Avoid
+30 - 49: 12.5 mg
+OD/EOD
+<30: Avoid
+<10: Avoid
+1.25 - 2.5 mg
+<10: Avoid
+Thiazide diuretics
+are unlikely to be of
+use once GFR
+<30 ml/min
+#
+B
+C
+B
+B
+Bumetanide
+Frusemide
+40 - 240 mg/day
+in 2 - 3 doses
+5 - 10 mg/day
+in 1 - 2 doses
+C
+C
+*ADEC - C
+C
+No dosage adjustment
+necessary
+≥50: 12.5 - 25 mg OD/ BD
+Amiloride
+Spironolactone
+25 - 100 mg/day
+in 1 - 2 doses
+Sulfonylureas
+Sulfonylureas should be used cautiously due to increased risk of hypoglycaemia.
+First-generation sulfonylureas generally should be avoided due to increased half-life and risk of hypoglycaemia in patients with CKD.
+Glipizide and gliclazide are the preferred agents among the second-generation sulfonylureas as they do not have active metabolites and have
+lower risk of hypoglycaemia in CKD patients.
+No dosage adjustment necessary
+Contraindicated
+80 - 160 mg BD
+5 - 10 mg OD
+Gliclazide
+Glibenclamide
+#
+Use with caution
+Avoid
+15 - 30: Initiate at low dose, 1 mg OD
+<15: Avoid
+Glimepiride
+1 - 4 mg OD
+C
+No dosage adjustment necessary
+Glipizide
+2.5 - 15 mg OD
+Initiate at low dose:
+1 mg OD
+50%
+10 - 30: 50%
+<10: Avoid
+B
+Serum potassium
+needs to be monitored
+#
+Serum potassium
+needs to be monitored
+Management of Chronic Kidney Disease in Adults (Second Edition)
+US FDA
+Pregnancy
+Category
+Note
+Severe
+(GFR <30 ml/min)
+Moderate
+(GFR 30 - 59 ml/min)
+Mild
+(GFR 60 - 90 ml/min)
+Usual Dose
+Medication
+Dose Adjustment in Renal Failure
+Biguanide
+Metformin is eliminated via kidney and may accumulate in body as kidney function deteriorates - increased risk of lactic acidosis.
+Meglitinides
+Thiazolidinediones
+Alpha-glucosidase inhibitors
+Acarbose
+25 - 100 mg TDS
+50 - 100%
+Avoid
+Avoid
+Avoid
+#
+#
+B
+Metformin
+500 - 1,000 mg BD
+No adjustment
+30 - 45: 50%
+B
+Repaglinide
+0.5 - 4 mg TDS
+No dosage adjustment
+necessary
+20 - 40: 0. 5 mg with meal
+<20: Avoid
+C
+C
+Nateglinide
+120 mg TDS
+4 - 8 mg OD
+15 - 30 mg OD
+No dosage adjustment necessary
+#
+C
+Rosiglitazone
+No dosage adjustment necessary
+C
+Pioglitazone
+No dosage adjustment necessary
+May worsen fluid
+retention
+May worsen fluid
+retention
+GLP-1 receptor agonists
+Exenatide Immediate
+Release (Byetta)
+Exenatide Extended
+Release (Bydureon)
+2 mg SC once
+weekly
+Use with caution
+50 - 100%
+Dose escalation from
+5 - 10 µg should
+proceed conservatively
+Avoid
+(increase frequency
+and severity of GI
+side effects)
+#
+C
+C
+5 - 10 µg BD
+100%
+Liraglutide (Victoza)
+C
+-
+Starting dose:
+0.6 mg SC OD x
+1 week
+Maintenance
+dose:
+1.2 - 1.8 mg SC
+OD
+100%
+No dosage adjustment
+necessary
+Use with caution when
+initiating or
+escalating dose
+Avoid
+#
+(limited data)
+(limited data)
+Lixisenatide
+(Lyxumia)
+10 µg SC OD for
+14 days followed
+by 20 µg OD
+No dosage adjustment necessary
+(monitor changes in renal function and
+GI adverse effects)
+15-<30: (limited data)
+<15: Not
+recommended
+Not indicated for
+Type 1 DM
+Management of Chronic Kidney Disease in Adults (Second Edition)
+Insulin
+Doses should be adjusted based on frequent monitoring to balance goals of glycaemic control and avoidance of hypoglycaemia
+Sodium glucose co-transporter 2 (SGLT-2) inhibitors
+US FDA
+Pregnancy
+Category
+Note
+Severe
+(GFR <30 ml/min)
+Moderate
+(GFR 30 - 59 ml/min)
+Mild
+(GFR 60 - 90 ml/min)
+Usual Dose
+Medication
+Dose Adjustment in Renal Failure
+Dipeptidyl peptidase-4 (DPP-4) inhibitors
+Sitagliptin
+100 mg OD
+Vildagliptin
+Saxagliptin
+Linagliptin
+Alogliptin
+50 mg OD - BD
+2.5 - 5 mg OD
+5 - 10 mg OD
+2.5 - 5 mg OD
+25 mg OD
+100%
+100%
+100%
+30 - 50: 50%
+50 - 59: 100%
+<50: limited data
+2.5 mg OD
+2.5 mg OD
+25%
+50%
+50%
+No dosage adjustment necessary
+No dosage adjustment necessary
+B
+-
+B
+B
+-
+C
+#
+#
+#
+B
+#
+#
+No dosage adjustment
+necessary
+No dosage adjustment
+necessary
+12.5 mg OD
+15 - 30: 6.25 mg OD
+Dapagliflozin
+Avoid
+Avoid
+100 - 300 mg OD
+200 - 400 mg
+q8 - 12h
+200 - 400 mg
+q8 - 12h
+-
+No dosage adjustment
+necessary
+Canagliflozin
+45 - 60: 100 mg OD
+<45: Avoid
+Avoid
+10 - 25 mg OD
+-
+No dosage adjustment
+necessary
+No dosage adjustment
+necessary
+Empagliflozin
+<45: Avoid
+Antiamoebic
+Antifungal
+Metronidazole
+Fluconazole
+C (single
+dose for
+vaginal
+candidiasis)
+D (all other
+indications)
+(limited data)
+Management of Chronic Kidney Disease in Adults (Second Edition)
+US FDA
+Pregnancy
+Category
+Note
+Severe
+(GFR <30 ml/min)
+Moderate
+(GFR 30 - 59 ml/min)
+Mild
+(GFR 60 - 90 ml/min)
+Usual Dose
+Medication
+Dose Adjustment in Renal Failure
+Antiviral
+No dosage adjustment necessary
+No dosage adjustment necessary
+No dosage adjustment necessary
+No dosage adjustment necessary
+No dosage adjustment necessary
+C
+B
+B
+C
+Ketoconazole
+200 mg q24h
+C
+Cephalosporin
+100 - 200 mg
+q12h
+200 mg q4h
+(herpes simplex)
+Itraconazole
+Acyclovir
+15 - 30: No dosage
+adjustment necessary
+<15: 50% (use with
+caution)
+100%
+100%
+250 - 500 mg q8h
+Cefaclor
+<10: 50%
+B
+100%
+50%
+400 mg q24h
+Ceftibuten
+5 - 29: 25%
+B
+q8h
+10 - 50: 500 mg q12 - 24h
+<10: 250 - 500 mg q12 - 24h
+250 - 500 mg q6h
+Cephalexin
+B
+250 - 500 mg
+q12h
+Cefuroxime axetil
+No dosage adjustment necessary
+75 mg q12h
+Oseltamivir
+10 - 30: 75 mg q24h
+<10: No
+recommendation
+15 - 30: No dosage
+adjustment necessary
+<15: 50% (use with
+caution)
+>25: No dosage
+adjustment necessary
+10 - 25: 800 mg q8h
+<10: 800 mg q12h
+800 mg q4h
+(herpes zoster)
+High doses can
+cause
+encephalopathy
+Management of Chronic Kidney Disease in Adults (Second Edition)
+Nitrofuran
+Fluoroquinolone
+C
+Lincosamide
+Clindamycin
+No dosage adjustment necessary
+B
+Macrolide
+Azithromycin
+No dosage adjustment necessary
+B
+Clarithromycin
+100%
+100%
+50%
+C
+Erythromycin
+100%
+100%
+100%
+B
+B
+15 - 30: 50 - 75%
+<15: 50%
+Ciprofloxacin
+500 - 750 mg
+q12h
+100%
+50 - 75%
+C
+<20: 50% q24h
+Ofloxacin
+200 - 400 mg
+q12h
+100%
+20 - 50: q24h
+Avoid
+Nitrofurantoin
+50 - 100 mg q6h
+No dosage adjustment
+necessary
+Avoid
+C
+<20: 500 mg for
+initial dose,
+then 250 mg q48h
+Levofloxacin
+500 mg q24h
+100%
+20 - 50: 500 mg
+for initial dose,
+then 250 mg q24h
+Moxifloxacin
+400 mg q24h
+No dosage adjustment necessary
+C
+Norfloxacin
+400 mg q12h
+q12h
+C
+15 - 30: q12 - 24h
+<15: q24h
+q12 - 24h
+150 - 300 mg q6h
+250 - 500 mg
+q24h
+500 - 1,000 mg
+q12h
+(ethylsuccinate)
+400 mg q6h or
+800 mg q12h
+(stearate)
+250 mg q6h or
+500 mg q12h
+US FDA
+Pregnancy
+Category
+Note
+Severe
+(GFR <30 ml/min)
+Moderate
+(GFR 30 - 59 ml/min)
+Mild
+(GFR 60 - 90 ml/min)
+Usual Dose
+Medication
+Dose Adjustment in Renal Failure
+Management of Chronic Kidney Disease in Adults (Second Edition)
+Penicillin
+B
+Trimethoprim
+No dosage adjustment necessary
+C
+10 - 30: q8 - 12h
+<10: q24h
+Amoxicillin
+250 - 500 mg q8h
+q8h
+q8 - 12h
+q6h
+q6 - 12h
+B
+B
+B
+B
+10 - 30: q12h
+<10: q24h
+Amoxicillin +
+Clavulanic Acid
+(Augmentin)
+625 mg q8h
+Ampicillin
+250 mg - 2 g q6h
+Cloxacillin
+250 - 500 mg q6h
+No dosage adjustment necessary
+No dosage adjustment necessary
+B
+Sultamicillin/
+Ampicillin +
+Sulbactam (Unasyn)
+375 - 750 mg
+q12h
+<15: q24h
+100 mg q12h
+960 mg q12h or
+15 - 20 mg
+TMP/kg/day in
+divided doses q6h
+US FDA
+Pregnancy
+Category
+Note
+Severe
+(GFR <30 ml/min)
+Moderate
+(GFR 30 - 59 ml/min)
+Mild
+(GFR 60 - 90 ml/min)
+Usual Dose
+Medication
+Dose Adjustment in Renal Failure
+15 - 30: q6 - 12h
+<15: q12 - 24h
+No dosage adjustment necessary
+No dosage adjustment necessary
+Penicillin V/
+Phenoxymethylpenicillin
+250 - 500 mg
+q6h
+CrCl <10 ml/minute:
+250 mg q6h
+Sulfonamide + Trimethoprim
+15 - 30: 50 mg q12H
+<15: q24h
+<30 ml/min: Close
+monitoring of blood
+counts
+Sulfamethoxazole +
+Trimethoprim (TMP)
+No dosage adjustment necessary
+C
+15 - 30: 50%
+<15: 50% q12 - 24h
+Dose to be
+optimised based on
+diagnosis
+Management of Chronic Kidney Disease in Adults (Second Edition)
+^HI=High Intensity, +MI=Moderate Intensity, ~LI=Low Intensity, OD=once daily, BD= twice daily, TDS=thrice daily, SC=subcutaneous, q=every, h=hourly
+*ADEC = Australian Drug Evaluation Committee Pregnancy Category
+Disclaimer:
+The list of medication dosage adjustment should be used as a general guides only and is not intended to be comprehensive.
+The dosing guide for GFR <10 ml/min does not provide information on dosing in haemodialysis, peritoneal dialysis or continuous RRT patients.
+The Cockcroft-Gault equation was used to estimate the renal function for drug dosing unless otherwise indicated.
+#Drug dosing calculated using MDRD or CKD-Epi
+Source:
+1. George RA, William MB, Jeffrey SB, et al. Drug Prescribing in Renal Failure. Dosing Guidelines for Adults and Children, 5th Ed. Philadelphia: American
+College of Physicians; 2007
+2. Drug information handbook. Lexicomp drug reference handbooks, 22nd Ed. American Pharmacists Association; 2013
+3. Matzke GR, Aronoff GR, Atkinson AJ Jr, et al. Drug dosing consideration in patients with acute and chronic kidney disease-a clinical update from Kidney
+Disease: Improving Global Outcomes (KDIGO). Kidney Int. 2011;80(11):1122-3
+4. Medication package insert
+Tetracycline
+D
+Doxycycline
+100 mg q24h
+q8 - 12h
+q12 - 24h
+D
+Tetracycline
+250 - 500 mg q6h
+No dosage adjustment necessary
+Minocycline
+100 mg q12h
+No dosage adjustment necessary
+D
+US FDA
+Pregnancy
+Category
+Note
+Severe
+(GFR <30 ml/min)
+Moderate
+(GFR 30 - 59 ml/min)
+Mild
+(GFR 60 - 90 ml/min)
+Usual Dose
+Medication
+Dose Adjustment in Renal Failure
+10 - 30: q12 - 24h
+<10: q24h
+Management of Chronic Kidney Disease in Adults (Second Edition)
+Appendix 4
+UNITED STATES FOOD AND DRUG ADMINISTRATION (FDA)
+PHARMACEUTICAL PREGNANCY CATEGORIES
+Modified: Ministry of Health, Malaysia. Management of Chronic Kidney Disease in
+Adults. MoH: Putrajaya: 2011
+DESCRIPTION
+Controlled studies in women fail to demonstrate a
+risk to fetus in the first trimester, and the possibility
+of fetal harm appears remote.
+Animal studies do not indicate a risk to the fetus and
+there are no controlled human studies, or animal
+studies do show an adverse effect on the fetus but
+well-controlled studies in pregnant women have
+failed to demonstrate a risk to the fetus.
+Studies have shown that the drug exerts animal
+teratogenic or embryocidal effects, but there are
+no controlled studies in women, or no studies are
+available in either animals or women.
+Positive evidence of human fetal risk exists, but
+benefits in certain situations (e.g. life-threatening
+situations or serious diseases for which safer drugs
+cannot be used or are ineffective) may make use of
+the drug acceptable despite its risks.
+Studies in animals or human have demonstrated
+fetal abnormalities or there is evidence of fetal risk
+based on human experience, or both, and the risk
+clearly outweighs any possible benefit.
+CATEGORY
+A
+B
+C
+D
+Management of Chronic Kidney Disease in Adults (Second Edition)
+LIST OF ABBREVIATIONS
+µg
+microgramme
+µm
+micrometre
+µmol/L
+micromole/litre
+AA
+Aldosterone Antagonists
+ACEi
+Angiotensin-Converting Enzyme Inhibitor
+ACR
+albumin: creatinine ratio
+AER
+albumin excretion rate
+AKI
+acute kidney injury
+ALP
+alkaline phosphatase
+ARB
+Angiotensin Receptor Blocker
+BP
+blood pressure
+CCBs
+calcium channel blockers
+CCF
+congestive cardiac failure
+CKD
+chronic kidney disease
+CKD-MBD
+chronic kidney disease-mineral and bone disorder
+CKD-epi
+CKD-epidemiology
+CI
+confidence interval
+CPG(s)
+clinical practice guidelines
+CV(D)
+cardiovascular disease
+DHP
+dihydropyridine
+DKD
+diabetic kidney disease
+DM
+diabetes mellitus
+(e)GFR
+(estimated) glomerular filtration rate
+ESA
+erythropoiesis-stimulating agent
+ESRD
+end-stage renal disease
+dL
+desilitre
+g
+gramme
+Hb
+haemoglobin
+HR
+hazard ratio
+iPTH
+intact parathyroid hormone
+MD
+mean difference
+kg
+kilogramme
+MDRD
+Modification of Diet in Renal Disease
+m2
+metre square
+mg
+milligramme
+min
+minute
+ml
+millilitre
+mol/L
+millimole/litre
+mmHg
+millimetre mercury
+MoH
+Ministry of Health
+NDHP
+non-dihydropyridine
+NSAIDS
+non-steroidal anti-inflammatory drugs
+OR
+odds ratio
+PPI
+proton pump inhibitors
+PTH
+parathyroid hormone
+RAS
+renin-angiotensin system
+RCT(s)
+randomised controlled trial(s)
+RR
+relative risk
+RRT
+renal replacement therapy
+Management of Chronic Kidney Disease in Adults (Second Edition)
+ACKNOWLEDGEMENT
+The DG members of these guidelines would like to express their
+gratitude and appreciation to the following for their contributions:
+• Panel of external reviewers who reviewed the draft
+• Technical Advisory Committee of CPG for their valuable input and
+feedback
+• Health Technology Assessment and Clinical Practice Guidelines
+Council for approval of the CPG
+• Ms. Rosnani Abdul Latip on retrieval of evidence and Ms. Noormah
+Darus on critical appraisal in the CPG development
+• All those who have contributed directly or indirectly to the
+development of the CPG
+DISCLOSURE STATEMENT
+The panel members of both DG and RC had completed disclosure
+forms. None held shares in pharmaceutical firms or acts as consultants
+to such firms. (Details are available upon request from the CPG
+Secretariat)
+SOURCE OF FUNDING
+The development of the CPG on Management of Chronic Kidney
+Disease in Adults (Second Edition) was supported financially mainly
+by the MoH Malaysia and to some extent by the Malaysian Nephrology
+Society. The printing was funded by the MoH Malaysia.
+SBP
+systolic blood pressure
+SCr
+serum creatinine
+SGLT2
+sodium-glucose co-transporter-2
+T1DM
+type 1 diabetes mellitus
+T2DM
+type 2 diabetes mellitus
+(u)PCR
+(urine) protein: creatinine ratio
+UTI
+urinary tract infection
+VLPD
+very low protein diet
+Management of Chronic Kidney Disease in Adults (Second Edition)

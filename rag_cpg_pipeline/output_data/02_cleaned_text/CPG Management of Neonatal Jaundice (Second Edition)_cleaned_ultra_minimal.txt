@@ -1,0 +1,2571 @@
+CLINICAL PRACTICE GUIDELINES
+MOH PAK I88 1560)
+MANAGEMENT OF
+NEONATAL JAUNDICE
+Management of Neonatal Jaundice (Second Edition)
+Published by:
+Malaysia Health Technology Assessment Section (MaHTAS)
+Medical Development Division, Ministry of Health Malaysia
+Level 4, Block E1, Precinct 1
+Federal Government Administrative Centre
+62590, Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is MaHTAS. Content may be
+reproduced in any number of copies and in any format or medium provided that a copyright acknowledgement to MaHTAS is included and
+the content is not changed, not sold, nor used to promote or endorse
+any product or service, and not used in an inappropriate or misleading
+context.
+ISBN: 978-967-0769-XXXX
+Available on the following websites:
+http://www.moh.gov.my
+http://www.acadmed.org.my
+Also available as an app for Android and iOS Platform: MyMaHTAS
+STATEMENT OF INTENT
+These clinical practice guidelines (CPG) are meant to be guides for
+clinical practice, based on the best available evidence at the time of
+development. Adherence to these guidelines may not necessarily
+guarantee the best outcome in every case. Every healthcare provider is
+responsible for the management of his/her unique patient based on the
+clinical picture presented by the patient and the management options
+available locally.
+These guidelines were issued in 2015 and will be reviewed in 2019 or
+sooner if new evidence becomes available. When it is due for updating,
+the Chairman of the CPG or National Advisor of the related specialty
+will be informed about it. A discussion will be done on the need for
+a revision including the scope of the revised CPG. A multidisciplinary
+team will be formed and the latest systematic review methodology used
+by MaHTAS will be employed.
+Management of Neonatal Jaundice (Second Edition)
+TABLE OF CONTENTS
+No.
+Title
+Page
+Levels of Evidence & Formulation of Recommendation
+v
+Guidelines Development and Objectives
+vi
+Guidelines Development Group
+viii
+Review Committee
+ix
+External Reviewers
+x
+Algorithm on Management of Cervical Cancer
+xi
+1.
+INTRODUCTION
+1
+2.
+EPIDEMIOLOGY
+1
+3.
+RISK FACTORS
+2
+4.
+CLINICAL PRESENTATION
+2
+5.
+REFERRAL 3
+6.
+DIAGNOSIS
+4
+7.
+STAGING
+7
+8.
+TREATMENT
+11
+9.
+SPECIAL CIRCUMSTANCES
+21
+10. FOLLOW-UP
+26
+11.
+RECURRENT DISEASE
+28
+12.
+TREATMENT COMPLICATIONS
+31
+13.
+PALLIATIVE CARE
+33
+14.
+PSYCHOSEXUAL CARE AND SUPPORT
+41
+15.
+IMPLEMENTING THE GUIDELINES
+43
+16.
+REFERENCES
+45
+17.
+Appendix 1 Examples of Search Strategy
+51
+Appendix 2 Clinical Questions
+52
+Appendix 3 WHO histological classification of tumours
+54
+of the uterine cervix
+Management of Neonatal Jaundice (Second Edition)
+Appendix 4 Revised FIGO Cervical Cancer Staging 2009
+56
+Appendix 5 Modified Delgado Score for Cervical Cancer
+59
+Appendix 6 ECOG Performance Status
+60
+Appendix 7 Systemic Therapy of Cancer Protocol
+61
+Appendix 8 Malaysian Hospice Directory
+62
+Appendix 9 International Society of Lymphology (ISL) 55
+Appendix 10 Distress Thermometer Screening Tool
+52
+Appendix 11 Medication List
+56
+Appendix 12 Reporting Proforma for Cervical Cancer
+57
+Excisional Cervical Biopsies/
+Hysterectomy Specimens
+List of Abbreviations
+Acknowledgement
+63
+Disclosure Statement
+64
+Source of Funding
+64
+TABLE OF CONTENTS
+No.
+Title
+Page
+Management of Neonatal Jaundice (Second Edition)
+LEVELS OF EVIDENCE
+SOURCE: US / CANADIAN PREVENTIVE SERVICES TASK FORCE 2001
+In line with the current development in CPG methodology, the
+CPG Unit of MaHTAS is in the process of incorporating Grading
+Recommendations,
+Assessment,
+Development
+and
+Evaluation
+(GRADE) into its work process. The quality of each retrieved evidence
+and its effect size are carefully assessed/reviewed by the CPG
+Development Group. In formulating the recommendations, overall
+balances of the following aspects are considered in determining the
+strength of the recommendations:-
+• Overall quality of evidence
+• Balance of benefits vs harms
+• Values and preferences
+• Resource implications
+• Equity, feasibility and acceptability
+Level
+I
+II -1
+II-2
+II-3
+III
+Study design
+Evidence from at least one properly randomised controlled trial
+Evidence obtained from well-designed controlled trials without
+randomisation
+Evidence obtained from well-designed cohort or case-control
+analytic studies, preferably from more than one centre or
+group
+Evidence from multiple time series with or without intervention.
+Dramatic results in uncontrolled experiments (such as the
+results of the introduction of penicillin treatment in the 1940s)
+could also be regarded as this type of evidence
+Opinions of respected authorities based on clinical experience;
+descriptive studies and case reports; or reports of expert
+committees
+Management of Neonatal Jaundice (Second Edition)
+ii
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+GUIDELINES DEVELOPMENT
+The members of the Development Group (DG) for these Clinical
+Practice Guidelines (CPG) were from the Ministry of Health (MoH)
+and Ministry of Higher Education. There was active involvement of a
+multidisciplinary Review Committee (RC) during the process of the
+CPG development.
+The previous CPG entitled Management of Jaundice in Healthy Term
+Newborns 2003 was used as the basis for the development of the
+present guidelines. A literature search was carried out using the following
+electronic databases: Guidelines International Network (G-I-N); Medline
+via Ovid, Pubmed and Cochrane Database of Systemic Reviews
+(CDSR) (refer to Appendix 1 for Example of Search Strategy). The
+inclusion criteria are all literature on neonatal jaundice occurring less
+than two weeks, regardless of study design. The search was limited
+to literature published in the last ten years, humans and in English. In
+addition, the reference lists of all retrieved literature and guidelines were
+searched to further identify relevant studies. Experts in the field were
+also contacted to identify relevant studies. All searches were conducted
+from 29 May 2013 to 23 June 2014. Literature searches were repeated
+for all clinical questions at the end of the CPG development process
+allowing any relevant papers published before 31 August 2014 to be
+included. Future CPG updates will consider evidence published after
+this cut-off date. The details of the search strategy can be obtained
+upon request from the CPG Secretariat.
+Reference was also made to other CPG on neonatal jaundice developed
+by National Collaborating Centre for Women’s and Children’s Health
+(2010)/National Institute for Health and Clinical Excellence (NICE)
+(2010) and American Academy of Pediatrics (2004 and 2009). The
+CPG was evaluated using the Appraisal of Guidelines for Research and
+Evaluation (AGREE) II prior to them being used as references.
+A total of 14 clinical questions were developed under different sections.
+Members of the DG were assigned individual questions within these
+sections. (Refer to Appendix 2 for Clinical Questions) The DG
+members met 18 times throughout the development of these guidelines.
+The literature retrieved was appraised by at least two DG members using
+Critical Appraisal Skill Programme checklist, presented in evidence
+tables and further discussed in each DG meetings. All statements and
+recommendations formulated after that were agreed upon by both the
+DG and RC. Where evidence was insufficient, the recommendations
+were made by consensus of the DG and RC. Any differences in opinion
+were resolved consensually. These guidelines were based largely on
+Management of Neonatal Jaundice (Second Edition)
+the findings of systematic reviews, meta-analyses and clinical trials,
+with local practices taken into consideration.
+The literature used in these guidelines was graded using the US/
+Canadian Preventive Services Task Force Level of Evidence (2001),
+while the grading of recommendation was done using the principles of
+GRADE (refer to the preceding page).
+On completion, the draft guidelines was reviewed by external reviewers.
+It was also posted on the MoH Malaysia official website for feedback
+from interested parties. The draft was finally presented to the Technical
+Advisory Committee for CPG, and the HTA and CPG Council MoH
+Malaysia for review and approval.
+OBJECTIVES
+The objective of the CPG is to provide evidence-based guidance on the
+management of NNJ, specifically addressing the following:
+Diagnosis and Assessment
+i.
+Treatment
+ii. Prevention of Severe Jaundice
+iii. Referrals and Follow-up
+CLINICAL QUESTIONS
+Refer to Appendix 2
+TARGET POPULATION
+Inclusion Criteria
+•
+All preterm and term babies with neonatal jaundice
+Exclusion Criteria
+Babies with:
+•
+Conjugated hyperbilirubinaemia
+•
+Prolonged jaundice (jaundice beyond 14 days in term babies and
+21 days in preterm babies)
+TARGET GROUP/USER
+This CPG is intended to guide those involved in the management of
+NNJ either in primary or secondary/tertiary care namely:-
+i.
+Medical officers and general practitioners
+ii. Family Medicine Specialists
+iii. Paediatricians and specialists from related disciplines
+iv. Allied health professionals
+v. Pharmacists
+Management of Neonatal Jaundice (Second Edition)
+vi. Students (medical postgraduates and undergraduates, and allied
+health students)
+vii. Parents and carers
+HEALTHCARE SETTINGS
+Outpatient, inpatient and community settings
+Management of Neonatal Jaundice (Second Edition)
+GUIDELINES DEVELOPMENT GROUP
+Chairperson
+Dr. Angeline Wan Seng Lian
+Consultant Neonatologist
+Hospital Pakar Sultanah Fatimah, Johor
+Members (alphabetical order)
+v
+Dr. Choo Yao Mun
+Senior Lecturer & Consultant
+Neonatologist
+Pusat Perubatan Universiti Malaya
+Kuala Lumpur
+Dr. Fazila Mohamed Kutty
+Consultant Neonatologist
+Hospital Serdang, Selangor
+Ms. Loong Ah Moi
+Nursing Matron
+CPG Unit, Health Technology
+Assessment Section, MoH, Putrajaya
+Dr. Marina Mohd Said
+Family Medicine Specialist
+Klinik Kesihatan Parit Raja, Johor
+Dr. Mohd. Aminuddin Mohd. Yusof
+Head of CPG Unit
+Health Technology Assessment Section
+MoH, Putrajaya
+Dr. Nazrul Neezam Nordin
+Consultant Paediatric Gastroenterologist
+Sunway Medical Centre, Kuala Lumpur
+Mdm. Noor Haslina Othman
+Pharmacist
+Hospital Raja Perempuan Zainab II
+Kelantan
+Dr. Noorzaitun Ariffin
+Paediatrician
+Hospital Raja Perempuan Zainab II
+Kelantan
+Dr. Pauline Choo Poh Ling
+Consultant Neonatologist
+Hospital Tuanku Jaafar
+Negeri Sembilan
+Dr. Suzaini Mat Daud
+Consultant Family Medicine Specialist
+Klinik Kesihatan Arau, Perlis
+Dr. Tan Hui Siu
+Paediatrician
+Hospital Teluk Intan, Perak
+Dr. Teh Siao Hean
+Consultant Paediatrician
+Hospital Miri, Sarawak
+Management of Neonatal Jaundice (Second Edition)
+REVIEW COMMITTEE
+The draft guidelines was reviewed by a panel of experts from both
+public and private sectors. They were asked to comment primarily on
+the comprehensiveness and accuracy of the interpretation of evidence
+supporting the recommendations in the guidelines.
+Chairperson
+Dr. Neoh Siew Hong
+Consultant Neonatologist
+Hospital Kuala Lumpur, Kuala Lumpur
+Members (alphabetical order)
+vi
+Dr. Aminah Bee Mohd Kassim
+Senior Principal Assistant Director
+Family Health Development Division
+MoH, Putrajaya
+Dr. Anna Padmavathy Soosai
+Consultant Neonatologist
+Prince Court Medical Centre
+Kuala Lumpur
+Dr. Faridah Aryani Md. Yusof
+Senior Principal Assistant Director
+Pharmaceutical Services Division
+MoH, Selangor
+Dr. Hanihaselah Mohd. Saleh
+Consultant Family Medicine Specialist
+Klinik Kesihatan Bandar Tenggara
+Johor
+Dr. Jamaluddin Haji Mohamad
+Consultant Paediatrician
+Hospital Sungai Buloh, Selangor
+Datuk Dr. Kuan Geok Lan
+Senior Consultant Paediatrician
+Hospital Melaka, Melaka
+Associate Professor Dr. Lai Nai Ming
+Associate Professor of Paediatrics
+School of Medicine, Taylor’s University
+Lakeside Campus Malaysia
+Kuala Lumpur
+Professor Dr. Rohana Jaafar
+Professor of Paediatrics & Senior
+Consultant Neonatologist
+Pusat Perubatan Universiti Kebangsaan
+Malaysia, Kuala Lumpur
+Datin Dr. Rugayah Bakri
+Deputy Director
+Health Technology Assessment Section
+MoH, Putrajaya
+Management of Neonatal Jaundice (Second Edition)
+EXTERNAL REVIEWERS (in alphabetical order)
+The following external reviewers provided feedback on the draft:-
+vii
+Dr. Alvin S M Chang
+Consultant, Department of Neonatology
+KK Women’s and Children’s Hospital
+Singapore
+Adjunct Assistant Professor, Department
+of Paediatrics, Yong Loo Lin School
+of Medicine, National University of
+Singapore, Singapore and
+Adjunct Assistant Professor, DUKE-NUS
+Graduate Medical School, Singapore
+Emeritus Professor Dr. Boo Nem Yun
+Senior Professor of Department of
+Population Medicine and
+Deputy Dean for Academic Development
+and Undergraduate Programmes
+Faculty of Medicine and Health Sciences
+Universiti Tunku Abdul Rahman, Selangor
+Mdm. Dir Rathna Masni Kamaruddin
+Clinical Pharmacist
+Hospital Kuala Krai, Kelantan
+Dr. Farah Inaz Syed Abdullah
+Consultant Neonatologist &
+Lactation Consultant
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Irene Cheah Guat Sim
+Senior Consultant Neonatologist
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Japaraj Robert Peter
+Maternal Fetal Medicine Specialist &
+Consultant Obstetrics & Gynecology, &
+Head, Department of O & G
+Hospital Raja Permaisuri Bainun, Perak
+Professor Dr. Jacqueline J Ho
+Deputy Dean (Academic Affairs) &
+Head of Department of Paediatrics
+Honorary Consultant Neonatologist
+Penang Medical College
+Pulau Pinang
+Dr. Kok Chin Leong
+President, Malaysian Paediatric
+Asssociation & Consultant Paediatrician
+KPJ Puteri Specialist Hospital, Johor
+Dr. Ng Hoong Phak
+Senior Consultant Paediatrician
+Hospital Umum Sarawak, Sarawak
+Dr. Rozita Zakaria
+Consultant Family Medicine Specialist
+Klinik Kesihatan Pasir Gudang, Johor
+Dr. See Kwee Ching
+President, Perinatal Society of Malaysia &
+Consultant Neonatologist
+Hospital Sungai Buloh, Selangor
+Dr. Syahnaz Mohd Hashim
+Lecturer & Family Medicine Specialist
+Department of Family Medicine
+Universiti Kebangsaan Malaysia
+Medical Centre, Kuala Lumpur
+Management of Neonatal Jaundice (Second Edition)
+viii
+ALGORITHM ON MANAGEMENT OF NEONATAL JAUNDICE
+*If jaundice persists beyond 14 days in term babies and 21 days in
+preterm babies, further evaluation for prolonged jaundice is needed.
+G6PD Deficiency
+Jaundice
+Yes
+No
+Admit and observe
+Phototherapy ± ET
+Jaundice resolved
+Monitor as scheduled
+Discharge
+and follow-up
+Assess
+risk factors
+Need
+admission
+Monitor as
+scheduled*
+Need treatment
+Jaundice
+resolved
+Yes
+No
+Yes
+No
+Yes
+No
+NNJ
+>24 hours of life
+<24 hours of life
+Rebound
+jaundice
+Admit
+Management of Neonatal Jaundice (Second Edition)
+Management of Neonatal Jaundice (Second Edition)
+1. INTRODUCTION
+Neonatal Jaundice (NNJ) or neonatal hyperbilirubinaemia is one of the
+most common medical conditions in newborn babies. All babies have a
+transient rise in serum bilirubin but only about 75% are visibly jaundiced.
+Jaundice is clinically detectable when the serum bilirubin levels are >85
+μmol/L (5 mg/dl). NNJ is more common among Asian babies and varies
+with races. There are also other risk factors that may be associated
+with severe jaundice including prematurity, G6PD deficiency and ABO
+incompatibility. Due to improving survival rates of preterm babies, and
+better identification of risk factors over the years, there is a need to
+address the management of jaundice in this group of babies.
+Hyperbilirubinaemia is either unconjugated or conjugated. Without
+treatment, high levels of unconjugated bilirubin may lead to acute and
+chronic bilirubin encephalopathy. This may cause to neurodevelopmental
+problems including athetoid cerebral palsy, hearing loss and visual
+impairment.
+The CPG on the Management of Jaundice in Healthy Term Newborns
+was developed in 2003 as a guide to clinical practice, based on the
+best available evidence at that time. Since then, novel techniques in
+the assessment of NNJ, different modalities of treatment and newer
+concepts of prevention have been introduced. Based on recent evidence,
+this CPG aims to assist healthcare providers in clinical decision-making
+and to provide a standard framework for the management of NNJ in
+the country.
+Management of Neonatal Jaundice (Second Edition)
+2. RISK FACTORS
+Physiological jaundice in babies:
+• is due to excessive bilirubin production (higher haemoglobin content
+and shorter red blood cell life span in newborn babies) and poor
+bilirubin clearance (liver immaturity)
+• usually appears two to four days after birth, resolving after one to
+two weeks (three weeks if preterm)
+• is not associated with underlying disease and is usually benign
+Risk factors of severe NNJ are:-
+• prematurity
+• low birth weight
+• jaundice in the first 24 hours of life
+• mother with Blood Group O or Rhesus Negative
+• G6PD deficiency
+• rapid rise of total serum bilirubin
+• sepsis
+• lactation failure in exclusive breastfeeding
+• high predischarge bilirubin level
+• cephalhaematoma or bruises
+• babies of diabetic mothers
+• family history of severe NNJ in siblings
+Physiological jaundice is usually benign and occurs in almost all
+babies. It can be exacerbated by certain conditions such as inadequate
+intake, cephalohaematoma and bruises. However, high levels of
+bilirubin can lead to bilirubin encephalopathy. Therefore, it is important
+to identify babies at risk of severe hyperbilirubinaemia and adverse
+neurodevelopmental sequelae. Babies are more likely to develop
+severe hyperbilirubinaemia if they have any of the following factors:
+i. Low gestational age/late preterm
+NNJ is common among babies delivered <37 weeks of gestation
+(p<0.0001).1 - 2, level II-2 Babies born at 38 to 39 weeks gestation have
+higher risk for developing severe NNJ compared with babies of ≥40
+weeks gestation (OR=3.12, 95% CI 1.21 to 8.03).3, level II-2
+ii. Low birth weight
+In extremely low birth weight (ELBW) babies, an increasing level
+of unconjugated bilirubin increases mortality and risk of adverse
+neurodevelopmental outcomes (moderate to severe cerebral palsy,
+blindness, severe bilateral central hearing loss or poor mental
+developmental or psychomotor developmental index) (OR=1.18,
+95% CI 1.02 to 1.38).4, level II-2
+Management of Neonatal Jaundice (Second Edition)
+iii. Visible jaundice in the first 24 hours of life
+Jaundice developing within the first 24 hours after birth is an
+important risk factor for severe hyperbilirubinaemia.5 - 6
+iv. Mother with Blood Group O or Rhesus Negative
+Babies with rhesus incompatibility have increased risk of bilirubin
+encephalopathy.7, level III Babies with ABO incompatibility and a
+positive direct Coombs test have a greater risk for adverse outcome
+than those with a negative test (OR=4.5, 95% CI 1.3 to 15.4).8, level II-2
+v. G6PD deficiency
+In a study of babies with total serum bilirubin (TSB)>20 mg/dL
+(>340 µmol/L), G6PD-deficient babies had higher peak TSB levels
+(p<0.001), were more likely to require phototherapy (p=0.004) or
+exchange transfusion (ET) (p<0.01) and had a higher mortality rate
+(p<0.05) compared to non-G6PD-deficient babies.1, level II-2; 8, level II-2
+vi. Rapid rise of total serum bilirubin (TSB)
+Babies with a rapid rise of TSB greater than 6 mg/dL/day (103
+µmol/L/day) are at risk of developing severe hyperbilirubinaemia
+(OR=2.94, 95% CI 1.46 to 5.92).3, level II-2
+vii. Presence of sepsis
+In a study among babies >34 weeks, proven sepsis greatly increased
+the risk of bilirubin toxicity (OR=20.6. 95% CI 4.9 to 87.5).7, level III
+viii. Excessive weight loss
+Excessive body weight loss in the first three days after birth is a
+predictor for significant hyperbilirubinaemia.9, level II-2
+Refer to Subchapter 5.1 on Weight loss
+ix. Exclusive breastfeeding
+Using multivariate analysis, exclusive breastfeeding is a significant
+predictor of TSB ≥25 mg/dL (425 µmol/L) with OR=2.03 (95% CI
+1.03 to 3.99).3, level II-2
+Refer to Chapter 12 on Impact of breastfeeding
+x. High predischarge bilirubin level
+A high predischarge bilirubin level is a predictor for development of
+significant hyperbilirubinaemia with AUC ranging between 0.86 and
+0.88.10 - 11, level II-2
+Refer to Nomogram in Appendix 5.
+xi. Cephalhaematoma or bruises
+Babies with cephalhaematomas or bruises are at risk for
+NNJ.3, level II-2; 6
+Management of Neonatal Jaundice (Second Edition)
+xii. Babies of diabetic mothers
+Macrosomic babies of diabetic mothers are at risk factor for NNJ.12
+xiii. Family history of severe NNJ in siblings
+A history of severe NNJ or ET among other siblings increases the
+risk for severe hyperbilirubinaemia although it is not statistically
+significant.3, level II-2; 11, level II-2
+There is no good quality evidence on maternal consumption of traditional
+herbs as a risk factor for NNJ.
+A Malaysian study found that less than 50% of the mother included
+in this study had good knowledge and awareness about the risks and
+complications of NNJ. Although a majority of them (88.7%) knew that
+jaundiced babies needed blood tests to monitor the severity of jaundice,
+only 27.1% of them were aware that putting jaundiced babies under the
+sun could result in dehydration and worsening of jaundice.13, level III
+Recommendation 1
+• Risk factors* for developing severe jaundice in babies need to be
+identified during the antenatal and postnatal period.
+• Health education on neonatal jaundice should be given during
+antenatal and postnatal visits.
+*Refer to the preceding text.
+Management of Neonatal Jaundice (Second Edition)
+3. RELATIONSHIP BETWEEN BILIRUBIN LEVEL, ACUTE BILIRUBIN
+ENCEPHALOPATHY AND KERNICTERUS
+Acute Bilirubin Encephalopathy (ABE)
+ABE results in changes of mental (behavioural) status and muscle tone
+during the neonatal period when the baby is having hyperbilirubinaemia.
+These include drowsiness, poor feeding and hypotonia followed
+by hypertonia affecting extensor muscles in particular, resulting in
+retrocollis and opisthotonos.14
+Classic kernicterus
+Classic kernicterus may be seen in babies who survive from ABE.
+The manifestations of ABE include dystonia, athetoid cerebral palsy,
+paralysis of upward gaze, and sensorineural hearing loss. Post-mortem
+icteric (yellow) staining of the basal ganglia, specifically the globus
+pallidus is the hallmark of this condition.14
+Bilirubin-Induced Neurologic Dysfunction (BIND)
+BIND is a wider spectrum of disorders that not only includes classic
+kernicterus and ABE, but also less severe forms of neuropathy,
+including auditory neuropathy, fine and gross motor incoordination, gait
+abnormalities, fine tremors, exaggerated extrapyramidal reflexes and
+behavioural problems.14
+Kernicterus is a rare condition due to severe neonatal hyperbilirubinaemia.
+It is associated with a high mortality, and survivors usually suffer
+sequelae such as athetoid cerebral palsy, intellectual disability and
+high frequency hearing loss. Preventing and treating severe neonatal
+hyperbilirubinaemia is crucial to prevent kernicterus.
+In North America and Europe, the estimated incidence of kernicterus
+ranges from 0.4 to 2.7 cases per 100,000 live births among term and
+late preterm babies.15, level III In a Danish study, the incidence of acute
+advanced and chronic bilirubin encephalopathy among babies more than
+35 weeks was 0.6 per 100 000 live births (95% CI 0.1 to 1.7).16, level III
+Risk factors for bilirubin neurotoxicity are isoimmune hemolytic
+disease, G6PD deficiency, asphyxia, sepsis, acidosis and albumin
+<3.0mg/dL.6 The risk may be increased by a prolonged exposure to
+a certain TSB level. Due to limited published data, it is not possible
+to provide specific recommendations for intervention based on the
+duration of hyperbilirubinaemia.12
+The exact bilirubin concentration associated with kernicterus in the
+healthy term babies is unknown.8, level II-2; 16, level III The risk of acute
+advanced and chronic bilirubin encephalopathy among term and late
+Management of Neonatal Jaundice (Second Edition)
+preterm babies increases with higher TSB level.7 - 8, level II-2; 16 - 17, level III; 18, level II-2
+ABE can occur with lower TSB levels in the presence of neurotoxicity risk
+factors such as sepsis and rhesus incompatibility.7, level II-2
+• The relationship between exact bilirubin level, ABE and kernicterus
+in healthy term babies is unknown. However, the risk increases with
+higher TSB levels.
+• ABE can occur with lower TSB levels in the presence of other risk
+factors.
+Management of Neonatal Jaundice (Second Edition)
+4. METHODS OF DETECTING JAUNDICE AND ASSESSING ITS
+SEVERITY
+TSB measurement is the gold standard for detecting and determining the
+level of hyperbilirubinaemia. Visual assessment using Kramer’s rule is
+still widely practised. Newer, non-invasive methods like transcutaneous
+bilirubinometry have been introduced and are gaining wide acceptance.
+i. Transcutaneous bilirubinometer (TcB)
+The transcutaneous bilirubinometer is a hand-held device that
+measures the amount of bilirubin in the skin.
+•
+Many studies, including a large health technology assessment,
+showed a significant correlation (r ranging from 0.75 to 0.95)
+between bilirubin measurements taken by TcBs (BiliCheck
+and JM 103), with TSB measurements, in both term and
+preterm babies. However, the TcBs tended to overestimate or
+underestimate the bilirubin concentration when compared to
+TSB.19, level II-2; 20 - 23, level III Overestimation can lead to unnecessary
+invasive investigations and treatment. Underestimation, on the
+other hand, can lead to missing babies at risk for developing
+severe hyperbilirubinaemia.
+•
+TcB measurements have good correlation (r ranging from 0.85
+to 0.97) with TSB measured by different types of chemistry
+analysers.24 - 26, level III However the mean differences between the
+TcB and TSB levels vary with each method 24 - 25, level III and TcB
+measurement sites (sternum or forehead).25, level III
+•
+Mean differences between TcB measurements and TSB levels
+are large when the bilirubin levels exceed 205 µmol/L (12 mg/
+dL).19, level II-2; 26 - 27, level III
+•
+There has not been any major adverse effect associated with the
+use of BiliCheck and JM-103 devices.19, level II-2
+•
+JM-103 as compared to Bilicheck offers some practical advantages.
+It does not require any disposable material, has better accuracy
+in identifying TSB levels >12 mg/dL (205 µmol/L), and is less
+time consuming.28, level III
+•
+Phototherapy affects the accuracy of TcBs in detecting jaundice.
+29 - 31, level III The correlation is better between TSB levels and
+TcB measurements obtained from the areas unexposed to the
+phototherapy as compared to the exposed areas.29 - 30, level III
+Management of Neonatal Jaundice (Second Edition)
+ii. Icterometer
+The icterometer is a non-invasive instrument which can be used
+as a screening tool for NNJ. There is no good quality evidence to
+indicate its reliability.
+iii. Visual assessment
+Visual assessment of jaundice is based on the assessment of
+the extent and severity of yellow discolouration of the skin. It is
+performed by blanching the skin with slight finger pressure and
+noting the underlying colour of the skin. Jaundice is usually visible
+when bilirubin levels are about 5 - 7 mg/dL (86 - 120 µmol/L) and
+progresses from head to toe as the level of bilirubin rises. Kramer’s
+rule describes the relationship between serum bilirubin levels
+and the progression of skin discolouration (refer to Table 1 and
+Figure 1).
+Visual assessment is not reliable in monitoring jaundice for babies
+on phototherapy.
+Table 1. Visual Assessment of Neonatal Jaundice (Kramer’s rule)
+Head and neck
+Upper trunk (above umbilicus)
+Lower trunk and thighs
+(below umbilicus)
+Arms and lower legs
+Palms and soles
+Area of the Body
+Level
+Range of Serum Bilirubin
+µmol/L
+mg/dL
+1
+2
+3
+4
+5
+68 - 133
+85 - 204
+136 - 272
+187 - 306
+≥306
+4 - 8
+5 - 12
+8 - 16
+11 - 18
+≥18
+Management of Neonatal Jaundice (Second Edition)
+Figure 1. Visual Assessment of Neonatal Jaundice
+(Kramer’s rule)
+Source: Kramer LI. Advancement of dermal icterus in the jaundiced newborn. Am J
+Dis Child. 1969 Sep;118(3):454-8
+• Nurses’ visual assessment of jaundice extent moderately correlates
+with TSB and is better in non-black compared to black babies,
+although the difference is not significant. [rs=0.55 & 0.45 respectively
+(p=0.13)]. However, correlation is weak (rs=0.29) among babies born
+before 38 weeks of gestation.32, level III
+• Visual assessment is unreliable as a predischarge screening tool to
+predict the risk of significant hyperbilirubinaemia.32 - 33, level III However,
+babies with complete absence of jaundice before discharge have a
+low risk of developing significant hyperbilirubinaemia.32, level III
+• Trained primary health care workers in a resource poor setting are
+able to identify jaundiced babies with TSB >255 µmol/L (15 mg/dL)
+with good sensitivity (83.3%) but poor specificity (50.5%).34, level II-3
+• TcB is more accurate than visual assessment in detecting hyperbilubinaemia
+in babies born after 34 weeks of gestation.19, level II-2; 35, level III A
+combination of TcB and visual assessment improves the accuracy as
+compared to visual assessment alone.19, level II-2
+1
+5
+4
+4
+2
+3
+5
+4
+5
+Management of Neonatal Jaundice (Second Edition)
+Recommendation 2
+• All babies should be visually assessed for jaundice at every
+opportunity.
+• Transcutaneous Bilirubinometer (TcB) should be used if jaundice is
+detected. If TcB levels exceed 200 µmol/L (12 mg/dL), total serum
+bilirubin (TSB) should be measured.
+• When TcB is not available, TSB should be measured in babies with
+jaundice.
+• TcB should not be used to monitor bilirubin levels in babies on
+phototherapy.
+Management of Neonatal Jaundice (Second Edition)
+5. ASSESSMENT COMPONENTS
+When a baby presents with NNJ, it is important to identify the risk factors
+and severity of hyperbilirubinaemia, to assess the general condition of
+the baby and to observe signs of bilirubin toxicity. Proper assessment
+is needed in deciding on subsequent management.
+i. Excessive weight loss
+Weight loss ≥7% of birth weight increases the risk of significant
+hyperbilirubinaemia (OR=1.43, 95% CI 1.03 to 1.99).36, level II-2
+In exclusively breast-fed babies:
+•
+weight loss ≥8% at day two of life and >11% at day three of life
+predicts subsequent significant hyperbilirubinaemia [OR=1.45
+(95% CI 1.06 to 1.97) and OR=2.01 (95% CI 1.16 to 3.46)
+respectively].37, level III
+•
+weight loss ≥7% is a risk factor for developing severe
+hyperbilirubinaemia [(TSB >20mg/dL (342 umol/l)] with OR=3.9
+(95% CI 1.4 to 10.8).38, level III
+Recommendation 3
+• The adequacy of breastfeeding, weight and hydration status of all
+babies should be assessed during the first week of life.
+ Babies with weight loss >7% of birth weight should be referred for
+further evaluation and closely monitored for jaundice.
+Parameters to be assessed on adequate breastfeeding are shown as below:-
+Parameter
+Urine output
+Appearance and frequency of stools
+Baby’s colour, alertness and tone
+Weight
+Number of feeds in the last 24 hours
+Baby’s behaviour during feeds
+Sucking pattern during feeds
+Length of feed
+End of the feed
+Baby’s behaviour after feeds
+Normal
+At least 5 - 6 heavy wet nappies in 24 hours
+At least 2 in 24 hours; normal appearance
+Normal skin colour, alert, good tone
+Weight loss not more than 10% of birth weight
+At least 8 - 12 feeds
+Generally calm and relaxed
+Initial rapid sucks changing to slower sucks
+with pauses and soft swallowing
+Feeding for 5 - 40 minutes at most feeds
+Baby lets go spontaneously, or does so
+when breast is gently lifted
+Content after most feeds
+Assessment of Breastfeeding Adequacy
+Source: Breastfeeding assessment form (Internet communication, 2 December 2014 at
+http://www.unicef.org.uk/BabyFriendly/Resources/Guidance-for-Health-Professionals/Formsand-checklists/Breastfeeding-assessment-form/)
+Management of Neonatal Jaundice (Second Edition)
+ii. Assessment of ABE
+a. Term babies
+Serious consequences of NNJ include ABE, choreoathetoid cerebral
+palsy, hearing impairment and death.14
+BIND score
+BIND score, which was first introduced by Johnson et al. in 1999 (as
+shown in Table 2) quantifies the severity and progression of ABE.
+Table 2. Bilirubin-Induced Neurologic Dysfunction
+Adapted: Johnson L, Bhutani VK, Karp K, et al. Clinical report from the pilot USA
+Kernicterus Registry (1992 to 2004). J Perinatol. 2009 Feb;29 Suppl 1:S2545
+Mental Status
+Normal
+Sleepy but arousable; decreased feeding
+Lethargy, poor suck and/or irritable/jittery with strong suck
+Semi-coma, apnoea, unable to feed, seizures, coma
+Muscle Tone
+Normal
+Persistent mild to moderate hypotonia
+Mild to moderate hypertonia alternating with hypotonia,
+beginning arching of neck and trunk on stimulation
+Persistent retrocollis and opisthotonus - bicycling or
+twitching of hands and feet
+Cry Pattern
+Normal
+High pitched when aroused
+Shrill, difficult to console
+Inconsolable crying or cry weak or absent
+TOTAL BIND SCORE
+Clinical Signs
+BIND
+Score
+0
+1
+2
+3
+0
+1
+2
+3
+0
+1
+2
+3
+Date:
+Time:
+Date:
+Time:
+Advanced ABE (score 7 - 9): urgent bilirubin reduction intervention is needed to prevent
+further brain damage and reduce the severity of sequelae
+Moderate ABE (score 4 - 6): urgent bilirubin reduction intervention is likely to reverse this
+acute damage
+Mild ABE (score 1 - 3): subtle signs of ABE
+Note: An abnormal or ‘referred’ Auditory Brainstem Response (ABR) is indicative of
+moderate ABE. Serial ABR may be used to monitor progression and reversal of acute
+auditory damage and could be indicative of the effectiveness of bilirubin reduction
+strategy.
+Management of Neonatal Jaundice (Second Edition)
+BIND score or assessment of ABE was done in the following studies:
+• In the Pilot USA Kernicterus Registry of 125 babies, 8% had subtle
+ABE, 20% had moderate ABE and 70% had advanced ABE.39, level III
+• In a Canadian study of 258 babies with severe hyperbilirubinaemia
+[TSB >425 µmol/L (>25 mg/dL)], 32 babies had neurological
+abnormalities, in which six had intermediate or advanced bilirubin
+encephalopathy.17, level III
+• In a study on term and late preterm babies with severe
+hyperbilirubinaemia [TSB >25 mg/dL (428 µmol/L)], pretreatment
+BIND score >6 was a good predictor of bilirubin encephalopathy at
+the time of death or discharge.7, level III
+• In a recent Chinese study of term babies, 12%, 72% and 16% had
+subtle, moderate and severe ABE respectively during admission.
+The severity of ABE correlated significantly with the peak TSB level
+(p=0.03), bilirubin encephalopathy at the time of discharge (p=0.028)
+and death (p=0.000).40, level III
+The AAP 2004 guidelines recommends immediate ET in any infant who
+is jaundiced and manifests the signs of the intermediate to advanced
+stages of ABE even if the TSB is falling.12
+Recommendation 4
+• Bilirubin-Induced Neurologic Dysfunction score may be used in
+babies with severe neonatal jaundice to assess the severity and
+progression of acute bilirubin encephalopathy.
+b. Preterm babies
+Acute manifestations of bilirubin toxicity are often subtle and indistinct
+in preterm babies. Auditory Brainstem Response (ABR) is a useful
+method to detect and monitor the progression of ABE in this group of
+babies.41 - 43
+In a small study of eight preterm babies with athetoid cerebral palsy,
+none showed features of classical ABE during the neonatal period.
+However, ABR measurements were abnormal in seven of the eight
+babies.44, level III
+In the pilot USA Kernicterus Registry, symptomatic apnoeic events were
+reported in 50% of the late preterm babies with kernicterus.45, level III
+Preterm babies with abnormal ABR measurements associated with
+hyperbilirubinaemia have more apnoea (p=0.0009), more bradycardia
+(p=0.02), require longer continuous positive airway pressure
+support (p=0.007) and longer duration of methylxanthine use
+(p=0.002).46, level II-2
+Management of Neonatal Jaundice (Second Edition)
+• ABR is a useful method to detect and monitor the progression of ABE
+especially in preterm babies.
+• Preterm babies with ABE tend to have more frequent apnoea.
+iii. Blood tests
+a. Yield of tests
+There is limited evidence on the role and yield of tests in babies with
+NNJ. Clinical expertise is required to guide decision-making in this
+area. In a study of babies admitted for phototherapy and received
+full laboratory evaluation (complete blood count, blood cultures,
+electrolytes, liver function test including total and direct bilirubin, direct
+Coombs test and qualitative G6PD activity test), only 11.7% of them
+had abnormal results. These were either a positive direct Coombs
+test, high reticulocyte count or G6PD deficiency. Therefore, there was
+no clinical benefit in conducting a full laboratory evaluation to identify
+possible causes of severe hyperbilirubinaemia except in:47, level III
+• early onset jaundice (<48 hours from birth) (p<0.001)
+• rising TSB despite phototherapy
+Recommendation 5
+• In babies with severe hyperbilirubinaemia, early-onset neonatal
+jaundice (<24 hours) or rapid rise of TSB (>8.5 µmol/L/h or >0.5
+mg/dL/h), further laboratory evaluation may be required to ascertain
+underlying cause and extent of haemolysis. This may include:
+ G6PD testing (if not screened)
+ mother’s and baby’s blood groups
+ a direct Coombs test
+ a full blood count ± peripheral blood picture
+ a reticulocyte count
+ a septic workup (if infection is suspected)
+b. G6PD measurements
+Malaysia has a universal newborn G6PD screening programme since
+the 1980s. The Beutler’s modified fluorescent spot test (FST) method
+is used as a screening method but it detects only cases with G6PD
+<30% of normal levels.48 - 49 The mean level of G6PD enzyme activity
+of normal babies in Malaysia was quoted as 8.4 IU/g Hb by Boo et al.50
+The detection rates for G6PD deficiency with severe hyperbilirubinaemia
+(TSB >300 µmol/L or 18 mg/dL) are 13.1% by FST and 19.6% by
+enzyme assay (with cut-off level of <8.5 IU/g Hb defined as G6PD
+deficiency). In addition, almost 10% of babies with normal FST has low
+enzyme level of <8.5 IU/g Hb (false negative). Significant predictors of
+severe hyperbilirubinaemia include G6PD enzyme levels of <8.5 IU/g
+Hb (OR=5.3, 95% CI 2.4 to 11.4)49, level II-2
+Management of Neonatal Jaundice (Second Edition)
+Recommendation 6
+• All
+babies
+should
+be
+screened
+for
+Glucose-6-phosphate
+dehydrogenase (G6PD) deficiency. The results should be reviewed
+within 24 hours.
+• G6PD enzyme assays may be considered in babies suspected to
+have G6PD deficiency but with normal/indeterminate Fluorescent
+Spot Test.
+c. Bilirubin/albumin ratio (B/A ratio)
+Bilirubin in the plasma is bound to the albumin, and the portion of
+unbound bilirubin (UB) is presumed to leave the intravascular space
+readily and crosses the intact blood-brain barrier. The measurement of
+this unbound bilirubin is complex and not available commercially. There
+have been studies looking into B/A ratio as a surrogate measurement of
+unbound bilirubin (UB).51
+The AAP 2004 guidelines states that B/A ratio can be used as an
+adjunct to the TSB level in the decision for ET.12 On the contrary,
+NICE guidelines 2010 does not recommend the use of B/A ratio in the
+management of neonatal hyperbilirubinaemia.5
+A Dutch multi-centre randomised controlled trial (BARTrial) showed
+no difference in the neurodevelopmental outcome at 18 - 24 months
+for preterm babies <32 weeks treated according to their B/A ratio in
+conjunction with TSB levels when compared to babies treated based
+on TSB levels alone.52, level I
+In a study of babies >35 weeks gestation, B/A ratio correlated with UB
+concentrations <0.6mg/dL (p<0.0001). The B/A ratio was underestimated
+when the concentrations were >0.6 mg/dL (the UB phototherapy
+threshold for Japan).53, level III
+There is not enough evidence to support the use of bilirubin/albumin
+ratio in the management of NNJ.
+d. Unbound bilirubin (UB) or free bilirubin
+Bilirubin-induced neurotoxicity depends on a complex interplay between
+the developing brain, UB concentration and duration of CNS exposure.
+UB concentration depends on:51, 54
+• albumin concentration
+• bilirubin production/elimination mismatch
+• bilirubin-albumin binding affinity (k)
+ this affinity depends on gestation, postnatal age, clinical
+condition (acidosis/hypoxia/sepsis) and competing substrate.
+Management of Neonatal Jaundice (Second Edition)
+UB concentration is better than TSB in predicting bilirubin-induced
+neurotoxicity.
+• In both preterm and term babies, UB is a better predictor of ABR
+than TSB (OR=3.3, 95% CI 1.8 to 6.1).55, level II-2
+• In ELBW babies, UB significantly predicts death and various
+neurodevelopmental outcomes in both stable and unstable
+infants. However, TSB predicts these outcomes only in unstable
+infants.4, level II-2
+Currently, the measurement of UB is not commercially available and
+the threshold for neurotoxic UB concentration is not known.
+Management of Neonatal Jaundice (Second Edition)
+6. INDICATIONS FOR TREATMENT
+Guidelines for phototherapy and ET for babies ≥35 weeks gestation are
+as shown in Table 3.
+Table 3. TSB Levels for Phototherapy and ET in
+Babies ≥35 Weeks Gestation
+a. Start intensive phototherapy at TSB of 3 mg/dL (51 µmol/L) above
+the level for conventional phototherapy or when TSB increasing at
+>0.5 mg/dL (8.5 µmol/L) per hour.
+b. Risk factors are isoimmune haemolytic disease, G6PD deficiency,
+asphyxia and sepsis.
+* Jaundice appearing within 24 hours of life is abnormal and needs
+further evaluation.
+The AAP exchange transfusion guidelines for babies ≥35 weeks
+gestation recommend:
+ET if baby shows signs of ABE or if TSB ≥5 mg/dL (85 µmol/L)
+above the ET levels.
+ET if TSB rises to ET levels despite intensive phototherapy in
+hospitalised babies.
+For readmitted babies without signs of ABE, if the TSB is above the
+ET levels, repeat TSB every 2 - 3 hours and consider ET if it remains
+above the levels indicated after intensive phototherapy for six hours.
+Modified: American Academy of Pediatrics Subcommittee on Hyperbilirubinaemia.
+Management of hyperbilirubinaemia in the newborn infant 35 or more
+weeks of gestation. Pediatrics. 2004 Jul;114(1):297-316. Erratum in:
+Pediatrics. 2004 Oct;114(4):1138)
+For babies <35 weeks gestational age, refer to Appendix 3.
+Age
+LOW RISK
+>38 weeks and well
+MEDIUM RISK
+>38 weeks with risk factors
+or
+35 - 37 weeks + 6 days and
+well
+HIGH RISK
+35 - 37 weeks + 6 days
+with risk factors
+Hours
+of life
+Conventional
+Phototherapy -
+TSB in mg/dL
+(µmol/L)
+ET -
+TSB in
+mg/dL
+(µmol/L)
+Conventional
+Phototherapy -
+TSB in mg/dL
+(µmol/L)
+ET -
+TSB in
+mg/dL
+(µmol/L)
+Conventional
+Phototherapy -
+TSB in mg/dL
+(µmol/L)
+ET -
+TSB in
+mg/dL
+(µmol/L)
+<24*
+24
+9 (154)
+19
+(325)
+7 (120)
+5 (86)
+48
+12 (205)
+22
+(376)
+10 (171)
+8 (137)
+72
+15 (257)
+24
+(410)
+12 (205)
+10 (171)
+96
+17 (291)
+25
+(428)
+14 (239)
+11 (188)
+>96
+18 (308)
+25
+(428)
+15 (257)
+12 (205)
+17 (291)
+19 (325)
+21 (359)
+22.5 (385)
+22.5 (385)
+15 (257)
+17 (291)
+18.5 (316)
+19 (325)
+19 (325)
+i.
+ii.
+iii.
+Management of Neonatal Jaundice (Second Edition)
+7. PHOTOTHERAPY
+Phototherapy is the mainstay of treatment in NNJ. There are many
+types of devices that can be used to provide phototherapy such as
+fluorescent tubes, Light Emitting Diode (LED), fibreoptic and halogen
+bulbs.
+Effective phototherapy consists of:
+• blue light range (400 - 500 nm)
+• irradiance of minimum of 15 µW/cm²/nm for conventional phototherapy
+• irradiance of minimum of 30 µW/cm²/nm for intensive phototherapy
+• distance of the light source not exceeding 30 - 50 cm from the baby
+i. Type of phototherapy
+a. LED phototherapy
+In two meta-analyses, phototherapy based on LED and non-LED
+light sources showed similar clinical efficacy as measured by duration
+of phototherapy and rate of decline of TSB in term and late preterm
+babies.56 - 57, level I
+In preterm babies, the use of LED has a similar rate of decline but
+significantly shorter duration of phototherapy compared with a nonLED light source.57, level I LED phototherapy does not induce significant
+alterations on transepidermal water loss and cerebral blood perfusion
+when compared to conventional phototherapy.58, level I
+No study reported any major complications of LED phototherapy.56, level I
+b. Fibreoptic phototherapy
+Fibreoptic phototherapy units are less commonly used compared with
+conventional/LED phototherapy. Common fibreoptic phototherapy units
+used in studies include Biliblanket and Wallaby II.
+A Cochrane systematic review showed that:59, level I
+• In preterm babies, fibreoptic phototherapy was as efficacious as
+conventional phototherapy in terms of duration of phototherapy
+and percentage of serum bilirubin change in 24 hours.
+• In term babies, fibreoptic phototherapy was efficacious in reducing
+serum bilirubin; however its efficacy was less in comparison to
+conventional phototherapy.
+• A combination of fibreoptic and conventional phototherapy was
+more efficacious compared to conventional phototherapy alone in
+terms of less ET and less additional phototherapy, although this
+was not statistically significant.
+Management of Neonatal Jaundice (Second Edition)
+ii. Methods of administration
+Various methods of providing phototherapy have been used in order to
+maximise the effectiveness of phototherapy especially in babies with
+high serum bilirubin.
+a. Use of reflecting curtains
+White reflecting curtains significantly reduces TSB levels after four
+hours of phototherapy and shortens median duration of phototherapy
+by 22 hours.60, level I
+The use of reflecting curtains shortens the duration of phototherapy and
+achieves a faster reduction of TSB, although these were not statistically
+significant.61, level I
+The effectiveness of reflecting curtains in phototherapy depends on the
+material and type of curtain used. However, the use of curtains may
+impair observation of the babies.
+b. Changing positions during phototherapy
+There is no difference in the fall of TSB by changing baby’s position
+(supine/prone vs supine alone) while receiving phototherapy.62, level I
+In clinical practice, the supine position is preferred because the prone
+position is associated with and increased risk of sudden infant death
+syndrome.
+c. Double vs triple phototherapy
+There is no difference in the rate of bilirubin decline and length
+of hospital stay between double and triple phototherapy in term
+babies.63, level I
+Effective phototherapy is achieved with optimal irradiance and
+adequately exposed body surface area rather than the number of
+phototherapy units.
+d. Overhead vs underneath LED phototherapy
+Duration of phototherapy is shorter and rate of decrease in TSB is more
+rapid in overhead LED compared to underneath LED with no erythema
+or any other complications in both groups.64, level II - 1
+e. Aggressive vs conservative phototherapy
+There is a reduction in neurodevelopment impairment (especially
+profound impairment) in aggressive phototherapy on ELBW babies
+especially ≥750 g, when babies are started on phototherapy at TSB
+85 µmol/L (5 mg/dL) in the first week of life and 120 µmol/L (7 mg/dL)
+during the second week of life.65, level I However, there is a need for more
+vigilance in babies with birth weight under 750 g as there is a higher
+risk of transepidermal water loss.
+Management of Neonatal Jaundice (Second Edition)
+f. Prophylactic phototherapy for preventing jaundice
+In a Cochrane systematic review, prophylactic phototherapy (i.e.
+initiation of phototherapy before TSB reached a pre-specified level)
+in preterm and LBW babies reduced ET by 78%, reduced rate of
+neurodevelopmental impairment (mainly severe hearing loss and
+moderate/severe cerebral palsy) at 18 - 22 months by 15% and had
+lower peak TSB during first seven days of life compared to control
+group.66, level I
+g. Fluid management
+Presently, there is no good evidence to advocate extra fluids in the
+management of NNJ.
+Recommendation 7
+• Phototherapy should be commenced when total serum bilirubin
+reaches the phototherapy threshold for neonatal jaundice*.
+• Irradiance of phototherapy units (non-Light Emitting Diode) should be
+regularly checked.
+• Overhead phototherapy is preferred to underneath phototherapy.
+• Babies should be placed in the supine position with adequate
+exposure.
+• Phototherapy should be started at a lower threshold in preterm and
+low birth weight babies.
+• Light Emitting Diode phototherapy is preferred in preterm babies.
+*Refer to Chapters on Risk Factors and Indications for Treatment.
+Care of babies during phototherapy
+• Babies should be regularly monitored for vital signs including
+temperature and hydration status.
+• Babies should be adequately exposed.
+• Babies’ eyes should be covered to prevent retinal damage.
+• Breastfeeding should be continued.
+Management of Neonatal Jaundice (Second Edition)
+8. EXCHANGE TRANSFUSION
+ET is indicated when the TSB is above the recommended levels (refer
+to Table 3 and Appendix 3).
+ET is efficacious in reducing TSB levels by 45%. Amongst those who
+have undergone ET, 93% have TSB levels below 342 µmol/L (20 mg/
+dL) after the procedure.67, level III
+There are various methods used in performing ET. These include
+femoral vein (FV), umbilical vein (UV), umbilical artery/vein (UA/V)
+and peripheral artery (radial artery)/peripheral vein. All methods are
+comparable in terms of efficacy.68 - 69, level III With regard to safety, ET via
+UA/V route have significantly increased incidence of thrombocytopenia
+when compared to FV and UV.68, level III
+The blood product used most commonly for ET is citrated fresh whole
+blood. However, some centres use reconstituted blood products when it
+is not available. Both citrated fresh whole blood and reconstituted blood
+products are comparable in terms of efficacy and safety.70, level III
+Adverse events occur up to 36.7% of patients who have undergone
+ET.67, level III; 71 - 72, level III The adverse events include thrombocytopaenia,
+hypocalcaemia, hyperkalaemia, apnoea, infection, hypoglycaemia,
+seizure, catheter malfunction, leg ischaemia, cyanosis, bradycardia,
+hypotension, renal failure and necrotising enterocolitis.67, level III; 71 - 73, level III
+Mortality has been reported at 2.3%.73, level III The rate has declined
+since 1990s. In recent studies where a standardised ET protocol was
+adhered to and the procedure attended by experienced personnel, no
+mortality attributable to the ET procedure was reported.67, level III;
+69, level III; 71 - 73, level III
+Recommendation 8
+• Exchange transfusion (ET) should be considered when total serum
+bilirubin reaches the threshold levels in neonatal jaundice (NNJ).
+• ET procedure should follow a standardised protocol and supervised
+by experienced personnel. Babies undergoing ET should be closely
+monitored.
+• Reconstituted blood products may be used if citrated fresh whole
+blood is not available for ET in NNJ.
+Refer to Appendix 4 on Protocol on Exchange Transfusion.
+Management of Neonatal Jaundice (Second Edition)
+9. PHARMACOTHERAPY
+There is limited good evidence on pharmacotherapy in NNJ.
+i. Clofibrate
+Clofibrate, an activator of peroxisome proliferator-activated receptors,
+is a lipid-lowering drug used in patients with hypercholesterolemia. In
+NNJ, its presumed mode of action is by increasing bilirubin conjugation
+and secretion.
+Clofibrate is efficacious when compared to placebo in unconjugated
+neonatal hyperbilirubinaemia in terms of the need for phototherapy
+and ET, duration of phototherapy and peak TSB levels. No major sideeffects have been reported.74 - 76, level I
+In Malaysia, clofibrate is not registered with the Drug Control Authority.
+ii. Immunoglobulin
+Intravenous immunoglobulin (IVIg) has been used to reduce the rate of
+haemolysis in babies with rhesus hemolytic disease and other immune
+hemolytic jaundice. It is a competitive inhibitor for antibodies that
+causes red cell destruction.
+In a meta-analysis of 12 studies, the efficacy of IVIg was inconclusive in
+both Rh and ABO haemolytic diseases of the newborn as only studies
+with high risk of bias showed benefit. No mortality or adverse reactions
+were reported.77, level I
+iii. Human albumin
+It has been postulated that intravenous (IV) human albumin infusion
+may be protective against bilirubin toxicity by providing more binding
+sites, thereby reducing the levels of unbound bilirubin. It has also been
+hypothesised that vascular bilirubin-albumin binding would cause a
+shift of bilirubin from the extravascular to the intravascular compartment
+following albumin administration.
+In two small studies, babies were administered IV human albumin (20%,
+1 g/kg) one hour prior to ET. In the treated group, the mean TSB levels
+after ET were significantly lower than the control group. The treated
+group required a significantly shorter duration of phototherapy postET.78, level II-1; 79, level I The duration of hospital stay was also significantly
+shorter in the treated group.78, level II-1 However, the unbound bilirubin
+was not measured in both studies. Human albumin is a pooled blood
+product with a risk of blood-borne infection.
+Management of Neonatal Jaundice (Second Edition)
+iv. Tin-mesoporphyrin
+In a Cochrane systematic review, there was no evidence that
+hyperbilirubinaemia can be effectively prevented or treated with
+tin-mesoporphyrin, a drug that inhibits bilirubin production through
+blockage of heme oxygenase.80, level I
+v. Phenobarbitone
+In a meta-analysis of three RCTs of moderate quality, phenobarbitone
+was efficacious in reducing peak serum bilirubin, duration and need
+of phototherapy and need of ET in preterm babies with very low birth
+weight. Further studies are warranted to evaluate adverse effects and
+neurodevelopmental outcome.81, level I
+• Further studies are required before clofibrate or its equivalent can be
+recommended for use in NNJ.
+• There is no conclusive evidence to support the use of IVIG, human
+albumin and phenobarbitone in the management of NNJ.
+Management of Neonatal Jaundice (Second Edition)
+10. COMPLEMENTARY/ALTERNATIVE MEDICINE
+There is no good quality evidence to support the use of complementary/
+alternative medicine in the management of babies with NNJ.
+11. MONITORING
+This chapter is written based on the Paediatric Protocols for Malaysian
+Hospitals (3rd Edition)82, level III and the Integrated Plan for Detection
+and Management of Neonatal Jaundice83, level III developed by MoH
+Malaysia. The documents were developed via consensus method by
+experts in the field.
+Home visits by community healthcare providers during the
+postnatal period:83, level III
+• Home visits should be done for all newborns on day 1, 2, 3, 4, 6, 8,
+10 and 20. Special attention for jaundice must be given on day 2, 3
+and 4 of life.
+• If jaundice is detected, TSB should be measured and managed
+accordingly.
+Recommendation 9
+• All babies discharged <48 hours after birth should be seen by a
+healthcare provider in an ambulatory setting or at home within 24
+hours of discharge.
+• For babies with severe jaundice admitted for treatment, early followup is needed to detect rebound jaundice after discharge.
+Management of Neonatal Jaundice (Second Edition)
+12. IMPACT OF BREASTFEEDING
+Breast milk provides the best nutrition for babies and its benefits
+extend beyond basic nutrition. World Health Organization recommends
+exclusive breastfeeding up to six months of age. There is evidence
+that breastfeeding is associated with an increased incidence and
+severity of early NNJ. This may be due to inadequate intake as a result
+of poor lactation support but the exact mechanism remains unclear.
+Further details on this issue are available in ABM Clinical Protocol #
+22: Guidelines for Management of Jaundice in the Breastfeeding Infant
+Equal to or Greater Than 35 Weeks’ Gestation.84, level III
+In the USA Kernicterus Registry (1992 - 2004), lactation failure was
+identified in over 90% of babies discharged on exclusive breastfeeding,
+with a high incidence of excessive weight loss and dehydration.39, level III.
+Breastfeeding is significantly associated with neonatal hyperbilirubinaemia,
+1, level II-2; 36, level III; 85, level III; 86, level II-3 greater body weight loss,36, level III;
+85, level III; 86, level II-3 higher peak bilirubin level, and longer mean days
+of phototherapy and hospitalisation.86, level II-3 It is also associated
+with reduced urine and stool output on the second and third day of
+life.85, level III; 86, level II-3
+In exclusively breastfed babies, those with lower gestational age
+and greater weight loss percentage are significantly associated with
+hyperbilirubinaemia.37, level III
+Recommendation 10
+• Breastfeeding, because of its benefits, should be continued in the
+jaundiced babies.
+• Adequate lactation/breastfeeding support should be provided to all
+mothers, particularly those with preterm babies.
+• In breastfed babies with jaundice associated with inadequate
+intake, excessive weight loss or dehydration, supplementation with
+expressed breast milk or formula may be considered.
+Management of Neonatal Jaundice (Second Edition)
+13. PREVENTION OF SEVERE NNJ
+Late preterm, G6PD deficiency and isoimmune haemolytic disease
+(ABO and Rhesus incompatibility) are well known factors for developing
+severe NNJ. Phototherapy thresholds are lower for babies with these
+factors (refer to Chapter on Phototherapy). Predischarge bilirubin
+screening, clinical risk factor scoring, prophylactic phototherapy and
+pharmacotherapy are among the strategies studied to prevent severe
+NNJ.
+Predischarge screening involves performing daily TcB screening until
+discharge; this TcB value is referenced against the AAP hour-specific
+bilirubin risk-zone nomogram stratified into low-, intermediate- and
+high-risk zones (refer to Figure 2). TcB values ≥12 mg/dL (205 μmol/L)
+are confirmed with a TSB. Clinical risk factors that have been studied
+are gestational age (prematurity), the intent to exclusively breastfeed,
+weight loss in the first two days of life and extent of jaundice.11, level II-2
+Figure 2. Nomogram for Designation of Risk at ≥36 Weeks’
+Gestational Age with Birth Weight ≥2000 g or ≥35 Weeks’
+Gestational Age with Birth Weight ≥2500 g
+Source: Bhutani VK, Johnson L, Sivieri EM. Predictive ability of a predischarge hourspecific serum bilirubin for subsequent significant hyperbilirubinaemia in
+healthy term and near-term newborns. Pediatrics. 1999 Jan;103(1):6-14
+Management of Neonatal Jaundice (Second Edition)
+i. Predischarge bilirubin and clinical risk scoring in both term
+and late preterm babies
+a. Late preterm babies
+• The incidence of hyperbilirubinaemia [TSB ≥ 20mg/dL (342
+μmol/L)] is reduced by almost 50% with the implementation of
+predischarge screening programme.87, level II-3
+• Predischarge screening results in a 0.41% readmission rate for
+significant hyperbilirubinaemia, almost half of which did not have
+a predischarge bilirubin determination as they were not deemed
+sufficiently jaundiced at the time of discharge. The rate for ET is
+1:18079.88, level II-3
+• The AUC for strategies to assess the risk of significant
+hyperbilirubinaemia are 0.91 (95% CI 0.86 to 0.97) for clinical risk
+factors, 0.88 (95% CI 0.85 to 0.91) for predischarge bilirubin and
+0.96 (95% CI 0.93 to 0.98) for combination of clinical risk factors
+and predischarge bilirubin. Predischarge bilirubin and gestational
+age are the two most important factors in predicting the risk of
+significant hyperbilirubinaemia.11, level II-2
+• Predischarge bilirubin in combination with gestational age
+gives a higher predictability of risk in developing significant
+hyperbilirubinaemia with AUC of 0.90 (95% CI 0.84 to 0.95)
+compared to 0.86 (95% CI 0.80 to 0.92) if only predischarge
+bilirubin being used.10, level II-2
+• Predischarge TSB risk zone gives high predictability of risk in
+developing significant hyperbilirubinaemia with area AUC of 0.83
+(95% CI 0.80 to 0.86) compared to clinical risk factor score alone
+0.71 (95% CI 0.66 to 0.76).89, level II-2
+b. Term babies
+• The institution of predischarge bilirubin results in significant
+reduction of the incidence of bilirubin levels ≥25 mg/dL (425 μmol/L)
+by 38% and TSB ≥30.0 mg/dL (513 μmol/L) by 65%. However,
+this reduction in severe hyperbilirubinaemia is associated with
+a small increase (0.7%) in the use of neonatal phototherapy
+(p<0.001).90, level II-3
+• Low predischarge bilirubin does not eliminate the risk of
+readmission. The low risk group (≤40th percentile) has a 4.2%
+readmission rate while intermediate low risk group (41 - 75th
+percentile) has a 28% readmission rate. This give a RR for
+readmission of 7.62 (95% CI 3.23 to 17.96) for intermediate low
+risk group compared to the low risk group.91, level III
+ii. Universal predischarge bilirubin screening
+• Universal screening for hyperbilirubinaemia reduces readmissions
+by 61% (p<0.001).92, level II-3
+• The rate of ET after universal screening is 0.12%. Preterm babies
+have ten times higher risk of ET compared to term babies. All
+Management of Neonatal Jaundice (Second Edition)
+babies in the high risk zone require ET compared to 28% of
+babies in the high intermediate zone.93, level II-2
+iii. Prophylactic phototherapy
+• Prophylactic phototherapy during the first day of life for babies
+with Coombs-positive ABO incompatibility is associated with a
+decrease in TSB within the first 48 hours of life (p=0.03) but does
+not result in a sustained clinical benefit.94, level I
+• Prophylactic phototherapy in preterm and LBW babies reduces
+the need for ET, peak TSB and the rate of neurodevelopmental
+disability at 18 - 22 months.66, level I
+iv. Pharmacotherapy
+• Prophylactic oral phenobarbital is not efficacious in reducing the
+need for phototherapy in G6PD deficient babies.95, level I
+• The effectiveness of IVIg is not conclusive in ABO and Rh
+haemolytic diseases of newborn.77, level I
+v. Monitoring in G6PD deficiency
+• Most G6PD deficient babies with birth weight ≥2500 g (76%)
+would require phototherapy by day four.96, level II-2
+ Those with TSB <160 μmol/L (9 mg/dL), on day four of life,
+with a rise of <30 μmol/L/day (2 mg/dL/day), are unlikely to
+develop significant hyperbilirubinaemia (TSB >200 μmol/L
+or 12 mg/dL) requiring phototherapy [NPV of 94.1% (95% CI
+83.4 to 97.9)].
+ A TSB ≥160 μmol/L (9 mg/dL) on day four predicts significant
+hyperbilirubinaemia [PPV of 82.1% (95% CI 70.2 to 90.4)].
+Recommendation 11
+• Predischarge screening should be used to prevent severe neonatal
+jaundice (NNJ) in late preterm and term babies.
+ Clinical risk factor assessment or/and predischarge bilirubin levels
+[transcutaneous bilirubin or total serum bilirubin (TSB)] can be
+used as predischarge screening.
+• Universal predischarge bilirubin screening may be considered for all
+babies if resources are available.
+• All G6PD deficient babies should be admitted and monitored for
+NNJ during the first five days of life. A TSB should be done if there
+is clinical jaundice.
+• Term G6PD deficient babies with birth weights >2500 g may be
+discharged earlier on day four of life if the TSB is <160 μmol/L (9
+mg/dL), and followed-up closely.
+Refer to Appendix 5 on Clinical risk factors and Algorithm for
+Predischarge Screening.
+Refer to Appendix 6 on Information on Prevention of NNJ.
+Management of Neonatal Jaundice (Second Edition)
+14. REFERRAL
+This chapter is written based on Paediatric Protocols for Malaysian
+Hospitals (3rd Edition)82, level III and Integrated Plan for Detection and
+Management of Neonatal Jaundice83, level III developed by MoH Malaysia.
+The documents were developed via consensus method by experts in
+the field. Extrapolation from evidence in other chapters has also been
+done.
+Recommendation 12
+• Babies should be referred to secondary/tertiary care when they
+present with any of the following:-
+ Onset of jaundice within 24 hours of life
+ Rapidly rising total serum bilirubin of greater than 6 mg/dL/day
+(103 µmol/L/day)
+ Clinical jaundice below umbilicus, corresponding to total serum
+bilirubin of 12 - 15 mg/dL (205 - 257 µmol/L)
+ Clinical jaundice till the soles of the feet (urgent referral for
+possibility of exchange transfusion)
+ G6PD deficiency (if not previously hospitalised)
+ Clinical symptoms/signs suggestive of sepsis
+Management of Neonatal Jaundice (Second Edition)
+15. FOLLOW-UP
+The estimated incidence of kernicterus among term and late preterm
+neonates in North America and Europe is 0.4 to 2.7/100,000 live births
+while the estimate for ABE is 0.9 to10/100,000 live births.18, level III;
+39, level III; 97 - 98, level III
+A systematic review revealed that the incidence of hearing loss ranged
+from 13.2% to 83.3% at initial testing and 6.7% to 14.3% at three
+months’ follow-up. The occurrence of ABR abnormalities was high at
+TSB levels >20 mg/dL (342 μmol/L) but unpredictable at lower levels
+of TSB. Greater hearing abnormalities were seen with rising TSB
+levels.99, level II-2
+Using the parent-completed Ages and Stages Questionnaire, there is
+no association between non-haemolytic hyperbilirubinaemia and overall
+development in 1- to 5-year-old children who in the neonatal period
+had TSB >25 mg/dL (428 μmol/L) with no or only minor neurologic
+symptoms.100, level Il-2
+Non-haemolytic neonatal hyperbilirubinaemia is not associated with
+increased risk of cognitive or neuropsychiatric disability in young males
+at the age of 18 - 20 years.101, level II-2
+Term babies with haemolytic (ABO or Rh incompatibility or G6PD
+deficiency) and non-haemolytic hyperbilirubinaemia who are treated
+aggressively with phototherapy (at TSB >15 mg/dL or 257 μmol/L)
+or ET (at TSB >20mg/dL or 342 μmol/L) do not show any differences
+in ABR and reversible mild motor delay/hypotonia at three months
+old.102, level II-2
+In ELBW babies, higher peak serum bilirubin levels in the first two
+weeks of life is associated with risk of:103, level II-2
+• death or neurodevelopment impairment (OR=1.07, 95% CI 1.03 to
+1.11)
+• hearing impairment (OR=1.13, 95% CI 1.00 to 1.30)
+• lower psychomotor development index (OR=1.05, 95% CI 1.00 to
+1.12)
+Management of Neonatal Jaundice (Second Edition)
+Recommendation 13
+• Babies with acute bilirubin encephalopathy should have long-term
+follow-up to monitor for neurodevelopmental sequelae.
+• Term and late preterm babies with TSB >20 mg/dL (342 μmol/L) or
+exchange transfusions should have Auditory Brainstem Response
+(ABR) testing done within the first three months of life. If the ABR is
+abnormal, neurodevelopmental follow-up should be continued.
+• Healthy term and late preterm babies with non-haemolytic
+hyperbilirubinaemia and TSB <25 mg/dL (428 μmol/L) may be
+followed-up at the primary care level.
+• Preterm babies with jaundice should be followed-up for
+neurodevelopmental sequelae as per follow-up plans for all preterm
+babies.
+Management of Neonatal Jaundice (Second Edition)
+16. IMPLEMENTING THE GUIDELINES
+It is important to standardise the management of NNJ at all healthcare
+levels in Malaysia by using an evidence-based CPG. This aims to
+prevent long-term morbidity and mortality.
+16.1 Facilitating and Limiting Factors
+Existing facilitators for application of the recommendations in the CPG
+include:-
+1. wide dissemination of the CPG to healthcare providers (hardcopies
+and softcopies)
+2. regular continuous medical education on NNJ to healthcare
+providers
+3. reporting of cases with severe NNJ [TSB ≥20 mg/dL (342 µmol/L)]
+Existing barriers for application of the recommendations of the CPG are:-
+1. poor assessment of NNJ and limited knowledge on its management
+2. insufficient resources in the management of NNJ
+3. variation in treatment practice and preferences
+16.2 Potential Resource Implications
+To implement the CPG, there must be strong a commitment to:-
+1. ensure widespread distribution of the CPG to healthcare providers
+via printed and electronic copies.
+2. strengthen training (with adequate funding) of healthcare providers
+by regular seminars or workshops to ensure information is up-todate
+3. ensure availability of equipment for measuring bilirubin levels and
+managing NNJ in both health clinics and hospitals
+4. ensure empowerment of caregivers via education materials
+5. improve the current reporting system to include bilirubin
+encephalopathy and other related parameters
+To assist in the implementation of the CPG, the following is proposed
+as clinical audit indicator for quality management:-
+Implementation strategies will be developed following the approval of
+the CPG by MoH. They are such a Quick Reference and a Training
+Module.
+Incidence of
+severe
+NNJ*
+=
+X 10,000
+Total number of live births in the same period
+Number of babies with severe NNJ* in a month
+*Severe NNJ is defined as TSB ≥20 mg/dL or ≥342 µmol/L
+Management of Neonatal Jaundice (Second Edition)
+REFERENCES
+1.
+Huang MS, Lin MC, Chen HH, et al. Risk factor analysis for late-onset neonatal hyperbilirubinemia
+in Taiwanese infants. Pediatr Neonatol 2009 Dec;50(6):261-265.
+2.
+Jangaard KA, Fell DB, Dodds L, et al. Outcomes in a population of healthy term and near-term
+infants with serum bilirubin levels of >or=325 micromol/L (>or=19 mg/dL) who were born in Nova
+Scotia, Canada, between 1994 and 2000. Pediatrics. 2008 Jul;122(1):119-124.
+3.
+Kuzniewicz MW, Escobar GJ, Wi S, et al. Risk factors for severe hyperbilirubinemia among infants
+with borderline bilirubin levels: a nested case-control study. J Pediatr. 2008 Aug;153(2):234-240.
+4.
+Oh W, Stevenson DK, Tyson JE, et al. Influence of clinical status on the association between
+plasma total and unbound bilirubin and death or adverse neurodevelopmental outcomes in
+extremely low birth weight infants. Acta Paediatr. 2010 May;99(5):673-678.
+5.
+National Collaborating Centre for Women’s and Children’s Health. Neonatal jaundice. London:
+NCC-WCH; 2010.
+6.
+Maisels MJ, Bhutani VK, Bogen D, et al. Hyperbilirubinemia in the newborn infant > or =35
+weeks’ gestation: an update with clarifications. Pediatrics. 2009 Oct;124(4 ):1193-1198.
+7.
+Gamaleldin R, Iskander I, Seoud I, et al. Risk factors for neurotoxicity in newborns with severe
+neonatal hyperbilirubinemia. Pediatrics. 2011 Oct;128(4):e925-931.
+8.
+Weng YH, Chiu YW, Cheng SW, et al. Risk assessment for adverse outcome in term and late
+preterm neonates with bilirubin values of 20 mg/dL or more. Am J Perinatol. 2011 May;28(5):405412.
+9.
+Yang WC, Zhao LL, Li YC, et al. Bodyweight loss in predicting neonatal hyperbilirubinemia 72
+hours after birth in term newborn infants. BMC Pediatr. 2013 Sep;21(13):145.
+10.
+Gonçalves A, Costa S, Lopes A, et al. Prospective validation of a novel strategy for assessing
+risk of significant hyperbilirubinemia. Pediatrics. 2011 Jan;127(1):e126-131.
+11.
+Keren R, Luan X, Friedman S, et al. A comparison of alternative risk-assessment strategies for
+predicting significant neonatal hyperbilirubinemia in term and near-term infants. Pediatrics. 2008
+Jan;121(1):e170-179.
+12.
+American Academy of Pediatrics Subcommittee on Hyperbilirubinemia. Management of
+hyperbilirubinemia in the newborn infant 35 or more weeks of gestation. Pediatrics. 2004
+Jul;114(1):297-316.
+13.
+Boo NY, Gan CY, Gian YW, et al. Malaysian mothers’ knowledge & practices on care of neonatal
+jaundice. Med J Malaysia. 2011 Aug;66(3):239-243.
+14.
+Bhutani VK, Stevenson DK. The need for technologies to prevent bilirubin-induced neurologic
+dysfunction syndrome. Semin Perinatol. 2011 Jun;35(3):97-100.
+15.
+Maisels MJ, Newman TB. Prevention, screening and postnatal management of neonatal
+hyperbilirubinemia. In: Stevenson DK, Maisels MJ, Watchko JF, Eds. Care of the jaundiced
+neonate. New York: McGraw-Hill; 2012.
+16.
+Ebbesen F, Bjerre JV, Vandborg PK. Relation between serum bilirubin levels ≥450 μmol/L and
+bilirubin encephalopathy; a Danish population-based study. Acta Paediatr. 2012 Apr;101(4):384389.
+17.
+Sgro M, Campbell D, Barozzino T, et al. Acute neurological findings in a national cohort of
+neonates with severe neonatal hyperbilirubinemia. J Perinatol. 2011 Jun;31(6):392-396.
+18.
+Manning D, Todd P, Maxwell M, et al. Prospective surveillance study of severe hyperbilirubinaemia
+in the newborn in the UK and Ireland. Arch Dis Child Fetal Neonatal Ed. 2007 Sep;92(5):F342-346.
+19.
+Institute of Health Economics. Transcutaneous Bilirubinometry for the Screening of
+Hyperbilirubinemia in Neonates ≥35 Weeks’ Gestation. Edmonton AB: Institute of Health
+Economics; 2013.
+20.
+Nagar G, Vandermeer B, Campbell S, et al. Reliability of transcutaneous bilirubin devices in
+preterm infants: a systematic review. Pediatrics. 2013 Nov;132(5):871-881.
+21.
+Kitsommart R, Pornladnun P, Chomchai C, et al. Accuracy and precision of transcutaneous
+bilirubinometry in postdischarge Asian neonates. Eur J Pediatr. 2013 Jun;172(6):781-786.
+22.
+Schmidt ET, Wheeler CA, Jackson GL, et al. Evaluation of transcutaneous bilirubinometry in
+preterm neonates. J Perinatol. 2009 Aug;29(8):564-569.
+Management of Neonatal Jaundice (Second Edition)
+23.
+Ahmed M, Mostafa S, Fisher G, et al. Comparison between transcutaneous bilirubinometry and
+total serum bilirubin measurements in preterm infants <35 weeks gestation. Ann Clin Biochem.
+2010 Jan;47(Pt 1):72-77.
+24.
+Karon BS, Wickremasinghe AC, Lo SF, et al. BiliChek transcutaneous bilirubin meter
+overestimates serum bilirubin as measured by the Doumas reference method. Clin Biochem.
+2010 Aug;43(12):1009-1012.
+25.
+Holland L, Blick K. Implementing and validating transcutaneous bilirubinometry for neonates. Am
+J Clin Pathol. 2009 Oct;132(4):555-561.
+26.
+Grohmann K, Roser M, Rolinski B, et al. Bilirubin measurement for neonates: comparison of 9
+frequently used methods. Pediatrics. 2006 Apr;117(4):1174-1183.
+27.
+Qualter YM, Allen NM, Corcoran JD, et al. Transcutaneous bilirubin-comparing the accuracy
+of BiliChek® and JM 103® in a regional postnatal unit. J Matern Fetal Neonatal Med. 2011
+Feb;24(2):267-270.
+28.
+Romagnoli C, Zecca E, Catenazzi P, et al. Transcutaneous bilirubin measurement: comparison
+of Respironics BiliCheck and JM-103 in a normal newborn population. Clin Biochem. 2012
+Jun;45(9):659-662.
+29.
+Fonseca R, Kyralessa R, Malloy M, et al. Covered skin transcutaneous bilirubin estimation is
+comparable with serum bilirubin during and after phototherapy. J Perinatol. 2012 Feb;32(2):129131.
+30.
+Tan KL, Dong F. Transcutaneous bilirubinometry during and after phototherapy. Acta Paediatr.
+2003;92(3):327-331.
+31.
+Ozkan H, Oren H, Duman N, et al. Dermal bilirubin kinetics during phototherapy in term babies.
+Acta Paediatr. 2003 May;92(5):577-581.
+32.
+Keren R, Tremont K, Luan X, et al. Visual assessment of jaundice in term and late preterm
+infants. Arch Dis Child Fetal Neonatal Ed. 2009 Sep;94(5):F317-322.
+33.
+Riskin A, Tamir A, Kugelman A, et al. Is visual assessment of jaundice reliable as a screening
+tool to detect significant neonatal hyperbilirubinemia? J Pediatr. 2008 Jun;152(6):782-787, 787.
+e781-782.
+34.
+Hatzenbuehler L, Zaidi AK, Sundar S, et al. Validity of neonatal jaundice evaluation by primary
+health-care workers and physicians in Karachi, Pakistan. J Perinatol. 2010 Sep;30(9):616-621.
+35.
+Szabo P, Wolf M, Bucher HU, et al. Assessment of jaundice in preterm neonates: comparison
+between clinical assessment, two transcutaneous bilirubinometers and serum bilirubin values.
+Acta Paediatr. 2004 Nov;93(11):1491-1495.
+36.
+Huang A, Tai BC, Wong LY, et al. Differential risk for early breastfeeding jaundice in a multiethnic Asian cohort. Ann Acad Med Singapore. 2009 Mar;38(3):217-224.
+37.
+Chang RJ, Chou HC, Chang YH, et al. Weight loss percentage prediction of subsequent neonatal
+hyperbilirubinemia in exclusively breastfed neonates. Pediatr Neonatol. 2012 Feb;53(1):41-44.
+38.
+Salas AA, Salazar J, Burgoa CV, et al. Significant weight loss in breastfed term infants readmitted
+for hyperbilirubinemia. BMC Pediatr. 2009 Dec;31(9):82.
+39.
+Johnson L, Bhutani VK, Karp K, et al. Clinical report from the pilot USA Kernicterus Registry
+(1992 to 2004). J Perinatol. 2009 Feb;29 Suppl 1:S25-45.
+40.
+Bao Y, Chen XY, Shi LP, et al. Clinical features of 116 near term and term infants with Acute
+Birubin Encephalopathy in Eastern China. HK J Paediatr. 2013;18:82-88.
+41.
+Amin SB. Clinical assessment of bilirubin-induced neurotoxicity in premature infants. Semin
+Perinatol. 2004 Oct;28(5):340-347.
+42.
+Amin SB, Bhutani VK, JF W. Apnea in acute bilirubin encephalopathy. Semin Perinatol. 2014
+Nov;38(7):407-411.
+43.
+Bhutani VK, Wong RJ. Bilirubin neurotoxicity in preterm infants: risk and prevention. J Clin
+Neonatol. 2013 Apr;2(2):61-69.
+44.
+Okumura A, Kidokoro H, Shoji H, et al. Kernicterus in preterm infants. Pediatrics. 2009
+Jun;123(6):e1052-1058.
+45.
+Johnson L, Brown AK, Bhutani V. BIND - A clinical score for bilirubin induced neurologic
+dysfunction in newborns. Pediatrics 1999;104:Supplement 4 733-761.
+46.
+Amin SB, Charafeddine L, R G. Transient bilirubin encephalopathy and apnea of prematurity in
+28 to 32 weeks gestational age infants. J Perinatol. 2005 Jun;25(6):386-390.
+Management of Neonatal Jaundice (Second Edition)
+47.
+Besser I, Perry ZH, Mesner O, et al. Yield of recommended blood tests for neonates requiring
+phototherapy for hyperbilirubinemia. Isr Med Assoc J. 2010 Apr;12(4):220-224.
+48.
+Kaplan M, Hammerman C. Neonatal screening for glucose-6-phosphate dehydrogenase
+deficiency: biochemical versus genetic technologies. Semin Perinatol. 2011 Jun;35(3):155-161.
+49.
+Wang FL, Boo NY, Ainoon O, et al. Comparison of detection of glucose-6-phosphate
+dehydrogenase deficiency using fluorescent spot test, enzyme assay and molecular method for
+prediction of severe neonatal hyperbilirubinaemia. Singapore Med J. 2009 Jan;50(1):62-67.
+50.
+Boo NY, Ainoon BO, Ooi LH, et al. Glucose-6-phosphate dehydrogenase enzyme activity
+of normal term Malaysian neonates of different ethnic origins. J Paediatr Child Health. 1994
+Jun;30(3):273-274.
+51.
+Watchko JF, Tiribelli C. Bilirubin-induced neurologic damage--mechanisms and management
+approaches. N Engl J Med. 2013 Nov;369(21):2021-2030.
+52.
+Hulzebos CV, Dijk PH, van Imhoff DE, et al. The bilirubin albumin ratio in the management of
+hyperbilirubinemia in preterm infants to improve neurodevelopmental outcome: a randomized
+controlled trial--BARTrial. PLoS One. 2014 Jun;9(6):e99466.
+53.
+Sato Y, Morioka I, Miwa A, et al. Is bilirubin/albumin ratio correlated with unbound bilirubin
+concentration? Pediatr Int. 2012 Feb;54(1):81-85.
+54.
+Ahlfors CE, Wennberg RP, Ostrow JD, et al. Unbound (free) bilirubin: improving the paradigm for
+evaluating neonatal jaundice. Clin Chem. 2009 Jul;55(7):1288-1299.
+55.
+Ahlfors CE, Amin SB, Parker AE. Unbound bilirubin predicts abnormal automated auditory
+brainstem response in a diverse newborn population. J Perinatol. 2009 Apr;29(4):305-309.
+56.
+Tridente A, De Luca D. Efficacy of light-emitting diode versus other light sources for treatment
+of neonatal hyperbilirubinemia: a systematic review and meta-analysis. Acta Paediatr. 2012
+May;101(5):458-465.
+57.
+Kumar P, Chawla D, Deorari A. Light-emitting diode phototherapy for unconjugated
+hyperbilirubinaemia in neonates. Cochrane Database of Systematic Reviews. 2011;Issue 12.
+Art. No.: CD007969.
+58.
+Bertini G, Perugi S, Elia S, et al. Transepidermal water loss and cerebral hemodynamics in
+preterm infants: conventional versus LED phototherapy. Eur J Pediatr. 2008 Jan;167(1):37-42.
+59.
+Mills JF, Tudehope D. Fibreoptic phototherapy for neonatal jaundice. Cochrane Database of
+Systematic Reviews. 2001;Issue 1. Art. No.: CD002060.
+60.
+Djokomuljanto S, Quah BS, Surini Y, et al. Efficacy of phototherapy for neonatal jaundice is
+increased by the use of low-cost white reflecting curtains. Arch Dis Child Fetal Neonatal Ed. 2006
+Nov;91(6):F439-442.
+61.
+Sivanandan S, Chawla D, Misra S, et al. Effect of sling application on efficacy of phototherapy in
+healthy term neonates with nonhemolytic jaundice: a randomized ontrolled trial. Indian Pediatr.
+2009 Jan;46(1):23-28.
+62.
+Donneborg ML, Knudsen KB, Ebbesen F. Effect of infants’ position on serum bilirubin level
+during conventional phototherapy. Acta Paediatr. 2010 Aug;99(8):1131-1134.
+63.
+Naderi S, Safdarian F, Mazloomi D, et al. Efficacy of double and triple phototherapy in term
+newborns with hyperbilirubinemia: the first clinical trial. Pediatr Neonatol. 2009 Dec;50(6):266269.
+64.
+Tayman C, Tatli MM, Aydemir S, et al. Overhead is superior to underneath light-emitting diode
+phototherapy in the treatment of neonatal jaundice: a comparative study. J Paediatr Child Health.
+2010 May;46(5):234-237.
+65.
+Morris BH, Oh W, Tyson JE, et al. Aggressive vs. conservative phototherapy for infants with
+extremely low birth weight. N Engl J Med. 2008 Oct;359(18):1885-1896.
+66.
+Okwundu CI, Okoromah CAN, Shah PS. Prophylactic phototherapy for preventing jaundice in
+preterm or low birth weight infants. Cochrane Database of Systematic Reviews. 2012;Issue 1.
+Art. No.: CD007966.
+67.
+Salas AA, Mazzi E. Exchange transfusion in infants with extreme hyperbilirubinemia: an
+experience from a developing country. Acta Paediatr. 2008 Jun;97(6):754-758.
+68.
+Weng YH, Chiu YW. Comparison of efficacy and safety of exchange transfusion through different
+catheterizations: Femoral vein versus umbilical vein versus umbilical artery/vein. Pediatr Crit
+Care Med. 2011 Jan;12(1):61-64.
+Management of Neonatal Jaundice (Second Edition)
+69.
+Chen HN, Lee ML, Tsao LY. Exchange transfusion using peripheral vessels is safe and effective
+in newborn infants. Pediatrics. 2008 Oct;122(4):e905-910.
+70.
+Gharehbaghi MM, Hosseinpour SS. Exchange transfusion in neonatal hyperbilirubinaemia:
+a comparison between citrated whole blood and reconstituted blood. Singapore Med J. 2010
+Aug;51(8):641-644.
+71.
+Davutoğlu M, Garipardiç M, Güler E, et al. The etiology of severe neonatal hyperbilirubinemia and
+complications of exchange transfusion. Turk J Pediatr. 2010 Mar-Apr;52(2):163-166.
+72.
+Hosseinpour Sakha S, Gharehbaghi MM. Exchange transfusion in severe hyperbilirubinemia: an
+experience in northwest Iran. Turk J Pediatr. 2010 Jul-Aug;52(4):367-371.
+73.
+Steiner LA, Bizzarro MJ, Ehrenkranz RA, et al. A decline in the frequency of neonatal exchange
+transfusions and its effect on exchange-related morbidity and mortality. Pediatrics. 2007
+Jul;120(1):27-32.
+74.
+Hamidi M, Zamanzad B, Mesripour A. Comparing the effect of clofibrate and phenobarbital on the
+newborns with hyperbilirubinemia. EXCLI Journal. 2013;12:75-78.
+75.
+Xiong T, Chen D, Duan Z, et al. Clofibrate for unconjugated hyperbilirubinemia in neonates: a
+systematic review. Indian Pediatr. 2012 Jan;49(1):35-41.
+76.
+Ashkan MM, Narges P. The effect of low and moderate doses of clofibrate on serum bilirubin
+level in jaundiced term neonates. Paediatric and Perinatal Drug Therapy. 2007;8(2):51-54.
+77.
+Louis D, More K, Oberoi S, et al. Intravenous immunoglobulin in isoimmune haemolytic disease
+of newborn: an updated systematic review and meta-analysis. Arch Dis Child Fetal Neonatal Ed.
+2014 Jul;99(4):F325-331.
+78.
+Ismael AS, Alrabaty AA. Role of Intravenous Human Albumin in Management of Neonatal
+Hyperbilirubinemia. JSMC. 2013;3(1).
+79.
+Shahian M, Moslehi MA. Effect of albumin administration prior to exchange transfusion in
+term neonates with hyperbilirubinemia-a randomized controlled trial. Indian Pediatr. 2010
+Mar;47(3):241-244.
+80.
+Suresh G, Martin CL, Soll R. Metalloporphyrins for treatment of unconjugated hyperbilirubinemia
+in neonates. Cochrane Database of Systematic Reviews. 2003;Issue 1. Art. No.: CD004207.
+81.
+Chawla D, Parmar V. Phenobarbitone for prevention and treatment of unconjugated
+hyperbilirubinemia in preterm neonates: a systematic review and meta-analysis. Indian Pediatr.
+2010 May;47(5):401-407.
+82.
+Hussain Imam MI, Ng HP, Thomas T, et al. Malaysian Paediatric Protocol for Malaysian Hospitals
+3rd Edition. Putrajaya: MoH; c2012.
+83.
+Division of Family Health Development, Ministry of Health. Integrated Plan for Detection and
+Management of Neonatal Jaundice. Putrajaya: MoH; 2009.
+84.
+Academy of Breastfeeding Medicine Protocol Committee. ABM clinical protocol #22: guidelines
+for management of jaundice in the breastfeeding infant equal to or greater than 35 weeks’
+gestation. Breastfeed Med. 2010 Apr;5(2):87-93.
+85.
+Chen CF, Hsu MC, Shen CH, et al. Influence of breast-feeding on weight loss, jaundice, and
+waste elimination in neonates. Pediatr Neonatol. 2011 Apr;52(2):85-92.
+86.
+Lin YY, Tsao PN, Hsieh WS, et al. The Impact of Breast-Feeding on Early Neonatal Jaundice.
+Clinical Neonatology. 2008;15:31-35.
+87.
+Eggert LD, Wiedmeier SE, Wilson J, et al. The effect of instituting a prehospital-discharge
+newborn bilirubin screening program in an 18-hospital health system. Pediatrics. 2006
+May;117(5):e855-862.
+88.
+Kaplan M, Bromiker R, Schimmel MS, et al. Evaluation of discharge management in the
+prediction of hyperbilirubinemia: the Jerusalem experience. J Pediatr. 2007 Apr;150(4):412-417.
+89.
+Keren R, Bhutani VK, Luan X, et al. Identifying newborns at risk of significant hyperbilirubinaemia:
+a comparison of two recommended approaches. Arch Dis Child Fetal Neonatal Ed. 2005
+Apr;90(4):415-421.
+90.
+Mah MP, Clark SL, Akhigbe E, et al. Reduction of severe hyperbilirubinemia after institution of
+predischarge bilirubin screening. Pediatrics. 2010 May;125(5):e1143-1148.
+91.
+Bromiker R, Bin-Nun A, Schimmel MS, et al. Neonatal hyperbilirubinemia in the low-intermediaterisk category on the bilirubin nomogram. Pediatrics. 2012 Sep;130(3):e470-475.
+Management of Neonatal Jaundice (Second Edition)
+92.
+Alkalay AL, Bresee CJ, Simmons CF. Decreased neonatal jaundice readmission rate after
+implementing hyperbilirubinemia guidelines and universal screening for bilirubin. Clin Pediatr
+(Phila). 2010 Sep;49(9):830-833.
+93.
+Flaherman VJ, Kuzniewicz MW, Escobar GJ, et al. Total serum bilirubin exceeding exchange
+transfusion thresholds in the setting of universal screening. J Pediatr. 2012 May;160(5):796-800.
+e791.
+94.
+Yaseen H, Khalaf M, Rashid N, et al. Does prophylactic phototherapy prevent hyperbilirubinemia
+in neonates with ABO incompatibility and positive Coombs’ test? J Perinatol. 2005 Sep;25(9):590594.
+95.
+Murki S, Dutta S, Narang A, et al. A randomized, triple-blind, placebo-controlled trial of
+prophylactic oral phenobarbital to reduce the need for phototherapy in G6PD-deficient neonates.
+J Perinatol. 2005 May;25(5):325-330.
+96.
+Shah VA, Yeo CL. Identifying risk of neonatal hyperbilirubinaemia and early discharge for glucose6-phosphate dehydrogenase deficient newborns in Singapore. Ann Acad Med Singapore. 2007
+Dec;36(12):1003-1009.
+97.
+Sgro M, Campbell DM, Kandasamy S, et al. Incidence of chronic bilirubin encephalopathy in
+Canada, 2007-2008. Pediatrics. 2012 Oct;130(4):e886-890.
+98.
+Bhutani VK, Johnson LH, Jeffrey Maisels M, et al. Kernicterus: epidemiological strategies for its
+prevention through systems-based approaches. J Perinatol. 2004 Oct;24(10):650-662.
+99.
+Akinpelu OV, Waissbluth S, Daniel SJ. Auditory risk of hyperbilirubinemia in term newborns: a
+systematic review. Int J Pediatr Otorhinolaryngol. 2013 Jun;77(6):898-905.
+100. Vandborg PK, Hansen BM, Greisen G, et al. Follow-up of neonates with total serum bilirubin
+levels ≥ 25 mg/dL: a Danish population-based study. Pediatrics. 2012 Jul;130(1):61-66.
+101. Ebbesen F, Ehrenstein V, Traeger M, et al. Neonatal non-hemolytic hyperbilirubinemia: a
+prevalence study of adult neuropsychiatric disability and cognitive function in 463 male Danish
+conscripts. Arch Dis Child Fetal Neonatal Ed. 2010 Aug;95(8):583-587.
+102. Chen WX, Wong VC, Wong KY. Neurodevelopmental outcome of severe neonatal hemolytic
+hyperbilirubinemia. J Child Neurol. 2006 Jun;21(6):474-479.
+103. Oh W, Tyson JE, Fanaroff AA, et al. Association between peak serum bilirubin and
+neurodevelopmental outcomes in extremely low birth weight infants. Pediatrics. 2003
+Oct;112(4):773-779.
+Management of Neonatal Jaundice (Second Edition)
+APPENDIX 1
+EXAMPLES OF SEARCH STRATEGY
+The following MeSH terms or free text terms were used either singly or
+in combination, search was limit to English, human and 2001 to current:-
+A. Phototherapy
+1. Jaundice, Neonatal/
+2. Hyperbilirubinemia, Neonatal/
+3. (jaundice adj1 neonat*).tw.
+4. (jaundice adj1 newborn*).tw.
+5. (hyperbilirubin* adj1 neonat*).tw.
+6. (hyperbilirubin* adj1 newborn*).tw.
+7. 1 or 2 or 3 or 4 or 5 or 6
+8. Phototherapy/
+9. (Therap* adj1 light).tw.
+10. Phototherap*.tw.
+11. Light*.tw.
+12. 8 or 9 or 10 or 11
+13. 7 and 12
+14. Limit 13
+B. Exchange Transfusion
+1. Jaundice, Neonatal/
+2. Hyperbilirubinemia, Neonatal/
+3. (jaundice adj1 neonat*).tw.
+4. (jaundice adj1 newborn*).tw.
+5. (hyperbilirubin* adj1 neonat*).tw.
+6. (hyperbilirubin* adj1 newborn*).tw.
+7. 1 or 2 or 3 or 4 or 5 or 6
+8. Exchange Transfusion, Whole Blood/
+9. (Exchange adj1 transfus*).tw.
+10. Exchange transfus* whole blood.tw.
+11. 8 or 9 or 10
+12. 7 and 11
+13. Limit 12
+C. Pharmacotherapy
+1. Jaundice, Neonatal/
+2. Hyperbilirubinemia, Neonatal/
+3. (jaundice adj1 neonat*).tw.
+4. (jaundice adj1 newborn*).tw.
+5. (hyperbilirubin* adj1 neonat*).tw.
+6. (hyperbilirubin* adj1 newborn*).tw.
+7. 1 or 2 or 3 or 4 or 5 or 6
+8. Drug Therapy/
+9. (drug adj1 therap*).tw.
+10. pharmacotherap*.tw.
+11. Clofibrate/
+12. clofibrate.tw.
+13. (chlorophenoxyisobutyrate adj1
+ethyl).tw.
+14. Immunoglobulins/
+15. immunoglobulin*.tw.
+16. (globulins adj1 immune).tw.
+17. Albumins/
+18. albumins.tw.
+19. Metalloporphyrins/
+20. metalloporphyrins.tw.
+21. 8 or 9 or 10 or 11 or 12 or 13 or 14
+or 15 or 16 or 17 or 18 or 19 or 20
+22. 7 and 21
+23. Limit 22
+Management of Neonatal Jaundice (Second Edition)
+APPENDIX 2
+CLINICAL QUESTIONS
+1. What are the risk factors for NNJ (including kernicterus)?
+2. What is the relationship between bilirubin level, acute bilirubin
+encephalopathy and kernicterus?
+3. What is the accuracy and reliability of various methods of detecting
+and assessing the severity of NNJ?
+4. What should be included in the assessment of NNJ?
+5. What are the indications for starting treatment in NNJ?
+6. Is phototherapy effective and safe in NNJ?
+7. Is exchange transfusion effective and safe in NNJ?
+8. How to monitor babies with NNJ?
+9. Is pharmacotherapy effective and safe in NNJ?
+10. Is complementary/alternative medicine effective and safe in NNJ?
+11. What is the impact of breastfeeding in early NNJ?
+12. What are the effective and safe measures for preventing severe
+NNJ?
+*What information and support should be given to parents/carers of
+babies with NNJ?
+13. When should babies with NNJ be referred to secondary care?
+14. How should babies with severe NNJ be followed-up?
+Management of Neonatal Jaundice (Second Edition)
+APPENDIX 3
+TOTAL SERUM BILIRUBIN LEVELS FOR PHOTOTHERAPY AND
+EXCHANGE TRANSFUSION IN
+BABIES 23 - 34 WEEKS GESTATION
+Source: National Collaborating Centre for Women’s and Children’s Health.
+Neonatal jaundice. London: NCC-WCH; 2010) for recommended levels of
+phototherapy and ET
+*Jaundice appearing within 24 hours of life is abnormal & needs further evaluation.
+Age
+23 weeks
+24 weeks
+25 weeks
+Hours of
+life
+Phototherapy -
+TSB in mg/dL
+(µmol/L)
+ET -
+TSB in
+mg/dL
+(µmol/L)
+Phototherapy -
+TSB in mg/dL
+(µmol/L)
+ET -
+TSB in
+mg/dL
+(µmol/L)
+Phototherapy -
+TSB in mg/dL
+(µmol/L)
+ET -
+TSB in
+mg/dL
+(µmol/L)
+<24*
+24
+48
+72
+96
+4.1 (70)
+5.9 (100)
+7.6 (130)
+7.6 (130)
+7.6 (130)
+10.5 (180)
+13.5 (230)
+13.5 (230)
+4.1 (70)
+6.5 (110)
+8.2 (140)
+8.2 (140)
+7.9 (135)
+10.9 (185)
+14.0 (240)
+14.0 (240)
+4.7 (80)
+6.5 (110)
+8.8 (150)
+8.8 (150)
+8.2 (140)
+11.1 (190)
+14.6 (250)
+14.6 (250)
+Age
+26 weeks
+27 weeks
+28 weeks
+Hours of
+life
+Phototherapy -
+TSB in mg/dL
+(µmol/L)
+ET -
+TSB in
+mg/dL
+(µmol/L)
+Phototherapy -
+TSB in mg/dL
+(µmol/L)
+ET -
+TSB in
+mg/dL
+(µmol/L)
+Phototherapy -
+TSB in mg/dL
+(µmol/L)
+ET -
+TSB in
+mg/dL
+(µmol/L)
+<24*
+24
+48
+72
+96
+4.7 (80)
+7.0 (120)
+9.4 (160)
+9.4 (160)
+8.2 (140)
+11.7 (200)
+15.2 (260)
+15.2 (260)
+4.7 (80)
+7.6 (130)
+10.0 (170)
+10.0 (170)
+8.2 (140)
+12.0 (205)
+15.8 (270)
+15.8 (270)
+5.3 (90)
+7.6 (130)
+10.5 (180)
+10.5 (180)
+8.8 (150)
+12.3 (210)
+16.4 (280)
+16.4 (280)
+Age
+29 weeks
+30 weeks
+31 weeks
+Hours of
+life
+Phototherapy -
+TSB in mg/dL
+(µmol/L)
+ET -
+TSB in
+mg/dL
+(µmol/L)
+Phototherapy -
+TSB in mg/dL
+(µmol/L)
+ET -
+TSB in
+mg/dL
+(µmol/L)
+Phototherapy -
+TSB in mg/dL
+(µmol/L)
+ET -
+TSB in
+mg/dL
+(µmol/L)
+<24*
+24
+48
+72
+96
+5.3 (90)
+8.2 (140)
+11.1 (190)
+11.1 (190)
+8.8 (150)
+12.9 (220)
+17.0 (290)
+17.0 (290)
+5.6 (95)
+8.5 (145)
+11.7 (200)
+11.7 (200)
+8.8 (150)
+12.9 (220)
+17.5 (300)
+17.5 (300)
+5.9 (100)
+9.1 (155)
+12.3 (210)
+12.3 (210)
+9.1 (155)
+13.5 (230)
+18.1 (310)
+18.1 (310)
+Age
+32 weeks
+33 weeks
+34 weeks
+Hours of
+life
+Phototherapy -
+TSB in mg/dL
+(µmol/L)
+ET -
+TSB in
+mg/dL
+(µmol/L)
+Phototherapy -
+TSB in mg/dL
+(µmol/L)
+ET -
+TSB in
+mg/dL
+(µmol/L)
+Phototherapy -
+TSB in mg/dL
+(µmol/L)
+ET -
+TSB in
+mg/dL
+(µmol/L)
+<24*
+24
+48
+72
+96
+5.9 (100)
+9.4 (160)
+12.9 (220)
+12.9 (220)
+9.4 (160)
+14.0 (240)
+18.7 (320)
+18.7 (320)
+5.9 (100)
+10.0 (170)
+13.5 (230)
+13.5 (230)
+9.4 (160)
+14.3 (245)
+19.3 (330)
+19.3 (330)
+6.5 (110)
+10.0 (170)
+14.6 (240)
+14.6 (240)
+10.0 (170)
+14.6 (250)
+20.0 (340)
+20.0 (340)
+Management of Neonatal Jaundice (Second Edition)
+APPENDIX 4
+PROTOCOL FOR EXCHANGE TRANSFUSION
+ET should preferably be done in Neonatal Intensive Care Unit (NICU) or
+in a place where adequate resuscitation equipment is available. Babies
+should be placed in an open bed radiant warmer where possible.
+i. Preparation of Baby
+• Obtain written informed consent from parent/caregiver.
+• Ensure resuscitation equipment and medications are available.
+• Stabilise and maintain temperature, pulse rate, blood pressure,
+oxygen saturation and respiration.
+• Obtain peripheral venous access for maintenance fluids.
+• Apply gentle restraint and nurse in comfortable position.
+• Continue feeding, omit only the last feed before ET. If less than
+four hours from last feed, empty gastric contents by orogastric tube
+before ET.
+The procedure should be performed under aseptic technique using
+gloves, gown and mask.
+ii. Type of Blood to be Used
+• Rh isoimmunisation: ABO compatible, Rh negative blood
+• Other conditions: Cross-match with baby’s and mother’s blood
+• In emergencies if blood type unknown: ‘O’ Rh negative blood
+iii. Pre-ET Blood Investigations
+• Full blood count including differential
+• Bilirubin (total, direct and indirect) level
+• Blood culture and sensitivity via peripheral venous blood
+• Others as indicated
+iv. Procedure for ET
+• Volume to be exchanged is two times the baby’s total blood volume
+(2 x 80 mls/kg).
+• Use fresh whole blood <5 days old (preferably irradiated) or
+reconstituted packed red blood cells and fresh frozen plasma in a
+ratio of 3:1.
+• Take baseline observations (either via monitor or manually) and
+record down on the Neonatal Exchange Blood Transfusion Sheet.
+The following observations are recorded every 15 minutes:
+• Heart rate
+• Blood pressure
+• Respiratory rate
+• Oxygen saturation
+• Skin temperature
+Management of Neonatal Jaundice (Second Edition)
+v. Methods of ET
+• One Catheter Push-pull Technique – Umbilical Venous Catheter
+(Refer to Malaysian Paediatric Protocol 3rd Edition for details)
+• Two Catheter Push-pull Technique – Isovolumetric or Continuous
+Technique
+In
+Out
+Umbilical vein
+Umbilical artery
+Peripheral vein
+Peripheral artery
+Peripheral vein
+Umbilical artery
+vi. Post-ET Management
+• Maintain intensive phototherapy.
+• Monitor vital signs: hourly for 4 - 6 hours and 4 hourly subsequently.
+• Monitor capillary blood sugar: hourly for 2 hours following ET.
+• Check serum bilirubin: 4 - 6 hours after ET.
+• Maintain strict input and output record.
+• Monitor appearance of abdomen and lower limbs with routine
+observations (3 - 4 hourly) for 24 hours.
+• Listen for bowel sounds.
+• Commence feeds after 3 - 4 hours if clinically stable, abdomen is soft
+and not for repeat ET.
+• Observe for signs of feed intolerance: gastric aspirate, vomiting,
+abdominal distension.
+vii. Post-ET Blood Investigations
+• Full blood count including differential
+• Bilirubin (total, direct and indirect) level
+• Capillary blood sugar
+• Serum electrolyte and calcium
+• Others as indicated
+Modified: Hussain Imam MI, Ng HP, Thomas T, editors. Malaysian Paediatric
+Protocol for Malaysian Hospitals 3rd Edition. Putrajaya; MoH: c2012)
+Refer to the above protocol for more details.
+Management of Neonatal Jaundice (Second Edition)
+APPENDIX 5
+CLINICAL RISK FACTORS AND
+ALGORITHM FOR PREDISCHARGE SCREENING
+A. Clinical risk factors to be considered with predischarge TcB
+or TSB levels:
+1. isoimmune (ABO or Rhesus) haemolytic disease, G6PD
+deficiency or other haemolytic diseases
+2. exclusive breastfeeding, if nursing is not going well, and/or
+weight loss is >8 - 10%
+3. previous sibling with jaundice
+4. cephalhaematoma or significant bruising
+5. East Asian race
+Nomogram for Predischarge Screening
+Figure 3. Nomogram for Designation of Risk at ≥36 Weeks’
+Gestational Age with Birth Weight ≥2000 g or ≥35 Weeks’
+Gestational Age with Birth Weight ≥2500 g
+1. Babies with gestational age 35 – 37 weeks WITH clinical risk
+factors in (A) and predischarge TcB/TSB in the following
+risk zones:
+Predisc arge
+Tcb/TSB Risk Zone
+Action
+Interval to repeat TSB
+High Risk
+• Check
+TcB/TSB
+against
+phototherapy guidelines
+• Start phototherapy as needed
+4 - 8 hours
+High Intermediate Risk
+• Check
+TcB/TSB
+against
+phototherapy guidelines
+• Start phototherapy as needed
+4 - 24 hours
+Low Intermediate Risk
+If discharging in <72 hours, followup within two days
+Within two days at
+follow-up
+Low Risk
+If discharging in <72 hours, followup within two days
+If jaundiced at follow-up
+Management of Neonatal Jaundice (Second Edition)
+2. Babies with gestational age 35 – 37 weeks with NO clinical
+risk factors in (A) OR with gestational age ≥38 weeks WITH
+clinical risk factors in (A) and predischarge TcB/TSB in the
+following risk zones:
+3. Babies with gestational age ≥38 weeks with NO clinical risk
+factors in (A) and predischarge TcB/TSB in the following
+risk zones:
+Predischarge
+Tcb/T B Risk Zone
+Action
+Interval to repeat TSB
+High Risk
+• Check
+TcB/TSB
+against
+phototherapy guidelines
+• Start phototherapy as needed
+4 - 24 hours
+High Intermediate Risk
+• Check
+TcB/TSB
+against
+phototherapy guidelines
+• Start phototherapy as needed
+24 hours
+Low Intermediate Risk
+If discharging in <72 hours, followup within two days
+If jaundiced at follow-up
+Low Risk
+If discharging in <72 hours, followup within two days
+If jaundiced at follow-up
+Predischarge
+Tcb/TSB Risk Zone
+Action
+Interval to repeat TSB
+High Risk
+• Check
+TcB/TSB
+against
+phototherapy guidelines
+• Start phototherapy as needed
+4 - 24 hours
+High Intermediate Risk
+Follow-up in two days
+Two days
+Low Intermediate Risk
+If discharging in <72 hours, followup in 2 – 3 days
+If jaundiced at follow-up
+Low Risk
+If discharging in <72 hours, follow-
+up in 2 - 3 days
+If jaundiced at follow-up
+Adapted: Maisels MJ, Bhutani VK, Bogen D, et al. Hyperbilirubinemia in the newborn
+infant > or =35 weeks’ gestation: an update with clarifications. Pediatrics.
+2009 Oct;124(4):1193-8
+Management of Neonatal Jaundice (Second Edition)
+APPENDIX 6
+INFORMATION ON PREVENTION OF NNJ
+A. Parents and carers13, level III
+Advice that should be given to parents/carers during antenatal and
+postnatal visits include:
+1. Look for jaundice daily during the first week of life.
+2. Check the naked baby for jaundice in bright and preferably
+natural light, by blanching the skin with gentle finger pressure
+over the chest.
+3. Presence of jaundice needs to be confirmed by healthcare
+providers; blood tests may be required.
+4. Jaundice in the first 48 hours of life needs urgent review by
+healthcare providers.
+5. Continue breastfeeding even if the baby is jaundiced. Contact a
+healthcare provider for assistance with breastfeeding if needed.
+6. Untreated jaundice may lead to deafness and brain damage.
+7. Phototherapy is a safe and effective form of treatment for
+neonatal jaundice.
+8. Traditional and alternative methods of treating jaundice are
+unproven and likely to be ineffective.
+9. Exposing the baby to sunlight as a form of treatment may be
+harmful due to dehydration and sunburn.
+B. Healthcare providers
+Healthcare providers should take note on the following in NNJ
+management:
+1. Antenatal education should include NNJ.
+2. Routine postnatal visits should include the detection of NNJ.
+3. Effectiveness of breastfeeding should be assessed during postnatal
+visits. Individualised lactation support and help should be given to
+breastfeeding mothers.
+Management of Neonatal Jaundice (Second Edition)
+LIST OF ABBREVIATIONS
+µmol/L
+micromol/litre
+ABR
+Auditory Brainstem Response
+AAP
+American Association of Pediatrics
+ABE
+Acute Bilirubin Encephalopathy
+ABO
+ABO blood group system
+AUC
+area under the curve
+B/A
+Bilirubin/Albumin
+BIND
+bilirubin-induced neurologic dysfunction
+CI
+confidence interval
+cm
+centimeter
+CPG(s)
+clinical practice guidelines
+DG
+Development Group
+dL
+deci
+ELBW
+extremely low birth weight
+ET
+exchange transfusion
+FST
+fluorescent spot test
+FV
+femoral vein
+g
+gramme
+G6PD
+Glucose-6-phosphate dehydrogenase
+Hb
+haemoglobin
+IU
+international unit
+IV
+intravenous
+IVIg
+intravenous immunoglobulin
+kg
+kilogramme
+LBW
+low birth weight
+LED
+light emitting diode
+mg
+miligramme
+ml
+mililitre
+MoH
+Ministry of Health
+NICE
+National Institute for Health and Clinical Excellence
+nm
+nanometre
+NPV
+negative predictive value
+OR
+odds ratio
+PPV
+positive predictive value
+r
+correlation coefficient
+rs
+Spearman’s rank correlation coefficient
+RC
+Review Committee
+Rh
+Rhesus blood group system
+RR
+relative risk
+TcB
+Transcutaneous Bilirubinometer
+TSB
+total serum bilirubin
+UA/V
+umbilical artery/vein
+UB
+Unbound Bilirubin
+UV
+umbilical vein
+vs
+versus
+Management of Neonatal Jaundice (Second Edition)
+ACKNOWLEDGEMENT
+The members of development group of these guidelines would like to express
+their gratitude and appreciation to the following for their contributions:
+• Panel of external reviewers who reviewed the draft
+• Technical Advisory Committee of CPG for their valuable input and
+feedback
+• All those who have contributed directly or indirectly to the development
+of the CPG
+DISCLOSURE STATEMENT
+The panel members of both Development Group and Review Committee
+had completed disclosure forms. None held shares in pharmaceutical firms
+or acts as consultants to such firms. (Details are available upon request
+from the CPG Secretariat)
+SOURCE OF FUNDING
+The development of the CPG on Management of Neonatal Jaundice
+(Second Edition) was supported financially in its entirety by the Ministry of
+Health Malaysia.
+Management of Neonatal Jaundice (Second Edition)

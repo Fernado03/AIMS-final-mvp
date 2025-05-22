@@ -1,0 +1,3814 @@
+CLINICAL PRACTICE GUIDELINES
+NE MOHPPAK46 176
+MANAGEMENT OF GLAUCOMA
+Management of Glaucoma (Second Edition)
+Published by:
+Malaysian Health Technology Assessment Section
+Medical Development Division, Ministry of Health Malaysia
+Level 4, Block E1, Precinct 1
+Federal Government Administrative Centre 62590
+Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is MaHTAS. Content may be
+reproduced in any number of copies and in any format or medium provided that a copyright acknowledgement to MaHTAS is included and
+the content is not changed, not sold, nor used to promote or endorse
+any product or service, and not used in an inappropriate or misleading
+context.
+ISBN: 978-967-0769-86-8
+Available on the following websites:
+http://www.moh.gov.my
+http://www.acadmed.org.my
+http://www.mso.org.my
+Also available as an app for Android and IOS platform: MyMaHTAS
+STATEMENT OF INTENT
+These clinical practice guidelines (CPG) are meant to be guides for
+clinical practice, based on the best available evidence at the time of
+development. Adherence to these guidelines may not necessarily guarantee the best outcome in every case. Every healthcare provider is
+responsible for the management of his/her unique patient based on the
+clinical picture presented by the patient and the management options
+available locally.
+Management of Glaucoma (Second Edition)
+UPDATING THE CPG
+These guidelines were issued in 2017 and will be reviewed in a minimum period of four years (2021) or sooner if new evidence becomes
+available. When it is due for updating, the Chairman of the CPG or
+National Advisor of the related specialty will be informed about it. A
+discussion will be done on the need for a revision including the scope
+of the revised CPG. A multidisciplinary team will be formed and the latest systematic review methodology used by MaHTAS will be employed.
+Every care is taken to ensure that this publication is correct in every
+detail at the time of publication. However, in the event of errors or omissions, corrections will be published in the web version of this document,
+which is the definitive version at all times. This version can be found on
+the websites mentioned above.
+Management of Glaucoma (Second Edition)
+Levels of Evidence and Grading Recommendations,
+i
+Assessment, Development and Evaluation
+Key Recommendations
+ii
+Guidelines Development and Objectives
+iv
+Development Group
+vii
+Review Committee
+viii
+External Reviewers
+ix
+Algorithm 1 Classification of Glaucoma based
+x
+on Angle Configuration
+Algorithm 2 Classification of Primary Open Angle Glaucoma/
+xi
+Ocular Hypertension/Primary Open
+Angle Glaucoma Suspect
+Algorithm 3 Classification of Primary Angle Closure Suspect/
+xii
+Primary Angle Closure/Primary Angle Closure
+Glaucoma
+Algorithm 4 Setting the Target IOP
+xiii
+Algorithm 5 Adjustment of Target IOP
+xiv
+1.
+INTRODUCTION
+1
+1.1 Epidemiology
+2
+1.2 Definition and Classification
+2
+2.
+RISK FACTORS
+4
+2.1 Risk Factors for Primary Open Angle Glaucoma
+4
+2.2 Risk Factors for Primary Angle Closure Suspect/Primary 5
+Angle Closure/Primary Angle Closure Glaucoma
+3
+SCREENING
+6
+4.
+DIAGNOSIS
+7
+4.1 History
+7
+4.2 Examination
+7
+4.3 Investigation
+10
+4.4 Staging of Glaucoma
+11
+5.
+TREATMENT
+13
+5.1 Principles of Treatment
+13
+5.2 Medical Treatment
+14
+5.3 Laser Treatment
+19
+5.4 Surgical Treatment
+23
+6.
+FOLLOW-UP
+25
+TABLE OF CONTENTS
+No.
+Title
+Page
+Management of Glaucoma (Second Edition)
+TABLE OF CONTENTS
+No.
+Title
+Page
+7.
+MONITORING OF PROGRESSION
+27
+7.1 Visual Field Assessment (Functional Test)
+27
+7.2 Optic Nerve and Retinal Nerve Fibre Layer Evaluation 28
+(Structural Test)
+8.
+REHABILITATION
+29
+9.
+REFERRAL
+30
+10.
+SPECIAL CONDITIONS
+31
+10.1 Ocular Hypertension
+31
+10.2 Primary Open Angle Glaucoma Suspect
+33
+10.3 Steroid-Induced Glaucoma
+34
+10.4 Neovascular Glaucoma
+34
+10.5 Intraocular Pressure Monitoring in
+35
+Post-Refractive Surgery Cases
+11.
+IMPLEMENTING THE GUIDELINES
+37
+11.1 Facilitating and Limiting Factors
+37
+11.2 Potential Resource Implications
+37
+REFERENCES
+39
+Appendix 1 Example of Search Strategy
+45
+Appendix 2 Clinical Questions
+46
+Appendix 3 Van Herick Test
+47
+Appendix 4 Indentation/Dynamic Gonioscopy
+48
+Appendix 5 Estimation of Optic Disc Size
+49
+Appendix 6 Management Acute Angle Closure
+51
+Appendix 7 Proper Instillation Technique of Eye Drop
+52
+Appendix 8 Main Features of Topical Anti-Glaucoma
+53
+Medications
+Appendix 9 Laser Iridotomy
+61
+Appendix 10 Categories of Severity of Visual Impairment
+62
+Appendix 11 Ocular Hypertension Pathway (OHT and
+63
+POAG Suspects with High IOP)
+Appendix 12 POAG Suspects with Normal IOP Pathway
+64
+List of Abbreviations
+65
+Acknowledgement
+67
+Disclosure Statement
+67
+Source of Funding
+Management of Glaucoma (Second Edition)
+LEVELS OF EVIDENCE
+SOURCE: US / CANADIAN PREVENTIVE SERVICES TASK FORCE 2001
+In line with the current development in CPG methodology, the
+CPG Unit of MaHTAS is in the process of incorporating Grading
+Recommendations, Assessment, Development and Evaluation
+(GRADE) into its work process. The quality of each retrieved evidence
+and its effect size are carefully assessed/reviewed by the CPG
+Development Group. In formulating the recommendations, overall
+balances of the following aspects are considered in determining the
+strength of the recommendations:-
+• Overall quality of evidence
+• Balance of benefits versus harms
+• Values and preferences
+• Resource implications
+• Equity, feasibility and acceptability
+Level
+I
+II-1
+II-2
+II-3
+III
+Study design
+Evidence from at least one properly randomised controlled trial
+Evidence obtained from well-designed controlled trials without
+randomisation
+Evidence obtained from well-designed cohort or case-control
+analytic studies, preferably from more than one centre or
+group
+Evidence from multiple time series with or without intervention.
+Dramatic results in uncontrolled experiments (such as the
+results of the introduction of penicillin treatment in the 1940s)
+could also be regarded as this type of evidence
+Opinions of respected authorities based on clinical experience;
+descriptive studies and case reports; or reports of expert
+committees
+Management of Glaucoma (Second Edition)
+KEY RECOMMENDATIONS
+The following recommendations are highlighted by the CPG
+Development Group as the key recommendations that answer the
+main questions addressed in the CPG and should be prioritised for
+implementation.
+Recommendation 1
+• Risk factors* should be identified in the management of glaucoma.
+Recommendation 2
+• Population-based screening for glaucoma is not advocated.
+• Screening of glaucoma should be considered for patients with risk
+factors.
+Recommendation 3
+• Glaucoma diagnosis should be made based on combination of history
+(with presence of risk factors), ocular examination and investigation.
+Recommendation 4
+• Medical treatment in glaucoma should be individualised based on
+patient’s characteristics and drug factors, and adjusted according to
+target intraocular pressure (IOP).
+• Prostaglandin analogues should be used as first-line treatment in
+glaucoma.
+• Patient education should be given to patients with glaucoma. This
+includes benefits and side effects of treatment, proper instillation
+technique of eye drop and compliance to treatment.
+Recommendation 5
+• Laser iridotomy should be performed in primary angle closure
+disease when indicated.
+• Peripheral iridoplasty may be considered for initial treatment in acute
+angle closure.
+Recommendation 6
+• Intraoperative Mitomycin C during trabeculectomy should be used in
+glaucoma patients at risk of surgical failure.
+Recommendation 7
+• Glaucoma patients with blindness or low vision should be referred
+for vision rehabilitation which includes vocational, occupational and
+independent living.
+Management of Glaucoma (Second Edition)
+Recommendation 8
+• Ocular hypertension (OHT) patients should have comprehensive
+initial eye examination and assessment of risk factors for conversion
+to primary open angle glaucoma (POAG).
+ Central corneal thickness measurement should be performed.
+• Treatment of OHT should be based on the risk of conversion to
+POAG.
+Recommendation 9
+• Comprehensive eye examination and risk assessment should be
+performed in primary open angle glaucoma suspect.
+ Diurnal intraocular pressure fluctuation should be considered in
+the assessment.
+Management of Glaucoma (Second Edition)
+iv
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+GUIDELINES DEVELOPMENT
+The members of the Development Group (DG) for these Clinical
+Practice Guidelines (CPG) were from the Ministry of Health (MoH)
+and Ministry of Higher Education. There was active involvement of a
+multidisciplinary Review Committee (RC) during the process of the
+CPG development.
+The CPG update was done based on the CPG Management of Primary
+Open Angle Glaucoma, issued in 2008. In the update, the scope had
+been widened to include both primary open angle and angle closure
+glaucoma, and also selected conditions. A literature search was carried
+out using the following electronic databases: mainly Medline via Ovid
+and Cochrane Database of Systemic Reviews and others e.g. Embase,
+Pubmed and Guidelines International Network (refer to Appendix 1
+for Example of Search Strategy). The search was limited to literature
+published in the last ten years, on humans and in English. In addition, the
+reference lists of all retrieved literature and guidelines were searched to
+further identify relevant studies. Experts in the field were also contacted
+to identify further studies. All searches were conducted from 23 March
+2015 to 29 July 2015. Literature searches were repeated for all clinical
+questions at the end of the CPG development process allowing any
+relevant papers published before 31 January 2017 to be included.
+Future CPG updates will consider evidence published after this cut-off
+date. The details of the search strategy can be obtained upon request
+from the CPG Secretariat.
+References were also made to other CPGs on glaucoma such
+as Glaucoma: Diagnosis and Management of Chronic Open Angle
+Glaucoma and Ocular Hypertension (National Collaborating Centre for
+Acute Care, 2009), Primary Open-Angle Glaucoma PPP (American
+Academy of Ophthalmology, 2015), Terminology and Guidelines for
+Glaucoma 4th Edition (European Glaucoma Society, 2014) and Asia
+Pacific Glaucoma Guidelines Third Edition (Asian Pacific Glaucoma
+Society, 2016). The CPGs were evaluated using the Appraisal of
+Guidelines for Research and Evaluation (AGREE) II prior to them being
+used as references.
+A total of 16 clinical questions were developed under different sections.
+Members of the DG were assigned individual questions within these
+sections (refer to Appendix 2 for Clinical Questions). The DG
+members met 25 times throughout the development of these guidelines.
+All literature retrieved were appraised by at least two DG members using
+Critical Appraisal Skill Programme checklist, presented in evidence
+tables and further discussed in each DG meetings. All statements and
+Management of Glaucoma (Second Edition)
+recommendations formulated after that were agreed upon by both the
+DG and RC. Where evidence was insufficient, the recommendations
+were made by consensus of the DG and RC. This CPG is based largely
+on the findings of systematic reviews, meta-analyses and clinical trials,
+with local practices taken into consideration.
+The literature used in these guidelines were graded using the US/
+Canadian Preventive Services Task Force Level of Evidence (2001),
+while the grading of recommendation was done using the principles of
+GRADE (refer to the preceding page). The writing of the CPG follows
+strictly the requirement of AGREE II.
+On completion, the draft of the CPG was reviewed by external
+reviewers. It was also posted on the MoH Malaysia official website for
+feedback from any interested parties. The draft was finally presented
+to the Technical Advisory Committee for CPG, and the HTA and
+CPG Council MoH Malaysia for review and approval. Details on the
+CPG development by MaHTAS can be obtained from Manual on
+Development and Implementation of Evidence-based Clinical Practice
+Guidelines published in 2015 (available at http://www.moh.gov.my/
+index.php/pages/view/117).
+Management of Glaucoma (Second Edition)
+OBJECTIVES
+To provide evidence-based recommendations in the management of
+glaucoma on the following aspects:
+• screening
+• diagnosis
+• treatment
+CLINICAL QUESTIONS
+Refer to Appendix 2
+TARGET POPULATION
+i.
+Inclusion Criteria
+• Adult patients (>18 years old) with:
+ primary open angle glaucoma
+ primary angle closure glaucoma
+ selected conditions such as ocular hypertension, glaucoma
+suspect, steroid-induced glaucoma, neovascular glaucoma
+and post-refractive surgery glaucoma
+ii. Exclusion Criteria
+• Secondary open angle glaucoma including pseudo exfoliation
+or pigment dispersion, primary congenital, infantile or childhood
+glaucoma
+TARGET GROUP/USERS
+This document is intended to guide those involved in the management
+of glaucoma in primary and secondary/tertiary care including:
+i.
+Doctors
+ii. Optometrists
+iii. Allied health professionals
+iv. Trainees and medical students
+v. Patients and their advocates
+vi. Professional societies
+HEALTHCARE SETTINGS
+Primary and secondary/tertiary care settings
+Management of Glaucoma (Second Edition)
+GUIDELINES DEVELOPMENT GROUP
+Chairperson
+Dr. Jelinar Dato’ Mohamed Noor JMW
+Consultant Ophthalmologist
+Hospital Kuala Lumpur, Kuala Lumpur
+Members (alphabetical order)
+vii
+Associate Professor Dr. Azhany Yaakub
+Senior Lecturer & Ophthalmologist
+Universiti Sains Malaysia, Kelantan
+Dr. Farrah Jaafar
+Ophthalmologist
+Hospital Sultanah Bahiyah, Kedah
+Associate Professor
+Dr. Jemaima Che Hamzah
+Head of Department & Consultant
+Ophthalmologist
+Universiti Kebangsaan Malaysia,
+Kuala Lumpur
+Professor
+Dr. Liza Sharmini Ahmad Tajudin
+Head of Department & Consultant
+Ophthalmologist,
+Universiti Sains Malaysia, Kelantan
+Ms. Loh Lai Yee
+Pharmacist
+Hospital Melaka
+Dr. Mohd. Aminuddin Mohd. Yusof
+Head, Clinical Practices Guidelines Unit
+Health Technology Assessment Section,
+Ministry of Health, Putrajaya
+Dr. Mohd Aziz Husni
+Consultant Ophthalmologist
+Hospital Selayang, Selangor
+Dr. Mohamad Aziz Salowi
+Ophthalmologist
+Hospital Selayang, Selangor
+Dr. Norhalwani Husain
+Ophthalmologist
+Hospital Raja Perempuan Zainab II,
+Kelantan
+Associate Professor
+Dr. Norlina Mohd Ramli
+Senior Lecturer & Consultant
+Ophthalmologist
+Universiti Malaya, Kuala Lumpur
+Dr. Ong Poh Yan
+Consultant Ophthalmologist
+Hospital Selayang, Selangor
+Dr. Rosdina Abd Kahar
+Family Medicine Specialist
+Klinik Kesihatan Sungai Mati, Tangkak,
+Johor
+Ms. Siti Khadijah Osman
+Optometrist
+Hospital Kuala Lumpur, Kuala Lumpur
+Associate Professor
+Dr. Sushil Kumar Vasudevan
+Senior Lecturer & Consultant
+Ophthalmologist
+Universiti Teknologi MARA, Selangor
+Dr. Zainora Mohammed
+Senior Lecturer & Optometrist
+Universiti Kebangsaan Malaysia
+Kuala Lumpur
+Management of Glaucoma (Second Edition)
+REVIEW COMMITTEE
+The draft guidelines were reviewed by a panel of experts from both
+public and private sectors. They were asked to comment primarily on
+the comprehensiveness and accuracy of the interpretation of evidence
+supporting the recommendations in the guidelines.
+viii
+Chairperson
+Dato’ Dr. Ahmad Mt Saad
+Senior Consultant Ophthalmologist
+Hospital Sultanah Bahiyah, Kedah
+Members
+Dr. Elias Hussein
+Head of Department & Senior Consultant Ophthalmologist
+Hospital Kuala Lumpur
+Dr. Fang Seng Kheong
+Consultant Ophthalmologist &
+President, Malaysian Society of Ophthalmology
+Dr. Junainah Sabirin
+Deputy Director
+Health Technology Assessment Section (MaHTAS)
+Ministry of Health, Putrajaya
+Associate Professor Dr. Mimiwati Zahari
+Consultant Ophthalmologist
+Universiti Malaya, Kuala Lumpur
+Dr. Nor Fariza Ngah
+Senior Consultant Ophthalmologist &
+National Advisor of Ophthalmology Services
+Hospital Shah Alam, Selangor
+Professor Dr. Tong Seng Fah
+Consultant Family Medicine Specialist
+Universiti Kebangsaan Malaysia, Kuala Lumpur
+Management of Glaucoma (Second Edition)
+ix
+EXTERNAL REVIEWERS (in alphabetical order)
+The following external reviewers provided feedback on the draft:
+Professor Dr. Abdul Mutalib Othman
+Consultant Ophthalmologist & Medical Lecturer
+Faculty of Medicine, Universiti Sultan Zainal Abidin, Terengganu
+Dr. Augusto Azuara-Blanco
+Professor of Ophthalmology, Queen’s University Belfast,
+Honorary NHS Consultant Ophthalmologist, BHSCT,
+Institute of Clinical Sciences,
+Belfast, United Kingdom
+Dr. Chieng Lee Ling @ Lee Ong
+General Ophthalmologist
+Hospital Miri, Sarawak
+Associate Professor Dr. Syril Dorairaj
+Consultant in Ophthalmology, Glaucoma & Anterior Segment Surgery,
+Director, International Council of Ophthalmology Fellowship,
+Mayo Clinic, Florida, United States of America
+Dr. Ivan Goldberg
+Clinical Associate Professor, Discipline of Ophthalmology, University of Sydney,
+Head, Glaucoma Unit, Sydney Eye Hospital,
+Director, Eye Associates,
+Sydney, Australia
+Ms. Noor Zahirah Husain
+Head of Optometrist Profession of Ministry of Health
+Hospital Kuala Lumpur, Kuala Lumpur
+Professor Emerita Dr. Norhani Mohidin
+Head of Pusat Pengajian Optometri
+Fakulti Sains Kesihatan, Universiti Teknologi MARA, Selangor
+Dr. Nurhayati Isa
+Consultant Family Medicine Specialist
+Klinik Kesihatan Padang Rengas, Kuala Kangsar, Perak
+Dr. Vivian Gong Hee Ming
+Consultant Ophthalmologist
+Eye Clinic, Gleneagles Penang, Pulau Pinang
+Management of Glaucoma (Second Edition)
+x
+ALGORITHM 1. CLASSIFICATION OF GLAUCOMA BASED ON
+ANGLE CONFIGURATION
+• POAG = primary open angle glaucoma
+• OHT = ocular hypertension
+• NTG = normal tension glaucoma
+• PAC = primary angle closure
+• PACG = primary angle closure glaucoma
+Open
+Primary
+OHT
+Secondary
+Close/Narrow
+Primary
+PAC suspect
+PAC
+PACG
+Secondary
+Angle
+Configuration
+POAG
+suspect
+POAG
+NTG
+Management of Glaucoma (Second Edition)
+ALGORITHM 2. CLASSIFICATION OF PRIMARY OPEN ANGLE
+GLAUCOMA/OCULAR HYPERTENSION/
+PRIMARY OPEN ANGLE GLAUCOMA SUSPECT
+*ONH and/or peripapillary RNFL appearance and VF changes are
+suggestive of, but not definitive for glaucoma
+Modified: National Collaborating Centre for Acute Care. Glaucoma:
+Diagnosis and management of chronic open angle glaucoma
+and ocular hypertension. London: RCS; 2009
+Any
+Damage
+Defects
+Any
+Suspicious*
+>21 mmHg
+Normal
+Normal
+OHT
+POAG
+suspect
+POAG
+High IOP
+Normal IOP
+POAG suspect
+OHT
+POAG
+Normal/suspicious*
+IOP
+ONH/RNF
+VF
+Assessment
+xi
+IOP = intraocular pressure
+ONH = optic nerve head
+RNFL = retinal nerve fiber layer
+VF = visual field
+OHT = ocular hypertension
+POAG = primary open angle glaucoma
+Management of Glaucoma (Second Edition)
+ALGORITHM 3. CLASSIFICATION OF PRIMARY ANGLE CLOSURE
+SUSPECT/PRIMARY ANGLE CLOSURE/
+PRIMARY ANGLE CLOSURE GLAUCOMA
+*ONH and/or peripapillary RNFL appearance is suggestive of, but not
+definitive for glaucoma
+Assessment
+Normal
+Normal
+Normal
+IOP
+ONH
+VF
+PACS
+ITC
+Yes
+(appositional)
+>21 mmHg
+Normal/
+suspicious*
+Normal
+PAC
+Yes
+(PAS)
+>21 mmHg
+Damage
+Defects
+PACG
+Yes
+(PAS)
+xii
+ITC = iridotrabecular contact
+IOP = intraocular pressure
+ONH = optic nerve head
+VF = visual field
+PAS = peripheral anterior synechiae
+PACS = primary angle closure suspect
+PAC = primary angle closure
+PACG = primary angle closure glaucoma
+Management of Glaucoma (Second Edition)
+ALGORITHM 4. SETTING THE TARGET IOP
+*Consider central corneal
+Source: European Glaucoma Society. Terminology and Guidelines for
+Glaucoma (4th Edition). Savona: Publicomm; 2014
+xiii
+EARLY
+SHORT
+YES
+LOW
+LONG
+ADVANCED
+SLOW
+NO
+HIGH
+FAST
+Life
+Expectancy
+Rate of
+Progression
+Additional
+Risk
+Factors
+Untreated
+IOP*
+Higher
+target
+IOP
+Lower
+target
+IOP
+Glaucoma
+Damage
+The above factors need to be considered as a whole
+in deciding the individual target pressure required.
+Management of Glaucoma (Second Edition)
+ALGORITHM 5. ADJUSTMENT OF TARGET IOP
+Modified: European Glaucoma Society. Terminology and Guidelines for
+Glaucoma (4th Edition). Savona: Publicomm; 2014
+xiv
+Determine target IOP
+Prescribe treatment accordingly
+Target IOP
+achieved in 6 - 8
+weeks
+Follow-up
+4 - 6 months
+Progression
+Consider lower
+target IOP
+Follow-up
+4 - 6 months
+Target IOP
+achieved in 6 - 8
+weeks
+Yes
+No
+Switch/add second
+medication
+Referral to Glaucoma
+specialist
+Yes
+No
+Yes
+No
+Management of Glaucoma (Second Edition)
+1
+1. INTRODUCTION
+Glaucoma is a chronic eye disease that damages the optic nerve,
+and can result in serious vision loss and irreversible blindness. It
+is the second leading cause of blindness worldwide.1 Individuals
+with glaucoma are often asymptomatic and present at a late stage.
+Blindness from glaucoma is preventable if treatment is instituted early.
+The number of persons estimated to be blind as a result of primary
+glaucoma is 4.5 million, accounting for slightly more than 12% of all
+global blindness.2 In Malaysia, the 2014 National Eye Survey II showed
+an estimated prevalence of blindness in those aged 50 and above was
+at 1.2% [presenting visual acuity (VA) <3/60 in the better eye] of which
+6.6% was caused by glaucoma.3
+As with any other chronic diseases, the management of glaucoma
+may be a burden on the economy. The direct and indirect economic
+impact of glaucoma on the population has been studied. The direct
+cost estimates for approximately two million citizens of United States of
+America and 300,000 citizens of Australia with glaucoma are USD2.99
+billion4 and AUD144.2 million5 respectively. However, the true cost is
+probably higher as about half of the patients with glaucoma are unaware
+they have the disease.6 - 9
+Resource use and direct cost of glaucoma management increase
+with worsening disease. The average direct cost of treatment ranges
+from USD623 per patient/year for glaucoma suspects or patients with
+early stage disease to USD2511 per patient/year for patients with endstage disease. Medication costs composed the largest proportion of
+total direct cost for all stages of disease (24 - 61%).10 A similar trend
+is seen in Europe where resource utilisation and direct medical costs
+of glaucoma management increase with worsening disease severity.
+The direct cost of treatment is increased by an estimated €86 for each
+incremental step ranging from €455 per patient/year for stage 0 to €969
+per patient/year for stage IV disease. Medication costs range from 42%
+to 56% of total direct cost for all stages of disease.11
+In East Asia, primary angle closure glaucoma (PACG) is an important
+cause of blindness. The cost of managing acute PACG in Singapore,
+which affects 12.2 per 100,000/year in those aged 30 and older is
+estimated annually to be USD261,742.12
+The first edition of the Clinical Practice Guideline (CPG) published in
+2008 was confined to POAG. Many new developments have emerged
+which led to variation in clinical practice. Based on this, the CPG has
+been updated and the scope widened to include PACG and special
+conditions. It aims to guide healthcare providers on evidence-based
+management of glaucoma in the Malaysian healthcare setting.
+Management of Glaucoma (Second Edition)
+2
+1.1 Epidemiology
+Glaucoma is the leading cause of irreversible blindness. The global
+prevalence of POAG is 3.05% (95% CI 1.69 to 5.27) and PACG 0.50%
+(95% CI 0.11 to 1.36).13, level III Overall prevalence of glaucoma in Asia
+is 3.54%. POAG is the predominant glaucoma subtype, followed by
+PACG and secondary glaucoma with prevalence of 2.34% (95% CI
+0.96 to 4.55), 0.73% (95% CI 0.18 to 1.96%) and 0.47% (95% CI 0.09
+to 1.48) respectively.14, level III
+Across ethnicity, people of African origin have the highest prevalence of
+glaucoma (6.11%, 95% CI 3.83 to 9.13) and POAG (5.4%, 95% CI 3.17
+to 8.27). While Asians have the highest prevalence of PACG (1.2%,
+95% CI 0.46 to 2.55).13, level III
+1.2 Definition and Classification
+• Glaucoma is a chronic disease with progressive optic neuropathy
+characterised by morphological changes of the optic nerve head
+(ONH) and retinal nerve fibre layer (RFNL) with corresponding visual
+field (VF) defect.15
+• In primary glaucoma, there are no identifiable causes.
+• Based on the angle configuration, glaucoma is further divided into
+open angle and closed angle/angle closure.
+ In both types, there are risk factors i.e. ocular hypertension
+(OHT), primary open angle glaucoma (POAG) suspect, primary
+angle closure suspect (PACS) and primary angle closure (PAC).
+Refer to Algorithm 1.
+• Primary open angle disease can be classified as:
+ OHT - presence of high IOP without glaucomatous optic
+neuropathy (GON) and VF changes.
+ POAG suspect - presence of normal IOP with suspicious ONH
+and/or VF changes.
+ POAG - presence of GON with corresponding VF defect.
+Management of Glaucoma (Second Edition)
+3
+Refer to Algorithm 2 on Classification of Primary Open Angle
+Glaucoma/Ocular Hypertension/Primary Open Angle Glaucoma
+Suspect.
+• Primary angle closure disease can be classified as:
+ primary angle closure suspect (PACS) - presence of appositional
+contact between peripheral iris and posterior trabecular
+meshwork (TM)
+ primary angle closure (PAC) - presence of occludable
+drainage angle with evidence of peripheral anterior synechiae
+(PAS), elevated intraocular pressure (IOP), iris whorling,
+glaukomflecken, lens opacities or excessive pigment deposition
+on TM without glaucomatous optic nerve damage
+ primary angle closure glaucoma (PACG) - PAC with evidence of
+glaucomatous optic nerve damage
+Refer to Algorithm 3 on Classification of Primary Angle Closure
+Suspect/Primary Angle Closure/Primary Angle Closure Glaucoma.
+Modified: Foster PJ, Buhrmann R, Quigley HA, et al. The definition and classification
+of glaucoma in prevalence surveys. Br J Ophthalmol. 2002;86(2):238-42
+PAC and PACG can present with or without acute angle closure (AAC).
+In Malaysian population, more than half do not present with
+AAC.16 - 17, level III
+Management of Glaucoma (Second Edition)
+4
+2. RISK FACTORS
+The identification of risk factors for POAG and PACS/PAC/PACG is
+important in their individual disease management.
+2.1 Risk Factors for Primary Open Angle Glaucoma
+2.1.1 Non-Ocular Factors
+a. Advancing/older age
+• Advancing age is a risk of POAG.18 - 20, level II-2
+• The overall prevalence of open angle glaucoma (OAG) by
+age was 0.3 (95% CI 0.1 to 0.5) in people aged 40 years and
+increased steeply to 3.3% (95% CI 2.5 to 4.0) in people aged 70
+years.21, level I
+b. Ethnicity/race
+• Individuals of West African, Afro-Caribbean or Hispanic/Latino
+ethnicity have a higher prevalence of POAG.22
+c. Positive family history among first-degree relatives (parents or
+siblings)
+• Multiple genetic factors are likely to play a role.15
+• Positive family history of glaucoma is associated with 3-fold
+increased risk of POAG.21, level I; 23, level III
+• Individuals with family history of glaucoma among siblings are
+four times more likely to develop glaucoma compared to two times
+for those whose parents have glaucoma. However, individuals
+whose children had a history of glaucoma are not at risk.22
+d. Obstructive Sleep Apnoea Syndrome
+• Obstructive Sleep Apnoea (OSA) syndrome is associated with
+significantly increased risk of glaucoma.24, level lll; 25, level II-2; 26, level lll; 27, level II-2
+e. Diabetes mellitus
+• Diabetes mellitus (DM) is associated with an increased risk of
+glaucoma (RR=1.37, 95% CI 1.20 to 1.57).28, level II-2
+2.1.2 Ocular factors
+a. Intraocular pressure
+• Elevated IOP significantly increases risk of POAG.19 - 20, level II-2;
+23, level III
+• The diurnal variation of IOP is greater in glaucoma patients
+compared with normal individuals.22
+• Asymmetry of IOP by ≥3 mmHg between the two eyes is
+suspicious of glaucoma.22
+Management of Glaucoma (Second Edition)
+5
+b. Central Corneal Thickness
+• Thinner central corneal thickness (CCT) is associated significantly
+with risk of glaucoma.19 - 20, level II-2
+c. Myopia
+• Myopia is significantly more prevalent in patients with POAG.23, level III
+• Myopic refractive error > -6 D may be a risk factor associated
+with glaucomatous optic neuropathy.29, level III
+d. Corneal hysteresis
+• Corneal hysteresis is a risk factor for progression of glaucoma.
+30, level II-2; 31, level III
+2.1.3 Other Possible Risk Factors
+• Higher systolic and diastolic blood pressure23, level III
+• Higher systolic perfusion pressure23, level III
+• Larger vertical CDR19 - 20, level II-2
+• Larger vertical CDR asymmetry19, level II-2
+• Higher pattern standard deviation (PSD) on Humphrey VF test
+19 - 20, level II-2
+• Male gender18, level II-2
+2.2 Risk Factors for Primary Angle Closure Suspect/Primary
+Angle Closure/Primary Angle Closure Glaucoma
+2.2.1 Non-Ocular Factors
+a. Advancing/older age
+• Increasing age is a risk factor for angle closure disease.32 - 34, level III
+b. Positive family history
+• OR=1.65, 95% CI 1.16 to 2.3433, level III
+2.2.2 Ocular Factors
+a. Elevated intraocular pressure
+• Increased IOP is a risk factor for PACG.32 - 33, level III
+b. Biometric measurement
+These include:
+• Decreasing axial length34, level III
+• Decreasing anterior chamber depth34, level III
+• Increased choroidal thickness35, level III
+2.2.3 Other possible risk factors
+• DM (OR=3.18, 95% CI 1.34 to 7.58)32, level III
+• Female (OR=2.07, 95% CI 1.09 to 3.9)32, level III
+• Nuclear cataract (OR=1.23, 95% CI 1.01 to 1.48)34, level III
+Management of Glaucoma (Second Edition)
+6
+Recommendation 1
+• Risk factors* should be identified in the management of glaucoma.
+*Refer to the preceding text.
+3. SCREENING
+Screening of glaucoma aims to identify individuals at risk or early stage
+of the disease to prevent or reduce blindness.
+There is no strong evidence to advocate population-based screening
+for glaucoma.22; 36, level I; 37, level III
+However, screening should be considered for higher risk groups
+at the age of 40 years and be carried out by trained healthcare
+providers.21, level I; 22; 37, level III
+There is no single test or a group of tests that is accurate for
+glaucoma screening.38, level II-2 However, combination of optic disc (OD)
+assessment, RNFL assessment, tonometry and VF may be used.
+Recommendation 2
+• Population-based screening for glaucoma is not advocated.
+• Screening of glaucoma should be considered for patients with risk
+factors especially:
+ age >40 years
+ family history of glaucoma
+ diabetes mellitus
+Refer to Chapter on Risk factors for further details.
+Management of Glaucoma (Second Edition)
+7
+4. DIAGNOSIS
+• Most glaucoma patients are asymptomatic. Their VA can remain
+normal even at advanced stages of the disease. As such, they are
+usually diagnosed during routine visit to eye care professionals for
+other eye problems.
+The diagnosis of glaucoma is based on history (including presence
+of risk factors) and eye examination (ONH, RNFL, VF, IOP and
+gonioscopy). Certain investigations may help in the diagnosis of
+glaucoma. Confirmation of the diagnosis may require more than one
+visit.22
+4.1 History22
+4.1.1 Symptoms
+• Asymptomatic
+• Reduced vision (acute and/or advanced glaucoma)
+• Ocular pain, redness, haloes)
+• Headache, nausea, vomiting
+• VF defect
+4.1.2 Ocular history
+• History of ocular surgery, ocular trauma and use of topical
+steroids
+• Refractive status; myopia (POAG), hyperopia >3 Diopter (angle
+closure)
+• Refractive surgery
+4.1.3 Systemic history
+• Systemic history of DM, hypertension, migraine, Raynauld’s
+phenomenon and use of systemic steroids
+• OSA syndrome
+4.1.4 Family history of glaucoma
+4.1.5 Other risk factors (refer to Chapter 2)
+4.2 Examination22
+4.2.1 Visual acuity
+• Usually normal but may be reduced in acute or advanced
+glaucoma
+mainly in acute angle closure
+Management of Glaucoma (Second Edition)
+8
+4.2.2 Pupil
+• Mid-dilated pupils (in AAC)
+• Posterior synechiae
+• Relative afferent pupillary defect in asymmetrical cases
+4.2.3 Anterior chamber and lens
+• Depth of anterior chamber (shallow in patient with PAC)
+• PAS
+• Iris whorling and/or atrophy
+• Anterior subcapsular opacities (glaukomflecken)
+• Cataract
+4.2.4 Intraocular pressure measurement
+• IOP should be measured preferably with Goldmann applanation
+tonometry (GAT) which is the gold standard.
+• In non-ambulatory patients and those who have corneal disease,
+alternative tonometry such as tonopen, rebound tonometer etc.
+can be used.
+• CCT needs to be measured with a pachymeter.
+• Time of measurement should be recorded as IOP varies at
+different times of the day; peaks are often before noon.
+• Acute angle closure (AAC) is diagnosed when IOP >21 mmHg with
+occludable angle in the presence of:
+1. any two of the following symptoms
+ ocular and periocular pain
+ nausea and/or vomiting
+ history of blurring of vision and haloes
+AND
+2. any three of the following signs
+ conjunctival injection
+ corneal epithelial oedema
+ mid-dilated unreactive pupil
+ shallow anterior chamber
+4.2.5 Assessment of the angle
+• Slit Lamp Examination of angles (Van Herick test, a slit lamp
+estimation of the angle depth - refer to Appendix 3)
+• Gonioscopy
+ Evaluation of the angle is needed to determine the type of
+glaucoma.
+ The angle is considered open when gonioscopic findings
+(without indentation) show grades III or IV based on Shaffer’s
+classification and it is considered narrow at grade II or less.
+Management of Glaucoma (Second Edition)
+9
+Refer to Table 1 on Gonioscopic chart and grading system.
+ Gonioscopy should always be performed in a dark room with
+a narrow slit beam, making sure that the beam does not enter
+the pupil which can cause the pupil to constrict.39, level III
+ Indentation/dynamic gonioscopy is essential to:
+- differentiate appositional from synechial angle closure in
+patients with suspected angle closure
+- detect plateau iris configuration
+Refer to Appendix 4 on Indentation/Dynamic Gonioscopy.
+Table 1. Gonioscopic chart and grading system for gonioscopic
+findings (without indentation)
+*TM=trabecular meshwork
+Source: Asia-Pacific Glaucoma Society. Asia Pacific Glaucoma Guidelines (Third
+Edition). Amsterdam: Kugler Publication; 2016
+4.2.6 Assessment of the optic disc and retinal nerve fibre layer
+• Assessment should be done through a dilated pupil unless
+contraindicated. It can be done with:
+ slit lamp biomicroscopy using high power condensing lens
+(recommended method)
+ stereoscopic OD photography
+ red free illumination (either on slit lamp or photography)
+ direct ophthalmoscopy (limited to OD assessment)
+• The OD should be examined for (refer to Appendix 4):
+ OD size
+ increase in the vertical CDR*
+ Inferior Superior Nasal Temporal (ISNT) rule (whereby the
+thickest neuro-retinal rim (NRR) is inferior and thinnest is
+temporal)
+ NRR notching or acquired pit of the OD*
+ asymmetry CDR between OD >0.2*
+ OD haemorrhage
+ nasalisation and bayonetting of retinal vessels
+ peripapillary beta zone atrophy
+• RNFL should be examined for thinning or loss (slit/wedge
+defects)**. Refer to Appendix 5.
+*features that are indicated for referral by primary care providers to
+ophthalmology service
+**feature seen in fundus photo for referral by primary care providers
+to ophthalmology service
+Grade
+Shaffer
+Modified Schaffer
+0
+Closed
+Schwalbe’s line
+is not visible
+I
+10º
+Schwalbe’s
+line is visible
+II
+20 º
+Anterior
+*TM is
+visible
+III
+30 º
+Scleral
+spur is
+visible
+IV
+40 º
+Ciliary
+band is
+visible
+Management of Glaucoma (Second Edition)
+10
+4.3 Investigation
+4.3.1 Automated visual field analysis*
+• Standard Automated Perimetry (SAP)
+ Automated static threshold perimetry is currently the gold
+standard for VF assessment.
+ Commonly used threshold algorithms are Swedish Interactive
+Threshold Algorithm (SITA) Standard and SITA Fast in the
+Humphrey perimeter. Other available algorithms such as
+“Dynamic Strategy” in the Octopus perimeter may be used.
+ For those with very advanced disease, it may be necessary to
+consider:
+- Goldmann size V stimulus rather than size III
+- a perimetric strategy which focuses more closely on the
+remaining area of VF (Octopus M1 or M2 or the Humphrey 10-2)
+• Non-conventional perimetry
+ There is insufficient evidence that Short Wave Automated
+Perimetry and Frequency Doubling Threshold Perimetry has
+any advantage over SAP.15
+*In VF assessment, the tests must be reliable and reproducible.
+VF defects suggestive of POAG are:
+• classical defects - paracentral scotoma, nasal step and arcuate
+scotoma; temporal wedge is an uncommon feature
+• early defects on SAP
+ Glaucoma hemifield test (GHT) graded as outside normal limits
+ a minimum of three clustered points (non-edge points) with
+significantly depressed sensitivity, of which one should have a
+significance of p<1% on the pattern deviation plot
+ p-value of PSD <5%
+4.3.2 Optic nerve head and retinal imaging
+• In centres with Optical Coherence Tomography (OCT) machines,
+global RNFL is the best parameter to detect early glaucomatous
+structural damage.40, level III
+• Confocal scanning laser ophthalmoscopy (CSLO) may be used
+to detect structural change and the rate of rim area loss.41, level I
+4.3.3 Central Corneal Thickness
+• Mean CCT measurement is 540 ± 30 µm (mean ± standard
+deviation in µm).15
+• CCT affects IOP measurement. Thus, measurement of CCT is
+important as it aids in patient’s management.22 However there is
+no validated conversion table.
+• Thin CCT will result in falsely low IOP readings and vice versa.22
+4.3.4 Anterior Segment Optical Coherence Tomography
+• Anterior Segment Optical Coherence Tomography (AS-OCT)
+is a rapid non-contact method of imaging the angle structures
+anterior to the ciliary body.
+Management of Glaucoma (Second Edition)
+11
+• AS-OCT tends to detect more angle closure compared with
+gonioscopy (gold standard).42, level III
+4.4 Staging of Glaucoma
+The staging of glaucoma is based on SAP as shown in Table 2.
+Table 2. Staging of Glaucoma
+Source: Mills RP, Budenz DL, Lee PP et al. Categorizing the stage of glaucoma from
+pre-diagnosis to end-stage disease. Am J Ophthalmol. 2006; 141(1):24-30
+Stage: Humphrey MD score
+Stage 0: No or Minimal Defect
+Stage 1: Early Defect
+< -6.00 dB
+Stage 2: Moderate Defect
+≥ -6.00 to -12.00 dB
+Stage 3: Advanced Defect
+≥ -12.01 to -20.00 dB
+Stage 4: Severe Defect
+≥ -20.00 dB
+Stage 5: End-Stage Disease
+Additional Criteria
+(at least one of the listed criteria must apply)
+• Does not meet any criteria for Stage 1
+• A cluster of ≥3 points on the pattern
+deviation plot in an expected location of the
+VF depressed below the 5% level, at least
+one of which is depressed below the 1%
+level
+• Corrected PSD/PSD significant at p<0.05
+• GHT outside normal limits
+• ≥25% but <50% of points on the pattern
+deviation plot depressed below the 5%
+level, and ≥15% but <25% of points
+depressed below the 1% level
+• At least one point within the central 5° with
+sensitivity of <15 dB but no points in the
+central 5° with sensitivity of <0 dB
+• Only one hemifield containing a point with
+sensitivity <15 dB within 5° of fixation
+• ≥50% but <75% of points on pattern
+deviation plot depressed below the 5% level
+and ≥25% but <50% of points depressed
+below the 1% level
+• Any point within the central 5° with
+sensitivity <0 dB
+• Both hemifields containing a point(s) with
+sensitivity <15 dB within 5° of fixation
+• ≥75% of points on pattern deviation plot
+depressed below the 5% level and ≥50%
+but <50% of points depressed below the
+1% level
+• At least 50% of points within the central 5°
+with sensitivity <0 dB
+• Both hemifields containing >50% of points
+with sensitivity <15 dB within 5° of fixation
+• Unable to perform HVF in worst eye due
+to central scotoma or worst eye VA 6/60 or
+worse due to POAG.
+• Fellow eye may be at any stage.
+Management of Glaucoma (Second Edition)
+12
+Recommendation 3
+• Glaucoma diagnosis should be made based on a combination of
+history (with presence of risk factors), ocular examination and
+investigation.
+ Essential ocular examination includes intraocular pressure
+measurement, optic disc assessment and gonioscopy.
+ Essential investigations include reliable visual field test.
+Management of Glaucoma (Second Edition)
+13
+5. TREATMENT
+The aim of glaucoma treatment is to preserve maximal functional vision
+throughout a patient’s lifetime without sacrificing his/her quality of life
+(QoL) and at a sustainable cost. QoL is affected by visual function,
+treatment regime and its adverse effects, financial burden of the
+treatment and the psychological effect of having a potentially blinding
+disease.
+5.1 Principles of Treatment
+Currently, lowering of IOP is the only proven efficient approach in
+preventing progression of glaucoma.22 The risk of progression is
+decreased by 10% with each mmHg of IOP reduction from baseline to
+the first follow-up visit (HR=0.90 per mmHg decrease, 95% CI 0.86 to
+0.94).43, level I IOP lowering can be achieved by either medication, laser
+treatment, surgery or any combination of these modalities.
+Target IOP is an estimate of mean IOP at which further glaucomatous
+damage is likely to be prevented. It should be tailored to individual
+patients and may be adjusted during the course of the disease. It is set
+based on the following factors:22
+• pre-treatment IOP
+• stage of optic nerve damage and VF defects
+• rate of glaucoma progression
+• age, life expectancy and visual requirements of the patient
+• presence of glaucoma risk factors
+Refer to Algorithm 5 on Setting the Target IOP.
+In ocular hypertension (OHT), a treatment target IOP of ≤24 mmHg and
+IOP reduction of ≥20% from baseline is recommended.44, level I
+In established glaucoma:
+• a 25% IOP reduction from baseline is protective against
+progression in early (mild) glaucoma43, level I
+• non-progression is seen in mild to moderate glaucoma with a
+mean IOP of 16.5 mmHg45, level I
+• an IOP of >14 mmHg is associated with greater worsening of VF
+defect in advanced stage46, level II-2
+• a 30% IOP reduction from baseline is protective against
+progression in NTG47, level I
+• non-progression is seen in mild to moderate PACG with IOP <12
+mmHg in a local Malaysian population48, level II-2
+Management of Glaucoma (Second Edition)
+14
+Based on the above findings and existing guidelines,15; 49 the following
+target IOP is suggested by the CPG DG (refer to Table 3).
+Table 3. Suggested target IOP according to stage of glaucoma
+• Target IOP in glaucoma
+ should be individualised.
+ can be adjusted throughout the management of the condition*
+*Refer to Algorithm 5 on Setting the Target IOP.
+In AAC, the aims of treatment are to lower the IOP urgently and relieve
+the acute symptoms. These are achieved by multiple modalities. Refer
+to Appendix 6.
+5.2 Medical Treatment
+Medical treatment is usually the initial treatment of choice in glaucoma.
+It includes the use of topical and systemic anti-glaucoma medications
+that increase aqueous outflow, reduce aqueous production or both.
+• Criteria for prescribing anti-glaucoma medications are:22
+ patient’s characteristics (stage of glaucoma, age, risk factors,
+co-morbidities, compliance, psychological and socio-economic
+status)
+ drug factors (efficacy, safety, dosing regimen, preservative/nonpreservative, cost and availability of the drug)
+There are six main pharmacologic classes of anti-glaucoma medications
+which can be used as monotherapy or in combination therapy. They
+are:
+• prostaglandin analogues
+• beta-blockers
+• adrenergic agonists
+• carbonic anhydrase inhibitors (CAIs)
+• cholinergic agents
+• osmotic agents
+Stage of glaucoma
+OHT (if decision is made
+to treat)
+Early (mild) disease
+Moderate disease
+Advanced disease
+Target IOP
+≤24 mmHg with reduction of at least 20% from
+baseline IOP
+≤20 mmHg with reduction of at least 25% from
+baseline lOP
+≤17 mmHg with reduction of at least 30% from
+baseline lOP
+≤I4 mmHg with reduction of at least 30% from
+baseline lOP
+Management of Glaucoma (Second Edition)
+15
+5.2.1
+Prostaglandin analogues
+Prostaglandin analogues are the first choice/first-line medications
+in glaucoma treatment. They have the highest IOP lowering effect
+and minimal systemic side effects among all topical anti-glaucoma
+medications. Their once daily dosing enhances compliance.22
+In a good meta-analysis of high quality RCTs, bimatoprost was
+significantly more efficacious in lowering IOP compared with latanoprost
+and travoprost at different time points in a day for POAG and OHT at
+1 - 6 months follow-up.50, level I The results on efficacy were supported by
+three meta-analysis conducted after that.51 - 53, level I
+A meta-analysis of 15 RCTs on normal tension glaucoma showed that
+prostaglandin analogues (latanoprost and bimatoprost) were the most
+significantly efficacious IOP-lowering medications compared with other
+medications on short-term follow-up (0.5 - 3 months).54, level I
+In chronic angle closure glaucoma (or PACG), prostaglandin analogues
+(latanoprost, travoprost and bimatoprost) are significantly efficacious
+in lowering IOP from baseline at 1 - 3 months and the IOP reduction is
+greater than timolol.55, level I
+In terms of side effects, the incidence of hyperaemia is significantly more
+in bimatoprost compared with latanoprost and travoprost.50, level I; 56, level I
+5.2.2
+Beta-blockers
+Beta-blockers are commonly used as anti-glaucoma medications.
+Currently, they are used as either first- or second-line medications in
+patients with no contraindications. There are two types of beta-blocker
+available which are selective and non-selective agents.
+Beta-blockers are efficacious as monotherapy51, level I; 54, level I; 55 - 57, level I
+and adjunctive therapy58, level I in all types of glaucoma.
+Topical beta-blockers can be the first-line medications when considering
+medical treatment of glaucoma in pregnancy. There is no significant
+difference in the risk of low birth weight infants between mothers
+prescribed with beta-blockers and those in the comparison cohort
+(OR=1.48, 95% CI 0.86 to 2.56).59, level III
+• Beta-blockers are contraindicated in individuals with:
+ respiratory problems such as asthma and chronic obstructive
+pulmonary disease
+ cardiac problems such heart block, cardiac failure and
+bradycardia
+• Important systemic side effects of beta-blockers are bronchospasm,
+bradycardia, cardiac failure and syncope.
+Management of Glaucoma (Second Edition)
+16
+5.2.3 Adrenergic agonists
+Brimonidine is efficacious as an adjunctive therapy58, level I but in
+selected cases, it may be used as a monotherapy. Its common side
+effect is ocular allergy.
+• Adrenergic agonists are contraindicated in individuals on monoamine
+oxidase inhibitor therapy.
+• Side effects of adrenergic agonists include burning sensation and
+hyperaemia.
+5.2.4 Carbonic anhydrase inhibitors
+CAIs are available in topical and systemic forms. They are efficacious
+as an adjunctive therapy.58, level I In selected cases, they may be used as
+monotherapy. Long-term use of systemic CAIs is not advisable due to
+their possible serious side effects.
+• CAIs are contraindicated in individuals with:
+ sulphonamide allergy
+ renal calculi or failure
+ respiratory/metabolic acidosis and hypokalaemia
+• Important systemic side effects of CAIs are:
+ Stevens-Johnson syndrome
+ angioedema
+ metabolic acidosis
+ electrolyte imbalance
+ blood dyscrasias
+5.2.5 Cholinergic agents
+Topical pilocarpine is mainly used as short-term, pre-laser treatment of
+patients with narrow angle. Its long-term use is not favoured due to its
+side effects (such as blurred vision, peri-orbital pain and stinging) and
+frequent dosing i.e. four times a day.22
+5.2.6 Osmotic agents
+Osmotic agents are only available as systemic therapy. They are
+usually used in acute situations when rapid IOP reduction is desired.
+Commercially available agents are oral glycerol and intravenous
+mannitol.22
+Management of Glaucoma (Second Edition)
+17
+• Osmotic agents are contraindicated in individuals with:
+ cardiac disease
+ renal disease
+• Important systemic side effects of osmotic agents are:
+ dehydration
+ cardiac failure
+ hyponatraemia
+ acute renal failure
+• Osmotic agents may cause hyperglycaemia in diabetic patients.
+5.2.7 Fixed combination medications
+Several fixed combination medications have been developed to
+maximise patient’s compliance and QoL. Most fixed combination
+medications contain timolol as one of its components.
+The six commonly used fixed combination medications significantly
+reduce IOP from baseline and the combination of prostaglandin
+analogue and timolol have the highest IOP reduction between 33.9%
+and 34.9%.60, level I
+Fixed combination medications are equally safe and efficacious at
+lowering IOP compared with their non-fixed components. Three main
+ocular side effects are hyperaemia, ocular irritation and keratitis which
+are more frequent in non-fixed combination.61, level I
+Fixed combination provides significantly improved long-term adherence
+compared with non-fixed combination in glaucoma treatment.62, level I
+Combination treatment, either as fixed or non-fixed, is not recommended
+as first-line treatment.15
+Management of Glaucoma (Second Edition)
+18
+General Principles in Medical Treatment in Glaucoma22
+• Determine an individualised target IOP and readjust treatment if
+necessary throughout the course of disease.
+• Diagnostic parameters to be considered in deciding on antiglaucoma medications are:
+ IOP levels and/or fluctuations
+ extent of OD damage
+ severity of VF defects
+ CCT
+Baseline parameters should be collected prior to initiating treatment
+and verified before modifying treatment.
+• Choose monotherapy that:
+ provides greatest IOP lowering effects to achieve target IOP
+ has the best safety profiles e.g. least side effects, good
+tolerability, etc.
+ enhances compliance e.g. simple dosing regimen, minimal
+disruption to QoL, etc.
+ is available and affordable
+• Treatment
+ Treatment is considered effective when the individual target IOP
+is achieved.
+ If the target IOP is not achieved:
+-
+switch within prostaglandin analogue or to a different class of
+medication
+-
+use adjunctive treatment either non-fixed or fixed combination
+ Generally, if more than two medications are required for IOP
+control; other forms of treatment should be considered.
+• Patient education is important and it includes:
+ nature of the disease
+ benefits and side effects of treatment
+ proper instillation technique of eye drop*
+ importance of compliance (adherence, persistence and followup)
+*Refer to Appendix 7 on Proper Instillation Technique of Eye Drop.
+Refer to Appendix 8 on Main Features of Topical Anti-Glaucoma
+Medications.
+Management of Glaucoma (Second Edition)
+19
+Recommendation 4
+• In glaucoma treatment, healthcare providers should aim to maintain
+maximal functional vision throughout a patient’s lifetime without
+sacrificing his/her quality of life and at a sustainable cost.
+• Medical treatment in glaucoma should be individualised based on
+patient’s characteristics and drug factors, and adjusted according to
+target intraocular pressure (IOP).
+• Prostaglandin analogues should be used as first-line treatment in
+glaucoma.
+• If the target IOP is not achieved in glaucoma, consider switching
+anti-glaucoma medications or adding adjunctive treatment either
+non-fixed or fixed combination.
+• Patient education should be given to patients with glaucoma. This
+includes benefits and side effects of treatment, proper instillation
+technique of eye drop and compliance to treatment.
+5.2.8 Neuroprotection in glaucoma
+There is insufficient evidence to support that neuroprotective
+medications are effective in preventing retinal ganglion cell death, and
+thus preserving vision in people with OAG.63, level I
+5.3
+Laser Treatment
+Laser treatment has become important in the management of glaucoma.
+It is indicated when medical therapy fails, as an adjunct or as a primary
+treatment where appropriate. There are several types of laser treatment
+used to treat glaucoma as shown below.
+Types of Laser Treatment in Different Types of Glaucoma
+• Open Angle Glaucoma
+ Laser trabeculoplasty for outflow enhancement
+ Trans-scleral cyclophotocoagulation (TSCP) for inflow reduction
+(usually for end-stage disease)
+• Angle Closure (± Glaucoma)
+ Laser iridotomy for pupillary block relief
+ Laser peripheral iridoplasty for modification of iris contour
+ TSCP for inflow reduction (usually for end-stage disease)
+• Post-Filtering Surgery
+ Laser suture lysis for outflow enhancement
+Source: Asia-Pacific Glaucoma Society. Asia Pacific Glaucoma Guidelines (Third
+Edition). Amsterdam: Kugler Publications; 2016
+Management of Glaucoma (Second Edition)
+20
+5.3.1 Laser trabeculoplasty
+Laser parameters used for Selective laser trabeculoplasty (SLT) and
+Argon laser trabeculoplasty (ALT) are shown in Table 4.
+Laser trabeculoplasty is initially efficacious in 80 - 85% of treated eyes
+with a mean IOP reduction of 20 to 25% (6 - 9 mmHg).64, level III It is also
+efficacious and safe in OHT.65, level I
+In a meta-analysis of six RCTs, there was no significant difference of IOP
+reduction between SLT and ALT up to two years in patients who were
+naive to laser (first laser trabeculoplasty). There was also no significant
+difference in adverse events between the two modes of treatment.66, level I
+These were supported by another meta-analysis in 2015, although one
+of the RCTs included patients treated with ALT. The meta-analysis also
+showed no difference in efficacy between SLT and medications. The
+overall safety profile of SLT was good, with most side effects being
+transient and amenable to medical therapy.67, level I
+In patients treated previously with ALT or SLT, retreatment with SLT is
+efficacious and safe in further lowering IOP.68, level II-2; 69, level I; 70, level II-1
+SLT 360˚ is a more effective treatment compared with 90˚ or 180˚.71, level I
+Higher baseline IOP is the main predictor for the success of laser
+therapy in both SLT72, level I and ALT.46, level II-2; 73, level II-2; 74, level III
+Indications for laser trabeculoplasty in open angle glaucoma are:64, level III
+• failure or intolerance of medical therapy
+• adjunct to medical therapy
+• primary treatment if appropriate
+Complications of laser trabeculoplasty are:64, level III
+• temporary blurred vision
+• IOP spike with possible VF loss
+• transient iritis
+• PAS if placement of burns is too posterior or post-laser
+inflammation control is not effective (in ALT)
+• endothelial burns if treatment is too anterior (in ALT)
+• chronic increase in IOP
+• corneo-refractive changes
+• suprachoroidal effusion
+5.3.2 Laser iridotomy
+Laser iridotomy, a relatively non-invasive procedure is efficacious
+in relieving pupillary block. Complications of laser iridotomy are IOP
+spikes, temporary blurring of vision and corneal burn. These could be
+minimised by using proper technique.64, level III
+Management of Glaucoma (Second Edition)
+21
+Indications for laser iridotomy in angle closure disease are:64, level III
+• PAC
+• PACG
+• PACS:
+ absolute indication - PAC in the fellow eye
+ relative indication - need for repeated dilated examination e.g.
+diabetic patients
+- poor access to regular ophthalmic care
+- confirmed family history of PACG
+Refer to Appendix 9 on Laser Iridotomy.
+5.3.3 Argon laser peripheral iridoplasty
+Argon laser peripheral iridoplasty (ALPI) is a non-invasive procedure.
+It contracts the peripheral iris which results in widening of the anterior
+chamber angle and re-opens the appositionally closed segments.
+However, ALPI is associated with higher failure rates and lower IOP
+reduction compared with prostaglandin analogues in eyes with persistent
+appositional angle closure and raised IOP after laser iridotomy.75, level I
+Indications for ALPI in angle closure disease are as follows:64, level III
+• initial treatment in acute angle closure attack
+• adjunctive measure when systemic medications fail to control
+IOP
+• persistent occludable angle following laser iridotomy
+• facilitate access to TM for laser trabeculoplasty
+• an adjunct to goniosynechialysis
+ALPI is contraindicated in area with PAS.
+5.3.4 Cyclophotocoagulation
+Cyclophotocoagulation (CPC) is a cyclodestructive procedure that
+reduces aqueous production by the ciliary epithelium. The procedure
+may be performed transcleral or endoscopically.
+CPC is indicated in the following:64, level III
+• painful blind eyes or eyes with poor vision
+• failed multiple filtering surgeries
+It is also may be performed in sighted eyes when the benefits outweigh
+the risks for incisional surgery.76, level III
+Complications include:64, level III
+• pain
+• persistent inflammation
+• loss of visual acuity
+• hypotony and phthisis
+• scleral thinning or rupture
+• pupillary distortion
+Management of Glaucoma (Second Edition)
+22
+• macular oedema
+• retinal detachment
+• aqueous misdirection syndrome
+• sympathetic ophthalmia
+Table 4 shows the summary of parameters and lenses for laser
+treatment.
+Table 4. Parameters and lenses for laser treatment
+*Refer to Appendix 9.
+Source: Asia-Pacific Glaucoma Society. Asia Pacific Glaucoma Guidelines (Third
+Edition). Amsterdam: Kugler Publications; 2016
+Recommendation 5
+• Laser trabeculoplasty should be considered in primary open angle
+glaucoma when indicated*.
+• Laser iridotomy should be performed in primary angle closure
+disease when indicated**.
+• Peripheral iridoplasty may be considered for initial treatment in acute
+angle closure.
+• Cyclophotocoagulation should be considered in refractory glaucoma.
+*Refer to the preceding text.
+**Refer to the preceding text.
+Parameters
+Laser procedures
+SLT
+ALT
+Peripheral
+iridoplasty
+Transscleral CPC
+Laser
+iridotomy*
+Number
+of spots
+30 - 50
+(over 180o)
+50
+(over 180o)
+10 - 40
+(over 360o)
+Spot size
+400 m
+50 m
+500 m
+-
+Exposure time
+3 nsec
+0.1 sec
+0.5 sec
+0.5 - 2 sec
+Fluence
+(mJ/mm2)
+6
+40,000
+-
+-
+Power
+0.4 - 1.4 mJ
+Type of lenses
+Not
+needed
+Latina SLT lens,
+Goldmann gonioscopy lens,
+Ritch trabeculoplasty lens,
+CGA© LASAG/Meridien CH,
+Magna View Gonio lens
+Abraham (+66 D),
+Wise (+103 D),
+CGI©LASAG CH
+lens,
+central non-mirrored
+part of the
+Goldmann lens
+300 - 600 mW
+150 - 240 mW
+20 - 40
+(over 180 -
+360o)
+Management of Glaucoma (Second Edition)
+23
+5.4 Surgical Treatment
+Surgery is indicated in glaucoma when the target IOP cannot be
+reached despite maximal medical therapy or when there is intolerance
+or non-compliance to medical therapy.22
+Available surgical options include trabeculectomy, implantation of
+glaucoma drainage devices (GDD) and non-penetrating glaucoma
+surgery.
+5.4.1 Trabeculectomy
+Trabeculectomy is the primary surgery of choice in POAG.22 However,
+the development of fibrosis may lead to failure of the surgical procedure.
+Thus, antimetabolites such as Mitomycin C (MMC) and 5-Fluorouracil
+are used to improve the success rate.22 Intraoperative MMC reduces
+the risk of surgical failure in primary trabeculectomy (RR=0.29, 95% CI
+0.16 to 0.53).77, level I However, the use of antimetabolites may increase
+complications such as bleb leaks, hypotony, late-onset blebitis and
+endophthalmitis.22
+5.4.2 Lens extraction
+Clear lens extraction has beneficial effect in PAC and PACG with
+IOP >30 mmHg in terms of QoL (p=0.005) and IOP control (p=0.04)
+compared with standard laser PI. There is no significant serious adverse
+events reported.78, level I This procedure should only be performed by an
+experienced surgeon.
+In medically-controlled PACG with co-existing cataract, there are no
+significant differences in mean IOP between phacoemulsification alone
+and combined phacotrabeculectomy with adjunctive MMC at 6 - 24
+months. However, phacoemulsification alone is associated with less
+post-operative complications (p<0.001).79, level I
+5.4.3 Combined trabeculectomy and lens extraction
+In medically-uncontrolled PACG with coexisting cataract, combined
+phacotrabeculectomy with adjunctive MMC results in significantly lower
+mean IOP than phacoemulsification alone at three, 15 and 18 months
+of follow-up. However, combined surgery is associated with higher
+post-operative complications (p<0.001) and possible progression of
+optic neuropathy (p=0.03).80, level I
+In glaucoma patients who require cataract and filtering surgery,
+performing cataract surgery after trabeculectomy significantly increases
+the rates of bleb failure. However, the risk of failure is reduced if lens
+extraction is performed >6 months post-trabeculectomy.64, level III
+Management of Glaucoma (Second Edition)
+24
+5.4.4 Glaucoma drainage devices
+The use GDD such as Baerveldt, Ahmed and Molteno are usually
+reserved for patients with high risk of failure from augmented
+trabeculectomy. This includes eyes with previous failed filtering surgery,
+severe conjunctival or ocular surface diseases, active neovascular
+diseases, paediatric glaucomas or excessive conjunctival scarring.22
+Ahmed and Baerveldt implants are as efficacious as trabeculectomy
+in IOP reduction.81 - 82, level I Although Molteno implant provides better
+and sustained IOP reduction,83, level II-2 there is no clinical trial to support
+this. Baerveldt implant has a higher qualified success rate than
+trabeculectomy at 5-year follow-up.82, level I
+Based on two multi-centre RCTs, Baerveldt implant had greater IOP
+reduction compared with Ahmed implant at 3 - 5 years of follow-up.
+However, serious complications occurred less frequently in Ahmed
+implant.84 - 85, level I Ahmed and Baerveldt implants have similar rate
+of complications compared with trabeculectomy.81 - 82, level I However,
+a lower rate of persistent hypotony has been reported with Baerveldt
+implant compared to trabeculectomy.82, level I
+5.4.5 Others (non-penetrating glaucoma surgery and minimally
+invasive glaucoma surgery)
+Deep sclerostomy and viscocanalostomy are types of non-penetrating
+glaucoma surgery.22 There is limited evidence on viscocanalostomy
+or deep sclerostomy resulting in better IOP control compared with
+trabeculectomy.86, level I Thus it is not suitable for patients who need low
+target IOP. Its advantages over trabeculectomy include lower risk of
+post-operative hypotony and bleb infection.22
+Minimally invasive glaucoma surgery is a group of procedures which
+include ab-interno and ab-externo techniques which aims for less tissue
+manipulation and side effects compared with standard filtering surgery.
+However, there is no good evidence to show its efficacy.15
+Recommendation 6
+• Intraoperative Mitomycin C during trabeculectomy should be used in
+glaucoma patients at risk of surgical failure.
+• Early lens extraction may be considered as first-line treatment in
+primary angle closure and primary angle closure glaucoma.
+• Glaucoma drainage devices may be offered in the treatment of
+refractory glaucoma.
+Management of Glaucoma (Second Edition)
+25
+6. FOLLOW-UP
+Glaucoma patients need to be followed-up to monitor the effects of
+treatment, and to detect disease progression and any changes in
+patient’s risk profile and systemic health that may affect glaucoma
+management plan.22
+Currently there is no retrievable evidence on this matter. The CPG
+DG uses existing guidelines15; 64, level III; 87; 88 and their expert opinion to
+address issues on follow-up schedule of glaucoma patients.
+During each review, the following should be elicited:22
+• History
+ Ocular history
+ Medical and drug history
+ Local and systemic problems with ocular medications
+ General assessment of the impact of visual function on daily
+living
+ Frequency and time of last IOP lowering medications
+ Verification of compliance
+• Ocular examination
+ VA in both eyes
+ IOP measurement in both eyes
+ Slip lamp for external eye examination
+ ONH evaluation
+ Gonioscopy, VF, ONH and RFNL (imaging/photography) are
+done according to the follow-up schedule or when indicated
+The following are the recommended follow-up schedule for patients with
+glaucoma based on the target IOP and disease progression (refer to
+Table 5). However, it should be individualised according to the severity
+of disease and risk factors.
+Management of Glaucoma (Second Edition)
+26
+Table 5. Follow-up schedule for glaucoma and related conditions
+*Disease progression supersedes target IOP in determining interval of
+follow-up.
+The following are the recommended investigations schedule for
+glaucoma patients and related conditions (refer to Table 6).
+Table 6. Investigations schedule for glaucoma and related
+conditions
+Diagnosis
+Follow-up schedule
+OHT
+POAG suspect
+POAG and PACG
+Refer to Subchapter 10.1
+Refer to Subchapter 10.2
+Target IOP achieved:
+No : 1 - 2 months
+Yes : 6 - 12 months
+Disease progression (structural and functional):
+Yes : 3 - 6 months
+No : 6 - 12 months
+Diagnosis
+OHT
+POAG Suspect
+Open angle
+glaucoma
+Angle closure
+glaucoma
+Refer to Subchapter 10.1
+Refer to Subchapter 10.2
+Stable: Yearly
+Progression:
+4 - 8 months
+Stable: Yearly
+Progression:
+4 - 8 months
+Baseline
+and when
+indicated
+Baseline,
+post-laser
+iridotomy
+and 3-yearly
+or when
+indicated
+Every 1 - 2
+years
+Every 1 - 2
+years
+Baseline
+or when
+indicated
+Baseline
+or when
+indicated
+VF
+Gonioscopy
+OD image
+CCT
+Management of Glaucoma (Second Edition)
+27
+7. MONITORING OF PROGRESSION
+Patients with glaucoma require life-long treatment and monitoring.
+Adjustment of treatment and target IOP depends on the evaluation of
+glaucoma progression (refer to Algorithm 5 on Adjustment of Target
+IOP). It is important to assess both optic nerve structure and function
+in detecting progression. The use of functional test may fail to detect
+progression in eyes with early glaucomatous damage. On the other
+hand, structural test may fail to detect progression in moderate to
+severe glaucomatous damage.89, level III
+7.1 Visual Field Assessment (Functional Test)
+VF assessment using the white-on-white SAP is still considered to be
+the best method to monitor glaucomatous progression in patients with
+evident VF damage. It has direct relevance to patient’s QoL. Although
+there is no standard method, there are several approaches used to
+analyse VF progression:90, level III
+• clinical judgement (based on the simple observation of a
+sequential series of VF tests)
+• defect classification systems (usually used in research setting)
+• trend analysis (regression analyses to measure rates of change)
+• event analysis (comparison of a follow-up examination to the
+baseline VF)
+Estimating the rate of progression is invaluable to guide therapeutic
+decisions and estimate the likelihood of visual impairment during the
+patient’s lifetime.
+• Changes in VF are determined by the:89, level III; 91, level III
+ same SAP strategy and test pattern
+ threshold tests using full threshold and SITA standard testing
+strategies
+ sufficient number (minimum two) of reliable tests to establish a
+good baseline
+ sufficient number of examinations to detect change
+• Six VF examinations should be performed in the first two years to
+detect rapid progression (-2 dB/year or worse) and establish a good
+set of baseline data.15
+• VF progression should be correlated with clinical findings.
+Management of Glaucoma (Second Edition)
+28
+7.2 Optic Nerve and Retinal Nerve Fibre Layer Evaluation (Structural
+Test)
+Imaging of the optic nerve and RNFL allows objective, standardised and
+reproducible ways to assess and continuously monitor glaucomatous
+damage. Three types of computer-based optic nerve imaging devices
+are available for glaucoma:92
+• CSLO
+• OCT
+To determine the progression of glaucoma, progression analysis
+programmes are being incorporated into the above devices using the
+patients’ baseline images as references. Currently these programmes
+are still unable to predict future functional loss. Good quality images are
+important to facilitate progression analysis as poor quality image can
+lead to false positive or negative results.89
+Frequency of imaging should be similar to VF testing. Six imaging tests
+should be performed in the first two years to detect progression in high
+risk patients. A repeat imaging should be performed within three months
+after the baseline. Patients should be followed-up with the same test/
+method to monitor progression.15
+• Imaging alone does not replace VF testing in monitoring progression.
+Management of Glaucoma (Second Edition)
+29
+8. REHABILITATION
+Glaucoma could result in permanent visual impairment and blindness.
+Consultation with an optometrist trained in vision rehabilitation is
+advisable to enhance patient’s residual vision and QoL.88; 93, level III The
+rehabilitation significantly improves vision-related QoL in patients with
+glaucoma.94, level II-2
+Vision rehabilitation includes the use of optical and non-optical devices,
+and referral to other services (vocational, occupational and independent
+living) and psychosocial counselling.93, level III Multidisciplinary approach
+improves scores of overall visual ability of visually-impaired patients
+including those with glaucoma at 30 days follow-up (p<0.001).95, level II-2
+• All patients with low vision and blindness should be registered with
+Social Welfare Department to be eligible for financial and social
+benefits.96, level III
+Recommendation 7
+• Glaucoma patients with blindness or low vision should be referred
+for vision rehabilitation which includes vocational, occupational and
+independent living.
+Refer to Appendix 10 on Categories of severity of visual impairment.
+Management of Glaucoma (Second Edition)
+30
+9. REFERRAL
+The aim of referral is to ensure that the patients receive specialised
+and optimised care under glaucoma-trained healthcare providers. This
+chapter is written based on expert opinion of the CPG DG and evidence
+in other chapters in the guidelines.
+• Indications for referral are as follows:
+ acute angle closure (immediate referral)
+ confirmation of diagnosis
+ progression of disease
+ issues related to medical treatment:
+- side effects
+- requirement of ≥2 medications
+- poor compliance or adherence
+ uncontrolled IOP despite maximum medical treatment requiring
+laser or surgical intervention
+Management of Glaucoma (Second Edition)
+31
+10. SPECIAL CONDITIONS
+10.1 Ocular Hypertension
+Clinical features of OHT are:
+• untreated IOP >21 mmHg
+• open anterior chamber angle
+• normal OD and RNFL
+• normal VF
+• no clinical evidence of secondary causes of elevated IOP
+Important diagnostic testing includes:
+• measurement of IOP
+• gonioscopy
+• measurement of CCT
+ It is an essential part of ocular examination in the workup of
+OHT patients.
+ It aids in interpretation of IOP readings and stratification of
+patient risk for developing POAG.
+ In OHT patients, the average CCT is 570 μm. Eyes with CCT
+<555 μm are at greater risk of developing POAG compared to
+eyes with CCT of ≥588 μm.97, level II-2
+ GAT may overestimate the actual IOP in eyes with thicker CCT
+and underestimate in eyes with thinner CCT.98 - 99, level III IOP
+measurement should not be corrected as there is no generally
+accepted correction formula for it.
+• OD and RNFL assessment and/or imaging
+ OD and RNFL should be assessed and secondary causes
+of any abnormalities should be excluded. Stereoscopic disc
+photographs are advocated as baseline documentation.
+Computerised digital imaging of the OD and RNFL can be
+used to provide quantitative information and to facilitate in
+monitoring of patients.41, level I
+• VF test for initial evaluation and as baseline for future monitoring
+of progression
+Management of OHT consists of:
+• monitoring for changes suggestive of glaucomatous damage in
+the OD, RNFL and VF
+• evaluating and identifying patients at risk of POAG conversion in
+order to initiate treatment
+The likelihood of patients with OHT developing POAG increases with
+the number and severity of risk factors. Some of the predictive factors
+for conversion to POAG in both Ocular Hypertension Treatment Study
+(OHTS) and European Glaucoma Prevention Study (EGPS) trials
+Management of Glaucoma (Second Edition)
+32
+are:19, level II-2; 97, level II-2
+• older age
+• higher IOP
+• thinner CCT
+• larger CDR
+• higher Humphrey VF PSD
+A risk calculator using the above predictive factors as parameters
+can determine the overall risk of developing POAG in five years.18, level II-2
+It is available for free online from http://ohts.wustl.edu/risk. Based on
+OHTS data, low glaucoma 5-year risk was defined arbitrarily as <6%,
+moderate as 6 - 13% and high >13%.100, level I
+In OHTS, medical treatment of OHT was effective in delaying or
+preventing the onset of POAG. Lowering of IOP by 20% reduced risk
+for progression by 50% over five years duration. However, 90 - 95% of
+the patients did not progress to POAG and thus not all require treatment.
+100 - 101, level I Based from the OHTS data, treatment of patients with IOP
+≥24 mmHg and ≥2% annual risk of development of POAG is likely to be
+cost-effective.102, level I
+The decision to treat OHT will need to be individualised based on:
+• clinical findings
+• risk assessment
+• life expectancy
+• patient’s preferences
+• treatment cost, risks and benefits
+Monitoring schedule of OHT should be based on the risk of conversion
+to POAG.87 In OHTS, a reduction of 20% from the mean baseline IOP
+was used as the target IOP.101, level I In EGPS, dorzolamide alone was
+not effective in preventing the onset of POAG at five years followup compared to placebo.103, level I It has been suggested to begin by
+choosing a target pressure of 20% lower than the mean baseline
+IOP.92 The first choice of treatment is usually topical medication. Laser
+trabeculoplasty may be considered if there is drug intolerability, poor
+compliance or cost issues.
+Refer Appendix 11 on OHT Pathway (OHT and POAG suspects with
+high IOP).
+OHT patients need to be monitored long-term for the development of
+POAG regardless whether they are being treated or not. When there
+is evidence of changes suggestive of glaucomatous damage that is
+consistent with POAG (e.g. ONH appearance, RNFL or VF), then
+patients should be managed as POAG cases.
+Management of Glaucoma (Second Edition)
+33
+There is no evidence from studies on how OHT patients should be
+monitored and put on follow-up schedules. In OHTS, the first feature
+suggestive of POAG was either change in OD and/or VF.104, level I
+Thus, both structural and functional assessments are essential when
+monitoring OHT patients. Computer-based imaging of the ONH
+and RNFL is a useful adjunct to clinical examination as it provides
+quantitative information and may aid in documenting progression.
+41, level I Therefore, clinical examination and imaging of the ONH and
+RNFL, with assessment of the VF is commonly needed to facilitate the
+evaluation of progressive glaucomatous damage.
+Recommendation 8
+• Ocular hypertension (OHT) patients should have comprehensive
+initial eye examination and assessment of risk factors for conversion
+to primary open angle glaucoma (POAG).
+ Central corneal thickness measurement should be performed.
+• Treatment of OHT should be based on the risk of conversion to
+POAG*.
+*Risk calculator can be used.
+10.2 Primary Open Angle Glaucoma Suspect
+POAG suspect is defined as an individual with clinical findings and/
+or risk factors that increase the likelihood of developing POAG.105 The
+clinical findings include any of the following features:87
+• any IOP level
+• suspicious glaucomatous appearance of OD (refer to Subchapter
+4.2.6)
+• normal or suspicious glaucomatous VF defects (refer to
+Subchapter 4.3.1)
+Management of POAG suspect consists of:
+• monitoring for changes suggestive of glaucomatous damage in
+the OD, RNFL and VF
+• evaluating and identifying patients at risk of POAG conversion in
+order to initiate treatment
+An individual with normal IOP, and changes in optic nerve and VF
+consistent with glaucomatous damage, should be diagnosed as having
+Normal Tension Glaucoma (NTG). It should be treated and monitored
+similar to POAG.87
+Conversion of glaucoma suspect to NTG is poorly understood. NonIOP dependent factors, especially vascular dysregulation, are thought
+to play a relatively larger role.106, level III
+Management of Glaucoma (Second Edition)
+34
+Risk factors of NTG are:
+a. ocular
+• disc haemorrhages (HR=2.72, 95% CI 1.39 to 5.32)107, level II-2
+• wide diurnal IOP fluctuation108, level III; 109, level II-2
+• presence of beta zone within peripapillary atrophy110, level III
+b. systemic
+• OSA Syndrome26, level III
+• Raynaud’s phenomenon88
+• migraine88; 107, level II-2
+• low blood pressure93, level III
+• nocturnal hypotension93, level III
+• low ocular perfusion pressure111, level II-2
+• low intracranial and cereberospinal fluid (CSF) pressure112, level III
+Monitoring of POAG suspect may be done at intervals of:87
+• 1 to 2 years if there is low risk of conversion*
+• 6 months to 1 year if there is high risk of conversion*
+*Risk of conversion is clinically assessed based on age, IOP, CCT, and
+changes in ONH and VF.
+If there is no change in the parameters after 3 - 5 years, the patient can
+be transferred from active glaucoma care to general ophthalmologist or
+community optometrist.87
+Refer to Appendix 12 on POAG Suspects with Normal IOP Pathway.
+Recommendation 9
+• Comprehensive eye examination and risk assessment should
+be performed in primary open angle glaucoma suspect. Diurnal
+intraocular pressure fluctuation should be considered in the
+assessment.
+10.3 Steroid-Induced Glaucoma
+Steroid use may give rise to secondary OHT which may infrequently
+lead to steroid-induced glaucoma. It can occur as a result of topical,
+systemic or intravitreal administration of steroids. However in clinical
+practice, most can be controlled by topical glaucoma medications
+but a small proportion requires surgery.113, level I; 114, level II-2 In a small
+study of 34 patients, glaucoma medications were discontinued in all
+patients by 18 months after cessation of steroid therapy.114, level II-2
+10.4 Neovascular Glaucoma
+Neovascular glaucoma (NVG) is a severe form of secondary glaucoma
+in which the eye develops progressive neovascularisation of the iris
+and angle. It is induced by ocular microvascular disease with retinal
+Management of Glaucoma (Second Edition)
+35
+ischaemia. Initially fibrovascular membrane covers the angle,
+causing secondary open angle glaucoma. This can progress to angle
+closure glaucoma. The common conditions associated with NVG are
+proliferative diabetic retinopathy, central retinal vein occlusion and
+other conditions such as ocular ischaemic syndrome and tumours.
+Management of NVG involves optimising treatment of the underlying
+disease and control of high IOP. The treatment for NVG includes:15
+• medical treatment
+ topical and systemic IOP lowering medication (refer to
+Subchapter on Medical Treatment)
+ topical steroid
+ topical atropine
+• laser/surgery
+ retinal ablation with laser or cryotherapy
+ filtering surgery with antimetabolites
+ GDD
+ cyclodestructive procedure
+ intravitreal or intracameral anti-vascular endothelial growth factor
+(anti-VEGF)
+NVG is a difficult condition to manage and medical treatment usually
+fails to control the IOP. Surgical treatment provides better IOP control.
+Trabeculectomy with MMC efficaciously reduces the elevated IOP in
+NVG. The extent of PAS and a history of vitrectomy are significant
+negative predictors of IOP reduction.115, level II-1 Both Ahmed valve implant
+and Molteno single plate implant significantly reduce IOP in patients
+with NVG up to six months.116, level III There is no signiﬁcant difference
+in the IOP lowering between TSCP and Ahmed implant in refractory
+NVG treatment. However, TSCP is less time consuming and easier to
+perform.117, level I Rates of TSCP complications are higher in NVG and
+with treatment protocols using more than 80 Joule per session.64, level III
+Anti-VEGF may have a role in the treatment of NVG.
+• There is no significant difference in regression of neovascularisation
+of iris and reduction of IOP between 1.25 mg and 2.5 mg
+intracameral bevacizumab followed by trabeculectomy at six
+months follow-up.118, level I
+• Intravitreal bevacizumab with PRP followed by Ahmed valve
+implantation is significantly efficacious in controlling IOP at 18
+months119, level I and causing complete regression of rubeosis iridis
+in NVG at 24 months.120, level I
+• However, intravitreal ranibizumab (0.5 mg) injection before
+surgery has no significant effect on IOP, BCVA, anti-glaucoma
+medications or post-operative complications in NVG treated with
+Ahmed glaucoma valve implantation up to 12 months.121, level II-1
+Management of Glaucoma (Second Edition)
+36
+• There is insufficient evidence to recommend a preferred method of
+treatment for NVG. The treatment options need to be individualised.
+• The key to prevent NVG is to optimise management of the underlying
+diseases.
+10.5 Intraocular Pressure Monitoring in Post-Refractive Surgery
+Cases
+Corneal laser refractive surgery is a popular method for correction of
+refractive errors. However, refractive surgery is relatively contraindicated
+in patients with glaucoma because of its potential problems. These
+include acute transient IOP elevation and damage to existing filtering
+blebs during corneal flap construction, steroid-induced IOP elevation
+and pressure-induced intra-lamellar stromal keratitis, and inaccuracy of
+post-operative IOP measurement which may influence the management
+of glaucoma.
+Most IOP measuring devices are reliant on corneal biomechanics
+and thickness. Different corneal thickness and tissue properties have
+varying effects of IOP measurement by different IOP measuring
+devices. In post-refractive surgery, there is an underestimation of IOP
+by most of the devices because of thinner CCT. GAT is significantly
+influenced by CCT compared with Pascal dynamic contour tonometry
+and tonopen.98 - 99, level III; 122 - 123, level II-3
+Proper and accurate establishment, and documentation of baseline
+parameters (e.g. VF, IOP, CCT and OD image) prior to refractive
+surgery is essential in providing optimal monitoring for development
+and progression of glaucoma in future.
+• In post-refractive surgery, there is an underestimation of IOP by
+most devices.
+• Documentation of baseline parameters prior to refractive surgery is
+essential.
+Management of Glaucoma (Second Edition)
+37
+11. IMPLEMENTING THE GUIDELINES
+The management of glaucoma should be guided by evidence-based
+approach in order to provide quality care to the patients. Several factors
+may affect the implementation of recommendations in the CPG.
+11.1 Facilitating and Limiting Factors
+Existing facilitators for application of the recommendations in the CPG
+include:
+• wide dissemination of the CPG (soft- and hard-copies) to
+healthcare providers
+• regular update on glaucoma management at conferences and
+scientific meeting locally
+• public awareness during World Glaucoma Week
+Existing barriers for application of the recommendations of the CPG
+are:
+• limited knowledge and evolving understanding of glaucoma
+• insufficient resources for integrated care at different level of
+service delivery
+• variation in treatment practice and preferences
+• no national glaucoma registry for further planning of services
+• lack of awareness, poor access to eye care services and different
+cultural/religious beliefs among the patients
+11.2 Potential Resource Implications
+To implement the CPG, there must be strong commitment to:
+• ensure widespread distribution of the CPG to healthcare providers
+via printed and electronic copies
+• reinforce regular training with adequate funding of healthcare
+providers
+• ensure trained multidisciplinary team is available at different
+levels of healthcare
+• ensure widespread distribution of updated patient education
+materials
+Management of Glaucoma (Second Edition)
+38
+The following is proposed as clinical audit indicator for quality
+management:
+Implementation strategies will be developed following the approval of
+the CPG by MOH which include launching of the CPG, Quick Reference
+and Training Module.
+Percentage of newlydiagnosed
+glaucoma
+patients treated with
+prostaglandin analogue
+as first-line treatment
+Number of newly-diagnosed
+glaucoma patients treated with
+prostaglandin analogue as
+first-line treatment
+in a period
+=
+x 100%
+Number of newly-diagnosed
+glaucoma patients
+on medical treatment
+in the same period
+Management of Glaucoma (Second Edition)
+39
+REFERENCES
+1.
+Prevention of Blindness and Visual Impairment (available at http://www.who.int/blindness/
+causes/priority/en/index1.html).
+2.
+Quigley HA, Broman AT. The number of people with glaucoma worldwide in 2010 and 2020. Br
+J Ophthalmol. 2006;90(3):262-267.
+3.
+Mustari Z, MA S, Hussein E, et al. The National Eye Survey 2014. Kuala Lumpur: Ophthalmology
+Service, Ministry of Health Malaysia;2015.
+4.
+Rein DB, Zhang P, Wirth KE, et al. The economic burden of major adult visual disorders in the
+United States. Arch Ophthalmol. 2006;124(12):1754-1760. Erratum in: Arch Ophthalmol. 2007
+Sep;1125(1759):1304.
+5.
+Taylor HR, Pezzullo ML, Keeffe JE. The economic impact and cost of visual impairment in
+Australia. Br J Ophthalmol. 2006;90(3):272-275.
+6.
+Varma R, Ying-Lai M, Francis BA, et al. Prevalence of open-angle glaucoma and ocular
+hypertension in Latinos: the Los Angeles Latino Eye Study. Ophthalmology. 2004;111(8):14391448.
+7.
+de Voogd S, Ikram MK, Wolfs RC, et al. Incidence of open-angle glaucoma in a general elderly
+population: the Rotterdam Study. Ophthalmology. 2005;112(9):1487-1493.
+8.
+Quigley HA, West SK, Rodriguez J, et al. The prevalence of glaucoma in a population-based
+study of Hispanic subjects: Proyecto VER. Arch Ophthalmol. 2001;119(12):1819-1826.
+9.
+Mitchell P, Smith W, Attebo K, et al. Prevalence of open-angle glaucoma in Australia. The Blue
+Mountains Eye Study. Ophthalmology. 1996;103(10):1661-1669.
+10.
+Lee PP, Walt JG, Doyle JJ, et al. A multicenter, retrospective pilot study of resource use and
+costs associated with severity of disease in glaucoma. Arch Ophthalmol. 2006;124(1):12-19.
+11.
+Traverso CE, Walt JG, Kelly SP, et al. Direct costs of glaucoma and severity of the disease: a
+multinational long term study of resource utilisation in Europe. Br J Ophthalmol. 2005;89(10):12451249.
+12.
+Wang JC, Chew PT. What is the direct cost of treatment of acute primary angle closure
+glaucoma? The Singapore model. Clin Exp Ophthalmol. 2004;32(6):578-583.
+13.
+Tham YC, Li X, Wong TY, et al. Global prevalence of glaucoma and projections of glaucoma burden
+through 2040: a systematic review and meta-analysis. Ophthalmology. 2014;121(11):2081-2090.
+14.
+Chan EW, Li X, Tham YC, et al. Glaucoma in Asia: regional prevalence variations and future
+projections. Br J Ophthalmol. 2016;100(1):78-85.
+15.
+European Glaucoma Society. Terminology and Guidelines for Glaucoma (4th Edition). Savona:
+Publicomm; 2014.
+16.
+Liza-Sharmini AT, Sharina YN, Dolaboladi AJ, et al. Clinical presentation, severity and
+progression of primary angle closure in Malays. Med J Malaysia 2014;69(1):21-26.
+17.
+Liza-Sharmini AT, Ng GF, Nor-Sharina Y, et al. Clinical presentation, severity and progression of
+primary angle closure in Malay and Chinese patients. Med J Malaysia. 2014;69(6):245-251.
+18.
+Leske MC, Wu SY, Honkanen R, et al. Nine-year incidence of open-angle glaucoma in the
+Barbados Eye Studies. Ophthalmology. 2007;114(6):1058-1064.
+19.
+European Glaucoma Prevention Study (EGPS) Group., Miglior S, Pfeiffer N, et al. Predictive
+factors for open-angle glaucoma among patients with ocular hypertension in the European
+Glaucoma Prevention Study. Ophthalmology. 2007;114(1):3-9.
+20.
+Ocular Hypertension Treatment Study Group, European Glaucoma Prevention Study Group,
+Gordon MO, et al. Validated prediction model for the development of primary open-angle
+glaucoma in individuals with ocular hypertension. Ophthalmology. 2007;114(1):10-19.
+21.
+Burr JM, Mowatt G, Hernández R, et al. The clinical effectiveness and cost-effectiveness of
+screening for open angle glaucoma: a systematic review and economic evaluation. Health
+Technol Assess. 2007;11(41):iii-iv, ix-x, 1-190.
+22.
+Ministry of Health Malaysia. Management of Primary Open Angle Glaucoma. Putrajaya: MoH;
+2008.
+23.
+Orzalesi N, Rossetti L, Omboni S, et al. Vascular risk factors in glaucoma: the results of a
+national survey. Graefes Arch Clin Exp Ophthalmol. 2007;245(6):795-802.
+Management of Glaucoma (Second Edition)
+40
+24.
+Sergi M, Salerno DE, Rizzi M, et al. Prevalence of normal tension glaucoma in obstructive sleep
+apnea syndrome patients. J Glaucoma. 2007;16(1):42-46.
+25.
+Wu X, Liu H. Obstructive sleep apnea/hypopnea syndrome increases glaucoma risk: evidence
+from a meta-analysis. Int J Clin Exp Med. 2015;8(1):297-303.
+26.
+Bilgin G. Normal-tension glaucoma and obstructive sleep apnea syndrome: a prospective study.
+BMC Ophthalmol. 2014;14:27.
+27.
+Lin CC, Hu CC, JD H, et al. Obstructive sleep apnea and increased risk of glaucoma: a
+population-based matched-cohort study. Ophthalmology. 2013;120(8):1559-1564.
+28.
+Zhao D, Cho J, Kim MH, et al. Diabetes, fasting glucose, and the risk of glaucoma: a metaanalysis. Ophthalmology. 2015;122(1):72-78.
+29.
+Xu L, Wang Y, Wang S, et al. High myopia and glaucoma susceptibility the Beijing Eye Study.
+Ophthalmology. 2007;114(2):216-220.
+30.
+Zhang C, Tatham AJ, Abe RY, et al. Corneal Hysteresis and Progressive Retinal Nerve Fiber
+Layer Loss in Glaucoma. Am J Ophthalmol. 2016;166:29-36.
+31.
+Murphy ML, Pokrovskaya O, Galligan M, et al. Corneal hysteresis in patients with glaucoma-like
+optic discs, ocular hypertension and glaucoma. BMC Ophthalmol. 2017;17(1):1.
+32.
+Senthil S, Garudadri C, Khanna RC, et al. Angle closure in the Andhra Pradesh Eye Disease
+Study. Ophthalmology. 2010;117(9):1729-1735.
+33.
+Qu W, Li Y, Song W, et al. Prevalence and risk factors for angle-closure disease in a rural
+Northeast China population: a population-based survey in Bin County, Harbin. Acta Ophthalmol.
+2011;89(6):e515-520.
+34.
+Casson RJ, Marshall D, Newland HS, et al. Risk factors for early angle-closure disease in a
+Burmese population: the Meiktila Eye Study. Eye (Lond). 2009;23(4):933-939.
+35.
+Zhou M, Wang W, Huang W, et al. Is increased choroidal thickness association with primary
+angle closure? Acta Ophthalmol 2014;92(7):e514-520.
+36.
+Hatt SR, Wormald R, Burr J. Screening for prevention of optic nerve damage due to chronic open
+angle glaucoma. Cochrane Database Syst Rev. 2006;(4):CD006129.
+37.
+Hernández R, Rabindranath K, Fraser C, et al. Screening for open angle glaucoma: systematic
+review of cost-effectiveness studies. J Glaucoma. 2008;17(3):159-168.
+38.
+Mowatt G, Burr JM, Cook JA, et al. Screening tests for detecting open-angle glaucoma:
+systematic review and meta-analysis. Invest Ophthalmol Vis Sci. 2008;49(12):5373-5385.
+39.
+Liu CJ, Cheng CY, Hsu WM. Scanning laser polarimetry with variable corneal compensation in
+primary angle-closure glaucoma. Ophthalmology. 2008;115(8):1334-1339.
+40.
+Leung CK, Medeiros FA, Zangwill LM, et al. American Chinese glaucoma imaging study: a
+comparison of the optic disc and retinal nerve fiber layer in detecting glaucomatous damage.
+Invest Ophthalmol Vis Sci. 2007;48(6):2644-2652.
+41.
+Zangwill LM, Jain S, Dirkes K, et al. The rate of structural change: the confocal scanning laser
+ophthalmoscopy ancillary study to the ocular hypertension treatment study. Am J Ophthalmol.
+2013;155(6):971-982.
+42.
+Nolan WP, See JL, Chew PT, et al. Detection of primary angle closure using anterior segment
+optical coherence tomography in Asian eyes. Ophthalmology. 2007;114(1):33-39.
+43.
+Leske MC, Heijl A, Hussein M, et al. Factors for glaucoma progression and the effect of treatment:
+the early manifest glaucoma trial. Arch Ophthalmol. 2003;121(1):48-56.
+44.
+Kass MA, Heuer DK, Higginbotham EJ, et al. The Ocular Hypertension Treatment Study: a
+randomized trial determines that topical ocular hypotensive medication delays or prevents the
+onset of primary open-angle glaucoma. Arch Ophthalmol. 2002;120(6):701-713.
+45.
+Bengtsson B, Leske MC, Hyman L, et al. Fluctuation of intraocular pressure and glaucoma
+progression in the early manifest glaucoma trial. Ophthalmology. 2007;114(2):205-209.
+46.
+The Advanced Glaucoma Intervention Study (AGIS): 7. The relationship between control of
+intraocular pressure and visual field deterioration.The AGIS Investigators. Am J Ophthalmol.
+2000;130(4):429-440.
+47.
+Comparison of glaucomatous progression between untreated patients with normal-tension
+glaucoma and patients with therapeutically reduced intraocular pressures. Collaborative NormalTension Glaucoma Study Group. Am J Ophthalmol. 1998;126(4):487-497. Erratum in: Am J
+Ophthalmol 1999 Jan;1127(1991):1120.
+Management of Glaucoma (Second Edition)
+41
+48.
+Sharmini AT, Yin NY, Lee SS, et al. Mean target intraocular pressure and progression rates in
+chronic angle-closure glaucoma. J Ocul Pharmacol Ther. 2009;25(1):71-75.
+49.
+Canadian Ophthalmological Society Glaucoma Clinical Practice Guideline Expert Committee,
+Canadian Ophthalmological Society. Canadian Ophthalmological Society evidence-based
+clinical practice guidelines for the management of glaucoma in the adult eye. Can J Ophthalmol
+2009;44 Suppl 1:S7-93. Erratum in: Can J Ophthalmol. 2009 Aug;44(4):477.
+50.
+Aptel F, Cucherat M, Denis P. Efficacy and tolerability of prostaglandin analogs: a meta-analysis
+of randomized controlled clinical trials. J Glaucoma. 2008;17(8):667-673.
+51.
+Stewart WC, Konstas AG, Kruft B, et al. Meta-analysis of 24-h intraocular pressure fluctuation
+studies and the efficacy of glaucoma medicines. J Ocul Pharmacol Ther. 2010;26(2):175-180.
+52.
+van der Valk R, Webers CA, Lumley T, et al. A network meta-analysis combined direct and
+indirect comparisons between glaucoma drugs to rank effectiveness in lowering intraocular
+pressure. J Clin Epidemiol. 2009;62(12):1279-1283.
+53.
+Li T, Lindsley K, Rouse B, et al. Comparative Effectiveness of First-Line Medications for Primary
+Open-Angle Glaucoma: A Systematic Review and Network Meta-analysis. Ophthalmology.
+2016;123(1):129-140.
+54.
+Cheng JW, Cai JP, Wei RL. Meta-analysis of medical intervention for normal tension glaucoma.
+Ophthalmology. 2009;116(7):1243-1249.
+55.
+Cheng JW, Cai JP, Li Y, et al. A meta-analysis of topical prostaglandin analogs in the treatment
+of chronic angle-closure glaucoma. J Glaucoma. 2009;18(9):652-657.
+56.
+Honrubia F, García-Sánchez J, Polo V, et al. Conjunctival hyperaemia with the use of latanoprost
+versus other prostaglandin analogues in patients with ocular hypertension or glaucoma: a metaanalysis of randomised clinical trials. Br J Ophthalmol. 2009;93(3):316-321.
+57.
+Vass C, Hirn C, Sycha T, et al. Medical interventions for primary open angle glaucoma and ocular
+hypertension. Cochrane Database Syst Rev. 2007;(4):CD003167.
+58.
+Cheng JW, Li Y, Wei RL. Systematic review of intraocular pressure-lowering effects of adjunctive
+medications added to latanoprost. Ophthalmic Res. 2009;42(2):99-105.
+59.
+Ho JD, Hu CC, HC L. Antiglaucoma medications during pregnancy and the risk of low birth
+weight: a population-based study. Br J Ophthalmol. 2009;93(10):1283-1286.
+60.
+Cheng JW, Cheng SW, Gao LD, et al. Intraocular pressure-lowering effects of commonly
+used fixed-combination drugs with timolol: a systematic review and meta-analysis. PLoS One.
+2012;7(9):e45079.
+61.
+Cox JA, Mollan SP, Bankart J, et al. Efficacy of antiglaucoma fixed combination therapy versus
+unfixed components in reducing intraocular pressure: a systematic review. Br J Ophthalmol.
+2008;92(6):729-734.
+62.
+Barnebey HS, Robin AL. Adherence to Fixed-Combination Versus Unfixed Travoprost 0.004%/
+Timolol 0.5% for Glaucoma or Ocular Hypertension: a Randomized Trial. Am J Ophthalmol.
+2016;pii: S0002-9394(16)30598-0.
+63.
+Sena DF, Lindsley K. Neuroprotection for treatment of glaucoma in adults. Cochrane Database
+Syst Rev. 2013;(2):CD006539.
+64.
+Asian Pacific Glaucoma Society. Asia Pacific Glaucoma Guidelines (Third Edition). Amsterdam:
+Kugler Publications; 2016.
+65.
+Katz LJ, Steinmann WC, Kabir A, et al. Selective laser trabeculoplasty versus medical therapy as
+initial treatment of glaucoma: a prospective, randomized trial. J Glaucoma. 2012;21(7):460-468.
+66.
+Wang W, He M, Zhou M, et al. Selective laser trabeculoplasty versus argon laser trabeculoplasty
+in patients with open-angle glaucoma: a systematic review and meta-analysis. PLoS One.
+2013;8(12):e84270.
+67.
+Wong MO, Lee JW, Choy BN, et al. Systematic review and meta-analysis on the efficacy of
+selective laser trabeculoplasty in open-angle glaucoma. Surv Ophthalmol. 2015;60(1):36-50.
+68.
+Polat J, Grantham L, Mitchell K, et al. Repeatability of selective laser trabeculoplasty. Br J
+Ophthalmol. 2016;100(10):1437-1441.
+69.
+Damji KF, Bovell AM, Hodge WG, et al. Selective laser trabeculoplasty versus argon
+laser trabeculoplasty: results from a 1-year randomised clinical trial. Br J Ophthalmol.
+2006;90(12):1490-1494.
+Management of Glaucoma (Second Edition)
+42
+70.
+Latina MA, Sibayan SA, Shin DH, et al. Q-switched 532-nm Nd:YAG laser trabeculoplasty
+(selective laser trabeculoplasty): a multicenter, pilot, clinical study. Ophthalmology.
+1998;105(11):2082-2088.
+71.
+Nagar M, Ogunyomade A, O’Brart DP, et al. A randomised, prospective study comparing
+selective laser trabeculoplasty with latanoprost for the control of intraocular pressure in ocular
+hypertension and open angle glaucoma. Br J Ophthalmol. 2005;89(11):1413-1417.
+72.
+Hodge WG, Damji KF, Rock W, et al. Baseline IOP predicts selective laser trabeculoplasty
+success at 1 year post-treatment: results from a randomised clinical trial. Br J Ophthalmol.
+2005;89(9):1157-1160.
+73.
+Heijl A, Peters D, Leske MC, et al. Effects of argon laser trabeculoplasty in the Early Manifest
+Glaucoma Trial. Am J Ophthalmol. 2011;152(5):842-848.
+74.
+Tzimis V, Tze L, Ganesh J, et al. Laser trabeculoplasty: an investigation into factors that might
+influence outcomes. Can J Ophthalmol. 2011;46(4):305-309.
+75.
+Narayanaswamy A, Baskaran M, Perera SA, et al. Argon Laser Peripheral Iridoplasty for Primary
+Angle-Closure Glaucoma: A Randomized Controlled Trial. Ophthalmology. 2016;123(3):514521.
+76.
+Zhekov I, Janjua R, Shahid H, et al. A retrospective analysis of long-term outcomes following a
+single episode of transscleral cyclodiode laser treatment in patients with glaucoma. BMJ Open.
+2013;3(7.pii ):e002793.
+77.
+Wilkins M, Indar A, Wormald R. Intra-operative mitomycin C for glaucoma surgery. Cochrane
+Database Syst Rev. 2005;(4):CD002897.
+78.
+Azuara-Blanco A, Burr J, Ramsay C, et al. Effectiveness of early lens extraction for the
+treatment of primary angle-closure glaucoma (EAGLE): a randomised controlled trial. Lancet.
+2016;388(10052):1389-1397.
+79.
+Tham CC, Kwong YY, Leung DY, et al. Phacoemulsification versus combined
+phacotrabeculectomy in medically controlled chronic angle closure glaucoma with cataract.
+Ophthalmology. 2008;115(12):2167-2173.e2162.
+80.
+Tham CC, Kwong YY, Leung DY, et al. Phacoemulsification versus combined
+phacotrabeculectomy in medically uncontrolled chronic angle closure glaucoma with cataracts.
+Ophthalmology. 2009;116(4):725-731, 731.e721-723.
+81.
+HaiBo T, Xin K, ShiHeng L, et al. Comparison of Ahmed glaucoma valve implantation
+and trabeculectomy for glaucoma: a systematic review and meta-analysis;. PLoS One.
+2015;10(2):e0118142.
+82.
+Gedde SJ, Schiffman JC, Feuer WJ, et al. Treatment outcomes in the Tube Versus
+Trabeculectomy (TVT) study after five years of follow-up. Am J Ophthalmol. 2012;153(5):789803.e782.
+83.
+Molteno AC, Bevin TH, Herbison P, et al. Long-term results of primary trabeculectomies and
+Molteno implants for primary open-angle glaucoma. Arch Ophthalmol. 2011;129(11):1444-1450.
+84.
+Budenz DL, Barton K, Gedde SJ, et al. Five-year treatment outcomes in the Ahmed Baerveldt
+comparison study. Ophthalmology 2015;122(2):308-316.
+85.
+Christakis PG, Tsai JC, Kalenak JW, et al. The Ahmed versus Baerveldt study: three-year
+treatment outcomes. Ophthalmology. 2013;120(11):2232-2240.
+86.
+Eldaly MA, Bunce C, Elsheikha OZ, et al. Non-penetrating filtration surgery versus trabeculectomy
+for open-angle glaucoma. Cochrane Database Syst Rev. 2014;(2):CD007059.
+87.
+National Collaborating Centre for Acute Care. Glaucoma: Diagnosis and management of chronic
+open angle glaucoma and ocular hypertension. London: RCS; 2009.
+88.
+National Health and Medical Research Council. NHMRC Guidelines for the screening, prognosis,
+diagnosis, management and prevention of glaucoma 2010. Canberra: NHMRC; 2010.
+89.
+Weinreb RN, Garway-Heath DF, Leung C, et al. Progression of glaucoma: the 8th consensus
+report of the World Glaucoma Association. Amsterdam: Kugler Publications; 2011.
+90.
+Brusini P. Monitoring glaucoma progression. Prog Brain Res. 2008;173:59-73.
+91.
+Chauhan BC, Garway-Heath DF, Goñi FJ, et al. Practical recommendations for measuring rates
+of visual field change in glaucoma. Br J Ophthalmol. 2008;92(4):569-573.
+92.
+American Academy of Ophthalmology. Primary Open-Angle Glaucoma PPP - 2015. San
+Francisco: Elsevier Inc; 2015.
+Management of Glaucoma (Second Edition)
+43
+93.
+American Optometric Association. Care of the Patient with Open Angle Glaucoma. St. Louis:
+AOA; 2010.
+94.
+Luo RJ, Liu SR, Tian Z, et al. Rehabilitation of vision disorder and improved quality of life in
+patients with primary open angle glaucoma. Chin Med J (Engl). 2011;124(17):2687-2691.
+95.
+Wang BZ, Pesudovs K, Keane MC, et al. Evaluating the effectiveness of multidisciplinary lowvision rehabilitation. Optom Vis Sci. 2012;89(9):1399-1408.
+96.
+Perkhidmatan Optometri, Kementerian Kesihatan Malaysia. Prosedur Operasi Standard
+Penjagaan dan Rehabilitasi Visual Pesakit Penglihatan Terhad. Putrajaya: Majlis Optik Malaysia,
+KKM; 2009.
+97.
+Gordon MO, Beiser JA, Brandt JD, et al. The Ocular Hypertension Treatment Study: baseline
+factors that predict the onset of primary open-angle glaucoma. Arch Ophthalmol. 2002;120(6):714720.
+98.
+Ku JY, Danesh-Meyer HV, Craig JP, et al. Comparison of intraocular pressure measured
+by Pascal dynamic contour tonometry and Goldmann applanation tonometry. Eye (Lond).
+2006;20(2):191-198.
+99.
+Martinez-de-la-Casa JM, Garcia-Feijoo J, Vico E, et al. Effect of corneal thickness on dynamic
+contour, rebound, and goldmann tonometry. Ophthalmology. 2006;113(12):2156-2162.
+100. Kass MA, Gordon MO, Gao F, et al. Delaying treatment of ocular hypertension: the ocular
+hypertension treatment study. Arch Ophthalmol. 2010;128(3):276-287.
+101. Kass MA, Heuer DK, Higginbotham EJ, et al. The Ocular Hypertension Treatment Study: a
+randomized trial determines that topical ocular hypotensive medication delays or prevents the
+onset of primary open-angle glaucoma. Arch Ophthalmol 2002;120(6):701-713.
+102. Kymes SM, Kass MA, Anderson DR, et al. Management of ocular hypertension: a costeffectiveness approach from the Ocular Hypertension Treatment Study. Am J Ophthalmol.
+2006;141(6):997-1008.
+103. Miglior S, Zeyen T, Pfeiffer N, et al. Results of the European Glaucoma Prevention Study.
+Ophthalmology. 2005;112(3):366-375.
+104. Keltner JL, Johnson CA, Anderson DR, et al. The association between glaucomatous visual fields
+and optic nerve head features in the Ocular Hypertension Treatment Study. Ophthalmology.
+2006;113(9):1603-1612.
+105. American Academy of Ophthalmology. Primary Open-Angle Glaucoma Suspect PPP - 2015. San
+Francisco: Elsevier Inc.; 2016.
+106. Sommer A, Tielsch JM. Primary open-angle glaucoma: a clinical-epidemiologic perspective. In:
+Shields MB,Van Buskirk M, editors. 100 years of progress in glaucoma. Philadelphia: Lippincott
+Raven; 1997.
+107. Drance S, Anderson DR, Schulzer M, et al. Risk factors for progression of visual field
+abnormalities in normal-tension glaucoma. Am J Ophthalmol. 2001;131(6):699-708.
+108. Choi J, Kook MS. Systemic and Ocular Hemodynamic Risk Factors in Glaucoma. Biomed Res
+Int. 2015;2015:141905.
+109. Asrani S, Zeimer R, Wilensky J, et al. Large diurnal fluctuations in intraocular pressure are an
+independent risk factor in patients with glaucoma. J Glaucoma. 2000;9(2):134-142.
+110. Park SC, Lee DH, Lee HJ, et al. Risk factors for normal-tension glaucoma among subgroups of
+patients. Arch Ophthalmol. 2009;127(10):1275-1283.
+111. Leske MC, Heijl A, Hyman L, et al. Predictors of long-term progression in the early manifest
+glaucoma trial. Ophthalmology. 2007;114(11):1965-1972.
+112. Ren R, Jonas JB, Tian G, et al. Cerebrospinal fluid pressure in glaucoma: a prospective study.
+Ophthalmology. 2010;117(2):259-266.
+113. Kiddee W, Trope GE, Sheng L, et al. Intraocular pressure monitoring post intravitreal steroids: a
+systematic review. Surv Ophthalmol 2013;58(4):291-310.
+114. Sihota R, Konkal VL, Dada T, et al. Prospective, long-term evaluation of steroid-induced
+glaucoma. Eye (Lond). 2008;22(1):26-30.
+115. Kiuchi Y, Sugimoto R, Nakae K, et al. Trabeculectomy with mitomycin C for treatment of
+neovascular glaucoma in diabetic patients. Ophthalmologica. 2006;220(6):383-388.
+116. Yalvac IS, Eksioglu U, Satana B, et al. Long-term results of Ahmed glaucoma valve and Molteno
+implant in neovascular glaucoma. Eye (Lond). 2007;21(1):65-70.
+Management of Glaucoma (Second Edition)
+44
+117. Yildirim N, Yalvac IS, Sahin A, et al. A comparative study between diode laser
+cyclophotocoagulation and the Ahmed glaucoma valve implant in neovascular glaucoma: a longterm follow-up. J Glaucoma. 2009;18(3):192-196.
+118. Gupta V, Jha R, Rao A, et al. The effect of different doses of intracameral bevacizumab on surgical
+outcomes of trabeculectomy for neovascular glaucoma. Eur J Ophthalmol. 2009;19(3):435-441.
+119. Mahdy RA, Nada WM, Fawzy KM, et al. Efficacy of intravitreal bevacizumab with panretinal
+photocoagulation followed by Ahmed valve implantation in neovascular glaucoma. J Glaucoma.
+2013;22(9):768-772.
+120. Arcieri ES, Paula JS, Jorge R, et al. Efficacy and safety of intravitreal bevacizumab in eyes with
+neovascular glaucoma undergoing Ahmed glaucoma valve implantation: 2-year follow-up. Acta
+Ophthalmol. 2015;93(1):e1-6.
+121. Tang M, Fu Y, Wang Y, et al. Efficacy of intravitreal ranibizumab combined with Ahmed glaucoma
+valve implantation for the treatment of neovascular glaucoma. BMC Ophthalmol. 2016;16:7.
+122. Hamed-Azzam S, Briscoe D, Tomkins O, et al. Evaluation of intraocular pressure according to
+corneal thickness before and after excimer laser corneal ablation for myopia. Int Ophthalmol.
+2013;33(4):349-354.
+123. Aristeidou AP, Labiris G, Katsanos A, et al. Comparison between Pascal dynamic contour
+tonometer and Goldmann applanation tonometer after different types of refractive surgery.
+Graefes Arch Clin Exp Ophthalmol. 2011;249(5):767-773.
+Management of Glaucoma (Second Edition)
+45
+APPENDIX 1
+EXAMPLE OF SEARCH STRATEGY
+The following Medical Subject Heading terms or free text terms were
+used either singly or in combination, search was limit to English, human
+and last 10 years:-
+Clinical Question: What are the risk factors for primary glaucoma
+(open angle and angle closure glaucoma)?
+1.
+glaucoma/
+2.
+glaucoma*.tw.
+3.
+glaucoma, angle-closure/
+4.
+glaucoma* adj1 (narrow angle or narrow-angle or closed angle or
+closed-angle or angle closure or angle-closure).tw.
+5.
+glaucoma, open-angle/
+6.
+glaucoma* adj1 (simpl* or open angle or open-angle).tw.
+7.
+low tension glaucoma/
+8.
+glaucoma* adj1 (low tension or normal tension).tw.
+9.
+tension adj1 (glaucoma* low or glaucoma* normal).tw.
+10. 1 or 2 or 3 or 4 or 5 or 6 or 7 or 8 or 9
+11. risk factors/
+12. Risk adj1 factor*.tw.
+13. 11 or 12
+14. 10 and 13
+15. limit 14 to (“all adult (19 plus years)” and english and humans and
+last 10 years)
+Management of Glaucoma (Second Edition)
+46
+APPENDIX 2
+CLINICAL QUESTIONS
+1.
+What are the risk factors for primary glaucoma (open angle and
+angle closure glaucoma)?
+2.
+Who to be screened for glaucoma?
+What are the effective and safe screening tools/methods for
+glaucoma?
+3.
+What are the criteria for glaucoma diagnosis?
+4.
+What are the principles of treatment for glaucoma?
+5.
+What are the effective and safe pharmacological treatments in
+glaucoma?
+6.
+Is laser treatment effective and safe in primary open angle
+glaucoma?
+7.
+What are the effective and safe surgical treatments in glaucoma?
+8.
+What is the effective and safe follow-up schedule in glaucoma?
+9.
+What is the effective method of monitoring patient’s compliance
+and adherence in glaucoma?
+10. What is the effective method of monitoring progression in
+glaucoma?
+11. What are the effective and safe rehabilitation measures in
+glaucoma?
+12. What are the safe and effective treatments in ocular hypertension?
+13. How to diagnose and follow-up glaucoma suspect (optic disc
+abnormalities)?
+14. What are the effective and safe treatments in patients with steroidinduced glaucoma?
+15. What are the effective and safe treatments in neovascular
+glaucoma?
+16. What are the effective and safe methods of intra-ocular pressure
+measuring in post-refractive surgery in glaucoma?
+Management of Glaucoma (Second Edition)
+47
+APPENDIX 3
+VAN HERICK TEST
+•
+A narrow slit of light is projected onto the peripheral cornea at an
+angle of 60° as near as possible to the limbus.
+•
+This results in a slit image on the surface of the cornea, the width of
+which is used as reference for the assessment of the conditions in
+the chamber angle [limbal corneal thickness (LCT)].
+•
+The peripheral anterior chamber depth (PACD) can be described by
+the distance between the corneal slit image and the slit image on
+the iris
+Modified: Savage JA. Gonioscopy in the Management of Glaucoma. San Francisco:
+AAO; 2006
+Van Herick Grade
+Ratio of PACD to LCT
+Schematic diagram
+Grade 0
+Closed angle closure
+Grade 1
+<1:4
+Angle closure likely
+Angle approx. 10o
+Grade 2
+1:4
+Angle closure possible
+Angle approx. 20o
+Grade 3
+1:2
+Angle closure unlikely
+Grade 4
+1:1 (or > 1.1)
+Angle closure very unlikely
+LCT
+PACD
+Management of Glaucoma (Second Edition)
+48
+APPENDIX 4
+INDENTATION/DYNAMIC GONIOSCOPY
+Technique
+1. Explain the procedure to patient.
+2. Instill topical anaesthesia.
+3. Darken the room.
+4. Set the slit lamp magnification to 10 - 25x, a fairly short (2 - 3 mm)
+slit and narrow light beam. The light beam should not pass through
+the pupil as this may cause pupil constriction.
+5. Use a goniolens with a smaller posterior diameter than the corneal
+diameter (such as Sussman, or Zeiss 4-mirror goniolens). A coupling
+agent is not required.
+6. Start with non-indentation gonioscopy.
+7. In indentation gonioscopy, gentle pressure is placed on the cornea
+to force the aqueous humour into the anterior chamber angle. This
+causes posterior bowing of the iris which enables further assessment
+of the angle.
+8. Too much pressure on the cornea may distort the anterior chamber
+angle and may give the observer the false impression of an open
+angle. This happens when the examiner notices the presence of
+Descemet membrane folds.
+9. Examine each quadrant of the angle and record accordingly.
+Refer to www.gonioscopy.org. for further details.
+Management of Glaucoma (Second Edition)
+49
+APPENDIX 5
+ESTIMATION OF OPTIC DISC SIZE
+•
+OD size influences the estimation of CDR.
+•
+A normal patient with a small disc will have a small cup, thus a
+smaller CDR. A normal patient with a large disc tend to have a large
+cup, thus a larger CDR.
+•
+OD size can be estimated using a handheld convex lens and a slit
+lamp (using the adjustable beam height).
+•
+A small beam is adjusted to the vertical diameter of the OD and its
+length is read on the scale of the slit lamp. It is most accurate in a
+diated pupil.
+•
+Based on the lens used, this value needs to be corrected using the
+magnification factor depending on lens power.
+•
+A normal dics size is approximately 1.5 mm. A disc is considered
+small if it is ≤ 1.2 mm and large if it is ≥1.8
+Lens used
++60D Volk
++78D Volk
+Superfield Volk
+Correction factor
+1.0
+1.13
+1.50
+Asymmetrical CDR
+RIGHT EYE : CDR 0.3
+LEFT EYE : CDR 0.6
+Cup to disc ratio
+Disc
+Cup
+Optic
+disc
+Vertical axis
+Measurement of Optic Cup/Disc Ratio
+Cup
+Management of Glaucoma (Second Edition)
+50
+Right eye OD showing typical glaucomatous optic disc changes:
+• ISNT rule not obeyed (inferior NRR thickness is the same as
+superior NRR)
+• large vertical CDR 0.8 (ratio of black to yellow arrow)
+• peripapilllary OD haemorrhage and loss of RNFL (white arrow
+in picture A)
+• focal neuro-retinal rim thinning/notching (white arrow picture B)
+Modified: American Academy of Ophthalmology. Gonioscopy in the Management
+of Glaucoma. San Francisco: AAO; 2006
+• The ISNT rule is useful
+in evaluating whether
+thinning is physiological
+or pathological.
+• A healthy disc tends to
+have its thickest portion
+of NRR inferiorly,
+follows by superiorly
+and nasally, with
+the thinnest portion
+temporally. NRR
+thickness as shown in
+yellow bar follows ISNT
+rule.
+A normal OD photograph showing
+the thickness of neuro-retinal rim
+following the ISNT rule.
+A
+B
+Management of Glaucoma (Second Edition)
+51
+APPENDIX 6
+Medical therapy to break attack
+and prepare patient for LPI
+Prompt LPI
+ALPI
+NO
+YES
+Patent iridotomy
+IOP uncontrolled
+IOP controlled
+View
+clear
+Patient with AAC
+AAC = acute angle closure
+LPI = laser peripheral iridotomy
+ALPI = argon laser peripheral iridoplasty
+PAC = primary angle closure
+IOP = intraocular pressure
+Compression or ALPI
+to clear the view
+Evidence for secondary
+cause of AAC crisis
+Definite evidence for PAC mechanism of AAC
+Treat pathology of secondary AAC and
+lower IOP medically or surgically
+Unsuccessful
+or not possible
+Unsuccessful
+or not possible
+Schedule iridotomy in
+fellow eye if chamber angle
+is anatomically similar
+Surgical iridectomy or cataract surgery
+± goniosynechialysis or trabeculectomy
+Modified: American Academy of
+Ophthalmology. Primary Angle
+Closure PPP - 2015. San
+Francisco: Elsevier Inc; 2015
+Follow-up with dark room
+gonioscopy to assess adequacy
+of angle opening
+• Dark room gonioscopy to assess other mechanism of angle closure
+• Ascertain continued patency of the iridotomy
+• Further medical and surgical treatment to lower IOP
+MANAGEMENT ACUTE ANGLE CLOSURE
+Management of Glaucoma (Second Edition)
+52
+APPENDIX 7
+PROPER INSTILLATION TECHNIQUE OF EYE DROP
+It is important to:
+•
+Wash hands before and after putting the eye drop.
+•
+Apply the eye drop as directed by the doctor.
+Instillation technique
+1. Tilt the head back and look up.
+2. Pull down the lower eyelid to form a pocket.
+3. Hold the bottle vertically and bring it above the eye. Do not let
+the bottle tip touch the eye.
+4. Squeeze one drop into the pocket of the lower eyelid.
+5. If you’re not sure a drop has entered the eye, instil a second drop.
+6. Close the eye gently. Do not blink or squeeze the eyelid. Apply a
+gentle pressure on the lacrimal duct at a nasal corner of the eye
+with the index finger for two to three minutes.
+7. If using more than one eye drops, wait at least five minutes
+before instilling the next eye drop.
+Management of Glaucoma (Second Edition)
+53
+APPENDIX 8
+MAIN FEATURES OF TOPICAL ANTI-GLAUCOMA MEDICATIONS
+Features
+Prostaglandin
+analogues/prostamides
+β-blockers
+α2 Adrenergic agonists
+Topical CAIs
+Cholinergic agents
+(direct-acting)
+Second choice
+Mechanism of action
+Increase in uveoscleral
+outflow
+Reduction of aqueous
+production
+• Reduction of aqueous
+production
+• Increase in
+uveoscleral outflow
+Reduction of aqueous
+production
+Increase in trabecular
+outflow
+IOP reduction efficacy
+Treatment option
+++++
+25 - 30%
+(better control of
+circadian IOP)
++++
+20 - 25%
+• Selective beta-
+blockers has lower
+efficacy
+• Efficacy maybe
+reduced by
+simultaneuos
+treatment with
+systemic beta-
+blockers
+• Tachyphylaxis may
+occur
+++ to +++
+20 - 25%
+• Long term use of
+apraclonidine may be
+limited due to allergic
+reactions and
+tachyphylaxis (lower
+incidence with
+brimonidine)
++ to ++
+15 - 20%
++ to ++
+20 - 25%
+Duration of effect
+24 hours
+12 hours
+12 hours
+8 - 12 hours
+6 - 12 hours
+First or second choice
+(switching within this
+class maybe of benefit
+as patient may respond
+differently)
+First or second choice
+Third choice
+Second choice
+(α2-selective agents
+maybe used as short
+term primary therapy
+following anterior
+segment procedures for
+preventing acute spike
+in IOP)
+Management of Glaucoma (Second Edition)
+54
+Features
+Prostaglandin
+analogues/prostamides
+β-blockers
+α2 Adrenergic agonists
+Topical CAIs
+Cholinergic agents
+(direct-acting)
+Instillation frequency
+• Once daily (except
+unoprostone twice daily)
+• Paradoxical effect
+(↑ IOP) may occur if
+more than once daily
+dosing
+• More effective if
+administered in the
+evening
+1 - 2 times daily
+2 - 3 times daily
+2 - 3 times daily
+(Monotherapy - thrice
+daily dosing,
+adjunctive therapy -
+twice daily dosing)
+3 - 4 times daily
+Drug combinations - addictive effect
+Prostaglandin
+analogues/
+prostamides
++
++
++
+±
+Beta-blockers
++
++
++
++
+Adrenergic agonists
++
++
++
++
+Topical CAIs
++
++
++
++
+Cholinergic agents
+(direct-acting)
+±
++
++
++
+Commercially available
+preparation
+Topical CAIs
+• Brinzolamide 1%*
+• Dorzolamide 2%*
+• Latanoprost 0.005%*
+• Travoprost 0.004%*
+• Bimatoprost 0.03%,
+0.01%*
+• Tafluprost 0.0015%*
+• Unoprostone 0.12%,
+0.15%
+Non-selective
+• Timolol 0.25%, 0.5%*
+• Levobunolol 0.25%,
+0.5%*
+• Befunolol 0.5%
+• Metipranolol 0.1%,
+0.3%
+• Cartelolol 0.5%, 2%
+• Pindolol 0.5%
+β1 selective
+• Betaxolol 0.25%, 0.5%*
+α2-selective
+• Brimonidine 0.15%*
+• Apraclonidine 0.5%,
+1%
+• Clonidine 0.15%, 0.5%
+Non-selective
+• Dipivefrin 0.1%,
+• Epinephrine 0.25%,
+0.5%
+Direct-acting
+cholinergic agents
+• Pilocarpine 1%, 2%, 4%*
+• Aceclidine 2%
+• Carbachol 0.75% - 3%
+• Acethylcholine 1%
+Indirect-acting
+• Demecarium bromide
+0.125% - 0.25%
+• Ecothiophate iodide
+0.03% - 0.25%
+• Physostigmine
+Management of Glaucoma (Second Edition)
+55
+Features
+Prostaglandin
+analogues/prostamides
+β-blockers
+α2 Adrenergic agonists
+Topical CAIs
+Cholinergic agents
+(direct-acting)
+Beta-blockers
+Yes*
+No
+Yes*
+Yes*
+Adrenergic agonists
+No
+No*
+Yes
+No
+Topical CAIs
+No
+Yes*
+Yes
+No
+Non-preservatives or
+with different
+preservative
+preparations
+No
+Yes*
+(both preparations
+available)
+Yes*
+(preparation with
+different preservative
+available)
+No
+Yes*
+(non-preservative
+preparation
+available)
+No
+Yes*
+• Travoprost 0.004% &
+timolol 0.5% eye drops*
+• Bimatoprost 0.03% &
+timolol 0.5% eye drops*
+• Latanoprost 0.005% &
+timolol maleate 0.5%
+eye drops*
+• Tafluprost 0.0015% &
+timolol 0.5% eye drops*
+• Dorzolamide 2% &
+timolol 0.5% eye drops*
+• Brimonidine 0.2% &
+timolol 0.5% eye drops*
+• Brinzolamide 1% &
+timolol 0.5% eye drops*
+Fixed combination
+preparations
+Yes*
+Brimonidine 0.2% &
+brinzolamide 1% eye
+drops
+Yes*
+Brimonidine 0.2% &
+brinzolamide 1% eye
+drops
+*Drugs available in Malaysia
+The information on various anti-glaucoma medications on this section only serves as a general guide and is not all inclusive.
+Source:
+• Ministry of Health Malaysia. Management of Primary Open Angle Glaucoma. Putrajaya: MoH; 2008
+• European Glaucoma Society. Terminology and Guidelines for Glaucoma (4th Edition). Savona: Publicomm; 2014.
+• Individual product information sheet
+Management of Glaucoma (Second Edition)
+56
+Safety Profiles of Topical Anti-glaucoma Medications
+Safety Profiles
+β-blockers
+α2 Adrenergic agonists
+Topical CAIs
+Cholinergic agents
+(direct-acting)
+±
+±
+++
+±
+±
+Relative
+contraindications:
+• uveitis
+• Herpes Simplex Viral
+keratitis
+• cystoid macular oedema
+Caution in:
+• complicated
+intraocular surgery
+(e.g. posterior capsule
+rupture)
+Contraindications
+• Bronchial asthma,
+chronic obstructive
+pulmonary disease
+• Bradycardia, heart
+block, cardiac failure
+Relative contraindication
+for β1 selective
+• On monoamine
+oxidase inhibitor
+therapy
+• Children <2 years old
+due to possibility of
+central nervous
+system suppression
+• Compromised
+corneal endothelium
+• Sulfonamide allergy
+• Severe renal
+impairment
+• Caution Hepatic
+impairment
+• Uveitic, neovascular
+and lens induced
+glaucoma
+• Aqueous misdirection
+syndrome
+Pregnancy and nursing
+mothers
+Human studies are
+lacking. Use only if
+potential benefit
+outweighs the potential
+risk to foetus/infant.
+Human studies are
+lacking. Use only if
+potential benefit
+outweighs the potential
+risk to foetus/infant.
+Human studies are
+lacking. Use only if
+potential benefit
+outweighs the potential
+risk to foetus/infant.
+Human studies are
+lacking. Use only if
+potential benefit
+outweighs the potential
+risk to foetus/infant.
+Human studies are
+lacking. Use only if
+potential benefit
+outweighs the potential
+risk to foetus/infant.
+(teratogenic effect
+seen with high dose
+of systemic CAIs
+in animal studies)
+Common drug
+interactions
+Chronic pilocarpine use
+may reduce the efficacy
+of these agents
+Systemic beta-blockers
+Calcium antagonists
+Digitalis
+Catecholamine-depleting
+drugs
+Central nervous system
+depressants (alcohol,
+barbiturates, opiates,
+sedatives, anaesthetics),
+tricyclic antidepressants
+Caution in patients on
+steroid (potential for
+hypokalaemia)
+Competitive interaction
+on outflow with
+prostaglandin
+Topical allergies
+Prostaglandin
+analogues/prostamides
+Management of Glaucoma (Second Edition)
+57
++
+++
+(Brinzolamide 1% causes
+less ocular discomfort)
+++
++++
+Ocular adverse effects
++ to ++
+Ocular discomfort
+(stinging, burning,
+foreign body sensation)
+Pruritis
+Photophobia
+Tearing
+Conjunctival
+hyperaemia
+Decreased corneal
+sensitivity
+Punctate epithelial
+keratopathy
+Allergy (conjunctivitis,
+eyelid erythema)
+Ocular discomfort
+(stinging, burning,
+foreign body sensation)
+Pruritis
+Allergy
+(conjunctivitis, eyelid
+erythema)
+Conjunctival
+hyperaemia
+Subconjunctival
+haemorrhage
+Lid retraction
+Pupil dilatation
+(apraclonidine)
+Ocular discomfort
+(stinging, burning,
+foreign body sensation)
+Pruritis
+Tearing
+Allergy (conjunctivitis,
+eyelid erythema)
+Blurred vision
+Transient myopia
+Punctate epithelial
+keratopathy
+Brow ache
+Lacrimation
+Miosis
+Dimness of vision
+Blurring of vision,
+myopic shift
+Cilliary spasm
+Aggravate pupillary
+block
+Retinal detachment
+Ocular discomfort
+(stinging, burning,
+foreign body sensation)
+Pruritis
+Photophobia
+Tearing
+Dry eye
+Blurred vision
+Asthenopia
+Allergy (conjunctivitis,
+eyelid erythema)
+Conjunctival
+hyperaemia (usually
+transient and noninfectious)
+Subconjunctival
+haemorrhage
+Hypertrichosis
+Blepharitis
+Eyelid skin darkening
+Corneal oedema
+Punctuate epithelial
+keratopathy
+Reactivation of Herpes
+Simplex Virus keratitis
+Iris darkening
+Cataract
+Anterior uveitis
+Cystoid macula oedema
+Safety Profiles
+Prostaglandin
+analogues/prostamides
+β-blockers
+α2 Adrenergic agonists
+Topical CAIs
+Cholinergic agents
+(direct-acting)
+Management of Glaucoma (Second Edition)
+58
+Systemic adverse
+effects
+0
+-
+-
+-
+-
+-
+-
+-
+-
++ to ++
+0 to ++
+0 to ++
+(Selective β-blockers
+has a wider safety
+margin - less systemic
+side effects especially
+cardiopulmonary
+side-effects)
++ to +++
+Cardiaovascular
+adverse effects
+Bradyarrhythmias
+Hypotension
+Cardiac failure
+Arrhythmia
+Flushing
+Noctural hypotension
+Respiratory adverse
+effects
+Bronchospasm
+Bronchoconstriction
+Neurology adverse
+effects
+Syncope
+Drowsiness
+Anergy
+Fatigue
+Depression
+Aggravation of
+myasthenia gravis
+Memory impairment
+Apnoea in infants
+Syncope
+Drowsiness
+Headache
+Asthenia
+Fatigue
+Depression
+Dizziness
+Headache
+Asthenia
+Depression
+Paresthesia
+Headache
+Gastrointestinal tract
+(GIT) adverse effects
+GIT discomfort
+Oral dryness
+GIT discomfort
+Oral dryness
+Throat irritation
+Altered taste
+Salivation
+Abdominal cramps
+Diarrhoea
+Vomiting
+Safety Profiles
+β-blockers
+α2 Adrenergic agonists
+Topical CAIs
+Cholinergic agents
+(direct-acting)
+Prostaglandin
+analogues/prostamides
+Management of Glaucoma (Second Edition)
+59
+-
+-
+Other adverse effects
+Urolithiasis
+Urinary frequency
+Masked hypoglycaemia
+Hypercholesterolaemia
+Sexual dysfunction (loss
+of libido, impotence)
+Reduced effort tolerance
+Increased falls in the
+elderly
+Safety Profiles
+β-blockers
+α2 Adrenergic agonists
+Topical CAIs
+Cholinergic agents
+(direct-acting)
+Prostaglandin
+analogues/prostamides
+The information on various anti-glaucoma medications on this section only serves as a general guide and is not all inclusive.
+Source:
+• Ministry of Health Malaysia. Management of Primary Open Angle Glaucoma. Putrajaya: MoH; 2008
+• European Glaucoma Society. Terminology and Guidelines for Glaucoma (4th Edition). Savona: Publicomm; 2014.
+• South East Asia Glaucoma Interest Group. Asia Pacific Glaucoma Guidelines Second Edition. Hong Kong: Scientific Communication International; 2008
+• Individual product leaflet
+Management of Glaucoma (Second Edition)
+60
+Application of Mitomycin C (MMC) or 5-Fluorouracil (5-FU) in Trabeculectomy
+Antimetabolite
+Timing of application
+Dose and duration
+Mode of application
+MMC**
+• comes in as a vial and in purple
+colour powder of 10 mg injection
+potency
+• freshly reconstituted with distilled
+water or normal saline in
+concentration of 0.2 - 0.4 mg/ml
+During surgery/intra-operatively
+0.2 - 0.4 mg/ml applied for 1 - 5
+minutes
+For primary surgery, a concentration
+of 0.4 mg/ml is applied for 1 minute,
+whereas for poor prognosis
+filters/cases, the same concentration
+can be applied for 3 minutes.
+Subconjunctival local application
+Post-operatively/prior to needling
+0.01 ml of MMC (0.4 mg/ml) and 0.02
+ml of bupivacaine with epinephrine
+Subconjunctival injection
+5-FU**
+(comes in 50mg/ml solution in 5 ml
+vial and is used without dilution)
+During surgery/ intra-operatively
+50 mg/ml for 1 - 3 minutes
+Subconjunctival local application
+Post-operatively/prior to needling
+5 mg/0.1ml for up to 4 post-operative
+weeks
+Subconjunctival injection
+**Antimetabolites usage should be individualised to each patient depending on the complexity of cases.
+Care in the preparation and disposal of metabolites:
+• It is recommended to prepare metabolite in a separate trolley using aseptic technique.
+• The instruments used in MMC or 5-FU application should not be re-used during the surgery to avoid contamination of the surgical
+field.
+• The soaked sponges must be disposed in an incinerator or safely in concordance with bio-waste rules.
+• Disposal of leftover/unused antimetabolites should be taken with the same care as any other chemotherapies. It should be sent
+back to local pharmacy department for proper disposal.
+Modified: South East Asia Glaucoma Interest Group. Asia Pacific Glaucoma Guidelines Second Edition. Hong Kong: Scientific Communication International;
+Management of Glaucoma (Second Edition)
+61
+APPENDIX 9
+LASER IRIDOTOMY
+Pre-Laser Management
+i.
+Get informed consent.
+ii. Instil pilocarpine 2%.
+iii. Consider brimonidine 0.15 - 0.2%, and/or -blocker, and/or oral
+CAI, and/or steroid eye drops before the procedure to reduce posttreatment IOP spike/inflammation.
+iv. Instil topical anaesthesia.
+v. Use iridotomy lenses e.g. Abraham (+66 diopters) or equivalent.
+vi. Choose superior quadrants of the iris which is well covered by the
+upper eyelid, in a thin looking area or an iris crypt and placed as
+peripheral as possible.
+Laser Setting for ’Sequential’ Laser - Argon followed by Nd: Yag Laser
+• Preparatory burns - Argon laser
+ Spot size: 200 - 500 μm
+ Exposure time: 0.2 - 0.5 sec
+ Power: 200 - 600 mW (depends on iris pigmentation; lower
+power for darker irides to avoid charring)
+• Penetrating burns - Argon laser (chipping technique)
+ Spot size: 50 μm
+ Exposure time: 0.05 - 0.1 sec
+ Power: 600 - 1,000 mW (modify parameters depending on
+individual’s response)
+ End point: presence of gush of aqueous and pigments
+• Penetration laser burns - Nd:YAG laser
+ Power: 3 - 8 mJ
+ Number of shots: Usually 2 - 5 shots
+ Adequate iridotomy size: 200 - 500 µm
+Modified: Asia-Pacific Glaucoma Society. Asia Pacific Glaucoma Guidelines (Third
+Edition). Amsterdam: Kugler Publication; 2016
+Management of Glaucoma (Second Edition)
+62
+APPENDIX 10
+CATEGORIES OF SEVERITY OF VISUAL IMPAIRMENT
+*VF restriction criteria is applicable even if VA is better than for that
+category of visual impairment.
+Modified: International Statistical Classification of Diseases and Related Health
+Problems 10th Revision (ICD-10)-WHO Version for 2016 (available at
+http://apps.who.int/classifications/icd10/browse/2016/en#/H53-H54)
+Snellen VA with best possible correction
+Category of visual
+impairment
+1
+Moderate visual
+impairment
+2
+Severe visual
+impairment
+3
+Blindness
+4
+Blindness
+5
+Blindness
+Maximum less than
+Minimum equal to or
+better than
+Or central VF*
+6/18
+6/60
+6/60
+3/60
+3/60
+1/60
+(counting finger
+at 1 meter)
+20° or less but
+more than 10°
+10° or less but
+more than 5°
+1/60
+(counting finger
+at 1 meter)
+Light Perception
+5° or less
+No Light Perception
+Management of Glaucoma (Second Edition)
+63
+APPENDIX 11
+OCULAR HYPERTENSION PATHWAY (OHT AND
+POAG SUSPECTS WITH HIGH IOP)
+Assess
+CCT
+Untreated
+IOP
+Age
+>590 µm
+555 - 590 µm
+<555 µm
+Any
+Any
+>21 - 25
+mmHg
+>25 - 32
+mmHg
+>21 - 25
+mmHg
+>25 - 32
+mmHg
+>21 - 25
+mmHg
+>25 - 32
+mmHg
+>32
+mmHg
+Any
+Any
+Any
+Treat
+until 60
+years
+Treat
+until 65
+years
+Treat
+until 80
+years
+Monitoring
+Ongoing monitoring
+IOP, ONH & VF
+Low risk of
+conversion to
+POAG 12 - 24 m
+High risk of
+conversion to
+POAG 6 - 12 m
+Initial monitoring
+IOP only
+1 - 4 m
+1 - 4 m
+IOP only
+IOP, ONH & VF
+Low risk of
+conversion to
+POAG 6 - 12 m
+High risk of
+conversion to
+POAG 4 - 6 m
+No treatment
+PGA
+PGA
+Yes
+Changes
+No
+Assess monitoring results
+Discharge after 3 - 5 years
+if no change and advise
+annual follow-up with
+general ophthalmologist or
+primary care optometrist
+IOP at target
+Evidence of optic
+nerve damage and/or
+VF changes
+IOP not on target
+< Age threshold or age
+threshold not applicable
+Treated patients with
+age > threshold
+Change or start
+pharmacological treatment
+or review target IOP
+No change in
+treatment plan
+Offer no
+treatment
+If IOP cannot be controlled
+medically, refer to
+consultant ophthalmologist
+Monitor untreated IOP
+only after 1 - 4 m
+Diagnosis to be
+re-evaluated by
+consultant ophthalmologist
+PGA = prostaglandin analogues
+OAG = open angle glaucoma
+m = months
+Modified: National Collaborating Centre for Acute Care. Glaucoma: Diagnosis and management of chronic
+open angle glaucoma and ocular hypertension. London: RCS; 2009
+Management of Glaucoma (Second Edition)
+64
+APPENDIX 12
+POAG SUSPECTS WITH NORMAL IOP PATHWAY
+1To be clinically assessed based on age, IOP, CCT, changes in ONH
+and VF
+2ONH and/or peripapillary RNFL appearance is suggestive of, but not
+definitive for glaucoma
+3If there is no change in the parameters after 3 - 5 years, the patient can
+be transferred from active glaucoma care to general ophthalmologist
+or primary care optometrist for annual assessment.
+Modified: National Collaborating Centre for Acute Care. Glaucoma: Diagnosis and
+management of chronic open angle glaucoma and ocular hypertension.
+London: RCS; 2009.
+No treatment
+Monitoring
+Low risk of
+conversion to
+POAG1
+12 - 24 months
+High risk of
+conversion to
+POAG1
+6 - 12 months
+IOP
+ONH
+VF
+Remain
+normal
+Normal or
+suspicious2
+Normal or
+uncertain
+>21 mmHg
+Damage
+Any
+Defects
+Transfer3
+OHT
+pathway
+POAG
+pathway
+Normal or
+suspicious2
+Normal or
+uncertain
+POAG suspects with normal IOP
+IOP, ONH and VF
+Management of Glaucoma (Second Edition)
+65
+LIST OF ABBREVIATIONS
+α
+alpha
+β
+beta
+€
+Euro
+5-FU
+5-Fluorouracil
+µg
+microgram
+µm
+micrometre
+AAC
+acute angle closure
+ALPI
+Argon laser peripheral iridoplasty
+ALT
+Argon laser trabeculoplasty
+AS-OCT
+Anterior Segment-Optical Coherence Tomograpy
+AUD
+Australian Dollar
+CAI(s)
+carbonic anhydrase inhibitor(s)
+CCT
+central corneal thickness
+CDR
+cup: disc ratio
+CI
+confidence interval
+CPC
+cyclophotocoagulation
+CPG(s)
+clinical practice guidelines
+CSLO
+confocal scanning laser ophthalmoscopy
+D
+diopter
+dB
+decibel
+DM
+diabetes mellitus
+EGPS
+European Glaucoma Prevention Study
+GAT
+Goldmann applanation tonometry
+GDD
+glaucoma drainage devices
+GIT
+gastrointestinal tract
+GHT
+Glaucoma hemifield test
+GON
+glaucomatous optic neuropathy
+HR
+hazard ratio
+IOP
+Intraocular pressure
+ISNT
+Inferior Superior Nasal Temporal
+LCT
+limbal corneal thickness
+mg
+milligramme
+mJ
+milllijoule
+ml
+millilitre
+mm
+millimetre
+mm2
+millimetre square
+MMC
+Mitomycin C
+mmHg
+millimetre mercury
+mW
+milliwatt
+MoH
+Ministry of Health
+NRR
+neuro-retinal rim
+nsec
+nanosecond
+NTG
+normal tension glaucoma
+NVG
+neovascular glaucoma
+OAG
+open angle glaucoma
+OCT
+optical coherence tomography
+OD
+optic disc
+OHT
+ocular hypertension
+Management of Glaucoma (Second Edition)
+66
+OHT
+ocular hypertension
+OHTS
+Ocular Hypertension Treatment Study
+ONH
+optic nerve head
+OR
+odds ratio
+OSA
+Obstructive Sleep Apnoea
+PACG
+primary angle closure glaucoma
+PAC
+primary angle closure
+PACD
+peripheral anterior chamber depth
+PACG
+primary angle closure glaucoma
+PACS
+primary angle closure suspect
+PAS
+peripheral anterior synechiae
+PSD
+Pattern Standard Deviation
+POAG
+primary open angle glaucoma
+QoL
+quality of life
+RCT(s)
+randomised controlled trial(s)
+RNFL
+retinal nerve fibre layer
+RR
+relative risk
+SAP
+Standard Automated Perimetry
+sec
+second
+SITA
+Swedish Interactive Threshold Algorithm
+SLT
+Selective laser trabeculoplasty
+TM
+trabecular meshwork
+TSCP
+trans-scleral cyclophotocoagulation
+USD
+United States Dollar
+VA
+visual acuity
+VEGF
+vascular endothelial growth factor
+VF
+visual field
+Management of Glaucoma (Second Edition)
+67
+ACKNOWLEDGEMENT
+The members of development group of these guidelines would like
+to express their gratitude and appreciation to the following for their
+contributions:
+• Panel of external reviewers who reviewed the draft
+• Technical Advisory Committee of CPG for their valuable input and
+feedback
+• All those who have contributed directly or indirectly to the
+development of the CPG
+• Dr. Ana Fizalinda Abdullah Sani, Dr. Noor Aishah Yussof, Ms. Sin
+Lian Thye, Ms. Loong Ah Moi and Ms. Noormah Darus for their
+contribution in the CPG development
+DISCLOSURE STATEMENT
+The panel members of both Development Group and Review Committee
+had completed disclosure forms. None held shares in pharmaceutical
+firms or acts as consultants to such firms. Details are available upon
+request from the CPG Secretariat.
+SOURCE OF FUNDING
+The development of the CPG on Management of Glaucoma
+(Second Edition) was supported financially in its entirety by the MoH
+Malaysia while the printing was funded by the Malaysian Society of
+Ophthalmology.
+"ees ' ge Bs ey oes
+Ff z 7% FB 3
+& ‘es

@@ -1,0 +1,842 @@
+CLINICAL PRACTICE
+GUIDELINES
+DECEMBER 2004
+MOH/P/PAK/95.04
+MANAGEMENT
+OF
+MENORRHAGIA
+MINISTRY OF HEALTH MALAYSIA
+ACADEMY OF MEDICINE MALAYSIA
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+Guidelines Development
+The work group for the development of these guidelines comprised Obstetricians and
+Gynaecologists from various Ministry of Health and Ministry of Education facilities.
+These guidelines were adapted from other international guidelines on management of
+menorrhagia or heavy menstrual bleeding and modified to suit the local situation. These
+include guidelines from New Zealand, Canada and the Royal College of Obstetrics and
+Gynaecologists, UK. A systematic review of current evidence was carried out. Ranking
+of evidence are based on a modified version of those used by the Catalonia Agency for
+Health Technology Assessment (CAHTA) Spain; the classification of recommendation
+was emulated from those used by the Scottish Intercollegiate Guidelines Network
+(SIGN). The ranking of evidence is based on a modified version of that suggested by the
+Catalonia Agency for Health Technology Assessment and Research (CAHTAR) Spain,
+while the grading of recommendations in these guidelines emulates those used by the
+Scottish Intercollegiate Guidelines Network (SIGN).The draft guidelines were posted on
+both the Ministry of Health Malaysia and Academy of Medicine, Malaysia websites for
+comment and feedback. These guidelines have also been presented to the Technical
+Advisory Committee for Clinical Practice Guidelines and Health Technology Assessment
+and Clinical Practice Guidelines Council, Ministry of Health Malaysia for review and
+approval.
+Objectives
+The aim of this guideline is to aid doctors in general practice and gynaecologists in
+clinical decision making, by providing well-balanced information on the management of
+patients with menorrhagia.
+Clinical Questions
+The clinical questions for these guidelines are:
+i.
+How should the extent of heavy menstrual flow (menorrhagia) be assessed?
+ii.
+How can menorrhagia be alleviated?
+iii.
+How can patients with menorrhagia be treated successfully?
+Target Population
+These guidelines are developed to apply to women with menorrhagia.
+Target Group
+These guidelines are meant for all health care providers.
+GUIDELINES COMMITTEE
+1.
+Dr Mukudan Krishnan
+Chairman
+Consultant Obstetrician & Gynaecologist
+Department of Obstetrics & Gynaecology
+Ipoh Hospital
+2.
+Dr Lim Keng Joo
+Consultant Obstetrician & Gynaecologist
+Department of Obstetrics & Gynaecology
+Sultanah Aminah Hospital, Johor Bahru
+3.
+Datuk Dr Ghazali Ismail
+Consultant Obstetrician & Gynaecologist
+Department of Obstetrics & Gynaecology
+Tengku Ampuan Afzan Hospital, Kuantan
+4.
+Assoc Prof Dr Ng Soon Pheng
+Consultant Obstetrician & Gynaecologist
+Department of Obstetrics & Gynaecology
+University of Malaya Medical Centre
+5
+Assoc Prof Dr Nik Mohamed Zaki Nik Mahmood
+Consultant Obstetrician & Gynaecologist
+Department of Obstetrics & Gynaecology
+School of Medical Sciences, Health Campus,
+Science University of Malaysia
+6.
+Dr Shah Reza Johan Noor
+Consultant Obstetrician & Gynaecologist
+Department of Obstetrics & Gynaecology
+School of Medical Sciences, Health Campus,
+Science University of Malaysia
+7.
+Dr Ahmad Zailan Hatta
+Consultant Obstetrician & Gynaecologist
+Department of Obstetrics & Gynaecology
+University of Malaya Medical Centre
+Guidelines Coordinator
+Ms Sin Lian Thye
+Nursing Officer
+Health Technology Assessment Unit
+Ministry of Health Malaysia
+Reviewed and edited by
+Dr S Sivalal
+Head, Health Technology Assessment Unit
+Deputy Director
+Medical Development Division
+Ministry of Health Malaysia
+Acknowledgement
+We would like to express our deepest gratitude and appreciation to all those who had provided valuable
+input and feedback on the draft guidelines.
+LEVELS OF EVIDENCE SCALE
+Level
+Strength of evidence
+Study design
+1
+Good
+Meta-analysis of RCT, Systematic review
+2
+Good
+Large sample RCT
+3
+Small sample RCT
+4
+Good to Fair
+Non-randomised controlled prospective trial
+5
+Fair
+Non-randomised controlled prospective trial with
+historical control
+6
+Fair
+Cohort studies
+7
+Poor
+Case-control studies
+8
+Poor
+Non-controlled clinical series, descriptive studies
+multi-centre
+9
+Poor
+Expert committees, consensus, case reports,
+anecdotes
+(Adapted from Catalonian Agency for Health Technology Assessment & Research,
+[CAHTAR] Spain)
+GRADE OF RECOMMENDATIONS
+A At least one meta analysis, systematic review, or RCT, or evidence rated as
+good and directly applicable to the target population
+B Evidence from well conducted clinical trials, directly applicable to the target
+population, and demonstrating overall consistency of results; or evidence
+extrapolated from meta analysis, systematic review, or RCT
+C Evidence from expert committee reports, or opinions and /or clinical
+experiences of respected authorities; indicates absence of directly applicable
+clinical studies of good quality
+(Adapted from Scottish Intercollegiate Guidelines Network [SIGN])
+TABLE OF CONTENTS
+Guidelines Development and Objective
+Guidelines Committee
+Level of Evidence Scale & Grade of Recommendations
+1
+BACKGROUND
+1
+2
+DEFINITION
+1
+3
+ASSESSMENT AND INVESTIGATION
+1
+3.1
+Assessment of menstrual blood loss
+1
+3.2
+Pattern of menstrual blood loss
+2
+3.3
+Pelvic examination
+2
+3.4
+Full Blood Count
+2
+3.5
+Thyroid function tests
+2
+3.6
+Assessment of endometrium
+2
+3.6.1. Ultrasound
+3
+3.6.2. Hysteroscopy and endometrial biopsy
+3
+4
+MANAGEMENT
+4
+4.1
+Medical Treatment
+4
+4.1.1
+Non Steroidal Anti Inflammatory Drugs
+4
+4.1.2
+Progestogens
+4
+4.1.3
+Combined oral contraceptive pills
+4
+4.1.4
+Danazol
+4
+4.1.5
+Anti-fibrinolytic agents
+4
+4.1.6
+Levonorgestrel intrauterine system
+5
+4.1.7
+GnRH agonists
+5
+4.2
+Surgical Management
+5
+4.2.1
+Medical versus surgical treatment
+5
+4.2.2
+Dilatation and curettage
+5
+4.2.3
+Endometrial destruction
+6
+4.2.4
+Hysterectomy
+6
+SUMMARY OF RECOMMENDATIONS
+7
+ALOGRITHM
+9
+REFERENCES
+10
+APPENDIX
+Appendix 1 : Comparison of different drugs used in medical treatment of
+heavy menstrual bleeding
+13
+Appendix 2 : Comparison of the benefit and side effects of various drugs
+used in medical treatment of heavy menstrual bleeding
+14
+Appendix 3: Choice of medical therapy for various conditions
+15
+Appendix 4 : Decision analysis ranking on the use of medical therapy
+16
+Appendix 5 :Recommended dosages of medical therapy
+17
+1.
+BACKGROUND
+Menorrhagia, or heavy menstrual bleeding, is an important cause of ill health in women.
+It is estimated that 9 to 30 percent of women of reproductive age suffer from
+menorrhagia, the prevalence increasing with age, and peaking just prior to menopause
+(Society of Obstetricians and Gynaecologists of Canada, 2001; level 9). Menorrhagia has
+an impact on many women’s lives, with one in twenty women aged 30 - 49 with
+menorrhagia consulting their general practitioners each year. It has been found that once
+referred to a gynaecologist, 60% of women with menorrhagia will have a hysterectomy
+within five years, accounting for up to 75 percent of all hysterectomies performed
+worldwide. (RCOG, 1998; 2001; level 9)
+Apart from surgery, medical therapy, appears to be an attractive treatment option, there
+being a wide variety of medication available to reduce heavy menstrual bleeding
+including non-steroidal anti-inflammatory drugs, hormones, anti-fibrinolytics, and
+intrauterine devices. However, there is considerable variation in practice, and uncertainty,
+about the most appropriate therapy, due to age, desire to preserve fertility, co-existing
+medical conditions, and patient preferences (RCOG, 1998; 2001; level 9).
+2
+DEFINITION
+Menorrhagia can be defined as a complaint of heavy cyclical menstrual blood loss over
+several consecutive menstrual cycles in a woman of reproductive years, or more
+objectively, a total menstrual blood loss of more than 80 ml per menstruation (Hallberg et
+al, 1966).
+3
+ASSESSMENT AND INVESTIGATION
+3.1
+Assessment of menstrual blood loss
+There is poor correlation between a woman’s perception of heavy menstrual bleeding and
+menstrual blood loss of more than or equal to 80 ml/cycle, and between the amount of
+sanitary pads used and the complaint of heavy bleeding (Hallberg et al, 1966; Janssen et
+al, 1995; level 5).
+The gold standard for measuring menstrual bleeding is the alkaline haematin test, which
+is not freely available in most hospitals in Malaysia, since it is currently considered as an
+investigative tool for research.
+A simpler alternative to this is the pictorial blood loss assessment chart, that does not
+involve collection of all used sanitary material. It has also been found to correspond well
+with the alkaline haematin test (Katrina et al, 2001), and has been validated to be better
+than the patient’s verbal history alone (Higham et al, 1990; level 5; Janssen et al, 1995;
+level 5).
+3.2
+Pattern of menstrual blood loss
+It has been noted that while 80-90 % of women with heavy menstrual bleeding have
+regular cycles, those with prolonged irregular and/or intermenstrual bleeding tend to have
+other intrauterine pathology (Dijkhuizen et al, 1996; level 5). On the other hand, for perimenopausal women with delayed menstrual cycles, further investigation is only
+necessary if blood loss is excessive.
+3.3
+Pelvic examination
+An abdominal and pelvic examination to exclude obvious pelvic pathology, is advised in
+all patients. The Malaysian National Cervical Screening Programme has recommended a
+cervical smear be taken at the time of the pelvic examination, a pelvic ultrasound be
+carried out to confirm any abnormal finding, and subsequent referral to a gynaecologist
+as indicated.
+3.4
+Full Blood Count
+Since more than two thirds of women with menstrual blood loss greater than 80 ml per
+cycle have evidence of anaemia, a low haemoglobin reading is considered an objective
+indicator of heavy menstrual bleeding. However, a normal haemoglobin reading does not
+necessarily exclude heavy menstrual bleeding (Hallberg et al, 1966; Janssen et al, 1995;
+level 5). Since the signs and symptoms of anaemia do not correlate well with the
+haemoglobin level until the patient is moderately to severely anaemic, a full blood count
+would assist in determining the severity of menstrual blood loss.
+3.5
+Thyroid function test
+There is no evidence of heavy menstrual bleeding being associated with thyrotoxicosis,
+but there is some evidence of association in hypothyroid patients (Krassas et al, 1994;
+level 9; Attaran et al 1989). Hence, a routine thyroid function test is not recommended.
+3.6
+Assessment of endometrium
+Endometrial pathology in pre-menopausal women with abnormal uterine bleeding is
+uncommon, with only 20% of cases of endometrial cancer occurring before menopause,
+mostly in women are aged between 40 – 50 years (Crissman et al, 1981; level 9; Jefrery
+et al, 1997; Mckenzie & Bibby, 1978, ).
+Endometrial hyperplasia is associated with obesity and age, being more common in
+women above 45 years of age, with a prevalence of hyperplasia of 2 – 7 % in premenopausal women (Dijkhuzen et al, 1996; level 5; Ash, Farrell & Flowerden, 1996;
+level 8; Crissman et al, 1981; level 9; Farquhar, 1998). It is a precursor of endometrial
+cancer, the likelihood of progression depending on the degree of hyperplasia (Ash, Farrell
+& Flowerden, 1996; level 8; Farquhar, 1998; Kurman, Kaminski & Norm, 1985; level 9 ;
+Terakawa, 1997; level 9; Hunter et al, 1994; level 9). Infertility and nulli-parity are also
+significantly associated with hyperplasia. Women who have received tamoxifen appear to
+be at increased risk of endometrial hyperplasia. However, 14% of the women diagnosed
+with endometrial hyperplasia had none of the above risk factors.
+The Royal College of Obstetricians and Gynaecologists recommends that women with
+heavy menstrual bleeding but with regular cycles, aged 40 years or less, need not have
+endometrial samples taken (RCOG, 1994; level 9). However, some authors suggest that
+women with irregular bleeding or other risk factors for hyperplasia, should have
+endometrial sampling irregardless of age (Ash, Farrell & Flowerden, 1996; level 9).
+The commonly used modes of endometrial assessment are ultrasound scan, endometrial
+biopsy or aspirate, hysteroscopy and dilatation and curettage (D&C).
+3.6.1. Ultrasound
+Ultrasonography is a primary diagnostic tool in evaluating women with abnormal vaginal
+bleeding, being able to demonstrate anatomic findings not frequently detected in pelvic
+examination. These include small ovarian cysts, leiomyoma, endometrial carcinoma, as
+well as evaluation of the endometrium with respect to thickness, which would indirectly
+reflect the endometrial histology, and hormonal status of patients (Okaro, 2003).
+Transvaginal ultrasonography (TVS) is an accurate test for diagnosing endometrial
+hyperplasia when the endometrial thickness is 12 mm or more (Dijkhuizen et al, 1996;
+level 5; Vercellini et al, 1997; level 5). In women more than 40 years old and who failed
+medical treatment, 50% have an abnormal TVS (Nagele et al, 1996; level 5)
+3.6.2. Hysteroscopy and endometrial biopsy
+Hysteroscopy allows for the examination of the whole endometrial cavity, lower segment
+and cervical canal, being able to detect small polyps or sub-mucous fibroids that have
+been missed by ultrasonography, endometrial biopsy or blind curettage. In women with
+irregular bleeding, polyps are present in about 25 % of cases and submucous fibroids are
+present in 15 – 18 % of cases (Fedele et al, 1991; level 5; Dijkhuizen et al, 1996; level 5).
+Hysteroscopy with biopsy is the best diagnostic test for intrauterine pathology with high
+specificity and sensitivity (Emanuel et al, 1995; level 5; Dijkhuizen et al, 1996; level 5).
+Hysteroscopy alone (without biopsy) is not very accurate in diagnosing endometrial
+hyperplasia and carcinoma (Widrich et al, 1996; level 9; Vercellini et al, 1997; level 5).
+The main purpose of an endometrial biopsy or aspirate is to exclude endometrial
+pathology like hyperplasia, endometrial disorders or malignancies. Endometrial biopsy is
+a simple, quick, safe, and convenient procedure, which can be performed on an
+ambulatory basis avoiding the need for anesthesia. Furthermore, the device is disposable
+and is less costly than the conventional D & C.
+Routine endometrial biopsy should not be an initial investigation for menorrhagia, being
+indicated only if menorrhagia persists or in the presence of risk factors (RCOG, 1998,
+level 9).
+Pipelle and Z sampler could be used as the first line endometrial device as they have been
+found to be more convenient to use compared to the Vabra aspirator (Bunkheila &
+Powell, 2002). While the sample adequacy rate was similar for these 3 devices, the
+Pipelle has been shown to be superior in the detection of atypical hyperplasia and
+endometrial carcinoma (Dijkhuizen et al, 1996, level 5).
+4
+MANAGEMENT
+4.1
+Medical Treatment
+4.1.1 Non Steroidal Anti-Inflammatory Drugs
+Endometrial prostaglandins are elevated with excessive menstruation, and he nonsteroidal anti-inflammatory drugs (NSAIDs) reduce prostaglandin levels through the
+inhibition of the cyclo-oxygenase enzyme with reductions in menstrual blood loss of 2535% (Irvine &, Cameron, 1999; level 9). NSAIDs are found to be less effective than
+tranexamic acid or danazol, but as effective as other medical treatments (Lethaby, Irvine
+& Cameron, 2003; level 1), with the added advantage of relieving dysmenorrhoea (Fraser
+et al, 1981; level 3)
+4.1.2 Progestogens
+Progestogens administered from the fifteenth day or from 19th - 26th day of the
+menstrual cycle were significantly less effective in reducing menstrual blood loss when
+compared to other medical therapies (Lethaby, Irvine & Cameron, 2003; level 1), and
+found to be one of the least effective agents (Roy & Bhattacharya, 2004; level 5).
+However, progestogen therapy administered for 21 days of the menstrual cycle results in
+a significant reduction in menstrual blood loss, (Lethaby, 2003b; level 1), although they
+have been found to be ineffective unless taken at high doses (Irvine & Cameron, 1999;
+level 9).
+4.1.3 Combined oral contraceptive pills
+The combined oral contraceptive pill (OCP) in addition to providing contraception causes
+a 50% reduction in menstrual blood loss by regular shedding of a thinner endometrium
+nd by inhibiting ovulation (Irvine & Cameron, 1999, level 9).
+a
+4.1.4 Danazol
+Danazol is a synthetic steroid that suppresses oestrogen and progesterone receptors in the
+endometrium, leading to endometrial atrophy (thinning of the lining of the uterus) and
+reduced menstrual loss. It is an effective treatment for heavy menstrual bleeding.
+However, its side-effect profile, its lack of acceptability to women and the need for
+continuing treatment limits its use (Roy & Bhattacharya, 2004; level 5; Beaumont et al,
+2003; level 1).
+4.1.5 Anti-fibrinolytic agents
+Tranexamic acid, a synthetic derivative of the amino acid lysine, exerts an antifibrinolytic effect through reversible blockade on plasminogen, producing a 50%
+reduction in menstrual loss (Irvine & Cameron, 1999; level 9). Anti-fibrinolytic therapy
+causes a greater reduction in objective measurements of heavy menstrual bleeding
+compared to placebo or other medical therapies (Lethaby, Farquhar & Cooke 2003; level
+1 Bonnar & Sheppard, 1996, level 1), and is not associated with an increase in side
+effects (Lethaby, Farquhar & Cooke, 2003; level 1, Lindoff, Rybo & Astedt, 1997; level
+5).
+4.1.6 Levonorgestrel intrauterine system
+The levonorgestrel intrauterine system (LNG IUS) is a T shaped intrauterine device
+releasing a steady amount of levonorgestrel (20µg /24 hours) from a steroid reservoir
+around the vertical stem of the device. It reduces menstrual blood loss by 80% (Irvine &
+Cameron, 1999; Level 9), and is found to be more effective than cyclical norethisterone,
+with patients being more satisfied and willing to continue with treatment. However, these
+patients experience more side effects such as inter-menstrual bleeding and breast
+tenderness (Lethaby, 2003; level 1). Compared to transcervical resection of the
+endometrium (TCRE), the LNG IUS produces smaller mean reduction in menstrual blood
+loss, but there is no difference in the rate of satisfaction with treatment. LNG-IUS
+appears equally beneficial in improving quality of life and may control bleeding as
+effectively as conservative surgery over the long term (Marjoribanks, Lethaby, &
+Farquhar, 2003; level 1).
+4.1.7 GnRH agonists
+Gonadatrophin-releasing hormone (GnRH) agonists induce a reversible hypoestrogenic
+state, reducing total uterine volume. They are highly effective, but their side-effects make
+them suitable only for short-term use (Irvine & Cameron, 1999, level 9).GnRH agonists
+may obviate emergency surgery in patients with high surgical risk (Vercellini, 1992; level
+3).
+4.2
+Surgical Management
+4.2.1 Medical versus surgical treatment
+Medical treatment for menorrhagia is not as effective as surgery despite improvement in
+control of bleeding. Oral medical therapy is associated with higher incidence of side
+effects, and approximately 60% of women who had medical treatment would require
+surgery by 2 years. Surgery has been found to reduce menstrual bleeding more than
+medical treatment at one year, although the majority of women prefer medical treatment
+(Marjoribanks, Lethaby & Farquhar, 2003; level 1).
+4.2.2 Dilatation and curettage
+There is little evidence on the effectiveness of dilatation and curettage (D&C) for the
+relief of menorrhagia. It is not cost effective for the diagnosis of endometrial malignancy
+in women under 40 years since the prevalence of serious uterine conditions and
+endometrial cancer is low (Coulter et al, 1993; level 9). The potential benefits need to be
+weighed against the risks of anaesthesia and possible complications like uterine
+perforation and laceration of the cervix (MacKenzie & Bibby, 1978; level 9). Moreover, a
+significant proportion of endometrial lesions are not detected by D&C, (Vessey, Clarke,
+& MacKenzie, 1979) and its usefulness as a diagnostic tool has been repeatedly
+questioned. D&C may have a diagnostic role when endometrial biopsy is inconclusive
+and the symptoms persist or when the underlying pathology is suspect.
+4.2.3 Endometrial destruction
+Endometrial destruction procedures are less invasive, more convenient and less expensive
+when no other gynecological condition is involved. It enables women to avoid major
+surgery and results in shorter hospital stay and convalescence. The various energy
+sources used to destroy the endometrium, are all comparable in terms of efficacy, and the
+re-operation rate ranges from 0 to 38.2%. The rate is higher in women under the age 35
+years in studies where they have been observed for longer duration. The first-generation
+techniques involve lower costs than a hysterectomy, but the second-generation
+endometrial destruction techniques involve relatively high purchase and disposable
+supplies costs. However, these new techniques take less time to perform and have a lower
+incidence of intra-operative complications. The clinical impact of these two benefits has
+yet to be demonstrated (AETMIS, 2002; level 1).
+4.2.4 Hysterectomy
+Hysterectomy is the most widely used treatment, and can be performed abdominally,
+vaginally or laparoscopically. The vaginal and laparoscopic approaches cause fewer
+complications and provide a shorter hospital stay and convalescence than abdominal
+hysterectomy. Although with hysterectomy there is a permanent cessation of menstrual
+flow resulting in a high level of satisfaction, it is a major invasive procedure incurring
+morbidity, mortality and costs with a risk of late complications as well. (AETMIS, 2002;
+level 1). Laparoscopic assisted vaginal hysterectomy is associated with longer operating
+times, and higher operating costs, but total costs are lower than abdominal hysterectomy.
+SUMMARY OF RECOMMENDATIONS
+ASSESSMENT
+1. Women should be encouraged to chart their menstrual blood loss using a pictorial
+blood loss assessment chart (Grade B)
+2. Women with erratic bleeding (regardless of loss) should be referred to a specialist as
+endometrial pathology is likely to be present (Grade B)
+INVESTIGATION
+1.
+Perimenopausal women with less frequent menstrual cycles but with normal blood
+loss, do not require further investigation as they are not at increased risk of
+intrauterine pathology. (Grade C)
+2.
+An abdominal and pelvic examination should be performed in women presenting
+with heavy menstrual bleeding (Grade C).
+3.
+Full blood count should be offered to all women presenting with heavy bleeding
+(Grade A).
+4.
+Women with heavy menstrual bleeding with severe anemia, should be referred to a
+specialist for further assessment (Grade C).
+5.
+Thyroid function test should not be routinely performed in women with heavy
+menstrual bleeding unless they have signs or symptoms of hypothyroidism (Grade
+C).
+6.
+Transvaginal sonography, (TVS) if available, should be the first step in assessing
+the endometrium (Grade B)
+7.
+If the endometrial thickness on TVS is more than 12 mm an endometrial sampling
+should be done (Grade A)
+8.
+The chance of endometrial carcinoma in women less than 40 years is low and
+endometrial biopsy is not warranted unless there are associated risk factors, or, if
+symptoms are persistent or fail to respond to medical treatment (Grade B).
+9.
+Hysteroscopy with biopsy is indicated for women with erratic menstrual bleeding,
+failed medical therapy, or transvaginal ultrasound suggestive of intrauterine
+pathology (Grade B)
+10. Hysteroscopy with biopsy is indicated in women with menorrhagia if aged more
+than 40 (Grade B)
+MEDICAL TREATMENT
+1.
+NSAIDs are effective for reducing heavy menstrual bleeding (Grade A)
+2.
+Progestogens given in the luteal phase of the menstrual cycle are not effective in
+reducing regular heavy menstrual bleeding (Grade A)
+3.
+Treatment with progesterone for 21 days (days 5-25) is effective in reducing
+menstrual blood loss (Grade A)
+4.
+Oral contraceptives can be used to reduce heavy menstrual bleeding (Grade A)
+5.
+Danazol is effective for reducing heavy menstrual bleeding but side effects limit it
+use (Grade A)
+6.
+Tranexamic acid is effective for reducing heavy menstrual bleeding (Grade A)
+7.
+The levonorgestrel releasing intrauterine system is effective in reducing heavy
+menstrual bleeding (Grade A)
+8.
+GnRH agonists are highly effective but used for short term only (Grade A)
+SURGICAL MANAGEMENT
+1.
+Surgical option is more effective in treatment of menorrhagia compared to medical
+therapy. LNG-IUS is a reasonable alternative to surgical therapy provided patients
+are aware of possible need for further surgical treatment later (Grade B)
+2.
+While D&C may have a diagnostic role, it is not effective therapy for women with
+menorrhagia (Grade C)
+3.
+Endometrial destruction procedure provides an alternative treatment option to
+hysterectomy (Grade A)
+4.
+Vaginal hysterectomy is the most cost-effective mode of hysterectomy (Grade B)
+ALOGRITHM OF MANAGEMENT OF MENORRHAGIA
+Prolonged
+irregular
+menses
+Refer for further
+assessment &
+investigation
+Assess
+Uterine size
+Severe
+Not severe
+Heavy menses
+Assess severity of
+anaemia
+Treat anaemia & asses risk
+of hyperplasia
+Full history and physical examination
+Women complaining of heavy menstrual bleeding
+Normal
+endometrium
+If abnormal endometrium
+Assess endometrium
+-TVS
+- endometrial biopsy if ET
+- 12mm or TVS not available
+Refer for
+hysteroscopy or
+surgery
+Yes
+No
+Continue
+medical
+therapy
+Treatment
+Successful
+-Levonogestrel
+intrauterine device
+-Tranexamic acid
+- NSAID
+-Norethisterone
+-Oral contraceptive pill
+Medical
+therapy
+Low risk group &
+unexplained menstrual
+bleeding
+High risk group
+-bodyweight > 90kg
+-Age > 40
+-other risk factors
+REFERNCES
+1.
+Agence d’évaluation des technologies et des modes d’intervention en santé
+(AETMIS). Endometrial ablation techniques in the treatment of dysfunctional
+uterine bleeding. Report prepared by Chantale Lessard and Alicia Framarin.
+(AETMIS 02-04 RF). Montréal: AETMIS, 2002, xxxi-166 p.
+2.
+Ash SJ, Farrell SA, Flowerden G. (1996) Endometrial biopsy in DUB. J Reprod
+Med, 41, pp 892-896
+3.
+Attaran M., Boes C, Weber AM, Gidwani G. (1997) Evaluation of adolescents
+with abnormal uterine bleeding. 1997
+4.
+Beaumont H, Augood C, Duckitt K, Lethaby A (2003) Danazol for heavy
+menstrual bleeding Cochrane Database Syst Rev. (2):CD001501
+5.
+Bonnar J, Sheppard BL. (1996) Treatment of menorrhagia during menstruation:
+randomised controlled trial of ethamsylate, mefenamic acid, and tranexamic acid.
+BMJ; 313, pp 579-582.
+6.
+Bunkheila AK, Powell MC. (2002) Menorrhgia and DUB. Current Obst &
+Gynecol , 12, pp 328-333
+7.
+Crissman JD, Azoury RS, Barnes AE, Schellhas HF. (1981) Endometrial
+carcinoma in woman 40 years of age or younger. Obstet Gynecol, 57, pp 699-704
+8.
+Coulter A, Klassen A, MacKenzie IZ, McPherson K. (1993) Diagnostic dilatation
+and curettage: is it used appropriately? BMJ; 306, pp 236-239.
+9.
+Dijkhuizen FP, Brolmann HA, Potters AE, Bongers MY, Bongers MY, Heinz AP
+(1996). The accuracy of transvaginal ultrasonography in the diagnosis of
+endomendometrial
+thicknessrial
+abnormalities.
+Obstendometrial
+thickness
+Gynaecol ,87, pp345-349
+10. Emanuel MH, Verdel MJ, Wamsteker K, Lannes FB. (1995) A prospective
+comparison of transvaginal ultrasonography and diagnostic hysteroscopy in the
+evaluation of patients with abnormal uterine bleeding. Am J Obstet Gynecol, 172,
+pp 547-552
+11. Farquhar CML endometrial thickness by A, Sowter M, Verry J, Baranyai J.
+(1998) An evaluation of risk factors for endometrial hyperplasia in premenopausal
+women with abnormal menstrual bleeding ,1998.
+12. Fedele L, Bianchi S, Dorta M, Brioschi D, Zanotti F, Vercellini P. (1991)
+Transvaginal ultrasonography versus hysteroscopy in the diagnosis of uterine
+submucous myomas. Obstet Gynecol , 77, pp 745-748
+13. Guidelines for the management of abnormal menstrual bleeding - Society of
+Obstetricians and Gynaecologists of Canada, 2001Canada
+14. Hallberg L, Hogdahl A, Nilsson L, Rybo G (1966). Menstrual blood loss- a
+population study: variation at different ages and attempts to define normality.
+Acta Obstetricia Gynecologica Scandinavica, 45, pp 320-351
+15. Higham JM, O’Brien PMS, Shaw RW. (1990) Assessment of menstrual blood
+loss using a pictorial chart. Br. J Obstet Gynaecol, 97, pp734-9
+16. Hunter JE, Tritz DE, Howell MG, DePriest PD, Gallion HH, Andrews SJ et al,
+(1994) The prognostic and therapeutic implications of cytologic atypia in patients
+with endometrial hyperplasia. Gynecol Oncol, 55, pp 66 – 71
+17. Irvine GA, Cameron IT. (1999) Medical management of dysfunctional uterine
+bleeding Baillieres Best Pract Res Clin Obstet Gynaeco;13(2), Jun, pp189-202
+18. Janssen CA, Scholten PC, Heintz AP. (1995) A simple visual assessment
+technique to discriminate bendometrial thicknessween menorrhagia and normal
+menstrual blood loss. Obstendometrial thicknessrics & Gynecology, 85, pp 977982
+19. Jefrery JD, Taylor R, Robertson DI, Stuart GC. (1997) Endometrial carcinoma
+occurring in patients under the age of 45 years. Am. J Obstet Gynaecol, 261, pp
+485-489
+20. Katrina MW, Paul WD, Tracy JW, O’Brien PMS. (2001) DEendometrial
+thickness determination of total menstrual blood loss. Fertility & Sterility,76,(1),
+pp125-131
+21. Krassas GE, Pontikides N, Kaltsas T, Papdopolou P, Batrinos M. (1994)
+Menstrual disturbances in thyrotoxicosis. Clin Endocrinol, 40 pp 641-644
+22. Kurman RJ, Kaminski PF, Norm HJ. (1985) The behaviour of endometrial
+hyperplasia. A long-term study of untreated hyperplasia in 170 patients. Cancer,
+56, pp 403-412
+23. Lethaby AE, Cooke I, Rees M. (2000) Progesterone/progestogen releasing
+intrauterine systems versus either placebo or any other medication for heavy
+menstrual bleeding. Cochrane Database Syst Rev. (2):CD002126.
+24. Lethaby A, Farquhar C, Cooke I. (2000) Antifibrinolytics for heavy menstrual
+bleeding. Cochrane Database Syst Rev.(4):CD000249
+25. Lethaby A, Augood C, Duckitt K (2003a) Nonsteroidal anti-inflammatory drugs
+for heavy menstrual bleeding. Cochrane Database Syst Rev. (1): CD000400.
+26. Lethaby A, Irvine G, Cameron I (2003b) Cyclical progestogens for heavy
+menstrual bleeding. Cochrane Systematic Review 1
+27. Lindoff C, Rybo G, Astedt B. (1993) Treatment with tranexamic acid during
+pregnancy, and the risk of thrombo-embolic complications. Thromb Haemost, 70:
+pp 238-240.
+28. Marjoribanks J, Lethaby A, Farquhar C. (2003) Surgery versus medical therapy
+for heavy menstrual bleeding. Cochrane Database Syst Rev. (2):CD003855.
+29. MacKenzie IZ, Bibby JG. (1978) Critical assessment of dilatation and curettage
+of 1029 women. Lancet, 2: 566-568.
+30. Nagele F, O’Connor H, Davies A, Badeery A, Mohamed H, Magos A. (1996)
+2500 Outpatient diagnostic hysteroscopies. Obstet Gynecol, 88, pp 87-92
+31. National Health Committee New Zealand (1998) Guidelines for the management
+of heavy menstrual bleeding, May
+32. Okaro E. (2003) The role of ultrasond in the management of menorrhagia. Review
+Gynecol Practice,3, pp 16-25
+33. RCOG Evidence-based clinical guideline number 1 : The initial management of
+menorrhagia, 1998.
+34. Roy SN, Bhattacharya S (2004) Benefits and risks of pharmacological agents used
+for the treatment of menorrhagia. Drug Saf, 27(2), pp75-90
+35. Terakawa N, Kigawa J, Takendometrial thicknessani Y, Yoshikawa, Yajima A,
+Noda K. (1997) The behaviour of endometrial hyperplasia: A prospective study. J
+Obstet Gynaecol Res, 28, pp 223-230
+36. Vercellini P, Cortesi I, Oldani S, Moschssta M, De Giorgi O, Crosignani PG.
+(1997) The role of transvaginal ultrasonography and outpatient diagnostic
+hysteroscopy in the evaluation of patients with menorrhagia. Human Reprod, 12,
+pp 1768-1771
+37. Vessey M, Clarke J, MacKenzie I. (1979) Dilatation and curettage in young
+women. Health Bull, 39: 59-62.
+38. Wildrich T, Bradley LD, Mitchinson AR, Collin RL.(1996)Comparison of saline
+infusion sonography with office hysteroscopy for the evaluation of the
+endometrium. Am. J Obstet Gynecol,174, pp 1327-1334
+Appendix 1
+COMPARISON OF DIFFERENCE DRUG USE IN MEDICAL TREATMENT OF
+HEAVY MENSTRUAL BLEEDING
+Comparative table of medical therapy for the treatment of heavy menstrual bleeding
+Drug
+Mean reduction in blood
+loss (%)
+Women benefiting –
+proportion with
+MBL<80ml/cycle (%)
+LNG IUS
+94%
+100%
+Oral progesterone
+(days 5-25)
+87%
+86%
+Tranexamic acid
+47%
+56%
+NSAIDS
+29%
+51%
+OC
+43%
+50%
+Danazol
+50%
+76%
+Oral progesterone
+(luteal phase)
+-4%
+18%
+(Guidelines for the management of heavy menstrual bleeding -New Zealand, 1998)
+Appendix 2
+COMPARISON THE BENEFIT AND SIDE EFFECT OF VARIOUS DRUG USE IN
+MEDICAL THERAPY OF HEAVY MENSTRUAL BLEEDING
+Comparative table of medical therapy for the treatment of heavy menstrual bleeding
+Drug
+Specific benefits
+Adverse benefits
+LNG IUS
+Contraception
+No need tablets
+Menstrual cramps
+Expulsion
+IMB
+Oral progesterone
+Days 5-25
+Regular cycles
+Bloating, moody, PMS,
+nausea
+Tranexamic acid
+None
+Nausea, diarrhoea
+NSAIDs
+Relieve dysmenorrhoea,
+headaches
+Nausea, diarrhoea,
+headache
+OC
+Contraception
+Relieve dysmenorrhoea
+& PMS
+Nausea, breast tenderness,
+headache
+Danazol
+None
+Weight gain, acne, hot
+flushes, bloating, moody,
+PMS
+(Guidelines for the management of heavy menstrual bleeding -New Zealand, 1998)
+APPENDIX 3
+CHOICE OF MEDICAL THERAPY FOR VARIOUS CONDITIONS
+The choice of medical therapy will be dependent on the individual patient requirements
+Contraception
+LNG IUS
+OC
+Dysmenorrhoea
+LNG IUS
+NSAIDs
+OC
+Unable to tolerate hormones
+NSAIDs
+Tranexamic acid
+LNG IUS
+Trying to conceive
+NSAIDs
+Tranexamic acid
+Progestogen followed by clomiphene*
+Adolescents*
+OC
+Cyclic progestogens
+Perimenopausal women*
+Cyclic progestogens
+OC
+Cyclic HRT
+pre surgery with severe anaemia**
+GnRH
+Some women who have completed their family may decline medical therapy and choose
+surgery as a first option
+Note
+*
+Clinical management guidelines for management of an ovulatory bleeding
+(ACOG, 2000)
+**
+Vercellini P on Gonadotropin releasing hormone agonist treatment for severe
+menorrhagia in patients with contraindications to surgery, Eur J Obstet Gynecol
+Reprod Biol. 1992 Jun 16; 45(1):70-2)
+(Guidelines for the management of heavy menstrual bleeding -New Zealand, 1998)
+Appendix 4
+DECISION ANALYSIS RANKING ON THE USE OF MEDICAL THERAPY
+Medical Therapy*
+Ranking according to decision analysis**
+LNG IUS
+1
+Tranexamic acid
+2
+NSAIDs
+2
+OC
+3
+Norethisterone D5-25 15mg daily
+3
+Danazol
+4
+(Guidelines for the management of heavy menstrual bleeding -New Zealand, 1998)
+Note
+- more than one therapy can be considered
+- based on efficacy , side effect profile and acceptability to women over 12
+months
+Appendix 5
+RECOMMENDED DOSE OF MEDICAL THERAPY
+Medical Therapy
+Dosage
+Tranexamic acid
+1g every 6 hours for the first 4 days
+NSAIDs D1- D5 or until cessation of
+menses
+Mefenemic acid 500mg TDS
+OC
+OC containing 30ug ethinyloestradiol
+Progestogens D5-25
+Norethisterone 15mg daily or
+Medoxyprogesterone 30mg daily
+Danazol
+100-200mg daily for 3 months
+(Guidelines for the management of abnormal menstrual bleeding -Canada)

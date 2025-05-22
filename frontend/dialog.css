@@ -1,0 +1,84 @@
+/* Custom Dialog Styles */
+        .custom-dialog-overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: rgba(0, 0, 0, 0.5);
+            z-index: 1000;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .custom-dialog {
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+            width: 90%;
+            max-width: 450px;
+            overflow: hidden;
+            animation: dialogFadeIn 0.3s ease-out;
+        }
+
+        @keyframes dialogFadeIn {
+            from { opacity: 0; transform: translateY(-20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .custom-dialog-header {
+            padding: 15px 20px;
+            background-color: #f8f8f8;
+            border-bottom: 1px solid #eee;
+        }
+
+        .custom-dialog-header h3 {
+            margin: 0;
+            font-size: 18px;
+            color: #333;
+        }
+
+        .custom-dialog-content {
+            padding: 20px;
+            font-size: 16px;
+            color: #555;
+        }
+
+        .custom-dialog-footer {
+            padding: 15px 20px;
+            text-align: right;
+            border-top: 1px solid #eee;
+            display: flex;
+            justify-content: flex-end;
+            gap: 10px;
+        }
+
+        .dialog-button {
+            border: none;
+            border-radius: 5px;
+            padding: 8px 16px;
+            font-size: 14px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .cancel-button {
+            background-color: #f1f1f1;
+            color: #555;
+        }
+
+        .cancel-button:hover {
+            background-color: #e5e5e5;
+        }
+
+        .confirm-button {
+            background-color: #0d6efd;
+            color: white;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        .confirm-button:hover {
+            background-color: #734c1e;
+        }

@@ -1,0 +1,193 @@
+/* Main Page Layout Styles for SOAP Notes */
+.transcript3-container10 {
+  width: 100%;
+  height: auto;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-color: var(--dl-color-gray-900); /* This is #f8f9fa */
+}
+
+.transcript3-contact { /* This acts as the main content wrapper within transcript3-container10 */
+  width: 100%;
+  max-width: 1320px; /* Max width for the content area */
+  padding-top: var(--dl-layout-space-sixunits); /* Adjust as needed, consider header height */
+  padding-left: var(--dl-layout-space-tripleunit);
+  padding-right: var(--dl-layout-space-tripleunit);
+  padding-bottom: var(--dl-layout-space-sixunits);
+  display: flex; /* Added to center its child if it's a single column, or manage children */
+  flex-direction: column; /* Added to stack children like summary card */
+  align-items: center; /* Added to center child like summary card */
+}
+
+.transcript3-container11 { /* This is the flex container for form and info panel */
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  box-shadow: 0 20px 27px 0 rgb(0 0 0 / 5%);
+  align-items: stretch; /* Ensures form and info panel are same height */
+  border-radius: var(--dl-layout-radius-radius1);
+  flex-direction: row;
+  background-color: var(--dl-color-gray-white);
+}
+
+.transcript3-form1 { /* Left side form area */
+  flex: 5; /* Takes more space */
+  display: flex;
+  align-items: flex-start; /* Align content to the start */
+  padding-top: var(--dl-layout-space-fourunits);
+  padding-left: var(--dl-layout-space-doubleunit);
+  padding-right: var(--dl-layout-space-doubleunit);
+  flex-direction: column;
+  padding-bottom: var(--dl-layout-space-fourunits);
+}
+
+.transcript3-info { /* Right side info panel */
+  flex: 4; /* Takes less space than form1, but more than soap-styles.css's original flex:1 */
+  color: var(--dl-color-gray-white);
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center; /* Vertically center content */
+  padding-left: var(--dl-layout-space-sixunits); /* Original padding */
+  border-radius: 0px; /* Original */
+  flex-direction: column; /* Stack content vertically */
+  background-size: cover;
+  justify-content: center; /* Horizontally center content */
+  background-image: url("public/curved5-1400w.jpg");
+  border-top-right-radius: var(--dl-layout-radius-radius1);
+  border-bottom-right-radius: var(--dl-layout-radius-radius1);
+}
+
+/* Children of transcript3-info, ensuring they are styled correctly within the new flex context */
+.transcript3-container14 { /* Inner content wrapper for info panel text and links */
+  display: flex;
+  padding: var(--dl-layout-space-fourunits);
+  z-index: 1; /* Ensures content is above the background gradient/image */
+  align-items: flex-start; /* Align its own content to the start */
+  flex-direction: column;
+  width: 100%; /* Take full width of the info panel */
+}
+
+.transcript3-text6 { /* "Fill up all 4 SOAP..." text */
+  opacity: 0.8;
+}
+
+.transcript3-container15 { /* Container for contact details */
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  margin-top: var(--dl-layout-space-doubleunit);
+  align-items: flex-start;
+  margin-bottom: var(--dl-layout-space-doubleunit);
+  flex-direction: column;
+}
+
+.transcript3-container16,
+.transcript3-container17,
+.transcript3-container18 { /* Individual contact item rows */
+  display: flex;
+  margin-top: var(--dl-layout-space-unit);
+  align-items: center; /* Align icon and text */
+  margin-bottom: var(--dl-layout-space-unit);
+  flex-direction: row;
+}
+
+.transcript3-icon10,
+.transcript3-icon12,
+.transcript3-icon14 { /* Icons in info panel */
+  fill: var(--dl-color-gray-white);
+  width: 24px;
+  height: 24px;
+  margin-right: var(--dl-layout-space-unit);
+}
+
+.transcript3-link1,
+.transcript3-link2,
+.transcript3-text7 { /* Text/links next to icons */
+  opacity: 0.8;
+}
+.transcript3-link1, .transcript3-link2 {
+  text-decoration: none;
+}
+.transcript3-link2 { /* Specific styling from plan.css for email */
+ font-size: 0.875rem;
+ font-family: "Open Sans";
+ font-weight: 400;
+ line-height: 1.5;
+ text-transform: none;
+}
+
+
+.transcript3-container19 { /* Social media icons container */
+  flex: 0 0 auto;
+  width: 200px; /* Original width */
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+}
+
+.transcript3-icon16,
+.transcript3-icon18,
+.transcript3-icon20,
+.transcript3-icon22 { 
+  fill: var(--dl-color-gray-white);
+  width: 24px;
+  height: 24px;
+  margin-right: var(--dl-layout-space-doubleunit);
+}
+
+.transcript3-image { /* Small wave image at top-left of info panel */
+  top: 0px;
+  left: -1px; /* Original */
+  right: auto;
+  width: 100px; /* Original */
+  z-index: 2; /* Above the gradient overlay */
+  position: absolute;
+  object-fit: cover;
+}
+
+.transcript3-container20 { /* Gradient overlay for info panel */
+  top: auto;
+  left: auto;
+  right: 0px;
+  width: 100%;
+  bottom: 0px;
+  height: 100%;
+  opacity: 0.9; /* Original */
+  position: absolute;
+  background-image: linear-gradient(310deg,#2152ff,#21d4fd);
+}
+
+/* Responsive adjustments for the layout */
+@media(max-width: 991px) {
+  .transcript3-container11 { /* Stack form and info panel on smaller screens */
+    flex-direction: column;
+  }
+  .transcript3-info {
+    padding-left: var(--dl-layout-space-doubleunit); /* Adjust padding for stacked view */
+    padding-right: var(--dl-layout-space-doubleunit);
+    border-top-right-radius: 0; 
+    border-bottom-left-radius: var(--dl-layout-radius-radius1);
+  }
+  .transcript3-image { 
+    display: none;
+  }
+}
+
+@media(max-width: 767px) {
+  .transcript3-contact {
+    padding-top: var(--dl-layout-space-doubleunit);
+    padding-left: var(--dl-layout-space-doubleunit);
+    padding-right: var(--dl-layout-space-doubleunit);
+    padding-bottom: var(--dl-layout-space-doubleunit);
+  }
+  .transcript3-form1 {
+    padding-top: var(--dl-layout-space-doubleunit);
+  }
+   .transcript3-info {
+    padding-left: var(--dl-layout-space-unitandahalfunit);
+    padding-right: var(--dl-layout-space-unitandahalfunit);
+  }
+}

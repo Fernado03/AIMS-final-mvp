@@ -1,0 +1,1993 @@
+CLINICAL PRACTICE GUIDELINES
+—t .: °-
+MOHIPIPAKI326.16(6U)
+MANAGEMENT OF
+NASOPHARYNGEAL
+CARCINOMA
+CPG Management of Nasopharyngeal Carcinoma 2016
+Published by:
+Malaysia Health Technology Assessment Section (MaHTAS)
+Medical Development Division, Ministry of Health Malaysia
+Level 4, Block E1, Precinct 1
+Federal Government Administrative Centre
+62590, Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is MaHTAS. Content may be
+reproduced in any number of copies and in any format or medium
+provided that a copyright acknowledgement to MaHTAS is included and
+the content is not changed, not sold, nor used to promote or endorse
+any product or service, and not used in an inappropriate or misleading
+context.
+ISBN: 978-967-0769-73-8
+Available on the following websites:
+http://www.moh.gov.my
+http://www.acadmed.org.my
+http://www.msohns.com
+Also available as an app for Android and IOS platform: MyMaHTAS
+CPG Management of Nasopharyngeal Carcinoma 2016
+STATEMENT OF INTENT
+These clinical practice guidelines (CPG) are meant to be guides for
+clinical practice, based on the best available evidence at the time of
+development. Adherence to these guidelines may not necessarily
+guarantee the best outcome in every case. Every healthcare provider is
+responsible for the management of his/her unique patient based on the
+clinical picture presented by the patient and the management options
+available locally.
+These guidelines were issued in 2016 and will be reviewed in 2020 or
+sooner if new evidence becomes available. When it is due for updating,
+the Chairman of the CPG or National Advisor of the related specialty
+will be informed about it. A discussion will be done on the need for
+a revision including the scope of the revised CPG. A multidisciplinary
+team will be formed and the latest systematic review methodology used
+by MaHTAS will be employed.
+Every care is taken to ensure that this publication is correct in every
+detail at the time of publication. However, in the event of errors or
+omissions, corrections will be published in the web version of this
+document, which is the definitive version at all times. This version can
+be found on the websites mentioned above.
+CPG Management of Nasopharyngeal Carcinoma 2016
+KEY RECOMMENDATIONS
+The following recommendations were highlighted by the guidelines
+Development Group as the key clinical recommendations that should
+be prioritise for implementation.
+Clinical Presentations and Referral
+Recommendation 1
+• Patients presenting with any of the following symptoms should be
+referred to Otorhinolaryngologists as soon as possible to rule out
+nasopharyngeal carcinoma :
+ painless neck lump (unilateral/bilateral)
+ blood-stained nasal discharge/saliva
+ unilateral ear block or hearing loss
+ headache
+ facial numbness
+ diplopia
+Investigations
+Recommendation 2
+• Nasopharyngoscopy should be performed in all patients suspected
+of nasopharyngeal carcinoma (NPC).
+• NPC should be diagnosed by histopathological examination of the
+nasopharynx.
+• In patients presenting with cervical lymphadenopathy, full head and
+neck assessment and fine needle aspiration cytological examination
+of the nodes should be done.
+Staging
+Recommendation 3
+• All nasopharyngeal carcinoma patients should be staged using the
+tumour node metastasis (TNM) system.
+CPG Management of Nasopharyngeal Carcinoma 2016
+Treatment
+Recommendation 4
+• Radiotherapy alone is the main treatment in Stage I nasopharyngeal
+carcinoma (NPC).
+• Concurrent chemoradiotherapy should be offered in Stage II, III, IVA
+and IVB NPC.
+• Intensity modulated radiotherapy is the preferred radiation technique
+in NPC.
+Recommendation 5
+• In recurrent nasopharyngeal carcinoma, nasopharyngectomy or reirradiation may be offered.
+Recommendation 7
+• All nasopharyngeal carcinoma patients should have dental assessment
+prior to radiotherapy and treated accordingly by oral/dental
+specialists trained in dealing with patients receiving radiotherapy.
+CPG Management of Nasopharyngeal Carcinoma 2016
+TABLE OF CONTENTS
+No.
+Title
+Page
+Levels of Evidence & Formulation of Recommendation
+i
+Guidelines Development and Objectives
+ii
+Guidelines Development Group
+iv
+Review Committee
+v
+External Reviewers
+vi
+ALGORITHM A : Management of Nasopharyngeal
+vii
+Carcinoma (NPC)
+ALGORITHM B : Management of Persistent Disease
+viii
+or Recurrent NPC
+1.
+INTRODUCTION
+1
+2.
+EPIDEMIOLOGY AND RISK FACTORS
+1
+2.1 Epidemiology
+1
+2.2 Risk Factors
+2
+2.3 Screening
+2
+3.
+CLINICAL PRESENTATION AND REFERRAL
+3
+4.
+INVESTIGATIONS
+4
+5.
+STAGING
+5
+6.
+TREATMENT
+10
+6.1 Primary Cancer
+10
+6.2 Recurrent Disease
+12
+6.3 Advanced Disease
+13
+7.
+SUPPORTIVE CARE
+14
+7.1 Dental Care
+14
+7.2 Otitis Media with Effusion
+14
+7.3 Contraception
+14
+7.4 Nutrition
+14
+8.
+MANAGEMENT OF COMPLICATIONS
+16
+8.1 Oral Complications
+16
+8.2 Cranial Nerve Palsy
+16
+8.3 Osteoradionecrosis
+17
+8.4 Otitis Media with Effusion
+17
+9.
+PROGNOSIS AND FOLLOW - UP
+18
+9.1 Prognosis
+18
+9.2 Follow-up
+CPG Management of Nasopharyngeal Carcinoma 2016
+No.
+Title
+Page
+10.
+IMPLEMENTING THE GUIDELINES
+20
+REFERENCES
+21
+Appendix 1 Examples of Search Strategy
+25
+Appendix 2 Clinical Questions
+26
+Appendix 3 Clinical Presentations
+27
+Appendix 4 TNM Staging Diagram
+30
+Appendix 5 Radiological Staging
+34
+Appendix 6 Chemotherapy Drugs and Side Effects
+36
+Appendix 7
+Eastern Cooperative Oncology Group
+37
+Performance Status
+Appendix 8 Toxicities of Radiotherapy on Head
+38
+and Neck
+List of Abbreviations
+39
+Acknowledgement
+39
+Disclosure Statement
+40
+Source of Funding
+CPG Management of Nasopharyngeal Carcinoma 2016
+Level
+I
+II-1
+II-2
+II-3
+III
+Study design
+Evidence from at least one properly randomised controlled trial
+Evidence obtained from well-designed controlled trials without
+randomisation
+Evidence obtained from well-designed cohort or case-control
+analytic studies, preferably from more than one centre or
+group
+Evidence from multiple time series with or without intervention.
+Dramatic results in uncontrolled experiments (such as the
+results of the introduction of penicillin treatment in the 1940s)
+could also be regarded as this type of evidence
+Opinions of respected authorities based on clinical experience;
+descriptive studies and case reports; or reports of expert
+committees
+In line with new development in CPG methodology, the CPG Unit of
+MaHTAS is in the process of adapting Grading Recommendations,
+Assessment, Development and Evaluation (GRADE) in its
+work process. The quality of each retrieved evidence and its effect
+size are carefully assessed/reviewed by the CPG Development
+Group. In formulating the recommendations, overall balances of the
+following aspects are considered in determining the strength of the
+recommendations:-
+•
+overall quality of evidence
+•
+balance of benefits versus harms
+•
+values and preferences
+•
+resource implications
+•
+equity, feasibility and acceptability
+LEVELS OF EVIDENCE
+SOURCE: US / CANADIAN PREVENTIVE SERVICES TASK FORCE 2001
+CPG Management of Nasopharyngeal Carcinoma 2016
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+GUIDELINES DEVELOPMENT
+The members of the Development Group (DG) for these CPG were
+from the Ministry of Health (MoH) and Ministry of Higher Education
+(MoHE). There was active involvement of a multidisciplinary Review
+Committee (RC) during the process of the CPG development.
+A systematic literature search was carried out using the following
+electronic databases/platform: Guidelines International Network
+(G-I-N), Medline via Ovid, Cochrane Database of Systemic Reviews
+(CDSR) and Pubmed. Refer to Appendix 1 for Example of Search
+Strategy). The inclusion criteria are all patients with nasopharyngeal
+carcinoma (NPC) regardless of study design. The search was limited
+to literature published in the last 20 years and on humans and in
+English. In addition, the reference lists of all retrieved literature and
+guidelines were searched and experts in the field contacted to identify
+relevant studies. All searches were conducted from 22 January 2015
+to 24 February 2016. Literature search was repeated for all clinical
+questions at the end of the CPG development process allowing any
+relevant papers published before 31 July 2016 to be included. Future
+CPG updates will consider evidence published after this cut-off date.
+The details of the search strategy can be obtained upon request from
+the CPG Secretariat.
+Reference was also made to other CPGs namely Nasopharyngeal
+Cancer Treatment by Alberta Health Services published in 2013 and
+Diagnosis and Management of Head and Neck Cancer by Scottish
+Intercollegiate Guidelines Network published in 2006. The CPGs
+were evaluated using the Appraisal of Guidelines for Research and
+Evaluation (AGREE) II prior to it being used as reference.
+A total of 10 clinical questions were developed under different
+sections. Members of the DG were assigned individual questions
+within these sections. Refer to Appendix 2 for Clinical Questions.
+The DG members met 23 times throughout the development of these
+guidelines. All literatures retrieved were appraised by at least two DG
+members using Critical Appraisal Skill Programme checklist, presented
+in evidence tables and further discussed in each DG meetings. All
+statements and recommendations formulated after that were agreed
+upon by both the DG and RC. Where evidence was insufficient, the
+recommendations were made by consensus of the DG and RC. Any
+differences in opinion are resolved consensually. The CPG was based
+largely on the findings of systematic reviews, meta-analyses and clinical
+trials, with local practices taken into consideration.
+CPG Management of Nasopharyngeal Carcinoma 2016
+iii
+The literatures used in these guidelines were graded using the US/
+Canadian Preventive Services Task Force Level of Evidence (2001)
+while the grading of recommendation was done using the principles of
+GRADE (refer to the preceding page). The writing of the CPG follows
+strictly the requirement of AGREE II.
+On completion, the draft CPG was reviewed by external reviewers. It
+was also posted on the MoH Malaysia official website for feedback from
+any interested parties. The draft was finally presented to the Technical
+Advisory Committee for CPG, and the HTA and CPG Council MoH
+Malaysia for review and approval.
+OBJECTIVES
+The objectives of the Clinical Practice Guideline (CPG) are to provide
+evidence-based recommendations on the following:
+i.
+diagnosis and staging of NPC
+ii. treatment and follow-up of NPC
+CLINICAL QUESTIONS
+Refer to Appendix 2
+TARGET POPULATION
+All patients with NPC
+TARGET GROUP/USER
+This CPG is intended to guide those involved in the management of
+NPC either in primary or secondary/tertiary care namely:
+i.
+Medical and dental officers and specialists in government and
+private practice
+ii. Allied health professionals
+iii. Trainees and medical students
+iv. Patients and their advocates
+v. Professional societies
+HEALTHCARE SETTINGS
+Outpatient, inpatient and community settings
+CPG Management of Nasopharyngeal Carcinoma 2016
+iv
+GUIDELINES DEVELOPMENT GROUP
+Chairperson
+Dato’ Dr. Pua Kin Choo
+Consultant Otorhinolaryngologist
+Hospital Pulau Pinang
+Members (alphabetical order)
+Dr. Amali Ahmad
+Radiologist
+Hospital Kuala Lumpur
+Dr. Faridah Hassan
+Consultant Otorhinolaryngologist
+Head of Othorhinolaryngology
+Department
+Hospital Selayang
+Dr. Fazlina Mohamed Yusoff
+Family Medicine Specialist
+Klinik Kesihatan Seksyen 7 Shah Alam
+Dr. Hanin Farhana Kamaruzaman
+CPG Unit
+Health Technology Assessment Section
+Ministry of Health Malaysia
+Miss Kamarun Neasa Begam Mohd
+Kassim
+Pharmacist
+National Cancer Institute, Putrajaya
+Dr. Kong Min Han
+Otorhinolaryngologist & Lecturer
+Universiti Kebangsaan Malaysia
+Medical Centre Kuala Lumpur
+Dr. Mohd. Aminuddin Mohd. Yusof
+Head of CPG Unit
+Health Technology Assessment Section
+Ministry of Health Malaysia
+Dr. Mohd. Khairi Mohd. Noor
+Family Medicine Specialist
+Klinik Kesihatan Sekinchan
+Dr. Noraida Khalid
+Pathologist (Anatomic Pathology)
+Hospital Sultanah Aminah
+Dr. Sha’ariyah Mohd. Mokhtar
+Otorhinolaryngologist
+Hospital Tengku Ampuan Rahimah
+Dr. Wong Yoke Fui
+Clinical Oncologist
+National Cancer Institute, Putrajaya
+Dr. Yogendren Letchumanasamy
+Nuclear Medicine Specialist
+National Cancer Institute, Putrajaya
+Dr. Zakinah Yahaya
+Consultant Otorhinolaryngologist
+Hospital Kuala Lumpur
+CPG Management of Nasopharyngeal Carcinoma 2016
+v
+Dr. Alan Khoo
+Head of Molecular Pathology Unit, Cancer Research Centre
+Institute for Medical Research
+(representative from Nasopharyngeal Carcinoma Society of Malaysia)
+Dr. Fadzilah Hamzah
+Nuclear Medicine Specialist
+Hospital Pulau Pinang
+Dr. Junainah Sabirin
+Deputy Director
+Health Technology Assessment Section
+Ministry of Health Malaysia
+Dr. Lau Fen Nee
+Consultant Clinical Oncologist
+National Cancer Institute, Putrajaya
+Professor Dr. Primuharsa Putra Sabir Husin Athar
+Consultant Otorhinolaryngologist & Clinical Professor
+KPJ Seremban Specialist Hospital
+KPJ Healthcare University College Negeri Sembilan
+Dr. Norzaini Rose Mohd Zain
+Consultant Radiologist
+Hospital Kuala Lumpur
+Dr. Patimah Amin
+Head of Surgical & Emergency Medicine Services Unit
+Medical Development Division
+Ministry of Health Malaysia
+Puan Rozita Mohamad
+Senior Pharmacist & Head of Pharmacy Department
+National Cancer Institute, Putrajaya
+Datin Dr. Zil Falillah Hj. Mohd. Said
+Consultant Family Medicine
+Klinik Kesihatan Paka
+REVIEW COMMITTEE
+The draft CPG was reviewed by a panel of experts from both public
+and private sectors. They were asked to comment primarily on the
+comprehensiveness and accuracy of the interpretation of evidence
+supporting the recommendations in the CPG.
+Chairperson
+Dato’ Dr. Siti Sabzah Mohd. Hashim
+Senior Consultant Otorhinolaryngologist
+Hospital Sultanah Bahiyah, Alor Setar, Kedah
+Members (alphabetical order)
+CPG Management of Nasopharyngeal Carcinoma 2016
+vi
+EXTERNAL REVIEWERS (in alphabetical order)
+The following external reviewers provided feedback on the draft:
+Dr. Fauzia Abdul Majid
+Consultant Family Medicine
+Klinik Kesihatan Kempas, Johor
+Associate Prof. Dr. Mohd Zulkiflee Abu Bakar
+Consultant Otorhinolaryngologist & Lecturer
+Faculty of Medicine
+University Malaya
+Dr. Noraini Ab Rahim
+Consultant Radiologist
+Head of Radiology Department
+National Cancer Institute
+Dr. Norjehan Dato’ Haji Yahaya
+Special Needs Dental Specialist
+Head of Special Needs Dental Unit
+Department of Oral Surgery
+Hospital Kuala Lumpur
+Professor Sheng-Po Hao
+Professor & Chairman
+Department of Otolaryngology Head and Neck Surgery
+Director
+Comprehensive Oral Cancer Center
+Shin Kong Wu Ho-Su Memorial Hospital, Taiwan
+Dr. Wee Tien Seng Joseph
+Senior Consultant/Chairman
+Division of Radiation Oncology
+National Cancer Centre Singapore
+CPG Management of Nasopharyngeal Carcinoma 2016
+ALGORITHM A : MANAGEMENT OF NASOPHARYNGEAL CARCINOMA
+• History taking
+• Complete physical examination
+• Nasopharyngeal examination & biopsy
+• +/- FNAC of regional lymph nodes
+• Baseline investigations (FBC, renal profile, random blood sugar, liver
+function test, chest X-ray and electrocardiogram)
+• MRI of nasopharynx & neck (from base of skull to thoracic inlet) or CT
+with contrast
+• PET-CT or CT thorax/abdomen or ultrasound and bone scan, as indicated
+• Pre-treatment dental assessment
+• Nutritional evaluation
+Determine disease stage
+Stage I (T1N0M0)
+Treatment with definitive
+radiotherapy (RT) to nasopharynx
+& elective RT to neck
+• Definitive RT:-
+ Primary site: total of 66-70 Gy
+for 33-35 fractions, treated
+one fraction/day for 6-7
+weeks (1.8-2.0 Gy/fraction)
+ Prophylactic neck: 54-60 Gy
+for 30 fractions, treated one
+fraction/day for 6 weeks
+(1.8- 2.0 Gy/fraction)
+• IMRT recommended to
+minimise dose to critical
+structure
+Stage IVC (distant
+metastasis)
+Palliative treatment
+• Consider clinical trial if
+available
+• Palliative chemotherapy to
+be considered in patients
+with good ECOG
+performance status (0-2)
+• RT to palliate symptoms
+• Referral to palliative care/
+palliative home care
+Stage II, III, IVA and IVB
+Concurrent chemoradiotherapy
+• Cisplatin + RT
+• Conventional fractionation:
+ Primary site: total of 66-70 Gy
+for 33-35 fractions, treated
+one fraction/day for 6-7 weeks
+(1.8-2.0 Gy/fraction)
+ Neck: 54-70 Gy for 30-35
+fractions, treated one
+fraction/day for 6-7 weeks
+(1.8-2.0 Gy/fraction)
+• IMRT recommended to
+minimise dose to critical
+structures
+Follow-up and Surveillance
+• Multidisciplinary team involvement (ENT specialist, oncologist, speech therapist, audiologist, etc)
+• Head & neck and systemic examination (including nasopharyngoscopy):
+• Cross-sectional imaging in the initial 5 years
+• Speech/swallowing assessment as clinically indicated
+• Hearing evaluation & rehabilitation as clinically indicated
+• Post-treatment dental management every 3 to 4 months by trained and experienced dental
+specialist
+• Weight assessment on follow-up
+• Annual thyroid function test (TFT) screening
+Year
+Intervals
+First year
+Every 1 to 2 months
+Second year
+Every 2 to 3 months
+Third year
+Every 3 to 5 months
+Fourth to fifth year
+Every 6 months
+After fifth year
+Every 6 to 12 months
+CPG Management of Nasopharyngeal Carcinoma 2016
+ALGORITHM B : MANAGEMENT OF PERSISTENT DISEASE OR
+RECURRENT NASOPHARYNGEAL CARCINOMA
+Options include:
+• Nasopharyngectomy
+OR
+• Re-irradiation with external
+beam RT or brachytherapy
+• Consider clinical trial if
+available
+• Palliative chemotherapy to
+be considered in patients
+with good ECOG
+performance status (0-2)
+• RT to palliate symptoms
+• Referral to palliative
+care/ palliative home care
+Options include:
+• Neck dissection
+• Re-irradiation
+• Chemotherapy
+Follow-up and Surveillance
+• Multidisciplinary team involvement (ENT specialist, oncologist, speech therapist, audiologist, etc)
+• Head & neck and systemic examination (including nasopharyngoscopy):
+• Cross-sectional imaging in the initial 5 years
+• Speech/swallowing assessment as clinically indicated
+• Hearing evaluation & rehabilitation as clinically indicated
+• Post-treatment dental management every 3 to 4 months by trained and experienced dental
+specialist
+• Weight assessment on follow-up
+• Annual thyroid function test (TFT) screening
+Local disease
+Distant disease
+Regional disease
+• Restage to assess recurrent or persistent disease – MRI or CT scan and PET/CT
+scan
+• Biopsy of recurrent lesion(s), as clinically indicated
+• Treatment should be individualised based on patient performance status and extent
+of disease
+Year
+Intervals
+First year
+Every 1 to 2 months
+Second year
+Every 2 to 3 months
+Third year
+Every 3 to 5 months
+Fourth to fifth year
+Every 6 months
+After fifth year
+Every 6 to 12 months
+CPG Management of Nasopharyngeal Carcinoma 2016
+1. INTRODUCTION
+Nasopharyngeal carcinoma (NPC) is an epithelial malignant tumour of
+nasopharynx. It is most common among Chinese but constitutes only
+0.7% of cancers worldwide.1, level I According to Global Cancer Statistic
+2008, the incidence rate of NPC is 1 per 100,000 people and it was
+estimated that men are two to three times more likely to develop NPC
+than women.2, level III Geographically, Southeast Asia, Southern China,
+and North African countries have the highest prevalence of NPC
+compared with other parts of the world.
+NPC is the fourth most common cancer among Malaysians (5.2%
+of all cancers).3, level III There are several risk factors associated with
+the disease. NPC is usually diagnosed late due to trivial presentation
+of painless neck lump, blood stained saliva or nasal secretion and
+unilateral mild ear block.4-6, level III In view of late presentation, its
+survival outcome is poor. The optimal management of NPC involves
+a multidisciplinary team. The main challenge for the team is for early
+diagnosis to prompt access to treatment such as radiation therapy. For
+those with intermediate or advanced disease, the aim is to minimise
+treatment side effects without compromising the outcome.
+In view of high disease burden of NPC in Malaysia, variation in practice,
+resource implications as well as lack of local guidelines, the development
+of an evidence-based CPG for NPC is timely and essential to assist the
+healthcare providers in managing the disease locally.
+2. EPIDEMIOLOGY AND RISK FACTORS
+2.1 Epidemiology
+The number of new cancer cases is increasing worldwide. In 2012,
+there was an estimated of 86,700 new NPC cases with 50,800 deaths.
+Although NPC may be considered one of the rarer forms of cancer
+globally, the incidence is notably high in selected geographic and ethnic
+populations, such as in South-East Asia and Southern China.7, level III
+In Malaysia, NPC is the fourth (5.2%) most common cancer among
+Malaysians and the third (8.4%) most common cancer among males.3, level III
+The male to female ratio is 3:1 for both newly diagnosed and recurrent
+cases.4-6, level III Most common age group at presentation is 40 to 60
+years old.4-6, level III However, NPC may also occur in younger age group
+and the youngest case of NPC detected was in a 6 year old.8, level III
+NPC is predominant among Chinese (49%), followed by the natives of
+Sabah and Sarawak (28%) and Malay (22%).4, level III In Sarawak, high
+incidence of NPC is reported among Bidayuh (48.4%).8, level III
+CPG Management of Nasopharyngeal Carcinoma 2016
+2.2 Risk Factors
+Other risk factors for NPC are:
+• Infection – increased risk of NPC in those tested positive for
+Epstein-Barr virus antibodies (RR of 3.5 to 32.8)9, level II-2
+• Family – the risk of NPC among the first-degree relatives was 3.1 to
+8.0 compared to those without family history 10-11, level II-2
+• Lifestyle and environment
+ Tobacco smoking is one of the important risk factors for NPC
+(OR=2.41, 95% CI 1.61 to 3.60).12, level II-2 The risk rise by 1 - 2%
+with each pack-year of smoking.13, level II-2
+ Consumption of salted fish has higher risk of getting NPC in
+people who consume it since childhood (OR=2.45, 95% CI 2.03 to
+2.94)10, level II-2 and those who have it for three times or more
+in 1 month (OR=1.9, 95% CI 1.1 to 3.5).14, level II-2
+ Exposure to domestic wood cooking fires for more than 10 years
+(OR=5.8; 95%CI 2.5 to 13.6).10, level II-2
+ Exposure to occupational solvents for 10 or less years (OR=2.6;
+95%CI 1.4 to 4.8).10, level II-2
+ Occupational exposure to wood dust (OR=1.63, 95%CI 1.02 to
+2.61).12, level II-2
+2.3 Screening
+Screening of NPC for general population in endemic area has been
+extensively studied. The methods used are Epstein-Barr virus (EBV)
+serology test and nasopharyngoscopy. The Health Technology
+Assessment (HTA) report by the Ministry of Health (MoH) Malaysia
+published in 2011 concluded that there was insufficient evidence to
+recommend a population-based NPC screening programme as a public
+health policy.15, level II-2 The findings of a recent Cochrane systematic
+review on NPC screening published in 2015 were consistent with the
+HTA report.16, level I
+• Screening of NPC in general population could not be recommended
+due to insufficient evidence for its effectiveness and safety.
+CPG Management of Nasopharyngeal Carcinoma 2016
+3. CLINICAL PRESENTATION AND REFERRAL
+3.1 Clinical Presentation
+Healthcare providers need to be aware that NPC patients often present
+with nonspecific symptoms and signs in the head and neck region.
+A proper clinical workup which begins with a detailed history of the
+presenting complaints is pertinent in diagnosing NPC.
+The most common presenting symptoms of NPC are:4-6, level III; 8, level III
+• neck lump/mass (42 - 80.8%) - always painless, can be unilateral or
+bilateral
+• nasal symptoms (26 - 49.8%) - blood-stained nasal discharge or
+saliva, unilateral nose block, epistaxis or bad breath
+• ear symptoms (11 - 48.4%) - ear block, deafness, tinnitus or pain; the
+symptoms are usually unilateral but can be bilateral as the disease
+progresses
+• ophthalmo-neurologic symptoms (11 - 14.6%) - unilateral headache,
+facial numbness, diplopia, ptosis, trismus, dysphagia or hoarseness
+of voice. The most common cranial nerve involvement is 5th followed
+by 6th, 3rd, 4th and others.
+The images of these symptoms can be viewed in Appendix 3.
+Majority of NPC patients in Malaysia present with advanced stage
+(Stages III/IV) at the time of diagnosis (75 - 85%). This is due to lack of
+awareness of NPC symptoms and signs among patients and doctors.
+4, level III; 6, level III; 8, level III
+3.2 Referral
+There is no evidence retrieved on referral criteria for patients with NPC.
+In view of delayed in diagnosis of NPC, the CPG DG uses consensus
+method to address the importance of referral to Otorhinolaryngology
+services as soon as possible. Early referral is crucial in establishing
+diagnosis of NPC so that the patients could receive definitive treatment.
+Recommendation 1
+• Patients presenting with any of the following symptoms should be
+referred to Otorhinolaryngologists as soon as possible to rule out
+nasopharyngeal carcinoma :
+ painless neck lump (unilateral/bilateral)
+ blood-stained nasal discharge/saliva
+ unilateral ear block or hearing loss
+ headache
+ facial numbness
+ diplopia
+CPG Management of Nasopharyngeal Carcinoma 2016
+4. INVESTIGATION
+4.1 Baseline Investigations
+There is no retrievable evidence on baseline investigations for NPC
+patients. The established baseline investigations which include full
+blood count, renal profile, random blood sugar, liver function test, chest
+X-ray and electrocardiogram (ECG) are required to assess patient’s
+general health.
+4.2 Histopathology and Cytology
+Biopsy of nasopharynx is mandatory in diagnosis of NPC. It is the
+preferred method for obtaining a definitive histological diagnosis as
+diagnostic sensitivity of nasopharyngeal cytology is limited (70 - 90%).
+Biopsies are taken via nasopharyngoscopy from the gross lesions. In
+the absence of a gross lesion, multiple biopsies should be taken from
+nasopharynx for patients with high suspicion of NPC.17 Fine needle
+aspiration cytological (FNAC) examination of enlarged cervical lymph
+nodes is useful in reaching a diagnosis of metastatic NPC, either for
+initial diagnosis or staging.
+Histological grading of NPC is based on World Health Organization
+(WHO) Classification of Tumours, Pathology and Genetics of Head and
+Neck Tumours as outlined in Table 1.17
+Table 1 : Histopathological Classification of
+Nasopharyngeal Carcinoma
+WHO Classiﬁcation
+2005
+Keratinizing squamous
+cell carcinoma
+Non-keratinizing
+carcinoma
+• Differentiated
+• Undifferentiated
+Basaloid squamous
+cell carcinoma
+WHO Classification
+1991
+Squamous cell
+carcinoma
+Non-keratinizing
+carcinoma
+• Differentiated
+• Undifferentiated
+No synonym exists
+(recently described)
+WHO Classification
+1978
+WHO Type I
+(Squamous cell
+carcinoma)
+WHO Type II
+(Non keratinizing
+carcinoma)
+WHO Type III
+(Undifferentiated
+carcinoma)
+No synonym exists
+(recently described)
+CPG Management of Nasopharyngeal Carcinoma 2016
+• In doubtful situation where the histological finding is unclear, ancillary
+tests such as immunohistochemical staining and EBV encoded early
+RNAs (EBER) in-situ hybridization will be performed.
+Non-keratinizing carcinoma is the commonest histological subtype (75
+- 99%) while the basaloid squamous cell carcinoma (SCC) is the least
+common (<0.2%).17; 18, level III Keratinizing SCC is more common in low
+incidence area of NPC.18, level III The histological type does not differ by
+gender.19, level II-2
+There is no retrievable evidence on contraindication of lymph node
+biopsy in NPC. However, the CPG DG opines that full ENT assessment
+and FNAC is warranted before embarking on lymph node biopsy due to
+the possibility of extracapsular spread of the cancer cells.
+Recommendation 2
+• Nasopharyngoscopy should be performed in all patients suspected
+of nasopharyngeal carcinoma (NPC).
+• NPC should be diagnosed by histopathological examination of the
+nasopharynx.
+• In patients presenting with cervical lymphadenopathy, full head and
+neck assessment and fine needle aspiration cytological examination
+of the nodes should be done.
+CPG Management of Nasopharyngeal Carcinoma 2016
+5. STAGING
+Cancer staging plays an important role in determining the best treatment
+approach and prognosis of the disease. In this CPG, the latest edition
+of the American Joint Committee on Cancer or AJCC Cancer Staging
+Manual 2010 (7th Edition) is used to stage NPC.20 The most clinically
+useful staging system is the Tumour Node Metastasis (TNM) System.
+TNM staging consist of clinical examination, and pathological and
+radiological investigations. Clinical examination of nasopharynx,
+regional lymph nodes and distant metastatic sites (especially lung,
+liver and bone) is crucial for diagnosis and staging. Cranial nerves
+examination is vital as cranial nerve involvement may be the first
+and only presentation of NPC. Refer to Appendix 4 for TNM Staging
+Diagram.
+Primary Tumour (T)
+TX Primary tumour cannot be assessed
+T0
+No evidence of primary tumour
+Tis Carcinoma in situ
+Nasopharynx
+T1
+Tumour conﬁned to the nasopharynx, or tumor extends to
+oropharynx and/or nasal cavity without parapharyngeal extension*
+T2
+Tumour with parapharyngeal extension*
+T3
+Tumour involves bony structures of skull base and/or paranasal
+sinuses
+T4
+Tumour with intracranial extension and/or involvement of cranial
+nerves, hypopharynx, orbit, or with extension to the infratemporal
+fossa/masticator space
+*Note: Parapharyngeal extension denotes posterolateral inﬁltration of
+tumour.
+CPG Management of Nasopharyngeal Carcinoma 2016
+Regional Lymph Nodes (N) Nasopharynx
+NX Regional lymph nodes cannot be assessed
+N0 No regional lymph node metastasis
+Distant Metastasis (M)
+M0 No distant metastasis
+M1 Distant metastasis
+Anatomic Stage/Prognostic Groups
+Nasopharynx
+N1
+Unilateral metastasis in cervical lymph node(s), ≤6 cm in greatest
+dimension, above the supraclavicular fossa, and/or unilateral or
+bilateral, retropharyngeal lymph nodes, 6 cm or less, in greatest
+dimension*
+N2
+Bilateral metastasis in cervical lymph node(s), ≤6 cm in greatest
+dimension, above the supraclavicular fossa*
+N3
+Metastasis in a lymph node(s)* >6 cm and/or to supraclavicular
+fossa*
+N3a >6 cm in dimension
+N3b Extension to the supraclavicular fossa**
+*Note: Midline nodes are considered ipsilateral nodes.
+**Note: Supraclavicular zone or fossa is deﬁned by three points:
+(1) the superior margin of the sternal end of the clavicle,
+(2) the superior margin of the lateral end of the clavicle,
+(3) the point where the neck meets the shoulder.
+All cases with lymph nodes (whole or part) in the fossa are considered
+N3b.
+Tis
+T1
+T1
+T2
+T2
+T1
+T2
+T3
+T3
+T3
+T4
+T4
+T4
+Any T
+Any T
+Stage 0
+Stage I
+Stage II
+Stage III
+Stage IVA
+Stage IVB
+Stage IVC
+N0
+N0
+N1
+N0
+N1
+N2
+N2
+N0
+N1
+N2
+N0
+N1
+N2
+N3
+Any N
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M0
+M1
+CPG Management of Nasopharyngeal Carcinoma 2016
+Radiological Staging
+Imaging studies are essential in clinical staging of the NPC as it
+identifies the deep tumour infiltration and locoregional cervical lymph
+nodes involvement. It is mandatory to complete the staging process for
+further management of the disease.20
+Magnetic resonance imaging (MRI) is superior to computed tomography
+(CT) scan in demonstrating soft tissue involvement. It is more sensitive
+than CT scan for skull base and intracranial tumour infiltration as well
+as identification of retropharyngeal lymph node metastasis (69.0% vs
+52.1%, p<0.001). However, there is no significant difference in detection
+of the rest of the neck lymph node metastasis between MRI and CT
+scan.21, level III MRI is able to depict not only primary cancers that caused
+an obvious focal mass or infiltration outside the nasopharynx but also
+those early cancers that produced only mild thickening of the mucosa.
+It is also an accurate diagnostic test for patients with submucosal
+involvement which are not detected by endoscopy (sensitivity of 100%
+and specificity of 93%).22, level III
+18F-fluorodeoxyglucose positron emission tomography CT (FDG PETCT) has better sensitivity and specificity compared with other staging
+modalities (MRI or CT scan of head and neck, chest radiography,
+abdominal ultrasonography and skeletal scintigraphy) for N (pooled
+sensitivity of 84% and specificity of 90%) and M (pooled sensitivity of
+87% and specificity of 98%) classifications, but not for T classification
+of newly diagnosed NPC.23, level III
+In two systematic reviews, whole-body FDG PET or PET-CT demonstrated
+a good diagnostic performance in M staging of NPC compared to other
+conventional work-up (chest radiography, abdominal ultrasonography
+and skeletal scintigraphy). The pooled sensitivity ranged from 82% to
+83% and the pooled specificity was 97%.24-25, level III A diagnostic study
+included in these systematic reviews showed that FDG PET-CT has
+better accuracy (96.2, 95% CI 89.3 to 98.7) in detecting distant metastasis
+compared with other imaging modalities which included CT scan of
+thorax and abdomen in combination with skeletal scintigraphy.26, level III
+FDG PET is the best modality for diagnosis of local residual or recurrent
+NPC compared with CT and MRI with pooled sensitivity of 95% and
+specificity of 90%.27, level III However, the combined use of MRI and
+FDG PET-CT is more accurate (overall accuracy of 92.1, 95% CI
+85.4 to 98.7) for tumour restaging than when either modality is used
+independently.28, level II-2
+In local setting, CT scan is widely used to stage the disease in view of
+limited availability of MRI and FDG PET-CT. CT scan is also offered
+when there is contraindication for MRI such as the use of pacemaker.
+CPG Management of Nasopharyngeal Carcinoma 2016
+Some of the radiological images of NPC staging can be seen on
+Appendix 5.
+Recommendation 3
+• All nasopharyngeal carcinoma (NPC) patients should be staged
+using the tumour node metastasis (TNM) system.
+• The preferred imaging modality is:
+ magnetic resonance imaging (MRI) for local and locoregional
+staging of NPC
+ 18F-fluorodeoxyglucose positron emission tomography CT (FDG
+PET-CT) for distant metastasis in NPC
+• For restaging of residual and recurrence NPC, combination of MRI
+and FDG PET-CT should be used.
+• When MRI and FDG PET-CT are not feasible, CT scan is an
+alternative imaging modality in NPC staging.
+CPG Management of Nasopharyngeal Carcinoma 2016
+6. TREATMENT
+Multidisciplinary team approach in the management of NPC cases is
+important to ensure optimum treatment planning. The main treatment
+for NPC is radiation therapy with or without chemotherapy.
+6.1 Primary Cancer (Newly Diagnosed NPC)
+Radiation therapy (RT) is the main treatment modality for nondisseminated NPC. Chemotherapy plays a role as adjunct treatment
+to RT. It can be given as concurrent, adjuvant or neoadjuvant setting.
+NPC is radiosensitive and thus radiation therapy is the mainstay of
+treatment. Radical radiation therapy doses usually consist of 66 to 70Gy
+in 33-35 fractions, treated once daily over 6-7 weeks, usually 5 days a
+week with two rest days. Conventional 2-dimensional radiation therapy
+(2D-CRT) used to be the main technique. With the understanding about
+benefit of conformal radiation therapy and technological advancement,
+the therapy has evolved to 3-dimensional radiation therapy (3D-CRT)
+and more recently intensity modulated radiotherapy (IMRT).
+IMRT has the potential to deliver higher doses of radiation to tumour
+cells near critical structures such as salivary glands, optic apparatus,
+spinal cord, brain stem and pituitary gland. IMRT improves local control
+and progression free survival (PFS) for both early and advanced stage
+NPC.29, level II-2 A systematic review on IMRT to head and neck cancer
+showed significant reduction in grade 2-4 xerostomia (HR=0.76, 95%CI
+0.66 to 0.87) without compromising loco-regional control and overall
+survival.30, level I
+There is limited evidence on Stage II disease. In a cohort study of 362
+patients on RT alone, the 5-years overall survival (OS) was significantly
+lower at 73.1% in T2N1 compared with T1N0 (96.6%).31, level II-2 In a RCT
+conducted in 2011, concurrent chemotherapy improved the 5-year OS
+compared with RT alone (94.5% vs 85.8%) with a reduction of death
+by 70% (HR of death=0.30, 95% CI 0.12 to 0.76).32, level I Guidelines by
+National Comprehensive Cancer Network 2013 and European Society
+for Medical Oncology 2012 recommend CCRT in Stage II disease.33-34
+There are strong evidences on chemotherapy added concurrently to
+RT in locoregionally advanced NPC (Stage III, IVA and IVB). Various
+combinations of chemotherapy were used with platinum-based being
+the commonest agent.
+• In a meta-analysis of 1500 patients, pooled data showed an
+approximate 20% improvement in 2- to 4-year survival with the
+addition of chemotherapy to standard external beam radiation
+therapy. For the 4-year OS, the OR was 0.79 (95% CI 0.65 to 0.97).
+CPG Management of Nasopharyngeal Carcinoma 2016
+However, there was no report on quality assessment of the included
+primary studies.35, level I
+• A Cochrane systematic review of eight RCTs in 2006 found that
+chemotherapy led to a small but significant benefit for 5-year OS with
+HR of death of 0.82 (95% CI 0.71 to 0.95). The concomitant trials
+showed a better treatment effect than induction trials or adjuvant
+trials [HR of 0.60 (95% CI 0.48 to 0.76), HR of 0.99 (95% CI 0.80 to
+1.21) and HR of 0.97 (95% CI 0.69 to 1.38) respectively].36, level I
+• A later updated meta-analysis of 19 RCTs in 2015 supported the
+findings of the above Cochrane review.37, level I
+• In a 2015 network meta-analysis, both CCRT + AC and CCRT alone
+benefited OS significantly when compared with RT alone [HR of
+0.64 (95% CI 0.53 to 0.76) and HR of 0.66 (95% CI 0.49 to 0.88)
+respectively]. The primary studies were of moderate quality.38, level I
+The list of common chemotherapy drugs and the side effects is outlined
+in Appendix 6.
+Neoadjuvant
+chemotherapy
+(NACT)
+is
+the
+administration
+of
+chemotherapy agents before a primary treatment. The aim is to reduce
+the size or extent of cancer. Based on three meta-analyses, NACT
+showed a benefit in disease free survival but not in OS and locoregional
+control.37, level I; 39-40, level I Strong evidence are required to establish the
+efficacy of NACT in locoregionally advanced NPC.
+Adjuvant chemotherapy (AC) is chemotherapy given after primary
+treatment of NPC. Two meta-analyses showed that when compared
+with RT alone, AC + RT significantly lowered the risk of locoregional
+failure by 29 - 39% but not in OS.37, level I; 40, level I There were no significant
+differences in OS, locoregional recurrence free survival (LRFS) and
+distant metastasis free survival (DMFS) between CCRT + AC and
+CCRT alone. The primary studies used in these meta-analyses and
+network meta-analyses were of moderate in quality.38, level I; 41, level I
+Common adverse events in chemotherapy include neutropaenia,
+mucositis, nausea and vomiting.37-38, level I; 40, level I
+Due to limited evidence, efficacy of neoadjuvant and adjuvant
+chemotherapy in NPC has yet to be established.
+CPG Management of Nasopharyngeal Carcinoma 2016
+Recommendation 4
+• Radiotherapy alone is the main treatment in Stage I nasopharyngeal
+carcinoma (NPC).
+• Concurrent chemoradiotherapy should be offered in Stage II, III, IVA
+and IVB NPC.
+• Intensity modulated radiotherapy is the preferred radiation technique
+in NPC.
+6.2 Recurrent Cancer
+NPC can recur at local, locoregional or distant metastatic sites. These
+conditions can be difficult to manage. Treatment for primary site
+recurrence depends on the T staging. Treatment for rT1 and rT2 can be
+endoscopic nasopharyngectomy or brachytherapy. For rT3, selected rT4
+and nodal recurrence, conventional nasopharyngectomy, radical neck
+dissection or re-irradiation is the treatment option.42-43, level II-3; 44, level II-2
+Five-years overall survival rate post-nasopharyngectomy ranges from
+42.1% to 52%.42-43, level II-3; 44, level II-2 The survival rate is higher in
+rT1 (49.1% to 73%) and rT2 (24.7% to 40%) compared with higher
+T staging.42, level II-3; 44, level II-2
+Transient complications of nasopharyngectomy such as palatal fistula
+and submandibular necrosis may resolve spontaneously or require
+further intervention.42, level II-3; 44, level II-2 Uncommon complications are:
+• permanent morbidities due to nerve injury (paralysis causing
+dysphagia) and severe trismus42, level II-3; 44, level II-2
+• mortality caused by massive bleeding due to injury to carotid artery
+43, level II-3; 44, level II-2
+Significant
+poor
+prognostic
+factors
+on
+survival
+of
+postnasopharyngectomy are: 42, level II-3
+• advanced T stage of disease at treatment
+• lymph node metastasis
+• invasion of skull base
+• invasion of parapharyngeal space
+• positive surgical margin
+With a carefully selected subset of patients, the potential for durable
+local control and respectable survival rates with re-irradiation can be
+achieved. Re-irradiation poses a therapeutic challenge as the radiation
+dose that can be given is limited by previous radiation treatment dose
+and normal organs tolerance.
+CPG Management of Nasopharyngeal Carcinoma 2016
+3D-CRT, IMRT and brachytherapy are the different RT approaches that
+can be offered. A cohort study showed that these three approaches
+were beneficial and feasible for rT1-T2 NPC in terms of local control,
+disease-free survival and overall survival.45, level II-2 Long term toxicity for
+re-irradiation are of concern. Severe adverse effects for re-irradiation
+include nasopharyngeal necrosis, cranial nerve palsy, trismus, hearing
+deficit and temporal lobe necrosis.45, level II-2; 46, level III
+The choice of therapeutic approach depends upon local expertise and
+facilities, and the extend of recurrent disease.
+Recommendation 5
+• In recurrent nasopharyngeal carcinoma, nasopharyngectomy or reirradiation may be offered.
+6.3 Advanced Disease
+In advanced disease with distant metastasis (M1) of NPC, options
+of treatment include chemotherapy, radiotherapy and palliative care.
+NPC patients with distant metastasis (Stage IVC) receiving either
+chemotherapy or radiotherapy have better 1-year overall survival rate
+compared with those without treatment (p=0.0015). The radiation dose
+that might be given is 70.2-75.6 Gy.47, level III
+Multimodality treatment which include chemotherapy, radiotherapy with
+or without surgery increase survival rate significantly compared with best
+supportive care or chemotherapy alone in metastatic NPC.48, level III
+Palliative care is very important in order to provide comfort and support
+to patients and families who are living with or dying from advanced NPC.
+These patients will have complex physical and psychosocial problems.
+A comprehensive approach of treatment such as surgery, radiotherapy,
+chemotherapy, psychological and social supports, pain control, nutritional
+and spiritual supports may alleviate some of the discomfort for a better
+quality of life.49 Palliative chemotherapy may be considered in patients
+with good Eastern Cooperative Oncology Group (ECOG) performance
+status of 0-2 as outlined in Appendix 7.
+For pain management in cancer patients, refer to CPG Management of
+Cancer Pain.50
+Recommendation 6
+• Multimodality treatment including palliative care should be
+considered in advanced nasopharyngeal carcinoma.
+CPG Management of Nasopharyngeal Carcinoma 2016
+7. SUPPORTIVE CARE
+7.1 Dental Care
+Dental assessment prior to radiotherapy should be addressed early
+to allow sufficient healing time for any dental procedures.51, level III A
+comprehensive dental assessment should include medical and dental
+history, extra- and intra-oral examination, necessary radiographs and
+any investigations required.
+Dental management in NPC emphasis on the importance of oral or
+denture hygiene care, and use of ultra-soft toothbrush.52, level III Referral
+for dental assessment is required and treated accordingly.
+7.2 Treatment of Otitis Media with Effusion
+Otitis media with effusion (OME) is common in NPC patients. The
+treatment options for post-irradiation OME are:53, level I
+• Myringotomy plus grommet insertion
+• Simple aspiration (auripuncture)
+• Tympanic membrane fenestration with cauterization
+Myringotomy and grommet insertion has higher cure rate at the end of
+2-year follow-up compared with simple auripuncture plus aspiration (51%
+vs 38%, p=0.011) despite higher incidence of complications (28.9% vs
+15.6%).53, level I
+7.3 Contraception
+Ideally, highly effective reversible contraceptives, such as intrauterine
+or implantable contraceptives, are recommended for women treated
+for cancer including NPC. However, combined hormonal contraceptive
+methods (containing oestrogen and progestin) should be avoided by
+women with active cancer or who have been treated for cancer in the
+last six months due to the increased risk of venous thromboembolism
+(VTE). For women who are cancer-free for at least six months and have
+no history of hormone-mediated cancers, chest wall irradiation, anaemia,
+osteoporosis or VTE, the use of any method of contraception can be
+recommended.54, level III
+7.4 Nutritional Support
+NPC patients are at risk for malnutrition due to disease process or
+complications of the treatment. Adequate nutrition is important for
+supportive or palliative care to ease the treatment process and improve
+quality of life. Nutritional intake for NPC patients can be in the form of
+oral, enteral and parenteral feed depending on patients’ ability to tolerate
+CPG Management of Nasopharyngeal Carcinoma 2016
+the food and their requirements. Nutritional supplements may be used
+to maintain adequate calorie and nutrient intake which includes:49
+• Nutritionally complete supplements
+• Energy and protein supplements
+• Carbohydrate supplements
+• Protein supplements
+• Fat supplements
+CPG Management of Nasopharyngeal Carcinoma 2016
+8. MANAGEMENT OF COMPLICATIONS
+Post-radiotherapy complications such as oral and aural complications,
+and cranial nerve palsies are common in the treatment of NPC. Other
+late toxicities post-radiotherapy are listed in Appendix 8.
+8.1 Oral Complications
+The common oral complications post-radiotherapy are:
+• xerostomia (80% to 100%)55-57, level II-3
+• mucositis (60% from third to fourth week after the beginning of
+radiotherapy)55, level II-3
+• candidiasis (16% to 67%)55-57, level II-3
+It is essential that NPC patients receive dental assessment prior to
+radiotherapy to minimise post-treatment oral complications. The oral
+complications among NPC survivors causes significant negative impact
+in functional, physical, social and handicap in oral health-related quality
+of life (Oral Health Impact Profile-subscale).58, level II-3
+At present, there is no retrievable evidence on specific dental
+management in NPC patients due to lack of clinical trials for such
+treatment modality. However, some of the dental management for the
+head and neck cancer includes:
+• fluoride therapy59, level I
+• chlorhexidine rinse59, level I (preferably alcohol-free)
+• dental extraction57, level II-3
+Treatment for xerostomia is limited. Locally, symptomatic relief such as
+frequent sipping of plain water and the use of moisturising mouth gel
+or gargle has been offered to the affected patients. Although there is
+limited evidence available, pilocarpine is an efficacious and safe option
+of treatment.60-62, level I
+8.2 Osteoradionecrosis
+Dental diseases increase the risk of osteoradionecrosis (ORN).
+Therefore, dental assessment prior to radiotherapy is essential to
+reduce the risks of ORN.
+Osteoradionecrosis of the skull base post-radiotherapy can be
+controlled by sequestrectomy combined with hyperbaric oxygen in
+majority of NPC patients. In extensive cases, radical sequestrectomy
+with microvascular free flap reconstruction are justified.63, level III Longterm antibiotics can be used but may not be sufficient to treat an
+extensive disease.
+CPG Management of Nasopharyngeal Carcinoma 2016
+Recommendation 7
+• All nasopharyngeal carcinoma (NPC) patients should have dental
+assessment prior to radiotherapy and treated accordingly by
+oral/dental specialists trained in dealing with patients receiving
+radiotherapy.
+• Pilocarpine may be offered for treatment of post-radiotherapy
+xerostomia in NPC patients, if it is available.
+8.3 Cranial Nerve Palsy
+There is no definite treatment for cranial nerve palsy post-radiotherapy
+in NPC patients. Symptomatic treatments such as nasogastric tube or
+gastrostomy tube feeding for dysphagia or aspiration may be offered.
+In intractable aspiration secondary to radiation encephalopathy or
+radiation damage of cranial nerve, closure of laryngotracheal cavity
+and tracheostomy is an option.64, level III Strabismus as a result of sixth
+cranial nerve palsy can be treated temporarily by Botulinum Toxin A
+injection.65, level III
+8.4 Otitis Media with Effusion
+Refer to Subchapter 7.2 under Supportive Care.
+CPG Management of Nasopharyngeal Carcinoma 2016
+9. PROGNOSIS AND FOLLOW-UP
+9.1 Prognosis
+Different prognostic categories (based on the difference in failure
+patterns) can be defined across different stages, as shown in Table 2.
+66, level II-3; 67, level III These prognostic groupings have important
+implications for the selection of appropriate treatment strategies.
+Table 2 : Prognosis of Different NPC Stages
+Males (p<0.05) and tumour with lymph nodes involvement (p<0.05)
+have poorer prognosis as compared with females and tumour confined
+to the primary site in 5-year LRFS. The 5-year LRFS for male is 33.3%
+and for N1 patients is 35.0%.66, level II-3
+Distant metastasis is the most common mode of failure in NPC, followed
+by local recurrence. While a small percentage of locally recurrent NPC
+can be salvaged, the vast majority of distant metastasis succumbs to
+the disease. However, patients with non-disseminated NPC (6.88%)
+survive two years or more after distant metastasis is diagnosed.68, level II-3
+9.2 Follow-up
+Radiotherapy acute toxicities usually take about one to two months to
+resolve and tumour will regress maximally within two to three months.
+Hence, the patients need to be reviewed post-radiotherapy to assess
+acute toxicities and manage accordingly.
+The aims of following-up patients after NPC treatment are:
+• to assess the response to treatments
+• to manage side effects and complications which may arise due to
+the disease process or from the treatment67, level III (refer to Chapter
+8 on Management of Complications)
+• to provide surveillance and early detection of locoregional relapses,
+which are amenable to radical salvage treatment67, level III to detect
+occurrence of second primary cancer
+ There is a 24% increased risk in the development of a second
+cancer after NPC as compared with the general population
+(standardised incidence rate=1.24, 95% CI 1.15 to 1.33).69, level III
+Stage
+T1-2 N0-1
+T3-4 N0-1
+T1-2 N2-3
+T3-4 N2-3
+Prognosis
+Relatively good treatment outcome
+Mainly local failure
+Mainly regional and distant failure
+Local, regional and distant failure
+CPG Management of Nasopharyngeal Carcinoma 2016
+The average interval between the occurrence of the ﬁrst and the
+second cancers is 5.33 years. The second primary cancers are
+oral/pharyngeal cancer, head and neck sarcoma, skin cancer and
+salivary gland cancer.70, level III
+The CPG DG and RC suggest the following procedures to be conducted
+on NPC patients during follow-up.
+The follow-up procedures in NPC are:
+• clinical examination of the nasopharynx including an nasoendoscopic
+examination to detect superficial tumours
+• examination of the neck and other systems (thorax and abdomen)
+• if post-radiotherapy cross sectional imaging is required, it should be
+offered no earlier than 3 months
+• cross-sectional imaging, as needed, to detect deep infiltrating
+tumours not associated with mucosal lesion during the initial 3 - 5
+years post-treatment
+There is no standard local follow-up schedule for NPC patients.
+However, the CPG DG and RC suggest the following schedule on NPC.
+Table 3 : Follow-up Schedule of NPC Without Recurrence
+*interval of follow-up may be adjusted based on clinical judgement
+Year after completion of treatment
+First year
+Second year
+Third year
+Fourth to fifth year
+After fifth year
+Frequency of follow-up
+Every 1 to 2 months
+Every 2 to 3 months
+Every 3 to 5 months
+Every 6 months
+Every 6 to 12 months
+CPG Management of Nasopharyngeal Carcinoma 2016
+10. IMPLEMENTING THE GUIDELINES
+Implementation of CPG is important as it helps in providing quality
+healthcare services based on best available evidence applied to local
+scenario and expertise. Various factors and resource implications
+should be considered for the success of the uptake in the CPG
+recommendations.
+10.1 Facilitating and Limiting Factors
+The facilitating factors in implementing the CPG are:
+• availability of CPG to healthcare providers (hardcopies and
+softcopies)
+• conferences and updates on management of NPC
+Limiting factors in the CPG implementation include:
+• limited awareness in managing and referrals of NPC among
+healthcare providers
+• inadequate NPC training at all levels of healthcare providers
+• variation in NPC treatment at different levels of care due to
+administrative and financial constraints
+10.2 Potential Resource Implications
+To implement the CPG, there must be strong commitments to:
+• ensure widespread distribution of CPG to healthcare providers via
+printed copies and online accessibility
+• reinforce training of healthcare providers via regular seminars and
+workshops
+• involve multidisciplinary team at all levels
+• improve the diagnostic and therapeutic facilities, and trained experts
+• strengthen the head and neck cancer registry
+To assist in the implementation of the CPG, the following are proposed
+as clinical audit indicators for quality management:
+Implementation strategies will be developed following the approval of
+the CPG by MoH which include Quick Reference and Training Module.
+Percentage of NPC
+patients treated
+with IMRT
+= Number of NPC patients
+x 100%
+treated with IMRT
+Total number of NPC patients
+treated with radiotherapy
+CPG Management of Nasopharyngeal Carcinoma 2016
+References
+1.
+Al-Sarraf M, LeBlanc, M., Giri PG, et al. Chemoradiotherapy versus radiotherapy in patients with
+advanced nasopharyngeal cancer: phase III randomized intergroup study 0099. J Clin Oncol
+1998; 16: 1310-1317.
+2.
+Ferlay J, Shin HR, Bray F, et al. GLOBOCAN 2008, Cancer Incidence and Mortality Worldwide:
+IARC CancerBase No. 10. Lyon, France: International Agency for Research on Cancer; Year.
+Available at: http://globocan.iarc.fr. 2010 (accessed on 28 September 2016)
+3.
+Zainal Ariffin O, Nor Saleha IT. National cancer registry report 2007. Malaysia: Ministry of Health.
+2011.
+4.
+Pua KC, Khoo AS, Yap YY, et al. Nasopharyngeal carcinoma database. Med J Malaysia. 2008
+Sep;63 (Suppl C):59-62.
+5.
+Suzina SA, Hamzah M. Clinical presentation of patients with nasopharyngeal carcinoma. Med J
+Malaysia. 2003 Oct;58(4):539-45.
+6.
+Prasad U, Pua KC. Nasopharyngeal carcinoma: a delay in diagnosis. The Medical journal of
+Malaysia. 2000 Jun;55(2):230-5.
+7.
+Torre LA, Bray F, Siegel RL, et al. Global cancer statistics, 2012. CA: a cancer journal for
+clinicians. 2015 Mar 1;65(2):87-108.
+8.
+Tiong TS, Selva KS. Clinical presentation of nasopharyngeal carcinoma in Sarawak Malaysia.
+Med J Malaysia. 2005 Dec;60(5):624-8.
+9.
+Chien YC, Chen JY, Liu MY, et al. Serologic markers of Epstein-Barr virus infection and
+nasopharyngeal carcinoma in Taiwanese men. N Engl J Med. 2001 Dec 27;345(26):1877-82.
+10.
+Guo X, Johnson RC, Deng H, et al. Evaluation of nonviral risk factors for nasopharyngeal
+carcinoma in a high-risk population of Southern China. Int J Cancer. 2009 Jun 15;124(12):29427.
+11.
+Friborg J, Wohlfahrt J, Koch A, et al. Cancer susceptibility in nasopharyngeal carcinoma families-
+-a population-based cohort study. Cancer Res. 2005 Sep 15;65(18):8567-72.
+12.
+Ekburanawat W, Ekpanyaskul C, Brennan P, et al. Evaluation of non-viral risk factors for
+nasopharyngeal carcinoma in Thailand: results from a case-control study. Asian Pac J Cancer
+Prev. 2010;11(4):929-32.
+13.
+Xue WQ, Qin HD, Ruan HL, et al. Quantitative association of tobacco smoking with the risk of
+nasopharyngeal carcinoma: a comprehensive meta-analysis of studies conducted between 1979
+and 2011. Am J Epidemiol. 2013 Aug 1;178(3):325-38.
+14.
+Jia WH, Huang QH, Liao J, et al. Trends in incidence and mortality of nasopharyngeal carcinoma
+over a 20-25 year period (1978/1983-2002) in Sihui and Cangwu counties in southern China.
+BMC Cancer. 2006 Jul 6;6:178.
+15.
+Health Technology Assessment Section (MaHTAS) MDD, Ministry of Health Malaysia.
+Nasopharyngeal Carcinoma Screening. 2010. MOH/P/PAK/211.10(TR).
+16.
+Yang S, Wu S, Zhou J, et al. Screening for nasopharyngeal cancer. The Cochrane Library. 2015
+Jan 1.
+17.
+Barnes L, Eveson JW, Reichart P, et al. Word Health Organization Classification of Tumours:
+Pathology and genetics of head and neck tumors. 2005.
+18.
+Wei KR, Xu Y, Liu J, et al. Histopathological classification of nasopharyngeal carcinoma. Asian
+Pac J Cancer Prev. 2011;12(5):1141-7.
+19.
+Marks JE, Phillips JL, Menck HR. The National Cancer Data Base report on the relationship
+of race and national origin to the histology of nasopharyngeal carcinoma. Cancer. 1998 Aug
+1;83(3):582-8.
+20.
+Edge SB, Byrd DR, Compton CC. American Joint Committee on Cancer, American Cancer
+Society: AJCC Cancer Staging Manual (7th edition). Springer, New York. 2009.
+21.
+Liao XB, Mao YP, Liu LZ, et al. How does magnetic resonance imaging influence staging
+according to AJCC staging system for nasopharyngeal carcinoma compared with computed
+tomography? Int J Radiat Oncol Biol Phys. 2008 Dec 1;72(5):1368-77.
+22.
+King AD, Vlantis AC, Bhatia KS, et al. Primary nasopharyngeal carcinoma: diagnostic accuracy of
+MR imaging versus that of endoscopy and endoscopic biopsy. Radiology. 2011 Feb;258(2):5317.
+CPG Management of Nasopharyngeal Carcinoma 2016
+23.
+Vellayappan BA, Soon YY, Earnest A, et al. Accuracy of (18)F-flurodeoxyglucose-positron
+emission tomography/computed tomography in the staging of newly diagnosed nasopharyngeal
+carcinoma: a systematic review and meta-analysis. Radiol Oncol. 2014 Nov 5;48(4):331-8.
+24.
+Chang MC, Chen JH, Liang JA, et al. Accuracy of whole-body FDG-PET and FDG-PET/CT in
+M staging of nasopharyngeal carcinoma: a systematic review and meta-analysis. Eur J Radiol.
+2013 Feb;82(2):366-73.
+25.
+Xu G, Li J, Zuo X, et al. Comparison of whole body positron emission tomography (PET)/PETcomputed tomography and conventional anatomic imaging for detecting distant malignancies in
+patients with head and neck cancer: a meta-analysis. Laryngoscope. 2012 Sep;122(9):1974-8.
+26.
+Chua ML, Ong SC, Wee JT, et al. Comparison of 4 modalities for distant metastasis staging in
+endemic nasopharyngeal carcinoma. Head Neck. 2009 Mar;31(3):346-54.
+27.
+Liu T, Xu W, Yan WL, et al. FDG-PET, CT, MRI for diagnosis of local residual or recurrent
+nasopharyngeal carcinoma, which one is the best? A systematic review. Radiother Oncol. 2007
+Dec;85(3):327-35.
+28.
+Comoretto M, Balestreri L, Borsatti E, et al. Detection and restaging of residual and/or recurrent
+nasopharyngeal carcinoma after chemotherapy and radiation therapy: comparison of MR
+imaging and FDG PET/CT. Radiology. 2008 Oct;249(1):203-11.
+29.
+Zhang MX, Li J, Shen GP, et al. Intensity-modulated radiotherapy prolongs the survival of patients
+with nasopharyngeal carcinoma compared with conventional two-dimensional radiotherapy: A
+10-year experience with a large cohort and long follow-up. Eur J Cancer. 2015 Nov;51(17):258795.
+30.
+Marta GN, Silva V, de Andrade Carvalho H, et al. Intensity-modulated radiation therapy for head
+and neck cancer: systematic review and meta-analysis. Radiother Oncol. 2014 Jan;110(1):9-15.
+31.
+Xiao WW, Han F, Lu TX, et al. Treatment outcomes after radiotherapy alone for patients with
+early-stage nasopharyngeal carcinoma. Int J Radiat Oncol Biol Phys. 2009 Jul 15;74(4):1070-6.
+32.
+Chen QY, Wen YF, Guo L, et al. Concurrent chemoradiotherapy vs radiotherapy alone in
+stage II nasopharyngeal carcinoma: phase III randomized trial. J Natl Cancer Inst. 2011 Dec
+7;103(23):1761-70.
+33.
+Pfister DG, Ang KK, Brizel DM, et al. Head and neck cancers, version 2.2013. Journal of the
+National Comprehensive Cancer Network. 2013 Aug 1;11(8):917-23. Available at: https://www.
+nccn.org/store/login/login.aspx?ReturnURL=https://www.nccn.org/professionals/physician_gls/
+pdf/head-and-neck.pdf (accessed on 28 September 2016)
+34.
+Chan AT, Grégoire V, Lefebvre JL, et al: EHNS–ESMO–ESTRO Guidelines Working Group.
+Nasopharyngeal cancer: EHNS–ESMO–ESTRO Clinical Practice Guidelines for diagnosis,
+treatment and follow-up. Annals of Oncology. 2012 Oct 1;23(suppl 7):vii83-5.
+35.
+Huncharek M, Kupelnick B. Combined chemoradiation versus radiation therapy alone in locally
+advanced nasopharyngeal carcinoma: results of a meta-analysis of 1,528 patients from six
+randomized trials. Am J Clin Oncol. 2002 Jun;25(3):219-23.
+36.
+Baujat B, Audry H, Bourhis J, et al; MAC-NPC Collaborative Group. Chemotherapy as an adjunct
+to radiotherapy in locally advanced nasopharyngeal carcinoma. Cochrane Database Syst Rev.
+2006 Oct 18;(4):CD004329.
+37.
+Blanchard P, Lee A, Marguet S, et al; MAC-NPC Collaborative Group. Chemotherapy and
+radiotherapy in nasopharyngeal carcinoma: an update of the MAC-NPC meta-analysis. Lancet
+Oncol. 2015 Jun;16(6):645-55.
+38.
+Chen YP, Wang ZX, Chen L, et al. A Bayesian network meta-analysis comparing concurrent
+chemoradiotherapy followed by adjuvant chemotherapy, concurrent chemoradiotherapy alone
+and radiotherapy alone in patients with locoregionally advanced nasopharyngeal carcinoma. Ann
+Oncol. 2015 Jan;26(1):205-11.
+39.
+He X, Xu K, Guo J, et al. A meta-analysis of neoadjuvant chemotherapy plus radiation in the
+treatment of locally advanced nasopharyngeal carcinoma. J Cancer Res Ther. 2015 Oct;11
+Suppl 2:C205-8.
+40.
+OuYang PY, Xie C, Mao YP, et al. Significant efficacies of neoadjuvant and adjuvant
+chemotherapy for nasopharyngeal carcinoma by meta-analysis of published literature-based
+randomized, controlled trials. Ann Oncol. 2013 Aug;24(8):2136-46.
+CPG Management of Nasopharyngeal Carcinoma 2016
+41.
+Liang ZG, Zhu XD, Zhou ZR, et al. Comparison of concurrent chemoradiotherapy followed by
+adjuvant chemotherapy versus concurrent chemoradiotherapy alone in locoregionally advanced
+nasopharyngeal carcinoma: a meta-analysis of 793 patients from 5 randomized controlled trials.
+Asian Pac J Cancer Prev. 2012;13(11):5747-52.
+42.
+Bian X, Chen H, Liao L. A retrospective study of salvage surgery for recurrent nasopharyngeal
+carcinoma. Int J Clin Oncol. 2012 Jun;17(3):212-7.
+43.
+Hao SP, Tsang NM, Chang KP, et al. Nasopharyngectomy for recurrent nasopharyngeal
+carcinoma: a review of 53 patients and prognostic factors. Acta Otolaryngol. 2008 Apr;128(4):47381.
+44.
+Fee WE Jr, Moir MS, Choi EC, et al. Nasopharyngectomy for recurrent nasopharyngeal cancer:
+a 2- to 17-year follow-up. Arch Otolaryngol Head Neck Surg. 2002 Mar;128(3):280-4.
+45.
+Qiu S, Lu J, Zheng W, et al. Advantages of intensity modulated radiotherapy in recurrent T1-2
+nasopharyngeal carcinoma: a retrospective study. BMC cancer. 2014 Nov 3;14(1):1.
+46.
+Cheah SK, Lau FN, Yusof MM, et al. Treatment outcome with brachytherapy for recurrent
+nasopharyngeal carcinoma. Asian Pac J Cancer Prev. 2013 Jan 1;14(11):6513-8.
+47.
+Yeh SA, Tang Y, Lui CC, et al. Treatment outcomes of patients with AJCC stage IVC
+nasopharyngeal carcinoma: benefits of primary radiotherapy. Jpn J Clin Oncol. 2006
+Mar;36(3):132-6.
+48.
+Zheng W, Zong J, Huang C, et al. Multimodality Treatment May Improve the Survival Rate of
+Patients with Metastatic Nasopharyngeal Carcinoma with Good Performance Status. PLoS One.
+2016 Jan 12;11(1):e0146771.
+49.
+Booth DS, Davies A, editors. Palliative care consultations in head and neck cancer. Oxford
+University Press; 2006.
+50.
+Ministry of Health Malaysia. Management of Cancer Pain. Putrajaya: MOH; 2010.
+51.
+Silverman S. Oral cancer: complications of therapy. Oral Surgery, Oral Medicine, Oral Pathology,
+Oral Radiology, and Endodontology. 1999 Aug 31;88(2):122-6.
+52.
+Kumar N, Brooke A, Burke M, et al. The oral management of oncology patients requiring
+radiotherapy, chemotherapy and/or bone marrow transplantation. Faculty Dental Journal. 2013
+Oct;4(4):200-3.
+53.
+Xu YD, Ou YK, Zheng YQ, et al. The treatment for postirradiation otitis media with effusion: a
+study of three methods. Laryngoscope. 2008 Nov;118(11):2040-3.
+54.
+Patel A, Schwarz EB; Society of Family Planning. Cancer and contraception. Release date May
+2012. SFP Guideline #20121. Contraception. 2012 Sep;86(3):191-8.
+55.
+Wang WC, Chen YK, Lin LM. Oral care experiences with 181 nasopharyngeal carcinoma patients
+receiving radiotherapy in a Taiwanese hospital. Auris Nasus Larynx. 2008 Jun;35(2):2304.
+56.
+Schwarz E, Chiu GK, Leung WK. Oral health status of southern Chinese following head and neck
+irradiation therapy for nasopharyngeal carcinoma. J Dent. 1999 Jan;27(1):21-8.
+57.
+Epstein JB, Emerton S, Lunn R, et al. Pretreatment assessment and dental management of
+patients with nasopharyngeal carcinoma. Oral Oncol. 1999 Jan;35(1):33-9.
+58.
+McMillan AS, Pow EH, Leung WK, et al. Oral health-related quality of life in southern Chinese
+following radiotherapy for nasopharyngeal carcinoma. J Oral Rehabil. 2004 Jun;31(6):600-8.
+59.
+Hong CH, Napeñas JJ, Hodgson BD, et al; Dental Disease Section, Oral Care Study Group,
+Multi-national Association of Supportive Care in Cancer (MASCC)/International Society of Oral
+Oncology (ISOO). A systematic review of dental disease in patients undergoing cancer therapy.
+Support Care Cancer. 2010 Aug;18(8):1007-21.
+60.
+Rieke JW, Hafermann MD, Johnson JT, et al. Oral pilocarpine for radiation-induced xerostomia:
+integrated efficacy and safety results from two prospective randomized clinical trials. Int J Radiat
+Oncol Biol Phys. 1995 Feb 1;31(3):661-9.
+61.
+LeVeque FG, Montgomery M, Potter D, et al. A multicenter, randomized, double-blind, placebocontrolled, dose-titration study of oral pilocarpine for treatment of radiation-induced xerostomia in
+head and neck cancer patients. J Clin Oncol. 1993 Jun;11(6):1124-31.
+62.
+Davies AN, Thompson J. Parasympathomimetic drugs for the treatment of salivary gland
+dysfunction due to radiotherapy. The Cochrane Library. 2015.
+CPG Management of Nasopharyngeal Carcinoma 2016
+63.
+Hao SP, Chen HC, Wei FC, et al. Systematic management of osteoradionecrosis in the head and
+neck. Laryngoscope. 1999 Aug;109(8): 1324-7;discussion 1327-8.
+64.
+Qu S, Su Z, He X, et al. Closure of laryngotracheal cavity and tracheostomy for intractable
+aspiration secondary to radiation encephalopathy or radiation damage of cranial nerve after
+radiotherapy of nasopharyngeal carcinoma. Acta Otolaryngol. 2006 Sep;126(9):962-6.
+65.
+Quah BL, Ling YL, Cheong PY, et al. A review of 5 years' experience in the use of botulinium
+toxin A in the treatment of sixth cranial nerve palsy at the Singapore National Eye Centre.
+Singapore Med J. 1999 Jun;40(6):405-9.
+66.
+El-Sherbieny E, Rashwan H, Lubis SH, et al. Prognostic factors in patientswith nasopharyngeal
+carcinoma treated in Hospital Kuala Lumpur. Asian Pac J Cancer Prev. 2011;12(7):1739-43.
+67.
+Wei WI, Sham JS. Nasopharyngeal carcinoma. Lancet. 2005 Jun 11-17; 365(9476):2041-54.
+68.
+Teo PM, Leung SF, Yu P, et al. A comparison of Ho's, International Union Against Cancer, and
+American Joint Committee stage classifications for nasopharyngeal carcinoma. Cancer. 1991
+Jan 15;67(2):434-9.
+69.
+Wang CC, Chen ML, Hsu KH, et al. Second malignant tumors in patients with nasopharyngeal
+carcinoma and their association with Epstein‐Barr virus. International Journal of Cancer. 2000 Jul
+15;87(2):228-31.
+70.
+Chen MC, Feng IJ, Lu CH, et al. The incidence and risk of second primary cancers in patients
+with nasopharyngeal carcinoma: a population-based study in Taiwan over a 25-year period
+(1979–2003). Annals of oncology. 2008 Jun 1;19(6):1180-6.
+CPG Management of Nasopharyngeal Carcinoma 2016
+Appendix 1
+EXAMPLE OF SEARCH STRATEGY
+1.
+Nasopharyngeal Neoplasms/
+2.
+((neoplasm* or cancer* or carcinoma*) adj1 (nasopharynx or
+nasopharyngeal)).tw.
+3.
+1 or 2
+4.
+RADIOTHERAPY/
+5.
+(radiotherap* adj1 targeted).tw.
+6.
+radiotherap*.tw.
+7.
+Chemoradiotherapy/
+8.
+((concomitant
+or
+concurrent
+or
+synchronous)
+adj1
+(chemoradiotherap* or radiochemotherap*)).tw.
+9.
+chemoradiotherap*.tw.
+10. radiochemotherap*.tw.
+11. CHEMORADIOTHERAPY, ADJUVANT/
+12. (adjuvant adj1 (radiochemotherap* or chemoradiotherap*)).tw.
+13. 4 or 5 or 6 or 7 or 8 or 9 or 10 or 11 or 12
+14. 3 and 13
+15. limit 14 to (english language and humans and last 20 years)
+CPG Management of Nasopharyngeal Carcinoma 2016
+Appendix 2
+CLINICAL QUESTIONS
+1.
+What is the epidemiology of nasopharyngeal carcinoma?
+2.
+What are the risk factors of nasopharyngeal carcinoma?
+3.
+What are the clinical presentations of patient with nasopharyngeal
+carcinoma?
+4.
+What are the investigations for nasopharyngeal carcinoma?
+5.
+What are the staging modalities in nasopharyngeal carcinoma?
+6.
+What are the effective and safe treatments for various stages of
+nasopharyngeal carcinoma?
+7.
+What are the effective and safe supportive cares for patients with
+nasopharyngeal carcinoma?
+8.
+What are the effective and safe management of complications
+following treatment of nasopharyngeal carcinoma?
+9.
+What are the effective follow-up plans for patients with
+nasopharyngeal carcinoma?
+10. What are the effective and safe management of advanced disease
+(distant metastases) of nasopharyngeal carcinoma?
+CPG Management of Nasopharyngeal Carcinoma 2016
+Appendix 3
+CLINICAL PRESENTATIONS
+Figure 1 : Painless neck lumps
+Figure 2 : Recurrent NPC with
+Figure 3 : NPC with neck lump
+lymph node metastasis
+and trismus
+CPG Management of Nasopharyngeal Carcinoma 2016
+CLINICAL PRESENTATIONS
+Figure 4 : NPC with ptosis
+Figure 5 : NPC with
+ophthalmoplegia
+Figure 6 : NPC with neck lump and cranial nerve 12 palsy
+(tongue deviation)
+Appendix 3
+CPG Management of Nasopharyngeal Carcinoma 2016
+CLINICAL PRESENTATIONS
+Figure 7 : Normal nasopharynx on Figure 8 : Nasopharyngeal
+endoscopy
+carcinoma on
+endoscopy
+Figure 9 : Recurrent NPC pre- and post-endoscopic nasopharyngectomy.
+Endoscopic pictures in white light as compared with autoflourescence pictures in green.
+Appendix 3
+pre-op
+post-op
+CPG Management of Nasopharyngeal Carcinoma 2016
+Appendix 4
+TNM STAGING DIAGRAM
+CPG Management of Nasopharyngeal Carcinoma 2016
+CPG Management of Nasopharyngeal Carcinoma 2016
+Source : Edge SB, Byrd DR, Compton CC. American Joint Committee on Cancer,
+American Cancer Society: AJCC Cancer Staging Manual (7th edition).
+Springer, New York. 2009.
+CPG Management of Nasopharyngeal Carcinoma 2016
+NASOPHARYNX STAGING FORM
+Source : Edge SB, Byrd DR, Compton CC. American Joint Committee on Cancer,
+American Cancer Society: AJCC Cancer Staging Manual (7th edition).
+Springer, New York. 2009.
+Nasopharynx
+Oropharynx
+Hypopharynx
+Thyroid cartilage
+Post. lamina of cricoid cartilage
+Ant. arch of cricoid cartilage
+IIIustration
+Indicate on diagram primary
+tumor and regional nodes
+involved.
+1.
+2.
+3.
+4.
+5.
+Appendix 4
+CPG Management of Nasopharyngeal Carcinoma 2016
+Appendix 5
+RADIOLOGICAL STAGING
+Primary Tumour (T staging)
+Figure 1 : T1 - Left
+nasopharyngeal
+mass confined
+within the
+nasopharyngeal
+mucosal space.
+Figure 2 : T2 - Extension of
+the left nasopharyngeal mass into the
+parapharyngeal
+space. (Source :
+King AD, Bhatia KS.
+Magnetic resonance
+imaging staging of
+nasopharyngeal
+carcinoma in the head
+and neck. World J
+Radiol. 2010 May
+28;2(5):159-65.)
+Figure 3 : T3 - Extension of the
+mass into the floor
+of the left sphenoid
+sinus
+Figure 4 : T4 - Left masticator
+space involvement
+CPG Management of Nasopharyngeal Carcinoma 2016
+Figure 5 : N1 - Unilateral left
+cervical lymph
+nodes involvement
+Figure 4 : N1 - Bilateral
+retropharyngeal lymph
+nodes involvement
+Nodal staging (N staging)
+Figure 7 : N2 - Bilateral enlarged
+cervical and right
+submandibular lymph
+nodes (Source :
+King AD, Bhatia KS.
+Magnetic resonance
+imaging staging of
+nasopharyngeal
+carcinoma in the head
+and neck. World J
+Radiol. 2010 May
+28;2(5):159-65.)
+Figure 8 : N3a - Left cervical
+lymph nodes
+measuring more
+than 6 cm.
+Figure 9 : N3b - Left
+supraclavicular lymph
+nodes involvement
+CPG Management of Nasopharyngeal Carcinoma 2016
+Appendix 6
+CHEMOTHERAPY DRUGS AND SIDE EFFECTS
+CHEMOTHERAPY
+DRUGS
+SIDE EFFECTS
+REMARKS
+Cisplatin
+•
+Gastrointestinal (nausea and vomiting).
+•
+Blood (anaemia, thrombocytopaenia).
+•
+Renal toxicity.
+•
+Electrolyte imbalance (hypomagnesaemia, hypocalcaemia,
+hypokalaemia).
+•
+Auditory (tinnitus; with or without hearing loss).
+•
+Neurology (peripheral neuropathy, paraesthesia, seizure).
+•
+Hypersensitivity reaction (shortness of breath, hypotension, facial oedema,
+flushing).
+•
+Observe for cumulative renal toxicity. It may be minimised by
+adequate hydration and urinary output at least 24 hours after
+administration.
+•
+Prophylactic anti-emetics and corticosteroids should be given.
+•
+Observe for anaphylactic-like reactions during infusion.
+Carboplatin
+•
+Blood (anaemia, thrombocytopaenia, neutropaenia).
+•
+Gastrointestinal (nausea and vomiting).
+•
+Hypersensitivity reaction (rash, facial oedema).
+•
+Electrolyte imbalance (hypomagnesaemia, hyponatraemia, hypokalaemia).
+•
+Hepatotoxicity (elevated ALP, AST).
+•
+Obtain baseline renal function, then monitor renal function at
+every cycle.
+•
+Prophylactic anti-emetics and corticosteroids should be given.
+•
+Observe for anaphylactic-like reactions during infusion; increased
+risk with prior platinum therapy.
+Fluorouracil
+•
+Gastrointestinal (diarrhoea, stomatitis, oesophagitis, heart burn).
+•
+Blood (anaemia, leucopenia, thrombocytopaenia).
+•
+Cardiovascular (angina, myocardial infarction, arrhythmia, acute
+pulmonary oedema).
+•
+Dermatological (alopecia, dermatitis, hand-foot syndrome).
+•
+Prophylactic anti-emetics and corticosteroids should be given.
+•
+Use with caution in patients who are receiving radiation or
+received high-dose pelvic radiation or previously treated with
+alkylating agents. These patients may have increased risk of
+toxicity.
+•
+Use cautiously in patients with history of heart disease.
+•
+Monitor for hand-foot syndrome.
+Docetaxel
+•
+Blood (neutropaenia, anaemia, thrombocytopaenia).
+•
+Cardiovascular (fluid retention).
+•
+Dermatological (alopecia, cutaneous reaction, nail changes).
+•
+Gastrointestinal (stomatitis, diarrhoea, nausea and vomiting).
+•
+Hypersensitivity reaction (hypotension, bronchospasm, rash).
+•
+Pre- and post-treatment with corticosteroid is recommended to
+decrease fluid retention and hypersensitivity reaction.
+•
+Prophylactic anti-emetics should be given.
+•
+Observe for anaphylactic-like reactions and extravasationduring
+infusion.
+*To monitor FBC, LFT, RP and serum electrolytes prior to every cycle of chemotherapy.
+Source:1. Ministry of Health & Ministry of Higher Education Malaysia. Systemic Therapy of Cancer 3rd Edition. Putrajaya: MoH & MoHE; 2011
+2. Micromedex Solutions, Truven Health Analytics Inc. MIMS Gateway Service Portal. Available at: http://www.mimsgateway.com/Malaysia/
+Online.aspx
+CPG Management of Nasopharyngeal Carcinoma 2016
+Appendix 7
+EASTERN COOPERATIVE ONCOLOGY GROUP (ECOG)
+PERFORMANCE STATUS
+Source : Oken MM, Creech RH, Tormey DC, et al. Toxicity and response criteria of the
+Eastern Cooperative Oncology Group. Am J Clin Oncol. 1982 Dec;5(6):64955
+Grade
+0
+1
+2
+3
+4
+5
+Description
+Fully active, able to carry on all pre-disease
+performance without restriction
+Restricted in physically strenuous activity but ambulatory
+and able to carry out work of a light or sedentary nature,
+such as light house work and office work
+• Ambulatory and capable of all self-care but unable to
+carry out any work activities
+• Up and about more than 50% of waking hours
+Capable of only limited self-care, confined to bed or
+chair more than 50% of waking hours
+• Completely disabled
+• Cannot carry on any self-care
+• Totally confined to bed or chair
+Dead
+EASTERN COOPERATIVE ONCOLOGY GROUP (ECOG)
+PERFORMANCE STATUS
+CPG Management of Nasopharyngeal Carcinoma 2016
+Source : 1. Trotti A, Byhardt R, Stetz J, et al. Common toxicity criteria: version 2.0.
+an improved reference for grading the acute effects of cancer treatment:
+impact on radiotherapy. International Journal of Radiation Oncology*
+Biology* Physics. 2000 Apr 1;47(1):13-47.
+2. Zeng L, Tian YM, Sun XM, et al. Late toxicities after intensity-modulated
+radiotherapy for nasopharyngeal carcinoma: patient and treatment-related
+risk factors. Br J Cancer. 2014 Jan 7;110(1):49-54.
+Appendix 8
+TOXICITIES OF RADIOTHERAPY ON HEAD AND NECK
+ACUTE TOXICITIES
+• Lethargy
+• Radiation dermatitis
+• Mucositis
+• Dysphagia
+• Taste changes
+• Nausea and vomiting
+• Haematological toxicities
+(neutropaenia)
+LATE TOXICITIES
+Neurological Complications
+Temporal lobe injuries
+Cranial nerve palsies
+Lhermitte’s syndrome
+Non-neurological Complications
+Tinnitus
+Hearing loss
+Otorrhea
+Trismus
+Dysphagia
+Subcutaneous fibrosis
+Endocrinopathy
+- primary hypothyroidism
+- hypopituitarism
+Xerostomia
+Second cancer within
+radiotherapy fields
+CPG Management of Nasopharyngeal Carcinoma 2016
+LIST OF ABBREVIATIONS
+AC
+Adjuvant chemotherapy
+CCRT
+Concurrent chemoradiotherapy
+CI
+Confidence interval
+CPG
+Clinical practice guidelines
+CT
+Computed tomography
+DG
+Development Group
+EBV
+Ebstein-Barr virus
+ECG
+Electrocardiogram
+ECOG
+Eastern Cooperative Oncology Group
+18F-FDG
+18F-Fluorodeoxyglucose
+FNAC
+Fine needle aspiration cytology
+HR
+Hazards ratio
+IMRT
+Intensity modulated radiotherapy
+LRFS
+Locoregional failure survival
+MRI
+Magnetic resonance imaging
+MoH
+Ministry of Health
+NACT
+Neoadjuvant chemotherapy
+NPC
+Nasopharyngeal carcinoma
+OME
+Otitis media with effusion
+OR
+Odds ratio
+OS
+Overall survival
+PET
+Positron emission tomography
+PFS
+Progression free survival
+RC
+Review committee
+RCT
+Randomised controlled trial
+RR
+Relative risk / risk ratio
+RT
+Radiotherapy
+SCC
+Squamuous cell carcinoma
+SR
+Systematic review
+TFT
+Thyroid function test
+WHO
+World Health Organization
+CPG Management of Nasopharyngeal Carcinoma 2016
+ACKNOWLEDGEMENT
+The DG members of these guidelines would like to express their
+gratitude and appreciation to the following for their contributions:-
+• Datin Dr. Rugayah Bakri, former Deputy Director, MaHTAS
+• Dr. Mohd. Zabri Affendi Muhamad, Otorhinolaryngologist
+• Matron Loong Ah Moi and Sister Rosnani Abdul Latip
+• Panel of external reviewers who have reviewed the draft
+• Technical Advisory Committee for CPG for their valuable input
+and feedback
+• All those who have contributed directly or indirectly to the
+development of the CPG
+DISCLOSURE STATEMENT
+The panel members of both Development Group and Review Committee
+had completed disclosure forms. None held shares in pharmaceutical
+firms or acts as consultants to such firms. (Details are available upon
+request from the CPG Secretariat)
+SOURCE OF FUNDING
+The development of the CPG on Management of Nasopharyngeal
+Carcinoma was supported financially in its entirety by the Ministry of
+Health Malaysia.
+Malaysia Health Technology
+‘Assessment Section
+(MaHTAS)
+Medical Development Division,
+‘Ministry Of Health Malaysia
+Level 4, Block E, Precinct 1,
+(62590 Putrajaya Malaysia

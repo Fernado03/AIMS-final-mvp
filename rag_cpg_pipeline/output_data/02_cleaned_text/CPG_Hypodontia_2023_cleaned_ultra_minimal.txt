@@ -1,0 +1,2411 @@
+Clinical Practice Guidelines
+MANAGEMENT OF
+IYPODONTIA
+(SECOND EDITION)
+Management of Hypodontia (Second Edition)
+Published by:
+Oral Health Technology Section
+Oral Health Programme
+Ministry of Health Malaysia
+Level 5, Block E10, Precinct 1
+Federal Government Administrative Centre
+62590 Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is Oral Health Programme
+(OHP), Ministry of Health (MOH) Malaysia. Content may be reproduced
+in any number of copies and in any format or medium provided that
+a copyright acknowledgement to OHP is included and the content is
+not changed, not sold, nor used to promote or endorse any product or
+service and not used inappropriately or misleading context.
+ISBN: 978-629-98561-8-4
+Available on the following websites:
+http://www.moh.gov.my
+http://www.acadmed.org.my
+https://hq.moh.gov.my/ohp/ms/
+Also available as an app for Android and iOS platform: MyMaHTAS
+STATEMENT OF INTENT
+These guidelines update and supplant the previous guidelines
+developed in 2012 and are based on the best available contemporary
+evidence. They are intended as a guide for the best clinical practice in
+the management of hypodontia presently. However, it must be noted
+that adherence to these guidelines do not necessarily lead to the best
+clinical outcome in individual patient care, as every health care provider
+is responsible for the management of his/her unique patient based on
+the clinical presentation and management options available locally.
+REVIEW OF THE GUIDELINES
+These guidelines were issued in November 2023 and will be reviewed
+in 2027 or earlier if important new evidence becomes available. When
+it is due for updating, the head of the related specialty will be informed
+about it. A multidisciplinary team will be formed and discussion will be
+done on the need for a revision including the scope of the revised clinical
+practice guidelines (CPG). The systematic review methodology used by
+the Malaysia Health Technology Assessment Section (MaHTAS) will be
+employed in reviewing the guidelines.
+Every care is taken to ensure that this publication is correct in every
+detail at the time of publication. However, in the event of errors or
+omissions, corrections will be published in the web version of this
+document, which is the definitive version at all times.
+Management of Hypodontia (Second Edition)
+TABLE OF CONTENTS
+No.
+Title
+Page
+LEVELS OF EVIDENCE
+i
+FORMULATION OF RECOMMENDATION
+i
+LIST OF KEY MESSAGES
+ii
+LIST OF RECOMMENDATIONS
+iv
+GUIDELINES DEVELOPMENT
+v
+OBJECTIVES AND CLINICAL QUESTIONS
+vii
+TARGET POPULATION, TARGET GROUP / USER
+AND SETTINGS
+DEVELOPMENT GROUP
+viii
+REVIEWERS
+ix
+ALGORITHM 1: Diagnosis of Hypodontia
+xi
+ALGORITHM 2: Management of Hypodontia by
+xii
+Multidisciplinary Team
+1.
+INTRODUCTION
+1
+2.
+CLASSIFICATION
+3
+3.
+AETIOLOGY
+4
+3.1 Genetic Factors
+4
+3.2 Environmental Factors
+5
+4.
+PREVALENCE
+7
+5.
+EXAMINATION AND DIAGNOSIS
+9
+5.1 General Assessment
+9
+5.1.1 Patient’s Complaint
+9
+5.1.2 History
+9
+5.2 Clinical Assessment
+9
+5.2.1 Clinical Examination
+9
+5.2.2 Investigation
+13
+5.3 Referral
+15
+5.4 Pre-treatment Record
+16
+6.
+MANAGEMENT
+17
+6.1 Conservative Treatment
+17
+6.2 Interceptive Treatment
+19
+6.3 Management by Space Closure
+20
+6.3.1 Orthodontic Space Closure
+21
+6.3.2 Modification of Tooth Size and Shape
+23
+6.4 Management by Space Opening
+24
+6.4.1 Orthodontic Space Opening
+Management of Hypodontia (Second Edition)
+TABLE OF CONTENTS
+No.
+Title
+Page
+6.4.2 Rehabilitation with Prosthetic Replacement
+25
+6.4.3 Autotransplantation
+28
+7.
+POST-ORTHODONTIC TREATMENT RETENTION
+31
+7.1 Removable Retainer
+31
+7.2 Fixed Retainer
+33
+8.
+IMPACT ON ORAL HEALTH RELATED
+35
+QUALITY OF LIFE (OHRQoL)
+9.
+IMPLEMENTING THE GUIDELINES
+37
+9.1 Facilitating and Limiting Factors
+37
+9.2 Potential Resource Implications
+37
+9.3 Proposed Clinical Audit Indicators
+37
+APPENDIX 1: Search Strategy
+39
+APPENDIX 2: Clinical Questions
+40
+APPENDIX 3: International Classification of Diseases
+41
+11th Revision (ICD-11)
+APPENDIX 4: Tooth Eruption Charts
+42
+APPENDIX 5: The Dental Health Component of Index of
+43
+Orthodontic Treatment Need (IOTN)
+APPENDIX 6: Summary Management of Hypodontia
+44
+LIST OF ABBREVIATIONS
+45
+ACKNOWLEDGEMENTS, DISCLOSURE
+46
+STATEMENT AND SOURCES OF FUNDING
+REFERENCES
+Management of Hypodontia (Second Edition)
+i
+Level
+I
+II-1
+II-2
+II-3
+III
+Study design
+Evidence obtained from at least one properly designed
+randomised controlled trial.
+Evidence obtained from well-designed controlled trials
+without randomisation.
+Evidence obtained from well-designed cohort or case-control
+analytic studies, preferably from more than one center or
+research group.
+Evidence obtained from multiple time series studies, with
+or without intervention. Dramatic results in uncontrolled
+experiments (such as the results of the introduction of
+penicillin treatment in the 1940s) could also be regarded as
+this type of evidence.
+Opinions or respected authorities, based on clinical
+experience; descriptive studies and case reports; or reports
+of expert committees.
+Source: Adapted from Harris RP, Helfand M, Woolf SH, Lohr KN, Mulrow CD, Teutsch SM, Atkins
+D. Current Methods of the U.S. Preventive Services Task Force: A Review of the Process.
+Am J Prev Med. 2001;20 (suppl 3):21-35.
+FORMULATION OF RECOMMENDATION
+In line with the current development in CPG methodology, the Grading
+Recommendations, Assessment, Development and Evaluation
+(GRADE) was adopted in the work process. The quality of each retrieved
+evidence and its effect size are carefully assessed and reviewed by the
+CPG Development Group. In formulating the recommendations, overall
+balances of the following aspects are considered in determining the
+strength of the recommendations:
+• overall quality of evidence
+• balance of benefits versus harms
+• values and preferences
+• resource implications
+• equity, feasibility and acceptability
+LEVELS OF EVIDENCE
+Management of Hypodontia (Second Edition)
+ii
+LIST OF KEY MESSAGES
+Key Message 1
+Hypodontia is suspected when there is:
+• 1.5 years delayed eruption from its chronological eruption age
+• 6 months delay after contralateral tooth erupted
+• absence of bulge upon palpation of eruption site
+• prolonged retained deciduous teeth
+• a family history of hypodontia
+• history of congenitally missing deciduous teeth
+• anomalies associated with hypodontia seen (refer to Table 4)
+Key Message 2
+Hypodontia is categorised under Grade 5 and 4 in IOTN which
+indicates a high need for orthodontic treatment.
+Key Message 3
+Comprehensive treatment requiring space management of hypodontia
+patients should be managed by a multidisciplinary team.
+Key Message 4
+Factors to determine prognosis of retained deciduous teeth are:
+• caries
+• restoration
+• root resorption
+• bone resorption
+• periapical or interradicular pathology
+• ankylosis
+• infraocclusion
+• gingival recession
+Key Message 5
+Factors to be considered prior to implant placement in hypodontia patient:
+• medical condition
+• completion of growth
+• oral hygiene
+• thickness of ridge or bone volume at hypodontia site
+• diameter of dental implant
+• space availability
+• root parallelism
+• operator’s skill
+• cost
+Management of Hypodontia (Second Edition)
+iii
+Key messages 6
+Factors to be considered when prescribing types of retainers for
+hypodontia patients are:
+• initial malocclusion
+• treatment modality (open space or close space)
+• tendency of relapse
+• oral hygiene
+• patients’ compliance
+• patients’ preference
+• operator’s skill & laboratory support
+• cost
+Key message 7
+Hypodontia has a negative impact on oral health-related quality of life
+(OHRQoL) however, it can be improved with appropriate management.
+Management of Hypodontia (Second Edition)
+iv
+LIST OF KEY RECOMMENDATIONS
+EXAMINATION AND DIAGNOSIS
+• In hypodontia patients:
+ intraoral radiograph should be considered once a tooth is clinically
+missing
+ panoramic radiograph should be delayed until age of 9 to 10 years
+old
+• Cone Beam Computed Tomography should be avoided as a
+diagnostic tool for hypodontia patients
+• Early referral should be considered once hypodontia is diagnosed
+• Essential pre-treatment records may include panoramic and lateral
+cephalometric radiographs, dental casts, intra- and extra-oral
+photographs
+MANAGEMENT
+In hypodontia patients:
+• preservation of deciduous teeth may be considered as an option
+• extraction of deciduous teeth with infraocclusion may be considered
+• orthodontic space closure should be considered if both orthodontic
+space closure and prosthetic replacement is a viable option
+• premolars with open apex may be considered for autotransplantation
+POST-ORTHODONTIC TREATMENT RETENTION
+Dual retention may be considered among hypodontia patients with high
+relapse tendency.
+Management of Hypodontia (Second Edition)
+v
+GUIDELINES DEVELOPMENT
+These clinical practice guidelines (CPG) were developed by a
+multidisciplinary expert committee consisting of Orthodontic Specialists,
+a Paediatric Dental Specialist, a Restorative Dental Specialist, a Dental
+Public Health Specialist, Dental Officers and a Dental Therapist mainly
+from the Ministry of Health, Ministry of Higher Education and private
+sector.
+The previous edition of the CPG on Orthodontic Management of
+Developmentally Missing Incisors (2012) was used as the basis for
+the development of these guidelines. The recommendations were
+formulated by taking into consideration the best available evidence and
+local practices. Several improvements have been introduced in this
+edition. The scope has been expanded to include new and updated
+information. In addition, clinical audit indicators have also been identified
+for the purpose of monitoring and evaluating outcomes.
+Literature search was carried out using the following electronic
+databases: Medline, Pubmed, Cochrane Database of Systematic
+Reviews (CDSR) and Embase while full text journal articles were
+retrieved from these databases. The literature search was limited to
+human study, English language and published articles from 2012 to
+March 2023. In addition, the reference lists of all retrieved literature and
+guidelines were searched to further identify relevant studies. Future
+CPG updates will consider evidence published after this cut-off date.
+An example of the search strategy used can be found in Appendix 1.
+Details of the search strategy can be obtained upon request from the
+CPG Secretariat.
+There were eleven (11) clinical questions which were assigned to
+members of the development group. The group members met a total of
+12 times throughout the development of these guidelines. All retrieved
+articles were appraised using the Critical Appraisal Skill Programme
+(CASP) checklist by at least two members, presented in the form of
+evidence tables and discussed during group meetings. All statements
+and recommendations formulated were agreed upon by both the
+development group and reviewers. This CPG is based on the findings
+of systematic reviews, randomised controlled trials, and observational
+studies, with local practices taken into consideration. However,
+when there was lack of evidence, recommendations were based on
+consensus of group members. Although ideally patients’ views and
+preferences need to be considered in the development of CPGs, in this
+instance, it was not feasible.
+The literature used in these guidelines were graded using the US /
+Canadian Preventive Services Task Force Level of Evidence (2001),
+Management of Hypodontia (Second Edition)
+vi
+while the formulation of recommendation was done using the principles
+of GRADE. The writing of the CPG strictly follows the requirements of
+Appraisal of Guidelines Research and Evaluation (AGREE II).
+The draft was reviewed by a panel of internal and external reviewers.
+Recommendations were presented to the Technical Advisory Committee
+for CPGs, and finally to the HTA and CPG Council, Ministry of Health,
+Malaysia for approval.
+Management of Hypodontia (Second Edition)
+vii
+GENERAL OBJECTIVES
+To review and expand the scope of the existing guidelines and to
+provide evidence-based recommendations for the best management
+practices of hypodontia patients.
+SPECIFIC OBJECTIVES
+1. To disseminate and reinforce knowledge in the management of
+hypodontia among healthcare professionals and the public.
+2. To determine factors that affect the outcome of treatment options for
+hypodontia patients.
+3. To recommend current evidence-based management of hypodontia
+patients.
+CLINICAL QUESTIONS
+The clinical questions addressed by these guidelines can be found in
+Appendix 2.
+TARGET POPULATION
+These guidelines are to be applied to all patients presenting with
+congenitally missing teeth.
+Inclusion criteria
+Children and adults with congenitally missing permanent teeth.
+Exclusion criteria
+1. Cleft lip and palate or craniofacial syndromes.
+2. Missing teeth due to caries or trauma.
+3. Congenitally missing deciduous teeth.
+4. Congenitally missing third molars.
+TARGET GROUP / USER
+This document is intended to guide those involved in the management
+of hypodontia at any healthcare level including:
+i. Dental specialists
+ii. Dental officers
+iii. General dental practitioners
+iv. Dental therapists
+v. Dental students
+vi. Patients and their advocates
+vii. Professional societies
+SETTINGS
+Primary and specialist oral healthcare settings.
+Management of Hypodontia (Second Edition)
+viii
+DEVELOPMENT GROUP
+Chairperson
+Dr Hjh Ummu Aiman bt Yusoff
+Orthodontic Specialist
+Klinik Pakar Ortodontik
+Jalan Meriam, Muar, Johor
+Members
+Dr Nadia Izyan bt Muhamad Sabri
+(Secretary)
+Orthodontic Specialist
+Unit Ortodontik
+Klinik Pergigian Pekan Nanas
+Pontian, Johor
+Dr Nor Ziana bt Ibrahim
+Restorative Dental Specialist
+Unit Pakar Pergigian Restoratif
+Klinik Pergigian Kapar
+Klang, Selangor
+Dr Zubaidah bt Mohammad Zubir
+Orthodontic Specialist
+Unit Ortodontik
+Klinik Pergigian Kluang
+Kluang, Johor
+Dr Thavamalar A/P Marimuthoo
+Paediatric Dental Specialist
+Jabatan Pergigian Pediatrik
+Hospital Melaka, Melaka
+Dr Noor Akmal bt Muhamat
+Dental Public Health Specialist
+Pejabat Kesihatan Pergigian Daerah
+Petaling, Selangor
+Dr Muhammad Zahran b Abd Razak
+Dental Officer
+Klinik Pergigian Penjara Kluang
+Jabatan Penjara Malaysia
+Kementerian Dalam Negeri
+Puan Norizan bt Alwai @ Alwi
+Senior Dental Therapist
+Klinik Pergigian Bandar Maharani
+Muar, Johor
+Assoc. Prof. Dr Asma Alhusna bt
+Abang Abdullah
+Senior Lecturer/ Orthodontic Specialist
+Jabatan Pergigian Pediatrik dan Ortodontik
+Fakulti Pergigian
+Universiti Sains Islam Malaysia
+Dr Noorunisa bt Shawal Hamid
+Orthodontic Specialist
+Klinik Pergigian Aimi, Pakar Ortodontik
+Bandar Sunway
+Petaling Jaya, Selangor
+Dr Siti Aishah bt Salim
+Orthodontic Specialist
+Klinik Pakar Pergigian Ortodontik
+Kota Setar
+Alor Setar, Kedah
+Dr Noor Azreen bt Mohd Nor @ Mohd
+Orthodontic Specialist
+Head of Orthodontic Unit
+Klinik Pergigian Jalan Perak
+Pulau Pinang
+Dr Nur Auliana bt Tan Sri Zainul Ariff
+Orthodontic Specialist
+Unit Ortodontik
+Klinik Pergigian Seksyen 19
+Shah Alam, Selangor
+Dr Parveen A/P Thanabalen
+Senior Principal Assistant Director
+Cawangan Teknologi Kesihatan Pergigian
+Program Kesihatan Pergigian
+Kementerian Kesihatan Malaysia
+Management of Hypodontia (Second Edition)
+ix
+INTERNAL REVIEWERS
+The draft guidelines were reviewed by a panel of experts. They were
+asked to comment primarily on the comprehensiveness and accuracy
+of the interpretation of evidence supporting the recommendations in the
+guidelines.
+Chairperson
+Dr. Hjh Fatimah bt Abdullah
+Head of Orthodontic Speciality Services
+Consultant Orthodontist
+Unit Pakar Ortodontik
+Klinik Pergigian Cahaya Suria, Kuala Lumpur
+Members (in alphabetical order)
+Prof. Dr Aida Nur Ashikin bt Abd
+Rahman
+Dean / Consultant Orthodontist
+Fakulti Pergigian
+Universiti Teknologi MARA
+Dr Leong Kei Joe
+Paediatric Dental Consultant
+Jabatan Pergigian Pediatrik
+Hospital Queen Elizabeth,
+Kota Kinabalu
+Dr Mastura bt Misran
+General Dental Practitioner
+Klinik Pergigian Mastura
+Klang, Selangor
+Assoc. Prof. Dr Noor Azlin bt Yahya
+Senior Lecturer/ Restorative Dental
+Specialist
+Jabatan Pergigian Restoratif
+Fakulti Pergigian, Universiti Malaya
+Dr Norzakiah bt Mohamed Zam Zam
+Orthodontic Specialist
+Klinik Pergigian & Pakar Ortodontik
+Dental Avenue
+Subang Jaya, Selangor
+Dr Nurul Hayati bt Anwar
+Dental Public Health Specialist
+Cawangan Penjagaan Kesihatan
+Pergigian Kepakaran,
+Program Kesihatan Pergigian
+Kementerian Kesihatan Malaysia
+Dr Roshima bt Mohd Sharif
+Head of Restorative Speciality Services
+Restorative Dental Consultant
+Unit Pakar Restoratif
+Klinik Pergigian Cahaya Suria
+Kuala Lumpur
+Prof. Dr Siti Adibah bt Othman
+Consultant Orthodontist /
+Vice President of Malaysian Association
+of Orthodontist (MAO)
+Jabatan Pergigian Pediatrik & Ortodontik,
+Universiti Malaya
+Dr Sofiah bt Mat Ripen
+Dental Public Health Specialist /
+Deputy Director
+Cawangan Teknologi Kesihatan Pergigian
+Program Kesihatan Pergigian
+Kementerian Kesihatan Malaysia
+Ms. Too Bee Kiew
+State Supervisor Dental Therapist
+Bahagian Kesihatan Pergigian
+Wilayah Persekutuan Kuala Lumpur &
+Putrajaya
+Management of Hypodontia (Second Edition)
+x
+EXTERNAL REVIEWERS
+The following external reviewers provided feedback on the draft:
+(in alphabetical order)
+Assoc. Prof Dr Budi Aslinie Md. Sabri
+Deputy Dean of Research and
+Industrial Linkages /
+Dental Public Health Specialist
+Fakulti Pergigian
+Universiti Teknologi MARA
+Dr Eizatul Aishah bt Berhan Nordin
+Paediatric Dental Specialist
+Jabatan Pergigian Pediatrik
+Hospital Pulau Pinang
+Georgetown, Pulau Pinang
+Dr Jama’iah Bt Mohd Sharif
+Paediatric Dental Consultant
+Dental Centre, Sunway Medical Centre
+Faculty Of Dentistry, International
+Medical University (visiting)
+Dr Loke Shuet Toh
+Consultant Orthodontist
+Klinik Pergigian C & K
+Klang, Selangor
+Dr Muhammad Zulkefli b Ramlay
+Dental Public Health Specialist /
+Senior Principal Assistant Director
+(Oral Health Care)
+Bahagian Kesihatan Pergigian
+Jabatan Kesihatan Negeri Selangor
+Dr Norazlina Mohammad
+Senior Lecturer / Restorative Dental
+Specialist
+Department of Conservative Dentistry &
+Prosthodontics
+Faculty of Dentistry
+Universiti Sains Islam Malaysia
+Dr Nor Sitah bt Markom
+Restorative Dental Specialist
+Unit Pakar Pergigian Restoratif
+Klinik Pergigian Bakri
+Muar, Johor
+Dr Roziana bt Abdullah
+Paediatric Dental Specialist
+Jabatan Pergigian Pediatrik
+Hospital Ampang
+Selangor
+Dr Sarah Haniza bt Dato’ Abdul Ghani
+Senior Consultant Orthodontist
+Klinik Pakar Pergigian Ortodontik Dr Sarah
+Wilayah Persekutuan Kuala Lumpur
+Prof. Dr Zamri b Radzi
+Dean / Consultant Orthodontist &
+Treasurer, South East Asia Association for
+Dental Education (SEAADE)
+Jabatan Pergigian Pediatrik & Ortodontik
+Fakulti Pergigian, Universiti Malaya
+Management of Hypodontia (Second Edition)
+ALGORITHM 1: DIAGNOSIS OF HYPODONTIA
+xi
+Clinically
+missing teeth
+Unerupted
+Review eruption
+3 to 6 months
+Presence
+of clinical
+features*
+*Any presence of
+clinical features of
+hypodontia:
+• 1.5 years delayed
+eruption
+• 6 months after
+contralateral tooth
+erupted
+• Absence of bulge
+• Prolonged retained
+deciduous tooth
+Diagnostic imaging
+Regular dental check-up
+Presence of teeth
+No
+Yes
+Yes
+Differential Diagnosis:
+• Delayed eruption
+• Impaction
+• Pathology
+Hypodontia**
+** Refer to any
+relevant dental
+specialist
+Erupted
+Management of Hypodontia (Second Edition)
+xii
+ALGORITHM 2 : MANAGEMENT OF HYPODONTIA BY
+MULTIDISCIPLINARY TEAM
+Hypodontia
+Active treatment
+*Patient and clinical
+assessment with IOTN
+4h & 5h
+**Factors to be considered
+Refer chapter 6.3 & 6.4
+Conservative
+treatment:
+• Preservation of
+deciduous teeth
+• Acceptance of
+occlusion &
+function
+Space opening
+• Orthodontic
+• Prosthetic
+replacement
+• Autotransplant
+Treatment need*
+Interceptive
+treatment
+Space
+management**
+Extraction of
+deciduous teeth
+Require
+comprehensive
+treatment
+Space Closure
+• Orthodontic
+• Restorative
+Yes
+Yes
+Yes
+No
+No
+No
+Retention and follow-up
+Management of Hypodontia (Second Edition)
+Management of Hypodontia (Second Edition)
+1.
+INTRODUCTION
+Hypodontia is a condition characterised by the congenital absence of
+one or more teeth.(1) It is also known as “congenital tooth agenesis”,
+specifically defined by the terms hypodontia, oligodontia and anodontia.
+According to The International Classification of Diseases 11th Revision
+(ICD-11), hypodontia is defined as congenital agenesis of less than 6
+teeth, oligodontia is when 6 or more teeth are missing and anodontia is
+when agenesis of all teeth, excluding third molars.(2)
+It is a relatively common developmental anomaly that affects globally
+with prevalence of 6.4% (95% CI 5.7 to 7.2%) and 6.3% in Asia (95%
+CI 4.4 to 9.1%).(3) level II-2 However, prevalence among the Malaysian
+population was 1%.(4) level III This condition can occur in both deciduous
+and permanent dentitions and the most commonly affected teeth are
+the permanent incisors and premolars. The aetiology of congenital
+tooth agenesis is multifactorial.
+Hypodontia has unfavorable implications on dental and facial
+development particularly on functional and aesthetic outcomes. It can
+lead to problems with speech, mastication and self-esteem which may
+require complex and costly dental treatments. Patients may present
+with varying degrees of severity, prompting them to seek possible
+treatment. Hypodontia has been shown to have an impact on the oral
+health and well-being of individuals.
+Early intervention and/or interceptive management can reduce the
+severity of malocclusion and preserve dental structures necessary for
+restorative/prosthesis procedures later.(5) Treatment approach whether
+to open or close space for the replacement of the missing tooth
+depends on various parameters involving dento-skeletal profile, type
+of malocclusion, space availability, age and cooperation of the patient,
+periodontal health as well as financial issues.
+Hypodontia patients may require a multidisciplinary treatment approach
+involving orthodontist, paediatric dental specialist, restorative dental
+specialist and other dental specialties. Thus, understanding the
+aetiology, diagnosis and management of hypodontia is crucial for dental
+professionals to facilitate appropriate care.
+This updated review of the clinical practice guidelines (CPG) takes into
+account recent treatment modalities in the management of hypodontia
+patients, incorporating the aforementioned issues by embracing
+evidence-based decision making. It is anticipated that this new CPG
+will serve as a valuable resource for healthcare providers at all levels
+of care, enabling them to effectively manage patients with hypodontia.
+Management of Hypodontia (Second Edition)
+This CPG is also essential to create awareness and knowledge among
+patients and guardians.
+In this edition of CPG, more clinical questions were added to address the
+advances in the management of hypodontia, and its scope broadened,
+to include all permanent teeth rather than confining to missing incisors.
+Management of Hypodontia (Second Edition)
+ICD-11 (CODE)
+Classification Number of missing teeth
+All deciduous and permanent teeth
+Less than 6 permanent teeth
+6 and more permanent teeth
+Anodontia
+Hypodontia
+Oligodontia
+LA30.0
+LA30.1
+LA30.2
+2.
+CLASSIFICATION
+There are many ways to classify congenitally missing teeth. The
+International Classification of Diseases 11th Revision (ICD-11) released
+in 2022, described; Refer to Appendix 3. Classification of hypodontia
+based on ICD-11 is summarised in Table 1.(2)
+Table 1: Classification of hypodontia(2)
+Figure 1 illustrates a hypodontia patient with missing left maxillary
+lateral incisor (MxLI) and small right MxLI.(6) Figure 2 illustrates an
+oligodontia patient with multiple missing permanent teeth. Figure 3
+illustrates complete missing permanent teeth in an anodontia patient.
+Figure 1: Hypodontia Figure 2: Oligodontia
+Figure 3: Anodontia
+Management of Hypodontia (Second Edition)
+3.
+AETIOLOGY
+Tooth agenesis is one of the most common dental anomalies which
+can occur in syndromic (e.g. ectodermal dysplasia, Down’s syndrome
+and hemifacial microsomia) or non-syndromic conditions (e.g. cleft
+lip and palate). Multiple theories and evidences demonstrate that the
+development of tooth agenesis is linked to genetic and environmental
+factors.(6)
+3.1
+Genetic Factors
+Tooth agenesis is closely related to cellular-level issues involving
+pathogenic variants of certain genes, which is the protein product
+in craniofacial and tooth development. To date, mutated genes
+have been identified related to tooth agenesis. These genes can be
+inherited through either paternal or maternal transmission in complete
+penetrance. Mutation of the genes is also noticed in persons with tooth
+agenesis even without familial history.(7, 8)
+In a recent systematic review, aimed to characterise and correlate
+oligodontia phenotypes with their causative genetic aetiologies, based
+upon analyses of available cases supplemented with a characterization
+of ten additional families with oligodontia showed:(9) level II-2
+• frequency of tooth absence at each tooth position was an effect of
+different causative genes
+• PAX9 (24.7%), MSX1 (14.5%), WNT10A (26.0%), WNT10B
+(1.5%), AXIN2 (6.1%), EDA (5.9%), EDAR (4.0%), EDARADD
+(1.3%), LRP6 (4.1%), KREMEN1 (3.8%), PITX2 (2.8%), and
+SMOC2 (1.5%) mutation genes related to non-syndromic tooth
+agenesis
+• WNT10A mutation caused 53.84% of syndromic oligodontia cases
+with a mean of 13.0 ± 6.2 teeth missing per case
+• PAX9 mutation has a significantly higher percentage of missing
+teeth (p<0.05) in maxillary second molar, maxillary first molar,
+mandibular first molar, and mandibular second molar positions
+• EDA mutation has a significantly higher percentage of missing
+teeth (p<0.05) in maxillary lateral incisor, mandibular lateral
+incisor, and mandibular central incisor positions
+A retrospective cohort study reporting genetic mutation of PAX9
+and phenotypic variation within the tooth agenesis spectrum
+revealed:(10) level II-2
+• missing lower second molar tooth was the most common pattern
+in patients with PAX9 mutations with a 100% affected rate
+• the prevalence of missing teeth in patients with a PAX9 nonsense
+mutation (66.1%) was significantly higher (p=0.004) than those
+Management of Hypodontia (Second Edition)
+with a PAX9 frameshift mutation (49.6%) or a missense mutation
+(40.5%)
+• the prevalence of microdontia in the missense mutation group
+(4.76%) was less than the frameshift mutation group (9.8%)
+and nonsense (9.8%) mutation group, and the difference was
+statistically significant (p<0.001)
+In a case-controlled study assessing the genetic background of nonsyndromic hypodontia (NSH), a significant association was observed
+between the heterozygous and homozygous variant genotypes of
+MSX1, increasing the risk of hypodontia in the studied population when
+comparing the entire NSH group with controls (p=0.0008).(11) level II-2
+Summary of the affected genes based on the missing teeth in maxilla
+and mandible showed in Table 2.
+Table 2: Summary of affected genes
+3.2
+Environmental Factors
+Environmental variables may have stopped or disturbed the growth of
+teeth by preventing the dental lamina’s tooth bud cells from proliferating
+which leads to failure of odontogenesis.
+Tooth agenesis is occasionally caused by other environmental factors
+including:
+• patient factor
+ infection e.g. osteomyelitis
+ trauma in the dental region
+ disturbances in jaw innervations
+ cancer treatment e.g. chemotherapy, radiotherapy and antineoplastic
+agents
+Affected genes
+PITX2(9) level II-2
+EDA, LRP6 and KREMEN1(9) level II-2
+AXIN2, WNT10A and SMOC2(9) level II-2
+PAX9(10) level II-2, (9) level II-2
+KREMEN1(9) level II-2
+EDA, WNT10B and KREMEN1(9) level II-2
+AXIN2 and MSX1(11) level II-2 EDARADD and
+SMOC2(9) level II-2
+PAX9(10) level II-2, (9) level II-2
+Maxilla
+Mandible
+Central Incisor
+Lateral Incisor
+Second Premolar
+Second Molar
+Central Incisor
+Lateral Incisor
+Second Premolar
+Second Molar
+Missing Tooth
+Management of Hypodontia (Second Edition)
+• maternal factor
+ infection e.g. rubella
+ nutrition
+ substance abuse (smoking, alcohol and drug abuse)
+In a recent meta-analysis of six case control studies investigating the
+association between dental agenesis and various types of cancer
+showed:(11) level II-2
+• the odds of a patient with hypodontia having ovarian cancer is 6.43
+times higher compared to patient without hypodontia (OR=6.43 95%
+CI 3.20 to 12.93)
+• no significant difference in dental agenesis of patients with or without
+history of colorectal cancer.
+• the odds of a patient with family history of cancer being diagnosed
+with tooth agenesis is 2.71 times higher compared to patient without
+family history of cancer (OR=2.71 95% CI 1.90 to 3.86)
+However, the included studies were of very low certainty.
+In a meta-analysis of 15 cohort studies assessing adverse effects of
+chemotherapy administered in children with mean age of 6.6 years
+demonstrated:(12) level II-2
+• a considerable increase in the risk of tooth agenesis compared to
+untreated patients (RR =2.47, 95% CI 1.30 to 4.71)
+• every 7th child with cancer exposed to chemotherapy may develop
+tooth agenesis. (Number Needed to Treat, NNT=7)
+However, the quality of the evidence was low due to bias.
+Management of Hypodontia (Second Edition)
+4.
+PREVALENCE
+A large meta-analysis aimed to determine the prevalence of hypodontia
+and associated factors in schoolchildren, dental patients and orthodontic
+patients showed:(3) level II-2
+• global prevalence is 6.4% (95% CI 5.7 to 7.2%) and by regions are
+listed below:
+• females had a higher prevalence compared to males (OR=1.22, 95%
+CI 1.14 to 1.30)
+• higher in Class III malocclusion compared to Class I and Class II
+(OR=2.15, 95% CI 0.78 to 5.89)
+• higher percentage of missing teeth in maxilla 53.2% (95% CI 49.3 to
+57%) compared with mandible 46.8% (95% CI 43 to 50.7%)
+• most commonly missing teeth are listed below in descending order:
+• no statistically significant difference within Asian countries
+However, the included primary papers were moderate to good quality.
+In a recent systematic review, the prevalence of hypodontia is reported
+to be 6.8 ± 4.2% ranging from 3.4 ± 2.2% in Africa to 8.1 ± 6.3% in
+Europe.(13) level III
+Region
+Africa
+Europe
+Asia
+Australia
+North America
+Latin America and Caribbean
+Prevalence (%)
+95% CI (%)
+13.4
+7.0
+6.3
+6.3
+5.0
+4.4
+9.7 to 18.0
+6.0 to 8.0
+4.4 to 9.1
+5.3 to 7.4
+4.1 to 5.9
+3.2 to 6.1
+Types of teeth
+Mandibular second premolar
+Maxillary lateral incisor
+Maxillary second premolar
+Mandibular central incisor
+Mandibular lateral incisor
+Maxillary first premolar
+Mandibular first premolar
+Maxillary canine
+Other teeth
+Prevalence (%)
+29.9
+24.3
+13.7
+6.1
+4.3
+3.6
+2.7
+2.5
+<2.0
+Management of Hypodontia (Second Edition)
+A cross-sectional study investigating the trend from the year of 2000
+to 2018 of prevalence and distribution of hypodontia in an Australian
+population, who presented for orthodontic treatment, showed:(14) level III
+• most commonly missing permanent teeth in descending order:
+ mandibular second premolars
+ maxillary lateral incisors
+ maxillary second premolars
+• occurrence of hypodontia in females was ranged 1.92 to 1.94 higher
+than males
+• unilateral agenesis of maxillary lateral incisors and mandibular
+second premolars was more common than bilateral agenesis of the
+same tooth
+A large cross-sectional study among Malaysian population assessing
+pattern and distribution of tooth agenesis showed:(4) level III
+• prevalence was 1.005%
+• most frequently missing teeth were lateral incisors (28%) and second
+premolars (26.67%)
+• maxilla (54.67%) and right side (54.67%) teeth were more frequently
+affected
+• unilateral (71.42%) was more common compared to bilateral
+(28.57%)
+• no significant difference between male and female
+Management of Hypodontia (Second Edition)
+5.
+EXAMINATION AND DIAGNOSIS
+5.1
+General Assessment
+5.1.1 Patient’s complaint
+Patients with hypodontia may experience various symptoms depending
+on the primary characteristics of the condition and also the opinions
+of the patients, their families and friends. Some of the most frequently
+reported symptoms include:(5)
+• impaired aesthetics due to spacing which may be exacerbated by:
+ number of missing teeth
+ size and shape of remaining teeth
+ dimensions of the jaws
+ location of the spacing
+• challenges with chewing particularly if multiple posterior teeth are
+missing
+• difficulties with speech which are likely caused by the absence of
+anterior teeth
+5.1.2 History
+It is essential to obtain a comprehensive medical, dental and family
+history to confirm the developmental absence of permanent teeth
+and determine the potential aetiology. This is summarised in Table
+3.(5) However, aetiology is usually multifactorial and often influenced
+by a combination of gene function, environmental interaction and
+developmental timing.
+Table 3: History associated with hypodontia(5)
+5.2
+Clinical Assessment
+5.2.1 Clinical examination
+a.
+Extra-oral
+There is an altered craniofacial morphology with tendency towards
+Class III malocclusion and reduced lower anterior facial height.(15)
+History
+Description
+May be associated with medical conditions such as Ectodermal
+Dysplasia and Down Syndrome
+To exclude clinically missing teeth due to either extraction or
+trauma
+Presence of hypodontia in other family members is an indication
+of a genetic basis
+Medical
+Dental
+Family
+Management of Hypodontia (Second Edition)
+In a hospital-based cohort study investigating the differences in the
+facial soft tissue morphology between mild and severe hypodontia
+using a three-dimensional (3D) optical surface scanner in growing
+patients found significant differences (p<0.05) in reduction of:(16) level II-2
+• alar base
+• lower face height
+• nasolabial angle
+• transgonial distance
+Although the preceding evidence showed significant reduction in
+nasolabial angle, the CPG DG members opine that nasolabial angle is
+commonly found to be increased in the local population.
+Figure 4 illustrates frontal and lateral three-dimensional surface
+scan views of one of the subjects with landmarks assessed in the
+study.(16) level II-2
+Figure 4: Frontal and lateral three-dimensional surface scan views
+A meta-analysis with seven case-control studies, assessing dental
+agenesis with craniofacial morphological pattern showed statistically
+significant association between dental agenesis (mild, moderate and
+severe) and a retrognathic maxilla as indicated by a smaller sellanasion angle (−1.74°, 95% CI −2.55 to −0.92). The included primary
+studies were of moderate to high quality.(17) level II-2
+Management of Hypodontia (Second Edition)
+Figure 5 illustrates severe hypodontia case with retrusive facial profile
+and reduced vertical proportions, resulting in increased overbite.(18)
+Figure 5: A case of severe hypodontia
+a.
+Intra-oral:
+A tooth is considered to be congenitally missing if it has not erupted in
+the oral cavity and is not visible on radiograph at an age when it should
+be detected. Permanent teeth can be clinically diagnosed between
+ages 12-14, but radiographic diagnosis can be done earlier, depending
+on age and stages of tooth development.(15)
+In a recent cross-sectional study, comparing the difference between
+chronological age (CA) and dental age (DA) in permanent dentition
+among Spanish children with agenesis, showed significantly (p<0.01)
+lower in agenesis group (-0.16yrs±1.12) compared to a control group
+(-0.58yrs±0.90), which suggests a delay in teeth development.(19) level III
+Two studies investigated the association between DA and CA in
+hypodontia patients.
+• A systematic review showed statistically significant:(20) level III
+ delay in DA compared with the control group ranging from 1.20
+years to 1.64 years
+ delay in DA with increasing severity of dental agenesis (p<0.01),
+with each additional missing permanent tooth resulting in a delay
+of 0.13 year in DA compared to CA
+Management of Hypodontia (Second Edition)
+However, gender and ethnicity have no effect on DA delay.
+• A cross-sectional study showed significant association with delayed
+development of permanent teeth (OR=8.931, 95% CI 3.89 to 20.52).
+(21) level III
+Multiple cross-sectional studies evaluating hypodontia with other dental
+anomalies showed:
+• significant association with:
+ peg-shaped lateral incisor (p=0.0445) on the contralateral
+side(19) level III
+ microdontia of maxillary incisors (OR=5.921, 95% CI 3.32 to
+10.57)(21) level III
+ distoangulation of the mandibular second premolar (OR=5.163,
+95% CI 1.96 to 13.64)(21) level III
+ infra-occlusion of primary molar (OR=2.933, 95% CI 1.35 to 6.36)
+(21) level III
+• 61.11% patients of those with agenesis have other associated dental
+anomalies (microdontia, hypomineralization and infra-occlusion)(22) level III
+A local study among Malaysian population observing the pattern and
+distribution of tooth agenesis documented presence of 8.57% pegshaped tooth and 5.71% microdontia.(4) level III
+Dental features that co-associated with hypodontia are summarised in
+Table 4.(5)
+Table 4: Intra-oral features co-associated with hypodontia(5)
+Feature
+Microdontia
+Conical teeth
+Ectopic eruption
+Retained
+deciduous teeth
+Reduced alveolar
+ridge development
+Delayed eruption
+of permanent teeth
+Enamel defects
+Abnormal tooth
+position
+Descriptions
+May be localised or generalised; may affect the
+crowns and roots of teeth; is a contributor to spacing
+May be localised (e.g. peg lateral incisor) or generalised
+Ectopic eruption into lateral incisor space; impaction
+and transposition may affect the maxillary canine
+Teeth may be infraoccluded or ankylosed
+May complicate prosthodontic management and
+orthodontic tooth movement
+An average delay in eruption is 1.5 years. May delay
+onset of orthodontic treatment
+Hypoplasia, hypocalcifications
+Rotations (especially premolars)
+Management of Hypodontia (Second Edition)
+According to American Academy of Paediatric Dentistry (AAPD),
+hypodontia should be anticipated in patients presenting with delayed or
+asymmetric eruption sequence, retained deciduous teeth, or ankylosis.
+They also recommended that palpation of unerupted teeth should be part
+of every dental examination during the early mixed dentition stage.(23)
+Figure 6 illustrates patient with missing right MxLI, and retained
+deciduous molars.(18)
+Figure 6: Hypodontia case
+5.2.2 Investigation
+A definitive diagnosis usually can be established by carrying out a
+radiographic examination. A tooth is considered missing if there is no
+evidence of the tooth when observed either clinically or radiographically.
+Management of Hypodontia (Second Edition)
+a.
+Radiographic Imaging
+The standard radiographic techniques used for this purpose include
+periapical views, upper standard occlusal radiographs and dental
+panoramic radiographs. These imaging methods may be used if there
+are indications of underlying disease or developmental anomalies.(24)
+The use of panoramic radiography is recommended together with clinical
+examination in detecting or confirming a diagnosis of tooth agenesis.
+(23) When an unerupted tooth is not palpable, hypodontia should be
+suspected and diagnosis can be confirmed with dental radiographs.
+These radiographs are indicated to be taken at the time of early mixed
+dentition to provide diagnostic information concerning hypodontia.(23)
+Radiographic examination is often necessary to make a conclusive
+diagnosis of hypodontia, but caution must be taken to avoid taking
+radiographs too early. This is because the development of some
+permanent teeth such as the second premolars may not begin until a
+child is 9 to 10 years old. Therefore, waiting until a child is over 9 years
+of age before taking a dental panoramic radiograph for the diagnosis of
+hypodontia is essential.(5)
+A recent systematic review of healthy children and adolescents revealed
+that out of 123 articles reporting various dental anomalies, 44 articles
+reported hypodontia. All of the 44 articles used radiographs as diagnostic
+tool to confirm hypodontia.(13) level III
+Recommendation 1
+In diagnosing hypodontia:
+• intraoral radiograph should be considered once a tooth is clinically
+missing.
+• panoramic radiograph should be delayed until age of 9 to 10 years
+old.
+b.
+Cone Beam Computed Tomography (CBCT)
+Orthodontic patients are typically evaluated using low-dose radiographic
+imaging, which carries a small risk of cancer induction through stochastic
+effects. However, young orthodontic patients are at an increased risk,
+especially when undergoing high-dose CBCT imaging.(24)
+Based on Ministry of Health (MOH) Guideline, CBCT should not be
+routinely used for screening purposes, including for orthodontic
+diagnosis.(25)
+Management of Hypodontia (Second Edition)
+Recommendation 2
+Cone Beam Computed Tomography should be avoided as a diagnostic
+tool for hypodontia patients.
+5.3
+Referral
+Clinicians should be aware of family history of hypodontia or other
+abnormalities in affected parents or siblings, as delayed eruption is
+common among hypodontia patients. It is essential to determine the
+reasons for failure of tooth eruption, particularly if there is a disturbance
+of the sequence of tooth eruption.
+Potential hypodontia patients presenting in the primary care setting
+should undergo the following:
+• general and clinical assessment
+• diagnostic imaging to confirm the hypodontia status
+To ensure the optimal treatment outcome, it is crucial to refer the patient
+promptly after a diagnosis. The referral can be directed to any relevant
+dental specialist within the multidisciplinary team which may consist of
+orthodontist, paediatric dental specialist and restorative dental specialist.
+Referrals should be made within 1.5 years from the hypodontia tooth’s
+chronological eruption age. If it exceeds this range, it will be considered
+as late referrals. Thus, potentially increase treatment complexity and
+compromise the treatment outcome. Refer Appendix 4 (Tooth Eruption
+Chart) which was adopted from the American Dental Association (ADA).(26)
+Key message 1
+Hypodontia is suspected when there is:
+• 1.5 years delayed eruption from its chronological eruption age
+• 6 months delay after contralateral tooth has erupted
+• absence of bulge upon palpation of eruption site
+• prolonged retained deciduous teeth
+• a family history of hypodontia
+• history of congenitally missing deciduous teeth
+• anomalies associated with hypodontia (refer to Table 4)
+Recommendation 3
+Early referral should be considered once hypodontia is diagnosed.
+Management of Hypodontia (Second Edition)
+The Index of Orthodontic Treatment Need (IOTN) is used routinely
+in the orthodontic services within the MOH Malaysia to assess the
+need and eligibility for orthodontic treatment based on dental health
+component.(27) (Refer Appendix 5)
+Key message 2
+Hypodontia is categorised under Grade 5 and 4 in IOTN which indicates
+a high need for orthodontic treatment.
+In cases where further comprehensive treatment is required,
+consultation with multidisciplinary team will help to develop an
+appropriate treatment plan.
+Key message 3
+Comprehensive treatment requiring space management of hypodontia
+patients should be managed by orthodontist or multidisciplinary team.
+5.4
+Pre-treatment Record
+According to the AAPD:(23)
+• diagnostic dental casts can be obtained for patients with hypodontia
+to:
+ evaluate the occlusal relationship
+ determine the necessary arch length for inter- and intra-arch tooth
+size relationships
+• intra-oral and extra-oral photographs to supplement clinical findings
+In local setting, essential pre-treatment records required before
+treatment planning in hypodontia patients include panoramic and
+lateral cephalometric radiographs, dental casts, intra- and extra-oral
+photographs.
+Recommendation 4
+Essential pre-treatment records may include panoramic and lateral
+cephalometric radiographs, dental casts, intra- and extra-oral
+photographs in hypodontia patients.
+Management of Hypodontia (Second Edition)
+6.
+MANAGEMENT
+Management of hypodontia depends on various factors (i.e. size,
+shape and colour of the adjacent tooth, site of hypodontia, facial
+profile, smile line, arch length-tooth size discrepancy, ridge thickness,
+malocclusion, age, cooperation and aesthetic expectation of the
+patient) that should be taken into consideration during treatment
+planning for optimal aesthetic and functional outcomes.(28)
+Treatment planning
+Diagnostic orthodontic wax-up of study models or Kesling set-up,
+serves as a valuable tool for patient communication. It enables the
+orthodontist to visually explain the treatment plan, demonstrate the
+potential outcome and discuss the available options with the patient.
+This helps in managing patient expectations, gaining informed
+consent and actively involving the patient in the decision-making
+process. With recent technological advancements, 3D scanners may
+be incorporated for digital treatment planning.
+However, in growing hypodontia patients, the provision of
+comprehensive treatment related to prosthetic replacements (e.g.
+implant and bridges) may be delayed.
+6.1
+Conservative Treatment
+Conservative treatment is an option in hypodontia if the occlusion is
+acceptable and the patient is satisfied with the dentition and not willing
+to commit to lengthy and costly treatment. This includes preservation
+of deciduous teeth with continuous monitoring. Preservation of
+deciduous teeth in hypodontia patients refers to the process of
+maintaining them in place and may involve various treatment options
+such as fillings, crowns and root canal therapy to ensure their longevity
+until exfoliated.
+A recent systematic review comprising three observational studies
+assessing survival rate of deciduous molars with agenesis of
+premolars showed 82% to 89% of the retained molars were in good
+condition over a follow-up ranging from 5 to 13 years. However, all the
+three studies were of low certainty.(29) level II-2
+In two retrospective studies analysing retained deciduous teeth with
+the same cohort of severe hypodontia patients showed, the tooth
+types with the highest tendency to remain in good condition were
+mandibular deciduous canine (64.3%) and second deciduous molar
+(35.7%) at 12 years follow up. Thus, preserving such teeth is often a
+worthy choice in growing patients.(30) level II-2; (31) level II-2
+Management of Hypodontia (Second Edition)
+Another systematic review of moderate to good quality with seven
+observational studies assessing preservation of deciduous teeth in
+terms of:(32) level II-2
+• survival rate
+ four studies reported deciduous tooth survival between 83% to
+93% over follow-up of 5 to 15 years
+• lifespan of deciduous tooth, only one study reported
+ mandibular deciduous canines had the most predictable prognosis
+followed by maxillary deciduous canines
+ deciduous molar teeth had the poorest and least predictable
+prognosis
+• root resorption
+ reported in all studies, however its rate and pattern of progression
+varied among the studies
+• infraocclusion
+ the incidence ranged from 25% to 43.6%
+ three studies reported the incidence and severity of infraocclusion
+increased over time, even into adulthood
+However, most of the results above were not reported descriptively in
+terms of statistical analysis.
+A systematic review of six observational studies among congenitally
+missing premolars with a mean follow-up of 12.5 years in preservation
+of deciduous molar showed:(33) level I
+• survival rate of 89.7%
+• success rate of 51.7% when there is no associated root resorption,
+ankylosis or infraocclusion
+Careful monitoring of retained deciduous teeth is crucial in hypodontia
+patients to identify potential complications like ankylosis, root
+resorption, or infraocclusion. This monitoring plays an important role
+in preserving the alveolar bone and the remaining teeth, as to ensure
+optimal prognosis of retained deciduous teeth.
+Figure 7 illustrates retained upper left deciduous canine as seen in
+left buccal view photograph and panoramic radiograph.
+Figure 7: A case of retained deciduous tooth
+Management of Hypodontia (Second Edition)
+Recommendation 5
+Preservation of deciduous teeth may be considered as an option in
+individuals with hypodontia.
+6.2
+Interceptive Treatment
+Interceptive treatment of hypodontia in early mixed dentition prevents
+the development of malocclusion and complications in the permanent
+dentition, eventually reducing or eliminating the need for complex
+treatment. In cases of missing maxillary permanent lateral incisor,
+early extraction of deciduous incisor or canine may prevent impaction
+and allow eruption of permanent canine into the lateral incisor position.
+(34) Extraction of deciduous teeth when permanent successors are
+missing, constitutes an active treatment modality.
+A recent Cochrane Review assessed the effectiveness of extraction of
+the primary teeth to promote the eruption of palatally displaced canine
+(PDC) among 9 to 14 years old patients.(35) level I
+• An RCT found extracting the primary canine may increase the
+proportion of PDCs that successfully erupt into the mouth at 12
+months compared with no extraction (RR=2.87, 95% CI 0.90 to 9.23).
+However, statistically there was no significant difference between the
+groups.
+• Three RCTs comparing single versus double primary teeth extraction
+found no significant difference between the two groups in terms of
+eruption of PDC at 18 months. However, at 48 months, 2 out of 3
+RCTs showed significantly higher eruption of the PDC when double,
+compared to a single primary tooth, was extracted (RR=1.28, 95% CI
+1.06 to 1.54).
+Despite the low risk of bias of the included RCTs, the certainty of the
+evidence was very low.
+A retrospective study evaluating the prognosis of retained deciduous
+mandibular molars without successors showed significant correlation
+between root resorption and infraocclusion (mesial root r=0.37;
+p=0.001; distal root r=0.29; p=0.006).(30) level II-2 As the severity of root
+resorption increases, the likelihood of infraocclusion also tends to
+increase. Thus, in the presence of infraocclusion, extraction of the
+deciduous teeth is advisable.
+Interceptive treatment is an integral part of the overall management of
+hypodontia as it is sufficient to obtain a partial result, while establishing
+the pre-requirements for normal growth. The prognosis of retained
+deciduous teeth is determined based on clinical and radiographic
+examination of the alveolar, crown and root.(36)
+Management of Hypodontia (Second Edition)
+A multidisciplinary team approach is needed when deciding on
+extracting retained deciduous teeth in congenitally missing permanent
+dentition. Long-term prognosis of the deciduous teeth, future space
+requirements and patient preferences are some of the aspects which
+should be considered in managing hypodontia patients.(23); (37); (38)
+Key message 4
+Factors to determine prognosis of retained deciduous are:(36)
+• caries
+• restoration
+• root resorption
+• bone resorption
+• periapical or interradicular pathology
+• ankylosis
+• infraocclusion
+• gingival recession
+Recommendation 6
+Extraction of deciduous teeth with infraocclusion may be considered
+in hypodontia patients.
+6.3
+Management by Space Closure
+Space closure approach is a treatment option for ensuring overall
+dental health in the long-term which can be achieved either via
+orthodontically closing the space or by modification of the tooth for
+aesthetic reasons.
+Factors to be considered for space closure are:
+• facial profile
+ a straight or slight convex profile.(38) level II-3; (39) level II-2
+ bimaxillary dentoalveolar protrusion.(34)
+ Class II division 1 incisor relationship
+• canine angulation
+ mesial tilting of the canine crown as to imitate the tilting of the
+lateral incisor
+• shade of canine
+ canines have darker shade than incisors and the colour difference
+between canines and incisors is to be considered
+• gingival height
+ if the canine is replacing the lateral incisor, then extrusion of
+the canine and intrusion of the first premolar will result in better
+marginal gingival height
+Management of Hypodontia (Second Edition)
+6.3.1 Orthodontic Space Closure
+a.
+Missing Maxillary Lateral Incisors (MxLI)
+Two systematic reviews comprising 10 observational studies
+comparing the outcome of two treatment alternatives between
+orthodontic space closure (SC) and implant-supported prosthetic
+replacement (PR) for patients with MxLI agenesis showed in terms of:
+• aesthetics:
+ both treatments were equally satisfying but SC was more
+acceptable than PR aesthetically, however, there was no
+statistically significant difference between the groups(40) level II-2
+ only one cross-sectional study using 5-point Likert scale by dentists
+and laypersons found aesthetics after SC to be statistically more
+pleasant (p<0.05)(40) level II-2
+ one study had assessed and revealed good acceptability in the
+implant group. However, there was no statistically significant
+difference between the 2 groups(41) level II-2
+ overall, patients were almost equally satisfied with both
+approaches(41) level II-2
+• periodontal status:
+ no significant difference in tooth mobility(40) level II-2; (41) level II-2
+ no significant differences were found in plaque index and bleeding
+when probing(40) level II-2
+ in both systematic reviews, gingival recession was found
+significantly more common in the SC group (p<0.001)(40) level II2although no recession was greater than 2 mm (p<0.05)(41) level II-2
+ another cross-sectional study showed gingival recession and
+papillary defect to be more common in the PR group, however
+there was no significant difference between the two groups(40) level II-2
+ significant elevation in probing depth of more than 3 mm occurred
+in 12 out of 14 replaced teeth in implant group (p<0.001)(40) level II-2;
+(41) level II-2
+ one study reported significant infra-occlusion in the implant
+group(41) level II-2
+• temporomandibular joint and occlusion morphology disorder, there
+was no significant difference between the two groups40) level II-2; (41) level II-2
+Nevertheless, primary papers included in these observational studies
+were of low to moderate risk of bias, thus clinical trials are needed to
+support the evidence.
+Another systematic review comparing effectiveness between
+orthodontic space closure versus implant-supported and toothsupported dental prostheses for MxLI agenesis showed in terms
+of:(42) level II-2
+Management of Hypodontia (Second Edition)
+• aesthetics
+ no significant differences in terms of patient’s opinion on shape,
+symmetry and distribution of spaces in upper anterior teeth except
+for colour of teeth where more patients in the PR (80%) were
+satisfied than in the SC (45%) (p<0.01)
+ no significant differences of the width-to-height ratio of the 6
+anterior teeth and the gingival zenith of the tooth or the dental
+prosthesis located in the position of the lateral incisor between the
+two groups
+ increased interdental space in the implant group (p<0.05)
+• periodontal status
+ three observational studies found no significant difference in
+gingival recession of upper premolars between SC and PR
+• occlusal function
+ prevalence of group function in SC (96-100%) was more than PR
+(67-89%)
+ no statistically significant difference in the temporomandibular
+disorder (TMD) index (modified Helkimo) between the two groups
+However, the included primary papers are of moderate quality.
+In a retrospective cohort study to evaluate periodontal health status
+between agenesis of MxLI with orthodontic space closure (AG) and
+control group (CG) over a 10-year period showed in terms of:(43) level II-2
+• probing depth:
+ in AG, only 0.5% had a pocket depth >4 mm, and 2.4% sites were
+4 mm
+ no significant differences between the two groups.
+ 97.1% of probing pocket depths were within normal limits (4mm) in
+both groups
+• bleeding on probing:
+ was observed in 8.6% of the 3942 examined sites in AG whilst
+17.6% of the 1536 examined sites in CG
+ significantly higher in the interproximal sites in CG compared to
+AG (p<0.05) however, no significant differences on the labial and
+lingual sites in both groups
+• gingival recession and tooth mobility:
+ no significant differences between the two groups
+This study also reviewed occlusal function and TMD. The study found
+most patients had group function occlusion in lateral excursions
+both in AG (92.3%) and CG (68%) with a small percentage having a
+canine-raised occlusion. The quality of the study is moderate, due to
+the small sample size, and because the control group only included
+non-extraction orthodontic patients.
+Management of Hypodontia (Second Edition)
+Figure 8 illustrates a case where spaces had been closed
+orthodontically and the canines resembled missing MxLI.(5)
+Figure 8: Orthodontic space closure
+Recommendation 7
+If both orthodontic space closure and prosthetic replacement is a
+viable option in hypodontia cases, orthodontic space closure should
+be considered.
+b.
+Missing Mandibular Second Premolars
+Congenitally missing mandibular second premolars have less
+aesthetic impact compared to missing MxLI, but careful management
+is still required.(44)
+• In a crowded arch, retained second deciduous molars should be
+removed and the space closed.
+• In a well aligned or spaced arch, closing the space may cause
+excessive retraction of the anterior teeth. However, second deciduous
+molar:
+ can be kept if the long-term prognosis is good
+ should be extracted if the prognosis is poor and the space should
+be restored
+ extraction may result in a decrease in alveolar width, which can
+pose challenges for implant placement
+6.3.2 Modification of Tooth Size and Shape
+Orthodontic space closure with canine substitution or existing residual
+space without malalignment where no orthodontic intervention needed
+often requires modification of tooth size and shape by reshaping with
+composite restoration build up or porcelain laminate veneers.
+A systematic review of 30 cohort studies evaluating effectiveness
+of porcelain laminate veneers (PLVs) showed survival rate at longterm (>10 years) ranged from 73% to 100%, at medium-term (6-10
+Management of Hypodontia (Second Edition)
+years) ranged from 47% to 100% and at short term (<5 years) was
+more than 90%.(45) level II-2 Included primary studies in this review were
+of moderate to good quality. However, the studies included patients
+who received PLVs irrespective of their hypodontia status, but the
+presence or absence of hypodontia did not have an impact on the
+survival rate of the PLVs.
+Figure 9 illustrates a combination of missing right MxLI and pegshaped left MxLI. Treatment involved orthodontic space closure with
+composite build-up of left MxLI and right maxillary canine.(46)
+Figure 9: Orthodontic space closure with composite build-up
+6.4
+Management by Space Opening
+Space opening approach in hypodontia patients can vary depending
+on the individual's needs and the available treatment options. This will
+require multidisciplinary management from various dental specialties
+such as orthodontist, paediatric dental specialist, periodontist,
+restorative specialist, and oral maxillofacial surgeon.
+Factors to be considered for space opening:
+• facial profile
+ Class I malocclusion with normal intercuspation of posterior teeth
+ Class II malocclusion with well aligned or spaced mandibular
+dentition
+ Class III malocclusion with a concave facial profile or spaced
+maxillary dentition
+• multiple missing teeth
+• cost
+ depends on type of definitive prosthesis
+6.4.1 Orthodontic Space Opening
+Space opening involves orthodontic space redistribution to create
+enough space for future dental replacements such as an implant,
+bridge, removable denture or autotransplantation. However, the
+specific treatment plan should be determined by experienced and
+trained clinicians.
+Management of Hypodontia (Second Edition)
+6.4.2 Rehabilitation with Prosthetic Replacement
+There are various types of prosthetic replacements available for the
+treatment of hypodontia. These prosthetic replacements aim to improve
+the patient's appearance and function of the dentition, as well as to
+prevent further complications such as bone loss and malalignment of
+the remaining teeth. Prosthetic replacements for hypodontia patients
+include dental implants, resin-bonded bridge (RBB), fixed partial
+dentures (conventional bridgework) and removable dentures. The
+choice of prosthetic replacement will depend on various factors such
+as growth, extent of the missing teeth, status of remaining dentition,
+financial status and patient’s preferences.
+The survival rate is defined as the likelihood that the prosthetic
+replacement will remain securely in place and functioning for the
+intended duration.
+a.
+Implant
+Two systematic reviews of 20 observational studies of dental implants
+in hypodontia patients showed survival rate:
+• 86% to 100% with follow-up ranging from 0.1 to 18 years.(32) level II-2
+• 35.7% to 98.7% (mean 93.7%). Most implants were lost during
+the first year after placement. No long-term results (>10 years) are
+available.(47) level II-2
+Key Message 5
+Factors to be considered prior to implant placement in hypodontia
+patient:
+• Medical condition
+• Completion of growth
+• Oral hygiene
+• Thickness of ridge or bone volume at hypodontia site
+• Diameter of dental implant
+• Space availability
+• Root parallelism
+• Operator skill
+• Cost
+Management of Hypodontia (Second Edition)
+Figure 10 illustrates a patient with missing right MxLI where space
+had been opened orthodontically before dental implant placement five
+years later.(48)
+Figure 10: Pre- and post-implant treatment of missing right MxLI
+b.
+Bridge
+i.
+Resin-Bonded Bridge
+Two systematic reviews of 21 moderate quality studies were conducted
+on the survival rate of RBB showed:
+• in 24 months was 96.9% and 100 months was 59%(32) level II-2
+• in 5 years was 83.6% (CI: 0.77 to 0.886) and 10 years was 64.9%
+(CI: 0.478 to 0.789)(49) level II-2
+A systematic review of five studies comparing effectiveness between
+single-retainer versus two-retainer RBB among patients with missing
+anterior teeth.(50) level I
+• A prospective cohort study showed significantly lower failure rates
+in single-retainer cantilever RBB (OR=0.08, 95% CI 0.01 to 0.75)
+compared to two-retainer RBB
+• No significant difference in terms of debonding between the two
+groups in all the studies
+Another good quality systematic review of one RCT and seven
+observational studies with moderate risk of bias at estimated
+5-years follow-up among patients who require all-ceramic RBB in the
+replacement of missing teeth showed:(51) level I
+• cantilevered design (single-retainer) of all-ceramic RBB had a
+significantly higher survival rate (RBB remaining in situ for the followup time without multiple debonding) compared with the two-retainer
+design (98.1% vs. 92.0%, p<0.01)
+• two-retainer design of all-ceramic RBB had a significantly higher
+debonding rate compared to cantilevered design (7.2% vs. 6.1%,
+p<0.05)
+• two-retainer design of all-ceramic RBB had a significantly higher
+fracture rate compared to cantilevered design (10.7% vs. 1.4%,
+p<0.01)
+Management of Hypodontia (Second Edition)
+Figure 11 illustrates orthodontic space opening followed by composite
+build-up of right MxLI and prosthetic replacement for left MxLI with
+RBB.(5)
+• Right MxLI is a microdont and left MxLI is missing (Figure 11a)
+• Space was opened orthodontically for the missing left MxLI (Figure
+11b)
+• Right MxLI was built-up with composite and an RBB replaced the left
+MxLI (Figure 11c)
+Figure 11a: Pre-orthodontic
+Figure 11b: Post-orthodontic
+treatment
+treatment
+Figure 11c: Post-restorative treatment
+Figure 12 illustrates prosthetic replacement with single retainer RBB
+to replace missing right mandibular second premolar
+Figure 12: Pre- and post-prosthetic replacement
+Management of Hypodontia (Second Edition)
+Figure 13 illustrates fabrication of two-retainer RBB to replace missing
+mandibular central incisors.
+Figure 13: Missing mandibular central incisors replaced
+with two-retainer RBB
+ii.
+Conventional Bridge
+There is a scarcity of literature reporting on the use and outcomes
+of conventional bridgework (fixed partial dentures), specifically in
+hypodontia patients. This is likely because most hypodontia patients
+receive treatment at a younger age where abutment teeth have large
+pulp chambers. Thus, bridgework preparation of the abutment teeth
+would be destructive to the healthy tooth structure.(32) level II-2
+c.
+Partial Denture
+Removable partial dentures can be an interim phase as space
+maintainer and for stability before implant therapy or prior to definitive
+treatment, in severe hypodontia patients.(34) However, it may need to
+be replaced within 3.5 to 4 years on average due to its deteriorated
+appearance, fracture, wear or oral changes.(47) level II-2 It also can be the
+definitive treatment for patients who cannot afford or refuse any fixed
+prosthesis replacement.
+6.4.3 Autotransplantation
+Autotransplantation can be an alternative for missing tooth replacement.
+It is a technique that involves surgical transplantation of a donor tooth
+to a receptor site in the same individual. It can be performed at an early
+age in a growing patient.(52) In current practice, ideal timing for the tooth
+Management of Hypodontia (Second Edition)
+to be transplanted is when root development is between one half to two
+thirds completed.
+The survival rate of an autotransplanted tooth is commonly assessed by
+the percentage of transplanted teeth present at the time of examination
+over the total number of transplanted teeth. The success rate is usually
+based on the presence of the tooth in the mouth without ankylosis or
+inflammatory root resorption, and/or continuation of root development.
+A meta-analysis of 17 observational studies assessing open apex
+autotransplanted teeth with or without socket preparation for a minimum
+12 months follow-up showed:(53) level II-2
+• success rate
+ was higher in premolars compare to molars (OR=0.46, 95% CI
+0.25 to 0.84)
+ no significant difference in terms of development stage of the root
+and receptor site (maxilla and mandible)
+• survival rate was 98.21% (95% CI 96.99 to 99.44)
+However, the quality of included primary papers were of high risk of
+bias.
+Another meta-analysis of six observational studies with at least 6
+years of follow-up assessing the prognosis of autotransplanted teeth in
+replacing missing teeth found:(54) level II-2
+• prevalence of survival rate was 81% (95% CI 0.738 to 0.866)
+• rate of ankylosis was 4.8% (95% CI 0.023 to 0.098)
+• rate of root resorption was 4%, (95% CI 0.018 to 0.085)
+However, the included primary papers were of moderate risk of bias.
+In a systematic review of 11 studies assessing on autotransplantation
+regardless mature or immature teeth with a minimum follow-up of 12
+months showed success rate ranged 44% to 96% and survival rate
+ranged 87% to 100%.(33) level I
+Autotransplantation of premolar to missing incisor site is recommended
+if:(34)
+• donor premolar roots are less than ¾ formed
+• multiple incisors are missing
+• the procedure is handled by skilled surgeons
+Subsequently, the autotransplanted teeth may require root canal
+treatment depending on the root maturity followed by permanent
+restoration.
+Autotransplantation is a valuable technique for treating hypodontia
+patients. However, it is important to note that the success of the
+procedure is highly technique-sensitive by the dental professional.
+The benefits can only be achieved if the procedure is performed with
+precision and expertise.
+Management of Hypodontia (Second Edition)
+Recommendations 8
+Autotransplantation may be considered using premolars with open
+apex in hypodontia patients.
+Management of hypodontia is summarised in Appendix 6.
+Management of Hypodontia (Second Edition)
+7.
+POST-ORTHODONTIC TREATMENT RETENTION
+Retention is the final phase of orthodontic treatment with the aim
+to maintain the teeth in their corrected positions after completion of
+orthodontic treatment. Teeth tend to move back to its original position
+which is known as relapse. Orthodontic retainers are needed to
+prevent relapse.
+Orthodontic retainers can be categorised into removable and fixed
+retainers. Removable retainers can be removed by the patient for
+cleaning and eating and are worn as prescribed by the clinician. Fixed
+retainers (bonded retainers) are typically bonded to the lingual or
+palatal surface of the teeth and cannot be removed by the patient.
+Both types of retainers have their advantages and disadvantages, and
+the choice between them often depends on the patient's individual
+needs and preferences.
+7.1
+Removable Retainer
+Removable retainers which are most commonly used are Hawley and
+vacuum-formed retainers. Vacuum-formed retainers are also known
+as thermoplastic or Essix retainers.
+A systematic review investigating the performance of the Hawley-type
+retainers compared with other types of retainers.(55) level I
+• Two RCTs showed no significant difference between the two types of
+retainers in terms of survival, lost retainer, assessment of occlusion,
+discomfort, self-reported compliance at 3 months, speech, overjet
+(OJ), overbite (OB), intercanine width (ICW), intermolar width (IMW),
+and arch length.
+• An RCT showed significantly greater dental arch measurements
+changes by using Little’s Irregularity Index in Hawley retainer at six
+months follow-up (p<0.05).
+• Another RCT showed relapse during retention in terms of teeth
+rotation was significantly higher in Hawley retainers compared to
+thermoplastic (p<0.04) in nine months follow-up.
+However, possible adverse effects related to the retainers were not
+investigated in this study.
+A Cochrane systematic review of 13 RCTs, of low to moderate quality
+was assessed for effectiveness and safety comparing Hawley retainer
+vs thermoplastic retainer showed significant difference in terms
+of:(56) level I
+• stability (Little's Irregularity Index)
+ in upper arch, more relapse was found in Hawley retainer (MD=
+0.25 mm, 95% CI 0.08 to 0.42)
+Management of Hypodontia (Second Edition)
+ in lower arch, thermoplastic retainers were better compared to
+Hawley (MD=0.42, CI 95% 0.23 to 0.61), and Begg retainers (MD=
+0.25, 95% CI 0.19 to 0.31)
+However, there is no significant difference between part-time wear
+compared full-time wear in both groups.
+• failure
+ Hawley retainers were more likely to break (RR=2.96, 95% CI 1.58
+to 5.55)
+• patient satisfaction
+ ability to wear retainer as instructed was higher in thermoplastic
+retainers (RR=0.89, 95% CI 0.83 to 0.96)
+ feeling embarrassed by the retainers was less with thermoplastic
+retainers (RR=2.42, 95% CI 1.30 to 4.49)
+ Hawley retainers were more difficult to wear (RR=9.37, 95% CI
+3.80 to 23.10)
+An RCT in a systematic review comparing the efficacy of vacuumformed and Hawley retainers in retaining corrected tooth rotations
+showed derotated teeth are better retained with thermoplastic
+retainers (9 months part time) than with Hawley retainers (3 months
+full time, 6 months part time)(57) level I
+Figure 14 and Figure 15 illustrate the use of a Hawley retainer to
+replace the missing left maxillary central incisor and Essix retainers
+with pontic of maxillary left central incisor respectively.(58)
+Figure 14: Hawley retainer with pontic
+Figure 15: Essix retainer with pontic
+Management of Hypodontia (Second Edition)
+Key messages 6
+Factors to be considered when prescribing types of retainers for
+hypodontia patients are:
+• initial malocclusion
+• treatment modality (open space or close space)
+• tendency of relapse
+• oral hygiene
+• patients’ compliance
+• patients’ preference
+• operator’s skill & laboratory support
+• cost
+7.2
+Fixed Retainer
+A meta-analysis comprising eight RCTs evaluating the amount of
+relapse of anterior crowding and effectiveness of retention appliances
+after fixed orthodontic treatment between 6 and 24 months follow-up
+using Little’s Irregularity Index showed:(59) level I
+• significant relapse for:
+ mandibular removable retainers (MD=0.72mm, 95% CI 0.47 to
+0.98)
+ maxillary removable retainers (MD=0.48mm, 95% CI 0.27 to 0.68)
+• no significant changes were found for mandibular fixed retainers.
+Even though removable retainers had small statistical differences in
+the alignment of both arches, it is not clinically significant.
+Dual retention, which is a fixed retainer combined with removable
+retainer worn at night, is usually indicated for high relapse tendency
+among hypodontia patients.
+Due to a lack of sufficient evidence-based studies on orthodontic
+retention, expert opinions and clinical evidence are often relied upon
+to determine the best long-term maintenance for treatment results.
+Therefore, it is important for clinicians to assess each individual
+patient with hypodontia to determine types of retention.
+Management of Hypodontia (Second Edition)
+Figure 16 illustrates fixed retainer in a patient with missing single
+mandibular incisor.
+Figure 16: Mandibular fixed retainer
+Recommendation 9
+Dual retention may be considered among hypodontia patients with high
+relapse tendency.
+Management of Hypodontia (Second Edition)
+8.
+IMPACT ON ORAL HEALTH-RELATED QUALITY OF LIFE
+Oral health-related quality of life (OHRQoL) is the extent to which
+oral disorders could affect function and psychosocial wellbeing. Many
+instruments had been developed to assess OHRQoL such as the Oral
+Health Impact Profile (OHIP), Child Perceptions Questionnaire (CPQ)
+and condition-specific-quality-of-life-in-children-with-developmentallyabsent-teeth (ChildQoLDAT).
+The OHIP is a validated questionnaire with seven domains namely
+functional limitation, physical pain, psychological discomfort, physical
+disability, psychological disability, social disability and handicap. The
+CPQ is another validated questionnaire assessing impact in oral
+symptoms, functional limitation, emotional and social wellbeing of
+children. Meanwhile, ChildQoLDAT is a condition-specific questionnaire
+for assessing OHRQoL in patients with hypodontia.
+In a prospective (pre-post) study assessing the impact of implant
+retained crowns on OHRQoL using OHIP-20 among hypodontia in the
+anterior maxilla found that significant improvement in OHRQoL following
+treatment (p=0.026) with the effect size of 1.17, indicating a large clinically
+meaningful change at 24 months post-treatment.(60) level II-3 However, the
+study had a small sample size.
+A cross-sectional study comparing agenesis and non-agenesis using
+OHIP-14 among participants aged 14 to 55 years old revealed that the
+agenesis group has significantly higher overall mean score (p=0.01),
+indicating poorer OHRQoL, and in the specific domain:
+• psychological discomfort (p=0.04)
+• psychological disability (p=0.01)
+• social disability (p=0.04).
+However, other four domains i.e. functional limitation, physical pain,
+physical disability and handicap were not significant between the two
+groups.(61) level III Unfortunately, the severity of hypodontia was not taken
+into consideration in this study.
+A small cross-sectional study in children aged 11 to 14 years old
+showed overall scores of CPQ were significantly higher with tooth
+agenesis (p=0.001) compared to non-agenesis in all the domains
+(oral symptoms, functional limitations, social well-being and emotional
+well-being), indicating poorer OHRQoL. No significant correlation was
+detected between the number of missing teeth and the quality of life
+score.(62) level III
+Another cross sectional study using ChildQoLDAT questionnaire among
+oligodontia children revealed that younger children (11–12 years old)
+Management of Hypodontia (Second Edition)
+were less negatively affected (p=0.048) by their condition than the older
+ones (13–17 years).(47) level III
+Despite limited available evidence and heterogeneity of tools used
+to measure OHRQoL, hypodontia does have a negative impact on
+OHRQoL and can vary among individuals.
+Key message 7
+Hypodontia has a negative impact on oral health-related quality of life
+(OHRQoL) however, it can be improved with appropriate management.
+Management of Hypodontia (Second Edition)
+9.
+IMPLEMENTING THE GUIDELINES
+The implementation of this CPG is the responsibility of the healthcare
+providers. The management of hypodontia should be guided by an
+evidence-based approach in order to provide safe and optimum care
+for the patients. Clinicians are required to keep abreast with knowledge
+through continuing professional education as well as understanding of
+patients’ expectations.
+Therefore, it is important for these guidelines to be disseminated to
+all healthcare professionals in primary and secondary healthcare
+facilities. This can be facilitated through the development of appropriate
+training modules and quick references. Several factors may affect the
+implementation of the recommendations of the CPG.
+9.1
+Facilitating and Limiting Factors
+Existing facilitators for application of the recommendations in the CPG
+include:
+a) wide dissemination of the CPG to healthcare professionals and
+teaching institutions via printed and electronic copies
+b) continuing professional education on the management of
+hypodontia for healthcare professionals
+c) adequate facilities at primary and secondary care level for
+diagnosing and managing hypodontia patients
+Existing barriers for application of the recommendations of the CPG
+include:
+a) lack of understanding or limited knowledge on the management of
+hypodontia patients
+b) variation in skills and treatment practices
+c) constraints in equipment and facilities
+9.2
+Potential Resource Implications
+To implement the CPG, there must be strong commitment to:
+a) ensure widespread distribution of the CPG in hard and soft copy
+to healthcare professionals in primary and secondary healthcare
+facilities
+b) strengthen training of healthcare professionals to ensure knowledge
+and information is up to date
+Management of Hypodontia (Second Edition)
+9.3
+Proposed Clinical Audit Indicators
+To assist in the implementation of the CPG, the following are proposed
+as clinical audit indicators for quality management of hypodontia:
+Target percentage : <30% of late referral of hypodontia patients
+to orthodontic clinic
+*Late referral is considered when referrals are made exceed 1.5
+years from the hypodontia tooth’s chronological eruption age. (Refer
+Appendix 4)
+Percentage of
+late referral*
+of hypodontia
+patients to
+orthodontic
+clinic
+=
+Total number of referral of hypodontia patients to
+orthodontic clinic in the same period of time
+Number of late referral of hypodontia patients
+to orthodontic clinic in a period of time
+x100%
+Management of Hypodontia (Second Edition)
+Appendix 1
+Search Strategy
+Literature search was carried out using the following electronic
+databases: Medline, Pubmed, Cochrane Database of Systematic
+Reviews (CDSR) and Embase while full text journal articles were
+retrieved from these databases. The following Medical Subject Heading
+terms of free text terms were used either singly or in combination. The
+literature search was limited to human study, English language and
+published articles from 2012 to 2023.
+Clinical Question: What are the safe and effective early/interceptive
+treatments for hypodontia patients?
+1.
+Anodontia/
+3923
+2.
+(ageneses, familial tooth or agenesis, familial tooth or anodontia
+or familial tooth ageneses or familial tooth agenesis or hypodontia
+or hypodontia oligodontia 1 or hypodontia oligodontia 1s or
+oligodontia 1, hypodontia or oligodontia 1s, hypodontia or tooth
+ageneses, familial or tooth agenesis, familial or tooth agenesis,
+selective, 1).mp 4797
+3.
+(hypodontia adj1 patient*).tw.
+62
+4.
+1 or 2 or 3
+4797
+5.
+Orthodontics, Interceptive/ or Orthodontics, Preventive/
+1704
+6.
+orthodontics, interceptive.mp. 1039
+7.
+orthodontics, preventive.mp. 761
+8.
+5 or 6 or 7
+1708
+9.
+4 and 8 31
+10. limit 9 to (english language and humans and yr="2012 -Current") 6
+Management of Hypodontia (Second Edition)
+Appendix 2
+Clinical Questions
+1.
+What is the aetiology of hypodontia in permanent dentition?
+2.
+What is the prevalence of hypodontia in permanent dentition?
+3.
+What are the accurate types of investigations in diagnosing
+hypodontia patients?
+4.
+What are the safe and effective early/interceptive treatments for
+hypodontia patients?
+5.
+What are the safe and effective approaches in orthodontic space
+management for hypodontia patients?
+6.
+What are the safe and effective tooth modifications or replacement
+options for hypodontia patients?
+7.
+What are the indications of close space management for hypodontia
+patients?
+8.
+What are the indications of open space management for hypodontia
+patients?
+9.
+What are the implications of space management for hypodontia
+patients?
+10. What are the safe and effective types of retention for orthodontically
+treated hypodontia patients?
+11. What is the impact of hypodontia on oral health-related quality of
+life?
+Management of Hypodontia (Second Edition)
+Appendix 3
+International Classification of Diseases 11th Revision (ICD-11)2
+Missing teeth is coded under LA30.
+1.
+LA30.0 Anodontia
+Description:
+Anodontia is a genetic disorder commonly defined as the absence
+of all teeth, affecting both temporary and permanent dentitions, and
+is extremely rarely encountered in pure form without any associated
+abnormalities. Rare but more common than complete anodontia are
+hypodontia.
+2.
+LA30.1 Hypodontia
+Description :
+Hypodontia presents as lack of one or a few (less than 6) permanent
+teeth, without any systemic disorders.
+Inclusions :
+Congenital absence of one tooth
+3.
+LA30.2 Oligodontia
+Description :
+A genetic condition characterised by the development of fewer than the
+normal number of teeth. The diagnosis of Oligondontia is usually made
+in cases in which more than six teeth are missing.
+Source: https://icd.who.int/devct11/icd11_mms/en/beta
+Management of Hypodontia (Second Edition)
+Appendix 4
+Tooth Eruption Charts
+Tooth Eruption Charts for the deciduous dentition
+Tooth Eruption Charts for the permanent dentition
+Management of Hypodontia (Second Edition)
+Appendix 5
+The Dental Health Component of Index of Orthodontic Treatment
+Need (IOTN)
+Grade 5
+(very great)
+Grade 4
+(great)
+Grade 3
+(Borderline)
+Grade 2
+(little)
+Grade 1
+(none)
+Dental Health Component of IOTN
+(Treatment from a dental health perspective)
+a Increased overjet > 9 mm
+h Extensive hypodontia with restorative implications (more than one tooth missing in
+any quadrant) requiring pre-restorative orthodontics
+l
+lmpeded eruption of teeth (with the exception of third molars) due to crowding,
+displacement, the presence of supernumerary teeth, retained deciduous teeth and
+any pathological cause
+m Reverse overjet greater than 3.5 mm with reported masticatory and speech difficulties
+p Defects of cleft lip and palate
+s Submerged deciduous teeth
+a Increased overjet > 3.5 mm but ≤ 6 mm with incompetent lips.
+b Reverse overjet greater than 1 mm but ≤ 3.5 mm
+c Anterior or posterior crossbites with > 1 mm but ≤ 2 mm discrepancy between
+retruded contact position and intercuspal position
+d Displacements of teeth > 2 mm but to ≤ 4 mm
+e Lateral or anterior open bites greater than 2 mm but ≤ 4 mm
+f
+Increased and complete overbite without gingival or palatal trauma
+a Increased overjet > 3.5 mm but ≤ 6 mm with competent lips.
+b Reverse overjet > 0 mm but ≤ 1 mm
+c Anterior or posterior crossbites with ≤ 1 mm discrepancy between retruded contact
+position and intercuspal position
+d Displacements of teeth > 1 mm ≤ 2 mm
+e Anterior or posterior open bite > 1 mm but ≤ 2 mm
+f
+Increased overbite ≥ 3.5 without gingival contact
+g Prenormal or postnormal occlusions with no other anomalies. Includes up to half a
+unit discrepancy
+Extremely minor malocclusions including displacements < 1 mm
+a Increased overjet > 6 mm but ≤ 9 mm
+b Reverse overjet > 3.5 mm with no masticatory or speech difficulties
+c Anterior or posterior crossbites with > 2 mm discrepancy between retruded contact
+position and intercuspal position
+d Severe displacements of teeth > 4 mm
+e Extreme lateral or anterior open bites > 4 mm
+f
+Increased and complete overbite with gingival or palatal trauma
+h Less extensive hypodontia requiring pre-restorative orthodontics or orthodontic
+space closure to obviate the need for a prosthesis
+l
+Posterior lingual crossbite with no functional occlusal contact in one or both buccal
+segments
+m Reverse overjet greater than 1 mm but ≤ 3.5 mm with recorded masticatory and
+speech difficulties
+t Partially erupted teeth, tipped and impacted against adjacent teeth.
+x Supplemental teeth.
+Management of Hypodontia (Second Edition)
+Appendix 6
+Summary Management of Hypodontia
+Conservative Treatment
+Preservation of deciduous teeth with acceptable occlusion. Patient satisfied
+with the dentition and not willing to commit lengthy and costly treatment.
+Final phase to maintain the teeth in their corrected positions after completion of orthodontic treatment.
+The choice between the retainers depends on the patient's individual needs
+and preferences.
+Reducing or eliminating the need for complex treatment by extraction of
+deciduous teeth with infraocclusion
+Achieved either via orthodontically closing the space or modification of the
+tooth for aesthetic reasons.
+Factors to be considered for space closure:
+• facial profile
+• canine angulation
+• shade of canine
+• gingival height
+Space opening involves orthodontic space redistribution to create enough
+space for future prosthetic replacements.
+Factors to be considered for space opening:
+• facial profile
+• multiple missing teeth
+• cost
+Interceptive Treatment
+Management
+by Space
+Closure
+Orthodontic
+space closure
+Missing maxillary lateral
+incisors
+Missing mandibular
+second premolars
+Modification of tooth size and shape
+Orthodontic space opening
+Management
+by Space
+opening
+Rehabilitation
+with prosthetic
+replacement
+Implant
+Bridge
+Resin Bonded
+Bridge
+Conventional
+bridge
+Partial Denture
+Autotransplantation
+Removable retainer
+Fixed retainer
+PostOrthodontic
+Treatment
+Retention
+Management of Hypodontia (Second Edition)
+LIST OF ABBREVIATIONS
+AAPD
+American Academy Of Paediatric Dentistry
+AGREE
+Appraisal Of Guidelines Research and Evaluation
+CA
+Chronological Age
+CASP
+Critical Appraisal Skill Programme
+CBCT
+Cone-Beam Computed Tomography
+CDSR
+Cochrane Database of Systematic Reviews
+ChildQoLDAT
+Condition-Specific-Quality-Of-Life-In-Children-With-
+Developmentally-Absent-Teeth
+CI
+Confidence Intervals
+CPG
+Clinical Practice Guidelines
+CPQ
+Child Perceptions Questionnaire
+DA
+Dental Age
+GRADE
+Grading of Recommendations, Assessment, Development and
+Evaluation
+HTA
+Health Technology Assessment
+ICD-11
+International Classification of Diseases 11th
+ICW
+Intercanine Width
+IMW
+Intermolar Width
+IOTN
+Index of Orthodontic Treatment Need
+MaHTAS
+Malaysia Health Technology Assessment Section
+MD
+Mean Difference
+MOH
+Ministry Of Health
+MxLI
+Maxillary Lateral Incisor
+NNT
+Number Needed to Treat
+OB
+Overbite
+OHIP
+Oral Health Impact Profile
+OHP
+Oral Health Programme
+OHRQoL
+Oral Health Related Quality of Life
+OJ
+Overjet
+OR
+Odd Ratio
+PDC
+Palatally Displaced Canine
+PLVs
+Porcelain Laminate Veneers
+PR
+Prosthetic Replacement
+RBB
+Resin-Bonded Bridge
+RCT
+Randomised Control Trials
+RR
+Relative Risk
+SC
+Space Closure
+SD
+Standard Deviation
+TMD
+Temporomandibular Disorders
+Management of Hypodontia (Second Edition)
+ACKNOWLEDGEMENTS
+The members of the development group of these guidelines would
+like to express their gratitude and appreciation to the following for their
+contributions:
+• panel of internal and external reviewers who reviewed the draft
+• Technical Advisory Committee for CPG for their valuable input and
+feedback
+• HTA and CPG Council for approval of the CPG
+• Dr Mohd. Aminuddin b Mohd. Yusof, CPG Unit, Malaysian Health
+Technology Assessment Section, Medical Development Division,
+Ministry of Health Malaysia
+• Dr Maryana bt Musa and Dr Aina Najwa bt Mohd. Khairuddin
+• Dr Nur Laila Sofia bt Ahmad
+• Dr Farah Nadzirah bt Abd. Majid on the design cover page of the
+CPG
+• all those who have contributed directly or indirectly to the
+development of the CPG
+DISCLOSURE STATEMENT
+The panel members had completed disclosure forms. None held shares
+in pharmaceutical firms or acts as consultants to such firms. (Details
+are available upon request from the CPG Secretariat)
+SOURCES OF FUNDING
+The development of the CPG on “Management of Hypodontia”
+was supported financially in its entirety by the Ministry of Health
+(MOH) Malaysia and was developed without any involvement of the
+pharmaceutical industry.
+Management of Hypodontia (Second Edition)
+REFERENCES
+1.
+Goodman J, Jones S, Hobkirk J, King P. Hypodontia: 1. Clinical features and the
+management of mild to moderate hypodontia. 1994.
+2.
+ICD-11. World Health Organization. International Classification of Diseases
+11th Revision. Available at: https://www.who.int/news/item/11-02-2022-icd-112022-release#:~:text=ICD%2D11%20key%20features,Digital%20reference%20
+guide.
+3.
+Khalaf K, Miskelly J, Voge E, Macfarlane TV. Prevalence of hypodontia
+and associated factors: a systematic review and meta-analysis. Journal of
+Orthodontics. 2014;41(4):299-316.
+4.
+Fauzi NH, Lestari W, Kharuddin AF, Ardini YD. Prevalence, pattern and
+distribution of non-syndromic tooth agenesis in permanent dentition among
+Malaysian population. Materials Today: Proceedings. 2019;16:2204-9.
+5.
+Gill D, Barker C. The multidisciplinary management of hypodontia: a team
+approach. British Dental Journal. 2015;218(3):143-9.
+6.
+Chhabra N, Goswami M, Chhabra A. Genetic basis of dental agenesis-molecular
+genetics patterning clinical dentistry. Medicina Oral, Patología Oral y Cirugía
+Bucal. 2014;19(2):e112.
+7.
+Albu C-C, Pavlovici R-C, Imre M, Ţâncu AMC, Stanciu IA, Vasilache A, et al.
+Research algorithm for the detection of genetic patterns and phenotypic variety of
+non-syndromic dental agenesis. Romanian Journal of Morphology Embryology.
+2021;62(1):53.
+8.
+Mártha K, Kerekes Máthé B, Moldovan VG, Bănescu C. Study of rs12532,
+rs8670 polymorphism of Msh homeobox 1 (MSX1), rs61754301, rs4904155
+polymorphism of paired box gene 9 (PAX9), and rs2240308 polymorphism of
+axis inhibitor protein 2 (AXIN2) genes in nonsyndromic hypodontia. BioMed
+Research International. 2019;2019(1):2183720.
+9.
+Zhou M, Zhang H, Camhi H, Seymen F, Koruyucu M, Kasimoglu Y, et al.
+Analyses of oligodontia phenotypes and genetic etiologies. International Journal
+of Oral Science. 2021;13(1):32.
+10. Wong S-W, Han D, Zhang H, Liu Y, Zhang X, Miao M, et al. Nine novel PAX9
+mutations and a distinct tooth agenesis genotype-phenotype. Journal of Dental
+Research. 2018;97(2):155-62.
+11. Medina MCG, Bastos RTdRM, Mecenas P, Pinheiro JdJV, Normando D.
+Association between tooth agenesis and cancer: a systematic review. Journal of
+Applied Oral Science. 2021;29.
+12. Busenhart DM, Erb J, Rigakos G, Eliades T, Papageorgiou SN. Adverse effects
+of chemotherapy on the teeth and surrounding tissues of children with cancer: a
+systematic review with meta-analysis. Oral Oncology. 2018;83:64-72.
+13. De Ridder L, Aleksieva A, Willems G, Declerck D, Cadenas de Llano-Pérula M.
+Prevalence of orthodontic malocclusions in healthy children and adolescents:
+a systematic review. International Journal of Environmental Research Public
+Health. 2022;19(12):7446.
+14. Naoum S, Allan Z, Yeap CK, Razza JM, Murray K, Turlach B, et al. Trends in
+orthodontic management strategies for patients with congenitally missing lateral
+incisors and premolars. The Angle Orthodontist. 2021;91(4):477-83.
+15. Cobourne MT. Orthodontic management of the developing dentition: Springer;
+2017.
+16. Johal A, Hasan E, Zou LF, Wong F, Shahdad S, Al-Klash R. The influence of
+mild versus severe hypodontia on facial soft tissues? A three-dimensional optical
+laser scanning-based cohort study. Journal of Orthodontics. 2021;48(1):33-41.
+Management of Hypodontia (Second Edition)
+17. Rodrigues AS, Antunes LS, Pinheiro LHM, Guimarães LS, CalansansMaia JDA, Küchler EC, et al. Is dental agenesis associated with craniofacial
+morphology pattern? A systematic review and meta-analysis. European Journal
+of Orthodontics. 2020;42(5):534-43.
+18. Cobourne MT, Fleming PS, DiBiase AT, Ahmad S. Clinical cases in orthodontics:
+John Wiley & Sons; 2012.
+19. León-Rubio C, Martín-Vacas A, Saavedra-Marbán G, Paz-Cortés MM.
+Association between dental agenesis and delay in dental development: a
+preliminary study in a Spanish paediatric population in relation with Dental
+Anomaly Pattern (DAP). BMC Oral Health. 2022;22(1):468.
+20. Ruiz-Mealin EV, Parekh S, Jones SP, Moles DR, Gill DS. Radiographic study of
+delayed tooth development in patients with dental agenesis. American Journal of
+Orthodontics and Dentofacial Orthopedics. 2012;141(3):307-14.
+21. Choi SJ, Lee JW, Song JH. Dental anomaly patterns associated with tooth
+agenesis. Acta Odontologica Scandinavica. 2017;75(3):161-5.
+22. Ţenţ A, Todor L, Ciavoi G, Popovici-Muţ AM, Domocoş D, Pogan MD, et al.
+Non-syndromic hypodontia of permanent dentition associated with other dental
+anomalies in children and adolescents. Romanian Journal of Morphology and
+Embryology. 2018;59(3):879-83.
+23. AAPD. American Academy of Pediatric Dentistry. Management of the developing
+dentition and occlusion in pediatric dentistry. The Reference Manual of Pediatric
+Dentistry Chicago, Ill: American Academy of Pediatric Dentistry. 2021;408-25.
+24. Isaacson KG. Guidelines for the use of radiographs in clinical orthodontics.
+2016.
+25. MOH. Ministry of Health Malaysia. Guidelines on the use of cone beam computed
+tomography CBCT in government dental facilities. Available at: https://hq.moh.
+gov.my/ohp/images/pdf/xtvtnsop/Guidelines-on-The-Use-of-Cone-BeamComputed-Tomography-CBCT-In-Government-Dental-Facilities.pdf
+26. Sukeri S. Problems of tooth eruption, Portal MyHealth. Available at: http://
+wwwmyhealthgovmy/en/problems-tooth-eruption/ 2017.
+27. MOH. Ministry of Health Malaysia. Garis panduan rujukan rawatan ortodontik
+di fasiliti perkhidmatan pergigian Kementerian Kesihatan Malaysia (KKM).
+Available
+at:
+https://hqmohgovmy/ohd/images/pdf/publication/GARIS%20
+PANDUAN%20RUJUKAN%20RAWATAN%20ORTODONTIKpdf 2022.
+28. Gupta SP, Rauniyar S. Management of missing maxillary lateral incisor: a
+contemporary review. Orthodontic Journal of Nepal. 2021;11(1):72-8.
+29. Dos Santos CCO, Melo DL, da Silva PP, Normando D. What is the survival
+rate of deciduous molars in cases with agenesis of premolar successors? A
+systematic review. The Angle Orthodontist. 2022;92(1):110-7.
+30. Hvaring CL, Birkeland K. The long-term fate of persisting deciduous molars and
+canines in 42 patients with severe hypodontia: a 12-year follow-up. European
+Journal of Orthodontics. 2020;42(6):581-6.
+31. Hvaring CL, Øgaard B, Stenvik A, Birkeland K. The prognosis of retained primary
+molars without successors: infraocclusion, root resorption and restorations in
+111 patients. European Journal of Orthodontics. 2014;36(1):26-30.
+32. Laverty DP, Fairbrother K, Addison O. The current evidence on retaining or
+prosthodontically replacing retained deciduous teeth in the adult hypodontia
+patient: a systematic review. The European Journal of Prosthodontics Restorative
+Dentistry. 2018;26(1):2-15.
+33. Terheyden H, Wüsthoff F. Occlusal rehabilitation in patients with congenitally
+missing teeth—dental implants, conventional prosthetics, tooth autotransplants,
+and preservation of deciduous teeth—a systematic review. International Journal
+of Implant Dentistry. 2015;1(1):1-25.
+Management of Hypodontia (Second Edition)
+34. MOH. Ministry of Health Malaysia. Orthodontic management of developmentally
+missing incisors: Available at: https://www.moh.gov.my/moh/attachments/
+CPG%202014/Orthodontic1.pdf
+35. Benson PE, Atwal A, Bazargani F, Parkin N, Thind B. Interventions for promoting
+the eruption of palatally displaced permanent canine teeth, without the need
+for surgical exposure, in children aged 9 to 14 years. Cochrane Database of
+Systematic Reviews. 2021(12).
+36. Hua L, Thomas M, Bhatia S, Bowkett A, Merrett S. To extract or not to extract?
+Management of infraoccluded second primary molars without successors. British
+Dental Journal. 2019;227(2):93-8.
+37. Alqahtani ND. Successful treatment modalities for missing lateral incisors–a
+systematic review. The Saudi Dental Journal. 2021;33(6):308-15.
+38. Kiliaridis S, Sidira M, Kirmanidou Y, Michalakis K. Treatment options for
+congenitally missing lateral incisors. European Journal of Oral Implantology.
+2016;9(Suppl 1):S5-24.
+39. Seehra J, Al-Ali A, Pandis N, Cobourne MT. Space closure versus space opening
+for bilateral absent upper lateral incisors: what is the duration of orthodontic
+treatment? European Journal of Orthodontics. 2020;42(4):460-5.
+40. Šikšnelytė J, Guntulytė R, Lopatienė K. Orthodontic canine substitution vs.
+implant-supported prosthetic replacement for maxillary permanent lateral incisor
+agenesis: a systematic review. Stomatologija. 2021;23(4):106-13.
+41. Shyagali TR, Kapoor S, Gupta A. Canine substitution versus implant for treating
+congenitally missing lateral incisors: a systematic review. Iranian Journal of
+Orthodontics. 2021;16(2):1-7.
+42. Silveira GS, de Almeida NV, Pereira DMT, Mattos CT, Mucha JN. Prosthetic
+replacement vs space closure for maxillary lateral incisor agenesis: a systematic
+review. American Journal of Orthodontics and Dentofacial Orthopedics.
+2016;150(2):228-37.
+43. Rosa M, Lucchi P, Ferrari S, Zachrisson BU, Caprioglio A. Congenitally missing
+maxillary lateral incisors: long-term periodontal and functional evaluation after
+orthodontic space closure with first premolar intrusion and canine extrusion.
+American Journal of Orthodontics and Dentofacial Orthopedics. 2016;149(3):339-48.
+44. Cobourne MT, DiBiase AT. Handbook of orthodontics e-book: Elsevier Health
+Sciences; 2015.
+45. AlJazairy YH. Survival rates for porcelain laminate veneers: a systematic review.
+European Journal of Dentistry. 2020;15(02):360-8.
+46. Stenvik A, Zachrisson BU. Missing anterior teeth: orthodontic closure and
+transplantation as viable options to conventional replacements. Endodontic
+Topics. 2006;14(1):41-50.
+47. Filius M, Cune M, Raghoebar G, Vissink A, Visser A. Prosthetic treatment
+outcome in patients with severe hypodontia: a systematic review. Journal of Oral
+Rehabilitation. 2016;43(5):373-87.
+48. Jamilian A, Perillo L, Rosa M. Missing upper incisors: a retrospective study of
+orthodontic space closure versus implant. Progress in orthodontics. 2015;16:1-6.
+49. Balasubramaniam G. Predictability of resin bonded bridges–a systematic review.
+British Dental Journal. 2017;222(11):849-58.
+50. Wei Y-R, Wang X-D, Zhang Q, Li X-X, Blatz MB, Jian Y-T, et al. Clinical
+performance of anterior resin-bonded fixed dental prostheses with different
+framework designs: a systematic review and meta-analysis. Journal of Dentistry.
+2016;47:1-7.
+51. Chen J, Cai H, Ren X, Suo L, Pei X, Wan Q. A systematic review of the survival
+and complication rates of all-ceramic resin-bonded fixed dental prostheses.
+Journal of Prosthodontics. 2018;27(6):535-43.
+Management of Hypodontia (Second Edition)
+52. Martin K, Nathwani S, Bunyan R. Autotransplantation of teeth: an evidencebased approach. British Dental Journal. 2018;224(11):861-4.
+53. Atala-Acevedo C, Abarca J, Martínez-Zapata MJ, Díaz J, Olate S, Zaror C.
+Success rate of autotransplantation of teeth with an open apex: systematic
+review and meta-analysis. Journal of Oral Maxillofacial Surgery. 2017;75(1):35-50.
+54. Machado L, Do Nascimento R, Ferreira D, Mattos C, Vilella O. Long-term
+prognosis of tooth autotransplantation: a systematic review and meta-analysis.
+International Journal of Oral Maxillofacial Surgery. 2016;45(5):610-7.
+55. Al Rahma WJ, Kaklamanos EG, Athanasiou AE. Performance of Hawley-type
+retainers: a systematic review of randomized clinical trials. European Journal of
+Orthodontics. 2018;40(2):115-25.
+56. Littlewood SJ, Millett DT, Doubleday B, Bearn DR, Worthington HV. Retention
+procedures for stabilising tooth position after treatment with orthodontic braces.
+Cochrane Database of Systematic Reviews. 2016(1).
+57. Wouters C, Lamberts TA, Kuijpers-Jagtman AM, Renkema AM. Development of
+a clinical practice guideline for orthodontic retention. Orthodontics Craniofacial
+Research. 2019;22(2):69-80.
+58. Doğramacı EJ, Jones VS, Jones AG. The Hawlix: a simple and aesthetic prostheticorthodontic retainer. Australasian Orthodontic Journal. 2016;32(2):229-32.
+59. Lo Giudice A, Isola G, Rustico L, Ronsivalle V, Portelli M, Nucera R. The efficacy
+of retention appliances after fixed orthodontic treatment: a systematic review and
+meta-analysis. Applied Sciences. 2020;10(9):3107.
+60. Allen PF, Lee S, Brady P. Clinical and subjective evaluation of implants in
+patients with hypodontia: a two-year observation study. Clinical Oral Implants
+Research. 2017;28(10):1258-62.
+61. Antunes LAA, Freire JS, Da Silva GIM, Rodrigues AS, Antunes LDS. Assessment
+of oral health-related quality of life in adolescents, young adults, and adults with
+dental agenesis: a comparative study. Special Care in Dentistry. 2019;39(6):587-92.
+62. Kotecha S, Turner PJ, Dietrich T, Dhopatkar A. The impact of tooth agenesis
+on oral health-related quality of life in children. Journal of Orthodontics.
+2013;40(2):122-9.
+ong ey
+sanaener
+Stanton

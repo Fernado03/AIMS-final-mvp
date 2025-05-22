@@ -1,0 +1,133 @@
+.summary-container1 { 
+  width: 100%;
+  height: auto; 
+  min-height: 100vh; 
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start; 
+
+}
+
+/* This is the main content area below the header for summary */
+.summary-container2 {
+  width: 100%;
+  display: flex;
+  overflow: hidden; 
+  align-items: center;
+  flex-direction: column;
+  padding-top: var(--dl-layout-space-sixunits); /* Space for fixed header */
+  padding-bottom: var(--dl-layout-space-sixunits); /* Space for footer */
+  flex-grow: 1; /* Allow this container to grow and push footer down */
+}
+ 
+.summary-card {
+  width: 709px; /* Original width */
+  max-width: 90%; /* Ensure it's responsive on smaller screens */
+ /* height: 769px; Removed fixed height */
+  display: flex;
+  padding: var(--dl-layout-space-tripleunit);
+  z-index: 1;
+  box-shadow: 0 8px 26px -4px hsla(0,0%,8%,.15),0 8px 9px -5px hsla(0,0%,8%,.06)!important;
+  /* margin-top: 125px; Will be handled by padding in summary-container2 */
+  align-items: flex-start; /* Align content to start */
+  border-radius: var(--dl-layout-radius-radius1);
+  animation-name: bounce; /* Consider if this animation is still desired */
+  flex-direction: column;
+  animation-delay: 0s;
+  backdrop-filter: saturate(200%) blur(30px);
+  background-color: hsla(0,0%,100%,.8);
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+}
+ 
+.summary-main {
+  flex: 0 0 auto;
+  width: 100%;/* height: 100%; Let content dictate height */
+  display: flex;
+  z-index: 0; 
+  position: relative; 
+  max-width: 1320px; 
+  align-items: flex-start; 
+  justify-content: center; 
+}
+
+/* This holds the actual summary text and button */ 
+.summary-container3 { 
+  width: 100%; 
+  display: flex;
+  z-index: 2; 
+  align-items: center; 
+  flex-direction: column;
+}
+
+.summary-text10 { 
+  font-size: 2rem; 
+  line-height: 1.2;
+  margin-bottom: var(--dl-layout-space-unitandahalfunit);
+  background-image: linear-gradient(310deg, rgb(121, 40, 202), rgb(255, 0, 128));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: center;
+}
+
+.summary-text11 { 
+  margin-bottom: var(--dl-layout-space-unit);
+}
+
+#summaryDisplayArea { 
+    white-space: pre-wrap; 
+    background-color: #f8f9fa; 
+    border: 1px solid #ced4da; 
+    padding: 15px; 
+    border-radius: 6px; 
+    min-height: 200px;
+    width: 100%; 
+    margin-top: 10px;
+    text-align: left; 
+}
+
+.transcript3-container10 {
+  width: 100%;
+  height: auto;
+  min-height: 100vh;
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  background-image: url('public/summary-background.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+ 
+@media(max-width: 991px) {
+  .summary-card {
+    width: 90%;
+  }
+
+  .summary-container3 {
+    width: 100%; 
+  }
+}
+ 
+@media(max-width: 767px) {
+  .summary-card {
+    padding: var(--dl-layout-space-doubleunit); 
+  }
+
+  .summary-text10 {
+    font-size: 1.75rem; 
+  }
+}
+ 
+@media(max-width: 479px) {
+  .summary-card {
+    padding: var(--dl-layout-space-unitandahalfunit); /* Further adjust padding */
+  }
+   .summary-text10 {
+    font-size: 1.5rem; 
+  }
+}

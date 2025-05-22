@@ -1,0 +1,1631 @@
+JUNE 2011 MOH/P/PAK/216.11(9U)
+SCREENING OF DIABETIC RETINOPATHY
+STATEMENT OF INTENT
+These clinical practice guidelines (CPG) are meant to be guides for clinical practice, based
+on the best available evidence at the time of development. Adherence to these guidelines
+may not necessarily guarantee the best outcome in every case. Every healthcare provider
+is responsible for the management of his/her unique patient based on the clinical picture
+presented by the patient and the management options available locally.
+These guidelines were issued in 2011 and will be reviewed in 2015 or sooner if new
+evidence becomes available.
+CPG Secretariat
+Health Technology Assessment Section
+Medical Development Division
+Ministry of Health Malaysia
+4th Floor, Block E1, Parcel E
+62590 Putrajaya
+Electronic version available on the following website:
+http://www.moh.gov.my
+http://www.acadmed.org.my
+SCREENING OF DIABETIC RETINOPATHY
+LEVELS OF EVIDENCE SCALE AND GRADES OF RECOMMENDATION
+i
+GUIDELINES DEVELOPMENT AND OBJECTIVE
+ii
+GUIDELINES DEVELOPMENT GROUP
+v
+REVIEW COMMITTEE
+vi
+EXTERNAL REVIEWERS
+viii
+ALGORITHM FOR SCREENING OF DIABETIC RETINOPATHY TO PREVENT BLINDNESS
+ix
+1.
+INTRODUCTION
+1
+2.
+EPIDEMIOLOGY OF DIABETES MELLITUS AND DIABETIC RETINOPATHY
+2
+2.1
+Prevalence and Incidence of Diabetes Mellitus
+2
+2.1.1 Adults
+2
+2.1.2 Children and Adolescents
+2
+2.2
+Prevalence and Incidence of Diabetic Retinopathy
+3
+2.3
+Prevalence of Blindness and Sight Threatening Diabetic Retinopathy
+3
+3
+RISK FACTORS
+4
+4.
+DIABETIC RETINOPATHY GRADING
+5
+5.
+ASSESSMENT OF DIABETIC RETINOPATHY
+7
+5.1
+Screening Tools
+7
+5.1.1 Sensitivity and Specificity of Diabetic Retinopathy Screening Tools
+7
+5.1.2 Agreement between Non-mydriatic Fundus Camera versus
+8
+Ophthalmoscope and Mydriatic Fundus Camera
+5.2
+Automated Diabetic Retinopathy Grading
+8
+5.3
+Pupillary Dilatation
+9
+5.4. Examination and Grading of Diabetic Retinopathy by Healthcare Professionals
+9
+TABLE OF CONTENTS
+SCREENING OF DIABETIC RETINOPATHY
+6.
+EXAMINATION SCHEDULE
+11
+6.1 Timing of First Screening
+11
+6.2 Follow-up Examination Schedule
+13
+6.3 Referral Criteria to Ophthalmologist
+14
+7.
+TREATMENT FOR DIABETIC RETINOPATHY
+15
+7.1 Current Treatment Modalities
+15
+7.2 Modifiable Risk Factors in Reducing Progression of Diabetic Retinopathy
+16
+8.
+IMPLEMENTING THE GUIDELINES
+17
+8.1. Existing Facilitators and Barriers in Applying Recommendations
+17
+8.2. Potential Resource Implications in Applying Recommendations
+18
+REFERENCES
+20
+Appendix 1 SEARCH TERMS
+25
+Appendix 2 CLINICAL QUESTIONS
+26
+Appendix 3 FUNDUS APPEARANCE ACCORDING TO DIABETIC RETINOPATHY STAGES
+27
+Appendix 4 LIST OF HEALTH CLINICS WITH FUNDUS CAMERA IN MINISTRY OF HEALTH 2011
+29
+LIST OF ABBREVIATIONS
+34
+ACKNOWLEDGEMENT
+35
+DISCLOSURE STATEMENT
+35
+SOURCES OF FUNDING
+SCREENING OF DIABETIC RETINOPATHY
+LEVELS OF EVIDENCE
+Level
+Study design
+I
+Evidence from at least one properly randomised controlled trial
+II -1
+Evidence obtained from well-designed controlled trials without
+randomisation
+II-2
+Evidence obtained from well-designed cohort or case-control analytic
+studies, preferably from more than one centre or group
+II-3
+Evidence from multiple time series with or without intervention.
+Dramatic results in uncontrolled experiments (such as the results of
+the introduction of penicillin treatment in the 1940s) could also be
+regarded as this type of evidence
+III
+Opinions of respected authorities based on clinical experience;
+descriptive studies and case reports; or reports of expert committees
+SOURCE: US / CANADIAN PREVENTIVE SERVICES TASK FORCE
+GRADES OF RECOMMENDATION
+A
+At least one meta analysis, systematic review, or RCT, or
+evidence rated as good and directly applicable to the target
+population
+B
+Evidence from well conducted clinical trials, directly applicable
+to the target population, and demonstrating overall consistency
+of results; or evidence extrapolated from meta analysis,
+systematic review, or RCT
+C
+Evidence from expert committee reports, or opinions and /
+or clinical experiences of respected authorities; indicates
+absence of directly applicable clinical studies of good quality
+SOURCE: MODIFIED FROM THE SCOTTISH INTERCOLLEGIATE GUIDELINES NETWORK (SIGN)
+Note: The grades of recommendation relates to the strength of the evidence on
+which the recommendation is based. It does not reflect the clinical importance of
+the recommendation.
+SCREENING OF DIABETIC RETINOPATHY
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+GUIDELINES DEVELOPMENT
+The Development Group for these Clinical Practice Guidelines (CPG) was from
+the Ministry of Health (MOH) and Ministry of Higher Education. They consisted
+of ophthalmologists, a paediatrician, an obstetrician & gynaecologist, a public
+health physician, a family medicine specialist, an optometrist, an assistant
+medical officer and a nursing sister. There was active involvement of the Review
+Committee during the process of development of these guidelines.
+Literature search was carried out at the following electronic databases: Guidelines
+International Network (G-I-N); Centre for Reviews and Dissemination (CRD);
+PubMed; Ovid Medline, EBM Reviews - Cochrane Database of Systemic Reviews,
+EBM Reviews - Health Technology Assessment, Journals full text via OVID search
+engine (refer to Appendix 1 for Search Terms). In addition, the reference lists
+of all retrieved articles were searched to identify relevant studies. Experts in the
+field were also contacted to identify further studies. All searches were conducted
+between September 2009 and January 2011. Future CPG updates will consider
+evidence published after this cut-off date. The details of the search strategy can
+be obtained upon request from the CPG Seretariat.
+Reference was also made to other guidelines on Diabetic Retinopathy such as
+The American Academy of Ophthalmology Preferred Practice Pattern Diabetic
+Retinopathy (2008) and National Health and Medical Research Council (NHMRC)
+Australia Guidelines for the Management of Diabetic Retinopathy (2008). These
+CPGs were evaluated using the Appraisal of Guidelines for Research and
+Evaluation (AGREE) prior to them being used as references.
+The clinical questions were developed under three major subtopics and members
+of the Development Group were assigned individual questions within these
+subtopics (refer to Appendix 2 for Clinical Questions). The group members met
+a total of 16 times throughout the development of these guidelines. All literature
+retrieved was appraised by at least two members and presented in the form
+of evidence tables and discussed during Development Group meetings. All
+statements and recommendations formulated were agreed upon by both the
+Development Group and Review Committee. Where evidence was insufficient,
+the recommendations were made by consensus of both groups. These CPG are
+based largely on the findings of systematic reviews, meta-analyses and clinical
+trials, with local practices taken into consideration.
+SCREENING OF DIABETIC RETINOPATHY
+The articles were graded using the US/Canadian Preventive Services Task Force
+Level of Evidence (2001), while the grading of recommendation in these guidelines
+was modified from grades of recommendation of the Scottish Intercollegiate
+Guidelines Network (SIGN).
+The draft guidelines were posted on the MOH Malaysia official website for
+comment and feedback. It had also been presented to the Technical Advisory
+Committee for CPG and the HTA-CPG Council, MOH Malaysia for review and
+approval.
+SCREENING OF DIABETIC RETINOPATHY
+OBJECTIVE
+The objective of these CPG is to provide evidence-based recommendations in the
+screening of Diabetic Retinopathy. This would prevent or reduce the risk of visual
+loss, thereby maintaining or improving vision-related quality of life.
+CLINICAL QUESTIONS
+Refer to Appendix 2
+TARGET POPULATION
+All patients with Diabetes Mellitus including children and pregnant women
+TARGET GROUP/USER
+These guidelines are applicable to all healthcare professionals who are involved
+in the screening of Diabetic Retinopathy:-
+• Nurses/Assistant Medical Officers
+• Family Medicine Specialists
+• Optometrists
+• General Practitioners/Medical Officers
+• Physicians/ Paediatricians/ Obstetricians & Gynaecologists/ Endocrinologists
+• Diabetic Support Groups
+• Ophthalmologists
+HEALTHCARE SETTING
+Outpatient, inpatient and community settings
+SCREENING OF DIABETIC RETINOPATHY
+GUIDELINES DEVELOPMENT GROUP
+Chairperson
+Dr. Hajjah Nor Fariza Ngah
+Consultant Ophthalmologist
+Hospital Selayang
+Selangor
+Members (alphabetical order)
+Dr. Ang Ee Ling
+Ophthalmologist
+Hospital Pulau Pinang
+Pulau Pinang
+Dr. Bavanandan Naidu Gopal
+Maternal Fetal Medicine Consultant
+Hospital Sultanah Bahiyah
+Kedah
+Ms. Loong Ah Moi
+Nursing Sister
+Health Technology Assessment Section
+Ministry of Health Malaysia
+Dr. Mohamad Aziz Salowi
+Ophthalmologist
+Hospital Umum Sarawak
+Sarawak
+Dr. Maziah Ishak
+Family Medicine Specialist
+Klinik Kesihatan Cheneh
+Terengganu
+Dr. Mohd. Aminuddin Mohd. Yusof
+Public Health Physician
+Health Technology Assessment Section
+Ministry of Health Malaysia
+Mdm. Nor Azizah Ismail
+Optometrist
+Hospital Sungai Buloh
+Selangor
+Mr. Nik Mohd Kamil Nik Salleh
+Assistant Medical Officer
+Seremban Health Office
+Negeri Sembilan
+Dr. Roslin Azni Abd. Aziz
+Ophthalmologist
+Hospital Selayang
+Selangor
+Dr. Shelina Oli Mohamed
+Ophthalmologist
+Hospital Selayang
+Selangor
+Dr. Ting Tzer Hwu
+Paediatric Endocrinologist
+Universiti Putra Malaysia
+Selangor
+Dr. Hajjah Zuraidah Haji Mustari
+Senior Consultant Ophthalmologist
+Hospital Sultanah Nur Zahirah
+Terengganu
+SCREENING OF DIABETIC RETINOPATHY
+REVIEW COMMITTEE
+The draft guidelines were reviewed by a panel of independent expert referees
+from both public and private sectors including non-governmental organisation and
+patient advocate, who were asked to comment primarily on the comprehensiveness
+and accuracy in the interpretation of evidence supporting the recommendations
+in the guidelines.
+Chairperson
+Dr. Bethel Livingstone
+Senior Consultant Ophthalmologist
+Hospital Tuanku Ja’afar
+Negeri Sembilan
+Members (alphabetical order)
+Dato’ Dr. Hj. Ahmad Razin Dato’ Hj. Ahmad Mahir
+State Health Director
+State Health Department
+Perak
+Dr. Anusiah Selvathurai
+Senior Consultant Ophthalmologist
+Hospital Malacca
+Malacca
+Dr. Angela Loo Voon Pei
+Lecturer & Consultant Ophthalmologist
+University Malaya Medical Centre
+Kuala Lumpur
+Dr. Chin Pik Kee
+Consultant Ophthalmologist
+Sunway Medical Centre
+Selangor
+Dr. Fatanah Ismail
+Public Health Physician
+Family Health Development Division
+Department of Public Health
+Ministry of Health Malaysia
+Dr. Fuziah Md Zain
+Consultant Paediatric Endocrinologist
+Hospital Putrajaya
+Putrajaya
+SCREENING OF DIABETIC RETINOPATHY
+Dr. Goh Pik Pin
+Director
+Clinical Research Centre
+Kuala Lumpur
+Dr. Lim Kian Seng
+Consultant Opthalmologist & Vitreoretinal Surgeon
+ISEC Sdn. Bhd.
+Kuala Lumpur
+Dr. Mariam Ismail
+Senior Consultant Ophthalmologist
+Hospital Selayang
+Selangor
+Mr. Murphy Chan Hian Kee
+Optometrist
+H.K.Chan Optometrist Sdn. Bhd.
+Malacca
+Datin Dr. Rugayah Bakri
+Deputy Director
+Health Technology Assessment Section
+Medical Development Section
+Ministry of Health Malaysia
+Dr. Vijay Ananda A/L K. Paramasvaran
+Representative
+Malaysian Diabetes Association
+Prof. Dato’ Dr. Wan Mohamad Wan Bebakar
+Senior Lecturer & Senior Consultant Endocrinologist
+Hospital Universiti Sains Malaysia
+Kelantan
+Dr. Zunaina Embong
+Senior Lecturer & Consultant Ophthalmologist
+Hospital Universiti Sains Malaysia
+Kelantan
+Dr. Zanariah Hussein
+Consultant Endocrinologist
+Hospital Putrajaya
+Putrajaya
+SCREENING OF DIABETIC RETINOPATHY
+EXTERNAL REVIEWERS (alphabetical order)
+The following External Reviewers provided feedback on the draft:
+Dr. Ang Ee Lee
+Paediatrician
+Hospital Kuala Lumpur
+Kuala Lumpur
+Dr. Mastura Ismail
+Family Medicine Specialist
+Klinik Kesihatan Seremban 2
+Negeri Sembilan
+Dr. Dennis Kong
+Consultant Ophthalmologist
+Normah Medical Specialist Centre
+Sarawak
+Mdm. Mazita Mahmud
+Optometrist
+Hospital Kemaman
+Terengganu
+Dr. Noor Haliza Yusoff
+Consultant Obstetrics & Gynaecology
+Hospital Kuala Lumpur
+Kuala Lumpur
+Mr. Michael Anthonysamy
+Assistant Medical Officer
+Jabatan Kesihatan Wilayah Persekutuan
+Kuala Lumpur
+Dr. Kamilah Mohamed
+Family Medicine Specialist
+Klinik Kesihatan Bukit Payong
+Terengganu
+Assoc. Prof. Dr. Prut Hanutsaha
+Senior Lecturer & Consultant Ophthalmologist
+Faculty of Medicine
+Ramathibodi Hospital, Bangkok, Thailand
+Assoc. Prof. Dr. Kenneth Fong Choong Sian
+Lecturer and Consultant Ophthalmologist
+Faculty of Medicine
+University of Malaya
+Dato’ Dr. Ravindran Jegasothy
+Senior Consultant Obstetrics & Gynaecology
+Hospital Kuala Lumpur
+Kuala Lumpur
+Dr. Lai Yoon Kee
+Consultant Ophthalmologist & Vitreo-Retinal Surgeon
+Gleaneagles Medical Centre
+Penang
+Dr. Tunde Peto
+Consultant Ophthalmologist
+Moorefield Eye Centre
+London, United Kingdom
+SCREENING OF DIABETIC RETINOPATHY
+Register all patients with diabetes
+Assess and record visual acuity (VA)
+Arrange for fundus photography/
+ophthalmoscopy
+Perform fundus photography/
+complete fundus assessment
+Ability to view/
+grade fundus
+• No Diabetic Retinopathy (DR)
+• Mild Non-Proliferative Diabetic
+Retinopathy (NPDR) without
+diabetic maculopathy
+• Moderate NPDR without
+diabetic maculopathy
+• Severe NPDR or worse
+•Any diabetic maculopathy
+regardless of DR stages
+Follow-up
+Refer Ophthalmologist
+No
+Yes
+ALGORITHM FOR SCREENING OF DIABETIC RETINOPATHY TO PREVENT BLINDNESS
+SCREENING OF DIABETIC RETINOPATHY
+1.0 INTRODUCTION
+Diabetes Mellitus (DM) is an important public health concern. Globally there
+is a rising trend in the prevalence of DM due to many factors such as aging,
+urbanisation and increasing prevalence of obesity and physical inactivity. The
+International Diabetes Federation (IDF) predicts that the prevalence of DM in
+South East Asia will increase by two folds by the year 2025.1, level III The World Health
+Organization (WHO) has estimated that in the year 2030, Malaysia would have a
+total of 2.48 million people with DM.2, level III In Malaysia, the first National Health
+and Morbidity Survey I (NHMS I) conducted in 1986 reported a DM prevalence
+of 6.3%. This had risen to 8.3% in the NHMS II 1996 report. In the latest NHMS
+III 2006 report, the overall prevalence of DM was 11.6% and 14.9% in those
+aged above 18 and 30 years respectively. NHMS I and II involved subjects aged
+above 30 years while NHMS III was conducted among subjects above 18 years of
+age.3, level III
+DM is a complex disease with end organ complications. However, good control
+of DM will prevent the onset or retard progression of the various complications
+including diabetic retinopathy (DR). In Malaysia, diabetic eye disease is the
+commonest cause of visual loss among adults of working age. Prevalence of
+DR is closely linked to the duration of DM. At diagnosis, less than 5% will have
+retinopathy while the prevalence rises to 40 - 50% after 10 years. Almost all
+patients with type 1 diabetes mellitus (T1DM) and more than 60% patients with
+type 2 diabetes mellitus (T2DM) have some degree of retinopathy after 20 years
+of the disease.2, level III Screening and early treatment can prevent substantial visual
+loss in many cases. Late presentation continues to be a major challenge of
+prevention and alleviation of blindness.
+DM prevalence in Malaysia has dramatically risen to almost twice in the
+magnitude over the last decade. In view of this, efforts to control this chronic
+disease and early detection of complications such as DR should be intensified.
+This is important as DR is asymptomatic in its early stage when it is most easily
+amenable to treatment.
+Therefore, a DR screening programme must be comprehensive, covering all
+individuals with DM in Malaysia.
+SCREENING OF DIABETIC RETINOPATHY
+2. EPIDEMIOLOGY OF DIABETES MELLITUS AND DIABETIC
+RETINOPATHY
+WHO estimates that the global prevalence of DM will increase from 2.8% to 4.4%
+from the year 2000 to 2030.4, level III Due to its chronicity, severity of complication
+and complexity of management, DM is a costly disease both for the affected
+individuals and the health sector as a whole.
+DR is the leading cause of blindness and visual disability in adults of economically
+developed societies in the Western Pacific Region.1, level III Its prevalence is closely
+linked to the duration of DM and varies among nations and ethnicity.5, level III
+2.1 Prevalence and Incidence of Diabetes Mellitus
+2.1.1 Adults
+The prevalence of DM among those aged more than 30 years in Malaysia has
+increased alarmingly from 6.3% (1986) to 8.3% (1996) and 14.9% in 2006.
+There was also an increasing trend in the prevalence with age (2.0% among
+those aged 18 - 19 years to 20.8 - 26.2% among aged 50 - 64 years). Based
+on ethnicity, Indians have the highest prevalence followed by Malays and
+Chinese.3, level III Among those with DM for more than 15 years, approximately 2%
+became blind and 10% developed severe visual handicap.1, level III
+It has been recommended that all DM patients should have at least a yearly
+eye examination.6, level III However, the NHMS III 2006 reported that only 45% of
+patients with known DM ever had an eye examination.3, level III
+2.1.2 Children and Adolescents
+T1DM accounts for over 90% of childhood and adolescent diabetes in most
+western countries.7, level III The incidence of T1DM is on the increasing trend
+worldwide. The average annual increase is 4% in Asia, 3.2% in Europe and 5.3 %
+in North America.8, level III In the Asian population, T2DM occurs at a much greater
+prevalence ranging between 50% and 90%.9, level III
+SCREENING OF DIABETIC RETINOPATHY
+According to the Diabetes in Children and Adolescents Registry from April 2006
+to June 2007, T1DM (69.2%) was more common than T2DM (17.5%).10, level III
+However there is no available data on the prevalence of DM in children and
+adolescents in Malaysia.
+2.2 Prevalence and Incidence of Diabetic Retinopathy
+DR is a leading complication of DM. The prevalence of DR worldwide ranges from
+6.8 to 44.4% in patients with diabetes mellitus.11 - 15, level III
+In Malaysia, the prevalence of DR from the 2007 Diabetic Eye Registry was
+36.8%16, level III which was comparable to the prevalence of 35% found in the
+Singapore Malay Eye Study 2006.5, level III Other unpublished local data obtained
+from primary care screening centres showed a prevalence ranging between
+12.3% and 16.9%.17 - 18, level III
+In a study conducted in New South Wales, Australia, the prevalence of early DR
+in children less than 11 years was 8% as compared to 25% of adolescents older
+than 11 years.19, level II-2 However, there is no retrievable data on the prevalence of
+DR in children and adolescents in Malaysia.
+2.3 Prevalence of Blindness and Sight Threatening Diabetic Retinopathy
+The prevalence of sight threatening DR ranges from 4.0 to 22.2%.5, level III;
+20 - 21, level III; 22, level II-2; 23 - 24, level III In Malaysia, the National Eye Database (NED) 2007
+and 2008 reported that the proportion of patients with sight threatening DR was
+15.6% and 11.5% respectively. The proportion of patients with blindness was
+9.0%.16, level III
+SCREENING OF DIABETIC RETINOPATHY
+3. RISK FACTORS
+There are many risk factors for DR. The duration of DM is significantly associated
+with the development and severity of DR with odds ratio (OR) ranging from 1.07
+to 8.62.5, level III; 20 - 21, level III; 23, level III, 25
+Significant systemic risk factors include hypertension and high HbA1c, systolic
+blood pressure (SBP), pulse pressure, serum lipoprotein level and body mass
+index (BMI).5, level III; 20 - 21, level III; 22, level II-2; 23 - 24, level III; 25; 26, level III Other documented risk
+factors include renal disease/nephropathy, genetic factors, high waist-hipratio (abdominal obesity), upper socioeconomic status, urban residence,
+higher plasma total homocysteine level, male gender, insulin treatment
+and pregnancy.20, level III; 23 - 24, level III ; 25; 27, level III
+The risk factors for sight threatening DR are chronic kidney disease (OR=4.45,
+95% CI 2.18 to 9.07), previous stroke (OR=3.74, 95% CI 1.24 to 11.26),
+cardiovascular disease (OR=2.23, 95% CI 1.08 to 4.62),5, level III duration of DM
+(OR=1.38, 95% CI 1.02 to 1.87)21, level III and hypercholesterolemia.25
+Recommendation
+•
+Screening for diabetic retinopathy should be done in all patients with
+diabetes mellitus. (Grade C)
+SCREENING OF DIABETIC RETINOPATHY
+4. DIABETIC RETINOPATHY GRADING
+To improve communication worldwide between ophthalmologists and primary
+healthcare providers in managing patients with DM, an international clinical
+disease severity scale was developed for DR and Diabetic Macula Oedema
+(DME) (refer to Table 1). This scale is based on the Early Treatment for Diabetic
+Retinopathy Study (ETDRS) Classification of DR and on the data collected in
+clinical trials and epidemiologic studies of DR.
+Table 1: International Clinical Diabetic Retinopathy
+and Diabetic Macula Oedema Disease Severity Scale
+Retinopathy Stage
+Findings on Ophthalmoscopy
+No apparent retinopathy
+No abnormalities
+Mild non-proliferative DR
+(NPDR)
+Microaneurysms only
+Moderate NPDR
+More than just microaneurysms but less
+than severe NPDR
+Severe NPDR
+Any of the following:
+1. More than 20 intraretinal haemorrhages
+in each of 4 quadrants
+2. Definite venous beading in 2 or more
+quadrants
+3. Prominent intraretinal microvascular
+abnormalities in 1 or more quadrants AND
+no signs of proliferative retinopathy
+Proliferative DR (PDR)
+One of the following:
+1. Neovascularisation
+2. Vitreous/preretinal haemorrhage
+Advanced Diabetic Eye Disease
+(ADED)
+One of the following:
+1. Formation of fibrovascular tissue
+proliferation
+2. Traction retinal detachment due to
+formation of posterior vitreous detachment
+3. Dragging of retinal/distortion
+4. Rhegmatogenous retinal detachment
+SCREENING OF DIABETIC RETINOPATHY
+Macula Oedema
+Findings on Ophthalmoscopy
+Absent
+No retinal thickening or hard exudates in
+posterior pole
+Present
+•
+Mild – some retinal thickening or
+hard exudates in posterior pole but
+distant from the macula
+•
+Moderate – retinal thickening
+or hard exudates approaching
+the centre of the macula but not
+involving the centre
+•
+Severe – retinal thickening or hard
+exudates involving the centre of the
+macula
+Source:
+Wilkinson CP, Ferris FL III, Klein RE, et al. Proposed international clinical diabetic retinopathy and
+diabetic macular edema disease severity scales. Ophthalmology 2003; 110:1679-80
+Examples of fundus appearance according to DR Stages are shown in Appendix 3.
+SCREENING OF DIABETIC RETINOPATHY
+5. ASSESSMENT OF DIABETIC RETINOPATHY
+A variety of screening modalities are available in detecting and classifying DR.
+Ophthalmoscopy is the most commonly used technique to screen for DR.
+However, non-mydriatic digital fundus photography is now being widely used.
+There is a wide variation in the sensitivities and specificities of different screening
+modalities performed by different screeners.
+5.1 Screening Tools
+The instruments that can be used for screening are:
+•
+Direct ophthalmoscope
+•
+PAN-ophthalmoscope
+•
+Binocular indirect ophthalmoscope (BIO)
+•
+Slit lamp biomicroscope
+•
+Mydriatic fundus camera
+•
+Non-mydriatic fundus camera
+5.1.1 Sensitivity and Specificity of Diabetic Retinopathy Screening Tools
+The UK National Institute for Clinical Excellence (NICE) recommends that DR
+screening modalities should have a sensitivity of at least 80%, a specificity of at
+least 95% and a technical failure rate of no greater than 5%.28
+Table 2 describes the diagnostic accuracy of different screening tools. Nonmydriatic fundus camera has high sensitivity and specificity. It eliminates the
+need for pupillary dilatation, promoting compliance, efficiency and safety. The
+findings by Aptel F et al showed that at least one field photo assessment was
+sufficient to detect DR. However, the Training Module for DR Screening in Malaysia
+recommends two fields photo assessment.29, level III
+SCREENING OF DIABETIC RETINOPATHY
+Table 2: Sensitivity and Specificity of DR Screening Tools
+Screening tool
+Sensitivity
+Specificity
+Direct ophthalmoscope25
+45.0 - 98.0%
+62.0 - 100%
+Slit lamp biomicroscope30, level II-2
+87.4%
+94.9%
+Mydriatic fundus camera25
+73.0 - 96.0%
+68.0 - 99.0%
+Non-mydriatic fundus camera31, level II-2
+92.0%
+97.0%
+5.1.2 Agreement between Non-mydriatic Fundus Camera versus
+Ophthalmoscope and Mydriatic Fundus Camera
+As a screening tool, non-mydriatic fundus camera has good inter-rater reliability with
+ophthalmoscope (κ=0.90)31, level II-2 and mydriatic fundus camera (κ=0.80).32, level I
+Recommendation
+•
+Non-mydriatic fundus camera should be used as a screening tool for
+diabetic retinopathy (DR) when possible. (Grade A)
+o Two fields fundus photo assessment should be done. (Grade C)
+•
+When there is no access to fundus camera, ophthalmoscope should be
+used for screening of DR. (Grade C)
+5.2 Automated Diabetic Retinopathy Grading
+Automated grading of DR is a growing research field aimed at decreasing
+the burden of grading. Various individual softwares have been
+developed.33 - 34, level II-2; 35 - 36, level III However, further evaluation and validation is
+required for local use.
+SCREENING OF DIABETIC RETINOPATHY
+5.3 Pupillary Dilatation
+Non-mydriatic fundus photography generally does not require pupil dilatation if
+performed in an adequately darkened room. However, in cases of small pupil and
+ungradable photos, pupillary dilatation can increase the sensitivity of screening
+by over 50%. Those performing DR screening should be aware of the possibility
+of inducing acute angle closure glaucoma in high risk individuals (history of
+glaucoma and shallow anterior chamber). The use of tropicamide 1% alone has
+not been reported to cause this complication.37, level III
+Those intending to use tropicamide 1% should be aware of the possible side effects.
+Recommendation
+•
+Tropicamide 1% should be used for pupillary dilatation in selected cases
+by trained personnel. (Grade C)
+5.4. Examination and Grading of Diabetic Retinopathy by Healthcare
+Professionals
+The screening and grading of DR can be performed with high accuracy by:38 - 42, level III
+•
+Doctors (family medicine specialists, general practitioners and medical
+officers)
+•
+Optometrists
+•
+Assistant medical officers and nurses
+All healthcare personnel need proper training before they can be privileged for
+DR screening so as to increase the interpretation and grading accuracy. Studies
+have shown that the sensitivity and specificity of interpretation increased after
+training.38 - 39, level III; 41, level III Jackson CL et al reported that brief training intervention
+had increased the accuracy of interpretation from 24% to 94%.41, level III In
+another study, trained primary care clinicians showed appropriate referral to the
+ophthalmologist with a sensitivity of 89.8% and a specificity of 93%.38, level III
+SCREENING OF DIABETIC RETINOPATHY
+Retinal screeners and graders require specific training, accreditation and regular
+performance assessment. Training module should include:
+• Clinical knowledge and skills
+• Imaging and computer skills
+• Operational issues
+• Fundus grading
+A Training Steering Group has been established by the Ministry of Health (MOH)
+Malaysia. This group has produced a training manual and developed a training
+curriculum.29 The MOH has accredited the training curriculum and training
+materials. Training should be adapted to the local setting to enable the trainees to
+handle available and relevant equipments.
+Recommendation
+• All diabetic retinopathy (DR) screeners must undergo appropriate and
+standardised training as per DR screening training module. (Grade C)
+SCREENING OF DIABETIC RETINOPATHY
+6. EXAMINATION SCHEDULE
+Early detection of sight threatening retinopathy by regular examination is the
+key to reduce visual loss and blindness from DR. Due to the sight threatening
+potential of DR and the availability of methods to slow down the rate of disease
+progression, a proper screening at an appropriate time is recommended.25
+6.1 Timing of First Screening
+The initial fundus examination for DR varies according to the types of DM:
+•
+Adults T1DM
+Adults with T1DM should have their first screening within three to five
+years after the initial diagnosis.43; 44, level III
+•
+Adults T2DM
+The time of onset of T2DM is often difficult to determine and may
+precede the diagnosis by a number of years. Therefore, patients should
+have their first fundus examination at the time of diagnosis.43; 44, level III
+•
+Pregnant Women with Pre-existing DM
+DR can worsen during pregnancy because of changes in metabolic
+status. Individuals with DM planning for pregnancy should have their
+eyes examined prior to conception and counselled on the risk of
+development and progression of DR.25; 43
+• Gestational DM (GDM)
+GDM is an abnormal glucose intolerance first detected during pregnancy.
+In general, DR screening is not required for GDM.25; 43 However, if GDM
+is diagnosed in the first trimester of pregnancy, screening should be as
+per pre-existing DM.
+SCREENING OF DIABETIC RETINOPATHY
+• Children and Adolescents
+Incidence of DR in young children is negligibly small and therefore children
+younger than 9 years old do not require screening for DR.45, level III International
+Society for Paediatric & Adolescent Diabetes (ISPAD) Clinical Practice
+Consensus Guidelines 2009 recommends timing of first screening as
+follows:46, level III
+a) T1DM:
+•
+At age 9 years with 5 years of diabetes duration
+•
+At age 11 years with 2 years of diabetes duration
+b) T2DM:
+• At the time of diagnosis
+Recommendation
+•
+First screening for diabetic retinopathy (DR) should be done at:
+o Adults type 1 diabetes mellitus (T1DM) - up to 3 years after diagnosis
+o Adults type 2 diabetes mellitus (T2DM) - at time of diagnosis
+o Pregnant women with
+i.
+Pre-existing diabetes mellitus (DM) - prior to planned pregnancy
+ii.
+Gestational DM (GDM) diagnosed in the first trimester
+- at the time of diagnosis. Otherwise not required.
+o Children T1DM
+i. At age 9 years with 5 years of DM duration
+ii. At age 11 years with 2 years of DM duration
+o Children T2DM - at time of diagnosis (Grade C)
+SCREENING OF DIABETIC RETINOPATHY
+6.2 Follow-up Examination Schedule
+Individuals with DM should be screened at least every two years. High risk
+individuals (longer duration of diabetes or poor control of blood sugar, blood
+pressure or serum lipid) should be examined at least annually.25
+The examination should include:
+•
+Visual acuity assessment (Snellen chart and equivalent)
+•
+Fundus photography or dilated fundus examination
+Individuals with any signs of NPDR should be examined at 6 - 12 monthly
+intervals. Earlier follow-up may be required in: 43; 44, level III
+•
+High risk groups
+•
+Presence of renal complications
+•
+progression of DR
+The recommended intervals for eye examination for patients with DM are provided
+in Table 3.
+Table 3: Recommended Follow-up Schedule
+Stage of Retinopathy
+Follow-Up
+No DR
+12 - 24 months
+Mild NPDR without maculopathy
+9 - 12 months
+Moderate NPDR without maculopathy
+6 months
+Mild/Moderate NPDR with maculopathy
+Refer to Ophthalmologist
+Severe NPDR without maculopathy
+Any maculopathy
+Proliferative DR
+Refer urgently to
+Ophthalmologist
+Advanced Diabetic Eye Disease (ADED)
+No DR to Mild NPDR In Pregnant Women
+Every 3 months
+Moderate NPDR or Worse In Pregnant Women
+Refer to Ophthalmologist
+Sources:
+1.
+American Academy of Ophthalmology Retina Panel. Preferred Practice Pattern Guidelines. Diabetic
+Retinopathy. San Francisco, CA: American Academy of Ophthalmology; 2008
+2.
+Ministry of Health Malaysia. Diabetic Retinopathy. Kuala Lumpur: MOH; 1997
+SCREENING OF DIABETIC RETINOPATHY
+6.3 Referral Criteria to Ophthalmologist
+The ultimate aim for screening of DR is to detect sight threatening DR and to
+ensure timely treatment in order to prevent vision loss. Appropriate referral to the
+ophthalmologist should be done.
+Criteria for referral are:28
+•
+Any level of Diabetic Maculopathy
+•
+Severe NPDR
+•
+Any PDR
+•
+Unexplained visual loss
+•
+If screening examination cannot be performed including ungradable
+fundus photo
+The urgency of referral is as shown in Table 4.
+Table 4: Criteria for Urgent Referral
+Urgency of referral
+Ocular features
+Emergency (same day referral)
+•
+Sudden severe visual loss
+•
+Symptoms or signs of acute retinal
+detachment
+Within 1 week
+•
+Presence of retinal new vessels
+•
+Preretinal haemorrhage
+•
+Vitreous haemorrhage
+•
+Rubeosis iridis
+Within 4 weeks
+•
+Unexplained drop in visual acuity
+•
+Any form of maculopathy
+•
+Severe NPDR
+•
+Worsening retinopathy
+Source:
+National Institute for Clinical Excellence. Management of Type 2 diabetes. Retinopathy screening
+and early management London: NICE; 2002
+Recommendation
+•
+Examination schedule and urgency of referral to an ophthalmologist
+should be based on the grade and severity of diabetic retinopathy as well
+as the presence of risk factors. (Grade C)
+SCREENING OF DIABETIC RETINOPATHY
+7.0 TREATMENT FOR DIABETIC RETINOPATHY
+7.1 Current Treatment Modalities
+Early detection of DR is important as it is reversible. There are many treatment
+modalities available (refer to Table 5). Laser photocoagulation remains the
+standard practice for treating DR. Stages of DR which require treatment includes
+severe NPDR, PDR, ADED and DME.
+Table 5: Summary of Treatment for Diabetic Retinopathy
+Stage of DR
+Mode of Treatment
+DME
+• Laser - focal/ grid
+• Intraocular steroids*
+• Intraocular anti-vascular endothelial growth factor (anti-VEGF)*
+Severe NPDR
+• Laser - scattered pan-retinal photocoagulation (PRP)
+PDR
+• Laser - PRP
+ADED
+• Intraocular steroids
+• Intraocular anti-vascular endothelial growth factor (anti-VEGF)
+• Vitrectomy
+*For refractory DME
+SCREENING OF DIABETIC RETINOPATHY
+7.2 Modifiable Risk Factors in Reducing Progression of Diabetiic Retinopathy
+The mainstay of current treatment involves risk factor modification by controlling
+blood glucose, blood pressure and serum lipids as shown in Table 6. Potential
+alternative therapeutic approaches that directly target diabetic microvascular
+complications include:25; 47
+•
+antiplatelet agents
+•
+advanced glycation end (AGE) product inhibitors
+•
+aldose reductase inhibitors (ARIs)
+•
+protein kinase C (PKC) inhibitors
+•
+angiotensin converting enzyme (ACE) inhibitors
+•
+fenofibrate
+Table 6: Target Level of Modifiable Risk Factors in Adults
+Risk factor
+Target level
+Glycaemic Control
+•
+Fasting
+•
+Non-fasting
+•
+HbA1C
+4.4 - 6.1 mmol/L
+4.4 - 8.0 mmol/L
+<6.5%
+Blood Pressure
+•
+Normal Renal Function
+•
+Renal Impairment/ micro- or macroalbuminuria
+≤130/80 mmHg
+≤120/75 mmHg
+Lipids
+•
+Trigylcerides
+•
+HDL cholesterol
+•
+LDL cholesterol
+≤1.7 mmol/L
+≥1.1 mmol/L
+≤2.6 mmol/L
+Source:
+Ministry of Health Malaysia. Management of Type 2 Diabetes Mellitus (Fourth Edition). Putrajaya:
+MOH; 2009
+Other modalities of risk factor modification include diet, exercise and stop smoking.48
+SCREENING OF DIABETIC RETINOPATHY
+8.0 IMPLEMENTING THE GUIDELINES
+This chapter provides advice on the resource implications associated with implementing
+the key recommendations and advice on proposed clinical audit indicators for quality
+management to aid implementation.
+Implementation of these CPG is an essential part of clinical governance. It should
+cater to the local individual hospitals, health clinics and community based on both
+economic and non-economic considerations. Mechanisms should be in place to
+review the existing healthcare system as compared to the CPG recommendations.
+Any differences should be assessed and addressed appropriately.
+Important issues that should be considered when implementing these CPG in
+Malaysia are:-
+•
+establishment of a screening programme
+•
+proper DR database
+•
+adequate training and privileging of screeners and graders
+•
+availability of screening tools
+•
+co-ordinated referral system & availability of resources for necessary treatment
+8.1 Existing Facilitators and Barriers in Applying Recommendations
+The implementation of the CPG will be facilitated by the existing DR Screening
+Training Module of the MOH Malaysia. The module has been established since
+2008 and involves the training of family medicine specialists, medical officers,
+optometrists, assistant medical officers and nurses. However, the Development
+Group will ensure that the contents of this training module will be in tandem with
+the recommendations in the CPG.
+There are three barriers in applying recommendations of the CPG in the local context:
+i. Patient factors
+•
+Lack of awareness of the possible complications of DM to the eye as DR
+may remain asymptomatic
+•
+Poor access to eye care services
+•
+Different cultural beliefs
+ii. Healthcare professional factors
+•
+Limited knowledge and/or poor attitude
+•
+Limited resources
+•
+High turnover of trained screeners and graders
+•
+Lack of utilisation of screening tools
+SCREENING OF DIABETIC RETINOPATHY
+iii. Health services factors
+•
+Lack of linkages between services and providers
+•
+Lack of recalls or reminders for defaulters
+•
+Long waiting list for first screening and referral to see ophthalmologist
+•
+Lack of optimisation of fundus cameras
+With the availability of these national evidence-based CPG, the current
+nation-wide screening programme will be strengthened to prevent blindness
+among those with DM.
+8.2 Potential Resource Implications in Applying Recommendations
+In implementing the CPG, the Development Group recommends strengthening of
+the existing training module on DR screening. Financial allocation is proposed to
+individual hospitals, health clinics and communities to achieve adequate access
+to eye screening.
+In view of the low percentage of DM patients screened for DR annually,3, level III the
+development group proposes the following clinical audit indicators for quality
+management as part of ensuring the implementation of recommendations in the
+CPG:-
+• Percentage of T2DM
+patients screened for
+DR for the first time
+=
+Number of T2DM patients screened
+for DR for the first time within a year
+x 100%
+Total number of newly registered
+T2DM patients within the same year
+• Percentage of
+ungradable
+fundus photo
+=
+Number of patients with ungradable
+fundus photo within a year
+x 100%
+Total number of patients’ fundus
+photos taken within the same year
+• Percentage of diabetics
+screened with
+sight threatening DR
+=
+Number of diabetics screened with
+sight threatening DR within a year
+x 100%
+Total number of diabetics screened for
+DR within the same year
+REFERENCES
+SCREENING OF DIABETIC RETINOPATHY
+REFERENCES
+1.
+International Diabetes Federation and World Health Organization. The Western Pacific
+Declaration on Diabetes, Kuala Lumpur, June 2000. Manila: WHO; 2000
+2.
+World Health Organization. Prevention of Blindness from Diabetes Mellitus, Report of
+WHO Consultation. Geneva: WHO; 2005
+3.
+Letchuman GR, Nazaimoon WMW, Mohamad WBW, et al. Prevalence of Diabetes in
+the Malaysian National Health Morbidity Survey III 2006. Med J Malaysia. 2010 Sep;65
+(3):173-9
+4.
+Wild S, Roglic G, Green A, et al. Global prevalence of diabetes: estimates for the year
+2000 and projections for 2030. Diabetes Care. 2004 May;27(5):1047-53
+5.
+Wong TY, Cheung N, Tay WT, et al. Prevalence and risk factors for diabetic retinopathy:
+the Singapore Malay Eye Study. Ophthalmology. 2008 Nov;115(11):1869-75
+6.
+Ministry of Health Malaysia. Diabetic Retinopathy. Kuala Lumpur: MOH; 1997
+7.
+Craig ME, Hattersley A, Donaghue KC. Definition, epidemiology and classification of
+diabetes in children and adolescents. In: International Society for Pediatric & Adolescent
+Diabetes (ISPAD) Clinical Practice Consensus Guidelines 2009
+8.
+DIAMOND Project Group. Incidence and trends of childhood Type 1 diabetes worldwide
+1990-1999. Diabet Med. 2006 Aug;23(8):857-66
+9.
+Rosenbloom AL, Silverstein JH, Amemiya S, et al. Type 2 diabetes in children and
+adolescents. In: International Society for Pediatric & Adolescent Diabetes (ISPAD)
+Clinical Practice Consensus Guidelines 2009
+10.
+Fuziah MZ, Hong JY, Zanariah H, et al. A national database on children and adolescent
+with diabetes (e-DiCARE): results from April 2006 to June 2007. Med J Malaysia. 2008
+Sept;63 Suppl:C:37-40
+11.
+Salti HI, Nasrallah MP, Taleb NM, et al. Prevalence and determinants of retinopathy in a
+cohort of Lebanese type II diabetic patients. Can J Ophthalmol. 2009 Jun;44(3):308-13
+12.
+Esteves JF, Kramer CK, Azevedo MJ, et al. Prevalence of diabetic retinopathy in patients
+with type 1 diabetes mellitus. Rev Assoc Med Bras. 2009 May-Jun;55(3):268-73
+13.
+Bek T, Lund-Andersen H, Hansen AB, et al. The prevalence of diabetic retinopathy in
+patients with screen-detected type 2 diabetes in Denmark: the ADDITION study. Acta
+Ophthalmol. 2009 May;87(3):270-4
+14.
+Javadi MA, Katibeh M, Rafati N, et al. Prevalence of diabetic retinopathy in Tehran
+province: a population-based study. BMC Ophthalmol. 2009 Oct 16;9:12
+15.
+Farhan KH Al-Shammari, Osama Al-Meraghi, Alfred Nasif, et al. The Prevalence of
+Diabetic Retinopathy and associated Risk Factors in Type 2 Diabetes Mellitus in AlNaeem area (Kuwait). Middle East Journal of Family Medicine. 2005;Vol. 3 (2)
+16.
+Goh PP, National Eye Database Study Group. Status of diabetic retinopathy among
+diabetics registered to the Diabetic Eye Registry, National Eye Database, 2007. Med J
+Malaysia. 2008 Sep;63 Suppl(C:24-8)
+17.
+Maziah I, Ahmad N, Norasyikin M, et al. Study on Prevalence of Diabetic Retinopathy at
+Health Clinic Setting (Klinik Kesihatan Cheneh, Kemaman). Proceedings of the Scientific
+Conference Jabatan Kesihatan Negeri Terengganu; 2009 June 4-6; Terengganu,
+Malaysia
+SCREENING OF DIABETIC RETINOPATHY
+18.
+Kamilah K, Zamzurina A, Anita I, et al. A Study of Diabetic Retinopathy on Diabetic
+Patient Attending Fundus Camera at KK Hiliran. Proceedings of the Scientific Conference
+Jabatan Kesihatan Negeri Terengganu; 2009 June 4-6; Terengganu, Malaysia
+19.
+Donaghue KC, Craig ME, Chan AK, et al. Prevalence of diabetes complications 6
+years after diagnosis in an incident cohort of childhood diabetes. Diabet Med. 2005
+Jun;22(6):711-8
+20.
+Rani PK, Raman R, Chandrakantan A, et al. Risk factors for diabetic retinopathy in selfreported rural population with diabetes. J Postgrad Med. 2009 Apr-Jun;55(2):92-6
+21.
+Lim MC, Lee SY, Cheng BC, et al. Diabetic retinopathy in diabetics referred to a tertiary
+centre from a nationwide screening programme. Ann Acad Med Singapore. 2008
+Sep;37(9):753-9
+22.
+Klein R, Knudtson MD, Lee KE, et al. The Wisconsin Epidemiologic Study of Diabetic
+Retinopathy: XXII the twenty-five-year progression of retinopathy in persons with type 1
+diabetes. Ophthalmology. 2008 Nov;115(11):1859-68
+23.
+Krishnaiah S, Das T, Nirmalan PK, et al. Risk factors for diabetic retinopathy: Findings
+from The Andhra Pradesh Eye Disease Study. Clin Ophthalmol. 2007 Dec;1(4):475-82
+24.
+van Leiden HA, Dekker JM, Moll AC, et al. Risk factors for incident retinopathy in a
+diabetic and nondiabetic population: the Hoorn study. Arch Ophthalmol. 2003
+Feb;121(2):245-51
+25.
+The Australian Diabetes society for the Department of Health and Ageing. Guidelines for
+the Management of Diabetes Retinopathy. Canberra: NHMRC; 2008
+26.
+Chopra R, Saramma JG, Mary J, et al. Lipoprotein (a) as a risk factor for diabetic
+retinopathy in patients with type 2 diabetes mellitus. Indian J Ophthalmol. 2007 MayJun;55(3):195-8
+27.
+Brazionis L, Rowley K Sr, Itsiopoulos C, et al. Homocysteine and diabetic retinopathy.
+Diabetes Care. 2008 Jan;31(1):50-6
+28.
+National Institute for Clinical Excellence. Management of Type 2 diabetes. Retinopathy -
+screening and early management. London: NICE; 2002.
+29.
+Tele Diabetic Retinopathy Screening. (Internet communication, 30 March 2011 at http://
+www.acrm.org.my/ned/teleDR.html)
+30.
+Scanlon PH, Malhotra R, Greenwood RH, et al. Comparison of two reference standards
+in validating two field mydriatic digital photography as a method of screening for diabetic
+retinopathy. Br J Ophthalmol. 2003 Oct;87(10):1258-63
+31.
+Aptel F, Denis P, Rouberol F, et al. Screening of diabetic retinopathy: effect of field
+number and mydriasis on sensitivity and specificity of digital fundus photography.
+Diabetes Metab. 2008 Jun;34(3):290-3
+32.
+Neubauer AS, Rothschuh A, Ulbig MW, et al. Digital fundus image grading with the nonmydriatic Visucam(PRO NM) versus the FF450(plus) camera in diabetic retinopathy. Acta
+Ophthalmol. 2008 Mar;86(2):177-82
+33.
+Philip S, Fleming AD, Goatman KA, et al. The efficacy of automated “disease/no disease”
+grading for diabetic retinopathy in a systematic screening programme. Br J Ophthalmol.
+2007 Nov;91(11):1512-7
+SCREENING OF DIABETIC RETINOPATHY
+34.
+Perumalsamy N, Prasad NM, Sathya S, et al. Software for reading and grading
+diabetic retinopathy: Aravind Diabetic Retinopathy Screening 3.0. Diabetes Care. 2007
+Sep;30(9):2302-6
+35.
+Jelinek HJ, Cree MJ, Worsley D, et al. An automated microaneurysm detector as a tool
+for identification of diabetic retinopathy in rural optometric practice. Clin Exp Optom.
+2006 Sep;89(5):299-305
+36.
+Larsen N, Godt J, Grunkin M, et al. Automated detection of a diabetic retinopathy
+in a fundus photographic screening population. Invest Ophthalmol & Vis Sci. 2003
+Feb;44(2):767-71
+37.
+Pandit RJ, Taylor R. Mydriasis and glaucoma: exploding the myth. A systematic review.
+Diabet Med. 2000 Oct;17(10):693-9
+38.
+Farley TF, Mandava N, Prall FR, et al. Accuracy of primary care clinicians in screening for
+diabetic retinopathy using single-image retinal photography. Ann Fam Med. 2008 SepOct;6(5):428-34
+39.
+Andonegui J, Berástegui L, Serrano L, et al. Agreement among ophthalmologists and
+primary care physicians in the evaluation of retinographies of diabetic patients. Arch Soc
+Esp Oftalmol. 2008 Sep;83(9):527-31
+40.
+Gill JM, Cole DM, Lebowitz HM, et al. Accuracy of screening for diabetic retinopathy by
+family physicians. Ann Fam Med. 2004 May-Jun;2(3):218-20
+41.
+Jackson CL, Hirst L, de Jong IC, et al. Can Australian general practitioners effectively
+screen for diabetic retinopathy? A pilot study. BMC Fam Pract. 2002 Mar; 7(3:4)
+42.
+Hulme SA, Tin-U A, Hardy KJ, et al. Evaluation of a district-wide screening
+programme for diabetic retinopathy utilizing trained optometrists using slit-lamp and
+Volk lenses. Diabet Med. 2002 Sep;19(9):741-5
+43.
+American Academy of Ophthalmology Retina Panel. Preferred Practice Pattern
+Guidelines. Diabetic Retinopathy. San Francisco: American Academy of Ophthalmology;
+2008
+44.
+De Micheli A. Italian standards for diabetes mellitus 2007: executive summary: Diabete
+Italia, AMD Associazione Medici Diabetologi, SID Società Italiana di Diabetologia. Acta
+Diabetol. 2008 Mar;45:107-27
+45.
+Lueder GT, Silverstein J. American Academy of Pediatrics Section on Ophthalmology
+and Section on Endocrinology. Screening for retinopathy in the pediatric patient with
+type 1 diabetes mellitus. Pediatrics. 2005 Jul;116(1):270-3
+46.
+Donaghue KC, Chiarelli F, Trotta D, et al. Microvascular and macrovascular complications
+associated with diabetes in children and adolescents. In: International Society for
+Pediatric & Adolescent Diabetes (ISPAD) Clinical Practice Consensus Guidelines 2009
+47.
+Ministry of Health Malaysia. Management of Type 2 Diabetes Mellitus (Fourth Edition).
+Putrajaya: MOH; 2009
+48.
+IDF Clinical Guidelines Task Force. Global guideline for Type 2 diabetes Brussels:
+International Diabetes Federation, 2005
+APPENDICES
+SCREENING OF DIABETIC RETINOPATHY
+SCREENING OF DIABETIC RETINOPATHY
+Appendix 1
+SEARCH TERMS
+The following MeSH terms or free text terms were used either singly or in
+combination:
+“diabetes mellitus”[MeSH Terms], “diabetes mellitus, type 2”[MeSH Terms],
+“diabetes mellitus, type 1”[MeSH Terms], diabetes, “diabetic retinopathy”[MeSH
+Terms], “prevalence”[MeSH Terms], “epidemiology”[MeSH Terms], “worldwide
+prevalence”, “incidence”[MeSH Terms], “worldwide incidence”, “diabetes mellitus
+prevalence”, Malaysia, “prevalence diabetic retinopathy”, “risk factors”[MeSH
+Terms], HbA1c, “pregnancy”[MeSH Terms, duration, “hyperglycemia”[MeSH Terms],
+“hypertension”[MeSH Terms], “tobacco”[MeSH Terms], “Hyperlipidemia”[MeSH
+Terms], “dyslipidemias”[MeSH Terms], Nephropathy, “creatinine”[MeSH Terms],
+“serum creatinine”, age, gender, gestation, “classification”[MeSH Terms], grading,
+“grading system”, “fundus camera”, “retinal photography”, “retinal imaging”,
+“direct ophthalmoscope”, “ophthalmoscopes”[MeSH Terms], funduscope, “pan
+funduscope”, “binocular indirect ophthalmoscope”, BIO, “slitlamp biomicroscopy”,
+slitlamp, “Diabetic retinopathy screening”, guidelines, , “automated grading”,
+“software grading”, “automated grading”, automated, “dilated pupil”, “pupil
+dilation”, “mydriasis”[MeSH Terms], “pupillary dilatation”, “side effect”, “adverse
+effect”, “adverse drug reaction”, “glaucoma”[MeSH Terms], “tropicamide”[MeSH
+Terms], phenylephirine, screening, “non-ophthalmologist”, “accuracy of grading”,
+“optometrist”, “general practitioner”, “primary care physician”, accuracy, timing,
+“referral criteria”, criteria, referral, “diabetic retinopathy guideline”, “diabetes
+mellitus guideline”, “classification”[Mesh], “diagnosis”[Mesh], diabetic, “eye
+examination”, “eye assessment”, “eye screening”, “follow up”, schedule,
+detection, protocol, therapeutics”[MeSH Terms], “laser treatment”, “intravitreal
+triamcinolone”, “laser photocoagulation”, “vitrectomy”, blindness, “sight
+threatening”
+SCREENING OF DIABETIC RETINOPATHY
+Appendix 2
+CLINICAL QUESTIONS
+1.
+What is the prevalence of Type 1 DM and Type 2 DM in Malaysia and
+worldwide?
+2.
+What is the prevalence of diabetic retinopathy in Type 1 and Type 2 DM in
+Malaysia and worldwide?
+3.
+What is the prevalence of sight threatening DR or blindness due to diabetic
+retinopathy in Malaysia and worldwide?
+4.
+Is there any difference in the risk of diabetic retinopathy for the different
+types of diabetes?
+5.
+What are the current grading systems for diabetic retinopathy?
+6.
+What are the sensitivity and specificity of screening tools to detect diabetic
+retinopathy?
+i. Direct ophthalmoscope
+ii. PAN-ophthalmoscope
+iii. BIO
+iv. Slit lamp
+v. Fundus camera - mydriatic versus nonmydriatic
+7.
+Is automated grading of diabetic retinopathy as efficient as manual grading?
+8.
+When should the pupil be dilated and what are the potential side effects of
+pupillary dilation?
+9.
+Who can perform examination and grade the status of diabetic retinopathy?
+10. What are the criteria for referral of DR to the ophthalmologist?
+11. What are the most appropriate timing and frequency of eye examinations in
+people with DM?
+i. Established diabetics who are planning to get pregnant or who are already
+pregnant
+ii. Children and adolescents
+iii. Adults
+12. What are the treatments for diabetic retinopathy?
+13. Are there new modalities in treating diabetic retinopathy?
+SCREENING OF DIABETIC RETINOPATHY
+Appendix 3
+FUNDUS APPEARANCE ACCORDING TO DR STAGES
+SCREENING OF DIABETIC RETINOPATHY
+PDR
+Moderate and Severe Diabetic Maculopathy
+ADED and Vitreous Haemorrhage
+Ungradable Photos
+SCREENING OF DIABETIC RETINOPATHY
+Appendix 4
+LIST OF HEALTH CLINICS WITH FUNDUS
+CAMERA IN MINISTRY OF HEALTH 2011
+No.
+State/District
+Health Clinic
+Total
+Fundus
+Camera
+1.
+Perlis
+2
+Kangar
+Klinik Kesihatan Kangar
+Klinik Kesihatan Arau
+2.
+Kedah
+12
+Kubang Pasu
+Klinik Kesihatan Kepala Batas
+Padang Terap
+Klinik Kesihatan Naka
+Kota Setar
+Klinik Kesihatan Pokok Sena
+Klinik Kesihatan Simpang Kuala
+Pendang
+Klinik Kesihatan Pendang
+Yan
+Klinik Kesihatan Guar Chempedak
+Sik
+Klinik Kesihatan Jeniang
+Kuala Muda
+Klinik Kesihatan Bandar Sungai Petani
+Baling
+Klinik Kesihatan Tawar
+Kulim
+Klinik Kesihatan Kulim
+Klinik Kesihatan Padang Serai
+Bandar Baharu
+Klinik Kesihatan Serdang
+3.
+Pulau Pinang
+4
+Seberang Perai Utara
+Klinik Kesihatan Buttterworth
+Seberang Perai Tengah
+Klinik Kesihatan Seberang Jaya
+Seberang Perai Selatan
+Klinik Kesihatan Nibong Tebal
+Timur Laut
+Klinik Kesihatan Jalan Perak
+4.
+Perak
+8
+Kinta
+Klinik Kesihatan Jelapang
+Klinik Kesihatan Greentown
+Larut Matang
+Klinik Kesihatan Taiping
+Manjung
+Klinik Kesihatan Sitiawan
+Hilir Perak
+Klinik Kesihatan Hutan Melintang
+Batang Padang
+Klinik Kesihatan Tanjung Malim
+Kuala Kangsar
+Klinik Kesihatan Padang Rengas
+Kerian
+Klinik Kesihatan Bagan Serai
+SCREENING OF DIABETIC RETINOPATHY
+No.
+State/District
+Health Clinic
+Total
+Fundus
+Camera
+5.
+Selangor
+7
+Gombak
+Klinik Kesihatan Taman Ehsan
+Hulu Langat
+Klinik Kesihatan Kajang
+Klang
+Klinik Kesihatan Pandamaran
+Kuala Langat
+Klinik Kesihatan Telok Datuk
+Kuala Selangor
+Klinik Kesihatan Kuala Selangor
+Sabak Bernam
+Klinik Kesihatan Sungai Besar
+Hulu Selangor
+Klinik Kesihatan Serendah
+6.
+WP Kuala Lumpur & Putrajaya
+4
+Putrajaya
+Klinik Kesihatan Putrajaya
+Klinik Kesihatan Jinjang
+Klinik Kesihatan Cheras Baru
+Klinik Kesihatan Tanglin
+7.
+Negeri Sembilan
+11
+Seremban
+Klinik Kesihatan Seremban
+Klinik Kesihatan Ampangan
+Klinik Kesihatan Rantau
+Kuala Pilah
+Klinik Kesihatan Kuala Pilah
+Klinik Kesihatan Juasseh
+Jelebu
+Klinik Kesihatan Jelebu
+Jempol
+Klinik Kesihatan Bahau
+Klinik Kesihatan Palong 4,5,6
+Rembau
+Klinik Kesihatan Rembau
+Tampin
+Klinik Kesihatan Tampin
+Port Dickson
+Klinik Kesihatan Port Dickson
+8.
+Malacca
+5
+Malacca Tengah
+Klinik Kesihatan Ayer Keroh
+Alor Gajah
+Klinik Kesihatan Masjid Tanah
+Jasin
+Klinik Kesihatan Selandar
+Klinik Kesihatan Umbai
+Jabatan Pesakit Luar Jasin
+Kuala Lumpur
+SCREENING OF DIABETIC RETINOPATHY
+No.
+State/District
+Health Clinic
+Total
+Fundus
+Camera
+9.
+Johor
+12
+Johor Bahru
+Klinik Kesihatan Pasir Gudang
+Klinik Kesihatan Mahmodiah
+Muar
+Klinik Kesihatan Bandar Maharani
+Klinik Kesihatan Parit Jawa, Muar
+Klinik Kesihatan Paya Mas, Muar
+Batu Pahat
+Klinik Kesihatan Batu Pahat
+Kluang
+Klinik Kesihatan Mengkibol
+Pontian
+Klinik Kesihatan Pontian
+Segamat
+Klinik Kesihatan Segamat
+Kota Tinggi
+Jabatan Pesakit Luar Kota Tinggi
+Mersing
+Klinik Kesihatan Endau
+Ledang
+Klinik Kesihatan Paya Mas
+10. Pahang
+9
+Kuantan
+Klinik Kesihatan Bandar Kuantan
+Klinik Kesihatan Balok
+Klinik Kesihatan Jaya Gading
+Temerloh
+Klinik Kesihatan Temerloh
+Bera
+Klinik Kesihatan Triang
+Lipis
+Klinik Kesihatan Benta
+Maran
+Klinik Kesihatan Maran (tidak berfungsi)
+Klinik Kesihatan Bandar Jengka
+Rompin
+Klinik Kesihatan Kuala Rompin
+SCREENING OF DIABETIC RETINOPATHY
+No.
+State/District
+Health Clinic
+Total
+Fundus
+Camera
+11. Terengganu
+12
+Kuala Terengganu
+Jabatan Pesakit Luar
+Hospital Sultanah Nur Zahirah
+Klinik Kesihatan Hciliran
+Klinik Kesihatan Batu Rakit
+Dungun
+Klinik Kesihatan Ketengah Jaya
+Marang
+Klinik Kesihatan Marang
+Klinik Kesihatan Bukit Payong
+Besut
+Klinik Kesihatan Kuala Besut
+Setiu
+Klinik Kesihatan Pemaisuri
+Kemaman
+Klinik Kesihatan Kerteh
+Hulu Terengganu
+Klinik Kesihatan Ajil
+Klinik Kesihatan Kuala Berang
+Klinik Kesihatan Tengkawang
+12. Kelantan
+14
+Gua Musang
+Klinik Kesihatan Gua Musang
+Kuala Krai
+Klinik Kesihatan Kuala Krai
+Pasir Puteh
+Klinik Kesihatan Selising
+Tumpat
+Klinik Kesihatan Wakaf Baru
+Jeli
+Klinik Kesihatan Jeli
+Klinik Kesihatan Ayer Lanas
+Kota Bahru
+Klinik Kesihatan Kota Bharu
+Klinik Kesihatan Ketereh
+Machang
+Klinik Kesihatan Labok
+Pasir Mas
+Klinik Kesihatan Pasir Mas
+Klinik Kesihatan Tendong
+Tanah Merah
+Klinik Kesihatan Batu Gajah
+Bachok
+Klinik Kesihatan Bachok
+Klinik Kesihatan Gunong
+SCREENING OF DIABETIC RETINOPATHY
+No.
+State/District
+Health Clinic
+Total
+Fundus
+Camera
+13. Sabah
+3
+Kota Kinabalu
+Klinik Kesihatan Luyang
+Sandakan
+Klinik Kesihatan Sandakan
+Penampang
+Klinik Kesihatan Penampang
+14
+Sarawak
+4
+Miri
+Klinik Kesihatan Miri
+Sibu
+Klinik Kesihatan Lanang
+Kuching
+Klinik Kesihatan Jalan Masjid
+Klinik Kesihatan Sentosa
+Total
+SCREENING OF DIABETIC RETINOPATHY
+LIST OF ABBREVIATIONS
+ACE
+Angiotensin Converting Enzyme (ACE) Inhibitors
+ADED
+Advanced Diabetic Eye Disease
+AGE
+Advanced Glycation End (AGE) Product Inhibitors
+Anti-VEGF
+Anti-Vascular Endothelial Growth Factor
+ARIs
+Aldose Reductase Inhibitors (ARIs)
+BIO
+Binocular Indirect Ophthalmoscope
+BMI
+Body Mass Index
+CI
+Confidence Interval
+CPG
+Clinical Practice Guidelines
+DM
+Diabetes Mellitus
+DR
+Diabetic Retinopathy
+DRS
+Diabetic Retinopathy Screening
+ETDRS
+Early Treatment for Diabetic Retinopathy Study
+GDM
+Gestational Diabetes Mellitus
+IDF
+The International Diabetes Federation
+MOH
+Ministry of Health
+NED
+National Eye Database
+NPDR
+Non-Proliferative Diabetic Retinopathy
+OR
+Odds Ratio
+PDR
+Proliferative Diabetic Retinopathy
+PKC
+Protein Kinase C (PKC) Inhibitors
+PRP
+Pan-Retinal Photocoagulation
+RCT
+Randomised Controlled Trial
+SBP
+Systolic Blood Pressure
+T1DM
+Type 1 Diabetes Mellitus
+T2DM
+Type 2 Diabetes Mellitus
+VA
+Visual Acuity
+SCREENING OF DIABETIC RETINOPATHY
+ACKNOWLEDGEMENT
+The members of Development Group of these guidelines would like to express
+their gratitude and appreciation to the following for their contributions:
+•
+Panel of external reviewers who reviewed the draft
+•
+Dr. Sheamini Sivasampu (Head of Healthcare Statistics Unit, Clinical
+Research Centre), Ms. Mariammah Krishnasamy, Scientific Officer and
+Ms. Sin Lian Thye, Nursing Matron
+•
+Technical Advisory Committee for CPG and HTA-CPG Council for their
+valuable input and feedback
+•
+All those who have contributed directly or indirectly to the development
+of the CPG
+DISCLOSURE STATEMENT
+The panel members had completed disclosure forms. None hold shares in
+pharmaceutical firms or act as consultants to such firms. (Details are available
+upon request from the CPG Secretariat)
+SOURCES OF FUNDING
+The development of the CPG on Screening of Diabetic Retinopathy was supported
+financially in its entirety by the Ministry of Health Malaysia.
+SCREENING OF DIABETIC RETINOPATHY

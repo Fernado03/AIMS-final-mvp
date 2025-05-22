@@ -1,0 +1,2977 @@
+MANAGEMENT OF
+NOPATHY OF PREMATURITY
+Management of Retinopathy of Prematurity (Second Edition)
+Published by:
+Malaysia Health Technology Assessment Section (MaHTAS)
+Medical Development Division, Ministry of Health Malaysia
+Level 4, Block E1, Precinct 1
+Federal Government Administrative Centre
+62590 Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is MaHTAS. Content may be
+reproduced in any number of copies and in any format or medium
+provided that a copyright acknowledgement to MaHTAS is included
+and the content is not changed, not sold, or used to promote or endorse
+any product or service, and not used in an inappropriate or misleading
+context.
+e ISBN: 978-967-2887-65-2
+Available on the following websites:
+http://www.moh.gov.my
+http://www.acadmed.org.my
+Also available as an app for Android and IOS platforms: MyMaHTAS
+STATEMENT OF INTENT
+These clinical practice guidelines (CPG) are meant to be guides for
+clinical practice, based on the best available evidence at the time of
+development. Adherence to these guidelines may not necessarily
+guarantee the best outcome in every case. Every healthcare provider is
+responsible for the management of his/her unique patient based on the
+clinical picture presented by the patient and the management options
+available locally.
+Management of Retinopathy of Prematurity (Second Edition)
+UPDATING THE CPG
+These guidelines were issued in 2023 and will be reviewed in a minimum
+period of four years (2027) or sooner if there is a need to do so. When
+it is due for updating, the Chairman of the CPG or National Advisor of
+the related specialty will be informed about it. A discussion will be done
+on the need for a revision including the scope of the revised CPG. A
+multidisciplinary team will be formed and the latest systematic review
+methodology used by MaHTAS will be employed. Every care is taken
+to ensure that this publication is correct in every detail at the time of
+publication. However, in the event of errors or omissions, corrections
+will be published in the web version of this document, which is the
+definitive version at all times. This version can be found on the websites
+mentioned above.
+Management of Retinopathy of Prematurity (Second Edition)
+TABLE OF CONTENTS
+No.
+Title
+Page
+Levels of Evidence and Formulation of Recommendation
+i
+Key Recommendations
+ii
+Guidelines Development and Objectives
+iii
+Development Group
+vi
+Review Committee
+vii
+External Reviewers
+viii
+Algorithm 1. Screening and Treatment of Retinopathy
+ix
+of Prematurity
+Algorithm 2. Follow-Up of Retinopathy of Prematurity
+x
+1.
+INTRODUCTION
+1
+2.
+RISK FACTORS
+2
+3.
+IDENTIFICATION AND SCREENING OF INFANTS AT RISK
+4
+3.1 Screening Criteria
+4
+3.2 Counselling
+5
+3.3 Preparation for Screening
+6
+3.4 Screening Methods
+7
+4.
+CLASSIFICATION
+9
+5
+NATURAL COURSE OF DISEASE 10
+6.
+TREATMENT
+12
+6.1
+Indication of Treatment
+12
+6.2
+Optimum Timing for Treatment
+12
+6.3
+Options for Treatment
+13
+6.3.1 Laser photocoagulation
+13
+6.3.2 Intravitreal anti-vascular endothelial
+14
+growth factor
+6.3.3 Cryotherapy
+17
+6.3.4 Vitreoretinal surgery
+17
+6.3.5 Adjunctive treatment
+18
+6.4 Treatment in Aggressive Retinopathy of Prematurity
+19
+6.5 Rescue Treatment
+20
+7.
+MONITORING AND DISCHARGE CRITERIA FOR
+21
+RETINOPATHY OF PREMATURITY SCREENING
+8.
+FOLLOW-UP 23
+9.
+REHABILITATION 25
+Management of Retinopathy of Prematurity (Second Edition)
+TABLE OF CONTENTS
+No.
+Title
+Page
+10. IMPLEMENTING THE GUIDELINES
+26
+10.1 Facilitating and Limiting Factors
+26
+10.2 Potential Resource Implication
+26
+REFERENCES
+28
+Appendix 1 Example of Search Strategy
+32
+Appendix 2 Clinical Questions
+33
+Appendix 3 Optimum Timing for First Retinopathy of
+35
+Prematurity Screening
+Appendix 4 Alternative Dilating Regimes
+36
+Appendix 5 Summary of Key Components of
+39
+International Classification
+Appendix 6 Features of Retinopathy of Prematurity
+42
+Appendix 7 Indications of Treatment
+46
+Appendix 8 Laser Photocoagulation in Retinopathy of
+47
+Prematurity
+Appendix 9 Types and Properties of Anti-Vascular
+49
+Endothelial Growth Factor
+Appendix 10 Procedure for Intravitreal Anti-VEGF Injection
+51
+Appendix 11 Special Educational Schools and Intergration
+53
+Programmes for People with Visual Problems
+List of Abbreviations
+56
+Acknowledgement
+57
+Disclosure Statement
+57
+Source of Funding
+Management of Retinopathy of Prematurity (Second Edition)
+i
+LEVELS OF EVIDENCE
+Source: U.S. Preventive Services Task Force. U.S. Preventive Services Task
+Force Procedure Manual. Rockville, MD: USPSTF; 2015.
+FORMULATION OF RECOMMENDATION
+In line with current development in CPG methodology, the CPG Unit of
+MaHTAS is in the process of adapting Grading Recommendations,
+Assessment, Development and Evaluation (GRADE) in its work
+process. The quality of each retrieved evidence and its effect size
+is carefully assessed/reviewed by the CPG Development Group.
+In formulating the recommendations, overall balances of the
+following aspects are considered in determining the strength of the
+recommendations:-
+• overall quality of evidence
+• balance of benefits versus harms
+• values and preferences
+• resource implications
+• equity, feasibility and acceptability
+Level
+I
+II-1
+II-2
+II-3
+III
+Study design
+Properly powered and conducted randomised controlled
+trial; well-conducted systematic review or meta-analysis of
+homogeneous randomised controlled trials
+Well-designed controlled trial without randomisation
+Well-designed cohort or case-control analysis study
+Multiple time series, with or without the intervention; results
+from uncontrolled studies that yield results of large magnitude
+Opinions of respected authorities, based on clinical
+experience; descriptive studies or case reports; reports of
+expert committees
+Management of Retinopathy of Prematurity (Second Edition)
+ii
+KEY RECOMMENDATIONS
+The following recommendations were highlighted by the CPG
+Development Group (DG) as the key clinical recommendations that
+should be recognised for implementation.
+SCREENING AND DIAGNOSIS
+• Screening for retinopathy of prematurity (ROP) should be done for
+infants with either one of the following criteria:
+ birth weight <1750 g
+ gestational age <34 weeks
+ infants with an unstable clinical course who are at high risk (as
+determined by the neonatologist or paediatrician)
+• First examination to detect ROP should be done based on postmenstrual age and post-natal age.
+• Counselling on timely screening and treatment should be given to
+parents/carers of infants at risk and diagnosed with retinopathy of
+prematurity.
+TREATMENT
+• Type 1 prethreshold retinopathy of prematurity (ROP) should be
+treated within 48 hours of diagnosis.
+• Laser photocoagulation should be considered in the treatment of
+zone II (except posterior zone II) ROP.
+• Intravitreal anti-vascular endothelial growth (anti-VEGF) factor
+should be considered in zone I ROP and aggressive ROP.
+FOLLOW-UP AND REHABILITATION
+• Follow-up of infants with or without retinopathy of prematurity (ROP)
+should be done accordingly with complete eye examination, based
+on staging and treatment given.
+• Visual rehabilitation should be provided to all visually-impaired
+children.
+Management of Retinopathy of Prematurity (Second Edition)
+iii
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+GUIDELINES DEVELOPMENT
+The members of the DG for these CPG were from the Ministry of Health
+(MoH), the Ministry of Higher Education (MoHE) and private sector.
+There was active involvement of a multidisciplinary Review Committee
+during the process of the CPG development.
+A systematic literature search was carried out using the following
+electronic databases/platforms: mainly Medline via Ovid and Cochrane
+databases. Refer to Appendix 1 for Example of Search Strategy.
+The inclusion criteria are all infants with risk of developing ROP and
+those with the established disease regardless of study design. The first
+search was limited to literature published over the last 18 years (2005
+- 2023) since the first CPG edition. The search was based on inclusion
+criteria and all studies were in English. In addition, the reference lists of
+all retrieved literature and guidelines were searched to further identify
+relevant studies. Experts in the field were also contacted for studies
+related to the issues addressed. All searches were conducted from
+8 March 2022 to 23 March 2022. The literature search was repeated
+for all clinical questions at the end of the CPG development process
+allowing any relevant papers published before 17 March 2023 to be
+included. Future CPG updates will consider evidence published after
+this cut-off date. The details of the search strategy can be obtained
+upon request from the CPG Secretariat.
+References were also made to other guidelines on ROP as listed below:
+• Royal College of Paediatrics and Child Health. UK Screening of
+Retinopathy of Prematurity Guideline, 2022
+• Royal College of Ophthalmologist, Clinical Practice Guideline on
+Treating Retinopathy of Prematurity in the UK, 2022
+A total of 13 main clinical questions were developed under different
+sections. Members of the DG were assigned individual questions within
+these sections. Refer to Appendix 2 for Clinical Questions. The DG
+members met 18 times throughout the development of these guidelines.
+All literature retrieved was appraised by at least two DG members using
+Critical Appraisal Skill Programme checklist, presented in evidence
+tables and further discussed in each DG meeting. All statements and
+recommendations formulated after that were agreed upon by both the
+DG and Review Committee (RC). Where evidence was insufficient,
+the recommendations were made by consensus of the DG and RC.
+Any differences in opinion are resolved consensually. The CPG was
+based largely on the findings of systematic reviews, meta-analyses and
+clinical trials, with local practices taken into consideration.
+Management of Retinopathy of Prematurity (Second Edition)
+iv
+The literatures used in these guidelines were graded using the US/
+Canadian Preventive Services Task Force Level of Evidence (2001)
+while the grading of recommendation was done using the principles of
+GRADE (refer to the preceding page). The writing of the CPG follows
+strictly the requirement of Appraisal of Guidelines for Research and
+Evaluation (AGREE II).
+On completion, the draft CPG was reviewed by external reviewers. It
+was also posted on the MoH Malaysia official website for feedback from
+any interested parties. The draft was finally presented to the Technical
+Advisory Committee for CPG and the Health Technology Assessment
+(HTA) and CPG Council, MoH Malaysia, for review and approval. Details
+on the CPG development by MaHTAS can be obtained from Manual
+on Development and Implementation of Evidence-based Clinical
+Practice Guidelines published in 2015 (available at http://www.moh.
+gov.my/moh/resources/CPG_MANUAL_MAHTAS.pdf?mid=634)
+Management of Retinopathy of Prematurity (Second Edition)
+v
+OBJECTIVES
+The objective of the CPG is to provide evidence-based recommendations
+on the management of ROP on the following aspects:
+a) screening and referral
+b) diagnosis
+c) treatment and follow-up
+CLINICAL QUESTIONS
+Refer to Appendix 2.
+TARGET POPULATION
+Inclusion Criteria
+All infants with risk of developing ROP and those with the established
+disease
+TARGET GROUP/USER
+This document is intended to guide healthcare professionals and
+relevant stakeholders involved in the management of ROP. These
+include:
+i. healthcare professionals (doctors, pharmacists and allied health
+professionals)
+ii. medical students and trainees
+iii. policy makers
+iv. professional organisations
+v. patients, caregivers and their advocates
+HEALTHCARE SETTINGS
+Primary, secondary and tertiary care
+Management of Retinopathy of Prematurity (Second Edition)
+vi
+DEVELOPMENT GROUP
+Chairperson
+Dr. Norhafizah Hamzah
+Head of Department & Paediatric Ophthalmologist
+Hospital Tunku Azizah
+Kuala Lumpur
+Members (in alphabetical order)
+Ms. Arifah Nur Yahya
+Optometrist
+Hospital Queen Elizabeth
+Sabah
+Professor Dr. Choo May May
+Consultant Paediatric Ophthalmologist &
+Academic Professor
+Pusat Perubatan Universiti Malaya
+Kuala Lumpur
+Affiliated with Save Sight Institute,
+University of Sydney, Australia
+Dr. Farah Inaz Syed Abdullah
+Consultant Neonatologist
+Hospital Tunku Azizah
+Kuala Lumpur
+Dr. Karen Sharmini Sandanasamy
+Public Health Physician
+Health Technology Assessment Section
+Ministry of Health, Putrajaya
+Dr. Mohd. Aminuddin Mohd. Yusof
+Head of CPG Unit & Public Health Physician
+Health Technology Assessment Section
+Ministry of Health, Putrajaya
+Dr. Nor Akmal Bahari
+Paediatric Ophthalmologist
+Hospital Kuala Lumpur
+Kuala Lumpur
+Dr. Norazah Abdul Rahman
+Consultant Paediatric Ophthalmologist &
+Strabismus
+Ramsay Sime Darby Medical Centre
+Selangor
+Dr. Nurfahzura Mohd Jamil
+Comprehensive Ophthalmologist
+Hospital Sungai Buloh
+Selangor
+Associate Professor Dr. Safinaz Mohd
+Khialdin
+Consultant Paediatric Ophthalmologist &
+Medical Lecturer
+Hospital Pakar Kanak-kanak Universiti
+Kebangsaan Malaysia, Kuala Lumpur
+Dr. Sakinah Sulong
+Family Medicine Specialist
+Klinik Kesihatan Masai
+Masai, Johor
+Dr. Siti Norzalehawati Sepian
+Paediatric Ophthalmologist
+Hospital Sultanah Nur Zahirah
+Terengganu
+Dr. Wendy See Yen Nee
+Ophthalmologist
+Hospital Umum
+Sarawak
+Dr. Widad Md Yusof @ Mohd Yusof
+Consultant Vitreoretinal Surgeon
+Hospital Selayang
+Selangor
+Management of Retinopathy of Prematurity (Second Edition)
+vii
+Datuk Dr. Hajjah Nor Fariza Ngah
+Head of Service &
+Senior Consultant Ophthalmologist
+Hospital Shah Alam
+Selangor
+Dr. Izzuna Mudla Mohamed Ghazali
+Deputy Director & Public Health Physician
+Health Technology Assessment Section
+Ministry of Health, Putrajaya
+Dr. Manoharan Shunmugam
+Consultant Ophthalmologist, Adult &
+Paediatric Vitreoretinal Surgeon
+OasisEye Specialists, Kuala Lumpur
+Dr. Neoh Siew Hong
+Senior Consultant Neonatologist
+Ms. Najihah Mohamad Shukri
+Pharmacist
+Hospital Tunku Azizah
+Kuala Lumpur
+Dr. Nor Higrayati Ahmad Kasah
+Senior Consultant Ophthalmologist
+Hospital Sultanah Nur Zahirah
+Terengganu
+Ms. Nor Aishah A Wahab
+Optometrist
+Hospital Kuala Lumpur
+Kuala Lumpur
+REVIEW COMMITTEE
+The draft guidelines were reviewed by a panel of experts from both
+public and private sectors. They were asked to comment primarily on
+the comprehensiveness and accuracy of the interpretation of evidence
+supporting the recommendations in the guidelines.
+Chairperson
+Dr. Jamalia Rahmat
+Senior Consultant Paediatric Ophthalmologist
+Hospital Kuala Lumpur
+Kuala Lumpur
+Members (in alphabetical order)
+Management of Retinopathy of Prematurity (Second Edition)
+viii
+EXTERNAL REVIEWERS (in alphabetical order)
+The following external reviewers provided feedback on the draft:
+Professor Dr. Chen Ai Hong
+Professor of Optometry
+University Teknologi MARA
+Selangor
+Associate Professor Dr. Christopher Tinley
+Head of Clinical Research Unit &
+Postgraduate Program Director
+University of Cape Town, Cape Town
+South Africa
+Professor Dr. Frank Martin
+Consultant Paediatric Ophthalmologist
+Sydney Eye Hospital, University of Sydney
+Sydney, Australia
+Dr. Jafanita Jamaludin
+Senior Principal Assistant Director
+& Head of O&G & Paediatric Services Unit
+Medical Services Development Section
+Ministry of Health, Putrajaya
+Ms. Lynne Speedwell
+Head of Optometry
+Clinical & Academic Department of
+Ophthalmology
+Great Ormond Street Hospital for Children
+NHS Foundation Trust
+London, United Kingdom
+Dr. Norshireen Nazli Abdul Razak
+Consultant Paediatrician
+Hospital Tunku Azizah
+Kuala Lumpur
+Professor Dr. Nurliza Khaliddin
+Consultant Paediatric Ophthalmologist
+Department of Ophthalmology
+Faculty of Medicine
+University of Malaya
+Kuala Lumpur
+Associate Professor Dr. Saharuddin
+Ahmad
+Family Medicine Consultant
+Faculty of Medicine
+Universiti Kebangsaan Malaysia,
+Kuala Lumpur
+Professor Dr. Hajah Shatriah Ismail
+Head of Department &
+Consultant Paediatric Ophthalmologist &
+Strabismus
+School of Medical Sciences
+Universiti Sains Malaysia, Kelantan
+Dr. Siti Hazury Zaulkifli
+General Practitioner
+Canon In-House Clinic
+Canon Opto (M) Sdn. Bhd.
+Shah Alam, Selangor
+Associate Professor Dr. Shuaibah Ab
+Ghani
+Lecturer & Consultant Paediatric
+Ophthalmologist & Strabismus
+Universiti Malaysia Sabah, Sabah
+Ms. Tiffany Savitri
+Patient Advocate
+Dr. Zainora Mohammed
+Senior Lecturer
+Program of Optometry & Vision Science
+Faculty of Health Science
+Universiti Kebangsaan Malaysia
+Kuala Lumpur
+Management of Retinopathy of Prematurity (Second Edition)
+ix
+ALGORITHM 1. SCREENING AND TREATMENT OF RETINOPATHY OF PREMATURITY
+FFA : Fundus fluorescein
+angiography
+GA : Gestational age
+PMA: Post-menstrual age
+ROP: Retinopathy of prematurity
+VR : Vitreoretinal
+FIRST OPHTHALMIC
+EXAMINATION
+•GA ≤27 weeks to perform at 31 weeks PMA
+•GA 28 to 32 weeks to perform at 4 weeks after birth
+•GA ≥32 weeks to perform at 36 weeks PMA
+IMMATURE RETINA,
+NO ROP OR ZONE 3 ROP
+TYPE 2
+PRETHRESHOLD ROP
+TYPE 1
+PRETHRESHOLD ROP
+THRESHOLD ROP
+AGGRESSIVE ROP
+SCREEN 2-WEEKLY
+SCREEN WEEKLY
+TREAT WITHIN 48 HOURS
+TREAT URGENTLY
+LASER PHOTOCOAGULATION/
+ANTI-VEGF
+ANTI-VASCULAR ENDOTHELIAL
+GROWTH FACTOR (VEGF)
+SCREEN WEEKLY TILL SIGNS OF REGRESSION
+DISEASE NOT REGRESSED/PROGRESSIVE
+RESCUE
+TREATMENT
+No response
+Response
+PROGRESSION
+REGRESSION
+FULLY VASCULARISED
+PERSISTENT
+AVASCULAR RETINA
+STAGE 4 OR 5
+MONITOR/FFA ± LASER
+PHOTOCOAGULATION
+VR SURGERY
+REGRESSION OF ROP AND
+FULLY VASCULARISED RETINA
+Management of Retinopathy of Prematurity (Second Edition)
+NO ROP
+ROP
+FULLY VASCULARISED RETINA
+SPONTANEOUS
+REGRESSION
+TREATMENT
+REQUIRED
+COMPLETE EYE
+EXAMINATION AT 6 MONTHS
+THEN VISUAL ACUITY AT
+4 YEARS OF AGE
+LASER PHOTOCOAGULATION/
+ANTI-VEGF
+REGRESSION WITH
+COMPLETE
+VASCULARISATION
+PAR
+PROGRESSION
+RESCUE TREATMENT*
+REGULAR
+FOLLOW-UP
+± FFA/LASER
+PHOTOCOAGULATION
+WITH
+COMPREHENSIVE EYE
+EXAMINATION
+COMPREHENSIVE
+EYE EXAMINATION
+AT 6 MONTHS THEN
+YEARLY UNTIL
+5 YEARS OF AGE
+x
+ALGORITHM 2. FOLLOW-UP OF RETINOPATHY OF PREMATURITY
+FFA
+: Fundus fluorescein
+angiography
+PAR : Persistent avascular
+retina
+ROP : Retinopathy of
+prematurity
+VEGF : Vascular endothelial
+growth factor
+*refer to Algorithm 1 on
+Screening and Treatment
+of ROP
+Management of Retinopathy of Prematurity (Second Edition)
+1. INTRODUCTION
+Retinopathy of prematurity (ROP) is a vasoproliferative disease in
+the developing retinal vessels of premature infants. This potentially
+blinding condition is largely preventable if appropriate, adequate and
+accessible screening programme are available. However, the preexisting ROP screening protocol needs to be updated based on the
+latest development in neonatal care.
+A 2019 report by the Malaysian National Neonatal Registry reviewed
+the screening for ROP of 2,145 inborn infants at gestational age <32
+weeks who survived to six weeks of age before discharged from
+neonatal care. A total of 87.1% infants did not have ROP, 10.7% had
+ROP stage 1 or 2, 1.6% stage 3 and 0.4% stage 4 or 5. The incidence
+rate of severe ROP (stage 3, 4 and 5) were 20%, 7% and 0.7% in
+infants with gestational age of 22 - 24 weeks, 25 - 27 weeks and 28 -
+31 weeks respectively. A total of 38 infants had laser therapy and one
+infant underwent cryotherapy.1, level III
+The first local edition of the clinical practice guidelines (CPG) on the
+management of ROP was published in 2005. With the advances
+in research and technology, there is a great shift in the paradigm of
+classification and treatment of the disease. This current edition intends
+to update the recommendations in the management which includes
+International Classification of Retinopathy of Prematurity Third Edition
+(ICROP-3) classification, intravitreal anti-vascular endothelial growth
+factor (anti-VEGF) treatment and vitrectomy techniques.
+It is hoped that this latest edition of the CPG will improve the management
+of ROP and thus prevent visual impairment (VI) and blindness in the
+affected children.
+Management of Retinopathy of Prematurity (Second Edition)
+2. RISK FACTORS
+There are various systemic risk factors that influence the development
+and progression of ROP. Among these, low gestational age (GA) and
+low birth weight (BW) are the strongest and most established risk
+factors.
+a. Prematurity
+Gestational age is the most predictive risk factor for the development
+of ROP.2
+b. Low birth weight
+The incidence of ROP was 68% among infants weighing <1251 g.3, level I
+c. Small for gestational age
+Intrauterine growth restriction is significantly associated with
+development of Aggressive ROP (AROP).4, level II-2
+In a meta-analysis of 20 cohort studies, small for gestational age (SGA)
+in preterm infants was associated with severe ROP (OR=1.92, 95% CI
+1.57 to 2.34) and treated ROP (OR=1.39, 95% CI 1.18 to 1.65). Based
+on Newcastle-Ottawa Scale (NOS),14 studies had low risk of bias and
+seven studies had moderate risk.5, level I
+d. Supplemental oxygen
+In a secondary analysis of the Surfactant Positive Airway Pressure
+and Pulse Oximetry Trial (SUPPORT) trial on survived premature
+infants of 24 - 27 weeks’ gestational age, total duration of supplemental
+oxygen (SpO2 of 91% - 96%) between two and five weeks was
+associated with risk of severe ROP and this showed a dose-response
+relationship.6, level I
+A meta-analysis of five randomised controlled trials (RCTs) looked into
+the effect of targeting a lower oxygen saturation range in extremely
+preterm infants from birth or soon after. Although the lower SpO2 target
+group had a lower risk of treatment for ROP (RR=0.74, 95% CI 0.63
+to 0.86) than higher SpO2 target group, it had a higher risk of death
+(RR=1.17, 95% CI 1.04 to 1.31). Using Cochrane Risk of Bias, the trials
+were assessed as being at low risk of bias for all domains.7, level I These
+findings were supported by an earlier Cochrane systematic review on
+the same five RCTs but based on an analysis using aggregated data.7,
+level I
+e. Blood transfusion
+In another meta-analysis, 13 cohort studies on preterm infants with
+a GA of ≤32 weeks showed that red blood cell transfusion was an
+independent risk factor for the development of ROP (OR=1.77, 95%
+Management of Retinopathy of Prematurity (Second Edition)
+CI 1.29 to 2.43). However, there was no evidence to support its effect
+of red blood cell transfusion on ROP in the older GA groups. The
+Newcastle-Ottawa Scale (NOS) score of the included studies ranged
+from 6 to 8.8, level I
+f. Sepsis
+A meta-analysis of 16 studies demonstrated that sepsis being strongly
+associated with severe ROP (OR=2.33, 95% CI 1.21 to 4.51). However,
+the primary studies had high heterogeneity and were rated as low in
+quality.9, level I
+Chorioamnionitis was significantly associated with development of
+AROP.4, level II-2
+g. Necrotising enterocolitis
+A multicentre cohort study determined the association of surgical
+necrotising enterocolitis (NEC) and its timing with the development
+of ROP. The findings supported the association of ROP with
+NEC:10, level II-2
+• infants with surgical NEC had higher risk of any ROP and severe
+ROP than those without [OR of 2.7 (95% CI 1.9 to 3.7) and 2.5
+(95% CI 1.9 to 3.3) respectively]
+• subgroup analysis showed that infants with early surgical NEC
+were at higher ROP risk than late surgical NEC
+There was no significant difference in co-morbidities [chronic
+lung disease, severe intraventricular haemorrhage (Grades III or
+IV), hydrocephalus, patent ductus arteriosus and periventricular
+leukomalacia] between the early and late surgical NEC groups.
+Management of Retinopathy of Prematurity (Second Edition)
+3. IDENTIFICATION AND SCREENING OF INFANTS AT RISK
+3.1 Screening Criteria
+Screening for ROP has been recommended to be carried out for infants
+with either:2
+• BW <1500 g
+• GA <32 weeks
+• infants with an unstable clinical course who are at high risk (as
+determined by the neonatologist or paediatrician)
+In the United Kingdom (UK), the screening criteria for ROP is GA <31
+weeks (up to and including 30 weeks and six days) and/or BW <1501
+g11 whereas in the United States of America (USA), the criteria is set at
+GA ≤30 weeks and/or BW ≤1500 g.12
+In a systematic review of 18 studies on screening for ROP in premature
+infants, the risk of ROP was 30.7% in those born at GA ≤30 weeks or
+BW ≤1500 g. The risk increased to 62.9% among those who were ≤27
+weeks of GA and/or ≤750 g BW. The odds of developing ROP was 1.4
+times for every week decrease in GA and 1.8 times for every 100 g
+decrease in BW.13, level II-2
+In a cross-sectional study on severe ROP, 13% of infants in moderate/
+low developed countries had BW and GA exceeding the UK screening
+criteria.14, level III
+A prospective study using USA and UK screening criteria for ROP in
+more mature and larger premature infants, the findings were:15, level III
+• premature infants with BW >1500 g had 34.6% ROP and 25.9%
+of them required treatment
+• 25.8% of premature infants with GA >32 weeks had ROP and
+10.8% of them needed treatment
+• 14.7% treatment-requiring ROP would have been missed based
+on the USA screening criteria
+• 9.4% with severe ROP would have been missed based on the UK
+screening criteria
+Based on the evidence discussed above, the CPG DG has decided to
+revise the screening criteria using the BW <1750 g and GA <34 weeks.
+Recommendation 1
+• Screening for retinopathy of prematurity should be done for infants
+with either one of the following criteria:
+ birth weight <1750 g
+ gestational age <34 weeks
+ infants with an unstable clinical course who are at high risk (as
+determined by the neonatologist or paediatrician)
+Management of Retinopathy of Prematurity (Second Edition)
+Timing to screen ROP is important as well. As ROP takes the longest
+to develop in the most immature infants, too early a screening may not
+detect any abnormalities. If it is done late, there is a risk of development
+of poor outcomes due to late detection of prethreshold ROP that require
+treatment.
+In a five years retrospective cohort study on the optimisation of
+screening guidelines on ROP in premature infants, the findings
+were:16, level II-2
+a. median postnatal age (PNA) at developing ROP was inversely
+associated with GA at birth for premature infants i.e. -
+• for GA <25 weeks, PNA was 8.57 weeks (range of 6.00 - 11.71)
+• for GA between 25 to 34 weeks, PNA were between 4.29 and
+7.71 weeks
+• for GA >34 weeks, PNA was 4.71 weeks (range of 1.71 - 11.43)
+b. no infant developed Type 1 ROP or other ROP needing treatment:
+• before reaching a post-menstrual age (PMA) <32 weeks
+regardless of GA
+• before reaching a PNA of four weeks for premature infant with
+a GA of <32 weeks
+Timing of the initial examination is based on both PMA and PNA
+where 99% of infants at risk of a poor visual outcome can be detected.
+The recommended optimum timing for first screening is shown in
+Appendix 3.
+Recommendation 2
+• First examination to detect retinopathy of prematurity should be
+done based on post-menstrual age and post-natal age.
+3.2 Counselling
+Counselling is an important component in the management of ROP.
+It has to be done in a safe, timely and coordinated manner to prevent
+delays in management and alleviate uncertainties in parents’/carers’
+mind. These can help them in the overall care of their infants including
+regular check-ups through positive communications with the healthcare
+providers.17, level III
+There are a few aspects to be considered when delivering the
+counselling to parents/carers of the infants. They are:
+• Who need to be screened?
+Infants delivered <34 weeks of gestation or BW <1750 g
+• Why screening and treatment is needed?
+ROP can cause blindness and permanent damage to the retina if
+timely screening and treatment is not carried out.
+Management of Retinopathy of Prematurity (Second Edition)
+• What are the available options for treatment?
+Laser photocoagulation for severe ROP (stage 3 and above).
+Anti-VEGF injection can also be offered in some severe ROP.
+• What are the adverse events (AEs) of treatment?
+Infant’s eye may look red and swollen. Low incidence of eye
+infection, cataract and life-long risk of retinal detachment (RD)
+have been reported.
+• What are the monitoring criteria for treated infants?
+Infants are reviewed between two days to a week after treatment.
+Up to 10% of treated infants may require retreatment.
+Counselling should be given prior to screening and initiation of
+treatment.18
+• The counselling on screening can be given by paediatric doctors
+and Neonatal Intensive Care Unit (NICU) nurses while counselling
+on treatment is only to be delivered by the treating ophthalmologists.
+Recommendation 3
+• Counselling on timely screening and treatment should be given to
+parents/carers of infants at risk and diagnosed with retinopathy of
+prematurity.
+3.3 Preparation for Screening
+For effective screening purposes, the eyes need to be fully dilated. In
+local clinical practice, the infants are usually kept fasted from the time of
+dilatation. Excess drops are needed to be wiped off to reduce systemic
+absorption and side effects.
+a.
+Dilating regime
+A systematic review showed that heterogeneous combinations of
+mydriatic eye drops (cyclopentolate, tropicamide and phenylephrine)
+were generally effective and safe to be used for ROP examination.
+The lowest concentration regimen to provide adequate dilatation was a
+combination of phenylephrine 1% and cyclopentolate 0.2% (one drop
+each). Systemic absorption of mydriatics had been associated with
+clinically significant and sometimes life-threatening cardiovascular,
+respiratory and gastrointestinal AEs.19, level I The quality of the primary
+papers was low to moderate.
+Management of Retinopathy of Prematurity (Second Edition)
+• Combination of Gutt cyclopentolate 0.2% and Gutt phenylephrine
+1% (e.g. Gutt cyclomydril) may be used as the preferred dilating
+regime.
+• Monitoring for AEs are strongly advised in the use of mydriatic eye
+drops.
+Alternative
+dilating
+regimes
+and
+their
+pharmacokinetics
+and
+pharmacodynamics are shown in Appendix 4.
+b.
+Pain relief
+A meta-analysis of four RCTs found that sucrose was significantly
+more effective than placebo to reduce pain during ROP examination
+in preterm infants. The concentration of sucrose used in these studies
+ranged at 24% to 33%. However, there may be a combined effect of
+topical anaesthesia as it was used in three of the RCTs. Apart from that,
+topical anaesthetic eye drops alone showed mixed results in reducing
+pain while non-pharmacological interventions e.g. swaddling, sucking
+and adjusting the environment (dim lighting with reduced sound and
+activity level) did not significantly reduced pain. Overall, the quality of
+the studies included was good.20, level I
+A large RCT demonstrated that 1 ml of oral sucrose 25% given for
+two minutes along with topical anaesthesia before ROP examination
+significantly reduced clinically-observed pain based on Neonatal Infant
+Pain Scale.21, level I
+• Oral sucrose should be considered to be used with topical
+anaesthesia in retinopathy of prematurity examination.
+3.4 Screening Methods
+a.
+Conventional gold standard
+The conventional screening methods for ROP is performed by the
+ophthalmologist using a gold standard which is the Binocular Indirect
+Ophthalmoscopy (BIO) in fully dilated eyes. Through technological
+evolution, new screening methods using imaging techniques have been
+introduced e.g. digital retinal photography and smart phone-assisted
+imaging techniques.
+b.
+Digital retinal photography
+In a systematic review, ROP screening by non-ophthalmologists using
+digital retinal photography was shown to be a potentially useful tool
+to diagnose treatment-warranted ROP (TW-ROP) or referral-warranted
+ROP compared with BIO.22, level II-2
+Management of Retinopathy of Prematurity (Second Edition)
+A diagnostic study supported the use of wide-field digital retinal imaging
+in the diagnosis of severe and TW-ROP with 100% sensitivity and
+specificity. However, BIO remained superior in detection of mild ROP in
+the peripheral fundus.23, level III
+In a cross-sectional study, wide-field digital retinal photography by
+neonatal nurses was effective for diagnosing referral-warranting ROP
+with a sensitivity of 80% and specificity of 94.5%.24, level III
+c.
+Telemedicine
+A multicentre diagnostic study showed that remote interpretation of
+digital fundus images was a useful adjunct for ROP screening with BIO
+as a reference standard. The sensitivities were high at 92% for both
+clinically significant ROP and prethreshold Type I ROP.25, level III
+The Stanford University Network for Diagnosis of ROP (SUNDROP)
+study on 6-year telemedicine initiative reported high diagnostic accuracy
+of retinal images done by trained nurses remotely and interpreted by a
+ROP specialist in a centre. All images were compared with the gold
+standard of BIO results by a paediatric retinal specialist. The sensitivity
+was 100%, specificity 99.8%, positive predictive value (PPV) 95.5%
+and negative predictive value (NPV) 100% for the detection of TWROP. There were no adverse anatomical outcomes observed.26, level III
+On the other hand, the Karnataka Internet Assisted Diagnosis of
+ROP (KIDROP) tele-ROP model required trained technicians to
+identify patients with TW-ROP and send images to the ROP expert
+for verification. Once ROP were confirmed, the patient underwent BIO
+before treatment was instituted. The sensitivity, specificity, PPV and
+NPV of image grading by the technician were 95.7% (95% CI 85.1 to
+99.3), 93.2% (95% CI 87.7 to 96.7), 81.5% (95% CI 68.6 to 90.7) and
+98.6% (95% CI 94.9 to 99.8) respectively.27, level III
+Recommendation 5
+• Binocular indirect ophthalmoscopy (BIO) should be used for
+screening retinopathy of prematurity (ROP) and performed by the
+ophthalmologist.
+• Wide-field retinal imaging should be considered to detect treatmentwarranted or referral-warranted ROP.
+ This may be done by non-ophthalmologists with remote
+interpretation via telemedicine.
+ The findings should be confirmed by BIO prior to treatment.
+Management of Retinopathy of Prematurity (Second Edition)
+4. CLASSIFICATION
+The ICROP-3 has been published in 2021. It retains current definitions
+e.g. zone (location of disease), stage (appearance of disease at the
+avascular and vascular junction) and circumferential extent of disease.
+The major updates include:28, level III
+• refined classification metrics (e.g. posterior zone II, notch,
+subcategorisation of stage 5 and recognition of continuous
+spectrum of plus disease)
+• definition
+of
+AROP
+replacing
+aggressive-posterior
+ROP
+(APROP) because of increasing recognition that aggressive
+disease may occur in larger preterm infants and beyond the
+posterior retina
+Figure 1: Updates of Retinal Zones for ROP
+Source: Chiang MF, Quinn GE, Fielder AR, et al. International Classification
+of
+Retinopathy
+of
+Prematurity,
+Third
+Edition.
+Ophthalmology.
+2021;128(10):e51-e68
+Figure 1 illustrates the updates of the retinal zones in ICROP-3 which
+shows schema of right eye (RE) and left eye (LE) zone borders and
+clock hour sectors. It describes the location of vascularisation and
+extent of retinopathy. Refer to:
+• Appendix 5 on Summary of Key Components of International
+Classification of Retinopathy of Prematurity Third Edition
+• Appendix 6 for visual illustration of ROP
+Management of Retinopathy of Prematurity (Second Edition)
+5. NATURAL COURSE OF DISEASE
+There are a few landmark studies on ROP. One of them is the Early
+Treatment for ROP (ETROP), a large multicentre RCT which was
+published in 2005. It recruited infants with BWs <1,251 g and at highrisk bilateral prethreshold ROP. The study population had one eye
+randomised to early retinal ablative treatment (laser photocoagulation
+or cryotherapy) and the fellow eye managed conventionally (control
+eye).29, level I A few publications were produced from this main study.
+A study, part of ETROP, addressed on the natural progression of Type 2
+to Type 1 ROP. A total of 22% Type 2 ROP cases progressed to Type 1
+with a mean interval of 9.0±6.6 day while 11.5% progressed in less than
+seven days. In the latter, the risk of progression was greatest between
+33- and 36-weeks’ PMA regardless of zone of retinopathy. It was shown
+that Type 1 ROP can be identified with weekly examinations in most
+eyes with an initial diagnosis of Type 2 ROP.30, level I
+In a national population-based study on preterm infants born before
+27 weeks’ gestation, the natural history of ROP was analysed and
+showed:31, level II-2
+• a total of 72.7% of infants developed ROP
+• symmetrical stages of ROP in both eyes were at 83.8% and the
+correlation for the maximal stage of ROP was significant
+• ROP was first localised temporally in 48.7% eyes, nasal retina in
+27.6% eyes and, both temporally and nasally in 23.7% eyes
+• nasal onset was significantly associated with severe ROP, even
+after adjusting for gestational age at birth
+• time from onset of ROP to stage 3 was shorter in infants who met
+criteria for treatment* compared with those who did not (median
+14 vs 20.5 days; p<0.05)
+*refer to Appendix 7.
+In a cross-sectional study on the clinical features of untreated ROP with
+spontaneous regression, the following were noted:32, level III
+• onset of regression was at a median of 40 weeks PMA for acute
+ROP and completely regressed by a median of 49 weeks of PMA
+• average duration for regression was 8.5 weeks
+• zone II ROP and stage 3 ROP had a longer duration of regression
+with a later time for onset and completion of regression
+• anaemia and retinal haemorrhage were independent risk factors
+for delayed regression
+• among the abnormalities seen in spontaneously regressed ROP
+were avascular retina in temporal periphery (19.0%), increased
+vascular branching (6.8%), retinal pigmentary changes (6.8%)
+and, smaller angle between upper and lower temporal retinal
+vessel trunks (3.0%)
+Management of Retinopathy of Prematurity (Second Edition)
+In another cross-sectional study of acute ROP not requiring treatment,
+the natural involution (regression) and risk factors of delayed involution
+were identified:33, level III
+• involution began at a mean of 40.4 weeks PMA and completed
+at a mean of 50.6 weeks PMA with an earlier completion seen in
+zone III compared with zone II (p<0.01)
+• mildest disease (stage 1 at 38.1 weeks PMA) involuted earlier
+and latest with most serious disease (stage 3 at 42.3 weeks PMA)
+(p<0.01)
+• time taken to complete involution was longer in zone II than zone
+III (16.04±12.35 weeks vs 8.30±7.3 weeks) and stage 3 than stage
+1 and stage 2 disease (23.88±10.58 weeks, 2.03±0.96 weeks and
+7.69±4.75 weeks respectively; p<0.01)
+• significant risk factors for delayed involution were continuous
+positive airway pressure (CPAP), active stage 3 disease and
+anaemia
+• Nasal onset is significantly associated with severe ROP.
+• Risk of ROP progression is greatest between 33 and 36 weeks of
+PMA.
+• In Type 2 ROP, weekly follow-up may identify progression to Type 1
+ROP.
+• Regression of ROP occurs between 40 and 50 weeks of PMA.
+Management of Retinopathy of Prematurity (Second Edition)
+6. TREATMENT
+The principle of treatment in ROP is to remove the stimulus for
+growth of abnormal blood vessels. For acute proliferative phase, the
+treatment is targeted to decrease angiogenic activity of VEGF. It can
+be attained through ablation of the peripheral avascular retina by laser
+photocoagulation and intravitreal anti-VEGF. This will in turn reduce the
+incidence of RD and consequent blindness.
+6.1 Indication of Treatment
+Indication of treatment for Type 1 ROP according to the ETROP
+study:3, level I
+• zone I ROP: any stage with plus disease
+• zone I ROP: stage 3 without plus disease
+• zone II ROP: stage 2 or 3 with plus disease
+Refer to Appendix 7 on features of ROP that require treatment.
+6.2 Optimum Timing for Treatment
+The ETROP study on infants with Type 1 prethreshold ROP and treated
+within 48 hours showed:3, level I
+• significant improvement in visual acuity (VA) outcomes and
+structural outcomes at nine months of PMA
+• support for retinal ablative therapy for Type 1 ROP and a waitand-watch (minimum of 2-weekly) approach to Type 2 ROP
+The clinical guidelines on treating ROP in UK recommends the
+following:34
+• Infants with AROP or zone I stage 3 with plus ROP should be
+treated as soon as possible and within 48 hours.
+• Infants with zone I stage 1 or 2 ROP with plus disease, zone I
+stage 3 ROP without plus disease zone II stage 2 or 3 with plus
+disease should be treated within 48 - 72 hours.
+• The CPG RC and DG opine that weekly examination is required for
+monitoring Type 2 prethreshold ROP.
+Recommendation 6
+• Type 1 prethreshold retinopathy of prematurity should be treated
+within 48 hours* of diagnosis.
+*subject to infant’s stability
+Management of Retinopathy of Prematurity (Second Edition)
+6.3 Options of Treatment
+Treatment options for ROP can be divided into pharmacotherapies,
+ablative therapies and surgical interventions.
+6.3.1 Laser photocoagulation
+ROP can be treated with laser photocoagulation which targets the
+avascular retina. The laser application aims to reduce the high
+levels of VEGF produced in ROP and inhibit neovascularisation. The
+effectiveness and safety of transpupillary diode and argon laser are
+discussed below.
+The landmark study of ETROP supported significantly the use of laser
+photocoagulation in the reduction of unfavourable VA outcomes from
+19.8% to 14.3% and structural outcomes from 15.6% to 9.0% at 6 and
+9 months corrected age.3, level I
+A non-randomised clinical trial comparing the effectiveness and safety
+between transscleral and transpupillary diode laser photocoagulation
+found no significant difference in the rate of regression of new vessel
+and plus, refractive error, axial length and unfavourable structural
+outcome (macular dragging and progression to stage 4 and 5). However,
+transscleral laser generated larger areas of scarring and 2.8% of vitreal
+haemorrhage.35, level II-1
+In a cohort study on the effectiveness and safety of diode laser
+photocoagulation, the findings were:36, level II-2
+• a significant reduction in the plasma VEGF-A, vascular
+endothelial growth factor receptor-2 and endothelium-specific
+receptor tyrosine kinase levels at one day and one week after
+laser photocoagulation with resolution of active retinopathy within
+a week and no recurrence within a year
+• AE reported were bradycardia and/or oxygen desaturation along
+with minor preretinal bleeding during the treatment
+Two follow-up studies from the ETROP study looked into the AEs
+occurring after laser photocoagulation and cryotherapy. In the first
+study of six years follow-up, the incidence of glaucoma was 1.67% and
+this was noted in the first five years. All affected patients had poor visual
+outcomes. Glaucoma in ROP is often described as a narrow angle
+with a shallow anterior chamber associated with a retrolental
+membrane pushing the iris-lens diaphragm forward or a swollen
+lens.37, level I However, the intraocular pressure measurement is not
+routinely performed.
+The second study reported the incidence of cataract of 1.9% at 6
+months follow-up regardless of laser treatment status. Among the
+Management of Retinopathy of Prematurity (Second Edition)
+possible causes proposed for cataract formation were lens changes
+due to heat transferred from laser energy being absorbed by vessels on
+the lens capsule and anterior segment ischaemia.38, level I
+The clinical guidelines on treating ROP in UK recommends:34
+• treatment-requiring ROP in zone II (except posterior zone II)
+should be treated with laser photocoagulation
+• the first examination post-laser photocoagulation should take
+place 5 - 9 days after treatment and continue weekly till regression
+occurs
+• from 7 - 14 days, re-treatment with laser should be considered if
+disease regression is inadequate and untreated retinal areas are
+identified
+• rescue treatment with an anti-VEGF agent should be considered
+from 14 days if regression is inadequate despite optimal laser
+treatment being delivered
+Recommendation 7
+• Laser photocoagulation should be considered in the treatment of
+zone II (except posterior zone II) retinopathy of prematurity.
+Refer to Appendix 8 for Laser Photocoagulation in ROP.
+6.3.2 Intravitreal anti-vascular endothelial growth factor
+Anti-VEGF agents have been used as therapeutic agents for zone 1 ROP
+and AROP due to their ability to impede pathologic neovascularisation.
+Currently, the available drugs in Malaysia that inhibit VEGF are
+bevacizumab, ranibizumab and aflibercept. In MoH, ranibizumab is the
+only anti-VEGF authorised to be used for ROP. There were four metaanalyses comparing intravitreal anti-VEGF and laser photocoagulation
+in ROP. They found no difference in treatment outcomes and three
+studies showed reduction in risk of myopia in the anti-VEGF treated
+group. The details are described below.
+In the first meta-analysis of ten clinical trials on Type 1 and threshold
+ROP, anti-VEGF had higher retreatment incidence compared with
+laser photocoagulation (OR=2.52, 95% CI 1.37 to 4.66). However,
+there were no significant differences in terms of time between treatment
+and retreatment, recurrence and eye complications (e.g. corneal opacity,
+cataract, preretinal or intravitreal haemorrhage and RD). On the other
+hand, Spherical Equivalent (SE) (degree of myopia) was higher in laser
+photocoagulation (WMD=3.03 D, 95% CI 1.48 to 4.59). The quality of
+the primary papers in the meta-analysis was moderate.39, level I
+In a later meta-analysis of seven RCTs on ROP, there were no significant
+differences between anti-VEGF monotherapy (e.g. bevacizumab,
+Management of Retinopathy of Prematurity (Second Edition)
+ranibizumab, aflibercept and pegaptanib) and laser photocoagulation in
+the rates of recurrence, treatment switching, retreatment and mortality.
+However, there was less AEs (myopic changes and unfavourable
+structural outcomes e.g. macular ectopia, retinal folds, vitreous and
+retinal haemorrhages, and RD) in anti-VEGF (RR=0.17, 95% CI 0.07 to
+0.44). GRADE showed low to high quality assessment of the outcomes
+in the RCTs.40, level I
+A Cochrane systematic review revealed no differences between
+anti-VEGF
+(bevacizumab/ranibizumab)
+monotherapy
+and
+laser
+photocoagulation in preterm infants with Type 1 pretreshold ROP in the
+following outcomes:41, level I
+• risk of complete or partial RD
+• mortality before discharge
+• lens opacity requiring cataract removal
+• risk of recurrence of ROP requiring retreatment
+GRADE showed very low to low quality assessment of the outcomes
+in the trials.
+In the fourth meta-analysis, refractive error development in preterm
+children with severe ROP treated with anti-VEGF agents and laser
+photocoagulation was investigated. A total of two RCTs showed that the
+use of intravitreal bevacizumab was associated with less occurrence of
+refractive errors based on the following outcomes:42, level I
+• SE with mean difference (MD) of 4.65 (95% CI 2.02 to 7.29)
+• prevalence of high myopia with RR of 0.22 (95% CI 0.06 to 0.88)
+The risk of bias in both RCTs was reported as low and high.
+A multicentre cohort study analysed infants with ROP treated with
+bevacizumab or laser photocoagulation. The findings showed
+no association of ROP treatment modality in death or severe
+neurodevelopmental impairment. The higher mortality and poor
+cognitive outcomes in early childhood for bevacizumab group were
+due to lower BW, prolonged duration of conventional ventilation and
+supplemental oxygen.43, level II-2
+The ranibizumab vs laser therapy for the treatment of very low
+birthweight infants with ROP (RAINBOW) core trial compared the
+effectiveness and safety of intravitreal ranibizumab (0.2 mg and 0.1
+mg) with laser photocoagulation for very low birthweight infants (<1500
+g) with ROP found:44, level I
+• both 0.2 and 0.1 mg ranibizumab had greater treatment success
+although non-significant [OR of 2.19 (95% CI 0.99 to 4.82) and
+1.57 (95% Cl 0.76 to 3.26) respectively]; treatment success was
+defined by survival without active ROP, unfavourable structural
+outcomes or the need for a treatment modality other than that
+Management of Retinopathy of Prematurity (Second Edition)
+assigned (treatment switch) in both eyes up to 24 weeks after
+starting investigational treatment
+• both systemic and ocular AEs were similarly distributed between
+the three intervention groups
+In an extension study of two years of RAINBOW trial, the following
+outcomes were documented:45, level I
+• rate of structural abnormalities ranged from 2 to 9% in the study
+subjects; however, there was no significant difference in risk
+between ranibizumab 0.2 mg, ranibizumab 0.1 mg and laser
+photocoagulation groups
+• prevalence of high myopia per eye was lower in the 0.2 mg
+ranibizumab group than in the laser photocoagulation group (OR=
+0.19,95% CI 0.05 to 0.69) but there was no significant difference
+between ranibizumab 0.1 mg and laser or ranibizumab 0.2 mg
+and 0.1 mg groups
+• no significant difference in composite vision-related quality of life
+scores between ranibizumab 0.2 mg, ranibizumab 0.1 mg and
+laser photocoagulation groups
+• similar proportion of infants with neuro-development and growth
+between the three groups
+• no AEs related to the study intervention
+In post anti-VEGF, clinical guidelines on treating ROP in UK
+recommends the first examinations should take place 1 - 2 days and
+5 - 7 days after treatment to detect adverse effects of treatment. Regular
+examinations must be maintained to detect disease reactivation: weekly
+for 4 weeks, 2-weekly for a further 12 weeks and then 4-weekly for a
+further 8 weeks (total of 24 weeks) and up to 32 weeks in eyes treated
+for A-ROP with bevacizumab after treatment. Disease reactivation in
+the form of plus disease and / or extraretinal new vessels should be
+treated with transpupillary laser, to produce near-confluent ablation of
+the entire avascular retina.34
+Artificial intelligence based on vascular severity score (VSS) has been
+shown to detect disease regression and reactivation of ROP after antiVEGF. This tool can be potentially used in the monitoring of ROP after
+treatment.46, level I
+In the clinical guidelines on treating ROP in UK, treatment-requiring
+ROP in zone I should be treated with an intravitreous injection of an
+anti-VEGF agent.34
+• Anti-VEGF treatment should be avoided when any signs of fibrosis is
+present.
+Management of Retinopathy of Prematurity (Second Edition)
+Recommendation 8
+• Intravitreal anti-vascular endothelial growth factor (anti-VEGF)
+should be considered in the treatment of retinopathy of prematurity
+(ROP).
+ Zone I ROP should be treated with an anti-VEGF agent.
+The CPG DG opines that intravitreal anti-VEGF should be administered
+by paediatric ophthalmologist/retinal specialist/ophthalmologist who
+have been privileged by their healthcare facility. Refer to Appendix 9
+on Types and Properties of Anti-Vascular Endothelium Growth Factor and
+Appendix 10 for Procedure for Intravitreat Anti-VEGF Injection.
+6.3.3 Cryotherapy
+In the extension (15 years) cryotherapy for ROP (CRYO-ROP) study
+on threshold ROP treated with cryotherapy, the visual and structural
+outcomes were:47, level I
+• unfavourable VA (20/200 or worse) outcomes were found in
+44.7% of treated eyes and 64.3% of control eyes (p<0.001)
+• unfavourable structural outcomes structural outcomes e.g. RDs
+were found in 30% of treated eyes and 51.9% of control eyes
+(p<0.001)
+• new RDs developed at age 10 years even in eyes with relatively
+good structural findings, suggesting value in long-term, regular
+follow-up of eyes with threshold ROP
+• among the group of eyes with favourable outcomes between 10year and 15-year examinations, there were 4.5% treated eyes
+and 7.7% control eyes that developed a retinal fold, RD or the
+posterior pole was obscured by an ROP-related abnormality (band
+keratopathy and moderate corneal stromal opacity, with posterior
+vitreous abnormalities on ultrasonography and all fundus view
+obstructed)
+• Cryotherapy causes unfavourable structural and functional outcomes
+which rendered it not to be recommended in the treatment of ROP.
+6.3.4 Vitreoretinal surgery
+Effective screening and prompt treatment of acute ROP is important
+to minimise the number of infants that require vitrectomy surgery.
+Vitrectomy has been shown to show some effectiveness and safety in
+the treatment of ROP. These are mainly based on four case series. All
+showed the treatment was effective in ROP with anatomical success
+ranging between 61.7% and 100% in stage 4 and less in stage 5. Less
+than 10% of those who had vitrectomy for stage 4 ROP progressed to
+stage 5. Complications reported were glaucoma, vitreous haemorrhage,
+etc.48- 51, level III
+Management of Retinopathy of Prematurity (Second Edition)
+In one case series, factors significantly associated with favourable
+anatomical
+outcomes
+were
+stage
+4,
+prior
+treatment
+(laser
+photocoagulation ± anti-VEGF), surgery with 25G in comparison
+with 23G micro incision vitrectomy surgery (MIVS) and lens sparing
+vitrectomy (LSV). On the other hand, retinal break was significantly
+associated with poor anatomical outcomes.49, level III
+There was low level of evidence on scleral buckling in ROP. In a small
+case series of ROP stage 4, scleral buckling achieved:50, level III
+• 100% anatomical success in stage 4A and 50% in stage 4B
+• 50% favourable visual outcome in stage 4A and 12.5% in stage
+4B
+In another case series of ROP stage 4A, scleral buckling combined with
+anti-VEGF achieved 44.4% retinal reattachment while 55.6% required
+subsequent vitrectomy.51, level III
+• As soon as peripheral retinal traction has been detected, the infant
+should be referred for early vitreoretinal surgery.
+6.3.5 Adjunctive treatment
+In a Cochrane systematic review of three RCTs on the use of topical
+and systemic beta-blockers for prevention and treatment of ROP in
+preterm infants, the findings were:52, level I
+• beta-blockers prevented rescue treatment with anti-VEGF agents
+by 68% (RR=0.32, 95% CI 0.12 to 0.86)
+• beta-blockers prevented treatment with laser photocoagulation or
+cryotherapy by 46% (RR=0.54, 95% CI 0.32 to 0.89)
+• beta-blockers prevented progression to stage 2 ROP with
+plus disease, stage 3 to 5 but only progression to stage 3 was
+significant (RR=0.60, 95% CI 0.37 to 0.96)
+• AEs reported by one RCT were hypotension, bradycardia,
+bronchospasm and apnoea but they were not significant
+Based on the GRADE assessment, the primary papers were of
+moderate to low quality.
+• Beta-blockers have been shown to be an effective and safe new
+adjunctive treatment in ROP. AEs should be monitored in its use.
+In a systematic review of nine RCTs, the effectiveness of Enteral LongChain Polyunsaturated Fatty Acids (LCPUFA) was reviewed in the
+prevention of ROP and related outcomes. The primary studies were
+graded very low to low on various outcomes based on GRADE. The
+findings revealed LCPUFA was not effective in preventing any type
+of ROP (RR=0.95, 95% CI 0.73 to 1.12). However, there was a trend
+Management of Retinopathy of Prematurity (Second Edition)
+toward benefit in mitigating severe form of ROP (stage ≥3) with an RR
+of 0.59 (95% CI 0.35 to 0.99).53, level I
+6.4
+Treatment of Aggressive Retinopathy of Prematurity
+AROP is a rapidly progressive form of ROP. If not treated, the disease
+can progress to stage 5 ROP.
+A multicentre cohort study evaluated the preference of the treating
+ophthalmologist and treatment outcomes between anti-VEGF and laser
+photocoagulation as primary and additional treatment in AROP and
+Type 1 ROP. The findings showed:54, level II-2
+• anti-VEGF was selected when the ROP was located in zone I
+or posterior zone II, while laser photocoagulation when it was
+located in zone II
+• infants with AROP were twice more likely to require additional
+treatment than those with Type 1 ROP
+• when ROP reactivation occurred, laser photocoagulation was
+preferred as an additional treatment
+• eyes receiving additional treatment were due to inadequate
+treatment and reactivation of ROP
+An RCT reported the treatment outcomes of early (1-week post-
+intravitreal ranibizumab) vs deferred (6-weeks post-intravitreal
+ranibizumab) laser photocoagulation in infants of AROP after initial
+treatment with intravitreal ranibizumab. The findings were:55, level I
+• no significant difference in favourable structural outcomes
+(complete regression) between the two groups at six weeks
+• eyes undergoing deferred laser had significantly fewer number of
+laser spots and less myopia at six months after laser treatment
+However, there was no blinding and intention-to-treat analysis
+mentioned in the paper.
+In a small cross-sectional study on APROP treated with intravitreal
+ranibizumab
+injection,
+there
+was
+100%
+success
+in
+retinal
+attachment
+and
+disappearance
+of
+neovascularisation.56,
+level
+III
+In the clinical guidelines on treating ROP in UK, treatment-requiring APROP and ROP in zone I should be treated with an intravitreous injection
+of an anti-VEGF agent.34
+Recommendation 9
+• Anti-vascular endothelial growth factor (anti-VEGF) is the preferred
+choice in treating aggressive retinopathy of prematurity.
+Management of Retinopathy of Prematurity (Second Edition)
+6.5
+Rescue Treatment
+Based on the evidence discussed above, treatment of ROP depends
+on ROP subtypes, location and reactivation. Laser therapy is the
+gold standard treatment for ROP located in zone II. Anti-VEGFs are
+preferred primary treatment in AROP and posterior disease. If rescue
+treatment is required, either laser photocoagulation or anti-VEGF may
+be selected.44 level I; 55, level I
+Management of Retinopathy of Prematurity (Second Edition)
+7. MONITORING AND DISCHARGE CRITERIA FOR RETINOPATHY
+OF PREMATURITY SCREENING
+The follow-up of ROP screened infants forms a crucial burden on the
+healthcare system as well as time consuming for parents in bringing
+their infants for frequent follow-up. Thus, it is important to identify the
+subgroup of ROP screened infants who require long-term follow-up and
+those who can be safely discharged to existing healthcare system.
+In a prospective cohort study done prior to ETROP on infants with BW
+≤1500 g who underwent ROP screening until the subjects reached 10
+years of age, 25% had visual dysfunction. Neurological complications,
+cryotreated ROP and anisometropia were risk factors for predicting
+visual dysfunction.57, level II-2
+Another prospective cohort study with seven years follow-up showed
+that patients with severe ROP rapidly progressed toward myopia,
+particularly during the first 1.3 years, compared with those with mild/
+no ROP.26, level II-2
+In a case-control study which compared spontaneously regressed
+ROP (zone II and III) and no ROP, the mean PMA at first cycloplegic
+refraction was 7.5±4.0 months. The main findings were:58, level II-2
+• 21.9% of spontaneously-regressed ROP developed myopia
+compared with 8.8% eyes without ROP
+• among
+those
+with
+spontaneously
+regressed
+ROP
+with
+vascularisation halted at zone II, 44% had myopia
+• SE differed by zone of retinal vascularisation (p<0.0001)
+Thus, infants with halted vascular growth in zone II should be closely
+monitored for myopia.
+In another case-control study comparing ROP cases which had
+resolved by 50 weeks vs those resolved beyond 50 weeks, significant
+factors associated with delayed resolution were:59, level II-2
+• increasing severity of ROP (higher stage, lower zone, plus/preplus disease)
+• Type 2 ROP
+• <28 weeks gestational age
+• third percentile BW on Fenton preterm birth chart
+• positive blood culture sepsis
+• NEC
+• intraventricular haemorrhage
+• bronchopulmonary dysplasia
+No infant developed Type 1 ROP after 50 weeks PMA.
+Two retrospective cohort studies looked into the outcomes of treated
+ROP. In the first study on 115 babies with stage-3 ROP persisting
+Management of Retinopathy of Prematurity (Second Edition)
+beyond 40-weeks of PMA, a vast majority of 80.8% eyes with ROP
+resolved spontaneously while 19.2% eyes were treated with laserphotocoagulation. Apart from that, majority of eyes with stage 3 ROP
+(89.5%) resolved by 50 weeks while the remainder resolved by 61
+weeks PMA.60, level II-2
+The second smaller study on 28 eyes of Type 1 ROP treated with
+intravitreal bevacizumab showed that all completely regressed by four
+weeks. Within the first three months, 60.7% eyes developed recurrence
+to stage 1 or 2 after regression. At a mean of 24 months, 39% of eyes
+were not vascularised into zone III as seen on fluorescein angiography
+with scleral indentation.61, level II-2
+The UK Screening of ROP guideline recommends that infants without
+ROP should have continued examinations until vascularisation has
+extended into zone III.11 The CPG DG opines that screening should be
+done until the retina is completely vascularised.
+Recommendation 10
+• Discharge from retinopathy of prematurity screening should be done
+when retina is completely vascularised.
+Management of Retinopathy of Prematurity (Second Edition)
+8. FOLLOW-UP
+An RCT, which is part of ETROP, examined the prevalence of myopia
+and high myopia at 6- and 9-month post-term and, 2- and 3-year
+postnatal findings. It showed:62, level I
+• prevalence of myopia at 6- and 9-month post-term were
+significantly higher in conventional management eyes than in early
+treated eyes; however, there was no difference in the prevalence
+of high myopia
+• prevalence of myopia and high myopia were similar at 2- and
+3-year postnatal
+• in both treatment groups, there was an increase in prevalence
+of myopia over time, occurring mostly between 6- and 9-month
+post-term while in contrast, prevalence of high myopia increased
+at each successive age up to three years
+A prospective cohort study evaluated the extent to which refractive
+morbidity at six and 24 months of PMA is correlated to preterm birth or
+ROP compared with full-term infants. Those with laser-treated severe
+ROP had the highest prevalence of refractive errors during the first two
+years of life. The refractive errors increased significantly across the
+ages and these findings indicated that monitoring on it was required for
+at least two years. Furthermore, SE in eyes with regressed ROP and
+those without ROP was significantly lower than eyes of full-term infants
+at the first refraction (six months). However, there was no difference
+in the prevalence of refractive errors at age of two years among those
+without ROP, with regressed ROP and full-term infants. The study also
+suggested that spontaneously regressed ROP and no ROP should not
+be used as a criterion for follow-up examinations of refractive errors
+during the first two years of life.63, level II-2
+In a retrospective observational study on changes in refractive errors
+in preterm infants with and without ROP in the first six years of life,
+significant increase in myopia values was noted only between first and
+third-year examinations in the severe ROP (treated) group. However,
+no significant trend was observed in the mild/no ROP groups. There
+was also no significant trend in astigmatism and anisometropia seen in
+both mild/no and severe ROP groups.64, level III
+A recent retrospective study in Taiwan showed that approximately onethird of ROP eyes with spontaneous regression or anti-VEGF injection
+exhibited persistent avascular retina when the children reached school
+age.65, level II-2 Thus, this indicates that patients with regressed ROP have
+long-term risk for ROP-related complications. Parental counselling with
+regard to this complication is essential.
+Management of Retinopathy of Prematurity (Second Edition)
+Based on the above evidence and expert opinion, the CPG DG proposes
+the following follow-up schedule as shown in the following table.
+*consists of VA, alignment, nystagmus, cycloplegic refraction and
+dilated fundoscopy
+Recommendation 11
+• Follow-up of infants with or without retinopathy of prematurity (ROP)
+should be done accordingly with complete eye examination* based
+on staging and treatment given
+*Refer to the above table
+• Complete eye examination* at 6
+months of age:
+○ if normal - VA at 4 years of age
+○ if abnormal - consult ophthalmologist
+Infants with PAR
+Infants with no ROP
+• Complete eye examination* at 6
+months of age:
+○ if normal - yearly examination until 5
+years of age
+○ if abnormal - consult ophthalmologist
+○ for laser treated infants, baseline
+visual field assessment may be
+performed based on the discretion
+of the treating ophthalmologist
+• Complete eye examination* at 6
+months of age:
+○ if normal - VA at 4 years of age
+○ if abnormal - consult ophthalmologist
+Outcomes of ROP
+Follow-up and Assessment
+• Regular follow-up at the discretion of
+the ophthalmologist with the possibility
+of fundus fluoresceine angiography
+(FFA) and laser photocoagulation
+Infants
+treated
+with
+laser
+photocoagulation or anti-VEGF
+and fully vascularised
+Infants
+with
+spontaneous
+regression and fully vascularised
+Management of Retinopathy of Prematurity (Second Edition)
+9. REHABILITATION
+ROP is a globally important cause of childhood severe VI/blindness.
+Paediatricians and other paediatric professionals have a key role in
+its early detection and multidisciplinary management to minimise the
+impact of VI in childhood. These include:66, level III
+• Certification and registration of childhood visual impairment
+Certification of VI by the ophthalmologist will enable registration
+of the child at the social services or an equivalent governmental
+body for educational and welfare support.
+• Educational support
+Early referral/notification of children with severe VI/blindness
+allows involvement of specialised educational support. Assessment
+and prescription of optical and non-optical low vision aid could be
+provided.
+Low vision rehabilitation in children with VI including those with ROP
+improves significantly:67, level II-3
+• VA for distance and near vision
+• functional vision in relation to studying/reading lifestyle, reading
+textbook at arm’s length, writing along a straight line and other
+generalised activities
+A recent RCT showed that early visual training (along with environmental
+adaptations and high social engagement) improved vision-related
+performance and specific aspects of neurological development
+outcomes in infants with both peripheral and cerebral VI.68, level I
+In the local setting, infants with low vision/blindness should be referred
+to occupational therapy for an early intervention programme in the
+respective healthcare facility. Older children should have access to all
+relevant rehabilitation services. They should also be registered with
+the Jabatan Kebajikan Masyarakat (Department of Social Welfare)
+for placement in special education. Refer to Appendix 11. Malaysian
+Association for the Blind and other relevant non-governmental
+organisations providing training/support for these children.
+Recommendation 12
+• Visual rehabilitation should be provided to all visually-impaired
+children.
+Management of Retinopathy of Prematurity (Second Edition)
+10. IMPLEMENTING THE GUIDELINES
+The management of ROP should be guided by evidence-based
+approach in order to provide quality care to the patients. Several factors
+may affect the implementation of recommendations in the CPG.
+10.1
+Facilitating and Limiting Factors
+Existing facilitators for application of the recommendations in the CPG
+include:
+• wide dissemination of the CPG (soft- and hardcopies) to
+healthcare providers and institutions
+• training and updates on the management of ROP in relevant
+scientific and professional meeting, seminar, conference etc.
+• Malaysian National Neonatal Registry which includes data on
+ROP by MoH hospitals and Vermont Oxford Network by MoHE
+hospitals
+Existing barriers for application of the recommendations of the CPG
+are:
+• limited awareness and knowledge among healthcare providers on
+ROP and its management
+• lack of awareness and understanding among parents/carers on
+the importance of prematurity and risk of ROP
+• lack of expertise and facilities in diagnosing ROP and delivering
+its treatment
+10.2
+Potential Resource Implications
+Although ROP is uncommon, it is a treatable condition. Early
+identification is crucial as early treatment will provide favourable visual
+outcomes including prevention of blindness.
+Screening on preterm infants at risk of ROP is strongly advocated.
+Trained
+ophthalmologists,
+other
+healthcare
+professionals
+(neonatologists/paediatricians) and nurses are required in the screening.
+BIO is currently the gold standard method of screening, however there
+is emerging evidence on the potential use of digital imaging techniques
+and telemedicine which require financial and infrastructural support.
+Regular screening is essential until the retina has matured and no
+complications developed.
+The main options for treatment of ROP is laser photocoagulation
+and anti-VEGF. The latter requires skilled ophthalmologist and the
+availability of the medications. Apart from that, patient may need to be
+referred to a secondary or tertiary centre for further treatment. Visual
+Management of Retinopathy of Prematurity (Second Edition)
+rehabilitation is an important component in the long-term management
+of ROP. In summary, screening, diagnosis, treatment, follow-up and
+rehabilitation in ROP has resource implications in their implementation.
+The following is proposed as clinical audit indicator for quality
+management of ROP:
+Implementation strategies will be developed following the approval of
+the CPG by MoH which include quick reference, launching of the CPG
+and, Training Module and training of healthcare providers in using it.
+• Percentage of
+infants at risk
+of ROP* having
+first examination
+to detect ROP
+based on PMA
+and PNA
+=
+Number of infants at risk of ROP having
+first examination to detect ROP
+in the same period
+Number of infants at risk of ROP having
+first examination to detect ROP based on
+PMA and PNA in a period
+x100%
+Management of Retinopathy of Prematurity (Second Edition)
+References
+1.
+Malaysian National Neonatal Registry and Clinical Research Centre, Ministry of
+Health Malaysia, Kuala Lumpur 2019.
+2.
+Ministry of Health. Management of Retinopathy of Prematurity. Kuala Lumpur:
+MoH; 2005
+3.
+Good WV. Final results of the Early Treatment for Retinopathy of Prematurity
+(ETROP) randomized trial. Trans Am Ophthalmol Soc. 2004;102:233-48;
+discussion 48-50.
+4.
+Ahn YJ, Hong KE, Yum HR, et al. Characteristic clinical features associated with
+aggressive posterior retinopathy of prematurity. Eye (Lond). 2017;31(6):924-30.
+5.
+Razak A, Faden M. Association of small for gestational age with retinopathy
+of prematurity: a systematic review and meta-analysis. Arch Dis Child Fetal
+Neonatal Ed. 2020;105(3):270-8.
+6.
+Gantz MG, Carlo WA, Finer NN, et al. Achieved oxygen saturations and
+retinopathy of prematurity in extreme preterms. Arch Dis Child Fetal Neonatal
+Ed. 2020;105(2):138-144.
+7.
+Askie LM, Darlow BA, Finer N, et al. Association Between Oxygen Saturation
+Targeting and Death or Disability in Extremely Preterm Infants in the
+Neonatal Oxygenation Prospective Meta-analysis Collaboration. Jama.
+2018;319(21):2190-201.
+8.
+Zhu Z, Hua X, Yu Y, et al. Effect of red blood cell transfusion on the development
+of retinopathy of prematurity: A systematic review and meta-analysis. PLoS One.
+2020;15(6):e0234266.
+9.
+Wang X, Tang K, Chen L, et al. Association between sepsis and retinopathy
+of prematurity: a systematic review and meta-analysis. BMJ Open.
+2019;9(5):e025440.
+10. Fundora JB, Binenbaum G, Tomlinson L, et al. Association of Surgical Necrotizing
+Enterocolitis and its Timing with Retinopathy of Prematurity. Am J Perinatol.
+2023;40(11):1178-1184
+11. The Royal College of Paediatrics and Child Health (RCPCH) and the Royal
+College of Ophthalmologists (RCOphth). UK screening and treatment of
+retinopathy of prematurity. Updated 2022 Guidelines. Early Hum Dev. 2023;177178:105715
+12. Section on Ophthalmology American Academy of Pediatrics; American Academy
+of Ophthalmology; American Association for Pediatric Ophthalmology and
+Strabismus. Screening examination of premature infants for retinopathy of
+prematurity. Pediatrics. 2006;117(2):572-6
+13. Yu CW, Popovic MM, Dhoot AS, et al. Demographic Risk Factors of Retinopathy
+of Prematurity: A Systematic Review of Population-Based Studies. Neonatology.
+2022;119(2):151-63.
+14. Gilbert C, Fielder A, Gordillo L, et al. Characteristics of infants with severe
+retinopathy of prematurity in countries with low, moderate, and high levels of
+development: implications for screening programs. Pediatrics. 2005;115(5):e518-25.
+15. Xu Y, Zhou X, Zhang Q, et al. Screening for retinopathy of prematurity in
+China: a neonatal units-based prospective study. Invest Ophthalmol Vis Sci.
+2013;54(13):8229-36.
+16. Yang Q, Zhou X, Ni Y, et al. Optimised retinopathy of prematurity screening
+guideline in China based on a 5-year cohort study. Br J Ophthalmol.
+2021;105(6):819-23.
+17. Jalali S, Krishnan DB. Counselling and co-opting parents to get best outcomes.
+Community Eye Health. 2018;31(101):S29-S31.
+Management of Retinopathy of Prematurity (Second Edition)
+18. The Royal College of Ophthalmologists. Information leaflet for parents and
+guardians - Treatment-for-Retinopathy of Prematurity (Available at: www.
+rcophth.ac.uk)
+19. Kremer LJ, Reith DM, Medlicott N, et al. Systematic review of mydriatics
+used for screening of retinopathy in premature infants. BMJ Paediatr Open.
+2019;3(1):e000448.
+20. Sun X, Lemyre B, Barrowman N, et al. Pain management during eye
+examinations for retinopathy of prematurity in preterm infants: a systematic
+review. Acta Paediatr. 2010;99(3):329-34.
+21. Costa MC, Eckert GU, Fortes BG, et al. Oral glucose for pain relief during
+examination for retinopathy of prematurity: a masked randomized clinical trial.
+Clinics (Sao Paulo). 2013;68(2):199-204.
+22. Athikarisamy SE, Patole S, Lam GC, et al. Screening for retinopathy of
+prematurity (ROP) using wide-angle digital retinal photography by nonophthalmologists: a systematic review. Br J Ophthalmol. 2015;99(3):281-8.
+23. Sekeroglu MA, Hekimoglu E, Sekeroglu HT, et al. Alternative methods for the
+screening of retinopathy of prematurity: binocular indirect ophthalmoscopy vs
+wide-field digital retinal imaging. Eye (Lond). 2013;27(9):1053-7.
+24. Athikarisamy SE, Lam GC, Ross S, et al. Comparison of wide field imaging
+by nurses with indirect ophthalmoscopy by ophthalmologists for retinopathy of
+prematurity: a diagnostic accuracy study. BMJ Open. 2020;10(8):e036483.
+25. Photographic
+Screening
+for
+Retinopathy
+of
+Prematurity
+(Photo-ROP)
+Cooperative Group. The photographic screening for retinopathy of prematurity
+study (photo-ROP). Primary outcomes. Retina. 2008;28(3 Suppl):S47-54.
+26. Wang J, Ren X, Shen L, et al. Development of refractive error in individual
+children with regressed retinopathy of prematurity. Invest Ophthalmol Vis Sci.
+2013;54(9):6018-24.
+27. Vinekar A, Gilbert C, Dogra M, et al. The KIDROP model of combining strategies
+for providing retinopathy of prematurity screening in underserved areas in India
+using wide-field imaging, tele-medicine, non-physician graders and smart phone
+reporting. Indian J Ophthalmol. 2014;62(1):41-9.
+28. Chiang MF, Quinn GE, Fielder AR, et al. International Classification of Retinopathy
+of Prematurity, Third Edition. Ophthalmology. 2021;128(10):e51-e68.
+29. Good WV, Hardy RJ, Dobson V, et al. The incidence and course of retinopathy
+of prematurity: findings from the early treatment for retinopathy of prematurity
+study. Pediatrics. 2005;116(1):15-23.
+30. Christiansen SP, Dobson V, Quinn GE, et al. Progression of type 2 to type 1
+retinopathy of prematurity in the Early Treatment for Retinopathy of Prematurity
+Study. Arch Ophthalmol. 2010;128(4):461-5.
+31. Austeng D, Källen KB, Hellström A, et al. Natural history of retinopathy of
+prematurity in infants born before 27 weeks’ gestation in Sweden. Arch
+Ophthalmol. 2010;128(10):1289-94.
+32. Wang L, Li M, Zhu J, et al. Clinical Features of Spontaneous Regression of
+Retinopathy of Prematurity in China: A 5-Year Retrospective Case Series. Front
+Med (Lausanne). 2021;8:731421.
+33. Ni YQ, Huang X, Xue K, et al. Natural involution of acute retinopathy of
+prematurity not requiring treatment: factors associated with the time course of
+involution. Invest Ophthalmol Vis Sci. 2014;55(5):3165-70.
+34. The Royal College of Ophthalmologists. Treating Retinopathy of Prematurity in
+the UK. London: RCOPHTH; 2022.
+35. Roohipourmoallai R, Faghihi S, Faghihi H, et al. Transscleral vs transpupillary
+diode laser photocoagulation for the treatment of zone II type 1 retinopathy
+of prematurity: Anatomical and refractive outcomes. Indian J Ophthalmol.
+2022;70(1):189-93.
+Management of Retinopathy of Prematurity (Second Edition)
+36. Yalin Imamoglu E, Gunay M, Gursoy T, et al. Effect of laser photocoagulation
+on plasma levels of VEGF-A, VEGFR-2, and Tie2 in infants with retinopathy of
+prematurity. J AAPOS. 2014;18(5):466-70.
+37. Bremer DL, Rogers DL, Good WV, et al. Glaucoma in the Early Treatment for
+Retinopathy of Prematurity (ETROP) study. J AAPOS. 2012;16(5):449-52.
+38. Davitt BV, Christiansen SP, Hardy RJ, et al. Incidence of cataract development
+by 6 months’ corrected age in the Early Treatment for Retinopathy of Prematurity
+study. J AAPOS. 2013;17(1):49-53.
+39. Li Z, Zhang Y, Liao Y, et al. Comparison of efficacy between anti-vascular
+endothelial growth factor (VEGF) and laser treatment in Type-1 and threshold
+retinopathy of prematurity (ROP). BMC Ophthalmol. 2018;18(1):19.
+40. Taher NO, Ghaddaf AA, Al-Ghamdi SA, et al. Intravitreal Anti-vascular
+Endothelial
+Growth
+Factor
+Injection
+for
+Retinopathy
+of
+Prematurity:
+A Systematic Review and Meta-Analysis. Front Med (Lausanne). 2022;9:884608.
+41. Sankar MJ, Sankar J, Chandra P. Anti-vascular endothelial growth factor (VEGF)
+drugs for treatment of retinopathy of prematurity. Cochrane Database Syst Rev.
+2018;1(1):CD009734.
+42. Tan QQ, Christiansen SP, Wang J. Development of refractive error in children
+treated for retinopathy of prematurity with anti-vascular endothelial growth
+factor (anti-VEGF) agents: A meta-analysis and systematic review. PLoS One.
+2019;14(12):e0225643.
+43. Natarajan G, Shankaran S, Nolen TL, et al. Neurodevelopmental Outcomes
+of Preterm Infants With Retinopathy of Prematurity by Treatment. Pediatrics.
+2019;144(2):2018-3537
+44. Stahl A, Lepore D, Fielder A, et al. Ranibizumab versus laser therapy
+for the treatment of very low birthweight infants with retinopathy of
+prematurity (RAINBOW): an open-label randomised controlled trial. Lancet.
+2019;394(10208):1551-9.
+45. Marlow N, Stahl A, Lepore D, et al. 2-year outcomes of ranibizumab versus
+laser therapy for the treatment of very low birthweight infants with retinopathy of
+prematurity (RAINBOW extension study): prospective follow-up of an open label,
+randomised controlled trial. Lancet Child Adolesc Health. 2021;5(10):698-707.
+46. Eilts SK, Pfeil JM, Poschkamp B, et al. Assessment of Retinopathy of Prematurity
+Regression and Reactivation Using an Artificial Intelligence-Based Vascular
+Severity Score. JAMA Netw Open. 2023;6(1):e2251512.
+47. Palmer EA, Hardy RJ, Dobson V, et al. 15-year outcomes following threshold
+retinopathy of prematurity: final results from the multicenter trial of cryotherapy
+for retinopathy of prematurity. Arch Ophthalmol. 2005;123(3):311-8.
+48. Macor S, Pignatto S, Capone A, Jr., et al. Lens-sparing vitrectomy for stage 4A
+retinopathy of prematurity in infants with aggressive-posterior ROP: Anatomic
+and functional results. Eur J Ophthalmol. 2021;31(4):2020-6.
+49. Sen P, Bhende P, Sharma T, et al. Surgical outcomes of microincision vitrectomy
+surgery in eyes with retinal detachment secondary to retinopathy of prematurity
+in Indian population. Indian J Ophthalmol. 2019;67(6):889-95.
+50. Ratanasukon M, Visaetsilpanonta S, Tengtrisorn S, et al. Outcomes of scleral
+buckling for stage 4 retinopathy of prematurity in Thai children. J Med Assoc
+Thai. 2006;89(10):1659-64.
+51. Shah RJ, Garcia-Gonzalez JM, Blair MP, et al. Concurrent Scleral Buckle and
+Intravitreal Bevacizumab for Advanced Retinopathy of Prematurity- Related
+Retinal Detachment. Retin Cases Brief Rep. 2016;10(2):183-6.
+52. Kaempfen S, Neumann RP, Jost K, et al. Beta-blockers for prevention and
+treatment of retinopathy of prematurity in preterm infants. Cochrane Database
+Syst Rev. 2018;3(3):CD011893.
+Management of Retinopathy of Prematurity (Second Edition)
+53. Diggikar S, Aradhya AS, Swamy RS, et al. Effect of Enteral Long-Chain
+Polyunsaturated Fatty Acids on Retinopathy of Prematurity: A Systematic
+Review and Meta-Analysis. Neonatology. 2022;119(5):547-57.
+54. Jang JH, Kang YK, Park HS, et al. Primary and additional treatment preference
+in aggressive retinopathy of prematurity and type 1 retinopathy of prematurity.
+BMJ Open Ophthalmology. 2023;8(1):e001166.
+55. Gangwe AB, Agrawal D, Gangrade AK, et al. Outcomes of early versus deferred
+laser after intravitreal ranibizumab in aggressive posterior retinopathy of
+prematurity. Indian J Ophthalmol. 2021;69(8):2171-6.
+56. Sahinoglu-Keskek N, Akkoyun I, Torer B. Favorable outcomes in the treatment
+of aggressive posterior retinopathy of prematurity. Eur J Ophthalmol.
+2021;31(1):179-83.
+57. Holmström G, Larsson E. Long-term follow-up of visual functions in prematurely
+born children--a prospective population-based study up to 10 years of age. J
+AAPOS. 2008;12(2):157-62.
+58. Dikopf MS, Machen LA, Hallak JA, et al. Zone of retinal vascularization and
+refractive error in premature eyes with and without spontaneously regressed
+retinopathy of prematurity. J AAPOS. 2019;23(4):211.e1–211.e6.
+59. Ahmad M, Patnaik J, Thevarajah T, et al. Delayed resolution of retinopathy of
+prematurity. J AAPOS. 2019;23(2):90.e1-90.e6
+60. Koucheki R, Isaac M, N NT, et al. Natural history and outcomes of stage 3
+retinopathy of prematurity persisting beyond 40 weeks of post-menstrual age:
+Dilemma for treatment and follow up. Clin Exp Ophthalmol. 2020;48(7):956-63.
+61. Isaac M, Tehrani N, Mireskandari K. Involution patterns of retinopathy of
+prematurity after treatment with intravitreal bevacizumab: implications for followup. Eye (Lond). 2016;30(3):333-41.
+62. Quinn GE, Dobson V, Davitt BV, et al. Progression of myopia and high myopia
+in the early treatment for retinopathy of prematurity study: findings to 3 years of
+age. Ophthalmology. 2008;115(6):1058-64.e1.
+63. Hsieh CJ, Liu JW, Huang JS, et al. Refractive outcome of premature infants with
+or without retinopathy of prematurity at 2 years of age: a prospective controlled
+cohort study. Kaohsiung J Med Sci. 2012;28(4):204-11.
+64. Kaya M, Berk AT, Yaman A. Long-term evaluation of refractive changes in eyes
+of preterm children: a 6-year follow-up study. Int Ophthalmol. 2018;38(4):1681-8.
+65. Ling XC, Kang EY, Huang JL, et al. Persistent Vascular Anomalies in Retinopathy
+of Prematurity Children: Ultrawide-field Fluorescein Angiography Findings until
+School Age. Ophthalmol Sci. 2023;3(3):100281.
+66. Solebo AL, Rahi J. Epidemiology, aetiology and management of visual
+impairment in children. Arch Dis Child. 2014;99(4):375-9.
+67. Ganesh S, Sethi S, Srivastav S, et al. Impact of low vision rehabilitation on
+functional vision performance of children with visual impairment. Oman J
+Ophthalmol. 2013;6(3):170-4.
+68. Fazzi E, Micheletti S, Calza S, et al. Early visual training and environmental
+adaptation for infants with visual impairment. Dev Med Child Neurol.
+2021;63(10):1180-93.
+Management of Retinopathy of Prematurity (Second Edition)
+Appendix 1
+EXAMPLE OF SEARCH STRATEGY
+Clinical Question: What are the effectiveness and safety of laser
+therapy in retinopathy of prematurity?
+1.
+RETINOPATHY OF PREMATURITY/
+2.
+(Retrolental adj1 fibroplasia*).tw.
+3.
+(Prematurity adj1 retinopath*).tw.
+4.
+LASER COAGULATION/
+5.
+(laser adj1 coagulation*).tw.
+6.
+(laser adj1 thermocoagulation*).tw.
+7.
+1 or 2 or 3
+8.
+4 or 5 or 6
+9.
+7 and 8
+10. limit 9 to (english language and humans and “all infant (birth to 23
+months)” and last 18 years)
+Management of Retinopathy of Prematurity (Second Edition)
+Appendix 2
+CLINICAL QUESTIONS
+1.
+Who should be screened for retinopathy of prematurity?
+2.
+What is the optimum timing for screening retinopathy of prematurity?
+3.
+What is the accuracy of screening methods for retinopathy of
+prematurity?
+• clinical
+• imaging
+4.
+What is the classification for retinopathy of prematurity?
+5.
+What are the risk factors for severe retinopathy of prematurity?
+6.
+What are the natural course of the disease in retinopathy of
+prematurity?
+7.
+What are the indications for treatment of retinopathy of prematurity?
+8.
+What is the optimum timing for treatment of retinopathy of
+prematurity?
+9.
+What are the effectiveness and safety of the following treatment in
+retinopathy of prematurity?
+• laser therapy
+• intravitreal anti-vascular endothelial growth factor
+• cryotherapy
+• vitreoretinal surgery - vitrectomy and scleral buckle
+• adjunctive treatment
+ orbital floor corticosteroids
+ topical nonsteroidal anti-inflammatory drugs
+ topical corticosteroids
+10. What are the discharged and monitoring criteria in retinopathy of
+prematurity with the following features?
+• premature babies
+ prematurity less than 30 weeks
+ without retinopathy of prematurity
+- fully vascularised retina
+- incomplete vascularised retina
+• babies with BW less than 1.5 kg
+11. What is the effective follow-up schedule in retinopathy of prematurity
+with the following features?
+Management of Retinopathy of Prematurity (Second Edition)
+• treated
+• non-treated
+• parameters at follow-up
+• reactivation and regression
+• use of artificial intelligence/imaging
+12. What are the effective/components of counselling for retinopathy of
+prematurity with the following features to parents/caregivers?
+• all babies at risk
+• infants that require treatment
+• on long term follow–up
+13. What are the effective rehabilitation methods of different period in
+retinopathy of prematurity?
+• short-term (vision)
+• long-term (special vocational training)
+Management of Retinopathy of Prematurity (Second Edition)
+Appendix 3
+OPTIMUM TIMING FOR FIRST RETINOPATHY OF
+PREMATURITY SCREENING
+GA: gestational age, PMA: postmenstrual age, PNA: postnatal age, BW: birth weight,
+g; gram
+Source: Wilkinson AR, Adams GGW, Fleck BW, et al. UK screening and treatment
+of retinopathy of prematurity Updated 2022 Guidelines. Early Hum Dev.
+2023;177-178:105715.
+22
+31
+9
+23
+31
+8
+24
+31
+7
+25
+31
+6
+26
+31
+5
+27
+31
+4
+28
+32
+4
+29
+33
+4
+30
+34
+4
+31
+35
+4
+>32
+36
+-
+GA (weeks)
+PMA (weeks)
+PNA (weeks)
+Management of Retinopathy of Prematurity (Second Edition)
+Appendix 4
+ALTERNATIVE DILATING REGIMES
+The dilating regime stated here is adopted from local practice of
+Paediatric Ophthalmology Department of Hospital Tunku Azizah (Kuala
+Lumpur Women and Children Hospital), the national’s main tertiary
+referral centre.
+In local clinical practice, the infants are usually kept fasted from the
+time of dilatation. Excess drops are needed to be wiped off to reduce
+systemic absorption and side effects.
+*vital signs monitoring is required for in-patient during dilating process
+(pre-ROP examinations) as well as during ROP examination
+**consider giving oral sucrose for supplementary pain relief
+0 min
+10 min
+20 min
+30 min
+40 min
+Once fully
+dilated**
+Gutt proparacaine 0.5% one drop
+Gutt tropicamide 1% one drop
+Gutt phenylephrine 2.5% one drop
+If eye(s) not fully dilated, top up with: Gutt tropicamide
+1% one drop
+If eye(s) not fully dilated, top up with: Gutt phenylephrine
+2.5% one drop
+If eye(s) not fully dilated, top up with: Gutt tropicamide
+1% one drop
+If eye(s) still not fully dilated, to rule out causes of poor
+pupillary dilatation
+Gutt proparacaine 0.5% prior to ROP examination
+Time interval
+Suggested eyedrops regime*
+Management of Retinopathy of Prematurity (Second Edition)
+PHARMACOKINETICS AND PHARMACODYNAMICS OF DILATING AGENTS
+NO.
+DILATING AGENTS
+PHARMACOKINETICS
+PHARMACODYNAMICS (MECHANISM OF ACTION)
+Cyclopentolate 1%
+Ophthalmic Solution
+Rapid onset, maximal cycloplegia occurs within 25 - 75
+minutes after instillation. Complete recovery of
+accommodation usually takes 6 - 24 hours. Complete
+recovery from mydriasis in some individuals may
+require several days. Heavily pigmented irides may
+require more doses than lightly pigmented irides.
+Mydriasis occur in 15 - 30 minutes and the duration of
+activity is approximately 3 - 8 hours. Complete recovery
+from mydriasis in some individuals may require 24
+hours.
+Cyclopentolate hydrochloride is an anticholinergic
+ophthalmic preparation that blocks the responses of the
+sphincter muscle of the iris and the stimulation of the
+ciliary
+body
+muscle
+achieving
+mydriasis
+and
+cycloplegia.
+Ophthalmic: Tropicamide is an anticholinergic agent
+that blocks the responses of the sphincter muscle of the
+iris and the accommodative muscle of the ciliary body to
+stimulation by acetylcholine. The 1% solution produces
+paralysis of accommodation (cycloplegia) as well as
+mydriasis.
+Tropicamide 1%
+Ophthalmic Solution
+1.
+2.
+Maximal mydriasis occurs in 20 - 90 minutes with
+recovery after 3 - 8 hours. Systemic absorption of
+sufficient quantities of phenylephrine may lead to
+systemic α-adrenergic effects, such as rise in blood
+pressure which may be accompanied by a reflex
+atropine-sensitive bradycardia.
+Phenylephrine hydrochloride is an α-1 adrenergic
+agonist drug that is used in ophthalmology mainly for its
+mydriatic effect. After topical application to the
+conjunctiva,
+phenylephrine
+acts
+directly
+on
+α-adrenergic
+receptors
+in
+the
+eye,
+producing
+contraction of the dilator muscle of the pupil and
+constriction of the arterioles in the conjunctiva.
+Phenylephrine 2.5%
+Ophthalmic Solution
+3.
+Management of Retinopathy of Prematurity (Second Edition)
+NO.
+DILATING AGENTS
+PHARMACOKINETICS
+PHARMACODYNAMICS (MECHANISM OF ACTION)
+Absorption
+• Following
+topical
+ocular
+administration,
+cyclopentolate is absorbed into the eye as well as the
+systemic
+circulation.
+Peak
+plasma
+drug
+concentrations range from 3.3 to 15.5 ng/mL (mean:
+8.3±4.1 ng/mL) and are achieved within 5 - 15
+minutes following the second dose.
+• Following
+topical
+ocular
+administration,
+phenylephrine is absorbed into the eye as well as the
+systemic circulation.
+Distribution
+• Ocular and systemic distribution of cyclopentolate
+has not been reported.
+Biotransformation
+• The metabolic pathways of cyclopentolate have not
+been reported in the literature.
+• Phenylephrine
+is
+primarily
+metabolised
+by
+conjugation, primarily as the sulfate with smaller
+amounts of glucuronide also formed.
+Elimination
+• The elimination mechanisms of cyclopentolate have
+not been reported in the literature.
+• Phenylephrine is primarily eliminated in the urine,
+primarily as the sulfate conjugate with smaller
+amounts of the glucuronide. Virtually no free parent
+drug is found in urine.
+Cyclopentolate
+is
+an
+anticholinergic
+drug
+and
+phenylephrine is an adrenergic drug. This combination
+induces mydriasis that is greater than that of either drug
+alone
+at
+its
+respective
+concentrations.
+The
+concentrations of cyclopentolate hydrochloride and
+phenylephrine hydrochloride have been selected to
+induce mydriasis with little accompanying cycloplegia.
+Heavily pigmented irides may require more doses than
+lightly pigmented irides.
+CYCLOMYDRIL
+(Cyclopentolate
+hydrochloride 0.2%
+and phenylephrine
+hydrochloride 1.0%)
+Ophthalmic Solution
+4.
+Source: Product Insert of the respective dilating agents.
+Management of Retinopathy of Prematurity (Second Edition)
+Appendix 5
+SUMMARY OF KEY COMPONENTS OF INTERNATIONAL
+CLASSIFICATION OF RETINOPATHY OFPREMATURITY
+THIRD EDITION
+The figure above illustrates retinal zones for ROP of right (RE) and left
+eye (LE) showing zone borders and clock hour sectors used to describe
+the location of vascularisation and extent of retinopathy. Solid circles
+represent borders of zones I through III, and dotted circles represent
+borders of posterior zone II (2 disc diameters beyond zone I).
+An example of examination findings is shown in LE, representing
+approximately 3 clock hours of stage 1 disease in zone II (note single
+line on drawing to document presence of stage 1 disease).
+The description of the zones for classification of ROP are as follows:
+• Zone I extends from the optic disc to a point double the distance
+from the disc to the fovea, a radius of 30˚.
+• Zone II is a circle surrounding the zone I circle with the nasal ora
+serrata as its nasal border.
+• Zone III is the residual crescent anterior to zone II.
+a. Definition of 3 retinal zones centred on
+the optic disc. The location of the most
+posterior retinal vascularisation or ROP
+lesion denotes the zone for the eye.
+b. Definition of a posterior zone II region
+that begins at the margin between zone I
+and zone II and extends into zone II for 2
+disc diameters.*
+c. The term notch is used to describe an
+incursion by the ROP lesion of 1 - 2 clock
+hours into a more posterior zone. The
+1. Zone (additional
+description)
+Management of Retinopathy of Prematurity (Second Edition)
+ROP zone for such eyes should be noted
+by the most posterior zone of retinal
+vascularisation with the qualifier “notch”
+(e.g., “zone I secondary to notch”).*
+1. Plus and Preplus Disease
+Plus disease is defined by the appearance
+of dilation and tortuosity of retinal vessels,
+and
+Pre-plus disease is defined by abnormal
+vascular dilation, tortuosity insufficient for
+plus disease, or both.
+Recognition that retinal vascular changes
+in ROP represent a continuous spectrum
+from normal to pre-plus to plus disease,
+with sample images demonstrating this
+range.* These changes should be assessed
+by vessels within zone I, rather than from
+only vessels within the field of narrowangle photographs and rather than from the
+number of quadrants of abnormality.*
+2. Stage of
+Acute Disease
+(Stages 1 - 3)
+Stage 1: Demarcation line
+Stage 2: Ridge
+Stage 3: Extraretinal neovascular
+proliferation or flat neovascularisation
+If more than 1 ROP stage is present, the
+eye is classified by the most severe stage.
+3. Retinal
+Detachment
+(Stages 4 and 5)
+Stages of RD are defined as
+a. Stage 4 (partial RD)
+4A: with fovea attached
+4B: with fovea detached
+b. Definition of stage 5 (total RD):
+Stage 5A: in which the optic disc is visible
+by ophthalmoscopy (open- funnel
+detachment);
+Stage 5B: in which the optic disc is not
+visible because of retrolental
+fibrovascular tissue or closedfunnel detachment;
+Stage 5C: in which stage 5B is accompanied
+by anterior segment changes (e.g.
+marked anterior chamber shallowing,
+iridocorneolenticular adhesions,
+corneal opacification), suggestin
+closed-funnel configuration.
+Management of Retinopathy of Prematurity (Second Edition)
+Each eye should be classified based on zone, plus disease, stage and
+extent. If aggressive ROP is present, it should be noted.
+*Key changes compared with previous ICROP publications.
+Source:
+1. Chiang MF, Quinn GE, Fielder AR, et al. International Classification of Retinopathy
+of Prematurity, Third Edition. Ophthalmology. 2021;128(10):e51-e68
+2. Ministry of Health. Management of Retinopathy of Prematurity. Kuala Lumpur:
+MoH; 2005
+* Additional descriptors of funnel configuration
+(e.g. open-closed) may be applied if
+clinically useful.
+The term aggressive-posterior ROP was
+used previously to describe a severe,
+rapidly progressive form of ROP located
+in posterior zones I or II. Because of
+increasing recognition that this may occur
+beyond the posterior retina and in larger
+preterm infants, particularly in regions of the
+world with limited resources, the Committee
+recommends the new term aggressive
+ROP.*
+4. Aggressive ROP
+Management of Retinopathy of Prematurity (Second Edition)
+Appendix 6
+FEATURES OF RETINOPATHY OF PREMATURITY
+a) Stage 1
+b) Stage 2
+Demarcation Line
+Ridge
+Management of Retinopathy of Prematurity (Second Edition)
+c) Stage 3
+d) Stage 4a
+e) Stage 4b
+Extra-retinal fibrovascular
+proliferation with haemorrhage
+Partial retinal detachment
+without fovea involvement
+Thick extra-retinal
+fibrovascular proliferation
+Partial retinal detachment
+with fovea involvement
+Management of Retinopathy of Prematurity (Second Edition)
+f) Stage 5
+g) AROP
+Total retinal detachment
+Posterior pole
+Mid-peripheral retina
+Peripheral retina
+AROP with notch
+Management of Retinopathy of Prematurity (Second Edition)
+h) Additional Features as described in ICROP 2021
+Presence of notch as indicated by the arrows
+Management of Retinopathy of Prematurity (Second Edition)
+Appendix 7
+INDICATIONS OF TREATMENT
+High Risk PreThreshold ROP
+Defined into Type 1 and Type 2 to guide the treatment of infants before
+the development of threshold ROP.
+Recommended Indications for ROP Treatment
+*Subject to stability of the infant
+Source:
+1. Good WV; Early Treatment for Retinopathy of Prematurity Cooperative Group.
+Final results of the Early Treatment for Retinopathy of Prematurity (ETROP)
+randomized trial. Trans Am Ophthalmol Soc. 2004;102:233-48
+2. The Royal College of Ophthalmologists. Treating Retinopathy of Prematurity in the
+UK. London: RCOphth; 2022
+PRETRESHOLD ROP
+Type 1 (High Risk)
+Type 2 (Low Risk)
+AROP
+Severe, rapidly
+progressive form of
+ROP
+Zone I
+• Any stage with plus
+• Stage 3 without plus
+Zone II
+• Stage 2 or 3 with plus
+Zone I
+• Stage 1 or 2 without
+plus
+Zone II
+• Stage 3 without plus
+Treat within 48 hours*
+Urgent Treatment
+Weekly observation
+Management of Retinopathy of Prematurity (Second Edition)
+Appendix 8
+LASER PHOTOCOAGULATION IN ROP
+Preparations:
+A. Laser indirect ophthalmoscope (LIO)
+B. 30D or 28D condensing lens
+C. Infant lid speculum
+D. Scleral indentor/squint hook
+E. Subconjunctival
+mydriacaine
+(atropine,
+adrenaline
+and
+lignocaine at 1:1:1 ratio) - optional
+F. Topical dilating drops
+G. Topical anaesthesia
+H. Balance salt solution (BSS)
+I.
+Dexamethasone
+J. Triamcinolone - optional
+K. Cotton buds, cotton balls
+Steps:
+1. Obtain consent from parents/caretakers.
+2. Sedate the infant and preferably intubate to ensure no struggling
+movements during procedure.
+3. Treatment must be given in a conducive environment either in
+NICU or OT.
+4. Dilate the pupils even before intubation.
+5. Ideally, give subconjunctival mydriacaine 0.05 ml to each eye
+after the infant is sedated to maintain good pupil dilatation
+throughout the procedure.
+6. Re-examine each eye before starting laser treatment.
+7. Set LIO machine at 150 - 200 mW with pulse duration of 100-
+200 ms and interval of 200 ms.
+8. Instil topical anaesthesia into each eye prior to and during the
+procedure.
+9. Start lasering the worse eye first at the avascular area close to
+ridge at 0.5 - 1.0 spot size spacing with moderate intensity to
+achieve greyish white (rather than white) burns.
+10. Use lower laser parameters and titrate accordingly. Less energy
+laser power must be used for more anterior retina.
+11. Place LIO at arm’s length to keep the aiming beam focused.
+12. Use BSS to lubricate the cornea. The use of normal saline may
+cause temporary haziness of the cornea.
+13. The laser treatment should cover the entire avascular retina
+between the ridge and the ora serrata.
+14. Do not leave any untreated areas. Some areas are slightly
+difficult to get access e.g. nasal, superonasal, inferonasal,
+superotemporal and inferotemporal quadrants. Stand opposite
+to each quadrant while lasering to gain access to these areas.
+Management of Retinopathy of Prematurity (Second Edition)
+15. If there is presence of notching, avoid coming inwards too near
+to macula as the laser scar might expand and affect the macula
+region.
+16. By the end of treatment session, the laser burns should expand
+to a near confluent pattern.
+17. Always check both eyes again after completion of laser
+photocoagulation to look out for skip areas.
+18. Estimated laser spots at the end of the treatment depends on the
+zone of ROP (1500 - 2000 laser spots in zone II and ≤1000 laser
+spots in zone III for each eye).
+19. For post-laser treatment:
+a. Give orbital floor triamcinolone 10 mg/0.25 ml (optional)
+b. Start topical corticosteroids and topical antibiotic every four
+hours for a week
+c. Review anterior segment of both eyes at day 1 post-laser
+treatment to look for any epithelial defect, etc.
+d. Review fundus of both eyes at one-week post-laser treatment
+Arrows showing skipped areas post-laser photocoagulation which
+should be avoided to prevent recurrence of ROP.
+Well-lasered retina
+Management of Retinopathy of Prematurity (Second Edition)
+Appendix 9
+TYPES AND PROPERTIES OF ANTI-VASCULAR ENDOTHELIAL GROWTH FACTOR
+Ranibizumab
+(Licensed for
+ROP treatment
+in MoH
+Facilities)
+• A humanised monoclonal antibody
+fragment of 48 kDa that has affinity
+for all isoforms of VEGF
+• Has 5- to 20-fold greater potency
+than bevacizumab on a molar basis
+and increased affinity for VEGF, and
+the advantage of a shorter serum
+half-life (two hours in adults) which
+may reduce its potential toxicity in
+premature infants
+• Inhibits the human vascular
+endothelial growth factor A (VEGF-A)
+by binding to its active forms, thereby
+preventing ocular angiogenesis by
+VEGF-A including reduced
+endothelial cell proliferation,
+vascular leakage and new blood
+vessel formation
+Absorption
+• Intravitreal implant, Tmax: 26 days
+(range: 1 to 89 days)
+• Intravitreal injection, Tmax:
+approximately 1 day
+Excretion
+• Total body: cleared primarily by
+catabolism
+Elimination half-life
+• Intravitreal Implant: approximately
+25 weeks
+• Intravitreal injection: approximately
+9 days (vitreous)
+Bevacizumab
+• A full-length humanised murine IgG
+monoclonal antibody that has a
+molecular weight of 149 kD and
+binds to all VEGF isoforms
+• Has a long half-life in the vitreous
+(5.6 days in adults), a serum peak
+level of approximately 2 weeks postinjection and a serum half-life of
+21 days in preterm infants
+• A recombinant humanised monoclonal
+IgG1 antibody, binds to VEGF and
+inhibits the interaction of VEGF to
+Flt1 and KDR receptors on the
+surface of endothelial cells
+• In the process, it prevents the
+proliferation of endothelial cells and
+formation of new blood vessels
+Distribution
+• Vd: 2.9 L; 3.2 L (males); 2.7 L
+(females)
+Excretion
+• Clearance: 0.23 L/day; 2.75 to
+5 mL/kg/day
+Elimination half-life
+20 days (range: 11 to 50 days)
+Anti-VEGF
+Properties
+Pharmacodynamics
+Pharmacokinetics
+Management of Retinopathy of Prematurity (Second Edition)
+Source: Product Insert of the respective anti-vascular endothelium growth factors.
+Aflibercept
+• A 115 kDa recombinant fusion protein
+that contains the Fc portion of human
+IgG1 combined with VEGF-binding
+portions from the extracellular
+domains of human VEGF receptors 1
+and 2
+• High binding affinity, have an
+intraocular half-life of 4.8 days in
+adults and shorter serum half-life
+than bevacizumab
+(11.4 days in adults)
+• Capable of inhibiting all isoforms of
+VEGF-A and placental growth factor
+and, after its intravitreal
+administration, has the ability to
+penetrate the retina and access the
+systemic circulation, reducing the
+systemic levels of VEGF for
+12 weeks
+• Binds to the VEGF, VEGF-A and
+placental growth factor, to inhibit
+their binding to receptor tyrosine
+kinases and activation of VEGF-A,
+thereby inhibiting neovascularisation
+and vascular permeability
+Absorption
+• Tmax: 1 to 3 days (free aflibercept)
+• Tmax, pre-term infants: 1 day
+(free aflibercept)
+Distribution
+• Vd: 6 L (free aflibercept)
+Elimination half-life
+• 5 to 6 days (free aflibercept)8
+Anti-VEGF
+Properties
+Pharmacodynamics
+Pharmacokinetics
+Management of Retinopathy of Prematurity (Second Edition)
+Appendix 10
+PROCEDURE FOR INTRAVITREAL ANTI-VEGF INJECTION
+1.
+Obtain consent from parents/caretakers.
+2.
+Prepare intravitreal set consisting of eyelid speculum, caliper,
+conjunctival forceps, 1 ml syringe, 27 or 30G 0.5-inch needle,
+cotton buds and povidone iodine 5% (refer to Figure 1).
+Figure 1: Instruments required
+for intravitreal
+Figure 2: Instillation of
+anaesthetic
+Figure 3: Top view of needle
+insertion
+Figure 4: Side view of needle
+insertion
+Figure 5: Cotton bud
+compression following needle
+removal
+Management of Retinopathy of Prematurity (Second Edition)
+3.
+Perform procedure using aseptic technique in a clean place. Infant
+may require sedation depending on decision of the attending
+physician.
+4.
+Clean the periorbital skin and conjunctival sac with povidone iodine
+5%
+5.
+Drape the eye and insert the speculum.
+6.
+Instil topical anaesthetic drops either proparacaine hydrochloride
+0.5% or tetracaine hydrochloride 0.5% (refer to Figure 2).
+7.
+Prepare intravitreal ranibizumab 0.2 mg/0.02 ml using aseptic
+technique.
+8.
+Use 27G/30G needle and inject 1.5 mm posterior to the limbus into
+mid-vitreous cavity with the needle tip pointing towards the optic
+disc as indicated by the dotted lines (refer to Figure 3 and 4).
+9.
+Remove the needle and compress the wound with cotton bud and
+instil another drop of antiseptic solution (refer to Figure 5).
+10. Perform examination using BIO to look for optic nerve perfusion
+retinal break, RD, haemorrhage and cataract.
+11. The speculums are removed and the eyes are irrigated with normal
+saline solution. Antibiotic eyedrop is given stat to the conjunctival
+sac and four times per day for 3 - 4 days.
+12. Infant is examined again within 24 hours to ensure no development
+of cataract or early endophthalmitis.
+SPECIAL PRECAUTION FOR INTRAVITREAL INJECTION IN
+PREMATURE INFANT
+Eyes of the premature Infant are smaller in size, with absent or immature
+pars planar and larger/globular crystalline lens relative to the volume of
+the eye.
+To minimise perforation of the retina or globe and cataract
+formation, ensure the correct distance, angle and direction of
+needle insertion.
+Management of Retinopathy of Prematurity (Second Edition)
+Appendix 11
+SPECIAL EDUCATIONAL SCHOOLS AND INTEGRATION
+PROGRAMMES FOR PEOPLE WITH VISUAL PROBLEMS
+a. Special Educational Schools for People with Visual Problems
+SKPK Jalan Batu
+Jalan Raja Laut
+50350 Kuala Lumpur
+Tel: 03-26921261
+SKPK Princess
+Elizabeth
+Lorong 5,
+Jalan Nong Chik
+80100 Johor
+Tel: 07-2224068
+SKPK Alma (Asrama)
+Jalan Bukit Minyak
+14000 Bukit Mertajam
+Tel: 04-5082026
+SKPK Seremban
+Jalan Muthu Cumaru
+70200 Seremban
+Tel: 06-7624181
+SKPK Tuaran
+Peti Surat 50553
+88200 Putatan
+Sabah
+Tel : 088-767202
+SKPK Kuching
+Jalan Kolej
+93200 Kuching
+Tel: 082-2444526
+SKPK Miri
+Jalan Datuk Muip,
+Piasau Jaya
+98000, Miri
+Tel: 6085-653246
+SKPK Sungai Petani
+Mukim Bujang
+08400 Merbok
+Kedah Darul Aman
+SKPK Jalan Batu
+Jalan Raja Laut
+50350 Kuala Lumpur
+Tel: 03-26921262
+SKPK Princess
+Elizabeth
+Lorong 5,
+Jalan Nong Chik
+80100 Johor Bahru
+Tel: 07-2224068
+SKPK Alma
+Jalan Bukit Minyak
+14000 Bukit Mertajam
+Tel: 04-5082026
+SKPK Seremban
+Jalan Muthu Cumaru
+70200 Seremban
+Tel: 06-7624181
+SKPK Tuaran
+Peti Surat 50553
+88200 Putatan
+Sabah
+Tel : 088-767202
+SKPK Kuching
+Jalan Kolej
+93200 Kuching
+Tel: 082-2444526
+SKPK Miri
+Jalan Datuk Muip,
+Piasau Jaya
+98000, Miri
+Tel: 6085-653246
+-
+SMPK Setapak
+Jalan Genting Kelang
+53300 Kuala Lumpur
+Tel: 03-41493701
+SMPKV Indahpura
+Sisiran Indahpura 36/6,
+Taman Indahpura,
+81000 Kulai
+Tel: 07-6625625/
+6625622
+-
+-
+SMK Badin
+Peti Surat 149
+89208 Tuaran
+Sabah
+Tel : 088-788357
+-
+-
+-
+Kuala Lumpur
+Johor
+Pulau Pinang
+Negeri
+Sembilan
+Sabah
+Sarawak
+Kedah
+1
+2
+3
+4
+5
+6
+7
+Primary School
+Pre-School
+Secondary School
+State
+No.
+Management of Retinopathy of Prematurity (Second Edition)
+b. Special Educational Integration Programme at Normal Stream
+School for People with Visual Problems
+SKPK Kuala
+Terengganu Kampung
+Kubang Ikan 21080
+Kuala Terengganu,
+Terengganu
+Tel : 09-6163220
+SKPK Besut Alor
+Lintang
+22200 Kampung Raja
+Terengganu.
+Tel : 09-6902430
+-
+-
+-
+-
+Terengganu
+8
+SK Klang
+Jalan Dato’ Hamzah
+41000 Kelang
+Tel: 03-33712957
+SK Sungai Kantan
+Jalan Padang Tembak
+43000 Kajang
+Tel: 03-87368646
+SK Seri Utama
+Jalan Besar
+43500 Sungai Besar
+Tel: 03-32242278
+SK Dato’ Maharajalela
+Jalan Parit Omar
+45800 Jeram
+Tel: 03-32648530
+-
+-
+-
+-
+-
+SMK St. John
+Bukit Nanas
+50250 Kuala Lumpur
+Tel: 03 - 2078 2846
+2
+Kuala
+Lumpur
+Primary School
+Secondary School
+State
+No.
+SK Kuala Kubu Baru
+Jalan Sekolah Kuala Kubu Baru
+44000 Kuala Kubu Baru
+Tel: 03-60641482
+SK Tengku Bendahara Azman 2
+Lorong Sabah Pandamaran
+42000 Pelabuhan Kelang
+Tel: 03-31687155
+SMK Kajang Utama
+43000 Kajang
+Tel: 03-8733 8414
+SMK Kampung Jawa
+Jalan Raja Nong
+41000 Kelang
+Tel: 03-33734348
+Selangor
+Management of Retinopathy of Prematurity (Second Edition)
+SK Jabi
+06400 Pokok Sena
+Tel: 04-7821340
+-
+SK Dato’ Wan Ahmad
+01000 Kangar
+Tel: 04-9762559
+-
+-
+-
+SMK Tunku Abdul Malik
+Alor Merah
+05250 Alor Setar
+Tel: 04-7319358
+SMK Tunku Anum Tunku Abdul Rahman
+Tok Jalai
+06000 Jitra
+Tel: 04-7144960
+SMK Putra
+01000 Kangar
+Tel: 04-9761150
+SMK Alma
+Jalan Bukit Minyak
+14000 Bukit Mertajam
+Tel: 04-5078687
+SMK Haji Zainal Abidin
+Jalan Hamilton
+11600 Pulau Pinang
+Tel: 04-2827933
+4
+6
+Kedah
+3
+Perak
+5
+Perlis
+Pulau
+Pinang
+SK Air Keroh
+Lebuh Ayer Keroh
+75450 Air Keroh
+Tel: 06-2331146
+SK Indera Mahkota
+Bandar Indera Mahkota
+25200 Kuantan
+Tel: 09 - 5733924
+SK Kampong Sireh
+Jalan Sultanah Zainab
+15050 Kota Bharu
+Tel: 09-7418451
+SMK Padang Temu
+KM5 Padang Temu
+45050 Melaka
+Tel: 06-2820117
+SMK Tg. Panglima Perang
+Tg. Muhammad
+Bandar Indera Mahkota
+25200 Kuantan
+Tel: 09 - 6236594
+-
+Melaka
+Pahang
+Kelantan
+7
+9
+8
+SMK (P) St. George
+Jalan Macalister
+10450 Pulau Pinang
+Tel: 04-2295855
+SK Dato’ Laksamana Raja Mahkota
+Batu 3 1/2, Jalan Maharajalela
+36000 Teluk Intan
+Tel/: 05-6221091
+SK Seri Mutiara
+Jalan Tunku Abdul Rahman
+30100 Ipoh
+Tel: 05-5061925
+-
+-
+Management of Retinopathy of Prematurity (Second Edition)
+1. Adopted from Kementerian Kesihatan Malaysia: Prosedur Operasi Standard:
+Perkhidmatan Penjagaandan Rehabilitasi Visual Pesakit Penglihatan Terhad
+Perkhidmatan Optometri M/s 54 - 57
+2. For schooling allocations of visually impaired students, refer to the respective State
+Education Department or District Education Office
+3. For updated information on the list of special education schools under Ministry
+of Education is available at: http://www.moe.gov.my/pendidikan/khas/sekolah
+-pendidikan-khas/senarai-sekolah-pendidikan-khas
+-
+-
+-
+Sk Sibu Bandaran No. 3
+D/A Pejabat Pendidikan
+Daerah Sibu, Tingkat 6,
+Wisma Persekutuan, Blok 3,
+Lot 462, Brooke Drive
+96000 Sibu
+Tel/Fax: 084 - 332 512
+-
+-
+Sekolah Tinggi Muar
+Jalan Meriam
+84007 Muar
+Tel: 06-9521360
+SMK Batu Lintang
+Jalan Kolej
+93200 Kuching
+Tel: 082-252579
+SMK Dato Permaisuri
+Jalan Dato Permaisuri, Piasau Jaya
+98000 Miri
+Tel: 085-659066
+SMK Bukit Besar
+Jalan Sultan Mohamad
+20050 Kuala Terengganu
+Terengganu
+Tel: 096-236594
+Johor
+10
+Sabah
+11
+Sarawak
+12
+Terengganu
+Management of Retinopathy of Prematurity (Second Edition)
+LIST OF ABBREVIATIONS
+AE(s)
+adverse event(s)
+AROP
+aggressive ROP
+APROP
+aggressive-posterior ROP
+Anti-VEGF
+anti-vascular endothelial growth factor
+BSS
+Balance salt solution
+BIO
+Binocular Indirect Ophthalmoscopy
+BW
+birth weight
+CA
+chronological age
+CI
+confidence interval
+CPG
+clinical practice guidelines
+CPAP
+continuous positive airway pressure
+CRYO-ROP
+cryotherapy for Retinopathy of Prematurity
+D
+dioptre
+ETROP
+early treatment for Retinopathy of Prematurity
+FFA
+fundus fluorescein angiography
+G
+gauge
+g
+gram
+GA
+gestational age
+GRADE
+Grading of Recommendations, Assessment, Development and
+Evaluations
+ICROP-3
+International Classification of Retinopathy of Prematurity Third
+Edition
+kg
+kilogram
+L
+litre
+LIO
+Laser indirect ophthalmoscope
+LCPUFA
+Long-Chain Polyunsaturated Fatty Acids
+LVS
+lens sparing vitrectomy
+MAB
+Malaysian Association for the Blind
+MD
+mean difference
+MIVS
+micro incision vitrectomy surgery
+mg
+milligram
+mL
+millilitre
+MoH
+Ministry of Health
+MoHE
+Ministry of Higher Education
+ng
+nanograms
+NEC
+necrotising enterocolitis
+NICU
+Neonatal Intensive Care Unit
+NOS
+Newcastle-Ottawa Scale
+NPV
+negative predictive value
+OR
+odds ratio
+OT
+operation theater
+PAR
+persistent avascular retina
+PMA
+post-menstrual age
+PNA
+post-natal age
+PPV
+positive predictive value
+RAINBOW
+Ranibizumab versus laser therapy for the treatment of very low
+birthweight infants with retinopathy of prematurity trial
+RCT(s)
+randomised controlled trial(s)
+RD(s)
+retinal detachment(s)
+ROP
+retinopathy of prematurity
+Management of Retinopathy of Prematurity (Second Edition)
+RR
+relative risk
+SE
+spherical equivalent
+SGA
+small for gestational age
+TW-ROP
+treatment-warranted ROP
+UK
+United Kingdom
+USA
+United States of America
+VA
+visual acuity
+VEGF
+vascular endothelial growth factor
+Vd
+Volume of distribution
+VI
+visual impairment
+VR
+vitreoretinal
+WMD
+weighted mean difference
+ACKNOWLEDGEMENT
+The members of CPG DG would like to express their gratitude and
+appreciation to the following for their contributions:
+• Panel of external reviewers who reviewed the draft technically
+• Technical Advisory Committee of CPG for their valuable input and
+feedback
+• Health Technology Assessment and Clinical Practice Guidelines
+Council for approval of the CPG
+• Ms. Norharlina Che Zakaria on retrieval of evidence
+• Mr. Mohamad Zharfan Bin Ismail for cover design
+• Dr. Ahmed Ram Firdause Bin Ridwan Ramdass for illustration on
+procedure for intravitreal Anti-VEGF Injection
+• All those who have contributed directly or indirectly to the
+development of the CPG
+DISCLOSURE STATEMENT
+The panel members of both Development Group and Review Committee
+had completed disclosure forms. None hold shares in pharmaceutical
+firms or act as consultants to such firms. Details are available upon
+request from the CPG Secretariat.
+SOURCE OF FUNDING
+The development of the CPG on Management of Retinopathy of
+Prematurity (Second Edition) was supported financially in its entirety
+by the MoH.
+CLINICAL PRACTICE GUIDELINES

@@ -1,0 +1,23 @@
+.primary-blue-button1-container {
+  display: flex;
+  position: relative;
+}
+ 
+.primary-blue-button1-button {
+  color: var(--dl-color-gray-white);
+  outline: none;
+  background: linear-gradient(310deg,#2152ff,#21d4fd);
+  box-shadow: 0 4px 7px -1px rgb(0 0 0 / 11%), 0 2px 4px -1px rgb(0 0 0 / 7%);
+  transition: all .15s ease-in;
+  border-width: 0px;
+  border-radius: 1.875rem;
+}
+ 
+.primary-blue-button1-button:hover {
+  cursor: pointer;
+  transform: scale(1.02);
+}
+ 
+
+ 
+

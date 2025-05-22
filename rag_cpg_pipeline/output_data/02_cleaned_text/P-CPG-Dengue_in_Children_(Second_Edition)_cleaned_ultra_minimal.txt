@@ -1,0 +1,3409 @@
+CLINICAL PRACTICE GUIDELINES
+Management of
+Dengue in Children
+(Second Edition)
+a
+.
+Management of Dengue in Children (Second Edition)
+Published by:
+Malaysia Health Technology Assessment Section (MaHTAS)
+Medical Development Division, Ministry of Health Malaysia
+Level 4, Block E1, Precinct 1
+Federal Government Administrative Centre
+62590 Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is MaHTAS. Content may be
+reproduced in any number of copies and in any format or medium
+provided that a copyright acknowledgement to MaHTAS is included and
+the content is not changed, not sold, nor used to promote or endorse
+any product or service, and not used in an inappropriate or misleading
+context.
+e-ISBN: 978-967-19299-1-9
+Available on the following websites:
+http://www.moh.gov.my
+http://www.acadmed.org.my
+Also available as an app for Android and IOS platform: MyMaHTAS
+STATEMENT OF INTENT
+These clinical practice guidelines (CPG) are meant to be guides for
+clinical practice, based on the best available evidence at the time of
+development. Adherence to these guidelines may not necessarily
+guarantee the best outcome in every case. Every healthcare provider is
+responsible for the management of his/her unique patient based on the
+clinical picture presented by the patient and the management options
+available locally.
+UPDATING THE CPG
+These guidelines were issued in 2020 and will be reviewed in a minimum
+period of four years (2024) or sooner if there is a need to do so. When
+it is due for updating, the Chairman of the CPG or National Advisor of
+the related specialty will be informed about it. A discussion will be done
+on the need for a revision including the scope of the revised CPG. A
+multidisciplinary team will be formed and the latest systematic review
+methodology used by MaHTAS will be employed. Every care is taken
+to ensure that this publication is correct in every detail at the time of
+publication. However, in the event of errors or omissions, corrections
+will be published in the web version of this document, which is the
+definitive version at all times. This version can be found on the websites
+mentioned above.
+Management of Dengue in Children (Second Edition)
+TABLE OF CONTENTS
+No.
+Title
+Page
+Key Recommendations
+i
+Levels of Evidence and Formulation of Recommendation
+ii
+Guidelines Development and Objectives
+iii
+Development Group
+vi
+Review Committee
+vii
+External Reviewers
+viii
+Algorithm on Management of Dengue in Children
+ix
+1.
+INTRODUCTION
+1
+1.1
+Epidemiology
+1
+1.2
+Classification
+3
+1.3
+Severity
+4
+2.
+CLINICAL MANIFESTATIONS AND PATHOPHYSIOLOGY
+5
+3.
+DIAGNOSIS 9
+3.1
+Clinical Diagnosis
+9
+3.2
+Laboratory Diagnosis
+10
+3.3
+Post-mortem Cases
+13
+3.4
+Notification
+13
+4.
+RISK FACTORS FOR SEVERE DENGUE
+15
+5.
+TREATMENT
+16
+5.1
+Febrile Phase
+16
+5.1.1 Outpatient monitoring and treatment
+16
+5.1.2 Admission criteria
+17
+5.1.3 Inpatient monitoring
+17
+5.2
+Critical Phase
+19
+5.2.1 Choice of resuscitation fluids
+20
+5.2.2 Treatment of warning signs
+21
+5.2.3 Treatment of compensated shock
+21
+5.2.4 Treatment of decompensated
+22
+(hypotensive) shock
+5.2.5 Monitoring of dengue patients in shock
+22
+5.2.6 Interpretation of haematocrit
+23
+5.2.7 Glucose control
+24
+5.2.8 Electrolytes and acid-base imbalances
+25
+5.2.9 Metabolic acidosis
+26
+5.2.10 Treatment for dengue with neurological involvement 27
+5.2.11 Treatment for dengue with liver involvement
+27
+5.2.12 Treatment for dengue with cardiac involvement
+Management of Dengue in Children (Second Edition)
+TABLE OF CONTENTS
+No.
+Title
+Page
+5.2.13 Treatment for dengue with kidney involvement
+28
+5.2.14 Blood transfusion
+29
+5.3
+Recovery Phase
+30
+6.
+SPECIAL GROUPS
+31
+6.1
+Neonates
+31
+6.2
+Infants
+31
+6.3
+Red Cells Disorder
+32
+7.
+DISCHARGE
+33
+8.
+TRADITIONAL AND COMPLEMENTARY MEDICINE
+33
+9.
+PREVENTION STRATEGIES
+34
+9.1
+Vaccination
+34
+9.2
+Prevention of Mosquito Bite
+34
+10. IMPLEMENTING THE GUIDELINES
+35
+10.1 Facilitating and Limiting Factors
+35
+10.2 Potential Resource Implication
+35
+11. REFERENCES
+37
+Appendix 1 Example of Search Strategy
+40
+Appendix 2 Clinical Questions
+41
+Appendix 3 Systemic Manifestations of Peripheral
+42
+Vasoconstriction
+Appendix 4 Checklist for Paramedics on Intial Assessment 43
+of Dengue in Children
+Appendix 5 Home Care Advice for Children with
+44
+Dengue/Danger Signs of Dengue
+Infection/Dengue Monitoring Record
+Appendix 6 Hospital Dengue Monitoring Chart
+46
+Appendix 7 Calculation of Ideal Body Weight (IBW)
+47
+for Obese Children/Growth Chart
+Appendix 8 Signs of Dehydration
+49
+Appendix 9 Characteristics of Common Crystalloid/Colloids 50
+Solutions Available in Malaysia
+List of Abbreviations
+51
+Acknowledgement
+53
+Disclosure Statement
+53
+Source of Funding
+Management of Dengue in Children (Second Edition)
+KEY RECOMMENDATIONS
+The following recommendations were highlighted by the CPG
+Development Group as the key clinical recommendations that should
+be recognised for implementation.
+Diagnosis and Notification
+• Children suspected of dengue infection should be tested with a
+combination of NS1 Antigen/IgM/IgG rapid test (dengue rapid combo
+test).
+ Rapid test of NS1 Antigen alone may be used on day 1 to day 5
+of illness.
+• Notification should be done for all suspected dengue cases from
+private and public health facilities by telephone/fax/e-notification to
+the nearest health office within 24 hours of diagnosis. This should be
+followed by written notification using the standard notification form.
+Treatment
+• All children with dengue infection who are treated as outpatient:
+ should have daily clinical and laboratory monitoring until resolution
+of critical phase
+ should be provided with dengue monitoring card and dengue
+home care leaflet
+• Isotonic crystalloid solutions should be used in resuscitation and
+maintenance therapy in children with dengue.
+ Colloid solutions may be used in persistent shock despite
+resuscitation with crystalloid solutions.
+• Close monitoring and frequent reassessment should be done to
+guide appropriate fluid management of children with dengue shock.
+ They should be managed by senior staff in hospitals with
+paediatricians.
+ Those with prolonged and/or decompensated shock should be
+admitted to the high-dependency or intensive care unit.
+• Blood transfusion should be given in life-threatening conditions and
+given as soon as severe bleeding is recognised (overt) or suspected
+(occult) in children with dengue.
+ It must be given cautiously to avoid fluid overload especially in
+neonates or infants.
+• Dengue infection in infants should be managed in a hospital with
+paediatric services.
+Management of Dengue in Children (Second Edition)
+LEVELS OF EVIDENCE
+SOURCE: US / CANADIAN PREVENTIVE SERVICES TASK FORCE 2001
+FORMULATION OF RECOMMENDATION
+In line with new development in CPG methodology, the CPG Unit of
+MaHTAS is adapting Grading Recommendations, Assessment,
+Development and Evaluation (GRADE) in its work process. The
+quality of each retrieved evidence and its effect size are carefully
+assessed/reviewed by the CPG Development Group. In formulating
+the recommendations, overall balances of the following aspects are
+considered in determining the strength of the recommendations:-
+• overall quality of evidence
+• balance of benefits versus harms
+• values and preferences
+• resource implications
+• equity, feasibility and acceptability
+ii
+Level
+I
+II-1
+II-2
+II-3
+III
+Study design
+Evidence from at least one properly randomised controlled trial
+Evidence obtained from well-designed controlled trials without
+randomisation
+Evidence obtained from well-designed cohort or case-control
+analytic studies, preferably from more than one centre or
+group
+Evidence from multiple time series with or without intervention;
+dramatic results in uncontrolled experiments (such as the
+results of the introduction of penicillin treatment in the 1940s)
+could also be regarded as this type of evidence
+Opinions of respected authorities based on clinical experience;
+descriptive studies and case reports; or reports of expert
+committees
+Management of Dengue in Children (Second Edition)
+iii
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+GUIDELINES DEVELOPMENT
+The members of the Development Group (DG) for these CPG were
+from the Ministry of Health (MoH) and Ministry of Education (MoE).
+There was active involvement of a multidisciplinary Review Committee
+during the process of the CPG development.
+A systematic literature search was carried out using the following
+electronic databases/platforms: mainly Medline via Ovid and Embase.
+Refer to Appendix 1 for Example of Search Strategy. The inclusion
+criteria are all children with suspected and confirmed dengue infection
+regardless of study design. The first search was limited to literature
+published in the last 14 years (2004 - 2018) and on humans specifically
+children with unspecified age and in English. In addition, the reference
+lists of all retrieved literature and guidelines were searched and experts
+in the field contacted to identify relevant studies. All searches were
+conducted from 30 October 2018 to 7 November 2018. Literature
+search was repeated for all clinical questions at the end of the CPG
+development process allowing any relevant papers published before
+7 February 2020 to be included. Future CPG updates will consider
+evidence published after this cut-off date. The details of the search
+strategy can be obtained upon request from the CPG Secretariat.
+References were also made to other guidelines on dengue in children
+as listed below:
+• Paediatric Protocols for Malaysian Hospitals (Fourth Edition)
+• Handbook for Clinical Management of Dengue
+• Dengue Guidelines for Diagnosis, Treatment, Prevention and
+Control
+A total of 12 main clinical questions were developed under different
+sections. Members of the DG were assigned individual questions
+within these sections. Refer to Appendix 2 for Clinical Questions.
+The DG members met 14 times throughout the development of these
+guidelines. All literatures retrieved were appraised by at least two DG
+members using Critical Appraisal Skill Programme checklist, presented
+in evidence tables and further discussed in each DG meetings. All
+statements and recommendations formulated after that were agreed
+upon by both the DG and RC. Where evidence was insufficient, the
+recommendations were made by consensus of the DG and RC. Any
+differences in opinion are resolved consensually. The CPG was based
+largely on the findings of systematic reviews, meta-analyses and clinical
+trials, with local practices taken into consideration.
+Management of Dengue in Children (Second Edition)
+The literatures used in these guidelines were graded using the US/
+Canadian Preventive Services Task Force Level of Evidence (2001)
+while the grading of recommendation was done using the principles of
+GRADE (refer to the preceding page). The writing of the CPG follows
+strictly the requirement of Appraisal of Guidelines for Research and
+Evaluation (AGREE II).
+On completion, the draft CPG was reviewed by external reviewers.
+It was also posted on the MoH Malaysia official website for feedback
+from any interested parties. The draft was finally presented to
+the Technical Advisory Committee for CPG and, the Health Technology
+Assessment (HTA) and CPG Council, MoH Malaysia, for review
+and approval. Details on the CPG development by MaHTAS can be
+obtained from Manual on Development and Implementation of
+Evidence-based Clinical Practice Guidelines published in 2015
+(available at http://www.moh.gov.my/moh/resources/CPG_MANUAL_
+MAHTAS.pdf?mid=634)
+Management of Dengue in Children (Second Edition)
+v
+OBJECTIVES
+The objectives of the CPG are to provide evidence-based
+recommendations on management of dengue in children on the
+following aspects:
+• diagnosis
+• treatment
+• monitoring and follow-up
+• referral
+• prevention
+CLINICAL QUESTIONS
+Refer to Appendix 2.
+TARGET POPULATION
+Inclusion Criteria
+• Children with suspected and confirmed dengue infection
+TARGET GROUP/USER
+This document is intended to guide healthcare providers and relevant
+stakeholders in primary and secondary/tertiary care in the management
+of dengue in children including:
+• doctors
+• allied health professionals
+• trainees and medical students
+• patients and their advocates
+• professional societies
+HEALTHCARE SETTINGS
+Primary, secondary and tertiary care
+Management of Dengue in Children (Second Edition)
+Dr. Dianah Abd. Hadi
+Paediatrician
+Hospital Tunku Azizah, Kuala Lumpur
+Ms. Koay Hooi Hoon
+Pharmacist
+Hospital Tunku Azizah, Kuala Lumpur
+Dr. Mohamad Azlan Hamdan
+Paediatrician
+Hospital Tunku Azizah, Kuala Lumpur
+Dr. Mohd. Aminuddin Mohd. Yusof
+Head of CPG Unit & Public Health Physician
+Cawangan Penilaian Teknologi Kesihatan
+Kementerian Kesihatan Malaysia, Putrajaya
+Dr. Nik Khairulddin Nik Yusoff
+Consultant Paediatrician (Infectious Disease)
+Hospital Raja Perempuan Zainab II, Kelantan
+Dr. Nor Hafizah Ahmad
+Transfusion Medicine Specialist
+Pusat Darah Negara, Kuala Lumpur
+Dr. Nur Izati Mustapa
+Medical Microbiologist
+Hospital Sungai Buloh, Selangor
+Dr. Pon Kah Min
+Consultant Paediatric Intensivist
+Hospital Pulau Pinang, Pulau Pinang
+Dr. Rahmat Dapari
+Senior Medical Lecturer & Public Health
+Physician
+Universiti Putra Malaysia, Selangor
+Dr. Shamsuriani Md Jamal
+Senior Lecturer & Emergency Physician
+Pusat Perubatan Universiti Kebangsaan
+Malaysia, Kuala Lumpur
+Pn. Siti Aisah Fadzilah
+Senior Principal Assistant Director
+Cawangan Penilaian Teknologi Kesihatan
+Kementerian Kesihatan Malaysia, Putrajaya
+Dr. Suhaimi Mahmud
+Consultant Emergency Physician
+Hospital Tuanku Jaafar, Negeri Sembilan
+Dr. Suhaimi Mohd Isa
+Family Medicine Specialist
+Klinik Kesihatan Ayer Keroh, Melaka
+Dr. Vickneswari Ayadurai
+Consultant Family Medicine Specialist
+Klinik Kesihatan Taman Medan, Selangor
+vi
+DEVELOPMENT GROUP
+Chairperson
+Dr. Thahira A. Jamal Mohamed
+Consultant Paediatrician (Infectious Disease)
+Hospital Tunku Azizah, Kuala Lumpur
+Members (alphabetical order)
+Management of Dengue in Children (Second Edition)
+REVIEW COMMITTEE
+The draft CPG was reviewed by a panel of experts from both public
+and private sectors. They were asked to comment primarily on the
+comprehensiveness and accuracy of the interpretation of evidence
+supporting the recommendations in the CPG.
+Chairperson
+Dr. Hishamshah Mohd Ibrahim
+Deputy Director General of Health (Research & Technical Support) and
+Senior Consultant Paediatric Haematolo-oncologist
+Kementerian Kesihatan Malaysia, Putrajaya
+Members (alphabetical order)
+Dr. Choong Pheik Sian
+Consultant Paediatric Intensivist
+Hospital Sultanah Bahiyah, Kedah
+Dr. Ho Bee Kiau
+Consultant Family Medicine Specialist
+Klinik Kesihatan Bandar Botanik, Selangor
+Dr. Junainah Sabirin
+Deputy Director
+Cawangan Penilaian Teknologi Kesihatan
+Kementerian Kesihatan Malaysia, Putrajaya
+Professor Dr. Lucy Lum Chai See
+Consultant Paediatric Intensivist
+Pusat Perubatan Universiti Malaya, Kuala Lumpur
+Prof. Dr. Muhammad Yazid Jalaludin
+Head of Department &
+Consultant Paediatric Endocrinologist
+Pusat Perubatan Universiti Malaya, Kuala Lumpur
+Dr. Noryati Abu Amin
+Senior Consultant Transfusion Medicine &
+Director
+Pusat Darah Negara, Kuala Lumpur
+Dr. Ravindran Thayan
+Head of Virology Unit
+Institut Penyelidikan Perubatan, Kuala Lumpur
+Dr. Ridzuan Mohd Isa
+Consultant Emergency Physician
+Hospital Ampang, Selangor
+Dr. Rose Nani Mudin
+Head of Vector Borne Disease Sector
+Bahagian Kawalan Penyakit
+Kementerian Kesihatan Malaysia, Putrajaya
+Ms. Subasyini Sivasupramaniam
+Senior Pharmacist
+Hospital Tunku Azizah, Kuala Lumpur
+Dr. Susan Pee
+Consultant Paediatric Nephrologist
+Hospital Sultan Ismail, Johor
+Dr. Zubaidah Abdul Wahab
+Senior Consultant Medical Microbiologist
+Hospital Selayang, Selangor
+Management of Dengue in Children (Second Edition)
+viii
+EXTERNAL REVIEWERS (alphabetical order)
+Dr. Aziani Hashim
+General Practitioner
+Klinik Aziani, Cheras, Selangor
+Dr. Hon Sai Kit
+Consultant Paediatrician
+Pantai Hospital Ampang, Kuala Lumpur
+Dato’ Dr. Hussain Imam Muhammad Ismail
+Senior Consultant Paediatric Neurologist
+Hospital Pulau Pinang, Pulau Pinang
+Dr. Lee Jan Hau
+Senior Consultant Paediatric Intensivist
+Children’s Intensive Care Unit
+KK Women’s & Children’s Hospital
+Singapore
+Dr. Lee Siew Wah
+Pediatric Intensivist
+Hospital Sultanah Aminah, Johor
+Datuk Dr. Mahathar Abd. Wahab
+Head of Department &
+Consultant Emergency Physician
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Noraini Ismail
+Consultant Medical Microbiologist
+Hospital Sultanah Bahiyah, Kedah
+Professor Dr. Rujipat Samransamruajkit
+Consultant Paediatrician &
+Chief of Paediatric Intensive Care Unit
+Chulalongkorn University, Thailand
+Dr. Salmiah Md Sharif
+Family Medicine Specialist
+Klinik Kesihatan Seremban
+Negeri Sembilan
+Dr. Sheila Gopal Krishnan
+Consultant Paediatrician
+Hospital Seri Manjung, Perak
+Dr. Tang Swee Fong
+Senior Consultant Paediatric Intensivist
+Pusat Perubatan Universiti Kebangsaan
+Malaysia, Kuala Lumpur
+Professor Dr. Tan Kah Kee
+Lead in Paediatrics
+Perdana University - RCSI, Kuala Lumpur
+Ms. Vanessa Liang LuWen
+Clinical Pharmacist
+Hospital Tunku Azizah, Kuala Lumpur
+Dr. Yap Hsiao Ling
+Paediatrician (Paediatric Emergency
+Medicine)
+Hospital Tunku Azizah, Kuala Lumpur
+Management of Dengue in Children (Second Edition)
+ix
+Algorithm 1: Dengue Laboratory Diagnosis
+Crystalloid solutions reduced to
+1.
+2. 5 -
+- 2 hours
+3. 3 -
+- 4 hours
+4. 2 -
+for 24 -
+Crystalloid solutions reduced to
+1.
+2. 5 -
+- 2 hours
+3. 3 -
+- 4 hours
+4. 2 -
+for 24 -
+•
+•
+PCR should be sent if NS1 Ag/serology is negative in
+suspected severe dengue or mortality cases.
+ELISA for dengue may be used in centres where combo
+test is not offered.
+• NS1 Ag positive/IgM positive
+• NS1 Ag positive/IgM negative
+• NS1 Ag negative/IgM positive
+(regardless of the IgG result)
+NS1 Ag negative/IgM
+negative/IgG positive
+Acute or recent dengue infection
+Probable secondary dengue
+infection or past dengue
+infection
+NS1 Ag (Rapid/ELISA)*
+NS1 Ag
+Positive
+NS1 Ag
+Negative
+Dengue infection
+Dengue IgM/IgG Serology
+(ELISA)
+Dengue IgM negative &
+Dengue IgG positive
+Dengue IgM negative &
+Dengue IgG negative
+Recent dengue
+infection OR secondary
+dengue infection
+≤5 days
+YES
+>5 days
+NO
+No dengue infection
+Recent dengue
+infection
+Probable secondary
+dengue infection or
+past dengue infection
+No dengue infection
+NS1 Ag/IgM/IgG negative
+ELISA - enzyme-linked immunosorbent assay
+IgG - Immunoglobulin G
+IgM - Immunoglobulin M
+NS1 Ag - Non-structural protein 1 Antigen
+PCR - polymerase chain reaction
+*Alternatively, Dengue Rapid Combo Test may be repeated
+•
+Crystalloid solutions reduced to
+1.
+2. 5 -
+- 2 hours
+3. 3 -
+- 4 hours
+4. 2 -
+for 24 -
+Clinically suspected dengue
+Crystalloid solutions reduced to
+1.
+2. 5 -
+- 2 hours
+3. 3 -
+- 4 hours
+4. 2 -
+for 24 -
+Dengue Rapid Combo Test
+Highly
+suspicious
+of dengue
+Dengue IgM positive &
+Dengue IgG positive
+Dengue IgM positive &
+Dengue IgG negative
+Management of Dengue in Children (Second Edition)
+Algorithm 2: Outpatient Monitoring of
+Children with Suspected Dengue
+*Refer to Figure 3
+Clinically suspected dengue
+Admission criteria
+fulfilled (refer to
+Subchapter
+5.1.2)
+Refer to hospital
+Outpatient daily clinical and
+laboratory monitoring
+(refer to Subchapter 5.1.1)
+Daily vital signs monitoring i.e.
+temperature, pulse rate/volume, BP
+and CRT
+Daily assessment of warning signs*
+Daily FBC monitoring specifically
+HCT and platelet count
+Daily fluid intake and urine output
+Daily FBC is recommended until the
+critical phase has resolved
+Presence of
+warning
+signs*
+Continue outpatient daily clinical
+and laboratory monitoring until
+critical phase has resolved (refer
+to Table 7 for Discharge Criteria)
+Yes
+No
+No
+Yes
+•
+•
+•
+•
+•
+Management of Dengue in Children (Second Edition)
+Algorithm 3. Fluid Management of Children with
+Dengue Warning Signs
+Modified:
+1. Ministry of Health Malaysia. Paediatric Protocol for Malaysian Hospitals. Putrajaya:
+MoH; 2019
+2. World Health Organization. Handbook of Clinical Management of Dengue.
+Geneva: WHO; 2012
+Assess airway, breathing and circulation
+Establish that patient is not in shock but having only warning signs
+Secure intravenous (IV) access
+Obtain reference haematocrit (HCT); renal profile and liver function test if possible
+Commence Normal Saline at 5 - 7 ml/kg over 1 hour
+No
+Yes
+Evidence of
+shock
+Refer to Algorithm 4
+Discuss case with specialist
+Reduce IV fluid gradually to maintain perfusion
+If patient has completed 5 - 7 ml/kg/hr, the fluid can be continued
+for another 1 hour at 7 ml/kg
+Then, continue fluid at 5 ml/kg/hr for 4 hours and reduce further
+Repeat HCT and vital signs monitoring
+No
+Crystalloid solutions reduced to
+3 - 5 ml/kg/hr for 2 - 4 hours then,
+2 - 3 ml/kg/hr for 24 - 48 hours
+If oral fluid intake improves, IV fluid
+can be reduced or stopped
+(if weight <10 kg, consider
+maintenance fluid of 100 ml/kg/day)
+Check HCT
+If HCT remains the same or rises
+only minimally and vital signs stable
+If HCT is rising and
+vital signs stable
+Adjust fluid to account
+for dehydration
+(5 - 7.5% dehydration)
+Yes
+Presence of ongoing
+plasma leakage
+No
+Yes
+Discuss case with
+specialist
+Reassessment of haemodynamic status and HCT
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+Presence of
+dehydration
+(refer to
+Appendix 8)
+Management of Dengue in Children (Second Edition)
+Algorithm 4. Fluid Management of Compensated Dengue Shock
+in Children
+Modified:
+1. Ministry of Health Malaysia. Paediatric Protocol for Malaysian Hospitals. Putrajaya:
+MoH; 2019
+2. World Health Organization. Handbook of Clinical Management of Dengue.
+Geneva: WHO; 2012
+3. Davis AL, Carcillo JA, Aneja RK et al. American College of Critical Care Medicine
+Clinical Practice Parameters for Hemodynamic Support of Pediatric and Neonatal
+Septic Shock. Crit Care Med. 2017;45(6):1061-1093.
+Stabilise airway, breathing and circulation
+Give high flow mask oxygen
+Secure intravenous (IV)/intraosseous access within 5 minutes
+Obtain reference haematocrit (HCT) and blood for cross match
+Commence Normal Saline/Hartmann’s solution/Ringer’s Lactate at 10 - 20 ml/kg over an hour
+Check HCT
+HCT high
+No
+Yes
+Further fluid boluses of
+10 - 20 ml/kg are
+required if shock recurs
+Reversal of
+shock
+Reversal of
+shock
+Yes
+No
+Reduce crystalloid
+solutions to 7 - 10 ml/kg
+for 1 hour
+Give further bolus of
+crystalloid/colloid at 10
+- 20 ml/kg over 1 hour
+Transfuse fresh packed red
+cells/fresh whole blood at
+10 - 20 ml/kg over 1 hour
+HCT low
+consider occult bleeding
+Crystalloid solutions reduced to
+1. 5 - 7 ml/kg/hr for 1 - 2 hours
+2. 3 - 5 ml/kg/hr for 2 - 4 hours
+3. 2 - 3 ml/kg/hr for 24 - 48 hours
+If oral fluid intake improves, IV
+fluid can be reduced
+Stop IV fluid if patient shows
+signs of reabsorption, usually 48
+hours after entering critical phase
+Reassessment of haemodynamic status
+•
+•
+•
+•
+•
+•
+Management of Dengue in Children (Second Edition)
+Algorithm 5. Fluid Management of Decompensated Dengue
+Shock in Children
+Modified:
+1. Ministry of Health Malaysia. Paediatric Protocol for Malaysian Hospitals. Putrajaya:
+MoH; 2019
+2. World Health Organization. Handbook of Clinical Management of Dengue.
+Geneva: WHO; 2012
+3. Davis AL, Carcillo JA, Aneja RK et al. American College of Critical Care Medicine
+Clinical Practice Parameters for Hemodynamic Support of Paediatric and Neonatal
+Septic Shock. Crit Care Med. 2017;45(6):1061-1093.
+,
+and circulation
+mask
+Secure
+haematocrit (
+)
+Commence Normal Saline
+or colloid solutions at 20
+15 -
+Monitor vital signs and hourly urine output (
+-
+s unchanged, consider:
+Crystalloid solutions reduced to
+1.
+2. 5 -
+- 2 hours
+3. 3 -
+- 4 hours
+4. 2 -
+for 24 -
+Crystalloid solutions reduced to
+1.
+2. 5 -
+- 2 hours
+3. 3 -
+- 4 hours
+4. 2 -
+for 24 -
+Crystalloid solutions reduced to
+1.
+2. 5 -
+- 2 hours
+3. 3 -
+- 4 hours
+4. 2 -
+for 24 -
+No
+of
+10 -
+are
+Reversal of
+shock
+No
+hours after entering critical phase
+10 -
+faster if profuse
+initial
+•
+•
+•
+•
+•
+•
+•
+• intubation to secure airway and ventilation
+• concurrent bleeding and leaking
+• septic shock (co-infection)
+• cardiac dysfunction
+• correction of electrolyte imbalances and acidosis
+o look for source if clinically not apparent yet
+o transfuse fresh packed red cells/fresh whole blood or blood components
+o check coagulation profile
+o take blood culture and start IV antibiotics (refer to National Antibiotic Guidelines 2019)
+o consider inotropes/vasopressors (adrenaline or noradrenaline)
+o perform echocardiogram if available
+o consider inotropes/vasopressors (adrenaline or dobutamine)
+• monitoring of intra-abdominal pressure (IAP) - control ascitic fluid drainage with great caution if IAP is elevated
+Reassessment of haemodynamic status
+•
+10 -
+- 60 minutes or
+faster if patient
+remains hypotensive
+Reversal of
+shock
+Management of Dengue in Children (Second Edition)
+1
+1. INTRODUCTION
+1.1 Epidemiology
+Dengue fever (DF) is a common and serious mosquito-borne viral
+disease. It is caused by dengue virus (DENV) which has four serotypes
+(DEN 1, DEN 2, DEN 3 and DEN 4). All serotypes are found in Malaysia
+and the predominant serotype changes from year to year.
+The vector for DENV is a mosquito from the genus Aedes which has a
+biting preference for certain times of the day i.e. the morning and late
+afternoon. A. aegypti is considered as the principal species as it only
+feeds on humans and can adapt to cohabit with humans in both urban
+and rural environments. A. albopictus on the other hand is less efficient
+to spread DENV since it feeds on both human and animal blood.
+The incidence of dengue has grown dramatically around the world in
+recent decades. The actual numbers of dengue cases are underreported
+and many are misclassified. World Health Organization reports a
+modelling estimate of 390 million dengue infections per year (95% CI
+284 to 528), with 96 million (95% CI 67 to 136) manifesting clinically
+(with any severity of the disease).1, level III
+In Malaysia, the number of dengue cases and incidence rate (IR)
+continues to increase with the highest number ever reported in 2019.
+In that year, a total of 130,101 dengue cases were reported which was
+equivalent to an IR of 390.4 cases per 100,000 population.
+During the period 2000 - 2019, the annual number of dengue cases
+in Malaysia varied substantially, from the lowest value of 7,103 cases
+(30/100,000 population) in 2000 and reaching a peak of 120,836
+cases (390/100,000 population) in 2015. After the peak, there was a
+downward trend in 2016, 2017, 2018 with yearly reduction of 16.1%,
+17.3% and 3.9% of cases respectively. However, in 2019, there was an
+increase of 61.4% in dengue cases. Refer to Figure 1.
+Management of Dengue in Children (Second Edition)
+2
+Figure 1. Annual number and incidence rate of dengue in
+Malaysia, 2000 - 2019
+Source: Analysis of dengue cases in Malaysia. Disease Control Division, Ministry of
+Health Malaysia. 2020 (unpublished document).
+DENV affects all age groups worldwide. Thus, children are also not
+spared from dengue infection and their management proves to be
+challenging. It has been estimated by World Health Organization
+(WHO) that 500,000 people with severe dengue require hospitalisation
+each year, a large proportion of whom are children.2 - 3, level III
+In the majority of children (0 - 12 years old), dengue causes flu-like
+illness which might be difficult to differentiate from other febrile illness
+(OFI) and seldom causes death. The severe form that leads to plasma
+leakage and shock is the cause of death among children in some Asian
+and Latin America countries.3, level III In Malaysia, the annual percentage
+of cases among children has increased from 2014 to the current
+percentage of about 20% in 2019 (refer to Figure 2).
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+Dengue cases
+7,103
+16,368 32,767 31,545 33,895 39,686 38,556 48,846 49,335 41,486 46,171 19,884 21,900 43,346 108,698120,836101,357 83,849 80,615 130,101
+Incidence Rate
+30.5
+68.8
+133.6
+125.9
+132.5
+151.9
+144.7
+179.8
+177.9
+146.6
+163.4
+69.6
+74.7
+145.9
+361.1
+396.4
+328.3
+258.9
+245.3
+390.4
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+0
+20,000
+40,000
+60,000
+80,000
+100,000
+120,000
+140,000
+Incidence Rate (per 100,000 population)
+Number of Dengue Cases
+Management of Dengue in Children (Second Edition)
+3
+Figure 2. Annual dengue cases among children and adults in
+Malaysia
+Source: Analysis of dengue cases in Malaysia. Disease Control Division, Ministry of
+Health Malaysia. 2020 (unpublished document).
+1.2 Classification
+Dengue classification has undergone major changes since 2009. The
+previous 1997 classification of DF and dengue hemorrhagic fever (DHF)
+drew much criticisms since the case definition of DHF was too rigid
+and not applicable in primary care or resource-limited settings. Another
+issue was that the old case definition failed to identify a significant
+proportion of dengue cases that were severe in nature involving certain
+target organs. Severe manifestations e.g. central nervous system
+(encephalopathy) and hepatic failure were not included in the old
+definition. The emphasis of the old classification was more on bleeding
+manifestations, hence the nomenclature of DF and DHF were used.
+Findings from a multicentre study by DENCO study group led to the
+new clinical classification.4, level II-2; 5, level III Malaysia has adopted these
+new classifications for use in clinical management and clinical audit of
+mortality cases. New terms like dengue with/without warning signs and
+severe dengue are used to emphasise that not only bleeding causes
+problems in dengue but increased vascular permeability leading to
+plasma leakage can tip an in individual over to a severe form of dengue.
+Refer to Figure 3.
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+Children
+2503
+2652
+4730
+14928
+17474
+15215
+14897
+13280
+21570
+Adult
+19884
+21897
+43346
+108698
+120836
+101357
+83849
+67335
+108531
+0
+20000
+40000
+60000
+80000
+100000
+120000
+140000
+Dengue Cases
+Management of Dengue in Children (Second Edition)
+4
+Figure 3. Dengue classification and severity
+Adapted: World Health Organization. Handbook of Clinical Management of Dengue.
+Geneva: WHO; 2012
+1.3 Severity
+Dengue infection may be asymptomatic or present with a broad range
+of clinical manifestations from [mild febrile illness (known as DF) to lifethreatening shock syndrome]. Numerous viral, host and vector factors
+are thought to impact the risk of infection and disease severity.
+There are four closely related but serologically distinct DENV types.
+Generally, infection with one DENV serotype confers protection to
+infection with that serotype only. Thus, individuals are susceptible to
+secondary infections with other serotypes. They are at greater risk
+of severe dengue. Therefore, children and adults living in dengue
+endemic area like Malaysia where all serotypes co-circulate are at risk
+for primary/secondary infections with any DENV.6 - 8, level III
+Dengue infection in children is often difficult to differentiate from OFI
+hence often delaying appropriate management in a timely manner.
+Children generally present with non-specific clinical features of OFI.6, level III
+Among the different paediatric age groups, infants are at high-risk of
+getting severe dengue. The age specific incidence of infant DHF is
+0.5/1000 person between the ages of 3 to 8 months in South East Asia.
+Infants with primary infection may develop severe dengue when the
+mothers have prior DENV immunity.9, level III
+Management of Dengue in Children (Second Edition)
+5
+2. CLINICAL MANIFESTATIONS AND PATHOPHYSIOLOGY
+Dengue in children has a wide spectrum of clinical presentations
+ranging from non-severe to life-threatening. Refer to Figure 3 for
+common symptoms and signs of the condition.
+Dengue illness begins abruptly after an incubation period of 4 - 10 days
+following the mosquito bite. It encompasses three phases as discussed
+below.
+a. Febrile phase
+This phase usually lasts 2 - 7 days. Common features include:
+• abrupt high-grade fever
+• facial flushing, skin erythema, generalised body ache, myalgia,
+arthralgia, retro-orbital pain, photophobia, rubelliform exanthema
+and headache
+• anorexia, nausea and vomiting
+These features are also present in OFI which might be difficult to
+differentiate from DF. Refer to Table 2.
+The earliest abnormality in full blood count (FBC) is a gradual drop in
+white cell counts, which should alert the doctor to a high probability
+of dengue. Haematological manifestations are mild e.g. petechiae,
+mucosal membrane bleeding (nose, gum), easy bruising or bleeding at
+venepuncture sites.10, level III
+Complications e.g. dehydration and febrile seizures may occur during
+this phase.
+b. Critical phase
+This phase usually begins after the third (or earlier) day of illness but can
+be as late as day eight of illness. It typically occurs around the time of
+defervescence (temperature drops to and remains below 38ºC. Plasma
+leakage may occur as a result of increased capillary permeability and
+is manifested by warning signs (refer to yellow box below). This set of
+clinical parameters usually precedes manifestations of shock.10, level III
+Management of Dengue in Children (Second Edition)
+6
+Warning signs of dengue
+• Abdominal pain - abdominal tenderness and continuous pain (not
+intermittent)11, level III
+• Persistent vomiting - ≥2 episodes of vomiting that amounts to fatigue
+or requires intravenous (IV) fluids12, level II-3
+• Mucosal bleed - bleeding from nose, gums, conjunctiva, vagina,
+gastrointestinal/ respiratory/urinary tract11, level III
+• Lethargy, restlessness10, level III
+• Liver enlargement >2 cm10, level III
+• Clinical fluid accumulation - pleural effusion and ascites11, level III
+• Laboratory: increase in haematocrit (HCT) concurrent with decrease
+in platelet - HCT raised by 20% from the baseline value with concurrent
+decrease in platelet count ≤100 x 103 cells/mm10 - 11, level III
+*Refer to Table 6 on Range of Haematocrit in Different Age Groups.
+Significant critical phase usually lasts 24 - 48 hours, mostly worse
+around defervescence. Some children may enter this phase before
+defervescence. The initiation of plasma leakage is signalled by an
+elevated HCT and rapid onset of thrombocytopenia or warning signs.
+The HCT level is closely associated with loss of plasma volume and the
+higher the level of haemoconcentration, the greater the severity of the
+disease.13, level III However, majority of children recover spontaneously or
+after a short period of fluid therapy.
+Continuous vascular permeability and plasma leakage give rise to
+hypovolaemia and shock. Severe plasma leakage leads to dengue
+shock syndrome (DSS). Severe organ involvement may develop e.g.
+severe hepatitis, encephalitis and myocarditis, and/or severe bleeding
+even without obvious plasma leakage or shock.
+• Pathophysiology of plasma leakage and shock in dengue
+Increased capillary permeability is the main pathophysiological
+abnormality seen in dengue infection which results in plasma leakage into
+the extravascular compartment.3, level III This results in haemoconcentration
+and hypovolaemia or shock. Shock in dengue is a physiological
+continuum, from asymptomatic capillary leakage to compensated shock,
+then hypotensive shock and eventually cardiac arrest.10, level III The
+mechanisms that lead to severe dengue are not well established.
+During earlier stage of shock, the body compensates to maintain normal
+systolic blood pressure (BP). Hypovolaemia leads to reflex tachycardia
+and widespread vasoconstriction due to increased sympathetic activity.
+Refer to Appendix 3 on Systemic Manifestation of Peripheral
+Vasoconstriction.
+Management of Dengue in Children (Second Edition)
+7
+Parameters to be monitored during haemodynamic assessment are
+shown in Table 1.
+Table 1. Haemodynamic Assessment: Continuum of
+Haemodynamic Changes
+*unless the child is touched, parameters of shock will be missed e.g. cold extremities,
+weak peripheral pulses, prolonged CRT
+Modified: World Health Organization. Handbook for Clinical Management of Dengue.
+Geneva: WHO; 2012
+c. Recovery phase
+Most cases of severe dengue will enter the convalescent phase
+24 - 48 hours after the onset of plasma leakage. This is followed by
+gradual reabsorption of extravascular compartment in the next 48 - 72
+hours.10, level III
+Improvement of patient’s general condition is shown by gradual return
+of appetite, disappearance of gastrointestinal symptoms, stabilisation of
+haemodynamic status and commencement of diuresis. Some patients
+may develop a confluent erythematous or petechial rash with small
+areas of normal skin over the extremities described as “isles of white in
+the sea of red”.10, level III
+Parameters
+Normal
+Circulation
+Compensated shock*
+Decompensated /
+Hypotensive shock
+Consciousness
+level
+Clear and alert
+Clear and alert
+Change of mental state
+(restless, drowsy)
+Extremities
+Warm and pink
+extremities
+Cold extremities
+Cold, clammy
+extremities
+Capillary
+refill
+time (CRT)
+Brisk (<2 sec)
+Prolonged (>2 sec)
+Very prolonged,
+mottled skin
+Peripheral pulse
+volume
+Good volume
+peripheral pulses
+Weak & thready
+peripheral pulses
+Feeble or absent
+peripheral pulses
+Heart rate
+Normal heart rate
+for age
+Tachycardia
+Severe tachycardia
+with bradycardia in
+late shock
+BP
+Normal BP for age • Normal systolic
+pressure with raised
+diastolic pressure
+• Postural
+hypotension
+Hypotension/
+unrecordable BP
+Pulse pressure
+Normal pulse
+pressure for age
+Narrowed pulse
+pressure (≤20 mmHg)
+Unrecordable
+Respiratory rate
+Normal respiratory
+rate for age
+Tachypnoea
+Metabolic acidosis/
+hyperpnoea
+Urine output
+Normal
+Reducing trend
+Oliguria/anuria
+Management of Dengue in Children (Second Edition)
+8
+Days of illness
+Temperature
+Potential clinical issues
+Laboratory changes
+Serology and virology
+Course of dengue illness
+Febrile
+Critical
+Recovery phases
+Viraemia
+Hematocrit
+Dehydration
+Organ impairment
+lgM / IgG
+NS1 Ag
+Febrile Seizures
+Reabsorption
+ﬂuid overload
+Platelet
+Shock
+Bleeding
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+40
+Figure 4. Isles of White in the Sea of Red
+• In recovery phase, important signs to be considered are:
+ general condition improves
+ HCT may decrease due to dilutional effect which does not warrant
+further action
+ new onset respiratory distress due to fluid overload
+During recovery phase, cardiac manifestations may include bradycardia
+and hypertension.10, level III; 14 The HCT normalises or decreases due to
+the dilutional effect of reabsorbed fluid. Soon after defervescence, there
+is an increase of white blood cell (WBC) count followed by recovery of
+platelet count.10, level III
+The clinical course of dengue illness is shown in Figure 5.
+Figure 5. The Course of Dengue Illness
+Adapted: World Health Organization. Handbook for Clinical Management of Dengue.
+Geneva: WHO; 2012
+Management of Dengue in Children (Second Edition)
+9
+3. DIAGNOSIS
+3.1 Clinical Diagnosis
+Accurate diagnosis of dengue is essential for early detection and
+management of severe dengue, and timely institution of preventive
+measures. High index of suspicion is important in arriving at the
+diagnosis e.g. history of recent fogging in locality, recent family history
+of dengue, etc. Definitive diagnosis requires laboratory confirmation.
+• The criteria for a provisional diagnosis of dengue infection are as
+below:10, level III
+ Live in/travel to dengue endemic area
+ Fever and TWO of the following
+- nausea or vomiting
+- leukopenia
+- rash
+- any warning signs
+- aches and pains
+These criteria are well outlined in dengue classification (Figure 3).
+Features associated with laboratory-confirmed dengue in children are
+nausea or vomiting, absence of upper respiratory infection symptoms,
+liver enlargement, thrombocytopenia (platelet count <100,000 /µL) and
+leukopenia (leukocyte count <4000 /µL).15, level III
+Differential diagnosis for dengue in children is shown in Table 2.
+Table 2. Differential Diagnosis for Dengue in Children
+Adapted: World Health Organization. Dengue Guidelines for Diagnosis, Treatment,
+Prevention and Control. Geneva: WHO; 2009
+CONDITIONS THAT MIMIC THE FEBRILE PHASE OF DENGUE INFECTION
+Flu-like syndromes
+Illnesses with a rash
+Diarrhoeal diseases
+rotavirus, other enteric infections
+Illnesses with neurological
+manifestations
+CONDITIONS THAT MIMIC THE CRITICAL PHASE OF DENGUE INFECTION
+Infectious
+Malignancies
+acute leukaemia and other malignancies
+Other clinical pictures
+acute abdomen
+diabetic ketoacidosis
+lactic acidosis
+leukopenia and thrombocytopaenia ± bleeding
+platelet disorders
+renal failure
+respiratory distress (Kussmaul’s breathing)
+Systemic Lupus Erythematosus
+acute gastroenteritis, malaria, leptospirosis, typhoid,
+typhus, viral hepatitis, bacterial sepsis, septic shock,
+acute HIV seroconversion illness
+febrile seizures, meningitis, encephalitis,
+meningoencephalitis
+rubella, measles, scarlet fever, meningococcal infection,
+chikungunya, drug reactions
+influenza, measles, chikungunya, infectious
+mononucleosis,human immunodeficiency virus (HIV)
+seroconversion illness
+Management of Dengue in Children (Second Edition)
+10
+3.2 Laboratory Diagnosis
+Since the clinical symptoms for dengue viral infection in children are so
+diverse, accurate clinical diagnosis is challenging. Virus detection and
+serological conversion had been the main targets for diagnosis for many
+years. Now, point-of-care diagnostic tests like dengue combo rapid test
+can be used in conjunction with assessment of clinical presentation to
+arrive at the diagnosis. Difficulty in diagnosis is further confounded by
+appearance of different biomarkers at different phases of dengue and
+their persistence also depends on whether it is primary or secondary
+dengue (refer to Figure 6). Therefore, if the first test done to confirm
+the diagnosis of dengue is negative but there is still clinical suspicion
+of dengue, the diagnostic test needs to be repeated. The choice of test
+depends on the timeline from onset of symptoms to presentation (refer
+to Algorithm 1).
+Dengue infection can be diagnosed by
+• detection of the dengue virus protein by non-structural protein 1
+antigen (NS1 Ag) - rapid test/enzyme-linked immunosorbent assay
+(ELISA)
+• antibody detection of immunoglobulin M (IgM)/immunoglobulin G
+(IgG) (serology) - rapid test/ELISA
+• combination of NS1 Ag with IgM/IgG rapid test (dengue rapid
+combo test)
+• genome detection - real time reverse transcriptase-polymerase
+chain reaction (RT-qPCR)
+• virus isolation
+NS1 Ag test has a high specificity for dengue infection (86 - 99%) but
+with lower sensitivity (67% - 71%).16 - 17, level III
+Dengue rapid test is a good tool for detection of DENV IgM in acute
+dengue infection (AUC=0.91).18, level II-2
+Combination of NS1 Ag with an IgM/IgG rapid test in acute dengue
+infection results in an increased sensitivity to:19, level III
+• 89% for combination of NS1 Ag with anti-IgM
+• 93% for combination of NS1 Ag, anti-IgM and anti-IgG
+Refer to Figure 6, Table 3 and Table 4 on appropriate test to be done
+during different phases of dengue infection.
+Management of Dengue in Children (Second Edition)
+11
+Figure 6. Timeline of dengue biomarker appearance in
+patients experiencing primary and secondary infection
+Source: Muller DA, Depelsenaire AC, Young PR. Clinical and Laboratory Diagnosis of
+Dengue Virus Infection. J Infect Dis. 2017;215 (suppl_2): S89-S95
+In primary infection (top panel), both NS1 and virus can be detected
+from the onset (day 1) of disease, with IgM appearing around day
+3 of illness and IgG appearing towards the end of the acute period.
+Secondary infections (bottom panel) are characterised by the presence
+of IgG early in the acute phase of disease and a shorter duration of
+NS1 and virus detection. Note the onset of severe dengue (DHF/DSS),
+primarily in secondary infections and at a time when virus and NS1
+levels are falling.20, level III
+Primary Infection
+Disease/symptom
+onset
+Secondary Infection
+Disease/symptom
+onset
+NS1
+Virus
+NS1
+Virus
+lgG
+lgM
+Time
+(days)
+lgG
+lgM
+Time
+(days)
+-2
+0
+2
+4
+6
+8
+10
+-2
+0
+2
+4
+6
+8
+Management of Dengue in Children (Second Edition)
+12
+Table 3. Dengue Diagnostics and Sample Characteristics
+Adapted: World Health Organization. Handbook for Clinical Management of Dengue.
+Geneva: WHO; 2012
+Table 4. Confirmed and Probable Dengue Diagnosis,
+Interpretation of Results and Sample Characteristics
+Adapted: World Health Organization. Handbook for Clinical Management of Dengue.
+Geneva: WHO; 2012
+Laboratory
+tests
+Clinical
+sample
+Diagnostic
+method
+Methodology
+Laboratory
+Turnaround
+Time (TAT)
+Laboratory
+Service
+Detection of
+DENV and
+its
+components
+Acute serum
+(1 - 5 days of
+fever) and
+post-mortem
+tissues
+Viral
+isolation
+Mosquito cell
+culture
+inoculation
+One week
+or more
+IMR/MKAK
+Nucleic acid
+detection
+RT-qPCR
+1 - 7 days
+IMR/MKA
+Antigen
+detection
+NS1 Ag
+rapid test
+Minutes
+Primary
+health care
+NS1 Ag ELISA
+2 - 5 days
+Hospitals
+Serological
+response
+Paired sera
+(acute serum
+from 1 - 5
+days and
+second
+serum 15 - 21
+days after)
+IgM or IgG
+seroconversion
+ELISA
+2 - 5 days
+Hospitals
+Serum after
+day 5 of fever
+IgM
+detection
+(recent
+infection)
+IgM ELISA
+2 - 5 days
+Hospitals
+Rapid tests
+Minutes
+Primary
+health care
+and
+hospitals
+IgG
+detection
+IgG ELISA
+2 - 5 days
+Hospitals
+Detection of
+DENV
+components
+and
+serological
+response
+(Combo
+Test)
+Whole blood
+(anytime
+dengue
+suspected)
+NS1
+Antigen,
+IgM and
+IgG
+detection
+NS1 Ag, IgM
+and IgG rapid
+test
+Minutes
+Primary
+health care
+and
+hospitals
+Laboratory diagnosis
+Method
+Interpretation
+Confirmed dengue
+infection
+Virus isolation
+Virus isolated
+Genome
+detection
+Positive RT-qPCR
+Antigen detection
+Positive NS1 Ag
+IgM
+From negative IgM to positive IgM in paired
+sera
+IgG
+From negative IgG to positive IgG in paired
+sera
+Probable dengue
+infection
+IgM
+Positive IgM
+IgG
+Positive IgG
+Management of Dengue in Children (Second Edition)
+13
+Refer to Algorithm 1 on Dengue Laboratory Diagnosis.
+All laboratory results should be interpreted by taking into consideration
+the clinical features and timing of test.
+In local setting, for severe dengue or mortality cases, serotyping should
+be sent to reference laboratory.
+Recommendation 1
+• Children suspected of dengue infection should be tested with a
+combination of NS1 Antigen/IgM/IgG rapid test (dengue rapid combo
+test).
+ Rapid test of NS1 Antigen alone may be used on day 1 to day 5
+of illness.
+• Laboratory results should be correlated with clinical presentation of
+children suspected of dengue.
+• Dengue serotyping should be done for severe dengue or mortality
+cases in children.
+3.3 Post-Mortem Cases
+Tissue samples of suspected dengue infection from post-mortem cases
+should be sent for viral isolation and PCR. Tissue samples of choice
+are from the liver, spleen and lymph nodes.10, level III The tissues should
+be placed in sterile containers and moistened with sterile normal saline
+(NS). Bone marrow samples should be collected in ethylenediamine
+tetraacetic acid (EDTA) tube. In patients suspected of having dengue
+encephalitis, cerebrospinal fluid (CSF) samples should be submitted in
+sterile bijou bottles. These samples should be transported on ice to the
+referral laboratory. All samples should be refrigerated if there is delay
+in transportation.21
+Recommendation 2
+• Tissue samples of suspected dengue infection from post-mortem
+cases should be sent for viral isolation and polymerase chain reaction
+test.
+3.4 Notification
+• Under the Prevention and Control of Infectious Diseases Act, 1988
+(Act 342), notification of dengue is mandatory and failure to notify is
+compoundable.
+Management of Dengue in Children (Second Edition)
+14
+Any delay in notification will increase the risk of dengue transmission
+in the locality of the residence. Any change in diagnosis or severity
+should be re-notified. All dengue deaths need to be notified as soon
+as possible by the treating doctor in the hospital to the district health
+office and/or State Health Department and must be investigated by the
+District Health Officer or Epidemiology Officer.
+Health authorities will investigate all notified cases for the verification of
+case definition and preventive measures. Ministry of Health Malaysia
+has set up new criteria since 2014 whereby all registered dengue cases
+must be laboratory confirmed.22
+Recommendation 3
+• Notification should be done for all suspected dengue cases from
+private and public health facilities by telephone/fax/e-notification to
+the nearest health office within 24 hours of diagnosis. Except for
+e-notification, other types of notification should be followed by written
+notification using the standard notification form.
+Management of Dengue in Children (Second Edition)
+15
+4. RISK FACTORS FOR SEVERE DENGUE
+Risk factors for severe dengue need to be identified to improve dengue
+management in children. WHO listed seven warning signs in 2009
+guidelines. However, recent study shows that the signs listed below are
+significantly associated with severe dengue:23, level II-2
+• lethargy
+• abdominal pain
+• bleeding tendencies
+• hepatomegaly
+• haemoconcentration of >22% of baseline
+• thrombocytopenia of <100,000 /µL
+Other predictors of dengue severity in children are:
+• demographic: female sex, age group >5 years old,23, level II-2
+obesity23 - 24, level II-2
+• epidemiology: secondary infection by DENV, infection by
+DENV-223, level II-2
+• clinical signs: pulse pressure <20 mmHg, systolic BP <90 mmHg
+23, level II-2
+• laboratory parameters: WBC >5,000 /μL, haemoglobin (Hb) <9 g/
+dL,23, level II-2 prolonged prothrombin time (PT) and activated partial
+thromboplastin time (APTT), low fibrinogen level25, level Ill
+• imaging: gallbladder wall thickening >5 mm23, level II-2 presence of
+pleural effusion, ascites and/or gallbladder wall thickening25, level Ill
+Management of Dengue in Children (Second Edition)
+16
+5. TREATMENT
+5.1 Febrile Phase
+Children may present with acute febrile illnesses which may be difficult
+to differentiate from dengue infection at the initial stage. During the first
+encounter, appropriate history taking and physical examination should
+be performed to arrive at the correct diagnosis. For paramedics who
+attend the child before a doctor, use the Checklist for Initial Assessment
+Dengue in Children for Paramedics to avoid missing the diagnosis
+(refer to Appendix 4).
+For children who do not require admission, advice should be given on
+temperature and fluid management (refer to Appendix 5).
+• Acetaminophen (paracetamol) may be used for the treatment of
+fever and pain. The dose in dengue needs to be adjusted since there
+is theoretical risk of liver injury. The recommended dose is 10 mg/kg/
+dose, not more than 3 - 4 times in 24 hours in children.10, level III
+• Perform tepid sponging if the patient still has a high fever.10, level III
+• Do not prescribe acetylsalicylic acid (aspirin), ibuprofen or other
+non-steroidal anti-inflammatory agents (NSAIDs) or intramuscular
+injections, as these aggravate gastritis or bleeding.10, level III
+5.1.1 Outpatient monitoring and treatment
+Outpatient monitoring is recommended for children with dengue
+infection who do not require admission and they are as listed below:
+10, level III
+• daily vital signs monitoring i.e. temperature, pulse rate/volume, BP
+and CRT
+• daily FBC monitoring specifically HCT and platelet count. Initial
+HCT can be used as a baseline during the monitoring. Critical phase
+of plasma leakage is preceded by decreasing WBC count, platelet
+count and increasing HCT. Thus, daily FBC is recommended until
+the critical phase has resolved.
+• daily fluid intake and urine output. Caregivers should be advised to
+record oral fluid intake and urine output. Urine output of 4 - 6 times/
+day signifies adequate fluid intake.
+• advise caregivers to bring the child for reassessment by healthcare
+providers if the child’s condition worsens i.e. presence of warning
+signs.
+Children with dengue infection who are managed as outpatient should
+be provided with dengue monitoring card and dengue home care leaflet
+(refer to Algorithm 2 and Appendix 5).
+Management of Dengue in Children (Second Edition)
+17
+Recommendation 4
+• All children with dengue infection who are treated as outpatient:
+ should have daily clinical and laboratory monitoring until resolution
+of critical phase
+ should be provided with dengue monitoring card and dengue
+home care leaflet
+5.1.2 Admission criteria
+Most children with dengue infection are asymptomatic. Those with
+symptoms will generally recover with/without symptomatic treatment.
+However, approximately 5% of cases will develop severe dengue
+and require admission.26, level III Refer to Chapter 2 on Clinical
+Manifestations and Pathophysiology and Chapter 4 on Risk
+Factors for Severe Dengue.
+• The admission criteria for children with dengue infection include:
+10, level III
+ age <12 months
+ presence of warning signs
+ features of severe dengue
+ presence of co-morbidities
+• Admission may be considered based on social factors e.g. difficulty
+for outpatient monitoring.
+Positive NS1 Ag test only is not an indication for admission as majority
+of non-severe dengue (65.9%) are NS1 Ag positive.27, level III Serological
+evidence of dengue does not indicate the child needs admission since
+dengue IgM positivity (93%) is more common in non-severe dengue.
+28, level III
+Healthcare providers should use his/her clinical acumen to stabilise
+patients prior to transfer to appropriate healthcare facilities. Adequate
+communication to the receiving facility must be made. Refer to
+Garispanduan Rujukan dan Perpindahan Pesakit di Antara Hospitalhospital Kementerian Kesihatan.29
+5.1.3 Inpatient monitoring
+As the child progresses through the course of dengue infection,
+appropriate monitoring is recommended to enable early detection of
+severe illness. Clinical and laboratory parameters that may predict
+progression are:30 - 31, level III
+• clinical - increased central to peripheral temperature gradient,
+bleeding episodes, hepatomegaly, pulse pressure <20 mmHg,
+systolic BP <90 mmHg
+• laboratory - white cell count >5,000 /μL, platelet ≤100,000 /μL, high
+serum lactate and decreasing base excess
+Management of Dengue in Children (Second Edition)
+18
+Dynamic prediction model that incorporates signs, symptoms and
+daily laboratory measurements improves DSS prediction (AUC=0.70).
+32, level II-3 On the other hand, Classification and Regression Tree (CART)
+that includes HCT, Glasgow Coma Scale (GCS), urinary protein,
+creatinine and platelet count has a moderate accuracy (64.1%) for
+predicting the development of severe dengue among children with
+confirmed DENV infection.33, level III
+Frequency of monitoring of clinical and laboratory parameters will
+depend on severity and phase of illness (refer to Table 5).3, level III
+Documentation of the findings from the monitoring should be done
+using the Inpatient Dengue Monitoring Chart (refer to Appendix 6).
+• Rapid haemodynamic assessment can be performed at bedside
+using C (skin colour), C (CRT), T (extremities’ temperature), V (pulse
+volume) and R (pulse rate).
+Table 5. Disease Monitoring for Different Phases of
+Dengue Illness
+Parameters for
+Monitoring
+Frequency of monitoring
+Febrile phase
+Critical phase
+Recovery phase
+Clinical
+General well-being
+Appetite/oral
+intake
+Vomiting/diarrhoea
+Warning signs
+Daily or more
+frequently towards
+late febrile phase
+At least twice a day
+and more frequently
+as indicated
+Daily or more
+frequently as
+indicated
+Haemodynamic
+status
+Skin Colour (pink/
+cyanosis)
+Capillary refill time
+Extremities
+(Temperature -
+cold/warm)
+Pulse Volume
+Pulse Rate
+Blood pressure
+Pulse pressure
+Respiratory status
+Respiratory rate
+Oxygen saturation
+(pulse oximeter
+/SpO2)
+Neurological status
+Consciousness
+level
+Restlessness
+Seizures
+4 - 6 hourly
+depending on
+clinical status
+2 - 4 hourly
+depending on
+clinical status
+In shock:
+Every 15 - 30
+minutes until stable,
+then 1 - 2 hourly
+4 - 6 hourly
+Management of Dengue in Children (Second Edition)
+19
+5.2 Critical Phase
+The three main priorities of managing hospitalised patients with dengue
+in critical phase are:
+• replacement of plasma losses
+• early recognition and treatment of haemorrhage
+• prevention of fluid overload
+Judicious IV fluid therapy is essential and usually is the only intervention
+required to maintain effective circulation for 24 - 48 hours during the
+critical phase.10, level III For overweight or obese patients, the ideal body
+weight should be used for calculating fluid infusion rates (refer to
+Appendix 7).
+Fluid resuscitation must be clearly separated from fluid maintenance.
+Fluid resuscitation of 10 - 20 ml/kg fluid boluses are administered for a
+limited period of time under close supervision. This rapid fluid boluses
+Parameters for
+Monitoring
+Frequency of monitoring
+Febrile phase
+Critical phase
+Recovery phase
+Abdominal
+tenderness,
+hepatomegaly
+Ascites, pleural
+effusion
+Urine output
+8-hourly
+2 - 4 hourly
+In shock: Hourly
+4 - 6 hourly
+Laboratory
+FBC
+Daily or more
+frequently if
+indicated
+4 - 12 hourly
+depending on
+clinical status
+In shock:
+Repeat before and
+after each attempt
+of fluid resuscitation
+and as indicated
+Daily
+Blood Urea Serum
+Electrolytes
+(BUSE)/Creatinine
+Liver Function
+Test (LFT)
+(including
+aspartate
+transaminase
+(AST)/alanine
+transaminase
+(ALT)
+Blood sugar
+As indicated
+At least once or
+more frequently as
+indicated
+As indicated
+Arterial Blood Gas
+(ABG)/Venous
+Blood Gas (VBG)
+Lactate
+Coagulation profile
+As indicated
+As indicated
+
+
+
+
+
+
+
+
+
+
+As indicated
+In shock:
+Monitor ABG/VBG
+and lactate closely
+
+Signs of bleeding
+Daily or more
+frequently towards
+late febrile phase
+At least twice a day
+and more frequently
+as indicated
+Daily or more
+frequently as
+indicated
+Management of Dengue in Children (Second Edition)
+20
+to reverse shock is followed by titrated fluid volume to match ongoing
+losses. Haemodynamic state should be used as a main driver of IV fluid
+therapy and not HCT alone.
+• Goals of fluid resuscitation are to:
+ improve circulation as evidenced by decreasing tachycardia,
+improving BP and pulse volume, warm and pink extremities and
+CRT <2 seconds
+ improve end-organ perfusion as evidenced by improving
+consciousness level and urine output
+ achieve appropriate decrease in HCT (refer to Subchapter 5.2.6
+on Interpretation of HCT)
+Patients with severe dengue who are in critical phase require emergency
+treatment and urgent referral to a hospital with paediatrician and access
+to blood transfusion facilities (refer to Figure 3 for Criteria of Severe
+Dengue). All patients in shock should have their blood sample taken
+and cross-matched carried out.
+• Criteria for pediatric intensive care unit/high dependency unit referral
+Dengue patients should be referred to paediatric intensive care
+units/high dependency unit in the event of life-threatening situation
+characterised by one or a combination of the following:10, level III
+• prolonged and/or decompensated shock
+• severe
+bleeding
+with
+severe
+disseminated
+intravascular
+coagulopathy
+• fluid overload
+• respiratory distress and failure
+• severe organ impairment (hepatic damage, renal impairment,
+cardiomyopathy, encephalopathy or encephalitis)
+5.2.1 Choice of resuscitation fluid
+Most children with dengue in shock respond well to judicious treatment
+with isotonic crystalloid solutions.34, level III; 35, level I These fluids should not
+contain glucose.10, level III Isotonic crystalloid solutions should be used
+for maintenance therapy.10, level III; 36, level I Early intervention with colloidal
+solutions is not indicated.35, level I This is supported by a Cochrane
+systematic review that included children with DSS which showed no
+evidence that resuscitation with colloids reduced the risk of death
+compared with crystalloids.37, level I
+In the case of persistent shock despite resuscitation with crystalloid
+solutions, colloid solutions can be considered.14 Clinicians should use
+colloid solutions based on their personal experience, familiarity with
+particular products, local availability and costs involved.
+Management of Dengue in Children (Second Edition)
+21
+Colloid solutions have been advocated for fluid resuscitation in
+severe dengue for both adults and children. Among the colloids used,
+hydroxyethyl starch (HES) is the most controversial. In a randomised
+controlled trial on children with dengue, minor advantages in initial
+recovery were shown with HES while significantly more allergic
+adverse reactions were associated with dextran.35, level I However,
+a recent systematic review of paediatric population with shock of
+various aetiology showed concern on safety issues with HES used
+for resuscitation. They included increased creatinine level, decreased
+platelet count and increased length of intensive care unit stay. Thus,
+HES was not recommended for paediatric patients.38, level I
+Recommendation 5
+• Isotonic crystalloid solutions should be used in resuscitation and
+maintenance therapy in children with dengue.
+ Colloid solutions may be used in persistent shock despite
+resuscitation with the crystalloid solutions.
+5.2.2 Treatment of warning signs
+In children with dengue presenting with warning signs or signs of
+dehydration (refer to Appendix 8), judicious volume replacement with
+IV fluid therapy from this early stage may modify the course and severity
+of disease. Refer to Algorithm 3.
+5.2.3 Treatment of compensated shock
+Treatment plan for patients with compensated shock is as follows (refer
+to Algorithm 4):10, level III Obtain a reference HCT before starting IV fluid
+therapy.
+• Secure IV/intraosseous (IO) access within five minutes.
+• Start IV fluid resuscitation with isotonic crystalloid solutions at 10 -
+20 ml/kg over one hour.
+• Reassess the patient’s condition (vital signs, CRT, HCT and urine
+output).
+• If the condition of the patient improves, reduce IV fluid accordingly.
+• If oral fluid intake improves, IV fluid can be reduced earlier.
+• Stop IV fluid if patient shows signs of reabsorption, usually 48
+hours after entering critical phase.
+• If vital signs are still unstable (i.e. shock persists), check HCT
+urgently after the first fluid bolus.
+• If the HCT increases or still high with evidence of shock, repeat
+crystalloid solution at 10 - 20 ml/kg over an hour.
+• Consider changing to colloid solution at 10 - 20 ml/kg over an hour
+after resuscitation with 40 ml/kg of crystalloid solution.
+Management of Dengue in Children (Second Edition)
+22
+• Decreasing HCT with unstable vital signs indicates bleeding which
+may be occult. Transfuse patient with fresh whole blood or packed
+cells.
+• Boluses of crystalloid or colloid solution may need to be repeated
+if shock recurs.
+Children with compensated shock should be closely monitored in
+hospitals with paediatricians and managed by senior staffs.
+5.2.4 Treatment of decompensated (hypotensive) shock
+All dengue children with decompensated shock should be managed
+more vigorously. The treatment plan is as mentioned in treatment of
+shock earlier except the following:10, level III
+• Secure IV access within five minutes.
+• Initiate IV fluid resuscitation with crystalloid solution at 20 ml/kg as
+a bolus over 15 - 30 minutes for quick shock reversal.
+• Colloid solution may be considered if the BP has to be restored
+urgently, i.e. in those with pulse pressure <10 mmHg. It has
+been shown to reduce the level of HCT faster than crystalloids in
+intractable shock, however the effect is transient.35, level I
+• Monitor vital signs closely and urine output hourly with an indwelling
+catheter.
+• Children with decompensated shock should be admitted to the
+high-dependency or intensive care area and managed by senior
+staffs.
+Refer to Algorithm 5.
+Recommendation 6
+• Close monitoring and frequent reassessment should be done to
+guide appropriate fluid management of children with dengue shock.
+ They should be managed by senior staffs in hospitals with
+paediatricians.
+ Those with prolonged and/or decompensated shock should be
+admitted to the high-dependency or intensive care unit.
+5.2.5 Monitoring of dengue patients in shock
+Patients with dengue shock should be monitored frequently until the
+critical phase is over. Parameters to be monitored include:10, level III
+• consciousness level
+• vital signs
+• peripheral perfusion (every 15 - 30 minutes until the patient is out of
+shock, then 1 - 2 hourly)
+• continuous electrocardiogram (ECG) and pulse oximetry monitoring
+is advisable in unstable patients
+Refer to Table 5 for the frequency of monitoring in critical phase.
+Management of Dengue in Children (Second Edition)
+23
+• The higher the fluid infusion rate, the more frequent the patient
+should be monitored and reviewed in order to avoid fluid overload
+while ensuring adequate volume replacement.10, level III
+• In local setting, children with shock should at least have continuous
+ECG and pulse oximetry monitoring. IV fluid should be administered
+using infusion/syringe pumps.
+A detailed fluid balance of all inputs and outputs should be maintained.
+Urine output should be checked regularly (each hour until the patient is
+out of shock, then every 1 - 2 hours). A continuous bladder catheter is
+essential in close monitoring of urine output. An acceptable urine output
+would be at least 0.5 - 1 ml/kg/hour. Input/output ratio should not be
+used as sole determinant in fluid resuscitation as input is typically much
+greater than output during critical phase.10, level III
+If previously not detectable, pleural effusion and ascites are usually
+detectable after fluid boluses. Monitoring with bedside ultrasonography
+may be used if available. More importantly, monitor their effects on
+breathing and assess the need of respiratory support.10, level III
+If blood gas machine is available, HCT, lactate and acidosis level should
+be repeatedly analysed using capillary or venous blood to monitor
+changes in the circulation. HCT should be monitored before and after
+fluid boluses until stable, then 4 - 6 hourly.10, level III
+An arterial line has certain advantages but its placement can be
+hazardous because of the risk of bleeding from failed attempts. The
+advantage of an arterial line is that in profound and persistent/recurrent
+shock states, it allows for continuous and accurate BP measurements
+and frequent blood sampling. If arterial line insertion is attempted, it
+should be done in critical care setting.10, level III
+In addition, patients with severe dengue should be monitored for:
+10, level III
+• blood glucose (before fluid resuscitation and repeat as indicated)
+• other organ functions (e.g. renal, liver and coagulation profiles)
+before resuscitation and as indicated
+5.2.6 Interpretation of haematocrit
+• Baseline HCT on the first three days of illness is a useful reference
+point. The rise of HCT level beyond 20% of the baseline during
+critical phase indicates significant plasma leakage and the need for
+IV fluid therapy.10, level III
+Management of Dengue in Children (Second Edition)
+24
+It is important to note that during fluid therapy, HCT level should be
+taken pre- and post-fluid resuscitation or when there are changes in the
+fluid infusion rate.
+• HCT alone is not the driver for fluid therapy. The interpretation of
+HCT will be most meaningful if the corresponding haemodynamic
+state and response to fluid therapy are known at the time of blood
+sampling.10, level III
+ A rising or persistently high HCT with unstable vital signs indicates
+active plasma leakage and the need for a further bolus of fluid
+resuscitation.
+ A rising or persistently high HCT in patients with stable vital
+signs and adequate urine output does not require extra IV fluid.
+Continue to monitor closely and usually the HCT will start to fall
+within the next 24 - 48 hours as plasma leakage stops.
+ A decrease in HCT with signs of shock may indicate major occult
+haemorrhage and urgent transfusion with fresh packed red cells/
+fresh whole blood is needed. Occult bleeding may take several
+hours to become apparent and the patient’s HCT will continue to
+decrease without achieving haemodynamic stability.
+ A decrease in HCT with stable vital signs and adequate urine
+output, indicates haemodilution or reabsorption of extravasated
+fluids. This signifies the start of recovery phase and IV fluids must
+be discontinued immediately to avoid pulmonary oedema.
+The following table shows the normal range of HCT in different age
+groups.
+Table 6. Range of Haematocrit in Different Age Groups
+Source: Ministry of Health Malaysia. Paediatric Protocol for Malaysian Hospitals.
+Putrajaya: MoH; 2019
+5.2.7 Glucose control
+Both hyperglycaemia and hypoglycaemia may occur in the same
+dengue patient at different periods during the critical phase through
+several mechanisms.10, level III
+Age
+Cord blood
+2 weeks
+3 months
+6 months - 6 years
+7 - 12 years
+Adult male
+Adult female
+HCT (%)
+45 - 65
+42 - 66
+31 - 41
+33 - 42
+34 - 40
+42 - 52
+37 - 47
+Management of Dengue in Children (Second Edition)
+25
+Hyperglycaemia:10, level III
+• is the result of a neuroendocrine stress response, occurs in
+diabetes mellitus and results from inappropriate large quantities of
+glucose-fluids administered in resuscitation
+• causes osmotic diuresis which worsens the hypovolaemic shock
+and gives a false impression of a “good urine output”
+• is also associated with increased morbidity and mortality in
+critically ill paediatric patients; most cases of hyperglycaemia will
+resolve with appropriate (isotonic, non-glucose) and adequate
+fluid resuscitation
+However, if hyperglycaemia persists, undiagnosed diabetes mellitus or
+impaired glucose tolerance should be considered and IV insulin therapy
+initiated. Subcutaneous insulin should be avoided in shock state as
+absorption is unreliable.
+Hypoglycaemia:
+• occurs due to starvation in young children, diabetic patients on
+hypoglycaemic agents and severe liver impairment
+• may cause seizures, mental confusion and increased sympathetic
+drive
+• should be treated as an emergency with a bolus of 2 ml/kg of
+dextrose 10%
+Frequent glucose monitoring should be carried out and euglycemia
+maintained with glucose-isotonic solution [NS dextrose 5% running at
+maintenance rate according to Holliday Segar formula (refer to Table
+7)] and enteral feeding if possible.10, level III; 36, level I This maintenance fluid
+should be included as part of fluid therapy according to the Algorithm
+2, 3 and 4.
+Table 7. Holliday-Segar calculator
+Source: Ministry of Health Malaysia. Paediatric Protocol for Malaysian Hospitals.
+Putrajaya: MoH; 2019
+If oral intake is still inadequate, blood glucose should be monitored
+frequently during the critical and recovery phase.
+5.2.8 Electrolytes and acid-base imbalances
+Hyponatraemia is a common observation in severe dengue but the
+underlying mechanism is not fully understood. It could be related to
+gastrointestinal losses through vomiting and diarrhoea or the use of
+Weight
+First 10 kgs
+Subsequent 10 kgs
+All additional kg
+Total fluids
+100 ml/kg
+50 ml/kg
+20 ml/kg
+Infusion rate
+4 ml/kg/hour
+2 ml/kg/hour
+1 ml/kg/hour
+Management of Dengue in Children (Second Edition)
+26
+hypotonic solutions for resuscitation and correction of dehydration. The
+use of isotonic solutions for fluid resuscitation and maintenance will
+prevent and correct this condition.10, level III
+Hyperkalaemia:
+• is observed in association with severe metabolic acidosis or acute
+kidney injury (AKI). Appropriate fluid resuscitation will reverse the
+metabolic acidosis and associated hyperkalaemia
+• in life-threatening situation, hyperkalaemia should be managed
+with infusions of calcium gluconate, sodium bicarbonate and/
+or insulin-dextrose. Potassium binder e.g. sodium polystyrene
+sulfonate and beta agonist are useful adjunctive treatment. Refer
+to Malaysian Paediatric Protocol Fourth Edition (page 34)39, level III
+• in failed medical treatment, renal replacement therapy (RRT)
+should be considered if patient’s haemodynamic status is stable
+Hypokalaemia:
+• is often associated with gastrointestinal fluid losses and stressinduced hypercortisol state
+• usually happens towards the later part of the critical phase
+• should be corrected with potassium supplements in the IV fluids
+Serum calcium levels should be monitored in critically ill patients.
+Hypocalcaemia is common following large amount of blood transfusion
+and should be corrected.
+5.2.9 Metabolic acidosis
+Compensated metabolic acidosis is an early sign of hypovolaemia and
+shock. Lactic acidosis due to tissue hypoxia and hypoperfusion is the
+most common cause of metabolic acidosis in critically ill dengue patients.
+Correction of shock and adequate fluid replacement will reverse the
+metabolic acidosis. If metabolic acidosis remains uncorrected by this
+strategy, one should suspect severe bleeding, check the HCT and
+transfuse fresh packed red cells/fresh whole blood urgently.10, level III
+Differential diagnosis of high lactate (>2.2 mmol/L) includes acute
+renal failure and acute liver failure secondary to severe dengue. Other
+causes are co-infections e.g. leptospirosis, salmonellosis or other
+superimposed bacterial sepsis.
+Sodium bicarbonate for metabolic acidosis caused by tissue hypoxia
+is not recommended for pH ≥7. Bicarbonate therapy is associated
+with sodium and fluid overload, increase in lactate, hypercarbia and
+decrease in serum ionised calcium. A left shift in the oxyhaemoglobin
+dissociation curve due to sodium bicarbonate administration may
+aggravate the tissue hypoxia.10, level III
+Management of Dengue in Children (Second Edition)
+27
+Hyperchloraemia, caused by the administration of large volumes of
+0.9% sodium chloride solution (chloride concentration of 154 mmol/L),
+may cause hyperchloraemic acidosis with normal lactate levels. If
+serum chloride levels increase, use Hartmann’s solution or Ringer’s
+lactate as crystalloid. These do not worsen the lactic acidosis.10, level III
+5.2.10 Treatment for dengue with neurological involvement
+Prevalence of neurological involvement in children admitted with
+dengue infection varies at 0.5 - 9.5%.40 - 42, level III A wide-spectrum
+of neurological manifestations have been described including
+encephalopathy, encephalitis, immune-mediated syndromes and
+muscular dysfunctions.42 - 43, level III
+Acute encephalopathy is the most common neurological complication
+with prevalence at 0.5 - 5.1%.40, 42, level III Affected children usually present
+with reduced level of consciousness which may be caused by multiple
+underlying factors, including prolonged shock, hypoxia, cerebral
+oedema, bleeding, metabolic abnormalities and acute liver or kidney
+failure. Analysis of the CSF is usually normal. Prognosis is variable and
+dependent on underlying contributing factors. Management is usually
+supportive with emphasis on corrections of underlying metabolic and
+haemodynamic abnormalities.42, 44, level III
+Children with encephalitis can present with reduced consciousness,
+headache, altered mental status and seizures. Clinical features may
+be indistinguishable from encephalopathy. Presence of DENV by PCR,
+NS1 Ag or dengue IgM antibody in CSF is helpful to differentiate the
+condition from encephalopathy. Neuroimaging features are diverse and
+nonspecific, with cerebral oedema being the most common finding.
+Supportive management is recommended. Outcome is variable.42, level III
+Immune-mediated neurological syndromes associated with dengue
+infection have been described in paediatric populations. Acute
+transverse myelitis, acute disseminated encephalomyelitis and
+Guillain-Barre Syndrome usually follow their natural course. Standard
+management as per the disorder is recommended.42, level III
+• Acute
+encephalopathy
+is
+the
+most
+common
+neurological
+complication of dengue. Its management is usually supportive with
+emphasis on corrections of underlying metabolic and haemodynamic
+abnormalities.
+5.2.11 Treatment for dengue with liver involvement
+Liver involvement is commonly seen in children with dengue infection
+with prevalence ranging from 38.7% to 87%. Prevalence is generally
+higher in the more severe category of dengue infection (dengue with
+Management of Dengue in Children (Second Edition)
+28
+warning signs and severe dengue).45 - 46, level III The exact mechanisms
+on liver injury are still not fully understood.
+Spectrum of liver involvement ranges from mild elevation of liver
+enzymes, AST and ALT levels to acute and fulminant liver failure. In
+most children, the liver dysfunctions are mild with transient elevation
+of AST and ALT levels (range 84.4% - 95.9%) and often asymptomatic.
+47 - 48, level III Acute liver failure is rare (range 1.1% - 5.8%).47 - 49, level III
+AST level is usually higher than ALT level in contrast to other causes of
+viral hepatitis.50, level III This was postulated to be caused by the release
+of AST from injured myocytes. The liver enzyme levels usually return to
+normal values within 2 - 4 weeks after illness. 46, 49, level III
+• Supportive management is recommended in dengue infection with
+liver involvement and the prognosis is generally good.
+• Those with acute or fulminant liver failure should be closely monitored
+in critical care settings.
+• Emphasis should be put on:
+ early recognition of severe liver involvement
+ stabilisation of haemodynamic status
+ avoidance of hepatotoxic medications including acetaminophen
+ close monitoring of neurological parameters
+ management of hepatic encephalopathy
+There is no evidence to support the routine use of N-Acetyl cysteine in
+children with DF associated acute liver failure.
+5.2.12 Treatment for dengue with cardiac involvement
+Clinically significant cardiac involvement including myocarditis is
+uncommon in children with dengue.
+In an observational study on 181 hospitalised children with dengue,
+left ventricular systolic and diastolic dysfunction was seen in relation
+to severity of plasma leakage. However, it was transient and resolved
+spontaneously. Thus, treatment should mainly be focused on fluid
+resuscitation to maintain adequate tissue perfusion.51, level lll
+5.2.13 Treatment for dengue with kidney involvement
+The kidney is one of the major organs affected during dengue infection
+in children. The exact mechanism and prevalence remain unclear.
+Proteinuria is more often detected between day 5 and day 7 after onset
+of fever, and usually normalises as the patients recover.52, level II-2
+Some children with dengue may develop AKI following prolonged
+shock due to inadequate fluid resuscitation. The treatment for this
+Management of Dengue in Children (Second Edition)
+29
+condition is mainly supportive. If RRT is required, it should commence
+only in haemodynamically stable patients. Continuous veno-venous
+haemodialysis (CVVH) is the preferred mode of RRT. Peritoneal
+dialysis may be considered if CVVH is not available, but it is associated
+with high risk of bleeding. When RRT is not available or cannot be
+carried out yet, the succeeding hyperuricaemia, hyperkalaemia and
+hyperphosphataemia should be managed with allopurinol, potassium
+binders (e.g. sodium polystyrene sulfonate, calcium polystyrene
+sulfonate) and calcium carbonate respectively.10, level III
+5.2.14 Blood transfusion
+Blood transfusion is only indicated in patients with:10, level III
+• massive bleeding
+• occult bleeding with shock as evidenced by HCT decreasing
+compared to baseline with unstable vital signs. Refer to Algorithm
+3 and 4.
+Internal bleeding may be difficult to recognise in the presence of
+haemoconcentration.
+• Decision to transfuse should be taken by senior clinicians to avoid
+unnecessary transfusion which can lead to fluid overload especially
+in neonates and infants.
+ Do not wait for HCT level to drop too low before making the
+decision.
+ Consider to repeat blood transfusion if there is further overt blood
+loss or no appropriate rise in HCT after blood transfusion in an
+unstable patient.
+The following blood and blood components are recommended for
+transfusion:10, level III
+i) red cells or whole blood
+• for children, give 10 - 20 ml/kg/dose of fresh packed red cells or
+fresh whole blood
+• for neonates, give aliquots of 5 - 10 ml/kg of fresh packed red
+cells or 10 - 20 ml/kg of fresh whole blood at an appropriate rate
+The rate depends on the patient’s condition. The patient should be
+monitored carefully to avoid fluid overload.
+ii) platelet and fresh frozen plasma
+• should be considered in invasive and surgical procedures if
+severe bleeding is anticipated
+• dose of platelet and fresh frozen plasma transfusion is 10 - 15
+ml/kg
+Management of Dengue in Children (Second Edition)
+30
+• There is no evidence to support the practice of transfusing platelet
+and fresh frozen plasma for severe bleeding in dengue.10, level III
+ However, the transfusion may be indicated based on clinical
+judgement and if the patient does not respond to initial fresh
+packed red cells or fresh whole blood transfusion.
+Observational studies showed that platelet concentrates and fresh
+frozen plasma transfusion in dengue were not able to sustain the
+platelet counts and coagulation profile. It can also lead to fluid overload
+in massive bleeding patient.10, level III
+Recommendation 7
+• Blood transfusion should be given in life-threatening condition and
+given as soon as severe bleeding is recognised (overt) or suspected
+(occult) in children with dengue.
+ Selection of blood components is based on patient’s clinical
+condition or type of bleeding.
+ It should be given cautiously to avoid fluid overload especially in
+neonates or infants.
+5.3 Recovery Phase
+If excessive IV fluids have been given, there is a risk of fluid overload
+during critical and/or recovery phase e.g. respiratory distress from
+massive pleural effusion and ascites, pulmonary oedema or congestive
+heart failure. To avoid these complications, IV fluids should be
+discontinued early.
+To prevent nosocomial infection, venofix/branula or peripheral inserted
+central catheter (PICC) need to be removed once there is no indication
+for further IV therapy.
+The treatment of fluid overload is dependent on the patient’s
+haemodynamic stability, intravascular volume status and the timing of
+this event with respect to the critical phase. Small doses of IV frusemide
+0.1 - 0.5 mg/kg/dose twice or thrice daily or a continuous infusion of
+frusemide 0.1 mg/kg/hour may be indicated for patients who are out of
+the critical phase.10, level III
+Management of Dengue in Children (Second Edition)
+31
+6.
+SPECIAL GROUPS
+6.1 Neonates
+Neonates can acquire DENV through vertical transmission or at the time
+of delivery. They may be asymptomatic and the clinical manifestations
+vary from mild to severe illness.10, level III
+Symptomatic and supportive treatment under close observation is
+the mainstay of treatment in neonates with dengue infection.10, level III
+Consultation with neonatologists is advisable.
+6.2 Infants
+In general, dengue in infants is due to primary infection but the
+manifestations could be severe as infants might have received dengue
+antibodies transplacentally from their mother.
+Clinical presentation of dengue in infants is similar to older children.
+10, level III They may present with coryza symptoms e.g. cough, nasal
+congestion and runny nose. However, presence of febrile convulsion,
+vomiting, diarrhoea and petechial rash are significantly associated
+with dengue among infants. Most of the infants with dengue are 4 - 10
+months of age.10, 53, level III
+It is often not possible to differentiate between dengue and other infections
+in infants (e.g. pneumonia, bacterial sepsis, meningoencephalitis, other
+viral exanthems, rotavirus infections, etc.) at the febrile stage.10, level III
+Compared to those with acute undifferentiated febrile illness, infants
+with dengue infection are more likely to have:53, level III
+• petechiae, bruises, hepatomegaly and clinical evidence of systemic
+leakage
+• lower WBC count and platelet nadirs
+• higher liver transaminases and HCT level
+• Infants have relatively low normal value of HCT (28 - 42%) compared
+with older children and may be even lower in iron deficiency
+anaemia.10, level III
+ Any increment of ≥20% from baseline HCT is considered
+haemoconcentration. Refer to Table 6 on Range of Haematocrit
+in Different Age Groups.
+Management of Dengue in Children (Second Edition)
+32
+Shock occurs because of severe plasma leakage and often preceded
+by warning signs with subnormal body temperature. However, some
+infants may still have fever at the onset of shock, thus differential
+diagnosis of septic shock need to be considered.10, level III
+Infants with dengue infection should be referred for in-hospital
+management.10, level III
+Recommendation 8
+• Dengue infection in infant should be managed in a hospital with
+paediatric services.
+6.3 Red Cells Disorder
+Haemolysis can be triggered during acute dengue illness. This manifests
+in both early and late febrile stages of thalassemia. It may also occur in
+other haemoglobinopathies and glucose-6-phosphate dehydrogenase
+(G6PD) deficiency.54, level III
+• Haemoconcentration during plasma leakage may be missed in
+anaemic patients with dengue due to low baseline HCT level.54, level III
+• Healthcare providers should use patients’ baseline Hb level to
+calculate degree of haemoconcentration.
+Fresh packed red cells or fresh whole blood should be given if
+significant haemolysis is suspected.10, 54, level III
+Management of Dengue in Children (Second Edition)
+33
+7.
+DISCHARGE
+Patients who have been monitored for dengue may be discharged if
+they fulfil the following clinical and/or laboratory criteria as shown in
+Table 7.
+Table 7. Discharge Criteria
+Adapted:
+1. World Health Organization. Handbook for Clinical Management of Dengue.
+Geneva: WHO; 2012
+2. Ministry of Health, Malaysia. Clinical Practice Guidelines Management of Dengue
+in Children. Putrajaya: MoH; 2004
+8.
+TRADITIONAL AND COMPLEMENTARY MEDICINE
+Traditional and complementary medicines (TCM) e.g. papaya leaf
+extracts and crab soup are often used in dengue infection as part of
+Malaysian cultural practices.
+• There is no evidence on the safety and efficacy of TCM to support its
+use in the treatment of dengue in children.
+Clinical criteria
+Laboratory criteria
+• No fever for 24 - 48 hours
+• Improvement in clinical status (general well-being,
+appetite, haemodynamic status, urine output)
+• Absence of respiratory distress
+• Resolution or recovery of organ dysfunction
+• Increasing trend of platelet count
+• Stable HCT without IV fluids
+Management of Dengue in Children (Second Edition)
+34
+9.
+PREVENTION STRATEGIES
+9.1 Vaccination
+Three multicentre placebo-controlled RCTs looked into the efficacy and
+safety of CYD-TDV vaccine against dengue in children.
+In the first RCT, the dengue vaccine was moderately efficacious
+(54.8%, 95% CI 46.8 to 61.7) in symptomatic, virologically confirmed
+dengue (VCD) with good safety profile when given as three injections
+(months 0, 6 and 12) to children aged 2 - 14 years in endemic areas in
+Asia.55, level I
+Pooled analysis of two RCTs showed the dengue vaccine was efficacious
+in children ≥9 years old against all severity dengue hospitalisation
+(80.8%, 95% CI 70.1 to 87.7). The result was not in favour of younger
+children. Analysis on long-term safety was not available then.56, level I
+Further analysis of three RCTs demonstrated that the risk was higher
+for hospitalisation in VCD (HR=1.75, 95% CI 1.14 to 2.70) and severe
+VCD (HR=2.87, 95% CI 1.09 to 7.61) in vaccinated subjects compared
+with control in seronegative 2 to 16 years old participants. The vaccine
+prevented hospitalisation in seropositive participants with HR of 0.32
+(95% CI 0.23 to 0.45) and 0.31 (95% CI 0.17 to 0.58) for VCD and
+severe VCD subjects respectively. Thus, the vaccine was protective in
+those who had exposure to dengue before vaccination.57, level I
+• More evidence is warranted especially on long-term safety profile
+before dengue vaccination can be recommended.
+9.2 Prevention of Mosquito Bite
+Preventive measures on mosquito bite include the use of:3, level III
+• clothing that minimises skin exposure during daylight hours when
+mosquitoes are most active
+• repellents on exposed skin or to clothing in strict accordance with
+label instructions
+• insecticide-treated mosquito nets during sleeping
+• household insecticide aerosol products, mosquito coils or other
+insecticide vaporisers
+• household fixtures e.g. window and door screens and airconditioning
+Although no evidence could be found to support the efficacy of repellent
+in reducing dengue incidence,58, level III experts advocate the use of
+repellent.
+Management of Dengue in Children (Second Edition)
+35
+10. IMPLEMENTING THE GUIDELINES
+Implementation of CPG is important as it helps in providing quality
+healthcare services based on best, recent available evidence applied
+to local scenario. Various factors and resource implications should be
+considered for the success of the uptake in the CPG recommendations.
+10.1 Facilitating and Limiting Factors
+The facilitating factors in implementing the CPG are:
+i. availability of CPG to healthcare providers (hardcopies and
+softcopies)
+ii. conferences and updates on management of dengue in children
+including those who involved in professional bodies
+iii. Clinical Audit on Dengue Mortality
+iv. public awareness activities e.g. COMBI (Communication for
+Behavioural Impact)
+Limiting factors in the CPG implementation include:
+i. limited awareness and knowledge in management of dengue in
+children among healthcare providers
+ii. variation in treatment practice and preferences among
+healthcare providers
+iii. insufficient resources especially trained personnel, diagnostic
+kits and infrastructure
+iv. misconception on the disease and its management by the public
+10.2 Potential Resource Implications
+To implement the CPG, there must be strong commitments to:
+i. ensure widespread distribution of CPG to healthcare providers
+via printed copies and online accessibility
+ii. reinforce training of healthcare providers via regular seminars
+and workshops
+iii. involve multidisciplinary team at all levels of health care
+iv. improve the diagnostic and therapeutic facilities
+v. train more experts in the field of dengue in children
+Management of Dengue in Children (Second Edition)
+36
+To assist in the implementation of the CPG, the following are proposed
+as clinical audit indicators for quality management:
+Target of 75%
+Implementation strategies will be developed following the approval of
+the CPG by MoH which include Quick Reference and Training Module.
+• Percentage of children
+suspected of dengue
+infection tested with a
+combination of NS1
+Antigen/IgM/IgG rapid
+test (Dengue Rapid
+Combo Test)
+=
+X 100%
+Number of children suspected of
+dengue infection within the same
+period
+Number of children suspected of
+dengue infection tested with dengue
+rapid combo test in a period
+Management of Dengue in Children (Second Edition)
+37
+REFERENCES
+1.
+World Health Organization. Dengue and severe dengue. (Available at: https://www.who.
+int/news-room/fact-sheets/detail/dengue-and-severe-dengue)
+2.
+Bhatt S, Gething PW, Brady OJ et al. The global distribution and burden of dengue.
+Nature. 2013;496(7446):504-7.
+3.
+World Health Organization. Dengue: Guidelines for Diagnosis, Treatment, Prevention and
+Control: New Edition. Geneva: WHO; 2009.
+4.
+Alexander N, Balmaseda A, Coelho IC et al. Multicentre prospective study on dengue
+classification in four South-east Asian and three Latin American countries. Trop Med Int
+Health. 2011;16(8):936-48.
+5.
+Manock SR, Jacobsen KH, de Bravo NB et al. Etiology of acute undifferentiated febrile
+illness in the Amazon basin of Ecuador. Am J Trop Med Hyg. 2009;81(1):146-51.
+6.
+Wahala WM, Silva AM. The human antibody response to dengue virus infection. Viruses.
+2011;3(12):2374-95.
+7.
+Rothman AL. Immunity to dengue virus: a tale of original antigenic sin and tropical cytokine
+storms. Nat Rev Immunol. 2011;11(8):532-43.
+8.
+Halstead SB. Dengue. Lancet. 2007;370(9599):1644-52.
+9.
+Capeding RZ, Brion JD, Caponpon MM et al. The incidence, characteristics,
+and presentation of dengue virus infections during infancy. Am J Trop Med Hyg.
+2010;82(2):330-6.
+10. Lucy CSL, Guadalupe GM, Martinéz E et al. Handbook for clinical management of
+dengue: World Health Organization; 2012.
+11. Narvaez F, Gutierrez G, Pérez MA et al. Evaluation of the traditional and revised WHO
+classifications of Dengue disease severity. PLoS Negl Trop Dis. 2011;5(11):e1397.
+12. Sreenivasan P, S G, K S. Development of a Prognostic Prediction Model to Determine
+Severe Dengue in Children. Indian J Pediatr. 2018;85(6):433-9.
+13. Kittigul L, Pitakarnjanakul P, Sujirarat D et al. The differences of clinical manifestations
+and laboratory findings in children and adults with dengue virus infection. J Clin Virol.
+2007;39(2):76-81.
+14. Ministry of Health Malaysia. Management of Dengue Fever in Children. Putrajaya: MoH;
+2004.
+15. Cavailler P, Tarantola A, Leo YS et al. Early diagnosis of dengue disease severity in a
+resource-limited Asian country. BMC Infect Dis. 2016;16(1):512.
+16. Shan X, Wang X, Yuan Q et al. Evaluation of the diagnostic accuracy of nonstructural
+protein 1 Ag-based tests for dengue virus in Asian population: a meta-analysis. BMC
+Infect Dis. 2015;15:360.
+17. Zhang H, Li W, Wang J et al. NS1-based tests with diagnostic utility for confirming dengue
+infection: a meta-analysis. Int J Infect Dis. 2014;26:57-66.
+18. Blacksell SD, Doust JA, Newton PN et al. A systematic review and meta-analysis of the
+diagnostic accuracy of rapid immunochromatographic assays for the detection of dengue
+virus IgM antibodies during acute infection. Trans R Soc Trop Med Hyg. 2006;100(8):77584.
+19. Fry SR, Meyer M, Semple MG et al. The diagnostic sensitivity of dengue rapid test assays
+is significantly enhanced by using a combined antigen and antibody testing approach.
+PLoS Negl Trop Dis. 2011;5(6):e1199.
+20. Muller DA, Depelsenaire AC, Young PR. Clinical and Laboratory Diagnosis of Dengue
+Virus Infection. J Infect Dis. 2017;215(suppl_2):S89-s95.
+21. Ministry of Health Malaysia. Management of Dengue Infection in Adults (Third Edition).
+Putrajaya: MoH; 2015.
+22. Ministry of Health Malaysia. Case Definitions for Infectious Diseases in Malaysia: Third
+Edition. Putrajaya: MoH; 2017.
+Management of Dengue in Children (Second Edition)
+38
+23. Wakimoto MD, Camacho LA, Guaraldo L et al. Dengue in children: a systematic review
+of clinical and laboratory factors associated with severity. Expert Rev Anti Infect Ther.
+2015;13(12):1441-56.
+24. Zulkipli MS, Dahlui M, Jamil N et al. The association between obesity and dengue severity
+among pediatric patients: A systematic review and meta-analysis. PLoS Negl Trop Dis.
+2018;12(2):e0006263.
+25. Lovera D, Araya S, Mesquita MJ et al. Prospective applicability study of the new
+dengue classification system for clinical management in children. Pediatr Infect Dis J.
+2014;33(9):933-5.
+26. American Academy of Pediatrics. Red Book: 2018 Report of the Committee on Infectious
+Disease (31st Edition). Itasca, IL: AAP; 2018.
+27. Pothapregada S, Kamalakannan B, Thulasingam M et al. Is Reactive Dengue NS1Antigen
+Test a Warning Call for Hospital Admissions? J Clin Diagn Res. 2016;10(4):Sc04-7.
+28. Mishra S, Ramanathan R, Agarwalla SK. Clinical Profile of Dengue Fever in Children: A
+Study from Southern Odisha, India. Scientifica. 2016;2016:6391594.
+29. Ministry of Health Malaysia. Garispanduan Rujukan dan Perpindahan Pesakit di Antara
+Hospital-hospital Kementerian Kesihatan. Putrajaya: MoH; 2009.
+30. Hassan N, Mukhopadhyay S, Bhattacharjee P et al. Bed side prognostic markers for
+dengue fever: serum lactate, base excess and central peripheral temperature gradient.
+International Journal of Contemporary Pediatrics. 2017;4(6):2041-5.
+31. Pongpan S, Patumanond J, Wisitwong A et al. Validation of dengue infection severity
+score. Risk Manag Healthc Policy. 2014;7:45-9.
+32. Lam PK, Ngoc TV, Thu Thuy TT et al. The value of daily platelet counts for predicting
+dengue shock syndrome: Results from a prospective observational study of 2301
+Vietnamese children with dengue. PLoS Negl Trop Dis. 2017;11(4):e0005498.
+33. Phakhounthong K, Chaovalit P, Jittamala P et al. Predicting the severity of dengue fever
+in children on admission based on clinical features and laboratory indicators: application of
+classification tree analysis. BMC Pediatr. 2018;18(1):109.
+34. Hung NT. Fluid management for dengue in children. Paediatr Int Child Health. 2012;32
+Suppl 1(s1):39-42.
+35. Wills BA, Nguyen MD, Ha TL et al. Comparison of three fluid solutions for resuscitation in
+dengue shock syndrome. N Engl J Med. 2005;353(9):877-89.
+36. Feld LG, Neuspiel DR, Foster BA et al. Clinical Practice Guideline: Maintenance
+Intravenous Fluids in Children. Pediatrics. 2018;142(6).
+37. Perel P. Colloids versus crystalloids for fluid resuscitation in Dengue fever patients - a
+review (unpublished). 2012.
+38. Li L, Li Y, Xu X et al. Safety evaluation on low-molecular-weight hydroxyethyl starch for
+volume expansion therapy in pediatric patients: a meta-analysis of randomized controlled
+trials. Crit Care. 2015;19(1):79.
+39. Ministry of Health Malaysia. Malaysian Paediatric Protocol for Malaysian Hospitals (Fourth
+Edition). Putrajaya: MoH; 2019.
+40. Shokeen P, Yadav S, Verma CR et al. Neurological complications in Dengue fever.
+International Journal of Contemporary Pediatrics. 2018;Volume 5(3).
+41. Kamel MG, Nam NT, Han NHB et al. Post-dengue acute disseminated encephalomyelitis:
+A case report and meta-analysis. PLoS Negl Trop Dis. 2017;11(6):e0005715.
+42. Carod-Artal FJ, Wichmann O, Farrar J et al. Neurological complications of dengue virus
+infection. Lancet Neurol. 2013;12(9):906-19.
+43. Li GH, Ning ZJ, Liu YM et al. Neurological Manifestations of Dengue Infection. Frontiers in
+cellular and infection microbiology. 2017;7:449.
+44. Witayathawornwong P. Dengue haemorrhagic fever with encephalopathy/fatality at
+Petchabun Hospital: a three-year prospective study (1999-2002). Dengue Bulletin. 2004;
+28:77-86.
+Management of Dengue in Children (Second Edition)
+39
+45. Srivastava G, Chhavi N, Goel A. Validation of Serum Aminotransferases Levels to Define
+Severe Dengue Fever in Children. Pediatr Gastroenterol Hepatol Nutr. 2018;21(4):289-96.
+46. Martínez Vega R, Phumratanaprapin W, Phonrat B et al. Differences in Liver Impairment
+Between Adults and Children with Dengue Infection. Am J Trop Med Hyg. 2016;94(5):10739.
+47. Mohan N Goyal D, Karkra S et al. Profile of Dengue hepatitis in children from India and its
+correlation with WHO Dengue case classification. Asian Pac J Trop. 2017;7:327-31.
+48. Roy A, Sarkar D, Chakraborty S et al. Profile of hepatic involvement by dengue virus in
+dengue infected children. North American journal of medical sciences. 2013;5(8):480-5.
+49. Laoprasopwattana K, Jundee P, Pruekprasert P et al. Outcome of Severe Dengue
+Viral Infection-caused Acute Liver Failure in Thai Children. Journal of tropical pediatrics.
+2016;62(3):200-5.
+50. Chongsrisawat V, Hutagalung Y, Poovorawan Y. Liver function test results and outcomes
+in children with acute liver failure due to dengue infection. Southeast Asian J Trop Med
+Public Health. 2009;40(1):47-53.
+51. Kirawittaya T, Yoon IK, Wichit S et al. Evaluation of Cardiac Involvement in Children with
+Dengue by Serial Echocardiographic Studies. PLoS Negl Trop Dis. 2015;9(7):e0003943.
+52. Andries AC, Duong V, Cappelle J et al. Proteinuria during dengue fever in children. Int J
+Infect Dis. 2017;55:38-44.
+53. Chau TN, Anders KL, Lien le B et al. Clinical and virological features of Dengue in
+Vietnamese infants. PLoS Negl Trop Dis. 2010;4(4):e657.
+54. Chuansumrit A, Tangnararatchakit K, Sirachainan N et al. Dengue infection in hematologiconcologic pediatric patients: aggravation of anemia and bleeding risk. Southeast Asian J
+Trop Med Public Health. 2012;43(2):311-22.
+55. Capeding MR, Tran NH, Hadinegoro SR et al. Clinical efficacy and safety of a novel
+tetravalent dengue vaccine in healthy children in Asia: a phase 3, randomised, observermasked, placebo-controlled trial. Lancet. 2014;384(9951):1358-65.
+56. Hadinegoro SR, Arredondo-García JL, Capeding MR et al. Efficacy and Long-Term Safety
+of a Dengue Vaccine in Regions of Endemic Disease. N Engl J Med. 2015;373(13):1195206.
+57. Sridhar S, Luedtke A, Langevin E et al. Effect of Dengue Serostatus on Dengue Vaccine
+Safety and Efficacy. N Engl J Med. 2018;379(4):327-40.
+58. Roza S, Ku Nurhasni KAR, Balqis AB et al. Integrated Vector Management for Aedes
+Control. Health Technology Assessment. Malaysia: Malaysian Health Technology
+Assessment Section (MaHTAS); 2019. 147 p.
+Management of Dengue in Children (Second Edition)
+40
+APPENDIX 1
+EXAMPLE OF SEARCH STRATEGY
+Clinical Question: What is the effective and safe treatment for dengue
+fever in children in febrile phase? - fluid therapy
+1. DENGUE/
+2. (classical adj2 (dengue* or dengue fever*)).tw.
+3. dengue*.tw.
+4. (dengue adj1 fever*).tw.
+5. 1 or 2 or 3 or 4
+6. FEVER/
+7. fever*.tw.
+8. hyperthermia*.tw.
+9. pyrexia*.tw.
+10. (febrile adj1 phase).tw.
+11. febrile.tw.
+12. (warning adj1 sign*).tw.
+13. warning.tw.
+14. or 7 or 8 or 9 or 10 or 11 or 12 or 13
+15. THERAPEUTICS/
+16. therap*.tw.
+17. treatment*.tw.
+18. FLUID THERAPY/
+19. (fluid adj1 therap*).tw.
+20. (oral adj1 rehydration*).tw.
+21. (oral adj2 rehydration therap*).tw.
+22. rehydration*.tw.
+23. SODIUM CHLORIDE/
+24. saline solution.tw.
+25. sodium chloride.tw.
+26. COLLOIDS/
+27. colloid*.tw.
+28. hydrocolloid*.tw.
+29. HYDROXYETHYL STARCH DERIVATIVES/
+30. (hydroxyethyl starch adj2 derivative*).tw.
+31. hetastarch.tw.
+32. 15 or 16 or 17 or 18 or 19 or 20 or 21 or 22 or 23 or 24 or 25 or 26
+or 27 or 28 or 29 or 30 or 31
+33. 5 and 14 and 32
+34. limit 40 to (English language, humans, last 14 years and all child (0
+to 18 years))
+Management of Dengue in Children (Second Edition)
+41
+APPENDIX 2
+CLINICAL QUESTIONS
+1. What are the clinical criteria and classification used to diagnose
+dengue fever in children?
+2. What are the accurate diagnostic tests for dengue fever in children?
+• full blood count (including haematocrit)
+• rapid test [Combo/Immunoglobulin M/Immunoglobulin G, nonstructural protein 1 antigen (NS1 Ag)]
+• enzyme-linked immunosorbent assay ELISA (IgM/IgG)
+3. What are the risk factors for severe dengue fever in children?
+4. What is the optimal outpatient monitoring and follow-up for dengue
+fever in children?
+5. What are the admission criteria for dengue fever in children?
+• level of platelet counts
+• presence of warning signs
+• duration of illness
+• presence of co-morbidities
+6. What is the effective and safe treatment for dengue fever in children
+in the following aspects?
+• febrile phase
+• warning signs
+• critical phase
+• shock
+• blood and blood products use
+• severe organ involvement
+7. What is the effective and safe traditional and complementary
+medicine for dengue fever in children?
+8. What are the effective and safe monitoring in different phases of
+dengue fever in children in terms of:
+• clinical assessment
+• laboratory assessment
+• radiological assessment
+9. What are criteria for high-dependency unit/intensive care unit care
+for dengue fever in children?
+10. What are the discharge criteria for dengue fever in children?
+11. What are the effective and safe treatment in dengue fever in the
+following groups:
+• neonates
+• infants
+• patients with thalassemia
+12. What are prevention strategies for dengue fever in children?
+• vaccination
+• repellent
+Management of Dengue in Children (Second Edition)
+42
+APPENDIX 3
+SYSTEMIC MANIFESTATION OF PERIPHERAL
+VASOCONSTRICTION
+Initial stage of shock (compensated)
+• Quiet tachypnoea (tachypnoea without increased effort)
+• Cold extremities and delayed capillary refill time (CRT) of >2 seconds
+• Weak volume peripheral pulses
+• Normal oxygen saturation (SpO2: 95 - 100%)
+• Normal systolic pressure
+• Diastolic pressure rises towards systolic pressure and pulse pressure
+(difference between systolic and diastolic pressures) narrows
+• Compensated metabolic acidosis (normal pH, low partial pressure of
+carbon dioxide (pCO2) and low bicarbonate level)
+• May remain conscious and alert
+Worsening hypovolaemic shock (decompensated)
+• Increasing tachycardia and peripheral vasoconstriction
+• Cold and cyanosed extremities and, limbs become mottled, cold and clammy
+• Rapid breathing and increases in depth - a compensation for the
+metabolic acidosis
+• Kussmaul’s breathing
+• Hypotension
+• Disappearance of peripheral pulses
+• Weak central pulse (femoral)
+• Cortical hypoperfusion manifested by poor eye contact, failure to
+recognise parents or failure to respond to painful stimuli e.g. venepuncture
+• Change in mental state (restless, confused, extremely lethargic, seizures)
+*children and young adults have been known to have a clear mental
+status even in profound shock
+Prolonged hypotensive shock
+• Severe metabolic acidosis
+• Multiple organ failure e.g. acute liver and renal failure, encephalopathy,
+cardiomyopathy
+• Major bleeding*
+• Coagulation abnormalities e.g. disseminated intravascular coagulation
+*may occur in the absence of shock if the child is given NSAIDs, acetylsalicylic
+acid or corticosteroids
+Cardiac arrest
+May take
+few hours
+May take
+few hours
+May take
+few hours
+Management of Dengue in Children (Second Edition)
+43
+APPENDIX 4
+CHECKLIST FOR PARAMEDICS ON INITIAL ASSESSMENT OF
+DENGUE IN CHILDREN
+Name:
+Age:
+Identification Card No.:
+Date/Time:
+1.
+Presence of fever
+If NO, any history of taking fever medicine e.g. paracetamol
+2.
+Living in dengue area
+
+3.
+Clinical criteria:
+ Rash
+ Nausea/vomiting
+ Aches/pains
+ Low white cell count
+4.
+Warning signs:
+ Persistent abdominal pain
+ Persistent vomiting - ≥2 episodes of vomiting/24 hours
+ Red spot (petechiae) on the skin, bleeding from nose or gums,
+vomiting blood, black-coloured stool, heavy menses, blood in urine
+ Lethargy or poor feeding
+ Respiratory distress
+ Laboratory: haematocrit (HCT) above 40% and platelet count <100
+x 103/µL
+5.
+Special population:
+ Infant (age <12 months old)
+ Co-morbidities - any medical illness
+6.
+Haemodynamic status CCTVR
+ Skin Colour - cyanosis
+ Capillary refill time - >2 seconds
+ Extremities - Temperature (cold)
+ Pulse Volume - weak
+ Pulse Rate - abnormal
+Diagnosis/management
+Health clinic
+Emergency
+Dept., Hospital
+ Probable dengue (1+2+3)
+Refer doctor
+Non-critical zone
+ Probable dengue with warning
+signs (1+2+3+4)
+Refer doctor for
+assessment pre-admission
+Semi-critical zone
+ Probable dengue in special
+population (1+2+3+5)
+Refer doctor for
+assessment pre-admission
+Semi-critical zone
+ Any criteria that include 4
+Refer doctor for
+assessment pre-admission
+Semi-critical zone
+ Any criteria that include 6
+Refer doctor immediately
+for resuscitation
+Critical zone
+Yes
+No
+Management of Dengue in Children (Second Edition)
+44
+HOME CARE ADVICE FOR CHILDREN WITH DENGUE
+WHAT SHOULD BE DONE?
+• Adequate bed rest
+• Adequate fluid intake 6 - 8 drinks a day
+Age group
+Per drink
+<5 years old
+100 - 120 ml
+5 - 10 years old
+160 - 180 ml
+>10 years old
+200 - 220 ml
+ milk, fruit juice, oral rehydration salt (ORS), barley water, coconut water
+• Paracetamol as advised by healthcare providers for fever control
+• Tepid sponging for fever control
+• Use mosquito repellent or rest under a mosquito net even during day
+time to prevent mosquito bites
+• Look for mosquito breeding places in and around the home and eliminate
+them
+WHAT SHOULD BE AVOIDED?
+• Do not take medicine like non-steroidal anti-inflammatory
+drugs e.g. aspirin, mefenamic acid, ibuprofen and
+diclofenac sodium (suppository).
+• Steroids should be avoided.
+• Antibiotics are not required.
+APPENDIX 5
+THE DANGER SIGNS OF DENGUE INFECTION
+If any of the following are observed, please go
+immediately to the nearest healthcare facilities for
+further management:
+• lack of energy or poor feeding
+• bleeding i.e. red spots on the skin, bleeding from nose
+or gums, vomiting blood, black-coloured stool, heavy
+menstruation, vaginal bleeding
+• frequent vomiting (≥2 times)
+• persistent abdominal pain
+• drowsiness, irritability or seizure
+• pale, cold or clammy skin
+• difficulty in breathing
+• reduced urine output
+Management of Dengue in Children (Second Edition)
+45
+APPENDIX 5
+DENGUE MONITORING RECORD
+Patient’s name: Identification Card No. / Passport No:
+Address
+:
+Date of onset of fever
+:
+Result of Dengue Combo Test: (Date: ) Date of notification :
+Date
+Day of
+fever
+Last dose
+paracetamol
+Temp.
+(°C)
+BP
+(mmHg)
+PR
+(min)
+Hb
+(g/dL)
+HCT
+(%)
+WBC
+(x103/µL)
+Platelet
+(x103/µL)
+Attending
+Clinic/ Tel.
+No
+Next
+Appointment
+Management of Dengue in Children (Second Edition)
+46
+APPENDIX 6
+HOSPITAL DENGUE MONITORING CHART
+(24-Hours Clinical, Laboratory and Fluid Monitoring)
+Date: ________(1 page per calendar day)
+Name: _______________ RN: _________________ Age: ________________ Actual BW: _____ kg Ideal BW: _____ kg
+Date of onset of fever: _________________________ Date and approximate time of onset of warning signs:
+_________________________
+*Laboratory results should be tabulated under the time of blood sampling, not time of results being available.
+**Place a (X) when patient developed shock.
+Time*
+00:
+01:
+02:
+03:
+04:
+05:
+06:
+07:
+08:
+09:
+10:
+11:
+12:
+13:
+14:
+15:
+16:
+17:
+18:
+19:
+20:
+21:
+22:
+23:
+Shock**
+Temperature
+Blood pressure
+Pulse rate
+Respiratory rate
+Haematocrit
+Haemoglobin
+Platelet count
+Lactate
+Glucose
+Urea/
+Creatine
+Crystalloid type,
+ml/hr
+Colloid type,
+ml/hr
+Blood product
+type, ml/hr
+Oral intake (ml)
+Cumulative input
+Urine (ml)
+Inotrope/
+Others
+Remarks
+Management of Dengue in Children (Second Edition)
+47
+APPENDIX 7
+CALCULATION OF IDEAL BODY WEIGHT (IBW) FOR
+OBESE CHILDREN
+If patient’s height is within 5th and 95th centile of age, use Moore method
+as below:
+• the IBW is the weight for age on the same percentile as height.
+For example, a child with a height at the 10th centile can have his IBW
+determined by looking at the growth chart and finding the weight at
+the 10th centile for his age.
+If patient’s height exceeds 95th centile for age, use McLaren method as
+below:
+• weight at the 50th centile for height age chart
+Use steps as below for IBW:
+i. plotting the child’s height for age
+ii. extending a line horizontally to the 50th centile height-for-age line
+iii. extending a line vertically from the 50th centile height-for-age to
+the corresponding 50th centile weight and note this IBW
+Refer to the growth chart below for method of plotting.
+Source:
+1. Phillips S, Edlbeck A, Kirby M et al. Ideal body weight in children. Nutr Clin Pract.
+2007;22(2):240-5.
+2. Kang K, Absher R, Farrington E et al. Evaluation of Different Methods Used to
+Calculate Ideal Body Weight in the Pediatric Population. J Pediatr Pharmacol Ther.
+2019;24(5):421-430.
+Management of Dengue in Children (Second Edition)
+48
+APPENDIX 7
+GROWTH CHART
+Management of Dengue in Children (Second Edition)
+49
+APPENDIX 8
+SIGNS OF DEHYDRATION
+Source: Ministry of Health Malaysia. Paediatric Protocol for Malaysian Hospitals.
+Putrajaya: MoH; 2019
+Assess:
+Look at child’s
+general condition
+Well, alert
+Restless or
+irritable
+Lethargic or
+unconscious
+Look for sunken
+eyes
+No sunken eyes
+Sunken eyes
+Sunken eyes
+Offer the child
+fluid
+Drinks normally
+Drinks eagerly,
+thirsty
+Not able to drink or
+drinks poorly
+Pinch skin of
+abdomen
+Skin goes back
+immediately
+Skin goes back
+slowly
+Skin goes back very
+slowly (>2 seconds)
+Classify
+-
+≥2 above signs:
+Severe
+Dehydration
+>10% Dehydrated
+Treat
+IMCI: Management of the child with a serious infection or severe malnutrition
+Mild Dehydration
+<5% Dehydrated*
+IMCI: No signs
+of Dehydration
+≥2 above signs:
+Moderate
+Dehydration
+5 - 10% Dehydrated
+IMCI: Some signs
+of Dehydration
+*% of body weight (in g) loss in fluid (Fluid Deficit) e.g. a 10 kg child with 5% dehydration
+has loss 5/100 x 10000 g = 500 ml of fluid deficit
+Plan C
+Give fluid for severe
+dehydration.
+Provide food as
+soon as child
+tolerates.
+Plan B
+Give fluid and food
+for some
+dehydration
+Plan A
+Give fluid and food
+to treat diarrhoea
+at home
+Management of Dengue in Children (Second Edition)
+50
+APPENDIX 9
+CHARACTERISTICS OF COMMON CRYSTALLOID/COLLOIDS
+SOLUTIONS AVAILABLE IN MALAYSIA
+CRYSTALLOID SOLUTIONS
+COLLOIDAL SOLUTIONS
+Source: Product insert of the respective solution
+Content
+Human
+plasma
+Normal saline
+(0.9% saline)
+Ringer’s lactate
+Hartmann’s
+solution
+Sterofundin
+ISO
+Sodium
+(mmol/L)
+136 -
+145
+154
+130
+131
+145
+Potassium
+(mmol/L)
+3.5 -
+5.0
+4
+5.0
+4
+Chloride
+(mmol/L)
+98 -
+106
+154
+109
+111
+127
+Others
+(mmol/L)
+Lactate: 28
+Lactate: 29
+Acetate: 24
+Malate: 5
+Osmolarity
+(mosmol/L)
+291
+308
+273
+278
+309
+Common
+adverse
+effects
+NA
+• Caution in
+patients with
+depressed
+myocardial
+function
+• Hyperglycaemia
+• Raised
+intracranial
+pressure
+• Hyperchloraemic
+metabolic
+acidosis
+Content
+Human
+plasma
+Succinylated
+gelatin 4% (e.g.
+Gelafundin/Infusol)
+Hydroxyethyl
+starch 6% (HES)
+(e.g. Voluven)
+Albumin 5%
+Sodium
+(mmol/L)
+136 - 145
+154
+154
+130 - 160
+Chloride
+(mmol/L)
+98 - 106
+120
+154
+130 - 160
+Osmolarity
+(mosmol/L)
+291
+308
+308
+309
+Serious
+adverse
+effects
+NA
+• Anaphylactoid
+reaction of
+various severity
+including shock
+• Anaphylactoid
+reaction of
+various severity
+including shock
+• Anaphylactoid
+reaction of various
+severity including
+shock
+• Acute kidney
+injury
+Management of Dengue in Children (Second Edition)
+51
+LIST OF ABBREVIATIONS
+µL
+microlitre
+ABG
+arterial blood gas
+AKI
+acute kidney injury
+ALT
+alanine transaminase
+APTT
+activated partial thromboplastin time
+AST
+aspartate transaminase
+BP
+blood pressure
+BUSE
+blood urea serum electrolytes
+CART
+Classification and Regression Tree
+COMBI
+Communication for Behavioural Impact
+CPG
+clinical practice guidelines
+CRT
+capillary refill time
+CSF
+cerebrospinal fluid
+CVVH
+continuous veno-venous haemodialysis
+DENV
+dengue virus
+DF
+dengue fever
+DHF
+dengue haemorrhagic fever
+DSS
+dengue shock syndrome
+ECG
+electrocardiogramme
+EDTA
+ethylenediamine tetraacetic acid
+ELISA
+enzyme-linked immunosorbent assay
+FBC
+full blood count
+g
+gramme
+GCS
+Glasgow Coma Scale
+G6PD
+glucose-6-phosphate dehydrogenase
+Hb
+haemoglobin
+HCT
+haematocrit
+HDU
+high dependency unit
+HES
+hydroxyethyl starch
+HI
+Haemagglutination Inhibition
+HIV
+Human Immunodeficiency Virus
+hr
+hour
+IAP
+intra-abdominal pressure
+IBW
+ideal body weight
+ICU
+intensive care unit
+IgG
+immunoglobulin G
+IgM
+immunoglobulin M
+IMR
+Institute of Medical Research
+IO
+intraosseous
+IR
+incidence rate
+IV
+intravenous
+kg
+kilogramme
+L
+litre
+LFT
+liver function test
+MKA
+Makmal Kesihatan Awam
+MKAK
+Makmal Kesihatan Awam Kebangsaan
+ml
+millilitre
+Management of Dengue in Children (Second Edition)
+52
+mmol
+milimoles
+mosmol
+miliosmole
+NA
+not applicable
+NAC
+N-acetyl cysteine
+NPHL
+National Public Health Laboratory
+PHL
+Public Health Laboratory
+NS
+normal saline
+NS1 Ag
+non-structural protein 1 antigen
+NSAIDs
+non-steroidal anti-inflammatory drugs
+OFI
+other febrile illness
+ORS
+oral rehydration salts
+pCO2
+partial pressure of carbon dioxide
+PICC
+peripheral inserted central catheter
+PR
+pulse rate
+PT
+prothrombin time
+RCT(s)
+randomised controlled trial(s)
+RN
+registered number
+RRT
+renal replacement therapy
+RT-PCR
+reverse transcriptase-polymerase chain reaction
+SpO2
+oxygen saturation
+TCM
+traditional and complementary medicines
+VBG
+venous blood gas
+VCD
+virologically-confirmed dengue
+WBC
+white blood count
+WHO
+World Health Organization
+Management of Dengue in Children (Second Edition)
+53
+ACKNOWLEDGEMENT
+The members of CPG DG would like to express their gratitude and
+appreciation to the following for their contributions:
+• Panel of external reviewers who reviewed the draft technically
+• Technical Advisory Committee of CPG for their valuable input and
+feedback
+• Health Technology Assessment and Clinical Practice Guidelines
+Council for approval of the CPG
+• Dr. Izzuna Mudla Mohamed Ghazali on review of draft CPG as new
+Head of MaHTAS
+• Dr. Chong Chin Eu on development of the CPG
+• Matron Wong Wai Chee on retrieval of evidence
+• All those who have contributed directly or indirectly to the
+development of the CPG
+DISCLOSURE STATEMENT
+The panel members of both Development Group and Review Committee
+had completed disclosure forms. None hold shares in pharmaceutical
+firms or act as consultants to such firms. Details are available upon
+request from the CPG Secretariat.
+SOURCE OF FUNDING
+The development of the CPG on Management of Dengue in Children
+(Second Edition) was supported financially in its entirety by the MoH.
+Management of Dengue in Children (Second Edition)
+ALAYSIAN HEALTH TECHNOLOGY

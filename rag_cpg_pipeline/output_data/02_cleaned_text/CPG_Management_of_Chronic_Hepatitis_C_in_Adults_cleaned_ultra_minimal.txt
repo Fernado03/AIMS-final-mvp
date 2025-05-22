@@ -1,0 +1,2982 @@
+CLINICAL PRACTICE GUIDELINES
+MOH/PIPAKIA33,
+Management of
+Management of Chronic Hepatitis C in Adults
+Published by:
+Malaysian Health Technology Assessment Section (MaHTAS)
+Medical Development Division, Ministry of Health Malaysia
+Level 4, Block E1, Precinct 1
+Federal Government Administrative Centre 62590
+Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is MaHTAS. Content may be
+reproduced in any number of copies and in any format or medium
+provided that a copyright acknowledgement to MaHTAS is included and
+the content is not changed, not sold, nor used to promote or endorse
+any product or service, and not used in an inappropriate or misleading
+context.
+ISBN: 978-967-2173-97-7
+Available on the following websites:
+http://www.moh.gov.my
+http://www.acadmed.org.my
+Also available as an app for Android and IOS platform: MyMaHTAS
+STATEMENT OF INTENT
+These clinical practice guidelines (CPG) are meant to be guides for
+clinical practice, based on the best available evidence at the time of
+development. Adherence to these guidelines may not necessarily
+guarantee the best outcome in every case. Every healthcare provider is
+responsible for the management of his/her unique patient based on the
+clinical picture presented by the patient and the management options
+available locally.
+Management of Chronic Hepatitis C in Adults
+UPDATING THE CPG
+These guidelines were issued in 2019 and will be reviewed in a
+minimum period of four years (2023) or sooner if new evidence becomes
+available. When it is due for updating, the Chairman of the CPG or
+National Advisor of the related specialty will be informed about it. A
+discussion will be done on the need for a revision including the scope of
+the revised CPG. A multidisciplinary team will be formed and the latest
+systematic review methodology used by MaHTAS will be employed.
+Every care is taken to ensure that this publication is correct in every
+detail at the time of publication. However, in the event of errors or
+omissions, corrections will be published in the web version of this
+document, which is the definitive version at all times. This version can
+be found on the websites mentioned above.
+Management of Chronic Hepatitis C in Adults
+TABLE OF CONTENTS
+No.
+Title
+Page
+Key Recommendations
+i
+Levels of Evidence and Grading Recommendations,
+ii
+Assessment, Development and Evaluation
+Guidelines Development and Objectives
+iii
+Development Group
+vi
+Review Committee
+vii
+External Reviewers
+viii
+Algorithm on Management of Chronic Hepatitis C in Adults
+ix
+1.
+INTRODUCTION
+1
+2.
+SCREENING
+2
+3.
+INVESTIGATION
+4
+3.1 Laboratory Test
+4
+3.1.1 Screening test
+4
+3.1.2 Confirmatory Test
+5
+3.2 Non-invasive Method of Liver Fibrosis Assessment
+7
+3.3 Invasive Method of Liver Fibrosis Assessment
+8
+4.
+TREATMENT
+9
+4.1 Non-Pharmacological Treatment
+9
+4.2 Pharmacological Treatment
+9
+4.2.1 Pre-treatment assessment
+9
+4.2.2 Direct-acting antivirals
+11
+a. Treatment of non-cirrhotic liver disease
+13
+b. Treatment of cirrhotic liver disease
+16
+c. Liver transplantation
+20
+5.
+SPECIAL GROUPS
+22
+5.1 Hepatitis B Co-infection
+22
+5.2 Human Immunodeficiency Virus Co-infection
+23
+5.3 Haemoglobinopathy
+25
+5.4 Immune-Complex Mediated Manifestations
+25
+5.5 Chronic Kidney Disease/End-Stage Renal Disease
+26
+5.6 Pregnancy
+26
+5.7 Acute Hepatitis C
+27
+5.8 Hepatitis C in Children and Adolescents
+27
+6.
+MONITORING
+28
+6.1 During and End of Treatment
+28
+6.2 Post-Treatment
+29
+6.3 Treatment Failure
+Management of Chronic Hepatitis C in Adults
+TABLE OF CONTENTS
+No.
+Title
+Page
+7.
+REFERRAL
+31
+8.
+IMPLEMENTING THE GUIDELINES
+31
+8.1 Facilitating and Limiting Factors
+31
+8.2 Potential Resource Implications
+32
+9.
+REFERENCES
+33
+Appendix 1 Example of Search Strategy
+37
+Appendix 2 Clinical Questions
+38
+Appendix 3 Laboratory Work Flow for Diagnosis of
+39
+HCV Infection
+Appendix 4 Direct-Acting Antivirals Regime and
+40
+Duration in Non-Cirrhotic/Compensated
+Cirrhotic Patients
+Appendix 5 Dosage Form, Administration and
+41
+Common Side Effects of
+Direct-Acting Antivirals in Malaysia
+Appendix 6 Drug-Drug Interaction between
+43
+Direct-Acting Antivirals and
+Highly Active Antiretroviral Therapy
+List of Abbreviations
+45
+Acknowledgement
+47
+Disclosure Statement
+47
+Source of Funding
+Management of Chronic Hepatitis C in Adults
+i
+KEY RECOMMENDATIONS
+The following recommendations were highlighted by the CPG
+Development Group as the key clinical recommendations that should
+be prioritised for implementation.
+A. Screening, Diagnosis and Investigation
+• Hepatitis C screening should be targeted for populations with
+increased risk of hepatitis C virus (HCV) infection or exposure.
+• Screening for HCV infection should be based on the detection of
+antibodies to HCV by rapid diagnostic test or laboratory-based
+immunoassay.
+• Confirmation of active viraemia or ongoing chronic HCV infection
+should be based on the detection of HCV ribonucleic acid (RNA) or
+HCV core antigen (HCVcAg).
+• Non-invasive measures may be used to assess the degree of liver
+fibrosis in hepatitis C.
+B. Treatment, Monitoring and Follow-up
+• Prior to initiation of direct acting antivirals (DAAs) for hepatitis C,
+ identify presence of co-morbidity and perform baseline
+investigations
+ assess for cirrhosis status
+ evaluate for drug-drug interactions
+ counsel to avoid pregnancy for female patient and female
+partner of male patient during and six months after completion of
+treatment
+• All hepatitis C patients (confirmed viraemia) should be initiated with
+DAAs within a year.
+• In patients with hepatitis C and non-cirrhotic liver disease, the
+combination of sofosbuvir and daclatasvir may be prescribed for
+treatment.
+• Routine laboratory monitoring shall be limited at week 4 of treatment
+and 12 weeks post-DAA treatment for hepatitis C.
+ Additional monitoring for full blood count should be done for
+hepatitis C patients treated with ribavirin.
+• HCV RNA should be used to assess sustained virological response
+(SVR) 12 weeks post-DAAs.
+ HCVcAg at 24 weeks (SVR24) may be used as an alternative.
+• Screening for early detection of hepatocellular carcinoma should be
+continued 6-monthly for all cirrhotic hepatitis C patients.
+Management of Chronic Hepatitis C in Adults
+ii
+LEVELS OF EVIDENCE
+SOURCE: US / CANADIAN PREVENTIVE SERVICES TASK FORCE 2001
+FORMULATION OF RECOMMENDATION
+In line with new development in CPG methodology, the CPG Unit of
+MaHTAS is adapting Grading Recommendations, Assessment,
+Development and Evaluation (GRADE) in its work process. The
+quality of each retrieved evidence and its effect size are carefully
+assessed/reviewed by the CPG Development Group. In formulating
+the recommendations, overall balances of the following aspects are
+considered in determining the strength of the recommendations:-
+• overall quality of evidence
+• balance of benefits versus harms
+• values and preferences
+• resource implications
+• equity, feasibility and acceptability
+Level
+I
+II-1
+II-2
+II-3
+III
+Study design
+Evidence from at least one properly randomised controlled trial
+Evidence obtained from well-designed controlled trials without
+randomisation
+Evidence obtained from well-designed cohort or case-control
+analytic studies, preferably from more than one centre or
+group
+Evidence from multiple time series with or without intervention;
+dramatic results in uncontrolled experiments (such as the
+results of the introduction of penicillin treatment in the 1940s)
+could also be regarded as this type of evidence
+Opinions of respected authorities based on clinical experience;
+descriptive studies and case reports; or reports of expert
+committees
+Management of Chronic Hepatitis C in Adults
+iii
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+GUIDELINES DEVELOPMENT
+The members of the Development Group (DG) for these Clinical
+Practice Guidelines (CPG) were from the Ministry of Health (MoH),
+Ministry of Education and private sector. There was active involvement
+of a multidisciplinary Review Committee (RC) during the process of the
+CPG development.
+A literature search was carried out using the following electronic
+databases: mainly Medline via Ovid and Cochrane Database of
+Systemic Reviews and others e.g. Pubmed and Guidelines International
+Network (refer to Appendix 1 for Example of Search Strategy). The
+search was limited to literature published in the last ten years, on
+humans, adults and in English. In addition, the reference lists of all
+retrieved literature and guidelines were searched to further identify
+relevant studies. Experts in the field were also contacted to identify
+further studies. All searches were conducted from 3 January 2018
+to 9 January 2019. Literature searches were repeated for all clinical
+questions at the end of the CPG development process allowing any
+relevant papers published before 31 July 2019 to be included. Future
+CPG updates will consider evidence published after this cut-off date.
+The details of the search strategy can be obtained upon request from
+the CPG Secretariat.
+References were made to other guidelines on hepatitis C e.g.
+• Guidelines for The Care and Treatment of Persons Diagnosed with
+Chronic Hepatitis C Virus Infection (World Health Organization,
+2018)
+• EASL Recommendations on Treatment of Hepatitis C (European
+Association for the Study of the Liver, 2016 and 2018)
+• Hepatitis
+C
+Guidance
+2018
+Update:
+AASLD-IDSA
+Recommendations for Testing, Managing, and Treating Hepatitis
+C Virus Infection (American Association for the Study of Liver
+Diseases and Infectious Diseases Society of America, 2018)
+A total of 11 main clinical questions were developed under five different
+sections. Members of the DG were assigned individual questions
+within five sections (refer to Appendix 2 for Clinical Questions).
+The DG members met 18 times throughout the development of
+these guidelines. All literature retrieved were appraised by at least
+two DG members using Critical Appraisal Skill Programme checklist,
+presented in evidence tables and further discussed in DG meetings.
+All statements and recommendations subsequently formulated were
+agreed upon by both the DG and RC. Where evidence was insufficient,
+the recommendations were made by consensus of the DG and RC.
+Management of Chronic Hepatitis C in Adults
+iv
+This CPG is based largely on the findings of systematic reviews, metaanalyses and clinical trials, with local practices taken into consideration.
+The literature used in these guidelines were graded using the US/
+Canadian Preventive Services Task Force Level of Evidence (2001),
+while the grading of recommendation was done using the principles of
+GRADE (refer to the preceding page). The writing of the CPG strictly
+follows the requirement of AGREE II.
+On completion, the draft of the CPG was reviewed by external
+reviewers. It was also posted on the MoH Malaysia official websitefor
+feedback from any interested parties. The draft was finally presented
+to the Technical Advisory Committee for CPG, and the HTA and
+CPG Council MoH Malaysia for review and approval. Details on the
+CPG development methodology by MaHTAS can be obtained from
+Manual on Development and Implementation of Evidence-based
+Clinical Practice Guidelines published in 2015 (available at
+http://www.moh.gov.my/moh/resources/CPG_MANUAL_MAHTAS.
+pdf?mid=634).
+Management of Chronic Hepatitis C in Adults
+v
+OBJECTIVES
+The objectives of the CPG are to provide evidence-based
+recommendations on the management of hepatitis C in adults on the
+following aspects:
+• screening and diagnosis
+• treatment
+• special groups
+• monitoring and follow-up
+• referral
+CLINICAL QUESTIONS
+Refer to Appendix 2.
+TARGET POPULATION (Inclusion Criteria)
+• Adults at risk and with HCV infection
+TARGET GROUP/USERS
+This document is intended to guide health professionals and relevant
+stakeholders in primary and secondary/tertiary care in the management
+of hepatitis C in adults including:
+i. doctors
+ii. allied health professionals
+iii. trainees and medical students
+iv. policy makers
+v. patients and their advocates
+vi. professional societies
+HEALTHCARE SETTINGS
+Primary and secondary/tertiary care settings
+Management of Chronic Hepatitis C in Adults
+vi
+DEVELOPMENT GROUP
+Chairperson
+Dr. Haniza Omar
+Consultant Gastroenterologist/Hepatologist
+Hospital Selayang, Selangor
+Members (in alphabetical order)
+Dr. Ahmad Kashfi Hj Ab Rahman
+Consultant Infectious Disease Physician
+Hospital Sultanah Zahirah, Terengganu
+Dr. Ahmad Najib Azmi
+Consultant Physician & Gastroenterologist
+Prince Court Medical Centre,
+Kuala Lumpur
+Dr. Chong Chin Eu
+Principal Assistant Director
+Medical Services Development Section
+Ministry of Health, Putrajaya
+Dr. Farah Naz Saleem
+Radiologist
+Hospital Selayang, Selangor
+Dr. Hamiza Shahar
+Gastroenterologist/Hepatologist
+Hospital Tengku Ampuan Rahimah
+Selangor
+Dr. Lailatul Akmar Mat Nor
+Medical Microbiologist
+Hospital Serdang, Selangor
+Ms. Law Bee Keng
+Clinical & Hepatitis MTAC Pharmacist
+Hospital Queen Elizabeth, Sabah
+Dr. Mohd. Aminuddin Mohd Yusof
+Head of Clinical Practice Guidelines Unit
+Health Technology Assessment Section
+Ministry of Health, Malaysia
+Dr. Norasiah Abu Bakar
+Gastroenterologist/Hepatologist
+Hospital Raja Perempuan Zainab II
+Kelantan
+Ms. Nurulmaya Ahmad Sa’ad
+Principal Assistant Director
+Pharmaceutical Services Programme
+Ministry of Health, Selangor
+Dr. Radziah Jabir
+Consultant Family Medicine Specialist
+Klinik Kesihatan Tanglin, Kuala Lumpur
+Dr. Ruziaton Hasim
+Consultant Family Medicine Specialist
+Klinik Kesihatan Pandamaran, Selangor
+Dr. Hjh Rosaida Hj Md Said
+Senior Consultant Gastroenterologist/
+Hepatologist
+Hospital Serdang, Selangor
+Dr. Salmah Idris
+Consultant Medical Microbiologist
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Suryati Yakob
+Nephrologist
+Hospital Selayang, Selangor
+Dr. Zalwani Zainuddin
+Consultant Gastroenterologist/
+Hepatologist
+Hospital Sultanah Bahiyah, Kedah
+Management of Chronic Hepatitis C in Adults
+REVIEW COMMITTEE
+The draft CPG was reviewed by a panel of experts from both public
+and private sectors. They were asked to comment primarily on the
+comprehensiveness and accuracy of the interpretation of evidence
+supporting the recommendations in the CPG.
+Chairperson
+Dato’ Dr. Muhammad Radzi Abu Hassan
+National Advisor of Gastroenterology/Hepatology Services &
+Senior Consultant Gastroenterologist/Hepatologist
+Hospital Sultanah Bahiyah, Kedah
+Members (in alphabetical order)
+Alice Lee Chia Yee
+Patient Advocate
+Dr. Ganesalingam a/l Kanagasabai
+Consultant Gastroenterologist
+Sime Darby Medical Centre, Selangor
+Dr. Junainah Sabirin
+Deputy Director
+Health Technology Assessment Section
+Ministry of Health, Malaysia
+Dr. Nazrila Hairizan Nasir
+Deputy Director (Primary Health)
+Family Health Development Division
+Ministry of Health, Putrajaya
+Ms. Nor Hasni Haron
+Senior Principal Assistant Director
+Pharmaceutical Services Programme
+Ministry of Health, Selangor
+Datin Dr. Salbiah Hj Nawi
+Head of Microbiology Activity &
+Senior Consultant Medical Microbiologist
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Suresh Kumar
+Consultant Infectious Disease Physician
+Hospital Sg. Buloh, Selangor
+Dr. Tan Soek Siam
+Senior Consultant Gastroenterologist/
+Hepatologist
+Hospital Selayang, Selangor
+Dr. Wong Hin-Seng
+Senior Consultant Nephrologist
+Hospital Selayang, Selangor
+Datin Dr. Zaharah Musa
+National Advisor of Radiology Services &
+Senior Consultant Radiologist
+Hospital Selayang, Selangor
+Management of Chronic Hepatitis C in Adults
+viii
+EXTERNAL REVIEWERS (in alphabetical order)
+The following external reviewers provided feedback on the draft:
+Dr. Arni Talib
+Head of Department & Consultant
+Pathologist
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Habshoh Hat
+Consultant Family Medicine Specialist
+Klinik Kesihatan Bandar Sg. Petani
+Kedah
+Dr Hamizah Razlan
+Consultant Gastroenterologist & Physician
+KPJ Ampang Puteri Specialist Hospital
+Selangor
+Professor Dr. Mohamed Mansor Manan Rph
+Dean, Faculty of Pharmacy &
+Clinical Pharmacist
+Universiti Teknologi Mara, Selangor
+Datuk Dr. Mahiran Mustafa
+Senior Consultant Infectious Disease
+Physician, Hospital Raja Perempuan
+Zainab II, Kelantan
+Dr. Narul Aida Salleh
+Family Medicine Specialist
+Klinik Kesihatan Kuala Lumpur
+Kuala Lumpur
+Dato’ Dr. Ong Loke Meng
+Senior Consultant Nephrologist
+Hospital Pulau Pinang, Pulau Pinang
+Associate Professor Dr. Petrick Periasamy
+Consultant Infectious Disease Physician
+Pusat Perubatan Universiti Kebangsaan
+Malaysia, Kuala Lumpur
+Professor Dr. Rosmawati Mohamed
+Senior Consultant Hepatologist
+Pusat Perubatan Universiti Malaya
+Kuala Lumpur
+Dr. Rozita Zakaria
+Consultant Family Medicine Specialist
+Klinik Kesihatan Presint 18, Putrajaya
+Dr. Mohd. Shamsul Amri Ismail
+Consultant Gastroenterologist/
+Hepatologist
+KPJ Damansara Specialist Hospital
+Kuala Lumpur
+Dr. Tee Hoi Poh
+Consultant Gastroenterologist and
+Hepatologist
+KPJ Pahang Specialist Hospital,
+Pahang
+Dato’ Dr. Zaki Morad Mohamad Zaher
+Consultant Nephrologist, KPJ Ampang
+Puteri Specialist Hospital, Selangor &
+Chairman, National Kidney Foundation
+Professor Dr. Zamberi Sekawi
+Dean, Faculty of Medical & Health
+Science & Consultant Clinical
+Microbiologist
+Universiti Putra Malaysia, Selangor
+Management of Chronic Hepatitis C in Adults
+ix
+ALGORITHM ON MANAGEMENT OFCHRONIC HEPATITIS C
+IN ADULTS
+No HCV infection
+Non-reactive
+Reactive
+HCV screening test
+Result
+No HCV infection
+Positive
+Result
+Notify
+Proceed to confirmatory
+testing using HCV Core
+Antigen or HCV RNA
+*Yearly screening is advocated
+if there is presence of on-going
+risk factors
+Negative
+Assessment Prior to Initiating Treatment
+• History: risk factors, co-morbidities, pregnancy
+• Physical examination
+• Assess liver fibrosis/cirrhosis with non-invasive testing e.g.
+APRI, FIB-4, TE, USG
+• Screen for potential drug-drug interaction e.g. HIV on ART
+• Blood investigations: FBC, creatinine, ALT, AST, HIV, HBsAg
+Non-cirrhosis/fibrosis
+• APRI score* <1.5 or
+• FIB-4 <3.25 or
+• TE <12.5 kPa
+Cirrhosis
+• APRI score* ≥1.5 or
+• FIB-4 ≥3.25 or
+• TE ≥12.5 kPa
+*APRI scores are
+based on evidence
+and consensus of
+CPG DG
+Genotyping to be done at
+physician’s discretion
+Initiate treatment within a year
+if no contraindications
+Achieve
+SVR12
+No
+Yes
+Refer secondary/
+tertiary centre
+• Risk of re-infection
+Periodic HCV Core Antigen testing
+• Cirrhotic
+Hepatocellular carcinoma and
+variceal surveillance
+• No risk of re-infection
+• Non-Cirrhotic
+-Discharge
+ALT - alanine
+transaminase
+AST - aspartate
+transaminase
+APRI - AST to Platelet
+Ratio Index
+ART - antiretroviral
+therapy
+FBC - full blood count
+FIB-4 - fibrosis-4
+HBsAg - hepatitis B
+surface antigen
+HCV - hepatitis C virus
+HIV - human
+immunodeficiency virus
+kPa - kilopascal
+RNA - ribonucleic acid
+SVR12 - sustained
+virological response at
+12 weeks
+TE - transient
+elastography
+USG - ultrasonography
+Management of Chronic Hepatitis C in Adults
+Management of Chronic Hepatitis C in Adults
+1. INTRODUCTION
+Hepatitis C virus (HCV) infection is a major cause of chronic liver
+disease infection with worldwide approximation of 71 million people
+being infected.1 In Malaysia, it is estimated that there are 453,700
+people with anti-HCV positivity in 2009. The prevalence rate of people
+living with HCV infection among those aged 15 - 64 years is 2.5%.2; 3
+Many of the estimated 380,000 people living with hepatitis C remain
+undiagnosed.4 Screening and access to care of HCV is crucial to
+reduce the transmission and address the increasing disease burden
+in the country.2 With the initiatives by the Ministry of Health (MoH)
+Malaysia, in-line with World Health Organization (WHO)’s strategy
+towards elimination of hepatitis C by 2030, screening and treatment of
+hepatitis C has expanded tremendously. At present, MoH is focussing
+on screening the high risk populations in particular people who inject
+drugs (PWID). The landscape of treatment for hepatitis C has evolved
+with the accessibility of direct-acting antivirals (DAAs) which are
+generally effective, well tolerated and given for 12 - 24 weeks.
+Locally, the common genotypes found are genotype 3 (61.9%) and 1
+(35.9%) which may give variation in treatment regime.5 People who
+are HCV-infected are at risk of developing advanced liver disease,
+contributing to the continuous rise in HCV-related morbidity and
+mortality. Approximately 60 - 70% of chronically infected person will
+eventually develop chronic liver disease of which 5 - 20% will have
+cirrhosis of the liver and 1 - 5% will die of cirrhosis or hepatocellular
+carcinoma (HCC).2
+The primary goal of HCV treatment is to cure the infection i.e. to achieve
+a sustained virological response (SVR). In view of high disease burden
+and variation in practice, an evidence-based CPG is required to guide
+healthcare providers locally in the management of hepatitis C.
+Management of Chronic Hepatitis C in Adults
+2. SCREENING
+Most chronic HCV infected individuals are asymptomatic and thus
+unaware of their infection. Failure to identify them prevents linkage to
+care and successful control of HCV. Therefore, screening of hepatitis
+C is an important step towards improving detection and ultimately
+treatment and cure of infected individuals.
+• Hepatitis C screening is recommended for the following target
+populations that have increased risk of HCV infection or exposure:6, 7
+ current or past intravenous drug users
+ healthcare providers, emergency medical and public safety
+workers after needle sticks, sharps or mucosal exposures to HCVinfected blood
+ recipients of blood/blood products/clotting factor concentrates/
+organ transplant before 1994
+ unexplained chronic liver disease and/or chronic hepatitis
+including elevated alanine aminotransferase (ALT) levels
+ people who have exchanged sex for money, goods or favours
+ men who have sex with men who have additional risk factors
+including human immunodeficiency virus (HIV) infection,
+report of traumatic sexual practice (e.g. fisting), diagnosis of
+lymphogranuloma venereum or syphilis, previous resolved or
+treated hepatitis C infection, engaging in ‘chemsex’
+ people with HIV infection
+ current and past prisoners (incarceration)
+ people on long-term haemodialysis (HD)
+ children born to HCV-infected women
+ intranasal illicit drug users - non-injecting drug users
+In intermediate to high HCV-prevalence (>2%) countries, programmes
+with pre-screening selection based on HCV risk profile or migrant
+status and programmes in psychiatric clinics are associated with high
+HCV prevalence.8, level III In contrast, programmes targeting healthcare
+workers (Asian population involved in liver transplantation) and pregnant
+women (obstetric/antenatal clinics in United Kingdom, US and Brazil)
+have low HCV prevalence.9, level I
+Increase in screening uptake for hepatitis C in primary care can be
+achieved through targeted case finding, support and training of primary
+care practitioners, alternative HCV testing methods and provision
+of outreach testing. However, careful attention needs to be given
+to resource implications and potentials for intervention to improve
+outcomes once a positive diagnosis has been made in primary care.10, level I
+Management of Chronic Hepatitis C in Adults
+Recommendation 1
+• Hepatitis C screening should be targeted for populations with
+increased risk of hepatitis C virus infection or exposure.*
+*Refer to the preceding yellow box.
+Management of Chronic Hepatitis C in Adults
+3. INVESTIGATION
+3.1 Laboratory Test
+Diagnosis of HCV infection is based on two categories of laboratory
+tests:
+• serological assays which detect antibody (anti-HCV) and antigen
+(HCV core antigen/ HCVcAg)
+• molecular assays that can detect and quantify HCV ribonucleic
+acid (RNA)
+These tests play a role in the diagnosis of infection, therapeutic
+decision-making and assessment of virological response to therapy.
+3.1.1 Screening Test
+Screening for hepatitis C infection (to determine serological evidence
+of past or present infection) in adults, adolescents and children (>18
+months of age) is initiated by detection of a single test for anti-HCV
+antibodies using either a rapid diagnostic test (RDT) or laboratorybased immunoassay formats. Quality-assured RDT can be used in
+setting where there is limited access to laboratory infrastructure and
+testing, and/or in population where access to rapid testing would
+facilitate linkage to care and treatment.11
+• RDT
+ Point-of-care testing
+ Effective and affordable diagnostic tool
+• Laboratory-based Immunoassays
+ include
+enzyme
+immunoassay
+(EIA),
+chemiluminescence
+immunoassay (CIA) and electrochemoluminescence assay
+• Screening tests should meet minimum acceptance criteria of either
+WHO’s prequalification of in vitro diagnostics (IVDs) or a stringent
+regulatory review for IVDs. All IVDs should be used in accordance
+with manufacturers’ instructions and where possible at testing sites
+enrolled in a national or international external quality assessment
+scheme.
+A diagnostic study evaluating the performance characteristics of
+five anti-HCV RDTs showed that only Alere Truline, SD Bioline and
+OraQuick RDTs had high sensitivity of >99% and specificity >98% and,
+excellent inter-observer agreement and operational characteristics.12, level III
+SD Bioline and OraQuick HCV RDT, immunochromatographic assays
+for the detection of antibodies to HCV in human serum, plasma and
+venous whole blood, have been accepted for the WHO list of prequalified
+in vitro diagnostics. SD Bioline has a sensitivity of 100% (95% CI 97.76
+to 100) and specificity of 100% (95% CI 98.85 to 100) while OraQuick
+has a sensitivity of 100% (95% CI 97.8 to 100) and specificity of 99.7%
+(95% CI 98.3 to 100).13, level III
+Management of Chronic Hepatitis C in Adults
+Flowchart for serological testing is illustrated in Appendix 3.
+Recommendation 2
+•
+Screening for hepatitis C virus (HCV) infection should be based
+on the detection of antibodies to HCV by rapid diagnostic test or
+laboratory-based immunoassay.
+3.1.2 Confirmatory Test
+The diagnosis of chronic hepatitis C is based on the detection of both
+anti-HCV antibody and HCV RNA or HCVcAg.14
+•
+HCV core antigen
+In acute hepatitis C, HCVcAg (a viral protein) is found in the blood two
+weeks after infection. It becomes detectable in blood a few days after
+HCV RNA.
+HCVcAg, which uses enzyme-linked immunosorbent assay, is a lowercost option than molecular test. However, it is less sensitive than HCV
+RNA assay (lower limit of detection equivalent to approximately 500 to
+3,000 HCV RNA IU/mL).14
+Using a threshold of quantifiable HCV RNA (≥15 IU/mL), HCVcAg
+demonstrates consistently high specificity (98 - 100%) at all time-points
+but a wide range of sensitivity (31 - 100%). Among baseline samples,
+there is a strong correlation between HCVcAg levels and HCV RNA
+levels (rs 0.767 - 0.89, p ≤0.0001).15 - 16, level III
+WHO has suggested that HCVcAg is too limited to recommend for its
+use as a substitute for HCV RNA as assessment of test of cure, known
+as SVR.17 However, EASL allows this as an alternative if the latter is not
+available and/or not affordable to be done at SVR 24.14
+•
+HCV molecular
+HCV RNA polymerase chain reaction (PCR) is used to detect the
+presence of the virus, determine if the infection is active and if the
+individual would benefit from antiviral treatment. This assay detects the
+presence of viral RNA through targeting a specific segment of the virus.
+The use of quantitative or qualitative molecular test for detection of HCV
+RNA is recommended as the preferred strategy to diagnose viraemic
+infection following a reactive HCV antibody serological test. The new
+generation of quantitative and qualitative assays have the same lower
+detection limit (around 15 IU/mL). However, quantitative assays are
+a reproducible method to detect and quantify HCV RNA in plasma or
+serum. Although quantitative RNA assays are considered the “gold
+standard” assays for the diagnosis and monitoring of HCV, the high
+Management of Chronic Hepatitis C in Adults
+cost of these assays and laboratory requirements means that they are
+not readily available in resource-limited settings.17
+• Both HCV RNA and HCVcAg are confirmatory tests indicating current
+infection.
+• The sensitivity and specificity of HCVcAg are 96.3 - 99.3% and 100%
+respectively against HCV RNA (gold standard). HCVcAg can be used
+instead of HCV RNA to diagnose acute or chronic HCV infection when
+HCV RNA assays are not available and/or not affordable.17; 18 - 19, level III
+• Hepatitis C is mandatory to be notified under the Prevention and
+Control on Infectious Disease Act 1988 to the nearest District Health
+Office within seven days of diagnosis.20, level III
+•
+HCV genotype
+HCV strains are classified into six major genotypes and 67 subtypes.
+The genotype of HCV for diagnosis is mostly determined by sequencing
+of genomic nucleotide sequence or by kit-based assays which employ
+complementary probes to report genotype present in a specimen.
+Sequencing of highly conserved regions such as NS5, core, E1 and
+5’UTR is the most recommended method used for genotyping of HCV.
+Most of the laboratory are using in vitro reverse transcription-PCR in
+plasma and serum from HCV-infected individuals. The limit of detection
+of HCV genotype is 500 - 1000 IU/mL (depends on the type of reagents
+used) to get an accurate HCV genotype result.
+Testing for HCV resistance prior to treatment is not recommended.14
+• In local setting where the choice of DAAs is limited, genotyping
+is still recommended to determine the optimal regime in cirrhotic
+population.
+• Where new pangenotypic regimes are available, treatment can be
+initiated without knowledge of the genotype and subtype.14
+Recommendation 3
+•
+The diagnosis of chronic hepatitis C should be based on the
+detection of both anti-hepatitis C virus (HCV) antibody and HCV
+ribonucleic acid (RNA) or hepatitis C core antigen (HCVcAg).
+•
+Confirmation of active viraemia or ongoing chronic HCV infection
+should be based on the detection of HCV RNA or HCVcAg.
+•
+All hepatitis C patients (confirmed viraemia) should be initiated with
+direct-acting antivirals within a year.
+Management of Chronic Hepatitis C in Adults
+3.2 Non-invasive Method of Liver Fibrosis Assessment
+Accurate assessment on the severity of liver fibrosis is important for
+prognosticate and treatment planning in HCV patients.
+Non-invasive methods of assessing fibrosis have been developed to
+reduce the need for liver biopsy.
+A systematic review evaluates the ability of non-invasive measures
+in assessing hepatic inflammation and fibrosis among chronic HCV
+patients.21, level II-2
+• A model using platelet count ≤140,000/mm3, three spider nevi,
+aspartate aminotransferase (AST) >40 IU/L and male gender
+predicted cirrhosis with an AUC of 0.938.
+• AST to platelet ratio index (APRI) is simple to be used in estimating
+fibrosis with AUC with a range of 0.87 - 0.89.
+• For Fibrosis-4 (FIB-4) index, the AUC was 0.765 for differentiating
+Ishak 0 - 3 from 4 - 6. This was validated in a large cohort study
+which demonstrated AUC of 0.85 for severe fibrosis and 0.91 for
+cirrhosis.
+• Transient elastography (TE) distinguished mild/moderate fibrosis
+from severe fibrosis/cirrhosis with AUC of 0.94.
+Formula
+APRI = AST [IU/L]/AST (upper limit of normal) [IU/L] x 100
+platelet [109/L]
+FIB-4 index = age ([year] x AST [IU/L])
+platelet [10
+9/L] x ALT½ [IU/L]
+Although liver biopsy is the gold standard for detecting liver fibrosis
+and cirrhosis, it is an invasive test with increased risk of morbidity and
+mortality.
+In two small diagnostic studies, the comparison of conventional
+ultrasonography (USG) to liver biopsy showed a PPV of 78 - 80%.22 - 23, level III
+The sensitivity was moderate at 68.18% but specificity was low at
+14%.23, level III
+TE has better sensitivity and specificity compared with conventional
+USG or doppler USG. The AUC increases from stage F1 to F4 liver
+fibrosis for both TE and US. However, the results are higher in TE.24, level III
+The diagnostic accuracy is much better in TE compared with doppler
+USG in F2 to F4 liver fibrosis. The AUC for TE in F2, F3 and F4 is 0.89,
+0.96 and 1.0 respectively.25, level III
+Management of Chronic Hepatitis C in Adults
+In a diagnostic study, TE and magnetic resonance elastography (MRE)
+had comparable accuracy in detecting all stages of liver fibrosis.
+However, the TE examiners were not blinded on the clinical data of the
+patients.26, level III
+TE is available in limited centres whereas MRE is not available in
+Malaysia. However, once MRE is available, it can be incorporated into
+the MRI examination.
+Recommendation 4
+• Non-invasive measures* may be used to assess the degree of liver
+fibrosis in hepatitis C.
+• Transient elastrography (TE) is the preferred non-invasive imaging
+modality for diagnosis of liver fibrosis and cirrhosis in hepatitis C.
+ Ultrasound abdomen is an alternative modality if TE is not
+available.
+*Refer to the preceding text
+Detection of cirrhosis using an APRI, FIB-4 and TEs is shown in the
+following table.
+Table 1. Evaluation of APRI, FIB-4 and TE
+Source:
+1. World Health Organization. Guidelines for The Care and Treatment of Persons
+Diagnosed with Chronic Hepatitis C Virus Infection. Geneva: WHO; 2018
+2. Castéra L, Le Bail B, Roudot-Thoraval F, et al. Early detection in routine clinical
+practice of cirrhosis and oesophageal varices in chronic hepatitis C: comparison
+of transient elastography (FibroScan) with standard laboratory tests and noninvasive scores. J Hepatol. 2009;50(1):59-68
+*The values mentioned in Table 1 are based on consensus of both CPG DG & RC.
+3.3 Invasive Method of Liver Fibrosis Assessment
+• Liver biopsy is the gold standard for detecting liver fibrosis and
+cirrhosis in hepatitis C. With the availability of non-invasive
+assessments, liver biopsy is not routinely done.
+Test
+Non-cirrhotic/
+fibrosis*
+Cirrhotic*
+≥1.5
+≥3.25
+≥12.5 kPa
+<1.5
+<3.25
+<12.5 kPa
+APRI
+FIB-4
+TE
+Management of Chronic Hepatitis C in Adults
+4. TREATMENT
+4.1 Non-Pharmacological Treatment
+HCV-infected patients should be counselled on the importance of
+strict adherence to attain high SVR. It is a multidisciplinary approach
+involving dedicated clinicians, pharmacists and nurses; it includes:
+• HCV education
+• monitoring services
+• peer-based support
+The following groups of patients will need additional support during
+DAAs treatment:
+4.2 Pharmacological Treatment
+• Untreated chronic hepatitis C infection may lead to liver cirrhosis and
+the risk of progression to cirrhosis varies according to the person’s
+characteristics and behaviours.
+• Alcohol use, hepatitis B virus (HBV) or HIV coinfection and
+immunosuppression due to any cause increase the risk of developing
+cirrhosis.11
+4.2.1 Pre-treatment assessment
+Prior to initiation of treatment, hepatitis C patients must be assessed to
+identify presence of co-morbidity and to determine cirrhosis status. The
+following baseline investigations need to be performed:
+• full blood count (FBC)
+• liver function test (LFT) including AST
+• serum creatinine
+• international normalised ratio/INR (for all cirrhotic patients)
+• HIV and HBsAg screening
+Group
+Additional support
+Ongoing alcohol consumption
+Active drug abuse
+High risk sexual behaviours,
+particularly men who have
+sex with men
+Motivational enhancement therapy27, level I
+Directly observed therapy (opioid users)14
+Behavioural modifications14
+Behavioural modifications14
+Management of Chronic Hepatitis C in Adults
+For those with cirrhosis, assessment for compensated and
+decompensated cirrhosis using Child-Turcotte-Pugh Score (CPS) as
+shown below.
+Table 2. Child-Turcotte-Pugh Score for Grading Severity of
+Liver Disease
+Source: Kumar P, Clark M. Clinical Medicine Seventh Edition. Saunders Elsevier; 2009
+• A total CPS of:
+ 5 - 6 is class A
+ 7 - 9 is class B
+ 10 - 15 is class C
+• CPS classes B and C are considered decompensated stage.
+Counselling to avoid pregnancy during and six months after completion
+of treatment should be given to both female patient and female partner
+of male patient who are taking DAAs regime containing ribavirin. There
+is lack of safety and efficacy data of DAAs in pregnancy.28
+HCV-infected patients should be educated on the importance of
+adherence to treatment and report on the use of all other medications
+including recreational drugs.14
+Pre-treatment assessment of concomitant medication should be done
+to avoid drug-drug interactions (DDIs).EASL, 2018 About 30 - 44% of HCV
+patients on DAAs and concomitant medications are at risk of clinically
+significant DDIs. Potential DDIs are assigned to distinct risk categories
+according to the predicted level of significance as below:29, level II-3
+• Category 0 : interaction has not been assessed
+• Category 1 : no clinically significant interaction expected
+• Category 2 : potential interaction that may require close monitoring,
+alteration of drug dosage or timing of administration
+• Category 3 : co-administration either not recommended or contraindicated
+Variable
+1
+2
+3
+Ascites
+Encephalopathy
+Bilirubin (µmol/L)
+Albumin (g/L)
+Prothrombin time
+(seconds over
+normal)
+None
+None
+<34
+>35
+<4
+Mild
+Mild
+34 - 50
+28 - 35
+4 - 6
+Moderate/severe
+Marked
+>50
+<28
+>6
+Management of Chronic Hepatitis C in Adults
+Category 2 and 3 DDIs are considered as clinically significant.
+Higher number of elderly patients (≥ 65 years) have concomitant
+medications and clinically significant DDIs compared with nonelderly patients (p<0.0001).30, level II-3 Prescribers may consult the
+University of Liverpool webpage on hepatitis drug interactions at
+https://www.hep-druginteractions.org/checker.
+Recommendation 5
+• Prior to initiation of direct acting antivirals for hepatitis C,
+ assess for cirrhosis status
+ identify presence of co-morbidity and perform baseline
+investigations as below:
+- full blood count
+- liver function test including aspartate aminotransferase
+- serum creatinine
+- international normalised ratio (for all cirrhotic patients)
+- HBsAg screening
+- HIV screening
+ evaluate for drug-drug interactions
+ counsel to avoid pregnancy for female patient and female partner
+of male patient during and six months after completion of treatment
+4.2.2 Direct-acting antivirals
+Treatment for chronic hepatitis C has evolved from using pegylatedinterferon (PEG-IFN) with low cure rates and many side effects to
+various regimes of oral DAAs. The aim is to provide high cure rate or
+SVR by using drugs that are effective with short duration treatment
+and minimal side effects. Hepatitis C patients (confirmed viraemia)
+should be considered for DAA treatment except in those with limited life
+expectancy or significant non-liver-related co-morbidities. Treatment
+should be initiated without delay in those with significant fibrosis or
+cirrhosis, including those with decompensated cirrhosis and clinically
+significant extra-hepatic manifestations due to HCV infection.14
+• In local setting, all hepatitis C patients (confirmed viraemia) should
+be initiated with DAAs within a year.
+• SVR12 is defined as undetectable HCV RNA at 12 weeks posttreatment. It is considered equivalent to cure for hepatitis C infection.11
+• SVR24 is defined as undetectable HCVcAg at 24 weeks posttreatment. It can be used as an alternative endpoint of treatment if
+HCV RNA assays are not available and/or not affordable.14
+Management of Chronic Hepatitis C in Adults
+The available DAAs are:
+Ribavirin (RBV) is used in some combinations.
+*Discontinued since 2019
+• The choice of DAAs and treatment duration depends on stage of liver
+disease.
+• HCV genotype (GT) should be considered in cirrhosis.
+Recommendation 6
+• All hepatitis C patients (confirmed viraemia) should be initiated with
+direct-acting antivirals within a year.
+Refer to Appendix 4 on DAAs Regime and Duration in Non-Cirrhotic/
+Compensated Cirrhotic Patients.
+(ongoing
+clinical
+trial)
+Direct-Acting Antivirals
+(DAAs)
+Pharmacological Class
+Available
+in
+Malaysia
+Sofosbuvir (SOF)
+NS5B polymerase inhibitor
+(nucleotide analogue)
+Sofosbuvir/ledipasvir
+(SOF/LDV)
+NS5B polymerase inhibitor/NS5A
+inhibitors
+Sofosbuvir/velpatasvir
+(SOF/VEL)
+NS5B polymerase inhibitor/NS5A
+inhibitors
+Grazoprevir/elbasvir
+(GZR/EBR)*
+NS3/4A polymerase inhibitor/NS5A
+inhibitors
+Sofosbuvir/ravidasvir
+NS5B polymerase inhibitor
+(nucleotide analogue)/NS5A
+inhibitors
+Glecaprevir/pibrentasvir
+(GLE/PIB)
+NS3/4A (protease) inhibitor/NS5A
+inhibitor
+Sofosbuvir/velpatasvir/
+voxilaprevir (SOF/VEL/VOX)
+NS5B polymerase inhibitor/NS5A
+inhibitors/NS3/4A (protease)
+inhibitors
+Ombitasvir/ritonavir/
+Paritaprevir and Dasabuvir
+(OrPD)*
+NS3/4A (protease) inhibitor/NS5A
+inhibitor/NS5B polymerase inhibitor
+(non-nucleoside analogue)
+Daclatasvir (DCV)
+NS5A inhibitors
+Management of Chronic Hepatitis C in Adults
+Refer to Appendix 5 on Dosage Form, Administration and Side
+Effects of DAAs.
+a. Treatment of non-cirrhotic liver disease
+In a systematic review of 42 low-moderate quality primary papers,
+various DAAs regimes showed high SVR12 rates in non-cirrhotic chronic
+hepatitis C as summarised in Table 3. In the review, combination of
+DCV and SOF showed high SVR rates with 12- and 24-week treatment
+(96% to 100%).31, level I
+In the relatively new combination of GLE/PIB, randomised controlled
+trials (RCTs) had shown that non-inferiority or comparable results
+between eight weeks and 12 weeks regime on non-cirrhotic HCV
+patients.32 - 33, level I Both evidence are pharmaceutically-funded. The
+fixed combination is yet to be made available in Malaysia. The findings
+are also summarised in Table 3.
+Management of Chronic Hepatitis C in Adults
+Table 3. Effectiveness of DAAs in Non-Cirrhotic Liver Disease
+Genotype
+Treatmentexperience
+Addition
+of ribavirin
+GZV/EBR
+(SVR%)
+OrPD
+(SVR%)
+SOF/DCV
+(SVR%)
+SOF/LDV
+(SVR%)
+SOF/VEL
+(SVR%)
+GLE/PIB
+(SVR%)
+SOF/VEL/VOX
+(SVR%)
+1a
+Naïve
+Yes
+12 wk (95%)
+24 wk (100%)
+No
+12 wk (92%)
+24 wk (100%)
+12 wk (97%)
+8 wk (92%)
+Experienced
+Yes
+12 wk (96-97%)
+12 wk (100%)
+No
+12 wk (90%)
+12 wk (95%)
+12 wk (97%)
+12 wk (96%)
+1b
+Naïve
+Yes
+24 wk (100%)
+12 wk (100%)
+24 wk (100%)
+8 wk (95%)
+No
+12 wk (99%)
+12 wk (99%)
+24 wk (100%)
+12 wk (98-100%)
+12 wk (100%)
+8 wk (97%)
+24 wk (97%)
+8 wk (98%)
+Experienced
+Yes
+24 wk (90%)
+w/o DSV
+12 wk (100%)
+12 wk (100%)
+12 wk (97%)
+24 wk (100%)
+No
+12 wk (100%)
+12 wk (95%)
+12 wk (87%)
+12 wk (100%)
+12 wk (100%)
+24 wk (100%)
+2
+Naïve
+Yes
+8 wk (98%)
+12 wk (99.5%)
+No
+12 wk
+(99-100%)
+Experienced
+Yes
+No
+12 wk
+(99-100%)
+12 wk (100%)
+3
+Naïve
+Yes
+12 wk (100%)
+8/12 wk (95%)
+No
+12 wk (94-97%)
+12 wk (64%)
+12 wk (97%)
+8 wk (99%)
+Experienced
+Yes
+No
+12 wk (94-97%)
+12 wk (82%)
+12 wk (97%)
+12 wk (95%)
+8 wk (92%)
+12 wk (100%)
+24 wk (100%)
+8 wk (93%)
+12 wk (95-99%)
+24 wk (100%)
+12 wk (95%)
+24 wk (99%)
+12 wk (95%)
+24 wk (99%)
+8 wk (99.1%)
+12 wk (99.7%)
+8 wk (99.1%)
+12 wk (99.7%)
+12/24 wk
+(92-100%)
+24 wk (95%)
+w/o DSV
+12 wk (98-99%)
+Management of Chronic Hepatitis C in Adults
+4
+Naïve
+Yes
+12 wk (100%)
+w/o DSV
+8 wk (93%)
+12 wk (99%)
+Genotype
+Treatmentexperience
+Addition
+of ribavirin
+GZV/EBR
+(SVR%)
+OrPD
+(SVR%)
+SOF/DCV
+(SVR%)
+SOF/LDV
+(SVR%)
+SOF/VEL
+(SVR%)
+GLE/PIB
+(SVR%)
+SOF/VEL/VOX
+(SVR%)
+No
+12 wk (100%)
+12 wk (91%)
+w/o DSV
+12 wk (95%)
+12 wk (100%)
+8 wk (92%)
+Experienced
+Yes
+12 wk (100%)
+w/o DSV
+No
+12 wk (91-95%)
+12 wk (100%)
+12 wk (91%)
+5
+Naïve
+Yes
+8 wk (93%)
+12 wk (99%)
+No
+12 wk (95%)
+12 wk (97%)
+8 wk (94%)
+Experienced
+Yes
+No
+12 wk (95%)
+12 wk (97%)
+6
+Naïve
+Yes
+8 wk (93%)
+12 wk (99%)
+No
+12 wk (80%)
+12 wk (96%)
+12 wk (100%)
+8 wk (100%)
+Experienced
+Yes
+No
+12 wk (100%)
+wk=weeks, w/o DSV=without dasabuvir
+Management of Chronic Hepatitis C in Adults
+Recommendation 7
+• In patients with hepatitis C and non-cirrhotic liver disease, the
+combination of sofosbuvir and daclatasvir may be prescribed for
+treatment. Other combination of direct acting antiviral may also be
+considered*.
+*Refer to Appendix 4.
+b. Treatment of cirrhotic liver disease
+•
+Compensated liver disease
+Patients with cirrhosis are at increased risk for development of HCC
+and the need for liver transplantation. The risk of cirrhosis at 20 years
+after the infection with HCV ranges from 15% to 30%.34 - 35, level II-2 The
+1-year mortality is 5.4% in compensated patients; those in stage 1 (no
+varices) have longer survival than stage 2 patients (varices present).
+36, level II-2 Cirrhosis can remain compensated for many years and it has
+been reported that the median survival of patients with this condition is
+more than 12 years.37, level II-2
+In a systematic review, various DAAs regimes showed high SVR12
+rates in cirrhotic chronic hepatitis C.31, level I All-oral, once-daily (GLE/
+PIB) is effective for most patients with HCV (GT1, 2, 4, 5 or 6) and
+compensated cirrhosis.38, level II-3 SOF/VEL/VOX (eight weeks) is not
+non-inferior to SOF/VEL (12 weeks), but the two regimes have similar
+SVR rates in patients with HCV GT 3 and cirrhosis.39, level I The above
+findings are summarised in Table 4.
+Management of Chronic Hepatitis C in Adults
+Table 4. Effectiveness of DAAs in Compensated Cirrhotic Liver Disease of HCV Patients
+Genotype
+Treatmentexperience
+Addition of
+ribavirin
+GZV/EBR
+(SVR%)
+OrPD
+(SVR%)
+SOF/DCV
+(SVR%)
+SOF/LDV
+(SVR%)
+SOF/VEL
+(SVR%)
+GLE/PIB
+(SVR%)
+SOF/VEL/V
+OX
+(SVR%)
+1a
+Naïve
+Yes
+24 wk (100%)
+12/24 wk
+(100%)
+No
+12 wk (92%)
+24 wk (100%)
+12 wk (99%)
+12 wk (100%)
+12 wk (99%)
+24 wk (100%)
+Experienced
+Yes
+12 wk (100%)
+12 wk (95%)
+24 wk (99%)
+No
+12 wk (95%)
+12 wk (95%)
+12 wk (100%)
+12 wk (99%)
+12 wk (98%)
+24 wk (99%)
+1b
+Naïve
+Yes
+24 wk (98%)
+w/o DSV
+24 wk (100%)
+12 wk (100%)
+24 wk (100%)
+No
+12 wk (99%)
+24 wk (100%)
+12 wk (100%)
+12 wk (97%)
+12 wk (99%)
+24 wk (97%)
+Experienced
+Yes
+24 wk (96%)
+w/o DSV
+12 wk (100%)
+12 wk (100%)
+24 wk (100%)
+No
+12 wk (95%)
+12 wk (87%)
+12 wk (96%)
+12 wk (99%)
+12 wk (98%)
+24 wk (100%)
+2
+Naïve
+Yes
+12 wk (100%)
+No
+12 wk
+(99-100%)
+12 wk (100%)
+Experienced
+Yes
+12 wk (100%)
+No
+12 wk
+(99-100%)
+12 wk (100%)
+12 wk (98%)
+3
+Naïve
+Yes
+12 wk (88%)
+12 wk (100%)
+16 wk (92%)
+No
+12 wk (90%)
+12 wk (64%)
+12 wk (91%)
+8 wk (96%)
+Experienced
+Yes
+12 wk (88%)
+16 wk (92%)
+No
+12 wk (86%)
+12 wk (82%)
+12 wk (91%)
+12 wk (98%)
+4
+Naïve
+Yes
+No
+12 wk (100%)
+12 wk (95%)
+12 wk (100%)
+12 wk (100%)
+Experienced
+Yes
+12 wk
+12 wk (100%)
+12 wk (100%)
+(91 - 95%)
+No
+Management of Chronic Hepatitis C in Adults
+Genotype
+Treatmentexperience
+Addition of
+ribavirin
+GZV/EBR
+(SVR%)
+OrPD
+(SVR%)
+SOF/DCV
+(SVR%)
+SOF/LDV
+(SVR%)
+SOF/VEL
+(SVR%)
+GLE/PIB
+(SVR%)
+SOF/VEL/V
+OX
+(SVR%)
+5
+Naïve
+Yes
+No
+12 wk (95%)
+12 wk (100%)
+12 wk (100%)
+Experienced
+Yes
+No
+12 wk (95%)
+12 wk (100%)
+12 wk (100%)
+6
+Naïve
+Yes
+No
+12 wk (80%)
+12 wk (96%)
+12 wk (100%)
+12 wk (100%)
+Experienced
+Yes
+No
+12 wk (100%)
+12 wk (100%)
+wk=weeks, w/o DSV=without dasabuvir
+Studies on combination of SOF + ravidasvir that shows promising results in both non-cirrhotic and cirrhotic hepatitis C-infected patients are yet to be
+published.
+Management of Chronic Hepatitis C in Adults
+•
+Decompensated liver disease
+The number of decompensated cirrhosis caused by chronic HCV
+infection is projected to rise. Infected patients with advanced fibrosis or
+cirrhosis are at increased risk of both liver-related and all-cause mortality,
+e.g. liver failure and HCC, and the need for liver transplantation.
+Optimising HCV treatment outcomes for patients with advanced
+liver disease remains an important objective because of the reduced
+therapeutic responses often observed in this group and the potentially
+life-threatening consequences of treatment failure.
+The pan-genotypic combination of SOF, DCV and RBV achieves
+SVR12 rates of 78 - 92% in the advanced cirrhosis cohort.40, level II-1
+Rates of SVR are 83% (95% CI 74 to 90) in patients receiving SOF/
+VEL for 12 weeks, 94% (95% CI, 87 to 98) among those on SOF/VEL
++ RBV for 12 weeks and 86% (95% CI 77 to 92) in those having SOF/
+VEL for 24 weeks.41, level I
+Treatment with SOF + DCV and SOF/VEL for genotype 2 or 3 who are
+ribavirin ineligible is recommended for 24 weeks.28
+SOF/LDV + RBV provide high rates of SVR12 for patients with
+advanced liver disease in genotype (GT) 1 and 4, including those with
+decompensated cirrhosis before or after liver transplantation.42, level I
+The above findings are summarised in Table 5.
+Table 5. Effectiveness of DAAs in Decompensated Cirrhosis of
+HCV Patients
+Treatment
+regime
+Genotype
+ChildTurcotte-
+Pugh class
+(CPS)
+Duration
+SVR
+SVR +
+RBV
+SOF + DCV
+1, 2, 3, 4, 5
+B, C
+3
+B
+C
+SOF/VEL
+1, 2, 3, 4, 6
+-
+-
+SOF/LDV
+1, 4
+B
+C
+12 weeks
+24 weeks
+24 weeks
+12 weeks
+24 weeks
+12 weeks
+24 weeks
+12 weeks
+24 weeks
+89%
+80%
+78%
+83%
+86%
+87%
+96%
+85%
+78%
+92%
+86%
+-
+94%
+-
+-
+-
+-
+-
+Management of Chronic Hepatitis C in Adults
+Recommendation 8
+• In patients with hepatitis C and decompensated cirrhosis, the
+following combination of direct-acting antivirals may be used for 12
+weeks:
+ sofosbuvir (SOF) + daclatasvir (DCV) + ribavirin (RBV)
+ sofosbuvir/velpatasvir (SOF/VEL) + RBV
+ sofosbuvir/ledipasvir + RBV (for genotype 1 and 4)
+• In patients with hepatitis C and decompensated cirrhosis with
+genotype 2 or 3 and are ribavirin ineligible, SOF + DCV and SOF/
+VEL may be given for 24 weeks.
+c. Liver transplantation
+HCV infection with advance cirrhosis or recurrence after liver
+transplantation (LT) is associated with poor outcomes. Decompensated
+liver cirrhosis due to hepatitis C infection is an indication for LT because
+of its risk of HCC. Reinfection of the grafted liver has increased risk of
+progressive disease and graft loss.
+An open label study assessed the safety and effectiveness of SOF, DCV
+and RBV on patients with chronic HCV infection of any genotype and
+either compensated/decompensated cirrhosis or post-LT recurrence. In
+patients with cirrhosis, SVR12 rates were higher in patients with CPS
+A or B (93%) vs CPS C (56%). In transplant recipients, SVR12 was
+achieved by 95%. There were no treatment-related serious adverse
+events. In post-LT patients, dose adjustment of immunosuppression
+was needed but there was no graft rejection.43, level II-3
+Another study on HCV recurrence after LT using combination of LDV
+and SOF had shown an overall SVR12 of 96%. A total of 32% of patients
+underwent adjustment in immunosuppression and one episode of mild
+rejection was observed. However, there was no graft loss attributed to
+HCV treatment.44, level II-3
+A multicentre open label trial evaluated the effectiveness and safety
+of GLE/PIB in chronic HCV treatment naive GT1 - 6 or treatment
+experience GT1, 2, 4 - 6 infection, without cirrhosis and who had
+received liver or kidney transplants for 12 weeks duration. The overall
+SVR12 was 98% and the adverse events were mostly mild and rarely
+of laboratory abnormalities.45, level II-3
+The above findings are summarised in Table 6.
+Management of Chronic Hepatitis C in Adults
+Table 6. Effectiveness of DAAs in Liver Transplant of
+HCV Patients
+Treatment
+regime
+Treatment
+naïve/experienced
+SOF + DCV
+1, 3
+-
+12 weeks
+94%
+SOF/LDV
+1
+-
+12 weeks
+94%
++
+12 weeks
+97%
+-
+24 weeks
+95%
++
+24 weeks
+100%
+GLE/PIB
+Naïve
+1 - 6
+-
+12 weeks
+98%
+Experienced
+1, 2, 4 - 6
+-
+Genotype
+Rivabirin
+Duration
+SVR
+Management of Chronic Hepatitis C in Adults
+5. SPECIAL GROUPS
+5.1 Hepatitis B Co-infection
+HBV/HCV co-infection is more common among PWID or in areas where
+these two viruses are endemic. Co-infection of HBV/HCV increases risk
+for HCC by 13.3%.46 HBV/HCV co-infected patients should be treated
+similar to HCV mono-infected once HBV status has been assessed.
+In a meta-analysis of 17 cohort studies on HBV/HCV co-infection
+receiving DAAs treatment, HBV reactivation occurred more frequently
+in patients with chronic [hepatitis B surface antigen (HBsAg)] than
+resolved [HBsAg-negative/hepatitis B core antibody (HBcAb)-positive]
+infection. The pooled proportion of patients who had HBV reactivation
+was 24% (95% CI 19 to 30) in the former and 1.4% (95% CI 0.8 to
+2.4) in the latter. In those with chronic HBV infection, the risk of HBVreactivation-related hepatitis was significantly lower in patients with
+HBV DNA below the lower limit of quantification at baseline than in
+those with quantifiable HBV DNA (RR=0.17, 95% CI 0.06 to 0.50). Thus,
+the use of antiviral prophylaxis might be warranted in HBsAg positive
+patients, particularly those with quantifiable HBV deoxyribonucleic acid
+(DNA).47, level II-2
+Antibody and Antigen Biomarkers for Hepatitis B Infection are shown
+in Table 7.
+Table 7. Antibody and Antigen Biomarkers for Hepatitis B Infection
+Source: Centres
+for
+Disease
+Control
+and
+Prevention.
+Hepatitis
+B
+Questions and Answers for Health Professionals. Available at:
+https://www.cdc.gov/hepatitis/hbv/hbvfaq.htm
+Clinical state
+HBsAg
+Total HBsAb
+Chronic infection
+Acute
+Resolved infection
+Immune
+(immunisation)
+Susceptible
+(never infected and
+no evidence of
+immunisation)
+Total HBcAb
+Isolated core
+antibody
+Negative
+Positive
+Negative
+Positive (HBc
+immunoglobulin
+M)
+Positive
+Positive
+Positive
+Negative
+Negative
+Negative
+Negative
+Positive
+Positive
+Negative
+Negative
+Negative
+Negative
+Positive
+Management of Chronic Hepatitis C in Adults
+5.2 Human Immunodeficiency Virus Co-infection
+HIV/HCV co-infected patients are at higher risk to develop liver-related
+morbidity and mortality than HCV mono-infected patients. Fewer HIV/
+HCV co-infected patients have been treated in DAAs trials; however, the
+effectiveness rates among these groups have been remarkably similar
+to the HCV mono-infected groups in the evidence discussed below.
+Treatment of HIV/HCV co-infected patients requires special attention
+due to the complexity of DDIs that can occur between DAAs and
+antiretroviral medications.
+• CPG DG suggests that antiretroviral therapy (ART) should be
+initiated first and DAAs should be delayed in patients with HIV/
+HCV co-infection. This is to allow viral suppression and to avoid the
+difficulty in recognising ADR.
+• If patients are not ready for ART, DAAs shall be considered if there
+are no contraindications.
+The DDIs are summarised in Appendix 6.
+i. Sofosbuvir + Daclatasvir
+Two studies looked at the effectiveness of SOF+DCV in HIV/HCV coinfections. In ALLY-2 study, the combination of SOF+DCV once daily
+for 12 weeks achieved SVR12 in 97% of treatment-naïve and 98%
+of treatment-experienced HIV/HCV co-infected GT1 - 4 patients. The
+combination was safe and well tolerated.48. level II-3 In another study,
+various combinations of DAAs which includes SOF+DCV (25% of
+patients) for 12 weeks were associated with 91% of SVR12 in GT1, 3
+or 4 HIV/HCV co-infections.49, level II-2
+The dose of DCV should be increased from 60 mg to 90 mg when
+used with potent inducer of cytochrome P450 (CYP) 3A4 e.g. efavirenz
+(EFV), etravirine (ETV) or nevirapine (NVP). Meanwhile it should be
+decreased from 60 mg to 30 mg when used with CYP 3A4 inhibitor
+e.g. ritonavir-boosted atazanavir, cobicistat-boosted atazanavir or
+elvitegravir/cobicistat. The usual dose of 60 mg should be used with
+ritonavir-boosted darunavir and ritonavir-boosted lopinavir.28
+ii. Sofosbuvir/Ledipasvir
+Studies had shown that SOF/LDV for 12 weeks were associated
+with high SVR12 rates of 96 - 100% in HIV/HCV co-infections.49 - 50, level II-2;
+51 - 52, level II-3 The patients included those who had previous treatment
+failure while receiving regimes that included DAAs and those with
+cirrhosis.51, level II-3 None of the studies reported clinically significant
+changes in HIV RNA levels, cluster of differentiation 4 (CD4) cell counts
+Management of Chronic Hepatitis C in Adults
+or change in estimated Glomerular Filtration Rate (eGFR). These
+findings suggested that SOF/LDV was safe and effective regime for
+HIV/HCV co-infected patients of all GTs (even though majority of the
+participants were in GT1 infection).
+LDV’s AUC decreases by 34% when co-administered with EFVcontaining regimes and increases by 96% when co-administered with
+ritonavir-boosted atazanavir. Although no dose adjustments of LDV
+are recommended to account for these interactions, the combinations
+should be used with cautions and frequent renal monitoring.28
+SOF/LDV increases tenofovir levels when given as tenofovir disoproxil
+fumarate (TDF), which may increase the risk of tenofovir-associated
+renal toxicity. This combination should be avoided in patients with an
+eGFR <60 ml/min/1.73 m2.28
+iii. Grazoprevir/Elbasvir (GZR/EBR)
+In HIV/HCV co-infections, GZR/EBR for 12 weeks:
+• ± RBV achieve SVR12 of 93 - 98% in GT153, level I
+• achieve SVR12 of 96% in GT 1, 4 and 6 including those with
+cirrhosis54, level II-3
+GZR/EBR is not compatible with any ritonavir- or cobicistat-boosted
+HIV protease inhibitor (PI), elvitegravir/cobicistat, EFV or etravirine.28
+iv. Ombitasvir/ritonavir/Paritaprevir + Dasabuvir (OrPD)
+OrPD with or without ribavirin for 12 weeks are associated with SVR12
+between 91 - 94% in HIV/HCV GT1, 3 or 4 co-infections. No
+treatment-related serious AEs occur.49 - 50, level II-2; 53, level I
+OrPD should not be given to patients:28
+• not on ART due to the potential risk for HIV PI resistance
+• on rilpivirine and EFV due to potential risk of toxicity
+OrPD is not recommended to be given together with ritonavir-boosted
+lopinavir due to high cumulative dosage of ritonavir which may induce
+severe gastrointestinal (GI) side effects.
+v. Sofosbuvir/Velpatasvir (SOF/VEL)
+SOF/VEL for 12 weeks is safe and achieves overall SVR12 of 95%
+including in compensated cirrhosis and treatment-experienced HIV/
+HCV co-infections.55, level II-3
+SOF/VEL is not recommended to be used in patients on EFV or
+etravirine. SOF/VEL increases tenofovir levels when given as TDF,
+which may increase the risk of tenofovir-associated renal toxicity. This
+combination should be used with caution with close monitoring of renal
+profile in patients with an eGFR <60 ml/min/1.73 m2.28
+Management of Chronic Hepatitis C in Adults
+vi. Sofosbuvir/Velpatasvir/Voxilaprevir (SOF/VEL/VOX)
+The SOF/VEL/VOX regime has not been studied in HIV/HCV co-infected
+patients. Despite lack of data, it is highly likely that response rates in the
+patients will be similar to those of HCV mono-infected patients.28
+Recommendation 9
+• HIV/HCV co-infections should be treated as HCV mono-infection.
+ Potential drug-drug interaction should be assessed prior to
+initiation and during treatment period.
+5.3 Haemoglobinopathy
+The prevalence of chronic HCV infection among thalassemia patients
+varies widely and can reach up to 85%.56, level II-2 HCV was transmitted
+mainly through blood transfusion before screening of blood donors was
+introduced.57, level II-2
+The EASL guidelines recommend DAAs for HCV infection in patients
+with hemoglobinopathies. However, data regarding their use are limited.14
+In a cohort study among various hemoglobinopathies (mainly
+thalassemia major, HCV GT1b with previous PEG-IFN + RBV treatment
+failure and cirrhosis) using DAAs including SOF-based regimes mainly
+SOF + DCV and SOF + LDV ± RBV, high SVR12 of 93.5% had been
+reported, similar to patients without hemoglobinopathies.57, level II-2
+The blood unit transfused in the three months before, during and three
+months after treatment did not increase in DAAs without RBV (mean unit
+transfused 3.8 vs 3.7 vs 3.8 respectively); however, it was significantly
+increased in the RBV group (3.6 vs 5.5 vs 4.0 respectively).57, level II-2
+5.4 Immune-Complex Mediated Manifestations
+HCV patients are at risk of developing extrahepatic manifestations that
+include cryoglobulinaemic vasculitis (CV). Mixed cryoglobulinaemia
+(MC) is a clonal disorder of B cells with a strong association to HCV
+infection. HCV can lead to systemic vasculitis with immune complex
+formation and deposition. Current therapeutic approaches are aimed at
+elimination of HCV infection, removal of cryoglobulins and expansion
+of B-cell clonal.
+Patients with HCV-associated cryoglobulinemia treated with DAAs
+show significant improvement in:
+• virological response58, level II-3
+• biochemical response58, level II-3; 59 - 61, level II-2
+• clinical response59 - 60, level II-2
+Management of Chronic Hepatitis C in Adults
+• immune response58, level II-3; 59 - 61, level II-2
+• complete response58, level II-3
+• Model for End-Stage Liver Disease (MELD) score59, level II-2
+DAAs are safe in HCV-related mixed cryoglobulinaemia60, level II-2 with
+mild adverse events (AEs).58, level II-3; 59, level II-2
+Recommendation 10
+• Patients with hepatitis C virus-associated cryoglobulinemia should
+be treated with direct-acting antivirals.
+5.5 Chronic Kidney Disease/End-Stage Renal Disease
+HCV infection in chronic kidney disease (CKD) is associated with
+increased liver-related morbidity and mortality rates, accelerated
+progression to end-stage renal disease and risk of cardiovascular
+events.
+A meta-analysis of 21 cohort studies of moderate quality showed
+that regime including SOF could be proposed for HCV-infected CKD
+patients with or without HD and should be associated with close clinical,
+biological, cardiovascular and therapeutic drug monitoring.62, level II-2
+Studies showed that a once-daily oral regime of GZV/EBR for 12 weeks
+achieved high rates of SVR 97.4 - 99 % and had an acceptable safety
+profile in patients with HCV genotype 1 infection and advanced CKD
+with or without dialysis.63 - 64, level I
+Treatment with GLE/PIB for 12 weeks resulted in an SVR of 98% (95%
+95 to 100) in patients with stage 4 or 5 CKD and HCV infection.65, level II-3
+• Patients with renal impairment (eGFR <30 ml/min/1.73 m2) or
+those with ESRD on dialysis, SOF-free regime should be preferred.
+If there is no other choice, SOF-based regime may be used with
+close monitoring and treatment should be rapidly interrupted if renal
+function deteriorates.14
+5.6 Pregnancy
+Treatment of hepatitis C should not be initiated until pregnancy has
+been excluded due to the lack of safety and efficacy data.28
+Management of Chronic Hepatitis C in Adults
+5.7 Acute Hepatitis C
+Most patients with acute hepatitis C are asymptomatic. Spontaneous
+viral clearance varies from 14% to 50%. A minimum of six months of
+monitoring for spontaneous clearance is recommended before deciding
+to initiate treatment. If decision is to initiate treatment during the acute
+infection period, HCV RNA monitoring for at least 12 to 16 weeks before
+starting treatment is recommended. Patients who spontaneously clear
+after acute hepatitis C, antiviral treatment is not recommended.28
+Treatment recommendation is as described for chronic hepatitis C
+treatment.
+Recommendation 11
+• Patients with acute hepatitis C should be monitored for six months
+for spontaneous viral clearance before initiating treatment.
+ Those who achieve spontaneous clearance should not be treated
+with antiviral.
+5.8 Hepatitis C in Children and Adolescents
+The United Nations Convention on the Rights of the Child defines
+a child as an individual below the age of 18 years; WHO defines an
+adolescent as a person between the ages of 10 and 19. Mother-toinfant transmission is the major route of infection in children while the
+adolescents are at risk of infection via injecting drug use.
+There are numerous trials of PEG-IFN and RBV in children. However,
+current treatment options with DAAs are limited. The use of SOF/LDV
+for 12 weeks in children ages 12 - 17, weighing greater than 35 kg
+(genotype 1, 4, 5 and 6) have resulted in SVR rate of 98%. Combination
+of SOF and RBV has also been proposed for genotypes 2 and 3 for
+adolescents.11; 14
+Adolescents aged ≥12 years, infected with genotype 2 or 3, who are
+treatment-naïve or treatment-experienced, without cirrhosis or with
+compensated cirrhosis (CPS A) can be treated with other regimens
+approved for adults, with caution pending on more safety data in this
+population.11; 14
+In children younger than 12 years, treatment should be deferred until
+DAAs, including pangenotypic regimens, are approved for this age
+group.11; 14
+Management of Chronic Hepatitis C in Adults
+6. MONITORING
+The frequency of routine laboratory investigations and toxicity
+monitoring can be limited at the start and end of treatment since the
+DAAs are well tolerated.11
+6.1 During and End of Treatment
+The frequency of routine laboratory monitoring (LFT, serum creatinine)
+shall be limited at week 4 and 12 weeks post-DAAs treatment.11
+Besides these clinic visits, regular review by treating team is highly
+recommended to ensure compliance.
+More frequent monitoring e.g. FBC for drug-related AEs is necessary
+for those treated with RBV.11; 28
+In patients who need RBV, the dose should be adjusted downward
+by 200 mg in decrement if the Hb level drops below 10 g/dL. RBV
+administration should be stopped if the level drops below 8.5 g/dL.14
+A 10-fold increase in ALT activity at any time during DAAs treatment
+should prompt its discontinuation. An increase in ALT <10-fold that
+is accompanied by any clinical symptoms (e.g. weakness, nausea,
+vomiting, jaundice) or biochemical derangements (increased bilirubin,
+alkaline phosphatase or INR) should also prompt discontinuation
+of treatment. Asymptomatic increases in ALT <10-fold should be
+closely monitored with repeat ALT testing at 2-week intervals. If the
+levels remain persistently elevated, consideration should be given to
+discontinuation of treatment.28
+HIV/HCV
+co-infection,
+HBV/HCV
+co-infection,
+cirrhosis,
+renal
+impairment, presence of potential DDIs and ill-health patients may also
+necessitate more frequent monitoring.11 Increment of indirect bilirubin
+should be monitored in patients receiving OrPD. Renal function should
+be checked monthly in patients with reduced eGFR receiving SOF.14
+HCV RNA should be tested at 12 weeks post-treatment to assess the
+effectiveness of the DAAs.
+Management of Chronic Hepatitis C in Adults
+• Caution on risk of decompensation (first or worsening) in the following
+group of patients during DAAs treatment:66, level II-3
+ GT3 cirrhosis
+ CPS of B or C
+ albumin level <35 g/L
+• Nucleic acid testing for qualitative or quantitative detection of HCV
+RNA should be used as test of cure at 12 or 24 weeks (i.e. SVR12 or
+SVR24) after completion of antiviral treatment.17
+• Undetectable HCVcAg at 24 weeks (SVR24) after the end of
+treatment can be used as an alternative endpoint of therapy, if HCV
+RNA assays are not available and/or not affordable.14
+Recommendation 10
+• Routine laboratory monitoring* shall be limited at week 4 of treatment
+and 12 weeks post-direct-acting antiviral treatment for hepatitis C.
+ Additional monitoring for full blood count should be done for
+hepatitis C patients treated with ribavirin.
+*LFT and serum creatinine
+6.2 Post-Treatment
+Following DAAs completion, treatment effectiveness should be
+determined by SVR12. However, periodic viraemia testing is
+recommended for patients with ongoing risk of re-infection.39, level III
+Patients who have achieved SVR should be discharged if they have all
+of the following:
+• no cirrhosis
+• no ongoing risk behaviour
+• no other co-morbidities
+Advanced fibrosis and cirrhosis significantly increase the risk of HCC
+by 5- and 27-fold respectively, regardless of treatment status.67, level II-2
+Patients with cirrhosis with SVR should undergo surveillance for HCC
+6-monthly by ultrasound.14 In local setting, alpha-fetoprotein is also
+done routinely for the same surveillance.
+Patients who have achieved SVR should also be counselled
+regarding sources of liver injury (e.g. alcohol, fatty liver, other potential
+hepatotoxins), which can independently contribute to liver fibrosis
+progression. They should be evaluated if serum levels of liver enzymes
+are raised.39, level III
+Management of Chronic Hepatitis C in Adults
+In patients with cirrhosis, surveillance for oesophageal varices should
+be performed if varices are present at pre-treatment endoscopy.14
+In PWID, the incidence of persistent re-infection is 1.7/100 person-years
+(95% CI 0.8 to 3.1) among individuals with injecting drug use (IDU)
+prior to treatment and 4.9/100 person-years (95% CI 2.3 to 8.9) among
+those who has relapsed to IDU after treatment. Low education level
+(OR=3.64, 95% CI 1.44 to 9.18) and lower age (<30 years) at treatment
+(OR=7.03, 95% CI 1.78 to 27.8) are associated with relapse to IDU.68, level II-2
+Thus, special consideration, e.g. harm reduction programme, should
+be made available following successful HCV treatment in PWID as reinfection is possible with ongoing risk exposure.
+Recommendation 11
+• Hepatitis C virus (HCV) RNA should be used to assess the sustained
+virological response (SVR) 12 weeks post-direct-acting antivirals.
+ HCV core antigen (HCVcAg) at 24 weeks (SVR24) may be used
+as an alternative.
+• Screening for early detection of hepatocellular carcinoma should be
+continued 6-monthly for all cirrhotic hepatitis C patients.
+6.3 Treatment Failure
+For patients who have failed to achieve SVR12 (treatment failure) and
+those who have not received treatment, regular follow-up should be
+offered. Non-invasive methods for staging fibrosis are best suited in
+the assessment at intervals of one to two years. HCC surveillance
+6-monthly must be continued indefinitely in patients with advanced
+fibrosis (F3) and cirrhosis.14
+Management of Chronic Hepatitis C in Adults
+7. REFERRAL CRITERIA
+There is no retrievable evidence on referral criteria for patients with
+HCV. Based on the consensus of CPG DG, patients with the following
+features should be referred to centres with Gastroenterologists and
+Hepatologists for further management:
+• cirrhosis
+• treatment failure
+• hepatitis B co-infection
+• CKD stage 4 and 5
+• extrahepatic manifestation
+• haemoglobinopathies
+• solid organ transplantation
+8. IMPLEMENTING THE GUDELINES
+Hepatitis C treatment with DAAs is new in Malaysia and experience
+on it is limited. It is important to implement this CPG as a guidance in
+providing quality healthcare services based on best available evidence
+applied to local scenario and expertise.
+8.1 Facilitating and Limiting Factors
+The facilitating factors in implementing the CPG are:
+i. availability of CPG to healthcare providers (hardcopies and
+softcopies)
+ii. conferences and updates on management of hepatitis C which
+may involve professional societies e.g. Malaysian Society of
+Gastroenterology & Hepatology, Malaysian Association of HIV
+Medicine, Malaysian Family Medicine Specialist Association,
+Malaysian Pharmaceutical Society, etc.
+iii. public awareness hepatitis campaign which may involve other
+government agencies and non-governmental organisations e.g.
+World Hepatitis Day
+Limiting factors in the CPG implementation include:
+i. limited awareness and knowledge in the management of hepatitis
+C among healthcare providers
+ii. different levels of hepatitis C care due to expertise, drugs,
+laboratory and radiology facilities
+iii. challenges in managing hepatitis C with/in:
+• renal failure
+• thalassemia
+• on-going risk factors
+• incarcerated population
+• DAAs resistance
+Management of Chronic Hepatitis C in Adults
+8.2 Potential Resource Implications
+To implement the CPG, there must be strong commitments to:
+i. ensure widespread distribution of CPG to healthcare providers via
+printed copies and online accessibility
+ii. reinforce training of healthcare providers via regular seminars and
+workshops
+iii. involve multidisciplinary team at all levels of health care
+iv. improve the diagnostic and therapeutic facilities
+v. train more experts in the field of hepatitis C
+vi. strengthen the hepatitis C registry
+To assist in the implementation of the CPG, the following are proposed
+as clinical audit indicators for quality management:
+*Target ≥70%
+Implementation strategies will be developed following the approval of
+the CPG by MoH which include Quick Reference and Training Module.
+=
+X 100%
+• Percentage of
+hepatitis C patients
+(confirmed viraemia)
+initiated with DAAs
+within a year*
+Total number of hepatitis C patients
+(confirmed viraemia)
+in the same period
+Number of hepatitis C patients
+(confirmed viraemia) initiated with
+DAAs within a year in a period
+Management of Chronic Hepatitis C in Adults
+REFERENCES
+1.
+Hepatitis C (Available at: https://www.who.int/en/news-room/fact-sheets/detail/hepatitis-c).
+2.
+McDonald SA, Dahlui M, Mohamed R, et al. Projections of the current and
+future disease burden of hepatitis C virus infection in Malaysia. PLoS One.
+2015;10(6):e0128091.
+3.
+McDonald SA, Mohamed R, Dahlui M, et al. Bridging the data gaps in the
+epidemiology of hepatitis C virus infection in Malaysia using multi-parameter
+evidence synthesis. BMC Infect Dis. 2014;14:564.
+4.
+McDonald SA, Azzeri A, Shabaruddin FH, et al. Projections of the Healthcare
+Costs and Disease Burden due to Hepatitis C Infection under Different
+Treatment Policies in Malaysia, 2018-2040. Appl Health Econ Health Policy.
+2018;16(6):847-57.
+5.
+Ho SH, Ng KP, Kaur H, et al. Genotype 3 is the predominant hepatitis C genotype
+in a multi-ethnic Asian population in Malaysia. Hepatobiliary Pancreat Dis Int.
+2015;14(3):281-6.
+6.
+Ministry of Health Malaysia. Hepatitis C Screening, Testing and Treatment
+Guidelines. Putrajaya: MoH; 2017.
+7.
+Brook G, Brockmeyer N, van de Laar T, et al. 2017 European guideline for the
+screening, prevention and initial management of hepatitis B and C infections in
+sexual health settings. Int J STD AIDS. 2018;29(10):949-67.
+8.
+Shepard CW, Finelli L, Alter MJ. Global epidemiology of hepatitis C virus
+infection. Lancet Infect Dis. 2005;5(9):558-67.
+9.
+Nur Farhana M, Izzuna Mudla MG, Junainah S, et al. Hepatitis B and Hepatitis
+C Screening Among High Risk Groups. Technology Review Report. Ministry of
+Health Malaysia. 2018. Report No.: 016/2017.
+10. Jones L, Bates G, McCoy E, et al. Effectiveness of interventions to increase
+hepatitis C testing uptake among high-risk groups: a systematic review. Eur J
+Public Health. 2014;24(5):781-8.
+11. World Health Organization. Guidelines for The Care and Treatment of Persons
+Diagnosed with Chronic Hepatitis C Virus Infection. Geneva: WHO; 2018.
+12. Mane A, Sacks J, Sharma S, et al. Evaluation of five rapid diagnostic tests for
+detection of antibodies to hepatitis C virus (HCV): A step towards scale-up of
+HCV screening efforts in India. PLoS One. 2019;14(1):e0210556.
+13. WHO Prequalification of In Vitro Diagnostics (Public Report) Product: SD
+BIOLINE HCV WHO reference number: PQDx 0257-012-00 (Available at:
+https://www.who.int/diagnostics_laboratory/evaluations/pq-list/hcv/170309_
+amended_final_pr_0257-012-00_v5.pdf?ua=1ITP01152-TC40).
+14. European Association for the Study of the Liver. EASL Recommendations on
+Treatment of Hepatitis C 2018. J Hepatol. 2018;69(2):461-511.
+15. Lamoury FMJ, Soker A, Martinez D, et al. Hepatitis C virus core antigen: A
+simplified treatment monitoring tool, including for post-treatment relapse. J Clin
+Virol. 2017;92:32-8.
+16. Loggi E, Galli S, Vitale G, et al. Monitoring the treatment of hepatitis C with
+directly acting antivirals by serological and molecular methods. PLoS One.
+2017;12(11):e0187755.
+17. World Health Organization. Guidelines on Hepatitis B and C Testing. Geneva:
+WHO; 2017.
+18. Wasitthankasem R, Vichaiwattana P, Auphimai C, et al. HCV core antigen
+is an alternative marker to HCV RNA for evaluating active HCV infection:
+implications for improved diagnostic option in an era of affordable DAAs. PeerJ.
+2017;5:e4008.
+Management of Chronic Hepatitis C in Adults
+19. Kesli R, Polat H, Terzi Y, et al. Comparison of a newly developed automated
+and quantitative hepatitis C virus (HCV) core antigen test with the HCV RNA
+assay for clinical usefulness in confirming anti-HCV results. J Clin Microbiol.
+2011;49(12):4089-93.
+20. Ministry of Health Malaysia. Case Definitions for Infectious Diseases in Malaysia.
+Putrajaya: MoH; 2017.
+21. Smith JO, Sterling RK. Systematic review: non-invasive methods of fibrosis
+analysis in chronic hepatitis C. Aliment Pharmacol Ther. 2009;30(6):557-76.
+22. Kelly EMM, Feldstein VA, Parks M, et al. An Assessment of the Clinical Accuracy
+of Ultrasound in Diagnosing Cirrhosis in the Absence of Portal Hypertension.
+Gastroenterol Hepatol (N Y). 2018;14(6):367-73.
+23. Kamal MM, Niazi M, Umar M. Sensitivity and Specificity of Ultrasonography
+in the Early Diagnosis of Liver Fibrosis Stage in Patients with Chronic Liver
+Disease. Ann Pak Inst Med Sci. 2009;5(4):237-41.
+24. Wang JH, Changchien CS, Hung CH, et al. FibroScan and ultrasonography
+in the prediction of hepatic fibrosis in patients with chronic viral hepatitis. J
+Gastroenterol. 2009;44(5):439-46.
+25. Moustafa EF, Makhlouf N, Hassany SM, et al. Non-invasive assessment of liver
+fibrosis in patients with hepatitis C: Shear wave elastography and colour Doppler
+velocity profile technique versus liver biopsy. Arab J Gastroenterol. 2017;18(1):612.
+26. Bohte AE, de Niet A, Jansen L, et al. Non-invasive evaluation of liver fibrosis: a
+comparison of ultrasound-based transient elastography and MR elastography in
+patients with viral hepatitis B and C. Eur Radiol. 2014;24(3):638-48.
+27. Dieperink E, Fuller B, Isenhart C, et al. Efficacy of motivational enhancement
+therapy on alcohol use disorders in patients with chronic hepatitis C: a
+randomized controlled trial. Addiction. 2014;109(11):1869-77.
+28. AASLD-IDSA HCV Guidance Panel. Hepatitis C Guidance 2018 Update:
+AASLD-IDSA Recommendations for Testing, Managing, and Treating Hepatitis
+C Virus Infection. Clin Infect Dis. 2018;67(10):1477-92.
+29. Kondili LA, Gaeta GB, Ieluzzi D, et al. Real-life data on potential drug-drug
+interactions in patients with chronic hepatitis C viral infection undergoing
+antiviral therapy with interferon-free DAAs in the PITER Cohort Study. PLoS
+One. 2017;12(2):e0172159.
+30. Vermehren J, Peiffer KH, Welsch C, et al. The efficacy and safety of direct
+acting antiviral treatment and clinical significance of drug-drug interactions in
+elderly patients with chronic hepatitis C virus infection. Aliment Pharmacol Ther.
+2016;44(8):856-65.
+31. Falade-Nwulia O, Suarez-Cuervo C, Nelson DR, et al. Oral Direct-Acting Agent
+Therapy for Hepatitis C Virus Infection: A Systematic Review. Ann Intern Med.
+2017;166(9):637-48.
+32. Zeuzem S, Foster GR, Wang S, et al. Glecaprevir-Pibrentasvir for 8 or 12 Weeks
+in HCV Genotype 1 or 3 Infection. N Engl J Med. 2018;378(4):354-69.
+33. Asselah T, Kowdley KV, Zadeikis N, et al. Efficacy of Glecaprevir/Pibrentasvir for
+8 or 12 Weeks in Patients with Hepatitis C Virus Genotype 2, 4, 5, or 6 Infection
+Without Cirrhosis. Clin Gastroenterol Hepatol. 2018;16(3):417-26.
+34. Thein HH, Yi Q, Dore GJ, et al. Estimation of stage-specific fibrosis progression
+rates in chronic hepatitis C virus infection: a meta-analysis and meta-regression.
+Hepatology. 2008;48(2):418-31.
+35. Poynard T, Bedossa P, Opolon P. Natural history of liver fibrosis progression
+in patients with chronic hepatitis C. The OBSVIRC, METAVIR, CLINIVIR, and
+DOSVIRC groups. Lancet. 1997;349(9055):825-32.
+Management of Chronic Hepatitis C in Adults
+36. Zipprich A, Garcia-Tsao G, Rogowski S, et al. Prognostic indicators of
+survival in patients with compensated and decompensated cirrhosis. Liver Int.
+2012;32(9):1407-14.
+37. D’Amico G, Garcia-Tsao G, Pagliaro L. Natural history and prognostic
+indicators of survival in cirrhosis: a systematic review of 118 studies J Hepatol.
+2006;44(1):217-31.
+38. Forns X, Lee SS, Valdes J, et al. Glecaprevir plus pibrentasvir for chronic
+hepatitis C virus genotype 1, 2, 4, 5, or 6 infection in adults with compensated
+cirrhosis (EXPEDITION-1): a single-arm, open-label, multicentre phase 3 trial.
+Lancet Infect Dis. 2017;17(10):1062-8.
+39. Jacobson IM, Lim JK, Fried MW. American Gastroenterological Association
+Institute Clinical Practice Update-Expert Review: Care of Patients Who Have
+Achieved a Sustained Virologic Response After Antiviral Therapy for Chronic
+Hepatitis C Infection. Gastroenterology. 2017;152(6):1578-87.
+40. Welzel TM, Petersen J, Herzer K, et al. Daclatasvir plus sofosbuvir, with or
+without ribavirin, achieved high sustained virological response rates in patients
+with HCV infection and advanced liver disease in a real-world cohort. Gut.
+2016;65(11):1861-70.
+41. Curry MP, O’Leary JG, Bzowej N, et al. Sofosbuvir and Velpatasvir for HCV in
+Patients with Decompensated Cirrhosis. N Engl J Med. 2015;373(27):2618-28.
+42. Manns M, Samuel D, Gane EJ, et al. Ledipasvir and sofosbuvir plus ribavirin
+in patients with genotype 1 or 4 hepatitis C virus infection and advanced liver
+disease: a multicentre, open-label, randomised, phase 2 trial. Lancet Infect Dis.
+2016;16(6):685-97.
+43. Poordad F, Schiff ER, Vierling JM, et al. Daclatasvir with sofosbuvir and ribavirin
+for hepatitis C virus infection with advanced cirrhosis or post-liver transplantation
+recurrence. Hepatology. 2016;63(5):1493-505.
+44. Kwok RM, Ahn J, Schiano TD, et al. Sofosbuvir plus ledispasvir for recurrent
+hepatitis C in liver transplant recipients. Liver Transpl. 2016;22(11):1536-43.
+45. Reau N, Kwo PY, Rhee S, et al. Glecaprevir/Pibrentasvir Treatment in Liver
+or Kidney Transplant Patients With Hepatitis C Virus Infection. Hepatology.
+2018;68(4):1298-307.
+46. Tsai JF, Jeng JE, Ho MS, et al. Effect of hepatitis C and B virus infection on risk of
+hepatocellular carcinoma: a prospective study. Br J Cancer. 1997;76(7):968-74.
+47. Mücke MM, Backus LI, Mücke VT, et al. Hepatitis B virus reactivation during
+direct-acting antiviral therapy for hepatitis C: a systematic review and metaanalysis. Lancet Gastroenterol Hepatol. 2018;3(3):172-80.
+48. Wyles DL, Ruane PJ, Sulkowski MS, et al. Daclatasvir plus Sofosbuvir for HCV
+in Patients Coinfected with HIV-1. N Engl J Med. 2015;373(8):714-25.
+49. Milazzo L, Lai A, Calvi E, et al. Direct-acting antivirals in hepatitis C virus (HCV)-
+infected and HCV/HIV-coinfected patients: real-life safety and efficacy. HIV Med.
+2017;18(4):284-91.
+50. Hawkins C, Grant J, Ammerman LR, et al. High rates of hepatitis C virus (HCV)
+cure using direct-acting antivirals in HIV/HCV-coinfected patients: a real-world
+perspective. J Antimicrob Chemother. 2016;71(9):2642-5.
+51. Naggie S, Cooper C, Saag M, et al. Ledipasvir and Sofosbuvir for HCV in
+Patients Coinfected with HIV-1. N Engl J Med. 2015;373(8):705-13.
+52. Osinusi A, Townsend K, Kohli A, et al. Virologic response following combined
+ledipasvir and sofosbuvir administration in patients with HCV genotype 1 and
+HIV co-infection. JAMA. 2015;313(12):1232-9.
+53. Sulkowski MS, Eron JJ, Wyles D, et al. Ombitasvir, paritaprevir co-dosed with
+ritonavir, dasabuvir, and ribavirin for hepatitis C in patients co-infected with HIV1: a randomized trial. JAMA. 2015;313(12):1223-31.
+Management of Chronic Hepatitis C in Adults
+54. Rockstroh JK, Nelson M, Katlama C, et al. Efficacy and safety of grazoprevir
+(MK-5172) and elbasvir (MK-8742) in patients with hepatitis C virus and HIV coinfection (C-EDGE CO-INFECTION): a non-randomised, open-label trial. Lancet
+HIV. 2015;2(8):e319-27. Erratum in: Lancet HIV. 2015;2(8):e316. Lancet HIV.
+2015;2(10):e416.
+55. Wyles D, Bräu N, Kottilil S, et al. Sofosbuvir and Velpatasvir for the Treatment
+of Hepatitis C Virus in Patients Coinfected with Human Immunodeficiency Virus
+Type 1: An Open-Label, Phase 3 Study. Clin Infect Dis. 2017;65(1):6-12.
+56. Prati D, Zanella A, Farma E, et al. A multicenter prospective study on the risk of
+acquiring liver disease in anti-hepatitis C virus negative patients affected from
+homozygous beta-thalassemia. Blood. 1998;92(9):3460-4.
+57. Origa R, Ponti ML, Filosa A, et al. Treatment of hepatitis C virus infection
+with direct-acting antiviral drugs is safe and effective in patients with
+hemoglobinopathies. Am J Hematol. 2017;92(`12):1349-55.
+58. Lauletta G, Russi S, Pavone F, et al. Direct-acting antiviral agents in the therapy
+of hepatitis C virus-related mixed cryoglobulinaemia: a single-centre experience.
+Arthritis Res Ther. 2017;19(1):74.
+59. Gragnani L, Visentini M, Fognani E, et al. Prospective study of guideline-tailored
+therapy with direct-acting antivirals for hepatitis C virus-associated mixed
+cryoglobulinemia. Hepatology. 2016;64(5):1473-82.
+60. Bonacci M, Lens S, Londoño MC, et al. Virologic, Clinical, and Immune Response
+Outcomes of Patients with Hepatitis C Virus-Associated Cryoglobulinemia
+Treated with Direct-Acting Antivirals. Clin Gastroenterol Hepatol. 2017;15(4):57583.e1.
+61. Emery JS, Kuczynski M, La D, et al. Efficacy and Safety of Direct Acting
+Antivirals for the Treatment of Mixed Cryoglobulinemia. Am J Gastroenterol.
+2017;112(8):1298-308.
+62. Li M, Chen J, Fang Z, et al. Sofosbuvir-based regimen is safe and effective for
+hepatitis C infected patients with stage 4-5 chronic kidney disease: a systematic
+review and meta-analysis. Virol J. 2019;16(1):34.
+63. Bruchfeld A, Roth D, Martin P, et al. Elbasvir plus grazoprevir in patients with
+hepatitis C virus infection and stage 4-5 chronic kidney disease: clinical,
+virological, and health-related quality-of-life outcomes from a phase 3, multicentre,
+randomised, double-blind, placebo-controlled trial Lancet Gastroenterol Hepatol
+2017;2(8):585-59.
+64. Roth D, Nelson DR, Bruchfeld A, et al. Grazoprevir plus elbasvir in treatmentnaive and treatment-experienced patients with hepatitis C virus genotype
+1 infection and stage 4-5 chronic kidney disease (the C-SURFER study): a
+combination phase 3 study. Lancet. 2015;386(10003):1537-45. Erratum in:
+Lancet. 2015;386(10006):1824.
+65. Gane E, Lawitz E, Pugatch D, et al. Glecaprevir and Pibrentasvir in Patients with
+HCV and Severe Renal Impairment. N Engl J Med. 2017;377(15):1448-55.
+66. Maan R, van Tilborg M, Deterding K, et al. Safety and Effectiveness of DirectActing Antiviral Agents for Treatment of Patients with Chronic Hepatitis C Virus
+Infection and Cirrhosis. Clin Gastroenterol Hepatol. 2016;14(12):1821-30.e6.
+67. Lu M, Li J, Rupp LB, et al. Hepatitis C treatment failure is associated with
+increased risk of hepatocellular carcinoma. J Viral Hepat. 2016;23(9):718-29.
+68. Midgard H, Bjøro B, Mæland A, al e. Hepatitis C reinfection after sustained
+virological response. J Hepatol. 2016;64(5):1020-6.
+Management of Chronic Hepatitis C in Adults
+Appendix 1
+EXAMPLE OF SEARCH STRATEGY
+Clinical Question: What are the safe and effective pharmacological
+treatments for chronic hepatitis C?
+1.
+HEPATITIS C, CHRONIC/
+2.
+(hepatitis c adj2 chronic).tw.
+3.
+1 or 2
+4.
+DRUG THERAPY/
+5.
+chemoterap*.tw.
+6.
+(drug adj1 therap*).tw.
+7.
+English therap*.tw.
+8.
+4 or 5 or 6 or 7
+9.
+ANTIVIRAL AGENTS/
+10. (antiviral adj1 (agent* or drug*)).tw.
+11. antiviral*.tw.
+12. 9 or 10 or 11
+13. direct.tw.
+14. 12 and 13
+15. RIBAVIRIN/
+16. rebetol.tw.
+17. ribavirin.tw.
+18. copegus.tw.
+19. 15 or 16 or 17 or 18
+20. 8 or 14 or 19
+21. 3 and 20
+22. limit 21 to (“all adult (19 plus years)” and English and humans and
+last 10 years)
+23. limit 22 to systematic reviews
+Management of Chronic Hepatitis C in Adults
+Appendix 2
+CLINICAL QUESTIONS
+A.
+Screening and Diagnosis
+• Who should be screened for hepatitis C?
+• What are the accurate screening tests for hepatitis C?
+• What are the accurate confirmatory tests for hepatitis C?
+• What are the accurate tests to assess severity of liver disease
+in chronic hepatitis C?
+B.
+Treatment
+• What are the safe and effective non-pharmacological
+treatments for chronic hepatitis C?
+• What are the safe and effective pharmacological treatments for
+chronic hepatitis C?
+• What are the safe and effective pharmacological treatments for
+chronic hepatitis C with decompensated liver cirrhosis?
+C.
+Special Groups
+• What are the safe and effective treatments in special groups of
+chronic hepatitis C?
+ hepatitis B co-infection
+ HIV co-infection
+ chronic kidney disease/end-stage kidney disease
+ haemoglobinopathy
+ immune complex-mediated manifestations
+ transplant
+ pregnancy
+• What are the safe and effective management in acute hepatitis C?
+D.
+Monitoring and Follow-up
+• What is the optimal monitoring and follow-up for chronic
+hepatitis C patients with the following conditions?
+ DAAs
+ Sustained virological response (SVR)
+ No SVR
+ Untreated
+E.
+Referral
+• What are the referral criteria for chronic hepatitis C patients?
+Management of Chronic Hepatitis C in Adults
+Appendix 3
+LABORATORY WORK FLOW FOR DIAGNOSIS OF HCV
+INFECTION
+Notes:
+1. For previous known anti-HCV antibody reactive, proceed with HCV Ag
+2. Follow manufacturer’s recommendation
+HCV antibody screening
+Detected
+HCV RNA
+PCR
+Report as
+Active HCV infection
+Not Detected
+RDT/
+EIA
+Non-Reactive
+Non-Reactive
+Reactive
+Report as Anti-HCV
+Antibody Non-Reactive
+Reactive1/Indeterminate
+HCV
+Core
+Antigen2
+• Report as Anti-HCV Antibody
+Reactive/Indeterminate, HCV
+Antigen Non-Reactive
+• Send new sample for HCV
+RNA PCR
+• Report in IU/ml AND log
+• Report as Active HCV infection
+Report as no active
+HCV infection
+Management of Chronic Hepatitis C in Adults
+Appendix 4
+DIRECT-ACTING ANTIVIRALS REGIME AND DURATION IN NON-CIRRHOTIC/COMPENSATED CIRRHOTIC PATIENTS
+Liver status
+Non-cirrhotic
+Cirrhotic (compensated)
+Prior
+treatment
+exposure
+Treatment-naïve
+Treatment-experienced~
+Treatment-naïve
+Treatment-experienced~
+Genotype
+1a
+1b
+2
+3
+4
+5 6 1a
+1b
+2
+3
+4
+5 6 1a
+1b
+2
+3
+4
+5 6
+1a
+1b
+2
+3
+4
+5
+6
+Treatment
+Duration (weeks)
+SOF/DCV
+12
+12
+12
+12
+12
+12
+*12
+/24
+12
+12
+24
+24
+24
+12
+12
+12
+*
+24
+12
+12
+24
+12
+12 /16
+/24
+*
+24
+24
+24
+SOF/LDV
+^
+8/
+12
+^
+8/
+12
+-
+-
+12
+12
+12
+12
+-
+-
+12
+12
+12
+12
+-
+-
+12
+12
+*
+12
+12
+-
+-
+*
+12
+-
+SOF/VEL
+12
+12
+12
+12
+12
+12
+12
+12
+12
+12
+12
+12
+12
+12
+12
+12
+12
+12
+12
+12
+12
+*
+12
+12
+12
+GZR/EBR
+12
+12
+-
+-
+12
+-
+12
+12
+-
+-
+@
+12
+-
+12
+12
+-
+-
+12
+-
+12
+12
+-
+-
+@
+12
+-
+GLE /PIB
+8
+8
+8
+8
+8
+8
+8
+8
+8
+12
+/16
+8
+8
+12
+12
+12
+12
+12
+12
+12
+12
+12
+16
+12
+12
+OrPD
+*
+12
+$
+8/
+12
+-
+-
+-
+-
+*
+12
+12
+-
+-
+-
+-
+-
+12
+-
+-
+-
+-
+-
+12
+-
+-
+-
+-
+SOF/VEL/VOX
+-
+-
+-
+-
+-
+-
+-
+-
+12
+-
+-
+-
+-
+-
+-
+12
+-
+-
+-
+-
+-
+12
+-
+-
+~Treatment- experienced: Only refer to PEG-IFN/ RBV- experienced patient
+^Eight weeks treatment if patient is non-black, HIV-uninfected, and HCV RNA level is <6 million IU/mL
+$Eight weeks treatment if METAVIR F0-2; 12 weeks treatment if METAVIR F3
+*Use with RBV
+@Only for virologic relapse patient
+Source:
+• AASLD-IDSA HCV Guidance Panel. Hepatitis C Guidance 2018 Update: AASLD-IDSA Recommendations for Testing, Managing, and Treating
+Hepatitis C Virus Infection. Clin Infect Dis. 2018;67(10):1477-1492
+• European Association for the Study of the Liver. EASL Recommendations on Treatment of Hepatitis C 2018. J Hepatol. 2018;69(2):461-511
+• European Association for the Study of the Liver. EASL Recommendations on Treatment of Hepatitis C 2016. J Hepatol. 2017;66(1):153-194
+Management of Chronic Hepatitis C in Adults
+Appendix 5
+DOSAGE FORM, ADMINISTRATION AND COMMON SIDE
+EFFECTS OF DIRECT-ACTING ANTIVIRALS IN MALAYSIA
+Source:
+1. AASLD-IDSA HCV Guidance Panel. Hepatitis C Guidance 2018 Update: AASLDIDSA Recommendations for Testing, Managing, and Treating Hepatitis C Virus
+Infection. Clin Infect Dis. 2018;67(10):1477-1492
+2. European Association for the Study of the Liver. EASL Recommendations on
+Treatment of Hepatitis C 2016. J Hepatol. 2017;66(1):153-194
+3. European Association for the Study of the Liver. EASL Recommendations on
+Treatment of Hepatitis C 2018. J Hepatol. 2018;69(2):461-511
+Sofosbuvir (400 mg)
+Headache,
+fatigue,
+nausea,
+diarrhoea
+Daclatasvir (60 mg)
+Fixed-dose sofosbuvir (400
+mg)/ledipasvir (90 mg)
+Fixed-dose sofosbuvir (400
+mg)/velpatasvir (100 mg)
+Fixed-dose elbasvir (50
+mg)/grazoprevir (100 mg)
+One tablet once daily
+Fixed-dose glecaprevir (300
+mg)/pibrentasvir (120 mg)
+Fixed-dose paritaprevir (150
+mg)/ritonavir (100 mg)/ombitasvir
+mg)
+Pruritus, fatigue,
+nausea
+Dasabuvir (250 mg)
+Fixed-dose sofosbuvir (400
+mg)/velpatasvir (100 mg)/voxilaprevir
+(100 mg)
+Ribavirin (200 mg)
+Dosage Form
+Administration
+Common side
+effects
+One tablet once daily
+One tablet once daily
+One tablet once daily
+One tablet once daily
+Three tablets once daily
+Two tablets once daily
+One tablet twice daily
+One tablet once daily
+Headache,
+fatigue, diarrhoea,
+anaemia, insomnia,
+nausea
+Daily weight-based:
+(less if dose
+reduction needed)
+>75 kg: 1200 mg/day in
+2 divided doses
+<75 kg: 1000 mg/day in
+2 divided doses
+For decompensated
+cirrhosis:
+Recommended to start
+with 600 mg/day and
+titrate accordingly
+Fatigue, nausea,
+anaemia, headache
+*Most of the side
+effects are reported
+during the
+combination
+treatment of PEGIFN and ribavirin;
+thus, it is
+impossible to
+correlate frequency
+of side effects
+with ribavirin alone
+with evidence of advanced liver disease
+Watch out risk of hepatic decompensation/failure in patients
+Management of Chronic Hepatitis C in Adults
+4. Daklinza US full Prescribing Information. Bristol-Myers Squibb Company. Feb 2016.
+5. Sofosbuvir-velpatasvir
+tablet.
+WebMD
+2018.
+(Available
+at:
+https://www.webmd.com/drugs/2/drug-172067/sofosbuvir-velpatasvir-oral/details)
+6. Harvoni full prescribing information. US: Gilead Science. Revised Apr 2017
+7. Viekirax® product information leaflet. Abbvie
+8. Exviera® product information leaflet. Abbvie
+9. EPCLUSA US full Prescribing Information. Gilead Sciences, Inc. Foster City, CA. 2017
+10. ZEPATIER® US full prescribing information. [package insert]. Whitehouse
+Station, NJ: Merck Sharp & Dohme Corp; Aug 2018
+11. MAVYRET® US full prescribing information. North Chicago, IL: AbbVie Inc; Aug 2018
+12. VOSEVI® package insert (Available at:
+https://www.gilead.com/-/media/files/pdfs/medicines/liver-disease/vosevi/vosevi_pi.pdf)
+13. Copegus® package insert (Available at:
+https://www.accessdata.fda.gov/drugsatfda_docs/label/2011/021511s023lbl.pdf)
+Management of Chronic Hepatitis C in Adults
+Appendix 6
+DRUG-DRUG INTERACTION BETWEEN DIRECT-ACTING
+ANTIVIRALS AND
+HIGHLY ACTIVE ANTIRETROVIRAL THERAPY
+Symbols:
+ No clinically significant interaction expected.
+- Potential interaction which may require a dosage adjustment, altered timing of
+administration or additional monitoring.
+× Co-administration either not recommended or contraindicated.
+Notes:
+• Some drugs may require dose modifications depending on hepatic function.
+Refer to the product label of individual drugs for dosing advice.
+• The symbol (, -, ×) used to rank the clinical signiﬁcance of the DDI is based on
+www.hep-druginteractions.org
+• For updated or additional DDIs and for a more extensive range of drugs, detailed
+pharmacokinetic interaction data and dosage adjustments, refer to the latest
+above-mentioned website.
+HIV Antiviral
+Drugs
+DCV SOF SOF/
+LDV
+SOF/
+VEL
+OBV/
+PTV/r
++ DSV
+GZR/
+EBR
+GLE/
+PIB
+RBV
+SOF/
+VEL/
+VOX
+Nucleoside reverse transcriptase inhibitors (NRTIs)
+Abacavir
+(ABC)
+Tenofovir
+(TDF)
+Tenofovir
+alafenamide
+(TAF)
+Zidovudine
+(AZT)
+HIV entry/integrase inhibitor (IIs)
+Raltegravir
+Non-nucleoside reverse transcriptase inhibitors (NNRTIs)
+Efavirenz
+(EFV)
+Nevirapine
+(NVP)
+Protease inhibitors (PIs)
+Lopinavir
+Ritonavir
+Emtricitabine
+(FTC)
+Lamivudine
+(3TC)
+Dolutegravir
+(DTG)
+Management of Chronic Hepatitis C in Adults
+Source:
+• AASLD-IDSA HCV Guidance Panel. Hepatitis C Guidance 2018 Update: AASLDIDSA Recommendations for Testing, Managing, and Treating Hepatitis C Virus
+Infection. Clin Infect Dis. 2018;67(10):1477-1492
+• European Association for the Study of the Liver. EASL Recommendations on
+Treatment of Hepatitis C 2016. J Hepatol. 2017;66(1):153-194
+• European Association for the Study of the Liver. EASL Recommendations on
+Treatment of Hepatitis C 2018. J Hepatol. 2018;69(2):461-511
+• Interaction Checker (Available at: www.hep-druginteractions.org)
+Management of Chronic Hepatitis C in Adults
+LIST OF ABBREVIATIONS
+µmol/L
+micromole/litre
+AE
+adverse event
+ALT
+alanine aminotransferase
+Anti-HCV
+antibody to HCV
+APRI
+AST to platelet ratio index
+ART
+antiretroviral therapy
+AST
+aspartate transaminase
+AUC
+area under the curve
+BMI
+body mass index
+CD4
+cluster of differentiation 4
+CI
+confidence interval
+CIA
+chemiluminescent immunoassay
+CKD
+chronic kidney disease
+CPG
+clinical practice guidelines
+CPS
+Child-Turcotte-Pugh score
+CV
+cryoglobulinaemic vasculitis
+CYP
+cytochrome P450
+dL
+desilitre
+DNA
+deoxyribonucleic acid
+EBR
+elbasvir
+EFV
+efavirenz
+eGFR
+(estimated) glomerular filtration rate
+EIA
+enzyme immunoassay
+ESRD
+end-stage renal disease
+ETV
+etravirine
+DAAs
+direct-acting antivirals
+DCV
+daclatasvir
+DDI(s)
+drug-drug interaction(s)
+DG
+Development Group
+FBC
+full blood count
+FIB-4
+fibrosis-4
+g
+gramme
+GI
+gastrointestinal
+GT
+genotype
+HBc(Ab)
+hepatitis B core (antibody)
+HBsAg
+hepatitis B surface antigen
+HBV
+hepatitis B virus
+HCC
+hepatocellular carcinoma
+HCV
+hepatitis C virus
+HCVcAg
+HCV core antigen
+HD
+haemodialysis
+HIV
+human immunodeficiency virus
+HR
+hazard ratio
+IDU
+injecting drug user
+INR
+international normalised ratio
+IU/L
+international unit/litre
+IU/mL
+international unit/millilitre
+IVDs
+in vitro diagnostics
+L
+litre
+Management of Chronic Hepatitis C in Adults
+LDV
+ledipasvir
+LFT
+liver function test
+LT
+liver transplantation
+MaHTAS
+Malaysian Health Technology Assessment Section
+MC
+mixed cryoglobulinaemia
+MD
+mean difference
+MEIA
+microparticle enzyme immunoassay
+mg
+milligramme
+MELD
+Model for End-Stage Liver Disease
+MoH
+Ministry of Health
+MRI
+magnetic resonance imaging
+MRE
+magnetic resonance elastography
+NICE
+National Institute for Health and Clinical Excellence
+NNRTI
+non-nucleoside reverse transcriptase inhibitors
+NVP
+nevirapine
+OR
+odds ratio
+OrPD
+Ombitasvir/ritonavir/Paritaprevir and Dasabuvir
+PCR
+polymerase chain reaction
+PEG-IFN
+pegylated-interferon
+PI
+protease inhibitor
+PIB
+pibrentasvir
+PPV
+positive predictive value
+PWID
+people who inject drugs
+RBV
+ribavirin
+RC
+Review Committee
+RCT(s)
+randomised controlled trial(s)
+RDT(s)
+rapid diagnostic test(s)
+RNA
+ribonucleic acid
+RR
+relative risk
+rs
+Spearman’s Rho
+SD
+standard deviation
+SIGN
+Scottish Intercollegiate Guidelines Network
+SMD
+standardised mean difference
+SOF
+sofosbuvir
+SVR
+sustained virological response
+TDF
+tenofovir disoproxil fumarate
+TE
+transient elastography
+US
+United States
+USG
+ultrasonography
+VEL
+velpatasvir
+VOX
+voxilaprevir
+vs
+versus
+WHO
+World Health Organization
+Management of Chronic Hepatitis C in Adults
+ACKNOWLEDGEMENT
+The DG members of these guidelines would like to express their
+gratitude and appreciation to the following for their contributions:
+• Panel of external reviewers who reviewed the draft
+• Technical Advisory Committee of CPG for their valuable input and
+feedback
+• Health Technology Assessment and Clinical Practice Guidelines
+Council for approval of the CPG
+• Mr. Mohd. Tholib Ibrahim on retrieval of evidence
+• Dr. Mohamad Fadli Abd Rahman on graphic of CPG cover
+• All those who have contributed directly or indirectly to the
+development of the CPG
+DISCLOSURE STATEMENT
+The panel members of both DG and RC had completed disclosure forms.
+None hold shares in pharmaceutical firms or act as consultants to such
+firms. Details are available upon request from the CPG Secretariat.
+SOURCE OF FUNDING
+The development of the CPG on Management of Hepatitis C in Adults
+was supported financially in its entirety by the MoH Malaysia.
+Management of Chronic Hepatitis C in Adults

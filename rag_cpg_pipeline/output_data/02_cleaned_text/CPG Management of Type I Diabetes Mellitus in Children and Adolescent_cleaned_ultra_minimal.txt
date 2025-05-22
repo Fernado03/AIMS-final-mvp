@@ -1,0 +1,4336 @@
+CLINICAL PRACTICE GUIDELINES
+MOHPIPAK05.15(GU)
+MANAGEMENT OF
+TYPE 1 DIABETES MELLITUS IN
+CHILDREN & ADOLESCENTS
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+Published by:
+Malaysia Health Technology Assessment Section (MaHTAS)
+Medical Development Division, Ministry of Health Malaysia
+Level 4, Block E1, Precinct 1
+Federal Government Administrative Centre
+62590, Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is MaHTAS. Content may be
+reproduced in any number of copies and in any format or medium
+provided that a copyright acknowledgement to MaHTAS is included and
+the content is not changed, not sold, nor used to promote or endorse
+any product or service, and not used in an inappropriate or misleading
+context.
+ISBN: 978-967-0769-40-0
+Available on the following websites:
+http://www.moh.gov.my
+http://www.acadmed.org.my
+http://mpaweb.org.my
+http://www.mems.my
+Also available as a mobile app for Android and iOS platform: MyMaHTAS
+STATEMENT OF INTENT
+These clinical practice guidelines (CPG) are meant to be guides for
+clinical practice, based on the best available evidence at the time of
+development. Adherence to these guidelines may not necessarily
+guarantee the best outcome in every case. Every healthcare provider is
+responsible for the management of his/her unique patient based on the
+clinical picture presented by the patient and the management options
+available locally.
+These guidelines were issued in 2015 and will be reviewed in a
+minimum period of four years (2019) or sooner if new evidence becomes
+available. When it is due for updating, the Chairman of the CPG or
+National Advisor of the related specialty will be informed about it. A
+discussion will be done on the need for a revision including the scope of
+the revised CPG. A multidisciplinary team will be formed and the latest
+systematic review methodology used by MaHTAS will be employed.
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+TABLE OF CONTENTS
+No.
+Title
+Page
+Levels of Evidence and Formulation of Recommendation
+i
+Guidelines Development and Objectives
+ii
+Guidelines Development Group
+v
+Review Committee
+vi
+External Reviewers
+vii
+1.
+INTRODUCTION
+1
+2.
+DIAGNOSIS
+1
+3.
+RISK FACTORS
+5
+4.
+CO-MORBIDITIES
+6
+5.
+TREATMENT GOALS
+7
+5.1 Optimal HbA1c Levels
+7
+5.2 Range of Ideal Blood Glucose Levels
+8
+5.3 Growth and Puberty
+10
+6.
+DIABETIC KETOACIDOSIS
+11
+6.1 Diagnosis
+11
+6.2 Treatment
+13
+6.3 Morbidity and Mortality
+18
+6.4 Prevention of Recurrent DKA
+20
+7.
+INSULIN THERAPY
+21
+7.1 Principles of Insulin Therapy
+21
+7.2 Insulin Formulation
+23
+7.3 Insulin Dosage
+25
+8.
+INSULIN DOSE ADJUSTMENT
+27
+8.1 Insulin to Carbohydrate Ratio
+27
+8.2 Insulin Sensitivity Factor
+28
+9.
+HYPOGLYCAEMIA
+29
+10.
+MEDICAL NUTRITION THERAPIES
+32
+10.1 Energy Balance, Energy Intake and Food Components 32
+10.2 Nutritional Care, Education and Meal Planning
+33
+10.3 Dietary Recommendations for Specific Insulin Regimes 34
+10.4 Nutritional Management of Physical Activities
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+No.
+Title
+Page
+11.
+PSYCHOSOCIAL SUPPORT
+36
+12.
+PHYSICAL ACTIVITY (EXERCISE)
+38
+12.1 Benefits of physical activity
+38
+12.2 Risk of Hypoglycaemia Associated with
+38
+Physical Activity
+12.3 Prevention of Hypoglycaemia during Physical Activity
+39
+13.
+SELF-MONITORING BLOOD GLUCOSE
+41
+14.
+SPECIAL SITUATIONS
+44
+14.1 Sick Day
+44
+14.2 Eating Out
+46
+14.3 Fasting during Ramadan
+47
+14.4 Schooling
+49
+14.5 Travelling
+50
+14.6 Surgery
+51
+14.7 Partial Remission Phase
+55
+15.
+SUPPLEMENTS/COMPLEMENTARY MEDICATIONS
+56
+16.
+LONG-TERM COMPLICATIONS
+57
+16.1 Nephropathy
+59
+16.2 Retinopathy
+60
+16.3 Neuropathy
+60
+16.4 Macrovascular Complications
+60
+16.5 Other Complications
+61
+17.
+REFERRAL
+64
+18.
+IMPLEMENTING THE GUIDELINES
+64
+References
+66
+Appendix 1 Example of Search Strategy
+72
+Appendix 2 Clinical Questions
+73
+Appendix 3 Algorithm 1. Immediate Assessment in DKA
+74
+Appendix 4 Algorithm 2. Critical Observation in DKA
+75
+Appendix 5 Types of Insulin Preparations and their
+76
+Action Profiles
+Appendix 6 Dietary Fibre Content of Common Foods
+77
+Appendix 7 Food Group and Exchange Lists for 15 g
+78
+Carbohydrate
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+No.
+Title
+Page
+Appendix 8 Carbohydrate Exchange for Sugars
+80
+Glycaemic Index (GI) for
+Local Malaysian Foods
+List of Abbreviations
+81
+Acknowledgement
+82
+Disclosure Statement
+82
+Source of Funding
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+LEVELS OF EVIDENCE
+SOURCE: US / CANADIAN PREVENTIVE SERVICES TASK FORCE 2001
+In line with the current development in CPG methodology, the CPG Unit
+of MaHTAS is in the process of adapting Grading Recommendations,
+Assessment, Development and Evaluation (GRADE) in its
+work process. The quality of each retrieved evidence and its effect
+size are carefully assessed/reviewed by the CPG Development
+Group. In formulating the recommendations, overall balances of the
+following aspects are considered in determining the strength of the
+recommendations:-
+• overall quality of evidence
+• balance of benefits versus harms
+• values and preferences
+• resource implications
+• equity, feasibility and acceptability
+Level
+I
+II -1
+II-2
+II-3
+III
+Study design
+Evidence from at least one properly randomised controlled trial
+Evidence obtained from well-designed controlled trials without
+randomisation
+Evidence obtained from well-designed cohort or case-control
+analytic studies, preferably from more than one centre or
+group
+Evidence from multiple time series with or without intervention.
+Dramatic results in uncontrolled experiments (such as the
+results of the introduction of penicillin treatment in the 1940s)
+could also be regarded as this type of evidence
+Opinions of respected authorities based on clinical experience;
+descriptive studies and case reports; or reports of expert
+committees
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+ii
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+GUIDELINES DEVELOPMENT
+The members of the Development Group (DG) for these Clinical
+Practice Guidelines (CPG) were from the Ministry of Health (MoH)
+and Ministry of Higher Education. There was active involvement of a
+multidisciplinary Review Committee (RC) during the process of the
+CPG development.
+A literature search was carried out using the following electronic
+databases: Guidelines International Network (G-I-N); Medline via Ovid,
+Cochrane Database of Systemic Reviews (CDSR) and CINAHL via
+EBSCOhost (refer to Appendix 1 for Example of Search Strategy).
+The inclusion criteria are all literature on type 1 diabetes mellitus (T1DM)
+regardless of study design although emphasis was put for systematic
+review. The search was limited to literature published in the last 20
+years, humans, “all child” (0 to 18 years) and English. In addition, the
+reference lists of all retrieved literature and guidelines were searched to
+further identify relevant studies. Experts in the field were also contacted
+to identify relevant studies. In certain situations, pivotal papers beyond
+the scope of search were used in the CPG. All searches were conducted
+from 23 January 2014 to 20 May 2015. Literature searches were
+repeated for all clinical questions at the end of the CPG development
+process allowing any relevant papers published before 31 August 2015
+to be included. Future CPG updates will consider evidence published
+after this cut-off date. The details of the search strategy can be obtained
+upon request from the CPG Secretariat.
+Reference was also made to a CPG entitled Pediatric Diabetes
+developed by International Society for Pediatric and Adolescent
+Diabetes (ISPAD) in 2014. The CPG was evaluated using the Appraisal
+of Guidelines for Research and Evaluation (AGREE) II prior to them
+being used as references.
+A total of 15 main clinical questions were developed under different
+sections. Members of the DG were assigned individual questions
+within these sections (refer to Appendix 2 for Clinical Questions).
+The DG members met 24 times throughout the development of these
+guidelines. The literature retrieved was appraised by at least two DG
+members using Critical Appraisal Skill Programme checklist, presented
+in evidence tables and further discussed in each DG meetings. All
+statements and recommendations formulated after that were agreed
+upon by both the DG and RC. Where evidence was insufficient, the
+recommendations were made by consensus of the DG and RC. Any
+differences in opinion were resolved consensually. The CPG was
+based largely on the findings of systematic reviews, meta-analyses and
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+clinical trials, with local practices taken into consideration.
+The literature used in these guidelines was graded using the US/
+Canadian Preventive Services Task Force Level of Evidence, while the
+grading of recommendation was done using the principles of GRADE
+(refer to the preceding page).
+On completion, the draft of the CPG was reviewed by external
+reviewers. It was also posted on the MoH Malaysia official website for
+feedback from any interested parties. The draft was finally presented
+to the Technical Advisory Committee for CPG, and the HTA and
+CPG Council MoH Malaysia for review and approval. Details on the
+CPG development by MaHTAS can be obtained from Manual on
+Development and Implementation of Evidence-based Clinical Practice
+Guidelines published in 2015 (available at http://www.moh.gov.my/
+index.php/pages/view/117).
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+OBJECTIVES
+The objectives of the CPG are to provide evidence-based
+recommendations on T1DM in children and adolescents on the
+following aspects:
+a. Diagnosis
+b. Management
+CLINICAL QUESTIONS
+Refer to Appendix 2
+TARGET POPULATION
+Children and adolescents (<18 years old) with T1DM
+TARGET GROUP/USER
+This CPG is intended to guide healthcare providers and relevant
+stakeholders in primary and secondary/tertiary care who are in
+contact with and making decisions concerning the care of children and
+adolescents with T1DM including:
+a. Doctors
+b. Allied health professionals
+c. Trainees and medical students
+d. Professional societies
+e. Patients, families and caregivers
+HEALTHCARE SETTINGS
+Outpatient, inpatient and community settings
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+GUIDELINES DEVELOPMENT GROUP
+Chairperson
+Dr. Janet Hong Yeow Hua
+Consultant Paediatric Endocrinologist
+Hospital Putrajaya, Putrajaya
+Members (alphabetical order)
+v
+Dr. Cheah Yee Keat
+Consultant Paediatrician
+Hospital Tuanku Ja’afar,
+Negeri Sembilan
+Ms. Chow Yen Nee
+Pharmacist
+Klinik Kesihatan Batu, Kuala Lumpur
+Dr. Fuziah Md. Zain
+Head of Department & Consultant
+Paediatric Endocrinologist
+Hospital Putrajaya, Putrajaya
+Ms. Loong Ah Moi
+Nursing Matron
+Health Technology Assessment Section,
+MoH
+Dr. Mohd. Aminuddin Mohd. Yusof
+Head of CPG Unit
+Health Technology Assessment Section,
+MoH
+Associate Professor
+Dr. Muhammad Yazid Jalaludin
+Senior Lecturer & Consultant Paediatric
+Endocrinologist
+Universiti Malaya, Kuala Lumpur
+Dr. Norzaihan Hassan
+Consultant Family Medicine Specialist
+Klinik Kesihatan Bandar Kota Bharu,
+Kelantan
+Dr. Suhaimi Hussain
+Senior Lecturer & Consultant Paediatric
+Endocrinologist
+Universiti Sains Malaysia, Kelantan
+Dr. Rozaidah Jaafar
+Psychiatrist
+Hospital Tengku Ampuan Rahimah,
+Selangor
+Dr. Sharipah Fotimah Syed Abdullah
+Consultant Family Medicine Specialist
+Klinik Kesihatan Bandar Mentakab,
+Pahang
+Ms. Suriawati Abu Aziz
+Dietitian
+Klinik Kesihatan Jinjang, Kuala Lumpur
+Dr. Zahidah Mohd. Kasim
+Paediatrician
+Hospital Kajang, Selangor
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+vi
+REVIEW COMMITTEE
+The draft guidelines was reviewed by a panel of experts from both
+public and private sectors. They were asked to comment primarily on
+the comprehensiveness and accuracy of the interpretation of evidence
+supporting the recommendations in the guidelines.
+Chairperson
+Professor Dr. Wu Loo Ling
+Senior Lecturer & Consultant Paediatric Endocrinologist
+Universiti Kebangsaan Malaysia, Kuala Lumpur
+Members (alphabetical order)
+Dr. Hew Fen Lee
+Consultant Endocrinologist
+Sime Darby Medical Centre, Selangor
+Dr. Noor Khatijah Nurani
+Consultant Paediatrician
+Hospital Raja Perempuan Bainun, Perak
+Dr. Mastura Ismail
+Consultant Family Medicine
+Klinik Kesihatan Seremban 2
+Negeri Sembilan
+Dato’ Hjh. Rahimah Dato’ Hj. Ahmad
+Patient Advocate
+Diabetes Malaysia
+Ms. Siti Hawa Mohd Taib
+Dietitian
+Pusat Perubatan Universiti Malaya
+Kuala Lumpur
+Mr. Subramaniam A/L Kalimuthu
+Patient Advocate
+Diabetes Malaysia
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+vii
+EXTERNAL REVIEWERS (in alphabetical order)
+The following external reviewers provided feedback on the draft:
+Mr. Albert Ting Siong Hung
+Pharmacist
+Hospital Umum Sarawak, Sarawak
+Dato’ Dr. Hussain Imam Haji Mohammad Ismail
+Head of Department & Senior Consultant Paediatrician
+Institut Pediatrik, Hospital Kuala Lumpur, Kuala Lumpur
+Professor Dr. Kim Donaghue
+Co-Head, Institute of Endocrinology & Diabetes
+Head of Diabetes Services & Senior Staff Endocrinologist
+The Children’s Hospital at Westmead
+Professor, University of Sydney, Australia
+Dr. Kok Juan Loong
+Consultant Paediatrician
+Hospital Umum Sarawak, Sarawak
+Associate Professor Dr. Ragnar Hanas
+Consultant Pediatrician
+Uddevalla Hospital, Uddevalla, Sweden &
+President
+International Society of Pediatric and Adolescent Diabetes
+Associate Professor Dr. Rahmah Rasat
+Senior lecturer & Consultant Paediatric Endocrinologist
+Pusat Perubatan Universiti Kebangsaan Malaysia, Kuala Lumpur
+Dr. Sri Wahyu Taher
+Consultant Family Medicine Specialist
+Klinik Kesihatan Simpang Kuala, Kedah
+Professor Dr. Winnie Chee Siew Swee
+Senior Lecturer & Consultant Dietitian
+Faculty of Medicine & Health
+International Medical University, Kuala Lumpur
+Dr. Zainah Shaikh Hedra
+Consultant Paediatician
+Hospital Sultanah Nora Ismail, Johor
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+1. INTRODUCTION
+Type 1 diabetes mellitus (T1DM) is the most common type of diabetes
+mellitus in children and adolescents. The incidence of T1DM is very
+low in Asia, which is approximately 2 to 5 per 100,000 person-years.1 -
+3, level II-2 In Malaysia, the incidence of T1DM was not reported by the
+Malaysian Diabetes in Children and Adolescents Registry (DiCARE)
+2006 - 2008 report due to several limitations. There were 34 sites that
+reported 408 patients to DiCARE from 2006 - 2008. Among children
+and adolescents under the age of 20 years with diabetes mellitus,
+71.8% were diagnosed with T1DM. The median age of diagnosis was
+7.6 (IQR 4.6, 10.8) years and majority (58.3%) presented with diabetic
+ketoacidosis (DKA).4, level III However, the sample size of DiCARE was
+small and could not represent the population.
+T1DM is a chronic disease which is associated with various complications
+including retinopathy, nephropathy, neuropathy and cardiovascular
+morbidity. Studies have shown that good glycaemic control early in the
+disease results in lower frequency of chronic diabetes complications. In
+order to reduce health care cost due to the complications, appropriate
+treatment should be started early. Accurate classification of diabetes
+and proper management of these children to achieve glycaemic target
+is of utmost importance. DiCARE reported a mean HbA1c of 10.8%
+reflecting poor metabolic control.4, level III
+Therefore, these clinical practice guidelines aim to provide evidencebased guidance to those who are involved in the management of
+children and adolescents with T1DM.
+2. DIAGNOSIS
+TIDM is primarily due to pancreatic islet β-cell destruction leading
+to severe insulin deficiency and manifested by low or undetectable
+plasma concentration of C-peptide. Markers of the immune-mediated
+β-cell destruction process include glutamic acid decarboxylase (GAD)
+antibody, insulin autoantibodies (IAA), anti-islet antibody (ICA), protein
+thyrosine phosphatase antibody (ICA512 or IA2A) and zinc transporter
+8 (ZnT8).5, level III More than 90% of patients with newly diagnosed
+T1DM have more than one of these autoantibodies. T1DM patients
+with absence of islet β-cell antibody or so called type 1B diabetes
+have no evidence of β-cell autoimmunity. However, patients with false
+negative antibodies can be due to diminished titre over the course of
+the disease.6, level III
+The diagnosis of diabetes mellitus should be made based on the
+presence or absence of symptoms and biochemical criteria according
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+to World Health Organization Diagnostic Criteria (1999). Diagnosis of
+diabetes can be made when:7, level III
+1. classic symptoms and signs are present and
+2. fasting venous plasma glucose concentration is ≥7.0 mmol/L, and/or
+the random venous plasma glucose concentration ≥11.1 mmol/L
+The diagnosis must be confirmed by repeat blood glucose testing in the
+absence of unequivocal hyperglycaemia.
+Patients with T1DM can present acutely with severe symptoms, and
+frequently with ketoacidosis. The diagnosis can be confirmed quickly
+with blood glucose (BG) value without waiting for another day as urgent
+treatment is needed.
+In the presence of mild symptoms, the diagnosis of diabetes should
+never be made on a single abnormal BG value. Oral glucose tolerance
+test (OGTT) is rarely required, except in very early disease, in which
+most BG values are normal and the diagnosis of diabetes is uncertain.
+The role of HbA1c alone in the diagnosis of diabetes mellitus remains
+unclear and diabetes cannot be excluded when the value is <6.5%.8
+Blood investigations that reflect β-cell function and immune-mediated
+β-cell destruction can be used to identify the aetiology and type of
+diabetes.7, level III Additional support for the diagnosis of T1DM include:
+9, level III
+i. low or undetectable C-peptide levels
+ii. presence of diabetes-associated autoantibodies (GAD/IAA/
+ICA512/IA2/ZnT8)
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+• Diagnostic criteria of diabetes mellitus:7, level III
+i. classic symptomsa of diabetes or hyperglycaemic crisis, with
+plasma glucose concentration ≥11.1 mmol/L
+OR
+ii. fasting plasma glucoseb ≥7.0 mmol/L
+OR
+iii. two hour post-load glucose ≥11.1 mmol/L in OGTTc
+OR
+iv. HbA1c >6.5%d
+aclassic symptoms consist of thirst, polyuria, polydipsia, recurrent infection
+and weight loss
+b fasting is defined as no caloric intake for at least eight hours
+cthe test should be performed using a glucose load containing the
+equivalent of 75 g anhydrous glucose dissolved in water or 1.75 g/kg of
+body weight to a maximum of 75 g
+dthe test should be performed in a laboratory using a method that is National
+Glycohaemoglobin Standardisation Programme certified and standardised
+to the Diabetes Control and Complications Trial (DCCT) assay
+• The diagnosis must be confirmed by repeat blood glucose testing in
+the absence of unequivocal hyperglycaemia.
+• The role of HbA1c alone in the diagnosis of diabetes mellitus remains
+unclear and diabetes cannot be excluded when the value is <6.5%.
+Classification of diabetes mellitus:
+i. type 1 diabetes mellitus
+ii. type 2 diabetes mellitus
+iii. gestational diabetes mellitus
+iv. other specific types
+Clinical presentation of T1DM
+Clinical features of T1DM in children and adolescents are shown in Table 1.
+Table 1. Clinical features of T1DM in children and adolescents
+Age of onset
+Six months to young adulthood
+Clinical presentation
+Most often acute, rapid onset of symptoms
+Autoimmunity
+Present
+Ketosis
+Common
+Body habitus
+Usually lean but can be overweight following
+population frequency
+Acanthosis nigricans Typically absent
+Classically, T1DM children and adolescents present with history of
+polyuria, polydipsia and weight loss over 2 - 6 weeks. Some of them
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+can have rapid onset of symptoms within days and present in diabetic
+ketoacidosis (DKA), while others can have a slower onset of symptoms
+over several months. The clinical presentation of T1DM varies from
+non-emergency to emergency situations such as acute shock in DKA.8
+• Non-emergency presentation
+ Recent onset of enuresis in previously toilet-trained children
+ Vaginal candidiasis especially in pre-pubertal girls
+ Chronic weight loss or failure to gain weight in growing children
+ Recurrent skin infections
+• Emergency presentation
+ Moderate to severe dehydration
+ Frequent vomiting
+ Abdominal pain
+ Continuing polyuria despite the presence of dehydration
+ Weight loss due to fluid loss, and loss of muscle and fat
+ Acetone-smelling breath
+ Hyperventilation
+ Decreased level of consciousness
+ Hypotension
+ Shock
+Diagnostic difficulties may lead to late diagnoses resulting in higher
+mortality and morbidity. Symptoms of T1DM may be misinterpreted:
+• hyperventilation during DKA may be misdiagnosed as pneumonia
+or asthma
+• abdominal pain associated with DKA can be mistaken as acute
+abdomen leading to unnecessary surgical referral
+• polyuria and enuresis may be misdiagnosed as a urinary tract infection
+• polydipsia may be thought to be psychogenic in origin
+• vomiting may be misdiagnosed as gastroenteritis or sepsis
+• impaired level of consciousness can be misdiagnosed as
+meningitis/encephalitis
+Therefore, healthcare providers should have a high index suspicion of
+diabetes mellitus/DKA when managing such sick children.
+Recommendation 1
+• The diagnosis of diabetes mellitus in children and adolescents
+should be made based on clinical features and biochemical criteria
+(World Health Organization criteria*).
+• Autoantibodies testing (glutamic acid decarboxylase antibody,
+anti-islet antibody, insulin autoantibodies and protein tyrosine
+phosphatase antibody) should be done to confirm the diagnosis of
+type 1 diabetes mellitus (T1DM).
+*Refer to preceding yellow box
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+3. RISK FACTORS
+It is important to identify the risk factors of T1DM to assist in early
+disease detection and possibly disease prevention.
+Important risk factors associated with the development of T1DM are:
+• genetics: the most susceptible haplotypes are the DRB1*0301DQA1*0501-DQB1*0201 and the DRB1*0405-DQA1*0301-DQB1
+*0302, DRB1*0401-DQA1*0301-DQB*0302, and DRB1*0402DQA1*0301-DQB1*0302 with OR ranging from 3.63 to 11.37
+10 - 11, level III
+• presence of GAD antibody and/or IA-2A12, level II-2
+Other risk factors that have been studied include:
+• high birth weight (>4 kg) with OR=1.17 (95% CI 1.09 to 1.26)13, level II-2
+• early introduction of cow’s milk before three months of age
+(OR=1.53, 95% CI 1.1 to 2.2)14, level II-2
+• rapid growth within first two years of life [OR in height=1.36 (95%
+CI 1.17 to1.58) and body mass index (BMI)=1.35 (95% CI 1.15 to
+1.57)15, level II-2
+• enterovirus infection (OR=9.8, 95% CI 5.5 to 17.4)16, level II-2
+• high energy food intake especially disaccharides and sucrose
+(OR=5.23, 95% 1.67 to 16.38)17, level II-2
+Breastfeeding of any duration15, level II-2 and vitamin D supplementation
+in early childhood18 - 19, level II-2 are possible protective factors against
+T1DM.
+Maternal pre-eclampsia20, level II-2 and childhood vaccination21, level II-2 are
+not associated with T1DM.
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+4. CO-MORBIDITIES
+Co-morbidites are medical conditions that co-exist with T1DM.
+Patients with T1DM have higher prevalence of autoimmune diseases
+compared with patients without diabetes.22, level III The prevalence of
+high anti-thyroid peroxidase antibody (aTPO) and/or anti-thyroglobulin
+antibody ranges between 4.5% and 29.4%. Females are more affected
+than males (p<0.001).23 - 24, level III Children above 12 years old with T1DM
+have a higher mean thyroid stimulating hormone (TSH) compared with
+the younger patients and half of them are seropositive at diagnosis
+(p<0.001).23, level III The longer the duration of T1DM, the higher the
+tendencies of developing thyroid autoimmunity (p<0.001).24, level III
+In ISPAD guidelines, screening of thyroid function by measurement of
+TSH and aTPO antibody is recommended at the diagnosis of diabetes
+and biennially thereafter in asymptomatic individuals without goitre or in
+the absence of thyroid autoantibodies.8
+Coeliac disease is mostly asymptomatic in patients with T1DM. The
+disease can only be detected in these patients by serologic screening
+using anti-endomysium antibody and/or tissue transglutaminase
+antibody, and confirmatory diagnosis using intestinal biopsy. Most of the
+coeliac disease (60%) is detected at the onset of T1DM while the rest
+a few years after diagnosis.25, level III The prevalence of coeliac disease
+ranges from 1 to 10% in children with diabetes.8 However, coeliac
+disease prevalence is unknown in Malaysia and therefore screening
+for the disease should be done in suspected cases. Primary adrenal
+insufficiency has also been found in T1DM with a prevalence of 0.7%.
+22, level III Although the prevalence is low, clinicians should be aware of
+the symptoms and signs of adrenal insufficiency in patients with T1DM.
+Recommendation 2
+• Screening of thyroid function and measurement of antithyroid
+peroxidase antibody should be done at diagnosis of type 1 diabetes
+mellitus.
+ If thyroid function is normal and antibody is absent, repeat
+screening every two years.
+ In patients with goitre or positive for thyroid antibody, repeat
+screening more frequently.
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+5. TREATMENT TARGETS
+Long-term macrovascular, microvascular and neurologic complications
+cause major morbidity and mortality in patients with T1DM. Intensive
+therapy effectively delays the onset and slows the progression of
+diabetic retinopathy, nephropathy and neuropathy in patients with
+T1DM by a range of 39% to 76%.26, level I
+DCCT and similar studies, provide clear evidence in adults and
+adolescents that better metabolic control, as measured by a lower
+HbA1c level along with intensive management, is associated with fewer
+and delayed microvascular complications.8
+Treatment targets should include:8
+• achievement of the ideal BG level (near physiological glucose
+control)
+• no significant hypoglycaemia or recurrent DKA through selfmonitoring of blood glucose (SMBG) and optimal HbA1c level
+• absence of hypoglycaemia unawareness
+• normal growth and development
+• normal psychosocial development and adjustment in dealing with
+a chronic disease
+• prevention of long-term diabetic complications
+5.1 Optimal HbA1c Levels
+Glycated haemoglobin (HbA1/HbA1c) reflects the levels of glycaemia
+over the preceding 4 - 12 weeks.8
+HbA1c monitoring has been shown to be the most useful measure in
+evaluating metabolic control and predicts long-term microvascular and
+macrovascular outcomes. Every patient should have a minimum of one
+measurement of HbA1c per year, ideally 3 to 6 measurements per year
+depending on age and degree of glycaemic control.8 HbA1c may be
+affected by a variety of genetic, haematologic and illness-related factors
+such as haemoglobinopathy, certain anaemia and disorder associated
+with accelerated red cell turnover such as malaria.27, level III
+• The recommended HbA1c target for all patients younger than 18
+years is <7.5% (58 mmol/mol).
+• Each patient should have their targets individually determined with
+the goal of achieving a value as close to normal as possible while
+avoiding severe hypoglycaemia and minimising frequent mild to
+moderate hypoglycaemia.8
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+Glycated haemoglobin is currently expressed as a percentage (%) with
+reference to the DCCT study. The International Federation of Clinical
+Chemistry and Laboratory Medicine (IFCC) have produced a reference
+material which will be used for the calibration of all laboratory machines
+measuring HbA1c worldwide. The IFCC HbA1c is expressed in mmol/mol.8
+HbA1c expressed in IFCC values (mmol/mol) can be converted to
+DCCT values (%) by using the following equation:
+HbA1c (%) = 0.0915 x IFCC HbA1c (mmol/mol) + 2.15
+The conversion of HbA1c from DCCT to IFCC is presented in Table 2.
+Table 2. DCCT and IFCC conversion tables
+of glycated haemoglobin values
+Source: International Society for Pediatric and Adolescent Diabetes (ISPAD). Pediatic
+Diabetes. Oxford: Wiley Blackwell; 2014
+5.2 Range of Ideal Blood Glucose Levels
+Diabetes care includes performing SMBG. Frequent (4 - 6 times/day)
+and accurate SMBG with concomitant optimal adjustment of insulin to
+carbohydrate intake and exercise are required to attain and maintain
+optimal metabolic control.8
+There is little scientific evidence for age-related glucose targets.
+Glycaemic targets of a child should be individually determined to
+achieve normoglycaemia while avoiding all degrees of hypoglycaemia.
+In patients beyond partial remission phase, the general rule is to achieve
+>50% of the total SMBG readings within target range and <10% of the
+readings below the range. Refer to Table 3 for target range.8
+DCCT HbA1c (%)
+6.0
+6.5
+7.0
+7.5
+8.0
+8.5
+9.0
+9.5
+10.0
+11.0
+12.0
+13.0
+14.0
+IFCC HbA1c (mmol/mol)
+42
+48
+53
+58
+64
+69
+75
+80
+86
+97
+108
+119
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+Continuous glucose monitoring (CGM) through minimally invasive
+devices that measure subcutaneous (SC) interstitial fluid glucose
+every 1 - 5 minutes, may particularly benefit those with hypoglycaemic
+unawareness. It can also identify times of consistent hyperglycaemia
+and times of increased risk for hypoglycaemia. This enables immediate
+corrections to keep BG in range. However, these devices are expensive.
+CGM is beneficial in both patients using basal-bolus regimen and
+insulin pump. Refer to Table 3 for target indicators of glycaemic control.
+Table 3. Targets indicators of glycaemic control
+*These population-based target indicators must be adjusted according to individual
+circumstances. Different targets will be appropriate for various individuals such as
+those who have experienced severe hypoglycaemia or those with hypoglycaemia
+unawareness.
+**These figures are based on clinical studies and expert opinion, but no strict
+evidence-based recommendations are available. PG levels are given because BG
+meters are internally calibrated to reflect the plasma glucose level.
+***DCCT conventional adult cohort have a mean HbA1c value of 8.9%, and both
+DCCT and Epidemiology of Diabetes Intervention and Complications (EDIC) have
+shown poor outcomes with this level; therefore it seems prudent to recommend levels
+below this value.
+Adapted from: International Society for Pediatric and Adolescent Diabetes (ISPAD).
+Pediatic Diabetes. Oxford: Wiley Blackwell; 2014
+Clinical assessment
+Symptoms of
+hyperglycaemia
+Symptoms of
+hypoglycaemia
+Biochemical
+assessment*
+SMBG values in
+mmol/L
+AM fasting or
+pre-prandial
+Post-prandial
+Bedtime
+Nocturnal
+HbA1c DCCT (%)
+HbA1c IFCC
+(mmol/mol)
+Assessment
+Level of control
+Ideal (nondiabetic)
+Optimal
+Sub-optimal
+(action
+suggested)
+High risk
+(action required)
+No symptom
+No symptom
+3.6 - 5.6
+4.5 - 7.0
+4.0 - 5.6
+3.6 - 5.6
+<6.5
+<48
+No symptom
+No severe
+hypoglycaemia
+4 - 8
+5 - 10
+6.7 - 10
+4.5 - 9
+<7.5**
+<58
+Polyuria,
+polydipsia,
+enuresis
+Episodes
+of severe
+hypoglycaemia
+>8
+10 - 14
+<4.2 or >9
+<4.2 or >9
+7.5 - 9.0**
+58 - 75
+Blurred vision, poor
+weight gain, poor
+growth, delayed
+puberty, poor
+school attendance,
+skin or genital
+infections, and
+signs of vascular
+complications
+Episodes of severe
+hypoglycaemia
+>9
+>14
+<4.4 or >11
+<4.0 or >11
+>9.0***
+>75
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+5.3 Growth and Puberty
+T1DM is a chronic disease of childhood and it potentially affects the
+growth, onset of puberty and pubertal development of the patients.
+28 - 29, level III Thus, T1DM patients require monitoring of their growth and
+physical development. This can be achieved by plotting anthropometric
+measurements using appropriate percentile charts and mid-parental
+height.
+There is a significant impairment in growth during puberty in young
+patients with T1DM and microalbuminuria which could be due to
+suboptimal glycaemic control.30, level III Pubertal onset is delayed
+in children and adolescents with less well-regulated T1DM and it
+increases with higher HbA1c level and lower BMI standard deviation
+score.28, level III
+Conventional therapy (insulin injections twice daily) of diabetic
+children is significantly associated with impairment of physical growth
+and delayed sexual maturation.29, level III To promote optimal growth,
+adequate insulin secretion and concentrations are needed. The use
+of basal-bolus regimen, insulin analog and insulin pump have led to
+more physiological circulating insulin concentrations, thus improving
+growth. The effect of poor glycaemic control on growth appears to
+be exacerbated during puberty when physiological insulin resistance
+occurs.8
+Mauriac syndrome, characterised by growth failure, delayed puberty,
+cushingoid appearance and hepatomegaly, is an uncommon complication
+in patients with poorly controlled T1DM.31, level III
+Recommendation 3
+• All patients with type 1 diabetes mellitus (T1DM) should aim to
+achieve glycaemic targets to maintain normal growth and pubertal
+development, while avoiding severe hypoglycaemia.
+• Patients with T1DM and hypoglycaemia unawareness should
+perform more frequent self-monitoring of blood glucose.
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+6. DIABETIC KETOACIDOSIS
+The rate of DKA occurrence at onset of T1DM ranges from 15 - 70% in
+Europe and North America.8 In Malaysia, it is at 57.5%.4, level III
+The goals of therapy in DKA are: 8; 32, level III
+• to correct dehydration, correct acidosis and reverse ketosis, and
+slowly correct hyperosmolality
+• to restore BG to near normal
+• to monitor for complications of DKA and its treatment
+• to dentify and treat any precipitating event
+Risk factors for DKA in newly diagnosed diabetes include:33, level II-2;
+34 - 35, level III; 36, level II-2
+• young patient (<2 years old)
+• delayed diagnosis
+• low socioeconomic status
+• children in countries with low prevalence of T1DM
+6.1 Diagnosis
+• The clinical symptoms and signs of DKA include:8
+ nausea and vomiting
+ abdominal pain
+ confusion, drowsiness, progressive reduction in level of
+consciousness and eventually, loss of consciousness
+ dehydration
+ tachycardia
+ tachypnoea
+ deep, sighing (Kussmaul) respiration; acetone-smell breath
+• Prior to the above presentations, patient usually has classical
+symptoms of diabetes mellitus.
+The biochemical criteria for the diagnosis of DKA are:8; 32, level III
+• hyperglycaemia [BG >11 mmol/L (≈200 mg/dL)]
+• venous pH <7.3 or bicarbonate <15 mmol/L
+• ketonaemia (>3 mmol/L) and/or ketonuria (>2+)
+Blood ketone (β-hydroxybuterate/β-OHB) should be measured
+whenever possible. A β-OHB level of 3 mmol/L corresponds to a
+bicarbonate level of 18 mmol/L.37, level III
+DKA is categorised by the severity of acidosis:8; 32, level III
+• mild (venous pH <7.3, bicarbonate <15 mmol/L)
+• moderate (venous pH <7.2, bicarbonate <10 mmol/L)
+• severe (venous pH <7.1, bicarbonate <5 mmol/L)
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+• Estimation of the degree of dehydration in DKA generally shows fair
+to moderate agreement among physicians.38, level II-2; 39, level III
+• The three most useful signs for predicting ≥5% dehydration in young
+children aged one month to five years are:8; 40, level III
+ prolonged capillary refill time (normal capillary refill time is ≤1.5 - 2
+seconds)
+ abnormal skin turgor (‘tenting’ or inelastic skin)
+ abnormal respiratory pattern (hyperpnoea)
+Other useful signs include dry mucous membranes, sunken eyes,
+absent tears, weak pulses and cool extremities. More signs of
+dehydration tend to be associated with more severe dehydration.
+• Presence of shock (weak or impalpable peripheral pulses,
+hypotension and oliguria) suggest ≥10% dehydration.
+• Shock is rare in paediatric DKA.8
+• Emergency assessment in DKA should comply to the standard
+paediatric resuscitation guidelines which include:8
+ secure the airway and give oxygen to patients with circulatory
+impairment or shock
+ insert nasogastric tube to prevent aspiration in an unconscious
+patient
+ assess severity of dehydration and level of consciousness
+ obtain venous access, at least two intravenous (IV) catheters
+should be secured
+ measure immediately BG, blood or urine ketones, serum
+electrolytes, blood gases (venous) and full blood count
+ monitor electrocardiography continuously for evidence of hyper-
+or hypokalaemia
+ catheterise for continuous bladder drainage in an unconscious or
+a very ill young patient
+ start antibiotics for febrile patients after obtaining samples for culture
+ weigh the patient (this weight should be used in fluid calculation)
+Patients should ideally be managed in centres experienced in the
+treatment of DKA in children and adolescents. If management has to
+be initiated in a centre with less experience and fewer resources, the
+clinician in an experienced centre should be consulted on appropriate
+management.
+High risk patients should be managed in an intensive care unit
+(paediatric if available). They are those with:8; 32, level III
+• severe DKA (long duration of symptoms, compromised circulation
+or depressed level of consciousness)
+• increased risk of cerebral oedema (e.g. <5 years of age, severe
+acidosis, low pCO2 or high blood urea nitrogen)
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+Clinical judgement must be used to optimise treatment of the individual
+patient. Adjustments of treatment (insulin dose, electrolyte composition
+and rate of infusion of rehydration fluids) should be based on careful
+clinical and biochemical monitoring of the patient’s response.8
+Recommendation 4
+• Children and adolescents with diabetic ketoacidosis (DKA) should
+be managed in hospitals with specialists experienced in the
+management of the condition.
+• Patients with severe DKA and at risk of cerebral oedema should be
+managed in an intensive care unit (if the facility is available in local
+setting).
+The following recommendations are intended only as a general guide
+to DKA management. As there is considerable individual variability in
+presentation of DKA, some patients may require specific treatment
+outside the range of options presented below.
+6.2 Treatment
+6.2.1 Fluid therapy
+• Fluid replacement should begin 1 - 2 hours before starting insulin therapy.
+• Patients with DKA have a deficit in extracellular fluid volume that is
+usually in the range of 5 - 10%.8
+• Clinical estimates of the volume deficit are subjective and inaccurate.
+Therefore in moderate DKA, use 5 - <7% and in severe DKA,
+7 - 10% dehydration.8
+• Initial fluid therapy will depend on whether the patient is in:
+ shock
+ severe volume depletion but not in shock (7 -10% dehydration)
+ mild to moderate volume depletion (5 - 7% dehydration)
+a. DKA with shock
+In patients with DKA in shock, infuse isotonic saline (0.9% saline) 10
+- 20 ml/kg as quickly as possible to restore circulatory volume with
+reassessment after each bolus.8 Each fluid bolus should be given in
+10 ml/kg.
+b. DKA with severe volume depletion but not in shock
+In DKA patients with poor peripheral circulation but not in shock, infuse
+10 - 20 ml/kg of isotonic saline over 1 - 2 hours. It may be repeated until
+tissue perfusion is adequate (maximum 30 ml/kg).8; 32, level III Each fluid
+bolus should be given in 10 ml/kg.
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+For both (a) and (b) above, subsequent rehydration and maintenance
+fluid should be calculated and infused over 48 hours.32, level III; 41 - 43, level II-2
+Resuscitation boluses should not be included as part of the total fluid
+requirement.8 The rate of fluid administration usually do not exceed 1.5
+- 2 times the daily maintenance requirement.8; 32, level III
+Use isotonic solution (rehydration and maintenance fluid) for at least 4 -
+6 hours before switching to a solution that has a tonicity ≥0.45% saline.
+41, level II-2; 43, level II-2; 44 - 47, level III The decision to switch solution depends on
+the patient’s hydration status, serum sodium and osmolality. Oral intake
+can be resumed within 24 hours except in severely ill patients.8
+The measured serum sodium concentration is inaccurate in patients
+with DKA due to:8
+• dilutional hyponatremia as a result of high glucose in the
+extracellular space
+• elevated lipid fraction
+Therefore it is important to monitor the trend of corrected serum sodium.
+• Important calculations
+Corrected sodium = Measured sodium + 2 (plasma glucose - 5.6) (mmol/L)
+(mmol/L)8
+5.6
+Effective plasma
+= 2 (plasma sodium) + Plasma glucose (mmol/L)
+osmolality
+(mosmol/kg)
+c. DKA with mild to moderate volume depletion
+Isotonic saline bolus infusion is not required in mild to moderate volume
+depletion of DKA. In moderately dehydrated patients, rehydration and
+maintenance fluid using isotonic saline should be infused over 48 hours.
+The decision to switch solution or reduce the rate of infusion depends
+on the patient’s hydration status, serum sodium and osmolality.8
+In patients with mild dehydration, oral fluid can be continued as tolerated.
+IV fluid may be needed to maintain total daily fluid requirement.8
+• Clinical assessment of hydration status and calculated effective
+osmolality are valuable guides to fluid and electrolyte therapy. The
+aim is to gradually reduce serum effective osmolality to normal.
+42, level II-2; 48, level III
+• Serum sodium level should increase simultaneously as the serum
+glucose level decreases (sodium should rise by 0.5 mmol/L for each
+1 mmol/L decrease in glucose concentration).8
+Refer to Algorithm 1 and 2 in Appendix 3 and 4.
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+6.2.2 Potassium replacement
+Children with DKA may have total body potassium deficits between 3
+and 6 mmol/kg. The major loss of potassium is from the intracellular
+compartment and this is further aggravated by vomiting and osmotic
+diuresis.8
+Potassium replacement is needed irrespective of the serum
+potassium level unless renal failure is present (refer to Table 4).
+Electrocardiogramme (ECG) may help to determine whether the child
+has hypo- or hyperkalaemia*.8
+*ECG changes:
+Hypokalaemia: prolongation of PR interval, T-wave flattening and
+inversion, ST depression, prominent U waves and apparent long QT
+interval
+Hyperkalaemia: tall, peaked and symmetrical T waves, and shortening
+of the QT interval
+Table 4. Potassium replacement
+• IV potassium replacement must not exceed 0.5 mmol/kg/hour.
+Potassium replacement should continue throughout IV fluid therapy.
+If hypokalaemia persists despite a maximum rate of potassium
+replacement, the rate of insulin infusion may be reduced. Potassium
+phosphate may be used together with potassium chloride or acetate
+to avoid hyperchloraemic metabolic acidosis or hypophosphataemia.8
+Situation
+(at presentation)
+Normokalaemia
+Hypokalaemia
+Hyperkalaemia
+Treatment
+• Start potassium replacement after initial
+volume expansion and before starting insulin
+infusion.
+• Commence with 40 mmol of potassium
+per litre in the infusate (1.5 g potassium
+chloride/500 ml).
+• Subsequent
+potassium
+replacement
+should be based on serum potassium
+measurements.
+• Potassium replacement should be started
+at the time of initial volume expansion at not
+more than 20 mmol/L of potassium in the
+infusate and thereafter at 40 mmol/L during
+rehydration.
+• Start potassium replacement only after urine
+output is documented.
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+6.2.3 Insulin therapy
+Insulin therapy in DKA should begin with a rate of 0.05 - 0.1 unit/kg/h
+about 1 - 2 hours after starting fluid replacement therapy.8; 49 - 50, level III;
+51, level II-2; 52, level III
+Do not administer IV bolus of insulin at the start of therapy.8 It may
+increase the risk of cerebral oedema48, level III; 51, level II-2 and exacerbate
+hypokalaemia.8
+The dose of insulin should remain at 0.05 - 0.1 unit/kg/h until DKA
+resolves (pH >7.3, bicarbonate >15 mmol/L, β-OHB <1 mmol/L or
+closure of the anion gap), which usually takes longer than normalisation
+of BG levels. If no improvement is seen in pH, anion gap or β-OHB
+concentration, reassess the patient, review insulin therapy and consider
+other possible causes of impaired response to insulin such as infection
+or errors in insulin preparation. For patients with marked sensitivity to
+insulin (e.g. young children with DKA), the dose may be decreased
+provided that metabolic acidosis continues to resolve.8
+Duration and dose of insulin infusion should be kept in the lower range
+to avoid severe hypokalaemia as insulin has an aldosterone-like effect
+leading to increased urinary potassium excretion.8
+• Adjustment of glucose administration:8
+ BG level typically decreases at a rate of 2 - 5 mmol/L/hour,
+depending on the timing and amount of glucose administration.
+ When BG falls to approximately 14 - 17 mmol/L, 5% glucose
+should be added to the IV fluid.
+ If BG falls very rapidly (>5 mmol/L/hour) after initial fluid expansion,
+consider adding glucose even before BG has decreased to 17 mmol/L.
+ While correcting metabolic acidosis with insulin infusion, 10% or
+even 12.5% dextrose may be needed to prevent hypoglycaemia.
+If there is no improvement in biochemical parameters of DKA (pH, anion
+gap and β-OHB level), reassess the patient, review insulin therapy
+and consider other possible causes of poor response to insulin (e.g.
+infection or errors in insulin preparation).
+6.2.4 Introduction of oral fluids and transition to SC insulin injections
+Allow oral fluids only when substantial clinical improvement has
+occurred (mild acidosis/ketosis may still be present). Reduce IV fluid
+accordingly when oral fluid is tolerated.8
+The most convenient time to change to SC insulin is just before a
+mealtime. The first SC injection should be given 15 - 30 minutes (with
+rapid-acting insulin) or 1 - 2 hours (with short-acting insulin) before
+stopping the insulin infusion to allow sufficient time for the insulin to be
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+absorbed. Frequent BG monitoring should be continued to avoid hyper-
+and/or hypoglycaemia after transitioning to SC insulin.8
+6.2.5 Bicarbonate therapy
+Bicarbonate therapy may lead to paradoxical central nervous system
+acidosis and rapid correction of acidosis with bicarbonate causes
+hypokalaemia. Administration is not recommended except for treatment
+of life-threatening hyperkalaemia.8
+Recommendation 5
+• In diabetic ketoacidosis (DKA) patients with poor peripheral
+circulation, only isotonic saline (0.9% saline) infusion should be
+used in initial resuscitation but not exceeding 30 ml/kg in total.
+ Fluid replacement (maintenance and deficit) should be given over
+48 hours.
+• Do not administer insulin as bolus at the start of therapy in DKA.
+ Insulin infusion should begin about 1 - 2 hours after starting fluid
+replacement therapy.
+• The dose of insulin should remain at 0.05 - 0.1 unit/kg/h until DKA
+resolves.
+ Dextrose 5% should be added when blood glucose falls to 14 - 17
+mmol/L.
+ If blood glucose level falls too rapidly before DKA resolves,
+dextrose concentration should be increased.
+• Potassium replacement is needed in DKA irrespective of the serum
+potassium level unless renal failure is present. Electrocardiography
+helps to determine whether the patient has hypo- or hyperkalaemia.
+• Bicarbonate should not be given in DKA except for treatment of lifethreatening hyperkalaemia.
+• Monitoring of DKA:8
+a. hourly (or more frequently as indicated) bedside monitoring
+ vital signs (pulse rate, respiratory rate and blood pressure)
+ neurological observations for warning signs and symptoms of
+cerebral oedema
+ capillary BG
+ insulin dose
+ accurate fluid input (including oral fluid) and output
+b. two to four hourly (or more frequently) laboratory tests
+ BG
+ blood gases
+ serum electrolytes
+ blood urea nitrogen
+ serum calcium, magnesium and phosphorus
+ haematocrit
+c. two hourly blood β-OHB (capillary blood)
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+6.3 Morbidity and Mortality
+The mortality rate from DKA in children is 0.15 - 0.30%. Cerebral oedema
+accounts for 60 - 90% of all DKA mortality. Among the survivors, 10 -
+25% have significant residual morbidity.53, level II-2; 54, level III Those without
+overt neurological symptoms during DKA may have subtle brain injury,
+especially memory deficits, after recovery from DKA.55, level II-2
+Cerebral oedema
+The occurrence of clinically overt cerebral oedema is <1.0%.53, level II-2;
+54, level III However, newer studies show that approximately 15% of
+children treated for DKA have a GCS score <14 and is associated with
+cerebral oedema detected by neuroimaging.56, level III; 57, level II-3
+• Risks of cerebral oedema include:
+ younger age, new onset diabetes58, level III
+ longer duration of symptoms, greater hypocapnia at presentation
+after adjusting for degree of acidosis53, level II-2; 56, level III; 59, level III
+ increased serum urea nitrogen at presentation53, level II-2; 56, level III; 60, level III
+ severe acidosis at presentation61, level II-2; 62, level III
+ bicarbonate treatment for correction of acidosis53, level II-2
+ marked early decrease in serum effective osmolality48, level III; 61, level II-2
+ attenuated rise in serum sodium concentration or an early fall in
+glucose-corrected sodium during therapy53, level II-2; 61, level II-2; 63, level II-2
+ administration of insulin in the first hour of fluid treatment62, level III
+ greater (large) volumes of fluid given in the first four hours59, level III;
+61, level II-2; 62, level III
+• Warning signs and symptoms of cerebral oedema:8
+ headache (variable severity)
+ change in neurological status (restlessness, irritability, increased
+drowsiness, incontinence)
+ specific
+neurological
+signs
+(e.g.
+cranial
+nerve
+palsies,
+papilloedema)
+ slowing of heart rate
+ rising blood pressure
+ decreased oxygen saturation
+Clinically significant cerebral oedema usually develops within the first
+12 hours after treatment has started but can occur before treatment has
+begun53, level II-2; 64, level II-2 or rarely may develop as late as 24 - 48 h after
+the start of treatment.65, level III
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+Clinical diagnosis based on bedside evaluation:66, level III
+• one diagnostic criterion or
+• two major criteria or
+• one major and two minor criteria
+These criteria have a sensitivity of 92% and a false positive rate of only
+4%. Refer to Table 5 below.
+Table 5. Diagnostic criteria for cerebral oedema
+Diagnostic criteria
+• Abnormal motor or verbal response to pain
+• Decorticate or decerebrate posture
+• Cranial nerve palsy (especially III, IV and VI)
+• Abnormal neurogenic respiratory pattern (e.g. grunting, tachypnoea,
+Cheyne-Stokes respiration, apneusis)
+In patients with T1DM with multiple risk factors for cerebral oedema,
+mannitol or hypertonic saline should be readily available and the dose
+to be given calculated beforehand. If neurologic status deteriorates
+acutely, treatment should be given immediately.8
+Treatment of suspected cerebral oedema:8
+• Prop the patient up at 30°.
+• Reduce the rate of fluid administration by one-third.
+• Give IV mannitol, 0.5 - 1 g/kg over 10 - 15 minutes, and repeat if
+there is no initial response in 30 minutes to two hours.
+• If there is no initial response to mannitol, hypertonic saline (3%)
+2.5 - 5 mL/kg over 10 - 15 minutes may be used as an alternative.
+• Consider intubating the patient if there is impending respiratory
+failure.
+• Cranial imaging may be considered after treatment for cerebral
+oedema has been started.
+Major criteria
+• Altered mentation/fluctuating level
+of consciousness
+• Sustained heart rate deceleration
+(decrease more than 20 beats/
+min) not attributable to improved
+intravascular volume or sleep state
+• Age-inappropriate incontinence
+Minor criteria
+• Vomiting
+• Headache
+• Lethargy or not easily
+arousable
+• Diastolic blood
+pressure >90 mmHg
+• Age <5 years
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+Recommendation 6
+• To reduce the risk of cerebral oedema in diabetic ketoacidosis:
+ large volumes of fluid should not be given after initial volume
+expansion
+ insulin should not be administered in the first hour of fluid treatment
+ bicarbonate should not be used for the correction of acidosis
+ intravenous fluids should be decreased when the patient begins
+drinking
+6.4 Prevention of Recurrent DKA
+Recurrent DKA without a preceding febrile or vomiting illness is almost
+always due to psychosocial problems and poor compliance to insulin
+therapy.67, level I Thus, attempts to identify and treat the cause of DKA
+are essential.8
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+7. INSULIN THERAPY
+The aim of insulin therapy is to mimic physiological insulin replacement
+as close as possible in all age groups.
+The DCCT defines conventional therapy as administration of one or two
+daily insulin injections while intensive therapy refers to three or more
+injections/day.26, level I However, for this CPG, classification of insulin
+therapy is based on the latest ISPAD guidelines which define intensive
+regimens as four or more injections in a day.8
+Most insulin regimens include a proportion of rapid-acting or shortacting insulin as prandial insulin and intermediate-acting insulin or longacting as basal insulin. Some children may only require basal insulin
+during the partial remission phase.8
+• The choice of insulin regimen will depend on many factors that
+include:8
+ age of patient
+ duration of diabetes
+ lifestyle (dietary patterns, exercise schedules, schooling, work
+commitments, etc.)
+ target of metabolic control
+ preference of the patient/caregiver
+7.1 Principles of Insulin Therapy
+Common insulin regimen includes:
+• intensive insulin therapy
+ basal-bolus regimen
+ pump therapy [Continuous Subcutaneous Insulin Infusion (CSII)]
+ sensor-augmented therapy with basal-bolus regimen or pump
+therapy
+• less intensive insulin therapy
+ three injections daily using a mixture of rapid-acting/short-acting
+and intermediate-acting insulin pre-breakfast, rapid-acting/shortacting pre-dinner and intermediate-acting insulin pre-bed
+ two injections daily that consists of a mixture of rapid-acting/
+short-acting and intermediate-acting insulin pre-breakfast and
+pre-dinner
+Refer Appendix 5 for Types of Insulin Preparations and their Action
+Profiles
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+7.1.1 Intensive insulin therapy
+Intensive insulin therapy refers to four or more insulin injections per day
+or CSII.
+In DCCT, intensive insulin therapy compared with conventional insulin
+therapy efficaciously delayed the onset and slowed the progression of
+long-term (average follow-up of 6.5 years) diabetic complications in
+patients with T1DM:26, level I
+• Retinopathy
+ Primary-prevention cohort: reduction in mean risk of retinopathy
+by 76% (95% CI 62 to 85)
+ Secondary-intervention cohort: delay the progression of
+retinopathy by 54% (95% CI 39 to 66) and reduction in risk of
+proliferative or severe non-proliferative retinopathy by 47% (95%
+CI 14 to 67)
+• Nephropathy
+ Combined cohort: reduction in microalbuminuria by 39% (95% CI
+21 to 52) and albuminuria by 54% (95% CI 19 to 74)
+• Neuropathy
+ Reduction in clinical neuropathy by 60% (95% 38 to 74)
+The Epidemiology of Diabetes Interventions and Complications (EDIC)
+study, an observational follow-up of the DCCT cohort, demonstrated
+that further 3-step progression of retinopathy in adolescents at EDIC
+year four follow-up was lower in the intensive group compared with the
+conventional group (odds reduction of 72%, 95% CI 17 to 90) despite
+similar HbA1c levels at entry of EDIC. However, this beneficial effect
+was not seen at year ten follow-up (odds reduction of 0%, 95% CI -88
+to 49).68, level II-2
+Patients with T1DM on intensified insulin regimens have lower HbA1c
+levels compared with less intensive regimen at two years follow-up and
+this difference remains significant when adjusted for baseline HbA1c
+(p<0.05).69, level II-2
+Basal-bolus regimen
+The basal-bolus regimen (intermediate-acting insulin/long-acting
+basal once or twice daily and rapid-acting/short-acting boluses with
+meals and snacks) mimics the physiological insulin secretion. Basal
+insulin constitutes about 40 - 60% of the total daily insulin dose (TDD)
+requirements; the remainder is pre-prandial rapid-acting/short-acting
+insulin.8
+Pump therapy
+Insulin pump therapy is gaining popularity with a variable basal rate and
+bolus doses with meals.
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+CSII results in better metabolic control and lower TDD requirement
+compared with multiple daily injection (MDI) in short-term:70, level I
+• metabolic control, pooled WMD in HbA1c value of -0.29 (95% CI
+-0.47 to -0.11) at three months and -0.24 (95% CI -0.41 to -0.07) at
+one year
+• insulin requirement, pooled WMD of -0.22 (95% CI -0.31 to -0.14)
+There is no difference in hypoglycaemia and risk of DKA between CSII
+and MDI.
+Insulin pump use in children provides a sustained improvement in
+glycaemic control (p<0.001) and reductions of severe hypoglycaemia
+(p<0.001) and hospitalisation for DKA (p=0.003) compared with a
+matched cohort using injections at seven years follow-up.71, level II-2
+In young children 1 - 6 years old with T1DM, insulin pump therapy is
+a safe and efficacious alternative compared with insulin injection. The
+advantages include potential decrease in hypoglycaemic episodes and
+improvement in quality of life.72, level I
+7.1.2 Less intensive insulin therapy
+Less intensive regimen consists of three or less injections a day.
+Three injections daily consist of:8
+• rapid-acting/short-acting and intermediate-acting insulin pre-breakfast
+• rapid-acting/short-acting alone pre-lunch or pre-dinner
+• intermediate-acting insulin pre-bed
+Premixed insulin is not recommended for paediatric use because of its
+fixed ratio of insulin components and does not allow flexibility of dosing.
+However, if patients and their caregivers prefer less injections, selfmixed insulin (rapid-acting/short-acting and intermediate-acting insulin)
+given twice a day may be acceptable.8
+7.2 Insulin Formulation
+7.2.1 Short-acting insulin
+Short-acting insulin is still used as an essential component of most daily
+replacement regimens either:
+• in combination with intermediate-acting insulin in twice daily regimen
+• as pre-meal bolus injections in basal-bolus regimen together with
+intermediate-acting insulin/basal analog once or twice daily
+• as rescue insulin during crisis
+In a RCT on patients of 7 - 11 years of age with T1DM, the efficacy of
+rapid-acting insulin and short-acting insulin was found to be similar.73, level I
+However, in a later RCT on patients with a mean age of eight years
+(pre-pubertal), short-acting insulin showed better fasting BG (p=0.012)
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+and HbA1c (p=0.018) compared with the rapid-acting insulin. This study
+suggested that short-acting insulin can assure better plasma insulin
+levels between meals as compared with rapid-acting insulin in children
+who did not administer pre-snack insulin injection.74, level I
+7.2.2 Rapid-acting insulin
+Rapid-acting insulin has a faster onset and shorter duration of action than
+short-acting insulin.
+Insulin aspart given post-prandially is non-inferior and safe compared
+with pre-prandial administration in children and adolescents who
+require flexibility in timing of injections and dose adjustment according
+to meal.75, level I
+Rapid-acting insulin given before the evening meal (as part of a thrice
+daily insulin regimen) reduce the risk of early nocturnal hypoglycaemia
+(p=0.01).73, level I
+In patients on a twice daily insulin regimen (combination of intermediateacting insulin and rapid-acting/short-acting insulin), an additional
+injection of insulin lispro before the afternoon meal (two hours before
+dinner) reduces the pre-dinner BG (p=0.001).76, level I
+7.2.3 Basal insulin
+• Glargine
+In children aged 2 - 6 years, a daily injection of insulin glargine is as
+efficacious as twice daily injection of intermediate-acting insulin. Although
+the rate of composite hypoglycaemia [symptomatic hypoglycaemia,
+confirmed low CGM excursions (<3.9 mmol/L) and low fingerstick BG
+(<3.9 mmol/L)] is significantly higher with insulin glargine, there is no
+significant difference in severe and nocturnal hypoglycaemia between
+the two types of insulin.77, level I
+In children and adolescents with T1DM, insulin glargine is safe and
+non-inferior compared with intermediate-acting insulin/Lente as basal
+insulin options in MDI regimens. However in those with high baseline
+HbA1c, insulin glargine is more efficacious than intermediate-acting
+insulin/Lente in reducing HbA1c.78, level I In a similar age group, a daily
+insulin glargine injection is equally efficacious either given pre-breakfast
+or at bedtime.79, level I
+• Detemir
+Insulin detemir is equally efficacious in reducing HbA1c compared with
+intermediate-acting insulin of a basal-bolus regimen in children with
+T1DM at 26 weeks. However, it has a significantly lower and more
+predictable fasting BG, lower weight gain and lower risk of nocturnal
+hypoglycaemia.80, level I
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+In a study on children and adolescents aged 2 - 16 years, insulin detemir
+given once or twice daily was non-inferior to intermediate-acting insulin
+in glycaemic control at 52 weeks and was associated with a significantly
+lower risk of hypoglycaemia and lower weight SD score.81, level I Similar
+findings were observed in children aged 2 - 5 years.82, level I
+7.3 Insulin Dosage
+Insulin dosage depends on many factors:8
+• age
+• weight
+• stage of puberty
+• duration and phase of diabetes
+• state of injection sites
+• nutritional intake and distribution
+• exercise duration and intensity
+• daily routine
+• SMBG and HbA1c level
+• intercurrent illness
+• The guidelines on TDD are as follows:8
+ during partial remission phase, the TDD is often <0.5 IU/kg/day
+ pre-pubertal children usually require 0.7 - 1.0 IU/kg/day
+ during puberty, higher requirements may be needed, 1.2 - 2 IU/kg/
+day
+Children on twice daily regimens often require about two thirds of their
+TDD in the morning and about one third in the evening. About one third
+of each insulin dose is rapid-acting or short-acting insulin and about two
+thirds is intermediate-acting insulin.8
+Children on basal-bolus regimen require night-time intermediate-acting
+insulin between 30% (if on short-acting insulin) and 50% (if on rapidacting insulin) of TDD; the remainder is pre-prandial rapid-acting/shortacting insulin.8
+Refer to Appendix 5 on Types of Insulin Preparations and their
+Action Profiles.
+Refer to Appendix 5 on Insulin Approval by U.S. Food and Drug
+Administration (FDA), and European Medicines Agency (EMEA)
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+Recommendation 7
+• Intensive insulin therapy is the preferred regimen in patients with
+type 1 diabetes mellitus (T1DM).
+• Rapid-acting or short-acting insulin should be made available to
+patients with T1DM for crisis management*.
+• Comprehensive education appropriate for the age, maturity and
+individual needs of the child should be offered to all patients with
+T1DM and their caregivers.
+*Refer to Chapter 14 on Special Situations (Sick Day).
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+8. INSULIN DOSE ADJUSTMENT
+For patients with T1DM on basal bolus therapy, pre-meal insulin dose
+may be adjusted based on insulin to carbohydrate ratio (ICR) or insulin
+sensitivity factor (ISF). Detailed record of SMBG, carbohydrate intake and
+insulin doses are crucial when making insulin dose adjustments.83, level III
+8.1 Insulin to Carbohydrate Ratio
+• ICR is defined as the amount of carbohydrate in gramme covered
+by one unit (IU) of rapid-acting or short-acting insulin.
+• It can be calculated by using the 500 (for rapid-acting insulin)
+8; 83, level III and 450 (for short-acting insulin)84, level III rules.
+• ICR for most children are 1:20 or 1:25.83, level III However in practice,
+adolescents may require more insulin and thus giving a higher ICR
+(e.g. 1:15). ICR is often higher for breakfast due to higher insulin
+resistance.
+• For very young children requiring <10 IU of insulin per day, the 300
+- 450 rule may be used.83, level III
+• The 500 rule for rapid-acting insulin:
+ICR
+=
+500
+Total daily insulin*
+*basal and bolus insulin
+For example, a child requires 6 IU of rapid-acting insulin for breakfast,
+lunch and dinner, and 12 IU of basal insulin. The total daily insulin dose
+is 30 IU (6 IU + 6 IU + 6 IU +12 IU) and the ICR is 16.7 g/IU (500
+divided by 30 IU). Therefore, every 16.7 g of carbohydrate consumed
+will require 1 IU of rapid-acting insulin.
+• The 450 rule for short-acting insulin:
+ICR
+=
+450
+Total daily insulin*
+*basal and bolus insulin
+• Alternatively, ICR for individual meal can be calculated by dividing
+the carbohydrate content in gramme by the insulin dose in IU. This
+formula can only be used if the difference in BG level between the
+pre- and post-meal is not more than 3 mmol/L.8
+For example, a child consumes a meal with carbohydrate content of
+45 g and requires 3 IU of insulin. The ICR is 15 g/IU (45 g divided by 3
+IU). Therefore, every 15 g of carbohydrate consumed will require 1 IU
+of rapid-acting insulin.
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+8.2 Insulin Sensitivity Factor
+• ISF is defined as the amount of BG in mmol/L reduced by one
+unit (IU) of rapid-acting or short-acting insulin and used to correct
+hyperglycaemia.
+• The 100 rule for rapid-acting insulin:8; 83, level III
+ISF
+=
+100
+Total daily insulin*
+*basal and bolus insulin
+• The 83 rule is for short-acting insulin:8; 83, level III
+ISF
+=
+83
+Total daily insulin*
+*basal and bolus insulin
+For example, a child requires 6 IU of short-acting insulin for breakfast,
+lunch and dinner, and 12 IU of basal insulin. The total daily insulin dose
+is 30 IU (6 IU + 6 IU + 6 IU + 12 IU) and the ISF is 2.76 mmol/L/IU
+(83 divided by 30 IU). Therefore, every 1 IU of short-acting insulin will
+reduce the BG by 2.76 mmol/L.
+If the BG level is persistently above the target during:8
+• pre-breakfast - increase pre-dinner or basal insulin
+• pre-lunch
+- increase pre-breakfast rapid-acting or short-acting
+insulin, or pre-breakfast basal insulin
+• pre-dinner
+- increase pre-lunch rapid-acting or short-acting
+insulin, or pre-breakfast basal insulin
+• post-meal
+- increase pre-meal rapid-acting or short-acting insulin
+Although evidence on insulin dose adjustments is based on guidelines
+and a narrative review, ICR and ISF are the only objective methods
+that are widely practiced at the moment. Thus, the DG CPG strongly
+recommends its use for the purpose.
+Recommendation 8
+• Insulin dose adjustment may be done based on insulin to
+carbohydrate ratio and insulin sensitivity factor in patients with type
+1 diabetes mellitus on basal bolus regimen.
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+9. HYPOGLYCAEMIA
+Hypoglycaemia is common among patients with T1DM and is defined
+as low BG level that predisposes patients to potential harm. Counterregulation begins at <4 mmol/L in a non-diabetic person. There is
+no single numerical definition of hypoglycaemia for all patients and
+situations. However, it is often defined as a BG level of <3.6 mmol/L but
+the threshold for initiation of treatment is 3.9 mmol/L because of the risk
+of it falling further.8
+Hypoglycaemia can be symptomatic or asymptomatic. Signs and
+symptoms of hypoglycaemia are due to adrenergic activation and
+neuroglycopaenia as shown below.8
+Autonomic
+signs and
+symptoms
+• Shakiness
+• Sweatiness
+• Tremors
+• Palpitations
+• Pallor
+Neuroglycopaenic
+signs and
+symptoms
+• Poor
+concentration
+• Blurred or double
+vision
+• Disturbed colour
+vision
+• Difficulty in
+hearing
+• Slurred speech
+• Poor judgment
+and confusion
+• Problems
+with short-term
+memory
+• Dizziness and
+unsteady gait
+• Loss of
+consciousness
+• Seizure
+• Death
+Behavioural
+signs and
+symptoms
+• Irritability
+• Erratic behaviour
+• Agitation
+• Nightmares
+• Inconsolable
+crying
+Non-specific
+symptoms
+• Hunger
+• Headache
+• Nausea
+• Tiredness
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+Precipitating and risk factors of hypoglycaemia are listed in the following
+box.8
+Treatment
+The goal of hypoglycaemia treatment is to restore the BG to normal
+level (5.6 mmol/L).8
+• Mild/moderate hypoglycaemia8
+If the BG level is low (3.3 - 3.9 mmol/L) and although patient is
+asymptomatic, oral glucose of 0.3 g/kg (1 tablespoon≈10 g and
+1 teaspoon≈5 g) will increase the BG level sufficiently. Check BG
+after 10 - 15 minutes and repeat oral glucose administration if there
+is no improvement. Thereafter, complex carbohydrates in the form
+of fruit, bread, cereal or milk can be consumed to prevent recurrent
+hypoglycaemia.
+Patients should carry with them a hypokit consisting of glucose sachet
+or glucose tablet and a serving of complex carbohydrates such as
+biscuits.
+If sucrose is used, a greater amount of it will be needed to provide the
+same increase in BG level compared with glucose. Foods containing
+fat will slow down the glucose absorption and should be avoided as the
+initial treatment of hypoglycaemia.
+• Severe hypoglycaemia8
+Severe hypoglycaemia is defined as an event of low BG requiring
+assistance of another person to reverse the condition. However in
+young children, even mild to moderate hypoglycaemia often require
+assistance of caregivers. Therefore, the above definition is not applicable
+to them. Generally, severe hypoglycaemia in paediatric population is
+defined as an event associated with severe neuroglycopaenia which
+usually results in coma or seizure and requires parenteral therapy [SC/
+intamuscular (IM) glucagon or IV glucose].
+• Severe hypoglycaemia warrants urgent treatment.
+ In the hospital environment, this can be safely and rapidly treated
+by IV dextrose 10% (2 - 3 ml/kg) administration.
+ If IV access is not available, SC/IM glucagon can be given (0.5 mg
+for patients <12 years old and 1.0 mg for those >12 years old).
+Precipitating factors
+• Excess insulin
+• Less food consumption
+• Exercise
+• Alcohol ingestion
+Risk factors
+• Young age
+• Low HbA1c level
+• Hypoglycaemia unawareness
+• Previous severe hypoglycaemia
+• Longer duration of diabetes
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+Ideally, glucagon (SC/IM) should be accessible to all patients and
+caregivers, particularly if there is high risk of severe hypoglycaemia.
+Education on its administration is important.8 Although glucagon pen is
+not available locally, hopefully it will be more readly available in future.
+When parenteral dextrose and glucagon are not available, a practical
+management is to administer a rapid-acting source of glucose such as
+honey onto the buccal mucosa; however this is not based on scientific
+evidence. In the recovery phase after treatment, close observation and
+glucose monitoring is essential. Hypoglycaemia may recur and patients
+may require oral glucose and/or IV infusion of dextrose.
+• Nocturnal hypoglycaemia8
+Nocturnal hypoglycaemia is common in patients with T1DM and often
+undetected by the patients or their caregivers. During sleep, the counter
+regulatory responses to hypoglycaemia are decreased in patients with
+T1DM who are less likely to be awakened by this condition.
+• Nocturnal hypoglycaemia should be suspected in the following
+conditions:
+ low pre-breakfast BG
+ confusional states
+ nightmares
+ seizures at night
+ impaired thinking, lethargy, altered mood or headaches upon
+waking
+Regular overnight BG monitoring should be done to detect nocturnal
+hypoglycaemia especially in the presence of precipitating/risk factors.
+Recommendation 9
+• Patients with type 1 diabetes mellitus (T1DM) and their caregivers:
+ should be able to recognise precipitating factors of hypoglycaemia
+and take appropriate precautions
+ must be able to recognise symptoms of hypoglycaemia and give
+prompt treatment
+ should always have hypokit consisting of glucose sachet or
+glucose tablet and a serving of complex carbohydrates easily
+accessible at all times
+• Patients with T1DM and their caregivers should monitor overnight
+blood glucose level on a regular basis to prevent nocturnal
+hypoglycaemia.
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+10. MEDICAL NUTRITION THERAPY
+Medical nutrition therapy (MNT) is an essential component of
+T1DM management. It involves nutritional assessment, diagnosis,
+intervention, monitoring and evaluation.85 It is recommended for
+all children and adolescents with T1DM. Glycaemic control can be
+improved by implementing an individualised meal plan with appropriate
+insulin adjustments.8
+MNT consists of:8
+• energy balance, energy intake and food components
+• nutritional care, education and meal planning
+• dietary recommendations for specific insulin regimes
+• nutritional management of physical activities
+The aims of MNT are:8
+• to provide adequate energy intake and nutrients for optimal growth
+and development while maintaining quality of life
+• to achieve optimum glycaemic control by maintaining a balance
+between food intake, energy expenditure and insulin action profiles
+• to prevent and treat acute complications (hypoglycaemia,
+hyperglycaemia, illness and exercise-related problems) and reduce
+the risk of long-term complications
+• to provide an individualised meal plan consisting of three meals a
+day with appropriate healthy snacks (when necessary) in order to
+have a framework for regular BG monitoring
+10.1 Energy Balance, Energy Intake and Food Components
+• Daily energy intake varies among children and adolescents, depending
+on age, stages of growth, physical activities and type of food.
+• Total calorie intake should be distributed as follows:8
+ carbohydrate (carb) 50 - 55%
+ fat 25 - 35%
+ protein 15 - 20% [high protein diet (>25% total daily calorie intake)
+are not recommended]
+• Food components:8
+ healthy sources of carbohydrate - e.g. whole grain breads and
+cereals, legumes, fruits, vegetables and low-fat dairy products
+(full-fat in children under two years)
+ fat - reduce the intake of saturated fat and trans-fatty acids.
+Substitute saturated fat with monounsaturated (MUFA) and
+polyunsaturated fatty acids (PUFA) to improve the lipid profile.
+Examples of MUFA are olive, canola, sesame and rapeseed oil.
+Examples of PUFA are sunflower, safflower, corn, soybean,
+cottonseed, rice bran, peanut oil and oily marine fish [e.g. salmon,
+toli shad (terubok), mackerel and anchovy]
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+ protein - intake should be similar to normal healthy children
+ fibre - consume fruits and vegetables daily according to age
+requirement. One serving of vegetable is equivalent to ½ cup of
+cooked vegetable or 1 cup for raw vegetable. The recommended
+amount of fibre per day follows the formula of:
+Age in years + 5 = Amount of fiber per day (g) for patients more than
+two years old
+Refer to Appendix 6.
+10.2 Nutritional Care, Education and Meal Planning
+Carb counting is widely used in MNT for T1DM. It is a meal planning
+approach for T1DM focusing on carbohydrate which is the primary
+nutrient affecting post-prandial glycaemic response.8; 83, level III
+Carb counting significantly improves metabolic control in children and
+adolescents with T1DM compared to those without the intervention
+at two years follow-up. It does not cause significant weight gain or
+increase in insulin requirement.86, level I
+Carb counting combined with nutritional education reduce HbA1c
+without changing insulin requirement (p<0.001) and do not negatively
+affect dietary habits and waist-to-height ratio (a relatively constant
+anthropometric index in detecting central intra-abdominal obesity and
+related cardio metabolic risk among children) at 18 months.87, level II-3
+In calculating mealtime insulin to maintain post-prandial control,
+carbohydrate estimations should be within 10 g of the actual meal
+carbohydrate content.88, level I A deviation of more than 20 g in the
+estimations will cause significant hyper- or hypoglycaemia.89, level II-3
+Carb counting in gramme increments (e.g. 30 g) does not significantly
+increase accuracy compared with portions or exchange estimations
+(e.g. 2 exchanges). Large meals tend to be underestimated and snacks
+overestimated.90, level III
+The usual method of quantifying carbohydrate is to use a 15 g
+carbohydrate exchange. Refer to Appendix 7 and Appendix 8.
+Photographic materials is better than list materials in training
+adolescents with T1DM to perform carb counting (p=0.03). It is easier
+to be used for teenagers who have no experience in portioning of food
+and parents with low educational level.91, level I
+Recommendation 10
+• Carbohydrate counting should be incorporated as part of the
+management of type 1 diabetes mellitus patients.
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+It is helpful to consider the glycaemic index (GI) and glycaemic load
+of the food consumed in the management of T1DM. Low GI diet has
+additional benefit to glycaemic control when practised together with
+carb counting.8
+Children on low GI diet together with carb counting achieve significantly
+better HbA1c and less hyperglycaemia episodes compared with those
+on carb counting alone at 12 months.92, level I A low GI day results
+in significantly better glycaemic control but more episodes of
+mild hypoglycaemia compared to a high GI day.93, level II-1 Refer to
+Appendix 8.
+10.3 Dietary Recommendations for Specific Insulin Regimes
+10.3.1 Conventional therapy
+Consistency in carbohydrate intake is required for patients on twice
+daily insulin regimens to prevent hypoglycaemia during periods of
+peak insulin action. However, this meal plan requires regular review
+in a growing child. Patients/caregivers who can adjust the rapidacting/short-acting insulin (self-mixed insulin) have more flexibility with
+carbohydrate consumption. Pre-bed carbohydrate intake is required to
+prevent nocturnal hypoglycaemia.8
+Patients on conventional therapies will require:
+• fixed meal times
+• consistent carbohydrate intake/meal/day
+Patients may require snacks in between main meals to prevent
+hypoglycaemia during the peak action of self-mixed insulin.
+10.3.2 Intensive Insulin Therapy
+Intensive insulin therapy mimics endogenous insulin production.
+Individualised ICR using more flexible approach enables insulin dose
+to be matched to carbohydrate intake. The need for snacking between
+meals will be reduced due to the greater variety of food intake, which is
+allowed at different meal times. Refer to Section 8.1.
+10.4 Nutritional Management of Physical Activities
+10.4.1 Unplanned and Spontaneous Activity
+Hypoglycaemia commonly occurs during unplanned physical activities.
+Nutritional strategies to avoid this are:8
+• Quick acting carbohydrate (beverages) for a short duration activity
+if necessary but this should not exceed the energy expenditure.
+Example is isotonic sport drink containing 6 - 8% carbohydrate per
+serving.
+• Carbohydrate requirement depends on the:
+ pre-exercise BG level
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+ the intensity and duration of the exercise
+ the insulin regimen, and the time and dose of the last insulin
+injection
+ the age and weight of the patient
+• BG testing need to be done after an activity to allow appropriate
+management. Delayed hypoglycaemia can be prevented by reducing
+the evening insulin doses and increasing carbohydrate intake.
+• Nocturnal hypoglycaemia can be prevented by monitoring the pre-bed
+and overnight BG and adding carbohydrate consumption at dinner and
+pre-bed if necessary.
+10.4.2 Planned or competitive sports
+The planning for nutritional strategy prior to exercise includes
+appropriate insulin adjustment, adequate nutrition and fluid intake:8
+• Low-fat meal (carbohydrate-based) should be eaten 1 - 3 hours prior
+to a sport to reduce the risk of gastrointestinal discomfort and make
+digestion easier. Examples are fruit, milk, yoghurt, milkshake, sport or
+cereal bars (check labels for carbohydrate and protein content) and
+breakfast cereal with milk.
+• Prior to and during strenuous exercise, additional ‘quick acting
+carbohydrate’ as beverages may be needed.
+• If aerobic exercise is performed during peak insulin action without
+insulin adjustment, an intake of 1.0 - 1.5 g carbohydrate/kg/hour of
+exercise may be required.
+• Pre-exercise carbohydrate consumption should be tailored according
+to pre-exercise BG. Consume 10 - 15 g of carbohydrate if BG is low or
+alternatively adjust insulin dose.
+• Adequate fluid intake is important to maintain optimal hydration.
+• To prevent post-exercise hypoglycaemia, carbohydrate intake needs
+to be adequate. Carbohydrate mixed with protein may be beneficial.
+Recommendation 11
+• Appropriate nutritional strategies should be tailored to the age,
+insulin regimen and physical activities of the patient with type 1
+diabetes mellitus.
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+11. PSYCHOSOCIAL SUPPORT
+Young patients with T1DM have higher prevalence of affective disorders
+(anxiety and depression) compared to non-diabetics (p<0.001).94, level III
+The prevalence of mild depression in T1DM youth is 14% while moderate
+to severe depression at 8.6%. Depressed mood is associated with poor
+glycaemic control and more frequent visit to emergency department
+(p<0.005).95, level III Psychiatric co-morbidites (depressive disorders,
+anxiety disorders and phobic disorders) in T1DM adolescents increase
+the odds for repeat hospital admission for diabetes (OR=1.79, 95% CI
+1.27 to 2.52).96, level III
+There is also increased incidence of eating disorders among patients
+with T1DM compared to non-diabetics.8; 96, level III The standardised
+mortality rate in patients with concurrent T1DM and anorexia nervosa
+patients is 2.18 (95% CI 1.15 to 4.42).97, level III
+T1DM is an important risk factor for cognitive deficits. TIDM patients
+with longer duration of diabetes, earlier age of diabetes onset and
+DKA have lower test score in comprehension, abstract reasoning and
+intelligent quotient compared to non-diabetics.98, level II-2
+The relationship between psychological factors and metabolic control
+is bidirectional. Therefore, psychosocial supports are important in
+managing children and adolescents with T1DM.
+• Psychosocial factors that predict poor metabolic control in T1DM
+are:99 -100, level II-2
+ low family support/cohesion
+ single parent
+ family stress/conflict
+ presence of psychiatric disorder/eating disorder
+ extreme peer pressure
+ others:
+- low conscientiousness
+- low self-efﬁcacy
+- avoidant emotion-focused coping style
+- low executive functioning
+Psychosocial interventions improve HbA1c in children and adolescents
+with T1DM (SMD= -0.35, 95% CI -0.66 to -0.04).101, level I These
+interventions also significantly improve the psychological distress in the
+patients.101 - 102, level I
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+The psychosocial interventions involving parents/caregivers have
+been shown to be efficacious in improving metabolic control. These
+interventions include:101 - 103, level I; 104, level II-2
+• psychoeducation
+• problem solving skills
+• coping skills
+• supportive or counselling therapy
+• family therapy
+• cognitive behaviour therapy
+The above psychosocial interventions are commonly carried out in
+hospital outpatient and community settings such as diabetes summer
+camps. Diabetes camps are shown to improve both diabetes knowledge
+and metabolic control in patients with T1DM.102, level I Participation of the
+patients in diabetes camp is a component of total diabetes care and it
+should be encouraged.
+Recommendation 12
+• Periodic assessment should be performed in all patients with type 1
+diabetes mellitus for early recognition of psychosocial problems and
+referral to appropriate expertise.
+• Diabetes team should consist of paediatrician, diabetes educator,
+dietitian, pharmacist, psychiatrist/clinical psychologist/counsellor
+and medical social officer.
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+12. PHYSICAL ACTIVITY (EXERCISE)
+Physical activity is an essential component in the management of
+T1DM. Diabetic patients have higher risk of developing cardiovascular
+disease.105 It is important for the patients to engage in regular physical
+activity, together with insulin therapy and dietary adjustment.
+Physical activity (exercise) can be divided into types:8
+i. Aerobic (cardiovascular) exercise is a low intensity physical activity
+that depends primarily on the aerobic energy-generating process
+and the use of oxygen adequately to meet energy demands.
+Examples of aerobic/cardiovascular exercise are medium to long
+distance running/jogging, swimming, cycling, and walking.
+Aerobic exercise tends to lower BG level both during (usually within
+20 - 60 minutes from the start of exercise) and after the exercise.
+ii. Anaerobic exercise is a high intensity physical activity. It is intense
+enough to trigger lactate formation and performed in excess of 90%
+maximum heart rate. Examples include weight training, sprinting
+and burst training.
+Although anaerobic exercise last only a short time (sometimes only
+seconds), it may increase the BG level dramatically due to the release
+of the hormones epinephrine and glucagon. This rise in BG is usually
+transient, lasting typically 30 - 60 minutes, and may be followed by
+hypoglycaemia a few hours after the exercise ends.
+12.1 Benefits of Physical Activity
+There are benefits of physical activity on HbA1c (SMD= -0.52, 95% CI
+-0.97 to -0.07), triglyceride (SMD= -0.70, 95% CI -1.25 to -0.14), total
+cholesterol (SMD= -0.91, 95% CI -1.66 to -0.17) and BMI (SMD= -0.41,
+95% CI -0.7 to -0.12).106, level II-1
+Physical activity that significantly improve glycaemic control are:107, level I
+• duration of >60minutes per session
+• higher frequency of >3 times in a week
+• longer duration programme of >3 months
+• combined aerobic and resistance training
+12.2 Risk of Hypoglycaemia Associated with Physical Activity
+Although hypoglycaemia is a common problem in children and adolescent
+with T1DM, there is no significant severe hypoglycaemia reported in
+post-physical activity.106, level II-1 It can occur during, immediately after or
+several hours after (mainly 12 - 14 hours or longer) physical activity.8
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+Possible reasons for hypoglycaemia are:8
+• high intensity and long duration exercise (>30 - 60 minutes)
+• >3 hours interval between the last meal and exercise
+• not having a snack before and during exercise
+• hyperinsulinemia during exercise (exercise during peak action of
+insulin)
+• If hypoglycaemia occurs during exercise:8
+ stop physical activity immediately
+ consume a rapid-acting 15 g carbohydrate
+ take additional carbohydrate if hypoglycaemia persists
+ monitor BG level until it is normal
+Post-exercise hypoglycaemia and late onset hypoglycaemia can present
+between four and 24 hours after exercise especially in prolonged and
+moderate or high intensity physical activity. This is due to the late effect of
+increased insulin sensitivity and, delay in replenishing liver and muscle
+glycogen stores.8
+12.3 Prevention of Hypoglycaemia during Physical Activity
+Hypoglycaemia during physical activity can be prevented by adjustment
+of insulin injections and carbohydrate supplement.
+• Adjustment of insulin injections8
+The use of insulin should be tailored to type and duration of exercise.
+ Reduction in bolus insulin is required to prevent hypoglycaemia
+during prolonged exercise. The usual recommendation is to reduce
+rapid-acting insulin prior to exercise lasting longer than 30 minutes.
+ Substitution of basal analog (long-acting insulin) given in the
+evening with an intermediate-acting insulin if the patient is taking
+part in all-day tournaments. Alternatively, split the TDD in half to
+be given as basal analog. Take half of the basal analog in the
+evening and then lower the second dose in the morning by 20 -
+50% to compensate for the increased activity.
+• Carbohydrate supplement
+ Refer to Chapter 10 on Medical Nutritional Therapies
+(Nutritional Management of Physical Activities)
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+• The following steps should be observed regarding physical activity:8
+ Avoid strenuous physical activity if pre-exercise BG is high
+(>14mmol/L) with ketonuria or ketonaemia.
+ Increase the intensity and duration of physical activity in a
+progressive manner.
+ Do not inject insulin in the site that will be heavily involved in
+muscular activity e.g. not to inject in the thigh before cycling.
+ Avoid physical activity exercise at peak action of insulin.
+ Consider reducing evening basal insulin.
+ Monitor BG in evening and night after physical activity to avoid
+nocturnal hypoglycaemia.
+ Carry some sugar and drink more water.
+Children with T1DM should be able to adjust insulin therapy before and after
+physical activities to avoid major metabolic complications.108, level III During
+unplanned physical activity, carbohydrate supplement before moderateintensity exercise can prevent dramatic drop in BG in adolescents.109, level III
+Recommendation 13
+• Physical activities should be performed regularly and in a safe manner*
+in patients with type 1 diabetes mellitus.
+*Refer to the preceding text.
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+13. SELF-MONITORING BLOOD GLUCOSE
+SMBG is an important aspect of diabetes self-care practice and should
+be practiced by all children and adolescents with T1DM. Maintaining BG
+at or very near the normal range is known to decrease the progression
+of microvascular disease in the affected young patients. SMBG is
+conducted by measuring capillary BG via glucometer.
+The aims of SMBG are:8
+i. to accurately assess the level of glycaemic control of each individual
+so that they can achieve their glycaemic targets
+ii. to reduce the risk of hypoglycaemia, DKA, and chronic complications
+of microvascular and macrovascular diseases
+iii. to minimise the fluctuation of blood glucose and its effect on
+cognitive function and mood
+iv. to understand determinants of glycaemic control in each individual
+and specific patient groups
+Frequency of SMBG correlates with glycaemic control. It should be
+prescribed at a frequency that can optimise patient’s diabetes control,
+usually four to six times a day. The number and regularity of SMBG
+should be individualised based on:8
+• availability and cost of equipment
+• type of insulin regimen
+• ability of the patient to identify hypoglycaemia
+• SMBG provides immediate documentation of glucose levels. It allows
+prompt actions to be taken for optimal treatment and prevention of
+hypo- or hyperglycaemia when it is performed at the correct timing
+as suggested below:8
+ To optimise basal insulin, blood testing should be done at bedtime,
+during the night (e.g. 3 am to detect nocturnal hypoglycaemia and
+hyperglycaemia) and after the overnight fast (pre-breakfast).
+ For immediate adjustment of meal insulin dose, pre-meal blood
+testing should be done. For subsequent adjustment of meal insulin
+dose, blood testing should be done pre-meal and two hours postmeal to show levels of BG in response to the meal insulin.
+ For glycaemic control during vigorous/prolonged exercise, blood
+testing should be done before, during and several hours after the
+exercise.
+ Blood testing should be done when hypoglycaemia is suspected.
+It should also be done during intercurrent illness to prevent
+hyperglycaemia.
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+• It is a good practice to keep a diary to record glucose levels, insulin
+dosages and dietary details for treatment adjustments. This diary
+should be reviewed regularly by patients, families and healthcare
+providers.
+Recommendation 14
+• Self-monitoring of blood glucose (SMBG) should be practised by all
+children and adolescents with type 1 diabetes mellitus.
+• SMBG should be performed four to six times a day and more
+frequent in certain conditions such as sick day or during exercise.
+Continuous Glucose Monitoring System
+Continuous Glucose Monitoring System (CGMS) uses minimally
+invasive device to measure SC interstitial fluid glucose every 1 - 5
+minutes (continuously). This device is expensive and not affordable to
+most families.
+In a multicentre RCT, there was no significant difference in HbA1c
+reduction between continuous glucose monitoring and SMBG (>5 times
+per day) in patients with T1DM aged 8 - 24 years old at 26 weeks
+follow-up. However, in patients aged 8 to 14 years, secondary indexes
+of glycaemic control (measured as relative reduction of ≥10% in HbA1c
+level from baseline and HbA1c levels of <7.0%) significantly improved
+in the continuous monitoring group compared with the control group.110, level I
+In a small RCT on patients with T1DM and mean age of 11.4±3.7 years,
+the HbA1c was significantly lower in the intervention group (adjustments
+in therapy based on both CGMS and SMBG data) compared with
+control group (adjustments based on SMBG data only) at six months
+(p=0.02) without increasing the risk for hypoglycaemia.111, level I
+Indications for CGMS are:112, level III
+• failure to achieve individual’s glycaemic target (HbA1c) despite
+optimal use of intensive insulin regimens
+• suspected nocturnal hypoglycaemia and/or early morning
+hyperglycaemia
+• suspected unrecognised hypoglycaemia e.g. exceptionally low
+HbA1c without reported hypoglycaemia
+• recurrent severe hypoglycaemia and hypoglycaemia unawareness
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+Self-monitoring of urinary or blood ketones
+Urine or blood ketones measurement should be monitored during
+episodes of uncontrolled hyperglycaemia, intercurrent illness (sick
+days) and impending ketoacidosis:8
+• especially with presence of abdominal pains, vomiting, drowsiness
+or rapid breathing
+• when there is persistent BG levels >14 mmol/L (250 mg/dL)
+However in local setting, the blood ketone strips are expensive and
+urinary ketone strips for self-monitoring are not widely available or
+affordable.
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+14. SPECIAL SITUATIONS
+In children and adolescents with T1DM, there are special circumstances
+when glucose metabolism is significantly altered, requiring additional
+monitoring of BG and/or adjustment of the patients’ daily insulin
+dose. The school or daycare setting also presents challenges in the
+management of the patients with T1DM. The healthcare team needs
+to provide clear guidance to patients and their caregivers on how to
+manage these special situations.
+14.1 Sick Day
+Some illnesses, especially those associated with fever, raise BG levels
+because of higher levels of stress hormones promoting gluconeogenesis
+and insulin resistance. Illness often increases ketone body production
+due to inadequate insulin levels leading increased insulin requirement.
+The increased need for insulin may persist for a few days after recovery
+from an illness due to insulin resistance.
+In contrast, illness associated with vomiting and diarrhoea (e.g.
+viral gastroenteritis) may lower BG with the increased possibility of
+hypoglycaemia. Decreased food intake, poorer absorption and a slower
+emptying of the stomach or overt diarrhoea with more rapid transit
+during gastroenteritis may contribute to such hypoglycaemia.
+Healthcare providers should provide clear guidance to patients and
+their caregivers on the management of diabetes during intercurrent
+illnesses. The patients and their caregivers should know the contacts
+of emergency medical service during this period. Education on sick
+day management should be given to patients and their caregivers
+periodically to avoid complications such as DKA, dehydration, uncontrolled
+hyperglycaemia and hypoglycaemia.8
+The insulin dose usually needs to be increased when there is fever
+or intercurrent illness, based on frequent BG and urine/blood ketone
+measurements.8 Guidelines for insulin adjustment during sick days are
+shown in Table 6.
+• General Principles of Diabetes Sick Day Management:8
+1. DO NOT STOP INSULIN.
+2. Monitor BG and ketone (urine or blood) more frequently.
+3. Monitor and maintain electrolytes and water balance.
+4. Patients and their caregivers should be taught on sick day
+management guidelines soon after diagnosis and periodically
+thereafter.
+5. Treat the underlying precipitating illness.
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+Table 6. Guidelines for insulin adjustment during sick days
+Refer to Chapter 8 for the Insulin Dose Adjustment.
+Modified: International Society for Pediatric and Adolescent Diabetes (ISPAD).
+Pediatric Diabetes. Oxford: Wiley Blackwell; 2014
+Ketones
+Blood Glucose
+Blood
+ketones
+mmol/L
+<0.6
+0.6 - 1.4
+1.5 - 2.9
+>3.0
+Urine
+ketones
+Negative
+or trace
+Trace,
+small to
+moderate
+Moderate
+to large
+Large
+<5.5 mmol/L
+• Do not
+give extra
+insulin
+• Recheck
+BG &
+ketones in
+2 hours
+• Starvation
+ketones
+• Extra
+carb &
+fluid are
+needed
+• High
+levels of
+starvation
+ketones
+• Check BG
+meter
+• Recheck
+BG &
+ketones
+• Extra carb
+& fluid are
+needed
+• Very high
+levels of
+starvation
+ketones
+• Check BG
+meter
+• Recheck
+BG &
+ketones
+• Extra carb
+& fluid
+are
+needed
+5.5 to 10
+mmol/L
+No insulin
+adjustment
+needed
+• Starvation
+ketones
+• Extra
+carb &
+fluid are
+needed
+• No insulin
+adjustment
+needed
+• High levels
+of
+starvation
+ketones
+• Extra
+carb &
+fluid are
+needed
+• Give 5% of
+TDD or
+0.05 IU/kg;
+repeat
+insulin
+dose when
+BG has
+risen
+• Very high
+levels of
+starvation
+ketones
+• Extra carb
+& fluid are
+needed.
+• Give 5% of
+TDD or
+0.05 IU/kg;
+repeat
+insulin
+dose when
+BG has
+risen
+>10 to 14
+mmol/L
+Add correction
+dose of
+insulin
+according to
+ISF
+• Extra carb
+& fluid may
+be needed
+• Give 5 -
+10% of
+TDD or
+0.05 - 0.1
+IU/kg
+• Extra carb
+& fluid are
+needed
+• Give 10%
+of TDD or
+0.1 IU/kg
+• Extra carb
+& fluid are
+needed
+• Give 10%
+of TDD or
+0.1 IU/kg
+>14 to 22
+mmol/L
+Give extra
+5% of TDD or
+0.05 IU/kg
+Give extra 5 -
+10% of TDD
+or 0.05 - 0.1
+IU/kg
+>22 mmol/L
+• Give extra 10% of
+TDD or 0.1 IU/kg
+• Repeat if needed
+• Give extra 10% of
+TDD or 0.1 IU/kg
+• Repeat if needed
+Give extra 10 - 20% of TDD or 0.1
+IU/kg; repeat insulin dose after 2
+hours if ketones do not decrease
+Give extra 10 - 20% of TDD or 0.1
+IU/kg; repeat insulin dose after 2
+hours if ketones do not decrease
+There is an immediate risk of ketoacidosis if the blood ketone level is ≥3.0 mmol/L.
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+Vomiting in a sick child or adolescent with diabetes should be considered
+as a sign of insulin deficiency until proven otherwise. (Blood ketones
+are preferred over urine ketones if available. Aim for a BG between 4
+and 10 mmol/L and blood ketones below 0.6 mmol/L.8
+Refer to Chapter 6 on Diabetes Ketoacidosis (Diagnosis).
+• URGENT medical consultation must be obtained when a child or
+adolescent with T1DM has the following features:8
+ persistent fever or the underlying illness is unclear
+ caregivers are uncomfortable in providing home care
+ weight loss suggesting dehydration and potential circulatory
+compromise
+ persistent vomiting beyond two hours (particularly in young
+children)
+ altered neurological status (e.g. mental confusion and loss of
+consciousness) and seizures which may indicate impending
+cerebral oedema
+Emergency medical consultation should be facilitated including transfer
+of patients to the hospital.
+Recommendation 15
+• For management of patients with type 1 diabetes mellitus during sick
+days:
+ insulin should not be omitted
+ blood glucose and blood/urine ketone should be monitored more
+frequently
+ insulin dose should be adjusted accordingly
+14.2 Eating Out
+Children and adolescents with T1DM should be allowed to eat out at
+restaurant, festival, parties or “kenduri” to the same extent as their
+friends. To ensure that target BG range is maintained when eating
+out, patients and their caregivers should practise carb counting and
+insulin adjustment based on the food consumed and level of physical
+activities.113 - 114, level III
+The following advice on eating out should be given to patients with
+T1DM and their caregivers:113 - 114, level III
+• occasional sugary food treats may not provoke hyperglycaemia if
+ physical activity levels are high
+ insulin dose adjustments are made based on carbohydrate
+counting, ICR and ISF
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+• additional (rapid-acting or short-acting) insulin may be useful to
+prevent or treat hyperglycemia
+• BG level should be checked before and after eating out, and the
+results documented. This infomation will guide patients and their
+caregivers in planning for similar future occasions
+• when eating out, the meal may be served later than usual; to
+avoid hypoglycaemia, adjust the administration of meal insulin in
+accordance to the timing of carbohydrate consumption
+Recommendation 16
+• Patients with type 1 diabetes mellitus having meals outside home
+should adjust the dose and timing of meal insulin accordingly.
+ Pre- and post-meal blood glucose should be checked when eating
+out.
+14.3 Fasting during Ramadan
+Fasting from dawn till sunset, during the month of Ramadan is
+obligatory for Muslims. During this period, one has to abstain from
+eating and drinking. Islam has allowed various categories of people
+to be exempted from fasting, for example young children, sick people
+and travellers. Major risks associated with fasting in diabetic patients
+include hypoglycaemia, hyperglycaemia, DKA, dehydration and
+thrombosis. Nevertheless, many patients with T1DM insist on fasting
+during Ramadan. Those who intend to fast should have good glycaemic
+control, perform regular self-monitoring and be under professional
+supervision.
+Patients with T1DM and the following features are at very high risk for
+complications during fasting:115, level III
+• severe hypoglycaemia within three months prior to Ramadan
+• history of recurrent hypoglycaemia
+• hypoglycaemia unawareness
+• poor glycaemic control
+• DKA within three months prior to Ramadan
+• acute illness
+• pregnancy
+• chronic dialysis
+These patients are discouraged from fasting.
+Management plan for patients with T1DM who intend to fast should be
+individualised:115, level III
+a. Ramadan-focused patient education
+Ramadan-focused diabetes education includes the following:
+• Meal planning and dietary advice
+• SMBG
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+• Adjustment and compliance to insulin therapy
+• Focus on the causation, early recognition and emergency
+management of hypoglycaemia, hyperglycaemia, dehydration
+and impending DKA
+• Timing and intensity of physical activity
+b. Pre-Ramadan medical assessment
+• Preferably undertaken 1 - 2 months before the fasting month
+starts
+• Include physical status, glycaemic status and appropriate blood
+tests
+• Evaluation for any acute and chronic complications, and individual
+risk stratification to identify those not fit to fast
+c. Diet and nutrition
+• Avoidance of large amount of foods rich in carbohydrate and fat
+during ‘iftar’
+• Consumption of complex carbohydrate (slow-digesting foods)
+during ‘sahur’ (taken as late as possible) will result in delayed
+digestion and absorption
+• Balanced diet with inclusion of fruits, vegetables, lentils, yogurt
+and cereal
+• Liberal fluid intake during non-fasting hours
+d. Exercise and physical activity
+• Maintain normal level of physical activity
+• Avoid rigorous exercise during fasting hours
+e. Monitoring glycaemic status
+• Blood testing or insulin injection is allowed during fasting (under
+Fatwa law)
+• Encourage patients to do frequent SMBG
+• Check urine/blood for ketone if BG is high (>14 mmol/L)
+f. Indications to break the fast
+• BG levels are low (<4 mmol/L) or experiences signs/symptoms of
+hypoglycaemia
+• BG level is >16.7 mmol/L
+• Patient is unwell
+g. Insulin regimens
+Fasting during Ramadan in T1DM is safe with adjustment of insulin
+dose and regular BG monitoring.116, level II-2; 117, level III
+• Insulin adjustment in patients on basal-bolus regimen115, level III
+ Reduction of basal insulin by 10 - 20% and further if needed.
+ Use rapid-acting insulin with meal and perform carbohydrate
+counting.
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+ If glucose rises above 15 mmol/L, a correction dose of rapidacting insulin should be given.
+ If long-acting and rapid-acting insulin are unavailable, it may be
+sufficient to use intermediate-acting and short-acting insulin.
+• Insulin adjustment in patients on two-dose insulin regimen
+Premixed insulins are not recommended for paediatric use.8
+In a small study, 60% of patients with T1DM on conventional twicea-day regimen were able to fast safely with proper education and
+intensive follow-up.118, level III Patients are advised to change their
+insulin dosages such that they take combined intermediate- and
+short-acting insulin before iftar (break fast), which is their usual
+morning dose, and only short-acting insulin before sahur (predawn meal) at a dose of 0.1 - 0.2 IU/kg.115, level III
+• Insulin adjustment in patients on three-dose insulin regimen
+115, level III
+ Use short-acting insulin during sahur and iftar.
+ Use intermediate-acting insulin in the late evening.
+ Perform frequent SMBG especially
+- before iftar and three hours afterwards
+- before sahur and two hours afterwards
+ Adjust insulin dose accordingly.
+• Insulin adjustment in patients on insulin pump115, level III
+Fasting during Ramadan can be successfully accomplished by
+patients with T1DM if they are fully educated and metabolically
+stable. Most will need to reduce their basal infusion rate while
+adjusting the bolus doses to cover the sahur and iftar.
+Recommendation 17
+• Patients with type 1 diabetes mellitus who intend to fast should receive
+Ramadan-focused patient education and follow individualised
+management plan.
+14.4 Schooling
+Schools and daycare centres have an important role in providing
+appropriate diabetes care to ensure that patients with T1DM can
+participate fully and safely in their activities and achieve optimal
+academic performance.
+Individualised diabetes medical management plan in school/daycare
+centre include:119, level III
+• blood glucose monitoring: frequency and circumstances
+• insulin administration: doses/injection times
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+• meals and snacks: food content, amounts and timing
+• recognition and appropriate treatment of hypoglycaemia/
+hyperglycaemia
+• participation in physical activity
+Schools/daycare centres need to provide the following:119, level III
+• availability of knowledgeable person in the immediate treatment of
+hypoglycaemia
+• a suitable place for blood glucose monitoring and insulin
+administration
+• permission to carry equipment (including medic alert bracelet) and
+medication
+• permission to snack and drink anywhere if necessary
+Hypoglycaemia can occur in patients with T1DM during and after
+physical activities. It can be prevented by monitoring BG levels before
+and after exercises, adjusting insulin doses and having supplemental
+snacks.120, level III During long school examinations, blood glucose
+should be checked immediately prior to and midway to detect hypo/
+hyperglycaemia.8
+Recommendation 18
+• Patients with type 1 diabetes mellitus should have individualised
+diabetes medical management plan in school/daycare centre.
+14.5 Travelling
+During long distance travel, patients with T1DM need to plan in advance
+and seek advice wherever necessary. They and their caregivers should
+be offered education on the practical issues related to such travel.121
+The differing conditions during travel such as sitting still for long hours
+when in a plane or car, eating food with different carbohydrate contents
+and the excitement of being in a new place may increase the BG
+level.113, level III
+High altitude, heat and humidity can sometimes affect meters and
+test strips. Be aware of possible false readings.122, level III The pressure
+differences in the cabin can lead to air bubbles accumulation in the
+insulin cartridges. Leaving the needle on the pen during the flight will
+allow for pressure equalisation. After landing, prime the insulin injection
+device to remove any air bubbles before injection.113, level III
+Management of insulin pump therapy during air travel:123, level III
+• Before takeoff, disconnect the pump.
+• At cruising altitude, take the cartridge out of the pump and remove
+any air bubbles before re-connecting.
+• After landing, disconnect the pump and prime the line with 2 IU of
+insulin before re-connecting.
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+Practical advice for patients with T1DM who intend to travel long
+distance:113, level III; 122, level III
+• Bring a letter from the attending doctor certifying the condition and
+treatment.
+• Bring a diabetes identity card or medic alert bracelet if available.
+• Take extra supply of insulin, needles, pens and SMBG equipment.
+• If travelling with others, split the amount of insulin supply between
+each passenger’s hand luggage just in case one of the luggage is
+lost.
+• Do not keep insulin in check-in luggage, as there may be extreme
+temperature excursions at high altitudes.
+• Bring a cool bag to store extra insulin.
+• Bring carbohydrate (glucose tablets, sweets, snacks and juices) in the
+hand luggage to cover any travelling delays in case of hypoglycaemia.
+• Find out the types, formulations and strengths of insulin which are
+available in the area of destination.
+Adjustment of insulin doses during long distance air travel113, level III; 122, level III
+During travelling, insulin adjustment for patients with T1DM is advised
+as the following:
+• Frequent BG monitoring
+• Extra doses of mealtime insulin needs to be considered if extra
+meals are taken
+• Timing of insulin administration needs to be adjusted according to
+the new time zone.
+ Travelling north or south does not require any changes in 24hour schedule.
+ Travelling east will shorten the day and therefore require less
+insulin.
+ Travelling west will lengthen the day and therefore require more
+insulin.
+Recommendation 19
+• Patients with type 1 diabetes mellitus who wish to travel should have
+appropriate education and planning with their health care team*.
+*Refer to yellow box above
+14.6 Surgery
+Surgery in children and adolescents with diabetes should be performed
+at centres with appropriate personnel and facilities. Careful liaison
+between surgical, anaesthetic and children’s diabetes care teams is
+crucial before admission to the hospital for elective surgery and as soon
+as possible after admission for emergency surgery.8
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+Management of T1DM children and adolescents undergoing surgery
+depends on whether the surgery is major or minor.8
+a. Features of minor surgery/procedure:
+• requires brief general anaesthesia (GA) or no GA
+• duration of surgery usually <2 hours
+• should not have a major impact on glycaemic control
+• patients can usually be discharged from the hospital on the day of
+surgery
+• include common daycare surgical procedures
+b. Features of major surgery:
+• requires prolonged GA
+• duration of surgery usually ≥2 hours
+• greater risks of metabolic decompensation
+• patients are unlikely to be discharged from the hospital on the day
+of surgery
+Pre-surgical assessment8
+• Assessment of glycaemic control, electrolyte status and ketones
+should be done several days before surgery.
+• If necessary, delay the surgery until glycaemic control has improved.
+• If surgery cannot be delayed, admit the patient to the hospital for
+stabilisation of glycaemic control prior to surgery.
+Pre-surgical care8
+• Patients receiving GA must be admitted to the hospital.
+• Schedule the surgery as the first case of the day.
+• All patients will require insulin despite fasting to avoid DKA.
+• In minor surgery, patients treated with basal/bolus insulin regimen
+or CSII may initially receive an IV infusion without dextrose except
+those treated with intermediate-acting insulin.
+• In major surgery, IV infusion of dextrose (dextrose 5 - 10%) and
+frequent BG monitoring are essential. Bedside monitoring of ketone
+is useful to detect ketonaemia.
+• In emergency surgery:
+ check BG, blood/urine ketone concentration and serum electrolytes
+ if ketone is positive or BG levels are high, check blood gases
+ if DKA is present, treat the DKA and delay the surgery
+Intraoperative care8
+• Hourly BG monitoring
+• Dextrose infusion and insulin need to be adjusted to maintain BG in
+the range 5 - 10 mmol/L
+• Constant IV insulin infusion is significantly better than SC insulin
+regime in achieving glycaemic control in the perioperative period.
+124, level II-1
+For adjustment of insulin regimen during minor surgery, refer to Table 7.
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+Table 7. Adjustment of insulin regimen during minor surgery
+*Commence IV fluids containing dextrose 5 - 10%, as necessary, to
+prevent hypoglycaemia. Alternatively, IV insulin infusion may be started.
+Modified: International Society for Pediatric and Adolescent Diabetes (ISPAD).
+Pediatric Diabetes. Oxford: Wiley Blackwell; 2014
+Adjustment of insulin regimen during major surgery:8
+• on the evening before surgery, give the usual evening and/or bedtime
+insulin(s) and bedtime snack
+• omit the usual morning insulin dose
+• start IV insulin infusion at least two hours before surgery and provide
+IV maintenance fluids consisting of 5% dextrose and half-normal
+saline [0.45% natrium chloride (NaCL)] (refer to Table 8)
+Insulin regimen
+Twice daily basal
+(intermediate-acting
+insulin, insulin
+detemir or insulin
+glargine) and rapidacting or short-acting
+insulin
+Twice daily with
+premixed insulin
+Basal-bolus regimen
+CSII
+Management (morning surgeries)
+• On the morning of the procedure, give 50%
+of the usual morning dose of intermediateacting insulin or the full usual morning dose
+of long-acting insulin (detemir or glargine).
+• Omit the rapid-acting or short-acting
+insulin unless it is needed to correct
+hyperglycaemia.*
+• Give only 50% of the equivalent dose of
+the basal (intermediate-acting insulin)
+component.*
+• If the usual basal insulin is in the morning,
+give the usual dose of long-acting insulin
+(glargine or detemir) in the morning of the
+surgery.
+• Consider reducing the dose of the longacting insulin by 20 - 30% if pre-surgical
+assessment shows persistent low BG
+levels in the morning.
+• Omit the rapid-acting or short-acting insulin
+unless needed to correct hyperglycaemia.*
+• CSII may be continued during procedure.
+• Secure the placement of SC infusion
+cannula away from surgical site.
+• Continue to infuse at the usual basal rate
+of insulin if the GA is short (<2 hours).
+• Avoid unnecessary bolus dose of rapidacting insulin.*
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+Table 8. Fluid and insulin infusion guides
+for surgical procedures
+Example of fluid maintenance calculation:
+(Maximum 2000 mL female, 2500 mL male)
+Preparation of insulin dilution:
+• Add soluble (short-acting) insulin 50 IU to 50 mL normal saline
+(0.9% NaCl), making a solution of 1 IU insulin/mL; attach to syringe
+pump and label clearly.
+BG (mmol/L)
+Infusion rate
+<6 - 7
+start infusion at 0.025 IU/kg/hour
+8 - 12
+0.05 IU/kg/hour
+12 - 15
+0.075 IU/kg/hour
+>15
+0.1 IU/kg/hour
+• Adjust insulin infusion hourly to maintain blood glucose between 5
+and 10 mmol/L.
+• Monitor BG hourly.
+• If BG <5 - 6 mmol/L, reduce the rate of insulin infusion but do not
+stop the insulin infusion (to avoid rebound hyperglycaemia).
+• If BG <4 mmol/L, the insulin infusion may be stopped temporarily
+(not >15 min).
+(i)
+Maintenance fluid
+Dextrose (for
+major surgery and
+any surgery when
+intermediate-acting
+insulin has been
+given)
+Sodium
+Potassium
+• Use 5% dextrose; 10% if there is concern
+about hypoglycaemia.
+• If BG >14 mmol/L, use half-normal saline
+(0.45% NaCl) without dextrose and increase
+insulin infusion.
+• Once BG <14 mmol/L, add 5% dextrose.
+• Use saline 0.45 - 0.9% (77 - 154 mmol/L).
+• Change to 0.9% saline if plasma sodium
+concentration is decreasing.
+• Monitor electrolytes.
+*There may be a risk of acute hyponatraemia
+when hypotonic maintenance solutions (i.e.
+<0.9% NaCl) are used.
+• Add potassium chloride 20 mmol to each litre
+of IV fluid after surgery.
+• Add potassium only if infusion is required for
+>12 hours.
+For each kg between
+For each kg between
+For each kg over
+Body weight (kg)
+3 - 9
+10 - 20
+20
+Fluid requirement per 24
+hours
+100 mL/kg
+Add an additional 50 mL/kg
+Add an additional 20 mL/kg
+(ii) Insulin infusion
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+Post-surgical care
+• Resume patient’s usual diabetes regimen once tolerating orally.
+Recommendation 20
+• Patients with type 1 diabetes mellitus who require surgery should be
+referred to hospitals with appropriate personnel and facilities.
+ Pre-operative assessment of glycaemic control, electrolyte status
+and ketones should be done in advance.
+ Surgery should be scheduled as the first case of the day.
+ To avoid diabetic ketoacidosis, all patients will require insulin
+despite fasting.
+ Blood glucose monitoring during surgery should be performed
+hourly and insulin infusion rate adjusted to maintain blood glucose
+in the range of 5 - 10 mmol/L.
+14.7 Partial Remission Phase
+In many young patients with T1DM, insulin requirements decrease
+transiently following initiation of insulin treatment. This partial remission
+phase (honeymoon period) is defined as insulin requirements of <0.5
+IU/kg/day with an HbA1c <7%. The onset starts within days or weeks of
+insulin therapy initiation and may persist for weeks to months. BG levels
+are frequently stable within the target range, despite fluctuations in diet
+and exercise. The probability of partial remission phase is reduced in
+those with DKA at presentation and young age.8
+Recommendation 21
+• Patients with type 1 diabetes mellitus and caregivers should receive
+education on the transient nature of the partial remission phase.
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+15. SUPPLEMENTS/COMPLEMENTARY MEDICATIONS
+Complementary and alternative medicine may include medicinal (such
+as herbal remedies, dietary supplements, vitamins and minerals,
+naturopathic and homeopathic remedies) or nonmedicinal remedies
+(such as chiropractic, osteopathy and naturopathy).
+Patients with T1DM and their caregivers should be informed about the
+danger of omitting insulin when seeking alternative treatments. DKA
+and death due to insulin omission have been reported and therefore
+patients should never reduce or omit insulin unnecessarily while on
+alternative treatment.125, level III
+There is insufficient evidence to support the use of supplements or
+complementary medications in patients with T1DM. Unsupervised use
+may cause adverse effects to the patients.
+Recommendation 22
+• Patients with type 1 diabetes mellitus and their caregivers should be
+informed that unsupervised use of supplements or complementary
+medications may cause adverse events.
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+16. LONG-TERM COMPLICATIONS
+In Malaysia, the common T1DM complications detected in children
+older than 10 years are microalbuminuria (7.3%), nephropathy (3.2%),
+retinopathy (2.4%) and neuropathy (0.8%). Good metabolic control
+(HbA1c <7.5%) is only seen in 25.0% of the patients while more than half
+of them (54.2%) have poor metabolic control with HbA1c >10.0%.4, level III
+Apart from that, only 11.3% carried the medic alert and almost all did not
+keep glucagon at home. A substantial proportion of patients with T1DM
+reported that they had consultation with the dietitian (41.1%), diabetes
+nurse educator (30.7%), ophthalmologist (55.7%) and psychologist
+(4.0%) in the past 12 months. Approximately 11.0% reported having
+participated in diabetes camp in the past 12 months.4, level III
+It is important to maintain good glycaemic control in patients with T1DM
+to prevent long-term complications. The suggested screening schedule
+is shown in the table below.
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+Table 9. Screening, risk factors and interventions
+for vascular complications in T1DM
+ACEi=angiotensin converting enzyme inhibitor; ARB=angiotensin
+receptor blocker; BMI=body mass index; blood pressure (BP)
+Modified: International Society for Pediatric and Adolescent Diabetes (ISPAD).
+Pediatric Diabetes. Oxford: Wiley Blackwell; 2014
+Retinopathy
+Nephropathy
+Neuropathy
+Macrovascular
+disease
+• Start at age
+10 or at
+onset of
+puberty if
+this is
+earlier, after
+2 - 5 years’
+diabetes
+duration
+• Annually
+thereafter
+• Start at age
+10 or at
+onset of
+puberty if
+this is
+earlier, after
+2 - 5 years’
+diabetes
+duration
+• Annually
+thereafter
+Unclear
+After age 10
+years
+• Fundal
+photography
+or
+• Mydriatic
+ophthalmo-
+scopy (less
+sensitive)
+• Urinary
+albumin:
+creatinine
+ratio (ACR)
+or
+• First morning
+urinary
+albumin
+concentration
+or
+• Timed urine
+collections
+for albumin
+excretion
+rates (AER)
+History and
+physical
+examination
+• Lipid profile
+every 5
+years
+• BP annually
+• Improved
+glycaemic
+control
+• Laser therapy
+• Improved
+glycaemic
+control
+• ACEi or
+ARB
+• BP control
+Improved
+glycaemic
+control
+• Improved
+glycaemic
+control
+• BP control
+• Statins
+• Hyperglycaemia
+• High BP
+• Lipid
+abnormalities
+• Higher BMI
+• Hyperglycaemia
+• High BP
+• Lipid
+abnormalities
+• Smoking
+• Hyperglycaemia
+• Higher BMI
+• Hyperglycaemia
+• High BP
+• Lipid
+abnormalities
+• Higher BMI
+• Smoking
+Complications
+Risk factors
+Screening
+schedule
+Screening
+methods
+Potential
+interventions
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+16.1 Nephropathy
+The incidence of persistent microalbuminuria was 4.6/1,000 patientyears (95% CI 3.3 to 6.1) in Australian youth with a mean HbA1c
+of 8.4%. The group that developed microalbuminuria had a higher
+HbA1c (9.1%); median diabetes duration at the onset of persistent
+microalbuminuria was 9.3 years and the earliest case was 1.6 years
+after diagnosis of diabetes.126, level II-3
+Risk factors for microalbuminuria are:127, level III
+• hypertension (p=0.001)
+• higher HbA1c levels (p=0.001)
+• longer diabetes duration (p=0.036)
+• dyslipidaemia (p=0.034)
+The first clinical sign of nephropathy is elevation of albumin excretion.
+This is generally defined as any of those below:8
+i. AER of 20 - 200 μg/min
+ii. AER of 30 - 300 mg/24 hours
+iii. albumin concentration of 30 - 300 mg/L (early morning urine sample)
+iv. ACR 2.5 - 25 mg/mmol in males and 3.5 - 25 mg/mmol in females
+(early morning urine sample)
+Spot urine ACR is closely correlated with 24-hours urine albumin
+excretion in patients with T1DM (R2=0.828, p<0.001).128, level III
+Because of biological variability, two of three consecutive urine
+collections over a period of 3 - 6 months should be used as evidence
+of microalbuminuria. Abnormal screening tests should be repeated as
+microalbuminuria may not be persistent.8
+When interpreting urine microalbuminuria, false positive results should
+be considered which may occur in the following conditions:8
+• exercise
+• menstrual bleeding
+• infections
+• fever
+• kidney diseases
+• marked hyperglycaemia
+ACEi or ARB should be used in adolescent patients with persistent
+microalbuminuria to prevent progression to proteinuria. An important
+safety issue related to the use of both medications is the potential risk
+of congenital malformation when used during pregnancy. Therefore,
+adolescent girls need to be informed about this risk and advised on
+contraception before starting medication.8 Patients with transient
+microalbuminuria generally do not need to be treated with ACEi or ARB.
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+16.2 Retinopathy
+Assessment for retinopathy in patients with T1DM should be performed
+by an ophthalmologist or any trained healthcare provider through
+dilated pupils. Initial eye examination should also be considered to
+detect major refractive errors or cataracts. The frequency of retinopathy
+screening in general should be done annually and more frequently if
+there are high risk features for visual loss. Biennial assessment by
+fundal photography should be performed for those with:8
+• diabetes duration <10 years
+• minimal background retinopathy on fundus photography
+• reasonable glycaemic control
+The prevalence of diabetic retinopathy is higher in pubertal than in prepubertal patients, for any grade of diabetic retinopathy (p=0.002).129, level III
+At 10 years follow-up in EDIC study, adults in the former intensive group
+continued to show slower progression of diabetic retinopathy than those
+in the conventional group (hazard reduction of 56%, p<0.0001). However,
+this beneficial effect was not seen in adolescents (hazard reduction of
+32%, p=0.13).68, level II-2
+16.3 Neuropathy
+Based on nerve conduction study, 57% of children with a mean
+diabetes duration of 8.1+2.6 years and a mean HbA1c of 9.0+1.0% had
+diabetic neuropathy. Using nerve conduction study as a gold standard,
+the sensitivity and specificity of vibration perception thresholds were
+62% and 65% respectively, while the sensitivity and specificity of tactile
+perception thresholds were 19% and 64% respectively.130, level III
+16.4 Macrovascular Complications
+Aortic intima media thickness is greater in T1DM children compared with
+control subjects (p<0.001). It is correlated with HbA1c (r=0.31, p=0.01)
+and is independently associated with age (p=0.001) and low-density
+lipoprotein (LDL) cholesterol level (p=0.001). Vascular function is worse
+in children with T1DM who have an aortic intima media thickness >95th
+percentile compared with control subjects.131, level II-2
+Factors independently correlated with carotid intima media thickness in
+children are:132, level II-2
+• type 1 diabetes (p<0.001)
+• systolic blood pressure (p<0.001)
+• LDL cholesterol level (p<0.001)
+Age-adjusted pulse wave velocity-trunk (aorto-femoral) indicating vascular
+stiffness is higher in subjects with T1DM than non-diabetic subjects
+(p<0.05).133, level II-2
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+Recommendation 23
+• Screening for vascular complications of type 1 diabetes mellitus
+should be done to detect early changes and reduce the risk of longterm complications.
+ Screening for retinopathy and microalbuminuria should start from
+10 years of age or at pubertal onset, with 2 - 5 year diabetes
+duration*.
+*Refer to Table 9.
+16.5 Other Complications
+i. Dyslipidaemia
+Young patients with T1DM demonstrate significantly higher levels of
+total cholesterol, LDL, triglyceride, lipoprotein(a) and apolipoprotein B
+compared to non-diabetics.134, level III
+Screening for dyslipidaemia should be done soon after diagnosis in
+all children with T1DM aged >10 years old. If the result is normal, it
+should be repeated every five years. In those with strong family history
+of hypercholesterolaemia, premature cardiovascular disease or if the
+family history is unknown, screening should be performed as early as
+two years old.8 Refer to Table 9.
+If the LDL is high (>2.6 mmol/L), intervention to improve metabolic
+control, dietary changes and exercise should be emphasised. Although
+long-term safety is not established, statin should be considered in
+children >10 years old if LDL is >4.1 mmol/L (or >3.4 mmol/L if one
+or more cardiovascular risk factors is present) despite the above
+interventions.8
+Recommendation 24
+• Lipid profile should be screened every five years in patients with
+type 1 diabetes mellitus aged >10 years old or at an earlier age
+if there is family history of premature cardiovascular disease or
+hypercholestrolaemia.
+ii. Hypertension
+Hypertension is defined as average systolic blood pressure and/or
+diastolic pressure (measurements on ≥3 occasions) >95th percentile
+for gender, age and height on three occasions. Confirmation of
+hypertension may be assisted by 24-hour ambulatory blood pressure
+measurements. Pre-hypertension is defined as BP that is between
+90thand 95th percentile.8
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+The prevalence of hypertension in young patients with T1DM based
+on ambulatory blood pressure monitoring is 28.4%.135, level III In a study
+on patients with average HbA1c between 6.5 to 10.7%, the cumulative
+mortality rate was 35% in adulthood from coronary artery disease
+compared with 4 - 8% in the general population. Female adolescents
+and young adults with T1DM have more centrally distributed fat than
+male which increases their cardiovascular risk.136, level III ACEi are
+recommended for use in children with diabetes and hypertension. They
+have been shown to be effective and safe in children in short-term
+studies but are not safe during pregnancy.8
+BP should be measured with an appropriate cuff at least annually in
+patients with T1DM. Refer to Table 9.
+Recommendation 25
+• Blood pressure should be measured at least annually in patients
+with type 1 diabetes mellitus.
+iii. Limited joint mobility
+Limited joint mobility (LJM) is a bilateral painless contracture of the
+finger joints and large joints, and associated with tight skin. It can be
+demonstrated by asking the patient to approximate palmar surfaces of
+the interphalangeal joints. Passive examination is essential to confirm
+that inability to do so is due to LJM. This deformity usually appears
+after the age of 10 years. The progression from mild to moderate or
+severe changes ranges from a few months to four years, following
+which stabilisation occurs. For every unit increase in average HbA1c,
+there is an approximately 46% increase risk of developing LJM. LJM is
+associated with a two- to four-fold risk for retinopathy, nephropathy and
+neuropathy.8
+iv. Lipodystrophy (lipoatrophy and lipohypertrophy)
+Lipohypertrophy is a frequent complication of insulin therapy. It has
+been found up to 48% in those with T1DM and is associated with higher
+HbA1c, greater number of injections and longer duration of diabetes.
+The lesion can be detected by both visualisation and palpation of the
+injecting sites. The affected site cannot be pinched tightly together in
+contrast to normal skin. The independent risk factors for lipohypertrophy
+are:8
+• lack of rotation in injection sites
+• use of small injection zones
+• reuse of needles
+Insulin may be absorbed unpredictably from these areas, affecting
+BG control. Treatment of lipohypertrophy involves avoidance of the
+affected sites for at least 2 - 3 months, while prevention strategies
+include avoidance of its risk factors as mentioned above.8
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+With the use of human insulin, lipoatrophy is now rarely seen and is
+reported in <1% of patients with T1DM. It has also been associated
+with Hashimoto’s thyroiditis and coeliac disease resulting in speculation
+that an immune complex-mediated inflammation may contribute to its
+development.8
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+17. REFERRAL
+The ongoing care of children and adolescents with T1DM requires
+the care of a specialised diabetes team consists of paediatric
+endocrinologists, paediatricians, paediatric diabetes nurses, dietitians,
+psychologists/psychiatrists
+and
+often
+consultations
+with
+the
+ophthalmologists. In hospitals without these services, paediatric
+endocrine specialists can provide consultation at intervals to guide the
+management of complicated cases. The recommendations for referral
+to paediatric endocrine service below are formulated based on the
+expert opinion of the DG CPG.
+Recommendation 26
+• Referral of children and adolescents with type 1 diabetes mellitus
+to paediatric endocrinologists should be made in the following
+conditions:
+ uncertainty with classification of diabetes
+ difficult metabolic control
+ concomitant co-morbidities and other management issues
+ inadequate resources and expertise in management
+18. IMPLEMENTING THE GUIDELINES
+It is important to standardise the management of T1DM at all healthcare
+levels in Malaysia by using an evidence-based CPG. This aims to prevent
+long-term morbidity and mortality.
+a. Facilitating and Limiting Factors
+Existing facilitators for application of the recommendations in the CPG
+include:
+i. wide dissemination of the CPG to healthcare providers (hard- and
+soft-copies)
+ii. regular T1DM update for healthcare providers
+iii. national T1DM registry (DiCARE)
+iv. diabetes camp
+Existing barriers for application of the recommendations of the CPG
+are:
+i. poor
+understanding/limited
+knowledge
+on
+diagnosis
+and
+management of the T1DM
+ii. insufficient resources in the management of T1DM:
+• expertise: paediatric endocrinologist, pediatrician with a special
+interest in diabetes, child psychiatrist, psychologist, clinical
+paediatric nurse educator, paediatric-trained dietitian
+• diagnostic tools: antibody testing and blood ketone monitoring
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+• medications: insulin analog
+• medical equipments: glucometer, glucose testing strips, lancets,
+insulin pump, CGMS
+iii. variation in clinical management and preferences
+b. Potential Resource Implications
+To implement the CPG, there must be strong commitment to:-
+i. ensure widespread distribution of the CPG to healthcare
+providers via printed and electronic copies
+ii. train (with adequate funding) healthcare providers by regular
+seminars or workshops to provide up-to-date information
+iii. provide sufficient resources in the management of T1DM
+including expertise, diagnostic tools, medications and medical
+equipment
+iv. develop and disseminate patient education materials through
+various activities such as diabetes camp
+v. ensure sustainability of DiCARE
+To assist in the implementation of the CPG, the following are
+proposed as clinical audit indicators for quality management:
+*Target: 90%
+Implementation strategies will be developed following the approval of
+the CPG by MoH. They are such as a Quick Reference and a Training
+Module.
+Percentage of patients
+with T1DM who have
+at least one HbA1c
+per year*
+Number of patients with T1DM
+who have at least one HbA1c per year
+=
+in a period
+x 100%
+Total number of patients with T1DM
+in the same period
+Percentage of patients
+with T1DM having
+reduction in HbA1c by
+at least 0.5%
+from the previous
+reading
+Number of patients with T1DM
+having reduction in HbA1c by at least 0.5%
+= from the previous reading in a period x 100%
+Total number of patients with T1DM
+in the same period
+Percentage of patients
+with T1DM admitted
+due to DKA*
+Number of patients with T1DM
+= admitted due to DKA in a period x 100%
+Total number of patients with T1DM on
+follow-up in the same period
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+References
+1.
+Zhao Z, Sun C, Wang C, et al. Rapidly rising incidence of childhood type 1 diabetes in Chinese
+population: epidemiology in Shanghai during 1997-2011. Acta Diabetol. 2014;51(6):947-953.
+2.
+Lin WH, Wang MC, Wang WM, et al. Incidence of and mortality from Type I diabetes in Taiwan
+from 1999 through 2010: a nationwide cohort study. PLoS One. 2014;9(1):e86172.
+3.
+Tajima N, Morimoto A. Epidemiology of childhood diabetes mellitus in Japan. Pediatr Endocrinol
+Rev. 2012;10 Suppl 1:44-50.
+4.
+Fuziah MZ, Janet HYH, Wu LL, et al. 2nd Annual Report of the Diabetes in Children and
+Adolescents Registry (DiCARE) 2006-2008. Kuala Lumpur: DiCARE; 2012.
+5.
+Brook CGD, Clayton P, Brown R, et al. Brook’s Clinical Pediatric Endocrinology, Sixth Edition
+Sussex: Wiley-Blackwell; 2009.
+6.
+Chiang JL, Kirkman MS, Laffel LM, et al. Type 1 Diabetes Sourcebook Authors. Type 1 diabetes
+through the life span: a position statement of the American Diabetes Association. Diabetes Care.
+2014;37(7):2034-2054.
+7.
+World Health Organization. Definition and Diagnosis of Diabetes Mellitus and Intermediate
+Hyperglycaemia. Geneva: WHO; 2006.
+8.
+International Society for Pediatric and Adolescent Diabetes (ISPAD). Pediatic Diabetes. Oxford:
+Wiley Blackwell; 2014.
+9.
+Diabetes in Children and Adolescents. (Available at http://www.msdmanuals.com/professional/
+pediatrics/endocrine-disorders-in-children/diabetes-in-children-and-adolescents).
+10.
+Erlich H, Valdes AM, Noble J, et al. HLA DR-DQ haplotypes and genotypes and type 1 diabetes
+risk: analysis of the type 1 diabetes genetics consortium families. Diabetes. 2008;57(4):10841092.
+11.
+Lambert AP, Gillespie KM, Thomson G, et al. Absolute risk of childhood-onset type 1 diabetes
+defined by human leukocyte antigen class II genotype: a population-based study in the United
+Kingdom. J Clin Endocrinol Metab. 2004;89(8):4037-4043.
+12.
+Knip M, Korhonen S, Kulmala P, et al. Prediction of type 1 diabetes in the general population.
+Diabetes Care. 2010;33(6):1206-1212.
+13.
+Harder T, Roepke K, Diller N, et al. Birth weight, early weight gain, and subsequent risk of type 1
+diabetes: systematic review and meta-analysis. Am J Epidemiol. 2009;169(12):1428-1436.
+14.
+Hyppönen E, Virtanen SM, Kenward MG, et al. Obesity, increased linear growth, and risk of type
+1 diabetes in children. Diabetes Care. 2000;23(12):1755-1760.
+15.
+EURODIAB Substudy 2 Study Group. Rapid early growth is associated with increased risk of
+childhood type 1 diabetes in various European populations. Diabetes Care. 2002;25(10):17551760.
+16.
+Yeung WC, Rawlinson WD, Craig ME. Enterovirus infection and type 1 diabetes mellitus:
+systematic review and meta-analysis of observational molecular studies. BMJ. 2011;342:d35.
+17.
+Pundziute-Lyckå A, Persson LA, Cedermark G, et al. Diet, growth, and the risk for type 1 diabetes
+in childhood: a matched case-referent study. Diabetes Care. 2004;27(12):2784-2789.
+18.
+Zipitis CS, Akobeng AK. Vitamin D supplementation in early childhood and risk of type 1 diabetes:
+a systematic review and meta-analysis. Arch Dis Child. 2008;93(6):512-517.
+19.
+Hyppönen E, Läärä E, Reunanen A, et al. Intake of vitamin D and risk of type 1 diabetes: a birthcohort study. Lancet. 2001;358(9292):1500-1503.
+20.
+Henry EB, Patterson CC, Cardwell CR. A meta-analysis of the association between preeclampsia and childhood-onset Type 1 diabetes mellitus. Diabet Med. 2011;28(8):900-905.
+21.
+DeStefano F, Mullooly JP, Okoro CA, et al. Childhood vaccinations, vaccination timing, and risk
+of type 1 diabetes mellitus. Pediatrics. 2001;108(6):E112.
+22.
+Kota SK, Meher LK, Jammula S, et al. Clinical profile of coexisting conditions in type 1 diabetes
+mellitus patients. Diabetes Metab Syndr. 2012;6(2):70-76.
+23.
+Shiva S, Ilkhchooyi F, Rezamand A. Thyroid autoimmunity at the onset of type 1 diabetes
+mellitus in children. Open J Immunol. 2013;3(1):37-40.
+24.
+Kordonouri O, Klinghammer A, Lang EB, et al. Thyroid autoimmunity in children and adolescents
+with type 1 diabetes: a multicenter survey. Diabetes Care. 2002;25(8):1346-1350.
+25.
+Barera G, Bonfanti R, Viscardi M, et al. Occurrence of celiac disease after onset of type 1
+diabetes: a 6-year prospective longitudinal study. Pediatrics. 2002;109(5):833-838.
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+26.
+The Diabetes Control and Complications Trial Research Group. The effect of intensive treatment
+of diabetes on the development and progression of long-term complications in insulin-dependent
+diabetes mellitus. N Engl J Med. 1993;329(14):977-986.
+27.
+World Health Organization. Use of Glycated Haemoglobin (HbA1c) in the Diagnosis of Diabetes
+Mellitus. Geneva: WHO; 2011.
+28.
+Rohrer T, Stierkorb E, Heger S, et al. Delayed pubertal onset and development in German children
+and adolescents with type 1 diabetes: cross-sectional analysis of recent data from the DPV
+diabetes documentation and quality management system. Eur J Endocrinol. 2007;157((5):):647653.
+29.
+Elamin A, Hussein O, Tuvemo T. Growth, puberty, and final height in children with Type 1
+diabetes. J Diabetes Complications. 2006;20(4):252-256.
+30.
+Marcovecchio ML, Heywood JJ, Dalton RN, et al. The contribution of glycemic control to impaired
+growth during puberty in young people with type 1 diabetes and microalbuminuria. Pediatr
+Diabetes. 2014;15(4):303-308.
+31.
+Fitzpatrick E, Cotoi C, Quaglia A, et al. Hepatopathy of Mauriac syndrome: a retrospective review
+from a tertiary liver centre. Arch Dis Child. 2014;99(4):354-357.
+32.
+Dunger DB, Sperling MA, Acerini CL, et al. ESPE/LWPES consensus statement on diabetic
+ketoacidosis in children and adolescents. Arch Dis Child. 2004;89(2):188-194.
+33.
+Usher-Smith JA, Thompson MJ, Sharp SJ, et al. Factors associated with the presence of diabetic
+ketoacidosis at diagnosis of diabetes in children and young adults: a systematic review. BMJ.
+2011;343:d4092.
+34.
+Szypowska A, Skórka A. The risk factors of ketoacidosis in children with newly diagnosed type 1
+diabetes mellitus. Pediatr Diabetes. 2011;12(4 Pt 1):302-306.
+35.
+Rewers A, Klingensmith G, Davis C, et al. Presence of diabetic ketoacidosis at diagnosis of
+diabetes mellitus in youth: the Search for Diabetes in Youth Study. Pediatrics. 2008;121(5):e12581266.
+36.
+Hanas R, Lindgren F, Lindblad B. Diabetic ketoacidosis and cerebral oedema in Sweden–a
+2-year paediatric population study. Diabet Med. 2007;24(10):1080-1085.
+37.
+Sheikh-Ali M, Karon BS, Basu A, et al. Can serum beta-hydroxybutyrate be used to diagnose
+diabetic ketoacidosis? Diabetes Care. 2008;31(4):643-647.
+38.
+Sottosanti M, Morrison GC, Singh RN, et al. Dehydration in children with diabetic ketoacidosis: a
+prospective study. Arch Dis Child. 2012;97(2):96-100.
+39.
+Koves IH, Neutze J, Donath S, et al. The accuracy of clinical assessment of dehydration during
+diabetic ketoacidosis in childhood. Diabetes Care. 2004;27(10):2485-2487.
+40.
+Steiner MJ, DeWalt DA, Byerley JS. Is this child dehydrated? JAMA. 2004;291(22):2746-2754.
+41.
+Toledo JD, Modesto V, Peinador M, et al. Sodium concentration in rehydration fluids for children
+with ketoacidotic diabetes: effect on serum sodium concentration. J Pediatr. 2009;154(6):895900.
+42.
+Fiordalisi I, Novotny WE, Holbert D, et al. An 18-yr prospective study of pediatric diabetic
+ketoacidosis: an approach to minimizing the risk of brain herniation during treatment. Pediatr
+Diabetes. 2007;8(3):142-149.
+43.
+Harris GD, Fiordalisi I. Physiologic management of diabetic ketoacidemia. A 5-year prospective
+pediatric experience in 231 episodes. Arch Pediatr Adolesc Med. 1994;148(10):1046-1052.
+44.
+Basnet S, Venepalli PK, Andoh J, et al. Effect of normal saline and half normal saline on serum
+electrolytes during recovery phase of diabetic ketoacidosis. J Intensive Care Med. 2014;29(1):3842.
+45.
+White PC, Dickson BA. Low morbidity and mortality in children with diabetic ketoacidosis
+treated with isotonic fluids. J Pediatr. 2013;163(3):761-766. Erratum in: J Pediatr. 2013
+Sep;2163(2013):2927.
+46.
+Felner EI, White PC. Improving management of diabetic ketoacidosis in children. Pediatrics.
+2001;108(3):735-740.
+47.
+Wagner A, Risse A, Brill HL, et al. Therapy of severe diabetic ketoacidosis. Zero-mortality under
+very-low-dose insulin application. Diabetes Care. 1999;22(5):674-677.
+48.
+Hoorn EJ, Carlotti AP, Costa LA, et al. Preventing a drop in effective plasma osmolality to
+minimize the likelihood of cerebral edema during treatment of children with diabetic ketoacidosis.
+J Pediatr. 2007;150(5):467-473.
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+49.
+Al Hanshi S, Shann F. Insulin infused at 0.05 versus 0.1 units/kg/hr in children admitted to
+intensive care with diabetic ketoacidosis. Pediatr Crit Care Med. 2011;12(2):137-140.
+50.
+Puttha R, Cooke D, Subbarayan A, et al. Low dose (0.05 units/kg/h) is comparable with standard
+dose (0.1 units/kg/h) intravenous insulin infusion for the initial treatment of diabetic ketoacidosis
+in children with type 1 diabetes-an observational study. Pediatr Diabetes. 2010;11(1):12-17.
+51.
+Edge JA, Jakes RW, Roy Y, et al. The UK case-control study of cerebral oedema complicating
+diabetic ketoacidosis in children. Diabetologia. 2006;49(9):2002-2009.
+52.
+Butkiewicz EK, Leibson CL, O’Brien PC, et al. Insulin therapy for diabetic ketoacidosis. Bolus
+insulin injection versus continuous insulin infusion. Diabetes Care. 1995;18(8):1187-1190.
+53.
+Glaser N, Barnett P, McCaslin I, et al. Risk factors for cerebral edema in children with diabetic
+ketoacidosis. The Pediatric Emergency Medicine Collaborative Research Committee of the
+American Academy of Pediatrics. N Engl J Med 2001;344(4):264-269.
+54.
+Edge JA, Hawkins MM, Winter DL, et al. The risk and outcome of cerebral oedema developing
+during diabetic ketoacidosis. Arch Dis Child. 2001;85(1):16-22.
+55.
+Ghetti S, Lee JK, Sims CE, et al. Diabetic ketoacidosis and memory dysfunction in children with
+type 1 diabetes. J Pediatr. 2010;156(1):109-114.
+56.
+Glaser NS, Marcin JP, Wootton-Gorges SL, et al. Correlation of clinical and biochemical
+findings with diabetic ketoacidosis-related cerebral edema in children using magnetic resonance
+diffusion-weighted imaging. J Pediatr. 2008;153(4):541-546.
+57.
+Glaser NS, Wootton-Gorges SL, Buonocore MH, et al. Frequency of sub-clinical cerebral edema
+in children with diabetic ketoacidosis. Pediatr Diabetes. 2006;7(2):75-80.
+58.
+Edge JA, Ford-Adams ME, Dunger DB. Causes of death in children with insulin dependent
+diabetes 1990-96. Arch Dis Child. 1999;81(4):318-323.
+59.
+Mahoney CP, Vlcek BW, DelAguila M. Risk factors for developing brain herniation during diabetic
+ketoacidosis. Pediatr Neurol. 1999;21(4):721-727.
+60.
+Marcin JP, Glaser N, Barnett P, et al. Factors associated with adverse outcomes in children with
+diabetic ketoacidosis-related cerebral edema. J Pediatr. 2002;141(6):793-797.
+61.
+Durward A, Ferguson LP, Taylor D, et al. The temporal relationship between glucose-corrected
+serum sodium and neurological status in severe diabetic ketoacidosis. Arch Dis Child.
+2011;96(1):50-57.
+62.
+Edge JA, Roy Y, Bergomi A, et al. Conscious level in children with diabetic ketoacidosis is related
+to severity of acidosis and not to blood glucose concentration. Pediatr Diabetes. 2006;7(1):11-15.
+63.
+Hale PM, Rezvani I, Braunstein AW, et al. Factors predicting cerebral edema in young children
+with diabetic ketoacidosis and new onset type I diabetes. Acta Paediatr. 1997;86(6):626-631.
+64.
+Lawrence SE, Cummings EA, Gaboury I, et al. Population-based study of incidence and risk
+factors for cerebral edema in pediatric diabetic ketoacidosis. J Pediatr. 2005;146(5):688-692.
+65.
+Edge JA. Cerebral oedema during treatment of diabetic ketoacidosis: are we any nearer finding
+a cause? Diabetes Metab Res Rev. 2000;16(5):316-324.
+66.
+Muir AB, Quisling RG, Yang MC, et al. Cerebral edema in childhood diabetic ketoacidosis:
+natural history, radiographic findings, and early identification. Diabetes Care. 2004;27(7):15411546.
+67.
+Grey M, Boland EA, Davidson M, et al. Coping skills training for youth with diabetes mellitus has
+long-lasting effects on metabolic control and quality of life. J Pediatr. 2000;137(1):107-113.
+68.
+White NH, Sun W, Cleary PA, et al. Effect of prior intensive therapy in type 1 diabetes on 10-year
+progression of retinopathy in the DCCT/EDIC: comparison of adults and adolescents. Diabetes.
+2010;59(5):1244-1253.
+69.
+Pihoker C, Badaru A, Anderson A, et al. Insulin regimens and clinical outcomes in a type 1
+diabetes cohort: the SEARCH for Diabetes in Youth study. Diabetes Care. 2013;36(1):27-33.
+70.
+Pańkowska E, Błazik M, Dziechciarz P, et al. Continuous subcutaneous insulin infusion vs.
+multiple daily injections in children with type 1 diabetes: a systematic review and meta-analysis
+of randomized control trials Pediatr Diabetes. 2009;10(1):52-58.
+71.
+Johnson SR, Cooper MN, Jones TW, et al. Long-term outcome of insulin pump therapy in children
+with type 1 diabetes assessed in a large population-based case-control study. Diabetologia.
+2013;56(11):2392-2400.
+72.
+Churchill JN, Ruppe RL, Smaldone A. Use of continuous insulin infusion pumps in young children
+with type 1 diabetes: a systematic review. J Pediatr Health Care. 2009;23(3):173-179.
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+73.
+Ford-Adams ME, Murphy NP, Moore EJ, et al. Insulin lispro: a potential role in preventing
+nocturnal hypoglycaemia in young children with diabetes mellitus. Diabet Med. 2003;20(8):656660.
+74.
+Cherubini V, Iannilli A, Iafusco D, et al. Premeal insulin treatment during basal-bolus regimen in
+young children with type 1 diabetes. Diabetes Care. 2006;29(10):2311-2312.
+75.
+Danne T, Aman J, Schober E, et al. A comparison of postprandial and preprandial administration of
+insulin aspart in children and adolescents with type 1 diabetes. Diabetes Care. 2003;26(8):23592364.
+76.
+Martin D, Licha-Müntz G, Grasset E, et al. Efficacy of Humalog injections before an afternoon
+meal and their acceptance by children and adolescents with type 1 diabetes. Diabet Med.
+2002;19(12):1026-1031.
+77.
+Danne T, Philotheou A, Goldman D, et al. A randomized trial comparing the rate of hypoglycemia–
+assessed using continuous glucose monitoring–in 125 preschool children with type 1 diabetes
+treated with insulin glargine or NPH insulin (the PRESCHOOL study). Pediatr Diabetes.
+2013;14(8):593-601.
+78.
+Chase HP, Arslanian S, White NH, et al. Insulin glargine versus intermediate-acting insulin as
+the basal component of multiple daily injection regimens for adolescents with type 1 diabetes
+mellitus. J Pediatr. 2008;153(4):547-553.
+79.
+Šimšek DG, Yıldız B, Asar G, et al. A randomized clinical trial comparing breakfast and bedtime
+administration of insulin glargine in children and adolescents with type 1 diabetes. J Clin Res
+Pediatr Endocrinol. 2008;1(1):15-20.
+80.
+Robertson KJ, Schoenle E, Gucev Z, et al. Insulin detemir compared with NPH insulin in children
+and adolescents with Type 1 diabetes. Diabet Med. 2007;24(1):27-34.
+81.
+Thalange N, Bereket A, Larsen J, et al. Insulin analogues in children with Type 1 diabetes: a
+52-week randomized clinical trial. Diabet Med. 2013;30(2):216-225.
+82.
+Thalange N, Bereket A, Larsen J, et al. Treatment with insulin detemir or NPH insulin in children
+aged 2-5 yr with type 1 diabetes mellitus. Pediatr Diabetes. 2011;12(7):632-641.
+83.
+Kawamura T. The importance of carbohydrate counting in the treatment of children with diabetes.
+Pediatr Diabetes. 2007;8 Suppl 6:57-62.
+84.
+Jabbour S, Stephens EA, editors. Type I Diabetes in Adults. Principles and Practice. Boca Raton:
+CRC Press; 2008.
+85.
+Lacey K, Pritchett E. Nutrition Care Process and Model: ADA adopts road map to quality care
+and outcomes management. J Am Diet Assoc. 2003;103(8):1061-72. Erratum in: J Am Diet
+Assoc. 2003 Oct;103(10):1293.
+86.
+Gökšen D, AtikAltınok Y, Ozen S, et al. Effects of carbohydrate counting method on metabolic
+control in children with type 1 diabetes mellitus. J Clin Res Pediatr Endocrinol. 2014;6(2):74-78.
+87.
+Marigliano M, Morandi A, Maschio M, et al. Nutritional education and carbohydrate counting in
+children with type 1 diabetes treated with continuous subcutaneous insulin infusion: the effects
+on dietary habits, body composition and glycometabolic control. Acta Diabetol. 2013;50(6):959964.
+88.
+Smart CE, Ross K, Edge JA, et al. Children and adolescents on intensive insulin therapy
+maintain postprandial glycaemic control without precise carbohydrate counting. Diabet Med.
+2009;26(3):279-285.
+89.
+Smart CE, King BR, McElduff P, et al. In children using intensive insulin therapy, a 20-g
+variation in carbohydrate amount significantly impacts on postprandial glycaemia. Diabet Med.
+2012;29(7):e21-24.
+90.
+Smart CE, Ross K, Edge JA, et al. Can children with Type 1 diabetes and their caregivers
+estimate the carbohydrate content of meals and snacks? Diabet Med. 2010;27(3):348-353.
+91.
+Servilha Gandolfo A, Vasconcelos Bastos D, JaburMakluf BA, et al. Efficacy of photographic
+educational materials for carbohydrate counting training of adolescents with diabetes mellitus.
+Nutr Hosp. 2014;29(2):344-349.
+92.
+Gilbertson HR, Brand-Miller JC, Thorburn AW, et al. The effect of flexible low glycemic index
+dietary advice versus measured carbohydrate exchange diets on glycemic control in children
+with type 1 diabetes. Diabetes Care. 2001;24(7):1137-43. Erratum in: Diabetes Care. 2013
+Apr;36(4):1056.
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+93.
+Nansel TR, Gellar L, McGill A. Effect of varying glycemic index meals on blood glucose control
+assessed with continuous glucose monitoring in youth with type 1 diabetes on basal-bolus insulin
+regimens. Diabetes Care. 2008;31(4):695-697.
+94.
+Sinnamon GC, Caltabiano M, Baune BT. Differentiating disordered affect in children and
+adolescents with type 1 diabetes. J Affect Disord. 2013;147(1-3):51-58.
+95.
+Lawrence JM, Standiford DA, Loots B, et al. Prevalence and correlates of depressed mood among
+youth with diabetes: the SEARCH for Diabetes in Youth study. Pediatrics. 2006;117(4):13481358.
+96.
+Garrison MM, Katon WJ, Richardson LP. The impact of psychiatric comorbidities on readmissions
+for diabetes in youth. Diabetes Care. 2005;28(9):2150-2154.
+97.
+Nielsen S, Emborg C, Mølbak AG. Mortality in concurrent type 1 diabetes and anorexia nervosa.
+Diabetes Care. 2002;25(2):309-312.
+98.
+Shehata G, Eltayeb A. Cognitive function and event-related potentials in children with type 1
+diabetes mellitus. J Child Neurol. 2010;25(4):469-474.
+99.
+Neylon OM, O’Connell MA, Skinner TC, et al. Demographic and personal factors associated
+with metabolic control and self-care in youth with type 1 diabetes: a systematic review. Diabetes
+Metab Res Rev. 2013;29(4):257-272.
+100. Tsiouli E, Alexopoulos EC, Stefanaki C, et al. Effects of diabetes-related family stress on
+glycemic control in young patients with type 1 diabetes: Systematic review Can Fam Physician.
+2013;59(2):143-9. Review. Erratum in: Can Fam Physician. 2013 Apr;59(4):354.
+101. Winkley K, Ismail K, Landau S, et al. Psychological interventions to improve glycaemic control
+in patients with type 1 diabetes: systematic review and meta-analysis of randomised controlled
+trials. BMJ. 2006;333(7558):65.
+102. Hampson SE, Skinner TC, Hart J, et al. Effects of educational and psychosocial interventions for
+adolescents with diabetes mellitus: a systematic review. Health Technol Assess. 2001;5(10):179.
+103. Katz ML, Volkening LK, Butler DA, et al. Family-based psychoeducation and Care Ambassador
+intervention to improve glycemic control in youth with type 1 diabetes: a randomized trial. Pediatr
+Diabetes. 2014;15(2):142-150.
+104. Hood KK, Rohan JM, Peterson CM, et al. Interventions with adherence-promoting components
+in pediatric type 1 diabetes: meta-analysis of their impact on glycemic control. Diabetes Care.
+2010;33(7):1658-1664.
+105. Soedamah-Muthu SS, Fuller JH, Mulnier HE, et al. High risk of cardiovascular disease in patients
+with type 1 diabetes in the U.K.: a cohort study using the general practice research database.
+Diabetes Care. 2006;29(4):798-804.
+106. Quirk H, Blake H, Tennyson R, et al. Physical activity interventions in children and young
+people with Type 1 diabetes mellitus: a systematic review with meta-analysis. Diabet Med.
+2014;31(10):1163-1173.
+107. MacMillan F, Kirk A, Mutrie N, et al. A systematic review of physical activity and sedentary
+behavior intervention studies in youth with type 1 diabetes: study characteristics, intervention
+design, and efficacy. Pediatr Diabetes. 2014;15(3):175-189.
+108. Toni S, Reali MF, Barni F, et al. Managing insulin therapy during exercise in type 1 diabetes
+mellitus. Acta Biomed. 2006;77 Suppl 1:34-40.
+109. Dubé MC, Lavoie C, Galibois I, et al. Nutritional strategies to prevent hypoglycemia at exercise
+in diabetic adolescents. Med Sci Sports Exerc. 2012;44(8):1427-1432.
+110. Juvenile Diabetes Research Foundation Continuous Glucose Monitoring Study Group,
+Tamborlane WV, Beck RW, et al. Continuous glucose monitoring and intensive treatment of type
+1 diabetes. N Engl J Med. 2008;359(14):1464-1476.
+111. Lagarde WH, Barrows FP, Davenport ML, et al. Continuous subcutaneous glucose monitoring
+in children with type 1 diabetes mellitus: a single-blind, randomized, controlled trial. Pediatr
+Diabetes. 2006;7(3):159-164.
+112. Continuous glucose monitoring: consensus statement on the use of glucose sensing
+in outpatient clinical diabetes care (Available at https://www.bsped.org.uk/clinical/docs/
+ContinuousGlucoseMonitoring.pdf).
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+113. Hanas R. Type 1 Diabetes in Children, Adolescents and Young Adults (6th Edition). London:
+Class Publishing; 2015.
+114. International Society for Pediatric and Adolescent Diabetes (ISPAD). ISPAD Consensus
+Guidelines for the Management of Type 1 Diabetes Mellitus in Children & Adolescents. Zeist:
+Medforum; 2000.
+115. Azad K, Mohsin F, Zargar AH, et al. Fasting guidelines for diabetic children and adolescents.
+Indian J Endocrinol Metab 2012;16(4):516-518.
+116. Ibrahim AlAlwana, Abdulhameed Al Banyan. Effects of Ramadan fasting on children with Type 1
+diabetes. Int J Diabetes Mellit. 2010;2(2):127-129.
+117. Al-Khawari M, Al-Ruwayeh A, Al-Doub K, et al. Adolescents on basal-bolus insulin can fast
+during Ramadan. Pediatr Diabetes. 2010;11(2):96-100.
+118. Zabeen B, Tayyeb S, Benarjee B, et al. Fasting during Ramadan in adolescents with diabetes.
+Indian J Endocrinol Metab. 2014;18(1):44-47.
+119. American Diabetes Association. Diabetes care in the school and day care setting. Diabetes Care.
+2014;37 Suppl 1:S91-96.
+120. Kollipara S, Warren-Boulton E. Diabetes and physical activity in school. School Nurse News.
+2004;21(3):12-16.
+121. National Collaborating Centre for Women’s and Children’s Health. Diagnosis and management
+of type 1 diabetes in children and young people. London: RCOG Press; 2004.
+122. Perkhidmatan Diabetes dan Endokrinologi, Kementerian Kesihatan Malaysia. Practical guide to
+Insulin Therapy in Type 2 diabetes Mellitus. Putrajaya: KKM; 2010.
+123. King BR, Goss PW, Paterson MA, et al. Changes in altitude cause unintended insulin delivery
+from insulin pumps: mechanisms and implications. Diabetes Care. 2011;34(9):1932-1933.
+124. Kaufman FR, Devgan S, Roe TF, et al. Perioperative management with prolonged intravenous
+insulin infusion versus subcutaneous insulin in children with type I diabetes mellitus. J Diabetes
+Complications. 1996;10(1):6-11.
+125. Gill GV, Redmond S, Garratt F, et al. Diabetes and alternative medicine: cause for concern.
+Diabet Med. 1994;11(2):210-213.
+126. Stone ML, Craig ME, Chan AK, et al. Natural history and risk factors for microalbuminuria in
+adolescents with type 1 diabetes: a longitudinal study. Diabetes Care. 2006;29(9):2072-2077.
+127. Demirel F, Tepe D, Kara O, et al. Microvascular complications in adolescents with type 1 diabetes
+mellitus. J Clin Res Pediatr Endocrinol. 2013;5(3):145-149.
+128. Chae HW, Shin JI, Kwon AR, et al. Spot urine albumin to creatinine ratio and serum cystatin C
+are effective for detection of diabetic nephropathy in childhood diabetic patients. J Korean Med
+Sci. 2012;27(7):784-787.
+129. Salardi S, Porta M, Maltoni G, et al. Infant and toddler type 1 diabetes: complications after 20
+years’ duration. Diabetes Care. 2012;35(4):829-833.
+130. Nelson D, Mah JK, Adams C, et al. Comparison of conventional and non-invasive techniques for
+the early identification of diabetic neuropathy in children and adolescents with type 1 diabetes.
+Pediatr Diabetes. 2006;7(6):305-310.
+131. Harrington J, Peña AS, Gent R, et al. Aortic intima media thickness is an early marker of
+atherosclerosis in children with type 1 diabetes mellitus. J Pediatr. 2010;156(2):237-241.
+132. Järvisalo MJ, Putto-Laurila A, Jartti L, et al. Carotid artery intima-media thickness in children with
+type 1 diabetes. Diabetes. 2002;51(2):493-498.
+133. Urbina EM, Wadwa RP, Davis C, et al. Prevalence of increased arterial stiffness in children with
+type 1 diabetes mellitus differs by measurement site and sex: the SEARCH for Diabetes in Youth
+Study. J Pediatr. 2010;156(5):731-737, 737.e731.
+134. Glowinska B, Urban M, Koput A, et al. New atherosclerosis risk factors in obese, hypertensive
+and diabetic children and adolescents. Atherosclerosis. 2003;167(2):275-286.
+135. Basiratnia M, Abadi SF, Amirhakimi GH, et al. Ambulatory blood pressure monitoring in
+children and adolescents with type-1 diabetes mellitus and its relation to diabetic control and
+microalbuminuria. Saudi J Kidney Dis Transpl. 2012;23(2):311-315.
+136. Krishnan S, Fields DA, Copeland KC, et al. Sex differences in cardiovascular disease risk in
+adolescents with type 1 diabetes. Gend Med. 2012;9(4):251-258.
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+Appendix 1
+Example of Search Strategy
+The following MeSH terms or free text terms were used either singly or
+in combination, search was limit to English, humans, all child (0 to 18
+years) and 1994 to current:-
+1.
+DIABETES MELLITUS, TYPE 1/
+2.
+diabetes adj1 (autoimmune or juvenile onset or juvenile-onset).tw.
+3.
+iddm.tw.
+4.
+diabetes mellitus adj1 (insulin dependent or insulin-dependent or
+juvenile onset or juvenile-onset or type 1 or type i or ketosis prone
+or ketosis-prone).tw.
+5.
+1 or 2 or 3 or 4
+6.
+INSULIN/
+7.
+INSULIN ASPART/
+8.
+INSULIN, ISOPHANE/
+9.
+INSULIN LISPRO/
+10. INSULIN, LONG-ACTING/
+11. INSULIN, REGULAR, HUMAN/
+12. INSULIN, SHORT-ACTING/
+13. insulin.tw.
+14. insulin therapy.tw.
+15. (insulin adj1 (soluble or regular or aspart or isophane or nph or
+neutral protamine hagedorn or protamine zinc or lispro or long
+acting or long-acting or regular human or rapid acting or rapidacting or short-acting or short acting)).tw.
+16. novorapid.tw.
+17. novolog.tw.
+18. lispro.tw.
+19. humalog.tw.
+20. humulin s.tw.
+21. humulin.tw.
+22. 6 or 7 or 8 or 9 or 10 or 11 or 12 or 13 or 14 or 15 or 16 or 17 or 18
+or 19 or 20 or 21
+23. 5 and 22
+24. limit 23 to (english language and humans and “all child (0 to 18
+years)” and (meta analysis or randomized controlled trial or
+systematic reviews) and last 20 years)
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+Appendix 2
+Clinical Questions
+1.
+How to diagnose T1DM?
+2.
+What are the risk factors of T1DM?
+3.
+What are the common co-morbidities in T1DM?
+4.
+What are the treatment goals in T1DM?
+- optimal HbA1c levels
+- range of ideal blood glucose levels
+- growth and puberty
+5.
+How to treat newly diagnosed T1DM?
+6.
+What are the effective/safe insulin regimens in T1DM?
+- pre-school children
+- school going children
+- adolescents
+7.
+How is self-adjustment of insulin dose done in T1DM?
+8.
+What are the effective/safe medical nutrition therapies in T1DM?
+9.
+Which are the personal and psychological factors associated with
+metabolic control and self-care in TIDM?
+What is the appropriate psychosocial support in T1DM?
+10. Are physical activities safe/effective in T1DM?
+11. What is the safe/effective home or self-monitoring blood glucose in
+T1DM?
+12. What is the safe/effective insulin therapy in special situations?
+- sick day
+- eating out
+- fasting
+- schooling
+- travelling
+- surgery
+- exercise
+- partial remission phase
+13. Are supplements/complementary medications safe/effective in
+T1DM?
+14. What are the long-term complications of T1DM?
+How and when to screen for the complications?
+15. What are the referral criteria for T1DM?
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+Appendix 3
+Algorithm 1. Immediate Assessment in DKA
+Modified: International Society for Pediatric and Adolescent Diabetes (ISPAD).
+Pediatic Diabetes. Oxford: Wiley Blackwell; 2014
+• Shock (reduced
+peripheral pulses)
+• Reduced conscious
+level/coma
+• Polyuria
+• Polydipsia
+• Weight loss
+• Abdominal pain
+• Tiredness
+• Vomiting
+• Confusion
+Clinical history
+• Hydration status
+• Deep sighing
+respiration
+• Acetone-smell breath
+• Lethargy/drowsiness
+± vomiting
+Clinical signs
+Biochemical features
+& investigations
+• Ketonuria (>2+) or
+ketonaemia (>3.0 mmol/L)
+• Hyperglycaemia
+(BG >11 mmol/L)
+• Acidosis (venous pH <7.3
+or bicarbonate <15 mmol/L)
+• Blood urea & electrolytes
+• Other investigations as
+indicated
+Confirmed DKA
+Contact specialist
+• Dehydration >5%
+• Not in shock
+• Acidotic
+(hyperventilation)
+• Vomiting
+• Minimal dehydration
+• Tolerating oral fluid
+• Airway ± nasogastric
+tube
+• Breathing (100% O2)
+• Circulation 0.9% saline
+10 - 20 ml/kg over
+1 - 2 hours (rapid bolus
+if in shock) & repeat until
+circulation is restored
+but not >30 ml/kg
+Resuscitation
+IV fluid therapy
+• Calculate fluid
+requirements;correct
+over 48 hours, use
+saline 0.9%
+• Do ECG for abnormal
+T-waves
+• Add 20 mmol
+potassium for each
+500 ml of fluid
+• IV infusion/SC insulin
+• IV fluid/oral hydration
+Therapy
+No improvement
+DKA is categorised by the severity of acidosis:
+• mild (venous pH <7.3, bicarbonate <15 mmol/L)
+• moderate (venous pH <7.2, bicarbonate <10 mmol/L)
+• severe (venous pH <7.1, bicarbonate <5 mmol/L)
+Insulin therapy
+• IV insulin infusion (0.05 - 0.1 unit/kg/hour) started at 1 - 2 hours after initial
+fluid therapy
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+Appendix 4
+Algorithm 2. Critical Observation in DKA
+Modified: International Society for Pediatric and Adolescent Diabetes (ISPAD).
+Pediatic Diabetes. Oxford: Wiley Blackwell; 2014
+• Hourly vital signs &
+neurological status
+• Hourly BG
+• Hourly fluid input & output
+• 2 - 4 hourly ketone, blood
+gases & electrolytes after
+starting IV therapy
+• Monitor ECG for T-wave
+changes
+Critical observation
+Acidosis not
+improving,
+deterioration
+BG 14 - 17 mmol/L OR
+BG falls >5 mmol/L/hour (after
+initial volume expansion)
+• Start SC insulin, then stop
+IV insulin after an
+appropriate interval
+Neurological
+Warning signs:
+headache, slowing
+heart rate, irritability,
+decreased conscious
+level, incontinence,
+specific neurological
+signs
+• Add 5% dextrose in
+the infusate
+• Adjust type of IV fluid
+based on serum sodium
+concentration after 4 - 6 hours
+Re-evaluate
+• Recalculate
+IV fluid
+• Review insulin
+delivery system
+& dose
+• Assess for the
+need of
+additional
+resuscitation
+• Consider
+treatment for
+sepsis
+• Clinically well,
+tolerating oral
+fluids
+Improvement
+Suspect cerebral
+oedema
+• Give mannitol
+0.5 - 1 g/kg or
+hypertonic solution
+• Restrict IV fluid by
+one third
+• Call specialist
+• Transfer to ICU
+• Consider cranial
+imaging only after
+patient treated and
+stabilised
+Management
+No
+No
+Yes
+Transition to SC insulin
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+Appendix 5
+Types of Insulin Preparations and their Action Profiles
+Source: Perkhidmatan Diabetes dan Endokrinologi, Kementerian Kesihatan Malaysia.
+Practical Guide to Insulin Therapy in Type 2 Diabetes Mellitus. Putrajaya: MoH;
+2010
+Insulin Approval by U.S. Food and Drug Administration (FDA),
+and European Medicines Agency (EMEA)
+Source: U.S. Food and Drug Administration (Available at http://www.fda.gov/)
+European Medicine Agency (Available at http://www.ema.europa.eu/ema/)
+Rapid-acting insulin
+• Aspart
+• Lispro
+• Glulisine
+Short-acting
+insulin
+Intermediateacting insulin
+[neutral protamine
+Hagedorn (NPH)]
+Long-acting insulin
+• Glargine
+• Detemir
+Premixed human
+(30% short-acting
+insulin + 70% NPH)
+Premixed analog
+• 30% aspart +
+70% aspart
+protamine
+• 25% lispro +
+75% lispro
+protamine
+10 - 20 min
+0 - 15 min
+5 - 15 min
+30 min
+1 - 1.5 hour
+2 - 4 hour
+1 hour
+30 min
+10 - 20 min
+0 - 15 min
+Onset of
+action
+Generic name
+1 - 3
+1
+1 - 2
+1 - 4
+4 - 12
+Peakless
+Peakless
+Dual
+Dual
+Dual
+Peak of
+action (hour)
+3 - 5
+3.5 - 4.5
+3 - 5
+6 - 8
+16 - 23
+20 - 24
+17 - 23
+16 - 23
+18 - 23
+16 - 18
+Duration of
+action (hour)
+5 - 15 min before
+or immediately
+after meals
+30 min before
+meals
+Pre-breakfast/
+pre-bed
+Same time
+everyday at
+anytime of the
+day
+30 - 60 min
+before meals
+5 - 15 min
+before meals
+Timing of
+injection
+Type of Insulin
+Insulin lispro
+Insulin aspart
+Insulin glulisine
+Insulin detemir
+Insulin glargine
+Insulin degludec
+Approved by FDA for
+(studied from age)
+“adults and children” (3 years)
+“adults and children” (2 years)
+“adults and children” (4 years)
+“adults and children” (2 years)
+“adults and paediatric patients”
+(6 years)
+“adults” (18 years)
+Approved by EMEA
+from age
+“adults and children”
+≥2 years
+≥6 years
+≥1 year
+≥2 years
+≥1 year
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+Appendix 6
+Dietary Fibre Content of Common Foods
+Source: Malaysian Dietitians’ Association. Medical Nutrition Therapy Guidelines for
+Type 2 Diabetes Mellitus. Kuala Lumpur: MDA; 2013
+Starchy Foods and
+Cereals
+Multi whole grain fibre
+meal bread,1 slice
+Cereals (ready-to-eat)
+All bran R, ½ cup
+100% bran R, ⅓ cup
+Cooked cereals
+Oat bran, 1 cup
+Grains
+Barley, cooked, ½ cup
+Cookies/crackers
+Rye crackers, 1 triple
+Pastas
+Whole-wheat pasta,
+1 cup
+Starchy vegetables
+Dried beans, peas,
+legumes, cooked,
+½ cup
+Fruits
+Apple, raw with skin, 1
+medium
+Figs/dates, 10
+Kiwi fruit, 2 medium
+Mango, 1 medium
+Pear, raw, 1 medium
+Prunes, dried, 5
+Vegetables
+Green peas, fresh,
+frozen or canned,
+½ cup
+Snow peas, 10 pods
+Nuts and seeds
+Almonds, 1 oz
+High Fibre (5+ g)
+Medium Fibre (2 - 4 g)
+Rye bread, 1 slice
+Whole-wheat, 1 slice
+Whole-wheat pasta, ½ cup
+Shredded wheat R, 1 biscuit
+Oatmeal, 1 cup
+Bran, natural 1 tablespoon (tbsp)
+Brown rice, cooked, ½ cup
+Wheat germ, 1 tbsp
+Oat crackers, 2
+Corn, canned, whole kernel, ½ cup
+Corn-on-the-cob, 1 small
+Potato, whole, cooked, with skin, ½
+Sweet potato with skin, ½
+Yam, cooked, ½ cup cubes
+Miso, paste, 3 tbsp
+Apple, raw, no skin, 1 medium
+Orange, raw, 1 small
+Raisins, 2 tbsp
+Prune juice, 1 cup
+Bean sprouts, ½ cup
+Beans, string, ½ cup
+Broccoli, ½ cup
+Carrots, raw, ½ cup
+Eggplant, ½ cup
+Ladies fingers, ½ cup
+Vegetables, mixed, ½ cup
+Peanut butter, smooth, crunchy,
+2 tbsp
+Peanuts (15), 1 oz
+Sunflower seeds, with kernels,
+2 tbsp
+Watermelon seeds, 2 tbsp
+Sesame seeds, 2 tbsp
+Low Fibre (<2g)
+Hamburger/hotdog bun, ½
+Plain dinner roll, 1 small
+White bread, 1 slice
+Rice krispies R, ⅔ cup
+Special K R, 1 cup
+Corn flakes, ¾ cup
+White rice, cooked, ½ cup
+Soda crackers, 6 pieces
+Macaroni, noodles
+Spaghetti, cooked, ½ cup
+Corn, canned creamed, ½ cup
+Potato, whipped, no skin, ½ cup
+Potato, whole, no skin, ½ cup
+Grapes, 8
+Honeydew melon, 1 slice
+Pineapple, raw, 1 slice
+Watermelon, 5” triangle
+Most fruits and vegetable-based
+juice (apple, orange) 1 cup
+Asparagus, cooked, 6 spears
+Cabbage, raw, 1 cup
+Lettuce, iceberg, 1 cup
+Cauliflower, raw, ½ cup
+Celery, raw, ½ cup
+Cucumber, raw, ½ cup
+Mushrooms, raw, ½ cup
+Mustard greens, fresh cooked, ½ cup
+Spinach, raw, 1 cup
+Tomatoes, raw, 1 cup
+Coconut, 2 tbsp
+Walnuts, 2 tbsp
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+Rice, white unpolished
+(cooked), ½ cup or ⅓ chinese
+rice bowl
+Rice porridge, 1 cup
+Putu mayam,1 piece (40 g)
+Oats, uncooked, ½ cup or 3
+rounded tbsp
+Potato, 1 small
+Barley, pearl, uncooked ¼ cup
+Mee hoon, ½ cup or
+⅓ chinese rice bowl
+Kuey-teow, ½ cup or
+⅓ chinese rice bowl
+Mee, wet, ½ cup or
+⅓ chinese rice bowl
+Noodle, laksa, wet, ⅔ cup
+Macaroni, cooked, ⅔ cup
+Cornflakes, ½ cup
+Biscuits, (plain, unsweetened),
+3 pieces
+Biscuits,
+(small, thin, salted, 4.5 x 4.5 cm),
+6 pieces
+Bread
+(wholemeal, high fibre, white/brown),
+1 slice (30 g)
+French bread, 2 pieces
+Pumpkin, 1 cup (100 g)
+Sweet potato, ½ cup
+Cereals, Grain & Bread
+Appendix 7
+Food Group and Exchange Lists for 15 g Carbohydrate
+Cereals, Grain Products and Starchy Vegetables
+Each item contains 15 g carbohydrate, 2.0 g protein,
+0.5 g fat and 75 calories
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+Apple, 1 medium
+Guava, ½ fruit
+Limau, 1 medium
+Orange, 1 medium
+Pear, 1 medium
+Pear, yellow, Chinese,
+1 medium
+Grapes, 8 pieces
+Dates, dried, 3 small pieces
+Chestnuts, 7 whole
+Prune, 3 small whole
+without seeds
+Honeydew, 1 slice
+Duku, 6 whole
+Banana, 1 small (60 g)
+Sapodilla (ciku), 1 medium
+Jackfruit, 4 without seeds
+Pineapple, 1 slice
+Pumpkin, 1 cup (100 g)
+Raisin, 1 dessert spoon,
+heap (20 g)
+Fruits
+Fruits
+Each item contains 15 g carbohydrate and 60 calories
+Source: Malaysian Dietitians’ Association. Medical Nutrition Therapy Guidelines for
+Type 2 Diabetes Mellitus. Kuala Lumpur: MDA; 2013
+Suzana S, Nik Shanita S, Zahara AM, et al. Malaysian Atlas of Food
+Exchanges and Portion Sizes. Kuala Lumpur: MDC; 2015
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+Appendix 8
+Carbohydrate Exchange for Sugars
+Each item contains 15 g carbohydrate
+Honey
+: 1 tablespoon level (21 g)
+Kaya
+: 3 tablespoons level (30 g)
+Jam
+: 1 tablespoon level (21 g)
+Sweets
+: 1 - 2 pieces
+Sugar (brown)
+: 3 ½ teaspoons level (18 g)
+Sugar (white)
+: 3 teaspoons level (15 g)
+Rose syrup
+: 3 ½ teaspoons level (18 g)
+Condensed milk
+: 2 tablespoons level (30 g)
+Cocoa/malt-based powder
+: 1 ½ tablespoon level (21 g)
+Source: Malaysian Dietitian’s Association. Medical Nutrition Therapy Guidelines for
+Type 2 Diabetes Mellitus. Kuala Lumpur: MDA; 2013
+Glycaemic Index (GI) for Local Malaysian Foods
+Source: Ministry of Health, Malaysia. Management of Type 2 Diabetes Mellitus.
+Putrajaya: MoH; 2015
+Food
+Categories
+Rice
+Bread and
+cereals
+products
+Noodle and
+pasta
+Milk
+Fruit
+Legumes
+Tuber
+Barley
+All bran breakfast cereals
+Muesli
+Wholegrain bread varieties
+Lasagne pasta sheets
+Spaghetti, white, boiled
+Spaghetti, wholemeal,
+boiled
+Full fat milk
+Low fat milk
+Skim milk
+Soy milk (without added sugar)
+Yogurt
+Apple
+Mango
+Oranges
+Plum
+Baked beans
+Chickpeas
+Lentils
+Mung bean
+Cassava, boiled
+Sweet potato, boiled
+Glutinous rice
+Jasmine rice
+Instant porridge
+White rice
+Sago
+Cornflakes
+Rice crackers
+Roti canai
+White flour bread
+Wholemeal (whole
+wheat) wheat flour
+bread
+Fried macaroni
+Fried meehoon
+Fried rice noodles
+Rice noodle (kueyteow)
+Teh tarik
+Lychee
+Watermelon
+Potato, boiled
+Basmati rice
+Brown rice
+Parboiled rice
+Red rice
+Capati
+Idli
+Oatmeal
+Pita bread, wholemeal
+Wholemeal barley
+flour bread
+Spaghetti, white,
+durum wheat semolina
+Udon noodles, plain
+Wheat noodles
+Ice cream
+Sweetened condensed
+milk
+Banana
+Dates
+Papaya
+Pineapples
+Raisin
+Pumpkins, boiled
+Sweet corn, boiled
+High GI (>70)
+Intermediate GI
+(56 - 70)
+Low GI (≤55)
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+LIST OF ABBREVIATIONS
+βOHB
+β-hydroxybuterate
+µg
+microgramme
+ACEi
+angiotensin converting enzyme inhibitor
+ACR
+albumin:creatinine ratio
+ARB
+angiotensin receptor blocker
+AER
+albumin excretion rates
+aTPO
+anti-thyroid peroxidase antibody
+BG
+blood glucose
+BMI
+body mass index
+BP
+blood pressure
+carb
+carbohydrate
+CI
+confidence interval
+CGM(S)
+Continuous Glucose Monitoring (System)
+CPG(s)
+clinical practice guidelines
+CSII
+continuous subcutaneous insulin infusion
+DCCT
+Diabetes Control and Complications Trial
+DG
+Development Group
+DiCARE
+Malaysian Diabetes in Children and Adolescents Registry
+DKA
+diabetic ketoacidosis
+dL
+desilitre
+ECG
+Electrocardiogramme
+EDIC
+Epidemiology of Diabetes Interventions and Complications
+g
+gramme
+GA
+general anaesthesia
+GAD
+glutamic acid decarboxylase
+GI
+glycaemic index
+HbA1c
+glycated haemoglobin
+IAA
+insulin autoantibodies
+ICA
+anti-islet antibody
+ICA512 or IA2A protein tyrosine phosphatase antibody
+ICR
+insulin to carbohydrate ratio
+IFCC
+International Federation of Clinical Chemistry and Laboratory Medicine
+IM
+intramuscular
+IQR
+interquartile range
+ISF
+insulin sensitivity factor
+ISPAD
+International Society for Pediatric and Adolescent Diabetes
+IU
+international unit
+IV
+intravenous
+kcal
+kilocalorie
+kg
+kilogramme
+L
+litre
+LDL
+low-density lipoprotein
+LJM
+limited joint mobility
+MDI
+multiple daily injections
+mg
+milligramme
+min
+minutes
+ml
+millilitre
+mmol
+millimol
+Management of Type 1 Diabetes Mellitus in Children & Adolescents
+ACKNOWLEDGEMENT
+The DG members of these guidelines would like to express their
+gratitude and appreciation to the following for their contributions:-
+• Panel of external reviewers who reviewed the draft
+• Technical Advisory Committee for CPG for their valuable input and
+feedback
+• Former DG/RC members:
+The late Professor Dr. Fatimah Harun, Senior Lecturer &
+Consultant Paediatric Endocrinologist, Universiti Malaya
+Ms. Khalizah Jamili, Dietitian, Hospital Kuala Lumpur
+Ms. Sin Lian Thye, Nursing Matron, Institut Kanser Negara, Putrajaya
+• All those who have contributed directly or indirectly to the
+development of the CPG
+DISCLOSURE STATEMENT
+The panel members of both DG and RC have completed disclosure
+forms. None held shares in pharmaceutical firms or acts as consultants to
+such firms. (Details are available upon request from the CPG Secretariat)
+SOURCE OF FUNDING
+The development of the CPG on Management of Type 1 Diabetes
+Mellitus in Children & Adolescents was supported financially in its
+entirety by the Ministry of Health while the printing was funded by the
+Malaysian Endocrine & Metabolic Society.
+MUFA
+monounsaturated fatty acids
+MoH
+Ministry of Health
+NaCl
+natrium chloride
+NPH
+neutral protamine Hagedorn
+OGTT
+oral glucose tolerance test
+OR
+odds ratio
+pCO2
+partial pressure of carbon dioxide
+PUFA
+polyunsaturated fatty acids
+RC
+Review Committee
+RCT(s)
+randomised controlled trial(s)
+SMBG
+self-monitored blood glucose
+SC
+subcutaneous
+SMBG
+self-monitoring of blood glucose
+SMD
+standardised mean difference
+T1DM
+type 1 diabetes mellitus
+tbsp
+tablespoon
+TDD
+total daily insulin dose
+TSH
+thyroid stimulating hormone
+WMD
+weighted mean difference
+ZnT8
+zinc transporter 8

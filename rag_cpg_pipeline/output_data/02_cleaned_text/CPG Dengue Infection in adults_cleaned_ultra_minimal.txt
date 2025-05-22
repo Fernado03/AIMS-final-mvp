@@ -1,0 +1,4193 @@
+Published by:
+Malaysia Health Technology Assessment Section (MaHTAS)
+Medical Development Division, Ministry of Health Malaysia
+Level 4, Block E1, Precinct 1
+Federal Government Administrative Centre
+62590, Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is MaHTAS. Content may be
+reproduced in any number of copies and in any format or medium
+provided that a copyright acknowledgement to MaHTAS is included
+and the content is not changed, not sold, nor used to promote or
+endorse any product or service, and not used in an inappropriate or
+misleading context.
+ISBN: 978-967-0769-29-5
+Available on the following websites:
+http://www.moh.gov.my
+http://www.acadmed.org.my
+Also available as an app for Android and IOS platform:
+MyMaHTAS
+STATEMENT OF INTENT
+These clinical practice guidelines (CPG) are meant to be guides for
+clinical practice, based on the best available evidence at the time of
+development. Adherence to these guidelines may not necessarily
+guarantee the best outcome in every case. Every healthcare provider is
+responsible for the management of his/her unique patient based on the
+clinical picture presented by the patient and the management options
+available locally.
+These guidelines were issued in 2015 and subject to be reviewed in
+minimum four (4) years time or in the advent of any significant change
+in management of patient. When it is due for updating, the Chairman
+of the CPG or National Advisor of the related specialty will be informed
+about it. A discussion will be done on the need for a revision including
+the scope of the revised CPG. A multidisciplinary team will be formed
+and the latest systematic review methodology used by MaHTAS will be
+employed.
+TABLE OF CONTENTS
+EPIDEMIOLOGY
+1.
+DENGUE VIRUS AND SEROTYPE TRENDS IN MALAYSIA
+2.
+CLINICAL MANIFESTATIONS AND PATHOPHYSIOLOGY
+3.
+3.1 Spectrum of Dengue Infection
+3.2 Clinical Course of Dengue Infection
+3.3 Pathophysiology of Plasma Leakage in Severe Dengue Infection
+3.4 WHO Dengue Classification
+3.5 Diagnostic Challenges
+DISEASE NOTIFICATION
+4.
+INVESTIGATIONS
+5.
+5.1 Disease Monitoring Tests
+5.2 Diagnostic Tests
+INVESTIGATION OF POST MORTEM CASE
+6.
+MANAGEMENT OF DENGUE INFECTION
+7.
+7.1 Outpatient Management
+7.2 Patient Triaging at Emergency and Outpatient Department
+7.3 Criteria for Hospital Referral / Admission
+7.4 Disease Monitoring
+7.5 Fluid Management
+ALGORITHM A : Fluid Management in Compensated Shock
+ALGORITHM B : Fluid Management in Decompensated Shock
+ALGORITHM C : Fluid Management in Decompensated Shock
+(With Presence of Bleeding & Leaking/ Other
+Causes of Shock)
+7.6 Management of Complications in Dengue Infection
+7.7 Intensive Care Management of Dengue Infection
+DENGUE INFECTION IN PREGNANCY
+8.
+DISCHARGE CRITERIA
+9.
+1
+2
+3
+3
+3
+5
+7
+8
+8
+9
+9
+9
+12
+13
+13
+16
+16
+18
+21
+26
+27
+28
+30
+37
+40
+42
+Levels of Evidence & Formulation of Recommendation
+Guidelines Development and Objectives
+Guidelines Development Group
+Review Committee
+External Reviewers
+i
+ii
+v
+vi
+vii
+No. Title Page
+43
+43
+43
+44
+46
+56
+57
+58
+60
+61
+62
+63
+64
+65
+66
+67
+68
+68
+68
+No. Title Page
+PREVENTION OF DENGUE TRANSMISSION IN HOSPITALS
+10.
+VACCINATION
+11.
+FOOD AND SUPPLEMENTS
+12.
+IMPLEMENTING THE GUIDELINES
+13.
+REFERENCES
+14.
+Appendix 1 Search Strategy
+Appendix 2 Clinical Questions
+Appendix 3 World Health Organization (WHO) Classification of
+DF and DHF (1997)
+Appendix 4 Methods of Sample Collection
+Appendix 5 Type of Tests for Dengue Diagnosis and
+Recommended Use
+Appendix 6 Type of Dengue Tests Recommended Based
+On Clinical History
+Appendix 7 Outpatient Dengue Monitoring Record
+Appendix 8 Dengue Assessment Checklist
+Appendix 9 Home Care Advice Leaflet for Dengue Patients
+Appendix 10 Inpatient Dengue Monitoring Chart
+List of Abbreviations
+Acknowledgement
+Disclosure Statement
+Source of Funding
+Level
+Study design
+I
+Evidence obtained from at least one properly
+randomised controlled trial
+II-1
+Evidence obtained from well-designed controlled trials
+without randomisation
+II-2
+Evidence obtained from well-designed cohort or casecontrol analytic studies, preferably from more
+than one centre or research group
+II-3
+Evidence obtained from multiple time series with or
+without the intervention. Dramatic results in uncontrolled
+experiments could also be regarded as this type of
+evidence
+III
+Opinions of respected authorities based on clinical
+experience; descriptive studies and case reports; or
+reports of expert committees
+SOURCE: US / CANADIAN PREVENTIVE SERVICES TASK FORCE 2001
+In line with the current development in CPG methodology, the
+CPG Unit of MaHTAS is in the process of incorporating Grading
+Recommendations,
+Assessment,
+Development
+and
+Evaluation
+(GRADE) in its work process. The quality of each retrieved evidence
+and its effect size are carefully assessed/reviewed by the CPG
+Development Group. In formulating the recommendations, overall
+balances of the following aspects are considered in determining the
+strength of the recommendations:-
+Overall quality of evidence
+•
+Balance of benefits vs harms
+•
+Values and preferences
+•
+Resource implications
+•
+Equity, feasibility and acceptability
+•
+LEVELS OF EVIDENCE
+GUIDELINES DEVELOPMENT
+The members of the Development Group (DG) for these Clinical
+Practice Guidelines (CPG) were from the Ministry of Health (MoH).
+There was also active involvement of a multidisciplinary Review
+Committee (RC) during the process of the CPG development.
+A literature search was carried out using the following electronic
+databases: Guidelines International Network (G-I-N); Medline via Ovid,
+Pubmed and Cochrane Database of Systemic Reviews (CDSR) (refer
+to Appendix 1 for Search Strategy). The inclusion criteria are all
+literature on dengue infection regardless of study design. The search
+was limited to literature published in the last five years, on humans and
+in English. In addition, the reference lists of all retrieved literature and
+guidelines were searched to further identify relevant studies. Experts
+in the field were also contacted to identify relevant studies. In certain
+situations, pivotal papers beyond the scope of search were used in the
+CPG. All searches were conducted from 26 May 2015 to 24 July 2015.
+Future CPG updates will consider evidence published after this cut-off
+date. The details of the search strategy can be obtained upon request
+from the CPG Secretariat.
+The previous edition of CPG (2010) was used as the basis in updating
+these present guidelines. Reference was also made to other guidelines
+on dengue infection in adults as well as handbooks from WHO such as
+Dengue Guidelines for Diagnosis, Treatment, Prevention and Control
+(2009) and Handbook for Clinical Management of Dengue (2012).
+A total of 18 clinical questions were developed under different
+sections. Members of the DG were assigned individual questions
+within these sections. (Refer to Appendix 2 for Clinical Questions)
+The DG members met 7 times throughout the development of these
+guidelines. The literature retrieved was appraised by at least two DG
+members using Critical Appraisal Skill Programme checklist, presented
+in evidence tables and further discussed in each DG meetings. All
+statements and recommendations formulated after that were agreed
+upon by both the DG and RC. Where evidence was insufficient, the
+recommendations were made by consensus of the DG and RC. Any
+differences in opinion were resolved consensually. The CPG was
+based largely on the findings of systematic reviews, meta-analyses and
+clinical trials, with local practices taken into consideration.
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+The literature used in these guidelines was graded using the US/
+Canadian Preventive Services Task Force Level of Evidence (2001)
+while the grading of recommendation was done using the principles of
+GRADE (refer to the preceding page).
+On completion, the draft of the CPG was reviewed by external
+reviewers. It was also posted on the MoH Malaysia official website for
+feedback from any interested parties. The draft was finally presented
+to the Technical Advisory Committee for CPG, and the HTA and
+CPG Council MoH Malaysia for review and approval. Details on
+the CPG development by MaHTAS can be obtained from Manual on
+Development and Implementation of Evidence-based Clinical Practice
+Guidelines published in 2015 (available at http://www.moh.gov.my/
+index.php/pages/view/117).
+OBJECTIVES
+GENERAL OBJECTIVES
+To provide evidence-based guidance in the management of dengue
+infection in adult patients.
+SPECIFIC OBJECTIVES
+To improve recognition and diagnosis of dengue cases and provide
+•
+appropriate care to the patients.
+To improve on early and accurate notification of dengue cases for
+•
+prompt public health intervention.
+To identify severe dengue and carry out more focused close
+•
+monitoring and prompt appropriate management.
+To provide guidance on appropriate and timely fluid management
+•
+and the use of blood and blood products.
+To create awareness on early detection of dengue infection with
+•
+complications.
+CLINICAL QUESTIONS
+Refer to Appendix 2
+TARGET POPULATION
+Adult patients with dengue fever and severe dengue.
+TARGET GROUP/USER
+This CPG is intended to guide those involved in the management of
+dengue infection in adults particularly healthcare professionals in
+primary and secondary/tertiary care namely:-
+Physicians and specialists from related disciplines
+a.
+Family Health Specialists
+b.
+Medical officers and general practitioners
+c.
+Allied health professionals
+d.
+Pharmacists
+e.
+Students (medical postgraduates and undergraduates, and allied
+f.
+health students)
+Patients and carers
+g.
+HEALTHCARE SETTINGS
+Outpatient, inpatient and community settings inclusive of private
+healthcare facilities.
+Dr. Ahmad Tajuddin Mohamad Nor
+Consultant Emergency Medicine Specialist
+Hospital Tengku Ampuan Rahimah
+Dr. Rose Nani Mudin
+Head of Vector - Borne Diseases
+Disease Control Division, MoH
+Dr. Anilawati Mat Jelani
+Infectious Disease Physician
+Hospital Raja Perempuan Zainab II
+Dr. Saiful Safuan Md. Sani
+Internal Medicine Physician
+Hospital Kuala Lumpur
+Dr. Chow Ting Soo
+Consultant Infectious Disease Physician
+Hospital Pulau Pinang
+Datin Dr. Salbiah Hj. Nawi
+Consultant Pathologist
+Hospital Kuala Lumpur
+Dr. Faisal Salikin
+Consultant Emergency Medicine Specialist
+Hospital Kuala Lumpur
+Dr. Salmah Idris
+Consultant Pathologist
+Hospital Sungai Buloh
+Dr. Faridah Mohd. Amin
+Head of Epidemiology Division
+National Public Health Laboratory Sg. Buloh
+Dato’ Dr. Santha Kumari
+Senior Consultant Physician
+Hospital Tengku Ampuan Rahimah, Klang
+Dr. Hanin Farhana Kamaruzaman
+Principal Assistant Director, CPG Unit
+Health Technology Assessment Section, MoH
+Dr. Shahanizan Mohd. Zain
+Principal Assistant Director
+Medical Development Division, MoH
+Dr. Haniza Omar
+Consultant Hepatologist
+Hospital Selayang
+Dr. Shanthi Ratnam
+Consultant Intensivist & Physician
+Hospital Sungai Buloh
+Dr. Intan Iliana Iliassa
+Transfusion Medicine Specialist
+Hospital Serdang
+Dr. Shari Mohd. Nor
+Consultant Obstaetric & Gynaecology
+Sabah Women & Children Hospital, Likas
+Dr. Izzuna Mudla Ghazali
+Senior Principal Assistant Director
+Health Technology Assessment Section, MoH
+Dato’ Dr. K. Sree Raman
+Senior Consultant Physician
+Hospital Tuanku Ja’afar, Seremban
+Dr. Kan Fong Kee
+Consultant Infectious Disease Physician
+Hospital Sultanah Aminah
+Dr. Suresh Kumar Chidambaram
+Consultant Infectious Disease Physician
+Hospital Sugai Buloh
+Dr. Nahla Irtiza Ismail
+Intensivist & Anaesthesiologist
+Hospital Melaka
+Dr. Siti Zulfa Zulkifli
+Internal Medicine Physician
+Hospital Kuala Lumpur
+Dr. Nor Azilah Abu Bakar @ Mansor
+Assistant Director
+Medical Development Division, MoH
+Dr. Tai Li Ling
+Senior Consultant Intensivist & Anaesthesiologist
+Hospital Kuala Lumpur
+Dr. Nor Hafizah Ahmad
+Transfusion Medicine Specialist
+National Blood Bank
+Mrs. Yu Kie a/p Chem
+Science Officer (Microbiology)
+National Public Health Laboratory Sg. Buloh
+Dr. Norhayati Shaharudin
+Infectious Disease Physician
+Hospital Melaka
+Dr. Zailiza Suli
+Senior Principal Assistant Director
+Disease Control Division, MoH
+Dr. Ravindran Thayan
+Research Officer, Virology Unit
+Institute for Medical Research
+CHAIRPERSON
+Dato’ Dr. Mahiran Mustafa
+Senior Consultant Infectious Disease Physician
+Hospital Raja Perempuan Zainab II
+Members (alphabetical order)
+REVIEW COMMITTEE
+The draft guideline was reviewed by a panel of experts from both
+public and private sectors. They were asked to comment primarily on
+the comprehensiveness and accuracy of the interpretation of evidence
+supporting the recommendations in the guidelines.
+CHAIRPERSON
+Datuk Dr. Jeyaindran Tan Sri Sinnadurai
+Deputy Director General (Medical)
+Ministry of Health Malaysia
+Members (alphabetical order)
+Datuk Dr. Christopher Lee Kwok Chong
+Senior Consultant Infectious Disease
+Hospital Sungai Buloh
+Dato’ Dr. Faraizah Dato’ Abdul Karim
+Deputy Director
+National Blood Bank
+Dr. J. Ravichandran Jeganathan
+Senior Consultant Obstetric & Gynaecology
+Hospital Sultanah Aminah
+Datin Dr. Rugayah Bakri
+Deputy Director
+Health Technology Assessment Section, MoH
+Dr. Sabariah Faizah Jamaluddin
+Senior Consultant Emergency & Trauma
+Hospital Sungai Buloh
+Datin Dr. Sivasakthi Velayuthapillai
+Senior Consultant Anaesthesiology
+Hospital Kuala Lumpur
+EXTERNAL REVIEWERS (in alphabetical order)
+The following external reviewers provided feedback on the draft:-
+Dr. Hari Dass
+Private General Practitioner
+Klinik Seremban
+Dr. Jameela Sathar
+Senior Consultant Haematologist
+Hospital Ampang
+Dr. Petrick Periyasamy
+Lecturer and Infectious Disease Physician
+Universiti Kebangsaan Malaysia Medical Centre
+Dr. Tan Lian Huat
+Consultant Infectious Disease Physician
+Sunway Medical Centre
+EPIDEMIOLOGY
+1.
+Dengue is one of the most important arthropod-borne viral diseases in
+terms of public health problem with high morbidity and mortality. It affects
+tropical and subtropical regions around the world, predominantly in urban
+areas.
+The global increase of dengue incidence is also experienced by Malaysia.
+Since the year 2000, the dengue incidence in Malaysia continues to
+increase from 32 cases per 100,000 population to 361 cases per 100,000
+population in 2014 (Figure 1). The dengue incidence rate is higher in the
+age group of 15 and above. Most of the dengue cases reported were from
+urban areas (70%–80%) where factors such as high density population and
+rapid development favour dengue transmission.
+With regards to case fatality rate, the national target is less than 0.2%. The
+case fatality rate has been reduced from 0.6% in year 2000 to 0.2% in year
+2014 (Figure 1). Most of the dengue death has been observed to be higher
+in the age group of 15 years and above (Figure 2) and the highest has
+been observed in 2004.
+Figure 1: Dengue Incidence Rate and Case Fatality Rate, Malaysia 2000-2014
+Figure 2: Dengue Case Fatality Rate (CFR) By Age Group In Malaysia, 2004-2014
+DENGUE VIRUS AND SEROTYPE TRENDS IN MALAYSIA
+2.
+Dengue infection is caused by dengue virus which is a mosquito-borne
+flavivirus. It is transmitted by Aedes aegypti and Aedes albopictus. There
+are four distinct serotypes, DENV-1,2,3 and 4. Each episode of infection
+induces a life-long protective immunity to the homologous serotype but
+confers only partial and transient protection against other serotypes.
+Secondary infection is a major risk factor for severe dengue due to
+antibody-dependent enhancement. Other important contributing factors are
+viral virulence, host genetic background, T-cell activation, viral load and
+auto-antibodies.
+In Malaysia, all four serotypes can be isolated at any one time. However,
+a particular dengue virus serotype can predominate for at least two years
+before it is replaced by another serotype (Figure 3). In year 2013-2014,
+the predominant serotype had switched twice from DENV-2 to DENV-1 in
+February and June 2014 (Figure 4).
+Figure 3: Dengue Serotypes in Malaysia (1990-2014)
+Figure 4: Dengue Serotypes in Year 2013, 2014 and 2015 (Jan-June)
+CLINICAL MANIFESTATIONS AND PATHOPHYSIOLOGY
+3.
+3.1 SPECTRUM OF DENGUE INFECTION
+The incubation period for dengue infection is 4-7 days (range 3-14).1 It
+may be asymptomatic or may result in a spectrum of illness ranging from
+undifferentiated mild febrile illness to severe disease, with or without
+plasma leakage and organ impairment. Symptomatic dengue infection
+is a systemic and dynamic disease with clinical, haematological and
+serological profiles changing from day to day. These changes accelerate
+within hours or even minutes during the critical phase, particularly in those
+with plasma leakage (refer to subchapter 3.3).
+Understanding the systemic and dynamic nature of dengue disease as well
+as its pathophysiological changes during each phase of the disease will
+produce a rational approach in the management of dengue infection.
+3.2 CLINICAL COURSE OF DENGUE INFECTION
+After the incubation period, the illness begins abruptly and will be followed
+by three phases: febrile, critical and recovery phase (refer to Figure 5).2,3
+i. Febrile Phase
+Patients develop high grade fever suddenly and usually last 2-7 days. It
+is often accompanied by facial flushing, rash, generalised body ache,
+vomiting and headache. 2,3 Some patients may have sore throat, injected
+pharynx and conjunctival injection.
+Mild haemorrhagic manifestations like petechiae and mucosal membrane
+bleeding may be seen during the illness.4,5 Per vaginal bleeding may occur
+in females but rarely massive. Gastrointestinal bleeding is not uncommon.5,6
+The findings of tender liver are warning signs of dengue infection.
+The earliest abnormality in the full blood count is a progressive decrease
+in total white cell count followed by platelet reduction. This should alert the
+physician to a high index of suspicion of dengue infection. This disease
+should be notified as early as possible for preventive measures.
+ii. Critical Phase
+The critical phase often occurs after third day of fever (may occur earlier)
+or around defervescence indicated by a rapid drop in temperature. This
+coincides with an increase in capillary permeability in some patients. In
+other viral infections, the patient’s condition improves as the temperature
+subsides, but the contrary happens in severe dengue infection wherein the
+patient may deteriorate and manifest third space plasma leakage or organ
+dysfunction.2,3,7,8
+The critical phase lasts about 24-48 hours (refer to Figure 5). Varying
+circulatory disturbances (refer to Table 1) can develop. In less severe
+cases, these changes are minimal and transient. Many of these patients
+either recover spontaneously or after a short period of fluid or electrolyte
+therapy. In more severe forms of plasma leakage, the patients may
+develop compensated or decompensated shock (Table 1). Abdominal pain,
+persistent vomiting and/or diarrhoea, restlessness, altered conscious level,
+clinical fluid accumulation, mucosal bleed or tender liver are the clinical
+warning signs of dengue infection with high possibility of complications.8-10
+Organ dysfunctions such as hepatitis, encephalitis and myocarditis usually
+but not exclusively occur during this phase.
+It is important to note that thrombocytopaenia and haemoconcentration are
+usually detectable in this phase. The haematocrit (HCT) level correlates
+well with plasma volume loss and disease severity. However, interpretation
+of HCT may be difficult when there are confounding factors such as
+haemorrhage, excessive fluid replacement or in haemodilutional state.
+Leucopaenia with relative lymphocytosis, clotting abnormalities, elevation
+of transaminases [typically the level of aspartate aminotransaminase
+(AST) is higher than the level of alanine aminotransaminase (ALT)],
+hypoproteinaemia and hypoalbuminaemia are usually observed.2-4
+iii. Recovery/Reabsorption Phase
+After 24-48 hours of critical phase, usually plasma leakage stops followed
+by reabsorption of extravascular fluid. Patient’s general well being improves,
+appetite returns, gastrointestinal symptoms improve, haemodynamic status
+stabilises and diuresis ensues. Some patient may have a classical rash of
+“isles of white in the sea of red” with generalised pruritus.2 It is important to
+note that during this phase, HCT level stabilises and drops further due to
+haemodilution following reabsorption of extravascular fluid. The recovery of
+platelet count is typically preceded by recovery of white cell count (WCC).
+In some instances, organ dysfunctions may worsen (hepatitis, encephalitis
+and intracranial bleed) as the patient enters reabsorption phase.
+Figure 5 : Clinical Course of DHF 11-13
+3.3 PATHOPHYSIOLOGY OF PLASMA LEAKAGE IN SEVERE
+DENGUE INFECTION
+The primary pathophysiological abnormality seen in dengue infection is
+an acute increase in vascular permeability that leads to leakage of plasma
+into the extravascular compartment, resulting in haemoconcentration and
+hypovolaemia or shock.2,3,14 Hypovolaemia leads to reflex tachycardia and
+generalised vasoconstriction due to increased sympathetic output.15,16
+Clinical manifestations of vasoconstriction in various systems are as follows:
+Skin - coolness, pallor and delayed capillary refill time
+•
+Cardiovascular system - raised diastolic blood pressure and a
+•
+narrowing of pulse pressure
+Renal system - reducing urine output
+•
+Gastrointestinal system - persistent vomiting, persistent diarrhoea and
+•
+abdominal pain
+Central nervous system – lethargy, restlessness, apprehension,
+•
+reduced level of consciousness
+Respiratory system – tachypnoea (respiratory rate >20/min)
+•
+Inadequate perfusion of the tissue leads to increased anaerobic glycolysis
+and lactic acidosis. If the hypovolaemia is not corrected promptly, the
+patient will progress to a refractory shock state. By then, the tissue
+perfusion would not respond to vasopressor drugs, even if the blood
+pressure and intravascular volume were to be restored and cardiac output
+would remain depressed. The resultant lactic acidosis further depresses
+the myocardium and worsens the hypotension.16
+The common late complications of prolonged shock are massive bleeding,
+disseminated intravascular coagulopathy (DIC) and multi-organ failure
+which are often fatal. The pathophysiology of organ dysfunction will be
+described in subchapter 7.6.
+The following Table 1 is the summary of the continuum of various
+pathophysiological changes in a patient who progresses from normal
+circulatory state to hypovolaemic shock.
+The critical phase often occurs after third day of fever (may occur
+•
+earlier) or around defervescence with a rapid drop in temperature.
+Clinical deterioration often occurs during the critical phase with
+•
+plasma leakage or organ dysfunction.
+Evidence of plasma leakage includes raised HCT, haemodynamic
+•
+instability,
+fluid
+accumulation
+in
+extravascular
+space
+or
+hypoproteinaemia.
+Abdominal pain, persistent vomiting and/or diarrhoea, restlessness,
+•
+altered conscious level, clinical fluid accumulation, tender liver or
+mucosal bleed are the clinical warning signs of dengue infection with
+high possibility of rapid progression to severe dengue.
+Table 1: A continuum of pathophysiological changes from normal circulation to
+compensated and decompensated/hypotensive shock
+The pathogenetic mechanism responsible for the increased vascular
+permeability in severe dengue infection is not known. Post-mortem findings
+revealed perivascular oedema and loss of integrity of endothelial junctions
+with endothelial dysfunction.17,18 Abnormal immune response involving the
+production of cytokines or chemokines, activation of T-lymphocytes and
+disturbances of haemostatic system are the major changes seen in severe
+dengue infection. Mediators including C3a, C5a, tumour necrosis factor-α,
+interleukin 2, 6 and 10, interferon-α and histamine are elevated.15,19
+Secondary infection with a heterotypic dengue virus is associated with
+increased risk of developing severe dengue infection. It is believed to be
+due to the antibody-dependent enhancement phenomenon.20-22 The subneutralising concentration of the cross-reacting antibody from the previous
+infection may opsonise the virus and enhance its uptake and replication in
+the macrophage or mononuclear cells. The level of T-cell activation is also
+enhanced. Profound T-cell activation with cell death during acute dengue
+infection may suppress or delay viral elimination, leading to the higher
+viral loads and increased immunopathology found in patients with severe
+dengue infection.15,19
+Normal Circulation
+Compensated Shock
+Decompensated /
+Hypotensive Shock
+Clear consciousness
+•
+Brisk capillary refill
+•
+time (<2 sec)
+Warm and pink
+•
+peripheries
+Good volume
+•
+peripheral pulses
+Normal heart rate
+•
+for age
+Normal blood
+•
+pressure for age
+Normal pulse
+•
+pressure for age
+Normal respiratory
+•
+rate for age
+Normal urine output
+•
+Clear consciousness
+•
+- shock can be
+missed if you do not
+touch the patient
+Prolonged capillary
+•
+refill time (>2 sec)
+Cool extremities
+•
+Weak & thready
+•
+peripheral pulses
+Tachycardia
+•
+Normal systlic
+•
+pressure with raised
+diastolic pressure
+Postural hypotension
+•
+Narrowing pulse
+•
+pressure
+Tachypnoea
+•
+Reduced urine output
+•
+Intense thirst
+•
+Change of mental
+•
+state - restless,
+combative or lethargy
+Mottled skin, very
+•
+prolonged capillary
+refill time
+Cold, clammy
+•
+extremities
+Feeble or absent
+•
+peripheral pulses
+Severe tachycardia
+•
+with bradycardia in
+late shock
+Hypotension /
+•
+unrecordable BP
+Narrowed pulse
+•
+pressure (<20 mmHg)
+Metabolic acidosis/
+•
+hyperpnoea /
+Kussmaul’s breathing
+Oliguria or anuria
+•
+Adapted : Ganong WF. Cardiovascular homeostasis in health and disease. In: Review
+of Medical Physiology. 22nd Edition. London: McGraw-Hill; 2005:p.630-46.
+3.4 WHO DENGUE CLASSIFICATION
+Based on 1997 WHO dengue classification scheme (refer to Appendix 3),
+the key differentiating feature between DF and DHF is the presence of plasma
+leakage in DHF. However, in the early febrile phase of dengue infection, the
+symptoms can overlap and one cannot differentiate DF and DHF.
+3.4.1 Limitations of 1997 WHO classification 23, level I
+It has been observed that the 1997 WHO classification scheme has several
+limitations.
+Dengue with shock without fulfilling all the four criteria for DHF
+i.
+Severe organ impairment without shock
+ii.
+The 1997 classification scheme does not address the entire spectrum
+iii.
+of the disease.
+3.4.2 WHO Classification 2009
+This classification addresses the levels of severity of dengue infection which
+is more practical to be used in the management decision of the patient
+(Figure 6).
+Figure 6: 2009 WHO Dengue Classification and Level of Severity 24
+Adapted: World Health Organization. Dengue Guidelines for Diagnosis, Treatment,
+Prevention and Control - New Edition 2009. WHO: Geneva; 2009
+3.5 DIAGNOSTIC CHALLENGES
+Clinical features of dengue infection are rather non-specific and mimic
+many other diseases, therefore can be easily misinterpreted. A high index
+of suspicion and appropriate history taking, particularly with regards to a
+recent stay in dengue hotspots or clusters of fever in neighbourhood, are
+useful for early and accurate diagnosis of dengue infection.
+In addition, a dengue patient may have a co-infection with another
+pathogen. Diseases that may mimic dengue infection includes other viral
+illnesses. Organ dysfunction can occur in other diseases apart from dengue
+infection and should be investigated.
+4. DISEASE NOTIFICATION
+All suspected dengue cases from private and public health facilities must
+be notified by telephone/fax/e-notification to the nearest health office within
+24 hours of diagnosis, followed by written notification using the standard
+notification format. Failure to notify is liable to be compounded under the
+Prevention and Control of Infectious Diseases Act, 1988 (Act 342).25
+Any delay in notification will increase the risk of dengue transmission in
+the locality of the residence. It is also important to update the notification if
+there is a change in severity of dengue infection or when there is dengue
+death.
+Notified cases will be followed up by the health authorities for the
+verification of case definition and preventive measures. Since 2014,
+the Ministry of Health Malaysia has set up new criteria for dengue cases
+registration, whereby all registered dengue cases must be confirmed by
+laboratory investigations.
+All dengue deaths need to be notified as soon as possible by the treating
+doctor in the hospital to the district health office and/or State Health
+Director and must be investigated by District Health Officer or Epidemiology
+Officer.26
+Dengue mortality audit should be conducted within seven days after
+the dengue death has occurred at hospital level followed by state level,
+chaired by Hospital Director and State Health Director respectively. The
+complete dengue death report should be sent to Communicable Diseases
+Division, Ministry of Health within one week via State Vector Officer. The
+implementation of dengue case management and death should comply to
+the Director General of Health Malaysia Circular No.15/2010 dated 24 May
+2010.26
+5. INVESTIGATIONS
+5.1 DISEASE MONITORING TESTS
+White cell count (WCC) and Platelet count:
+i.
+In the early febrile phase WCC and platelet count are usually normal
+but will decrease rapidly as the disease progresses.4, level III The
+decrease in WCC is accompanied by platelet reduction.
+There is no correlation between disease severity and platelet count
+2,level III;25,level III and it is not predictive of bleeding.28,level I;29,level II-2;30-32,level III In
+recovery phase, the WCC normalises followed by platelet.
+Haematocrit (HCT):
+ii.
+A rising HCT is a marker of plasma leakage in dengue infection. The median
+values of normal HCT level among Malaysian populations are: 33,level II-2
+male
+•
+< 60 years – 46%
+male > 60 years – 42%
+•
+female (all age groups) – 40%
+•
+Other important blood tests in disease monitoring are Liver Function Test
+(LFT), Renal profile (RP), coagulation profile, lactate and blood gases
+(Table 6). Special tests such as Troponin and Creatine Kinase (CK) should
+be discussed with the Specialists/Registrars before performing.
+Recommendation 1
+Baseline haematocrit (HCT) and white cell count should be established
+•
+during the first visit in all patients with suspected dengue infection.
+Serial full blood count and HCT must be monitored as dengue infection
+•
+progresses.
+5.2 DIAGNOSTIC TESTS
+Diagnostic tests include point of care testing such as dengue NS1 antigen
+test and rapid combo tests (NS1 antigen and dengue IgM/IgG antibodies).
+Other laboratory tests include NS1 antigen test, dengue antibody detection
+tests including IgM and IgG ELISA, dengue genome detection assay (real
+time RT-PCR) and dengue viral isolation assay. Specifications for an ideal
+dengue test include the ability to differentiate between dengue and other
+diseases with similar clinical presentation, to detect during the acute stage
+of infection, provides rapid results, inexpensive and easy to use. However,
+the interpretation of diagnostic results should be done with the clinical
+context.
+5.2.1Rapid Combo Test (RCT)
+Rapid combo tests are assays that can detect the presence of virus as well
+as antibodies simultaneously.34-35,level II-2 Generally RCT tests can be read
+within 15-20 minutes. However, it is important that the tests have to be
+read according to the manufacturer’s recommendation in the product insert.
+Reading too late gives false results.
+Interpretation of the results is through the presence or absence of bands
+for dengue NS1 antigen and dengue IgM and IgG antibodies.34-35,level II-2
+These tests have a longer detection window as they can detect both the
+virus and antibodies, thus reducing the possibility of false negative results.
+Hence these tests are useful during the early phase of onset when there is
+viraemia as well as at a later stage when antibodies against dengue begin
+to rise. Suitable samples that can be used for testing include whole blood,
+serum and plasma. The sensitivity is 93.9% and specificity is 92%.36,level II-2
+5.2.2 Dengue Antigen and Serology Tests by ELISA
+Both antigen and serological tests are more commonly used to diagnose
+dengue infections. The tests include antigen detection (NS1) or antibody
+detection. Usually different patterns of antibody response are seen in primary
+dengue infection as compared to secondary dengue infection. 37,level II-2
+i. Non-Structural Protein-1 (NS1 Antigen)
+NS1 antigen is a highly conserved glycoprotein that seems to be essential
+for virus viability. Secretion of the NS1 protein is a hallmark of flavivirus
+infecting mammalian cells and can be found in dengue infection as well as
+in yellow fever and West Nile virus infection. False positive results have
+been reported in chronic diseases and haematological malignancies.38,level III
+The detection rate is much better in acute sera of primary infection
+(75%-97%) when compared to the acute sera of secondary infection
+(60%-70%).39-41,level III The sensitivity of NS1 antigen detection drops from
+day 4-5 of illness onwards and usually becomes undetectable in the
+convalescence phase.40-42,level III
+The presence of NS1 detection after day five may predict severe dengue.44,level II-2
+ii. Dengue IgM test
+The IgM capture enzyme-linked immunosorbent assay (ELISA) is the
+most widely used serological test. The antibody titre is significantly higher
+in primary infections compared to secondary infections. Once the IgM is
+detectable, it rises quickly and peaks at about two weeks after the onset of
+symptoms, and it wanes to undetectable levels by 90 days.
+In primary dengue infection, anti-dengue IgM can be detected after five
+days of illness in approximately 80% of the cases.37,level II-2 Almost 93%-99%
+of cases will have detectable IgM from day 6 through day 10. In the event
+of a negative IgM result, a repeat serum should be collected after five days.
+However, in secondary dengue infections, IgM was detected in among
+78% of patients after day seven.45,level II-2 IgM appears earlier or at the same
+time frame but usually at lower titres compared to primary dengue. This
+is possibly due to appearance of high levels of anti-dengue IgG before
+or sometimes simultaneously with the IgM response. Thus, 28% of all
+secondary dengue infections were undiagnosed when only IgM was the
+only assay performed. 46-48,level III
+iii. Dengue IgG test
+In primary and secondary dengue infection, dengue IgG was detected in
+100% of patients after day seven of onset of fever. Therefore, a repeat
+dengue IgG is recommended if dengue IgM is still negative after day seven
+with the negative IgG in the initial test sample. 45,level II-2; 47, level III
+iv. Differentiation between primary and secondary dengue infection
+Detection of significant elevation of IgG antibodies to dengue virus by
+ELISA is very useful for identification of secondary dengue infections.
+49-50,level II-2 There are commercially available ELISA kits which can be used
+to differentiate between primary and secondary dengue infections as the
+kits have incorporated in-house threshold levels of IgG. For example,
+Panbio has incorporated a cut off of more than 22 Panbio Units which is
+equivalent to HAI level of 1:2560, and thus indicative of secondary dengue
+infections.51
+Note: False positive dengue serology
+Serological tests for dengue have been shown to cross-react with:
+other flavivirus – Japanese Encephalitis
+•
+48,level III; 52, level III
+non-flavivirus – malaria, leptospirosis, toxoplasmosis, syphilis
+•
+53-54, level III
+connective tissue diseases – rheumatoid arthritis
+•
+55, level III
+5.2.3 Dengue Viral RNA Detection (Real time RT-PCR)
+Dengue viral RNA detection is a molecular method that utilises reagents
+that will target specific genome of the virus to enable amplification and
+detection of the target. The method is useful only during the viraemic stage
+of the disease and can detect the viral RNA target up to five days after
+onset of the symptoms. 56-57,level II-2 The test is useful for determination of
+circulating dengue serotypes in the country.
+Limitations of RT-PCR are:
+This test is only available in a few centres with facilities and trained
+personnel (e.g.IMR, National Public Health Laboratory, State Public
+Health Laboratories and University Malaya Medical Centre).
+The test is expensive.
+The
+specimen
+requires
+special
+storage
+temperatures
+and
+short
+transportation time between collection and extraction (refer to Appendix 4).
+5.2.4 Virus Isolation
+Dengue virus isolation is carried out in Institute for Medical Research (IMR),
+National Public Health Laboratory and University Malaya Medical Centre
+for research, surveillance and genotyping purposes.
+Please refer to Appendix 4 on details of sample collection for diagnostic tests.
+As clinical diagnosis of dengue lacks specificity, a definitive diagnosis of
+dengue infections requires laboratory confirmation. There are many targets
+for laboratory confirmation of dengue which have been listed in Appendix 5
+with information on sensitivity and specificity of each target and when to do
+after the onset of symptoms.
+a)
+b)
+c)
+Appendix 6 summarises the type of tests recommended for patients
+presented with clinical history and their interpretation. This serves as
+laboratory guidelines for the clinicians who are managing dengue patients.
+Recommendation 3
+A repeat dengue serology should be obtained at the time of dengue
+•
+death.
+Suitable specimens for viral isolation and/or real time reverse
+•
+transcriptase polymerase chain reaction (RT-PCR) and/or nonstructural protein 1 (NS1) antigen detection should be done for
+confirmation of dengue infection.
+Dengue IgM is usually positive after day 5-7 of illness. Therefore a
+•
+negative IgM taken before day 5-7 of illness does not exclude dengue
+infection.
+Caution: Massive blood transfusion may affect the test results mentioned above.
+6. INVESTIGATION OF POST MORTEM CASE
+Suitable samples for virus isolation and PCR can be obtained from most of
+the organs however, the best tissue sample for investigation is
+the liver.58-59,level III If patient had encephalitis, CSF should also be included
+as samples for investigation. The liver should be placed in sterile containers
+and moistened with viral transport media or sterile normal saline. CSF
+should be submitted in sterile bijou bottle. Both should be refrigerated if
+there is delay in transportation. Specimen for viral investigation should be
+transported in ice to IMR and National Public Health Laboratory.
+Recommendation 2
+Dengue rapid combo test or non-structural protein 1 antigen (NS1 Ag)
+•
+should be taken as soon as dengue infection is suspected.
+If dengue IgM is negative before day seven, a repeat sample must be
+•
+taken in recovery phase.
+If dengue IgM is still negative after day seven, dengue IgG should be
+•
+done for diagnostic confirmation of secondary dengue infection.
+7. MANAGEMENT OF DENGUE INFECTION
+7.1 OUTPATIENT MANAGEMENT
+The management of dengue infection is symptomatic and supportive. An
+approach to outpatient evaluation is as suggested in Table 2.
+Management issues vary according to the three phases of the clinical
+course (refer to section 7.4). It is crucial to recognise plasma leakage, early
+shock and severe organ dysfunction. This can be achieved by frequent
+clinical and laboratory monitoring during the early febrile phase of dengue
+infection.
+Dengue patients who are managed in the outpatient setting should be
+provided with an outpatient dengue monitoring record (refer to Appendix 7)
+to ensure that relevant informations are available for continuity of care by
+health care providers.
+Primary care providers with no immediate haematocrit facilities and/or
+•
+point of care tests should refer patient to the nearest health facility for
+further management.
+Point of care tests (RCT or NS1 antigen) should be done when dengue
+•
+infection is suspected.
+Table 2: Approach to Outpatient Evaluation of Dengue Infection 1-3
+It is important to evaluate every patient for the following:
+Overall assessment
+1. History
+Date of onset of fever/ illness
+•
+Oral intake
+•
+Assess for warning signs – Refer to Table 3
+•
+Change in mental state/seizure/dizziness
+•
+Urine output (frequency, volume and time of last voiding)
+•
+Other important relevant histories:
+•
+Family or neighbourhood history of dengue
+--
+Jungle trekking and swimming in waterfall (consider leptospirosis,
+--
+typhus, malaria)
+Travelling
+--
+Recent unprotected sexual or intravenous drug user (consider acute
+--
+HIV seroconversion illness)
+Co-morbidities (consider sepsis particularly in patients with diabetes
+--
+mellitus)
+2. Physical examination
+i. Assess mental state and GCS score
+ii. Assess hydration status
+iii. Assess haemodynamic status
+Skin colour (C), capillary refill time (normal <2 seconds) (C), cold/ warm
+--
+extremities (T), pulse volume (V) and rate (R) - CCTVR
+Blood pressure and pulse pressure
+--
+iv. Look out for tachypnoea/acidotic breathing/pleural effusion
+v. Check for abdominal tenderness/hepatomegaly/ascites
+vi. Examine for bleeding manifestation
+3. Investigation
+i. FBC and HCT
+ii. Point of care test for dengue (RCT or NS1 antigen)
+Diagnosis, disease staging and severity assessment
+Based on evaluations in history, physical examination ± FBC, HCT and point of care
+test, the clinicians should be able to determine:
+1. Likelihood of dengue infection
+2. The phase of dengue infection (febrile/critical/recovery)
+3. Severity of the illness
+Plan of management
+1. Dengue assessment checklist must be filled by the attending doctor (Appendix 8)
+2. Notify the district health office (refer to Chapter 4 on disease notification) followed
+by disease notification form
+3. If admission is indicated (refer to admission criteria)
+Stabilise the patient at primary care before transfer (refer to intravenous fluid
+•
+regime)
+Communicate with the receiving hospital/Emergency Department before
+•
+transfer
+4. If admission is not indicated (refer to Table 4)
+Daily follow up is necessary especially from day 3 of illness onwards until the
+•
+patient is afebrile for at least 24-48 hours without antipyretics.
+Provide the patient with Outpatient Dengue Monitoring Record (
+•
+Appendix 7)
+and Home Care Advice Leaflet for Dengue Patients (Appendix 9)
+Table 3: Warning Signs
+Any abdominal pain/tenderness
+•
+Persistent vomiting (
+•
+>3 times over 24 hours)
+Persistent diarrhoea (
+•
+>3 times over 24 hours)
+Third space fluid accumulation (such as ascites, pleural and
+•
+pericardial effusion)
+Spontaneous bleeding tendency
+•
+Lethargy/restlessness/confusion
+•
+Tender liver
+•
+Raised HCT with rapid drop in platelet:
+•
+o HCT male <60 years – 46%
+o HCT male >60 years – 42%
+o HCT female (all age groups) – 40%
+*median values of normal HCT in Malaysian population33,level II-2.
+Adapted : World Health Organization. Dengue Guidelines for Diagnosis, Treatment,
+Prevention and Control - New Edition 2009. WHO: Geneva; 2009
+Table 4 : Clinical and Laboratory Criteria for Patients Who Can Be Treated at Home60-62
+Able to tolerate orally well, good urine output and no history of
+1.
+bleeding
+Absence of warning signs (refer to Table 3)
+2.
+Physical examination:
+3.
+Haemodynamically stable
+•
+No tachypnoea or acidotic breathing
+•
+No tender liver or abdominal tenderness
+•
+No bleeding manifestation
+•
+No sign of third space fluid accumulation
+•
+No alterations in mental state
+•
+Investigation:
+4.
+Stable serial HCT
+•
+No other criteria for admission (i.e. co-morbidities, pregnancy, social
+5.
+factors)
+7.2 PATIENT TRIAGING AT EMERGENCY AND OUTPATIENT DEPARTMENT
+The purpose of triaging patients is to determine whether they require
+urgent attention. This is to avoid critically ill patients being missed upon
+arrival.60,level III; 63-64,level III
+Triage Checklist at Registration Counter:
+1. History of fever
+2. Abdominal Pain
+3. Vomiting
+4. Dizziness/ fainting
+5. Bleeding
+Vital parameters to be taken:
+Mental state, blood pressure, CCTVR and respiratory rate
+7.3 CRITERIA FOR HOSPITAL REFERRAL / ADMISSION
+7.3.1 Referral from Primary Care Providers to Hospital
+The decision for referral and admission must not be based on a single
+clinical parameter but should depend on the Total Assessment of the
+patient.
+Referral from primary care providers to hospital
+1. Symptoms:
+Warning signs (refer to Table 3)
+•
+Bleeding manifestations
+•
+Inability to tolerate oral fluids
+•
+Reduced urine output
+•
+Seizure
+•
+2. Signs:
+Dehydration
+•
+Shock (refer to Table 1)
+•
+Bleeding
+•
+Any organ failure
+•
+3. Special situations:
+Patients with co-morbidity e.g. Diabetes, Hypertension, Ischaemic
+•
+Heart Disease, Coagulopathy, Morbid Obesity, Renal failure,
+Chronic Liver disease, COPD
+Elderly more than 65 years old
+•
+Patients who are on anti-platelet and/or anticoagulants
+•
+Pregnancy
+•
+Social factors that limit follow-up e.g. living far from health facility,
+•
+no transport, patient living alone, etc.
+4. Laboratory criteria: Rising HCT accompanied by reducing platelet count
+7.3.2 Referral from Hospitals Without Specialist To Hospitals
+With Specialists
+Nearest physician should be consulted for all cases of severe dengue,
+those who are pregnant and patients with comorbidities.
+Prerequisites for transfer
+All efforts must be taken to optimise the patient’s condition before and
+1.
+during transfer.
+The Emergency Department, ICU and Medical Department of the
+2.
+receiving hospital must be informed prior to transfer.
+Adequate and essential information must be sent together with the
+3.
+patient that includes fluid chart, monitoring chart and investigation
+results.
+7.3.3 Intervention in Emergency Department
+Proactive ongoing clinical reassessment of airway, breathing and circulatory
+status must be done.
+7.3.4 Laboratory tests in the Emergency Department
+These tests must be done immediately in cases of suspected dengue
+infection :
+FBC and HCT
+•
+Point of care testing e.g. Rapid combo test (RCT) or NS1 antigen
+•
+In suspected severe dengue, the following investigations should be done:
+Blood gases and serum lactate
+•
+LFT/AST and RP
+•
+Creatine kinase (CK) to detect myocarditis and rhabdomyolysis
+•
+GXM
+•
+7.3.5 Imaging Investigations in the Emergency Department
+for Patients Requiring Admission
+Chest x-ray and ultrasound (where available) are required in patients
+suspected to have vascular leakage. However, it should not delay
+admission.
+Ultrasonography may be performed by trained personal to look for evidence of:
+Third space fluid loss such as the presence of pleural effusion,
+i.
+pericardial effusion, gallbladder wall oedema and intraperitoneal
+fluid collection.
+Collapsibility of the inferior vena cava (IVC) as an indirect indicator
+ii.
+of adequacy of the intravascular fluid compartment & response to
+intravenous fluids.
+Recommendation 4
+Dengue assessment checklist should be filled by the attending doctor
+•
+for all patients with suspected dengue infection (refer to Appendix 8).
+All dengue patients requiring admission should be
+•
+immediately
+started on an appropriate fluid therapy [oral or intravenous (IV)].
+o
+When indicated, IV fluid therapy should be initiated and adjusted
+accordingly.
+In monitoring of dengue patients, the following must be done and
+•
+documented:
+o
+serial monitoring of vital signs
+o
+strict monitoring of ongoing fluid losses and hourly fluid
+input/output charting
+Dengue patients with deteriorating vital signs must be uptriaged
+•
+accordingly.
+7.4 DISEASE MONITORING
+7.4.1 Principles of Disease Monitoring
+During critical phase, monitoring of patients need to be intensified
+i.
+and frequent adjustments in the fluid regime may be required.
+Recognition of onset of reabsorption phase is also important
+ii.
+because intravenous fluid regime needs to be progressively
+reduced/discontinued at this stage.
+7.4.2 Inpatient Disease Monitoring
+Immediately after admission every patient with suspected dengue infection
+should be reviewed thoroughly using the dengue assessment checklist
+by the attending doctor (Appendix 8). The plan of management and
+monitoring should be based on the phase and severity of the disease.
+The clinical findings must also be documented in the Inpatient Dengue
+Monitoring Chart (Appendix 10).
+Table 5 and 6 summarise the issues, parameters and frequency of
+monitoring according to the different phases of the illness.
+Table 5: Issues of Monitoring According to Different Phases of Dengue Illness
+Phases of
+illness
+Issues
+Febrile
+Differentiation of dengue illness from other febrile
+--
+illnesses.
+Critical
+Plasma leakage occurs as patient progresses to late
+--
+febrile phase or as temperature begins to defervesce
+(T <38.0 °C).
+Clinical deterioration occurs during this phase due to
+--
+plasma leakage.
+Plasma leakage results in haemoconcentration and
+--
+hypovolaemia/ shock.
+Excessive plasma leakage due, in part, to intravenous
+--
+fluid therapy may cause respiratory distress.
+Bleeding can be precipitated by prolonged shock and
+--
+shock can be perpetuated by bleeding.
+Organ dysfunction may occur.
+--
+May mimic acute abdomen from other causes.
+--
+May be confused with septic shock or other forms of
+--
+shock.
+Reabsorption
+Cessation of plasma leakage.
+--
+Reabsorption of fluid from extravascular compartment.
+--
+Haemodilution occurs following fluid reabsorption.
+--
+Fluid overload and pulmonary oedema if intravenous
+--
+fluid therapy is continued.
+Frequency of monitoring
+Parameters for
+monitoring
+Febrile phase
+Critical phase
+Reabsorption
+phase
+Frequency of monitoring
+Parameters for
+monitoring
+Febrile phase
+Critical phase
+Reabsorption
+phase
+Table 6 : Parameters and Frequency of Monitoring According to Different Phases
+of Dengue Illness
+General well being
+Appetite / oral intake
+Warning signs
+Daily or more
+frequently towards late
+febrile phase
+At least twice a day
+and more frequently as
+indicated
+Daily or more
+frequently as indicated
+Haemodynamic
+status
+• CCTVR
+• BP
+• Pulse pressure
+Respiratory status
+• RR
+• SpO2
+Neurological Status
+• conscious level
+• restlessness
+• seizures
+4-6 hourly depending
+on clinical status
+2-4 hourly depending
+on clinical status
+In shock
+Every 15-30 minutes till
+stable then 1-2 hourly
+4-6 hourly
+Urine output
+4 hourly
+2-4 hourly
+In shock : Hourly
+4-6 hourly
+FBC
+Daily or more
+frequently as indicated
+4-12 hourly depending
+on clinical status
+In shock
+Repeated before and
+after each fluid
+resuscitation and as
+indicated
+Daily
+BUSE/Creatinine
+LFT + AST
+RBS
+Creatine Kinase
+As clinically indicated
+At least daily or more
+frequently as indicated
+In shock
+Crucial to monitor ABG
+and lactate closely
+As clinically
+indicated
+ABG, lactate
+Coagulation profile
+CRP
+Troponin or CKMB
+Fibrinogen, LDH,
+ferritin,
+triglyceride
+ECG
+Echocardiogram
+Ultrasound
+As clinically indicated
+As clinically indicated
+As clinically indicated
+Clinical Parameters
+Laboratory Parameters and Imaging
+All investigations done at ED must be reviewed immediately upon ward admission
+Adapted : World Health Organization. Dengue Guidelines for Diagnosis, Treatment,
+Prevention and Control - New Edition 2009. WHO: Geneva; 2009
+7.5 FLUID MANAGEMENT
+7.5.1 Non-Shock Patients (DF with Warning Signs)
+Common pitfalls in fluid therapy:
+Treating patients with unnecessary fluid boluses based on raised
+•
+HCT or warning signs as the sole parameter without considering other
+clinical parameters.
+Excessive and prolonged fixed fluid regime in stable patients.
+•
+Infrequent monitoring and adjustment of infusion rate.
+•
+Continuation of intravenous fluid during the recovery phase.
+•
+Excessive fluid therapy in patients with co-morbidities (such as heart
+•
+disease and renal disease).
+In non shock dengue patients, increased oral fluid intake may be sufficient
+in those who are haemodynamically stable and not vomiting. Inappropriate
+intravenous fluid therapy had been shown to prolong hospitalisation with
+a tendency to develop more fluid accumulation.65,level II-3 However IV fluid
+(0.9% saline is recommended) is indicated in patients with increasing HCT
+with evidence of ongoing plasma leakage, despite increased oral intake.
+IV fluid therapy should also be considered in patients who are vomiting,
+severe diarrhoea and not tolerating orally.60,level III; 66,level III
+The normal maintenance requirement for IV fluid therapy in such patients
+could be calculated based on the formula in Table 7. Frequent adjustment
+of maintenance fluid regime is needed during the critical phase. In dengue
+patients without co-morbidities who can tolerate orally, adequate oral fluid
+intake of two to three litres daily should be encouraged (often 1.2-1.5 times
+the normal maintenance will be required during the critical phase). Patients
+may be able to take oral fluids after a few hours of IV therapy. If the fluid
+infusion rate exceeds more than the maintenance requirement, the infusion
+rate should be reviewed within 2-4 hours.
+In patients with persistent warning signs with increasing or persistently high
+HCT, the graded fluid bolus may be initiated with caution (refer to Table 8).
+Frequent monitoring of clinical and laboratory parameters must be carried
+out every 2-4 hours until patients improve. Aim for urine output of 0.5-1.0
+ml/kg/hr.
+A rising HCT indicates on-going plasma leakage and will require an
+increase in the IV fluid infusion rate. If patients deteriorate and progress to
+shock, refer to the section on fluid resuscitation in DSS (subchapter 7.5.2).
+Reduce or consider discontinuation of IV fluid therapy when patients begin
+to show signs of recovery (usually after 24-48 hours of defervescence, or
+the HCT drops in a stable patient).
+Table 7 : Calculations for maintenance of intravenous fluid infusion
+Non-obese patients
+1.2 to 1.5 ml/kg/hour
+•
+National Clinical Guideline Centre (UK). Intravenous Fluid
+Therapy: Intravenous Fluid Therapy in Adults in Hospital
+[Internet]. London: Royal College of Physicians (UK); 2013 Dec.
+Available from http://www.ncbi.nlm.nih.gov/books/NBK247761/
+Adapted :
+Adapted :
+Obese patients (BMI >27.5 kg/m2)*
+Maintenance fluid can be calculated based on adjusted body weight
+Adjusted bodyweight (ABW) can be calculated using the
+•
+formula.
+o ABW = IBW + 0.4 (actual weight - IBW)**
+o Ideal bodyweight (IBW) can be estimated based on the
+following formula. 72, level III
+Female: 45.5 kg + 0.91(height in cm -152)
+Male: 50.0 kg + 0.91(height in cm -152)
+Malaysian Society for the Study of Obesity. Clinical Practice
+Guidelines: Management of Obesity. Ministry of Health,
+Malaysia;2004
+GlobalRPH 2015, calculator adjusted body weight
+(available at http://www.globalrph.com/ibw_calc.htm)
+*
+* *
+Table 8 : Graded Fluid Bolus Regime
+Obtain a baseline HCT before fluid therapy.
+•
+Give crystalloids solution (such as 0.9% saline).
+•
+Start with 5 ml/kg/hour for 1–2 hours, then reduce to 3 ml/kg/hr for 2–4
+•
+hours, and then reduce to 2 ml/kg/hr or less according to the clinical
+response.
+If the clinical parameters are worsening and HCT is rising, increase the
+•
+rate of infusion.
+Reassess the clinical status, repeat the HCT and review fluid infusion
+•
+rates accordingly.
+Fluid intake and urine output must be reviewed and
+adjusted according to clinical response. Use of volumetric
+pumps is encouraged, especially in patients requiring close
+fluid monitoring.
+CAUTION :
+Recommendation 5
+In dengue patients without co-morbidities who can tolerate orally,
+•
+adequate oral fluid intake of two to three litres daily should be
+encouraged. These patients may not require intravenous (IV) fluid
+therapy.
+IV fluid should be instituted in dengue patients with:
+•
+o vomiting, unable to tolerate oral fluids or severe diarrhoea
+o increasing haematocrit (with other signs of ongoing plasma
+leakage) despite increased oral intake
+In patients with persistent warning signs with increasing or persistently
+•
+high HCT, the graded fluid bolus may be initiated with caution.
+Crystalloids solution should be the fluid of choice for non-shock dengue
+•
+patients.
+7.5.2 Dengue Shock Syndrome (DSS)
+Dengue shock syndrome is a medical emergency. Recognition of shock
+in its early stage (compensated shock) and prompt fluid resuscitation will
+give a good clinical outcome.67,level I Refer to Table 1 for details. However,
+failure to recognise the phase of compensated shock will ultimately lead
+to decompensated (hypotensive) shock with a more complicated disease
+course and organ failures.
+Pulse pressure of <20 mmHg and systolic pressure <90 mmHg are late
+signs of shock in adults.
+All patients with dengue shock should be managed in high dependency
+or intensive care units. Fluid resuscitation must be initiated promptly
+and should not be delayed while waiting for admission to ICU or high
+dependency unit. Following initial resuscitation there maybe recurrent
+episodes of shock because capillary leakage can continue for 24-48 hours.
+IV fluid therapy is the mainstay of treatment for dengue shock. To date,
+only four randomised controlled trials studying different types of fluid
+regime in DSS in children aged from 5-15 years are available.67-70,level I Our
+recommendations are extrapolated from these studies. From these studies
+of colloids versus crystalloids, there is no clear advantage of using any of
+the colloids over crystalloids in terms of the overall outcome and mortality.
+67-69, level I; 71,level I However colloid may be preferable as the fluid of choice in
+patients with intractable shock in the initial resuscitation.
+Colloids seem to restore the cardiac index and reduce the level of HCT
+faster than crystalloids in patients with intractable shock.68-69,level I The choice
+of colloids in these studies included gelatin solution and hydroxyethyl starch
+(HES) solution. In the recent meta-analysis, HES in non-dengue critically ill
+patients with sepsis was associated with an increase in the rate of renal
+replacement therapy and coagulation abnormalities.72,level I
+Colloid should be used mainly for resuscitation. Prolonged use of colloid as
+sole maintenance fluid should be avoided. HES solution is contraindicated
+in patients with severe hepatic dysfunction, fluid overload (e.g. pulmonary
+oedema and congestive cardiac failure), renal failure and patients receiving
+dialysis.
+Albumin as resuscitation fluid in DSS has not been studied, however from
+extensive use in critically ill patients, 4%-5% albumin is comparable to
+crystalloid and may be better in subgroup of septic patients.70,level I;72,level I
+Hypertonic sodium lactate in DSS has shown positive results in only one
+study.73,level I However, there is lack of clear evidence to support the use of
+this solution and furthermore, the product is not available in this country.
+7.5.3 Principles for Fluid Resuscitation
+The volume of initial and subsequent fluid resuscitation depends on the
+degree of shock and can vary from 10-20 ml/kg adjusted body weight.
+The volume and rate of fluid replacement should be carefully titrated to the
+clinical response to maintain an effective circulation while avoiding an overreplacement.
+Adequate and effective fluid resuscitation will leads to improvement in the
+following parameters in Table 9.
+Table 9 : Fluid Responsiveness Parameters
+A. Clinical response parameters
+Improvement of general well being/mental state
+Warm peripheries
+Capillary refill time <2sec
+BP stable
+Improving pulse pressure
+Reducing tachycardia
+Improving urine output
+Less tachypnoea
+B. Laboratory parameters
+Appropriate decrease in HCT
+Improvement in metabolic acidosis and lactate clearance
+C. Imaging parameters (recommended but not mandatory)
+Improvement of IVC collapsibility index (spontaneous breathing patient)
+IVC expiratory diameter – IVC inspiratory diameter
+IVC expiratory diameter
+X
+100
+=
+Caval index (%)
+* Caval index close to 100% is indicative of almost complete collapse, therefore
+volume depletion and 0% suggests minimal collapse i.e. likely volume overload.
+>40% collapse will be fluid responsive.72
+Adapted : Goldflam K, Saul T and Lewiss R. Focus on: inferior vena cava
+ultrasound. ACEP News 6. 2011. pp 24-25. (available at : http://www.acep.org/
+Content.aspx?id=80791)
+CAUTION : IVC assessment should be performed by trained personnel and not
+to be interpreted in isolation.
+7.5.3 Non-responders to Initial Resuscitation (Refer to Algorithm A and B)
+If the first two cycles of fluid resuscitation (about 40 ml/kg) fails to establish a
+stable haemodynamic state and HCT remains high, further bolus of colloids
+should be considered for the third cycle.1;60,level III (refer to Algorithm A and
+Algorithm B)
+If the repeat HCT drops after two cycles of fluid resuscitation and the patient
+remains in shock, one should suspect significant bleed (often occult) for which
+blood ± blood products transfusion needs to be instituted promptly. (refer to
+Algorithm A and Algorithm B)
+Other possible causes of persistent shock include: (refer to Algorithm C)
+sepsis
+•
+cardiogenic shock (due to myocarditis, cardiomyopathy, RV/LV
+•
+dysfunction, pericardial effusion or cardiac ischaemia),
+cytokine storm (a vasodilated state due to release of inflammatory
+•
+mediators)
+liver failure with lactic acidosis.
+•
+Fluid therapy has to be judiciously controlled to avoid fluid overload which could
+result in massive pleural effusion, pulmonary oedema or ascites.69,level I
+HCT
+HCT or high
+IV = intravenous ; HCT = haematocrit
+= increased ; = decreased
+1GXM: emergency cross-match
+IV crystalloid 5-7 ml/kg/hr for
+•
+1-2 hours, then:
+reduce to 3-5 ml/kg/hr
+for 2-4 hours; then
+reduce to 2-3 ml/kg/hr
+for 2-4 hours
+If
+patient
+continues
+to
+•
+improve, fluid can be further
+reduced.
+Monitor HCT 4-6 hourly.
+•
+If the patient is not stable,
+•
+act
+according
+to
+HCT
+levels:
+if
+HCT
+increases,
+consider
+bolus
+fluid
+administration
+or
+increase
+fluid
+administration
+if
+HCT
+decreases,
+consider
+transfusion
+with
+packed
+red
+cells
+and/or
+blood
+components
+Consider to stop IV fluid at
+•
+48 hours of plasma leakage/
+defervescence.
+ALGORITHM A - FLUID MANAGEMENT IN COMPENSATED SHOCK
+COMPENSATED SHOCK
+(systolic pressure maintained but has signs of reduced perfusion)
+Fluid resuscitation with isotonic crystalloid 5-10 ml/kg/hr for 1 hour
+•
+Obtain FBC, HCT, RP, LFT, RBS, PT/APTT, CK, Lactate/HCO
+•
+3, GXM1 before fluid
+resuscitation.
+* Reassess the patient’s clinical condition, vital signs, pulse volume, capillary refill
+time, urine output and temperature of extremities.
+** Colloid is preferable if the patient has already received previous bolus of crystalloid
+IMPROVEMENT*
+IMPROVEMENT*
+YES
+YES
+NO
+NO
+If patient improves, reduce to
+•
+7-10 ml/kg/hr for 1-2 hours
+Then reduce further
+•
+Check HCT
+Consider significant
+occult/overt bleed
+Initiate transfusion with
+packed red cells and/or
+blood components
+Administer 2nd bolus
+of fluid (colloid) **
+10-20 ml/kg/hr for 1 hour
+HCT or
+HCT
+IV = intravenous ; HCT = haematocrit
+= increased ; = decreased
+1GXM: emergency cross-match
+Crystalloid/colloid 10ml/
+•
+kg/hr for 1 hour, then
+continue with:
+IV
+crystalloid
+5-7 ml/kg/hr for
+1-2 hours; then
+reduce to 3-5
+ml/kg/hr for 2-4
+hours; then
+reduce to 2-3
+ml/kg/hr for 2-4
+hours
+If patient continues to
+•
+improve, fluid can be
+further reduced.
+Monitor HCT 4 hourly
+•
+or more frequent as
+indicated.
+If the patient is not
+•
+stable, act according
+to HCT levels:
+if HCT increases,
+c o n s i d e r
+bolus
+fluid
+administration
+or increase fluid
+administration;
+if
+HCT
+d e c r e a s e s ,
+c o n s i d e r
+transfusion with
+packed red cells
+Consider
+to
+stop
+•
+IV fluid at 48 hours
+of
+plasma
+leakage/
+defervescence.
+IMPROVEMENT*
+IMPROVEMENT*
+IMPROVEMENT*
+YES
+YES
+YES
+NO
+NO
+NO
+Review HCT
+Repeat 2nd HCT
+HCT or high
+HCT
+Repeat
+3rd HCT
+Consider
+significant
+occult/overt
+bleed
+Initiate transfusion
+with packed red
+cells and /or blood
+components
+Administer 2nd
+bolus of fluid
+(colloid)^
+10-20 ml/kg
+over ½ to 1 hour
+REFER TO
+ALGORITHM C
+HCT unchanged
+Administer 3rd bolus of
+fluid (colloid) 10-20 ml/kg
+over 1 hour
+ALGORITHM B - FLUID MANAGEMENT IN DECOMPENSATED SHOCK
+DECOMPENSATED SHOCK
+Fluid resuscitation with 20 ml/kg colloid / crystalloid within 15 - 30 minutes
+•
+Obtain HCT/FBC, RP, LFT, RBS, PT/APTT, CK, Lactate/HCO
+•
+3, GXM1 before fluid
+resuscitation.
+* Reassess the patient’s clinical condition, vital signs, pulse volume, capillary refill time
+and temperature of extremities.
+^ Colloid is preferable if the patient has already received previous bolus of crystalloid.
+ALGORITHM C - FLUID MANAGEMENT IN DECOMPENSATED SHOCK
+(WITH PRESENCE OF BLEEDING & LEAKING OR OTHER CAUSES OF SHOCK)
+HAEMATOCRIT REMAIN UNCHANGED AFTER
+FIRST FLUID RESUSCITATION
+Consider other causes of shock
+Bleeding and leaking at
+same time
+All the above types of shocks need to be supported by echocardiography and noninvasive cardiac output monitoring and treatments tailor to each patient.
+HCT = haematocrit ; MAP = mean arterial pressure ; CO = cardiac output;
+OGDS = oesophagogastroduodenoscopy USG = ultrasonography
+Septic shock
+Cardiac dysfunction
+Severe metabolic
+acidosis with
+hyperlactataemia (liver
++ multiorgan failure)
+Cytokine storm
+Look for source of bleeding
+(eg. OGDS)
+Evidence of leaking (USG,
+chest X-ray)
+Check for coagulopathy
+Transfuse packed red cells
+and blood components
+Vasodilated state
+Noradrenaline
+titrated to MAP
+65 mmHg
+Vasopressor
++
+Supportive care
++
+Continuous renal replacement
+therapy (CRRT)
+Low CO :
+Inotrope
+(eg. dobutamine/
+adrenaline)
+High CO :
+Vasodilated shock with
+myocardial dysfunction
+Inotropes + vasopressor
+(eg. noradrenaline +
+dobutamine /adrenaline)
+Noradrenaline
+and fluids
+Check for disease
+markers of
+haemophagocytic
+syndrome
+7.5.4 Metabolic acidosis
+Patient could be in shock even with normal blood pressure as the
+leakage happens slowly over hours and body compensates well by
+peripheral vasoconstriction to maintain the mean arterial pressure. Thus,
+compensated metabolic acidosis is an early sign of shock due to leakage
+or bleeding. Lactic acidosis due to tissue hypoxia and hypoperfusion is the
+most common cause of metabolic acidosis in dengue shock.
+Monitoring of blood lactate levels is commonly carried out in patients
+with severe dengue. A lactate level of <2 mmol/L in a critically ill patient
+generally implies that the patient has adequate tissue perfusion, although
+higher levels are not necessarily the result of tissue hypoxia.
+Correction of shock and adequate fluid replacement will correct the
+metabolic acidosis. If metabolic acidosis remains uncorrected by this
+strategy, one should suspect severe bleeding, liver failure, acute kidney
+injury, sepsis, cardiac dysfunction, drugs (e.g. beta2 agonists, metformin)
+and hyperchloraemic metabolic acidosis.
+Hyperchloraemia, caused by the administration of large volumes of 0.9%
+sodium chloride solution (chloride concentration of 154 mmol/L), may cause
+metabolic acidosis with normal lactate levels and present as a normal
+anion gap metabolic acidosis. If serum chloride levels increase, change the
+fluid to balanced solution such as sterofundin or Hartmann’s.73, level III This
+improves chloride-related acidosis.
+Sodium bicarbonate for metabolic acidosis caused by tissue hypoxia is not
+recommended for pH >7.10. Bicarbonate therapy is associated with sodium
+and fluid overload, an increase in lactate and pCO2 and a decrease in
+serum ionised calcium.
+A delay in lactate clearance or persistent lactate elevation is associated
+with poor outcome. Persistent lactic acidosis contributes to myocardial
+depression, arrhythmias, vasodilatation, increase in respiratory muscle
+workload, reduced oxygen delivery, decreased ATP production and multiorgan failure.
+A likely more useful parameter for guiding therapy is lactate clearance.
+Lactate clearance is calculated as follows:76
+lactate initial - lactate subsequent
+lactate initial
+X 100%
+A 20% clearance in two hours improves survival.
+7.5.5 Arterial blood gases
+Arterial blood gas (ABG) analysis is frequently done (2-4 hourly) in patients
+with shock mainly for detection of worsening acidosis by looking at base
+excess, bicarbonate, CO2 and lactate.
+Mixed respiratory alkalosis with metabolic acidosis (CO2 lower than
+expected) commonly seen in liver failure, dengue encephalitis and sepsis.
+This is seen in patients with pleural effusion and moderate ascites as they
+are tachypnoeic.
+Hypoxaemia is a guide to warn us of fluid overload, pleural effusion and
+interstitial oedema.
+7.5.6 Electrolyte and acid-base imbalances
+All patients with severe dengue should be monitored for electrolytes
+imbalances such as hyponatraemia and hyperkalaemia. Presence of
+hyponatraemia is a common observation in severe dengue and a marker
+of disease severity. 77-78,level III
+Other electrolytes that need to be monitored are :-
+serum calcium
+•
+serum phosphate
+•
+serum magnesium
+•
+Recommendation 6
+Crystalloids solution is be the preferred choice in Dengue Shock
+•
+Syndrome (DSS).
+Patients with DSS who do not respond to initial crystalloid resuscitation
+•
+should receive colloids as the second fluid bolus.
+In DSS with persistent shock, other causes of shock should be
+•
+aggressively looked for and treated accordingly.
+7.6 MANAGEMENT OF COMPLICATIONS IN DENGUE INFECTION
+7.6.1 MANAGEMENT OF BLEEDING / HAEMOSTASIS
+i. Haemostatic Abnormalities in Dengue Infection
+The haemostatic changes that occur in dengue infection is a result of
+endothelial activation.79,level II-3;80-81,level III This leads to thrombocytopaenia and
+coagulation activation which are an intrinsic part of the disease.79,level II-3;8081,level III
+Thrombocytopaenia and coagulation abnormalities do not reliably predict
+bleeding in dengue infection.82,level I;83,level II-2;84,level III
+Markers
+of
+endothelial
+activation
+such
+as
+elevated
+levels
+of
+thrombomodulin, tissue factor and Von Willebrand factor are more often
+seen in severe dengue.85-86,level II-2 Increased levels of these proteins may
+promote microvascular thrombosis and end-organ damage.87,level III
+ii. How to Recognise Significant Occult Bleeding?
+Bleeding is considered significant when it results in haemodynamic
+instability. Bleeding from the gums or per vagina, epistaxis and petechiae
+are common but will usually cease spontaneously and are often not
+significant.88,level II-3 Significant bleeding or disseminated intravascular
+coagulation usually occurs following prolonged shock and acidosis.89,level III
+Suspect significant occult bleeding in the following situations:
+HCT not as high as expected for the degree of shock to be explained
+•
+by plasma leakage alone.89, level III
+A drop in HCT without clinical improvement despite adequate fluid
+•
+replacement (40-60 ml/kg).89, level III; 61
+Severe metabolic acidosis and end-organ dysfunction despite adequate
+•
+fluid replacement.89,level III
+iii. Management of Bleeding in Dengue Infection
+Transfusion of blood and blood components in dengue is indicated when
+there is evidence of significant bleeding.89,level III Recently published studies
+done in critically ill patients and patients undergoing cardiac surgery have
+not shown any difference in clinical outcomes and lactate recovery when
+transfused with shorter-term storage packed cells (7-10 days) compared to
+longer-term storage packed cells (21-28 days) ).90-92,level I
+Transfusion of blood in patients with significant bleeding
+Transfuse blood (5–10ml/kg of packed red cells) and observe the
+•
+clinical response. Consider blood components if required.
+Consider repeating the blood transfusion if there is further blood loss
+•
+or no appropriate rise in HCT after blood transfusion.
+No significant difference in clinical outcomes and lactate recovery
+•
+when transfused with shorter-term storage packed cells compared with
+longer-term storage packed cells.
+Recommendation 7
+Dengue patients with mild bleeding do not require blood transfusion.
+•
+Transfusion with packed cells and/or blood component should be
+•
+administered in dengue patients with significant bleeding.
+iv. Management of Upper Gastrointestinal Bleeding
+Gastrointestinal bleeding is one of the most common haemorrhagic
+manifestations in dengue infection and it is often associated with high
+mortality.88,level II-3 The common causes are haemorrhagic (and/or erosive)
+gastritis, peptic ulcer and oesophageal ulcer.93,level II-2; 94, level III
+Fluid therapy, transfusion of packed cells and blood products, and
+administration of proton pump inhibitor are fundamental in the management
+of gastrointestinal haemorrhage in dengue infection.95,level II-2 Endoscopy
+is indicated if these patients have persistent bleeding despite optimum
+medical therapy.96-98,level III
+Endoscopic therapy is also recommended in patients with history of
+peptic ulcers with recent haemorrhage including active arterial bleeding,
+nonbleeding visible vessels, nonbleeding adherent clots or persistent
+oozing. However, endoscopic injection therapy is not recommended in
+dengue infection with gastrointestinal haemorrhage.93,level II-2
+v. Prophylactic Transfusions in Dengue Infection
+Prophylactic transfusion with platelets and fresh frozen plasma do not
+produce sustained changes in the coagulation status and platelet count in
+patients with severe dengue infection.99-100, level III
+Prophylactic transfusion of packed cells and/or blood components is
+only indicated when invasive procedure or an operation is decided.
+The transfusion of platelet is recommended within one hour and FFP
+within 30 minutes prior to the procedure. Inappropriate transfusion of
+blood components increases the risk of pulmonary oedema, respiratory
+depression and transfusion-transmitted infection.99,level III
+There is no role for routine prophylactic transfusion with platelets and
+•
+plasma in dengue infection.
+Prophylactic transfusion of packed cells and/or blood components is
+•
+only indicated when invasive procedure or an operation is decided.
+vi. Adjunctive Therapy in Dengue Infection
+There is insufficient evidence to support the use of recombinant activated
+factor VII in dengue patients with significant bleeding.101,level I;102,level III The
+coagulation system is activated in dengue and infusion of activated factor
+concentrates may increase the risk of thrombosis.103,level III
+7.6.2 MANAGEMENT OF HEPATITIS IN DENGUE INFECTION
+i. Clinical Features and Biochemical Profiles
+Clinical features suggesting dengue-related hepatic involvement includes
+abdominal pain (18%-63%), nausea and vomiting (49%-58%), anorexia,
+hepatomegaly and elevated transaminases.104-106,level II-2;107,level III In a singlecentered study done in Malaysia, 5.2% of acute liver failure was attributed to
+dengue infection.108,level II-2;109,level III
+Raised AST has been seen in 63%-97% of patients while raised ALT levels in
+45%-96%. More than 10-fold rise has been seen in 3%-15% cases.106,level II-2;110,level III
+In a majority of studies elevation of AST is more than ALT during the first week of
+infection, with a tendency to decrease to normal levels within three weeks.104-106,level II-2
+ii. Pathogenesis
+The pathogenesis of liver involvement during dengue infection is poorly
+understood. The potential mechanism of liver injury include direct effects of
+the virus, immunology injury due to dysregulated immune response to the
+virus, ishaemic injury due to hypotensive episodes and hepatotoxic effect
+of medications such as acetaminophen or herbal remedies.105,level II-2; 109,level III
+Hepatocyte injury including necrotic changes commonly involve midzonal
+area followed by centrilobular area.105,level II-2
+iii. Management and Use of N-Acetylcysteine (NAC)
+Dengue hepatitis is usually a self-limiting disease. The management of
+acute liver failure (as defined by coagulopathy, usually INR >1.5 and any
+degree of mental alteration in a patient without preexisting cirrhosis) includes
+appropriate fluid management, monitoring of haemodynamic and metabolic
+parameters.111 Avoidance of other potential hepatotoxic drugs is crucial.
+There are case studies on use of NAC in acute liver failure secondary to
+dengue infection.109,level III;112-115,level III However up to now, there is insufficient
+evidence to support the use of NAC in the management of dengue-
+associated hepatitis.
+The regime for IV N-Acetylcysteine for treatment of acute liver failure
+in dengue infection remains controversial, but have been suggested as
+follows:
+100 mg/kg/day as infusion for five days.
+•
+112,level III
+150 mg/kg infusion over 15-60 minutes, followed by 12.5 mg/kg/hour
+•
+for four hours and then 6.25 mg/kg/hour.116,level III
+Liver transplantation is not feasible because of haemodynamic instability,
+bleeding manifestation and other organ dysfunction caused by dengue
+infection itself; and thus, may not be a viable treatment option. Artificial and
+bioartifical liver support systems have not conclusively been shown to be
+beneficial for dengue-related acute liver failure.
+7.6.3 MANAGEMENT OF CARDIAC COMPLICATIONS IN DENGUE INFECTION
+Cardiac dysfunction is increasingly recognised as a component of shock
+in dengue infection and manifest as arrhythmias, functional myocardial
+impairment and myocarditis.117-118,level II-2;119,level III Functional myocardial
+impairment can be caused by subclinical myocarditis, myocardial oedema
+or circulating myocardial depressant factors.120,level III Possible mechanisms
+include regional vulnerability to coronary hypoperfusion, cytokine storm, direct
+myocardial inflammation and altered calcium homeostasis.
+Cardiac complications of dengue should be suspected in those with fluid
+refractory shock or haemodynamic compromise disproportionate to capillary
+leakage/HCT increase (refer to Algorithm C). In such patients, it is
+recommended to do ECG, cardiac biomarkers and echocardiography.
+i. Investigations :
+Cardiac biomarkers
+•
+Cardiac biomarkers (CK/CKMB or Troponin) have limited
+--
+sensitivity and could be normal. 120,level III
+ECG
+•
+ECG alterations reported in dengue infection are often transient.
+--
+ECG changes might be the only sign of cardiac involvement
+with normal biomarker levels and echocardiograms.121,level II-2
+Common ECG changes reported are :
+o Sinus bradycardia
+o Atrioventricular block
+o Atrial fibrillation
+o T-wave and ST-segment abnormalities
+ii. Echocardiography
+The available data on role of echocardiography in assessing cardiac function
+of dengue infected patients is limited.118,level II-2;122-123,level III There is evidence of
+significantly low ejection fraction during the critical stage of severe dengue
+infection.123,level III;124,level II-2;125,level III
+Measurement of ejection fraction is difficult to interpret as it is influenced by
+changes in preload and afterload. In severe dengue infection, there may be
+evidence of systolic and diastolic dysfunction with possible segmental wall
+abnormalities of the septum as well as right ventricular wall.118,level II-2;124,level II-2
+Echocardiography is indicated in refractory shock despite adequate fluid
+resuscitation and suspected myocardial dysfunction.
+iii. Treatment:
+Management of dengue infection in such patients should primarily be focused
+on cautious fluid resuscitation, aiming to give just sufficient IV fluid therapy to
+maintain adequate tissue perfusion.
+There has been no evidence to support the use of antiviral and
+immunomodulatory treatments such as beta interferon, corticosteroids and IV
+immunoglobulins for dengue myocarditis.120,level III
+Recommendation 8
+Echocardiography is indicated in refractory shock despite adequate
+•
+fluid resuscitation and in suspected myocardial dysfunction in dengue
+infection.
+Adequate fluid resuscitation should be ensured before myocardial
+•
+dysfunction can be diagnosed in dengue infection.
+7.6.4 MANAGEMENT OF NEUROLOGICAL COMPLICATIONS
+IN DENGUE INFECTION
+The proportion of hospitalised dengue patients in Southeast Asia developing
+neurological complications ranges between 0.5% and 5.4%.127,level II-2;128-129,level III
+Dengue infection results in a wide spectrum of neurological complications
+such as encephalopathy, encephalitis, intracranial bleed, meningitis and
+meningoencephalitis.129,level
+III;130-131,level
+II-2
+Immune-mediated
+syndromes
+that include myelitis, acute disseminated encephalomyelitis (ADEM), and
+Guillain–Barré syndrome (GBS), myositis and various neuro-opthalmic
+complications have been reported.129,level III
+i. Dengue Encephalopathy
+This is the most commonly reported neurological complication in dengue
+infection. Encephalopathy in dengue infection may be the result of prolonged
+shock, hypoxia, cerebral oedema, acute liver failure, acute renal failure,
+hyponatraemia and cerebral haemorrhage.
+ii. Dengue Encephalitis
+Dengue encephalitis is the next commonly reported neurological complication
+especially in secondary dengue infection. It classically presents with fever,
+headache, seizures, altered consciousness and focal neurological signs
+after 5-7 days of onset of fever.131-133,level II-2 The most common abnormality
+on neuroimaging is cerebral oedema. MRI is the imaging modality of choice.
+However, the MRI can be normal.127,level II-2
+If possible, lumbar puncture should be done. The CSF should be analysed
+for dengue virus-specific IgM antibodies, NS1 antigen, dengue virus RNA,
+depending on available laboratory facilities. CSF analysis can be normal or
+they can reveal pleocytosis and high protein.133,level II-2;134,level III In general, the
+sensitivity of serological techniques and RT-PCR is was low.134,level III
+The treatment modality for management of dengue encephalitis is supportive.
+Symptoms suggestive of raised intracranial pressure (ICP) which include
+headache, vomiting and reduced consciousness should be looked for.
+Standard interventions for the management of raised ICP should then be
+instituted. The outcome of dengue encephalitis is variable with many studies
+showing good recovery.133,level II-2;135,level II-2
+iii. Acute Transverse Myelitis
+Acute transverse myelitis in dengue infection can occur within the first week
+of illness due to direct virus invasion or 1-2 weeks later as an immunemediated phenomenon.
+iv. Muscle Involvement
+Extent of muscle involvement in dengue infection can vary from transient
+myalgia, rhabdomyolysis, quadriparesis to respiratory muscle weakness. In
+most cases, spontaneous recovery happens within 1-2 weeks.
+v. Ocular Manifestations
+Ocular manifestations of dengue infection include maculopathy, retinal
+oedema, retinal haemorrhages, optic neuropathy and vitritis.129,level III
+Adjuvant Treatment
+Corticosteroids
+•
+The effectiveness of corticosteroids in neurological complications of
+dengue remains to be proven. However, IV methylprednisolone have been
+recommended in dengue myelitis and ADEM. 129,level III
+Immunoglobulin
+•
+High doses of intravenous immunoglobulin (IVIg) might be useful to treat
+post-dengue Guillain-Barré syndrome.129,level III
+Plasmapheresis
+•
+No evidence to show the effectiveness of plasmapheresis in management
+of neurological complications in dengue infection.
+Recommendation 9
+In dengue patients with altered sensorium, the common causes for
+•
+encephalopathy must be ruled out.
+In dengue patients with suspected encephalitis, symptoms and signs
+•
+suggestive of raised intracranial pressure should be looked for and
+treated accordingly.
+7.6.5 MANAGEMENT OF RENAL COMPLICATIONS IN DENGUE INFECTION
+Dengue infection has been associated with a variety of renal disorders.
+Transient proteinuria and haematuria have been reported.136-137,level III and
+usually normalise within 3-4 weeks of illness.
+Acute renal failure (ARF) occasionally complicates severe dengue
+infection. It is usually due to acute tubular necrosis as a result of
+hypotension, haemolysis, disseminated intravascular coagulation138,level II-2
+and rhabdomyolysis.139,level III ARF in such setting carries a high mortality
+rate.138, level II-2;140,level II-2
+Treatment of ARF in dengue infection follows standard management. It
+involves volume optimisation, treatment of electrolyte abnormalities and
+dialysis if indicated (eg. severe metabolic acidosis, hyperkalaemia, fluid
+overload etc). Peritoneal dialysis is not recommended as there is a high
+risk of bleeding.
+7.6.6 MANAGEMENT OF HAEMOPHAGOCYTIC SYNDROME
+IN DENGUE INFECTION
+Haemophagocytic syndrome (HPS) is a potentially fatal syndrome of
+pathologic extreme immune activation leading to cytokine storm. There is
+increased IL-2, TNF-α, IL-6, IL-8, interferon γ generated by uncontrolled
+activation of histiocytes and T-cells.141-143,level III The clinical course is
+generally severe and may mimic sepsis. It commonly presents with an
+unexplained persistent fever or resurgence of high grade fever after an
+initial defervescence. Other presentations are hepatosplenomegaly, rash,
+bleeding, CNS manifestations and jaundice (refer to Table 10).144,level III
+Laboratory findings of HPS present in forms of bicytopaenia or
+pancytopaenia, coagulopathy, hypertriglyceridaemia, hypofibrinogenaemia,
+hyperferritinaemia, transaminitis, hyperbilirubinaemia, hypoalbuminaemia
+and hyponatraemia.140,level III;143;145,level III Dengue-associated HPS had been
+increasingly reported.145-160,level III
+Currently, there are three well-accepted diagnostic classifications for
+haemophagocytic lymphohistiocytosis (HLH): Diagnostic criteria for HLH
+used in HLH-2004 trial;144,level III Proposed HLH diagnostic criteria, 2009142
+and HScore 2014.161,level II-2 Former two were not validated in adults while the
+latter was validated for macrophage activation syndrome in adults.
+The lack of validated HPS classification system for dengue should
+not discourage clinicians to attempt diagnosing HPS. Since HPS is a
+progressive systemic disease, the lack of adequate criteria at one juncture
+does not exclude the diagnosis.
+Haemophagocytosis demonstrated in bone marrow biopsy is the hallmark
+of the diagnosis but it is non-specific. It has been reported from day 5 till
+day 32 after the onset of illness.The absence of haemophagocytic activities
+in marrow in the early phase does not exclude the diagnosis.
+Serum ferritin of >10,000 is not pathognomonic of HPS in adults162,level III
+although it is highly sensitive and specific in paediatric population.163,level III The
+level does not correlate with severity but the trend is important as it relates
+with disease activity. Often, there is a sudden exponential rise of ALT, AST
+and LDH which could occur in less than 12 hours.
+The mainstay of management is mainly supportive.147-148,level III;153,level III;160,level III Milder
+forms of HPS can recover spontaneously. For severe HPS, specific therapy with
+IV methylprednisolone or dexamethasone (with or without IVIg) may sometimes
+be helpful if started early and promptly.148-149,level III;153-154,level III;159,level III Steroids should
+be tapered off rapidly as patients improve clinically and biochemically. High dose
+steroid should be avoided when suspected bacterial sepsis and in the presence
+of active gastrointestinal bleeding.
+Table 10 : Manifestations of Haemophagocytic Syndrome
+Significant immune activation
+Abnormal immunopathology
+Fever
+•
+Splenomegaly/hepatomegaly
+•
+Elevated ferritin (>300ng/mL)
+•
+Elevated sCD25
+•
+Elevated sCD163
+•
+Cytopaenias
+•
+Decreased fibrinogen or
+•
+increased triglycerides
+Haemophagocytosis
+•
+Hepatitis
+•
+CNS involvement
+•
+Adapted : Henter JI, Horne A, Aricó M, et al. HLH-2004: Diagnostic
+and therapeutic guidelines for haemophagocytic lymphohistiocytosis.
+Pediatr Blood Cancer. 2007 Feb;48(2):124-31
+1.
+Acute respiratory distress with the following clinical signs:
+RR >30/min
+--
+Dyspnoea
+--
+Use of accessory muscles
+--
+Agitation, confusion
+--
+2.
+High levels of supplemental oxygen (O2 concentration >50% to maintain oxygen
+saturation >90%)
+3.
+Risk of respiratory compromise with large volume resuscitation e.g. congestive
+heart failure, chronic kidney disease, etc.
+4.
+Massive haemoptysis
+5.
+Potential need for non-invasive/invasive ventilation
+1.
+Haemodynamic instability due to hypovolaemia, haemorrhage, myocarditis or
+other causes
+2.
+Complex cardiac dysrhythmias requiring close monitoring/intervention
+3.
+Underlying cardiac disease with risk of cardiorespiratory compromise e.g. unstable
+ischaemic heart disease, fixed cardiac output states, etc.
+1.
+Seizures
+2.
+CNS depression
+1.
+Acute gastrointestinal bleeding with hypotension, continuous bleeding
+2.
+Severe acute hepatitis
+1.
+Severe coagulopathy
+2.
+Significant bleeding
+1.
+Acute kidney injury
+2.
+Acute rhabdomyolysis with renal insufficiency
+7.7 INTENSIVE CARE MANAGEMENT OF DENGUE INFECTION
+Management of severe dengue in the intensive care unit (ICU) follows the
+general principles of a critically ill patient. Indications for intensive care
+referral can be categorised into organ systems as in Table 11.
+Table 11 : Indications for Intensive Care Referral
+7.7.1 Respiratory Support:
+The main objectives of respiratory support are to:
+support pulmonary gas exchange based on alveolar ventilation and
+1.
+arterial oxygenation
+reduce the metabolic cost of breathing by unloading the ventilatory
+2.
+muscles
+Respiratory
+Cardiovascular
+Neurologic
+Gastrointestinal
+Haematologic
+Renal
+Patients who are alert, cooperative and haemodynamically stable
+with or without mild metabolic acidosis may benefit from non-invasive
+ventilation.164,level I
+Intubation and ventilation in patients with severe dengue are not without
+risks. Initiation of positive pressure ventilation will further decrease the
+cardiac output by reducing venous return. In patients with pleural effusion
+and ascites, haemodynamics will be further compromised when higher
+airway pressure is applied to achieve adequate ventilation and oxygenation.
+Care must be taken to avoid trauma to the airway during intubation, which
+may cause bleeding.
+In patients with metabolic acidosis, respiratory support should be
+considered despite preservation of relatively normal arterial blood pH.
+When the actual PaCO2 is higher than the expected to compensate for the
+acidosis, consider intubation and mechanical ventilation.
+Formula to calculate expected PaCO2 = 1.5 (Actual [HCO3] mmol/L ) + 8 (+ 2 mmHg)
+When a patient with metabolic acidosis is on invasive mechanical
+ventilation, set the ventilator settings so that the PaCO2 remains low, at
+the expected PaCO2 level. Failure to do so may cause further deterioration
+as the acidosis markedly worsens, resulting in depression of myocardial
+contractility, hypotension and arrhythmias.
+7.7.2 Haemodynamic Support
+Fluid resuscitation is crucial and should be initiated early as per guidelines
+in the section on fluid management. The causes of persistent shock and
+treatment in severe dengue are outlined in Algorithm C.
+The role of inotropic and vasopressor agents in dengue shock has not
+been investigated in clinical trials. Vasopressors may be able to maintain
+the blood pressure but do not improve tissue perfusion if the intravascular
+volume has not been restored.
+The use of inotropic and vasopressor agents should be limited to the
+following clinical situations (refer to Algorithm C):
+As
+a
+temporary
+measure
+to
+prevent
+life-threatening
+hypotension while aggressive fluid resuscitation is being carried
+out or during induction for intubation.165-168,level I
+Cardiogenic shock
+In the case of cardiac dysfunction, it is appropriate to use inotropic
+agents such as dobutamine or adrenaline in combination with a
+vasopressor.169,level I
+Concomitant septic shock
+Noradrenaline is preferred to other vasopressors as first-line
+therapy.165,level I
+Indications for mechanical ventilation in severe dengue include:
+persistent shock
+•
+acute respiratory failure secondary to massive pleural effusion
+•
++
+ascites, fluid overload
+severe metabolic acidosis
+•
+airway protection
+•
+1.
+2.
+3.
+7.7.3 Renal Replacement Therapy
+Renal replacement therapy may be indicated in severe dengue with acute
+kidney injury (refer to chapter on Management of Renal Complications in
+Dengue Infection).
+7.7.4 Guide on Safety and Risk of Invasive Procedures
+i. Central Venous Catheter (CVC) Insertion
+In any condition that requires fluid resuscitation, rapid and large volume of
+fluids can be infused via a large bore peripheral venous catheter. A well-
+sited proximal peripheral venous catheter is sufficient if it is expected that
+vasopressor is required for only short duration (1-2 hours).170
+The commonly available CVCs are long and multi-lumens with relatively
+smaller individual lumen. The need for CVC arise when there is:
+inadequate peripheral venous access
+•
+171,level III
+patient requires an infusion of vasopressor for prolonged period
+•
+171, level III
+Apart from the above indications, CVC should not be inserted solely for
+monitoring of CVP. CVP is not reliable to predict left ventricular filling volume
+or to predict haemodynamic response to fluid challenge.172,level I;173,level II-2 Thus,
+CVP should not be used to guide fluid management in dengue.
+In general, it is a relative contraindication to insert a CVC in patients with
+thrombocytopaenia or coagulation abnormalities. Overall, the risk of
+bleeding following CVC insertion in these patients is low.174-175,level II-2; 176,level III
+A subclavian approach should be avoided as the subclavian artery and vein
+is not accessible to direct compression.176,level III The use of real-time USG
+is recommended for CVC insertion if it is available and there is expertise.
+177,level I;178, level II-2
+Routine prophylactic transfusion of platelets and FFP in severe
+thrombocytopaenia prior to insertion of CVC should not be done as there is
+no clear evidence to support this practice.179-180;181,level III If platelets are to be
+transfused, a CVC should be done within 4 hours following transfusion for
+a maximum effect.182,level II-2 The most recent recommendation by American
+Association of Blood Banks suggested for transfusion as low as 20,000
+prior to CVC insertion.179
+ii. Arterial Catheter Insertion
+Intra-arterial cannulation is useful as it enables continuous arterial pressure
+monitoring and repeated arterial blood gas sampling. Overall, the rate
+of bleeding complication is low (0.53%-1.58%), lowest in the radial site
+compared to the femoral.183, level I
+iii. Gastric Tube
+If a gastric tube is required, the nasogastric route should be avoided in
+patients with bleeding disorder. Consider orogastric tube as this is less
+traumatic.184,level III
+iv. Pleural Tap and Chest Drain
+Intercostal drainage of pleural effusions should be avoided as it can lead to
+severe haemorrhage and sudden circulatory collapse.185,level III
+Recommendation 10
+Non-invasive ventilation may be beneficial in dengue patients who
+•
+are alert, cooperative and haemodynamically stable with or without
+mild metabolic acidosis.
+Caution should be exercised during intubation as sedatives and
+•
+mechanical ventilation may worsen haemodynamic instability in
+dengue patients.
+Intravenous fluid therapy is the mainstay of treatment in
+•
+decompensated dengue shock syndrome (DSS), however inotrope
+and vasopressors may be used as a temporary measure.
+In DSS:
+•
+o
+central venous pressure should not be used to guide
+fluid therapy
+o
+subclavian vein cannulation should be avoided
+o
+real-time ultrasonography is recommended for central
+venous cannulation if it is available and there is expertise
+8. DENGUE INFECTION IN PREGNANCY
+An early diagnosis of dengue infection in pregnancy is usually difficult due
+to the various physiological changes of pregnancy, which are:186
+elevation of HCT in dengue is masked by haemodilution due to
+•
+increase in plasma volume especially in the second and third
+trimester. Serial HCT measurement is crucial for disease monitoring in
+pregnancy
+the detection of third space fluid accumulation is difficult due to the
+•
+presence of gravid uterus
+baseline blood pressure is often lower and pulse pressure wider
+•
+baseline heart rate may be higher
+•
+elevated liver enzymes
+•
+low haemoglobin and platelets
+•
+mild metabolic acidosis and low P
+•
+aCO2 of 32 mmHg (in third trimester)
+i. Pregnancy Outcomes in Pregnant Women with Dengue Infection
+Significant bleeding due to thrombocytopaenia is not common. However,
+both mother and the newborn with dengue infection may be at an increased
+risk for haemorrhage in the presence of DSS. The higher percentage of
+severe dengue infection occurred among pregnant women compared to
+non-pregnant women (OR: 3.38; 95% CI: 2.10–5.42, p=0.0001).187,level II-3
+Significant number of pregnant women with dengue infection may present
+with DSS and mortality rate is about three times higher in this group.187-189,
+level II-3 A rare complication with pre-eclampsia, eclampsia or dengue
+encephalopathy have been reported.189,level II-3
+A very close monitoring of the vital signs, early signs of shock and bleeding
+should be sought. Appropriate fluid therapy, and when indicated blood
+and blood product transfusion, should be instituted.188,level II-3 A referral to
+intensivist and obstetrician should be done early in this group of patients to
+optimise care.
+ii. Maternal Complications in Pregnant Women with Dengue Infection
+Pregnant women with dengue who progress to spontaneous vaginal
+delivery do not have additional risk of adverse outcomes. Maternal
+complications commonly happen when dengue infection occur during first
+and third trimester. First trimester infection is associated with abortion and
+third trimester infection is commonly complicated with preterm birth.190,level
+III Infection occur during labour can be associated with worse maternal
+outcomes contributed by massive bleeding due to surgical interventions
+such as caesarean section and operative vaginal delivery. Acute dengue
+infection during this stage will increase the risk of foetal distress and higher
+chance of surgical interventions.189,level II-3 ;191,level III
+iii. Foetal Outcome in Pregnant Women with Dengue Infection
+DEN virus can be vertically transmitted to the foetus in utero or to the infant at
+parturition from infected symptomatic pregnant women.187,level II-3 Mothers who
+are asymptomatic have very low risk of transmission to the foetus.192,level II-3
+Clinical monitoring and laboratory investigations should be carried out for up
+to one week of life in the neonates.193,level II-3 Positive serology tests for dengue
+IgM, NS1 antigen or real-time RT-PCR to dengue in neonates confirm the
+vertical transmission.193,level II-3
+Dengue infection during pregnancy may be associated with various
+complications, including preterm delivery (4.0%-17.9%), foetal death (8.9%-
+13.6%), low birth weight (4.0%-24.3%) and more frequent miscarriage
+(RR=3.3).188-189,level II-3;193-194,level II-3;195,level III No long term foetal abnormalities
+noted among infants with vertical transmission.193,level II-3
+iv. Mode and Timing of Delivery
+Dengue infection is not an indication for elective delivery. Majority of patients
+can be allowed to progress to spontaneous vaginal delivery.191,level III However,
+if premature labour occurs during the acute infection, it is advisable to delay
+the delivery until the acute infection resolves. The use of tocolytic drugs
+such as nifedipine and atosiban may be indicated. Close foetal monitoring
+is required in this group of patients to detect foetal distress and decision
+for delivery can be made by the obstetrician. All pregnant mothers with
+dengue should be co-managed in hospitals by physician, anaesthetist and
+obstetrician.190,level III Deliveries in these patients should be conducted by
+obstetrician or senior medical officer (in hospital without specialist). Group
+and cross match (GXM) must be done for all dengue patients in labour.
+Blood and blood products transfusion is to be given only when indicated.
+Instrumental delivery should be avoided where possible and if indicated,
+the procedures should be done by an obstetrician.190,level III When the
+decision for instrumental delivery or operative delivery is made, the blood
+and blood products must be made available.190,level III Active management
+of third stage of labour in preventing postpartum haemorrhage is required
+by the use of IV uterotonic agent (avoid intramuscular injection). Platelets
+transfusion is only recommended when patients have manifestation of
+bleeding, decided for caeserean section or instrumental delivery.190,level III In
+this patient, platelets transfusion should be targeted to achieve minimum of
+50,000/ml to ensure maternal safety.190, level III
+v. Breastfeeding
+Transmission of dengue virus through breastfeeding is inconclusive. There
+is a case report of significant dengue viral load detected in breastmilk
+during the acute viraemic phase.196,level III Hence, it is advisable to delay
+breastfeeding during the acute viraemic phase.
+HCT value in pregnant women is usually lower compared to normal
+•
+adults due to physiological haemodilution.
+Dengue infection in pregnancy has a higher risk of developing
+•
+severe dengue and mortality.
+Dengue infection in pregnancy has a higher adverse foetal
+•
+outcome.
+Routine platelet transfusion is not indicated unless there is
+•
+presence of bleeding manifestation or patient is planned for
+operative or instrumental delivery.
+Intramuscular injection must be avoided in pregnant patients with
+•
+thrombocytopaenia.
+Recommendation 11
+All pregnant mothers with dengue infection should be managed in
+•
+hospitals by a multidisciplinary team (physician, anaesthetist and
+obstetrician).
+Intrapartum management in pregnant dengue patients are:
+•
+o
+spontaneous vaginal delivery is the preferred mode of delivery
+o
+group and cross match must be done. Blood and blood
+products transfusion to be given only when indicated
+o
+blood and blood products should be transfused as indicated
+when instrumental or operative delivery is decided
+Serology tests (Dengue IgM and non-structural protein 1 [NS1]
+•
+antigen) or reverse transcriptase polymerase chain reaction should
+be performed in neonates when congenital dengue infection is
+suspected.
+9. DISCHARGE CRITERIA
+The following should be taken into consideration before discharging a
+dengue patient:60,level III; 61
+improved general well-being
+•
+afebrile for 24-48 hours
+•
+rising white cell count followed by platelet count
+•
+stable haematocrit
+•
+resolution/recovery of organ dysfunction
+•
+11. VACCINATION
+There are published and ongoing trials on the efficacy of dengue vaccine
+among the paediatric population. 202-204, level I
+12. FOOD AND SUPPLEMENTS
+Food and supplements such as Carica papaya leave juice/extract, cactus
+extract, crab or padi frog soup, bitter gourd soup, porcupine bezoar stone,
+Tawa-tawa and Pegaga leaves and commercial isotonic drink have not
+been proven scientifically with robust evidence in preventing complications,
+expediting the recovery or curing dengue infection. It is important to note
+that the main problem that needs to be dealt with in dengue infection is
+the plasma leakage and/or immune activation issues, not only about the
+low platelet count. Manipulation of platelet count alone does not alter the
+clinical course of the disease as it is just a surrogate marker of disease
+progression or evolution. Plasma leakage and organ dysfunction should be
+the main focus of management.
+10. PREVENTION OF DENGUE TRANSMISSION IN HOSPITALS
+Patients are viraemic and hence potentially infectious during the febrile
+phase.197-198,level III There are no scientific studies that address the efficacy of
+mosquito repellents or mosquito netting in reducing dengue transmission
+in hospitalised patients. However, several community studies had shown
+that the use of mosquito netting/screening was efficacious in preventing
+transmission of dengue in the community.199,level I; 200, level III
+Generally, repellent products with higher concentrations of DEET (N,Ndiethylm-toluamide) have longer repellence times.201,level III
+Case fatality rate of
+dengue infection
+National target < 0.2%
+=
+No. of death of dengue infection
+No. of dengue infection
+Case fatality rate for
+severe dengue
+=
+No. of death in severe dengue
+Total no. of severe dengue
+i.
+ii.
+X 100%
+X 100%
+13. IMPLEMENTING THE GUIDELINES
+It is important to standardise the management of dengue infection in adults
+at all healthcare levels in Malaysia by using an evidence-based CPG. This
+aims to prevent mortality and long-term morbidity.
+13.1 Facilitating and Limiting Factors
+Existing facilitators for application of the recommendations in the CPG
+include:-
+wide dissemination of the CPG to healthcare providers (hardcopies
+i.
+and softcopies)
+regular dengue update for healthcare providers
+ii.
+Existing barriers for application of the recommendations of the CPG are:-
+inadequate understanding of dengue infection and management
+i.
+among patients/carers and healthcare providers
+insufficient resources especially trained personnel, diagnostic kits and
+ii.
+infrastructure
+variation in treatment practice and preferences
+iii.
+13.2 Potential Resource Implications
+To implement the CPG, there must be strong commitment to:-
+ensure widespread distribution of the CPG to healthcare providers
+i.
+initiate training (with adequate funding) of healthcare providers
+ii.
+ensuring information is up-to-date
+ensure availability of highly specialised diagnostic tools and trained
+iii.
+manpower in dengue management including multidisciplinary team at
+different levels of healthcare
+ensure widespread distribution of updated patient education materials
+iv.
+Implementation strategies such as Quick Reference and Training Module
+will be developed following the approval of the CPG by MoH.
+To assist in the implementation of the CPG, the following is proposed as
+clinical audit indicator for quality management:-
+REFERENCES
+World Health Organization. Dengue Guidelines for Diagnosis, Treatment, Prevention
+1.
+and Control - New Edition 2009. WHO: Geneva; 2009
+Nimmannitya S. Clinical spectrum and management of dengue haemorrhagic fever.
+2.
+Southeast Asian J Trop Med Pub Hlth. 1987; 18(3):392-7.
+Gubler DJ. Dengue and Dengue Haemorrhagic Fever. Clin Microbio Review. 1998;
+3.
+11(3):480-96.
+Kalayanarooj S, Vaughn DW, Nimmannitya S, et al. Early clinical and laboratory
+4.
+indicators of acute dengue illness. J Infect Dis. 1997 Aug; 176(2):313-21.
+Balmaseda A, Hammond SN, Perez MA, et al. Short report: assessment of the World
+5.
+Health Organization scheme for classification of dengue severity in Nicaragua. Am J
+Trop Med Hyg. 2005 Dec; 73(6):1059-62.
+Hammond SN, Balmaseda A, Perez L, et al. Differences in dengue severity in infants,
+6.
+children, and adults in a 3-year hospital-based study in Nicaragua. Am J Trop Med
+Hyg. 2005; 73:1063-170.
+Guzman MG, Alvarez M, Rodrı´guez R, et al. Fatal dengue hemorrhagic fever in
+7.
+Cuba, 1997. Int J Infect Dis 1999; 3:130–5.
+Rigau-Perez JG, Laufer MK. Dengue-related deaths in Puerto Rico, 1992-1996:
+8.
+diagnosis and clinical warning signs. Clin Infect Dis. 2006 May 1;42(9):1241-6.
+Ong A, Sandar M, Chen MI, Sin LY. Fatal dengue haemorrhagic fever in adults during
+9.
+a dengue epidemic in Singapore. International Journal of Infectious Diseases. 2007
+May;11(3):263-7.
+Wichmann O, Hongsiriwon S, Bowonwatanuwong C, et al. Risk factors and clinical
+10.
+features associated with severe dengue infection in adults and children during the
+2001 epidemic in Chonburi, Thailand. Trop Med Int Health. 2004 Sep;9(9):1022-9.
+Simmons CP, et al. Current concepts: Dengue. N Engl J Med. 2012 Apr;366:1423-32.
+11.
+Tricou V, Minh NN, Farrar J, et al. Kinetics of viremia and NS1 antigenemia are
+12.
+shaped by immune status and virus serotype in adults with dengue. PLoS Negl Trop
+Dis. 2011 Sep;5(9):e1309. doi: 10.1371/journal.pntd.0001309.
+Duyen HT, Ngoc TV, Ha do T, et al. Kinetics of plasma viremia and soluble
+13.
+nonstructural protein 1 concentrations in dengue: differential effects according to
+serotype and immune status. J Infect Dis. 2011 May 1;203(9):1292-300. doi: 10.1093/
+infdis/jir014.
+Cohen SN, Halstead SB. Shock associated with dengue infection. I. Clinical and
+14.
+physiologic manifestations of dengue hemorrhagic fever in Thailand, 1964. J Pediat
+1966; 68:448-56.
+Pongpanich B. Pathogenetic mechanism in dengue hemorrhagic fever: Report of an
+15.
+international collaborative study. Bull World Hlth. 1973; 48:117.
+Ganong WF. Cardiovascular homeostasis in health and disease. In: Review of
+16.
+Medical Physiology. 22nd Edition. London: McGraw-Hill; 2005:p.630-46.
+Bhamarapravati N, Tuchinda P, Boonyapaknavik V. Pathology of Thailand
+17.
+haemorrhagic fever: a study of 100 autopsy cases. Anna Trop Med Parasitol.
+1967;61:500-10.
+Sahaphong S, Riengrojpitak S, Bhamarapravati N, et.al. Electron microscopic study
+18.
+of the vascular endothelial cell in dengue haemorrhagic fever. Southeast Asian J Trop
+Med Public Health 1980;11:194.
+Chuansumrit A, Tangnararatchakit K. Pathophysiology and management of dengue
+19.
+hemorrhagic fever. Transfusion Alternatives In Transfusion Medicine. 2006;8 (Suppl
+1):3-11.
+Halstead SB. Observations related to pathogenesis of dengue hemorrhagic fever. VI.
+20.
+Hypotheses and discussion. Yale J Biol Med. 1970 Apr;42(5):350-62.
+Sangkawibha N, Rojanasuphot, S, Ahandriks, et al. Risk factors in dengue shock
+21.
+syndrome: a prospective epidemiologic study in Rayong, Thailand. I. The 1980
+outbreak. Am. J. Epidemiol. 1984;120:653-669.
+Guzman MG, Kouri G, Bravo J, et al. Enhanced severity of secondary dengue-2
+22.
+infections: death rates in 1981 and 1997 Cuban outbreaks. Rev Panam Salud
+Publica, 2002 Apr;11:223-7.
+Badyopadhyay S, Lum LCS, Kroeger A. Classifying dengue: a review of the difficulties
+23.
+in using the WHO case classification for dengue haemorrhagic fever. Tropical
+Medicine and International Health. 2006; 11(8):1238-55.
+World Health Organization, & UNICEF. Handbook for clinical management of dengue.
+24.
+2012.
+Prevention and Control of Infectious Disease Act 1988 (Act 342). Kuala Lumpur:
+25.
+Percetakan National Malaysia Berhad, 2001.
+Surat Pekeliling Ketua Pengarah Kesihatan Malaysia Bil 15/2010. Pelaksanaan
+26.
+Pengurusan Kes dan Kematian Denggi.
+Malavige GN, Velathanthiri VG, Wijewickrama ES, et al. Patterns of disease among
+27.
+adults hospitalized with dengue infections. QJM. 2006 May;99(5):299-305.
+Mairuhu AT, Mac Gillavry MR, Setiati TE. Is clinical outcome of dengue-virus infections
+28.
+influenced by coagulation and fibrinolysis? A critical review of the evidence. Lancet.
+Jan 2003;3:33-41.
+Krishnamurti C, Kalayanarooj S, Cutting MA, et al. Mechanisms of hemorrhage in
+29.
+dengue without circulatory collapse. Am J Trop Med Hyg. 2001 Dec;65(6):840-7.
+Lum LC, Goh AY, Chan PW, et al. Risk factors for hemorrhage in severe dengue
+30.
+infections. J. Pediatr 2002 May;140:629-31.
+Chuansumrit A, Philmothares V, Tardtong P, et al. Transfusion requirements in
+31.
+patients with dengue hemorrhagic fever. Southeast Asian J Trop Med Public Health.
+2000;3:10-14
+Chaudhary R, Khetan D, Sinha S, et al. Transfusion support to dengue patients in
+32.
+a hospital-based blood transfusion service in north India. Transfusion and Apheresis
+Science. 2006 Dec; 35:239-44.
+Ambayya A, Su AT, Osman NH, et al. Haematological reference intervals in a
+33.
+multiethnic population. PLoS One. 2014 Mar 18;9(3):e91968. doi: 10.1371/journal.
+pone.0091968. eCollection 2014.
+Tontulawat
+P,
+Pongsiri
+P,
+Thongmee
+C,
+et
+al.
+Evaluation
+of
+rapid
+34.
+immunochromatographic NS1 test, anti-dengue IgM test, semi-nested PCR and IgM
+ELISA for detection of dengue virus. Southeast Asian J Trop Med Public Health. 2011
+May;42(3):570-8.
+Wang SM, Sekaran SD. Early diagnosis of Dengue infection using a commercial
+35.
+Dengue Duo rapid test kit for the detection of NS1, IGM, and IGG. Am J Trop Med
+Hyg. 2010 Sep;83(3):690-5. doi: 10.4269/ajtmh.2010.10-0117.
+Gan VC, Tan LK, Lye DC, et al. Diagnosing dengue at the point-of-care: utility of a
+36.
+rapid combined diagnostic kit in Singapore. PLoS One. 2014 Mar 19;9(3):e90037. doi:
+10.1371/journal.pone.0090037.
+Peeling RW, Artsob H, Pelegrino JL, et al. Evaluation of diagnostic tests: dengue. Nat
+37.
+Rev Microbiol. 2010 Dec;8(12 Suppl):S30-8.
+Chung SJ, Krishnan PU, Leo YS. Two cases of false-positive dengue non-structural
+38.
+protein 1 (NS1) antigen in patients with hematological malignancies and a review of
+the literature on the use of NS1 for the detection of Dengue infection. Am J Trop Med
+Hyg. 2015 Feb;92(2):367-9. doi:10.4269/ajtmh.14-0247.
+Kumarasamy V, Wahab AH, Chua SK, et al. Evaluation of a commercial dengue NS1
+39.
+antigen-capture ELISA for laboratory diagnosis of acute dengue virus infection. J Virol
+Methods. 2007 Mar;140(1-2):75-9.
+Lapphra K, Sangcharaswichai A, Chokephaibulkit K, et al. Evaluation of an NS1
+40.
+antigen detection for diagnosis of acute dengue infection in patients with acute
+febrile illness. Diagn Microbiol Infect Dis. 2008 Apr;60(4):387-91. doi:10.1016/j.
+diagmicrobio.2007.11.010.
+Blacksell SD, Mammen MP Jr, Thongpaseuth S, et al. Evaluation of the Panbio
+41.
+dengue virus nonstructural 1 antigen detection and immunoglobulin M antibody
+enzyme-linked immunosorbent assays for the diagnosis of acute dengue infections in
+Laos. Diagn Microbiol Infect Dis. 2008 Jan;60(1):43-9.
+Sekaran SD, Lan EC, Mahesawarappa KB, et al. Evaluation of dengue NS1 capture
+42.
+ELISA assay for the rapid detection of dengue. Journal of Infections In Developing
+Countries. 2007;1(2):182-8.
+Dussart P, Labeau B, Lagathu G, et al. Evaluation of an enzyme immunoassay for
+43.
+detection of dengue virus NS1 antigen in human serum. Clin Vaccine Immunol. 2006
+Nov;13(11):1185-9.
+Paranavitane SA, Gomes L, Kamaladasa A, et al. Dengue NS1 antigen as a marker
+44.
+of severe clinical disease. BMC Infect Dis. 2014 Oct 31;14:570. doi: 10.1186/s12879014-0570-8.
+Schilling S, Ludolfs D, Van An L, et al. Laboratory diagnosis of primary and secondary
+45.
+dengue infection. J Clin Virol. 2004 Nov;31(3):179-84.
+Gubler DJ. Dengue and dengue hemorrhagic fever. Clin Microbiol Rev. 1998
+46.
+Jul;11(3):480-96. Review.
+Chanama S, Anantapreecha S, A-nuegoonpipat A, et al. Analysis of specific
+47.
+IgM responses in secondary dengue virus infections: levels and positive rates in
+comparison with primary infections. J Clin Virol. 2004 Nov;31(3):185-9.
+Wichmann O, Stark K, Shu PY, et al. Clinical features and pitfalls in the laboratory
+48.
+diagnosis of dengue in travellers. BMC Infect Dis. 2006 Jul 21;6:120.
+Hawkes RA, Boughton CR, Naim HM, et al. Arbovirus infections of humans in New
+49.
+South Wales. Seroepidemiology of the flavivirus group of togaviruses. Med J Aust.
+1985 Dec 9-23;143(12-13):555-61.
+Chen WJ, Hwang KP, Fang AH. Detection of IgM antibodies from cerebrospinal fluid
+50.
+and sera of dengue fever patients. Southeast Asian J Trop Med Public Health. 1991
+Dec;22(4):659-63.
+Panbio Dengue IgG Capture ELISA Product Insert Cat No 01PE10 August 2008.
+51.
+Standard Diagnostics Republic of Korea.
+Cuzzubbo AJ, Vaughn DW, Nisalak A, et al. Comparison of PanBio dengue duo
+52.
+enzyme-linked immunosorbent assay (ELISA) and MRL dengue fever virus
+immunoglobulin M capture ELISA for diagnosis of dengue virus infections in
+Southeast Asia. Clin Diagn Lab Immunol. 1999 Sep;6(5):705-12
+Wu SJ, Paxton H, Hanson B, et al. Comparison of two rapid diagnostic assays for
+53.
+detection of immunoglobulin M antibodies to dengue virus. Clin Diagn Lab Immunol.
+2000 Jan;7(1):106-10.
+Kit Lam S, Lan Ew C, Mitchell JL, et al. Evaluation of a capture screening enzyme54.
+linked immunosorbent assay for combined determination of immunoglobulin M and
+G antibodies produced during Dengue infection. Clin Diagn Lab Immunol. 2000
+Sep;7(5):850-2.
+Berlioz-Arthaud A. Evaluation of reagents for the serological diagnosis of Dengue
+55.
+EPINET II Workshop. Institut Pasteir de Nouvelle Caledonie. March 2002.
+Grobusch MP, Niedrig M, Göbels K, et al. Evaluation of the use of RT-PCR for the
+56.
+early diagnosis of dengue fever. Clin Microbiol Infect. 2006 Apr;12(4):395-7
+Seah CLK et al. A comparative, prospective study of serological, virus isolation
+57.
+and PCR amplification techniques for the laboratory diagnosis of dengue infection.
+Serodiagnosis and immunotherapy in infectious disease. 1995;7.2:55-58.
+Dengue hemorrhagic fever: diagnosis, treatment, prevention and control. 2nd
+58.
+ed. Geneva: World Health Organization: 1997. Available at: http://w3.who.int/csr/
+resources/publications/ dengue/024-33.pdf.
+Ramos C, Sánchez G, Pando RH, et al. Dengue virus in the brain of a fatal case of
+59.
+hemorrhagic dengue fever. J Neurovirol. 1998 Aug;4(4):465-8.
+Kalayanarooj S, Nimmannitya S. Guidelines for DHF Case Management for Workshop
+60.
+on Case Management of Dengue Hemorrhagic Fever, WHO Collaborating Centre for
+Case Management of Dengue/DHF/DSS June 10 – 15, 2002.
+Subcommittee of Technical Experts on Clinical Management of DF/ DHF. Guidelines
+61.
+on Clinical Management of Dengue/Dengue Hemorrhagic Fever, Sri Lanka. 2005.
+Available at http://www.epid.gov.lk/pdf/Guidelines
+MOH, Singapore. Guidelines on Clinical Management of Dengue Fever/Dengue
+62.
+Haemorrhagic Fever 2005.
+Carlos CC, Oishi K, Cinco, et al. Comparison of Clinical Features and Hematologic
+63.
+CDC. Healthcare Infection Control Practices Advisory Committee. Guideline for
+isolation precautions: preventing transmission of infectious agents in healthcare
+settings 2007. Administrative responsibilities. Atlanta (GA): Centers for Disease
+Control and Prevention (CDC);2007 June.
+Harnod D, Chang H, Wang TL. Dengue Fever versus Bioterrorism. Ann Disaster Med.
+64.
+2002;1 Suppl 1:S 44-58.
+Lee IK, Lee WH, Yang KD, et al. Comparison of the effects of oral hydration and
+65.
+intravenous fluid replacement in adult patients with non-shock dengue hemorrhagic
+fever in Taiwan. Trans R Soc Trop Med Hyg. 2010 Aug;104(8):541-5. doi: 10.1016/j.
+trstmh.2010.05.003.
+WHO Regional Publication SEARO, 29, 1999.
+66.
+Dung NM, Day NP, Tam DT, et al. Fluid replacement in dengue shock syndrome: a
+67.
+randomized, double-blind comparison of four intravenous-fluid regimens. Clin Infect
+Dis. 1999 Oct; 29:787-94.
+Ngo NT, Cao XT, Kneen R, et al. Acute management of dengue shock syndrome: a
+68.
+randomized double-blind comparison of 4 intravenous fluid regiments in the first hour.
+Clin Infect Dis. 2001; 32:(2) 204-13.
+Wills BA, Nguyen MD, Ha TL, et al. Comparison of three fluid solutions for
+69.
+resuscitation in dengue shock syndrome. N Engl J Med. 2005 Sep 1; 353(9):877- 89.
+Akech S, Ledermann H, Maitland K. Choice of fluids for resuscitation in children with
+70.
+severe infection and shock: systematic review. BMJ. 2010 Sep 2;341:c4416. doi:
+10.1136/bmj.c4416.
+Perel P, Roberts I, Ker K. Colloids versus crystalloids for fluid resuscitation in
+71.
+critically ill patients. Cochrane Database Syst Rev. 2013 Feb 28;2:CD000567. doi:
+10.1002/14651858.CD000567.pub6.
+Haase N, Perner A, Hennings LI, et al. Hydroxyethyl starch 130/0.38-0.45 versus
+72.
+crystalloid or albumin in patients with sepsis: systematic review with meta-analysis
+and trial sequential analysis. BMJ. 2013 Feb 15;346:f839. doi: 10.1136/bmj.f839.
+Somasetia DH, Setiati TE, Sjahrodji AM, et al. Early resuscitation of dengue shock
+73.
+syndrome in children with hyperosmolar sodium-lactate: a randomized single-blind
+clinical trial of efficacy and safety. Crit Care. 2014 Sep 5;18(5):466. doi: 10.1186/
+s13054-014-0466-4.
+Muller L, Bobbia X, Toumi M, et al. Respiratory variations of inferior vena cava
+74.
+diameter to predict fluid responsiveness in spontaneously breathing patients with
+acute circulatory failure: need for a cautious use. Crit Care. 2012 Oct 8;16(5):R188.
+doi: 10.1186/cc11672.
+Skellett S, Mayer A, Durward A, et al. Chasing the base deficit: hyperchloraemic
+75.
+acidosis following 0.9% saline fluid resuscitation. Archives of Disease in Childhood.
+2000 Dec;83(6):514-6.
+Jansen TC, van Bommel J, Schoonderbeek FJ, et al; LACTATE study group. Early
+76.
+lactate-guided therapy in intensive care unit patients: a multicenter, open-label,
+randomized controlled trial. Am J Respir Crit Care Med. 2010 Sep 15;182(6):752-61.
+doi: 10.1164/rccm.200912-1918OC.
+Lumpaopong A, Kaewplang P, Watanaveeradej V, et al. Electrolyte disturbances and
+77.
+abnormal urine analysis in children with dengue infection. Southeast Asian J Trop
+Med Public Health. 2010 Jan;41(1):72-6.
+Mekmullica J, Suwanphatra A, Thienpaitoon H, et al. Serum and urine sodium levels
+78.
+in dengue patients. Southeast Asian J Trop Med Public Health. 2005 Jan;36(1):197-9.
+Sosothikul D, Seksarn P, Pongsewalak S. Activation of endothelial cells, coagulation
+79.
+and fibrinolysis in children with dengue virus infection.Thromb Haemost, 2007.
+Apr;97;627-34
+Avila-Aguero ML, Avila-Aguero CR, Um SL, et al. Systemic host inflammatory and
+80.
+coagulation response in the Dengue virus primo-infection. Cytokine. 2004 Sep 21;27:
+173-9.
+Tanomsri S, Suchitra N. Haematology in dengue and dengue haemorrhagic fever.
+81.
+Bailliere’s Clinical Haematology 2000;13:261-76.
+Mairuhu AT, Mac Gillavry MR, Setiati TE. Is clinical outcome of dengue-virus infections
+82.
+influenced by coagulation and fibrinolysis? A critical review of the evidence. Lancet.
+Jan 2003;3:33-41.
+Krishnamurti C, Kalayanarooj S, Cutting MA, et al. Mechanisms of hemorrhage in
+83.
+dengue without circulatory collapse. Am J Trop Med Hyg. 2001 Dec;65(6):840-7.
+Chaudhary R, Khetan D, Sinha S, et al. Transfusion support to dengue patients in
+84.
+a hospital-based blood transfusion service in north India. Transfusion and Apheresis
+Science. 2006 Dec; 35:239-44.
+Wills BA, Oragui EE, Stephens AC, et al. Coagulation abnormalities in dengue
+85.
+hemorrhagic fever: serial investigations in 167 Vietnamese children with Dengue
+Shock Syndrome. Clin Infect Dis. 2002 Aug; 35(3): 277-85.
+Perret C, Chanthavanich P, Pengsaa K, et al. Dengue infection during pregnancy and
+86.
+transplacental antibody transfer in Thai mothers. Journal of Infection. 2005;51:287-93.
+Esmon CT. The impact of the inflammatory response on coagulation. Thrombosis
+87.
+Research. 2004;114(5-6):321-7.
+Fariz-Safhan MN, Tee HP, Abu Dzarr GA, et al. Bleeding outcome during a dengue
+88.
+outbreak in 2005 in the East-coast region of Peninsular Malaysia: a prospective study.
+Trop Biomed. 2014 Jun;31(2):270-80.
+Lum LC, Goh AY, Chan PW, et al. Risk factors for hemorrhage in severe dengue
+89.
+infections. J. Pediatr 2002 May;140:629-31.
+Lacroix J, Hébert PC, Fergusson DA, et al; ABLE Investigators; Canadian Critical
+90.
+Care Trials Group. Age of transfused blood in critically ill adults. N Engl J Med. 2015
+Apr 9;372(15):1410-8. doi: 10.1056/NEJMoa1500704.
+Steiner ME, Ness PM, Assmann SF, et al. Effects of red-cell storage duration on
+91.
+patients undergoing cardiac surgery. N Engl J Med. 2015 Apr 9;372(15):1419-29. doi:
+10.1056/NEJMoa1414219.
+Dhabangi A, Mworozi E, Lubega IR, et al. The effect of blood storage age on
+92.
+treatment of lactic acidosis by transfusion in children with severe malarial anaemia:
+a pilot, randomized, controlled trial. Malar J. 2013 Feb 6;12:55. doi: 10.1186/14752875-12-55.
+Chiu YC, Wu KL, Kuo CH, et al. Endoscopic findings and management of
+93.
+dengue patients with upper gastrointestinal bleeding. Am J Trop Med Hyg. 2005
+Aug;73(2):441-4.
+Sari EF, Syam AF, Leonard Nainggolan. Cause of Upper Gastrointestinal Tract
+94.
+Bleeding in Dengue Hemorrhagic Fever Patient. Indones J Gastro, Hepato Dig.
+2008;9:30-4.
+Chuansumrit A, Phimolthares V, Tardtong P, et al. Transfusion requirements in
+95.
+patients with dengue hemorrhagic fever. Southeast Asian J Trop Med Public Health.
+2000 Mar;31(1):10-4.
+Hsu WH, Wu IC. Watermelon stomach in dengue hemorrhagic fever. Endoscopy.
+96.
+2013;45 Suppl 2.
+Boo YL, Chin PW, Hoo FK, et al. Duodenal hematoma: An unusual presentation of
+97.
+dengue fever. RMJ. 2015; 40(2): 248-250. - level III
+Lee CY, Tsai HC, Lee SS, et al. Dengue hemorrhagic fever presenting with
+98.
+hemorrhagic pancreatitis and an intramural hematoma of the duodenal wall: a case
+report and review of the literature. Southeast Asian J Trop Med Public Health. 2013
+May;44(3):400-8. - level III
+Lum LC, Abdel-Latif Mel-A, Goh AY, et al. Preventive Transfusion in DSS- is it
+99.
+necessary? J Pediatr. 2003 Nov;143(5):682-4.
+Chairulfatah, A, Setiabudi, D., Agoes, et al. Thrombocytopenia and platelet
+100.
+transfusions in dengue haemorrhagic fever and dengue shock syndrome. Dengue
+Bulletin, 2003;27
+Chuansumrit A, Wangruangsatid S, Lektrakul Y, et al. Dengue Study Group. Control
+101.
+of bleeding in children with DHF using recombinant activated FVII: a randomized,
+double-blind, placebo-controlled study. Blood Coagul Fibrinolysis. 16(8): 549-55.
+86 Chuansumrit A, Tangnararatchakit K, Lektakul Y, et al. The use of recombinant
+102.
+activated FVII for controlling life-threatening bleeding in DSS. Blood Coagul
+Fibrinolysis. 2004 Jun;15:335-42.
+United Kingdom Haemophilia Centre Doctors’ Organisation (UKHCDO) Guidelines on
+103.
+the selection and use of therapeutic products to treat hemophilia and other hereditary
+bleeding disorders. Hemophilia. 2003;9:1-23.
+Parkash O, Almas A, Jafri SM, et al. Severity of acute hepatitis and its outcome in
+104.
+patients with dengue fever in a tertiary care hospital Karachi, Pakistan (South Asia).
+BMC Gastroenterol. 2010 May 7;10:43.
+Trung DT, Thao le TT, Hien TT, et al. Liver involvement associated with dengue
+105.
+infection in adults in Vietnam. Am J Trop Med Hyg. 2010 Oct;83(4):774-80.
+Tristão-Sá R, Kubelka CF, Zandonade E, et al. Clinical and hepatic evaluation in adult
+106.
+dengue patients: a prospective two-month cohort study. Rev Soc Bras Med Trop.
+2012 Dec;45(6):675-81.
+Samanta J, Sharma V. Dengue and its effects on liver. World J Clin Cases. 2015 Feb
+107.
+16;3(2):125-31. doi: 10.12998/wjcc.v3.i2.125
+Ahmad S, Dhar M, Srivastava S, et al. Dengue hepatitis sans dysfunction: experience
+108.
+of a single tertiary referral centre in the north Indian state of Uttarakhand. Trop Doct.
+2013 Apr;43(2):62-5. doi: 10.1177/0049475513483281.
+Tan SS, Bujang MA. The clinical features and outcomes of acute liver failure
+109.
+associated with dengue infection in adults: a case series. Braz J Infect Dis. 2013 MarApr;17(2):164-9. doi: 10.1016/j.bjid.2012.09.007
+Thomas L, Brouste Y, Najioullah F, et al. Predictors of severe manifestations in
+110.
+a cohort of adult dengue patients. J Clin Virol. 2010 Jun;48(2):96-9. doi: 10.1016/j.
+jcv.2010.03.008.
+Lee WM, Stravitz RT, Larson AM. Introduction to the revised American Association for
+111.
+the Study of Liver Diseases Position Paper on acute liver failure 2011. Hepatology.
+2012;55(3):965-967.
+Habaragamuwa BW, Dissanayaka P. N-acetylcystein in dengue associated severe
+112.
+hepatitis. Indian J Crit Care Med. 2014 Mar;18(3):181-2. doi: 10.4103/09725229.128712.
+Senanayake MP, Jayamanne MD, Kankananarachchi I. N-acetylcysteine in children
+113.
+with acute liver failure complicating dengue viral infection. Ceylon Med J. 2013
+Jun;58(2):80-2. doi: 10.4038/cmj.v58i2.5684.
+Abeysekera RA, Illangasekera U, Jayalath T,et al. Successful use of intravenous
+114.
+N-acetylcysteine in dengue haemorrhagic fever with acute liver failure. Ceylon Med
+J. 2012 Dec;57(4):166-7. doi: 10.4038/cmj.v57i4.5085.
+Giri S, Agarwal MP, Sharma V, et al. Acute hepatic failure due to dengue: A case
+115.
+report. Cases J. 2008 Oct 2;1(1):204. doi: 10.1186/1757-1626-1-204.
+Stravitz RT, Kramer AH, Davern T, et al; Acute Liver Failure Study Group. Intensive
+116.
+care of patients with acute liver failure: recommendations of the U.S. Acute Liver
+Failure Study Group. Crit Care Med. 2007 Nov;35(11):2498-508.
+Miranda CH, Borges Mde C, Matsuno AK, et al. Evaluation of cardiac involvement during
+117.
+dengue viral infection. Clin Infect Dis. 2013 Sep;57(6):812-9. doi: 10.1093/cid/cit403.
+Yacoub S, Griffiths A, Chau TT, et al. Cardiac function in Vietnamese patients with
+118.
+different dengue severity grades. Crit Care Med. 2012 Feb;40(2):477-83. doi:
+10.1097/CCM. 0b013e318232d966.
+Lee CH, Teo C, Low AF. Fulminant dengue myocarditis masquerading as acute
+119.
+myocardial infarction. Int J Cardiol. 2009 Aug 21;136(3):e69-71. doi: 10.1016/j.
+ijcard.2008.05.023.
+Yacoub S, Wertheim H, Simmons CP, et al. Cardiovascular manifestations of the
+120.
+emerging dengue pandemic. Nat Rev Cardiol. 2014 Jun;11(6):335-45. doi: 10.1038/
+nrcardio.2014.40.
+Kularatne SA, Pathirage MM, Kumarasiri PV, et al. Cardiac complications of a dengue
+121.
+fever outbreak in Sri Lanka, 2005. Trans R Soc Trop Med Hyg. 2007 Aug;101(8):804-8.
+Khongphatthanayothin A, Lertsapcharoen P, Supachokchaiwattana P, et al. Myocardial
+122.
+depression in dengue hemorrhagic fever: prevalence and clinical description. Pediatr
+Crit Care Med. 2007 Nov;8(6):524-9.
+Khongphatthanayothin A, Suesaowalak M, Muangmingsook S, et al. Hemodynamic
+123.
+profiles of patients with dengue hemorrhagic fever during toxic stage: an
+echocardiographic study. Intensive Care Med. 2003 Apr;29(4):570-4.
+Sengupta SP, Nugurwar A, Jaju R, et al. Left ventricular myocardial performance
+124.
+in patients with dengue hemorrhagic fever and thrombocytopenia as assessed by
+two-dimensional speckle tracking echocardiography. Indian Heart J. 2013 MayJun;65(3):276-82. doi: 10.1016/j.ihj.2013.04.017.
+Wali JP, Biswas A, Chandra S, et al. Cardiac involvement in Dengue Haemorrhagic
+125.
+Fever. Int J Cardiol. 1998 Mar 13;64(1):31-6.
+Charron C, Caille V, Jardin F, et al. Echocardiographic measurement of fluid
+126.
+responsiveness. Current opinion in critical care. 2006 Jun;12(3):249-54.
+Cam BV, Fonsmark L, Hue NB, et al. Prospective case control study of
+127.
+encephalopathy in children with dengue hemorrhagic fever. Am J Trop Med Hyg Dec
+2001 Dec;65(6):848–51.
+Hendarto SK, Hadinegoro SR. Dengue encephalopathy. Acta Paediatr Jpn 1992
+128.
+Jun;34(3):350–7.
+Carod-Artal FJ, Wichmann O, Farrar J, et al. Neurological complications of dengue
+129.
+virus infection. Lancet Neurol. 2013 Sep;12(9):906-19.
+Araújo FM, Araújo MS, Nogueira RM, et al. Central nervous system involvement in
+130.
+dengue: a study in fatal cases from a dengue endemic area. Neurology. 2012 Mar
+6;78(10):736-42
+Soares CN, Cabral-Castro MJ, Peralta JM, et al. Review of the etiologies of viral
+131.
+meningitis and encephalitis in a dengue endemic region. J Neurol Sci. 2011 Apr
+15;303(1-2):75-9.
+Jackson ST, Mullings A, Bennett F, et al. Dengue infection in patients presenting
+132.
+with neurological manifestations in a dengue endemic population. West Indian Med J.
+2008 Sep;57(4):373-6.
+Rao SM, Pradeep M, Dnyaneshwar M, et al. Dengue Encephalitis - Clinical spectrum
+133.
+and outcome. Intern Med Inside. 2013;1:8.
+Soares CN, Faria LC, Peralta JM, et al. Dengue infection: neurological manifestations
+134.
+and cerebrospinal fluid (CSF) analysis. J Neurol Sci. 2006 Nov 1;249(1):19–24
+Sahu R, Verma R, Jain A, et al. A Neurologic complications in dengue virus infection:
+135.
+a prospective cohort study. Neurology. 2014 Oct 28;83(18):1601-9.
+Vasanwala FF, Puvanendran R, Ng JM, et al. Two cases of self-limiting nephropathies
+136.
+secondary to dengue haemorrhagic fever. Singapore Med J. 2009 Jul;50(7):e253-5.
+Abeysekera RA, Illangasekera U, Jayalath, T, et al. A Case of Mixed Nephrotic-Range
+137.
+Proteinuria–Microscopic Hematuria After Dengue Hemorrhagic Fever. Infectious Diseases
+in Clinical Practice. 2013;21(6):386-388.
+Lee IK, Liu JW, Yang KD. Clinical characteristics, risk factors, and outcomes in adults
+138.
+experiencing dengue hemorrhagic fever complicated with acute renal failure. Am J Trop
+Med Hyg. 2009 Apr;80(4):651-5
+Repizo LP, Malheiros DM, Yu L, et al. Biopsy proven acute tubular necrosis due to
+139.
+rhabdomyolysis in a dengue fever patient: a case report and review of literature. Rev Inst
+Med Trop Sao Paulo. 2014 Jan-Feb;56(1):85-8.
+Khalil MA, Tan J, Khalil MAet al. Predictors of hospital stay and mortality in dengue virus
+140.
+infection-experience from Aga Khan University Hospital Pakistan. BMC Res Notes. 2014
+Jul 27;7:473. doi:10.1186/1756-0500-7-473.
+Schram AM and Berliner N. How I treat hemophagocytic lymphohistiocytosis in the adult
+141.
+patient. Blood. 2015;125(19):2908-14.
+Filipovich, AH. Hemophagocytic lymphohistiocytosis (HLH) and related disorders. A
+142.
+SH
+Education Program Book. Cincinnati Children’s Hospital Medical Center;2009.p127-131.
+Weitzman S. Approach to hemophagocytic syndromes.
+143.
+ASH Education Program Book.
+Division of Hematology/Oncology, The Hospital for Sick Children University Avenue
+Toronto;2011.p178-183.
+Henter JI, Horne A, Aricó M, et al. HLH-2004: Diagnostic and therapeutic guidelines for
+144.
+hemophagocytic lymphohistiocytosis. Pediatr Blood Cancer. 2007 Feb;48(2):124-31.
+Rajagopala S, Singh N, Agarwal R, et al. Severe hemophagocytic lymphohistiocytosis in
+145.
+adults-experience from an intensive care unit from North India. Indian J Crit Care Med.
+2012 Oct;16(4):198-203. doi: 10.4103/0972-5229.106501.
+Pal P, Giri PP, Ramanan AV. Dengue associated hemophagocytic lymphohistiocytosis: a
+146.
+case series. Indian Pediatr. 2014 Jun;51(6):496-7.
+Jain D, Singh T. Dengue virus related hemophagocytosis: a rare case report. Hematology.
+147.
+2008 Oct;13(5):286-8. doi: 10.1179/102453308X316095.
+Srichaikul T, Punyagupta S, Kanchanapoom T, et al. Hemophagocytic syndrome in
+148.
+Dengue hemorrhagic fever with severe multiorgan complications. J Med Assoc Thai. 2008
+Jan;91(1):104-9.
+Sorakhunpipitkul L, Punyagupta S, Srichaikul T, et al. Thai adult dengue hemorrhagic fever
+149.
+during 2008–2010: seven cases presented with severe multiorgan failure and successfully
+treated with high dose of corticosteroids and intravenous immunoglobulin G. J Infect Dis
+Antimicrob Agents. 2011; 28(2):99-103.
+Rajagopala S, Singh N. Diagnosing and treating hemophagocytic lymphohistiocytosis
+150.
+in the tropics: systematic review from the Indian subcontinent. Acta Med Acad.
+2012;41(2):161-74. doi: 10.5644/ama2006-124.49.
+Mitra S, Bhattacharyya R. Hemophagocytic syndrome in severe dengue Fever: a rare
+151.
+presentation. Indian J Hematol Blood Transfus. 2014 Sep;30(Suppl 1):97-100. doi:
+10.1007/s12288-013-0273-0.
+Morel Z, Ramírez A. Autoimmune response in children with dengue. Case reports.
+152.
+Reumatol Clin. 2014 Jul-Aug;10(4):257-9. doi: 10.1016/j.reuma.2013.07.005.
+Tan LH, Lum LC, Omar SF, Kan FK. Hemophagocytosis in dengue: comprehensive report
+153.
+of six cases. J Clin Virol. 2012 Sep;55(1):79-82. doi: 10.1016/j.jcv.2012.06.005.
+Asli RA, Abdullah MA, Telisinghe PU, et al. Haemophagocytic lympohistiocytosis: a rare
+154.
+manifestation of dengue fever. Brunei Int Med J. 2013;9(5):334-337.
+Vijayalakshmi AM, Ganesh VR. Hemophagocytic syndrome associated with dengue
+155.
+hemorrhagic fever. Indian Pediatr. 2009 Jun;46(6):545.
+Ray S, Kundu S, Saha M, Chakrabarti P. Hemophagocytic syndrome in classic
+156.
+dengue Fever. J Glob Infect Dis. 2011 Oct;3(4):399-401. doi: 10.4103/0974777X.91068.
+Rathore R, Daniyal SM, Iqbal A, et al. Hemophagocytic Syndrome–A Rare
+157.
+Complication of Dengue Fever. Annals of King Edward Medical University.
+2013;18(1).
+Kapdi M, Shah I. Dengue and haemophagocytic lymphohistiocytosis. Scand J Infect
+158.
+Dis. 2012 Sep;44(9):708-9. doi: 10.3109/00365548.2011.652667.
+Ribeiro E, Kassab S, Pistone T, et al. Primary dengue fever associated with
+159.
+hemophagocytic syndrome: a report of three imported cases, Bordeaux, France.
+Intern Med. 2014;53(8):899-902.
+Kobayashi K, Hikone M, Sakamoto N, et al. Dengue-associated hemophagocytic
+160.
+syndrome in a Japanese traveler: a case report. J Travel Med. 2015 JanFeb;22(1):64-6. doi: 10.1111/jtm.12158.
+Fardet L, Galicier L, Lambotte O, et al. Development and validation of the HScore, a
+161.
+score for the diagnosis of reactive hemophagocytic syndrome. Arthritis Rheumatol.
+2014 Sep;66(9):2613-20. doi: 10.1002/art.38690.
+Schram AM, Campigotto F, Mullally A, et al. Marked hyperferritinemia does not predict
+162.
+for HLH in the adult population. Blood. 2015 Mar 5;125(10):1548-52. doi: 10.1182/
+blood-2014-10-602607.
+Allen CE, Yu X, Kozinetz CA, et al. Highly elevated ferritin levels and the diagnosis of
+163.
+hemophagocytic lymphohistiocytosis. Pediatr Blood Cancer. 2008 Jun;50(6):1227-35
+Cam BV, Tuan DT, Fonsmark L, et al. Randomized Comparison of Oxygen Mask
+164.
+Treatment vs. Nasal Continuous Positive Airway Pressure in Dengue Shock
+Syndrome with Acute Respiratory Failure. J Trop Pediatr. 2002;48:335–339.
+Annane D, Vignon P, Renault A, et al. Norepinephrine plus dobutamine versus
+165.
+epinephrine alone for management of septic shock: a randomised trial. Lancet
+2007;370: 676–84.
+De Backer D, Biston P, Devriendt J, et al. Comparison of Dopamine and
+166.
+Norepinephrine in the Treatment of Shock. N Engl J Med 2010; 362:779-789.
+Havel C, Arrich J, Losert H, et al. Vasopressors for hypotensive shock (Review).
+167.
+Cochrane Database of Systematic Reviews 2011, Issue 5.
+Myburgh JA, Higgins, A, Jovanovska A, et. al. A comparison of epinephrine and
+168.
+norepinephrine in critically ill patieints Intensive Care Medicine 2008;34:2226-2234.
+Levy B , Perez P, Perny J et al. Comparison of norepinephrine-dobutamine to
+169.
+epinephrine for hemodynamics, lactate metabolism, and organ function variables
+in cardiogenic shock. A prospective, randomized pilot study. Crit Care Med 2011
+Mar;39(3):450-5.
+Djogovic D, MacDonald S, Wensel A, et al. Vasopressor and Inotrope Use in
+170.
+Canadian Emergency Departments: Evidence Based Consensus Guidelines. CJEM.
+2015 Feb;17 Suppl 1:1-16. doi: 10.1017/cem.2014.77.
+Taylor Robert W & Palagiri AC. Central Venous Catheterization: Concise Definitive
+171.
+Review. Critical Care Medicine. 2007; 35(5):1390-96.
+Marik PE, Cavallazzi R. Does the central venous pressure predict fluid
+172.
+responsiveness? An updated meta-analysis and a plea for some common sense. Crit
+Care Med. 2013 Jul;41(7):1774-81. doi: 10.1097/CCM.0b013e31828a25fd.
+Kumar A, Anel R, Bunnell E, et al. Pulmonary artery occlusion pressure and central
+173.
+venous pressure fail to predict ventricular filling volume, cardiac performance, or the
+response to volume infusion in normal subjects. Crit Care Med. 2004 Mar;32(3):691-9.
+Mumtaz H, Williams V, Hauer-Jensen M, et al. Central venous catheter placement in
+174.
+patients with disorders of hemostasis. Am J Surg. 2000 Dec;180(6):503-5; discussion 506.
+Kander T, Frigyesi A, Kjeldsen-Kragh J, et al. Bleeding complications after central line
+175.
+insertions: relevance of pre-procedure coagulation tests and institutional transfusion
+policy. Acta Anaesthesiol Scand. 2013 May;57(5):573-9. doi: 10.1111/aas.12075
+Doerfler ME, Kaufman B, Goldenberg AS. Central venous catheter placement
+176.
+inpatients with disorders of hemostasis. Chest. 1996 Jul;110(1):185-8.
+Calvert N, Hind D, McWilliams RG, et al. The effectiveness and cost-effectiveness
+177.
+of ultrasound locating devices for central venous access: a systematic review and
+economic evaluation. Health Technol Assess. 2003;7(12):1-84.
+Tercan F, Ozkan U, Oguzkurt L. US-guided placement of central vein catheters in
+178.
+patients with disorders of hemostasis. Eur J Radiol. 2008 Feb;65(2):253-6.
+Kaufman RM, Djulbegovic B, Gernsheimer T, et al; AABB. Platelet transfusion: a
+179.
+clinical practice guideline from the AABB. Ann Intern Med. 2015 Feb 3;162(3):205-13.
+doi: 10.7326/M14-1589.
+Patel IJ, Davidson JC, Nikolic B, et al; Standards of Practice Committee, with
+180.
+Cardiovascular and Interventional Radiological Society of Europe (CIRSE)
+Endorsement. Consensus guidelines for periprocedural management of coagulation
+status and hemostasis risk in percutaneous image-guided interventions. J Vasc Interv
+Radiol. 2012 Jun;23(6):727-36. doi: 10.1016/j.jvir.2012.02.012.
+Blumberg N, Heal JM, Phillips GL. Platelet transfusions: trigger, dose, benefits, and
+181.
+risks. F1000 Med Rep. 2010 Jan 27;2:5. doi: 10.3410/M2-5.
+Kander T, Tanaka KA, Norström E, et al. The effect and duration of prophylactic
+182.
+platelet transfusions before insertion of a central venous catheter in patients with
+bone marrow failure evaluated with point-of-care methods and flow cytometry. Anesth
+Analg. 2014 Oct;119(4):882-90. doi: 10.1213/ANE.0000000000000259.
+Scheer B, Perel A, Pfeiffer UJ. Clinical review: complications and risk factors of
+183.
+peripheral arterial catheters used for haemodynamic monitoring in anaesthesia and
+intensive care medicine. Crit Care. 2002 Jun;6(3):199-204.
+Metheny NA, Meert KL, Clouse RE. Complications related to feeding tube placement.
+184.
+Curr Opin Gastroenterol. 2007 Mar;23(2):178-82.
+Soni A, Chugh K, Sachdev A, Gupta D. Management of dengue fever in ICU. Indian J
+185.
+Pediatr. 2001 Nov;68(11):1051-5.
+Ministry of Health Malaysia. Management of Dengue Infection in Adults (Revised 2nd
+186.
+Edition). Kuala Lumpur: MoH; 2010.
+Machado CR, Machado ES, Denis Rohloff R, et al. Is Pregnancy Associated with
+187.
+Severe Dengue? A Review of Data from the Rio de Janeiro Surveillance Information
+System. PLoS Negl Trop Dis. 2013;7(5):5–8.
+Adam I, Jumaa AM, Elbashir HM, et al. Maternal and perinatal outcomes of dengue in
+188.
+PortSudan, Eastern Sudan. Virol J. 2010;7:153.
+Pouliot SH, Xiong X, Harville E, et al. Maternal dengue and pregnancy outcomes: a
+189.
+systematic review. Obstet Gynecol Surv. 2010;65(2):107–18.
+Chitra TV, Panicker S. Maternal and fetal outcome of dengue fever in pregnancy. J
+190.
+Vector Borne Dis. 2011;48(4):210–3.
+Kariyawasam S, Senanayake H. Dengue infections during pregnancy: Case series
+191.
+from a tertiary care hospital in Sri Lanka. J Infect Dev Ctries. 2010;4(11):767–75.
+Mohamed Ismail NA, Wan Abd Rahim WER, Salleh SA, et al. Seropositivity of
+192.
+Dengue Antibodies during Pregnancy. Sci World J. Hindawi Publishing Corporation;
+2014;2014:1–4.
+Phongsamart W, Yoksan S, Vanaprapa N, et al. Dengue virus infection in late
+193.
+pregnancy and transmission to the infants. Pediatr Infect Dis J. 2008;27(6):500–4.
+Friedman EE, Dallah F, Harville EW, et al. Symptomatic Dengue Infection during
+194.
+Pregnancy and Infant Outcomes: A Retrospective Cohort Study. PLoS Negl Trop Dis.
+2014;8(10):e3226.
+Singla N, Arora S, Goel P, et al. Dengue in pregnancy: an under–reported illness,
+195.
+with special reference to other existing co–infections. Asian Pac J Trop Med. Hainan
+Medical College; 2015;8(3):206–8.
+Barthel A, Gourinat AC, Cazorla C, et al. Breast milk as a possible route of vertical
+196.
+transmission of dengue virus? Clin Infect Dis. 2013 Aug;57(3):415-7. doi: 10.1093/
+cid/cit227.
+Brown JL, Wilkinson R, Davidson RN, et al. Rapid diagnosis and determination of
+197.
+duration of viraemia in dengue fever using a reverse transcriptase polymerase chain
+reaction. Trans R Soc Trop Med Hyg. 1996 Mar-Apr;90(2):140-3.
+Murgue B, Roche C, Chungue E, et al. Prospective study of the duration and
+198.
+magnitude of viraemia in children hospitalised during the 1996-1997 dengue-2
+outbreak in French Polynesia. J Med Virol. 2000 Apr;60(4):432-8.
+Ko YC, Chen MJ, Yeh SM. The predisposing and protective factors against dengue
+199.
+virus transmission by mosquito vector. Am J Epidemiol. 1992 Jul 15;136(2):214-20.
+Igarashi A. Impact of dengue virus infection and its control. FEMS Immunol Med
+200.
+Microbiol. 1997 Aug;18(4):291-300.
+Chou JT, Rossignol PA, Ayres JW. Evaluation of commercial insect repellents
+201.
+on human skin against Aedes aegypti (Diptera: Culicidae). Journal of Medical
+Entomology. 1997. 34(6): 624-30.
+Villar L, Dayan GH, Arredondo-García JL, et al; CYD15 Study Group. Efficacy of a
+202.
+tetravalent dengue vaccine in children in Latin America. N Engl J Med. 2015 Jan
+8;372(2):113-23. doi: 10.1056/NEJMoa1411037.
+Capeding MR, Tran NH, Hadinegoro SR, et al; CYD14 Study Group. Clinical efficacy
+203.
+and safety of a novel tetravalent dengue vaccine in healthy children in Asia: a
+phase 3, randomised, observer-masked, placebo-controlled trial. Lancet. 2014 Oct
+11;384(9951):1358-65. doi: 10.1016/S0140-6736(14)61060-6.
+Hadinegoro SR, Arredondo-García JL, Capeding MR, et al; CYD-TDV Dengue
+204.
+Vaccine Working Group. Efficacy and Long-Term Safety of a Dengue Vaccine in
+Regions of Endemic Disease. N Engl J Med. 2015 Jul 27.
+APPENDIX 1
+The following MeSH terms or free text terms were used either singly
+or in combination. Search was limited to English, human and last five
+years. These are some of the examples of search strategy used for the
+clinical questions. The details are available upon request from the CPG
+Secretariat.
+SEARCH STRATEGY
+Emergency management
+1 dengue/
+2 severe dengue/
+3 dengue*.tw.
+4 (dengue adj1 fever).tw.
+5 ((breakbone or break-bone or
+break bone) adj1 fever).tw.
+6 (classical adj1 dengue*).tw.
+7 classical dengue fever*.tw.
+8 (severe adj1 dengue*).tw.
+9 hemorrhagic dengue*.tw.
+10 (dengue adj1 hemorrhagic
+fever).tw.
+11 dengue shock syndrome.tw.
+12 1 or 2 or 3 or 4 or 5 or 6 or 7
+or 8 or 9 or 10 or 11
+13 EMERGENCY SERVICE,
+HOSPITAL/
+14 ((Emergency or unit*
+emergency) adj1 (room* or ward*
+or unit* or outpatient unit* or
+department*)).tw.
+15 “accident and emergency
+department”.tw.
+16 ((hospital emergenc*
+or emergenc* hospital) adj1
+service*).tw.
+17 (hospital adj1 (emergenc*
+service* or services emergenc*)).tw.
+18 13 or 14 or 15 or 16 or 17
+19 Clinical laboratory
+techniques/
+20 ((Clinical laboratory or
+laboratory) adj1 (technique* or
+diagnos* or technique* clinical)).tw.
+21 ((Laboratory or diagnos*)
+adj test*).tw.
+22 “diagnos* and laboratory
+examinations”.tw.
+23 19 or 20 or 21 or 22
+24 12 and 18 and 23
+Diagnostic test (1)
+15 IMMUNOGLOBULIN M/
+16 Immunoglobulin M.tw.
+17 IMMUNOGLOBULIN G/
+18 7s gamma globulin.tw.
+19 gamma globulin 7s.tw.
+20 igg2b.tw.
+21 igg2a.tw.
+22 immunoglobulin g.tw.
+23 polyglobin.tw.
+24 igg1.tw.
+25 igg2.tw.
+26 igg3.tw.
+27 igg4.tw.
+28 igg.tw.
+29 igg t.tw.
+30 Primary infection.tw.
+31 Secondary infection/
+32 Secondary infection.tw.
+33 COINFECTION/
+34 (infection* adj1 mixed).tw.
+35 (infection* adj1 secondary).tw.
+36 co*infection*.tw.
+37 (infection* adj1
+polymicrobial).tw.
+Fluid management
+1 dengue/
+2 severe dengue/
+3 dengue*.tw.
+4 (dengue adj1 fever).tw.
+5 ((breakbone or break-bone or
+break bone) adj1 fever).tw.
+6 (classical adj1 dengue*).tw.
+7 classical dengue fever*.tw.
+8 (severe adj1 dengue*).tw.
+9 hemorrhagic dengue*.tw.
+10 (dengue adj1 hemorrhagic
+fever).tw.
+11 dengue shock syndrome.tw.
+12 1 or 2 or 3 or 4 or 5 or 6 or 7
+or 8 or 9 or 10 or 11
+13 Rehydration*.tw.
+14 Fluid adj1 (therap* or
+management or replacement or
+resuscitation or administration).tw.
+15 Starch-based intravenous
+fluid.tw.
+16 (Starch* or derivatives
+or starch derivatives) adj1
+(hydroxyethyl* or hydroxyethyl
+starch).tw.
+17 Colloid*.tw.
+18 Hydrocolloid*.tw.
+19 Gelatine.tw.
+20 Gelafusal.tw.
+21 gel?fusine.tw.
+22 Dextrans/
+23 Dextran*.tw.
+24 Isotonic Solutions/
+25 Isotonic adj1 solutions.tw.
+26 Saline Solution, Hypertonic/
+27 solution* adj1 (hypertonic
+saline or saline hypertonic).tw.
+28 sodium chloride solution*
+hypertonic.tw.
+29 Ringer’s lactate.tw.
+30 Albumins/
+31 Albumins.tw.
+32 Prealbumin.tw.
+Diagnostic test (2)
+1 Rapid combo test.tw.
+2 Duo test.tw.
+3 ANTIBODIES, VIRAL/
+4 (viral adj1 antibodies).tw.
+5 REAGENT KITS,
+DIAGNOSTIC/
+6 in vitro diagnostic medical
+device*.tw.
+7 (diagnostic adj1 test kit*).tw
+8 (reagent adj1 kit* diagnostic).tw.
+9 diagnostic reagent kit*.tw.
+10 in vitro diagnostic device*.tw.
+11 non-structural protein 1/
+12 Non-structural protein 1.tw.
+13 VIRAL NONSTRUCTURAL
+PROTEINS/
+14 ((nonstructural or nonstructural) adj1 protein* viral).tw.
+15 (protein* adj1 viral ns).tw.
+Complications
+1 dengue/
+2 severe dengue/
+3 dengue*.tw.
+4 (dengue adj1 fever).tw.
+5 ((breakbone or break-bone or
+break bone) adj1 fever).tw.
+6 (classical adj1 dengue*).tw.
+7 classical dengue fever*.tw.
+8 (severe adj1 dengue*).tw.
+9 hemorrhagic dengue*.tw.
+10 (dengue adj1 hemorrhagic
+fever).tw.
+11 dengue shock syndrome.tw.
+12 1 or 2 or 3 or 4 or 5 or 6 or 7
+or 8 or 9 or 10 or 11
+13 Cardiac complication*.tw.
+14 Heart complication*.tw.
+15 h?emophagocytic syndrome
+adj (infection associated or
+infection-associated).tw.
+16 infection-associated
+h?emophagocytic syndrome.tw.
+17 h?emophagocytic syndrome*.tw.
+18 h?emophagocytic adj1
+lymphohistiocytos?s.tw.
+19 reactive adj1
+(h?emophagocytic syndrome).tw.
+20 lymphohistiocytos?s
+hemophagocytic.tw.
+21 rhabdomyolys?s.tw.
+22 Hepatitis/
+23 Hepatitis.tw.
+24 Hepatitides.tw.
+25 Encephalopathy.tw.
+26 Encephalitis/
+27 encephalitis.tw.
+28 (brain adj1 inflammation*).tw.
+29 (infectious adj1 encephaliti*).tw.
+30 Meningitis/
+31 Meningitis.tw.
+32 Meningitides.tw.
+33 Renal impairment.tw.
+34 Renal Insufficiency/
+35 (insufficienc* adj1 (renal or
+kidney)).tw.
+36 (failure* adj1 (kidney or
+renal)).tw.
+37 Acute Kidney Injury/
+38 (acute adj1 (kidney failure*
+or renal failure* or renal injur* or
+kidney injur*)).tw.
+39 (acute adj1 (kidney
+insufficienc* or renal
+insufficienc*)).tw.
+APPENDIX 2
+CLINICAL QUESTIONS
+What is the current epidemiological data and notification system for
+1.
+dengue?
+What are the serotyping patterns of dengue infection in Malaysia?
+2.
+What are the clinical criteria or classification used to diagnose dengue
+3.
+infection?
+What are the effective tools/investigations in diagnosis of dengue?
+4.
+What are the effective investigations in diagnosing dengue?
+5.
+What are the effective/safe management of patients with dengue
+6.
+infection at primary care or outpatient department?
+What are the effective/safe risk stratification and management of
+7.
+patient that can be treated at home?
+What are the effective/safe management of patients with dengue
+8.
+infection in emergency department/during triaging?
+What are the effective/safe management of patients with dengue
+9.
+infection before transferring from ED to the ward?
+What are the effective/safe management of patients with dengue
+10.
+infection who requires hospitalisation?
+What are the effective/safe tools and management for inpatient
+11.
+disease monitoring?
+What are the effective/safe fluid management in patients with dengue
+12.
+infection?
+What are the complications of dengue infection and the effective/safe
+13.
+management of these complications?
+What are the criteria for intensive care referral of dengue infection?
+14.
+What are the effective/safe intensive care management for dengue
+15.
+infection?
+What are the effective/safe management of dengue infection in
+16.
+pregnancy?
+What are the discharge criteria for patients with dengue infection?
+17.
+What are the effective/safe preventive measures for dengue
+18.
+transmission in hospital?
+APPENDIX 3
+WORLD HEALTH ORGANIZATION CLASSIFICATION OF DF AND DHF (1997)
+CASE DEFINITION FOR DENGUE FEVER
+Given the variability in the clinical illness associated with dengue infection,
+it is not appropriate to adopt a detailed clinical definition of dengue fever.
+Rather, the need for laboratory confirmation is emphasised.
+The following classifications are proposed:
+Probable – an acute febrile illness with two or more of the following
+•
+manifestations:
+headache
+--
+retro-orbital pain
+--
+myalgia
+--
+arthralgia
+--
+rash
+--
+haemorrhagic manifestations
+--
+leucopenia
+--
+AND
+Supportive serology(a reciprocal haemagglutination-inhibition antibody
+--
+titre ≥ 1280, a comparable IgG enzyme-linked immunosorbent
+assay (ELISA) titre or a positive IgM antibody test on a late acute or
+convalescent-phase serum specimen)
+OR
+Occurrence at the same location and time as other confirmed cases of
+--
+dengue fever
+Confirmed – a case confirmed by laboratory criteria (see below)
+•
+Reportable – any probable or confirmed case should be reported
+•
+Laboratory criteria for confirmation of dengue fever are
+Isolation of the dengue virus from serum or autopsy samples: or
+•
+Demonstration of a fourfold or greater change in reciprocal IgG or
+•
+IgM antibody titres to one or more dengue virus antigens in paired
+serum samples; or
+Demonstration of dengue virus antigen in autopsy tissue, serum
+•
+or cerebrospinal fluid samples by immune histochemistry, immune
+fluorescence or ELISA;
+OR
+Detection of dengue virus genomic sequences in autopsy tissue
+•
+serum or cerebrospinal fluid samples by polymerase chain
+reaction (PCR).
+APPENDIX 3
+CASE DEFINITION FOR DENGUE HAEMORRHAGIC FEVER
+The following must ALL be present :
+Fever, or history of acute fever, lasting 2–7 days, occasionally
+•
+biphasic.
+Haemorrhagic tendencies, evidenced by at least one of the following:
+•
+a positive tourniquet test
+--
+petechiae, ecchymoses or purpura
+--
+bleeding from the mucosa, gastrointestinal tract, injection sites or
+--
+other locations
+haematemesis or melaena
+--
+Thrombocytopenia (100,000 cells per mm3 or less).
+•
+Evidence of plasma leakage due to increased vascular permeability,
+•
+manifested by at least one of the following:
+a rise in the HCT equal to or greater than 20% above average for
+--
+age, sex and population;
+a drop in the HCT following volume-replacement treatment equal
+--
+to or greater than 20% or baseline;
+signs of plasma leakage such as pleural effusion, ascites and
+--
+hypoproteinaemia
+CASE DEFINITION FOR DENGUE SHOCK SYNDROME
+All of the above four criteria for DHF must be present, plus evidence of
+circulatory failure manifested by:
+Rapid and weak pulse, and
+•
+Narrow pulse pressure [<20mmHg (2.7 kPa)]
+•
+OR manifested by:
+Hypotension for age, and
+•
+Cold, clammy skin and restlessness
+•
+Grade l : Fever accompanied by non-specific constitutional
+symptoms; the only haemorrhagic manifestation is a positive
+tourniquet test and / or easy bruising.
+Grade ll : Spontaneous bleeding, in addition to the manifestations of
+Grade l patients, usually in the form of skin or other
+haemorrhages.
+*Grade lll : Circulatory Failure manifested by a rapid, weak pulse and
+narrowing of pulse pressure or hypotension with the presence
+of cold, clammy skin and restlessness.
+*Grade lV : Profound shock with undetectable blood pressure or pulse.
+Note : * i. Grades III and IV are classified as Dengue Shock Syndrome
+ii. The WHO Classification has been reviewed and revised.
+APPENDIX 4
+METHODS OF SAMPLE COLLECTION
+1. Rapid Combo Test (bed side test)
+Draw 1 ml of blood into a plain tube without anti-coagulants
+i.
+Set-up the rapid combo test device on suitable surface area
+ii.
+Proceed to perform the test according to the procedure, using whole blood
+iii.
+Read the results within the stipulated time and discard the device and
+iv.
+other clinical waste in biohazard bag
+2. Dengue Serology (ELISA)
+Draw 3-5 ml of blood into a plain tube without anti-coagulants
+i.
+Clot at ambient temperature
+ii.
+Dispatch to the laboratory within 4 hours of collection for serum separation
+iii.
+by centrifugation
+Note : Haemolysed or icteric or lipaemic specimens invalidate certain test. If
+such specimens are received, the samples will be rejected to assure results are
+of clinical value.
+3. Viral Genome Detection (PCR)
+a) Blood
+Collect 3-5 ml of blood into plain tube
+i.
+Send directly to virology laboratory within 2 hours of sampling. If this is
+ii.
+delayed, centrifuge and aliquot serum into sterile tube. Keep the sample in
+a freezer at -70ºC and put in ice when sending to Virology laboratory the
+next day
+b) Cerebrospinal fluid (CSF)
+Collect a minimum of 0.5 ml (5 drops) of CSF into sterile bijou bottle
+i.
+Pack in ice for transport
+ii.
+Send directly to Virology laboratory within 2 hours after being taken
+iii.
+Send together with serum sample
+iv.
+c) Post-mortem tissue sample
+Tissue specimens should be placed in a sterile container containing either
+viral transport media (VTM) or normal saline (NS) and sent immediately to the
+laboratory which can perform dengue real time RT-PCR.
+4. Viral Isolation
+a) Blood
+Draw 3-5 ml of blood into a plain tube without anti-coagulants
+i.
+b) CSF
+Collect at least 1 ml of CSF specimen in a sterile plain screw-capped
+i.
+container (universal or bijou bottle).Do not add in VTM or freeze
+Pack the specimen individually in biohazard plastic bag and keep in 4ºCor
+ii.
+in cold box with ice
+Send to the laboratory within 24 hours after collection
+iii.
+c) Tissue or post mortem tissue
+Put the tissue in sterile container containing VTM or normal saline and
+i.
+screw-capped tight.
+Packed the specimen individually in biohazard plastic bag and keep in 4ºC
+ii.
+or in cold box with ice.
+Send to the laboratory within 24 hours after collection
+iii.
+Inform the laboratory processing the samples that the case was fatal
+•
+Obtain a blood sample to attempt virus isolation and serology
+•
+Obtain tissue samples for separate tests of virus isolation and
+•
+immunohistochemistry
+TYPE OF TESTS FOR DENGUE DIAGNOSIS
+Type of test
+Technique
+When To Test
+Sensitivity (%)
+Specificity (%)
+1. Antibody
+Detection
+IgM Detection
+IgG Detection
+Rapid IgM
+Detection
+(Strips)
+4 days after onset of
+symptoms and up to 3
+months in primary dengue.
+3 days after onset of
+symptoms and sometimes
+hindered by large scale
+IgG
+production
+in
+secondary dengue
+10 days after onset of
+symptom
+in
+primary
+dengue and 3 days after
+onset of symptoms in
+secondary dengue
+5 days after onset of
+symptoms and up to 2
+months
+61.5-100
+46.3-99.0
+20.5-97.7
+52.0-100
+80.0-100
+76.6-90.6
+2.Antigen/
+Antibody
+Combined
+Detection
+NS1 and IgM
+Combo Kit
+As this is a combo test,
+useful in early stage of
+infection (day 3 onwards)
+and up to sero conversion
+period (up to 2 weeks)
+89.9-92.9
+75.0 – 100
+NS1 and IgM/
+IgG Combo kit
+As this is a combo test,
+useful in early stage of
+infection (day 3 onwards)
+and up to sero conversion
+period (up to 2 weeks
+onwards). In the event
+of both NS1 and IgM are
+non reactive and IgG is
+reactive, case can be
+interpreted as secondary
+dengue.
+93.0
+100
+3. Viral
+Detection
+Virus Isolation
+(cell culture)
+Virus Isolation
+(mosquitoes)
+Viral RNA
+RT-PCR
+(Conventional)
+Viral RNA
+RT-PCR (Real
+Time)
+Viral Antigen
+(NS1)
+1-5 days of onset of
+symptoms
+in
+Primary
+Dengue and 1-4 days
+after onset of symptoms in
+secondary dengue
+- same as above-
+- same as above-
+- same as above1-7 days of onset of
+symptoms
+in
+Primary
+Dengue and 1-5 days
+after onset of symptoms in
+secondary dengue
+40.5
+71.5-84.2
+48.4-100
+58.9-100
+54.2-93.4
+100
+100
+100
+100
+92.5-100
+APPENDIX 5
+APPENDIX 6
+TYPE OF DENGUE TESTS RECOMMENDED BASED ON CLINICAL HISTORY
+Clinical
+History
+Test
+Result
+Interpretation
+History of
+fever less
+than 5
+days
+Dengue NS1 Ag
+or RCT
+Positive
+Negative
+Acute dengue infection.
+Dengue infection still cannot rule out.
+Suggest to send second sample for
+Dengue IgM after day 5 of fever
+History of
+fever more
+than 5
+days
+Dengue IgM
+Positive
+Indeterminate
+Negative
+Presence of detectable IgM antibody.
+Suggestive of recent dengue infection
+Advice to repeat the test.
+The result does not rule out dengue
+infection. Advice to send repeat sample
+for dengue IgM after day 7 of fever or ask
+for Dengue IgG test.
+History of
+fever more
+than 5
+days and
+Dengue
+IgM and /or
+NS1 was
+negative
+Dengue IgG
+Positive
+Indeterminate
+Negative
+Elevated IgG levels are seen in acute or
+past infections.
+A titre of equal or more than 1:2560 is
+consistent with acute secondary infection.
+Advice to repeat the test if clinically
+indicated.
+No detectable elevated IgG antibody. The
+absence of elevated IgG is presumptive
+evidence that the patient does not have
+secondary dengue infection.
+APPENDIX 7
+OUTPATIENT DENGUE MONITORING RECORD
+APPENDIX 8
+DENGUE ASSESSMENT CHECKLIST
+APPENDIX 9
+HOME CARE ADVICE LEAFLET FOR DENGUE PATIENTS
+WHAT SHOULD BE DONE?
+Adequate bed rest
+•
+Adequate fluid intake (more than 8 glasses or 2 litres for an average
+•
+person).
+Milk, fruit juice (caution with diabetes patient) and isotonic
+--
+electrolyte solution (ORS) and barley water.
+Plain water alone is not sufficient and may cause electrolyte
+--
+imbalance.
+Take paracetamol (not more than 4 gram per day).
+•
+Tepid sponging.
+•
+If possible, use mosquito repellent or rest under a mosquito net even
+•
+during day time to prevent mosquito bites.
+Look for mosquito breeding places in and around the home and
+•
+eliminate them.
+WHAT SHOULD BE AVOIDED?
+Do not take non steroidal anti-inflammatory (NSAIDS) eg. aspirin /
+•
+mefenamic acid (ponstan) or steroids. If you are already taking these
+medications, please consult your doctor.
+Antibiotics are not required
+•
+Do not take injection
+•
+Do not do massage / cupping / quasa
+•
+HOME CARE ADVICE FOR DENGUE PATIENTS
+Front View
+Back View
+THE DANGER SIGNS OF DENGUE INFECTION
+(IF ANY OF THESE ARE OBSERVED, PLEASE GO IMMEDIATELY TO
+THE NEAREST HOSPITAL / EMERGENCY DEPARTMENT)
+Bleeding
+1.
+for example :
+Red spots or patches on the skin
+•
+Bleeding from nose or gums
+•
+Vomiting blood
+•
+Black coloured stools
+•
+Heavy menstruation / vaginal bleeding
+•
+Frequent vomiting and/or diarrhoea
+2.
+Abdominal pain / tenderness / diarrhoea
+3.
+Drowsiness or irritability
+4.
+Pale, cold or clammy skin
+5.
+Difficulty in breathing
+6.
+Adapted : CPG Management of Dengue Infection in Adults (Revised 2nd
+Edition), 2010
+APPENDIX 10
+INPATIENT DENGUE MONITORING CHART
+ABG
+Arterial blood gases
+ALT
+Alanine transaminase
+AST
+Aspartate aminotransferase
+BP
+Blood pressure
+BUSEC
+Blood urea serum electrolyte creatinine
+CCTVR
+Skin colour, cold/warm extremities, capillary filling time <2 secs, pulse volume and rate
+CK
+Creatine kinase
+CNS
+Central nervous system
+CRT
+Capillary refill time
+CSF
+Cerebrospinal fluid
+CVC
+Central venous catheter
+CVP
+Central venous pressure
+DBP
+Diastolic blood pressure
+DENV
+Dengue virus
+DF
+Dengue fever
+DHF
+Dengue haemorrhagic fever
+DIC
+Disseminated intravascular coagulation
+DSS
+Dengue shock syndrome
+ECG
+Electrocardiogram
+ELISA
+Enzyme-linked immunosorbent assay
+FBC
+Full blood count
+FFP
+Fresh frozen plasma
+GCS
+Glasgow Coma Scale
+GSH
+Group, screen and hold
+GXM
+Group cross match
+HCT
+Hematocrit
+HCO3
+Bicarbonate
+HI
+Haemagglutination inhibition
+HPS
+Haemophagocytic syndrome
+ICU
+Intensive care unit
+IgG
+Immunoglobulin G
+IgM
+Immunoglobulin M
+IMR
+Institute of Medical Research
+IV
+Intravenous
+IVC
+Inferior vena cava
+IVIg
+Intravenous immunoglobulin
+LDH
+Lactate dehydrogenase
+LFT
+Liver function test
+NAC
+N-Acetylcysteine
+NS1
+Non-structural protein 1
+PCR
+Polymerase chain reaction
+PP
+Pulse pressure
+PR
+Pulse rate
+RBS
+Random blood sugar
+RCT
+Rapid combo test
+RP
+Renal profile
+RR
+Respiratory rate
+RT-PCR
+Reverse transcriptase Polymerase chain reaction
+SBP
+Systolic blood pressure
+USG
+Ultrasonography
+WCC
+White cell count
+WHO
+Word Health Organization
+WS
+Warning signs
+LIST OF ABBREVIATIONS
+The DG members of these guidelines would like to express their gratitude and
+appreciation to the following for their contributions:-
+Panel of external reviewers who reviewed the draft
+•
+Technical Advisory Committee for CPG for their valuable input and
+•
+feedback
+Information specialists for searching and retrieving the evidence:-
+•
+Dr. Nur Farhana Mohamad
+--
+Dr. Shahril Effendi Shuib
+--
+Dr. Syaharatul Patimah Kamarudin
+--
+Mr. Lee Sit Wai
+--
+Matron Loong Ah Moi
+--
+Dr. Mohd. Aminuddin Mohd. Yusof, Head of CPG Unit, MaHTAS for
+•
+providing guidance and support
+All those who have contributed directly or indirectly to the development
+•
+of the CPG
+DISCLOSURE STATEMENT
+The panel members of both DG and RC had completed disclosure forms. None
+held shares in pharmaceutical firms or acts as consultants to such firms. (Details
+are available upon request from the CPG Secretariat)
+SOURCE OF FUNDING
+The development of the CPG on Management of Dengue Infection in Adults
+(Third Edition) was supported financially in its entirety by the Ministry of Health
+Malaysia.
+ACKNOWLEDGEMENT

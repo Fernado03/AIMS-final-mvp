@@ -1,0 +1,1566 @@
+CLINICAL PRACTICE GUIDELINES
+MANAGEMENT OF
+POST-OPERATIVE
+INFECTIOUS
+ENDOPHTHALMITIS
+August 2006
+MOH/P/PAK/116.06 (GU)
+MINISTRY OF HEALTH MALAYSIA
+B
+E
+RS
+AT
+U•
+BE
+R
+U
+SA
+HA
+•B
+ER
+BA
+KT
+I•
+ACADEMY OF MEDICINE
+Statement of Intent
+This clinical practice guideline is meant to be a guide for clinical
+practice, based on the best available evidence at the time of
+development. Adherence to these guidelines may not necessarily
+ensure the best outcome in every case. Every health care provider
+is responsible for the management of his/her unique patient based
+on the clinical picture presented by the patient and the management
+options available locally.
+Review of the Guidelines
+This guideline was issued in August 2006 and will be reviewed in
+August 2009 or sooner if new evidence becomes available.
+CPG Secretariat
+c/o Health Technology Assessment Unit
+Medical Development Division
+Ministry of Health Malaysia
+Level 4, Block E1, Parcel E,
+Government Office Complex,
+62590, Putrajaya.
+Available on the following website :
+http//www.moh.gov.my
+http://www.acadmed.org.my
+GUIDELINE DEVELOPMENT AND OBJECTIVE
+Guideline Development
+Post-operative endophthalmitis, though infrequent, remains a serious and
+blinding complication following intraocular surgery. However, variations in
+the management of post-operative infectious endophthalmitis still exist
+amongst ophthalmologists in Malaysia. This national guideline has been
+compiled by a committee comprising of ophthalmologists, a pharmacist
+and a nursing officer from the public and private sector. It aims to present
+evidence-based recommendations as a guide for the prophylaxis and
+management of post-operative infectious endophthalmitis.
+Relevant key words ‘post-operative endophthalmitis’, ‘endophthalmitis’,
+‘endophthalmitis AND causative organism’, ‘endophthalmitis AND
+prophylaxis’, ‘endophthalmitis AND infection control’, ‘endophthalmitis AND
+clinical features’, ‘endophthalmitis AND management’ were used to generate
+literature from the following databases (PubMed), Cochrane Database of
+Systematic Reviews (CDSR), Database of Abstracts of Reviews and
+Cochrane Controlled Trial Register via OVID search engine. Searches
+were also manually done in non-indexed journals and “grey literature”.
+Existing guideline, mainly the ESCRS Guidelines on prevention,
+investigation and management of post-operative endophthalmitis was
+included as reference. The experience and knowledge of the CPG
+development group was also considered when formulating the guideline.
+Assessment of the evidence was conducted independently by individual
+members and discussed as a group before decisions were made. In each
+area considered, the best evidence available was given more weightage.
+Less well designed studies were either merely mentioned or excluded unless
+they added a different perspective. Related articles were selected and out
+of these, relevant articles were chosen and graded using the modified
+version of the Catalonian Agency for Health Technology Assessment and
+Research (CAHTAR) model. The grading of recommendations was modified
+from the Scottish Intercollegiate Guideline Network (SIGN).
+Objective
+To provide guidelines to ophthalmic surgeons in the prophylaxis and
+treatment of post-operative infectious endophthalmitis based on best
+available evidence.
+Clinical Questions
+The clinical questions of these guidelines are:
+i)
+What are the risk factors of post-operative infectious
+endophthalmitis?
+ii)
+What are the prophylactic measures for the condition?
+iii)
+What are the clinical features and investigations required for
+patients with post-operative infectious endophthalmitis?
+iv)
+What is the management of post-operative infectious
+endophthalmitis?
+Target Population
+Patients undergoing intraocular surgery and patients who develop postoperative infectious endophthalmitis.
+Target Group
+This guideline is applicable to doctors and eye care providers who perform
+ocular surgery and are involved in the management of patients with postoperative infectious endophthalmitis.
+Clinical Indicators for Quality Management
+Treatment setting
+: Secondary care/ tertiary care
+Name of indicator
+: Rate of post-operative infectious endophthalmitis
+Numerator
+: Number of cases with post-operative infectious
+endophthalmitis in a year
+Denominator
+: Total number of intraocular surgery performed in the
+corresponding year, excluding surgery for penetrating
+eye injury
+Rate of post-operative infectious endophthalmitis
+= (Numerator/ Denominator) x 100%
+GUIDELINE DEVELOPMENT GROUP
+CHAIRPERSON
+Dr. Mariam Ismail
+Consultant Ophthalmologist
+Selayang Hospital
+Selangor
+MEMBERS
+Dr. Bethel Indira Livingstone
+Consultant Ophthalmologist
+Seremban Hospital
+Negeri Sembilan
+Dr. Elias Hussein
+Consultant Ophthalmologist
+Selayang Hospital
+Selangor
+Dr. Goh Pik Pin
+Consultant Ophthalmologist
+Selayang Hospital
+Selangor
+Dr. Lim Kian Seng
+Consultant Ophthalmologist
+Selayang Hospital
+Selangor
+Dr. Loh Swee Seng
+Consultant Ophthalmologist
+Sultanah Aminah Hospital
+Johor Baru
+iii
+Prof. Dr. Hajjah Muhaya Muhammad
+Consultant Ophthalmologist
+UKM Hospital
+Cheras
+Dr Nor Fariza Ngah
+Consultant Ophthalmologist
+Selayang Hospital
+Selangor
+Mr. T. Subramaniam
+Pharmacist
+Putrajaya Hospital
+Ms Zurina Mohamad Saleh
+Infection Control Unit
+UKM Hospital
+Cheras
+COORDINATORS
+Dr S Sivalal
+Deputy Director
+Health Technology
+Assessment Unit
+Medical Development Division
+Ministry of Health Malaysia
+Mr. Ganesan a/l Thankaveloo
+Senior Medical Assistant
+Health Technology
+Assessment Unit
+Medical Development Division
+Ministry of Health Malaysia
+Dr Sheamini Sivasampu
+Principal Assistant Director
+Health Technology
+Assessment Unit
+Medical Development Division
+Ministry of Health Malaysia
+Ms Jeya Devi Cooramasamy
+Senior Nursing Officer
+Health Technology
+Assessment Unit
+Medical Development Division
+Ministry of Health Malaysia
+SPECIALIST REVIEWERS
+The draft guideline was reviewed by a panel of independent expert
+referees, who were asked to comment primarily on the
+comprehensiveness and accuracy of interpretation of the evidence
+supporting the recommendations in the guideline.
+Dr Lai Yoon Kee
+Consultant Ophthalmologist
+Gleneagles Medical Centre Penang
+1 Jalan Pangkor
+10500 Penang
+Professor Susan Lightman
+Consultant Ophthalmologist
+Moorfields Eye Hospital
+City Road
+EV12 2PD
+London
+United Kingdom
+The draft guideline was also available on the websites of Ministry of
+Health Malaysia and Academy of Medicine to allow interested parties to
+submit opinions and comments of the guideline.
+TABLE OF CONTENTS
+Guideline Development And Objective
+i
+Clinical Practice Guidelines Development Group
+iii
+Specialist Reviewers
+v
+1.
+INTRODUCTION
+1.1
+Definition
+1
+1.2
+Magnitude of Problem
+1
+1.3
+Causative Organism
+2
+1.4
+Risk Factors
+3
+2.
+PROPHYLACTIC MEASURES
+5
+2.1
+Antiseptic Measures
+5
+a. Preoperative povidone iodine on skin and conjunctival sac
+5
+b. Draping of periorbital area
+6
+c. Trimming of eyelash
+6
+d. Preoperative irrigation of lacrimal passages
+6
+e. Preoperative saline irrigation of conjunctival sac
+6
+2.2
+Antibiotics Prophylaxis
+6
+a. Intracameral antibiotic
+b. Preoperative topical antibiotic
+7
+c. Preoperative systemic antibiotic
+7
+d. Post-operative subconjunctival antibiotic injection
+7
+2.3
+Heparinized Intraocular Infusion Solution and
+7
+Heparin Coated Intraocular Lens (IOL)
+2.4
+Operating Theatre
+7
+a. Air flow design
+7
+b. Equipment sterilization
+7
+3.
+DIAGNOSIS AND INVESTIGATIONS
+8
+3.1
+Clinical Features
+8
+a. Acute post-operative infectious endophthalmitis
+8
+b. Chronic post-operative infectious endophthalmitis
+9
+3.2
+Investigations
+9
+4.
+MANAGEMENT
+10
+4.1
+Treatment of Acute Post-operative Endophthalmitis
+10
+a. Antimicrobial therapy
+10
+b. Anti-inflammatory therapy
+12
+c. Tissue plasminogen activator
+12
+d. Vitrectomy
+13
+4.2
+Treatment of Chronic Post-operative Endophthalmitis
+14
+a. Antimicrobial therapy
+14
+b. Vitrectomy
+14
+5.
+CLINICAL AUDIT PARAMETERS
+15
+6.
+ALGORITHM
+Algorithm for the Management of Acute Post-operative
+16
+Infectious Endophthalmitis
+Algorithm for the Management of Chronic Post-operative
+17
+Infectious Endophthalmitis
+7.
+APPENDIX
+Appendix 1 : Prophylatic Measures
+18
+Appendix 2 : Procedure for Anterior Chamber Tap,
+Vitreous Tap and Intravitreal Antibiotic Injection
+19
+Appendix 3 : Preparation of intravitreal drugs
+20
+Appendix 4 : Preparation of intracameral cefuroxime
+21
+8.
+REFERENCES
+22
+ACKNOWLEDGEMENT
+30
+DISCLOSURE STATEMENT
+30
+SOURCES OF FUNDING
+1.
+INTRODUCTION
+Post-operative infectious endophthalmitis is an infrequent but
+devastating complication of ophthalmic surgery. Its occurrence can
+lead to poor visual prognosis, and increase in health care cost. The
+rate of post-operative infectious endophthalmitis therefore is frequently
+used as an indicator for quality assurance of ophthalmology services.
+It is currently used as one of the national indicator approaches (NIA)
+in the Ministry of Health Malaysia (MOH).
+1.1 Definition
+For practical purposes, post-operative infectious endophthalmitis
+is defined as intraocular inflammation caused by an infective
+process following intraocular surgery. Intra-ocular surgery is
+defined as any ocular surgery where the full thickness of the
+cornea and / or sclera has been breached. This definition
+excludes patients with penetrating eye injury.
+Acute infectious endophthalmitis usually presents within two
+weeks of surgery, whereas chronic infectious endophthalmitis
+usually present a few weeks or months following surgery.
+1.2 Magnitude of Problem
+Over the past decades, the incidence of post-operative infectious
+endophthalmitis has shown a decline due to improvements in
+surgical techniques and instrumentation. Emphasis on sterility
+and prophylactic measures may also have a role in this decline.
+The incidence of post-operative endophthalmitis ranges from
+0.07% (1, Level 8; 2, Level 8) to 1.8% (3, Level 8). Incidence rates differ with
+the type of surgery. Cataract surgery, being the most commonly
+performed ocular surgery, is the most common type of surgery
+preceding endophthalmitis, with incidences ranging from 0.07%
+to 0.13% (4, Level 8). The incidence following specific type of surgery
+was : secondary intraocular lens (IOL) 0.30% to 0.40 %, extracapsular cataract extraction (ECCE) with or without IOL
+implantation 0.072% to 0.18%, phacoemulsification 0.015% to
+0.5%, penetrating keratoplasty 0.11 % to 0.18%, glaucoma
+filtering surgery 0.06% to 1.8%, pars plana vitrectomy 0.046% to
+0.07%, combined trabeculectomy and cataract surgery 0.11%,
+combined penetrating keratoplasty and cataract surgery 0.19%
+(4, Level 9, 5 Level 8 ).
+In Malaysia, the rates of post-operative infectious endophthalmitis
+following all intraocular surgery in MOH hospitals ranged from
+0% to 1.13%, with a mean of 0.26 % for 2 consecutive years
+(2003 and 2004) and a mean of 0.18% for the year 2005
+(Unpublished data, Annual MOH census).
+The rate following cataract surgery based on the National Cataract
+Surgery Registry of MOH hospitals was 0.19% in 2002, 0.24% in
+2003 and 0.16% in 2004 (6, Level 9 ; 7, Level 9; 8, Level 9 ).
+1.3 Causative Organism
+The microbial spectrum seen in post-operative endophthalmitis
+depends on various factors including environmental, geographic
+climatic conditions as well as types of surgery.
+Table 1 : Causative Organism- Microbial Spectrum Based on Type
+of Surgery
+Coagulase negative staphylococcus i.e.
+Staphylococcus epidermidis
+Staphylococcus aureus
+Beta haemolytic streptococcus, Streptococcus
+pneumoniae, alpha-haemolytic streptococci
+including S.mitis and S. salivarius
+Gram
+negative
+bacteria
+including
+Pseudomonas aeruginosa, Bacteroids species
+Fungi including Candida species, Aspergillus
+species, Fusarium species
+Propionibacterium acnes, Corynebacterium
+including C.macginleyi, and fungi
+Coagulase negative staphylococcus
+Streptococcus, gram negative bacteria
+especially Haemophilus influenza
+33-77%
+10-21%
+9-19%
+6-22 %
+Up to
+8%
+-
+Up to
+67%
+-
+Cataract surgery
+(acute)
+Cataract surgery
+(chronic)
+Glaucoma
+surgery (acute)
+Glaucoma
+surgery (chronic)
+Type of surgery
+Micro organism
+Percentage
+(Adapted from ESCRS Guidelines 2005 with permission)
+1.4 Risk Factors
+The source of infection following intraocular surgery include lids,
+adnexa, ocular tear film, respiratory and skin flora of the surgeons
+and assistants, surgical instruments including IOL, irrigating
+solutions and operating room air (9, Level 1). As sterile surgical
+technique addresses many of these factors, the common sources
+of pathogens are thus from ocular surface and adnexa (10, Level 2; 11,
+Level 8).
+Table 2 : General Risk Factors
+Preoperative risk factors include presence of blepharitis,
+conjunctivitis, dacryocystitis, lacrimal duct obstruction, contact
+lens wear, and ocular prosthesis in the fellow orbit (12, Level 9)
+Intra-operative risk factors include inadequate eyelid and
+conjunctival disinfection (13, Level 7), inadequate draping of lid and
+lashes (14, Level 9), prolonged surgery (13, Level 7) and presence of intraoperative complications (15, Level 7)
+Post-operative risk factors include wound leak and wound
+dehiscence, inadequately buried sutures, suture removal,
+vitreous incarceration in the surgical wound and occurrence of
+filtering bleb (4, Level 9)
+Host immunosuppression, diabetes mellitus (16, Level 7; 1 Level 8, 17, Level 2)
+Presence of atopic dermatitis and keratoconjunctivitis sicca (18, Level 9)
+Patient on topical or systemic immunosuppressive drugs such
+as corticosteroid and antimetabolites (19, Level 7)
+Respiratory and skin flora of the surgeons and assistants (9 , Level 1)
+Surgical instruments including intraocular lens (9, Level 1)
+Irrigating solutions and medications (9, Level 1)
+Operating room air (9, Level 1)
+Ocular
+Factors
+Systemic
+Factors
+Other
+Factors
+General
+Factors
+Evidence / Level of Evidence
+Table 3 : Specific Risk Factors In Relation to the Type of Intraocular Surgery
+Patients who are exposed to any of the above risk factors should be monitored
+closely for symptoms and signs of infection.
+4
+Intracapsular cataract extraction (ICCE) has higher risk when
+compared to extracapsular cataract extraction (ECCE) (5, Level 8)
+ECCE has higher risk when compared to phacoemulsification
+(20, Level 8)
+Secondary IOL implantation has higher risk due to associated
+factors such as transcleral suture fixation of posterior chamber
+IOL, polypropylene haptics, re-entering the eye through a
+previous wound and post-operative wound defects (21, Level 8)
+The risk is higher with clear cornea incision when compared to
+scleral tunnel incision (22, Level 8; 23, Level 2)
+The risk is higher with longer duration of surgery (13, Level7)
+Occurrence of posterior capsular rupture and vitreous loss, as
+well as performance of anterior vitrectomy is associated with
+higher risk ( 5, Level 8; 15, Level 6; 20, Level 8; 24, Level 8; 25, Level 8)
+Polypropylene haptic IOL is associated with higher risk (13, Level 7)
+Silicon
+IOL
+has
+higher
+risk
+as
+compared
+to
+polymethylmethalcrylate (PMMA) and acrylic IOL (15, Level 7)
+Foldable lenses have higher risk when compared to injectable
+lenses (20, Level 8)
+Inferiorly located bleb is associated with higher risk. (26, Level 9; 27,
+Level 8; 3, Level 8; 28, Level 7)
+The use of mitomycin C is associated with higher risk (26, Level 9; 29, Level 7)
+Performance of full thickness rather than a guarded filtration
+procedure (29, Level 7)
+Highly elevated or leaking bleb is associated with higher risk (29, Level 7)
+Contaminated donor button is associated with higher risk (30, Level 8)
+Cataract
+Surgery
+Type of
+Cataract
+Surgery
+Site of
+incision
+Duration of
+surgery
+Intraoperative
+complications
+and anterior
+vitrectomy
+IOL
+material
+Glaucoma
+Filtering
+Surgery
+Penetrating
+Keratoplasty
+General
+Factors
+Evidence / Level of Evidence
+2.
+PROPHYLACTIC MEASURES
+The low incidence of post-operative infectious endophthalmitis makes
+it difficult to assess accurately the efficacy of preventive measures.
+Many studies either have low statistical power in assessing the
+influence of a change in procedure on the incidence of post-operative
+endophthalmitis, or measure surrogate outcomes such as change in
+conjunctival flora or aqueous bacterial counts. In addition, most of
+the studies on prophylaxis were related to cataract surgery and thus
+its application to other forms of ocular surgeries may not apply.
+As the ocular surface is a common source of pathogens (10, Level 2; 11, Level 8)
+various measures have been used to prepare the ocular surface
+before surgery to reduce normal ocular surface flora.
+2.1 Antiseptic Measures
+a.
+Preoperative povidone iodine on skin and conjunctival sac
+Povidone iodine 5% solution has been shown to decrease the
+number of colonies isolated from the conjunctiva by 91% and
+decrease the number of species by 50%. (9, Level I; 31, Level 3; 32, Level 7; 33,
+Level 7; 34, Level 7; 35, Level 4; 36, Level 8; 37, Level 8). Instillation of topical 5%
+povidone iodine solution into the conjunctival sac just before
+surgery significantly reduced the incidence of culture positive
+endophthalmitis as compared to silver nitrate solution (38, Level 4; 9,
+Level I). Even when used at 1.25% preoperatively, topical povidone
+iodine has shown a significant reduction in the conjunctival
+bacterial counts (39, Level 4).
+Its application to the eye at the end of surgery has also been
+shown to be effective in reducing conjunctival bacterial flora and
+was in fact more effective when compared to topical broad
+spectrum antibiotics (40, Level 7).
+However, on the basis of available clinical studies, only povidone
+iodine in a concentration of 5% in balanced salt solution (BSS)
+or isotonic saline can be recommended as the preoperative
+antiseptic of choice (26, Level 9). Chlorhexidine 0.05% should be used as
+the alternative in patients who are allergic to povidone iodine (26, Level 9).
+The use of povidone iodine was not associated with significant
+adverse reactions (38, Level 4).
+b.
+Draping of periorbital area
+Inadequate draping of the periorbital areas with exposed lids and
+lashes to the surgical site might be a possible risk factor (14, Level 9).
+c.
+Trimming of eyelash
+Preoperative trimming of eyelashes is not associated with a
+reduction of risk of post-operative endophthalmitis (22, Level 8; 9, Level 1).
+d.
+Preoperative irrigation of lacrimal passages
+Preoperative irrigation of the lacrimal passages has no significant
+effect as prophylactic measure (9, Level 1).
+e.
+Preoperative saline irrigation of conjunctival sac
+Saline irrigation of conjunctival sac did not reduce the bacterial
+flora (9, Level 1; 34, Level 4).
+2.2 Antibiotics Prophylaxis
+a.
+Intracameral antibiotic
+i.
+Intracameral injection of cefuroxime at the end of surgery
+Intracameral injection of 1mg cefuroxime in 0.1 ml at the end of
+phacoemulsification surgery has been shown to significantly
+reduce the risk of post-operative endophthalmitis up to five folds
+in a multicenter European study (41, Level 2). This prophylactic
+measure has been adopted by all Swedish cataract surgeons (42,
+Level 7). Refer Appendix 4 for the dilution of intracameral cefuroxime.
+Careful dilution should be undertaken to ensure its safe use and
+to prevent potential toxicity.
+ii.
+Intracameral irrigation of antibiotic through addition of
+vancomycin into irrigating solution
+Anterior chamber contamination at the end of cataract surgery
+varies from 0.18% to 13.7% (26, Level 9; 43, Level 8). Although some
+studies evaluating intraocular fluid contamination have shown
+that irrigating solution with vancomycin have reduced positive
+aqueous cultures (44, Level 9; 45, Level 8; 46, Level 2), whether the reduction is
+meaningful remains doubtful (26, Level 9). Furthermore, it has been
+shown that exposure to an antibiotic for a short duration during
+intraocular surgery has little effect on organisms commonly
+responsible for endophthalmitis (47, Level 9). As its use can cause
+retinal toxicity from inadvertent dilution error including irreversible
+macular infarct, as well as resulting in antibiotic resistance, it is
+generally not recommended (48, Level 9; 49, Level 9; 50, Level 9).
+b.
+Preoperative topical antibiotic
+There is insufficient evidence to show that the use of preoperative
+topical antibiotic significantly reduces the risk of post-operative
+infectious endophthalmitis (9, Level 1; 41, Level 2).
+c. Preoperative systemic antibiotic
+Intravenous antibiotic prophylaxis is not proven to be of benefit
+in preventing post-operative endophthalmitis (26, Level 9).
+d. Post-operative subconjunctival antibiotic injection
+Sub-conjunctival antibiotic injection at the conclusion of surgery
+does not appear to prevent post-operative endophthalmitis (22, Level 9).
+2.3 Heparinized Intraocular Infusion Solution and Heparin
+Coated IOL
+Heparin coats the lens and intraocular surface and thus prevent
+bacterial adherence (51, Level 9). However there is no sufficient
+evidence to indicate benefits of both heparinized irrigating solution
+and heparin coated IOL in preventing post-operative infectious
+endophthalmitis (52, Level 3).
+2.4 Operating Theatre
+a.
+Air flow design
+There are no current guidelines for the type of airflow best required
+to prevent post-operative infectious endophthalmitis for
+intraocular surgery. The ideal type of airflow system is being
+investigated by the ESCRS multi-centre study on endophthalmitis
+after phacoemulsification surgery (26, Level 9)..
+b.
+Equipment sterilization
+All equipment for surgery should be sterile. Care is required with
+both washing and autoclaving the instruments. It is preferable
+that tubing that becomes wet within the operative procedure
+should not be reused. Bottles of balanced salt solution (BSS)
+should never be kept overnight or used for more than one
+operating session. Operating theatre trolleys must be kept dry
+as wet areas are easily contaminated with Pseudomonas
+aeruginosa (26, Level 9).
+Further details of prophylactic measures are given in Appendix 1.
+Recommendations for prophylaxis
+Use of povidone iodine 5% as an antiseptic agent for preparation of
+skin and conjunctival sac preoperatively is recommended. (Grade A)
+Proper draping of the eyelid margin using an adhesive non porous drape
+and the use of speculum to cover all the eyelashes is recommended.
+(Grade C)
+Intracameral injection of 1 mg cefuroxime in 0.1ml at the end of surgery
+is recommended. Careful dilution should be undertaken to prevent
+potential toxicity.
+(Grade A)
+3.
+DIAGNOSIS AND INVESTIGATIONS
+Patients who have undergone intraocular surgery and who develop
+the following clinical features should be assessed and monitored
+closely. Prompt management with intravitreal tap and intravitreal
+antibiotic injection should be performed in clinically suspected cases
+of post-operative infectious endophthalmitis.
+3.1 Clinical Features
+a.
+Acute post-operative endophthalmitis
+The symptoms and signs may include the following:
+-
+Ocular pain (74-85%) (53, Level 2; 16, Level 7; 26, Level 9; 50, Level 9)
+-
+Reduced vision (>90%) (53, Level 2; 16, Level 7 ; 50, Level 9; 26, Level 9)
+-
+Swollen lids (35%) (54, Level 8; 50, Level 9)
+-
+Inflamed or oedematous conjunctiva (>80%) (54, Level 8; 50, Level 9;
+26, Level 9)
+-
+Discharge into conjunctiva (26, Level 9; 50, Level 9)
+-
+Corneal oedema (26, Level 9, 50, Level 9)
+-
+Cloudy anterior chamber with cells, hypopyon or fibrin (7585%) (54, Level 8; 26 , Level 9; 50, Level 9)
+-
+Vitreous clouding (vitritis) (26, Level 9; 50, Level 9 )
+-
+Involvement of posterior segment with retinitis, and/or retinal
+periphlebitis, retinal oedema and papillary oedema (26, Level 9; 50, Level 9)
+Involvement of posterior segment is virtually always accompanied
+by severe anterior segment inflammation.
+b.
+Chronic post-operative infectious endophthalmitis
+Patients may present with any of the symptoms and signs of
+acute post-operative endophthalmitis. Features include:
+-
+Corneal oedema (55, Level 8)
+-
+Mutton fat keratic precipitates on IOL or corneal endothelium
+(4, Level 9)
+-
+Persistent low grade uveitis that may respond to
+corticosteroids initially ( typical) (4, Level 9)
+-
+Hypopyon – sometimes so small that it can only be visible
+with gonioscopy, or recurrent hypopyon that fails to respond
+to corticosteroid (4, Level 9; 26,level 9)
+-
+White ‘string-of-pearl’ infiltrate in the anterior chamber and
+vitreous are sometimes seen in fungal infections (4, Level 9)
+-
+Plaque located on the posterior capsule, IOL or retained
+lens particles (40-89%) (56, Level 9; 57, Level 9; 4, Level 9)
+-
+Vitreous clouding (vitritis) from chronic inflammation (4, Level
+9; 26, Level 9)
+3.2 Investigations
+When a clinical diagnosis of acute or chronic post-operative
+infectious endophthalmitis is made, a vitreous tap should be
+performed within ONE hour after clinical diagnosis, together
+with administration of an intravitreal antibiotic injection (26, Level 9).
+Anterior chamber tap is helpful in the identification of the causative
+organism as some organisms grow from the aqueous but not
+from the vitreous sample.
+Aqueous and vitreous specimens should be sent for gram stain,
+culture and sensitivity. Polymerase chain reaction (PCR) methods
+offer much improved pathogen detection especially in the case
+of chronic endophthalmitis with low pathogen counts (58, Level 8)
+.
+However, due to its high sensitivity, problems with availability and
+the risk of contamination, its use as routine diagnostic test is
+limited (26, Level 9).
+Vitreous biopsy has not been shown to have better microbial
+yield as compared to vitreous tap (59, Level 2).
+Conjunctival and corneal swabs are usually not helpful in isolating
+the causative microorganisms (38, Level 4).
+Refer Appendix 2 for the performance of anterior chamber tap,
+vitreous tap and intravitreal antibiotic injection.
+4.
+TREATMENT
+There is variation in the treatment of post-operative infectious
+endophthalmitis and the treatment approach is usually based on
+institutional protocol.
+4.1 Treatment
+of
+Acute
+Post-operative
+Infectious
+Endophthalmitis
+a.
+Antimicrobial therapy
+i.
+Intravitreal antibiotics
+Intravitreal antibiotics should be given as soon as possible after
+clinical diagnosis has been made (4, Level 9; 26, Level 9; 50, Level 9). This
+should be preceded by intravitreal tap. Intravitreal antibiotic may
+be repeated as necessary judging by the clinical response, usually
+at an interval of 48-72 hours (50, Level 9). The time interval for repeat
+intravitreal antibiotic depends on the half-life of the antibiotic used.
+A combination of broad-spectrum antibiotics covering both gram
+positive and negative organism is used. The choice of antibiotics
+should be reviewed following the culture and sensitivity results.
+The commonly used antibiotic combinations are:
+-
+Vancomycin (2mg in 0.1ml) AND Ceftazidime (2mg in 0.1ml)
+(60, Level 2; 4, Level 8; 61, Level 9) OR
+-
+Vancomycin (2mg in 0.1ml) AND Amikacin (0.4mg in 0.1ml)
+(4, Level 8; 53, Level 2)
+Ceftazidime is preferred over amikacin in view of amikacin related
+retinal toxicity (53, level 2; 62, level 9; 48, Level 9; 4, Level 9).
+Patient’s clinical progress should be observed and monitored
+closely. Early referral for a vitreoretinal opinion after intravitreal
+antibiotic injection is recommended.
+Refer Appendix 3 for the preparation of intravitreal drugs using
+aseptic technique.
+ii.
+Topical and subconjunctival injection of antibiotic
+The aim of topical and subconjunctival injection of broad spectrum
+antibiotics use is to treate possible ocular surface and anterior
+segment infection. Topical ceftazidime (5% or 50mg/ml), topical
+vancomycin (5% or 50mg/ml) or other broad spectrum antibiotics
+eye drops are used, either as monotherapy or combined therapy,
+hourly round the clock initially with subsequent tapering according
+to clinical response (50, Level 9). Subconjunctival injection of antibiotic
+can be used together with intravitreal antibiotics in the treatment
+of post-operative endophthalmitis. This is done in the hope of
+achieving higher concentration of antibiotics around the eye and
+in the anterior chamber, especially when the frequent round the
+clock instillation of topical antibiotics at the initial period is not
+possible (4, Level 9). When giving subconjunctival antibiotic,
+subconjunctival mydricane can be given to get pupillary dilatation
+which helps the movement of antibiotic around the eye.
+iii.
+Systemic antimicrobial therapy
+The Endophthalmitis Vitrectomy Study concluded that systemic
+ceftazidime and amikacin did not have any effect on the course
+and outcome of endophthalmitis after cataract surgery (53, Level 2).
+In cases of severe, virulent endophthalmitis, systemic intravenous
+antibiotics of the same choice as intravitreal antibiotics should
+be given (4, Level 9). Alternatively, oral moxifloxacin (400mg daily for
+10 days) or oral ciprofloxacin (750mg bd for 14 days) can be
+given. However, systemic fluoroquinolones are to be used with
+caution in children (50, Level 9).
+Oral clarithromycin (500mg bd for 2 weeks) is recommended for
+patients with acute post-operative endophthalmitis with a culture
+negative eye (66, Level 8; 67, Level 8). It acts as a biofilm reducing agent to
+enhance the efficacy of cefuroxime, ceftazidime and amikacin.
+In view of a high incidence of resistance to ciprofloxacin, fourth
+generation fluoroquinolones, oral moxifloxacin (400mg daily for
+10 days) has been used (65, Level 9). In addition, moxifloxacin has
+an anti-biofilm effect on coagulase- negative staphylococci, which
+are one of the commonest infecting organisms following cataract
+surgery. Besides, moxifloxacin has also been shown to have
+better penetration to inflamed ocular tissue (68, Level 9; 69, 2006, Level 8).
+This may therefore improve the ocular prognosis. When oral
+moxifloxacin is used, the use of oral clarithromycin is not indicated
+(65, Level 9).
+b.
+Anti-inflammatory therapy
+There is limited evidence on the efficacy of intravitreal and
+periocular corticosteroids in the treatment of post-operative
+infectious endophthalmitis. While intravitreal dexamethasone
+reduces early inflammation in bacterial endophthalmitis, it has
+no independent influence on the visual outcome (63, Level 8; 64, Level 8).
+Intensive topical prednisolone acetate 1% or dexamethasone 1%
+every 1 to 2 hours is recommended to control anterior chamber
+inflammation. Its use should begin soon after intravitreal injection
+of antibiotics (65, Level 9).
+Oral prednisolone one day after intra-vitreal antibiotic therapy
+has not been shown to have any negative effect on the course of
+infection in bacterial endophthalmitis (53, Level 2). It may be used in
+those who have no contraindications for corticosteroid (50, Level 9; 65,
+Level 9). The dosage of oral prednisolone is 1 mg/kg/day, to be
+tapered by 10mg each week for a total duration of up to 3 weeks
+(65, Level 9). Tablet ranitidine is prescribed simultaneously for gastric
+protection. Patients with fungal endophthalmitis should not be
+given prednisolone.
+c.
+Tissue Plasminogen Activator (TPA)
+TPA has only been reported to be useful as adjunctive therapy in
+animal studies and in a small case series of endophthalmitis with
+severe fibrinous anterior chamber reaction (70, Level 9; 71, Level 9; 72, Level 9).
+There is insufficient evidence for its routine use for both acute
+and chronic post-operative endophthalmitis. However,
+intracameral injection of 25 mg in 0.1 ml is recommended in
+patients with severe fibrinous anterior chamber reactions
+particularly in eyes with pupils that do not dilate with mydriatics.
+d.
+Vitrectomy
+According to Endopthalmitis Vitrectomy Study (EVS), routine
+immediate vitrectomy is not necessary in patients with better than
+light perception vision at presentation but is of substantial benefit
+for those who have light perception- only vision (53, level 2; 73, Level 9).
+However, limitations of EVS leave this conclusion open to future
+modification (26, Level 9; 74, Level 9).
+Refer algorithm for the management of acute post-operative endophthalmitis
+13
+Recommendation for treatment of acute post-operative
+endophthalmitis
+Intravitreal antibiotic should be given within 1 hour of diagnosis and
+repeated when necessary.
+(Grade C)
+Intensive topical antibiotic and steroid should be given round the clock
+initially.
+(Grade C)
+Subconjunctival antibiotic is given when indicated.
+(Grade C)
+The use of oral or intravenous antibiotics is recommended for
+endophthalmitis patients with virulent infection.
+(Grade C)
+Systemic corticosteroid may be given.
+(Grade C)
+Oral clarithromycin (500mg bd for 2 weeks) is recommended in culture
+negative cases with poor clinical response.
+(Grade C)
+Intracameral tissue plasminogen activator (25mg in 0.1ml) is
+recommended in patients with severe anterior chamber reaction.
+(Grade C)
+Vitrectomy may have a role in improving prognosis. Therefore, early
+referral for a vitreoretinal opinion is recommended.
+(Grade C)
+Vitrectomy with or without silicone oil tamponade has been shown
+in recent case series, to increase the chance of surgical success
+and decrease the number of additional procedures in eyes with
+post-operative infectious endophthalmitis (75, Level 7).
+4.2 Treatment of Chronic Post-operative Infectious
+Endophthalmitis
+a.
+Antimicrobial therapy
+Intravitreal antibiotic is given to all patients with chronic postoperative endophthalmitis. The choice of intravitreal antibiotic is
+similar to that in acute post-operative endophthalmitis (76, Level 6; 4,
+Level 9).
+The decision to use topical and systemic antimicrobials in chronic
+post-operative infectious endophthalmitis is the same as that for
+acute post-operative infectious endophthalmitis (26, Level 9).
+For suspected fungal endophthalmitis, intravitreal amphotericin
+B (5ug or 10ug in 0.1ml) has been proven to be effective.
+Intravitreal miconazole (0.01mg in 0.1ml) should be considered
+for fungi resistant to amphotericin B (76, level 9; 4, Level 9).
+Combined systemic therapy with amphotericin B and imidazole
+is effective in infection with Fusarium sp. whereas voriconazole
+or fluconazole is effective for Candida albicans. Itraconazole
+can be used for other Candida species, Aspergillus or
+Cryptococcus (77, Level 9).
+The indication for he use of systemic clarithromycin is as per
+acute post-operative endophthalmitis (66, Level 8; 67, Level 8; 26, level 9).
+b.
+Vitrectomy
+There is insufficient evidence for or against vitrectomy in the
+treatment of chronic post-operative endophthalmitis. However,
+in cases of suspected or confirmed Propionebacterium acnes or
+fungal endophthalmitis following cataract surgery, removal of IOL
+and posterior lens capsule with vitrectomy should be considered
+(4, Level 9; 18, Level 9).
+Refer algorithm for the management of chronic post-operative endophthalmitis
+5. CLINICAL AUDIT INDICATOR
+The incidence rate of post-operative infectious endophthalmitis should be
+monitored as a performance indicator by all ophthalmic facilities. Currently
+data from MOH hospitals are being collected by the ophthalmology service,
+MOH.
+15
+Recommendation for treatment of chronic post-operative
+endophthalmitis
+Intravitreal antibiotic should be given promptly.
+(Grade C)
+Intravitreal amphotericin B (5ug or 10ug in 0.1ml) is to be given if fungal
+endophthalmitis is suspected.
+(Grade C)
+Topical antibiotics and steroid should be given.
+(Grade C)
+Systemic anti-fungals to be given when indicated.
+(Grade C)
+The use of oral or intravenous antibiotics is indicated in patients with
+severe endophthalmitis.
+(Grade C)
+Oral clarithromycin (500mg bd for 2 weeks) is recommended in culture
+negative cases with poor clinical response.
+(Grade C)
+Intracameral tissue plasminogen activator (25mg in 0.1ml) is
+recommended in patients with severe anterior chamber reaction.
+(Grade C)
+Early referral for vitreoretinal consultation is recommended. (Grade C)
+ALGORITHM FOR THE MANAGEMENT OF ACUTE POST-OPERATIVE
+INFECTIOUS ENDOPHTHALMITIS
+↓↓↓↓↓
+↓↓↓↓↓
+CLINICAL DIAGNOSIS
+History:
+Patient who presents within 2 weeks of intraocular surgery with signs
+and symptoms suspicious of endophthalmitis (refer to text)
+Examination
+1. Perform anterior and posterior segment examinations
+2. Perform B-scan ultrasonography if necessary
+INVESTIGATIONS
+1. Perform vitreous tap +/- anterior chamber tap. Preferably to be
+done within ONE hour of clinical diagnosis
+2. Send specimen for gram stain, culture and sensitivity, and PCR
+test where indicated
+TREATMENT
+1. Intravitreal antibiotic injections to be given within 1 hour of diagnosis
+vancomycin and ceftazidime
+OR
+vancomycin and amikacin
+2. Begin intensive topical antibiotics and topical steroid soon after
+intravitreal antibiotic injection, round the clock initially
+3. Systemic antibiotics for severe, virulent endophthalmitis
+4. Oral prednisolone to be considered and may be given 24 hours
+following intravitreal antibiotics injection
+5. Review antibiotic regimen after microbiology results
+6. Repeat intravitreal antibiotics after 48 to 72 hours if indicated
+7. Consider oral clarithromycin in culture negative cases with poor
+clinical response
+8. Early referral for a vitreoretinal opinion
+ALGORITHM FOR THE MANAGEMENT OF CHRONIC POSTOPERATIVE INFECTIOUS ENDOPHTHALMITIS
+↓↓↓↓↓
+↓↓↓↓↓
+CLINICAL DIAGNOSIS
+History:
+Patient who presents after 2 weeks of intraocular surgery with signs and
+symptoms suspicious of endophthalmitis (refer to text)
+Examination
+1.
+Perform anterior and posterior segment examinations
+2.
+Perform B-scan ultrasonography if necessary
+TREATMENT
+1.
+Intravitreal antibiotic injections
+vancomycin and ceftazidime
+OR
+vancomycin and amikacin
+AND/OR
+intravitreal amphotericin B if suspicious of fungal endophthalmitis
+2.
+Begin topical steroid and topical antibiotics soon after intravitreal
+antibiotic injection
+3.
+Review antibiotic regimen after microbiology results
+4.
+Systemic anti-fungals if indicated
+5.
+Consider oral clarithromycin in culture negative cases with poor clinical
+response
+6.
+Consider intracameral tissue plasminogen activator in patients with
+severe anterior chamber reaction
+7.
+Early referral for a vitreoretinal opinion
+INVESTIGATIONS
+1.
+Perform vitreous tap +/- anterior chamber tap
+2.
+Send specimen for gram stain, culture and sensitivity, and PCR test if
+indicated
+3.
+If decision is made to remove the IOL, then send the lens capsule
+fragments for gram stain, culture and sensitivity, and PCR test if indicated
+Appendix 1
+PROPHYLACTIC MEASURES
+1.
+Careful preoperative assessment of patients
+1.1. Treat patients who have predisposing risk factors such as eyelid
+infection, conjunctivitis, dacryocystitis and nasolacrimal duct
+obstruction.
+1.2. Optimize patients’ medical conditions, which may affect wound healing
+such as diabetes mellitus and anemia.
+2.
+Proper scrubbing of eyebrow, upper and lower eyelids, eyelashes, adjacent
+forehead, nose, cheek and temporal orbital areas with 5% povidone iodine*.
+Use chlorhexidine 0.05% as an alternative in patients who are allergic to
+povidone iodine.
+3.
+Apply 5% povidone iodine to the conjunctival sac before surgery begins.
+4.
+Proper draping of eyelid margins, and with proper use of speculum to tuck
+in all eyelashes under the non porous adhesive drape.
+5.
+Ensure sterility of surgical instrument especially the microsurgical
+instruments that enter the eyes. Only use properly sterilized micro
+instruments.
+6.
+Avoid soaking of instruments.
+7.
+For cataract surgery
+7.1. Avoid unnecessary contact of IOL on possible areas of contamination
+including ocular surface.
+7.2. Use of injector for foldable lens is preferred.
+7.3. Do not share viscoelastic material between patients.
+7.4. Ensure incision is water tight at the end of surgery.
+7.5. Consider intracameral injection of 1mg cefuroxime in 0.1 ml at the
+end of surgery. Careful dilution must be undertaken to prevent potential
+toxicity.
+8.
+Replenishment of analgesic, steroid and antibiotic eye drops used in the
+OT at regular intervals to prevent contamination. Label date of opening on
+new bottles.
+9.
+Careful post-operative monitoring for high risk patients.
+*Preparation of 5% povidone iodine is done with 1:1 dilution of the 10% solution
+with sterile balanced salt solution (BSS) or isotonic saline. It should be prepared
+on the day of surgery. The use of a large bottle of readily diluted povidone iodine
+or chlorhexidine should be avoided as both antiseptics can become contaminated
+with Pseudomonas aeruginosa. Povidone iodine solution containing detergent
+must NOT be used as it coagulates the cornea irreversibly (26, level 9).
+Appendix 2
+PROCEDURE FOR ANTERIOR CHAMBER TAP, VITREOUS TAP AND
+INTRAVITREAL ANTIBIOTIC INJECTION
+Anterior Chamber Tap
+1.
+Obtain consent from patient.
+2.
+Instill topical anaesthetic drops.
+3.
+Perform limbal paracentesis at the slit lamp, using a 1 ml syringe (not
+an insulin syringe) with a half inch 25 gauge needle. A larger bore
+needle, e.g. 23 gauge needle, may be used if there is hypopyon. Loosen
+the plunger first before entering the eye to ease the aspiration of aqueous.
+4.
+Aspirate 0.1 to 0.2 ml of aqueous.
+5.
+Inoculate aqueous specimen onto culture plates and smear it on glass slide.
+6.
+Label the syringe, culture plates, glass slide or culture bottle before
+sending them to the laboratory.
+Vitreous Tap
+1.
+Obtain consent from patient.
+2.
+Prepare vitreous tap set consisting of eyelid retractor, caliper,
+conjunctival forceps, 5ml syringes, 23G needle, cotton buds, eye pad,
+and povidone iodine 5% solution.
+3.
+Perform procedure using aseptic technique in a quiet and clean place,
+either at the outpatient clinic, ward or operating theatre.
+4.
+Clean the periorbital skin and conjunctival sac with povidone iodine 5%.
+5.
+Drape the eye.
+6.
+Instill topical anaesthetic drops and subconjunctival injection of 2%
+lignocaine.
+7.
+Perform vitreous tap using a 5ml syringe with 23G needle. Enter the
+eye about 4 mm posterior to the limbus for phakic eyes or 3.5 mm for
+aphakic or pseudophakic eyes.
+8.
+Aspirate about 0.2ml to 0.4 ml of vitreous.
+9.
+Inoculate vitreous specimen onto culture plates and smear it on a
+glass slide.
+10.
+Label the syringe, culture plates, glass slide or culture bottle before
+sending them to the laboratory
+Intravitreal Antibiotic Injection
+1.
+Prepare and dilute intravitreal antibiotics using an aseptic technique.
+2.
+Prepare different antibiotics in separate syringes.
+3.
+Use 26G or 30G needle and inject 4 mm (phakic eyes) or 3.5 mm
+(pseudophakic/ aphakic eyes) posterior to the limbus into the mid
+vitreous cavity, with the bevel of the needle pointing anteriorly.
+Appendix 3
+PREPARATION OF INTRAVITREAL DRUGS
+Intravitreal drug preparation should be freshly diluted and preferably supplied by the
+hospital pharmacy department. However, in case of emergency, it can be prepared
+in the ward using an aseptic technique. The drug preparation guide is given below.
+1. The vial contains 500 mg vancomycin powder
+2. Reconstitute the vial with 10 ml of 0.9% normal saline
+(NS). Mix well
+3. Withdraw 4ml (200mg) and add 6ml of 0.9% NS
+4. Take 0.1 ml (=2 mg)
+1. The vial contains 1000 mg ceftazidime powder.
+2. Reconstitute the vial with 10 ml of 0.9% NS/water for
+injection. Mix well
+3. Withdraw 1 ml (100mg) and add 4ml of 0.9% NS/water
+for injection
+4. Take 0.1 ml ( = 2 mg)
+1. The vial contains a
+solution of 500mg of
+amikacin sulfate in 2 ml
+(250mg/ml)
+2. Withdraw 0.8 ml (200 mg)
+and add 9.2ml of 0.9% NS
+3. Withdraw 0.2 ml (4 mg)
+and add 0.8ml of 0.9% NS
+4. Take 0.1 ml ( = 0.4mg)
+1. The vial contains 50-mg of amphotericin B powder
+2. Reconstitute the vial with 10ml sterile water for injection
+3. Withdraw 1ml (5mg) and add 9ml of sterile water for
+injection. Mix well
+4. Withdraw 1ml (0.5mg) and add 9ml of sterile water for
+injection. Mix well
+5. Take 0.1 ml (= 0.005mg)
+1. The ampoule contains 10mg/ml of miconazole
+2. Withdraw 1ml (10mg) and add 9ml of 0.9% normal saline.
+Mix well
+3. Withdraw 1ml (1mg) and add 9ml of 0.9% normal saline
+4. Take 0.1ml (=0.01mg)
+1. The vial contains a solution of 4mg of dexamethasone in 1ml
+2. Take 0.1ml (= 0.4mg)
+1. The vial contains a
+solution of 250mg of
+amikacin sulfate in 2 ml
+(125mg/ml)
+2. Withdraw 1ml (125 mg)
+and add 11.5 ml of 0.9% NS
+3. Withdraw 0.4ml (4mg)
+and add 0.6ml of 0.9% NS
+4. Take 0.1 ml ( = 0.4mg)
+Vancomycin
+hydrochloride
+(2mg in 0.1ml)
+Ceftazidime
+sodium
+(2mg in 0.1ml)
+Amikacin sulfate
+(0.4mg in 0.1ml)
+Amphotericin B
+(0.005mg in 0.1ml)
+Miconazole
+(0.01mg in 0.1ml)
+Dexamethasone
+(0.4mg in 0.1ml)
+Drug (Recommended dosage)
+Preparation
+Appendix 4
+PREPARATION OF INTRACAMERAL CEFUROXIME
+21
+Cefuroxime
+(1mg in 0.1ml)
+Drug (Recommended dosage)
+Preparation
+1. The vial contain 1500mg
+of cefuroxime powder
+2. Reconstitute the vial
+with 15 ml of 0.9% NS
+3. Withdraw 1ml (100mg)
+of this solution and add
+9ml of 0.9% NS
+4. Take 0.1 ml ( =1mg)
+1. The vial contain 750mg
+of cefuroxime powder
+2. Reconstitute the vial
+with 7.5 ml of 0.9% NS
+3. Withdraw 1ml (100mg)
+of this solution and add
+9ml of 0.9% NS
+4. Take 0.1 ml ( =1mg)
+REFERENCES
+1
+Kattan HM, Flynn HW Jr, Pflugfelder SC, Robertson C, Forster RK (1991).
+Nosocomial endophthalmitis survey. Current incidence of infection after
+intraocular surgery. Ophthalmology. Aug; 98(8):1147-1148.
+2
+Aaberg TM Jr, Flynn HW Jr, Schiffman J, Newton J (1998). Nosocomial
+acute-onset postoperative endophthalmitis survey. A 10-year review of
+incidence and outcomes. Ophthalmology. Jun; 105(6):1004-1010
+3
+Greenfield DS, Suner IJ, Miller MP, Kangas TA, Palmberg PF, Flynn HW
+Jr (1996). Endophthalmitis after filtering surgery with mitomycin. Arch
+Ophthalmol. Aug;114(8):943-9
+4
+Kresloff MS, Castellarin AA, Zarbin MA (1998). Endophthalmitis Survey.
+Ophthamol ;43: 193-224
+5
+Norregaard JC, Thoning H, Bernth-Petersen P, Andersen TF, Javitt JC,
+Anderson GF (1997). Risk of endophthalmitis after cataract extraction:
+results from the International Cataract Surgery Outcomes study. Br J
+Ophthalmol; 81:102-106
+6
+Goh PP, Shamala R, Rajalakshmi G, Ronald D (2002). The first report of
+the National Cataract Surgery Registry. A publication of National Cataract
+Surgery Registry and Clinical Research Centre, Ministry of Health
+7
+Goh PP, Shamala R, Rajalakshmi G, Ronald D (2003). The second report
+of the National Cataract Surgery Registry. A publication of National Cataract
+Surgery Registry and Clinical Research Centre, Ministry of Health
+8
+Goh PP, Shamala R, Rajalakshmi G, Ronald D.(2004). The third report of
+the National Cataract Surgery Registry.A publication of National Cataract
+Surgery Registry and Clinical Research Centre, Ministry of Health
+9
+Ciulla TA, Star MB, Masket S (2002). Bacterial endophthalmitis prophylaxis
+for cataract surgery: An evidence-based update. Ophthalmol., 109,pp 1226
+10
+Bannerman TL, Rhoden DL, McAllister SK, Miller JM and Wilson LA
+(1997). The source of coagulase-negative staphylococci in the
+Endophthalmitis Vitrectomy Study. A comparison of eyelid and intraocular
+isolates using pulse-field gel electrophoresis. Archive Ophthalmol 115,
+pp 357-361
+Speaker MG, Milch FA, Shah MK, Eisner W, Kreiswirth BN (1991). Role
+of external bacterial flora in the pathogenesis of acute postoperative
+endophthalmitis. Ophthalmology.; 98, pp 639–649
+12
+Morris R, Camesasca FI, Byrne J, John G (1993). Postoperative
+endophthamitis resulting from prosthesis contamination in the fellow eye.
+AM J Ophtalmology ; 1116(3): 346-349
+13
+Menikoff JA, Speaker MG, Marmor M, Raskin EM (1991). A case-control
+of risk factors for postoperative endophthalmitis. Ophhtalmology.; 98(17)
+61-68
+14
+Hughes DS, Hill RJ (1994). Infectious endopthalmitis after cataract surgery.
+Br J Ophthalmol, Mar: 78 (3) : 227-232
+15
+Wong TY, Chee SP (2004). Risk factor of acute endophthalmitis after
+cataract extraction: a case control study in Asian eyes. Br J Ophthalmol.;
+8:29-31
+16
+Phillips WB, Tasman WS (1994). Postoperative endophthalmitis in
+assocaition with diabetes mellitus. Ophthalmology ; 101 : 508-518
+17
+Doft BH, Wisniewski SR, Kelsey SF, Fitzgerald SG;( 2001). Diabetes and
+postoperative endophthalmitis in the endophthalmitis vitrectomy study.
+Arch Ophthalmol. May;119(5):650-656
+18
+Sunaric Megevand G, Pournaras CJ (1997). Current approach to postoperative endophthalmitis. Br J Ophthalmol;81:1006-1015
+19
+Montan PG, Koranyi G, Setterquist HE, Stridh A, Philipson BT, Wiklund K
+(1998). Endophthalmitis after cataract surgery: risk factors relating to
+technique and events of the operation and patient history. A retrospective
+case – control study. Ophthalmology; 105: 2171-2177
+20
+Mayer E, Cadman D, Ewings P, Twomey J M, Gray R H, Claridge K G,
+Hakin K N, Bates A K. (2003). 10 year retrospective survey of cataract
+surgery and endophthalmitis in a single eye unit: injectable lenses lower
+the incidence of endophthalmitis. Br J Ophthalmol. July 1, 87(7): 867 –
+869
+21
+Scott IU, Flynn HW Jr, Gillign PH (1995). Endophthalmitis after secondary
+intraocular lens implantation. A case –control study.
+Ophtalmology;102:1925-1931
+Schmitz S, Dick HB, Krummenauer F, Pfeiffer N (1999). Endophthalmitis
+in cataract surgery. Results of a German survey. Ophthalmology.;
+106:1869-1877
+23
+Nagaki Y, Hayasaka S, Kadoi C, Matsumoto M, Yanagisawa S, Watanabe
+K, Watanabe K, Hayasaka Y, Ikeda N, Sato S, Kataoka Y, Togashi M, Abe
+T (2003). Bacterial endophthalmitis after small-incision cataract surgery.
+Effect of insicison placement and intraocular lens type. J Cataract Refract
+Surg. Jan;29(1):20-6.
+24
+Javitt JC, Vitale S, Canner JK, Street DA, Krakauer H, McBean AM,
+Sommer A (1991). National outcomes of cataract extraction.
+Endophthalmitis following inpatient surgery. Arch Ophthalmol.; 109:10851089
+25
+Desai P, Minassian DC, Reidy A (1999). The National Cataract Survey
+1997/1998: a report of the results of clinical outcomes. Br J Ophthalmol;
+83:1336–1340
+26
+ESCRS Guidelines on Prevention, Investigation and Management of Post
+– Operative Endophthalmitis Version 1. European Society for Cataract
+and Refractive Surgeons. (2005) 1-31
+27
+Caronia RM, Liebmann JM, Friedman R, Cohen H, Ritch R (1996).
+Trabeculectomy at the inferior limbus. Arch Ophthalmol. Apr; 114(4):387391
+28
+Higginbotham EJ, Stevens RK, Musch DC, Karp KO, Lichter PR,
+Bergstrom TJ, Skuta GL (1996). Bleb-related endophthalmitis after
+trabeculectomy with mitomycin C. Ophthalmology. Apr;103(4):650-656
+29
+Jampel HD, Quigley HA, Kerrigan-Baumrind LA, Melia BM, Friedman D,
+Barron Y (2001). Risk factors for late-onset infection following glaucoma
+filtration surgery. Arch Ophthalmol.; 119(7): 1001-1008
+30
+Behrens Baumann W, Ruchel R, Zimmermann, Vogel M (1991). Candida
+tropicalis endophhtalmitis following penetrating keratopalsty. Br J
+Ophthalmol;75:565
+31
+Ferguson AW, 21Scott JA, McGavigan J, et.al.(2003). Comparison of 5%
+povidone-iodine solution against 1% povidone-iodine solution in
+preoperative cataract surgery antisepsis: a prospective randomised double
+blind study. Br J Ophthalmol,; 87(2) , pp 163-167
+Apt L, Isenberg S, Yoshimori R, Paez JH (1984). Chemical preparation of
+the eye in ophthalmic surgery: III. Effect of povidone-iodine on the
+conjunctiva. Arch Ophthalmol.; 102:728-729
+33
+Apt L, Isenberg SJ, Yoshimori R, Spierer A (1989). Outpatient topical use
+of povidone-iodine in preparing the eye for surgery. Ophthalmology;
+96:289-292
+34
+Isenberg S, Apt L, Yoshimuri R (1983). Chemical preparation of the eye in
+ophthalmic surgery. I. Effect of conjunctival irrigation. Arch Ophthalmol..
+May;101(5):761-763
+35
+Isenberg SJ, Apt L, Yoshimori R, Khwarg S (1985). Chemical preparation
+of the eye in ophthalmic surgery: IV. Comparison of povidone-iodine on
+the conjunctiva with a prophylactic antibiotic. Arch Ophthalmol.; 103:13401342
+36
+Hara J, Yasuda F, Higashitsutsumi M (1997). Preoperative disinfection of
+the conjunctival sac in cataract surgery. Ophthalmologica.; 211(suppl 1):
+62-67
+37
+Binder C, Miño de Kaspar H, Engelbert M, Klauss V, Kampik A (1998).
+Colonization of the conjunctiva with Propionibacterium acnes before and
+after application of povidon iodine before intraocular surgery.
+Ophthalmology.; 95:438-441
+38
+Speaker MG, Menikoff JA (1991). Prophylaxis of endophthalmitis with
+topical povidone – iodine.Opthalmology:98:1769-1774
+39
+Isenberg SJ, Apt L, Yoshimori R, Pham C,Lam NK.(1997). Efficacy of
+topical povidone iodine during the first week after ophthalmic surgery. Am
+J Ophtahlmol. , 1124: 31-35
+40
+Apt L, Isenberg SJ, Yoshimori R, Chang A, Lam GC, Wachler B, Neumann
+D (1995). The effect of povidone-iodine solution applied at the conclusion
+of ophthalmic surgery. Am J Ophthalmol Jun; 119(6): 701-705
+41
+Barry P, Seal DV, Gettinby G, Lees F, Peterson M, Revie CW (2006).
+ESCRS Endophthalmitis Study Group. ESCRS study of prophylaxis of
+postoperative endophthalmitis after cataract surgery: Preliminary report
+of principal results from a European multicenter study. J Cataract Refract
+Surg. Mar; 32(3):407-410
+Montan PG, Wejde P, Koranyi G, Rylander M. (2002). Prophylactic intracameral cefuroxime. Efficacy in preventing endophthalmitis after cataract
+surgery. J Cataract Refract Surg, 28: 982-987
+43
+Mistlberger A, Ruckhofer J, Raithel E, Muller M, Alzner E, Egger SF,
+Grabner G. (1997) . Anterior chamber contamination during cataract
+surgery with intraocular lens implantation. J Cataract Refract Surg.;
+23:1064-1069
+44
+Adenis JP, Robert PY (1997). Local antimicrobial prophylaxis in cataract
+surgery: recent controversies and clinical guidelines. Ophthalmologica.;
+211 Suppl 1:77-80
+45
+Dickey JB, Thompson KD, Jay WM (1991). Anterior chamber aspirate
+cultures after uncomplicated cataract surgery. Am J Ophthalmol.;112: 278282
+46
+Beigi B, Westlake W, Chang B, Marsh C, Jacob J, Riordan T (1998). The
+effect of intracameral, per-operative antibiotics on microbial contamination
+of anterior chamber aspirates during phacoemulsification. Eye.; 12 ( Pt
+3a):390-394
+47
+Gritz DC, Cevallos AV, Smolin G, Whitcher JP Jr (1997). Antibiotic
+supplementation of intraocular irrigating solutions. An in vitro model of
+antibacteria l action. Ophthalmology. Jun;104(6):900-901
+48
+Campochiaro PA, Lim JI (1994). Aminoglycoside toxicity in the treatment
+of endophthalmitis. The Aminoglycoside Toxicity Study Group. Arch
+Ophthalmol.; 112:48-53
+49
+Gordon YJ (2001). Vancomycin prophylaxis and emerging resistance: are
+ophthalmologists the villains? The heroes? Am J Ophthalmol. Mar;
+131(3):371-376
+50
+Royal College of Ophthalmologist Guidelines ((Focus). Management of
+endophthalmitis.[http://www/.site4sight.org.uk/Quality/RGov/Guidelines/
+Endo.htm.Assessed 2/3/06]
+51
+Portoles M, Refojo MF, Leong FL.(1993). Reduced bacterial adhesion to
+heparin-surface-modified intraocular lenses. J Cataract Refract Surg, 19:
+755-759
+Manners TD, Turner DP, Galloway PH, Glenn AM (1997). Heparinised
+intraocular infusion and bacterial contamination in cataract. Br J
+Ophthalmol. Nov;81(11):949-952
+53
+Endophthalmitis Vitrectomy Study Group (1995). Results of the
+Endophthalmitis Vitrectomy Study. A randomized trial of immediate
+vitrectomy and of intravenous antibiotics for the treatment of postoperative
+endophthalmitis. Arch Ophthalmol,; 113:1479-1496
+54
+Wisniewski St. R, Capone A, Kelsey SF, Groer-Fitzgerald S, Lambert HM,
+Doft BH (2000). Characteristics after cataract extraction or secondary
+lens implantation among patients screened for the endophthalmitis
+vitrectomy study. Ophthalmol, 107: 1274-1282
+55
+Narang S, Gupta A, Gupta V, Dogra MR, Ram J, Pandav SS, Chakrabarti
+A. (2001). Fungal endophthalmitis following cataract surgery: clinical presentation, microbiological spectrum and outcome. Am J Ophthalmol,
+132:609-617
+56
+Aldave A.J, Stein JD, Deramo JD, Shah GK, Fisher DH, Maguire JL (1994).
+Treatment strategies for post-operative Propionibacterium acne
+endophthalmitis. Ophthalmology, 106: 2395-2401
+57
+Clark WL, Kaiser PK, Flyn HW Jr, Belfor A, MillerD, Meisler DM et .al
+(1999). Treatment strategies and visual acuity outcomes in chronic
+postoperative propionebacterium acnes endophthalmitis. Ophthalmology,
+106:1665-1670
+58
+Lohmann C.P, Linde HJ, Reischi U (2000). Improved detection for microorganisms by polymerase chain reaction un delayed endophthalmitis after cataract surgery. Ophthalmology; 107: 1047-1052
+59
+Han DP, Wisniewski SR, Kelsey SF, Doft BH, Barza M, Pavan PR (1999).
+Microbiologic yield and complication rates of vitreous needle aspiration
+versus mechanized vitreous biopsy in the Endophthalmitis Vitrectomy
+Study. Retina; 19(2):98-102
+60
+Han DP, Wisniewski SR, Wilson LA, Barza M, Vine AK, Doft BH, Kelsey
+SF (1996). Spectrum and susceptibilities of microbiologic isolates in the
+Endophthalmitis Vitrectomy Study. Am J Ophthalmol, 122 (1):1-17
+61
+Kwok A.K, Hui M, Pang CP, Chan RC, Cheung SW, Yip CM, Lam DS,
+Cheng (2002). An in vitro study of ceftazidine and vancomycin
+concentrations in various fluid media: implications for use in treating
+endophthalmitis. Invest Ophthalmol Vis Sci 43; 1182-1188
+62
+Roth DB, Flynn HW Jr (1997). Antibiotic selection in the treatment of
+endophthalmitis: the significance of drug combinations and synergy. Surv
+Ophthalmol. Mar-Apr;41(5):395-401
+63
+Das T, Jalali S, Gothwal VK, Sharma S, Naduvilath TJ (1999). Intravitreal
+dexamethasone in exogenous bacterial endophthalmitis: results if a
+prospective randomised study. Br J Ophthalmol; 83: 1050-1055
+64
+Shah GK, Stein JD, Sharma S (2000). Visual outcomes following the use
+of intravitreal steroids in the treatment of postoperative endophthalmitis.
+Ophthalmology, 107(3): 486-489
+65
+Guidelines for Management of Presumed Bacterial Endophthalmitis at
+Moorfields Eye Hospital (2005). ( Moorfields Eye Hospital protocol).
+66
+Pellergrino FA, Wainberg P, Schalaen A, Ortega C, Bohorquez P, Bartucci
+F (2005). Oral clarithromycin as a treatment option in chronic postoperative
+endophthalmitis. Arch Soc Esp Oftalmol., 80(6), 339-344
+67
+Okhravi N, Guest S, Matheson MM, Kees F, Ficker LA, Tuft SJ, Lightman
+S(2000). Assessment of effect of oral clarithromycin on visual outcome
+following presumed bacterial endophthalmitis. Current Eye Res., 21(3),
+691-702
+68
+Yagci R, Oflu Y, Dincel A, Kaya E, Yagci S, Bayar B, Duman S, Bozkurt A
+(2006). Penetration of second-, third-, and fourth-generation topical
+fluoroquinolone into aqueous and vitreous humour in a rabbit
+endophthalmitis model. Eye. May 26
+69
+Hariprasad SM, Shah GK, Mieler WF, Feiner L, Blinder KJ, Holekamp
+NM, Gao H, Prince RA (2006). Vitreous and aqueous penetration of orally
+administered moxifloxacin in humans. Arch Ophthalmol. Feb;124(2):178182
+70
+Kamei M, Nous M, Lewis H. (2000). Tissue Plasminogen activator in the
+treatment of vitreretinal diseases. Sermin Ophthalmol., 15(1),pp 44-50
+71
+Ryan EH, Mizener JB (1993). Tissue plasminogen activator and
+Staphylococcus epidermidis endophthalmitis. Arch Ophthalmol.
+Aug;111(8):1117-1122
+72
+Baziuk N, Fang T, Peyman GA, Gremillion CM Jr (1991). Intravitreal recombinant tissue plasminogen activator in the treatment of experimentally induced bacterial endophthalmitis. Int Ophthalmol. Mar;15(2):79-86
+73
+Doft BH, Barza M (1996). Optimal management of postoperative
+endophthalmitis and results of the Endophthalmitis Vitrectomy Study.
+Jun;7(3):84-94
+74
+Hanscom TA. (2004 ). Postoperative endophthalmitis. Clin Infect Dis.,
+38(4), pp 542-546
+75
+Kaynak S, Oner FH, Kocak N, Cingil G (2004). Surgical management of
+postoperative endophthalmitis: comparison of 2 techniques. J Cataract
+Refract Surg. Aug;30(8):1612
+76
+Okhravi N, Towler HM, Hykin P, Matheson M, Lightman S (1997). Assessment of a standard treatment protocol on visual outcome following
+presumed bacterial endophthalmitis. Br J Ophthalmol. Sep;81(9):719-725
+77
+Guidelines for Management of Presumed Metastatic Fungal
+Endophthalmitis at Moorfields Eye Hospital (2004). Clinical Governance
+and Audit Department, Moorfields Eye Hospital.
+ACKNOWLEDGEMENTS
+The committee of this guideline would like to express their gratitude and
+appreciation to the following for their contribution:
+
+Panel of external reviewers who reviewed the draft.
+
+Technical Advisory Committee for Clinical Practice Guidelines for their
+valuable input and feedback.
+
+CPG Secretariat, particularly Datin Dr Rugayah Bakri, Head of Health
+Technology Assessment Unit, and Ms Hanita Muhsin, Nursing
+Manager, Medical Development Division, Ministry of Health Malaysia.
+DISCLOSURE STATEMENT
+The panel members have no potential conflict of interest to disclose.
+SOURCES OF FUNDING
+The development of the CPG on Management of Post-operative Infectious
+Endophthalmitis was supported financially in its entirety by the Ministry of
+Health Malaysia and was developed without any involvement of the
+pharmaceutical industry.
+LEVELS OF EVIDENCE SCALE
+Study Design
+Level
+Strength of
+Evidence
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Good
+Good
+Good to Fair
+Good to Fair
+Fair
+Fair
+Poor
+Poor
+Poor
+Meta-analysis of RCT, Systematic review
+Large sample RCT
+Small sample RCT
+Non-randomised controlled prospective trial
+Non-randomised controlled prospective trial
+with historical control
+Cohort studies
+Case-control studies
+Non-controlled clinical series, descriptive
+studies multi-centre
+Expert committees, consensus, case reports
+anecdotes
+Adapted from Catalonian Agency for Health Technology Assessment & Research,
+(CAHTAR) Spain
+At least one meta analysis, systematic review, or RCT, or evidence
+rated as good and directly applicable to the target population
+Evidence from well conducted clinical trials, directly applicable to
+the target population, and demonstrating overall consistency of
+results; or evidence extrapolated from meta analysis, systematic
+review, or RCT
+Evidence from expert committee reports, or opinions and /or
+clinical experiences of respected authorities; indicates absence
+of directly applicable clinical studies of good quality
+GRADES OF RECOMMENDATIONS
+A
+B
+C
+Source : Modified from Scottish Intercollegiate Guidelines Network (SIGN)

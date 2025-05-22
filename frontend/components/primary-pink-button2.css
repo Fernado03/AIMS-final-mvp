@@ -1,0 +1,19 @@
+.primary-pink-button2-container {
+  display: flex;
+  position: relative;
+}
+ 
+.primary-pink-button2-button {
+  color: var(--dl-color-gray-white);
+  outline: none;
+  background: linear-gradient( 310deg ,#7928ca,#ff0080);
+  box-shadow: 0 4px 7px -1px rgb(0 0 0 / 11%), 0 2px 4px -1px rgb(0 0 0 / 7%);
+  transition: all .15s ease-in;
+  border-width: 0px;
+  border-radius: 1.875rem;
+}
+ 
+.primary-pink-button2-button:hover {
+  cursor: pointer;
+  transform: scale(1.02);
+}

@@ -1,0 +1,33 @@
+.next-button-container {
+  display: flex;
+  position: relative;
+}
+ 
+.next-button-button {
+  color: var(--dl-color-blue-500);
+  display: flex;
+  align-items: center;
+  padding-top: var(--dl-layout-space-halfunit);
+  border-width: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  flex-direction: row;
+  padding-bottom: var(--dl-layout-space-halfunit);
+  background-color: transparent;
+}
+ 
+.next-button-text {
+  font-size: 1.25rem;
+  margin-right: var(--dl-layout-space-halfunit);
+}
+ 
+.next-button-icon1 {
+  fill: var(--dl-color-blue-500);
+  width: var(--dl-layout-size-unit);
+  height: var(--dl-layout-size-unit);
+  transition: 0.3s;
+}
+ 
+.next-button-icon1:hover {
+  transform: translateX(5px);
+}

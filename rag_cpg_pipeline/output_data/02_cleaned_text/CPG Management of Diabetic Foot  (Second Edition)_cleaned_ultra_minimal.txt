@@ -1,0 +1,3036 @@
+MANAGEMENT OF
+(SECOND EDITION)
+CLINICAL PRACTICE GUIDELINES
+2018
+MOH/P/PAK/411.18(GU)-e
+Ministry of Health
+Malaysia
+Academy of
+Medicine Malaysia
+Family Medicine
+Specialists
+Association of
+Malaysia
+Malaysian Endocrine
+& Metabolic Society
+Malaysian Orthopaedic
+Association
+Management of Diabetic Foot (Second Edition)
+Published by:
+Malaysian Health Technology Assessment Section (MaHTAS)
+Medical Development Division, Ministry of Health Malaysia
+Level 4, Block E1, Presint 1
+Federal Government Administrative Centre 62590
+Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is MaHTAS. Content may be
+reproduced in any number of copies and in any format or medium
+provided that a copyright acknowledgement to MaHTAS is included and
+the content is not changed, not sold, nor used to promote or endorse
+any product or service, and not used in an inappropriate or misleading
+context.
+ISBN: 978-967-2173-61-8
+Available on the following websites:
+http://www.moh.gov.my
+http://www.acadmed.org.my
+http://www.moa-home.com
+http://www.mems.my
+http://fms-malaysia.org
+https://marp.online
+Also available as an app for Android and IOS platform: MyMaHTAS
+STATEMENT OF INTENT
+These clinical practice guidelines (CPG) are meant to be guides for
+clinical practice, based on the best available evidence at the time of
+development. Adherence to these guidelines may not necessarily
+guarantee the best outcome in every case. Every healthcare provider is
+responsible for the management of his/her unique patient based on the
+clinical picture presented by the patient and the management options
+available locally.
+Management of Diabetic Foot (Second Edition)
+UPDATING THE CPG
+These guidelines were issued in 2018 and will be reviewed in a
+minimum period of four years (2022) or sooner if new evidence becomes
+available. When it is due for updating, the Chairperson of the CPG or
+National Advisor of the related specialty will be informed about it. A
+discussion will be done on the need for a revision including the scope of
+the revised CPG. A multidisciplinary team will be formed and the latest
+systematic review methodology used by MaHTAS will be employed.
+Every care is taken to ensure that this publication is correct in every
+detail at the time of publication. However, in the event of errors or
+omissions, corrections will be published in the web version of this
+document, which is the definitive version at all times. This version can
+be found on the websites mentioned above.
+Management of Diabetic Foot (Second Edition)
+TABLE OF CONTENTS
+No.
+Title
+Page
+Levels of Evidence and Grading Recommendations,
+i
+Assessment, Development and Evaluation
+Key Recommendations
+ii
+Guidelines Development and Objectives
+iv
+Development Group
+vii
+Review Committee
+viii
+External Reviewers
+ix
+Algorithm 1. Screening of Diabetic Foot
+x
+Algorithm 2. Active Foot Problems (with Risk Stratification)
+xi
+1.
+INTRODUCTION
+1
+2.
+ASSESSMENT
+2
+2.1 Screening
+2
+2.2 Diagnosis
+5
+2.3 Investigation
+6
+2.4 Classification
+8
+2.5 Risk Stratification
+8
+3.
+REFERRAL
+10
+3.1 Foot Protection Team
+10
+3.2 Multidisciplinary Foot Care Team
+10
+4.
+PREVENTION
+12
+4.1 Patient Education
+12
+4.2 Metabolic Control
+12
+4.3 Preventive Foot Wear
+13
+4.4 Preventive Surgery
+15
+5.
+TREATMENT
+17
+5.1 Pharmacotherapy
+17
+5.2 Wound Management
+19
+5.3 Rehabilitation
+24
+6.
+MONITORING AND FOLLOW-UP
+26
+7.
+CHARCOT NEUROARTHROPATHY
+27
+8.
+IMPLEMENTING THE GUIDELINES
+29
+8.1 Facilitating and Limiting Factors
+29
+8.2 Potential Resource Implications
+Management of Diabetic Foot (Second Edition)
+TABLE OF CONTENTS
+No.
+Title
+Page
+REFERENCES
+31
+Appendix 1. Example of Search Strategy
+35
+Appendix 2. Clinical Questions
+35
+Appendix 3. Semmes-Weinstein Monofilament Examination
+38
+Appendix 4. Diabetic Foot Assessment Form
+39
+Appendix 5. University of Texas Classification
+41
+Appendix 6. Patient Education Materials
+42
+Appendix 7. Footwear Advice
+45
+Appendix 8. Treatment of Neuropathic Pain
+46
+in Diabetic Foot
+Appendix 9. Types of Infections in Diabetic Foot
+50
+and Suggestions of Treatment
+Appendix 10. Types of Wound Dressings
+55
+in Diabetic Foot
+List of Abbreviations
+57
+Acknowledgement
+58
+Disclosure Statement
+58
+Source of Funding
+Management of Diabetic Foot (Second Edition)
+i
+LEVELS OF EVIDENCE
+SOURCE: US / CANADIAN PREVENTIVE SERVICES TASK FORCE 2001
+FORMULATION OF RECOMMENDATION
+In line with new development in CPG methodology, the CPG Unit of
+MaHTAS is adapting Grading Recommendations, Assessment,
+Development and Evaluation (GRADE) in its work process. The
+quality of each retrieved evidence and its effect size are carefully
+assessed/reviewed by the CPG Development Group. In formulating
+the recommendations, overall balances of the following aspects are
+considered in determining the strength of the recommendations:-
+• overall quality of evidence
+• balance of benefits versus harms
+• values and preferences
+• resource implications
+• equity, feasibility and acceptability
+Level
+I
+II-1
+II-2
+II-3
+III
+Study design
+Evidence from at least one properly randomised controlled trial
+Evidence obtained from well-designed controlled trials without
+randomisation
+Evidence obtained from well-designed cohort or case-control
+analytic studies, preferably from more than one centre or
+group
+Evidence from multiple time series with or without intervention;
+dramatic results in uncontrolled experiments (such as the
+results of the introduction of penicillin treatment in the 1940s)
+could also be regarded as this type of evidence
+Opinions of respected authorities based on clinical experience;
+descriptive studies and case reports; or reports of expert
+committees
+Management of Diabetic Foot (Second Edition)
+ii
+KEY RECOMMENDATIONS
+The following recommendations are highlighted by the CPG
+Development Group as the key recommendations that answer the
+main questions addressed in the CPG and should be prioritised for
+implementation.
+a.
+Assessment
+• Screening for diabetic peripheral neuropathy and peripheral arterial
+disease (PAD) should be performed on all patients with diabetes at
+diagnosis and repeated at least annually.
+ Semmes-Weinstein
+monofilament
+examination
+should
+be
+combined with another modality in the screening of peripheral
+neuropathy.
+ Palpation of foot pulses should be the initial screening method for
+PAD.
+• University of Texas Classification is the preferred classification for
+diabetic foot.
+b.
+Referral
+• Active or complicated diabetic foot problems should preferably be
+managed by a multidisciplinary foot care team.
+c.
+Prevention
+• Patient education should be an integral part in the management of
+diabetic foot.
+ It should be given at least annually and more frequent in higher
+risk patients.
+• Glycaemic control (with minimisation of hypoglycaemia) in the
+prevention of diabetic foot should be individualised.
+• Patients with diabetes should be advised on appropriate footwear
+according to the foot risk.
+• Preventive surgeries by orthopaedic surgeons trained in the
+procedures may be considered to prevent ulceration or re-ulceration
+in diabetic patients with foot deformity.
+Management of Diabetic Foot (Second Edition)
+d.
+Treatment
+• Appropriate analgesia should be considered in painful diabetic foot.
+• Antibiotics should be used as an adjunct to surgical debridement in
+infected diabetic foot.
+• Advanced wound dressings may be offered in diabetic foot ulcer.
+• Adjuvant therapy may be offered in delayed wound healing in diabetic
+foot with good vascularity.
+• Revascularisation should be offered in diabetic patients with
+peripheral arterial disease.
+• Surgical debridement by trained healthcare providers should be
+considered in diabetic foot ulcer which:
+ fails to respond to non-surgical debridement
+ is deep and infected at presentation
+Management of Diabetic Foot (Second Edition)
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+GUIDELINES DEVELOPMENT
+The members of the Development Group (DG) for these Clinical Practice
+Guidelines (CPG) were from the Ministry of Health (MoH) and Ministry
+of Education. There was active involvement of a multidisciplinary
+Review Committee (RC) during the process of the CPG development.
+A systematic literature search was carried out using the following
+electronic databases: mainly Medline via Ovid and Cochrane Database
+of Systemic Reviews and others e.g. PubMed and Guidelines
+International Network (refer to Appendix 1 for Example of Search
+Strategy). The search was limited to literature published on humans
+and in English. In addition, the reference lists of all retrieved literature
+and guidelines were searched further to identify relevant studies.
+Experts in the field were also contacted to identify further studies. All
+searches were conducted from 19 Mac 2017 to 18 May 2018. Literature
+searches were repeated for all clinical questions at the end of the CPG
+development process allowing any relevant papers published before
+31 July 2018 to be included. Future CPG updates will consider evidence
+published after this cut-off date. The details of the search strategy can
+be obtained upon request from the CPG Secretariat.
+References were also made to other CPGs on diabetic foot such as:
+• Diabetic Foot Problems: Prevention and Management (National
+Institute for Health and Care Excellence, 2015)
+• Diabetic Foot Australia guideline on footwear for people with
+diabetes (Journal of Foot and Ankle Research, 2018)
+The CPGs were evaluated using the Appraisal of Guidelines for
+Research and Evaluation (AGREE) II prior to them being used as
+references.
+A total of eight clinical questions were developed under different
+sections. Members of the DG were assigned individual questions
+within these sections (refer to Appendix 2 for Clinical Questions).
+The DG members met 33 times throughout the development of these
+guidelines. All literature retrieved were appraised by at least two DG
+members using Critical Appraisal Skill Programme checklist, presented
+in evidence tables and further discussed in each DG meetings. All
+statements and recommendations formulated after that were agreed
+upon by both the DG and RC. Where evidence was insufficient, the
+recommendations were made by consensus of the DG and RC. This
+CPG is based largely on the findings of systematic reviews, metaanalyses and clinical trials, with local practices taken into consideration.
+The literature used in these guidelines were graded using the US/
+Canadian Preventive Services Task Force Level of Evidence (2001),
+Management of Diabetic Foot (Second Edition)
+while the grading of recommendation was done using the principles of
+GRADE (refer to the preceding page). The writing of the CPG follows
+strictly the requirement of AGREE II.
+On completion, the draft of the CPG was reviewed by external
+reviewers. It was also posted on the MoH Malaysia official website for
+feedback from any interested parties. The draft was finally presented
+to the Technical Advisory Committee for CPG, and the HTA and CPG
+Council MoH Malaysia for review and approval. Details on the CPG
+development methodology by MaHTAS can be obtained from Manual
+on Development and Implementation of Evidence-based Clinical
+Practice Guidelines published in 2015 (available at http://www.moh.
+gov.my/penerbitan/mymahtas/CPG_MANUAL_MAHTAS.pdf).
+Management of Diabetic Foot (Second Edition)
+OBJECTIVES
+The objectives of the CPG are to provide evidence-based recommendations
+on the management of diabetic foot in the following aspects:
+a. assessment
+b. referral
+c. prevention
+d. treatment
+CLINICAL QUESTIONS
+Refer to Appendix 2.
+TARGET POPULATION
+Inclusion Criteria
+All patients with diabetes mellitus who are at risk or have developed
+diabetic foot
+Exclusion Criteria
+None
+TARGET GROUP/USERS
+This document is intended to guide those involved in the management
+of diabetic foot at any healthcare level including:
+i. doctors
+ii. allied health professionals
+iii. trainees and medical students
+iv. patients and their advocates
+v. professional societies
+HEALTHCARE SETTINGS
+Primary, secondary and tertiary care settings
+Management of Diabetic Foot (Second Edition)
+DEVELOPMENT GROUP
+Chairperson
+Dato’ Dr. Tharumaraja a/l Thiruselvam
+Head of Department & Foot & Ankle Surgeon
+Hospital Kulim, Kedah
+Members (in alphabetical order)
+vii
+Dr. Mohd Aminuddin Mohd Yusof
+Head of CPG Unit & Public Health
+Physician
+Health Technology Assessment Section
+Ministry of Health Malaysia, Putrajaya
+Dr. Mohd Idham Hassan
+Foot & Ankle Surgeon
+Hospital Putrajaya, Putrajaya
+Assoc. Prof. Dr. Mohd Yazid Bajuri
+Head of Advanced Trauma, Foot &
+Ankle Unit & Diabetic Foot Care Services
+Hospital Canselor Tuanku Muhriz,
+Pusat Perubatan Universiti Kebangsaan
+Malaysia, Kuala Lumpur
+Dr. Siti Norzalilah Abdul Majid
+Rehabilitation Physician
+Hospital Rehabilitasi Cheras,
+Kuala Lumpur
+Dr. Vijiya Mala Valayatham
+Endocrinologist
+Hospital Putrajaya, Putrajaya
+Dr. Wong Ping Foo
+Family Medicine Specialist
+Klinik Kesihatan Cheras Baru,
+Kuala Lumpur
+Assoc. Prof. Dr. Aminudin Che Ahmad
+Lecturer & Consultant Orthopaedic
+Surgeon
+International Islamic University Malaysia,
+Pahang
+Dr. Afiza Hanun Ahmad @ Hamid
+Family Medicine Specialist
+Klinik Kesihatan Hutan Melintang,
+Perak
+Dr. Ainol Haniza Kherul Anuwar
+Principal Assistant Director
+Health Technology Assessment Section
+Ministry of Health Malaysia, Putrajaya
+Dr. Gurmeet Singh a/l Sewa Singh
+Foot & Ankle Surgeon
+Hospital Pulau Pinang, Pulau Pinang
+Dr. Hafizan Mohd Tajri
+Consultant Vascular Surgeon
+Hospital Kuala Lumpur, Kuala Lumpur
+Ms. Masfiza Abdul Hamid
+Pharmacist
+Hospital Sultanah Bahiyah, Kedah
+Management of Diabetic Foot (Second Edition)
+viii
+REVIEW COMMITTEE
+The draft guidelines were reviewed by a panel of experts. They were
+asked to comment primarily on the comprehensiveness and accuracy
+of the interpretation of evidence supporting the recommendations in the
+guidelines.
+Chairperson
+Dato’ Sri Dr. Premchandran a/l P.S. Menon
+National Advisor of Orthopaedics Services, MoH
+Head of Department & Senior Consultant Orthopaedic Surgeon
+Hospital Tuanku Ampuan Afzan, Kuantan
+Members (in alphabetical order)
+Dr. Junainah Sabirin
+Deputy Director & Public Health
+Physician
+Health Technology Assessment Section
+Ministry of Health Malaysia, Putrajaya
+Dato’ Dr. Mohammad Anwar Hau Abdullah
+Senior Consultant Orthopaedic Surgeon
+& Orthopaedic Oncology Surgeon
+Hospital Raja Perempuan Zainab II
+Kelantan
+Professor Dr. Tong Seng Fah
+Lecturer & Consultant Family Medicine
+Specialist
+Universiti Kebangsaan Malaysia
+Kuala Lumpur
+Professor Dr. Wan Faisham Numan
+Wan Ismail
+Consultant Orthopaedic Surgeon &
+Traumatology
+Universiti Sains Malaysia, Kelantan
+Professor Dr. Ya Mohd Hassan Shukor
+Consultant Orthopaedic & Advanced
+Trauma Surgeon
+Universiti Kebangsaan Malaysia
+Kuala Lumpur
+Ms. Yong Yee Vern
+Pharmacist
+Pharmaceutical Services Programme
+Ministry of Health Malaysia, Selangor
+Datuk Dr. Zainal Ariffin Azizi
+Head of Department & Senior Consultant
+Vascular Surgeon
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Zanariah Hussein
+Head of Department & Consultant
+Endocrinologist
+Hospital Putrajaya, Putrajaya
+Management of Diabetic Foot (Second Edition)
+ix
+EXTERNAL REVIEWERS (in alphabetical order)
+The following external reviewers provided feedback on the draft:
+Professor Dr. Ahmad Hafiz Zulkifly
+Deputy Rector (Research and Innovation) & Senior Consultant of
+Orthopaedics and Arthroplasty Surgeon
+International Islamic University Malaysia Medical Centre, Pahang
+Associate Professor Dr. Cheong Ai Theng
+Head of Department & Consultant Family Medicine Specialist
+Universiti Putra Malaysia, Selangor
+Dr. Feisul Idzwan Mustapha
+Consultant Public Health Physician
+Non-communicable Disease Section, Disease Control Division
+Ministry of Health, Putrajaya
+Dr. Hanif Hussein
+National Advisor of Vascular Services & Consultant Vascular Surgeon
+Hospital Kuala Lumpur, Kuala Lumpur
+Dr. Husna Hanin
+Family Physician
+Klinik Anis, Shah Alam, Selangor
+Ms. Junainah Jenal
+Nursing Executive
+Hospital Canselor Tuanku Muhriz,
+Pusat Perubatan Universiti Kebangsaan Malaysia, Kuala Lumpur
+Professor Dato’ Dr. Mafauzy Mohamed
+Professor of Medicine & Senior Consultant Endocrinologist
+University Sains Malaysia, Kelantan
+Ms. Ou Yen Peng
+Pharmacist
+Hospital Sultan Haji Ahmad Shah, Pahang
+Dr. Sri Wahyu Taher
+Consultant Family Medicine Specialist & Head of Clinic
+Klinik Kesihatan Simpang Kuala, Kedah
+Dr. Yusniza Mohd. Yusof
+National Advisor of Rehabilitation Services & Consultant Rehabilitation
+Physician
+Hospital Rehabilitasi Cheras, Kuala Lumpur
+Management of Diabetic Foot (Second Edition)
+ALGORITHM A. SCREENING OF DIABETIC FOOT
+*Refer to Table 1 on Diabetic foot risk stratification
+x
+Active foot problems
+(presence of any of the
+below):
+• ulceration
+• spreading infection
+• critical limb ischaemia
+• gangrene
+• suspicion of an acute
+charcot neuroarthropathy
+or an unexplained hot, red,
+swollen foot with or without
+pain
+All patients with diabetes
+Foot assessment:
+• skin
+• neurological
+• vascular
+• musculoskeletal
+Active foot
+problem?
+Refer
+Algorithm B
+Previous history
+of ulceration, amputation
+or on renal replacement
+therapy?
+High risk*
+Early referral to Foot
+Protection Services
+NO
+YES
+YES
+NO
+Deformity/
+neuropathy/
+non-critical
+limb ischaemia
+Moderate
+risk*
+Low
+risk*
+Refer to Foot
+Protection Services
+Callus alone
+• Total contact insole
+• Foot care education
+• Yearly screening
+Normal
+findings
+• Foot care education
+• Yearly screening
+Management of Diabetic Foot (Second Edition)
+xi
+ALGORITHM B. ACTIVE FOOT PROBLEMS
+(WITH RISK STRATIFICATION)
+University of Texas Classification of Diabetic Foot
+UT: University of Texas
+* Refer urgently for admission if patients present with general illness
+(e.g. sepsis or diabetic emergencies) irrespective of foot problems.
+Active foot problems*
+Without ulcer
+(UT 0)
+With ulcer
+Superficial
+(UT IA)
+Infection
+Ischaemia
+(pulses not
+palpable)
+(UT IC/IIC/IIIC)
+Infection
+and
+ischaemia
+(UT ID/IID/IIID)
+Superficial
+ulcer not
+requiring
+surgical
+intervention
+(UT IB)
+Deep ulcer
+requiring
+surgical
+intervention
+(UT IIB/IIIB)
+Manage as
+outpatient by
+Foot
+Protection
+Services
+Oral
+antibiotics
+Refer
+Multidisciplinary
+Foot Care Team
+GRADE 0
+GRADE I
+GRADE II
+GRADE III
+STAGE A
+Pre- or post-ulcerative
+lesion completely
+epithelialised
+Superficial
+wound,
+not involving
+tendon, capsule
+or bone
+Wound
+penetrating to
+tendon or capsule
+Wound
+penetrating to
+bone or joint
+STAGE B
+With infection
+With infection
+With infection
+With infection
+STAGE C
+With ischaemia
+With ischaemia
+With ischaemia
+With ischaemia
+STAGE D
+With infection and
+ischaemia
+With infection
+and ischaemia
+With infection and
+ischaemia
+With infection
+and ischaemia
+Management of Diabetic Foot (Second Edition)
+Management of Diabetic Foot (Second Edition)
+1. INTRODUCTION
+Diabetic foot can be defined as infection, ulceration or destruction
+of tissues of the foot associated with neuropathy and/or peripheral
+arterial disease of people with diabetes mellitus (DM).1 About 80%
+of non-traumatic lower limb amputations in patients with diabetes are
+preceded by a foot ulcer. Around 50% of patients with diabetes die
+within five years of developing a foot ulcer, and up to 70% die within
+five years after an amputation.2 It also accounts for substantial health
+care resources. Thus, it is a major burden to the patient, carers and the
+healthcare system.
+According to World Health Organization, the global prevalence of
+diabetes among adults of >18 years of age has risen from 4.7% (108
+million) in 1980 to 8.5% (422 million) in 2014.3 According to the National
+Health and Morbidity Surveys, the prevalence of diabetes has been
+increasing from 11.6% in 2006 to 15.2% in 2011 and further 17.5% in
+2015. The prevalence continued to increase in all age groups, from
+5.5% among the 18 - 19 years of age, and reaching its highest at 39.1%
+among the 70 - 74 years of age.4, level III Overall cost for management
+of type 2 diabetes mellitus (T2DM) in 2011 was RM1.40 billion
+corresponded to 9.21% of the entire MoH budget.5, level III
+The high prevalence of diabetes in adults increases the risk of foot
+problems, mainly due to neuropathy and/or peripheral arterial
+disease.2 Up to 50% of patients with diabetes are asymptomatic of
+diabetic peripheral neuropathy6 and about one million amputations
+are performed on diabetic patients each year worldwide.1 Diabetic foot
+requires careful attention and coordinated management, preferably by
+a multidisciplinary foot care team. Optimal management of diabetic foot
+can reduce the incidence of infection-related morbidities, the need and
+duration for hospitalisation, and the incidence of major limb amputation.7
+Intensive efforts by all healthcare providers is required and guidelines
+are needed to ensure standardisation in diabetic foot care.
+This evidence-based CPG is an updated version replacing the first
+edition of 2004. It is meant to address the main issues related to the
+aspects of care for diabetic foot especially the variation in practices in
+local setting. This CPG will help to identify patients with diabetes at risk
+of foot complications and standardise the management in an evidencebased approach.
+Management of Diabetic Foot (Second Edition)
+2. ASSESSMENT
+All patients with diabetes should be assessed for diabetes foot at risk.
+They should be screened, diagnosed, investigated, classified and
+stratified to ensure optimal management.
+2.1 Screening
+a. Peripheral Neuropathy
+Peripheral neuropathy of the foot is a common complication in patients
+with diabetes. It accounts for up to 50% of patients.8, level III It may involve
+large fibre nerves (for touch, vibration, position perception and muscle
+control), small fibre nerves (for thermal perception, pain and autonomic
+function) or both. As half of the diabetic patients with peripheral
+neuropathy are asymptomatic, screening is important to identify those
+with diabetic foot at risk.6
+Screening for peripheral neuropathy should be performed on all patients
+with diabetes. Early detection and interventions of diabetic foot at risk
+will minimise complications and healthcare cost.9 There are various
+screening tools that can be used and these are discussed below.
+• Semmes-Weinstein monofilament examination
+Semmes-Weinstein monofilament examination (SWME) is easy to
+perform and widely available locally. The examination uses a 5.07/10g monofilament which exerts a buckling force when it bends. Inability
+to sense the touch/pressure indicates loss of protective sensation
+(LOPS). Refer to Appendix 3 on Semmes-Weinstein Monofilament
+Examination.
+In patients with diabetes compared with nerve conduction study (NCS),
+SWME had the following features in detecting diabetic peripheral
+neuropathy:10, level III
+ sensitivity: 57% (95% CI 44 to 68) to 93% (95% CI 77 to 99)
+ specificity: 75% (95% CI 64 to 84) to 100% (95% CI 63 to 100)
+In patients (aged <18 years old) with type 1 diabetes mellitus (T1DM),
+compared with NCS, SWME had a sensitivity and specificity of
+19 - 73% and 64 - 87% respectively.11, level Ill
+In a meta-analysis of 19 diagnostic studies, the pooled sensitivity and
+specificity of SWME for detecting diabetic peripheral neuropathy in
+patients with diabetes as compared with NCS were 0.53 (95% CI 0.32
+to 0.74) and 0.88 (95% CI 0.78 to 0.94) respectively.12, level III
+Management of Diabetic Foot (Second Edition)
+• Tuning fork
+Tuning fork is used to detect the loss of vibration sense. The commonly
+used tuning fork is 128-Hz. Refer to Appendix 3 on Tuning Fork
+Examination.
+In patients (aged <18 years old) with T1DM, compared with NCS,
+tuning fork has a sensitivity and specificity of 1 - 19% and 87 - 99%
+respectively.11, level III
+In patients with diabetes compared to vibration perception threshold
+(VPT), tuning fork has a sensitivity and specificity of 97% and 42%
+respectively.13, level III
+•
+Neuropen
+Neuropen consists of a 10-g monofilament at one end of the tool to
+assess touch/pressure sensation and a NeurotipTM at the other end to
+test pain sensation.
+In adult patients with diabetes compared with VPT, Neuropen has
+sensitivity and specificity of 74.0 - 81.6% and 68.0 - 83.0% respectively.14
+- 15, level III
+In adult patients with diabetes, compared with neuropathy disability
+score (NDS), Neuropen has a sensitivity and specificity of 81.5% and
+71.0% respectively.15, level III
+•
+Ipswich Touch Test
+Ipswich Touch Test (IpTT) is performed by touching the tip of the index
+finger for 1 - 2 seconds on the tips of the first, third and fifth toes of both
+feet. The presence of LOPS is defined as having ≥2 insensate sites out
+of the six sites.
+In patients with diabetes, IpTT with ≥2 of six insensate areas, compared
+with a VPT of ≥25 V which signifies at-risk feet, has a sensitivity of 76 -
+85% and specificity of 90 - 92%.16 - 17, level III
+In patients with diabetes, IpTT accuracy is comparable with SWME.
+The sensitivities and specificities are:18, level III
+ 81.2% and 96.4% respectively if performed by healthcare
+providers
+ 78.3% and 93.9% respectively if performed by caregivers
+•
+VibraTip
+VibraTip provides a constant vibratory stimulus at 128-Hz for vibration
+sense examination. VibraTip has a sensitivity and specificity of 79.0 -
+92.0% and 82.0 - 94.0% respectively compared with VPT in diabetic
+patients.14, level III; 19, level III
+Management of Diabetic Foot (Second Edition)
+However, NICE medical technology guidance recommends that
+high quality diagnostic accuracy study comparing VibraTip with 10-g
+monofilament and calibrated tuning fork is needed to establish its
+effectiveness.20
+•
+Neuropad
+Neuropad is an indicator pad applied to both soles at the level of the
+first through second metatarsal heads for 10 minutes. In the presence
+of moisture from sweating, the time for colour to change from blue to
+uniform pink in the indicator test is recorded. A colour change of >10
+minutes indicates sudomotor dysfunction.
+In adult patients with T2DM, compared with NDS, Neuropad has a
+sensitivity and specificity of:21, level III
+ 95% and 75% respectively, if NDS ≥3 (mild neuropathy)
+ 91% and 96% respectively, if NDS ≥6 (moderate neuropathy)
+ 91% and 95% respectively, if NDS ≥9 (severe neuropathy)
+Neuropathy should be assessed with 10-g monofilament and one other
+modality (e.g. pin prick, vibration sense with 128-Hz tuning fork, etc.).
+These increase the sensitivity of detecting peripheral neuropathy by
+87%. Assessment of peripheral neuropathy should be performed at
+diagnosis and repeated annually.22
+b. Peripheral Arterial Disease
+Screening of peripheral arterial disease (PAD) should be done annually
+in all patients with diabetes. This includes a minimum of history taking
+and complete physical examination especially palpating foot pulses.1
+Use of bedside non-invasive tests to exclude PAD is recommended.
+Among the tests that can be used are ankle brachial index (ABI), toe
+brachial index (TBI) and continuous wave Doppler (CWD). PAD can be
+excluded when:1
+ ankle brachial index (ABI) is 0.9 - 1.3
+ toe brachial index is ≥0.75
+ there is presence of triphasic pedal Doppler arterial waveforms
+(PDAW)
+Management of Diabetic Foot (Second Edition)
+Refer to Appendix 4 on Diabetic Foot Assessment Form.
+Recommendation 1
+• Screening for diabetic peripheral neuropathy and peripheral arterial
+disease (PAD) should be performed on all diabetes mellitus patients
+at diagnosis and repeated at least annually.
+ Semmes-Weinstein
+monofilament
+examination
+should
+be
+combined with another modality* in the screening of peripheral
+neuropathy.
+ Palpation of foot pulses should be the initial screening method for
+PAD.
+*pin prick or 128-Hz tuning fork
+2.2 Diagnosis
+a. History
+Proper management of diabetic foot is initiated by good history taking.
+It includes general, medical and local diabetic foot history.
+Predictors for increased risk of foot ulceration in diabetes are:23, level I
+• previous history of ulceration or lower extremity amputations
+(OR=6.59, 95% CI 2.49 to 17.45)
+• longer duration of diabetes (OR=1.02, 95% CI 1.01 to 1.04)
+• at least one absent pedal pulse (OR=1.97, 95% CI 1.62 to 2.39)
+• inability to feel a 10-g monofilament test (OR=3.184, 95% CI 2.65
+to 3.82)
+b. Physical Assessment
+Physical assessment is an important step in screening and diagnosing
+diabetic foot problems including the complications. This includes proper
+inspection and palpation of the foot.
+•
+Skin
+Skin changes due to vascular insufficiency such as skin atrophy,
+nail atrophy, diminished pedal hair, prolonged capillary refill time (>2
+seconds) and reduced skin temperature are important to be looked for
+during skin assessment.9
+•
+Neurological
+Monofilament test and vibration perception are used to assess peripheral
+neuropathy, which is a major independent risk factor for diabetic foot
+ulceration. Sensory examination with a 5.07/10-g SWME monofilament
+is the single most practical and widely used assessment tool.9
+Management of Diabetic Foot (Second Edition)
+•
+Vascular
+• Vascular assessment includes mandatory palpation of the femoral,
+popliteal, posterior tibial and dorsalis pedis artery pulses.
+Compared with colour flow duplex ultrasound (CFDU) as the reference
+standard, non-invasive vascular assessment using CWD, ABI and TBI
+for detecting peripheral arterial disease in diabetic foot show highest
+sensitivity and specificity in CWD (74.19% and 92.86% respectively).
+On the other hand, ABI has a sensitivity and specificity of 45.16% and
+92.68%.24, level III In local setting, ABI is widely used due to its feasibility.
+The results of ABI may be misleading due to calcification of the arteries
+which give higher pressure ratio. The normal ratio is in the range of
+0.9 - 1.3.
+Critical limb ischaemia is defined as rest pain with ulcers or tissue loss
+attributed to arterial occlusive disease. It is associated with great loss
+of limb and life.25, level III Patients with this condition should be referred
+urgently to specialist care.
+•
+Musculoskeletal
+Musculoskeletal complications in diabetic foot include ulcers, infections
+and deformities (e.g. Charcot Neuroarthropathy). These complications
+have been given less attention compared to other complications.
+Probe-to-bone test is a clinical technique used in diabetic patients with
+a foot infection consisting of exploring the wound for palpable bone with
+a sterile blunt metal probe. A positive test is defined as palpating a hard
+or gritty substance that is presumed to be bone or joint space. It is a
+useful clinical modality in the assessment of osteomyelitis in diabetic
+foot. It has a sensitivity and specificity of 87% and 83% respectively,
+when compared with magnetic resonance imaging (MRI), bone
+histopathology or bone culture.26, level III
+Refer to Appendix 4 on Diabetic Foot Assessment Form.
+2.3 Investigation
+a. Laboratory
+There is no evidence on laboratory investigation in supporting the
+diagnosis of diabetic foot except in active infection.
+b. Imaging
+Imaging is part of management in diabetic foot presented with ulcers,
+infections and deformities. The imaging modalities used are discussed
+below.
+Management of Diabetic Foot (Second Edition)
+•
+Conventional radiography
+Conventional radiography is the initial imaging modality for diabetic foot
+which is inexpensive and readily available. It is able to demonstrate
+major structural changes and its anatomical distribution.27, level III Possible
+findings are osteolysis, arterial calcification, gas shadow, malalignment
+and peri-articular fragmentation.
+Features of osteomyelitis may not be visualised in plain radiographs
+until 10 - 21 days after the initial infection.28, level III
+• It is important to note that osteomyelitis may be present in a person
+with diabetes mellitus despite normal inflammatory markers, plain
+radiographs or probe-to-bone testing.2
+•
+Computed tomography
+Computed tomography (CT) is useful in the assessment of chronic
+osteomyelitis as presence of sequestrum, cloaca and involucrum can
+be seen in the images. However, it does not have significant advantage
+over plain radiograph. It is also unable to detect bone marrow oedema
+at early stage of infection.27, level III
+•
+Magnetic resonance imaging
+Magnetic resonance imaging (MRI) is the primary imaging modality for
+investigating infection in diabetic foot. In the diagnosis of osteomyelitis,
+MRI can be considered when it is not detected by plain radiograph.2
+MRI has a sensitivity and specificity of 93% and 75% in detecting
+osteomyelitis when compared with bone histopathological or culture.29, level III
+•
+Others
+Other modalities used in detection of osteomyelitis are:29, level III
+ fluorodeoxyglucose positron emission tomography (18F-FDGPET)
+ radiolabeled white blood cell scintigraphy (with 111In-oxine)
+ radiolabeled white blood cell scintigraphy (with 99mTc-HMPAO)
+ positron emission tomography (PET) scan has had limited use in
+clinical practice due to high cost and poor availability; however, in
+the future it may become more cost-effective as this modality has
+demonstrated a high level of diagnostic value28, level III
+Management of Diabetic Foot (Second Edition)
+2.4 Risk Stratification
+Patient’s current risk of developing a diabetic foot or requiring an
+amputation is assessed using the risk stratification as shown in Table 1.
+Table 1. Diabetic foot risk stratification
+Source: National Institute for Health and Care Excellence. Diabetic Foot Problems:
+Prevention and Management. London: NICE; 2015
+• Patients with active diabetic foot problem should be referred urgently
+and seen within 24 hours in secondary/tertiary care.
+2.5 Classification
+Diabetic foot is classified according to nature and severity of the
+disease. The commonly used classifications are Meggitt–Wagner (MW)
+and University of Texas (UT). Others include:
+• Site, ischaemia, neuropathy, bacterial infection and depth
+(SINBAD)
+• Perfusion, Extent, Depth, Infection and Sensation (PEDIS)
+• Diabetic ulcer severity score (DUSS)
+• Depth of the ulcer, extent of bacterial colonisation, phase of ulcer
+and association aetiology (DEPA)
+Diabetic foot risk Findings
+Normal
+No abnormalities
+Low Risk
+Callus alone
+Moderate Risk
+Any of the following:
+• deformity
+• neuropathy
+• non-critical limb ischaemia
+High Risk
+One of the following:
+• previous ulceration
+• previous amputation
+• on renal replacement therapy
+• neuropathy and non-critical limb ischaemia
+• neuropathy with callus and/or deformity
+• non-critical limb ischaemia with callus and/or deformity
+Active Diabetic
+Foot Problem
+Any of the following:
+• ulceration
+• infection
+• critical limb ischaemia
+• gangrene
+• suspicion of an acute Charcot neuroarthropathy, or an
+unexplained hot, red, swollen foot with or without pain
+Management of Diabetic Foot (Second Edition)
+• Size (area, depth), sepsis, arteriopathy, denervation system
+[S(AD)SAD]
+• Curative Health Services (CHS)
+There is moderate agreement between healthcare providers in the
+assessment of diabetic foot ulcer (DFU) using MW (κ=0.415, 95% CI
+0.413 to 0.418) and UT (t=0.447, 95% CI 0.443 to 0.50).30, level III
+Multiple observers of multidisciplinary healthcare professionals
+improve reliability of three scoring systems (SINBAD, PEDIS and UT)
+in assessment of DFU (κ=0.94 for UT, κ=0.91 for SINBAD and κ=0.800.90 for PEDIS).31, level III
+All available systems (DUSS, UT, MW, DEPA and SINBAD) has
+substantial accuracy (AUC >0.8) in prediction of amputation.32, level III
+In a systematic review, the classification systems for DFU prediction
+on lower extremity amputation had a wide range of sensitivity and
+specificity:33, level II-2
+• 45.2 - 97.4% and 65.0 - 85.8% respectively in MW (grade ≥3)
+• 52.2% and 87.5% respectively in S(AD)SAD (score >9)
+• 37.6 - 67.4% and 72.6 - 80.1% respectively in CHS wound grade
+scale (grade ≥3)
+• 100% and 49.2% respectively in DEPA (score ≥7)
+Pooled accuracy on DFU characterisation variables, ranged from 0.65
+(for gangrene) to 0.74 (for infection).
+Of all the classification systems mentioned above, the UT and MW
+systems are simple and easiest to use. However inclusion of stage in
+UT system makes it a better predictor of outcome.34, level II-2 Refer to
+Appendix 5 on University of Texas Classification.
+Recommendation 2
+• University of Texas Classification is the preferred classification for
+diabetic foot.
+Management of Diabetic Foot (Second Edition)
+3. REFERRAL
+Patients who are at moderate or high risk of developing a diabetic foot
+problem are referred to the multidisciplinary professionals in the field of
+podiatry, diabetology, biomechanics and orthoses, and wound care.2
+Patients with a limb-threatening or life-threatening diabetic foot problem
+should be referred urgently and managed under specialist care.
+Examples of such conditions include:
+• ulceration with fever or any signs of sepsis
+• critical limb ischaemia [refer to Section 2.2. (b) on vascular
+assessment]
+• clinical concern that there is a deep-seated soft tissue or bone
+infection (with or without ulceration)
+• gangrene (with or without ulceration)
+The recommended referral schedule for the diabetic foot is shown in
+the following table.
+Table 2. Recommended referral schedule
+Refer to Table 1 on Diabetic foot risk stratification
+3.1 Foot Protection Team
+Foot protection team provides service in prevention of diabetic foot
+problems for low, moderate and high risk feet and management of
+simple active diabetic foot problems in the community that do not
+require admission.2 Foot protection team should be led by a Family
+Medicine Specialist or physician with special training in diabetic foot
+problems and supported by podiatrists, diabetic team (including diabetic
+educators), wound care team and rehabilitation services.
+3.2 Multidisciplinary Foot Care Team
+Presence of a multidisciplinary team may improve rates of amputation,
+hospital admission and length of stay. It is recommended that each
+hospital should have a multidisciplinary foot care team consisting of
+Risk
+Referral
+Normal/Low risk
+No referral needed. Yearly review at primary care
+Moderate risk
+Referral within three months to foot protection
+services
+High risk
+Early referral within two weeks to foot protection
+services
+Active
+Urgent referral within 24 hours to multidisciplinary
+foot care team
+Management of Diabetic Foot (Second Edition)
+specialists in diabetes management, orthopaedic surgeons, vascular
+surgeons, rehabilitation physicians, occupational therapists, podiatrists,
+diabetes educators, wound care team, etc. This team manages active
+or complex diabetic foot problems according to available guidelines.2
+• The multidisciplinary foot care team in the hospital is led by the
+orthopaedic surgeon and/or physician. Subsequent referral to other
+specialty is made according to the main problem presented by the
+patient.
+Recommendation 3
+• Active or complicated diabetic foot problems should be preferably
+managed by a multidisciplinary foot care team.
+Management of Diabetic Foot (Second Edition)
+4. PREVENTION
+4.1 Patient Education
+Patients with neuropathy tend to ignore signs of injury due to lack of
+normal pain response. This can influence patient’s adherence to selfcare. Thus, intense education on foot care is necessary to reduce
+diabetic foot complications. Education should be structured and done
+at regular intervals repeatedly for the prevention of the foot problems.1
+Patient education can be provided by a physician, podiatrist or skilled
+healthcare practitioner providing dedicated time to explain the basic
+care of the foot, callus and nail. This should be done at least annually.1
+• Healthcare professionals providing foot-care education should
+receive regular and updated education in the management of
+patients at risk for foot ulceration.
+Temperature monitoring as “self-assessment tool for high-risk diabetic
+foot” significantly decreases risk of developing foot ulceration compared
+with standard therapy and structured foot examination.35, level I However,
+more evidence is required to show its effectiveness.
+In prevention of ulcer recurrence, education as part of integrated foot
+care programme, together with life-long observation, professional
+foot treatment and adequate footwear, should be done one to three
+monthly.1
+Refer to Appendix 6 on Patient education materials.
+Recommendation 4
+• Patient education should be an integral part in the management
+of diabetic foot at least annually and more frequent in higher risk
+patients.
+4.2 Metabolic Control
+Hyperglycaemia causes increased risk of microvascular and
+macrovascular complications in diabetes. This increased risk is
+associated with foot ulcerations that may lead to limb amputations.
+In a systematic review, intensive control [haemoglobin A1c (HbA1c)
+6 - 7.5%] compared with less intensive glycaemic control showed:36, level I
+Management of Diabetic Foot (Second Edition)
+• decrease in risk of amputation (RR=0.65, 95% CI 0.45 to 0.94)
+• slower decline in sensory vibration threshold (MD= -8.27, 95% CI
+-9.75 to -6.79)
+However, there was no effect on other neuropathic changes (RR=0.89,
+95% CI 0.75 to 1.05) or ischaemic changes (RR=0.92, 95% CI 0.67
+to1.26).
+In a Cochrane systematic review on the prevention of diabetic
+neuropathy, intensive glycaemic control (HbA1c <7.0%) compared
+with less intensive glycaemic control significantly reduced the risk of
+developing neuropathy in T1DM but not in T2DM at ≥12 months followup. However, this was associated with an increased risk of severe
+hypoglycaemia, weight gain, hospitalisations and deaths in both T1DM
+and T2DM.37, level I
+Glycaemic control must be individualised.22 Targets of HbA1c
+individualised to patient’s profile is shown in Table 3. Adequate
+glycaemic control with minimisation of hypoglycaemia is advocated to
+reduce the incidence of DFUs and infections, with subsequent risk of
+amputation.36, level I
+Table 3. Individualised HbA1c targets
+Source: Malaysian Endocrine & Metabolic Society and Ministry of Health Malaysia.
+Management of Type 2 Diabetes Mellitus (5th Edition). Kuala Lumpur:
+MEMS & MoH; 2015
+Recommendation 5
+• Glycaemic control (with minimisation of hypoglycaemia) in the
+prevention of diabetic foot should be individualised.
+4.3 Preventive Foot Wear
+Mechanical loading of the feet during activities, e.g. walking or standing,
+exposes pressure on the plantar surface causing compression and shear
+Individualised A1c targets and patient’s profile
+Tight (6.0 - 6.5%)
+6.6 - 7.0%
+Less tight (7.1 - 8.0%)
+• Newly diagnosed DM
+• Younger age
+• Healthier [long life
+expectancy, no
+cardiovascular disease
+(CV) complications]
+• Low risk of
+hypoglycaemia
+• Co-morbidities (coronary
+disease, heart failure,
+renal failure,
+liver dysfunction)
+• Short life expectancy
+• Prone to hypoglycaemia
+• All others
+Management of Diabetic Foot (Second Edition)
+stress. The pressure and stress are aggravated by foot deformities (e.g.
+hammer and claw toes) which are common in patients with diabetes.
+Appropriate footwear is important for all patients with diabetes.
+Its importance increases with higher risk of developing DFU.
+Recommendations of footwear according to foot risk status are shown
+in Table 4.38
+• The following should be checked each time before and after wearing
+the footwear:
+ presence of foreign or penetrating objects
+ signs of abnormal pressure, trauma or ulceration of the feet
+• Patients and caregivers should be educated on the appropriate
+footwear (covered shoes with breathable material) to prevent foot
+ulceration.
+• It is not advisable to wear thong slippers or shoes with toe box which
+is too tight or too loose.
+Table 4. Footwear advice
+Adapted: van Netten JJ, Lazzarini PA, Armstrong DG, et al. Diabetic Foot Australia
+guideline on footwear for people with diabetes. J Foot Ankle Res. 2018;1:2
+In a systematic review on footwear and off-loading interventions in
+diabetic patients with neuropathy:39, level I
+• custom-made insoles showed fewer recurrent metatarsal head
+ulcers compared with standard insoles at 15 months (p=0.007)
+• custom-made footwear with in-shoe plantar pressure reduction
+significantly reduced foot ulcer incidence when worn >80% daily
+compared with custom-made footwear without in-shoe plantar
+pressure reduction (25.7% vs 47.8%)
+Risk status
+Actions
+• Advise on using footwear that fits, protects and
+accommodates the shape of the feet (with socks). Refer to
+Appendix 7 on Footwear Advice.
+• Prescribe footwear with:
+ custom-made in-shoe orthoses or insoles for people with
+foot deformity or pre-ulcerative lesions
+ off-loading orthoses or insoles for people with healed
+plantar foot ulcer
+• Review prescribed footwear periodically to ensure it still
+fits, protects, and supports the foot
+• Advise on wearing footwear at all times, both indoors and
+outdoors
+• Prescribe appropriate off-loading devices for ulcer healing
+All foot
+at-risk
+Moderate
+or high-risk
+Foot
+ulceration
+Management of Diabetic Foot (Second Edition)
+Intensive footwear therapy with prescribed footwear had significantly
+reduced first/recurrent ulcer compared with ready-made footwear in
+diabetes patients with neuropathy, deformity, previous ulceration and
+minor amputation.
+Recommendation 6
+• Patients with diabetes should be advised on appropriate footwear
+according to the foot risk.
+4.4 Preventive Surgery
+Preventive foot surgery is a procedure to prevent foot ulceration or reulceration in patients with diabetes. It is important to consider history
+of previous ulceration and/or amputation when assessing a patient for
+preventive surgery to set treatment strategy and determine prognosis.
+a. Gastrocnemius-soleus fascia recession
+Gastrocnemius-soleus fascia recession performed on plantar ulcers
+under the metatarsal heads in diabetic foot patients with neuropathic
+ulcer (Wagner grade 2 or 3):40, level II-3
+• increases ankle dorsiflexion to 14.5° and mobility at two weeks
+post-operation
+• complete ulcer healing in 71% of patients at 20 days post-operation
+and the remaining at 30 - 34 days post-operation
+• no ulcer recurrences and remains free of new ulcers in other areas
+at one year
+Adverse events of the procedure are:
+• subcutaneous hematoma (completely resolve within three weeks)
+• neuropraxia of the sural nerve (persist for several months)
+b. Achilles tendon lengthening (modified White’s technique)
+Achilles tendon lengthening shows:
+• no recurrence of ulcer and improved foot function in 92% of diabetic
+foot patients with history of healed forefoot ulcers, neuropathy,
+dorsiflexion of ≤18° and good vascularity41, level II-3
+• significantly less recurrence of ulcers at seven months follow-up
+in patients with total contact cast compared with those with total
+contact cast alone (15% vs 59%) and persists at two years (38%
+vs 81%)35, level I
+• no major adverse events35, level I
+Management of Diabetic Foot (Second Edition)
+c. Percutaneous Tenotomy
+When percutaneous tenotomy is performed, the ulcers at the:
+• tip of the toe without osteomyelitis heal within three weeks42, level III
+• tip of the toe with osteomyelitis heal within eight weeks42, level III
+• tip of the toe heal in 98% of ulcers43, level III
+• dorsal aspect of the toes heal in in 92% of ulcers at four weeks
+43, level III
+• plantar metatarsal head do not heal43, level III
+There are no serious complications following the procedure.42 - 43, level III
+d. Osteotomy
+Corrective surgery performed on metatarsal head ulcers shows
+lower rate of recurrence and amputation compared with conservative
+treatment (p=0.0013).35, level I
+Preventive surgery should only be done by foot and ankle surgeons or
+general orthopaedic surgeon privileged for these procedures.
+Recommendation 7
+• Preventive surgeries by orthopaedic surgeons trained in the
+procedures may be considered to prevent ulceration or re-ulceration
+in diabetic patients with foot deformity*.
+*restricted ankle dorsiflexion, equinus contracture, claw toe, hammer
+toe or mallet toe
+Management of Diabetic Foot (Second Edition)
+5. TREATMENT
+5.1 Pharmacotherapy
+The main pharmacotherapies in diabetic foot are analgesics and
+antimicrobial agents.
+a. Analgesics
+The causes of pain in diabetic foot are peripheral neuropathy, ischaemia
+and infection. The treatment is similar with other painful conditions.
+For mild to moderate pain, the WHO analgesic ladder recommends using
+simple analgesics (e.g. paracetamol or non-steroidal anti-inflammatory
+drugs). Additional weak opioids (e.g. tramadol or dihydrocodeine)
+should be considered in moderate pain. Strong opioids (e.g. morphine)
+should be offered to patients with moderate to severe pain.44
+In neuropathic pain, adjuvants are used at all steps of the analgesic
+ladder.44 Examples of the adjuvants are antidepressant (e.g.
+amitriptyline or duloxetine) and anticonvulsant (e.g. gabapentin or
+pregabalin).45 Refer to Appendix 8 on Treatment of Neuropathic Pain
+in Diabetic Foot.
+b. Topical antimicrobial
+Wound treatments aim to alleviate symptoms, promote healing and
+avoid adverse outcomes. Topical antimicrobial therapy has been
+used on DFUs, either for treatment of clinically infected wounds or
+for prevention of infection in uninfected wounds. There are two major
+groups of topical antimicrobials which are discussed below. Refer to
+Appendix 9 on Types of Infections in Diabetic Foot and Suggestions
+of Treatment.
+•
+Antiseptics
+Antiseptics are a type of disinfectant that can be used on intact skin and
+some open wounds to kill or inhibit micro-organisms.
+Iodine dressing is commonly used in infected wound in the local
+setting. A systematic review showed that antiseptic effect of iodine was
+not inferior to other antiseptic agents and did not impair wound
+healing.46, level I
+Although there is no recent evidence on chlorhexidine, it has been
+widely used as wound antiseptics locally.
+•
+Topical antibiotics
+Most topical antibiotics used in diabetic foot have efficacy against
+gram-positive bacteria (e.g. bacitracin, mupirocin, retapamulin), with a
+Management of Diabetic Foot (Second Edition)
+smaller number demonstrating efficacy against gram-negative bacteria
+(e.g. neomycin, silver sulphadiazine). Some antibiotics that are used
+systemically (e.g. gentamicin, metronidazole, clindamycin) have also
+been formulated for topical use.47, level I
+In a Cochrane systematic review, topical antimicrobial dressing was
+more effective than non-antimicrobial dressing in wound healing of
+diabetic foot (RR=1.28, 95% CI 1.12 to 1.45). However, there was no
+significant difference in adverse events between topical antimicrobial
+agent and non-antimicrobial agent.47, level I
+The following topical antibiotics may be used in diabetic foot:47, level I
+• bacitracin C
+• metronidazole
+• neomycin
+• fusidic acid
+• mupirocin
+• silver sulphadiazine
+• gentamicin
+c. Systemic antibiotics
+In a Cochrane systematic review, ertapenem with or without vancomycin
+was more effective in clinical resolution of infections than tigecycline in
+diabetic foot (RR=0.92, 95% CI 0.85 to 0.99). There was no significant
+difference in clinical resolution rates of infection in comparison of other
+antibiotics. There was also no significant difference in adverse events
+between different antibiotics.48, level I
+In another Cochrane systematic review, there was no significant
+difference in MRSA eradication rate in non-surgical wounds (diabetic
+foot) in any of the following comparisons:49, level I
+• daptomycin vs vancomycin/semisynthetic penicillin (RR=1.13,
+95% CI 0.56 to 2.25)
+• ertapenem vs piperacillin/tazobactam (RR=0.71, 95% CI 0.06 to
+9.10)
+• moxifloxacin vs piperacillin/tazobactam followed by amoxycillin/
+clavulanate (RR=0.87, 95% CI 0.56 to 1.36)
+Management of Diabetic Foot (Second Edition)
+• Antibiotics should not be used unless there are local or systemic
+symptoms of infection. Local treatment including surgical debridement
+is important to be considered as part of the management. Antibiotic
+used for treatment should be based on the most recent culture and
+sensitivity (C&S) report.50
+• In diabetic foot, antibiotics should be given according to the disease
+severity, care setting, patient’s preference, clinical situation and
+medical history. If more than one regimen is appropriate, regimen
+with lowest cost should be selected. For moderate and severe
+infections, broad spectrum antibiotics are used initially until C&S
+results are available.2
+• Antibiotics should not be given for:2
+ prevention of infections in diabetic foot
+ >14 days for the treatment of mild soft tissue infection in diabetic
+foot
+Recommendation 8
+• Appropriate analgesia should be considered in painful diabetic foot.
+• Antibiotics should be used as an adjunct to surgical debridement in
+infected diabetic foot.
+5.2 Wound Management
+Wound care is important in the management of diabetic foot. Ideally,
+it should alleviate symptoms, provide wound protection and facilitate
+healing. Selection of interventions (e.g. dressings and adjuvant therapy)
+will aid the healing process.
+a. Non-surgical Intervention
+i. Dressing
+Appropriate wound dressing is done to maintain adequate moisture
+and/or remove dead tissue. There are two types of dressing i.e. basic
+and advanced. Refer to Appendix 10 on Types of Wound Dressings
+in Diabetic Foot.
+•
+Basic wound contact dressings
+Basic wound contact dressing is the minimal dressing for diabetic ulcer
+in the absence of advanced wound dressings. It uses gauze with or
+without paraffin coating.
+Management of Diabetic Foot (Second Edition)
+•
+Advanced wound dressings
+Advanced wound dressings are used for dry, sloughy and/or wet
+wound. Two Cochrane systematic reviews of low to moderate quality
+clinical trials compared different dressings as follows:
+ Hydrogel dressing
+Hydrogel dressing significantly increased ulcer healing compared
+with basic wound contact dressings in diabetic foot.51, level I
+ Alginate dressing
+There was no significant difference in ulcer healing between
+alginate and foam, silver-hydrofibre or basic wound contact
+dressings in diabetic foot.51, level I
+ Hydrofibre dressing
+There was no significant difference in ulcer healing between
+hydrofibre and iodine-impregnated or basic wound contact
+dressings in diabetic foot.51, level I
+ Foam dressing
+There was no significant difference in ulcer healing between
+foam and alginate, matrix-hydrocolloid or basic wound contact
+dressings in diabetic foot.51, level I
+ Hydrocolloid dressing
+Fibrous-hydrocolloid dressings (with or without antimicrobial
+components) and hydrocolloid-matrix dressings showed no
+significant difference in the healing rates of DFUs compared with
+alternative dressings (e.g. basic wound contact dressing, alginate
+dressing or foam dressing).52, level I
+ Other dressings
+– Hyaluronic acid dressing significantly increased ulcer healing
+compared with basic wound care dressings.51, level I
+– There was no significant difference in ulcer healing between
+iodine-impregnated dressing or protease-modulating matrix
+dressing and basic wound contact dressings.51, level I
+Meanwhile, silver-impregnated dressings should be reserved for use in
+wounds with or at risk of high bioburden or local infection.53, level III
+There was no serious adverse event reported in one of the above
+reviews. It was concluded that there was no robust evidence on
+differences between wound dressings for any outcome in DFUs. Thus,
+healthcare providers may consider the cost of dressings and patient’s
+preference when choosing the type of dressings for the patients.51, level I
+Recommendation 9
+• Advanced wound dressings may be offered in diabetic foot ulcer.
+Management of Diabetic Foot (Second Edition)
+ii. Adjuvant therapy
+Adjuvant therapy is used to promote wound healing.
+•
+Negative pressure wound therapy
+Negative pressure wound therapy (NPWT) is a procedure in which a
+vacuum dressing is used to promote wound healing. It is used for clean
+exudative wounds with poor granulation.
+In DFU, when compared with advanced moist wound therapy (e.g.
+hydrogels and alginate), NPWT shows:
+ better wound healing54 - 55, level I
+ decreased foot ulcer surface areas (p=0.006)56, level I
+ shorter duration of therapy54 - 55, level I
+ fewer amputations (RR=0.35, 95% CI 0.17 to 0.74)54, level I
+ no significant difference in treatment-related complications
+(i.e. infection, cellulitis and osteomyelitis)54, level I
+•
+Maggot debridement therapy
+Maggot is used for debridement of wounds with necrotic tissues.
+Maggot debridement therapy (MDT) shows better wound closure (>50%
+of wound area) after 10 days compared with autolytic debridement with
+hydrogel in DFU. However, there is no significant difference in complete
+wound healing between both groups.57, level I
+In a local technology review, MDT decreases wound size and prepares
+the wound for faster closure compared with conventional therapy.
+However, the rate of wound closure was not significantly higher than
+conventional therapy. More clinical research is warranted to provide
+further additional evidence on the effectiveness for its use in wound
+healing.58
+•
+Hyperbaric oxygen therapy
+Hyperbaric oxygen therapy (HBOT) is used to increase oxygenation
+and antimicrobial effect that can improve the healing of chronic ulcer.
+Compared with hyperbaric air or standard care as adjunct treatment in
+DFU, HBOT shows:57, level I
+ faster healing rate (OR=14.25, 95% CI 7.08 to 28.68)
+ reduction in amputation rate (OR=0.30, 95% CI 0.10 to 0.89)
+HBOT is more effective than control in chronic DFUs in terms of:59, level I
+ improvement in transcutaneous oxygen tensions after treatment
+(RR=9.00, 95% CI 4.68 to 13.32)
+ ulcers healing at six weeks (RR=4.61, 95% CI 2.3 to 9.08) and six
+months (RR=2.71, 95% CI 1.53 to 4.83)
+Management of Diabetic Foot (Second Edition)
+ reduction of ulcers area (MD=18.10, 95% CI 1.40 to 34.79)
+ reduction of major amputations (RR=0.20, 95% CI 0.10 to 0.38)
+In a local study, 86.7% of patients in HBOT group achieved complete
+ulcer healing at six months follow-up compared with 60% in the control
+group (p<0.001). It should be noted that HBOT is an adjunctive therapy
+to the standard management of chronic DFU.60, level II-1
+Recommendation 10
+• Adjuvant therapy may be offered in delayed wound healing in
+diabetic foot with good vascularity.
+b. Surgical Intervention
+•
+Revascularisation
+The prevalence of peripheral arterial disease (PAD) is 24% among
+urban high-risk Malaysian with diabetes.61 Revascularisation improves
+the healing of ischaemic diabetes ulcer. Without revascularisation,
+patients with DFU are at higher risk of having an amputation.
+Revascularisation, when feasible, can be achieved either by bypass
+surgery or endovascular procedures.62, level II-2
+In a Cochrane systematic review on patients requiring revascularisation,
+compared with percutaneous transluminal angioplasty (PTA), bypass
+surgery had higher:63, level I
+ technical success rates (OR=2.26, 95% CI 1.49 to 3.44)
+ primary patency rate at one year (OR=1.94, 95% CI 1.20 to 3.14)
+However, in the same review, bypass surgery and endovascular
+treatment showed no difference in clinical improvement, amputation
+rates, re-intervention rates or mortality within the follow-up period in
+patients with chronic limb ischaemia. In patients with high surgical risk,
+endovascular treatment may be advisable.63, level I
+In another systematic review, open surgery showed higher limb salvage
+rates and lower minor amputation rates compared with endovascular
+procedure in diabetes patients with ulcerated foot. Major amputation
+was only 3.5% within 30 days post-revascularisation.64, level II-1
+There was also no significant difference between both intervention
+modalities in terms of early post-interventional non-thrombotic and
+peri-interventional complications.63, level I Special precautions should
+be considered in patients with renal impairment in procedures where
+intravascular contrast is used.65
+A Cochrane systematic review of moderate quality primary papers which
+included diabetes with PAD, antiplatelet therapy (with aspirin or aspirin
+Management of Diabetic Foot (Second Edition)
+plus dipyridamole) vs placebo or no treatment after peripheral arterial
+bypass surgery at 12 months showed better primary grafts patency
+(OR=0.42, 95% CI 0.22 to 0.83) especially in prosthetic grafts.66, level I
+Recommendation 11
+• Revascularisation should be offered in diabetic patients with
+peripheral arterial disease.
+ Antiplatelet therapy should be considered as part of postrevascularisation treatment.
+•
+Debridement
+Debridement is a process of removing necrotic or foreign tissue
+from a wound to promote healing. There are three common types of
+debridement which are autolytic, mechanical and sharp (surgical).
+In a systematic review, an old randomised control trial (RCT) comparing
+surgical debridement and conventional wound dressing in DFUs
+showed:67, level I
+ shorter healing time with surgical debridement (46.7 vs 128.9
+days; p<0.001)
+ no significant difference in healing rate, infective complications
+and relapses of ulcerations
+NICE guidelines recommend that debridement of DFU in either hospital
+or community should only be done by healthcare professionals with
+relevant training and skills.2
+Although there is insufficient evidence, the CPG DG opines that surgical
+debridement is a good option as it has shown good wound closure and
+rapid wound healing based on clinical experience. It is done when the
+non-surgical debridement fails or when the wound is deep and infected.
+Recommendation 12
+• Surgical debridement by trained healthcare providers should be
+considered in diabetic foot ulcer which:
+ fails to respond to non-surgical debridement
+ is deep and infected at presentation
+•
+Reconstruction
+Soft-tissue reconstruction in diabetic foot is a challenge and usually
+delayed until the patient is optimised medically, and the infection is
+well-controlled. Primary closure of the wound may not be feasible
+and secondary healing may not be reliable if the infection is not wellcontrolled. Therefore, reconstruction surgery (e.g. skin grafts, flaps or
+Management of Diabetic Foot (Second Edition)
+tissue expansion) is vital in the management for patients with diabetic
+foot problems.
+In a Cochrane systematic review, treatment of foot ulcers using skin
+grafts/tissue replacements showed:68, level I
+ higher incidence of complete closure (RR=1.49, 95% CI 1.21 to
+1.85)
+ lower incidence of lower limb amputations (RD= -0.06, 95% CI
+-0.10 to -0.01)
+ lower incidence of infections (RR=0.72, 95% CI 0.53 to 0.98)
+ no significant difference in ulcer recurrence
+Dermal or skin grafting should be considered as an adjunct to standard
+care when the healing of DFU has not progressed with the advice of
+multidisciplinary foot care team.2
+Recommendation 13
+• Skin grafting may be considered as an adjunct to standard care in
+the management of diabetic foot ulcer.
+c. Rehabilitation
+•
+Ulcer management
+Off-loading is a key treatment strategy for the management of DFU. It
+can be done by using non-removable [e.g. total contact cast (TCC) and
+instant total contact cast] or removable (e.g. removable cast walker,
+therapeutic footwear and padding) devices.
+Non-removable off-loading devices are more effective in healing DFUs
+compared with removable devices.39, level I; 69 - 70, level I
+TCC or walkers rendered irremovable are more effective in healing
+neuropathic plantar forefoot ulcers than walkers/footwear.39, level I TCC
+has shorter healing time by 12 days than removable cast walker in the
+management of DFU.67, level I
+No adverse events has been reported in the use of non-removable or
+removable off-loading devices.39, level I; 69, level I
+Other available off-loading options include use of assistive devices e.g.
+crutches, wheelchair, walking frames and canes.9
+Surgical treatment is indicated for chronic DFU or deformed diabetic
+foot with high plantar pressure which is not amenable to therapeutic
+footwear or off-loading techniques.9
+Management of Diabetic Foot (Second Edition)
+•
+Post-amputation rehabilitation
+Amputation is done to remove non-viable tissues due to infection and
+gangrene. It is performed to allow optimum function of the affected
+limb.9 Rehabilitation of amputees encompasses pre-amputation,
+post-operative, pre-prosthetic and prosthetic stage, within which an
+amputee is provided with prosthesis. It also includes subsequent longterm monitoring and follow-up. Multidisciplinary approach is required to
+achieve successful re-integration of an amputee into the community.
+The goals of rehabilitation for patients with amputations are as follows:71
+•
+musculoskeletal re-conditioning and cardiopulmonary training
+•
+contralateral limb preservation
+•
+emotional care related to concepts of loss, mourning and the
+need for peer support and education
+•
+minimisation of systemic complications
+•
+social re-integration
+•
+setting realistic patient expectations and functional outcome
+goals
+Outcomes of patients with amputations as the following:72
+•
+Patients with more distal amputation have better longterm functional outcomes e.g. patients with transmetatarsal
+amputation or toe amputation have increased ability to complete
+activity of daily livings compared with patients with more proximal
+amputation levels e.g. transtibial or transfemoral amputation.
+•
+Patients with transtibial amputation have better mobility and
+decreased wheelchair used compared with patients with
+transfemoral amputation, hence demonstrating better quality
+of life. These observations were also noted in patients with
+knee disarticulation compared with patients with transfemoral
+amputation.
+•
+Longer residual limb length helps to optimise a patient’s ability
+in ambulation. Preserving maximum residual limb length will
+likely lead to improved rehabilitation outcomes for most patients.
+Prosthesis will be prescribed for patients with good cognitive
+function, vision, CV reserve and healed residual stump.
+Recommendation 14
+• Off-loading should be offered to patients with plantar diabetic foot
+ulcer.
+• All patients with diabetic foot who has amputation should be referred
+for rehabilitation.
+Management of Diabetic Foot (Second Edition)
+6. MONITORING AND FOLLOW-UP
+Frequency of monitoring of patients with diabetic foot depends on risk
+stratification as shown below:
+Modified: National Institute for Health and Care Excellence. Diabetic Foot Problems:
+Prevention and Management. London: NICE; 2015
+Consider:
+•
+training caregivers in foot assessment for patients who are unable
+to check their own feet
+•
+the overall health of the patients and the progression/deterioration
+of wound healing in deciding the frequency of follow-up as part of
+the treatment plan
+Ensure that the frequency of monitoring in the patients’ individualised
+treatment plan is maintained whether the diabetic patients are being
+treated in hospital or health clinic.
+Low Risk Moderate Risk
+High Risk
+No immediate concern Immediate concern
+Frequency Annually
+1 - 2 weeks
+1 - 2 months
+3 - 6 months
+Risk
+Management of Diabetic Foot (Second Edition)
+7. CHARCOT NEUROARTHROPATHY
+Charcot neuroarthropathy (CN) is common in patient with diabetes.
+Foot ulceration develops in 34% of patients with CN, and is 12 times
+more likely to undergo amputation when ulceration has developed.
+73, level II-2 CN can be mistaken for cellulitis at early stage. It should be
+suspected in diabetes patients with inflamed foot, profound neuropathy
+and foot structural abnormalities in the absence of fever and elevated
+erythrocyte sedimentation rate.74, level III
+• CN is difficult to differentiate from osteomyelitis.
+• Appropriate use of imaging studies, including conventional
+radiographs, MRI, and nuclear medicine
+studies can aid greatly in
+diagnosis and treatment guidance of CN.
+• Early detection and treatment of CN can lead to
+better outcome,
+patient satisfaction and, avoid deformity and subsequent amputation.
+Imaging modalities are mainly used to differentiate between CN and
+osteomyelitis. The findings are as following:
+•
+Conventional radiographs common findings include focal
+demineralisation, periosteal reaction and cortical destruction
+involving multiple joints.75, level III
+•
+CT has no additional value to conventional radiography in the
+diagnosis of CN.27, level III
+•
+MRI is useful tools to differentiate CN from osteomyelitis and
+should be done early in suspected patient.75, level III
+•
+Nuclear studies (PET scan) is valuable in differentiating CN with
+infection, however it is difficult to access, technically demanding
+and expensive to perform.27, level III
+In the presence of an ulcer and unclear of the diagnosis, a biopsy is
+indicated. Pathognomonic features of CN are multiple particles of bone
+and soft tissue embedded in the deep layers of synovium.9
+The aim of managing a CN of foot and ankle is to prevent structural
+deformities and complications that ensues e.g. ulceration, osteomyelitis
+and threatened limb.
+In acute phase of CN, immobilise the foot using off-loading modalities
+e.g. crutches, wheelchair and walking frame to reduce oedema
+and skin temperature. Once it resolved, patients are allowed to use
+protected weight bearing (e.g. removable walker and TCC) as it helps
+to distribute foot pressure. Patients may be allowed to ambulate while
+bony consolidation occurs.9
+Management of Diabetic Foot (Second Edition)
+The aim of surgery is to create a stable, painless and plantigrade foot.
+Surgical treatment is indicated for a severe unbraceable deformity,
+deformity with recurrent ulceration, joint instability, exostosis and
+malalignment associated with pain or potential to get skin ulceration.
+76, level III Common surgical procedures for CN of the foot consist of:77, level III
+•
+exostectomy - relieves bony pressure that cannot be
+accommodated with orthotics means
+•
+arthrodesis of ankle, tibiotalocalcaneal and midfoot - useful
+for patients with instability, pain or recurrent ulceration that fail
+conservative treatment
+•
+lengthening of the Achilles tendon or gastrocnemius muscle
+- reduces forefoot pressure and improves the alignment of the
+ankle and parts of the foot
+Early surgical reconstruction in high risk patients can provide timely
+restoration of a plantigrade and stable foot and improve quality of life of
+the patient.78, level III
+Recommendation 15
+• Charcot neuroarthropathy should be referred to the orthopaedic
+surgeons for immediate treatment.
+Management of Diabetic Foot (Second Edition)
+8. IMPLEMENTING THE GUIDELINES
+The management of diabetic foot should be guided by evidence-based
+approach in order to provide quality care to the patients. Several factors
+may affect the implementation of recommendations in the CPG.
+8.1 Facilitating and Limiting Factors
+Existing facilitators for application of the recommendations in the CPG
+include:
+•
+wide dissemination of the CPG (soft- and hardcopies) to
+healthcare providers
+•
+regular training and updates on diabetic foot management by
+relevant stakeholders
+•
+public awareness campaigns on diabetic foot during World
+Diabetes Day, etc.
+Existing barriers for application of the recommendations of the CPG
+are:
+•
+limited exposure among healthcare providers (e.g. house officers,
+nurses, etc.) involved in the management of diabetic foot
+•
+different levels of care and wide variation in practice due to
+expertise, facilities and financial constraints
+•
+lack of awareness among patients with diabetes on the risk of
+developing diabetic foot problems
+8.2 Potential Resource Implications
+To implement the CPG, there must be strong commitment to:
+•
+ensure widespread distribution of the CPG to healthcare providers
+via printed and electronic copies
+•
+reinforce regular trainings with adequate funding for healthcare
+providers
+•
+involve multidisciplinary team at all levels of health care
+•
+strengthen and maintain the National Diabetic Foot Registry
+•
+include diabetic foot problem as national health indicator
+Management of Diabetic Foot (Second Edition)
+The following is proposed as clinical audit indicator for quality
+management of diabetic foot:
+a.
+Screening for diabetic foot problems
+b.
+Amputation rates
+Implementation strategies will be developed following the approval of
+the CPG by MoH which include launching of the CPG, Quick Reference
+and Training Module.
+=
+X 100%
+Percentage of annual
+diabetic foot screening
+in patients with
+diabetes (target>90%)
+Total number of patients with
+diabetes annually
+Number of annual diabetic foot
+screening in patients with diabetes
+=
+X 100%
+Percentage of
+diabetic-related major
+lower limb amputation
+Number of diabetic-related
+major amputation in a period
+Total number of patients with
+active diabetic foot problems
+in the same period
+Management of Diabetic Foot (Second Edition)
+References
+1. Bakker K, Apelqvist J, Lipsky BA, et al.; International Working Group on the
+Diabetic Foot. The 2015 IWGDF guidance documents on prevention and
+management of foot problems in diabetes: development of an evidence-based
+global consensus. Diabetes Metab Res Rev. 2016;32 Suppl 1:2-6.
+2. National Institute for Health and Care Excellence. Diabetic Foot Problems:
+Prevention and Management. London: NICE; 2015.
+3. World Health Organization. Global report on diabetes. Geneva: World Health
+Organization; 2016
+4. Tahir A, Muhammad FMY, Abdul AAG, et al (eds.). National Health and Morbidity
+Survey: Non-Communicable Diseases, Risk Factors and other health problems.
+Institute for Public Health. 2015.
+5. Feisul IM, Azmi S, Mohd Rizal AM, et al. What are the direct medical costs of
+managing Type 2 Diabetes Mellitus in Malaysia? Med J Malaysia. 2017;72(5):271277.
+6. Pop-Busui R, Boulton AJ, Feldman EL, et al. Diabetic Neuropathy: A Position
+Statement by the American Diabetes Association. Diabetes Care. 2017;40(1):136154.
+7. Lipsky BA, Berendt AR, Deery HG, et al. Diagnosis and Treatment of Diabetic
+Foot Infections. Infectious Diseases Society of America.Clin Infect Dis. 2004;
+39(7):885-910.
+8. Tesfaye S, Boulton AJ, Dyck PJ, et al. Toronto Diabetic Neuropathy Expert Group.
+Diabetic neuropathies: update on definitions, diagnostic criteria, estimation of
+severity, and treatments. Diabetes Care. 2010;33(10):2285-93.
+9. Ministry of Health Malaysia. Management of Diabetic Foot. Kuala Lumpur: MoH;
+2004.
+10. Feng Y, Schlösser FJ, Sumpio BE. The Semmes Weinstein monofilament
+examination as a screening tool for diabetic peripheral neuropathy. J Vasc Surg.
+2009;50(3):675-682, 682.e1.
+11. Hirschfeld G, von Glischinski M, Blankenburg M, et al. Screening for Peripheral
+Neuropathies in Children With Diabetes: A Systematic Review. Pediatrics.
+2014;133(5):e1324-1330.
+12. Wang F, Zhang J, Yu J, et al. Diagnostic Accuracy of Monofilament Tests for
+Detecting Diabetic Peripheral Neuropathy: A Systematic Review and MetaAnalysis. Journal of Diabetes Research. 2017;2017:8787261.
+13. Kästenbauer T, Sauseng S, Brath H, et al. The value of the Rydel-Seiffer tuning
+fork as a predictor of diabetic polyneuropathy compared with a neurothesiometer.
+Diabet Med. 2004;21(6):563-567.
+14. Bracewell N, Game F, Jeffcoate W, et al. Clinical evaluation of a new device
+in the assessment of peripheral sensory neuropathy in diabetes. Diabet Med.
+2012;29(12):1553-1555.
+15. Paisley A, Abbott C, van Schie C, et al. A comparison of the Neuropen against
+standard quantitative sensory-threshold measures for assessing peripheral nerve
+function. Diabet Med. 2002;19(5):400-405.
+16. Rayman G, Vas PR, Baker N, et al. The Ipswich Touch Test: a simple and novel
+method to identify in patients with diabetes at risk of foot ulceration. Diabetes
+Care. 2011; 34(7):1517-1518.
+17. Madanat A, Sheshah E, Badawy el-B, et al. Utilizing the Ipswich Touch Test
+to simplify screening methods for identifying the risk of foot ulceration among
+diabetics: The Saudi experience. Prim Care Diabetes. 2015; 9(4):304-306.
+18. Sharma S, Kerry C, Atkins H, et al. The Ipswich Touch Test: a simple and
+novel method to screen patients with diabetes at home for increased risk of foot
+ulceration. Diabet Med. 2014; 31(9):1100-1103.
+Management of Diabetic Foot (Second Edition)
+19. Nizar H, Munro N, Nightingale P, et al. Diagnostic accuracy of the VibraTip
+in detection of diabetic peripheral neuropathy. British Journal of Diabetes.
+2014;14(1):26-29.
+20. National Institute for Health and Care Excellence. Medical Technologies
+Guidance: VibraTip for testing vibration perception to detect diabetic peripheral
+neuropathy; 2014. Available at: http://www.nice.org.uk/guidance/mtg22.
+21. Papanas N, Paschos P, Papazoglou D, et al. Accuracy of the Neuropad test for
+the diagnosis of distal symmetric polyneuropathy in type 2 diabetes. Diabetes
+Care. 2011;34(6):1378-1382.
+22. Malaysian Endocrine & Metabolic Society and Ministry of Health Malaysia.
+Management of Type 2 Diabetes Mellitus (5th Edition). Kuala Lumpur: MEMS &
+MoH; 2015.
+23. Crawford F, Cezard G, Chappell FM, et al. A systematic review and individual
+patient data meta-analysis of prognostic factors for foot ulceration in people with
+diabetes: the international research collaboration for the prediction of diabetic foot
+ulcerations (PODUS). Health Technol Assess. 2015;19(57):1-210.
+24. Tehan PE, Bray A, Chuter VH. Non-invasive vascular assessment in the foot with
+diabetes: sensitivity and specificity of the ankle brachial index, toe brachial index
+and continuous wave Doppler for detecting peripheral arterial disease. J Diabetes
+Complications. 2016;30(1):155-160.
+25. Slovut DP, Sullivan TM. Critical limb ischemia: medical and surgical management.
+Vasc Med. 2008;13(3):281-291.
+26. Lam K, van Asten SA, Nguyen T, et al. Diagnostic Accuracy of Probe to Bone to
+Detect Osteomyelitis in the Diabetic Foot: A Systematic Review. Clin Infect Dis.
+2016;63(7):944-948.
+27. Peterson N, Widnall J, Evans P, et al. Diagnostic Imaging of Diabetic Foot
+Disorders. Foot Ankle Int. 2017;38(1):86-95.
+28. Smith, MD, Brandon J.; Buchanan, MD, at al. A comparison of imaging modalities
+for the diagnosis of osteomyelitis, Marshall Journal of Medicine. 2016;2(3):83-92.
+29. Lauri C, Tamminga M, Glaudemans AWJM, et al. Detection of Osteomyelitis
+in the Diabetic Foot by Imaging Techniques: A Systematic Review and Metaanalysis Comparing MRI, White Blood Cell Scintigraphy, and FDG-PET. Diabetes
+Care. 2017;40(8):1111-1120.
+30. Santema TB, Lenselink EA, Balm R, et al. Comparing the Meggitt-Wagner and
+the University of Texas wound classification systems for diabetic foot ulcers: interobserver analyses. Int Wound J. 2016;13(6):1137-1141.
+31. Forsythe RO, Ozdemir BA, Chemla ES, et al. Inter-observer Reliability of Three
+Validated Scoring Systems in the Assessment of Diabetic Foot Ulcers. Int J Low
+Extrem Wounds. 2016; 15(3):213-219.
+32. Jeon BJ, Choi HJ, Kang JS, et al. Comparison of five systems of classification
+of diabetic foot ulcers and predictive factors for amputation. Int Wound J.
+2017;14(3):537-545.
+33. Monteiro-Soares M, Martins-Mendes D, Vaz-Carneiro A, et al. Classification
+systems for lower extremity amputation prediction in subjects with active diabetic
+foot ulcer: a systematic review and meta-analysis. Diabetes Metab Res Rev.
+2014;30(7):610-622.
+34. Oyibo SO, Jude EB, Tarawneh I, et.al. A comparison of two diabetic foot
+ulcer classification systems: the Wagner and the University of Texas wound
+classification systems. Diabetes Care. 2001;24(1):84-8.
+35. van Netten JJ, Price PE, Lavery LA, et al.; International Working Group on the
+Diabetic Foot. Prevention of foot ulcers in the at-risk patient with diabetes: a
+systematic review. Diabetes Metab Res Rev. 2016;32 Suppl 1:84-98.
+36. Hasan R, Firwana B, Elraiyah T, et al. A systematic review and meta-analysis
+of glycemic control for the prevention of diabetic foot syndrome. J Vasc Surg.
+2016;63(2 Suppl):22S-28S.e1-2.
+Management of Diabetic Foot (Second Edition)
+37. Callaghan BC Little AA, Feldman EL, et al. Enhanced glucose control for
+preventing and treating diabetic neuropathy. Cochrane Database Syst Rev.
+2012;(6):CD007543.
+38. vanNetten JJ, Lazzarini PA, Armstrong DG, et al. Diabetic Foot Australia guideline
+on footwear for people with diabetes. J Foot Ankle Res. 2018;11:2.
+39. Bus SA, van Deursen RW, Armstrong DG, et al. Footwear and offloading
+interventions to prevent and heal foot ulcers and reduce plantar pressure in patients
+with diabetes: a systematic review. Diabetes Metab Res Rev. 2016;32Suppl 1:99118.
+40. vanBael K, van der Tempel G, Claus I, et al. Gastrocnemius fascia release under
+local anaesthesia as a treatment for neuropathic foot ulcers in diabetic patients: a
+short series. ActaChir Belg. 2016;116(6):367-371.
+41. Batista F, Magalhães AA, Nery C, et al. Minimally invasive surgery for diabetic
+plantar foot ulcerations. Diabet Foot Ankle. 2011;2.
+42. Tamir E, McLaren AM, Gadgil A, et al. Outpatient percutaneous flexor tenotomies
+for management of diabetic claw toe deformities with ulcers: a preliminary report.
+Can J Surg. 2008;51(1):41-44.
+43. Tamir E, Vigler M, Avisar E, et al. Percutaneous tenotomy for the treatment of
+diabetic toe ulcers. Foot Ankle Int. 2014;35(1):38-43.
+44. Ministry of Health Malaysia. Pain as the 5th Vital Sign Guidelines: 2nd Edition.
+Kuala Lumpur: MoH; 2013.
+45. Ministry of Health Malaysia. Pain Management Handbook. Kuala Lumpur: MoH.
+2013.
+46. Vermeulen H, Westerbos SJ, Ubbink DT. Benefit and harm of iodine in wound
+care: a systematic review. J Hosp Infect. 2010;76(3):191-199.
+47. Dumville JC, Lipsky BA, Hoey C, et al. Topical antimicrobial agents for treating foot
+ulcers in people with diabetes. Cochrane Database Syst Rev. 2017; 6:CD011038.
+48. SelvaOlid A, Solà I, Barajas-Nava LA, et al. Systemic antibiotics for treating
+diabetic foot infections. Cochrane Database Syst Rev. 2015;(9):CD009061.
+49. Gurusamy KS, Koti R, Toon CD, et al. Antibiotic therapy for the treatment of
+methicillin-resistant Staphylococcus aureus (MRSA) in non surgical wounds.
+Cochrane Database Syst Rev. 2013;(11):CD010427.
+50. Pharmaceutical Services Division, Ministry of Health Malaysia. National Antibiotic
+Guideline (Second Edition). Petaling Jaya: MoH; 2014.
+51. Wu L, Norman G, Dumville JC et al. Dressings for treating foot ulcers in people
+with diabetes: an overview of systematic reviews. Cochrane Database Syst Rev.
+2015;(7):CD010471.
+52. Dumville JC, Deshpande S, O’Meara S, et al. Hydrocolloid dressings for healing
+diabetic foot ulcers. Cochrane Database Syst Rev. 2013;(8):CD009099.
+53. International consensus. Appropriate use of silver dressings in wounds. An expert
+working group consensus. London: Wounds International; 2012. Available at:
+www.woundsinternational.com.
+54. Dumville JC, Hinchliffe RJ, Cullum N, et al. Negative pressure wound therapy for
+treating foot wounds in people with diabetes mellitus. Cochrane Database Syst
+Rev. 2013;(10):CD010318.
+55. Noble-Bell G, Forbes A. A systematic review of the effectiveness of negative
+pressure wound therapy in the management of diabetes foot ulcers. Int Wound J.
+2008;5(2):233-242.
+56. Akbari A, Moodi H, Ghiasi F, et al. Effects of vacuum-compression therapy on
+healing of diabetic foot ulcers: randomized controlled trial. J Rehabil Res Dev.
+2007;44(5):631-636.
+57. Elraiyah T, Tsapas A, Prutsky G, et al. A systematic review and meta-analysis of
+adjunctive therapies in diabetic foot ulcers.JVasc Surg. 2016;63(2 Suppl):46S58S.e1-2.
+58. Ministry of Health Malaysia. Maggot debridement therapy. Kuala Lumpur: MOH;
+2008.
+Management of Diabetic Foot (Second Edition)
+59. Kranke P, Bennett MH, Martyn-St James M, et al. Hyperbaric oxygen therapy for
+chronic wounds. Cochrane Database Syst Rev. 2015;(6):CD004123.
+60. MohdYazid B, Ayesyah A, Nurhanani AB, et al. The Physiological, Biochemical
+and Quality of Life Changes in Chronic Diabetic Foot Ulcer after Hyperbaric
+Oxygen Therapy. Med & Health. 2017;12(2): 210-219.
+61. Amudha K, Chee KH, Tan KS, et al. Prevalence of peripheral artery disease in
+urban high-risk Malaysian patients. Int J ClinPract. 2003;57(5):369-372.
+62. Heikkila K, Mitchell DC, Loftus IM, et al. Improving 1-Year Outcomes of
+Infrainguinal Limb Revascularization: Population-Based Cohort Study of 104 000
+Patients in England. Circulation. 2018;137(18):1921-1933.
+63. Antoniou GA, Georgiadis GS, Antoniou SA, et al. Bypass surgery for chronic
+lower limb ischaemia. Cochrane Database Syst Rev. 2017;4:CD002000.
+64. Hinchliffe RJ, Andros G, Apelqvist J, et al. A systematic review of the effectiveness
+of revascularization of the ulcerated foot in patients with diabetes and peripheral
+arterial disease. Diabetes Metab Res Rev. 2012;28Suppl 1:179-217.
+65. Ministry of Health. Management of Chronic Kidney Disease. Kuala Lumpur: MoH;
+2018.
+66. Bedenis R, Lethaby A, Maxwell H, et al. Antiplatelet agents for preventing
+thrombosis after peripheral arterial bypass surgery. Cochrane Database Syst
+Rev. 2015;(2):CD000535.
+67. Elraiyah T, Domecq JP, Prutsky G, et al. A systematic review and meta-analysis
+of débridement methods for chronic diabetic foot ulcers. J Vasc Surg. 2016;63(2
+Suppl):37S-45S.e1-2.
+68. Santema TB, Poyck PP, Ubbink DT. Skin grafting and tissue replacement for
+treating foot ulcers in people with diabetes. Cochrane Database Syst Rev.
+2016;2:CD011255.
+69. de Oliveira AL, Moore Z. Treatment of the diabetic foot by offloading: a systematic
+review. J Wound Care. 2015;24(12):560, 562-570.
+70. Lewis J, Lipp A. Pressure-relieving interventions for treating diabetic foot ulcers.
+Cochrane Database Syst Rev. 2013;(1):CD002302.
+71. Government of South of Australia. Guidelines for treatment, care and support
+for amputees within the LSS living in the community. Available at: http://
+lifetimesupport.sa.gov.au/wp-content/uploads/Amputee-Framework-Guidelines.
+pdf.
+72. VA/DoD. VA/DoD Clinical Practice Guideline for Rehabilitation of Individuals
+with Lower Limb Amputation Version 2.0 - 2017. Available at: https://www.
+healthquality.va.gov/guidelines/Rehab/amp/VADoDLLACPG092817.pdf.
+73. Sohn MW, Stuck RM, Pinzur M, et al. Lower-extremity amputation risk after
+charcotarthropathy and diabetic foot ulcer. Diabetes Care. 2010;33(1):98-100.
+74. Frykberg RG, Zgonis T, Armstrong DG, et al.; American College of Foot and Ankle
+Surgeons. Diabetic foot disorders. A clinical practice guideline (2006 revision). J
+Foot Ankle Surg. 2006;45(5 Suppl):S1-66.
+75. Womack J. Charcot Arthropathy Versus Osteomyelitis: Evaluation and
+Management. Orthop Clin North Am. 2017;48(2):241-247.
+76. Idusuyi OB. Surgical management of Charcot neuroarthropathy. Prosthet Orthot
+Int. 2015;39(1):61-72.
+77. Lowery NJ, Woods JB, Armstrong DG, et al. Surgical management of Charcot
+neuroarthropathy of the foot and ankle: a systematic review. Foot Ankle Int.
+2012;33(2):113-121.
+78. Mittlmeier T, Klaue K, Haar P, et al. Should one consider primary surgical
+reconstruction in charcot arthropathy of the feet? Clin Orthop Relat Res.
+2010;468(4):1002-1011.
+Management of Diabetic Foot (Second Edition)
+Appendix 1
+EXAMPLE OF SEARCH STRATEGY
+Clinical Question: Are the following preventive strategies safe and
+effective for diabetic foot at risk? - Surgery
+1.
+DIABETIC FOOT/ (7869)
+2.
+(diabetic adj1 (foot or feet)).tw. (6918)
+3.
+foot ulcer, diabetic.tw. (8)
+4.
+diabetic foot ulcer.tw. (957)
+5.
+DIABETIC NEUROPATHIES/ (14576)
+6.
+diabetic autonomic neuropath*.tw. (752)
+7.
+(diabetic adj1 (neuralgia* or neuropath* or polyneuropath*)).tw.
+(8053)
+8.
+painful diabetic neuropath*.tw. (710)
+9.
+DIABETIC ANGIOPATHIES/ (18723)
+10. (diabetic adj1 (angiopath* or microangiopath* or vascular
+complication* or vascular disease*)).tw. (3229)
+11. Diabetic ulcer.tw. (178)
+12. FOOT ULCER/ (1793)
+13. ((foot or plantar) adj1 ulcer*).tw. (5346)
+14. foot at risk.tw. (41)
+15. feet at risk.tw. (14)
+16. FOOT DEFORMITIES/ (1824)
+17. ((foot or metatarsal) adj1 deformit*).tw. (1846)
+18. ARTHROPATHY, NEUROGENIC/ (1733)
+19. charcot* joint.tw. (200)
+20. (neurogenic adj1 arthropath*).tw. (54)
+21. (Ischemic adj1 (foot or feet)).tw. (131)
+22. (Ischaemic adj1 (foot or feet)).tw. (63)
+23. Neuroischaemic.tw. (33)
+24. Neuroischemic.tw. (93)
+25. (Diabetic adj1 (foot infect* or feet infect*)).tw. (742)
+26. ((foot or feet) adj1 infect*).tw. (1321)
+27. GANGRENE/ (8388)
+28. gangrene*.tw. (10435)
+29. OSTEOMYELITIS/ (20349)
+30. osteomyelitis*.tw. (21182)
+31. 1 or 2 or 3 or 4 or 5 or 6 or 7 or 8 or 9 or 10 or 11 or 12 or 13 or 14
+or 15 or 16 or 17 or 18 or 19 or 20 or 21 or 22 or 23 or 24 or 25 or
+26 or 27 or 28 or 29 or 30 (90421)
+32. Prevent* surger*.tw. (369)
+33. 31 and 32 (4)
+Management of Diabetic Foot (Second Edition)
+Appendix 2
+CLINICAL QUESTIONS
+1. What are the accurate screening tests for diabetic foot at risk?
+2. Are the following preventive strategies safe and effective for
+diabetic foot at risk?
+• Metabolic control
+• Foot care
+• Foot wear
+• Surgeries
+3. What are the clinical utilities and accuracy of the following tools for
+diagnosing foot at risk?
+• History taking
+• Physical examination
+ Musculoskeletal status
+ Vascular assessment status
+ Neurological status
+• Investigations
+ Biochemical investigation
+ Imaging
+ Vascular assessment
+ Neurological assessment
+ Assessment of plantar foot pressures
+4. What are the practical clinical methods of stratification systems for
+classifying the diabetic foot problems?
+• International Working Group on the Diabetic Foot (IWGDF)
+• University of Texas
+5. Are the following classifications accurate for diabetic foot ulcers?
+• Wagner
+• University of Texas
+• Infectious Diseases Society of America (IDSA) / IWGDF
+• PEDIS
+• SINBAD
+6. Are the following treatment strategies safe and effective for
+neuropathic, ischaemic foot, neuroischaemic, diabetic foot
+ulcers, diabetic foot infections and deformity (including Charcot
+Neuroarthropathy)?
+• Non-surgical
+ Pharmacological (antibiotic regimens and antimicrobial
+therapies)
+ Wound management
+Management of Diabetic Foot (Second Edition)
+ Rehabilitation (off-loading techniques, etc.)
+ Adjuvant/alternatives treatment
+• Surgical
+ Debridement
+ Reconstruction
+ Revascularisation
+• Amputation (and management of amputees)
+7. What are the referral criteria for diabetic foot at risk?
+8. What are the effective follow-up/monitoring of diabetic foot
+problem?
+Management of Diabetic Foot (Second Edition)
+Appendix 3
+SEMMES-WEINSTEIN MONOFILAMENT EXAMINATION
+TUNING FORK EXAMINATION
+Place
+monofilament
+perpendicular
+to skin
+Apply
+pressure until
+monofilament
+buckles
+Release
+First
+metatarsal
+Third
+metatarsal
+Fifth
+metatarsal
+Sites shown to identify 90%
+of patients with abnormal
+monofilament test
+Other recommended sites
+Where to perform SWME?
+How to perform SWME?
+How to perform Tuning Fork Test
+1. Ask patient to close his/her eyes.
+2. Tap a 128 Hz tuning fork and place it on
+patient’s sternum to confirm vibration.
+3. Tap tuning fork and place it on bony
+prominence of the foot (distal phalanx of the
+great toe).
+4. Ask patient to tell you when vibration is felt on
+the foot and tell you when it stops.
+5. If sensation is impaired, continue to assess
+more proximally (e.g. mid-dorsal foot, medial
+malleolus, midfibular, patella)
+6. Repeat assessment on the other leg.
+Note: Any bony prominence of the foot can be
+tested. However, the best point for vibration test is
+at the great toe.
+Management of Diabetic Foot (Second Edition)
+Appendix 4
+DIABETIC FOOT ASSESSMENT FORM
+(Kindly the appropriate box)
+DATE:
+NAME:
+IDENTIFICATION CARD NUMBER:
+MEDICAL HISTORY
+PERSONAL DATA
+SYMPTOMS
+FOOT
+GENERAL EXAMINATION
+Newly diagnosed (on admission)
+Known case of Diabetes Mellitus
+(DM)
+High blood sugar:
+Symptomatic:
+Others:
+Duration:
+years
+Date of diagnosis:
+Type of DM:
+Type 1
+Type 2
+Others:
+Treatment:
+Never seek medical treatment
+Self-treated
+Traditional/alternative treatment
+Other medical condition:
+Ischaemic Heart Disease
+Stroke
+Hypertension
+Hyperlipidaemia
+Complications:
+Peripheral Arterial Disease
+Neuropathy
+Nephropathy
+Others:
+Others:
+Current medical treatment:
+Nil
+Diet alone
+Medication:
+Oral Anti-Diabetic Agents:
+Insulin:
+Combined:
+Paraesthesia (Pin & Needles)
+Claudication/Rest pain
+Foot ulcer
+Amputation
+Orthosis/Prosthesis
+Footwear
+Right
+Left
+Description
+Indoor
+Outdoor
+Yes
+No
+Yes
+No
+Skin condition
+Corns/callosities
+Ulcers
+Bunions
+Lesser toe deformities
+Charcot Joints
+Right
+Left
+Description
+Yes
+No
+Yes
+No
+RIGHT
+LEFT
+Management of Diabetic Foot (Second Edition)
+(Kindly the appropriate box)
+Adapted : A Che-Ahmad, NF Mustafa, N Alias, et al. Evaluation of foot at risk among
+diabetic patients using diabetic foot assessment protocol in Malaysia. IIUM
+& MoH, 2012. (unpublished document)
+Muscle wasting
+Loss of proprioception
+Right
+Left
+Description
+Yes
+No
+Yes
+NEUROLOGICAL EXAMINATION
+Abnormal monofilament test
+( >3/10 )
+Loss of vibration perception
+Atrophic skin changes
+Dystrophic nails
+Right
+Left
+Description
+Yes
+No
+No
+No
+Yes
+VASCULAR EXAMINATION
+PALPABLE PULSE
+Absence of hair
+Abnormal temperature
+gradient
+Dorsalis Pedis Artery (DPA)
+Right
+Left
+Description
+Posterior Tibial Artery (PTA)
+Popliteal Artery (PA)
+Femoral Artery (FA)
+Capillary refill >3 seconds
+++ (Normal)
++ (Weak)
+- (Absent)
+++
+++
++
+-
+++
++
+-
+++
+Brachial (mmHg)
+Dorsalis Pedis (mmHg)
+Posterior Tibial (mmHg)
+Right
+Left
+Description
+ANKLE-BRACHIAL INDEX (ABI) ASSESSMENT
+RISK STRATIFICATION
+MANAGEMENT PLAN
+ABI
+Use either DPA or PTA whichever higher
+Low risk
+High risk
+Moderate risk
+Referral:
+Orthopaedic
+Vascular
+Endocrine
+Primary Care
+Others:
+Foot care education checklist:
+Foot hygiene
+Nail care
+Foot wear advice
+Routine foot check
+Emollient use
+Follow-up:
+3 monthly
+6 monthly
+Yearly
+Others:
+Wound care
+Recognising active foot
+problems (e.g.
+infection/erythema/ulcer)
+Things to avoid (e.g. massage/
+soak/reflexology/self-treatment)
+Assessed by
+Name:
+Signature:
+Date:
+Management of Diabetic Foot (Second Edition)
+Appendix 5
+UNIVERSITY OF TEXAS CLASSIFICATION OF DIABETIC FOOT
+Source: Lavery LA, Armstrong DG, Harkless LB. Classification of diabetic foot wounds. J Foot Ankle Surg. 1996;35(6):528-531
+GRADE 0
+GRADE I
+GRADE II
+GRADE III
+STAGE A
+STAGE B
+STAGE C
+STAGE D
+Pre- or post-ulcerative
+lesion completely
+epithelialised
+Superficial wound,
+not involving tendon,
+capsule or bone
+Wound penetrating to
+tendon or capsule
+Wound penetrating to
+bone or joint
+With infection
+With infection
+With infection
+With infection
+With infection and
+ischaemia
+With infection and
+ischaemia
+With infection and
+ischaemia
+With infection and
+ischaemia
+With ischaemia
+With ischaemia
+With ischaemia
+With ischaemia
+Management of Diabetic Foot (Second Edition)
+Appendix 6
+PATIENT EDUCATION MATERIALS
+Personal foot care should be emphasised which includes:
+• checking that feet are in good order
+• keeping feet clean
+• providing skin care
+• keeping toenails at a good length
+• choosing and wearing good fitting footwear
+• getting help if a problem is noticed
+Patient Education for Foot Care
+Take proper care of diabetes by taking medications, following diet
+plan, exercising regularly, monitoring blood sugar regularly and
+attending appointments with the doctors. Ensure HbA1c, blood
+pressure, cholesterol and weight are under control.
+Do not smoke as it restricts blood flow in the feet. Get help in smoking
+cessation if necessary.
+Check feet every day in a brightly lit space looking at the top and
+bottom of the feet, heels, and between each toe. Check for cuts,
+blisters, redness, swelling or nail problems. Use a magnifying hand
+mirror to look at the bottom of feet or ask someone else to check it.
+Keep feet clean by washing them daily with a mild soap. Use only
+lukewarm (below 37°C) and not hot water. Do not soak feet as
+this can cause dry skin. Dry by blotting or patting and carefully dry
+between the toes.
+Keep skin soft and smooth by moisturising feet but not between
+the toes. Use a moisturiser daily to keep dry skin from itching or
+cracking over the dry areas – usually the top, the heel area and the
+soles. Massage the cream using small circular movements. But don’t
+moisturise between the toes which could risk an infection to occur.
+Cut toenails carefully after washing and drying feet. Cut them straight
+across and file the sharp edges. Don’t cut nails too short, as this
+could lead to ingrown toenails.
+Management of Diabetic Foot (Second Edition)
+Never self-treat corns or calluses. No “bathroom surgery” or
+medicated pads. Visit your clinic for appropriate treatment.
+Wear clean, dry socks that are not too tight and are light coloured.
+Change socks daily. Make sure there are no holes. Consider socks
+made specifically for patients with diabetes with extra cushioning,
+no elastic tops, higher than the ankle and are made from fibers that
+wick moisture away from the skin. Avoid socks that have seams as
+they can cause rubbing or irritation leading to a blister or callus.
+Keep feet warm and dry and, protect feet from hot and cold
+temperatures. Wear shoes at the beach or on hot pavements to
+protect feet from getting burnt. Don’t put feet into hot water. Never
+use hot water bottles, heating pads or electric blankets as these can
+cause burns.
+Never walk barefoot indoors or outdoors. Always wear appropriate
+shoes or slippers to avoid cuts or scratches over feet. Avoid shoes
+with narrow box, high heels, stilettos or footwear that have straps
+with no back support. Shake out shoes and feel the inside before
+wearing.
+Put feet up when sitting. Keep the blood flowing to feet by wiggling
+toes and moving ankles for five minutes, 2 - 3 times a day. Don’t
+cross legs for long periods of time.
+Exercise regularly to improve circulation and balance and, reduce
+the risk of falling. Wear athletic shoes that give support and are
+made for specific activities.
+Periodic foot examinations are necessary when visiting diabetes
+clinics. Get sense of feeling and pulses checked at least once a
+year.
+Seek treatment if there is presence of calluses or ingrown toenails.
+Urgent care is needed when there is presence of pain, noticeably
+red or discoloured areas, unusually hot areas, discharges, bad
+smell, an ulcer or blister or if feeling generally unwell with difficulty
+controlling sugar levels.
+Modified: Jabatan Kesihatan WP Kuala Lumpur & Putrajaya. Panduan Penjagaan
+Kaki Bagi Pesakit Diabetes. JKWPKL&P, 2012 (unpublished document)
+Management of Diabetic Foot (Second Edition)
+Healthcare Providers’ Checklist for Footcare
+1. Is the patient able to care for their feet and
+nails?
+2. Is the patient able to understand the need to
+assess and care for their feet on a daily basis?
+3. Is the patient able to see the bottom of their
+feet?
+4. Is there neuropathy, obesity or retinopathy
+preventing foot care?
+5. Do they understand what diabetic neuropathy
+and peripheral arterial disease is?
+6. Does the patient understand how managing
+their blood glucose prevents irreversible
+neuropathy that damages their feet? Do they
+understand the link between elevated blood
+glucose, neuropathy, ulcers and amputations
+leading to death? Do they understand the
+critical need to keep blood sugars at targeted
+HbA1c?
+7. Refer for diabetic education and foot care
+nursing including toe nail care and, corn and
+callus removal.
+Yes
+No
+Management of Diabetic Foot (Second Edition)
+Appendix 7
+FOOTWEAR ADVICE
+Features of an ideal footwear for diabetic foot at risk:
+Image by: Dr. RoslanJohari, Director of Cheras Rehabilitation Hospital, Kuala Lumpur
+Firm heel counter
+Insole
+Breathable material
+Rocker bottom
+Outsole
+Spacious toe
+box
+Seamless interior
+Laced shoe or
+velcro closure
+Management of Diabetic Foot (Second Edition)
+Appendix 8
+TREATMENT OF NEUROPATHIC PAIN IN DIABETIC FOOT
+ER = extended release; SNRI = serotonin-norepinephrine reuptake inhibitor;
+SSRI = selective serotonin reuptake inhibitor; TCA = tricyclic antidepressant
+Adapted: Snyder MJ, Gibbs LM, Lindsay TJ. Treating Painful Diabetic Peripheral
+Neuropathy: An Update. Am Fam Physician. 2016;94(3):227-34
+Patient presenting with painful neuropathy
+Initial evaluation
+Rule out other causes of neuropathy
+Establish treatment goals
+Optimise glycaemic control
+First-line therapy
+Anticonvulsants
+Antidepressants (TCAs and SNRIs)
+Pregabalin
+Amitriptyline
+Gabapentin
+Duloxetine
+Second-line therapy
+SNRIs
+Opioid-like drugs
+Topical treatments
+Venlafaxine
+Tramadol
+Lidocaine 5% patch
+or
+or
+or
+Desvenlafaxine
+Tapentadol ER
+Capsaisin 0.075% cream
+Third-line therapy
+SSRIs
+Opioids
+Citalopram
+Oxycodone controlled release
+or
+Paroxetine
+or
+Escitalopram
+Management of Diabetic Foot (Second Edition)
+TREATMENT OF NEUROPATHIC PAIN IN DIABETIC FOOT (CONT.)
+• Side effects include dizziness, sedation, gastro-intestinal
+(GI) symptoms and mild peripheral oedema
+• Should be used cautiously in:
+o heart failure and concomitant use of thiazolidinediones,
+because cases of decompensated heart failure with
+pregabalin use have been reported
+o renal insufficiency (creatinine clearance ≤30 ml/minute/1.73
+m2) require dose adjustment
+• Side effects include dizziness, sedation, GI symptoms and
+mild peripheral oedema
+• Dose adjustment is recommended in renal impairment
+• Side effects include dry mouth, sedation, disturbed vision,
+arrhythmia, palpitation, postural hypotension, urinary
+retention and constipation
+• Contraindicated in cardiovascular disease (including
+unstable angina, recent myocardial infarction, heart failure
+and abnormal cardiac conduction) and glaucoma.
+• Caution in elderly patients
+Tricyclic antidepressants (TCAs)
+Anticonvulsants
+Medication
+Initial dosage
+Maximum dosage
+Comment
+600 mg divided twice
+daily
+300 mg divided twice
+daily
+Pregabalin
+150 mg daily at bedtime
+or divided twice daily
+10 mg daily at bedtime
+Amitriptyline
+3,600 mg divided thrice
+daily
+1,200 mg divided thrice
+daily
+Gabapentin
+Management of Diabetic Foot (Second Edition)
+• Lowers seizure threshold and should be avoided in
+epilepsy or at risk of seizures
+• Side effects include nausea, vomiting, dry mouth,
+constipation, decreased appetite, insomnia, dizziness,
+somnolence, blurred vision, increased sweating and
+fatigue
+• Advise taking it with food to reduce the incidence of
+nausea
+Opioid-like medications
+Topical medications
+Serotonin-norepinephrine reuptake inhibitors
+Medication
+Initial dosage
+Maximum dosage
+Comment
+225 mg daily
+150 mg daily
+Venlafaxine
+1 patch daily
+Four times daily
+30 mg at bedtime applied
+to bottom of feet
+3 patches daily
+NA
+NA
+Lidocaine 5% patch
+Capsaicin 0.075%
+cream
+Isosorbide dinitrate
+spray
+250 mg twice daily
+100 mg twice daily
+Tapentadol ER
+400 mg daily
+200 mg daily
+Desvenlafaxine
+100 mg every 6 hours;
+maximum 400 mg daily
+50 mg every 4 to 6 hours
+Tramadol
+120 mg daily or divided
+twice daily
+60 mg daily or divided
+twice daily
+Duloxetine
+Management of Diabetic Foot (Second Edition)
+• Should be used with caution because long-term use is
+associated with numerous adverse effects and increased
+morbidity and mortality
+Opiods
+Selective serotonin reuptake inhibitors
+Medication
+Initial dosage
+Maximum dosage
+Comment
+40 mg twice daily
+10 mg twice daily
+Oxycodone
+controlled release
+10 mg daily
+10 mg daily
+10 mg daily
+40 mg daily
+40 mg daily
+20 mg daily
+Citalopram
+Paroxetine
+Escitalopram
+ER = extended release; NA = not available
+Source:
+1. Snyder MJ, Gibbs LM, Lindsay TJ. Treating Painful Diabetic Peripheral Neuropathy: An Update. Am Fam Physician. 2016;94(3):227-34
+2. Ministry of Health Malaysia. Pain Management Handbook. Kuala Lumpur: MoH. 2013
+Management of Diabetic Foot (Second Edition)
+APPENDIX 9
+TYPES OF INFECTIONS IN DIABETIC FOOT AND SUGGESTIONS OF TREATMENT
+1. Diabetic Foot Infection
+Antibiotics should not be used unless there are local or systemic features of infection. Local treatment including
+surgical debridement is important. Antibiotic selection should be based on the most recent culture and sensitivity
+report.
+Infection/condition
+and likely organism
+involved
+Suggested treatment
+Preferred
+Alternative
+Mild infections
+Comments
+a. Local infection
+involving skin and
+subcutaneous
+tissues
+b. Erythema<2 cm
+around the ulcer
+c. No systemic signs
+Cephalexin 500 mg PO
+q6h
+OR
+Amoxycillin/Clavulanate
+625 mg PO q8h
+Clindamycin
+300 - 450 mg PO q8h
+OR
+Trimethoprim/Sulphametoxazole
+5 - 10 mg/kg PO q12h
+Duration:1 - 2 weeks
+Management of Diabetic Foot (Second Edition)
+Infection/condition
+and likely organism
+involved
+Suggested treatment
+Preferred
+Alternative
+Moderate infections
+Comments
+a. Deep tissue
+infection
+b. Erythema >2 cm
+around ulcer
+c. No Systemic
+Inflammatory
+Response
+Syndrome (SIRS)
+If
+pseudomonas
+is
+suspected
+Ampicillin/Sulbactam
+1.5 - 3 g IV q6 - 8h
+OR
+Ceftriaxone 1 – 2 g q24h
+±Metronidazole 500mg
+IV q8h
+Piperacillin/Tazobactam
+4.5 mg IV q6-8h
+Ciprofloxacin 400 mg IV q8-12h
+PLUS
+Clindamycin 600mg IV q8h
+Duration: usually 2-4 weeks; modify according to
+clinical response.
+• If proven osteomyelitis: at least 4-6 weeks.
+Shorter duration if the entire infected bone are
+removed (3 to 5 days may be sufficient).
+If antibiotic-resistant organisms are likely, treat as
+severe infection.
+All of the above and
+presence of SIRS
+Piperacillin/Tazobactam
+4.5 g IV q6-8h
+Vancomycin
+15-20 mg/kg IV q8-12h
+Cefepime 1-2g IV q8h
+Linezolid 600mg IV/PO q12h
+Add Vancomycin 1 g IV q12h if high risk for MRSA
+Duration of treatment: 4-6 weeks.
+Severe infections
+MRSA
+Management of Diabetic Foot (Second Edition)
+Infection/condition
+and likely organism
+involved
+Suggested treatment
+Preferred
+Alternative
+Polymicrobial Infections
+Comments
+Primarily
+occurs
+in
+patients
+who
+are
+immunocompromised
+or have certain chronic
+diseases e.g. diabetes
+mellitus
+Group A streptococcus
+Piperacillin/Tazobactam
+4.5 g IV q8h
+Benzylpenicillin 2 – 4 MU
+IV q4h
+PLUS
+Clindamycin 600 - 900
+mg IV q8h
+Cefotaxime 2 g IV q6h
+PLUS
+Metronidazole 500 mg IV q8h
+Ampicillin/Sulbactam
+1.5 g IV q8h
+PLUS
+Clindamycin
+600 - 900 mg IV q8h
+Add Vancomycin 1 g IV q12h if high risk for MRSA
+Early aggressive surgical debridement essential
+With septicaemia/severe infection refer to ICU
+guidelines
+APPENDIX 9 TYPES OF INFECTIONS IN DIABETES FOOT AND SUGGESTIONS OF TREATMENT (CONT.)
+2. Necrotising Fasciitis
+Management of Diabetic Foot (Second Edition)
+APPENDIX 9 TYPES OF INFECTIONS IN DIABETES FOOT AND SUGGESTIONS OF TREATMENT (CONT.)
+3. Osteomyelitis
+Infection/condition
+and likely organism
+involved
+Suggested treatment
+Preferred
+Alternative
+Acute Osteomyelitis
+Chronic Osteomyelitis
+Comments
+Staphylococcus aureus
+(80%),
+Group
+A
+Streptococcus pyogenes,
+Rarely gram negative
+bacilli
+No open wound:
+Cloxacillin 2 g IV q6h
+If gram negative bacilli
+by on gram stain:
+Ciprofloxacin 400mg IV
+q24h
+OR
+Ceftriaxone 2g IV q24h
+Penicillin Allergy:
+Clindamycin 300-600 mg IV q8h
+followed by oral therapy (same
+dose)
+Duration: initial IV therapy for 2-4 weeks, followed
+by oral therapy, to complete minimum of six weeks
+Modify according to clinical response
+(After three months of
+appropriate antibiotic
+therapy or presence of
+dead bone on X-ray)
+Commonest organism:
+Staphylococcus aureus
+Empirical treatment is not
+indicated
+Thorough surgical debridement
+required (removal of dead
+bone/ orthopaedic hardware)
+Choice of antibiotic depends
+on C&S result from tissue/
+bone
+Minimum length six weeks but usually >3 months
+Treat until inflammatory parameters are normal
+Management of Diabetic Foot (Second Edition)
+APPENDIX 9 TYPES OF INFECTIONS IN DIABETES FOOT AND SUGGESTIONS OF TREATMENT (CONT.)
+4. Suppurative Wound Infections
+Infection/condition
+and likely organism
+involved
+Suggested treatment
+Preferred
+Alternative
+Suppurative Wound Infections
+Comments
+Suppurative
+wound
+infections
+Change antibiotics accordingly after C&S result is
+available
+Topical antibiotics are not recommended for
+treatment of wound infections as they may result in
+the emergence of resistant organisms
+Patient's tetanus immunisation status should
+be assessed in all cases
+If there is surrounding
+cellulitis and/or presence
+of systemic symptoms:
+Cloxacillin 500 mg PO/IV
+q6h
+If
+gram
+negative
+organisms suspected or
+known to be involved:
+Gentamicin 5 mg/kg IV
+q24h
+OR
+As
+a
+monotherapy:
+Cefuroxime 1.5 g IV q8h
+g: gram; mg: milligramme; PO: oral administration; q6h: every 6 hours; q8h: every 8 hours; q12h: every 12 hours; q24h: every 24 hours; SIRS: Systemic
+Inflammatory Response Syndrome; MRSA: methicillin resistant Staphylococcus aureus; IV: intravenous; MU: mega unit; ICU: Intensive Care Unit
+Adapted: Pharmaceutical Services Division, Ministry of Health Malaysia. National Antibiotic Guideline (Second Edition). Petaling Jaya: MoH; 2014.
+Management of Diabetic Foot (Second Edition)
+APPENDIX 10
+TYPES OF WOUND DRESSING IN DIABETIC FOOT
+No.
+Advantages
+Disadvantages
+Indications
+Contraindications
+Review
+intervals
+Basic wound contact dressings
+Advanced wound dressings
+Types of dressing
+Gauze/basic
+absorbent
+with paraffin or similar
+(antiseptics or antibiotics)
+• Reduces adherence
+of dressing to the
+wound
+• Widely available
+• Minimal exudate
+absorption
+• Requires
+secondary dressing
+All wounds
+1.
+Allergy
+Daily
+Hydrogel
+• Provides moist
+environment
+• Acts as enzymatic
+debridement
+• Promotes
+granulation
+1.
+• Sloughy wound
+• Dry wounds
+• Highly exudative
+wounds
+• Allergy
+1 - 2 days
+• Requires secondary
+dressing
+Alginate
+• Forms gel on wound
+and maintain moisture
+• Acts as cavity filler
+• Absorbent in exudative
+wounds
+• Promotes haemostasis
+• Low allergenic
+2.
+• Moderately or
+highly exudative
+wounds
+• Need for
+haemostasis
+• Dry wounds
+• Allergy
+2 - 3 days
+• Requires secondary
+dressing
+• Gel can be confused
+with slough or pus in
+wound
+Management of Diabetic Foot (Second Edition)
+No.
+Advantages
+Disadvantages
+Indications
+Contraindications
+Review
+intervals
+Advanced wound dressings
+Types of dressing
+Hydrofibre
+• Maintains moisture
+• Longer wear time
+• Non-traumatic upon
+removal
+• Reduces risk of
+maceration
+• Can be used on
+infected wounds
+3.
+Moderately or
+highly exudative
+wounds
+Allergy
+2 - 5 days
+• Not helpful for dry
+wounds
+• Requires secondary
+dressings
+Foam
+• Maintains moisture
+• Highly absorbent
+• Cushioning property
+4.
+Moderately or highly
+exudative wounds
+• Dry wounds
+• Wounds that need
+frequent review
+2 - 3 days
+Limited size
+Hydrocolloid
+• Maintains moisture
+• Cleans and debrides
+by autolysis
+• Easy to use
+• Waterproof
+5.
+Mildly to moderately
+exudative wounds
+• Dry wounds
+• Infection
+• Highly exudative
+wounds
+2 - 3 days
+Induces
+peri-wound
+maceration
+Silver
+• No known resistance
+• Bactericidal
+6.
+Infective wounds
+Allergy
+3 - 5 days
+Some silver dressings
+discolour the wound
+Others
+Not widely used - some may be used in specialised centres e.g. collagen, matrix and regenerative
+dressings (cultured epidermis, growth factors, stem cells, etc.)
+7.
+Adapted: Ministry of Health. Wound Care Manual. Kuala Lumpur: MoH; 2014
+Management of Diabetic Foot (Second Edition)
+LIST OF ABBREVIATIONS
+ABI
+ankle brachial index
+C&S
+culture and sensitivity
+CFDU
+colour flow duplex ultrasound
+CHS
+Curative Health Services
+CI
+confidence interval
+CPG
+Clinical Practice Guidelines
+CT
+computed tomography
+CV
+cardiovascular
+CWD
+continuous wave doppler
+DEPA
+Depth of the ulcer, extent of bacterial colonisation, phase of ulcer
+and association aetiology
+DFU
+diabetic foot ulcer
+DG
+development group
+DM
+diabetes mellitus
+DUSS
+Diabetic ulcer severity score
+GFR
+Gastrocnemius-soleus fascia recession
+GI
+gastro-intestinal
+HbA1c
+haemoglobin A1c
+HBOT
+hyperbaric oxygen therapy
+IpTT
+Ipswich Touch Test
+LOPS
+loss of protective sensation
+MaHTAS
+Malaysian Health Technology Assessment Section
+MD
+mean difference
+MDT
+maggot debridement therapy
+MoH
+Ministry of Health
+MRI
+magnetic resonance imaging
+MW
+Meggitt–Wagner
+NCS
+nerve conduction study
+NDS
+neuropathy disability score
+OR
+odds ratio
+PAD
+peripheral arterial disease
+PEDIS
+Perfusion, Extent, Depth, Infection and Sensation
+PET
+positron emission tomography
+PTA
+percutaneous transluminal angioplasty
+RCT
+randomised control trial
+RD
+risk difference
+RR
+relative risk
+S(AD)SAD
+Size (area, depth), sepsis, arteriopathy, denervation system
+SINBAD
+Site, ischaemia, neuropathy, bacterial infection and depth
+SWME
+Semmes-Weinstein monofilament examination
+TBI
+toe brachial index
+T1DM
+type 1 Diabetes Mellitus
+T2DM
+type 2 Diabetes Mellitus
+TCC
+total contact cast
+VPT
+vibration perception threshold
+UT
+University of Texas
+vs
+versus
+Management of Diabetic Foot (Second Edition)
+ACKNOWLEDGEMENT
+The DG members of these guidelines would like to express their
+gratitude and appreciation to the following for their contributions:
+• Panel of external reviewers who reviewed the draft
+• Technical Advisory Committee of CPG and Health Technology
+Assessment and CPG Council for their valuable input and feedback
+• Health Technology Assessment and Clinical Practice Guidelines
+Council for approving the CPG
+• Dr. Mohd Asni Alias, Orthopaedic Surgeon, Pantai Hospital, Manjung
+• Dr. Noor Ayuni Bazura Muhamad, Principal Assistant Director,
+MaHTAS
+• Ms. Noormah Darus on critical appraisal in the CPG development
+• Ms. Zamilah Mat Jusoh@Yusof and Mr. Abd Hafiz Abd Hamid on
+retrieval of evidence
+• All those who have contributed directly or indirectly to the
+development of the CPG
+DISCLOSURE STATEMENT
+The panel members of both Development Group and Review Committee
+had completed disclosure forms. None held shares in pharmaceutical
+firms or acts as consultants to such firms. Details are available upon
+request from the CPG Secretariat.
+SOURCE OF FUNDING
+The development of the CPG on Management of Diabetic Foot (Second
+Edition) was supported financially in its entirety by the MoH Malaysia.

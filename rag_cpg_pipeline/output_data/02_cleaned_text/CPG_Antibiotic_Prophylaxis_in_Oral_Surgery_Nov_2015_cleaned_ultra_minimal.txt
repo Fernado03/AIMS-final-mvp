@@ -1,0 +1,1404 @@
+or
+NSA
+ral Health Division
+Ministry of Health Malaysia
+ANTIBIOTIC PROPHYLAXIS
+IN ORAL SURGERY FOR PREVENTION
+OF SURGICAL SITE
+INFECTION
+(Second Edition)
+November 2015
+n
+Ww
+=
+—l
+wi
+=
+>
+o
+wi
+2
+=
+[S)
+=z
+oc
+a
+a
+<=
+SI
+=
+a
+(6)
+TABLE OF CONTENTS
+GUIDELINE DEVELOPMENT AND OBJECTIVES
+CLINICAL QUESTIONS
+TARGET POPULATION, TARGET GROUP
+HEALTHCARE SETTINGS
+LEVELS OF EVIDENCE AND GRADES OF RECOMMENDATIONS
+MEMBERS OF THE GUIDELINE DEVELOPMENT GROUP
+MEMBERS OF THE REVIEW COMMITTEE
+1.0 INTRODUCTION
+2.0 INDICATIONS FOR PROPHYLACTIC ANTIBIOTICS
+2.1 Patients with underlying medical problems
+2.2 Clean surgery
+2.3 Clean-contaminated surgery
+2.3.1 Minor clean-contaminated surgery
+2.3.1.1 Lower third molar surgery
+2.3.1.2 Periodontal Surgery
+2.3.1.3 Minor clean-contaminated surgery with high
+degree of difficulty / long duration
+2.3.1.4 Surgery to place dental implants
+2.3.1.5 Surgery associated with the use of bone grafts
+2.3.2 Major clean-contaminated surgery
+2.4 Cancer surgery
+2.5 Oral and maxillofacial trauma
+2.6 Site of surgery involving bone previously exposed to radiotherapy
+3.0 ADMINISTRATION OF PROPHYLACTIC ANTIBIOTICS
+3.1 Choice of antibiotic
+3.2 Dose of antibiotic
+3.3 Timing of first dose of antibiotic
+3.4 Additional doses (duration) and dose intervals of the antibiotic
+4.0 CONCLUSIONS
+5.0 IMPLEMENTING THE GUIDELINES
+5.1 Facilitating and Limiting Factors
+5.2 Potential Resource Implications
+REFERENCES
+APPENDIX 1: SEARCH STRATEGY
+APPENDIX 2: ASA PHYSICAL STATUS CLASSIFICATION
+SYSTEM
+ACKNOWLEDGEMENT
+DISCLOSURE STATEMENT
+SOURCES OF FUNDING
+Page
+i
+iii
+iii
+iii
+iv
+v
+vi
+1
+2
+2
+3
+4
+4
+4
+5
+6
+6
+7
+7
+8
+8
+9
+10
+10
+13
+14
+15
+16
+17
+17
+18
+19
+25
+26
+28
+28
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+GUIDELINE DEVELOPMENT
+These Clinical Practice Guidelines (CPG) were developed by a
+committee comprising six Oral Surgeons, one Periodontist, one
+Clinical Microbiologist, three Dental Public Health Specialists and one
+Pharmacist.
+After development, the guidelines were scrutinized by an internal review
+committee who gave feedback primarily on the comprehensiveness
+of the guidelines and accuracy of the interpretation of evidences
+supporting the recommendations in the guidelines.
+A respected clinician and academic was invited as external reviewer
+and provided useful feedback on the guidelines.
+The previous edition of the CPG on Antibiotic Prophylaxis against
+Wound Infection for Oral Surgical Procedures (August 2003) was used
+as a reference.
+Several changes have been made in these updated guidelines. Sections
+on periodontal surgery, cancer surgery and surgery in previously
+irradiated bone have been included. The section on trauma has been
+simplified. There are also some changes in the choice and regime of
+the recommended antibiotics. In addition to the new and updated
+information, key messages are given where the available evidence is
+too weak to make a recommendation.
+Clinical audit indicators have been identified for the purpose of
+monitoring and evaluating outcomes and are recommended for use in
+individual centres.
+In reviewing these guidelines, publications from the year 2003 onwards
+were retrieved and scrutinized. A literature search was carried out using
+the following electronic databases: PubMed/MEDLINE; Cochrane
+Database of Systemic Reviews (CDSR); ISI Web of Knowledge and
+full text journal articles via the OVID search engine. In addition, the
+reference lists of all relevant articles retrieved were searched to identify
+further studies. Free text terms or MeSH terms were used either singly
+or in combination to retrieve the articles (Appendix 1). Only literature
+in English was retrieved. Each article retrieved was appraised by at
+least two members. The selected articles were assigned their evidence
+level according to the U.S./Canadian Preventive Services Task Force
+guide and the key information in each article was presented in an
+evidence table. These were then discussed during group meetings.
+Recommendations made were graded according to the Scottish
+Intercollegiate Guidelines Network (SIGN) guide. All statements
+and recommendations formulated were agreed upon by both the
+development group and review committee.
+The recommendations in this CPG were made taking into consideration
+both current scientific evidence as well as local circumstances. Where
+there was lack of or weak evidence, recommendations were made
+based on consensus of the group members.
+The draft guidelines were also posted on the Ministry of Health website
+for comments and feedback. The final draft of the CPG was presented
+to the Technical Advisory Committee for CPGs, the Health Technology
+Assessment (HTA) division and the CPG Council of the Ministry of
+Health, Malaysia for approval.
+OBJECTIVE
+The main aim of these guidelines is to assist dental practitioners make
+informed decisions on prophylactic antibiotic use in the prevention of
+oral surgical site infections.
+SPECIFIC OBJECTIVES
+1. To identify the procedures in oral surgery that would benefit from
+surgical antibiotic prophylaxis.
+2. To assist in deciding which antibiotics to prescribe and what
+regime to follow if prophylactic antibiotics are indicated.
+CLINICAL QUESTIONS
+The clinical questions addressed by the guidelines are:
+i.
+When are antibiotics indicated for the prevention of surgical site
+infections in oral surgery?
+ii.
+What antibiotics are appropriate in surgical prophylaxis?
+iii. Could the inappropriate use of antibiotics in surgical prophylaxis
+be reduced or eliminated?
+TARGET POPULATION
+These guidelines are applicable to patients undergoing oral and
+maxillofacial (OMF) surgical procedures.
+TARGET GROUP/USER
+These guidelines will be useful for oral and maxillofacial surgeons as
+well as dental practitioners involved in the surgical management of
+patients. Academicians involved in the training of dentists and dental
+specialists would also benefit.
+HEALTHCARE SETTINGS
+Primary and specialist care (public and private sectors).
+LEVELS OF EVIDENCE
+LEVEL
+STUDY DESIGN
+l
+Evidence obtained from at least one properly designed randomised
+controlled trial
+ll-1
+Evidence obtained from well-designed controlled trials without
+randomization
+ll-2
+Evidence obtained from well-designed cohort or case-control
+analytic studies, preferably from more than one centre or research
+group
+ll-3
+Evidence obtained from multiple time series with or without the
+intervention. Dramatic results in uncontrolled experiments (such
+as the results of the introduction of penicillin treatment in the
+1940s) could also be regarded as this type of evidence
+lll
+Opinions or respected authorities, based on clinical experience;
+descriptive studies and case reports; or reports of expert
+committees
+Source: Adapted from U.S./Canadian Preventive Services Task Force
+GRADES OF RECOMMENDATIONS
+GRADE
+STUDY DESIGN
+A
+At least one meta-analysis, systematic review or RCT or evidence
+rated as good or directly applicable to the target population
+B
+Evidence from well conducted clinical trials, directly applicable to
+the target population and demonstrating overall consistency of
+results; or evidence extrapolated from meta-analysis, systematic
+reviews or RCT
+C
+Evidence from expert committee reports, or opinions and or
+clinical experiences of respected authorities; indicates absence
+of directly applicable clinical studies of good quality
+Source: Modified from the Scottish Intercollegiate Guidelines Network (SIGN)
+MEMBERS OF THE GUIDELINE DEVELOPMENT GROUP
+Chairperson
+Co-Chairperson
+Dr. Stephen Joseph Royan
+Consultant Oral and Maxillofacial
+Surgeon
+Hospital Melaka
+Jalan Mufti Haji Khalil
+75400 Melaka
+Assoc. Prof. Dr. Christopher
+Vincent
+Consultant Oral and Maxillofacial
+Surgeon
+International Medical University
+No 126 Jalan Jalil Perkasa 19
+Bukit Jalil, 57000 Kuala Lumpur
+Members
+Dr. Abdul Latif b. Ab Hamid
+Senior Consultant Oral and
+Maxillofacial Surgeon
+Hospital Tuanku Ja’afar Seremban
+70300 Seremban
+Negeri Sembilan
+Dr. Norhayati bt. Omar
+Consultant Oral and Maxillofacial
+Surgeon
+Hospital Serdang
+Jalan Puchong, 43000 Kajang
+Selangor
+Dr. Sharifah Tahirah bt. Syed Alwi
+Al Junid
+Consultant Oral and Maxillofacial
+Surgeon
+Hospital Kuala Lumpur
+50586 Kuala Lumpur
+Dr. Chan Yoong Kian
+Consultant Periodontist
+Klinik Pergigian Besar
+Jalan Abdul Samad
+80100 Johor Baharu
+Dr. Syed Nabil b. Syed Omar
+Oral and Maxillofacial Surgeon
+Fakulti Pergigian
+Universiti Kebangsaan Malaysia
+43600 Bangi
+Selangor
+Dr. Zubaidah bt. Abdul Wahab
+Senior Consultant Clinical
+Microbiologist
+Jabatan Patologi
+Hospital Sungai Buloh
+45000 Selangor
+Datin Dr. Nooral Zeila bt. Junid
+Dental Public Health Specialist
+Oral Health Division
+Ministry of Health Malaysia
+Level 5, Block E 10, Parcel E
+62590 Putrajaya
+Ms. Foo Yen See
+Pharmacist
+Hospital Serdang
+41000 Serdang
+Selangor
+Dr. Salleh b. Zakaria
+Dental Public Health Specialist
+Oral Health Division
+Ministry of Health Malaysia
+Level 5, Block E 10, Parcel E
+62590 62590 Putrajaya
+Dr. Zainab bt. Shamdol
+Dental Public Health Specialist
+Oral Health Division
+Ministry of Health Malaysia
+Level 5, Block E 10, Parcel E
+62590 Putrajaya
+MEMBERS OF THE REVIEW COMMITTEE
+These guidelines were reviewed by a panel of independent reviewers
+comprising both local and international experts. They were asked
+to comment primarily on the comprehensiveness and accuracy of
+interpretation of the evidence supporting the recommendations in
+the guideline. The following internal and external reviewers provided
+comments and feedback on the proposed draft:
+INTERNAL REVIEWERS
+Dr. Ferdinand Jesudian Kovilpillai
+Consultant Oral and Maxillofacial Surgeon
+Hospital Taiping
+Taiping, Perak
+Datin Dr. Sorayah Sidek
+Consultant Periodontist
+Klinik Pergigian Besar
+Kuantan, Pahang
+Dr. K. Sivakama Sunthari
+Consultant Oral and Maxillofacial Surgeon
+Hospital Ampang
+Ampang, Selangor
+EXTERNAL REVIEWERS
+Professor StJohn Crean
+Executive Dean of the College of Clinical and Biomedical Sciences
+Professor of Medicine in Dentistry
+Consultant Oral and Maxillofacial Surgeon
+University of Central Lancashire
+United Kingdom
+1.0 INTRODUCTION
+A landmark animal study by Burke3, level III and subsequent clinical
+studies by Polk4, level III and Stone5, level III initially defined the scientific
+basis for the prophylactic use of antimicrobial agents to prevent
+surgical site infection. From these studies several important
+principles were established which remain valid to this day:
+i) Our body’s defence against bacteria depends primarily on its
+own natural resistance.
+ii) The risk of infection can be decreased and sometimes
+prevented by supplementing the body’s natural resistance
+with antibiotics.
+iii) Antibiotics must be delivered before bacterial contamination
+of the tissue occurs.
+iv) Antibiotics serve no purpose if they are administered after the
+end of the period of active bacterial contamination.
+There are however significant risks associated with antibiotic use.
+When an antibiotic is administered, strains of bacteria sensitive
+to the antibiotic are killed allowing the proliferation of resistant
+strains. Repeated ‘selection’ of resistant strains of bacteria would
+eventually render the antibiotic ineffective for prophylaxis or
+treatment of infections associated with these bacteria. Antibiotic
+choice is becoming increasingly limited by antimicrobial
+resistance6, level III and new antibiotic discovery is not keeping pace
+with the rates of this antimicrobial resistance.7, level III
+Also, an antibiotic administered to a patient can act as an
+antigenic stimulus and hence produce an allergic reaction.
+Allergic reactions manifest either locally or systemically at
+varying degrees of severity ranging from minor skin lesions to
+anaphylactic shock and death.
+Antibiotics in general should be used only when the benefits
+outweigh the risks to the patient and are therefore only indicated
+when the consequence of infection is severe or when the
+incidence of infection is high.
+2.0 INDICATIONS FOR PROPHYLACTIC ANTIBIOTICS
+The United States Centers for Disease Control’s (CDC) National
+Nosocomial Infection Surveillance (NNIS) classification system
+for the risk of Surgical Site Infection (SSI) which is based on a
+large multicentre study (Study on the Efficacy of Nosocomial
+Infection Control - SENIC) lists multiple factors that increase the
+risk of SSI.8, level II-2 These factors include:
+• Patients with underlying medical problems (ASA score)
+• Wound class
+• Duration of surgery
+Other factors such as previous exposure of the site of the surgery
+to radiotherapy may also increase the risk of SSI.
+2.1 Patients with underlying medical problems
+A Swedish Systematic Review of the Literature did not find any
+clinical trials on antibiotic prophylaxis in medically compromised
+patients other than patients with heart disease. The authors noted
+that despite the lack of evidence, recommendations in Sweden
+include many different medical conditions for which antibiotic
+prophylaxis should be used.9, level 1
+A Cochrane Review stated that though there is some evidence
+that prophylactic antibiotics can reduce infection and dry sockets
+following third molar extraction, it was unclear whether the
+evidence in the review is generalizable to those with concomitant
+illnesses or immunodeﬁciency. They however concluded that such
+patients are more likely to beneﬁt from prophylactic antibiotics,
+because infections in them are likely to be more frequently
+associated with complications and be more difﬁcult to treat.10, level 1
+The French Health Products Safety Agency Recommendations
+states that patients with certain medical conditions have
+an increased susceptibility to infection which would include
+oncological patients, patients with congenital or immunological
+immunodepression, patients with immunodepression due to
+medication, patients with infectious immunodepression (AIDS),
+patients with metabolic disorders (diabetes), and patients with
+renal and hepatic insufficiency. Such patients would require
+antibiotic prophylaxis. 11, level III
+The large multicentre trial of CDC’s SENIC Project showed that
+patients with ASA (Appendix 2) scores of 1 and 2 had lower
+infection rates than patients with ASA scores of 3 or more. 8, level II-2
+RECOMMENDATON 1
+•
+Antibiotic prophylaxis is indicated for all surgical procedures
+carried out on medically compromised patients especially
+those with ASA score of 3 or more. (Grade B)
+2.2 Clean surgery
+This category of surgery refers to surgical procedures in the
+maxillofacial region in which the incision and exposure does
+not extend into the oral cavity and includes submandibular and
+parotid gland surgery and TMJ surgery.
+Johnson et al. 12, level III reported a very low infection rate of 0.6%
+for clean surgery in the head and neck region (parotidectomy,
+thyroidectomy, or submandibular gland excision) without the use
+of prophylactic antibiotics.
+The CDC’s SENIC Project had a low infection rate of 1% for clean
+general surgery cases with no other risk factors. 8, level II-2
+Knight et al.13, level III presented a very low infection rate of 0.2 %
+for clean general surgery cases in which antibiotic prophylaxis
+were not given. It is important to note that this infection rate was
+similar to that of clean general surgery cases in which antibiotic
+prophylaxis was given (0.94%).
+In an attempt to reduce the inappropriate use of antibiotics Liu et
+al.14, level II-3 demonstrated that with continuing medical education
+100% of the surgeons at their hospital stopped using prophylactic
+antibiotics for clean surgery.
+Chattopadhyayl et al.15, level III and Knight et al.13, level III showed
+that clean surgery of long duration (> 75th percentile for similar
+procedures / > 2 hours) is not associated with higher infection
+rates.
+Current evidence therefore indicates that clean surgery is
+associated with low infection rates with or without antibiotics.
+RECOMMENDATION 2
+•
+Antibiotic prophylaxis is not indicated for clean surgery in
+healthy patients. (Grade B)
+2.3 Clean-contaminated surgery
+This category of surgery refers to surgical procedures in the oral
+and maxillofacial region limited to the oral cavity or which extends
+into the oral cavity.
+In this category fall a wide range of procedures. They range from
+minor soft tissue and dentoalveolar surgery to surgery to place
+dental implants to major oral and maxillofacial surgery.
+2.3.1 Minor clean—contaminated surgery
+2.3.1.1 Lower third molar surgery
+Various randomised controlled trials found that prophylactic
+antibiotics did not have a statistically significant effect on postoperative infections in third molar surgery and concluded that
+antibiotics should not be routinely administered when third molars
+are removed in healthy individuals.16-20, level 1
+A local retrospective study by Royan et al.21, level III also showed
+no difference in infection rates between patients who were given
+prophylactic antibiotics and those who were not.
+A large multicentre prospective Malaysian study showed that the
+infection rate in healthy patients given a single dose of antibiotics
+(0.6%) was lower than that in patients not given antibiotics (2%)
+or in patients given five days of antibiotics post-operatively
+(2%). All the infections were also noted to be mild and easily
+treated. The study concluded that the low infection rate and mild
+infections in patients not given antibiotics did not justify the use
+of prophylactic antibiotics. The authors commented that it was
+not justifiable to give antibiotics to 100 patients to prevent mild
+infections in two of them.2, level II-2
+A Cochrane Review stated that there is some evidence that
+prophylactic antibiotics can reduce infection and dry sockets
+following third molar extraction. The authors however concluded
+that due to the increasing prevalence of bacteria which are
+resistant to treatment by currently available antibiotics, clinicians
+should consider the fact that because the infection rate is low,
+giving antibiotics is likely to do more harm than good. 10, level I
+There is no evidence for the use of prophylactic antibiotics in
+surgery to remove other impacted teeth. However, an inference
+can be made from the evidence for third molar surgery that the
+use of prophylactic antibiotics would similarly not be beneficial.
+RECOMMENDATION 3
+•
+Antibiotic prophylaxis is not indicated for lower third molar
+surgery. (Grade A)
+2.3.1.2 Periodontal Surgery
+The incidence of infection after periodontal surgery is low
+(0.55% - 2.09%).22-23, level III A retrospective study by Callis et
+al.22, level III showed that patients who received antibiotics as
+part of the surgical protocol (pre- and/or post- surgery) had an
+infection rate of 2.85% compared to an infection rate of 1.81%
+when no antibiotics were used. This result was not statistically
+significant.23, level III Here again, because of the low infection rate,
+giving antibiotics is likely to do more harm than good.
+RECOMMENDATION 4
+•
+Antibiotic prophylaxis is not recommended for routine
+periodontal surgery. (Grade B)
+2.3.1.3 Minor clean-contaminated surgery with high degree
+of difficulty / long duration
+Clean contaminated surgery of long duration (> 75th percentile
+for similar procedures) is associated with higher infection rates. 8,
+level II-2; 13, level III
+This higher infection rate is to be expected as the deeper tissues of
+the surgical site are exposed to the oral cavity for a longer period
+of time. Also, surgery with a higher degree of difficulty causes
+more injury to the tissues resulting in compromised healing and
+immune responses.
+RECOMMENDATION 5
+•
+Antibiotic prophylaxis may be indicated for minor surgery
+with a high degree of difficulty in which the duration of the
+surgery is predicted to be long. (Grade B)
+2.3.1.4 Surgery to place dental implants
+Despite the high success rates published in the literature, implant
+failures do occur. Some of the early dental implant losses could
+be due to bacterial contamination during implant insertion which
+may lead to infections around the implant. Such infections when
+they do occur are very difficult to manage. The financial loss of
+implant failure is also great. In order to minimize early infection
+after dental implant placement, systemic antibiotic prophylaxis
+regimes have been advocated.
+Two recent Cochrane systematic reviews concluded that there is
+some evidence suggesting 2g of amoxicillin given orally 1 hour
+preoperatively significantly reduces failures of dental implants
+placed in ordinary conditions.24-25, level 1
+RECOMMENDATION 6
+•
+Antibiotic prophylaxis is indicated for surgery to place
+dental implants. (Grade A)
+2.3.1.5 Surgery associated with the use of bone grafts
+There is a paucity of evidence on whether antibiotic prophylaxis
+is indicated when bone grafts are inserted intra-orally. The reason
+for this lack of evidence is probably due to the fact that surgeons
+consider the financial cost and morbidity too great if a bone graft
+is lost through infection and therefore prescribe antibiotics.
+A search of the literature found only one randomized controlled
+double blind study. The results of this study showed there was a
+statistically significant increased risk of having an infection after
+an intra-oral bone grafting procedure when antibiotic prophylaxis
+was not used. 26, level 1
+RECOMMENDATION 7
+•
+Antibiotic prophylaxis is indicated for minor oral surgical
+procedures in which a bone graft is inserted. (Grade A)
+2.3.2 Major clean-contaminated surgery
+Orthognathic surgery is the archetype of major clean contaminated
+maxillofacial surgery. This category of surgery also includes
+surgery for large benign tumours and cysts.
+In major maxillofacial surgery, the duration of the surgery is
+expected to be long with the wound open into the mouth for the
+duration of the surgery. As discussed above in Section 2.3.1.3,
+clean-contaminated surgery of longer duration is associated with
+an increased incidence of SSI. 8, level II-2; 13, level III
+Using proper surgical techniques and prophylactic antibiotics,
+Peterson 27, level III stated that it was possible to reduce infection
+rates to as low as 1.0%.
+Tan et al. 28, level 1 and Oomens et al. 29, level 1 in their systematic
+reviews and meta-analysis of clinical trials recommended that
+prophylactic antibiotics are indicated for orthognathic surgery.
+RECOMMENDATION 8
+•
+Antibiotic prophylaxis is indicated for major clean
+contaminated maxillofacial surgery. (Grade A)
+2.4 Cancer surgery
+Patients with head and neck cancer are usually older and are often
+medically compromised. Simo and French 30, level III advocated the
+use of prophylactic antibiotics for clean surgery associated with
+malignancy as it has a significantly higher infection rate when
+compared to surgery for benign disease. A prospective controlled
+study on antibiotic prophylaxis in clean neck dissections done by
+Seven et al. 31, level II-1 showed a significantly higher incidence of
+infections in patients who were not given antibiotics.
+In clean-contaminated cancer surgery of the head and neck
+involving major resections and flap reconstruction, Hirakawa et
+al.32, level II-3 showed an infection rate 32% and Skitarelic et al.33,
+level II-3 found an infection rate of 22.0% even with prophylactic
+antibiotics.
+RECOMMENDATION 9
+•
+Antibiotic prophylaxis is indicated in all forms of head and
+neck cancer surgery. (Grade A)
+2.5 Oral and maxillofacial trauma
+There is little strong evidence relating to the use of prophylactic
+antibiotics in trauma surgery. A few points from the literature
+should however, be highlighted:
+•
+Prophylactic antibiotic therapy reduces the risk of infection
+in the treatment of mandibular fractures. 34, level II-3
+•
+There is no good evidence for the use of post-operative
+antibiotics after open reduction and internal fixation of
+fractured mandibles.35, level III; 36, level II-2; 37, level II-3
+•
+The incidence of SSI following surgery for fractures of the
+zygoma is low whether antibiotics are given or not. 34, level II-3
+•
+Infection rates for maxillary fracture treatment are very low.
+35, level II-3
+It is also logical to consider that trauma to tissue renders it less
+resistant to infection.
+In view of the lack of strong evidence, the indication for antibiotic
+prophylaxis in open reduction and internal fixation of facial bone
+fractures is considered as for clean, contaminated surgery and
+placement of implants.
+RECOMMENDATION 10
+•
+Antibiotic prophylaxis is indicated for open reduction and
+internal fixation of facial bone fractures. (Grade B)
+•
+Antibiotics should not be continued postoperatively.
+(Grade B)
+2.6 Site of surgery involving bone previously exposed to
+radiotherapy
+Patients who have had radiation for the treatment of head and
+neck malignancy are at risk of osteoradionecrosis following oral
+surgical intervention to the jaws. While osteoradionecrosis itself
+is not considered an infection, surgical site infection involving the
+bone can cause osteoradionecrosis by means of inflammatory
+and infectious insult to the compromised bone. As a result of
+the morbidity associated with osteoradionecrosis, antibiotics
+have been widely used peri-operatively in association with
+surgery involving bone to try and prevent the occurrence of
+osteoradionecrosis.
+No randomized controlled trial has been conducted to determine
+if prophylactic antibiotics are effective in preventing the onset
+of osteoradionecrosis. In one systematic review 38, level II-3 the
+incidence of osteoradionecrosis following tooth extraction was
+slightly lower when prophylactic antibiotic was used as compared
+to when no antibiotics was used (6% vs. 7%). The conclusions
+of this systematic review were, however, derived from weak
+evidence consisting mainly of retrospective and non-randomised
+prospective studies. Prophylactic antibiotics therefore do not
+appear to be effective in preventing osteoradionecrosis.
+There is no difference in the incidence of osteoradionecrosis
+following tooth extraction whether antibiotics are administered
+or not.
+If osteoradionecrosis does occur, there appears to be a changing
+trend in its management. There is evidence of the effectiveness
+of conservative medical management incorporating antioxidant
+therapy (Pentoxyphyline and Tocopherol).39, level III The addition of
+low dose doxycycline or biphophonates to this also shows some
+promise.40, level III
+3.0 ADMINISTRATION OF PROPHYLACTIC ANTIBIOTICS
+Once it has been decided that prophylactic antibiotics are
+indicated, Peterson 27, level III has suggested that several principles
+be followed:
+• The correct antibiotic must be used.
+• The plasma antibiotic level must be high.
+• The timing of administration must be correct.
+• The shortest antibiotic exposure must be used.
+3.1 Choice of antibiotic
+3.1.1 Surgery confined to the oral cavity
+One of the principles followed in choosing antibiotics is their
+effectiveness against the likely organisms causing the infection.
+Following this principle alone, the choice of antibiotics for
+odontogenic infections becomes complicated due to the
+polymicrobial nature of these infections.
+The bacteria involved in odontogenic infections include the
+facultative anaerobic Gram-positive cocci (Streptococcus
+viridans), the strict anaerobic Gram-negative rods (Porphyromona,
+Prevotella and Fusobacterium spp.) and the strict anaerobic
+Gram-positive cocci (Peptostreptococcus spp.)41, level III; 42, level II-1
+There is agreement that facultative and strict anaerobes act
+synergistically and not in isolation in causing infection.41, level III;
+42, level II-1; 43, level II-3 Gaetti-Jardim et al.43, level II-3 went on to suggest
+that it may be sufficient just to break the established synergism
+between different bacteria, rather than to try and target every
+single potential organism that may be involved in the infection.
+Yuvaraj et al.42, level II-1 showed that in interdependent, synergistic
+mixed infections, one bacterial species sensitive to penicillin may
+render the entire pathogenic complex non-pathogenic.
+Penicillin and amoxicillin are effective against the organisms
+causing odontogenic infections and penicillin is still regarded by
+many authorities as the drug of choice. 42, level II-1; 44, level II-3; 45, level II-3;
+46, level 1
+There is emerging resistance to penicillin by the Streptococcus
+viridans group due to modifications of the penicillin binding
+proteins (PBP). This resistance however can be overcome
+by increasing the dose of the antibiotic. The resistance of the
+anaerobic gram negative rods to penicillin is however due to the
+production of beta lactamase. As a result of this, the use of the
+amoxicillin-clavulanic acid combination is becoming increasingly
+popular. 41, level III
+The amoxicillin-clavulanic acid combination is a broad spectrum
+antibiotic. It should be avoided when other more narrow-spectrum
+antibiotics could be used. It increases the risk of Clostridium
+difficile, MRSA and other resistant infections.47, level I This antibiotic
+should therefore be prescribed only for appropriate indications
+so that it remains an effective antibiotic when needed.
+Clindamycin has been shown to be effective against the facultative
+and strict anaerobes involved in odontogenic infections and is
+therefore often the drug of choice in patients allergic to penicillin.
+43, level II-3
+The choice of antibiotic however must be justified by the
+antibiotic susceptibility patterns in the population. Table 1
+represents the antibiotic resistance patterns of oral organisms
+isolated in Hospital Sungai Buloh for 2014. The results show that
+Streptococcus viridans is still very sensitive to penicillin G and
+clindamycin but resistant to ampicillin. It also appears that the
+anaerobic organisms are showing some resistance to penicillin G
+and clindamycin.
+Table 1. Antibiotic resistance patterns of oral organisms- Hospital
+Sg. Buloh, 2014
+Organism
+Streptococcus
+intermedius
+6
+0
+0
+0
+0
+0
+0
+6
+6
+6
+6
+6
+6
+Streptococcus
+viridans
+11
+0
+0
+0
+0
+0
+9
+0
+11
+11
+11
+11
+11
+11
+11
+Peptostreptococcus
+sp.
+4
+0
+0
+0
+50
+0
+0
+4
+4
+4
+4
+4
+4
+Prevotella
+intermedia
+1
+0
+100
+0
+0
+0
+1
+1
+1
+1
+1
+Prevotella bivia
+1
+0
+0
+0
+0
+0
+1
+1
+1
+1
+1
+Prevotella oralis
+5
+100
+20
+0
+0
+20
+5
+5
+5
+5
+5
+Fusobacterium
+varium
+3
+0
+33
+0
+0
+33
+3
+3
+3
+3
+3
+Fusobacterium
+mortiferum
+5
+40
+0
+0
+0
+0
+5
+5
+5
+5
+5
+NB: The upper figure in each row refers to the percentage resistance and the lower figure
+refers to the no. of isolates tested.
+Microorganisms intervene in the odontogenic infection in a
+chronological manner. It is therefore logical to assume that
+effective antibiotic prophylaxis against the initiating bacteria,
+which are usually the facultative bacteria (mainly Streptococcus
+viridans), could prevent the infection. 45, level III
+In the light of these findings, penicillin G and clindamycin would
+be obvious choices as prophylactic antibiotics.
+Total isolate
+Ampicilin
+Clindamycin
+Ceftriaxone
+Cefotaxime
+Erythromycin
+Gentamicin
+Imipenem
+Metronidazole
+Penicillin G
+Piperacilin Tazobactam
+Trimethoprim/Sulbactam
+Tetracycline
+Vancomycin
+3.1.2 Surgery involving the oral cavity extending onto the skin
+The pathogenic organisms involved in surgical site infections
+for surgery extending onto the skin may also include methicillin
+sensitive Staphylococcus aureus in addition to the oral organisms.
+The penicillinase resistant antibiotics cloxacillin and cefazolin
+(1st generation cephalosporin) would be the drugs of choice.
+Cloxacillin needs to be prescribed together with penicillin as it
+is effective only against Staphylococcus aureus and not the oral
+organisms. Cefazolin however can be prescribed alone as it is
+effective against both. Clindamycin is the antibiotic of choice
+for patients allergic to penicillin and is effective against all the
+organisms involved. 48, level III
+RECOMMENDATION 11
+•
+Amoxicillin, Penicillin G and Clindamycin are appropriate
+choices of antibiotics for oral surgical prophylaxis. (Grade
+B)
+•
+Cloxacillin, cefazolin or clindamycin should be considered
+if the surgery extends onto the skin. (Grade C)
+3.2 Dose of antibiotic
+The dose of the antibiotic should be based on its pharmacokinetic
+and pharmacodynamic properties and on patient factors. The
+clinical guidelines by Bratzler et al.49, level II-2 and Mangram et al.50, level
+II-3 have recommended that full therapeutic doses for antibiotics
+be used for prophylaxis. In obese patients, it is suggested that the
+dosage be increased although relevant studies are lacking. The
+recommendations for initial dose strengths of various antibiotics
+are as in Table 2.
+RECOMMENDATION 12
+•
+The dose of antibiotic to be administered for surgical
+prophylaxis should be at the full therapeutic dose of the
+antibiotic. (Grade B)
+Table 2. Initial dose strengths of various antibiotics
+Route
+Antibiotic
+Initial dose strength
+Oral
+Amoxicillin
+1.0 g
+Clindamycin
+600mg
+Amoxicillin/
+clavulanic acid
+1.0 g of the amoxicillin
+component
+Cefuroxime
+500mg
+Parenteral
+Benzyl Penicillin
+2 mega units
+Clindamycin
+600 mg
+Amoxicillin/
+clavulanic acid
+1.2g
+Cloxacillin
+1.0g
+Cefazolin
+2.0g
+Cefuroxime
+1.5g
+3.3 Timing of first dose of antibiotic
+Peterson suggested that for prophylaxis against wound infection
+to be effective, the tissue antibiotic levels must be high at the
+time of surgery which would necessitate the administration of the
+antibiotic preoperatively. The first dose of the antibiotic should be
+administered within 60 minutes prior to the surgical incision.44, 50,
+level II-3
+A number of studies have demonstrated that there is an increased
+rate of SSI when antibiotics are given earlier than 60 minutes
+before incision.49, level II-2; 50, level II-3; 51, level II-2 A Dutch study of 1922
+patients showed that the highest risk of SSI was found in patients
+who were given prophylaxis after incision. 52, level II-2
+It should be noted however that an important animal study in
+1990 by Berney and Francioli led to the establishment of the
+“two hour rule”.53, level III This rule states that antibiotics given less
+than two hours from the start of the procedure is still effective as
+prophylaxis against wound infection. Beyond this time, antibiotics
+will be ineffective as prophylaxis. This “two hour rule” might be
+considered if prophylactic antibiotics were not administered
+pre-procedure and it was subsequently felt either during or
+immediately after the procedure that antibiotics are needed. Such
+situations may arise due to a decision error or if the duration of the
+procedure lasts longer than initially expected.
+RECOMMENDATION 13
+•
+The first dose of the antibiotic should be administered
+within 60 minutes prior to the surgical incision. (Grade B)
+3.4 Additional doses (duration) and dose intervals of the
+antibiotic
+Mangram et al. suggests that additional doses of the antibiotic
+be given if the length of the surgery exceeds two half-lives of the
+drug or if there is excessive bleeding (more than 1500 ml). 50, level II-3
+Another suggestion by Sancho-Puchades et al.41, level II-1 is that if
+the surgical intervention extends in time or if the tissue damage is
+considerable, another antibiotic dose can be administered at the
+equator (half) of its therapeutic interval. This is to ensure adequate
+serum and tissue concentrations of the drug until the wound is
+closed. The interval between doses is measured from the time of
+the first preoperative dose.
+If additional doses of the antibiotic are to be administered, the
+dose given should be the same as the initial prophylactic dose
+of the antibiotic.49, level II-2 The additional dosing suggested for the
+recommended antibiotics are as in Table 3.
+Post-operative antibiotic administration is not necessary for most
+surgical procedures as it does not proffer any added advantage in
+preventing surgical site infections.50, Level II-3; 33, level 1
+RECOMMENDATION 14
+•
+Additional doses of prophylactic antibiotics should be
+administered if the length of surgery exceeds either two halflives or half the therapeutic interval of the drug. (Grade B)
+•
+The additional dose strength should be the same as the
+initial prophylactic dose of the antibiotic. (Grade C)
+•
+Post-operative antibiotics should not be prescribed for
+surgical prophylaxis. (Grade B)
+Table 3. Additional dosing recommendations for long
+operations
+Antibiotic
+Additional dose
+strength
+Dose
+Interval
+Benzyl Penicillin
+2 mega units
+2 hours
+Clindamycin
+600 mg
+6 hours
+Amoxicillin/Clavulanic
+Acid
+1.2g
+3 hours
+Cloxacillin
+1.0g
+4 hours
+Cefazolin
+2.0g
+4 hours
+Cefuroxime
+1.5g
+4 hours
+4.0 CONCLUSION
+These guidelines are the current recommendations of the
+committee towards good practice with respect to the appropriate
+use of antibiotics in surgical prophylaxis. Dental practitioners may
+have individual preferences but all decisions made must be in
+the light of available evidence, resources and the circumstances
+presented by their patients.
+It is important to emphasize that the appropriate use of antibiotics
+in patient care is of paramount importance and that antibiotic
+prophylaxis in surgery is an adjunct to and not a substitute
+for good surgical technique. Antibiotic prophylaxis should be
+regarded as one component of an effective policy for control of
+surgical site infection.
+5.0 IMPLEMENTING THE GUIDELINES
+The first edition of these clinical practice guidelines (CPG) on
+antibiotic prophylaxis against wound infection for oral surgical
+procedures was developed and published in 2003. An audit
+carried out in 2010 however found that more than half of the
+respondents did not use the CPG. 1, level III It also found that the
+most important sources of information that clinicians used were
+their own clinical experience and the opinions of their colleagues.
+A study done in 2012 by the IHSR 2, level III found a wide variation in
+the use of antibiotics by doctors for patients undergoing dentoalveolar surgery. At the start of the study it was discovered that
+doctors followed 3 patterns of prescribing, either i) they did not
+prescribe any antibiotics, ii) prescribed only a single dose of
+antibiotic pre-operatively or iii) prescribed 5 days of antibiotics
+post-operatively. For the doctors who prescribed antibiotics
+post-operatively, 77% prescribed one antibiotic while the rest
+prescribed two. There was also a wide range of the types of
+antibiotics prescribed which included amoxicillin, bacampicillin,
+co-amoxiclav, metronidazole, cloxacillin and cefuroxime.
+It is important to ensure that the use of prophylactic antibiotics
+in oral surgery is evidence-based. The rational use of antibiotics
+by all healthcare professionals will help to prevent the emergence
+of resistant organisms. Appropriate antibiotic use will assist in
+successful treatment outcomes and reduce adverse reactions. In
+addition, the financial cost in the management of patients.2, level III
+could be reduced.
+5.1 Facilitating and Limiting Factors
+Existing facilitators for application of the recommendations in the
+CPG include:
+a) Wide dissemination of the CPG to healthcare professionals
+via printed and electronic copies.
+b) Continuing
+professional
+education
+for
+healthcare
+professionals.
+Existing barriers for application of the recommendations of the
+CPG include:
+a) Non-standard teaching related to prophylactic antibiotic use
+b) Variation in treatment practice and preferences
+5.2 Potential Resource Implications
+To implement the CPG, there must be strong commitment to:
+a) Ensure widespread distribution of the CPG to healthcare
+professionals.
+b) Reinforce training of healthcare professionals to ensure
+information is up to date.
+To assist in the implementation of the CPG, the following are
+proposed as clinical audit indicators for quality management:
+a. Lower third minor surgery
+Indicator: Percentage of patients undergoing lower third molar
+surgery requiring antibiotic prohylaxis < 10%.
+No. of impacted lower third molar surgery cases given antibiotics x 100%
+No. of impacted lower third molar surgery cases
+b. Trauma
+Indicator: Percentage of patients undergoing open reduction and
+internal fixation (ORIF) of simple mandibular fractures given postop antibiotics < 2%.
+No. of patients given antibiotic prescriptions post-ORIF x 100%
+No. of patients undergoing ORIF
+REFERENCES
+1. Institute of Health Systems Research. A study on the Effectiveness
+of Clinical Practice Guidelines (CPG) In Managing Dental Problems.
+Unpublished report. 2010.
+2. Vincent C, Abdul Hamid AL, Royan SJ, Aljunid ST, Junid NZ, Mahat
+M. The effectiveness of the MOH CPG on Prophylactic Antibiotic
+Usage for Oral Surgery Procedures. Institute for Health Systems
+Research. MOH/S/IPSK/70.12(RR). 2012.
+3. Burke JF. The effective period of preventive antibiotic action in
+experimental incisions and dermal lesions. Surgery 1961;50:16168.
+4. Polk HC, Lopez-Mayor JF. Postoperative wound infection: A
+prospective study of determinant factors and prevention. Surgery,
+1969 Jul;66(1):97-103.
+5. Stone HH, Haney BB, Kolb LD, Geheber CE, Hooper CA.
+Prophylactic and preventive antibiotic therapy. Ann Surg.,1979
+Jun;189(6): 691-9.
+6. Wilcox MH. The tide of antimicrobial resistance and selection. Int
+J Antimicrob Agents, 2009 Aug; 34 Suppl 3:S6-10.
+7. Brooks BD, Brooks AE. Therapeutic strategies to combat antibiotic
+resistance. Adv Drug Deliv Rev 2014 Nov; 78:14-27.
+8. Culver DH, Horan TC, Gaynes RP, Martone WJ, Jarvis WR, Emori
+TG, Banerjee SN, Edwards JR, Tolson JS, Henderson TS, et al.
+Surgical wound infection rates by wound class, operative procedure
+and patient risk index. Am J Med.,1991 Sep 16;91(3B):152S-7S.
+9. Ellervall E, Vinge E, Rohlin M, Knutsson K.Antibiotic prophylaxis
+in
+oral
+healthcare
+–
+The
+agreement
+between
+Swedish
+recommendations and evidence. Br Dent J. 2010 Feb 13;208(3):E5;
+discussion 114-5.
+10. Lodi G, Figini L, Sardella A, Carrassi A, Del Fabbro M, Furness S.
+Antibiotics to prevent complications following tooth extractions.
+Cochrane Database of Systematic Reviews, 2012; Issue 11. Art.
+No.: CD003811. DOI: 10.1002/14651858.CD003811.pub2.
+11. French Health Products Safety Agency. Prescribing antibiotics in
+odontology and stomatology. Recommendations by the French
+Health Products Safety Agency. Fundam Clin Pharmacol., 2003;17:
+725-9.
+12. Johnson JT, Wagner RL. Infection following uncontaminated
+head and neck surgery. Arch Otolaryngol Head Neck Surg.,1987
+Apr;113(4): 368-9.
+13. Knight R, Charbonneau P, Ratzer E, Zeren F, Haun W, Clark J.
+Prophylactic antibiotics are not indicated in clean general surgery
+cases. Am J Surg., 2001 Dec;182:682-686.
+14. Liu SA, Chiu YT, Lin WD, Chen SJ. Using information technology
+to reduce the inappropriate use of surgical prophylactic antibiotic.
+Eur Arch Otorhinolaryngol.,2008;265:1109-1112.
+15. Chattopadhyay R, Zaroukian S, Potvin E. Surgical site infection
+rates ar the Pontiac Health Care Centre, a rural community hospital.
+Can J Rural Med., 2006;11(1):41-8.
+16. Poeschl PW, Eckel D, Poeschl Ellen. Postoperative prophylactic
+antibiotic treatment in third molar surgery— A Necessity? J Oral
+Maxillofac Surg., 2004;62:3-8.
+17. Ataoglu H, Oz GY, Candirli C, Kiziloglu D. Routine antibiotic
+prophylaxis is not necessary during operations to remove third
+molars. Br J Oral Maxillofac Surg.,2008;46(2):133–135.
+18. Siddiqi A, Morkel JA, Zafar S. Antibiotic prophylaxis in third molar
+surgery: A randomized double-blind placebo-controlled clinical
+trial using split-mouth technique. Int J Oral Maxillofac Surg.,2010;
+39:107–114.
+19. Olojede OA, Gbotolorun OM, Ibikunle AA, et al. A Comparative
+Clinical Evaluation of the Effect of Preoperative and Postoperative
+Antimicrobial Therapy on Postoperative Sequelae after Impacted
+Mandibular Third Molar Extraction. J Oral Maxillofac Res.,2014(AprJun); 5(2e):1-6.
+20. Arteagoitia I, Ramos E, Santamaria G, Barbier L, Alvarez J,
+Santamaria J. Amoxicillin/clavulanic acid 2000/125mg to prevent
+complications due to infection following completely bone-impacted
+lower third molar removal: a clinical trial. Oral Surg Oral Med Oral
+Path Oral Radiol., 2015;119(1):8-16.
+21. Royan SJ, Kamsinah O, Zuhaibah M. Perioperative oral antibiotics
+in third molar surgery: do they make a difference? Mal J Oral
+Maxillofac Surg.,2007; 5: 6-9.
+22. Callis S, Lemmer J, Touyz LZ. Antibiotic prophylaxis in periodontal
+surgery. A retrospective study. J Dent Assoc S Afr .,1996
+Dec;51(12):806-9.
+23. Powell CA, Mealey BL, Deas DE, McDonnell HT, Moritz AJ. Postsurgical infections: prevalence associated with various periodontal
+surgical procedures. J Periodontol.,2005 Mar;76(3):329-33.
+24. Esposito M, Grusovin MG, Loli V, Coulthard P, Worthington HV.
+Does antibiotic prophylaxis at implant placement decrease early
+implant failures? - A Cochrane systematic review. Eur J Oral
+Implantol., 2010 Summer;3(2):101-10.
+25. Esposito M, Grusovin MG, Worthington HV. Interventions for
+replacing missing teeth: antibiotics at dental implant placement
+to prevent complications - Cochrane Database Syst Rev., 2013
+;7:CD004152.
+26. Lindeboom JA, Van Den Akker HP. Prospective placebo-controlled
+double blind trial of antibiotic prophylaxis in intra oral bone grafting
+procedures: a pilot study. Oral Surg Oral Med Oral Pathol Oral
+Radio Endod , 2003 Dec; 96(6):669-72.
+27. Peterson LJ. Antibiotic prophylaxis against wound infections in oral
+and maxillofacial surgery: J Oral Maxillofac Surg.,1990; 48:617-62.
+28. Tan SK, Lo J, Zwahlen RA. Perioperative antibiotic prophylaxis
+in orthognathic surgery: a systematic review and meta-analysis
+of clinical trials. Oral Surg Oral Med Oral Pathol Oral Radiol
+Endod.,2011 Jul;112(1):19-27.
+29. Oomens MAEM, Verlinden CRA, Goey Y, et al. Prescribing
+antibiotic prophylaxis in orthognathic surgery: A systematic review.
+Int J Oral Maxillofac Surg., 2014; 43:725-731.
+30. Simo R, French G. The use of prophylactic antibiotics in head
+and neck oncological surgery. Curr Opin Otolaryngol Head Neck
+Surg.,2006 Apr;14(2):55-61.
+31. Seven H, Sayin I, Turgut S. Antibiotic prophylaxis in clean neck
+dissections. J Laryngol Otol.,2004; 118:213-216.
+32. Hirakawa H, Hasegawa Y, Hanai N, Ozawa T, Hyodo I, Suzuki M.
+Surgical site infection in clean-contaminated head and neck cancer
+surgery: risk factors and prognosis. Eur Arch Otorhinolaryngol,
+2013 Mar;270(3):1115-23.
+33. Skitarelic N, Morovic M, Manestar D. Antibiotic prophylaxis
+in clean-contaminated head and neck oncological surgery. J
+Craniomaxillofac Surg.,2007 Jan;35(1):15-20.
+34. Andreassen JO, Jensen SS, Schwartz O, Hillerup Y. A Systematic
+Review of Prophylactic Antibiotics in the Surgical Treatment of
+Maxillofacial Fractures. J Oral Maxillofac Surg.,2006, 64: 16641668.
+35. Lovato C, Wagner JD. Infection rates following perioperative
+prophylactic antibiotics versus postoperative extended regimen
+prophylactic antibiotics in surgical management of mandibular
+fractures. J Oral Maxillofac Surg., 2009 Apr;67(4):827-32.
+36. Miles BA et al. The efficacy of postoperative antibiotic regimens
+in the open treatment of mandibular fractures: A prospective
+randomised trial. J Oral Maxillofac Surg., 2006, 64: 576-582.
+37. Hindawi YH, Oakley GM, Kinesella Jr CR, et al. Antibiotic duration
+and Postoperative infection rates in Mandibular Fractures. J
+Craniofac Surg., 2011;22:1375-1377.
+38. Nabil S, Samman N. Risk factors for osteoradionecrosis after head
+and neck radiation: a systematic review. Oral Surg, Oral Med, Oral
+Pathol, Oral Radiol., 2012 Jan;113(1):54-69.
+39. Delanian S,Lefaix J-L. The radiation induced fibroatrophic process:
+Therapeutic perspective via the antioxidant pathway. Radiotherapy
+and oncology, Nov 2004:73(2):119-131.
+40. D’Souza J,Lowe D,Rogers SN. Changing trends and the role
+of medical management on the outcome of patients treated for
+osteoradionecrosis of the mandible: experience from a regional
+head and neck unit. Br J Oral Maxillofac Surg 2014;52:356-362.
+41. Sancho-Puchades M, Herraz-Vilas JM, Berini-Aytez L, GayEscoda C. Antibiotic prophylaxis to prevent local infection in oral
+surgery: use or abuse? Med Oral Patol Oral Cir Bucal., 2009 Jan;
+14(1):E28-33.
+42. Yuvaraj V, Alexander M, Pasupathy S. Microflora in Maxillofacial
+Infections – a Changing Scenario? J Oral Maxillofac Surg., 2012;
+70:119-125.
+43. Gaetti-Jardim EC, Marqueti AC, Faverani LP, Gaetti-Jardim E. Jr.
+Antimicrobial resistance of aerobes and facultative anaerobes
+isolated from the oral cavity. J Appl Oral Sci.,2010 Dec; 18(6): 5519.
+44. Sanchez R, Mirada E, Arias J et al. Severe odontogenic infections:
+epidemiological, microbiological and therapeutic factors. Med Oral
+Patol Oral Cir Bucal.,2011 Aug; 16(5): E670-6.
+45. Shweta, Prakash SK. Dental abscess: A microbiological review.
+Dent Res J., (Isfahan) 2013 Sep; 10(5): 585-91.
+46. Flynn TR. What are the antibiotics of choice for odontogenic
+infections and how long should the treatment course last? Oral
+Maxillofac Surg Clin N Am., 2011; 23:519-536.
+47. Slimings C, Riley TV. Antibiotics and hospital-acquired Clostridium
+difficile infection: update of systematic review and meta-analysis.
+J Antimicrob Chemother. 2014 Apr;69(4):881-91.
+48. Rosengren H, Dixon A. Antibacterial Prophylaxis in Dermatologic
+Surgery: An Evidence Based Review. Am J Clin Dermatol ,2010;
+11 (1): 35-44.
+49. Bratzler DW, Dellinger EP, Olsen KM, et al. Clinical practice
+guidelines for antimicrobial prophylaxis in surgery. Am J HealthSyst Pharm., 2013; 70:195-283.
+50. Mangram AJ, Horan TC, Pearson ML et al. Hospital Infection
+Control Practices Advisory Committee: Guidelines for Prevention
+of Surgical Site Infections. Infect Control Hosp Epidemiol., 1999;
+20:247-278.
+51. Steinberg JP, Braun BI, Hellinger WC et al. Timing of antimicrobial
+prophylaxis and the risk of surgical site infection: results from the
+Trial to Reduce Antimicrobial Prophylaxis Errors. Ann Surg., 2009;
+250:10-6.
+52. Weber WP, Marti WR, Zwahlen M et al. The timing of surgical
+antimicrobial prophylaxis. Ann Surg., 2008; 247:918-26.
+53. Berney P1, Francioli P. Successful prophylaxis of experimental
+streptococcal endocarditis with single-dose amoxicillin administered
+after bacterial challenge. J Infect Dis. 1990 Feb;161(2):281-5.
+Appendix 1
+SEARCH STRATEGY
+The following MeSH terms or free text terms were used either singly
+or in combination, search was limit to English, human and 2003 to
+current:
+Microbiology
+•
+oral bacteria
+•
+oral microorganisms
+•
+microflora
+•
+Antibiotic sensitivity
+•
+Antibiotic resistance
+•
+Odontogenic infections
+•
+Surgical site infections
+Treatment
+•
+Oral surgery
+•
+Dental surgery
+•
+Maxillofacial surgery
+•
+Clean surgery
+•
+Clean-contaminated surgery
+•
+Minor oral surgery
+•
+Wisdom teeth surgery
+•
+Periodontal surgery
+•
+Traumatic injuries to face and jaws
+•
+Cancer surgery
+•
+Orthognathic surgery
+•
+Osseointegrated implants
+•
+Osteoradionecrosis
+•
+Bone grafts
+•
+Skin incisions
+Antibiotics
+•
+Therapy
+•
+Prophylaxis
+•
+Penicillin
+•
+Amoxicillin
+•
+Clindamycin
+•
+Co-amoxiclav
+•
+Antibiotic regime
+•
+Dosage
+•
+Duration
+•
+Re-dosing protocol
+•
+Pre-operative antibiotics
+•
+Post-operative antibiotics
+Appendix 2
+ASA PHYSICAL STATUS CLASSIFICATION SYSTEM
+Last approved by the ASA House of Delegates on October 15, 2014
+Current definitions (NO CHANGE) and Examples (NEW)
+ASA PS
+Classification
+Definition
+Examples, including, but not
+limited to:
+ASA I
+A normal healthy
+patient
+Healthy, non-smoking, no or
+minimal alcohol use
+ASA II
+A patient with
+mild systemic
+disease
+Mild diseases only without
+substantive functional
+limitations.
+Examples include (but not
+limited to):
+Current smoker, social alcohol
+drinker, pregnancy, obesity (30
+< BM < 40), well controlled DM/
+HTN, mild lung disease
+ASA III
+A patient with
+severe systemic
+disease
+Substantive functional
+limitations; One or more
+moderate to severe diseases.
+Examples include (but not
+limited to):
+Poorly controlled DM or
+HTN, COPD, morbid obesity
+(BMI ≥40), active hepatitis,
+alcohol dependence or
+abuse, implanted pacemaker,
+moderate reduction of ejection
+fraction, ESRD undergoing
+regularly scheduled dialysis,
+premature infant PCA < 60
+weeks, history (>3 months) of
+MI, CVA, TIA, or CAD/stents.
+ASA IV
+A patient with
+severe systemic
+disease that is a
+constant threat
+to life
+Examples include (but not
+limited to):
+recent ( < 3 months) MI, CVA,
+TIA, or CAD/stents, ongoing
+cardiac ischemia or severe
+valve dysfunction, severe
+reduction of ejection fraction,
+sepsis, DIC, ARD or ESRD not
+undergoing regularly scheduled
+dialysis
+ASA V
+A moribund
+patient who is
+not expected to
+survive without
+the operation
+Examples include (but not
+limited to):
+Ruptured abdominal/thoracic
+aneurysm, massive trauma,
+intracranial bleed with mass
+effect, ischemic bowel in the
+face of significant cardiac
+pathology or multiple organ/
+system dysfunction
+ACKNOWLEDGEMENT
+The members of the development group of these guidelines would like
+to express their gratitude and appreciation to the following for their
+contributions:
+-
+The external reviewer
+-
+Technical Advisory Committee for CPG for their valuable input
+and feedback
+-
+Ms Zabidah Bt. Othman for processes involved in the publication
+-
+All those who have contributed directly or indirectly to the
+development of the CPG
+DISCLOSURE STATEMENT
+The panel members completed disclosure forms. None held shares in
+pharmaceutical firms or acts as consultants to such firms. (Details are
+available upon request from the CPG Secretariat)
+SOURCES OF FUNDING
+The development of the CPG on “ANTIBIOTIC PROPHYLAXIS IN ORAL
+SURGERY FOR PREVENTION OF SURGICAL SITE INFECTION“ was
+supported financially in its entirety by the Ministry of Health, Malaysia
+and was developed without any involvement of the pharmaceutical
+industry.
+(Ora Heath Technology Section
+Oral Health Division
+Ministry of Health Malaysia
+Level, ck 10 Precinct
+Federal Goeernmentminsetve Centre

@@ -1,0 +1,2873 @@
+CLINICAL PRACTICE GUIDELINES
+Management Of
+Osteoarthritis
+(Second Edition)
+Management of Osteoarthritis ( Second Edition)
+Published by:
+Malaysia Health Technology Assessment Section (MaHTAS)
+Medical Development Division, Ministry of Health Malaysia
+Level 4, Block E1, Precinct 1 Federal Government Administrative Centre
+62590, Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is MaHTAS. Content may be
+reproduced in any number of copies and in any format or medium
+provided that a copyright acknowledgement to MaHTAS is included and
+the content is not changed, not sold, nor used to promote or endorse
+any product or service, and not used in an inappropriate or misleading
+context.
+ISBN: 978-967-0399-86-7
+Available on the following websites:
+http://www.moh.gov.my
+http://www.acadmed.org.my
+http://www.msr.my
+STATEMENT OF INTENT
+These clinical practice guidelines (CPG) are meant to be guides for
+clinical practice, based on the best available evidence at the time of
+development. Adherence to these guidelines may not necessarily
+guarantee the best outcome in every case. Every healthcare provider is
+responsible for the management of his/her unique patient based on the
+clinical picture presented by the patient and the management options
+available locally.
+These guidelines were issued in 2013 and will be reviewed in 2017 or
+sooner if new evidence becomes available.
+Management of Osteoarthritis ( Second Edition)
+TABLE OF CONTENTS
+No.
+Title
+Page
+Levels of Evidence and Grades of Recommendation
+i
+Guidelines Development and Objectives
+ii
+Guidelines Development Group
+iv
+Review Committee
+v
+External Reviewers
+vi
+Algorithm on Management of Osteoarthritis
+vii
+1.
+INTRODUCTION
+1
+2.
+EPIDEMIOLOGY & RISK FACTORS
+2
+2.1 Epidemiology
+2
+2.2 Risk Factors
+3
+3.
+CLASSIFICATION
+5
+4.
+DIAGNOSIS
+6
+4.1 Clinical Features
+6
+4.2 Diagnostic Criteria
+7
+5.
+INVESTIGATIONS
+10
+5.1 Laboratory Investigations
+10
+5.2 Imaging
+11
+6.
+MANAGEMENT
+14
+6.1 Non-Pharmacological Treatment
+14
+a. Education
+14
+b. Lifestyle Modification
+14
+c. Physiotherapy
+15
+d. Occupational Therapy
+17
+e. Orthoses
+18
+6.2 Pharmacological Treatment
+19
+a. Oral Treatment
+19
+i. Paracetamol
+19
+ii. Tramadol
+20
+iii. Non-steroidal Anti-inflammatory Drugs &
+20
+Cyclo-oxygenase-2 Inhibitors
+iv. Glucosamine & Chondroitin
+22
+v. Diacerein
+24
+b. Intra-articular Treatment
+24
+i. Corticosteroids
+24
+ii. Viscosupplementation
+25
+c. Topical Treatment
+Management of Osteoarthritis ( Second Edition)
+No.
+Title
+Page
+7.
+ALTERNATIVE TREATMENT
+27
+8.
+SURGICAL TREATMENT
+28
+8.1 Arthroscopic Surgery
+28
+8.2 High Tibial Osteotomy
+28
+8.3 Total Joint Replacement
+29
+8.4 Partial Joint Replacement
+29
+8.5 Arthrodesis
+30
+8.6 Recent Advances in Osteoarthritis
+30
+9.
+REFERRAL
+32
+9.1 Rheumatology Referral
+32
+9.2 Orthopaedic Referral
+32
+10.
+PRIMARY PREVENTION
+32
+11.
+IMPEMENTING THE GUIDELINES
+33
+11.1 Facilitating & Limiting Factors
+33
+11.2 Potential Resource Implications
+33
+REFERENCES
+35
+Appendix 1 Example of Search Strategy
+41
+Appendix 2 Clinical Questions
+42
+Appendix 3 Relationship between Anatomical Site and
+43
+Possible Physiological Mechanism for
+Pain in Osteoarthritis
+Appendix 4 Quadriceps Strengthening Exercise
+44
+Appendix 5 Hip Strengthening Exercise
+45
+Appendix 6 Appropriate Measurement for Walking Stick
+46
+Appendix 7 Joint Protection Principles
+47
+Activity Modification in Performing ADL
+Appendix 8 Suggested Medication Dosages and Side Effects 48
+Appendix 9 Checklist of OA Management
+51
+List of Abbreviations
+52
+Acknowledgement
+53
+Disclosure Statement
+53
+Source of Funding
+53
+TABLE OF CONTENTS
+Management of Osteoarthritis ( Second Edition)
+LEVELS OF EVIDENCE
+SOURCE: US / CANADIAN PREVENTIVE SERVICES TASK FORCE
+SOURCE: MODIFIED FROM THE SCOTTISH INTERCOLLEGIATE GUIDELINES NETWORK
+(SIGN)
+Note: The grades of recommendation relates to the strength of the
+evidence on which the recommendation is based. It does not reflect the
+clinical importance of the recommendation.
+A
+B
+C
+At least one meta analysis, systematic review, or RCT, or
+evidence rated as good and directly applicable to the target
+population
+Evidence from well conducted clinical trials, directly applicable
+to the target population, and demonstrating overall consistency
+of results; or evidence extrapolated from meta analysis,
+systematic review, or RCT
+Evidence from expert committee reports, or opinions and /or
+clinical experiences of respected authorities; indicates absence
+of directly applicable clinical studies of good quality
+Level
+I
+II -1
+II-2
+II-3
+III
+Study design
+Evidence from at least one properly randomised controlled trial
+Evidence obtained from well-designed controlled trials without
+randomisation
+Evidence obtained from well-designed cohort or case-control
+analytic studies, preferably from more than one centre or
+group
+Evidence from multiple time series with or without intervention.
+Dramatic results in uncontrolled experiments (such as the
+results of the introduction of penicillin treatment in the 1940s)
+could also be regarded as this type of evidence
+Opinions of respected authorities based on clinical experience;
+descriptive studies and case reports; or reports of expert
+committees
+i
+GRADES OF RECOMMENDATION
+Management of Osteoarthritis ( Second Edition)
+ii
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+GUIDELINES DEVELOPMENT
+The members of the Development Group (DG) for these Clinical
+Practice Guidelines (CPG) were from the Ministry of Health (MoH)
+and Ministry of Higher Education. There was active involvement of a
+multidisciplinary Review Committee (RC) during the process of the
+CPG development.
+The previous CPG entitled Management of Osteoarthritis 2002 was
+used as the basis for the development of the present guidelines.
+A literature search was carried out using the following electronic
+databases: Guidelines International Network (G-I-N); World Health
+Organization (WHO), Medline via Ovid, Pubmed, Cochrane Database
+of Systemic Reviews (CDSR) and International Health Technology
+Assessment websites (refer to Appendix 1 for Example of Search
+Strategy). The search was limited to literature published in the last ten
+years, on humans and in English. If the evidence was insufficient, the
+period of publication was extended for another ten years. In addition, the
+reference lists of all retrieved literature and guidelines were searched to
+further identify relevant studies. Experts in the field were also contacted
+to identify further studies. All searches were conducted from 27 October
+2011 to 27 September 2012. Literature searches were repeated for all
+clinical questions at the end of the CPG development process allowing
+any relevant papers published before 31 July 2013 to be included.
+Future CPG updates will consider evidence published after this cut-off
+date. The details of the search strategy can be obtained upon request
+from the CPG Secretariat.
+Reference was also made to other CPG on Osteoarthritis such as The
+National Collaborating Centre for Chronic Conditions (2008) & National
+Institute for Health and Clinical Excellence (2008) – Osteoarthritis:
+National Clinical Guideline for Care and Management in Adults. The
+CPG was evaluated using the Appraisal of Guidelines for Research and
+Evaluation (AGREE) II prior to them being used as references.
+A total of 14 clinical questions were developed under different
+sections. Members of the DG were assigned individual questions
+within these sections. (Refer to Appendix 2 for Clinical Questions)
+The DG members met 28 times throughout the development of these
+guidelines. All literature retrieved were appraised by at least two DG
+members using Critical Appraisal Skill Programme checklist, presented
+in evidence tables and further discussed in each DG meetings. All
+statements and recommendations formulated after that were agreed
+Management of Osteoarthritis ( Second Edition)
+upon by both the DG and RC. Where evidence was insufficient, the
+recommendations were made by consensus of the DG and RC.These
+CPG are based largely on the findings of systematic reviews, metaanalyses and clinical trials, with local practices taken into consideration.
+The literature used in these guidelines were graded using the US/
+Canadian Preventive Services Task Force Level of Evidence (2001),
+while the grading of recommendation was modified from grades of
+recommendation of the Scottish Intercollegiate Guidelines Network.
+On completion, the draft guidelines were sent for review by external
+reviewers. It was also posted on the MoH Malaysia official website for
+feedback from any interested parties. The draft was finally presented
+to the Technical Advisory Committee for CPG, and the HTA and CPG
+Council MoH Malaysia for review and approval.
+OBJECTIVES
+The aim of these guidelines is to assist clinicians and other healthcare
+providers in making evidence-based decisions about appropriate
+management and treatment of Osteoarthritis (OA) specifically:-
+i.
+Early recognition and diagnosis,
+ii.
+Management,
+iii.
+Prevention and referral.
+CLINICAL QUESTIONS
+Refer to Appendix 2
+TARGET POPULATION
+Adults with OA
+TARGET GROUP/USER
+This document is intended to guide healthcare professionals and
+relevant stakeholders in all healthcare settings including:-
+i.
+Doctors
+ii. Pharmacists
+iii. Allied health
+professionals
+HEALTHCARE SETTINGS
+Outpatient, inpatient and community settings
+iii
+iv. Medical students and healthcare trainees
+v. Professional societies
+vi. Patients and carers/non-governmental
+organisations
+Management of Osteoarthritis ( Second Edition)
+GUIDELINES DEVELOPMENT GROUP
+Chairperson
+Dr. Azmillah Rosman
+Senior Consultant Rheumatologist
+Hospital Selayang
+Members (alphabetical order)
+iv
+Datin Dr. Asmahan Mohamed Ismail
+Consultant Rheumatologist
+Hospital Raja Perempuan Zainab II,
+Kota Bharu
+Dr. Asyraf Wong Abdullah
+Consultant Orthopedic Surgeon
+Hospital Kuala Pilah
+Professor Dr. Esha Das Gupta
+Consultant Rheumatologist
+International Medical University (IMU),
+Seremban
+Dato’ Dr. Gun Suk Chyn
+Consultant Rheumatologist
+Hospital Tuanku Jaafar, Seremban
+Dr. Habibah Mohamed Yusoof
+Consultant Rheumatologist
+Hospital Selayang
+Dr. Hanin Farhana Kamaruzaman
+Principal Assistant Director
+Health Technology Assessment Section,
+MoH
+Dr. Heselynn Hussein
+Consultant Rheumatologist
+Hospital Putrajaya
+Dr. Lau Ing Soo
+Consultant Rheumatologist
+Hospital Selayang
+Mdm. Lim Khee Li
+Physiotherapist
+Hospital Kuala Lumpur
+Dr. Mohd. Aminuddin Mohd. Yusof
+Head, CPG Unit,
+Health Technology Assessment Section,
+MoH
+Dr. Mohd. Yusof Ibrahim
+Consultant Orthopedic Surgeon
+Hospital Raja Perempuan Zainab II,
+Kota Bharu
+Dr. Mollyza Mohd. Zain
+Consultant Rheumatologist
+Hospital Selayang
+Dr. Muhaini Othman
+Senior Consultant Rheumatologist
+Hospital Serdang
+Dr. Norhayati Hussein
+Rehabilitation Physician
+Hospital Rehabilitasi Cheras, Kuala Lumpur
+Ms. Nurhafiza Md. Hamzah
+Pharmacist
+Hospital Selayang
+Dr. Ong Swee Gaik
+Consultant Rheumatologist
+Hospital Kuala Lumpur
+Dr. Rosaida Hj. Md. Said
+Consultant Gastroenterologist
+Hospital Ampang
+Dr. Sheela Theivanthiran
+Rehabilitation Physician
+Hospital Rehabilitasi Cheras, Kuala Lumpur
+Dr. Siti Aminah Akbar Merican
+Family Medicine Specialist
+Klinik Kesihatan Seberang Takir,
+Terengganu
+Dr. Tan Bee Eng
+Consultant Rheumatologist
+Hospital Pulau Pinang
+Mr. Thillainathan a/l Krishnan
+Occupational Therapist
+Hospital Selayang
+Management of Osteoarthritis ( Second Edition)
+REVIEW COMMITTEE
+The draft guidelines were reviewed by a panel of experts from both
+public and private sectors. They were asked to comment primarily on
+the comprehensiveness and accuracy of the interpretation of evidence
+supporting the recommendations in the guidelines.
+Chairperson
+Dr. Yeap Swan Sim
+Senior Consultant Rheumatologist
+Subang Jaya Medical Centre
+Members (alphabetical order)
+Datin Hjh. Asiah Mohd. Hashim
+Head of Physiotherapy Department
+Hospital Kuala Lumpur
+Dr. Bahanordin Jaafar
+Consultant Rehabilitation Physician
+Hospital Tengku Ampuan Rahimah,
+Klang
+Dr. Chow Sook Khuan
+Senior Consultant Rheumatologist
+Sunway Medical Centre
+Dr. Noorlaili Mohd. Tauhid
+Consultant Family Medicine Specialist
+Pusat Perubatan Universiti
+Kebangsaan Malaysia, Kuala Lumpur
+Dr. Lee Fatt Soon
+Senior Consultant Geriatrician
+Hospital Kuala Lumpur
+Dr. Loh Yet Lin
+Consultant Rheumatologist
+Hospital Sultan Ismail, Johor Bahru
+Dato’ Dr. N Premchandran
+Senior Consultant Orthopedic Surgeon
+Hospital Tengku Ampuan Afzan,
+Kuantan
+Mdm. Rokiah Alias
+Occupational Therapist
+Hospital Kuala Lumpur
+Mdm. Rosminah Mohd. Din
+Deputy Director Pharmacy Practice &
+Development Division, MoH
+Dr. Sabri Mustaffa Afifi
+Patient Representative
+Dato’ Dr. Suresh Chopra
+Senior Consultant Orthopedic Surgeon
+Hospital Sultanah Bahiyah, Alor Setar
+Management of Osteoarthritis ( Second Edition)
+vi
+EXTERNAL REVIEWERS (in alphabetical order)
+The following external reviewers provided feedback on the draft:-
+Professor Dr. Geoffrey Littlejohn
+Emeritus Director of Rheumatology, Monash Health, Victoria &
+Associate Professor of Medicine, Monash University, Australia
+Associate Professor Dr. Keith Lim Kee Tat
+Director of Rheumatology
+University of Melbourne, Australia
+Dr. Kong Kok Ooi
+Senior Consultant Rheumatologist
+Tan Tock Seng Hospital, Singapore
+Dr. Mohammed Shahdan Shahid
+Senior Consultant Rheumatologist
+Prince Court Medical Centre, Kuala Lumpur
+Dato’ Dr. Muhammad Radzi Abu Hassan
+Senior Consultant Physician & Gastroenterologist
+Hospital Sultanah Bahiyah, Alor Setar
+Dr. Nik Azhan Nik Mohamed
+Family Medicine Specialist
+Klinik Kesihatan Jeli, Kelantan
+Dato’ Dr. Ramli Baba
+Consultant Orthopedic Surgeon
+Hospital Selayang
+Associate Professor Dr. Wong Kok Thong
+Lecturer, School of Pharmacy
+University of Nottingham Malaysia Campus, Semenyih
+Dr. Yusniza Mohd. Yusof
+Rehabilitation Physician
+Hospital Kuala Lumpur
+Management of Osteoarthritis ( Second Edition)
+ALGORITHM ON MANAGEMENT OF KNEE & HIP
+OSTEOARTHRITIS
+Refer to Appendix 9 for checklist on management of OA.
+vii
+Paracetamol ± Topical NSAIDs
+Persistent symptoms
+Persistent symptoms
+Persistent symptoms
+• Tramadol
+• NSAIDs (lowest effective dose,
+for the shortest duration)
+• Selective NSAIDs ± PPI in
+patient with high GI risk
+Consider intra-articular corticosteroids
+(especially if knee joint effusion present)
+Referral to orthopaedics for
+evaluation of arthroplasty
+Other considerations at any time:-
+• Glucosamine sulfate
+• Diacerein
+• Alternative treatments
+Education
+Weight loss
+Exercise
+Physiotherapy
+Occupational therapy
+± Orthoses/assistive devices
+Symptomatic osteoarthritis
+Management of Osteoarthritis ( Second Edition)
+1
+1. INTRODUCTION
+Osteoarthritis (OA) is a progressive joint disease due to failure in
+repair of joint damage. This may arise as a result of biomechanical,
+biochemical and/or genetic factors. The process may involve one or
+multiple joints.
+In the Global Burden of Disease 2010 Study, it was estimated that
+251 million people suffered from knee OA worldwide. Musculoskeletal
+diseases which included OA was the second greatest cause of disability
+as measured by years lived with disability.1
+OA is prevalent in the ageing population. In 2010, WHO estimated that
+524 million people were aged 65 or older and this number is expected
+to triple which represents 16% of the world’s population by 2050.2
+In view of its potential public health burden and emergence of more
+recent advances in the management of OA, it is timely to update the
+CPG on Management of OA 2002 using evidence-based methodology.
+It is hoped that this CPG serves as a useful guide in the daily practice
+of health care providers in various disciplines from the public, academic
+and private sectors.
+Management of Osteoarthritis ( Second Edition)
+2
+2. EPIDEMIOLOGY & RISK FACTORS
+2.1 Epidemiology
+There is wide variability of OA prevalence depending on age, gender of
+population studied and case definition used. The most commonly used
+case definition is radiographic OA, symptomatic OA and self-reported
+OA. Symptomatic OA is defined as the presence of the radiographic
+features of OA in combination with symptoms attributable to it. Not all
+individuals with radiographic OA have concomitant symptoms; thus
+radiographic OA has the highest prevalence.3, level III
+a. Hand OA
+In the Framingham Osteoarthritis Hand OA study, the mean baseline
+age was 58.9 years. The age-standardised prevalence of hand OA was
+higher in women (44.2%) than men (37.7%). The prevalence was even
+higher in erosive (9.9% vs 3.3%) and symptomatic (15.9% vs 8.2%)
+hand OA. Majority of women (96.4%) and men (91.4%) with hand OA
+at baseline showed progression at 9-year follow up.4, level II-2
+b. Hip OA
+The prevalence of symptomatic hip OA in United States of America
+(USA) was 9.2% among adults age >45 with a slight female
+preponderance.5, level III In another study, the crude prevalence of
+radiographic hip OA in Chinese aged 60 - 89 years was 0.9% in women
+and 1.1% in men. Hip OA was 80 - 90% less frequent in the Chinese
+than white persons in the USA.6, level III
+c. Knee OA
+In the Johnston County OA Project of USA, the lifetime risk of developing
+symptomatic knee OA in at least one knee was 44.7% (95% CI 40.0%
+to 49.3%) by age 85 years. The lifetime risk is higher in those with
+history of knee injury and increased BMI.7, level II-2
+The prevalence of symptomatic knee OA was 4.9% among adults age
+>26 years in the Framingham study,5, level III 16.7% among adults age
+>45 in the Johnston County study,7, level II-2 and 12.1% among adults
+aged >60 in the NHANES III study.5, level III
+In the Beijing Osteoarthritis Study of persons aged 60 years and above,
+the prevalence of radiographic knee OA was 42.8% in women and
+Management of Osteoarthritis ( Second Edition)
+3
+21.5% in men. Symptomatic knee OA occurred in 15.0% of women and
+5.6% of men. Compared with women of the same age in Framingham,
+women in Beijing had a higher prevalence of radiographic knee OA
+(prevalence ratio=1.45, 95% CI 1.31 to 1.60) and of symptomatic knee
+OA (prevalence ratio=1.43, 95% CI 1.16 to 1.75). The prevalence of knee
+OA in Chinese men was similar to that in their white USA counterparts
+(prevalence ratio of 0.90 for radiographic OA and 1.02 for symptomatic
+OA). Possible explanations for these differences range from genetic
+differences to heavy physical activity among Chinese.8, level III
+In the Community Orientated Program for the control of Rheumatic
+Disease (COPCORD) study in Malaysia which was initiated by ILAR
+and WHO, 9.3% of adult Malaysians had knee pain and more than half
+of those examined had clinical evidence of OA. The prevalence ranged
+from 1.1% to 5.6% in the various ethnic groups. This prevalence is likely
+to be an underestimate as the study only included those with pain in the
+past week and not all subjects with knee pain attended the subsequent
+medical examination. Hip pain was less common, with only 2.2% of the
+study population affected.9, level III
+To better understand the burden of disease, further epidemiological
+studies are needed to obtain the prevalence and incidence of OA in
+Malaysia.
+2.2 Risk Factors
+Multiple risk factors have been associated with the development and
+progression of OA. The risk factors can be categorised as the following:-
+a. Non-modifiable
+• Advancing age10, level II-2
+• Female [OR=1.8, 95% CI 1.3 to 2.5 (case-control studies),
+OR=1.9, 95% CI 1.6 to 2.3 (cohort studies)]10, level II-2
+• Genetic influence on hand and knee OA in women ranges from
+39% to 65% (p<0.001)11, level II-2
+• Presence of Heberden’s nodes in hand OA increase the risk for
+future knee OA, OR=1.4, 95% CI 1.1 to 1.810, level II-2
+b. Modifiable
+• Body mass index (BMI)10, level II-2
+ overweight (BMI 25 to 30 kg/m2) [OR=2.6, 95% CI 2.2 to 3.0
+(case-control studies), OR=2.0, 95% CI 1.8 to 2.1 (cohort
+studies)]
+Management of Osteoarthritis ( Second Edition)
+4
+ obese (BMI >30 kg/m2) [OR=5.5, 95% CI 4.3 to 7.1 (casecontrol studies), OR=2.4, 95% CI 2.1 to 2.6 (cohort studies)]
+• Previous knee injury [OR=4.7, 95% CI 3.5 to 6.4 (case-control
+studies), OR=2.8, 95% CI 1.8 to 4.2 (cohort studies)]10, level II-2
+• Malalignment contributes to the progression of knee OA, however
+the results are mixed on whether it contributes to the incidence of
+the disease12, level II-2
+Identifying the modifiable risk factors mentioned above may help in
+prevention of OA and its progression.
+Management of Osteoarthritis ( Second Edition)
+5
+3. CLASSIFICATION
+There are various methods of classifying OA. The disease can be
+classified by the joint involved such as hand, hip and knee. It can also
+be classified by aetiology as shown below:-
+a. Primary or Idiopathic
+Primary OA includes generalised OA, a condition associated with
+Heberden’s nodes and polyarticular disease. It occurs especially in the
+hand, with a female preponderance and has a high prevalence in first
+degree relatives.13
+b. Secondary
+i. Metabolic such as acromegaly, haemachromatosis and
+chondrocalcinosis
+ii. Anatomic such as slipped femoral epiphysis, Legg-Perthes
+disease, congenital dislocation of the hip, leg length inequality,
+hypermobility syndromes and avascular necrosis
+iii. Trauma such as joint injury and fracture through a joint or
+osteonecrosis
+iv. Inflammatory such as rheumatoid arthritis, psoriatic arthropathy
+and septic arthritis
+Management of Osteoarthritis ( Second Edition)
+6
+4. DIAGNOSIS
+OA is frequently diagnosed by an overall clinical impression. However,
+there are diagnostic criteria by American College of Rheumatology and
+European League Against Rheumatism which can be used as a guide.
+4.1 Clinical Features
+Clinical features of OA depend on the extent of the disease. Patients
+may have radiological evidence of OA without clinical symptoms.
+Symptoms of OA include:-
+i.
+Joint pain - Pain is the most common presenting complaint. It is
+usually insidious in onset, of variable intensity through the day,
+may be intermittent and relapsing, increased by joint use and
+impact and relieved by rest. Night pain may occur in severe OA.
+Refer to Appendix 3 for possible mechanisms of pain in OA.
+ii.
+Stiffness - Stiffness may be defined as a sensation of tightening
+of the involved joint that usually occurs after inactivity, such as in
+the morning or when arising after sitting for a prolonged period.
+In contrast to inflammatory arthritis such as rheumatoid arthritis,
+stiffness in OA usually lasts only a few minutes and almost always
+less than 30 minutes.
+iii. Swelling - There may be fullness and swelling of the joint with or
+without associated warmth and loss of function.
+iv. Gait disturbance - OA of weight-bearing joints if significant is
+associated with gait disturbance, increased muscle spasm and
+a reduced quality of life. An affected knee or hip can produce a
+prominent limp. Impaired function of a weight-bearing joint will
+cause added stress on the contralateral weight-bearing joints, for
+example a patient with impaired right knee function and pain will
+have difficulty with the left hip and vice versa.
+v.
+Bony swelling - In hand OA, hypertrophic bone formation in the
+interphalangeal joint may result in reduced dexterity and difficulty
+in performing fine movements such as sewing. OA of the first
+carpometacarpal (CMC) joint may result in writing difficulties.
+vi. Loss of muscle bulk - Inactivity secondary to pain, for example in
+knee OA, may lead to significant weakness and loss of quadriceps
+muscle bulk.
+vii. Limb deformity - Enlargement of the knee joints may occur resulting
+in increasing deformity of the knees, such as ‘knock knees’ (valgus)
+or ‘bowing’ (varus).
+viii. Clicking or grinding sensation - There may be a clicking or grinding
+sensation with joint motion resulting in discomfort or pain.
+Management of Osteoarthritis ( Second Edition)
+7
+ix. Instability - The sensation of instability in the knee or hip may cause
+the patient to seek assistance in ambulation, such as using a cane
+or crutch.
+Signs of OA include:-
+i.
+Gait - OA of weight-bearing joints, for example the hip, knee, ankle
+and/or foot leads to altered gait patterns.
+ii.
+Tenderness - Tenderness of soft tissues such as synovium,
+capsule, bursae and periarticular muscles, or periosteum at the
+insertion of capsule or ligaments may be present.
+iii. Joint swelling - Enlargement of the joint may be due to synovitis,
+synovial effusion or bone enlargement.
+iv. Crepitus - Grinding, crunching or cracking may be present over a
+joint with OA.
+v.
+Limitation of motion - There may be loss of function with reduced motion
+as a result of synovitis/effusion or periarticular soft tissue contractures.
+vi. Deformity - Deformity may be present in any of the peripheral joints
+with OA. However, it is most notable in the interphalangeal joints
+of the hands with enlargement and subluxation, the first CMC
+joint, the knees (varus/valgus) or the hips (shortened extremity).
+Deformity may be associated with joint fusion or instability.
+4.2 Diagnostic Criteria
+The diagnostic criteria for classification of OA are based on the American
+College of Rheumatology (ACR) criteria. These criteria were formulated
+according to the affected anatomic areas which include the knee, hand
+and hip as below:-
+a. Hand OA
+Table 1. The Diagnostic Criteria for Classification of Idiopathic
+OA of the Hand Based on the American College
+of Rheumatology 1990 Criteria14, level III
+DIP=distal interphalangeal MCP=metacarpophalangeal PIP=proximal interphalangeal CMC=carpometacarpal
+1
+Hand pain, aching or stiffness
+2
+Hard tissue enlargement of ≥2 of 10 selected joints ( 2nd and 3rd DIP,
+2nd and 3rd PIP, 1st CMC joints of both hands)
+3
+Fewer than 3 swollen MCP joints
+4a
+Hard tissue enlargement of ≥2 of DIP joints
+OR
+4b
+Deformity of ≥2 of 10 selected joints
+Sensitivity
+92%
+Specificity
+98%
+Diagnosis
+Criteria
+Clinical only
+1,2,3 + 4a or 4b
+Management of Osteoarthritis ( Second Edition)
+8
+b. Hip OA
+Table 2. The Diagnostic Criteria for Classification of Idiopathic
+OA of the Hip Based on the American College
+of Rheumatology 1991 Criteria15, level III
+c. Knee OA
+Table 3. The Diagnostic Criteria for Classification of Idiopathic
+OA of the Knee Based on the American College
+of Rheumatology 1986 Criteria16, level III
+ESR=erythrocyte sedimentation rate RF=rheumatoid factor
+SF OA=synovial fluid signs of OA (clear, viscous, or white blood cell count <2,000/mm³)
+Must have
+Knee pain +
+Knee pain +
+Knee pain +
+At least 5 of 9
+Osteophytes on
+At least 3 of 6
+of the following
+x-ray +
+of the following
+At least 1 of 3 of
+the following
+1
+Age >50 years
+Age >50 years
+Age >50 years
+2
+Stiffness <30 min
+Stiffness <30 min
+Stiffness <30 min
+3
+Crepitus
+Crepitus
+Crepitus
+4
+Bony tenderness
+Bony tenderness
+5
+Bony enlargement
+Bony enlargement
+6
+No palpable
+No palpable
+warmth
+warmth
+7
+ESR <40
+8
+RF <1: 40
+9
+SF OA
+Sensitivity
+92%
+91%
+95%
+84%
+Specificity
+75%
+86%
+69%
+89%
+(if 3/6)
+(if 4/6)
+Diagnosis
+Criteria
+Clinical and
+laboratory
+Clinical and
+radiographic
+Clinical
+only
+Must have hip pain + at least 2 from 3 of the following
+1
+ESR <20 mm/hr
+2
+Femoral and acetabular osteophytes on X-ray
+3
+Axial joint space narrowing on X-ray
+Sensitivity
+89%
+Specificity
+91%
+Diagnosis
+Criteria
+Clinical, Laboratory and Radiographic
+Management of Osteoarthritis ( Second Edition)
+9
+Knee OA can also be diagnosed using evidence-based recommendations
+by European League Against Rheumatism (EULAR) as shown in
+Figure 1:-17, level III
+a. background risk (the population prevalence of knee OA)
+b. risk factors (such as age, gender, BMI and occupation)
+c. symptoms (persistent knee pain, brief morning stiffness and
+functional limitation)
+d. physical examination (crepitus, restricted movement and bony
+enlargement
+e. plain radiographs as an adjunct
+Knee OA
+Figure 1. Diagnosis of Knee OA
+Background risk
+Symptoms
+Knee pain
+Brief morning stiffness
+Functional limitation
+Signs
+Crepitus
+Restricted movement
+Bony enlargement
+Risk factors
+Age
+Gender
+BMI
+Occupation
+Family history of OA
+History of knee injury
+Radiographic changes
+Osteophyte
+Joint space narrowing
+Subchondral sclerosis
+Subchondral cysts
+Management of Osteoarthritis ( Second Edition)
+10
+5. INVESTIGATIONS
+Diagnosis of OA is mainly clinical. Blood investigations and synovial
+fluid analysis are seldom required except to exclude other diagnosis
+such as septic, inflammatory and crystal arthropathy. There are various
+imaging techniques available now; however plain radiography is still the
+standard imaging for assessment of OA.
+5.1 Laboratory Investigations
+There are no specific laboratory investigations for diagnosis of OA.
+Inflammatory markers (ESR, CRP) are likely to be normal or only mildly
+elevated. Synovial fluid analysis is essentially normal in OA. Refer to
+Table 4 for interpretation of synovial fluid analysis.
+Table 4. Categories of Synovial Fluid Based upon Clinical
+and Laboratory Findings
+Adapted: 2013 UpToDate, Graphic 76506 version 2069.0 (available at http://www.uptodate.com)
+Normal
+Noninflammatory
+Inflammatory
+Septic
+Often >3.5
+Translucent
+opaque
+Yellow to
+opalescent
+Low
+3
+2,000-10,000
+≥50
+Negative
+3-5
+High
+Nearly equal
+to blood
+Haemorrhagic
+Measure
+<3.5
+Transparent
+Clear
+High
+<200
+<25
+Negative
+1-2
+Very low
+Yellow
+High
+200-2,000
+<25
+Negative
+1-3
+Very low
+Often >3.5
+Transparent
+Often >3.5
+Opaque
+Yellow to
+Variable
+>100,000*
+≥75
+Often positive
+3-5
+Variable
+Usually >3.5
+Bloody
+Red
+Variable
+200-2,000
+50-75
+Negative
+4-6
+Similar
+Nearly equal
+to blood
+Nearly equal
+to blood
+>25, much lower
+than blood
+>25, much lower
+than blood
+Volume, mL
+(knee)
+Clarity
+Colour
+Viscosity
+WBC, per mm
+PMNs, percent
+Culture
+Total protein,
+g/dL
+LDH (compared
+to levels in
+blood)
+Glucose, mg/dL
+green
+Management of Osteoarthritis ( Second Edition)
+11
+5.2 Imaging
+Plain radiography of the affected joint may be useful to support the
+diagnosis and assess severity of OA. When radiography is required
+in hip and knee OA, it should be done in weight bearing position (AP,
+standing). Figure 2 and 3 shows an example of an osteoarthritic knee
+and hip respectively.
+Figure 2. Knee Osteoarthritis - Anteroposterior (AP) Standing View
+Figure 3. Hip Osteoarthritis - Anteroposterior (AP) Standing View
+Subchondral
+sclerosis
+Joint
+space
+narrowing
+Osteophyte
+Subchondral
+sclerosis
+Joint
+space
+narrowing
+Osteophyte
+Management of Osteoarthritis ( Second Edition)
+12
+The Kellgren-Lawrence grading system is the most widely used
+radiological classification to identify and grade OA (refer to Table 5).
+Table 5. Kellgren-Lawrence Grading System
+Grade
+Description
+Grade I
+Doubtful narrowing of the joint space, possible osteophytic lipping
+Grade II
+Definite osteophytes, possible narrowing of the joint space
+Grade III
+Moderate multiple osteophytes, definite joint space narrowing,
+some sclerosis, possible deformity of bone ends
+Grade IV
+Large osteophytes, marked joint space narrowing, severe
+sclerosis and definite bony end deformity.
+Adapted: KELLGREN JH, LAWRENCE JS.Radiological assessment of osteo-arthrosis. Ann
+Rheum Dis. 1957 Dec; 16(4):494-502.
+In hand OA, plain radiography may also be useful to distinguish
+between various types of arthritis as shown in Table 6.
+Table 6. Radiographic Changes of Interphalangeal Joints and
+Target Sites Involvement of OA and Other Arthritis
+Classical features of OA on plain radiograph includes:-
+• narrowed joint space
+• osteophytes
+• subchondral bone sclerosis
+• subchondral cysts
+Focal narrowing,
+marginal
+osteophyte,
+sclerosis,
+osteochondral
+bodies
+Subchondral
+erosion
+Proliferative
+marginal erosion,
+retained or
+increase bone
+density
+Non-proliferative
+marginal erosion,
+osteopenia
+Target
+sites
+Osteoarthritis
+Erosive OA
+Psoriatic
+Arthritis
+Rheumatoid
+Arthritis
+X-Ray
+changes
+Common
+Uncommon
+Management of Osteoarthritis ( Second Edition)
+13
+In addition to the above findings, centrally located erosions with
+osteophyte formation in the interphalangeal joints of the hand (gull-wing
+appearance) may occur (refer to Figure 4 and Figure 5).
+Figure 4. Gull-wing Appearance Figure 5. Erosion with Osteophytes
+Other imaging modalities such as magnetic resonance imaging
+and musculoskeletal ultrasonography (US) are seldom indicated
+for diagnosis of OA. However, US may be useful in early arthritis of
+the hands as it allows direct visualisation and quantification of
+cartilage.18, level III In addition, US may demonstrate synovial inflammation
+in symptomatic OA of the hands and knees.19, level III; 20, level II-2; 21, level III
+Recommendation 1
+• Osteoarthritis should be diagnosed clinically. (Grade C)
+ Plain radiographs may be used to support the diagnosis. (Grade C)
+ Laboratory investigations may be done to exclude other
+inflammatory joint diseases. (Grade C)
+Management of Osteoarthritis ( Second Edition)
+14
+6. MANAGEMENT
+The management of OA involves a multidisciplinary approach with the
+aim to relieve symptoms and improve joint function. It involves nonpharmacological and pharmacological treatment. Refer to Appendix 9
+for checklist on management of OA.
+6.1 Non-Pharmacological Treatment
+a. Education
+Patient education is an important non-pharmacological approach in
+the management of OA. There are various types of patient education
+programmes and they have to be tailored according to the individual
+needs, goals and functional capabilities. It should include information
+of the diagnosis, nature of the disease, therapeutic options and
+the importance of ongoing patient participation in the disease
+management.22 - 25, level I Patients who have an understanding of the
+disease tend to cope better and report less pain.26 The most important
+goal is to instill a positive attitude.
+Recommendation 2
+• Patient education should form an integral part of osteoarthritis
+management. (Grade A)
+b. Lifestyle Modification
+Lifestyle medicine is defined as the application of environmental,
+behavioural, medical and motivational principles to the management of
+lifestyle related health problems.27, level III
+Lifestyle modification involves initiating and maintaining lifestyle
+changes. In hip and knee OA, behavioural changes focus on weight
+reduction and physical activity or exercise.
+i. Weight Reduction
+Obesity is an important modifiable risk factor for the development and
+progression of knee OA. Weight reduction is beneficial in pain reduction
+and improvement of function.28 - 30, level I In a RCT done by Messier et
+al., each unit of weight loss will result in 4-fold reduction in the load
+exerted on the knee per step during daily activities.31, level I There is no
+evidence available to support the effect of weight loss in hip OA.32
+Management of Osteoarthritis ( Second Edition)
+15
+Recommendation 3
+• Weight reduction should be emphasised in the management of
+patients with knee osteoarthritis and who are overweight. (Grade A)
+ii. Physical Activity
+Exercise is effective in reducing pain in hip and knee OA. The frequency,
+intensity, duration and rate of progression of exercise can vary. The
+amount and intensity of exercise required is uncertain. In order to
+improve adherence, the following are suggested:-
+i. Individualised exercise programme
+ii. Graded type activity
+iii. Amount of activity based on personal goal setting
+iv. Feedback on progress
+v. Appropriate positive reinforcement
+vi. Problem solving skills incorporated
+The EULAR 2013 Recommendations on the Non-Pharmacologic
+Treatment for Hip and Knee OA recommends that the intensity and
+duration of exercise should increase over time.32
+In hip and knee OA, pacing of activities and/or integrating Activities of
+Daily Living (ADL) as part of the exercise regime is more effective than
+usual care but not comparable to standardised exercise.32
+In knee OA, aerobic training (walking) is effective in reducing pain
+(ES=0.48, 95% CI 01.13 to 0.43) and improving physical function
+(ES=0.35, 95% CI 0.11 to 0.58).33, level I The evidence for mixed
+exercise programmes, including strengthening, aerobic and flexibility
+components, in patients with knee OA is conflicting. One type of
+exercise has not been shown to be better than another (strength,
+aerobic or mixed exercises).32
+Regular non-competitive exercise does not exacerbate OA nor increase
+the likelihood of requiring joint replacement.
+c. Physiotherapy
+Physiotherapy can improve muscle strength, balance, coordination and
+joint mobility. It should be started as soon as possible to improve pain
+and physical capacity.
+Management of Osteoarthritis ( Second Edition)
+16
+i. Exercise
+Exercise programmes should be individualised while taking into
+consideration patient’s preference and ability to perform the activities.
+Land-based exercises include joint range of movement (ROM), muscle
+strengthening and low impact aerobic exercises. They should be
+supervised and done regularly (refer to Appendix 4 and Appendix 5).
+Such exercise has short term benefits in reducing pain (SMD= -0.40,
+95% CI -0.50 to -0.30) and improving physical function (SMD= -0.37,
+95% CI -0.49 to -0.25) in knee OA.33, level I However in hip OA, the benefit
+is only seen in pain reduction (SMD= -0.38, 95% CI -0.67 to -0.09) but
+not in physical function (SMD= -0.10, 95% CI -0.51 to 0.32).34, level I
+Aquatic exercise may be advantageous for OA patients. A Cochrane
+SR showed improvement in pain (SMD=0.19, 95% CI 0.04 to 0.35)
+and quality of life (SMD=0.32, 95% CI 0.03 to 0.61) for three months
+only in hip and knee OA. However, there was no statistically significant
+difference on walking ability.35, level I
+In the same review, aquatic exercise was better than land-based
+exercises in reducing pain in knee OA (SMD=0.86, 95% CI 0.25 to 1.47).
+However, there was no effect on walking ability and stiffness.35, level I
+ii. Transcutaneous Electrostimulation (TENS)
+There is a lack of evidence to support the use of transcutaneous
+electrostimulation for knee OA from the most recent Cochrane
+SR.36, level I However, the ACR 2012 recommends the use of TENS for
+patients with chronic moderate to severe pain who are not suitable for
+total knee arthroplasty.37
+iii. Thermotherapy
+Thermotherapy is commonly used in physical rehabilitation for OA
+patients. ACR recommends the use of thermal agents for hip and knee
+OA in combination with exercise supervised by a physiotherapist.37
+A SR showed that cold pack usage did not show a significant effect in
+pain reduction in knee OA (WMD= -1.60, 95% CI -4.53 to1.33).38, level I
+Management of Osteoarthritis ( Second Edition)
+17
+iv. Therapeutic Ultrasound
+Therapeutic ultrasound with high frequency vibrations is a modality
+used for pain relief in patients with hip and knee OA. However, in a
+Cochrane SR, the effectiveness of this modality in pain reduction and
+function was inconclusive.39, level I
+Recommendation 4
+• Exercise programmes in hip and knee osteoarthritis must be
+individualised, supervised and done regularly. (Grade C)
+• Land-based or aquatic exercise may be used for short-term benefit in
+osteoarthritis. (Grade A)
+d. Occupational Therapy
+Occupational therapy aims to improve health, prevent disability and help
+individuals to achieve their optimum functional level and independence
+in performing ADL.
+The evidence suggests that people with pain, difficulty and frustration
+in performing daily activities and work tasks should be referred early
+to an occupational therapist for splinting, joint protection training and
+assistive device provision.40
+A NICE-commissioned CPG recommends that assistive devices such
+as walking sticks and tap turners should be considered as adjuncts to
+core treatment in OA patients with specific ADL problems.40 The height
+of the walking stick handle should be at the wrist level when the user is
+standing. It is important to prescribe appropriate assistive device with
+proper training to the patients (refer to Appendix 6).
+Joint protection and home exercises (JPE) are used in the treatment of
+hand OA. JPE increases grip strength significantly by 25% (p<0.0005)
+and global hand function by 65% (p<0.05).41, level I Refer to Appendix 7 for
+Joint Protection Principles. Thumb splints can help to reduce pain in
+the thumb and improve hand function.40 Splinting and Joint Protection
+programme in hand OA can give significant decreases in pain and
+stiffness, and improvements in daily activities (p<0.05).42, level I However,
+there is no evidence to support splinting in knee OA.
+In a RCT, activity modification or instruction in ADL improved pain (MD=
+-3.21, 95 % CI -3.45 to -0.70) at 6 weeks.43, level I Activity modification in
+performing ADL may be helpful in maintaining proper posture and thus
+reduce pain and disability (refer to Appendix 7).
+Management of Osteoarthritis ( Second Edition)
+18
+Rest and relaxation may help in pain control. The beneficial therapies
+are:-
+• Jacobson relaxation: improves pain at end of 8-week treatment
+(p<0.05) but the benefit is not sustained.44, level I Jacobson’s training
+procedure involves tensing and relaxing of muscles alternately, with
+the intent of developing awareness of the difference. The technique
+starts from the arm to face working downwards to the shoulders,
+chest, abdomen, legs and ends with the whole body in complete
+relaxation. The whole cycle can be performed under 20 minutes.
+• Music therapy: improves pain at day 1, day 7 and at 2 weeks (end
+of treatment) (all p=0.001)45, level I
+• Guided Imagery Relaxation (GIR): increases Health Related Quality
+of Life in women with OA (p=0.023)46, level I
+Recommendation 5
+• Early referral to occupational therapy may be considered for pain
+relief and improvement in activities of daily living in osteoarthritis.
+(Grade A)
+e. Orthoses
+Orthoses are defined as any medical device added to a person’s body to
+support, align, position, immobilise, prevent or correct deformity, assist
+weak muscles or improve function. In knee OA, the general purpose is
+to decrease pain and improve physical function.
+Walking shoes with neutral, contoured orthoses reduce pain and
+stiffness, and improve function in knee OA at one year (p<0.001).47, level I
+Knee braces for medial, lateral or patella-femoral OA have not been
+shown to reduce pain, improve function or quality of life, even though
+they are widely used.48 - 49, level I
+There is insufficient evidence to recommend the use of orthoses in hip
+OA.
+Recommendation 6
+• Walking shoes with neutral, contoured orthoses may be offered in:-
+ knee osteoarthritis (Grade A)
+ hip osteoarthritis (Grade C)
+• Knee braces should not be offered in knee osteoarthritis. (Grade A)
+Management of Osteoarthritis ( Second Edition)
+19
+6.2. Pharmacological Treatment
+Pharmacological treatments are available in the form of oral, intraarticular and topical.
+a. Oral Treatment
+Oral treatment consists of:-
+i. Simple analgesics - paracetamol
+ii. Weak opioid analgesics - tramadol
+iii. Analgesics with anti-inflammatory properties - Non-steroidal
+Anti-inflammatory Drugs (NSAIDs) and Cyclo-oxygenase-2
+(COX-2) Inhibitors
+iv. Nutraceutical - glucosamine, chondroitin, diacerein
+i. Paracetamol
+Paracetamol or acetaminophen is classified as a mild analgesic. In a
+SR of RCTs, paracetamol was superior to placebo in reduction of overall
+pain [SMD= -0.13 (95% CI -0.22 to -0.04), NNT=16]. However, NSAIDs
+were more efficacious than paracetamol in total WOMAC score (SMD=
+-0.25, 95% CI -0.39 to -0.11).50, level I
+Similarly, a meta-analysis showed that paracetamol was less efficacious
+than NSAIDs in overall pain using VAS at rest (WMD= -6.33mm, 95%
+CI -9.24 to -3.41) and on walking (WMD= -5.76mm, 95% CI -8.99 to
+-2.52).51, level I
+Paracetamol in the extended release formulation is significantly superior
+to placebo in reducing pain (p=0.012) and improving physical function
+(p=0.016).52, level I Paracetamol in all formulations is well tolerated and
+safe.50 - 54, level I
+A combination tablet of ibuprofen/paracetamol confers no additional
+benefit to ibuprofen alone.53, level I
+Recommendation 7
+• Paracetamol can be used in patients with osteoarthritis. (Grade A)
+ It should be used as first-line analgesic in mild to moderate pain.
+(Grade C)
+Management of Osteoarthritis ( Second Edition)
+20
+ii. Tramadol
+Tramadol is a synthetic opioid analgesic. In a meta-analysis, tramadol
+was more efficacious compared to placebo in reducing pain (WMD=
+-8mm, 95% CI -12.0 to -5.0), and improving stiffness and function
+(WMD= -0.3, 95% CI -0.5 to -0.2).55, level I
+Similarly, oral controlled-release tramadol is also more efficacious in
+reducing pain (p=0.0009) and improving physical function (p=0.0205)
+compared to placebo.56, level I However, it is as efficacious as sustainedrelease diclofenac.57, level I
+In patients already on NSAIDs for at least 30 days, addition of
+tramadol/paracetamol combination tablets for 10 days duration is
+significantly efficacious in managing painful OA compared to those on
+placebo.58 - 59, level I
+Tramadol in all formulations show no major or significant adverse
+events.55 - 59, level I Common side effects are dizziness, nausea, vomiting,
+constipation and drowsiness. This medication has to be used with
+caution in the elderly.
+Recommendation 8
+• Tramadol may be used alone or in combination with paracetamol in
+patients with osteoarthritis. (Grade A)
+iii. NSAIDs and COX-2 Inhibitors
+NSAIDs and COX-2 inhibitors reduce production of prostaglandin by
+inhibiting the enzyme cyclo-oxygenase. They vary in their selectivity for
+inhibiting different types of cyclo-oxygenase. They are a class of drugs
+that provide analgesic and anti-pyretic effects and in higher doses, antiinflammatory effects. COX-2 inhibitors selectively inhibit COX-2 and
+thus improve gastro-intestinal tolerance.
+In a meta-analysis, NSAIDs including COX-2 inhibitors were more
+efficacious than placebo in reducing short-term (2 - 13 weeks) pain
+intensity (WMD=0.30, 95% CI 0.24 to 0.39) and functional disability
+(WMD=0.29, 95% CI 0.18 to 0.40).60, level I
+Celecoxib 100 mg and 200 mg BID are as efficacious as diclofenac
+50 mg BID and naproxen 500 mg BID in the treatment of hip, knee, or
+hand OA.61, level I
+Management of Osteoarthritis ( Second Edition)
+21
+In a study using OMERACT-OARSI responder criteria, those who
+responded within two weeks to etoricoxib 30 mg OD and celecoxib 200
+mg OD are highly predictive of later response at 12 weeks.62, level I
+• Gastrointestinal (GI) Safety
+The relative risks of upper GI complications of several NSAIDs and
+celecoxib compared to placebo analysed in a meta-analysis ranged
+from 1.45 to 4.14.63, level II-2
+Ulcer complications are seen significantly less frequent in COX-2
+inhibitors compared to NSAIDs.61, level I; 64 - 66, level I Comparing concomitant
+aspirin and non-aspirin users, the GI complications are significantly less
+in non-aspirin users (p=0.007).61, level I
+Proton pump inhibitors are effective in the prevention of NSAID-induced
+endoscopic duodenal (RR=0.19, 95% CI 0.09 to 0.37) and gastric
+ulcers (RR=0.40, 95% CI 0.32 to 0.51) at ≥12 weeks when compared
+to placebo.67, level I
+Lansoprazole significantly reduce the risk of gastroduodenal ulcers
+recurrence in patients with a definite history of GI ulcers requiring longterm NSAIDs therapy (HR=0.25, 95% CI 0.14 to 0.45)68, level I or longterm low dose aspirin therapy (HR=0.10, 95% CI 0.04 to 0.23).69, level I
+The risk of GI events is lower in patients receiving celecoxib compared
+to diclofenac slow release plus omeprazole with HR of 4.3 (95% CI 2.6
+to 7.0).70, level I The risk of recurrent ulcer bleeding is also lower in the
+celecoxib 200 mg BD plus esomeprozole 20 mg BD group compared to
+the celecoxib 200 mg BD plus placebo group (p=0·0004).71, level I
+• Cardiovascular (CV) Safety
+One of the main concerns among patients on long-term use of NSAIDs
+and COX-2 inhibitors is the increased risk of thrombotic CV events.
+A meta-analysis showed that naproxen seemed to have the lowest
+Antiplatelet Trialists’ Collaboration composite outcome of non-fatal
+myocardial infarction, non-fatal stroke or CV death among users of
+NSAIDs and COX-2 inhibitors (rate ratio=1.22, 95% CI 0.78 to 1.93).72, level I
+The numbers of CV thromboembolic events are low in both celecoxib
+and diclofenac or naproxen groups at 12 weeks.61, level I Long-term
+etoricoxib use (20 months) is also associated with comparable CV
+events with that of diclofenac.73, level I
+Management of Osteoarthritis ( Second Edition)
+22
+• Renal Safety
+In the Malaysian CPG on Chronic Kidney Disease (CKD) in Adults,
+there was conflicting evidence in the association between chronic
+NSAIDs usage and the development of CKD.74 However, renal function
+should be monitored regularly in patients on chronic NSAIDs or COX-2
+inhibitors treatment.
+Recommendation 9
+• Non-steroidal
+anti-inflammatory
+drugs
+(NSAIDs)
+or
+cyclooxygenase-2 (COX-2) inhibitors can be used in the treatment of
+osteoarthritis. (Grade A)
+ In patients with high risk of gastrointestinal (GI) complications,
+COX-2 inhibitors are preferred to non-selective NSAIDs with proton
+pump inhibitor (PPI) for primary ulcer prevention. (Grade A)
+ In patients with previous GI complications:-
+- NSAIDs or COX-2 inhibitors should be avoided. (Grade C)
+- combination of COX-2 inhibitors and PPI may be offered for GI
+protection if indicated. (Grade A)
+ In patients with renal impairment, NSAIDs and COX-2 inhibitors
+should be used with caution. (Grade C)
+• Combination therapy with more than one NSAID/COX-2 inhibitor
+should never be used. There is no benefit in combination therapy
+and the incidence of side effects may be additive.
+• Caution is required when prescribing NSAIDs in the elderly and
+those with hypertension, cardiovascular disease, renal or hepatic
+impairment.
+• Those who are allergic to one NSAID may also be allergic to others.
+iv. Glucosamine and Chondroitin
+Glucosamine is an amino sugar and a prominent precursor in the
+biochemical synthesis of glycosylated proteins and lipids, including
+glycosaminoglycans (GAG) which is a component of cartilage.
+Chondroitin sulfate is a sulfated GAG which is usually found attached to
+proteins as part of a proteoglycan. Glucosamine or chondroitin sulfate
+is required in the synthesis of the GAG component of cartilage, which
+provides the rationale for oral supplementation of these compounds in
+OA.
+The glucosamine and chondroitin preparations available in Malaysia
+are in various combinations, strengths and purities which may affect
+their efficacy.
+Management of Osteoarthritis ( Second Edition)
+23
+• Glucosamine
+Glucosamine, in general, is not consistent in its effect as a
+structure modifier for OA. In terms of pain reduction, it is statistically
+more efficacious than placebo and can have similar efficacy with
+NSAIDs.75 - 77, level I
+Glucosamine hydrochloride or its combination with chondroitin sulfate is
+not efficacious as a structure or symptom modifier.75 - 76, level I; 78 - 79, level I
+Glucosamine sulfate 1500 mg per day was statistically more efficacious
+in pain reduction when compared to placebo.76 - 77, level I Pain relieving
+effect of glucosamine sulfate can be seen by three months after its
+initiation.80, level I However, the evidence was from pharmaceuticalsponsored studies.
+In terms of safety profile, glucosamine is well-tolerated and safe.75 - 78, level I
+However, the effect of glucosamine on glucose metabolism needs
+further research.81, level I
+Recommendation 10
+• Glucosamine sulfate 1500 mg per day may be used as pain relief for
+knee osteoarthritis. (Grade C)
+ Evaluation on pain reduction should be done at three months after
+initiation of treatment before deciding on its continuation. (Grade C)
+• Chondroitin
+The evidence on efficacy of chondroitin sulfate in hip and
+knee OA for pain relief and its structure modifying effect is
+inconsistent.75 - 82, level I
+Chondroitin sulfate 800 mg as a single dose is more efficacious than
+placebo in pain reduction, improving hand function and morning
+stiffness in patients with hand OA.83, level I However, its efficacy as a
+structural modifier is still debatable.84 - 86, level I
+In terms of safety profile, chondroitin sulfate is well-tolerated and
+safe.83, level I
+The efficacy of chondroitin in the treatment of hip or knee OA is
+inconclusive. It may be beneficial for symptomatic relief in hand OA.
+Management of Osteoarthritis ( Second Edition)
+24
+v. Diacerein
+Diacerein, a purified anthraquinone derivative, is a drug which inhibits
+production of interleukin (IL)-1beta, the major proinflammatory cytokine
+involved in articular cartilage destruction.
+In a meta-analysis, diacerein was slightly more efficacious compared
+to placebo in reduction of pain [n-wtd pooled Glass score=1.31 (95%
+CI 0.49 to 2.14)] and improvement of joint function [n-wtd pooled Glass
+score=1.08 (95% CI 0.26 to 1.91)] in knee OA. In addition, diacerein
+had similar efficacy with NSAIDs in the reduction of pain in knee OA for
+duration of 16 weeks [(n-wtd pooled Glass score= -0.01 (95% CI -0.76
+to 0.74)].87, level I
+Besides these, diacerein had significant carry-over effect in pain
+reduction in knee OA compared to placebo [(n-wtd pooled Glass
+score=2.71 (95% CI 1.32 to 4.10)] and NSAIDs [(n-wtd pooled Glass
+score=2.27 (95% CI 1.42 to 3.11)] for 16 weeks duration.87, level I
+In general, diacerein had an acceptable safety profile.87 - 90, level I The
+incidence of adverse events such as diarrhea, abdominal pain, nausea
+and vomiting was higher compared to placebo (p<0.01), most were mild
+to moderate91, level I
+In view of modest efficacy and common adverse events, more studies
+are warranted to support the use of diacerein in OA.
+Recommendation 11
+• Diacerein may be used in the treatment of knee osteoarthritis.
+(Grade C)
+b. Intra-articular Treatment
+i. Corticosteroids
+In a Cochrane systematic review of single/double blinded of 12
+randomised controlled trials (n=653), the efficacy and safety of various
+preparations of intra-articular (IA) corticosteroid in the treatment of knee
+OA was evaluated.92, level I
+IA corticosteroid offered short-term pain relief at one week post-injection
+in patients with knee OA (WMD in VAS= -21.9 mm, 95% CI -29.9 to
+-13.9). The NNT calculated was three to four. The effect continued
+Management of Osteoarthritis ( Second Edition)
+25
+to be seen at two weeks (RR=1.8, 95% CI 1.1 to 3.0) and three
+weeks (RR=3.1, 95% CI 1.6 to 6.0). However, it did not demonstrate
+improvement in function.92, level I
+There were no statistically significant differences detected in the total
+number of overall withdrawals including lack of efficacy, post-injection
+flare and local discomfort.92, level I
+Recommendation 12
+• Intra-articular corticosteroid may be used for short-term pain relief in
+an acute exacerbation of knee osteoarthritis. (Grade A)
+Oral corticosteroid have no role in the treatment of osteoarthritis.
+ii. Viscosupplementation
+Hyaluronic acid (HA) is a naturally occurring polysaccharide in the
+synovial fluid and is responsible for the elastoviscosity of synovial
+fluid. The quantity of HA in the synovial fluid is reduced in the patients
+who have OA. To improve biomechanical function, different hyaluronic
+acids were devised for intra-articular injection, commonly called
+viscosupplementation.There are now several different formulations
+of viscosupplements (hyaluronan and hylan) produced by different
+manufacturers and of widely differing molecular weights.
+Two SRs showed that HA intra-articular injection may be beneficial
+in reducing pain, but the effect sizes were small when compared to
+placebo. In terms of improvement in physical function, the results were
+conflicting.93 - 94, level I However, the pooled estimates in both SRs have
+to be interpreted cautiously because of different molecular weights of
+HA, different injection schedules and poor trial design despite large
+numbers of studies.
+In a pharmacoeconomics analysis by NICE, the above benefits may
+be offset by the frequency of the HA injections and other indirect costs.
+Thus, NICE does not recommend the use of viscosupplementation in
+treatment of knee OA.40
+Viscosupplementation is generally well-tolerated and with no significant
+difference in safety profile between it and placebo.94, level I The risk of
+overall adverse events is insignificant.93, level I
+Management of Osteoarthritis ( Second Edition)
+26
+Due to a lack of supporting evidence, the CPG is unable to recommend
+the use of viscosupplementation in the treatment of osteoarthritis.
+c. Topical Treatment
+Topical treatment is an adjunct or alternative to oral NSAIDs for
+treatment of OA. The commonly used topical treatment includes
+NSAIDs, capsaicin and methylsalicylate. Topical analgesics can be in
+the form of gels, creams and transdermal patches.
+Topical NSAIDs reduce knee OA pain at week 2 (p<0.0001), week 3
+(p<0.0002)95, level I and at week 4 to 12 (SMD= -0.33, 95% CI -0.48 to
+-0.18)96, level I compared to placebo.
+It is also more efficacious than placebo in reducing stiffness of knee
+OA (SMD in WOMAC stiffness at week 4 to 12= -0.30, 95% CI -0.45 to
+-0.15).96, level I
+Besides reducing pain and stiffness, physical function is also significantly
+improved with topical NSAIDs.95 - 97, level I
+Generally, topical NSAIDs were found to be safe in adults with OA in
+a SR of RCTs. The risk of minor skin dryness was higher in topical
+diclofenac compared to placebo (RR=1.74, 95% CI 1.37 to 2.22). Fewer
+severe gastrointestinal adverse events were reported in topical NSAIDs
+compared with oral NSAIDs.98, level I
+There were no recent studies found with regards to the usage of
+capsaicin and methylsalicylate in OA. However, the NICE CPG 2008
+recommends that topical capsaicin should be considered as an adjunct
+to core treatment for knee or hand OA but does not recommend the use
+of topical methylsalicylate (rubefacients).40
+Recommendation 13
+• Topical non-steroidal anti-inflammatory drugs may be offered in the
+treatment of osteoarthritis. (Grade A)
+ It may be used as adjunct therapy in mild to moderate pain.
+(Grade C)
+Management of Osteoarthritis ( Second Edition)
+27
+7. ALTERNATIVE TREATMENT
+Alternative treatments are extensively used in the treatment of OA
+however it is not based on evidence gathered using scientific methods.
+Common alternative treatments that have shown positive results include
+acupuncture, avocado soybean unsaponifiables (ASU) and ginger.
+•
+Acupuncture
+Acupuncture is a traditional treatment which involves inserting needles
+into meridian points with the intention of influencing energy flow.
+In a Cochrane SR, acupuncture significantly improved pain and function
+(as assessed by the WOMAC scale) in patients with knee OA compared
+to sham acupuncture:-99, level I
+• SMD= -0.29 (95% CI -0.48 to -0.10) for pain at three months and
+SMD= -0.10 (95% CI -0.21 to – 0.01) for pain at 26 weeks
+• SMD= -0.29 (95% CI -0.49 to -0.08) for function at three months
+• SMD= -0.29 (95% CI -0.50 to -0.09) for total score at three months
+No serious adverse events were reported to be associated with
+acupuncture. Minor side effects were bruising and haematoma.
+•
+Avocado Soybean Unsaponifiables (ASU)
+ASU provided pain relief and improvement of function compared
+to placebo in chronic stable OA of the hip and knee in a Cochrane
+SR:-100, level I
+• SMD= -8.06 (95% CI -11.3 to -4.60) for VAS pain score
+• SMD= -1.69 (95% CI -2.41 to -0.98) for Lequesne index
+• SMD=0.71 (95% CI 0.57 to 0.89) for resumption of NSAIDs
+ASU had minimal gastrointestinal disturbances and no other serious
+side effect.
+Another meta-analysis supported the above findings with improvement
+in pain in OMERACT III scale (SMD=0.39, 95% CI 0.01 to 0.76) and
+function in Lequesne index (SMD=45, 95% CI 0.21 to 0.70).101, level I
+•
+Ginger
+In a small RCT of short duration, ginger extract was significantly more
+efficacious than placebo but less than ibuprofen (p<0.005) in improving
+pain and function. It was safe without serious side effects.102, level I
+Recommendation 14
+• Acupuncture and avocado soybean unsaponifiables may be used as
+an adjunct short-term therapy in osteoarthritis. (Grade A)
+Management of Osteoarthritis ( Second Edition)
+28
+8. SURGICAL TREATMENT
+Surgery is considered if the symptoms of the affected joints significantly
+affect the quality of patients’ life and interfere with ADL. There are five
+identified key areas which surgeons use to assess the need for surgery:-
+• pain (sleep interruption and while resting)
+• limitations to ADL (walking and self-care)
+• psychosocial health (psychological well-being)
+• economic impact and
+• recent deterioration
+The types of surgery that can be offered are:-
+• Arthroscopic Surgery
+• High Tibial Osteotomy
+• Total Joint Replacement
+• Partial Joint Replacement
+• Arthrodesis
+8.1 Arthroscopic Surgery
+Arthroscopic lavage with or without debridement has been used in the
+treatment of knee OA. Studies showed no additional benefit in terms
+of pain relief and improvement in joint function compared to optimised
+physical and medical therapy.103 - 104, level I However, it is indicated in
+patients with OA associated with mechanical symptoms such as
+locking, catching or giving way of the joint caused by presence of loose
+bodies or flaps of meniscus or cartilage.
+8.2 High Tibial Osteotomy (HTO)
+HTO works best in patients with isolated medial compartment arthritis,
+particularly if they are younger than 50 years old and have at least
+120 degrees of knee flexion. It is an operation where the tibial bone is
+osteotomised at its upper end and repositioned in order to realign the
+mechanical axis of the limb away from the diseased area. This allows
+the knee to glide freely and distribute weight evenly on a more normal
+compartment.
+HTO relieves pain and may delay the progression of OA. However,
+the disadvantages of this procedure are that the knee may look
+asymmetrical and may pose a more technically challenging procedure
+if Total Knee Replacement (TKR) is eventually required.
+Management of Osteoarthritis ( Second Edition)
+29
+8.3 Total Joint Replacement
+Total Joint Replacement is indicated in patients with severe OA who
+have failed to respond to all other therapies. This may result in a
+dramatic reduction in pain and a significant improvement in ADL.105, level l
+However, patients are still advised to avoid certain activities, including
+jogging and high-impact sports for the rest of their life following surgery
+to ensure longevity of the implant.
+a. Total Knee Replacement (TKR)
+In the Canadian Joint Replacement Registry, 94% of TKR was due to
+degenerative OA.106, level III Active infection is an absolute contraindication
+whereas young age <55 years, poor compliance, regional pain disorders
+and unrealistic expectations are relative contraindications. The rate of
+joint revision ranged between 0% and 13% in studies that reported
+more than five years follow-up.105, level I
+b. Total Hip Replacement (THR)
+Indication for THR is similar to TKR. In the Canadian Joint Replacement
+Registry, 81% of THR was due to degenerative OA.106, level III However,
+with the advancement in implant design, metallurgy and surgical
+techniques, THR is also advocated for the younger patient with severe
+hip OA.
+8.4 Partial Joint Replacement
+The advantages of partial knee replacement over total knee replacement
+are less blood loss intraoperatively and less pain post-surgery with
+faster recovery and better range of motion. The disadvantages include
+slightly less predictable pain relief and the potential need for subsequent
+surgery.
+a. Unicondylar Knee Replacement (UKR)
+UKR differs from TKR in that only a portion of the knee is replaced. It
+is indicated for patients with knee OA that affect either the medial or
+lateral compartment and have significant pain on weight bearing. The
+survival of UKR at 10 years is about 85%.107, level I; 108
+b. Patellofemoral Knee Arthroplasty
+This surgery is an alternative to TKR for elderly patients with isolated
+advanced patellofemoral OA.
+Management of Osteoarthritis ( Second Edition)
+30
+c. Bicompartmental Knee Arthroplasty
+This type of surgery is an alternative to TKR when advanced medial
+or lateral compartment OA is associated with significant patellofemoral
+OA.
+8.5 Arthrodesis
+The aim of arthrodesis or joint fusion is to fuse the diseased joint in
+an optimal position. This would make the joint stiff but stable. The
+most common indication for knee arthrodesis is pain and significant
+ligamentous instability in an unreconstructable knee following an
+infection at the site of a knee arthroplasty. Arthrodesis of the knee can
+provide a stable, painless extremity for young active patients.
+In general, arthrodesis is not the preferred surgical option in OA.
+Recommendation 15
+• Arthroscopic lavage and debridement should not be offered as
+a treatment in osteoarthritis (OA) of the knee except in selected
+conditions*. (Grade A)
+• Joint Replacement should be offered to patients with severe OA.
+(Grade A)
+*Refer to 8.1
+8.6 Recent Advances in Osteoarthritis
+a. Intra-articular Stem Cells
+Stem cells have the capacity to produce all cell types in an unlimited
+fashion. Emerging evidence indicates that direct intra-articular injection
+of stem cells may boost the normally limited reparative process and
+limit the destructive process.
+Malaysian Health Technology Assessment Section (MaHTAS)
+technology review showed that there was limited evidence on the
+benefits of stem cells in articular cartilage repair.109
+More evidence-based studies are needed before its recommendation
+as a standard treatment for OA.
+Management of Osteoarthritis ( Second Edition)
+31
+b. Autologous Chondrocyte Implantation (ACI)
+Autologous chondrocyte implantation is an approach that has been
+used to treat symptomatic knee cartilage defects. The aim of this
+treatment is to replenish cartilage through the recruitment of progenitor
+cells as potential cartilage precursors, allowing the development into
+chondrogenic cells and finally cartilage.110, level I
+Most of the studies on usage of ACI were done on younger age patients
+with articular cartilage damage due to secondary causes of OA such as
+sports injury or trauma. Hence, there is a lack of evidence presently to
+recommend the use of ACI in the treatment of primary OA.
+c. Platelet Rich Plasma (PRP)
+Platelet rich plasma (PRP) is a natural concentrate of autologous blood
+growth factors studied in different fields of medicine in order to test its
+potential to enhance tissue regeneration.
+The preliminary short-term results within 3 to 6 months indicate that
+treatment with autologous PRP intra-articular injections may be useful
+for early OA, aiming to reduce pain and improve knee function and
+quality of life.111, level III However, there is no further improvement after 6
+months.111, level III; 112, level II-2
+Due to a lack of available evidence, the CPG is unable to recommend the
+use of intra-articular stem cells, autologous chondrocyte implantation or
+platelet-rich plasma in the treatment of osteoarthritis.
+Management of Osteoarthritis ( Second Edition)
+32
+9. REFERRAL
+9.1 Rheumatology Referral
+Osteoarthritis is one of the major causes of disability in adults. Early
+diagnosis and intervention are important to minimise the impact of
+short-term and long-term morbidity. Rheumatology opinion should be
+sought for evaluation of arthritis with unclear diagnosis.
+9.2 Orthopaedic Referral
+Referral to the orthopaedic surgeon should be made when the patient
+does not experience satisfactory improvement in terms of pain, stability
+or function despite adequate pharmacological and non-pharmacological
+treatment. The patients should be made to understand the reason for
+referral.
+Recommendation 16
+• Referral of osteoarthritis cases to either rheumatology or orthopaedic
+clinic should provide the following information:-
+ Diagnosis
+ Severity and its impact on activity of daily living
+ Co-morbidities that might require further medical assessment
+ Relevant investigation results and current medications (Grade C)
+10. PRIMARY PREVENTION
+Identifying and modifying the risk factors can help in preventing OA and
+its progression. Many of these risk factors are of particular importance
+in weight-bearing joints. Prevention of obesity, weight reduction in the
+obese and health education pertaining to joint protection techniques
+including avoidance of trauma to the joints are recommended as
+measures for primary prevention. Currently, there is no evidence
+available to recommend the intake of any medication to prevent OA. An
+important aspect of primary prevention is to identify those individuals
+at risk.
+Management of Osteoarthritis ( Second Edition)
+33
+11. IMPLEMENTING THE GUIDELINES
+It is important to standardise the management of OA at all healthcare
+levels in Malaysia using an evidence-based CPG in order to manage
+OA appropriately. It is therefore crucial for healthcare providers to
+understand the disease as it is a common disease which may result in
+significant disabilities.
+11.1 Facilitating & Limiting Factors
+Existing facilitators for application of the recommendations in the CPG
+include:-
+1. Wide dissemination of the CPG to healthcare providers (hard
+and soft copies)
+2. Regular rheumatology update for healthcare providers
+Existing barriers for application of the recommendations of the CPG
+are:-
+1. Poor understanding/limited knowledge of OA
+2. Insufficient resources in the management of OA particularly in
+rehabilitation
+3. Variation in treatment practice and preferences
+11.2 Potential Resource Implications
+To implement the CPG, there must be strong commitment to:-
+1. Ensure widespread distribution of the CPG to healthcare
+providers via printed and electronic copies.
+2. Re-enforce training (with adequate funding) of healthcare
+providers by regular seminars or workshops to ensure
+information is up-to-date
+3. Availability of rehabilitation services and trained manpower in
+OA management including multidisciplinary team at different
+levels of healthcare
+4. Ensure availability of recommended drugs in primary care
+setting
+5. Ensure patient empowerment via patient education materials
+Management of Osteoarthritis ( Second Edition)
+34
+To assist in the implementation of the CPG, the following is proposed as
+clinical audit indicator for quality management:-
+*Those at high risk of GI complications (such as ulceration, bleeding,
+perforation and obstruction) are:-
+i. age more than 65 years old or
+ii. on high dose of NSAIDs, aspirin, corticosteroid or anticoagulant or
+iii. previous history of upper GI complications
+Percentage of OA
+patients referred
+to rheumatology
+or orthopaedic
+clinic with proper
+documentation
+Number of OA patients referred to
+rheumatology or orthopaedic clinic with proper
+documentation within a period of time
+X 100%
+Number of OA patients referred to
+rheumatology or orthopaedic clinic
+in the same period of time
+=
+Percentage of
+patients with
+symptomatic
+OA at risk of GI
+complications*
+prescribed with
+NSAIDs alone
+X 100%
+Number of patients with symptomatic OA
+at risk of GI complications
+in the same period of time
+=
+Number of patients with symptomatic OA
+at risk of GI complications prescribed with
+NSAIDs alone within a period of time
+Management of Osteoarthritis ( Second Edition)
+35
+REFERENCES
+1.
+Vos T, Flaxman AD, Naghavi M, et al. Years lived with disability (YLDs) for 1160 sequelae of 289
+diseases and injuries 1990-2010: a systematic analysis for the Global Burden of Disease Study
+2010.[Erratum appears in Lancet. 2013 Feb 23;381(9867):628 Note: AlMazroa, Mohammad A
+[added]; Memish, Ziad A [added]]. Lancet. 2012 Dec 15;380(9859):2163-96.
+2.
+National Institutes of Health, World Health Organization. Global Health and Aging, NIH, Techn.
+Rep, NIH Publication no. 11-77372011 Contract No.: NIH Publication no. 11-7737.
+3.
+Pereira D, Peleteiro B, Araujo J, et al. The effect of osteoarthritis definition on prevalence and
+incidence estimates: a systematic review. Osteoarthritis Cartilage. 2011 Nov;19(11):1270-85.
+4.
+Haugen IK, Englund M, Aliabadi P, et al. Prevalence, incidence and progression of hand
+osteoarthritis in the general population: the Framingham Osteoarthritis Study. Ann Rheum Dis.
+2011 Sep;70(9):1581-6.
+5.
+Lawrence RC, Felson DT, Helmick CG, et al. Estimates of the prevalence of arthritis and other
+rheumatic conditions in the United States. Part II. Arthritis Rheum. 2008 Jan;58(1):26-35.
+6.
+Nevitt MC, Xu L, Zhang Y, et al. Very low prevalence of hip osteoarthritis among Chinese elderly
+in Beijing, China, compared with whites in the United States: the Beijing osteoarthritis study.
+Arthritis Rheum. 2002 Jul;46(7):1773-9.
+7.
+Murphy L, Schwartz TA, Helmick CG, et al. Lifetime risk of symptomatic knee osteoarthritis.
+Arthritis Rheum. 2008 Sep 15;59(9):1207-13.
+8.
+Zhang Y, Xu L, Nevitt MC, et al. Comparison of the prevalence of knee osteoarthritis between the
+elderly Chinese population in Beijing and whites in the United States: The Beijing Osteoarthritis
+Study. Arthritis Rheum. 2001 Sep;44(9):2065-71.
+9.
+Veerapen K, Wigley RD, Valkenburg H. Musculoskeletal pain in Malaysia: a COPCORD survey.
+J Rheumatol. 2007 Jan;34(1):207-13.
+10.
+Blagojevic M, Jink, C, Jeffery A, et al. Risk factors for onset of osteoarthritis of the knee in older
+adults: a systematic review and meta-analysis. Osteoarthritis Cartilage. 2010 Jan;18(1):24-33.
+11.
+Spector TD, Cicuttini F, Baker J, et al. Genetic influences on osteoarthritis in women: a twin
+study. BMJ. 1996 Apr 13;312(7036):940-3.
+12.
+Tanamas S, Hanna, FS, Cicuttini FM, et al. Does knee malalignment increase the risk of
+development and progression of knee osteoarthritis? A systematic review. Arthritis Rheum. 2009
+Apr 15;61(4):459-67.
+13.
+Ministry of Health Malaysia. Management of Osteoarthritis. Kuala Lumpur: MoH; 2002.
+14.
+Altman R, Alarcon G, Appelrouth D, et al. The American College of Rheumatology criteria for the
+classification and reporting of osteoarthritis of the hand. Arthritis Rheum. 1990 Nov;33(11):1601-10.
+15.
+Altman R, Alarcon G, Appelrouth D, et al. The American College of Rheumatology criteria for the
+classification and reporting of osteoarthritis of the hip. Arthritis Rheum. 1991 May;34(5):505-14.
+16.
+Altman R, Asch E, Bloch D, et al. Development of criteria for the classification and reporting of
+osteoarthritis. Classification of osteoarthritis of the knee. Diagnostic and Therapeutic Criteria
+Committee of the American Rheumatism Association. Arthritis Rheum. 1986 Aug;29(8):1039-49.
+17.
+Zhang W, Doherty M, Peat G, et al. EULAR evidence-based recommendations for the diagnosis
+of knee osteoarthritis. Ann Rheum Dis. 2010 Mar;69(3):483-9.
+18.
+Moller B, Bonel H, Rotzetter M, et al. Measuring finger joint cartilage by ultrasound as a promising
+alternative to conventional radiograph imaging. Arthritis Rheum. 2009 Apr 15;61(4):435-41.
+19.
+Keen HI, Wakefield RJ, Grainger AJ, et al. An ultrasonographic study of osteoarthritis of the
+hand: synovitis and its relationship to structural pathology and symptoms. Arthritis Rheum. 2008
+Dec 15;59(12):1756-63.
+20.
+D’Agostino MA, Conaghan P, Le Bars M, et al. EULAR report on the use of ultrasonography in
+painful knee osteoarthritis. Part 1: prevalence of inflammation in osteoarthritis. Ann Rheum Dis.
+2005 Dec;64(12):1703-9.
+21.
+Conaghan P, D’Agostino MA, Ravaud P, et al. EULAR report on the use of ultrasonography in
+painful knee osteoarthritis. Part 2: exploring decision rules for clinical utility. Ann Rheum Dis.
+2005 Dec;64(12):1710-4.
+Management of Osteoarthritis ( Second Edition)
+36
+22.
+Kao M-J, Wu M-P, Tsai M-W, et al. The effectiveness of a self-management program on quality
+of life for knee osteoarthritis (OA) patients. Arch Gerontol Geriatr. 2012 Mar-Apr;54(2):317-24.
+23.
+Coleman S, Briffa NK, Carroll G, et al. A randomised controlled trial of a self-management
+education program for osteoarthritis of the knee delivered by health care professionals. Arthritis
+Res Ther. 2012;14(1):R21.
+24.
+Hansson EE, Jonsson-Lundgren M, Ronnheden AM, et al. Effect of an education programme
+for patients with osteoarthritis in primary care--a randomized controlled trial. BMC Musculoskelet
+Disord. 2010;11:244.
+25.
+Ravaud P, Flipo RM, Boutron I, et al. ARTIST (osteoarthritis intervention standardized) study of
+standardised consultation versus usual care for patients with osteoarthritis of the knee in primary
+care in France: pragmatic randomised controlled trial. BMJ. 2009;338:b421.
+26.
+Pendleton A, Arden N, Dougados M, et al. EULAR recommendations for the management of
+knee osteoarthritis: report of a task force of the Standing Committee for International Clinical
+Studies Including Therapeutic Trials (ESCISIT). Ann Rheum Dis. 2000 Dec;59(12):936-44.
+27.
+Egger GJ, Binns AF, Rössner SR. Lifestyle Medicine. Sydney: McGraw-Hill; 2007.
+28.
+Bliddal H, Leeds AR, Stigsgaard L, et al. Weight loss as treatment for knee osteoarthritis
+symptoms in obese patients: 1-year results from a randomised controlled trial. Ann Rheum Dis.
+2011 Oct;70(10):1798-803.
+29.
+Christensen R, Bartels EM, Astrup A, et al. Effect of weight reduction in obese patients
+diagnosed with knee osteoarthritis: a systematic review and meta-analysis. Ann Rheum Dis.
+2007 Apr;66(4):433-9.
+30.
+Messier SP, Loeser RF, Miller GD, et al. Exercise and dietary weight loss in overweight and
+obese older adults with knee osteoarthritis: the Arthritis, Diet, and Activity Promotion Trial.
+Arthritis Rheum. 2004 May;50(5):1501-10.
+31.
+Messier SP, Gutekunst DJ, Davis C, et al. Weight loss reduces knee-joint loads in overweight
+and obese older adults with knee osteoarthritis. Arthritis Rheum. 2005 Jul;52(7):2026-32.
+32.
+Fernandes L, Hagen KB, Bijlsma JW, et al. EULAR recommendations for the non-pharmacological
+core management of hip and knee osteoarthritis. Ann Rheum Dis. 2013 Jul;72(7):1125-35.
+33.
+Fransen M, McConnell S Exercise for osteoarthritis of the knee. Cochrane Database of
+Systematic Reviews 2008, Issue 4 Art No: CD004376.
+34.
+Fransen M, McConnell S, Hernandez-Molina G, et al. Exercise for osteoarthritis of the hip.
+Cochrane Database of Systematic Reviews 2009, Issue 3 Art No: CD007912.
+35.
+Bartels EM, Lund H, Hagen KB, et al Aquatic exercise for the treatment of knee and hip
+osteoarthritis. Cochrane Database of Systematic Reviews 2007, Issue 4 Art No: CD005523.
+36.
+Rutjes AWS, Nüesch E, Sterchi R, et al Transcutaneous electrostimulation for osteoarthritis of
+the knee. Cochrane Database of Systematic Reviews 2009, Issue 4 Art No: CD002823.
+37.
+Hochberg MC, Altman RD, April KT, et al. American College of Rheumatology 2012
+recommendations for the use of nonpharmacologic and pharmacologic therapies in osteoarthritis
+of the hand, hip, and knee. Arthritis Care Res. 2012 Apr;64(4):465-74.
+38.
+Brosseau L, Yonge KA, Welch V, et al. Thermotherapy for treatment of osteoarthritis. Cochrane
+Database of Systematic Reviews 2003, Issue 4 Art No: CD004522.
+39.
+Rutjes AWS, Nüesch E, Sterchi R, et al Therapeutic ultrasound for osteoarthritis of the knee or
+hip. Cochrane Database of Systematic Reviews 2010, Issue 1 Art No: CD003132.
+40.
+National Collaborating Centre for Chronic Conditions. Osteoarthritis: national clinical guideline for
+care and management in adults. London Royal College of Physicians; 2008.
+41.
+Stamm TA, Machold KP, Smolen JS, et al. Joint protection and home hand exercises improve
+hand function in patients with hand osteoarthritis: a randomized controlled trial. Arthritis Rheum.
+2002 Feb;47(1):44-9.
+42.
+Boustedt C, Nordenskiold U, Lundgren Nilsson A. Effects of a hand-joint protection programme
+with an addition of splinting and exercise: one year follow-up. Clin Rheumatol. 2009 Jul;28(7):793-9.
+43.
+Shakoor MA, Taslim MA, Hossain MS. Effects of activity modification on the patients with
+osteoarthritis of the knee. Bangladesh Med Res Counc Bull. 2007 Aug;33(2):55-9.
+Management of Osteoarthritis ( Second Edition)
+37
+44.
+Gay MC, Philippot P, Luminet O. Differential effectiveness of psychological interventions for
+reducing osteoarthritis pain: a comparison of Erikson [correction of Erickson] hypnosis and
+Jacobson relaxation. Eur J Pain. 2002;6(1):1-16.
+45.
+McCaffrey R, Freeman E. Effect of music on chronic osteoarthritis pain in older people. J Adv
+Nurs. 2003 Dec;44(5):517-24.
+46.
+Baird CL, Sands LP. Effect of guided imagery with relaxation on health-related quality of life in
+older women with osteoarthritis. Res Nurs Health. 2006 Oct;29(5):442-51.
+47.
+Barrios JA, Crenshaw JR, Royer TD, et al. Walking shoes and laterally wedged orthoses in the
+clinical management of medial tibiofemoral osteoarthritis: a one-year prospective controlled trial.
+Knee. 2009 Mar;16(2):136-42.
+48.
+Hunter DJ, Harvey W, Gross KD, et al. A randomized trial of patellofemoral bracing for treatment
+of patellofemoral osteoarthritis. Osteoarthritis Cartilage. 2011 Jul;19(7):792-800.
+49.
+Brouwer RW, van Raaij TM, Verhaar JAN, et al. Brace treatment for osteoarthritis of the knee: a
+prospective randomized multi-centre trial. Osteoarthritis Cartilage. 2006 Aug;14(8):777-83.
+50.
+Towheed T, Maxwell L, Judd M, et al. Acetaminophen for osteoarthritis. Cochrane Database of
+Systematic Reviews 2006, Issue 1 Art No: CD004257.
+51.
+Lee C, Straus WL, Balshaw R, et al A comparison of the efficacy and safety of nonsteroidal
+antiinflammatory agents versus acetaminophen in the treatment of osteoarthritis: a metaanalysis. Arthritis Rheum 2004 Oct 15;51(5):746-54.
+52.
+Altman RD, Zinsenheim JR, Temple AR, et al. Three-month efficacy and safety of acetaminophen
+extended-release for osteoarthritis pain of the hip or knee: a randomized, double-blind, placebocontrolled study. Osteoarthritis Cartilage. 2007 Apr;15(4):454-61.
+53.
+Doherty M, Hawkey C, Goulder M, et al. A randomised controlled trial of ibuprofen, paracetamol
+or a combination tablet of ibuprofen/paracetamol in community-derived people with knee pain.
+Ann Rheum Dis. 2011 Sep;70(9):1534-41.
+54.
+Temple AR, Benson GD, Zinsenheim JR, et al. Multicenter, randomized, double-blind, activecontrolled, parallel-group trial of the long-term (6-12 months) safety of acetaminophen in adult
+patients with osteoarthritis. Clin Ther. 2006 Feb;28(2):222-35.
+55.
+Cepeda MS, Camargo F, Zea C, et al. Tramadol for osteoarthritis: a systematic review and
+metaanalysis. J Rheumatol. 2007 Mar;34(3):543-55.
+56.
+Thorne C, Beaulieu AD, Callaghan DJ, et al. A randomized, double-blind, crossover comparison
+of the efficacy and safety of oral controlled-release tramadol and placebo in patients with painful
+osteoarthritis. Pain Res Manag. 2008 Mar-Apr;13(2):93-102.
+57.
+Beaulieu AD, Peloso PM, Haraoui B, et al. Once-daily, controlled-release tramadol and
+sustained-release diclofenac relieve chronic pain due to osteoarthritis: a randomized controlled
+trial. Pain Res Manag. 2008 Mar-Apr;13(2):103-10.
+58.
+Rosenthal NR, Silverfield JC, Wu SC, et al. Tramadol/acetaminophen combination tablets for the
+treatment of pain associated with osteoarthritis flare in an elderly patient population. J Am Geriatr
+Soc. 2004 Mar;52(3):374-80.
+59.
+Silverfield JC, Kamin M, Wu SC, et al. Tramadol/acetaminophen combination tablets for the
+treatment of osteoarthritis flare pain: a multicenter, outpatient, randomized, double-blind,
+placebo-controlled, parallel-group, add-on study. Clin Ther. 2002 Feb;24(2):282-97.
+60.
+Bjordal JM, Ljunggren AE, Klovning A, et al. Non-steroidal anti-inflammatory drugs, including
+cyclo-oxygenase-2 inhibitors, in osteoarthritic knee pain: meta-analysis of randomised placebo
+controlled trials. BMJ. 2004 Dec 4;329(7478):1317.
+61.
+Singh G, Fort JG, Goldstein JL, et al. Celecoxib versus naproxen and diclofenac in osteoarthritis
+patients: SUCCESS-I Study.[Erratum appears in Am J Med. 2006 Sep;119(9):801]. Am J Med.
+2006 Mar;119(3):255-66.
+62.
+Bingham CO 3rd, Smugar SS, Wang H, et al. Early response to COX-2 inhibitors as a predictor
+of overall response in osteoarthritis: pooled results from two identical trials comparing etoricoxib,
+celecoxib and placebo. Rheumatology (Oxford). 2009 Sep;48(9):1122-7.
+63.
+Castellsague J, Riera-Guardia N, Calingaert B, et al. Individual NSAIDs and upper gastrointestinal
+complications: a systematic review and meta-analysis of observational studies (the SOS project).
+Drug Saf. 2012 Dec 1;35(12):1127-46.
+Management of Osteoarthritis ( Second Edition)
+38
+64.
+Laine L, Curtis SP, Cryer B, et al. Assessment of upper gastrointestinal safety of etoricoxib and
+diclofenac in patients with osteoarthritis and rheumatoid arthritis in the Multinational Etoricoxib
+and Diclofenac Arthritis Long-term (MEDAL) programme: a randomised comparison. Lancet.
+2007 Feb 10;369(9560):465-73.
+65.
+Hunt RH, Harper S, Callegari P, et al. Complementary studies of the gastrointestinal safety of the
+cyclo-oxygenase-2-selective inhibitor etoricoxib. Aliment Pharmacol Ther. 2003 Jan;17(2):201-10.
+66.
+Hunt RH, Harper S, Watson DJ, et al. The gastrointestinal safety of the COX-2 selective inhibitor
+etoricoxib assessed by both endoscopy and analysis of upper gastrointestinal events. Am J
+Gastroenterol. 2003 Aug;98(8):1725-33.
+67.
+Rostom A, Dube C, Wells GA, et al Prevention of NSAID-induced gastroduodenal ulcers.
+Cochrane Database of Systematic Reviews 2002, Issue 4 Art No: CD002296.
+68.
+Sugano K, Kontani T, Katsuo S, et al. Lansoprazole for secondary prevention of gastric or
+duodenal ulcers associated with long-term non-steroidal anti-inflammatory drug (NSAID)
+therapy: results of a prospective, multicenter, double-blind, randomized, double-dummy, activecontrolled trial. J Gastroenterol. 2012 May;47(5):540-52.
+69.
+Sugano K, Matsumoto Y, Itabashi T, et al. Lansoprazole for secondary prevention of gastric or
+duodenal ulcers associated with long-term low-dose aspirin therapy: results of a prospective,
+multicenter, double-blind, randomized, double-dummy, active-controlled trial. J Gastroenterol.
+2011 Jun;46(6):724-35.
+70.
+Chan FKL, Lanas A, Scheiman J, et al. Celecoxib versus omeprazole and diclofenac in patients
+with osteoarthritis and rheumatoid arthritis (CONDOR): a randomised trial.[Erratum appears in
+Lancet. 2011 Jul 16;378(9787):228]. Lancet. 2010 Jul 17;376(9736):173-9.
+71.
+Chan FK, Wong VW, Suen BY, et al. Combination of a cyclo-oxygenase-2 inhibitor and a protonpump inhibitor for prevention of recurrent ulcer bleeding in patients at very high risk: a doubleblind, randomised trial. Lancet. 2007 May 12;369(9573):1621-6.
+72.
+Trelle S, Reichenbach S, Wandel S, et al. Cardiovascular safety of non-steroidal antiinflammatory drugs: network meta-analysis. BMJ. 2011;342:c7086.
+73.
+Combe B, Swergold G, McLay J, et al. Cardiovascular safety and gastrointestinal tolerability
+of etoricoxib vs diclofenac in a randomized controlled clinical trial (The MEDAL study).
+Rheumatology (Oxford). 2009 Apr;48(4):425-32.
+74.
+Ministry of Health Malaysia. Management of Chronic Kidney Disease. Putrajaya: MoH; June
+2011.
+75.
+Wandel S, Juni P, Tendal B, et al. Effects of glucosamine, chondroitin, or placebo in patients with
+osteoarthritis of hip or knee: network meta-analysis. BMJ. 2010;341:c4675.
+76.
+Black C, Clar C, Henderson R, et al. The clinical effectiveness of glucosamine and chondroitin
+supplements in slowing or arresting progression of osteoarthritis of the knee: a systematic review
+and economic evaluation. Health Technol Assess. 2009 Nov;13(52):1-148.
+77.
+Towheed T, Maxwell L, Anastassiades TP, et al. Glucosamine therapy for treating osteoarthritis.
+Cochrane Database of Systematic Reviews 2005, Issue 2 Art No: CD002946.
+78.
+Sawitzke AD, Shi H, Finco MF, et al. Clinical efficacy and safety of glucosamine, chondroitin
+sulphate, their combination, celecoxib or placebo taken to treat osteoarthritis of the knee: 2-year
+results from GAIT. Ann Rheum Dis. 2010 Aug;69(8):1459-64.
+79.
+Sawitzke AD, Shi H, Finco MF, et al. The effect of glucosamine and/or chondroitin sulfate on the
+progression of knee osteoarthritis: a report from the glucosamine/chondroitin arthritis intervention
+trial. Arthritis Rheum. 2008 Oct;58(10):3183-91.
+80.
+Pavelka K, Gatterova J, Olejarova M, et al. Glucosamine sulfate use and delay of progression
+of knee osteoarthritis: a 3-year, randomized, placebo-controlled, double-blind study. Arch Intern
+Med. 2002 Oct 14;162(18):2113-23.
+81.
+Dostrovsky NR, Towheed TE, Hudson RW, et al. The effect of glucosamine on glucose
+metabolism in humans: a systematic review of the literature. Osteoarthritis Cartilage. 2011
+Apr;19(4):375-80.
+82.
+Kahan A, Uebelhart D, De Vathaire F, et al. Long-term effects of chondroitins 4 and 6 sulfate on
+knee osteoarthritis: the study on osteoarthritis progression prevention, a two-year, randomized,
+double-blind, placebo-controlled trial. Arthritis Rheum. 2009 Feb;60(2):524-33.
+Management of Osteoarthritis ( Second Edition)
+39
+83.
+Gabay C, Medinger-Sadowski C, Gascon D, et al. Symptomatic effects of chondroitin 4 and
+chondroitin 6 sulfate on hand osteoarthritis: a randomized, double-blind, placebo-controlled
+clinical trial at a single center. Arthritis Rheum. 2011 Nov;63(11):3383-91.
+84.
+Rovetta G, Monteforte P, Molfetta G, et al. A two-year study of chondroitin sulfate in erosive
+osteoarthritis of the hands: behavior of erosions, osteophytes, pain and hand dysfunction. Drugs
+Exp Clin Res. 2004;30(1):11-6.
+85.
+Rovetta G, Monteforte P, Molfetta G, et al. Chondroitin sulfate in erosive osteoarthritis of the
+hands. Int J Tissue React. 2002;24(1):29-32.
+86.
+Verbruggen G, Goemaere S, Veys EM. Systems to assess the progression of finger joint
+osteoarthritis and the effects of disease modifying osteoarthritis drugs. Clin Rheumatol. 2002
+Jun;21(3):231-43.
+87.
+Rintelen B, Neumann K, Leeb BF. A meta-analysis of controlled clinical studies with diacerein in
+the treatment of osteoarthritis.[Erratum appears in Arch Intern Med. 2007 Mar 12;167(5):444].
+Arc Intern Med. 2006 Sep 25;166(17):1899-906.
+88.
+Pavelka K, Trc T, Karpas K, et al. The efficacy and safety of diacerein in the treatment of painful
+osteoarthritis of the knee: a randomized, multicenter, double-blind, placebo-controlled study with
+primary end points at two months after the end of a three-month treatment period. Arthritis Rheum.
+2007 Dec;56(12):4055-64.
+89.
+Louthrenoo W, Nilganuwong S, Aksaranugraha S, et al. The efficacy, safety and carry-over effect
+of diacerein in the treatment of painful knee osteoarthritis: a randomised, double-blind, NSAIDcontrolled study. Osteoarthritis Cartilage. 2007 Jun;15(6):605-14.
+90.
+Dougados M, Nguyen M, Berdah L, et al. Evaluation of the structure-modifying effects of
+diacerein in hip osteoarthritis: ECHODIAH, a three-year, placebo-controlled trial. Evaluation of the
+Chondromodulating Effect of Diacerein in OA of the Hip. Arthritis Rheum. 2001 Nov;44(11):2539-47.
+91.
+Brahmachari B, Chatterjee S, Ghosh A. Efficacy and safety of diacerein in early knee
+osteoarthritis: a randomized placebo-controlled trial. Clin Rheumatol. 2009 Oct;28(10):1193-8.
+92.
+Bellamy N, Campbell J,Welch V, et al. Intraarticular corticosteroid for treatment of osteoarthritis
+of the knee. Cochrane Database of Systematic Reviews 2006, Issue 2 Art No: CD005328.
+93.
+Rutjes AWS, Juni P, da Costa BR, et al. Viscosupplementation for osteoarthritis of the knee: a
+systematic review and meta-analysis. Ann Intern Med. 2012 Aug 7;157(3):180-91.
+94.
+Bellamy N CJ, Welch V, et al. Viscosupplementation for the treatment of osteoarthritis of the
+knee. Cochrane Database of Systematic Reviews 2006, Issue 2 Art No: CD005321.
+95.
+Niethard FU, Gold MS, Solomon GS, et al. Efficacy of topical diclofenac diethylamine gel in
+osteoarthritis of the knee. J Rheumatol. 2005 Dec;32(12):2384-92.
+96.
+Towheed TE. Pennsaid therapy for osteoarthritis of the knee: a systematic review and
+metaanalysis of randomized controlled trials. J Rheumatol. 2006 Mar;33(3):567-73.
+97.
+Trnavsky K, Fischer M, Vogtle-Junkert U, et al. Efficacy and safety of 5% ibuprofen cream
+treatment in knee osteoarthritis. Results of a randomized, double-blind, placebo-controlled study.
+J Rheumatol. 2004 Mar;31(3):565-72.
+98.
+Makris UE, Kohler MJ, Fraenkel L. Adverse effects of topical nonsteroidal antiinflammatory
+drugs in older adults with osteoarthritis: a systematic literature review. J Rheumatol. 2010
+Jun;37(6):1236-43.
+99.
+Manheimer E, Cheng K, Linde K, et al. Acupuncture for peripheral joint osteoarthritis. . Cochrane
+Database of Systematic Reviews 2010, Issue 1 Art No: CD001977.
+100. Little CV, Parsons T, Logan S. Herbal therapy for treating osteoarthritis. Cochrane Database of
+Systematic Reviews 2000, Issue 4 Art No: CD002947.
+101. Christensen R, Bartels EM, Astrup A, et al. Symptomatic efficacy of avocado-soybean
+unsaponifiables (ASU) in osteoarthritis (OA) patients: a meta-analysis of randomized controlled
+trials. Osteoarthritis Cartilage. 2008 Apr;16(4):399-408.
+102. Bliddal H, Rosetzsky A, Schlichting P, et al. A randomized, placebo-controlled, cross-over study
+of ginger extracts and ibuprofen in osteoarthritis. Osteoarthritis Cartilage. 2000 Jan;8(1):9-12.
+103. Moseley B. Arthroscopic surgery did not provide additional benefit to physical and medical
+therapy for osteoarthritis of the knee. J Bone Joint Surg Am. [Comment]. 2009 May;91(5):1281.
+Management of Osteoarthritis ( Second Edition)
+40
+104. Kirkley A, Birmingham TB, Litchfield RB, et al. A randomized trial of arthroscopic surgery for
+osteoarthritis of the knee.[Erratum appears in N Engl J Med. 2009 Nov 12;361(20):2004]. N Engl
+J Med. 2008 Sep 11;359(11):1097-107.
+105. Health Quality Ontario. Total knee replacement: an evidence-based analysis. Ontario Health
+Technol Assess Ser. 2005;5(9):1-51.
+106. Canadian Institute for Health Information. Hip and Knee Replacements in Canada 2008-2009
+Annual Report.
+107. Spahn G, Hofmann GO, von Engelhardt LV, et al. The impact of a high tibial valgus osteotomy
+and unicondylar medial arthroplasty on the treatment for knee osteoarthritis: a meta-analysis.
+Knee Surg Sports Traumatol Arthrosc. 2013 Jan;21(1):96-112.
+108. Ministry of Health Singapore. Osteoarthritis of the Knees. Singapore: MoH; 2007.
+109. Health Technology Assessment Section (MaHTAS) MDD, Ministry of Health Malaysia.
+Autologous Peripheral Blood Stem Cells for Articular Cartilage Repair. Serial No. 006/2013.2013.
+110. Vasiliadis HS, Wasiak J. Autologous chondrocyte implantation for full thickness articular
+cartilage defects of the knee. Cochrane Database of Systematic Reviews 2010, Issue 10 Art No:
+CD003323.
+111. Spakova T, Rosocha J, Lacko M, et al. Treatment of knee joint osteoarthritis with autologous
+platelet-rich plasma in comparison with hyaluronic acid. Am J Phys Med Rehabil. 2012
+May;91(5):411-7.
+112. Kon E, Buda R, Filardo G, et al. Platelet-rich plasma: intra-articular knee injections produced
+favorable results on degenerative cartilage lesions. Knee Surg Sports Traumatol Arthrosc. 2010
+Apr;18(4):472-9.
+Management of Osteoarthritis ( Second Edition)
+41
+Appendix 1
+EXAMPLE OF SEARCH STRATEGY
+The following MeSH terms or free text terms were used either singly
+or in combination, search was limit to English, human and 2001 to current:-
+Paracetamol
+1. osteoarthritis/
+2. osteoarthritis.tw.
+3. degenerative arthritis.tw.
+4. 4.1 or 2 or 3
+5. acetaminophen/
+6. acetaminophen.tw.
+7. paracetamol.tw.
+8. 5 or 6 or 7
+9. 4 and 8
+10. limit 9
+Tramadol
+1. osteoarthritis/
+2. osteoarthritis.tw.
+3. degenerative arthritis.tw.
+4. 1 or 2 or 3
+5. tramadol/
+6. tramadol.tw.
+7. tramadol hydrochloride.tw.
+8. 5 or 6 or 7
+9. 4 and 8
+10. limit 9
+Diacerein
+1. osteoarthritis/
+2. osteoarthritis.tw.
+3. degenerative arthritis.tw.
+4. 1 or 2 or 3
+5. diacerein.mp.
+6. diacerein.tw.
+7. 5 or 6
+8. 4 and 7
+9. limit 8
+Intra-articular corticosteroids
+1. osteoarthritis/
+2. osteoarthritis.tw.
+3. degenerative arthritis.tw.
+4. 1 or 2 or 3
+5. corticosteroid/
+6. corticosteroid*.tw.
+7. glucocorticoid*.tw.
+8. 5 or 6 or 7
+9. 4 and 8
+10. limit 9
+NSAIDs & COX-2 inhibitor
+1. osteoarthritis/
+2. osteoarthritis.tw.
+3. degenerative arthritis.tw.
+4. 1 or 2 or 3
+5. non-steroidal anti-
+inflammatory agents/
+6. non-steroidal anti-
+inflammatory agent*.tw.
+7. NSAID*.tw.
+8. 5 or 6 or 7
+9. cyclooxygenase 2
+inhibitors/
+10. cyclooxygenase 2
+inhibitor*.tw.
+11. COX-2 inhibitor*.tw.
+12. 9 or.10 or 11
+13. 8 or 12
+14. 4 and 13
+15. limit 14
+Glucosamine and Chondroitin
+1. osteoarthritis/
+2. osteoarthritis.tw.
+3. degenerative arthritis.tw.
+4. 1 or 2 or 3
+5. glucosamine/
+6. glucosamine.tw.
+7. glucosamine sulphate.tw.
+8. glucosamine
+hydrochloride.tw.
+9. 5 or 6 or 7 or 8
+10. chondroitin/
+11. chondroitin.tw.
+12. chondroitin sulphate.tw.
+13. 10 or 11 or 12
+14. 9 or 13
+15. 4 and 14
+16. limit 15
+Viscosupplementation
+1. osteoarthritis/
+2. osteoarthritis.tw.
+3. degenerative arthritis.tw.
+4. 1 or 2 or 3
+5. hyaluronic acid/
+6. (hyaluronic adj1 acid).tw.
+7. (sodium adj1 hyaluron*).tw.
+8. viscosupplementation/
+9. viscosupplement*.tw.
+10. 5 or 6 or 7 or 8 or 9
+11. 4 and 10
+12. limit 11
+Topical therapy
+1. osteoarthritis/
+2. osteoarthritis.tw.
+3. degenerative arthritis.tw.
+4. 1 or 2 or 3
+5. topical NSAIDS.mp.
+6. capsaicin.tw.
+7. methylsalicylate.tw.
+8. 5 or 6 or 7
+9. 4 and 8
+10. limit 9
+Management of Osteoarthritis ( Second Edition)
+42
+Appendix 2
+CLINICAL QUESTIONS
+1.
+What is the epidemiology of OA?
+2.
+What are the risk factors of OA?
+3.
+What are the signs and symptoms of OA?
+4.
+How is OA diagnosed and classified?
+5.
+What are the effective diagnostic tests in OA?
+6.
+What are the effective & safe non-pharmacological modalities/
+lifestyle modifications in OA?
+7.
+What are the effective & safe pharmacological treatments in OA?
+8.
+What are the effective & safe alternative treatments in OA?
+9.
+What are the effective & safe surgical modalities in OA?
+10. What is the role of intra-articular stem cells, autologous chondrocyte
+implantation and platelet-rich plasma in OA?
+11. When should OA patients be referred for rheumatology/orthopaedic
+services?
+12. What are the primary preventive measures for OA?
+Management of Osteoarthritis ( Second Edition)
+43
+Cartilage
+(defective or
+loss)
+Menisci
+Synovial cavity
+Synovium
+Subchondral
+bone
+Osteophytes
+Joint capsule
+Ligaments
+Bursae
+Muscle
+Central nervous
+system
+Appendix 3
+RELATIONSHIP BETWEEN ANATOMICAL SITE AND POSSIBLE
+PHYSIOLOGICAL MECHANISM FOR PAIN IN OSTEOARTHRITIS
+Anatomical
+Mechanism
+site
+Synovial: inflammation induced by cartilage
+‘char’ fragments, cartilage crystal shedding,
+cartilage release of cytokines (e.g. interleukin-1),
+enzymes (e.g. metalloproteinases)
+Subchondral bone: mechanical stress (see
+below)
+Instability: stress on capsule
+Tear or degeneration: stretch at insertion to the
+joint capsule, catch between surfaces
+Stretch of joint capsule, transport of inflammatory
+mediators between synovium and cartilage
+Inflammation
+Ischemia with increased pressure, decreased
+oxygen tension and increased pH
+Avascular necrosis
+Regeneration or repair of infarcted bone
+Periosteal elevation
+Neural impingement
+Stretch from joint distension
+Stress at insertion to periosteum and bone
+Stress at insertion to periosteum and bone
+Inflammation, with or without calcification
+Spasm
+Nocturnal myoclonus
+Mild chronic depression, mild mood fluctuation,
+fibromyalgia
+Ethnic, cultural, coping skills
+Management of Osteoarthritis ( Second Edition)
+44
+Appendix 4
+QUADRICEPS STRENGTHENING EXERCISE
+Figure A
+Lie flat in bed with your legs
+straight. Bend your ankles and
+push the back of your knees down
+firmly against the bed. Hold for
+five seconds, then return to the
+original position and relax.
+Figure B
+Sit on a firm flat surface with one
+leg bend and keep the other leg
+straight. Bend your ankle and
+push the back of your knees down
+firmly against the bed. Hold for
+five seconds, then return to the
+original position and relax.
+Figure C
+Lie flat in bed with a rolled towel/
+small cushion under your knee.
+Bend your ankle and push the
+back of your knee down firmly
+against the rolled towel/small
+cushion (keep knee on the towel/
+cushion). Hold for five seconds,
+then return to the original position
+and relax.
+Figure D
+Sit on a chair. Straighten your
+knee and bend your ankle. Hold
+for five seconds, then return to the
+original position and relax.
+Management of Osteoarthritis ( Second Edition)
+45
+Appendix 5
+HIP STRENGTHENING EXERCISE
+Figure A
+Stand straight holding to a chair.
+Bring your leg backwards, keeping
+your knee straight (do not lean
+forwards). Hold for five seconds,
+then return to the original position
+and relax.
+Figure B
+Lie on your back with both knees
+bent. Then, lift your hips up and
+straighten one leg while shifting
+the weight over to the bent leg.
+Hold for five seconds, then return
+to the original position and relax.
+Figure C
+Lie on your back with knees bent.
+Squeeze your buttocks together
+and lift your bottom off the floor.
+Hold for five seconds, then
+return to the original position and
+relax.
+Figure D
+Lie face down. Lift one leg up while
+keeping the other leg straight on
+the floor. Hold for five seconds,
+then return to the original position
+and relax.
+Management of Osteoarthritis ( Second Edition)
+46
+Appendix 6
+APPROPRIATE MEASUREMENT FOR WALKING STICK
+Management of Osteoarthritis ( Second Edition)
+47
+Appendix 7
+JOINT PROTECTION PRINCIPLES
+Joint protection principles include:-
+• Resting inflamed joints by reducing load, duration of use and
+repetitive movement
+• Using the largest unaffected muscles and joints to perform a task
+• Using proper movement techniques for lifting, sitting, standing,
+bending and reaching
+• Using assistive devices and modifications for home equipment to
+minimise stress on joints
+• Plan and organise activities ahead
+• Using biomechanics and ergonomics to best effect
+• Simplifying tasks
+• Recruiting others to help
+• Making exercise a part of everyday life including exercises which
+improve joint range of movement, stamina and strength
+• Exercise should also be for cardiovascular fitness and to maintain
+or improve balance
+Source: National Collaborating Centre for Chronic Conditions. Osteoarthritis: national
+clinical guideline for care and management in adults. London: Royal College of
+Physicians; 2008
+ACTIVITY MODIFICATION IN PERFORMING ADL
+• To use walking stick on the opposite hand of the affected knee /
+more painful knee joint during walking
+• To climb stairs, use the railing of the stairs, climb slowly and
+the body weight should be transferred to the railing by the hand
+opposite to the affected knee
+• To bathe in standing or sitting position with a shower and use
+high commode in bathroom
+• To cook in standing position and if necessary to sit on a chair for
+a while and use dining table for eating
+• To avoid high heeled shoes, sitting on low stool and prolonged
+walking/sitting/running
+• To avoid performing activity in squatting position
+Source: Shakoor MA, Taslim MA, Hossain MS. Effects of activity modification on the
+patients with osteoarthritis of the knee. Bangladesh Med Res Counc Bull. 2007
+Aug;33(2):55-9
+Management of Osteoarthritis ( Second Edition)
+48
+Appendix 8
+SUGGESTED MEDICATION DOSAGES AND SIDE EFFECTS
+Drug Class
+Drug
+Recommended Dosages
+Side Effects
+Caution and
+Contraindications
+Comments
+Simple
+analgesic
+Paracetamol
+0.5 – 1 gm, 6 – 8-hourly
+Max: 4 gm/day
+Rare but hypersensitivity
+including skin rash may occur
+Hepatic impairment
+Alcohol dependence
+Preferred drug particularly
+elderly patients
+Nonselective
+NSAIDs
+Ibuprofen
+400 – 800 mg, 6 – 8-hourly
+Max: 3200 mg/day
+Peptic ulcer
+GI bleed
+Platelet dysfunction
+Renal impairment
+Hypertension
+Allergic reaction in
+susceptible individuals
+Increase in CVS events
+Gastroduodenal ulcer
+Asthma
+Bleeding disorder
+Renal dysfunction
+Ischaemic heart disease
+Cerebro vascular disease
+Inflammatory bowel disease
+Physicians and patients should
+weigh the benefits and risks
+of NSAIDs therapy
+Mefenamic acid
+250 – 500 mg, 6 – 8-hourly
+Max: 1500 mg/day
+Diclofenac sodium
+50 – 150 mg daily,
+8 – 12-hourly
+Max: 150 mg/day
+Meloxicam
+7.5 – 15 mg daily
+Max: 15 mg/day
+Naproxen
+250 – 500 mg, 12-hourly
+Max: 1500 mg/day
+Naproxen sodium
+275 -– 550 mg, 12-hourly
+Max: 1650 mg/day
+Piroxicam
+10 – 20 mg daily, in single or
+divided doses
+Max: 20 mg/day
+Selective
+COX-2
+inhibitors
+Celecoxib
+200 mg daily
+Max: 200 mg/day
+(Recommended daily
+maximum dose is 200 mg
+for OA and 400 mg for
+inflammatory arthritis)
+Renal impairment
+Allergic reaction in
+susceptible individuals
+Increase in CVS events
+Ischaemic heart disease
+Cerebrovascular disease
+Contraindicated in
+hypersensitivity to
+sulfonamides
+Associated with a lower risk
+of serious upper GI side effects
+Current data suggest that
+increased CV risk may be an
+effect of the NSAIDs/coxib class
+Physicians and patients should
+weigh the benefits and risks
+of coxib therapy
+Etoricoxib
+60 mg daily
+Max: 90 mg/day
+Hypertension
+Renal impairment
+Increase in CVS events
+Uncontrolled hypertension
+Ischaemic heart
+Cerebrovascular disease
+disease
+Meloxicam is a selective
+COX-2 inhibitor at 7.5 mg
+daily but not 15 mg daily
+Management of Osteoarthritis ( Second Edition)
+49
+Drug Class
+Drug
+Recommended Dosages
+Side Effects
+Caution and
+Contraindications
+Comments
+Weak opioid Tramadol
+50 – 100 mg, 6 – 8-hourly
+Max: 400 mg/day
+Dizziness
+Nausea
+Vomiting
+Constipation
+Drowsiness
+Risk of seizures in patients
+with history of seizures and
+with high doses
+In elderly, start at lowest dose
+(50 mg) and maximum of 300
+lowest dose (50 mg) and
+maximum of 300 mg daily
+Interaction with Tricyclic
+Antidepressant,
+Selective Serotonin Reuptake
+Inhibitor and Serotonin
+Norepinephrine Receptor
+Inhibitor
+Combination
+of opioid and
+paracetamol
+Paracetamol 325
+mg + tramadol
+37.5 mg
+(Ultracet®)
+1 – 2 tablets, 6 – 8-hourly
+Max: 8 tablets/day
+Nausea
+Vomiting
+Drowsiness
+Hepatic impairment
+Renal impairment
+Alcohol dependence
+Epilepsy
+Nutraceuticals
+Drug
+Recommended
+Dosages
+Side Effects
+Caution and Contraindications
+Comments
+Glucosamine
+sulfate
+1500 mg in single or
+divided doses
+Max: 1500 mg/day
+Nausea
+Dyspepsia
+Heartburn
+Vomiting
+Constipation
+Diarrhoea
+Headache
+Skin erythema
+Pruritus
+Contraindicated in patients with
+• allergy and hypersensitivity to
+shellfish or its products
+• phenylketonuria
+Asthmatic patients may be at risk for
+an asthma exacerbation when taking
+the combination of glucosamine and
+chondroitin
+Special precaution in diabetes
+Chondroitin
+sulfate
+800 – 1200 mg daily
+or divided doses
+Max: 1200 mg
+Dyspepsia
+Nausea
+Vomiting
+Asthmatic patients may be at risk for
+an asthma exacerbation when taking
+chondroitin
+Avoid in patients with prostate cancer
+-
+-
+Management of Osteoarthritis ( Second Edition)
+50
+Sources:
+i.
+Sunthornsaj N, Fun LW, Evangelista LF et al. (Ed). MIMS.com. 117th Edition 2009. Hong Kong: CMPMedica; 2009
+ii.
+Thomson Reuters. Micromedex® 1.0 (Healthcare Series). Greenwood Village Thomson Reuters; 2009
+iii. Pharmaceutical Services Division, Ministry of Health Malaysia. Drug Formulary No. 2/2013. (available at http://www.pharmacy.gov.my)
+iv. Summary of Product Characteristics, PIASCLEDINE®300. ExpanscienceTMLaboratoires.
+v.
+Ping NH, Lim C, Francisco JC et al. (Ed). MIMS Malaysia, 133rd Edition 2013. Hong Kong: MIMS (Hong Kong); 2013
+Drug
+Recommended
+Dosages
+Side Effects
+Caution and Contraindications
+Comments
+or are at high risk for developing
+prostate cancer
+Special precaution in diabetes when
+used in combination with glucosamine
+sulfate
+Diacerein
+50 mg 12-hourly
+Diarrhoea
+Epigastric pain
+Nausea
+Vomiting
+Intense yellow colouring of urine
+Skin reactions
+Hypersensitivity to anthraquinone
+derivatives
+Inflammatory bowel disease
+(ulcerative colitis, Crohn’s disease),
+intestinal obstruction or partial
+obstruction, severe liver failure
+Creatinine clearance <30 ml/min,
+dosage recommendation is 25 mg
+daily
+Antacid use may decrease diacerein
+absorption, so it is advised to take
+antacids after an interval of two
+hours
+Avocado
+soybean
+unsaponifiables
+300 mg daily
+Diarrhoea
+Epigastric pain
+Extremely rare cases of liver
+disorders including increased
+transaminases, alkaline
+phosphatases, bilirubin and gammaglutamyl transpeptidase
+Previous history of allergic reaction to
+any of the ingredients
+Infrequent lipid-scented regurgitation
+which may be avoided by taking the
+capsule during a meal
+Management of Osteoarthritis ( Second Edition)
+51
+Appendix 9
+CHECKLIST OF OA MANAGEMENT
+1. Education
+• Nature of OA
+Yes No
+• Prognosis
+Yes No
+• Treatment option - medication & side effects
+Yes No
+• Self-management
+Yes No
+2. Lifestyle modification
+• Weight loss
+Yes No
+• Dietary advice
+Yes No
+• Exercise
+Yes No
+• Footwear
+Yes No
+• Pacing activity
+Yes No
+3. Referral where applicable
+Yes No
+Management of Osteoarthritis ( Second Edition)
+52
+LIST OF ABBREVIATIONS
+ACI
+autologous chondrocyte implantation
+ACR
+American College of Rheumatology
+ADL
+activities of daily living
+AP
+anteroposterior
+ASU
+avocado soybean unsaponifiable
+BMI
+body mass index
+CI
+confidence interval
+CKD
+choronic kidney disease
+CMC
+carpometacarpal
+COPCORD Community Oriented Program for the Control of Rheumatic Disease
+COX-2
+cyclo-oxygenase-2
+CPG(s)
+clinical practice guidelines
+CRP
+C-reactive protein
+CV
+cardiovascular
+DG
+Development Group
+DIP
+distal interphalangeal
+ESR
+erythrocyte sedimentation rate
+EULAR
+The European League Against Rheumatism
+g
+gram
+GAG
+glycosaminoglycans
+GI
+gastrointestinal
+HA
+hyaluronic acid
+HR
+hazard ratio
+HTO
+high tibial osteotomy
+IA
+intra-articular
+JPE
+Joint Protection Exercise
+LDH
+lactate dehydrogenase
+MCP
+metacarpophalangeal
+max
+maximum
+MD
+mean difference
+mg
+miligram
+mL
+mililiter
+mm
+milimeter
+MoH
+Ministry of Health
+NICE
+National Institute for Health and Clinical Excellence
+NNT
+number needed to treat
+NSAIDs
+non-steroidal anti-inflammatory drugs
+n-wtd
+non-weighted
+OA
+osteoarthritis
+OD
+once daily
+OR
+odds ratio
+PIP
+proximal interphalangeal
+PMN
+polymorphonucleocytes
+PPI
+proton pump inhibitor
+PRP
+platelet-rich plasma
+RC
+Review Committee
+Management of Osteoarthritis ( Second Edition)
+53
+RCT(s)
+randomised controlled trial(s)
+RF
+rheumatoid factor
+ROM
+range of movement
+RR
+relative risk
+SF
+synovial fluid
+SMD
+standardised mean difference
+SR
+systematic review
+TENS
+transcutaneous electrostimulation
+THR
+total hip replacement
+TKR
+total knee replacement
+UKR
+unicondylar knee replacement
+VAS
+Visual Analogue Scale
+WBC
+white blood cells
+WHO
+World Health Organization
+WMD
+weighted mean difference
+WOMAC
+The Western Ontario and McMaster Universities Arthritis Index
+ACKNOWLEDGEMENT
+The members of development group of these guidelines would like
+to express their gratitude and appreciation to the following for their
+contributions:-
+• Panel of external reviewers who reviewed the draft
+• Ms. Zalina Ahmad and Ms. Loong Ah Moi (Nursing Sisters)
+• Technical Advisory Committee for CPG for their valuable input and
+feedback
+• All those who have contributed directly or indirectly to the development
+of the CPG
+DISCLOSURE STATEMENT
+The panel members of both Development Group and Review Committee
+had completed disclosure forms. None held shares in pharmaceutical
+firms or acts as consultants to such firms. (Details are available upon
+request from the CPG Secretariat)
+SOURCE OF FUNDING
+The development of the CPG on Management of Osteoarthritis (Second
+Edition) was supported financially in its entirety by the Ministry of Health
+Malaysia and Malaysian Society of Rheumatology.
+Management of Osteoarthritis ( Second Edition)

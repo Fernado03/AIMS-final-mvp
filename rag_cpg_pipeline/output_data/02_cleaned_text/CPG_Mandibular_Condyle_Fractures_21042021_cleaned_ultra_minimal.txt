@@ -1,0 +1,1484 @@
+Management of Mandibular Condyle Fractures
+Management of Mandibular Condyle Fractures
+2019
+Published by:
+Oral Health Technology Section
+Oral Health Programme
+Ministry of Health Malaysia
+Level 5, Block E10, Precinct 1
+Federal Government Administrative Centre
+62590 Putrajaya, Malaysia
+Copyright
+The copyright owner of this publication is Oral Health Programme (OHP), Ministry of
+Health Malaysia. Content may be reproduced in any number of copies and in any format
+or medium provided that a copyright acknowledgement to OHP is included and the
+content is not changed, not sold, nor used to promote or endorse any product or service
+and not used inappropriately or misleading context.
+ISBN: 978-967-2173-80-9
+Available on the following websites:
+http://www.moh.gov.my
+http://www.ohd.gov.my
+http://www.acadmed.org.my
+Also available as an app for Android and iOS platform: MyMaHTAS
+STATEMENT OF INTENT
+These guidelines update and supplant the original guidelines developed in 2005 and are
+based on the best available contemporary evidence. They are intended as a guide for
+the best clinical practices in the management of mandibular condyle fractures presently.
+However, it must be noted that adherence to these guidelines do not necessarily lead to
+the best clinical outcomes in individual patient care, as every health care provider is
+responsible for the management of his/her unique patient based on the clinical
+presentations and management options available locally.
+REVIEW OF THE GUIDELINES
+These guidelines were issued in June 2019 and will be reviewed in 2024 or earlier if
+important new evidence becomes available. When it is due for updating, the head of the
+related specialty will be informed and a multidisciplinary team will be formed
+subsequently. A discussion will be made on the need for a revision including the scope
+of the revised CPG. The systematic review methodology used by the Malaysia Health
+Technology Assessment Section (MaHTAS) will be employed in reviewing the
+guidelines.
+Every care is taken to ensure that this publication is correct in every detail at the time of
+publication. However, in the event of errors or omissions, corrections will be published in
+the web version of this document, which is the definitive version at all times. This version
+can be found on the websites mentioned above.
+Management of Mandibular Condyle Fractures
+2019
+TABLES OF CONTENTS
+Page
+LEVELS OF EVIDENCE AND GRADES OF RECOMMENDATION
+i
+GUIDELINE DEVELOPMENT AND OBJECTIVES
+ii
+CLINICAL QUESTIONS, TARGET POPULATION, TARGET
+GROUP/USER AND HEALTHCARE SETTINGS
+iv
+GUIDELINES DEVELOPMENT GROUP
+v
+REVIEW PANEL
+vi
+ALGORITHM FOR MANAGEMENT OF MANDIBULAR CONDYLE
+FRACTURES
+vii
+LIST OF KEY MESSAGES
+viii
+LIST OF RECOMMENDATIONS
+ix
+1.
+INTRODUCTION
+1
+2.
+DIAGNOSIS
+2
+2.1 Clinical Presentation
+2
+2.2 Investigations
+4
+2.3 Classification
+10
+3.
+MANAGEMENT
+11
+3.1 Conservative
+11
+3.2 Closed Reduction
+11
+3.3 Open Reduction and Internal Fixation (ORIF)
+12
+3.4 ORIF vs Closed Reduction
+13
+3.5 Mandibular Condyle Fractures in Children
+15
+3.6 Post Treatment Complications
+16
+4.
+REHABILITATION
+17
+5.
+FOLLOW-UP
+17
+6.
+IMPLEMENTING THE GUIDELINES
+18
+6.1 Facilitating and Limiting Factors
+18
+6.2 Potential Resource Implications
+19
+6.3 Proposed Clinical Audit Indicators
+19
+REFERENCES
+20
+Appendix 1: Example of Search Strategy
+24
+Appendix 2: Clinical Questions: Management of Mandibular Condyle
+Fractures
+25
+Appendix 3: Lindahl Classification (1977)
+26
+Appendix 4: Spiessl and Schroll Classification (1972)
+27
+Appendix 5: Complications of Undiagnosed and Untreated MCF
+28
+Appendix 6: Types of Closed Reduction
+30
+Appendix 7: Surgical approaches
+31
+Appendix 8: Rehabilitation protocol
+33
+Appendix 9: Glossary
+34
+ACKNOWLEDGEMENTS
+35
+DISCLOSURE STATEMENT
+35
+SOURCE OF FUNDING
+Management of Mandibular Condyle Fractures
+i
+2019
+LEVELS OF EVIDENCE
+LEVEL
+STUDY DESIGN
+l
+Evidence obtained from at least one properly designed randomised
+controlled trial.
+ll-1
+Evidence
+obtained
+from
+well-designed
+controlled
+trials
+without
+randomisation.
+ll-2
+Evidence obtained from well-designed cohort or case-control analytic
+studies, preferably from more than one centre or research group.
+ll-3
+Evidence obtained from multiple time series studies, with or without
+intervention. Dramatic results in uncontrolled experiments (such as the
+results of the introduction of penicillin treatment in the 1940s) could also
+be regarded as this type of evidence.
+lll
+Opinions of respected authorities, based on clinical experience;
+descriptive studies and case reports; or reports of expert committees.
+Source: Adapted from Harris RP, Helfand M, Woolf SH, Lohr KN, Mulrow CD, Teutsch SM, Atkins D. Current
+Methods of the U.S. Preventive Services Task Force: A Review of the Process. Am J Prev Med. 2001;20
+(suppl 3):21-35.
+In line with the current development in CPG methodology, the CPG Unit of MaHTAS
+is in the process of adapting Grading Recommendations, Assessment,
+Development and Evaluation (GRADE) in its work process. The quality of each
+retrieved evidence and its effect size will be carefully assessed/reviewed by the CPG
+Development Group. In formulating the recommendations, overall balances of the
+following aspects will be considered in determining the strength of the
+recommendations:
+ overall quality of evidence
+ balance of benefits versus harms
+ values and preferences
+ resource implications
+ equity, feasibility and acceptability
+Management of Mandibular Condyle Fractures
+ii
+2019
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+GUIDELINES DEVELOPMENT
+These clinical practice guidelines (CPG) were developed by an expert committee
+consisting of Oral and Maxillofacial Surgeons, a Paediatric Dental Specialist, a
+Public Health Specialist and a general dentist from the Ministry of Health, the
+Ministry of Education and private sector.
+The previous edition of the CPG on Management of Unilateral Condylar Fracture of
+the Mandible (December 2005) was used as the basis for the development of these
+guidelines. The recommendations were formulated taking into consideration the best
+available evidence and local practices. Several improvements have been introduced
+in this edition. The scope has been expanded to include management of all
+mandibular condyle fractures. In addition, new and updated information have been
+included in these guidelines. Besides this, clinical audit indicators have also been
+identified for the purpose of monitoring and evaluating outcomes.
+Literature search was carried out using the following electronic databases: Medline,
+Pubmed, Cochrane Database of Systemic Reviews (CDSR) and Embase while full
+text journal articles were retrieved from these databases. The search was limited to
+literature published from 2006 to 2017, humans and in English. The reference lists of
+all relevant articles retrieved were also searched to identify further studies. Future
+CPG updates will consider evidence published after this cut-off period. The search
+strategy can be found in Appendix 1. The details of the search strategy can be
+obtained upon request from the Oral Health Technology Section, Oral Health
+Programme, Ministry of Health Malaysia.
+There were eight (8) clinical questions which were assigned to members of the
+development group. The group members met a total of 16 times throughout the
+development of these guidelines. All retrieved literature were appraised by at least
+two members, presented in the form of evidence tables and discussed during group
+meetings. All statements and recommendations formulated were agreed upon by
+both the development group and reviewers. This CPG is based on reference to the
+findings of systematic review, randomized controlled trials, observational studies and
+case reports, with local practices taken into consideration. However, when there
+was a lack of evidence, recommendations were based on consensus of group
+members. Although ideally patients’ views and preferences need to be considered in
+the development of CPGs, in this instance, it was not feasible.
+Management of Mandibular Condyle Fractures
+iii
+2019
+The literature used in these guidelines were graded using the US/Canadian
+Preventive Services Task Force Level of Evidence (2001), while the formulation of
+recommendation was done using the principles of GRADE. The writing of the CPG
+strictly follows the requirement of Appraisal of Guidelines Research and Evaluation
+(AGREE II).
+The draft was reviewed by a panel of internal and external reviewers.
+Recommendations were presented to the Technical Advisory Committee for CPGs,
+and finally to the HTA and CPG Council, Ministry of Health, Malaysia for approval.
+OBJECTIVE
+To review and expand the scope of the existing guidelines on the management of
+unilateral condylar fractures developed in 2005, and develop a revised set of
+evidence based, best practice recommendations for the management of all
+mandibular condyle fractures i.e. both unilateral and bilateral.
+SPECIFIC OBJECTIVES
+i. To reinforce knowledge on detection of mandibular condyle fractures
+ii. To recommend appropriate diagnostic tools for confirmation of mandibular
+condyle fractures
+iii. To recommend best treatment modalities for mandibular condyle fractures
+iv. To recommend on rehabilitation of treated patients with mandibular condyle
+fractures to normal function
+v. To identify possible complications following treatment of mandibular condyle
+fractures
+Management of Mandibular Condyle Fractures
+iv
+2019
+CLINICAL QUESTIONS
+The clinical questions addressed by these guidelines can be found in Appendix 2.
+TARGET POPULATION
+These guidelines are applicable to all patients with mandibular condyle fractures.
+Inclusion criteria
+Newly diagnosed mandibular condyle fractures secondary to trauma only.
+Exclusion criteria
+Old or untreated mandibular condyle fractures.
+TARGET GROUP / USER
+This CPG is meant for all health care providers involved in the diagnosis and
+management of mandibular condyle fractures namely: specialists of related
+disciplines, dental officers, medical officers and allied health professionals
+HEALTHCARE SETTINGS
+Outpatient and inpatient settings inclusive of all healthcare facilities
+Management of Mandibular Condyle Fractures
+v
+2019
+DEVELOPMENT GROUP
+Chairperson
+Secretary
+Dr Yuen Kar Mun
+Consultant Oral and Maxillofacial Surgeon
+Jabatan Bedah Mulut dan Maksilofasial
+Hospital Raja Permaisuri Bainun
+Jalan Ashman Shah
+30450 Ipoh
+Perak
+Dr Aezy Noorazah Omar
+Oral and Maxillofacial Surgeon
+Jabatan Bedah Mulut dan Maksilofasial
+Hospital Kajang
+Jalan Semenyih
+43000 Kajang
+Selangor
+Members
+Dr Sivakama Sunthari Kanagaratnam
+Consultant Oral and Maxillofacial Surgeon
+Jabatan Bedah Mulut dan Maksilofasial
+Hospital Tuanku Jaafar
+70300 Seremban
+Negeri Sembilan
+Assoc. Prof. Dr Roszalina Ramli
+Lecturer & Senior Consultant Oral and
+Maxillofacial Surgeon
+Pusat Bedah Mulut dan Maksilofasial
+Fakulti Pergigian Universiti Kebangsaan Malaysia
+Jalan Raja Muda Abdul Aziz
+50300 Kuala Lumpur
+Dr Rosliza Parumo
+Oral and Maxillofacial Surgeon
+Jabatan Bedah Mulut dan Maksilofasial
+Hospital Sultanah Aminah
+80100 Johor Baharu
+Johor
+Dr Rama Krsna Rajandram
+Lecturer & Oral and Maxillofacial Surgeon
+Pusat Bedah Mulut dan Maksilofasial
+Fakulti Pergigian
+Universiti Kebangsaan Malaysia
+Jalan Raja Muda Abdul Aziz
+50300 Kuala Lumpur
+Dr Yogeswari Sivapragasam
+Paediatric Dental Specialist
+Pristine Dental Centre
+Lot F-38, First Floor
+Empire Shopping Gallery
+Jalan SS 16/1
+47500 Subang Jaya
+Selangor
+Dr Mohammad Adzwin Yahiya
+Oral and Maxillofacial Surgeon
+Jabatan Bedah Mulut dan Maksilofasial
+Hospital Kuala Lumpur
+Jalan Pahang
+50586 Kuala Lumpur
+Dr Salleh Zakaria
+Dental Public Health Specialist
+Program Kesihatan Pergigian KKM
+Aras 5 Blok E10 Kompleks E
+Presint 1 Pusat Pentadbiran Kerajaan
+Persekutuan
+62590 WP Putrajaya
+Dr Logesvari Thangavalu
+Oral and Maxillofacial Surgeon
+Unit Bedah Mulut dan Maksilofasial
+Jabatan Pembedahan Onkologi
+Institut Kanser Negara
+Kementerian Kesihatan Malaysia
+No. 4, Jalan P7, Presint 7
+62250 Putrajaya
+Dr Noor Hasmin Mokthar
+Dental Officer
+Program Kesihatan Pergigian KKM
+Aras 5 Blok E10 Kompleks E
+Presint 1 Pusat Pentadbiran Kerajaan
+Persekutuan
+62590 WP Putrajaya
+REVIEW PANEL
+These guidelines were reviewed by a panel of independent reviewers from both
+public and private sectors who were requested to comment primarily on the
+comprehensiveness and accuracy of interpretation of the evidence supporting the
+recommendations in this CPG. The following internal and external reviewers
+provided comments and feedback on the proposed draft:
+INTERNAL REVIEWERS
+Brig Gen ( Dr) Sharifah Azlin Juliana Syed Zainal
+Consultant Oral & Maxillofacial Surgeon
+Hospital Angkatan Tentera Tuanku Mizan
+3, Jalan 4/27a, Seksyen 2 Wangsa Maju,
+53300 Kuala Lumpur
+Dr Ganasalingam Sockalingam
+Consultant Paediatric Dental Surgeon
+Kuala Lumpur Women and Children Hospital
+50586 Kuala Lumpur
+Dr Siti Mazlipah Ismail
+Consultant Oral & Maxillofacial Surgeon
+Dept. of Oral & Maxillofacial Clinical Sciences
+Faculty of Dentistry, University of Malaya
+50603 Kuala Lumpur
+Dr Sharifah Tahirah Syed Alwi Aljunid
+Oral & Maxillofacial Surgeon
+Hospital Shah Alam
+Persiaran Kayangan, Seksyen 7
+40000 Shah Alam,
+Selangor
+EXTERNAL REVIEWERS
+Professor Datuk Dr AB Rani Samsudin
+Consultant Oral & Maxillofacial Surgeon
+University Dental Hospital Sharjah
+University City Road
+Sharjah, United Arab Emirates
+Professor Dr Ong Siew Tin
+Oral & Maxillofacial Surgeon
+Ong Oral Surgery & Dental Specialists
+43 BC Jalan SS21/37
+Damansara Utama (Uptown)
+47400 Petaling Jaya,
+Selangor
+Professor Nabil Samman
+Oral & Maxillofacial Surgeon
+Hong Kong Sanatorium & Hospital
+2, Village Road, Happy Valley
+Hong Kong
+vi
+2019
+Management of Mandibular Condyle Fractures
+Management of Mandibular Condyle Fractures
+vii
+2019
+ALGORITHM FOR MANAGEMENT OF MANDIBULAR CONDYLE FRACTURES
+Management of Mandibular Condyle Fractures
+viii
+2019
+LIST OF KEY MESSAGES
+Diagnosis
+ A reverse Towne’s view or a posterior-anterior skull view allows
+for the evaluation of the possibility of a medial / lateral
+displacement in mandibular condyle fractures. It acts as an
+adjunct to an OPG in these fractures.
+ 3-dimension Computed Tomography (3D-CTs) show better
+visualisation of the position and displacement of bone fragments,
+and comminution of fractures which is useful for surgical
+planning in mandibular condyle fractures.
+Treatment
+The standard outcomes to determine successful treatment of
+mandibular condyle fractures are:
+ Mouth opening >40mm (adult) and >35mm (children)
+ No pain at the affected site
+ Mandible has good movements in all directions
+ Recovery of pre-injury occlusal relationship (satisfactory to
+clinicians and patients)
+ Temporomandibular joint stability
+ Minimal chin deviation on mouth opening
+ No obvious facial asymmetry
+ Open reduction internal fixation (ORIF) of mandibular condyle
+fractures shows better outcomes in restoring ramus height and
+occlusal status, protrusive and laterotrusive movements, and
+preventing chin deviation on opening.
+ No one method of Intermaxillary Fixation (IMF) has been shown
+to be superior in the management of mandibular condyle
+fractures.
+ Closed treatment of mandibular condyle fractures shows good
+clinical outcomes for paediatric patients.
+Management of Mandibular Condyle Fractures
+ix
+2019
+LIST OF KEY RECOMMENDATIONS
+Diagnosis
+ An underlying mandibular condyle fracture should be suspected
+and investigated in patients presenting with soft tissue injuries
+on the chin and any type of open bite.
+ Computed Tomography (CT) or Cone-beam CT scans should be
+used in the diagnosis of mandibular condyle fractures when
+feasible.
+o Plain radiographs may be used as an option.
+Treatment
+ For closed reduction of mandibular condyle fractures, rigid
+intermaxillary fixation (IMF) may be carried out for:
+o two weeks followed by 1-2 weeks of elastic IMF or
+o three weeks followed by functional treatment
+ Open reduction internal fixation of mandibular condyle fracture
+should be considered based on the following:
+o patient’s factors
+o availability of accurate diagnostic facilities
+o types of fracture
+o surgeon’s experience
+ Rehabilitation and regular follow-up should be carried out posttreatment of mandibular condyle fractures to ensure optimum
+outcomes.
+Management of Mandibular Condyle Fractures
+1
+2019
+1. INTRODUCTION
+The Mandibular Condyle is the supero-posterior process on the ramus of the
+mandible and composed of two parts: a superior part, the articular portion / condylar
+head, and an inferior part, the condylar neck (Figure 1).
+Figure 1: Anatomy of Mandibular Condyle
+The main aetiology for condylar fractures varies according to geographical, socioeconomic and demographic (age and sex) status of the population. Motor vehicle
+accidents (MVA), interpersonal violence, falls and sports injuries were the most
+common causes seen in developed and developing countries. The mechanism of
+injury involved in mandibular condyle fractures were:
+ Indirect trauma, in which forces were transferred from the more resistant skeleton
+(e.g. chin region anteriorly and body of mandible region laterally) to the
+mandibular condyle. 1, level III
+ The position of the jaw (open or closed) in relation to the direction and magnitude
+of the force also played a part in the type of fractures sustained.
+The mandible and zygoma by nature of their location and anatomy, are the two most
+commonly fractured facial bones. In Malaysia, studies have shown that fractures of
+the mandible range from 42.7% - 83.1% of all facial bone fractures. Inherently weak
+areas of the mandible which commonly fracture are the condyle, the angle and the
+parasymphysis. Condylar fractures have been reported to account for 19.3% - 33.2%
+of mandibular fractures. 2-4, level III
+Management of Mandibular Condyle Fractures
+2
+2019
+In Malaysia, in children under the age of 15 years, mandibular fractures accounted
+for 58.3% - 65% of all facial bone fractures, of which 27% were condylar fractures. 45, level III This is consistent with findings from other centres and is considered as a
+characteristic feature of paediatric mandibular fractures.6-7, level III
+Due to the high prevalence and incidence of condylar fractures, we should not miss
+this diagnosis as it could lead to serious complications such as ankyloses. 8, level
+III Refer to Appendix 5.
+Management of mandibular condyle fractures consists of surgical and non-surgical
+interventions. Irrespective of the treatment methods, several complications such as
+pain, restricted mandibular movement, muscle spasm, deviation of the mandible,
+malocclusion, pathological changes in the temporomandibular joint (TMJ), malunion,
+facial asymmetry, and ankylosis have been reported. 8-10, level III Additionally, in
+children, fractures of the condylar process may damage the growth centres leading
+to altered growth and deformity of the facial skeleton.11, level III
+In view of the high prevalence and potential complications of mandibular condyle
+fractures, this CPG aims to provide evidence-based guidance on the management of
+these fractures.
+2. DIAGNOSIS
+2.1 Clinical Presentation 12-13, level III
+a. General complaints:
+ Pain on opening and closing the mouth
+ Swelling in front of the ear
+ Difficulty in chewing
+ Bleeding from the ear
+ Difficulty in breathing
+b. Examination
+i) Extra-oral:
+
+Pre-auricular swelling with ecchymosis and oedema
+
+Facial asymmetry
+
+Soft tissue injuries (abrasions, lacerations) on the chin or pre-auricular
+area (Figure 2)
+
+Limitation of mouth opening
+
+Tenderness to palpation over TMJ area and / or condyle is not palpable
+on mouth opening and closing
+Management of Mandibular Condyle Fractures
+3
+2019
+
+Chin deviation to the affected side on mouth opening and closing (in
+cases of unilateral condylar fractures)
+
+Facial weakness (in cases of facial nerve injury)
+
+Sensory disturbances to the lip and chin region (inferior alveolar nerve
+courses through the mandibular body and angle. Fractures of the
+subcondylar area extending to the bony canal can cause temporary or
+permanent anaesthesia of the lip, teeth, and gingiva)
+
+Pre-auricular hollowing (in cases of medial displacement of the condylar
+head)
+ii) Intra-oral
+
+Malocclusion:
+- Anterior open bite (in cases of bilateral condyle fractures) (Figure 2)
+- Premature posterior contact on the affected side and open bite on
+unaffected side (in cases of unilateral condyle fracture)
+- Posterior open bite on the affected side (due to haemarthrosis)
+Management of Mandibular Condyle Fractures
+4
+2019
+2a: Chin laceration
+2b: Anterior open bite
+2c: Chin haematoma
+Figure 2: Clinical features of mandibular condyle fractures
+Recommendation 1
+
+An underlying mandibular condyle fracture should be suspected and
+investigated in patients presenting with soft tissue injuries on the chin and any
+type of open bite.
+2.2 Investigations - Imaging
+Imaging modalities such as plain radiographs, computed tomography (CT) scans,
+and cone-beam CT (CBCT) scans, are the main investigations in the diagnosis of
+mandibular condyle fracture.
+Management of Mandibular Condyle Fractures
+5
+2019
+2.2.1 Plain Radiographs
+ Orthopantomogram (OPG)
+OPG is commonly used in the diagnosis of a variety of dental and maxillofacial
+conditions (Figure 3). Image quality using digital OPG with post-processing
+(manipulation of contrast and image density) was better than without post-processing
+and film-based OPG (p<0.05).14,level III However, OPG was less accurate in
+determining condylar fractures compared with CT scans. 15-16, level III
+3a: Bilateral condyle fractures (red circles) and right parasymphisis fracture
+3b: Bilateral condyle fractures (red circles) and symphysis fracture
+Figure 3: OPG radiographs showing bilateral condyle fractures
+Management of Mandibular Condyle Fractures
+6
+2019
+
+Other Plain Radiographs
+Other plain radiographs used in the diagnosis of mandibular condyle fractures are
+lateral oblique, transcranial, reverse Towne’s, and posterior-anterior (PA) views.17-18,
+level III Reverse Towne’s or PA views are frontal projection radiographs. They allow for
+the evaluation of a medial / lateral displacement in mandibular condyle fractures. 18,
+level III
+There is no retrievable evidence on the effectiveness and safety of plain
+radiographs. However, it is known that most of these imaging techniques are less
+helpful due to the superimposition of the facial bone complex.17,19, level III (Figure 4
+to 6)
+Figure 4: Posterior-anterior skull
+Figure 5: Reverse Towne’s view (pre and post ORIF)
+Pre-ORIF
+Post-ORIF
+Management of Mandibular Condyle Fractures
+7
+2019
+Figure 6: Posterior-anterior mandible (pre and post ORIF)
+Key Message 1
+ A reverse Towne’s view or a posterior-anterior skull view allows for the
+evaluation of the possibility of a medial / lateral displacement in mandibular
+condyle fractures. It acts as an adjunct to an OPG in these fractures.
+2.2.2 Computed Tomography (CT)
+CT scans are useful in the diagnosis of mandibular condyle fractures. It allows a 3dimensional (3D) assessment of the condyle in relation to the mandibular fossa
+without superimposition of interfering structures.19, level III It is used to classify types of
+condylar trauma and also needed to determine condyle displacement into middle
+cranial fossa or external auditory canal.20, level III Immediate total body CT scans are
+usually performed in patients with polytrauma. Therefore, it can be obtained earlier
+than OPG.17, level III
+CT scans are more sensitive in the diagnosis of mandibular condyle fractures
+compared to OPGs (100% vs 87.5%).15, level III In terms of assessment of suspected
+condylar fractures in children, CT scans have better accuracy than OPG with
+sensitivity of 92% and 70%, and specificity of 87% and 77% respectively. 21, level III
+Coronal CTs were more accurate in determining type of mandibular condyle
+fractures compared with conventional radiographs (OPG and posteroanterior
+mandibular radiographs) in high neck condylar fractures of the mandible (Spiessl III
+and V).16, level III
+2-dimensional (2D) (Figure 7) and 3-dimensional (3D) CT (Figure 8) images have
+equal accuracy in the diagnosis of mandibular condyle fractures. However, when
+compared with observation during surgery, 3D-CT showed better visualisation of the
+position and displacement of bone fragments, and comminution of mandibular
+condyle fractures than 2D-CT. Thus, it is useful for surgical planning.22, level III
+Pre-ORIF
+Post-ORIF
+Management of Mandibular Condyle Fractures
+8
+2019
+Figure 7: 2-D CT showing bilateral mandibular condyle fractures in different views
+Management of Mandibular Condyle Fractures
+9
+2019
+Figure 8: 3-D CTs showing mandibular condyle fractures
+Key Message 2
+ 3D-CTs show better visualisation of the position and displacement of bone
+fragments, and comminution of fractures which is useful for surgical planning
+in mandibular condyle fractures.
+2.2.3 Cone-beam Computed Tomograph (CBCT)
+CBCT scans are very suitable for maxillofacial imaging. The images produced are
+2D and 3D, similar to CT scans (Figure 9). In addition, CBCT scans produce less
+metal artifacts but is not reliable in viewing soft tissue.23-24, level III
+Management of Mandibular Condyle Fractures
+10
+2019
+CBCT scans were able to confirm suspected mandibular fractures (based on clinical,
+OPG and / or PA skull) in 63.2% of sites (p<0.0001). Therefore, it is useful as an
+alternative to CT scans for ambulatory patients without history of loss of
+consciousness. 25, level III
+9a: CBCT sagittal view
+9b: CBCT axial view
+9c: CBCT coronal view
+9d: CBCT 3D
+Figure 9: CBCT of mandibular condylar fracture
+Recommendation 2
+ Computed Tomography (CT) or Cone-beam CT scans should be used in the
+diagnosis of mandibular condyle fractures when feasible.
+o Plain radiographs may be used as an option.
+2.3 Classification
+The classification of the mandibular condyle fractures takes the following into
+consideration:
+ anatomical regions
+ direction and degree of displacement
+ relationship between the condylar head and the glenoid fossa
+The two most commonly used classifications are Lindahl (refer to Appendix 3) and
+Spiessl and Schroll (refer to Appendix 4).
+Management of Mandibular Condyle Fractures
+11
+2019
+3. MANAGEMENT
+Treatment
+modalities
+for
+mandibular
+condyle
+fractures
+are
+conservative
+management, closed reduction (CR) and open reduction with internal fixation (ORIF).
+Choice of treatment modality for each patient depends on the following factors: 26-27,
+level III
+
+fracture (e.g. age, position and location of fracture, and associated injuries)
+
+patient (e.g. age, compliance, systemic medical conditions, cosmetic impact
+and patient’s preference)
+
+surgeon (e.g. experience and preference)
+Other factors that should be considered in choosing the treatment modality are cost
+and anaesthesia time.
+3.1 Conservative
+The definition of conservative management for mandibular condyle fractures varies.
+However, in this CPG it refers to management with:
+
+Soft diet
+
+Physiotherapy (e.g. mouth-opening exercise)
+
+Analgesics and anti-inflammatory medications
+This management is indicated for diacapitular or condylar head fractures in
+paediatric patients. 28, level II-2
+3.2 Closed Reduction
+Closed treatment (refer to Appendix 6) is defined as treatment that does not involve
+surgical exposure of the fracture. This usually consists of a period of intermaxillary
+fixation (IMF) using either stainless steel wires, elastics or a combination of both
+followed by physiotherapy.
+When comparing different types of IMF, Schuchardt’s device (acrylated archbar) or
+screws alone have no difference in the functional outcome, but the insertion of 4 - 6
+screws requires much less time and is less harmful to the teeth and the
+periodontium. 27, level III
+Evidence suggests rigid IMF for 2 weeks followed by 1-2 weeks of elastic IMF 29-30,
+level I or 3 weeks of rigid IMF followed by functional treatment. 27, level III For
+intra-capsular condylar fractures, 10 days of IMF followed by a functional orthodontic
+activator is suggested. 13, 27, level III
+Management of Mandibular Condyle Fractures
+12
+2019
+Recommendation 3
+ For closed reduction of mandibular condyle fractures, rigid intermaxillary
+fixation (IMF) may be carried out for:
+o two weeks followed by 1-2 weeks of elastic IMF or
+o three weeks followed by functional treatment
+3.3 Open Reduction and Internal Fixation (ORIF)
+ORIF involves surgical exposure of the fracture, anatomical reduction, followed by
+osteosynthesis. Surgical approaches for ORIF can be retromandibular / transparotid,
+pre-auricular, submandibular, endoscopic assisted intra-oral approach 27, level III or a
+combination of these approaches (refer to Appendix 7).
+The absolute indications for open reduction in children and adults are as follows:
+
+displacement into middle cranial fossa 31, level lII
+
+inability to obtain adequate occlusion 31, level lIl ; 32, level II-2
+
+lateral extra-capsular displacement of the condyle 31, level llI
+
+presence of a foreign body (e.g. gunshot wound) 31, level lII
+The relative indications (primarily in adults) are as follows:
+
+when closed reduction is not recommended for medical reasons (e.g. patients
+with seizure disorders, psychiatric problems, alcoholism, refractory behaviour,
+mental retardation or retardation secondary to neurologic injury)
+Other indications:
+
+failed conservative treatment
+
+failed closed reduction treatment
+
+medial dislocation of condyle >30°; displaced fractures with >5mm bone
+overlap; or complete loss of bone contact 33, level llI
+
+shortening of the ascending ramus of > 8mm; or when considerable
+displacement or angulation in a coronal and/or sagittal plane is present
+26, level III, 34, level II-1
+
+displacement of the condylar head from the glenoid fossa 26, level III;
+
+mechanical obstruction of jaw opening caused by a displaced condylar head
+
+bilateral mandibular condylar fractures 30, level I
+
+unilateral or bilateral mandibular condylar fractures with severely comminuted
+midfacial fractures 32, level II-2
+ORIF in intra-capsular condylar fractures is controversial because it carries a high
+risk of avascular necrosis, 30, level I; 32, level II-2 osseous and fibrosis ankyloses. 30, level I
+Management of Mandibular Condyle Fractures
+13
+2019
+3.4 ORIF versus Closed Reduction
+Closed reduction has been the preferred treatment for many years. However, longterm complications associated with it include open bite, pain, inadequate restoration
+of vertical height of the ramus, arthritis, and deviation of the mandible. 35, level I This
+has led to a trend towards open treatment which allows anatomical repositioning and
+internal fixation, hence, improving functional aftercare. 36-37, level III However ORIF is
+also associated with complications such as facial nerve injury and visible scars. 38,
+level I
+Key Message 3
+The standard outcomes to determine successful treatment of mandibular condyle
+fractures are:
+ Mouth opening >40mm (adult) and >35mm (children)
+ No pain at the affected site
+ Mandible has good movements in all directions
+ Recovery of preinjury occlusal relationship (satisfactory to clinicians and
+patients)
+ TMJ stability
+ Minimal chin deviation on mouth opening
+
+No obvious facial asymmetry
+In two meta-analysis, when compared with closed reduction in the management of
+mandibular condyle fractures, ORIF showed:
+ higher maximal mouth opening 39, level I
+ decreased occurrence of malocclusion 39-40, level I
+ reduced pain (VAS score) 40, level I
+There was no significant difference in temporomandibular joint pain, facial symmetry
+and mandibular activity between both treatment modalities.39, level I However, another
+meta-analysis and an RCT showed no significant difference in mouth opening
+between ORIF and closed reduction. 29, level I ; 32, level II-2
+ORIF was better when compared with closed reduction in terms of:
+ protrusion 32, level II-2; 40, level I
+ lateroexcursion 32, level II-2; 40, level I
+ ramus height shortening 40, level I
+Management of Mandibular Condyle Fractures
+14
+2019
+Immediate post-treatment assessment showed ORIF was better than closed
+reduction in the following outcomes:
+ medio-lateral angulation of fractured condyle 29, 41, level I
+ restoring ramus height 29, 41, level I
+ occlusal status 29, 41, level I
+However, at six months, there was no significant difference between ORIF and
+closed reduction for all outcomes except for deviation of mouth opening (0% vs
+70%). 29, 41, level I
+A meta-analysis on management of mandibular condyle fracture in adults showed
+ORIF was superior to closed reduction in the following outcomes at 6 - 36 months:
+38, level I
+ maximal inter-incisal opening (WMD=3.32 mm, 95% CI 2.42 to 4.04 mm)
+ laterotrusive movement (WMD=1.14 mm, 95% CI 0.73 to 1.55 mm)
+ protrusive movement (WM=.99 mm, 95% CI 0.70 to 1.29 mm)
+ malocclusion (OR=0.41, 95% CI 0. 26 to 0.62 mm)
+ chin deviation on mouth opening (OR=0.62, 95% CI 0.39 to 0.99 mm)
+However, there was no significant difference in pain between both groups.
+Key Message 4
+ ORIF of mandibular condyle fractures shows better outcomes in restoring ramus
+height and occlusal status, protrusive and laterotrusive movements, and
+preventing chin deviation on opening.
+Recommendation 4
+ ORIF of mandibular condyle fracture should be considered based on the
+following:
+o patient’s factors
+o availability of accurate diagnostic facilities
+o types of fracture
+o surgeon’s experience
+Management of Mandibular Condyle Fractures
+15
+2019
+3.5 Mandibular Condyle Fractures in Children
+In children below the age of 5 years, condylar fractures were seen in 76 % of
+mandibular fractures. 42, level II-3 This reduced to 50% in patients aged 13-15 years. 42,
+level II-3 Unilateral condylar fractures represented 83 % of the fractures.
+Mandibular condylar fractures in this group are unique as there is a significant
+correlation between age and site of condylar fracture. 13, 42, level II-3
+Intra-capsular fractures were more commonly seen in children aged below 12 years
+old. 42, level II-3 In children, sagittal fractures of the mandibular condyle were commonly
+seen and 4% to 26% of cases were complicated by ankyloses. 40, level I
+CT scan is the gold standard for radiographic investigations in a paediatric patient
+presenting with clinical sign and symptoms suggestive of an underlying condylar
+fractures. 13, level III
+The management of MCF in the paediatric group consists of conservative, closed
+reduction and ORIF, with closed reduction being the most common practice. 43, level III
+i) Conservative treatment in the paediatric patients especially in diacapitular and
+condylar head fractures consists of: 28, level III ; 44, level III
+ Liquid or soft diet for several weeks with close observation
+ Functional exercises and/or physiotherapy
+ii) Closed reduction consists of:
+ IMF with rigid wires and/or elastics for a period of 7-10 days. There was no
+difference in clinical outcomes between the two methods for children below 12
+years old. 13, 45, level III
+ Functional appliance therapy– design of the appliance and duration of
+application is based on individual specific treatment objectives with the overall
+aim of re-establishing the vertical dimension of the face.
+ Occlusal splints - thickness and duration of the splint is dependent on the
+dental developmental stage and classification of the fracture 13, 46, level III
+Closed treatment in paediatric condylar fracture yields generally good results and
+adequate condylar remodelling with few major complications. Favourable clinical
+outcomes were found in 74% of the patients. For subjective assessment, 83% had
+no subjective symptom and 98% describe chewing function as normal.
+Radiographically 87% remodelling was considered complete. However, it should be
+noted that radiographic and clinical outcomes are not correlated, in which
+satisfactory outcome was found even though the radiograph did not show this.
+43, level III
+Management of Mandibular Condyle Fractures
+16
+2019
+Because of the increased risk of joint dysfunction and aberration in mandibular
+growth, non-surgical management should be considered the first line treatment for
+paediatric condylar fractures. 28, level III
+iii) ORIF
+There is limited evidence on the effectiveness and safety of ORIF in paediatric
+patients. However, there are case reports describing the use of resorbable plates in
+paediatric patients.
+Key Message 5
+ No one method of IMF used in closed reduction has been shown to be superior
+in the management of mandibular condyle fractures.
+Key Message 6
+ Closed treatment of mandibular condyle fractures shows good clinical outcomes
+for paediatric patients.
+3.6 Post-treatment complications
+Complications related to surgical management of MCF are infrequent. 47, level III
+Reported complications are:
+a) facial nerve damage (8.6%, of which 8.3% was temporary and 0.3% was
+permanent)
+b) breakage or loss of repair materials (1.79%)
+c) salivary leakage (1.62%)
+d) salivary fistula (1.11%)
+e) infection (0.60%)
+f) Frey’s syndrome (0.51%)
+g) hemorrhage (0.17%)
+h) seroma (0.17%)
+i) sialocele (0.17%)
+j) acoustics effects (0.17%)
+k) condylar resorption (0.09%)
+l) incorrect repositioning (0.09%)
+m) pre-auricular hyperaesthesia (0.09%)
+Management of Mandibular Condyle Fractures
+17
+2019
+Complications related to surgical approaches are discussed in Appendix 7.
+In closed reduction, reported complications are:
+a) malocclusion (p<0.001) 47, level III
+b) inadequate remodeling (3.05% of cases ,13 out of 425 cases) 47, level III
+c) TMJ dysfunction (p=0.015) 47, level III
+In children, the added concern in treatment of mandibular condylar fractures is its
+effect on growth and development of the jaw. However there is no retrievable high
+level evidence on this.
+4. REHABILITATION
+There is no retrievable evidence on effectiveness and safety of any one method of
+rehabilitation in MCF. The development group consensus on rehabilitation for MCF
+in paediatric or adult patients consist of:
+a) Early mobilisation:
+IMF not more than 2 weeks in condylar head (intracapsular) fracture
+b) Active jaw movements:
+Intensification of jaw exercise after removal of rigid IMF, for at least 6 months
+c) Close supervision:
+Weekly visit as outpatient in the first 30 days post treatment
+d) Compliance by the patients:
+Comply to the treatment protocol (refer to Appendix 8) and follow up schedule
+5. FOLLOW-UP
+There is also no retrievable evidence on any effective protocol for follow-up in
+mandibular condyle fractures.
+Based on development group consensus, regular follow-up is required until the
+following outcome criteria are achieved:
+
+satisfactory occlusion
+
+maximal inter incisal distance is more than 35 mm for children, and 41 mm for
+adults
+
+deviation from the midline during mouth opening is less than 3 mm
+
+protrusion of 5 mm, and laterotrusion of 6 mm
+
+no sign of ankylosis
+
+no functional and growth disturbance
+Management of Mandibular Condyle Fractures
+18
+2019
+
+until permanent dentition is established in children with deciduous / mixed
+dentition
+Recommendation 5
+ Rehabilitation and regular follow-up should be carried out post-treatment of
+mandibular condyle fractures to ensure optimum outcomes.
+6. IMPLEMENTING THE GUIDELINES
+It is important to standardise the management of mandibular condyle fractures at all
+healthcare facilities in Malaysia using an evidence-based CPG in order to manage it
+appropriately. Recognition of signs and symptoms and appropriate responses from
+the health professionals are important factors in management of mandibular condyle
+fractures. Clinicians are required to keep abreast with knowledge through continuing
+professional education as well as understanding of patient expectations. Therefore, it
+is important for these guidelines to be disseminated to healthcare professionals in all
+healthcare facilities.
+Cost implications on management of mandibular condyle fractures vary depending
+on several factors such as patients’ co-morbidities and expectations and type of
+treatment advocated. Successful treatment outcomes would require proper clinical
+and radiographic assessment thus involving further cost.
+6.1
+Facilitating and Limiting Factors
+Wide spread practise of this CPG can be facilitated by:
+a) Dissemination of the CPG to healthcare professionals and teaching
+institutions via printed and electronic copies
+b) Continuing professional education on the management of mandibular
+condyle fractures for healthcare professionals
+c) Presence of adequate resources in all healthcare facilities for diagnosing
+and treating of mandibular condyle fractures
+Limiting factors for application of the recommendations of the CPG include:
+a) Lack of understanding or limited knowledge on the management of
+mandibular condyle fractures
+b) Variation in skills and treatment practices
+c) Constraints in equipment and facilities
+d) Inadequate funds
+Management of Mandibular Condyle Fractures
+19
+2019
+6.2
+Potential Resource Implications
+Potential resources implications to implement the CPG are as follows:
+a) Widespread distribution of this CPG to all healthcare facilities.
+b) Re-enforce training of healthcare professionals to ensure knowledge and
+information is up to date.
+6.3 Proposed Clinical Audit Indicators
+To assist in the implementation of the CPG, the following are proposed as clinical
+audit indicators for quality management:
+Percentage of satisfactory
+occlusion in the treated
+mandibular condyle
+fractures
+=
+Number of patients with
+satisfactory occlusion in the
+treated mandibular condyle
+fractures within a year
+X 100%
+Total number of patients with
+treated mandibular condyle
+fractures in the same period
+Standard: More than 90%
+Management of Mandibular Condyle Fractures
+20
+2019
+REFERENCES
+1.
+Musgrove BT. Dislocation of the mandibular condyle into the middle cranial fossa. Br J
+Oral Maxillofacial Surg 1986;24(1):22-27.
+2.
+Muhammad H, Khairuddin NA, Zakaria AR, Yunus NNN, Wan Mustafa WM. Facial
+fractures presenting to a tertiary referral centre in Malaysia: A 9-year study. Malays Dent
+J 2012;34(2):10-15.
+3.
+Ramli R, Rahman NA, Rahman RA, Hussaini HM, Hamid AL. A retrospective study of
+oral and maxillofacial injuries in Seremban Hospital, Malaysia. Dent Traumatol
+2011;27:122–126.
+4.
+Rahman RA, Hussaini HM, Rahman NA, Rahman SR, Nor GM, AI Idrus SM, et al.
+Facial fractures in Kajang Hospital, Malaysia: A 5-year review. Eur J Trauma Emerg
+Surg 2007;33:90–95.
+5.
+Tay KM, Mustafa WM, Sockalingam G. Paediatric facial fractures: One-year survey of
+23 government hospitals in Malaysia. Asian J Oral Maxillofac Surg 2007;19(1):30-33.
+6.
+Iida S, Matsuya T. Paediatric maxillofacial fractures: their aetiological characters and
+fracture patterns. J Craniomaxillofac Surg 2002;30:237-241.
+7.
+Thore´n HH, Iizuka T, Hallikainen D, Lindqvist C. An epidemiological study of patterns of
+condylar fractures in children. Br J Oral Maxillofac Surg 1997;35:306-311.
+8.
+Jain G, Kumar S, Rana AS, Bansal V, Sharma P, Vikram A. Temporomandibular joint
+ankylosis: a review of 44 cases. Oral Maxillofac Surg 2008; 12:61–66.
+9.
+Chrcanovic BR. Open versus closed reduction: diacapitular fractures of the mandibular
+condyle. Oral Maxillofac Surg 2012;16: 257–265.
+10. Al-Moraissi EA, El-Sharkawy TM, El-Ghareeb TI, Chrcanovic BR. Three-dimensional
+versus standard miniplate fixation in the management of mandibular angle fractures: a
+systematic review and meta-analysis. Int J Oral Maxillofac Surg 2014; 43:708–716.
+11. DeFabianis P. TMJ fractures in children: clinical management and follow-up. J Clin
+Pediatr Dent 2001;25(3):203-208.
+12. Fonseca RJ, Marciani RD, Turvey TA. Oral Maxillofacial Surgery. Third Edition, 2018,
+Elsevier.
+13. Steed MB, Schadel CM. Management of pediatric and adolescent condylar fractures.
+Atlas Oral Maxillofac Surg Clin North Am. 2017;25(1):75-83.
+14. Sabarudin A, Tiau YJ. Image quality assessment in panoramic dental radiography: a
+comparative study between conventional and digital systems. Quant Imaging Med Surg
+2013; 3(1):43-48.
+15. Wilson IF, Lokeh A, Benjamin CI, Hilger PA, Hamlar DD, Ondrey FG, et al. Prospective
+comparison of panoramic tomography and helical computed tomography in the
+diagnosis and operative management of mandibular fractures. Plast Reconstr Surg
+2001;107:1369-1375.
+Management of Mandibular Condyle Fractures
+21
+2019
+16. Schimming R, Eckelt U, Kittner T. The value of coronal computer tomograms in
+fractures of the mandibular condylar process. Oral Surg Oral Med Oral Pathol Oral
+Radiol Endod 1999;87:632-639.
+17. Schubert W. Radiographic diagnosis of mandibular fractures: mode and implications.
+Oper Tech Otolaryngol Head Neck Surg 2002;13(4):246-253.
+18. Brooks SL, Brand JW, Gibbs SJ, Hollender L, Lurie AG, Omnell KA, et al. Imaging of the
+temporomandibular joint: A position paper of the American Academy of Oral and
+Maxillofacial Radiology. Oral Surg Oral Med Oral Pathol Pral Radiol Endod 1997;
+83:609-618.
+19. Napolitano G, Sodano A, Califano L, Grassi R, Brunese L. Multidetector row computed
+tomography with multiplanar and 3D images in the evaluation of posttreatment
+mandibular fractures. Semin Ultrasound CT MR 2009;30:181-187.
+20. Romeo A, Pinto A, Cappabianca S, Scaglione M, Brunese L. Role of multidetector row
+computed tomography in the management of mandible traumatic lesions. Semin
+Ultrasound CT MR 2009;30:174-180.
+21. Chacon GE, Dawson KH, Myall RW, Beirne OR. A comparative study of 2 imaging
+techniques for the diagnosis of condylar fractures in children. J Oral Maxillofac Surg
+2003;61:668-672.
+22. Costa e Silva AP, Antunes JL, Cavalcanti MG. Interpretation of mandibular condyle
+fractures using 2D- and 3D-Computed Tomography. Braz Dent J 2003;14(3):203-208.
+23. Palomo L, Palomo JM. Cone Beam CT for diagnosis and treatment planning in trauma
+cases. Dent Clin North Am 2009;53:717–727.
+24. Scarfe WC, Farman AG, Sukovic P. Clinical applications of cone-beam computed
+tomography in dental practice. J Can Dent Assoc 2006; 72(1):75–80.
+25. Kaeppler G, Cornelius CP, Ehrenfeld M, Mast G. Diagnostic efficacy of cone-beam
+computed tomography for mandibular fractures. Oral Surg Oral Med Oral Pathol Oral
+Radiol 2013;116:98-104.
+26. Cenzi R, Burlini D, Arduin L, Zollino I, Guidi R, Carinci F. Mandibular condyle fractures:
+Evaluation of the Strasbourg Osteosynthesis Research Group Classification. J
+Craniofac Surg 2009;20:24-28.
+27. Handschel J, Rüggeberg T, Depprich R, Schwarz F, Meyer U, Kübler NR, et al.
+Comparison of various approaches for the treatment of fractures of the mandibular
+condylar process. J Craniomaxillofac Surg 2012;40:e397-e401.
+28. Ghasemzadeh A, Mundinger GS, Swanson EW, Utria AF, Dorafshar AH. Treatment of
+pediatric condylar fractures: A 20-year experience. Plast Reconstr Surg 2015;136:12791288.
+29. Shiju M, Rastogi S, Gupta P, Kukreja S, Thomas R, Bhugra AK, et al. Fractures of the
+mandibular condyle-open versus closed- a treatment dilemma. J Craniomaxillofac Surg
+2015;43(4): 448-451.
+Management of Mandibular Condyle Fractures
+22
+2019
+30. Danda AK, Muthusekhar MR, Narayanan V, Baig MF, Siddareddi A. Open versus closed
+treatment of unilateral subcondylar and condylar neck fractures: A prospective,
+randomized clinical study. J Oral Maxillofac Surg 2010;68:1238-1241.
+31. Zide MF, Kent JN. Indications for open reduction of mandibular condyle fractures. J Oral
+Maxillofac Surg 1983;41:89-93.
+32. Berner T, Essig H, Schumann P, Blumer M, Lanzer M, Rücker M, et al. Closed versus
+open treatment of mandibular condylar process fractures: a meta-analysis of
+retrospective and prospective studies. J Craniomaxillofacial Surg 2015;43:1404-1408.
+33. Eckelt U, Rasse M. Clinical, radiographic and axiographic control after traction-screw
+osteosynthesis of fractures of the mandibular condyle region. Rev Stomatol Chir
+Maxillofac 1995;96(3):158-165.
+34. Kleinheinz J, Anastassov GE, Joos U. Indications for treatment of subcondylar
+mandibular fractures. J Craniomaxillofac Trauma 1999;5(2):17-23.
+35. Singh V, Bhagol A, Goel M, Kumar I, Verma A. Outcomes of open versus closed
+treatment of mandibular subcondylar fractures: A prospective randomized study. J Oral
+Maxillofac Surg 2010;68: 1304-1309.
+36. Sawhney R, Brown R, Duck Y. Condylar fractures. Otolaryngol Clin North Am
+2013;46:779-790.
+37. Stiesch-Scholz M, Schmidt S, Eckardt, A. Condylar motion after open and closed
+treatment of mandibular condylar fractures. J Oral Maxillofac Surg 2005;63(9):13041309.
+38. Al-Moraissi EA, Ellis E 3rd. Surgical treatment of adult mandibular condylar fractures
+provides better outcomes than closed treatment: A systematic review and metaanalysis. J Oral Maxillofac Surg 2015;73:482-493.
+39. Yao S, Zhou J, Li Z. Contrast analysis of open reduction and internal fixation and non–
+surgical treatment of condylar fracture: A meta-analysis. J Craniofac Surg
+2014;25:2077–2080.
+40. Liu CK, Meng FW, Tan XY, Xu J, Liu HW, Liu SX, et al. Clinical and radiological
+outcomes after treatment of sagittal fracture of mandibular condyle (SFMC) by using
+occlusal splint in children. Br J Oral Maxillofac Surg. 2014;52(2):144-148.
+41. Rastogi S, Sharma S, Kumar S, Reddy MP. Fracture of mandibular condyle- to open or
+not to open: an attempt to settle the controversy. Oral Surg Oral Med Oral Pathol Oral
+Radiol 2015;119(6):608-613.
+42. Thoren H, Iizuka T, Hallikainen D, Lindqvist C. Different patterns of mandibular fractures
+in children. An analysis of 220 fractures in 157 patients. J Craniomaxillofac Surg
+1992;20(7):292-296.
+43. Lekven N, Neppelberg E, Tornes K. Long-term follow-up of mandibular condylar
+fractures in children. J Oral Maxillofac Surg 2011;69(11):2853-2859.
+Management of Mandibular Condyle Fractures
+23
+2019
+44. Bruckmoser E, Undt G. Management and outcome of condylar fractures in children and
+adolescents: a review of the literature. Oral Surg Oral Med Oral Pathol Oral Radiol
+2012;114(5 Suppl):S86-S106.
+45. Tabrizi R, Langner NJ, Zamiri B, Aliabadi E, Daneste H, Naghizade S. Comparison of
+nonsurgical treatment options in pediatric condylar fractures: rigid intermaxillary fixation
+versus using guiding elastic therapy. J Craniofac Surg 2013; 24(3):e203-206.
+46. Medina AC. Functional appliance treatment for bilateral condylar fracture in a pediatric
+patient. Pediatr Dent 2009;31(5):432-437.
+47. García-Guerrero I, Ramírez JM, Gómez de Diego R, Martínez-González JM, Poblador
+MS, Lancho JL. Complications in the treatment of mandibular condylar fractures:
+Surgical versus conservative treatment. Ann Anat 2018; 216:60-68.
+48. Ellis E 3rd. Complications of mandibular condyle fractures. Int J Oral Maxillofac Surg
+1998; 27: 255-257.
+49. Ellis E 3rd, Walker RV. Treatment of malocclusion and TMJ dysfunction secondary to
+condylar fractures. Craniomaxillofac Trauma Reconstr 2009; 2(1):1-18.
+50. Sawhney CP. Bony ankylosis of the temporomandibular joint: Follow-up of 70 patients
+treated with arthroplasty and acrylic spacer interposition. Plast Reconst Surg 1986; 77:
+29-40.
+51. Choi KY, Yang JD, Chung HY, Cho BC. Current concepts in the mandibular condyle
+fracture management Part I: Overview of condylar fracture. Arch Plast Surg
+2012;39:291-300.
+52. Pirttiniemi P, Peltomäki T, Müller L, Luder HU. Abnormal mandibular growth and the
+condylar cartilage. Eur J Orthod 2009;31:1–11.
+53. Mohan AP, Jeevan Kumar KA, Venkatesh V, Pavan Kumar B, Patil K. Comparison of
+preauricular approach versus retromandibular approach in management of condylar
+fractures. J Maxillofac Oral Surg 2012;11(4):435–441.
+54. Kyzas P, Saeed A, Tabbenor O. The treatment of mandibular condylar fractures: a
+meta-analysis. J Craniomaxillofac Surg 2012;40:e438-e452.
+55. Ellis E 3rd, McFadden D, Simon P, Throckmorton G. Surgical complications with open
+treatment of mandibular condylar process fractures. J Oral Maxillofac Surg
+2000;58(9):950–958.
+56. Gerbino G, Boffano P, Tosco P, Berrone S. Long-term clinical and radiological
+outcomes for the surgical treatment of mandibular condylar fractures. J Oral Maxillofac
+Surg 2009;67(5):1009-1014.
+57. Weiss JP, Sawhney R. Update on mandibular condylar fracture management. Curr Opin
+Otolaryngol Head Neck Surgery 2016;24(4):273-278.
+58. Zhao YM, Yang J, Bai RC, Ge LH, Zhang Y. A retrospective study of using removable
+occlusal splint in the treatment of condylar fracture in children. J Craniomaxillofac Surg
+2014;42(7):1072-1082.
+Management of Mandibular Condyle Fractures
+24
+2019
+Appendix 1
+Example of Search Strategy
+The following Medical Subject Heading terms or free text terms were used either
+singly or in combination. The search was limited to literature published from 2006 to
+2017, humans and in English:
+Clinical Question: What are the complications related to treatment options?
+1.
+MANDIBULAR FRACTURES/ (6427)
+2.
+mandibular fracture*.tw. (2792)
+3.
+Condylar fracture*.tw. (1202)
+4.
+TMJ fracture*.tw. (18)
+5.
+Temporomandibular joint fracture*.tw. (23)
+6.
+1 or 2 or 3 or 4 or 5 (7562)
+7.
+Complication*.tw. (828979)
+8.
+ANKYLOSIS/ (3775)
+9.
+ankylose*.tw. (748)
+10.
+TEMPOROMANDIBULAR JOINT DISORDERS/ (12238)
+11.
+((tmj or temporomandibular or temporomandibular joint) adj disorder*).tw.
+(4869)
+12.
+((tmj or temporomandibular or temporomandibular joint) adj disease).tw. (123)
+13.
+TEMPOROMANDIBULAR JOINT DYSFUNCTION SYNDROME/ (4865)
+14.
+(temporomandibular joint adj (syndrome or dysfunction)).tw. (835)
+15.
+MALOCCLUSION/ (23174)
+16.
+cross bite*.tw. (533)
+17.
+crossbite*.tw. (1560)
+18.
+malocclusion*.tw. (10564)
+19.
+Open bite.tw. (2210)
+20.
+Anterior open bite.tw. (974)
+21.
+7 or 8 or 9 or 10 or 11 or 12 or 13 or 14 or 15 or 16 or 17 or 18 or 19 or 20
+(876740)
+22.
+6 and 21 (1781)
+23.
+limit 22 to (english language and humans and yr="2005 -Current") (718)
+Management of Mandibular Condyle Fractures
+25
+2019
+Appendix 2
+Clinical Questions: Management of Mandibular Condyle Fractures
+Epidemiology and clinical diagnosis
+1. What are the clinical presentations of mandibular condyle fractures?
+2. What is the accuracy of the following imaging methods to diagnose mandibular
+condyle fractures:
+Plain radiographs, CT scans and CBCT?
+3. How are mandibular condyle fractures classified?
+4. What are the problems / complications associated with mandibular condyle
+fractures?
+General treatment and management plan
+1. What are the effective and safe treatment options for mandibular condyle
+fractures?
+ Conservative
+ Closed reduction
+ Open reduction
+2. What are the complications related to treatment options?
+3. What are the effective and safe methods of rehabilitation in mandibular condyle
+fractures?
+4. What is the effective protocol for follow-up in mandibular condyle fractures?
+Management of Mandibular Condyle Fractures
+26
+2019
+Appendix 3
+Lindahl Classification (1977)
+1. Based on anatomical location
+2. Based on degree of fracture fragment displacement
+Condylar head/
+Diacapitular
+Condylar neck
+Condylar base/
+Subcondylar
+Management of Mandibular Condyle Fractures
+27
+2019
+Appendix 4
+Spiessl and Schroll Classification (1972)
+Type I: Fracture with no
+dislocation
+Type II: Inferior condylar neck
+fracture with dislocation
+Type III: Superior condylar
+neck fracture with
+dislocation
+Type IV: Inferior condylar neck
+fracture with luxation
+Type V: Superior condylar neck
+fracture with luxation
+Type VI: Intracapsular
+fractures
+Management of Mandibular Condyle Fractures
+28
+2019
+Appendix 5
+Complications of Undiagnosed and Untreated MCF
+Untreated condylar fractures lead to complications such as malocclusion, pain,
+mandibular hypomobility, TMJ problems and ankyloses and facial deformity.
+Malocclusion
+Untreated unilateral condylar fractures may have premature contact on the affected
+posterior teeth, open bite on the contralateral posterior teeth and deviation of
+mandible to the affected side. For bilateral condylar fractures, the malocclusion
+commonly present is an anterior open bite.
+Mandibular hypomobility
+Mandibular hypomobility can be defined in general as inter-incisal opening less than
+40 mm to frank ankyloses. 48, level III The affected mandibular movement includes
+maximum inter-incisal opening (MIO), lateral excursive and protrusive jaw
+movements are frequently adversely affected by mandibular condyle trauma.
+Temporomandibular joint complications
+ Pain
+Pain is usually moderate and located in the temporomandibular joint (TMJ) area or
+muscles of mastication such as temporalis and masseter of the affected site. 49, level III
+The pain is usually present on mouth opening but occasionally may be present
+during occlusion.
+ Temporo-mandibular joint derangement
+TMJ derangement occurs when there is a change in the shape of the disc. This
+could lead to disc displacement and the major symptoms include joint sound,
+abnormal movement of the condyle head, impingement of condyle head, mandibular
+movement limitation and joint pain. For TMJ derangement, changes in disc shape
+and the functional disorders of the condyle-disc complex are minimized and
+prevented by the early reduction and rigid fixation of the displaced bone fragments
+adjacent to the joint.
+Management of Mandibular Condyle Fractures
+29
+2019
+ TMJ ankylosis
+Ankylosis is the most common cause of hypomobility. Ankylosis is divided into intracapsular ankylosis and extra-capsular ankylosis. The ankylosis that is associated
+with the untreated condylar fractures is the intra-capsular type. The subtypes of intracapsular ankylosis according to Sawhney (1986) 50, level III are:
+i) Type 1: minimal bony fusion but extensive fibrous adhesions around the joint
+ii) Type II: there is more bony fusion, especially at the outer edge of the joint surface,
+but no fusion within the more medial area of the joint
+iii) Type III: there is a bridge of bone between the mandible and the temporal bone
+iv) Type IV: the joint is replaced by a mass of bone
+ Traumatic arthritis of the TMJ
+Traumatic arthritis is an arthritis that occurs secondarily after the deformity of the
+joint. It is caused by direct injury to the articular cartilage or fracture due to trauma.
+In the intra-capsular fracture of the condyles, articular surface injury occurs during
+the trauma onset, and subsequently traumatic arthritis occurs due to chronic and
+repeated joint movement. 51, level III Clinical symptoms that may occur in an early
+phase include joint sound and pain during joint movement. As bony arthritis
+progresses, joint sound increases and as well as lock sensation, pain, and mouth
+opening limitation.
+Facial deformity
+Decreased mandibular growth occurs in 20% to 25% of patients with mandibular
+condyle fracture. 51, level III This growth abnormality has been reported to be attributed
+to direct condylar growth and severe functional disorders caused by adjacent
+muscular stiffness, injury of soft tissues, and scars. The clinical features may include
+mandibular retrognathism, anterior open bite, chin deviation and contralateral
+posterior open bite. 52, level III
+Management of Mandibular Condyle Fractures
+30
+2019
+Appendix 6
+Types of Closed Reduction
+Archbars
+incorporated
+with
+upper
+occlusal splint in paediatric case.
+Archbars with elastics
+Archbars with stainless steel wires
+Management of Mandibular Condyle Fractures
+31
+2019
+Appendix 7
+Surgical approaches
+1. Pre-auricular approach
+ Indications: condylar head and upper neck fractures
+ Mohan et al. (2012) found, when compared with the retromandibular
+approach, the pre-auricular approach had more postoperative facial nerve
+weakness which they attributed to retraction injury to access lower neck
+fractures. 53, level III
+ Cosmetically, the scar is well hidden within the pre-auricular crease. 53, level III
+2. Retromandibular approach
+ Indications: direct access to the ramus and the condylar neck with minimal
+retraction.
+ Risk of facial nerve damage via the retromandibular approach is minimal. This
+risk is increased with prolonged traction at the operative site, surgeon’s
+experience, post injury edema, and other factors causing difficult wound
+access such as obesity. 29, level I
+3. Submandibular approach
+ Indications: access to ramus and low subcondylar fractures.
+ Submandibular approach showed higher incidence of facial nerve palsy and a
+higher percentage of visible/hyperthropic scars compared to other surgical
+approaches to the mandibular condyle. 27, level III
+ Paralysis or paresis of the marginal mandibular branch of the facial nerve can
+also occur either from direct injury or from retraction forces
+Overall, scarring in open reduction was described as acceptable in most cases. 27,
+level III, 54 -56 level III
+1. Pre-auricular
+2. Retromandibular
+3. Submandibular
+Management of Mandibular Condyle Fractures
+32
+2019
+4. Endoscopic-assisted reduction and internal fixation (ERIF) 38, level I, 57, level III
+Indication: lower condylar fractures where dislocation with lateral override is present.
+ This is an intraoral approach using an endoscope to assist in visualization.
+Right-angle drills and screw drivers are used to assist in fixation.
+ However, ERIF has a steep learning curve and requires well trained assistants
+5. Osteosynthesis in ORIF
+The introduction and implementation of better materials for osteosynthesis over the
+past 30 years have broadened the indications for surgical treatment of mandibular
+condylar fractures. 32, level II-2, 38, level I
+Two four-holes miniplates have been the gold standard since the early 2000s. The
+fixation of MCF with 2 miniplates is more stable than a single plate repair 27, level III as
+it avoids high mechanical strain complications such as TMJ disorders, non-union or
+fibrous union. 57, level III
+Multiple variations of condylar plates have been advocated to improve rigid fixation
+such as two parallel plates, angulated straight plates, 3D plates such as: Y, delta,
+lambda square and trapezoidal condylar plates (TCP). Recently TCP has increased
+in popularity – it is thought to better achieve the principle of functionally stable
+osteosynthesis as described by Champy. 57, level III
+Two parallel miniplates
+TCP
+Lambda plate
+Management of Mandibular Condyle Fractures
+33
+2019
+Appendix 8
+Rehabilitation protocol
+A) Paediatric Patient
+The protocol for rehabilitation with removable splint: 58, level II-2
+ A removable occlusal splint with varying thickness is fabricated according to the
+age, developmental stage of the mandible, and degree of condylar dislocation.
+This is worn for 1-3 months, accompanied by functional exercises.
+ Under parental supervision, children are instructed to have a soft diet and wear a
+removable semihard occlusal splint for 1-3 months, 24 hour per day until
+restoration of the occlusion relationship.
+ Mouth opening exercises begin at the third week after injury and included vertical
+opening, contralateral excursions, and protrusive movements in front of a mirror.
+ Exercises continued for more than 6 months.
+In addition, the group suggests the use of guiding elastics if necessary as an adjunct.
+B) Adult Patient
+In adults, either open or closed treatment, early rehabilitation is essential to have a
+good functional outcome. The protocol post treatment is as follows: 56, level III
+ Guidance elastics for 7 days
+ Elastics at night for an additional 7 days
+ Soft diet for 30 days
+ Functional exercise from day 15 onwards
+ Intensification of functional therapy from day 30 to at least 6 months
+ Weekly visit as outpatient in the first 45 days post op
+ Monthly for the following 6 months
+However, this recommendation can be tailored to individual clinical needs.
+Management of Mandibular Condyle Fractures
+34
+2019
+Appendix 9
+Glossary
+Terminology
+Definition
+1
+Diacapitular fracture
+Fracture through condylar head
+2
+Functional appliance
+Any device/appliance that helps patient to
+reposition upper and lower jaw gradually into the
+correct occlusion over a period of time e.g
+functional orthodontic activator and occlusal
+splint
+3
+Dislocation
+Displacement of any part, more especially of a
+bone. Also called luxation
+4
+Luxation
+Dislocation
+5
+Displacement
+An abnormal position of the head of the
+mandibular condyle in the fossa due to deviation
+or shift of the mandible, which is often the result
+of malocclusion
+Management of Mandibular Condyle Fractures
+35
+2019
+ACKNOWLEDGEMENTS
+The members of the development group of these guidelines would like to express
+their gratitude and appreciation to the following for their contributions:
+- Panel of internal and external reviewers
+- Technical Advisory Committee for CPG for their valuable input and feedback
+- Dr Mohd Aminuddin b Mohd Yusof, Head of CPG Unit, Malaysian Health
+Technology Section (MaHTAS), Medical Development Division, Ministry of Health
+- Dr Ainol Haniza Kherul Anwar, Principal Assistant Director, Malaysian Health
+Technology Section (MaHTAS), Medical Development Division, Ministry of Health
+- Dr Dharmindra Rajah Gunaraja, Oral and Maxillofacial Surgeon in Pantai Hospital,
+Ayer Keroh, Malacca
+- All those who have contributed directly or indirectly to the development of the
+CPG
+DISCLOSURE STATEMENT
+The panel members had completed disclosure forms. None held shares in
+pharmaceutical firms or acts as consultants to such firms. Details are available upon
+request from the Oral Health Technology Section, Oral Health Programme, Ministry
+of Health, Malaysia.
+SOURCES OF FUNDING
+The development of the CPG on “Management of Mandibular Condyle
+Fractures” was supported financially in its entirety by the Ministry of Health
+Malaysia and was developed without any involvement of the pharmaceutical
+industry.
+Management of Mandibular Condyle Fractures
+36

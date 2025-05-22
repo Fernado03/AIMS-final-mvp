@@ -1,0 +1,11 @@
+pymupdf
+google-auth
+jsonlines
+pytesseract
+Pillow
+spacy
+sentence-transformers
+torch
+transformers
+einops
+git+https://github.com/nomic-ai/megablocks.git

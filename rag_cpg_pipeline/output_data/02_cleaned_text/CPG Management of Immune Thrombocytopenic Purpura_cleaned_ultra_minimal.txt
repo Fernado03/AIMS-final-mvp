@@ -1,0 +1,1793 @@
+CLINICAL PRACTICE GUIDELINES
+MANAGEMENT
+OF
+IMMUNE THROMBOCYTOPENIC
+PURPURA
+August 2006
+MOH/P/PAK/115.06 (GU)
+MINISTRY OF HEALTH MALAYSIA
+B
+E
+RS
+AT
+U•
+BE
+R
+U
+SA
+HA
+•B
+ER
+BA
+KT
+I•
+ACADEMY OF MEDICINE
+Statement of Intent
+This clinical practice guideline is meant to be a guide for clinical
+practice, based on the best available evidence at the time of
+development. Adherence to these guidelines may not necessarily
+ensure the best outcome in every case. Every health care provider
+is responsible for the management of his/her unique patient based
+on the clinical picture presented by the patient and the management
+options available locally.
+Review of the Guidelines
+This guideline was issued in August 2006 and will be reviewed in
+August 2008 or sooner if new evidence becomes available.
+CPG Secretariat
+c/o Health Technology Assessment Unit
+Medical Development Division
+Ministry of Health Malaysia
+Level 4, Block E1, Parcel E,
+Government Office Complex,
+62590, Putrajaya.
+Available on the following website :
+http//www.moh.gov.my
+http://www.acadmed.org.my
+GUIDELINES DEVELOPMENT AND OBJECTIVES
+Guideline Development
+The development group for this guideline comprised of paediatricians,
+physicians, haematologists and an obstetrician from the Ministry of Health
+Malaysia and Ministry of Education.
+The evidence search was carried out using Pubmed, Ovid and general
+search engines with ‘idiopathic thrombocytopenic purpura’; ‘immune
+thrombocytopenic purpura’; ‘platelet count’; autoimmune thrombocytopenic
+purpura’; ‘refractory thrombocytopenic purpura’; ITP; thrombocytopenia AND
+therapy as the key words. For paediatric AND pregnancy articles the previous
+search terms were combined with ‘child’ and ‘children’ and pregnancy
+respectively. The search excluded secondary causes of ITP e.g. ‘drug
+induced thrombocytopenia’; ‘secondary immune thrombocytopenia’.
+“Related articles were selected and out of these, relevant articles were
+chosen and graded using the modified version of those used by the Catalonia
+Agency for Health Technology Assessment (CAHTA) Spain.
+This guideline was also adapted from other international guidelines on
+Management of Idiopathic Thrombocytopenic Purpura which include
+Guidelines for the Investigation and Management of Idiopathic
+Thrombocytopenic Purpura in Adults, Children and in Pregnancy by British
+Society for Haematology and Idiopathic Thrombocytopenic Purpura: A
+practice guideline by American Society of Haematology. This guideline is
+also based on the findings of a systematic review of current medical
+literature, taking into consideration local practices. The draft guideline was
+posted on both the Ministry of Health Malaysia and Academy of Medicine,
+Malaysia websites for comment and feedback. This guideline has also been
+presented to the Technical Advisory Committee for Clinical Practice
+Guidelines and the Health Technology Assessment and Clinical Practice
+Guidelines Council, Ministry of Health Malaysia for review and approval.
+A systematic approach to the treatment modalities was suggested depending
+on the conditions associated with ITP. This is summarised as an algorithm
+of management of ITP in adults, children and pregnancy.
+Objectives
+The main aim of the guideline is to enable practitioners to make informed
+evidence based decisions on the diagnosis and management of Immune
+Thrombocytopenic Purpura (primary or idiopathic).
+Clinical Questions
+The clinical questions of this guideline are:
+i)
+What is the clinical spectrum of Immune Thrombocytopenic Purpura?
+ii)
+How is Immune Thrombocytopenic Purpura diagnosed?
+iii)
+How can patients with Immune Thrombocytopenic Purpura be treated
+optimally?
+Target Population
+This guideline is developed for the management of patients with Immune
+Thrombocytopenic Purpura in children, adults and pregnant mothers.
+Target Group
+This guideline is applicable to all primary care providers, physicians,
+paediatricians, obstetricians and others involved in treating patients with
+Immune Thrombocytopenic Purpura.
+GUIDELINE DEVELOPMENT GROUP
+CHAIRPERSON
+Dr. Jameela Sathar
+Consultant Haematologist
+Hospital Ampang
+Selangor
+MEMBERS
+Dr.Soo Thian Lian
+Dr. Sinari Salleh
+Consultant Paediatrician
+Consultant Haematologist
+Hospital Queen Elizabeth
+Hospital Sultanah Aminah
+Sabah
+Johor Bahru, Johor
+Dr. Goh Ai Sim
+Dr. Mahfuzah Mohamed
+Consultant Haematologist
+Paediatric Haemato-Oncologist
+Hospital Pulau Pinang
+Paediatric Institute
+Pulau Pinang
+Hospital Kuala Lumpur
+Dr. Ong Swee Gaik
+Dr Eeson Sinthamoney
+Consultant Rheumatalogist
+Obstetrician and Gynaecologist
+Hospital Selayang
+Hospital Ampang
+Selangor
+Selangor
+Dr Ho Lee Ming
+Assoc Professor Hany Ariffin
+Physician
+Consultant Paediatrician
+Hospital Pakar Sultanah Fatimah
+University Malaya Medical Centre
+Muar, Johor
+Kuala Lumpur
+COORDINATORS
+Dr S Sivalal
+Deputy Director
+Health Technology Assessment Unit
+Medical Development Division
+Ministry of Health Malaysia
+Mr. Ganesan a/l Thankaveloo
+Senior Medical Assistant
+Health Technology Assessment Unit
+Medical Development Division
+Ministry of Health Malaysia
+Dr Sheamini Sivasampu
+Principal Assistant Director
+Health Technology Assessment Unit
+Medical Development Division
+Ministry of Health Malaysia
+SPECIALIST REVIEWERS (in alphabetical order)
+The draft guideline was reviewed by a panel of independent expert referees,
+who were asked to comment primarily on the comprehensiveness and accuracy
+of interpretation of the evidence supporting the recommendations in the guideline.
+Professor Abdul Rahman Jamal
+Senior Consultant Paediatric Haematologist-Oncologist
+Hospital Universiti Kebangsaan Malaysia
+Dr Lin Hai Peng
+Senior Consultant Paediatric Haematologist-Oncologist
+Subang Jaya Medical Centre
+Selangor
+Dr Chang Kian Meng
+Head of Department and Consultant Haematologist
+Department of Hematology
+Hospital Kuala Lumpur
+Dr Mukundan Krishnan
+Head of Department and Senior Consultant Obstretic And Gynaecologist
+Department Obstretic & Gynaecology
+Hospital Ipoh
+Dr Ng Siew Hian
+Head of Department and Senior Consultant Anaesthesiologist
+Department of Anaesthesiology
+Hospital Kuala Lumpur
+Dr V Purushothaman
+Senior Consultant Haematologist
+Hospital Kuala Lumpur
+Dr Raman Subramaniam
+Senior Consultant Obstretic And Gynaecologist
+Fetal Medicine & Gynaecology Centre
+Kuala Lumpur
+TABLE OF CONTENTS
+Guideline Development And Objectives
+i
+Clinical Practice Guidelines Development Group
+iii
+Specialist Reviewers
+iv
+1.
+INTRODUCTION
+1
+2.
+ITP IN ADULTS
+1
+2.1
+Clinical Features
+1
+2.2
+Diagnosis
+1
+a.
+Clinical
+1
+b.
+Laboratory
+3
+2.3
+Management of Chronic ITP
+4
+a.
+First Line Treatment
+4
+i.
+Corticosteroids
+4
+ii.
+Intravenous Immunoglobulin
+5
+b.
+Second Line Treatment
+5
+i.
+Splenectomy
+5
+Predicting response to splenectomy
+6
+Post operative complications
+6
+Accessory spleen
+6
+ii.
+Danazol
+7
+iii.
+Azathioprine
+7
+iv.
+Dapsone
+7
+v.
+Anti-D7
+c.
+Treatment Refractory ITP
+8
+i.
+Eradication of Helicobacter Pylori
+8
+ii.
+Intravenous Immunoglobulin
+8
+iii.
+Vinca Alkaloids
+8
+iv.
+High Dose Methylprednisolone
+8
+v.
+Cyclosporin A
+8
+vi.
+Mycophenolate Mofetil
+9
+vii.
+Anti-CD20 antibody (Rituximab)
+9
+viii.
+Combination therapy
+9
+ix.
+Others
+9
+d.
+Emergency Treatment
+9
+3.
+ITP IN CHILDREN
+11
+3.1
+Management of Acute ITP
+12
+3.2
+Management of Chronic ITP
+13
+3.3
+Refractory ITP
+14
+3.4
+Emergency Treatment
+14
+4.
+ITP IN PREGNANCY
+16
+4.1
+Diagnosis
+16
+a.
+Clinical
+16
+b.
+Laboratory
+16
+4.2
+Management
+17
+a.
+Management before 36 weeks
+18
+b.
+Management after 36 weeks
+19
+c.
+Management in labour
+20
+5
+NEONATAL CARE
+21
+6.
+ALGORITHM
+6.1
+Treatment Algorithm : ITP in Adults
+22
+6.2
+Treatment Algorithm : ITP in Children
+23
+6.3
+Treatment Algorithm : ITP in Pregnancy
+24
+7.
+REFERENCES
+25
+ACKNOWLEDGEMENTS
+34
+DISCLOSURE STATEMENT
+34
+SOURCES OF FUNDING
+1.
+INTRODUCTION
+Immune thrombocytopenic purpura (ITP) affects both children and adults. It
+is an autoimmune disorder characterised by persistent thrombocytopenia
+(peripheral platelet count of less than 150 x109/L) due to autoantibody binding
+to platelet antigen(s) causing their premature destruction by the reticuloendothelial system, in particular the spleen.
+In childhood, the peak age is 2-4 years, girls and boys are equally affected,
+and in most children the disease is self-limiting with spontaneous recovery
+occurring in several weeks to several months. In adults, ITP is most common
+among young women and the disease is more insidious in its onset and
+chronic in its course 1 Level 9. The true incidence of ITP is still unknown. In
+children, the overall incidence of ITP is 4 – 5.3 per 100,000 2 Level 8 ; 3 Level 6. It
+has been reported that the incidence of chronic adult ITP is around 5.8-6.6
+new cases per 100,000 population per year in the USA 4 Level 9.
+2.
+ITP IN ADULTS
+2.1
+Clinical Features
+In adults, ITP typically has an insidious onset, with no prodromal illness.
+Symptoms and signs are highly variable, ranging from the common
+asymptomatic patient with mild bruising or mucosal bleeding to frank
+haemorrhage from any site, the most serious of which is intracranial.
+The most common manifestation in ITP is mucocutaneous bleeding with
+purpura, epistaxis, gingival bleeding and menorrhagia. Overall, bleeding
+symptoms are uncommon unless the ITP is severe (platelet count < 30x109/
+l) 1 Level 9. The degree of bleeding is largely dependent on the platelet count
+and patients with platelet counts below 10x109/l (and usually below 5x109/l)
+are at greatest risk of bleeding, including intracranial haemorrhage.
+2.2
+Diagnosis
+There is no gold standard diagnostic test to confirm ITP. The diagnosis of
+ITP remains clinical and is based principally on the exclusion of other causes
+of thrombocytopenia by the history, physical examination, full blood count,
+peripheral blood film and autoimmune screen.
+a.
+Clinical
+ITP can be defined as isolated thrombocytopenia with no clinically apparent
+associated conditions or other causes of thrombocytopenia (e.g. HIV
+infection, systemic lupus erythematosus, lymphoproliferative disorders,
+myelodysplasia, drug-induced thrombocytopenia, congenital/hereditary nonimmune thrombocytopenia, or pregnancy) 5 Level 9.
+Patients with isolated abnormalities on serologic tests (e.g. positive tests
+for antinuclear or antiphospholipid antibodies) but without a clinically evident
+disorder (e.g. systemic lupus erythematosus) are included within the
+diagnosis of ITP 6 Level 8 ; 7 Level 8.
+Patients with thrombocytopenia and an associated clinically apparent
+autoimmune disease may have an illness comparable to ITP. Lists of
+conditions which must be considered and excluded in the diagnostic
+evaluation of a patient with suspected ITP are as in Table 1.
+Table 1: Differential Diagnoses
+Falsely low platelet count
+In vitro platelet clumping caused by EDTA-dependent or colddependent agglutinins.
+Common causes of thrombocytopenia
+Pregnancy (gestational thrombocytopenia, preeclampsia)
+Drug-induced thrombocytopenia (common drugs include heparin,
+quinidine, quinine, and sulfonamides)
+Viral infections, e.g. HIV, infectious mononucleosis, hepatitis
+Hypersplenism due to liver disease
+Other causes of thrombocytopenia that mimic ITP
+Myelodysplasia
+Congenital thrombocytopenia eg. Wiskott-Aldrich syndrome, von
+Willebrand disease type 2B
+Thrombotic thrombocytopenic purpura-Haemolytic uremic
+syndrome
+Chronic disseminated intravascular coagulation
+Thrombocytopenia associated with other disorders
+Autoimmune diseases eg. systemic lupus erythematosus
+Lymphoproliferative disorders eg. chronic lymphocytic leukaemia,
+non-Hodgkin’s lymphoma
+Adopted with permission from George et al 1998.
+b.
+Laboratory
+The finding of thrombocytopenia on a routine blood count may be the first
+indication of immune thrombocytopenia.
+Thrombocytopenia needs to be confirmed on peripheral blood film
+examination to exclude pseudo-thrombocytopenia. Pseudo-thrombocytopenia
+due to EDTA-dependent platelet agglutination is a cause of spuriously low
+platelet count. This condition occurs in about 0.1% of adults, and is easily
+confirmed by the finding of a normal platelet count using a sample taken in
+citrate or heparin rather than EDTA anticoagulant 8 Level 9.
+An autoimmune screen should be carried out to exclude other autoimmune
+diseases which may be associated with thrombocytopenia, e.g. systemic
+lupus erythematosus or antiphospholipid syndrome. HIV antibody testing
+should also be done in patients with risk factors for HIV infection 5 Level 9.
+If the history, physical examination, blood count and peripheral blood film
+examination are compatible with a diagnosis of ITP and do not include
+atypical findings, additional investigations such as bone marrow examination
+and assays for platelet antibodies are not indicated 5 Level 9.
+Recommendations: Indications for Bone Marrow Examination
+-
+over 60 years of age
+-
+prior to splenectomy
+-
+presence of atypical features
+-
+poor response to first line treatment (eg. prednisolone) 5 Level 9
+(Grade C)
+-
+relapsed ITP following complete remission 9 Level 8
+(Grade C)
+Assays for anti-platelet antibodies such as direct platelet
+immunofluorescence test (PIFT) and assays for antibodies to specific
+platelet membrane glycoproteins (GP) IIb/IIIa and Ib/IX are not sensitive or
+specific enough to be recommended as routine tests in the diagnosis of
+ITP 10 Level 8 ; 11 Level 8.
+However, these tests may be useful in distinguishing between immune and
+non-immune thrombocytopenia in complex cases such as combination of
+bone marrow failure associated with immune-mediated thrombocytopenia,
+ITP patients refractory to first and second line treatment, drug-dependent
+immune thrombocytopenia, miscellaneous disorders (rare) e.g. monoclonal
+gammopathies and acquired auto-antibody mediated thrombasthenia 5 Level 9.
+2.3
+Management of Chronic ITP
+Most adults with ITP have a good outcome except for a small subset that
+has severe symptomatic ITP. Eighty-five percent of patients who had platelet
+>30x 109/L had long term mortality risk equal to the general population
+even without treatment. Patients who suffered major bleeding during their
+follow up had median platelet counts of 10x 109/L 12, Level 6.
+These findings favour treating patients with platelet count <30x 109/L and/
+or symptomatic ITP. This will reduce the risks of infection through
+immunosuppression 12 level 6; 13 , Level 6 ; 14 , Level 8.
+Recommendations : When to Treat
+Patients with platelet counts exceeding 30 x 109/L require no treatment.
+Treat when symptomatic or when platelet count < 30x109/L unless
+they are undergoing surgical procedures
+(Grade C)
+‘Safe’ Platelet Thresholds for Procedures
+Platelet counts considered “safe” in adults undergoing procedures :
+Dentistry > 10 x 109/L
+Extractions > 30 x 109/L
+Regional dental block > 30 x 109/L
+Minor surgery > 50 x 109/L
+Major surgery > 80 x 109/L
+(Grade C)
+a.
+First Line Treatment
+i.
+Corticosteroid
+Two thirds of patients will respond to prednisolone at 1mg/kg body weight/
+day for 2-4 weeks 15 Level 9; 16 Level 8. However long term remission is seen only
+in 10-20% of patients 16 Level 6; 17 Level 8.
+The response to oral steroids is slower compared to intravenous
+methylprednisolone 18 Level 3.
+ii.
+Intravenous Immunoglobulin (IVIG)
+IVIG is effective in elevating the platelet count in 75% of patients, of whom
+50% will achieve normal platelet counts. However the responses are
+transient lasting between 3 to 4 weeks 19, Level 9. Combination of IVIG/ oral
+prednisolone seemed to be more effective than IV methylprednisolone/ oral
+prednisolone in adults with severe ITP 20, Level 2. There is no difference
+between the two dosing of IVIG 0.4g /kg/day for 5 days and 1 g/kg/day for
+two days 21, Level 2.
+Adverse effects with intravenous immunoglobulin are common but generally
+mild including fever, chills, rigors, headache and backache 20, Level 2.
+Recommendations : First Line Therapy in Adults
+Oral corticosteroids are used as first line therapy at 1 mg/kg body
+weight /day (max 60 mg) for 2-4 weeks tapering off over several weeks
+(Grade B).
+Intravenous methylprednisolone (30 mg/kg body weight/day with total
+maximum daily dose of 1 gram for 3 days) is an alternative to oral
+prednisolone where more rapid response is required
+(Grade B).
+Intravenous immunoglobulin (1g/ kg body weight /day for 2 days or
+0.4 g/kg/day for 5 days) is useful in severe ITP who require rapid rise
+of platelet count.
+(Grade A)
+b.
+Second Line Treatment
+i.
+Splenectomy
+Splenectomy is considered as second line therapy with two thirds of patients
+achieving a complete remission 22 Level 8; 16 Level 8; 23 Level 8; 24 Level 8; 25 Level 8; 5 Level 9; 26
+Level 9. The rest will experience a lesser increase or only transient
+normalization of platelet counts. Most relapses occur within the first 6 months
+after splenectomy, however, a small percentage of patients continue to
+relapse thereafter 16 Level 8; 27 Level 8.
+Predicting response to splenectomy
+There are conflicting data on the predictive value of the response to steroids
+28 Level 8; 29 Level 8; 30 Level 8; 31 Level 8; 32 Level 8; 23 Level 8 and IVIG 33 Level 8; 34 Level 8; 30 Level 8; 29
+Level 8; 35 Level 8; 23 Level 8; 32 Level 8 on splenectomy but in general they do not have
+a high predictive value.
+The most sensitive indicator of response to splenectomy is the indiumlabelled autologous platelet scanning with more than 90% response if
+platelet destruction is primarily in the spleen 36 Level 8. However, platelet
+sequestration studies are difficult to perform and currently not available in
+Malaysia.
+The timing of splenectomy does not appear to affect the response rate 22
+Level 8; 36 Level 8; 30 Level 8; 31 Level 8; 23 Level 8; 32 Level 8.
+Post-operative complications
+Splenectomized patients have a small risk for overwhelming sepsis with an
+estimated mortality rate of 1.2% 37 Level 1.
+Operative mortality rates are < 2 % in most series 38 Level 8; 12 Level 8; 24 Level 8.
+Recommendations : Prevention of Post Splenectomy Sepsis
+At least 2 weeks before surgery, the patient should be immunized with a
+polyvalent pneumococcal vaccine, Hemophilus influenzae b (Hib)
+conjugate vaccine and meningococcal polysaccharide vaccine. (Grade B)
+A booster dose of pneumococcal vaccine should be given every 5
+years.
+(Grade B)
+Prophylactic antibiotics with oral penicillin 250 mg bd or erythromycin
+500 mg bd should be given.
+(Grade C)
+The optimal duration of antibiotic prophylaxis is still uncertain (Grade
+C) but is recommended lifelong in the UK guidelines.
+(Grade C )
+Accessory spleen
+The presence of an accessory spleen should be considered in patients
+who fail to respond to splenectomy or relapse following an initial response.
+ii.
+Danazol
+Response can be as high as 60% especially in older females and those who
+have undergone splenectomy 39 Level 5. It is used as a steroid-sparing agent in
+steroid responsive patients who require longer term high dose steroids or in
+patients who are refractory to steroids. The usual dose is 200 mg 2-4 times
+daily 39 Level 5 and a trial of at least 6 months should be allowed.
+iii.
+Azathioprine
+Approximately 20% of patients may achieve a sustained complete response
+with this agent while 30 to 40% may have a partial response 40 Level 9. The
+recommended dose for ITP is 2 mg/kg/day usually up to a maximum of
+150mg/day 26 Level 9. The treatment should be continued for up to 4 to 6
+months before a patient is considered non-responsive 41 Level 8; 42 Level 8.
+Azathioprine is associated with few side effects, even with prolonged use 43
+Level 9; 41 Level 8. The potential side effects include a reversible leucopenia and
+elevated transaminases. Secondary malignancies and myelodysplastic
+syndrome have been reported 44 Level 9.
+iv.
+Dapsone
+Responses are seen in 50% of patient with platelet counts < 50 x109/L with
+sustained responses in 25% of patients. Half of all patients with chronic
+ITP treated with dapsone will show some response within 3 weeks 45 Level 3.
+It is less effective in severe cases especially those who have undergone
+splenectomy 46 Level 4. The usual dose is 75-100 mg orally 45 Level 3.
+v.
+Anti-D
+This is effective only in Rh(D) positive non-splenectomized patients with
+response rate of up to 75 to 90% of adults with ITP. The effect last for more
+than 3 weeks in 50% of responders 47 Level 8. The usual dose is 50-75mcg/
+kg 48 Level 8; 47 Level 8; 49 Level 8. However this drug is not readily available in Malaysia.
+Recommendations : Second Line Therapy in Adults
+Patients not responding to steroids or requiring persistently high doses
+require second line therapy. The choice of therapy must be
+individualized. The treatment options are:
+-
+Splenectomy.
+-
+Danazol
+-
+Azathioprine
+-
+Dapsone
+-
+Anti-D
+Grade C
+c.
+Refractory ITP
+Refractory ITP is defined as failure to respond to first or second line treatment.
+This group accounts for 5.6% of all patients with ITP and are expected to
+have the worst outcome with a 4.2 fold increased mortality risk 12 Level 6.
+The cornerstone of management is to raise the platelet counts to a safe
+level of more than 30 X 109/L taking into account coexisting risk factors for
+bleeding, patient’s level of acceptance of modifications in lifestyle, tolerance
+or lack of tolerance to treatment, and the potential toxic effects of each
+intervention 12 Level 6. Elderly patients are both more likely to have severe
+bleeding and to suffer debilitating side effects from treatment 50 Level 3.
+Treatment Options
+i.
+Eradication of Helicobacter Pylori
+The regression of ITP has been reported after eradication of Helicobacter
+pylori 51 Level 5.
+ii.
+Intravenous Immunoglobulin (IVIG)
+Repeated infusions of IVIG are reserved for intervention during serious
+bleeding and to raise platelet count before surgical procedure. It is often
+lifesaving, but refractoriness can develop 12 Level 6.
+iii.
+Vinca Alkaloids
+The overall response is 50% in splenectomized patients, but is usually not
+sustained 52 Level 8. It may cause a transient increase in the platelet count
+lasting between 1 and 3 weeks in two-thirds of patients treated. The dose
+for vincristine is 1 mg (occasionally 2 mg) or vinblastine 5-10 mg weekly
+for 4-6 weeks.
+iv.
+High Dose Methylprednisolone
+Two studies have shown that high dose methylprednisolone is effective in
+the treatment of patients with refractory ITP 53 Level 9; 18 Level 3.
+v.
+Cyclosporin A
+Cyclosporin A can be used as monotherapy or in combination with steroids.
+Two small case series reported responses between 50-80% 54 level 8; 55 Level 8.
+The cyclosporin dose is between 2.5 to 5 mg/kg/day in divided doses. The
+patient should be treated for at least 4 weeks before a response can be
+observed. The side effects may limit widespread practical use.
+vi.
+Mycophenolate Mofetil
+Mycophenolate mofetil had been shown to be of value in some patients
+with autoimmune cytopenias including refractory ITP 56 Level 8; 57 Level 5 with
+overall response of 62%. The dose is 1.5 to 2.0 g/day. Side effects are
+quite tolerable with slight nausea and diarrhoea.
+vii.
+Anti-CD20 Antibody (Rituximab)
+The overall response rate is reported between 40 to 50%. Younger patient
+have a better response 58 Level 8. Twenty eight percent of patients will have
+sustained response more than 6 months. The recommended dose is
+375 mg/m2 rituximab weekly for 4 weeks 58 Level 8; 59 Level 8.
+viii.
+Combination chemotherapy
+Combination chemotherapy including cyclophosphamide, vincristine with
+prednisone has been reported to give a response of 80% with prolonged
+sustained effect 60 level 5. The side effects include myelosuppression and risk
+of secondary malignancies, and hence should be used with caution.
+ix.
+Others
+Other modalities for treatment include liposomal doxorubicin 61 Level 8 anti
+CD52 (Campath-1H) 62 Level 5 and protein A immunoadsorption 63 Level 5. Bone
+marrow transplant should only be considered in the experimental context
+until there is a bigger clinical trial to prove its efficacy 64 Level 9; 65 Level 9.
+Recommendations : Management of Refractory ITP in Adults
+For patients who have platelet counts between 10 to 30 X 109 /L (Grade
+B) without other risk factors for bleeding, treatment is not indicated
+unless surgery is planned.
+(Grade C)
+Modalities of treatment include eradication of Helicobacter Pylori,
+Intravenous Immunoglobulin (IVIG), high dose methylprednisolone,
+cyclosporin A, mycophenolate mofetil, rituximab, and combination
+chemotherapy.
+(Grade C)
+d.
+Emergency Treatment
+There is no published data on the efficacy of different treatments for the
+management of urgent, life-threatening bleeding. The serious consequences
+of severe, life-threatening bleeding justify the use of several regimens.
+Appropriate interventions include platelet transfusions, high-dose parenteral
+glucocorticoid (e.g. methylprednisolone 30 mg/kg daily for 3 days), and
+IVIG, either alone or in combination with corticosteroids 26 Level 9.
+Conditions requiring urgent treatment in adults with ITP are:
+1.
+active bleeding from the gastrointestinal or genitourinary tracts
+2.
+intracranial bleed
+3.
+bleeding into important structures e.g. upper airway
+The aims of treatment are to elevate platelet count quickly (within 24 hours)
+and to arrest bleeding.
+Recommendations : Emergency treatment
+1. i.v. methylprednisolone 500mg to 1g/day for 3 days
+2. IVIG 1g/kg/day for 2 consecutive days
+3. Platelet transfusion
+Emergency splenectomy is considered if above measures fail to
+increase platelet count to safe level i.e. above 50x109/L.
+(Grade C)
+Indications for platelet transfusion in ITP
+Platelet transfusion in ITP is only given in the following situations:
+1.
+life-threatening haemorrhage e.g. intracerebral haemorrhage (ICH)
+2.
+severe thrombocytopenia < 10 x 109/L and patient has to undergo an
+emergency surgery
+High dose i.v. steroids and IVIG must also be given together to raise the
+platelet counts and to stop the haemorrhage. Platelet survival is increased
+if the platelets are transfused immediately after IVIG infusion 66 Level 9.
+Recommendations : Platelet Transfusion Dosage
+•
+6-8 U of platelet concentrate, or 1 U/10 kg body weight. (Grade C)
+1 U of platelets to increase count of a 70-kg adult by 5-10 x 109/L
+and an 18-kg child by 20 x 109/L
+(Grade C)
+3.
+ITP IN CHILDREN
+In children, ITP is usually an acute, self-limiting disorder that resolves
+spontaneously. The clinical onset is usually acute, with a spectrum of
+bleeding severity ranging from superficial (petechiae, purpura) to lifethreatening. Hepatosplenomegaly or lymphadenopathy is absent. The
+majority will give a history of a viral infection in the preceding 2-4 weeks.
+75% of patients remit spontaneously with 70% achieving platelet count of
+more than 50 x109/L by the fourth week of illness 67 Level 9.
+The diagnosis can be made clinically based principally on the history,
+physical examination (no stigmata of malignant disease or congenital
+thrombocytopenia), full blood count (isolated thrombocytopenia), and
+examination of the peripheral blood smear (exclude abnormal cells).
+Bone marrow examination is seldom required. Less than 4% of 127 children
+had a different diagnosis from ITP following bone marrow examination 68
+Level 8. It is only indicated if the patient is not responding to therapy or before
+starting steroids (to avoid partially treating an undiagnosed acute leukaemia)
+26 Level 9.
+The need for other investigations depends on clinical indications : ANF
+and DNA antibodies in those progressing into chronic ITP, CMV serology in
+those under 1 year of age, immunoglobulin levels in those with recurrent
+infections and HIV screening for those at risk e.g. parents with HIV infection,
+intravenous drug users. Coagulation profile is needed for those with
+suspected non-accidental injury, inherited bleeding disorders or
+meningococcal infection.
+Recommendations : Diagnosis of ITP in Children
+Full blood count with differential and a peripheral blood film
+examination are the only two recommended laboratory investigations
+in a child with typical clinical features of ITP
+(Grade C)
+Bone marrow examination is only indicated in patients not responding
+to therapy or before starting steroids. Additional investigations are
+done as clinically indicated
+(Grade C)
+3.1
+Management of Acute ITP
+Outpatient observation and monitoring will suffice for those with platelet count > 20
+x109/L without bleeding tendencies. Precaution with physical activities, avoidance
+of contact sports and seeking immediate medical attention if bleeding occurs should
+be advised 69 Level 9. A repeat platelet count should be performed within the first 7-10
+days to ensure there is no evidence of a serious evolving marrow condition.
+Otherwise, the count can be repeated only when clinically indicated 69 Level 9.
+Hospitalisation is required in acute severe life-threatening or mucosal bleeds
+regardless of platelet count or if platelet count is < 20 x109/L without bleeding
+but with poor access to health care. Hospital admission also depends on
+parents’ request and on their confidence in homecare 70 Level 9.
+Treatment is indicated if there is a life threatening bleeding episode (e.g.
+ICH) regardless of platelet count or if the platelet count is < 20 x109/L with
+mucosal bleeding 5 Level 1.
+There is insufficient evidence to guide treatment in those with platelet count of
+<10 x109/L without bleeding manifestations. Treatment should be individualized.
+The choice of treatment is : IVIG 0.8 g/kg as a single dose 71 Level 1 or oral
+steroids (oral prednisolone 2 mg/kg/day for not more than 14 days or oral
+prednisolone 4 mg/kg/day for 4 days) 72 Level 6.
+Both steroids and IVIG may shorten the thrombocytopenic phase in
+responsive cases but do not influence outcome of disease. They are both
+effective in raising platelet count more rapidly compared to no treatment 73
+Level 1. However, there is no direct evidence indicating either treatment is
+superior to the other, reduces bleeding complications or mortality from ITP
+or influences progression to chronic ITP 74 Level 9; 26 Level 9; 2 Level 8.
+Recommendations : Management of Acute ITP in Children
+Hospitalisation is required in acute severe life-threatening or mucosal
+bleeds regardless of platelet count or if platelet count is < 20 x109/L
+without bleeding but with poor access to health care.
+(Grade C)
+Management of ITP should not depend only on platelet numbers but
+also on clinical severity. IVIG and oral steroids are the recommended
+choices of treatment but they do not influence the final outcome of
+the disease.
+(Grade A)
+Treatment options include :
+-
+IVIG 0.8 g/kg as a single dose, or
+-
+oral prednisolone 2 mg/kg/day for not more than 14 days, or
+-
+oral prednisolone 4 mg/kg/day for 4 days
+3.2
+Management of Chronic ITP
+Chronic ITP in children is defined as persistent thrombocytopenia after 6
+months of onset, is strikingly different from that in adults with complete,
+spontaneous remission seen in the majority 75 Level 6; 76 Level 6. There is a wide
+spectrum of manifestations. However, there is insufficient evidence in the
+literature to determine the best management for these patients 77 Level 9.
+As far as possible, allow the disease to remit spontaneously. However, other
+causes of thrombocytopenia e.g. SLE should be considered. Asymptomatic
+patients can be left without therapy with advice regarding precautions during
+physical activities, contact sports, dental/surgical procedures and menses.
+Symptomatic children may need short courses of treatment (as for acute
+ITP) during periods of “relapse” or for surgical procedures. Prolonged steroid
+therapy or regular infusions of IVIG are not justified 75 Level 6.
+For those with persistent bleeding problems, second-line therapies include
+steroids e.g. dexamethasone (oral 1mg/kg) given on 4 consecutive days
+every 4 weeks for 4 months 78 Level 8 or oral methylprednisolone for 7 days
+(30 mg/kg for 3 days followed by 20 mg/kg for 4 days) every 4 weeks for
+maximum of 6 courses 79 Level 8 and anti-D immunoglobulin 45-50 ug/kg
+immunoglobulin in Rh positive patients 80 Level 6. Second-line therapy should
+only be started following consultation with a paediatric haematologist.
+Recommendations : Management of Chronic ITP in Children
+Allow chronic ITP children to remit spontaneously as far as possible
+(Grade B)
+Use of steroids or IVIG should be for acute bleeding manifestations
+only (Grade B)A paediatric haematologist should be consulted if
+second-line therapy is required
+(Grade C)
+3.3 Refractory ITP
+Splenectomy is rarely indicated in children with ITP as spontaneous
+remissions continue to occur up to 15 years from diagnosis 75 Level 6. It is
+important to note that the risk of dying from childhood ITP is very low
+(0.002%) whilst the mortality associated with post-splenectomy sepsis is
+1.4 – 2.7% 36 Level 8; 81 Level 8.
+However, splenectomy is justified when there is a life threatening bleeding
+event or severe lifestyle restrictions and where there has been no or only
+transient success with intermittent IVIG, pulsed steroids or anti-D 82 Level 9.
+Up to 70% of children achieve complete remission post-splenectomy 83 Level 6.
+It is important to ensure pre-splenectomy immunization against
+pneumococcus, haemophilus and meningococcus . Post-splenectomy
+patients require life-long penicillin prophylaxis and 5-yearly pneumococcal
+booster (CDC 1993).
+Agents that have been used when first and second-line therapies fail include
+Rituximab 84 Level 8 and cyclosporin 54 Level 8. Children who reach this stage
+should be managed by a paediatric haematologist.
+Recommendation : Management of Refractory ITP in Children
+In children with symptomatic refractory ITP, splenectomy is an option.
+There is insufficient evidence to recommend third-line
+immunomodulating agents
+(Grade C)
+3.4
+Emergency Treatment
+Serious bleeding e.g. severe epistaxis, GIT bleeding or bleeding causing a
+drop in haemoglobin concentration was seen in 17% of 332 pts over 10
+years 85 Level 9. However, the most serious form of bleeding i.e. intracranial
+bleeding has a very low incidence of 0.1 to 0.5 % 86 Level 8 ; 87 Level 8 ; 88 Level 8.
+The following methods have been employed in cases of serious bleeding /
+intracranial haemorrhage :
+Platelet transfusion
+A rapid increase in the platelet count is necessary in life-threatening
+haemorrhage. The immediate administration of a larger than usual (8-12
+units per sq meter) transfusion of donor platelets plus i.v.
+methylprednisolone 30 mg/kg (maximum 1 gm) over 20 to 30 minutes have
+been advocated 89 Level 6; 4 Level 6.
+Intravenous methylprednisolone
+The usual dose used is 30 mg/kg/day for three days. Seventy percent of
+children have been reported to show an unsustained rise in platelet counts
+90 Level 8; 91 Level 8; 92 Level 8.
+Intravenous immunoglobulins (IVIG)
+Infusion of IVIG has been reported to cause a rapid rise in platelet count to
+at least above 30 x109/L in 80% of children. A single dose of 0.8 g/kg or 1
+g/kg 71 Level 8 has been shown to be as effective as doses of 0.25 – 0.5 g/kg/
+day for two days in a randomized multicentre study 93 Level 5.
+Combination IVIG and methylprednisolone
+Several authors have combined IVIG with methylprednisolone to increase
+the platelet count rapidly in life-threatening bleeds 94 Level 8 reported 11of 11
+patients had increased platelet count above 40 x109/L following infusion of
+IVIG plus methyl-prednisolone and this was sustained for at least 24 hours
+(Level 8). In a consensus statement, 5 Level 9 also reported on the efficacy of
+this combination.
+Emergency splenectomy
+This measure will lead to a rapid increase in platelet count; at least 75% of
+patients will respond 95 Level 9 ; 96Level 8. If this procedure is to be performed, the
+laparoscopic method is preferred. Laparoscopic splenectomy has been
+associated with a shorter hospital stay, diminished blood loss and lower
+cost compared to an open procedure 97 Level 9 ; 98 Level 9.
+Recommendations : Emergency Treatment
+In the event of life-threatening haemorrhage, a two-to-three fold
+transfusion of donor platelets is required.
+(Grade C)
+Concomitant use of IVIG alone (0.8 g/kg stat) or in combination with
+methylprednisolone (30mg/kg/day; max 1 gm for three days) is
+recommended. Emergency splenectomy (preferably laparoscopic)
+may be justified.
+(Grade C)
+4.
+ITP IN PREGNANCY
+Thrombocytopenia in pregnancy is relatively common, occurring in 7 to 10% of
+unselected pregnancies. However, ITP only accounts for approximately 3% of
+these cases 99 Level 9 as compared to gestational or incidental thrombocytopaenia
+of pregnancy (74%) and hypertensive disorders of pregnancy (21%) 100 level 6.
+ITP in pregnancy must be differentiated from other causes of
+thrombocytopenia.
+Table 2 Differential Diagnoses
+1.
+Gestational or incidental thrombocytopaenia of pregnancy (mild
+thrombocytopaenia >70 x 109/L occurring in late gestation)
+2.
+Pre-eclampsia
+3.
+HELLP syndrome
+4.
+Thrombotic thrombocytopenic purpura (TTP)
+5.
+Disseminated intravascular coagulation (DIC)
+6.
+Antiphospholipid syndrome
+7.
+Folate deficiency
+8.
+Viral: Dengue, HIV, HCV
+9.
+Drug-related
+10. Spurious due to platelet clumping or macrothrombocytes
+Modified from British Committee for Standards in Haematology General
+Haematology Task Force (2003)
+4.1
+Diagnosis
+a.
+Clinical
+The diagnosis of ITP in pregnancy remains one of exclusion as there is no
+confirmatory laboratory test 101 Level 9. Therefore it is important to obtain a
+detailed history and physical examination to exclude other secondary causes
+and to assess the clinical severity of haemostatic defects 102 Level 9.
+b.
+Laboratory
+The aim of investigation is to confirm thrombocytopenia and to exclude
+secondary causes. If gestational thrombocytopenia is suspected, only regular
+monitoring of platelet counts is required without further investigations 103 Level
+9; 100 level 6.
+Recommendations : Investigations for Thrombocytopenia in
+Pregnancy
+The important investigations include :
+1) Full blood count
+2) Peripheral blood film: to exclude platelet clumping and red cell
+fragmentation (in TTP, pre-eclampsia, HELLP or DIC)
+3) Coagulation screen (PT, APTT, fibrinogen, D-dimer)
+4) Liver function tests
+5) HIV screening
+6) ANA
+7) Lupus anticoagulant/ anticardiolipin antibody
+• for patients with past history of unexplained pregnancy losses/
+thrombosis 102 level 9
+(Grade C)
+Bone marrow examination is unnecessary unless there is suspicion
+of myelodysplastic syndrome, leukaemia or lymphoma 104 Level 9
+(Grade C)
+4.2
+Management
+Although pregnancy is not discouraged in woman with preexisting ITP,
+maternal and foetal complications can occur. Close collaboration between
+haematologist, obstetrician, neonatologist and anaesthetist is needed to
+ensure a good pregnancy outcome 26 Level 9.
+Platelet counts in women with ITP may decrease as pregnancy progresses
+and need to be monitored closely as follows:
+1st to 2nd trimester
+:
+monthly
+3rd trimester
+:
+2 weekly
+at term
+:
+weekly
+The principal of management in ITP during pregnancy is to do least harm
+to both the mother and the foetus. The decision to treat is based on
+assessment of the risk of significant haemorrhage.
+Corticosteroids are considered safe with regards to potential teratogenecity
+and foetal toxicity as 90% of the administered dose is metabolized in the
+placenta 105 Level 6.
+Intravenous immunoglobulin is effective and safe for use in pregnancy. It’s
+effect is transient and last for about a month 104 Level 9.
+Splenectomy should be avoided if possible or should be deferred to the
+second trimester to prevent miscarriage 26 Level 9.
+Anti-D Immuneglobulin among Rh positive non-splenectomized women can
+be considered as second line therapy 106 Level 9.
+Androgen analogues such as danazol and all the other potential teratogenic
+agents like cyclophosphamide or vinca alkaloids are strictly prohibited in
+pregnant women.
+Recommendations : Modalities of Treatment for ITP in Pregnancy
+Corticosteroids and IVIG are effective and safe in pregnancy and are
+used as first line therapy.
+(Grade B)
+Androgen analogs such as danazol and cytotoxic agents are
+contraindicated in the treatment of ITP in pregnancy due to its
+teratogenecity.
+(Grade C)
+Splenectomy is considered only if above measures fail to elevate the
+platelet counts and patient has serious bleeding. This is best deferred
+until the second trimester to prevent miscarriage.
+(Grade C)
+a.
+Management before 36 weeks
+Management can be divided into 3 groups based on clinical presentation
+and platelet count.
+1)
+Asymptomatic patients with mild to moderate thrombocytopenia
+(platelet count >20 x 109/L)
+a.
+No treatment is required
+b.
+To expect further drop of platelet during 3rd trimester
+2)
+Symptomatic patients or those with moderate to severe
+thrombocytopenia (platelet count <20 x 109/L)
+a.
+Corticosteroid prednisolone 1mg/kg/day with rapid taper to keep
+<30mg/day (safe from adverse foetal effects)
+AND/ OR
+b.
+IVIG 1g/kg (according to pre-pregnant weight) every month
+3)
+Severe thrombocytopaenia (platelet count <10 x 109/L)
+The approach in managing these groups of patients is to deliver the
+minimum amount of therapy necessary.
+a.
+high dose corticosteroid (methylprednisolone/dexamethasone)
+AND
+b.
+periodic high dose IVIG 1g/kg x 2 days
+Splenectomy during 2nd trimester is considered if above measures fail to
+elevate the platelet count.
+Recommendations : When to treat?
+•
+Platelet count < 20 x 109/L before 36 weeks
+•
+Symptomatic bleeding at any trimester
+•
+Platelet count < 30 x 109/L after 36 weeks
+(Grade C)
+b.
+Management after 36 weeks
+The mother should be assessed at 36 weeks by both the haematologist
+and the obstetrician.
+•
+platelet count >30 x 109/L
+-
+safe for normal vaginal delivery in patients with otherwise normal
+coagulation 108 Level 9
+•
+platelet count <30 x 109/L
+-
+admit for pulsed IVIG and close monitoring
+The mode of delivery in a mother with ITP is based on obstetric indications
+109 Level 9.
+Caesarian section is only for obstetric indications and the patient will require:
+i.
+iv corticosteroids if platelet count between 30-50 x 109/L
+ii.
+IVIG and iv corticosteroids if platelet count <30 x 109/L
+iii.
+IVIG and iv corticosteroids plus platelet transfusion if platelet count
+<10 x 109/L
+Recommendations : Mode of delivery
+The mode of delivery in mothers with ITP is decided primarily by
+obstetrical indications
+(Grade C)
+The use of vacuum extraction and complicated instrumental delivery
+should be avoided if possible
+(Grade C)
+c.
+Management in labour
+Platelet count above 50 x 109/L is safe for caesarian section under general
+anaesthesia but not epidural anaesthesia. Epidural anaesthesia is best
+avoided because of the risk of epidural haematoma and cord compression.
+However, patients who prefer epidural analgesia need to be admitted earlier
+for IVIG infusion in order to raise the platelet counts to a safe level >80 x 109/L
+104 Level 9.
+If platelet counts are less than 50 x 109/L and patient requires immediate
+caesarian delivery, administer IVIG and methylprednisolone. Give platelet
+transfusion just prior to surgery.
+‘Safe’ Platelet Thresholds for delivery
+•
+vaginal delivery:
+> 30 x 109/L
+•
+caesarean section:
+> 50 x 109/L
+•
+epidural anaesthesia:
+> 80 x 109/L
+(Grade C)
+5.
+NEONATAL CARE
+The overall incidence of thrombocytopenia in newborns born to mothers with
+ITP is reported to vary from 14.3 to 37.5% 110 Level 8; 111 Level 8. Severe
+thrombocytopenia (<50 X 109/l) occurs in 8.9 to 14.7% 48 Level 8; 112 Level 8. Bleeding
+is fortunately a rare event 113 level 8 with overall incidence of intracranial
+haemorrhage about 0 to 1.5% 48 Level 8.
+Prediction of neonatal thrombocytopenia is difficult, and there is no relationship
+with maternal platelet counts. Infants from splenectomized mothers were
+more likely to have thrombocytopenia 110 Level 8; 113 Level 8 as were mothers who
+had presence of circulating antiplatelet antibody 110 Level 8. Thrombocytopenia
+is more likely if there is a previous sibling with thrombocytopenia 115 Level 8.
+Cordocentesis and foetal scalp sampling to measure foetal platelet counts
+carry more risks than potential benefits and are not recommended 26 Level 9.
+The application of scalp electrodes for monitoring in labour should be avoided
+26 Level 9.
+Cord blood platelet count should be done and the neonate with
+thrombocytopenia should be monitored daily. The platelet counts reach a
+nadir on days 2 to 5 116 Level 8.
+Severe thrombocytopenia (<20 X 109/L) or clinical haemorrhage can be treated
+with IVIG with good response in 75% of patients 117 Level 8. Life threatening
+complications should be treated with immediate platelet transfusions and
+IVIG 26 Level 9.
+Recommendations : Management of Neonates Born to Mothers
+with ITP
+The neonatology team should be alerted prior to delivery.
+(Grade C).
+The cord blood platelet count should be done for newborns of mothers
+with ITP. In those with low platelet counts, the count should be monitored
+till after the nadir, which is usually from Day 2 to Day 5.
+(Grade C)
+Treatment is only required when there is clinical bleeding or when the
+platelet count is < 20 x 109/L. The first line therapy is with IVIG (1 g/kg).
+Newborns with life-threatening haemorrhage should receive concurrent
+platelet transfusion.
+(Grade C)
+Presentation
+Acute Hemorrhage
+platelets < 30 x 109/L
+platelets 30 - 50 x
+109/L
+platelets > 50 x 109/L
+Methylprednisolone
+(1g/day for 3 days)
+IVIG (1g/kg/day for 2 –
+3 days)
+Platelet transfusion
+Prednisolone (1 mg / kg /
+day)
+Prednisolone if
+bleeding or no
+treatment
+No treatment
+Chronic Immune
+Thrombocytopenic
+Purpura
+platelets 30 - 50 x 109/L platelets < 30 x 109/L
+No treatment but
+Prednisolone if bleeding
+Active Bleeding
+No Active Bleeding
+Prednisolone
+Azathioprine
+Danazol
+IVIG
+Medical
+Dapsone
+Methylprednisolone
+Therapy
+IVIG
+± Splenectomy
+i.v. anti-D
+platelets < 30 x 109/L
+platelets ≥ 30 x 109/L
+Consider splenectomy or
+other immunosuppression
+Gradual discontinuation of therapy
+Refractory immune
+thrombocytopenic purpura
+platelets ≥ 30 x 109/L
+platelets < 30 x 109/L
+No treatment
+No bleeding Bleeding
+No treatment
+Medical therapy
+Inhibitors of platelet clearance Immunosuppressive drugs Others
+Experimental agents
+Prednisolone
+Azathioprine Rituximab
+BMT
+IV immunoglobulin
+Cyclophosphamide
+H pylori eradication
+Campath
+Vinca Alkaloids
+Cyclosporin
+Danazol
+Mycophenolate
+mofetil
+Modified 73 Level 1 with permission
+Note : Consideration for treatment should
+take into account patient’s lifestyle,
+access to emergency health services and
+educational status
+plt < 30 x 109/L
+TREATMENT ALGORITHM : ITP IN ADULTS
+Note: Consideration for treatment
+should take into account patient’s
+lifestyle, access to emergency health
+services and educational status
+TREATMENT ALGORITHM : ITP IN CHILDREN
+ACUTE PRESENTATION
+Bleeding
+Yes
+No
+Serious, life-threatening mucosal bleed
+haemorrhage
+only
+platelets < 10x 109/L
+consider treatment under
+appropriate conditions
+Platelet transfusion
+(2-3 fold of normal dose)
+plus i.v methylprednisolone
+or combined with IVIG
+Emergency splenectomy
+CHRONIC ITP
+Bleeding
+Yes
+No
+Acute
+Recurrent, trouble-some Dental or
+No treatment
+Impedes lifestyle
+surgical procedure
+As per acute ITP
+Second-line therapies
+Short-term coverage
+pulse dexamethasone
+as per acute ITP
+pulse methylprednisolone
+i
+Prednisolone 2mg/kg/day for 2
+weeks OR prednisolone 4mg/kg x
+4 days or IVIG 0.8 gm/kg stat
+platelets > 10x 109/L
+No active
+treatment
+TREATMENT ALGORITHM : ITP IN PREGNANCY
+Platelet count at
+diagnosis*
+< 10 x 109/L
+10 – 20 x 109/L
+> 20 x 109/L
+OR bleeding AND asymptomatic
+•
+Methyprednisolone
+(500mg if <50kg or
+1g if >50kg BW
+daily for 3 days)
+•
+IVIG
+(1g/kg/day for 2 –
+3 days)
+•
+± Platelet
+transfusion
+Prednisolone
+1 mg/kg/d
+with rapid
+taper to
+<30mg/d ±
+IVIG
+No
+treatment
+No response
+Response
+consider splenectomy
+if severe bleeding
+monitor **
+(defer till second trimester if possible)
+OR
+i.v. methylprednisolone
+and IVIG reassess at 36 weeks
+platelets > 30 x 109/L
+platelets < 30 x 109/L
+safe for spontaneous
+vaginal delivery
+admit for IVIG
+and close monitoring
+if caesarean section obstetrically indicated
+platelet count
+>50 x 109/L 30-50 x 109/L <30 x 109/L <10 x 109/L
+safe for Caesarean Section iv corticosteroids i.v. methylprednisolone i.v. methylprednisolone
++ +
+IVIG
+IVIG
++
+platelet transfusion
+Note:
+* after exclusion of other causes of
+thrombocytopenia in pregnancy
+** frequency of visits depends on gestation
+and severity of thrombocytopenia
+–
+Note:
+* after exclusion of other
+causes of thrombocytopenia
+in pregnancy
+** frequency of visits depends
+on gestation and severity of
+thrombocytopenia
+REFERENCES
+1.
+George, J.N., Woolf, S.H., Raskob, G.E. (1998). Idiopathic thrombocytopenic purpura:
+a guideline for diagnosis and management of children and adults. American Society
+of Hematology. Ann Med. Feb; 30(1):38-44
+2.
+Lilleyman, J.S. (1999). Management of childhood idiopathic thrombocytopaenic
+purpura. Br J Haematol, 105 : 871-875
+3.
+Zeller, B., Helgestad J., Hellebostad, M., Kolmannskog, S., Nystad, T., Stensvold,
+K., Wesenberg, F. (2000). Immune thrombocytopenic purpura in childhood in Norway:
+a prospective, population-based registration. Pediatr Hematol Oncol. Oct-Nov;
+17(7):551-558
+4.
+McMillan, R. (1997). Therapy for adults with refractory chronic immune
+thrombocytopaenic purpura. Ann Intern Med,126 : 307 -314
+5.
+George, J.N., Woolf, S.H., Raskob, G.E., Wasser, J.S., Aledort, L.M., Ballem, P.J.,
+Blanchette, V.S., Bussel, J.B., Cines, D.B., Kelton, J.G., Lichtin, A.E., McMillan, R.,
+Okerbloom, J.A., Regan, D.H., Warrier, I.(1996). Idiopathic thrombocytopaenic
+purpura. a practice guideline developed by explicit methods for the American Society
+of Hematology. Blood, 88, 3-40
+6.
+Kurata, Y., Miyagawa, S.,Kosugi, S., Kashiwagi, H., Honda, S., Mizutani, H.,
+Tomiyama, Y., Kanayama, Y., Matsuzawa, Y. (1994). High-titer antinuclear antibodies,
+anti-SSA/Ro antibodies and anti-nuclear RNP antibodies in patients with idiopathic
+thrombocytopenic purpura. Thromb Haemost. Feb;71(2):184-7.
+7.
+Stasi, R,, Stipa, E., Masi, M., Oliva, F., Sciarra, A., Perrotti, A., Olivieri, M., Zaccari,
+G., Gandolfo, G.M., Galli, M., (1994). Prevalence and clinical significance of elevated
+antiphospholipid antibodies in patients with idiopathic thrombocytopenic purpura.
+Blood. Dec 15; 84(12):4203-4208.
+8.
+Pegels, J.G., Helmerhorst, F.M., van Leeuwen, E.F., van de Plas-van Dalen, C.,
+Engelfriet, C.P., von dem Borne, A.E. (1982). The Evans syndrome :characterization
+of the responsible autoantibodies. Br J Haematol. Jul: (3):445-450
+9.
+Mak, Y.K., Yu, P.H., Chan, C.H., Chu, Y.C. (2000) . The management of isolated
+thrombocytopenia in Chinese adults: does bone marrow examination have a role at
+presentation? Clin Lab Haematol. Dec;22(6):355-358.
+10.
+Brighton, T.A., Evans, S., Castaldi, P.A.,Chesterman, C.N., Chong, B.H (1996) .
+Prospective evaluation of the clinical usefulness of an antigen-specific assay(MAIPA)
+in idiopathic thrombocytopenic purpura and other immune thrombocytopenias. Blood.
+Jul 1;88(1):194-201
+11.
+Warner, M.N., Moore, J.C., Warkentin, T.E., Santos, A.V., Kelton, J.G. (1999). A
+prospective study of protein-specific assays used to investigate idiopathic
+thrombocytopaenic purpura. Br J Haematol, Mar: 104(3):442-447
+12.
+Portielje, J.E.A., Westendorf, R.G.J., Kluin-Nelemans, H.C., Brand, A. (2001)
+Morbidity and mortality in adults with ITP. Blood, 97: 2549-2554
+13.
+Cohen, Y.C., Djulbegovic, B., Shamai-Lubovitz, O., Mozes, B. (2000). The bleeding
+risk and natural history of idiopathic thrombocytopenic purpura in patients with
+persistent low platelet counts. Arch Intern Med. Jun 12;160(11):1630-1638.
+14.
+Vianelli, N., Valdre, L., Fiacchini, M., de Vivo, A., Gugliotta, L., Catani, L., Lemoli,
+R.M., Poli, M., Tura ,S. (2001) . Long-term follow-up of idiopathic thrombocytopenic
+purpura in 310 patients. Haematologica. May; 86(5):504-509.
+15.
+George, J.N., el-Harake M.A., Raskob, G.E. (1994). Chronic idiopathic
+thrombocytopenic purpura. N Engl J Med. Nov 3; 331(18):1207-1211
+16.
+Stasi,R., Stipa,E., Masi,M., Cecconi,M., Scimo,M.T., Oliva,F., Sciarra,A., Perrotti,A.P.,
+Adomo,G., Amadori,S.(1995). Long-term observation of 208 adults with chronic
+idiopathic thrombocytopaenic purpura. Am J Med, May:98(5):436-442
+17.
+Zimmer, .J, Andres, E., Noel, E., Koumarianou, A., Blickle, J.F., Maloisel, F. (2004).
+Current management of adult idiopathic thrombocytopenic purpura in practice: a
+cohort study of 201 patients from a single center. Clin Lab Haematol. Apr; 26(2):137-142.
+18.
+von dem Borne,A.E., Vos,J.J., Pegels,J.G., Thomas,L.L., van der Lelie, (1988). High
+dose intravenous methylprednisolone or high dose intravenous gammaglobulin for
+autoimmune thrombocytopenia. Br Med J (Clin Res Ed),Jan 23:296(6617):249-250.
+19.
+Dwyer,J.M.(1992). Manipulating the immune system with immune globulin. N Engl J
+Med, Jan 9:326(2):107-116
+20.
+Godeau, B., Chevret, S., Varet, B., Lefrere, F., Zini, J.M., Bassompierre, F., Cheze,
+S., Legouffe, E., Hulin, C., Grange, M.J., Fain, O., Bierling,P. (2002). Intravenous
+immunoglobulin or high-dose methylprednisolone, with or without oral prednisone,
+for adults with untreated severe autoimmune thrombocytopenic purpura: a
+randomised, multicentre trial. Lancet. Jan 5; 359(9300):23-29.
+21.
+Godeau, B., Lesage, S., Divine, M., Wirquin, V., Farcet, J.P., Bierling , P. (1993).
+Treatment of adult chronic autoimmune thrombocytopenic purpura with repeated
+high-dose intravenous immunoglobulin. Blood. Sep 1; 82(5):1415-1421
+22.
+Pizzuto, .J, Ambriz, R. (1984). Therapeutic experience on 934 adults with idiopathic
+thrombocytopenic purpura: Multicentric Trial of the Cooperative Latin American group
+on Hemostasis and thrombosis. Blood. Dec; 64(6):1179-1183
+23.
+Fabris, F., Tassan, T., Ramon, R., Carraro, G., Randi, M.L., Luzzatto, G., Moschino,
+P., Girolami , A. (2001). Age as the major predictive factor of long-term response to
+splenectomy in immune thrombocytopenic purpura. Br J Haematol. Mar; 112(3):637640.
+24.
+Kumar, S., Diehn, F.E., Gertz, M.A., Tefferi, A. (2002). Splenectomy for immune
+thrombocytopenic purpura: long-term results and treatment of postsplenectomy
+relapses. Ann Hematol. Jun; 81(6):312-319. Epub Jun 5.
+25.
+Schwartz, J., Leber, M.D., Gillis, S., Giunta, A., Eldor, A., Bussel, J.B. (2003). Long
+term follow-up after splenectomy performed for immune thrombocytopenic purpura
+(ITP). Am J Hematol. Feb; 72(2):94-98
+26.
+British Committee for Standards in Haematology General Haematology Task Force
+(2003). Guidelines for the investigation and management of idiopathic
+thrombocytopaenic purpura in adults, children and in pregnancy. British Journal of
+Haematology, 120, 574-596.
+27.
+Bell, W.R Jr.(2002). Role of splenectomy in immune (idiopathic) thrombocytopenic
+purpura. Blood Rev. Mar;16(1):39-41
+28.
+Naouri, A., Feghali, B., Chabal, J., Boulez, J., Dechavanne, M., Viala, J.J., Tissot,E.
+(1993). Results of splenectomy for idiopathic thrombocytopenic purpura. Review of
+72 cases. Acta Haematol.; 89(4):200-203
+29.
+Radaelli, F., Faccini, P.,Goldaniga, M., Guggiari, E.,Pozzoli, E., Maiolo, A.T., Ciani,
+A., Pogliani, E.M. (2000). Factors predicting response to splenectomy in adult patients
+with idiopathic thrombocytopenic purpura. Haematologica. Oct; 85(10):1040-1044
+30.
+Ruivard, M., Caulier, M.T., Vantelon, J.M., Tournilhac, O., Schaeffer,A., Godeau, B.,
+Bierling, P. (1999). The response to high-dose intravenous immunoglobulin or steroids
+is not predictive of outcome after splenectomy in adults with autoimmune
+thrombocytopenic purpura. Br J Haematol. Jun; 105(4):1130-1132
+31.
+Mazzucconi, M.G., Francavilla, V., Felici, C., Macale, E.,Conti, L., Gandolfo,
+G.M.,Arista, M.C., .Peraino, M., Chistolini, A.(1999). Long-term follow-up of
+autoimmune thrombocytopenic purpura (ATP) patients submitted to splenectomy.
+Eur J Haematol. Apr;62(4):219-222.
+32.
+Choi, C.W., Kim, B.S., Seo, J.H., Shin, S.W., Kim,Y.H., Kim, J.S., Sohn, S.K., Kim,
+J.S., Shin, D.G., Ryoo, H.M., Lee, K.H., Lee, .J.J, Chung, I.J., Kim, H.J., Kwak, J.Y.,
+Yim, C.Y., Ahn, J.S., Lee, .J.A., Park, Y.S. (2001). Response to high-dose intravenous
+immune globulin as a valuable factor predicting the effect of splenectomy in chronic
+idiopathic thrombocytopenic purpura patients. Am J Hematol. Mar; 66(3):197-202.
+33.
+Law, C., Marcaccio, M., Tam, P., Heddle, N., Kelton, J.G., High-dose intravenous
+immune globulin and the response to splenectomy in patients with idiopathic
+thrombocytopenic purpura Schneider, P., Wehmeier, A., Schneider, W.(1997). Highdose intravenous immune globulin and the response to splenectomy in patients with
+idiopathic thrombocytopaenic purpura. New England Journal of Medicine, 337: 10871088
+34.
+Schneider, P., Wehmeier, A., Schneider, W.(1997). High-dose intravenous immune
+globulin and the response to splenectomy in patients with idiopathic
+thrombocytopaenic purpura. New England Journal of Medicine, 337: 1087-1088
+35.
+Bussel, .JB., Kaufmann ,C.P., Ware, R.E., Woloski, B.M. (2001).Do the acute platelet
+responses of patients with immune thrombocytopenic purpura (ITP) to IV anti-D
+and to IV gammaglobulin predict response to subsequent splenectomy? Am J
+Hematol , May;67(1):27-33.
+36.
+Najean, Y., Rain, J.D., Billotey, C,. (1997). The site of destruction of autologous 111
+in-labelled platelets and the efficiency of splenectomy in children and adults with
+idiopathic thrombocytopaenic purpura: a study of 578 patients with 268
+splenectomies. Br J Haematol, 97(3):547-550
+37.
+Bisharat N., Omari, H., Lavi, I., Raz, R. (2001). Risk of infection and death among
+post-splenectomy patients. J Infect, Oct: 43(3):182-186.
+38.
+Harold, K.L., Schlinkert, R.T., Mann, D.K., Reeder, C.B., Noel, ,P,, Fitch, T.R.,
+Braich, T.A., Camoriano, J.K.( 1999). Long-term results of laparoscopic splenectomy
+for immune thrombocytopenic purpura. Mayo Clin Proc. Jan;74(1):37-39
+39.
+Ahn, Y.S., Rocha, R., Mylvaganam, R., Garcia, R., Duncan, R. & Harrington, W.J.
+(1989). Long-term danazol therapy in autoimmune thrombocytopenia: unmaintained
+remission and age-dependent response in women. Annals of Internal Medicine, 111,
+723-729
+40.
+Stasi,R., Provan,D.(2004). Management of Immune Thrombocytopaenic Purpura in
+Adults. Mayo Clin Proc. Apr;79(4):504-522
+41.
+Quiquandon I, Fenaux P, Caulier MT, Pagniez D, Huart JJ, Bauters F. (1990). Reevaluation of the role of azathioprine in the treatment of adult chronic idiopathic
+thrombocytopenic purpura: a report on 53 cases. Br J Haematol. Feb;74(2):223228
+42.
+McMillan, R., Wang, L., Lopez-Dee, J., Jiu, .S, Loftus, .C. (2002). Many alpha IIb
+beta3 autoepitopes in chronic immune thrombocytopenic purpura are localized to
+alpha IIb between amino acids L1 and Q459. Br J Haematol. Sep; 118(4):11321136.
+43.
+Bouroncle, B.A, Doan, C.A. (1969). Treatment of refractory idiopathic
+thrombocytopenic purpura. JAMA. Mar 17;207(11):2049-2052.
+44.
+Kyle R.A., Gertz M.A. Second malignancies after chemotherapy. In : Perry M.C.,
+Wiiliams & Wilkins; 1992: 689-702
+45.
+Godeau, B., Durand, J.M., Roudot-Thoraval, F., Tenneze, A., Oksenhendler, E.,
+Kaplanski, G., Schaeffer, A., Bierling, P., (1997) Dapsone for chronic autoimmune
+thrombocytopaenic purpura: a report of 66 cases. British Journal of Haematology,
+97, 336-339.
+46.
+Hernandez ,F., Linares, M., Colomina, P., Pastor, E., Cervero, A., Perez,A.
+Perella,M.(1995). Dapsone for refractory chronic idiopathic thrombocytopaenic
+purpura. Br J Haematology, 90, 473 475.
+47.
+Scaradavou, A., Woo, B., Woloski, B.M., Cunningham-Rundles, S., Ettinger, L.J.,
+Aledort, L.M., Bussel, J.B. (1997). Intravenous anti-D treatment of immune
+thrombocytopenic purpura: experience in 272 patients. Blood. Apr 15;89(8):2689-2700.
+48.
+Bussel, J.B., Graziano, J.N., Kimberly, R.P., Pahwa, S., Aledort, L.M. (1991).
+Intravenous anti-D treatment of immune thrombocytopenic purpura: analysis of
+efficacy, toxicity, and mechanism of effect. Blood. 1991 May 1;77(9):1884-1893.
+49.
+Newman, G.C., Novoa, M.V., Fodero, E.M., Lesser, M.L., Woloski, B.M., Bussel,
+J.B. (2001). A dose of 75 microg/kg/d of i.v. anti-D increases the platelet count more
+rapidly and for a longer period of time than 50 microg/kg/d in adults with immune
+thrombocytopenic purpura. Br J Haematol. Mar; 112(4):1076-1078.
+50.
+Cortelazzo, S., Finazzi, G., Buelli,M., Molteni,A., Viero,P., Barbui,T. (1991). High
+risk of bleeding in aged patients with ITP. .Blood, 71:31-33
+51.
+Fujimura, K., Kuwana, M., Kurata, Y., Imamura, M., Harada, H., Sakamaki, H.,
+Teramura, M., Koda,K., Nomura, S., Sugihara, S., Shimomura, T., Fujimoto, T.T.,
+Oyashiki, K., Ikeda, Y. (2005). Is eradication therapy useful as the first line of treatment
+in Helicobacter pylori-positive idiopathic thrombocytopaenic purpura? Analysis of
+207 eradicated chronic ITP cases in Japan. Int J Hematol. 81(2):162-168
+52.
+Sikorska, A., Slomkowski, M., Marlanka, K., Konopka, L., Gorski, T.(2004). The use
+of vinca alkaloids in adult patients with refractory chronic idiopathic thrombocytopenia.
+Clin Lab Haematol. 26(6):407-411.
+53.
+Akoglu, T., Paydas, S., Bayik, M., Lawrence, R., Firatli, T. (1991). Megadose
+methylprednisolone pulse therapy in adult idiopathic thrombocytopenic purpura.
+Lancet. Jan 5;337(8732):56.
+54.
+Emilia, G., Morselli, M., Luppi, M., Longo, G., Marasca, R., Gandini, G., Ferrara ,L.,
+D’Apollo, N., Potenza, L., Bertesi, M., Torelli,G. (2002). Long-term salvage therapy with
+cyclosporin A in refractory idiopathic thrombocytopaenic purpura. Blood 99 : 14821485
+55.
+Kappers-Klunne, M.C., van’t Veer, M.B.(2001). Cyclosporin A for the treatment of
+patients with chronic idiopathic thrombocytopaenic purpura refractory to
+corticosteroids or splenectomy. British Journal of Haematology, 114: 121-125.
+56.
+Provan, D., Moss, A.J., Newland, A.C., Bussel, J.B. (2006). Efficacy of mycophenolate
+mofetil as single-agent therapy for refractory immune thrombocytopenic purpura.
+Am J Hematol. Jan, 81(1):19-25.
+57.
+Zhang, W.G., Ji ,L., Cao, X.M., Chen, Y.X., He, A.L., Liu, J., Zhao, W.H., Zou, S.P.
+(2005). Mycophenolate mofetil as a treatment for refractory idiopathic
+thrombocytopaenic purpura. Acta Pharmacol Sin ; 26(5):598-602
+58.
+Braendstrup, P., Bjerrum, O.W., Nielsen, O.J., Jensen, B.A., Clausen, N.T., Hansen,
+P.B., Andersen, I., Schmidt, K., Andersen, T.M., Peterslund, N.A., Birgens, H.S.,
+Plesner, T., Pedersen, B.B., Hasselbalch, H.C. (2005). Rituximab chimeric anti-CD20
+monoclonal antibody treatment for adult refractory idiopathic thrombocytopaenic
+purpura. Am J Hematol, 78(4):275-280.
+59.
+Stasi, R., Pagano, A., Stipa, E., Amadori, S. (2001). Rituximab chimeric anti-CD20
+monoclonal antibody treatment for adults with chronic idiopathic thrombocytopenic
+purpura. Blood. Aug 15; 98(4):952-957
+60.
+Figueroa,M., Gehlson,J., Hammond,D., Ondreyco,S., Piro L, Pomeroy T, William F,
+McMillan R (1993). Combination chemotherapy in refractory ITP. NEJM, 328:12261229
+61.
+Cosgriff, T.M., Black, M.L., Stein, I.I.I,W. (1998). Successful treatment of severe
+refractory idiopathic thrombocytopaenic purpura with liposomal doxorubicin. American
+Journal of Hematology, 57: 85-86
+62.
+Willis , F., Marsh, J.C., Bevan, D.H., Killick, S.B., Lucas, G., Griffiths, R., Ouwehand,
+W., Hale, G., Waldmann, H., Gordon-Smith, E.C. (2001). The effect of treatment with
+Campath-1H in patients with autoimmune cytopenias. Br J Haematology, 114: 891-898
+63.
+Cahill, M.R., Macey, M.G., Cavenagh, J.D., Newland, A.C. (1998). Protein A
+immunoadsorption in chronic refractory ITP reverses increased platelet activation but
+fails to achieve sustained clinical benefit. British Journal of Haematology, 100, 358-364.
+64.
+Martino, R., Sureda, A., Brunet, S. (1997). Peripheral blood stem cell mobilization in refractory
+autoimmune Evans syndrome: a cautionary case report. Bone Marrow Transplant. Sep; 20(6):521
+65.
+Butler, J.P., Durrant ,S.T.S, Frost, T. (2003). Successful remission of chronic,
+refractory ITP following non-myeloblative alloeniec stem cell transplantation. Bone
+Marrow Transplantation, 31, 621-622
+66.
+British Committee for Standards in Haematology, Blood Transfusion Task Force
+(2003). Guideline for the use of platelet transfusion. Br J Haematol, Jul:122(1):10-23.
+67.
+Imbach P. Immune Thrombocytopenia Purpura. In: Lilleyman JS, Hann IM, Blanchette
+VS, editors. Pediatric Hematology 2nd edition, London. Churchill Livingstone, 1999
+68.
+Halperin, D.S., Doyle, J.J. (1988). Is bone marrow examination justified in idiopathic
+thrombocytopenic purpura? Am J Dis Child. May; 142(5):508-5011
+69.
+Bolton-Maggs, P.H., Dickerhoff, R., Vora, A.J. (2001). The nontreatment of childhood
+ITP (or “the art of medicine consists of amusing the patient until nature cures the
+disease”). Semin Thromb Hemost. Jun;27(3):269-275.
+70.
+Kuhne, T., Imbach, P., Bolton-Maggs, P.H., Berchtold, W., Blanchette, V., Buchanan,
+G.R. (2001). Newly diagnosed idiopathic thrombocytopenic purpura in childhood:
+an observational study. Lancet Dec 22-29;358(9299):2122-2125.
+71.
+Blanchette,V.,Imbach,P., Andrew,M., Sommerville- Nielsen S, Barnard D, Bernestein
+M, Chan KW, Esseltine,D., de verber,B., Israel,S., Kobrinsky, N., Luke,B. (1994).
+Intravenous anti D and oral prednisolone in childhood acute immune
+thrombocytopaenic purpura. Lancet,344(8924):703-707
+72.
+Carcao, M.D., Zipursky,A., Butchart,S, Leake,M., Blanchette,V.S. (1998). Short
+course of oral prednisolone therapy in children presenting with acute immune
+thrombocytopaenic purpura (ITP). Acta Paediatrica Supp, 424: 71-74
+73.
+Blanchette, V.S., Luke,B., Andrew, M., Adams, M., Mcmillan, J., Wang, E., Milner,
+R., Ali, K., Barnard, D., Bernstein, M., Chan, K.W., Esseltine, D., deVeber, B., Gent,
+M. (1993). A prospective randomised trial of high dose intravenous immunoglobulin
+G therapy, oral prednisone therapy and no therapy in childhood acute immune
+thrombocytopaenic purpura. Pediatr; 123(6):989-995.
+74.
+Cines, D.B., Blanchette, V.S.(2002). Immune thrombocytopaenic purpura. N Engl J
+Med,346(13) : 995 – 1008
+75.
+Reid MM. Chronic idiopathic thrombocytopenic purpura: incidence, treatment, and
+outcome.Arch Dis Child. 1995 Feb; 72(2):125-128.
+76.
+Blanchette, V.S., Price,V. (2003). Childhood chronic immune thrombocytopaenic
+purpura: unresolved issues. Pediatr Hematol Oncol, 25(supp 1): 28-33
+77.
+Lilleyman, J.S. (2000). Chronic childhood idiopathic thrombocytopenic purpura.
+Baillieres Best Pract Res Clin Haematol. Sep; 13(3):469-483
+78.
+Andersen, J.C., (1994). Response of resistant idiopathic thrombocytopaenic purpura
+to pulse high dose dexamethasone therapy. N Engl J Med,330:560 – 564
+79.
+Ozer,E.A., Yaprak,I., Atabay,B., Turker,M., Aksit,S., Sarioglu,B.(2000). Oral cyclic
+megadose methylprednisolone therapy for chronic immune thrombocytopaenic
+purpura in childhood. Eur J Hematol 64:411-415
+80.
+Tarantino, M.D., Madden, R.M., Fennewald, D.L., Patel, C.C., Bertolone, S.J. (1999).
+Treatment of childhood acute immune thrombocytopenic purpura with anti-D immune
+globulin or pooled immune globulin. J Pediatr. Jan;134(1):21-26.
+81.
+Eraklis, A.J.,Filler, R.M. (1972). Splenectomy in childhood; a review of 1413 cases.
+J Pediatr Surg, 7(4):382-388
+82.
+Eden, O.B., Lilleyman, J.S., (1992). Guideline for the management of idiopathic
+thrombocytopaenic purpura. The British Paediatric Haematology Group. Arch Dis
+Child, 67(8): 1056-1058.
+83.
+Bolton-Maggs, P.H.( 2000). Idiopathic thrombocytopenic purpura. Arch Dis Child.
+Sep;83(3):220-222.
+84.
+Bengstson, K.L.(2003). J Pediatr 143(5): 670-673
+85.
+Medeiros, D., Buchanan, G.R.( 1998). Major hemorrhage in children with idiopathic
+thrombocytopenic purpura: immediate response to therapy and long-term outcome.J
+Pediatr. Sep;133(3):334-339.
+86.
+Lilleyman, J.S. (1994). Intracranial haemorrhage in idiopathic thrombocytopaenic
+purpura. Paediatric Haematology Forum of the British Society for Haematology. Arch
+Dis Child, 71(3): 251-253
+87.
+Iyori, H., Bessho, F., Ookawa, H, Konishi,S., Shirahata, A., Miyazaki, S., Fujisawa,
+K., Akatsuka, J (2000). Japanese Study Group on childhood ITP. Intracranial
+hemorrhage in children with immune thrombocytopaenic purpura. Japanese Study
+Group on childhood ITP. Ann Hematol, 79(12):691-695
+88.
+Bolton-Maggs, P.(2003). Severe bleeding in idiopathic thrombocytopaenic purpura.
+J Pediatr Hematol Oncol: 25: S47-S51
+89.
+van Hoff J, Ritchey, A.K. (1988). Pulse methylprednisolone therapy for acute
+childhood idiopathic thrombocytopenic purpura. J Pediatr. Sep;113(3):563-566.
+90.
+Kuhne, T., Freedman, J., Semple, J.W., Doyle, J., Butchart, S., Blanchette, V.S.
+(1997). Platelet and immune responses to oral cyclic dexamethasone therapy in
+childhood chronic immune thrombocytopaenic purpura. J Pediatr,130(1):17-24
+91.
+Borgna-Pignatti, C., Rugolotto,S., Nobili, B., Amendola, G., De Stefano, P.,
+Maccario,R., Locatelli, F.(1997). A trial of high dose dexamethasone therapy for
+chronic idiopathic thrombocytopaenic purpura in childhood. Journal of
+Pediatrics,30(1):13-16
+92.
+Chen, J.S., Wu, J.M., Chen, Y.J., Yeh, T.F.(1997). Pulsed high dose dexamethsone
+therapy in children with chronic idiopathic thrombocytopaenic purpura. J Pediatr
+Hematol Oncol,19(6): 526-529
+93.
+Warrier, I., Bussel, J.B., Valdez, L., Barbosa, J., Beardsley, D.S. (1997). Safety and
+efficacy of low-dose intravenous immune globulin (IVIG) treatment for infants and
+children with immune thrombocytopaenic purpura. Low-Dose IVIG Study Group. J
+Pediatr Hematol Oncol : 19(3):197-201
+94.
+Barrios, N.J., Humbert, J.R., McNeil,J., (1993). Treatment of acute idiopathic
+thrombocytopaenic purpura with high dose methylprednisolone and immunuglobulins.
+Acta Hematol , 89(1):6-9
+95.
+Kuhne T, Imbach P. (1998). Management of children with acute and chronic immune
+thrombocytopenic purpura. Transfus Sci. Sep;19(3):261-268.
+96.
+Medeiros, D., Buchanan, G.R. (2000). Idiopathic thrombocytopenic purpura: beyond
+consensus. Curr Opin Pediatr. Feb; 12(1):4-9.
+97.
+Hashizume, M., Ohta, M., Kishihara, F., Kawanaka, H., Tomikawa, M., Ueno, K.,
+Tanoue, K., Higashi, H., Kitano, S., Sugimachi, K. (1996). Laparoscopic splenectomy
+for idiopathic thrombocytopaenic purpura: comparison of laparoscopic surgery and
+conventional open surgery. Surg Laparosc Endosc 6(2):129-135
+98.
+Marcaccio, M.J. (2000). Laparoscopic splenectomy in chronic idiopathic
+thrombocytopaenic purpura. Semin Hematol, 37(3) : 267-274
+99.
+Karim ,R., Sacher, R.A.(2004). Thrombocytopenia in pregnancy. Curr Haemato Rp,
+Mar: 3(2):128-133
+100. Burrows, R.F., Kelton, J.G. (1993). Pregnancy in patients with idiopathic
+thrombocytopenia purpura: assessing the risks for the infant at delivery. Obstet
+Gynecol Surv,48:781-788
+101. Burrows, R.F., Kelton, J.G. (1992). Thrombocytopenia during pregnancy, in
+Haemostasis and Thrombosis in Obstretrics and Gynaecology, ed I.A. Greer, AGG
+Turpie and CD Forbes. Chapman & Hall London
+102. Gill,K.K., Kelton,J.G. (2000). Management of idiopathic thrombocytopaenic purpura
+in pregnancy. Semin Hematol,37:275-289
+103. Shehata, N., Burrows, R., Kelton, J.G.(1999). Gestational thrombocytopenia. Clin
+Obstet Gynecol, 42: 327-334
+104. Letsky, E.A., Greaves, M.(1996). Guidelines on the investigation and management
+of thrombocytopenia in pregnancy and neonatal alloimmune thrombocytopenia.
+Maternal and Neonatal Haemostasis Working Party of the Haemostasis and
+Thrombosis Task Force of the British Society of Haematology. British Journal of
+Haematology, 95: 21-26
+105. Smith, B.T., Torday, J.S.(1982). Steroid administration in pregnant women with
+autoimmune thrombocytopenia. NEJM 306, 744-745
+106. Michel, M., Novoa, M.V., Bussel, J.B.(2003). Intravenous anti- D as a treatment for
+immune thrombocytopenia during pregnancy. Br J Haemotol, 123: 142-146
+107. Webert, K.E., Mittal, R., Sigouin, C., Heddle, N.M., Kelton, J.G. (2003). A retrospective
+11 year analysis of obstretic patients with idiopathic thrombocytopenia purpura. Blood,
+15 December (102) 4306-4311.
+108. Lichtin, A.(1996). The ITP practice guideline: what, why, and for whom? Blood, 88,
+1-2
+109. Cines ,D.B., Bussel, J.B.(2005). How I treat ITP. Blood, October 106 (7) 2244-2251
+110. Yamada, H., Kato, E.H., Kobashi, G., Kishida, T., Ebina, Y, Kaneuchi M, Suzuki S,
+Fujimoto S. (1999). Passive immune thrombocytopenia in neonates of mothers with
+idiopathic thrombocytopenic purpura: incidence and risk factor. Semin Thromb
+Hemost.; 25(5): 491-496
+111. Song, T.B., Lee, .Y., Kim, Y.H., Choi, Y.Y. (1999). Low neonatal risk of
+thrombocytopenia in pregnancy associated with immune thrombocytopenic purpura.
+Fetal Diagn Ther. Jul-Aug;14(4):216-219
+112. Burrows, R.F., Kelton, J.G. (1993). Fetal thrombocytopenia and its relation to maternal
+thrombocytopenia. NEJM,329:1463-1466
+113. Fujimura, K., Harada, Y., Fujimoto, T., Kuramoto, A., Ikeda, Y., Akatsuka, J., Dan,
+K., Omine, M., Mizoguchi, H. (2002). Nationwide study of idiopathic thrombocytopenic
+purpura in pregnant women and the clinical influence on neonates. Int J Hematol.
+May; 75(4):426-433.
+114. Bussel, J.B., Graziano, J.N., Kimberly, R.P., Pahwa, S., Aledort, L.M. (1991).
+Intravenous anti-D treatment of immune thrombocytopenic purpura: analysis of
+efficacy, toxicity, and mechanism of effect. Blood. May 1;77(9):1884-1893.
+115. Christiaens G.C., Nieuwenhuis H.K., Bussel J.B., (1997). Comparison of platelet
+counts in first and second newborns of mothers with immune thrombocytopenic
+purpura. Obstet Gynecol. Oct;90(4 Pt 1):546-552
+116. Burrows, R.F., Kelton, J.G.( 1990). Low fetal risks in pregnancies associated with
+idiopathic thrombocytopenic purpura. Am J Obstet Gynecol. Oct;163(4 Pt 1):11471150.
+117. Blanchette, V., Andrew ,M., Perlman, M., Ling,E., Ballin, A.(1989). “Neonatal
+autoimmune thrombocytopenia: role of high-dose intravenous immunoglobulin G
+therapy”. Blut Jul,59(1):139-144
+ACKNOWLEDGEMENTS
+The committee of this guideline would like to express their gratitude and
+appreciation to the following for their contribution:
+
+Panel of external reviewers who reviewed the draft form.
+
+Technical Advisory Committee for Clinical Practice Guidelines for their
+valuable input and feedback.
+
+CPG Secretariat, particularly Datin Dr Rugayah Bakri, Head of Health
+Technology Assessment Unit, and Ms Hanita Muhsin, Nursing
+Manager, Medical Development Division, Ministry of Health Malaysia.
+DISCLOSURE STATEMENT
+The panel members have no potential conflict of interest to disclose.
+SOURCES OF FUNDING
+The development of the CPG on Immune Thrombocytopenic Purpura was
+supported financially in its entirety by the Ministry of Health Malaysia and
+was developed without any involvement of the pharmaceutical industry.
+LEVELS OF EVIDENCE SCALE
+Study Design
+Level
+Strength of
+Evidence
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Good
+Good
+Good to Fair
+Good to Fair
+Fair
+Fair
+Poor
+Poor
+Poor
+Meta-analysis of RCT, Systematic review
+Large sample RCT
+Small sample RCT
+Non-randomised controlled prospective trial
+Non-randomised controlled prospective trial
+with historical control
+Cohort studies
+Case-control studies
+Non-controlled clinical series, descriptive
+studies multi-centre
+Expert committees, consensus, case reports
+anecdotes
+Adapted from Catalonian Agency for Health Technology Assessment & Research,
+(CAHTAR) Spain
+At least one meta analysis, systematic review, or RCT, or evidence
+rated as good and directly applicable to the target population
+Evidence from well conducted clinical trials, directly applicable to
+the target population, and demonstrating overall consistency of
+results; or evidence extrapolated from meta analysis, systematic
+review, or RCT
+Evidence from expert committee reports, or opinions and /or
+clinical experiences of respected authorities; indicates absence
+of directly applicable clinical studies of good quality
+GRADES OF RECOMMENDATIONS
+A
+B
