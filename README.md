@@ -1,8 +1,32 @@
 # AIMS Medical Scribe
 
-## Description
-
 AIMS (AI Medical Scribe) is a clinical documentation assistant that helps healthcare professionals generate structured SOAP (Subjective, Objective, Assessment, Plan) notes. The application combines voice transcription with AI-assisted content generation to streamline clinical documentation.
+
+## Table of Contents
+- [System Components](#system-components)
+  - [RAG CPG Pipeline](#rag-cpg-pipeline)
+  - [Backend](#backend)
+  - [Frontend](#frontend)
+- [Features](#features)
+- [Technology Stack](#technology-stack)
+- [Setup Instructions](#setup-instructions)
+- [Usage Workflow](#usage-workflow)
+- [Project Structure](#project-structure)
+- [Troubleshooting](#troubleshooting)
+- [Contributing](#contributing)
+- [License](#license)
+- [Support](#support)
+
+## System Components
+
+### RAG CPG Pipeline
+The RAG (Retrieval-Augmented Generation) CPG (Clinical Practice Guidelines) pipeline processes and structures medical guidelines for use in the AI-assisted documentation system.
+
+### Backend
+Located in `backend/` directory, provides API endpoints and core services.
+
+### Frontend 
+Located in `frontend/` directory, contains clinical documentation interface.
 
 ## Features
 
@@ -12,12 +36,55 @@ AIMS (AI Medical Scribe) is a clinical documentation assistant that helps health
 - **AI-Assisted Generation:** Context-aware suggestions for Assessment and Plan sections
 - **Clinical Summary:** Automated generation of concise patient summaries
 
+### Backend Services
+- Voice transcription service
+- AI generation service
+- Database operations
+- API endpoints for frontend integration
+
+### Frontend Components
+- SOAP note workflow components
+- Voice recording interface
+- Clinical documentation forms
+- AI suggestion display components
+
 ### Technical Features
 - **Web-Based Interface:** Responsive design for desktop use
 - **Data Persistence:** Patient notes stored securely in local database
 - **Real-Time Processing:** Immediate feedback during note creation
 
 ## Technology Stack
+
+### RAG CPG Pipeline
+**Core Technologies:**
+- Python
+- PyMuPDF (fitz)
+- Tesseract OCR (pytesseract)
+- spaCy (en_core_web_sm, en_core_web_md)
+- Sentence Transformers (`basilisk78/nomic-v2-tuned-1`)
+- PyTorch
+
+**Data Processing:**
+- JSON/JSONL
+- UUID
+- Regular expressions
+- Pillow (PIL)
+
+**Vector Database:**
+- Vertex AI Vector Search (Google Cloud)
+
+**Pipeline Stages:**
+- Text extraction
+- Cleaning
+- Chunking
+- Embedding generation
+- Vector storage/retrieval
+
+**Supporting Libraries:**
+- jsonlines
+- google-auth
+- einops
+- nomic-ai/megablocks
 
 ### Backend
 - Python 3.9+
@@ -75,24 +142,6 @@ AIMS (AI Medical Scribe) is a clinical documentation assistant that helps health
 
 ```
 AIMS-website/
-├── backend/           # Flask application
-│   ├── app.py         # Main application
-│   ├── database.py    # Database operations
-│   ├── services/      # Integration services
-│   └── routes/        # API endpoints
-├── frontend/          # Web interface
-│   ├── *.html         # Page templates  
-│   ├── *.css          # Stylesheets
-│   └── components/    # UI components
-├── requirements.txt   # Python dependencies
-└── README.md          # This file
-```
-
-## Troubleshooting
-
-### Common Issues
-- **Database Errors:** Delete `notes_main.db` to reset
-- **API Connection Issues:** Verify service account credentials
 ├── backend/           # Core application logic
 │   ├── app.py         # Main application entry
 │   ├── database.py    # Secure data storage
@@ -106,6 +155,12 @@ AIMS-website/
 ├── rag_cpg_pipeline/  # Supporting RAG processing
 └── requirements.txt   # Dependency management
 ```
+
+## Troubleshooting
+
+### Common Issues
+- **Database Errors:** Delete `notes_main.db` to reset
+- **API Connection Issues:** Verify service account credentials
 
 ## Contributing
 We welcome contributions from the medical and technical communities. Please contact the development team for contribution guidelines and code of conduct.
