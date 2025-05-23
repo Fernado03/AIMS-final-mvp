@@ -110,8 +110,10 @@
                         <div class="summary-main">
                             <div class="summary-container3">
                                 <h1 class="summary-text10 HeadingOne" style="text-align: center; margin-bottom: 1rem;">Summary of Generated SOAP</h1> <!-- Added HeadingOne for consistency if soap-styles targets it -->
-                                <button type="button" id="generateSummaryButton" class="button ButtonSmall" style="margin-bottom: 10px;">Generate Summary</button>
-                                <div id="summaryLoadingIndicator" style="display: none; padding: 10px; color: #4a5568; background-color: #f0f4f8; border: 1px solid #e2e8f0; border-radius: 6px; margin-bottom: 10px;">Generating summary...</div>
+                                <div class="generate-button-container">
+                                    <button type="button" id="generateSummaryButton" class="generate-button">Generate Summary</button>
+                                    <div id="summaryLoadingIndicator" class="loading-indicator">Generating summary...</div>
+                                </div>
                                 <div id="summaryDisplayArea" class="transcript-container" style="white-space: pre-wrap; background-color: #f8f9fa; border: 1px solid #ced4da; padding: 15px; border-radius: 6px; min-height: 200px;"></div>
                             </div>
                         </div>
