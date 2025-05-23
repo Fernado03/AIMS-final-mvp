@@ -104,14 +104,16 @@
                 <div class="transcript3-contact">
                     <div class="transcript3-container11">
                         <div class="transcript3-form1">
-                            <div id="assessmentPageLoadingIndicator" style="display: none; padding: 10px; color: #004085; background-color: #cce5ff; border: 1px solid #b8daff; border-radius: 4px; margin-top: 15px; margin-bottom: 15px; text-align: center;">
-                                Generating assessment...
-                            </div>
                             <form class="transcript3-form-assessment">
                                 <h1 class="transcript3-text3 HeadingOne">3. Assessment</h1>
                                 <div class="transcript-container"> <!-- Re-using class for consistent styling -->
                                   <h3>Assessment</h3>
-                                  <button type="button" id="generateAssessmentButton" class="button ButtonSmall" style="margin-bottom: 10px;">Generate Assessment</button>
+                                  <div class="button-with-indicator">
+                                    <button type="button" id="generateAssessmentButton" class="button ButtonSmall" style="margin-bottom: 10px;">Generate Assessment</button>
+                                    <div id="assessmentPageLoadingIndicator" class="loading-indicator">
+                                        Generating assessment...
+                                    </div>
+                                  </div>
                                   <textarea
                                       id="assessmentText"
                                       name="assessment_text"

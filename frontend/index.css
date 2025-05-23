@@ -1154,9 +1154,10 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: var(--dl-layout-space-doubleunit);
+  gap: var(--dl-layout-space-unit);
   width: 100%;
   margin-top: var(--dl-layout-space-doubleunit);
+  justify-content: space-between;
 }
 
 .team-card {
@@ -1168,8 +1169,8 @@
   transition: all 0.3s ease;
   position: relative;
   overflow: hidden;
-  width: 230px;
-  max-width: 300px;
+  width: calc(20% - var(--dl-layout-space-unit)*2);
+  min-width: 200px;
 }
 
 .team-card:hover {
@@ -1225,7 +1226,10 @@
 /* Responsive Design */
 @media (max-width: 1200px) {
   .team-grid {
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    justify-content: center;
+  }
+  .team-card {
+    width: calc(25% - var(--dl-layout-space-unit)*2);
   }
 }
 
@@ -1243,8 +1247,10 @@
   }
   
   .team-grid {
-      grid-template-columns: 1fr;
-      gap: var(--dl-layout-space-unit);
+    justify-content: center;
+  }
+  .team-card {
+    width: calc(50% - var(--dl-layout-space-unit)*2);
   }
   
   .team-card {
