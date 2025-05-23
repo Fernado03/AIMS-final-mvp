@@ -1,3 +1,105 @@
+// Dialog Manager - Global for all pages
+const dialogManager = {
+    overlay: document.getElementById('customDialog'),
+    title: document.getElementById('dialogTitle'),
+    message: document.getElementById('dialogMessage'),
+    okBtn: document.getElementById('dialogOkBtn'),
+    cancelBtn: document.getElementById('dialogCancelBtn'),
+    isOpen: false,
+    
+    // Show a confirmation dialog
+    confirm: function(message, title = "Confirmation") {
+        return new Promise((resolve) => {
+            this.title.textContent = title;
+            this.message.textContent = message;
+            
+            // Show cancel button
+            this.cancelBtn.style.display = 'block';
+            
+            // Set up button handlers
+            const handleOk = () => {
+                this.close();
+                this.okBtn.removeEventListener('click', handleOk);
+                resolve(true);
+            };
+            
+            const handleCancel = () => {
+                this.close();
+                this.cancelBtn.removeEventListener('click', handleCancel);
+                resolve(false);
+            };
+            
+            // Remove existing listeners and add new ones
+            this.okBtn.replaceWith(this.okBtn.cloneNode(true));
+            this.cancelBtn.replaceWith(this.cancelBtn.cloneNode(true));
+            
+            this.okBtn = document.getElementById('dialogOkBtn');
+            this.cancelBtn = document.getElementById('dialogCancelBtn');
+            
+            this.okBtn.addEventListener('click', handleOk);
+            this.cancelBtn.addEventListener('click', handleCancel);
+            
+            this.open();
+        });
+    },
+    
+    // Show an alert dialog
+    alert: function(message, title = "Alert") {
+        return new Promise((resolve) => {
+            this.title.textContent = title;
+            this.message.textContent = message;
+            
+            // Hide cancel button for alerts
+            this.cancelBtn.style.display = 'none';
+            
+            // Set up button handler
+            const handleOk = () => {
+                this.close();
+                this.okBtn.removeEventListener('click', handleOk);
+                resolve(true);
+            };
+            
+            // Remove existing listener and add new one
+            this.okBtn.replaceWith(this.okBtn.cloneNode(true));
+            this.okBtn = document.getElementById('dialogOkBtn');
+            this.okBtn.addEventListener('click', handleOk);
+            
+            this.open();
+        });
+    },
+    
+    // Open the dialog
+    open: function() {
+        this.overlay.style.display = 'flex';
+        this.isOpen = true;
+    },
+    
+    // Close the dialog
+    close: function() {
+        this.overlay.style.display = 'none';
+        this.isOpen = false;
+    }
+};
+
+// Close dialog when clicking outside
+if (dialogManager.overlay) {
+    dialogManager.overlay.addEventListener('click', function(e) {
+        if (e.target === dialogManager.overlay) {
+            dialogManager.close();
+        }
+    });
+}
+
+// Close dialog with Escape key
+document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape' && dialogManager.isOpen) {
+        dialogManager.close();
+    }
+});
+
+// Make dialog accessible globally
+window.dialogManager = dialogManager;
+
 document.addEventListener('DOMContentLoaded', function() {
     // UI Elements - General
     const statusElement = document.getElementById('recordingStatus'); // Primarily for transcript1
@@ -362,7 +464,8 @@ document.addEventListener('DOMContentLoaded', function() {
                     return;
                 }
                 const subjectiveText = transcriptTextarea ? transcriptTextarea.value : "";
-                if (window.confirm("Save Subjective data and proceed to Objective page?")) {
+                const confirmed = await window.dialogManager.confirm("Save Subjective data and proceed to Objective page?", "Save and Continue");
+                if (confirmed) {
                     try {
                         const response = await fetch('http://127.0.0.1:5000/update_note_subjective', {
                             method: 'POST', headers: { 'Content-Type': 'application/json' },
@@ -407,7 +510,8 @@ document.addEventListener('DOMContentLoaded', function() {
                 if (!currentNoteId) { alert("Error: Note ID missing. Please navigate from the start."); return; }
                 const objectiveText = objectiveTextarea ? objectiveTextarea.value : "";
 
-                if (window.confirm("Save Objective data and proceed to Assessment page?")) {
+                const confirmed = await window.dialogManager.confirm("Save Objective data and proceed to Assessment page?", "Save and Continue");
+                if (confirmed) {
                     if (objectiveLoadingIndicator) objectiveLoadingIndicator.style.display = 'block'; // Show indicator
                     nextButtonObjective.disabled = true; // Disable button
 
@@ -502,7 +606,8 @@ document.addEventListener('DOMContentLoaded', function() {
                 }
                 const assessmentText = assessmentTextarea ? assessmentTextarea.value : "";
 
-                if (window.confirm("Save Assessment data and proceed to Plan page?")) {
+                const confirmed = await window.dialogManager.confirm("Save Assessment data and proceed to Plan page?", "Save and Continue");
+                if (confirmed) {
                     // Removed loading indicator display for this button as per instructions
                     nextButtonAssessment.disabled = true; // Disable button
 
@@ -598,7 +703,8 @@ document.addEventListener('DOMContentLoaded', function() {
                 const planText = planTextarea ? planTextarea.value : "";
 
                 // Confirmation message changed slightly as plan generation is now separate
-                if (window.confirm("Save this Plan and proceed to Summary?")) {
+                const confirmed = await window.dialogManager.confirm("Save this Plan and proceed to Summary?", "Save and Continue");
+                if (confirmed) {
                     // No loading indicator display here for THIS button as per instructions
                     // (it was for summary generation, which is now implicitly on the backend after plan save)
                     summarizeButtonPlan.disabled = true;

@@ -1,12 +1,28 @@
 /* Main Page Layout Styles for SOAP Notes */
+html, body {
+  height: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+}
+
 .transcript3-container10 {
   width: 100%;
   height: auto;
   display: flex;
-  min-height: 100vh;
+  flex-grow: 1;
+  min-height: 100%;
   align-items: center;
   flex-direction: column;
   background-color: var(--dl-color-gray-900); /* This is #f8f9fa */
+}
+
+.footer-wrapper {
+  margin-top: auto;
+  width: 100%;
+  flex-shrink: 0;
 }
 
 .transcript3-contact { /* This acts as the main content wrapper within transcript3-container10 */
@@ -16,9 +32,17 @@
   padding-left: var(--dl-layout-space-tripleunit);
   padding-right: var(--dl-layout-space-tripleunit);
   padding-bottom: var(--dl-layout-space-sixunits);
-  display: flex; /* Added to center its child if it's a single column, or manage children */
-  flex-direction: column; /* Added to stack children like summary card */
-  align-items: center; /* Added to center child like summary card */
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  margin: 0 auto;
+}
+
+/* New rule to center the main content */
+.transcript3-container10 > *:not(.footer-wrapper) {
+  width: 100%;
+  max-width: 1320px;
+  margin: 0 auto;
 }
 
 .transcript3-container11 { /* This is the flex container for form and info panel */

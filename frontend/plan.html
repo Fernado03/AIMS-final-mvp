@@ -73,9 +73,44 @@
     </style>
 </head>
 <body>
-    <div>
-        <div>
-            <div class="transcript3-container10">
+    <header-wrapper class="header-wrapper" rootclassname="headerundefined">
+        <div data-role="Header" class="header-header headerroot-class-name2">
+            <nav class="header-nav">
+                <div class="header-container1">
+                    <a href="index.html" class="header-navlink1 Large">AI Medical Scribe</a>
+                    <div class="header-menu1">
+                        <a href="index.html" class="header-navlink2 Large">Home</a>
+                        <a href="subjective.html" class="header-navlink3 Large">New SOAP Note</a>
+                    </div>
+                    <div class="header-container2">
+                        <div data-role="BurgerMenu" class="header-burger-menu">
+                            <svg viewBox="0 0 1024 1024" class="header-icon1">
+                                <path d="M128 256h768v86h-768v-86zM128 554v-84h768v84h-768zM128 768v-86h768v86h-768z"></path>
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+            <div data-role="MobileMenu" class="header-mobile-menu">
+                <div class="header-top">
+                    <a href="index.html" class="header-navlink6 Large">Soft UI Design System</a>
+                    <div data-role="CloseMobileMenu" class="header-close-menu">
+                        <svg viewBox="0 0 1024 1024" class="header-icon3">
+                            <path d="M810 274l-238 238 238 238-60 60-238-238-238 238-60-60 238-238-238-238 60-60 238 238 238-238z"></path>
+                        </svg>
+                    </div>
+                </div>
+                <div class="header-mid">
+                    <div class="header-menu2">
+                        <a href="index.html" class="header-navlink7 Large">Home</a>
+                        <a href="subjective.html" class="header-navlink8 Large">New SOAP Note</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header-wrapper>
+
+    <div class="transcript3-container10">
                 <div class="transcript3-contact">
                     <div class="transcript3-container11">
                         <div class="transcript3-form1">
@@ -197,93 +232,59 @@
                         </div>
                     </div>
     
-                    <footer-wrapper class="footer-wrapper">
-                        <footer class="footer-footer">
-                            <div class="footer-container1">
-                                <div class="footer-container2">
-                                    <span class="footer-text10">KinaVis AI Medical Scribe</span>
-                                    <span>Copyright © 2025 LLM-based by KinaVis.</span>
-                                </div>
-                                <div class="footer-container3">
-                                    <div class="footer-container4">
-                                        <span class="footer-text12 Large">Company</span>
-                                        <span class="footer-text13 Large">About Us</span>
-                                    </div>
-                                    <div class="footer-container5">
-                                        <span class="footer-text14 Large">Pages</span>
-                                        <span class="footer-text15 Large">Login</span>
-                                        <span class="footer-text16 Large">Register</span>
-                                        <span class="footer-text17 Large">About</span>
-                                    </div>
-                                    <div class="footer-container6">
-                                        <span class="footer-text18 Large">Features</span>
-                                        <span class="footer-text19 Large">AI SOAP Notes</span>
-                                        <span class="footer-text20 Large">Audio Transcription</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <img
-                                alt="image"
-                                src="/public/waves-white.svg"
-                                class="footer-image" />
-                        </footer>
-                    </footer-wrapper>
-    
-                    <header-wrapper class="header-wrapper" rootclassname="headerundefined">
-                        <div
-                            data-role="Header"
-                            class="header-header headerroot-class-name3">
-                            <nav class="header-nav">
-                                <div class="header-container1">
-                                    <a href="index.html" class="header-navlink1 Large">AI Medical Scribe</a>
-                                    <div class="header-menu1">
-                                        <a href="index.html" class="header-navlink2 Large">Home</a>
-                                        <a href="subjective.html" class="header-navlink3 Large">New SOAP Note</a>
-                                    </div>
-                                    <div class="header-container2"></div>
-                                    <div data-role="BurgerMenu" class="header-burger-menu"><svg viewBox="0 0 1024 1024" class="header-icon1">
-                                        <path d="M128 256h768v86h-768v-86zM128 554v-84h768v84h-768zM128 768v-86h768v86h-768z"></path></svg>
-                                    </div>
-                                </div>
-                            </nav>
-                            <div data-role="MobileMenu" class="header-mobile-menu"><div class="header-top">
-                                <a href="index.html" class="header-navlink6 Large">Soft UI Design System</a>
-                                <div data-role="CloseMobileMenu" class="header-close-menu">
-                                    <svg viewBox="0 0 1024 1024" class="header-icon3">
-                                        <path
-                                            d="M810 274l-238 238 238 238-60 60-238-238-238 238-60-60 238-238-238-238 60-60 238 238 238-238z"
-                                        ></path>
-                                    </svg>
-                                </div>
-                            </div>
-                            <div class="header-mid">
-                                <div class="header-menu2">
-                                    <a href="index.html" class="header-navlink7 Large">Home</a>
-                                    <a href="subjective.html" class="header-navlink8 Large">New SOAP Note</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div></header-wrapper>
+    </div>
+
+    <footer-wrapper class="footer-wrapper">
+        <footer class="footer-footer">
+            <div class="footer-container1">
+                <div class="footer-container2">
+                    <span class="footer-text10">KinaVis AI Medical Scribe</span>
+                    <span>Copyright © 2025 LLM-based by KinaVis.</span>
                 </div>
-            </div>
-            <div id="customDialog" class="custom-dialog-overlay">
-                <div class="custom-dialog">
-                    <div class="custom-dialog-header">
-                        <h3 id="dialogTitle">Confirmation</h3>
+                <div class="footer-container3">
+                    <div class="footer-container4">
+                        <span class="footer-text12 Large">Company</span>
+                        <span class="footer-text13 Large">About Us</span>
                     </div>
-                    <div class="custom-dialog-content">
-                        <p id="dialogMessage">Are you sure?</p>
+                    <div class="footer-container5">
+                        <span class="footer-text14 Large">Pages</span>
+                        <span class="footer-text15 Large">Login</span>
+                        <span class="footer-text16 Large">Register</span>
+                        <span class="footer-text17 Large">About</span>
                     </div>
-                    <div class="custom-dialog-footer">
-                        <button id="dialogCancelBtn" class="dialog-button cancel-button">Cancel</button>
-                        <button id="dialogOkBtn" class="dialog-button confirm-button">OK</button>
+                    <div class="footer-container6">
+                        <span class="footer-text18 Large">Features</span>
+                        <span class="footer-text19 Large">AI SOAP Notes</span>
+                        <span class="footer-text20 Large">Audio Transcription</span>
                     </div>
                 </div>
             </div>
-            <script src="/script.js"></script>
-            <script
-                defer=""
-                src="https://unpkg.com/@teleporthq/teleport-custom-scripts"
-            ></script>
+            <img
+                alt="image"
+                src="/public/waves-white.svg"
+                class="footer-image"
+            />
+        </footer>
+    </footer-wrapper>
+
+    <div id="customDialog" class="custom-dialog-overlay">
+        <div class="custom-dialog">
+            <div class="custom-dialog-header">
+                <h3 id="dialogTitle">Confirmation</h3>
+            </div>
+            <div class="custom-dialog-content">
+                <p id="dialogMessage">Are you sure?</p>
+            </div>
+            <div class="custom-dialog-footer">
+                <button id="dialogCancelBtn" class="dialog-button cancel-button">Cancel</button>
+                <button id="dialogOkBtn" class="dialog-button confirm-button">OK</button>
+            </div>
+        </div>
+    </div>
+    <script src="/script.js"></script>
+    <script
+        defer=""
+        src="https://unpkg.com/@teleporthq/teleport-custom-scripts"
+    ></script>
 </body>
 </html>

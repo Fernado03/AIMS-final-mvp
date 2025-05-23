@@ -237,6 +237,21 @@
   background-color: #f9f9f9;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
+
+/* Remove indentation from SOAP note content */
+.transcript-container p,
+.transcript-container ul,
+.transcript-container ol,
+.transcript-container li {
+  margin-left: 0;
+  padding-left: 0;
+  text-indent: 0;
+}
+
+.transcript-container ul,
+.transcript-container ol {
+  padding-left: 1em; /* Minimal indentation for list markers */
+}
 /*End of Container for SOAP Input*/
 
 /* Textarea styles for SOAP note pages */
@@ -275,13 +290,51 @@
 }
 
 
-body {
-    background-color: #f4f7f9; 
-    color: #333;
-    font-family: 'Open Sans', sans-serif;
-    line-height: 1.6;
-    margin: 0; 
-    padding: 0; 
+/* Removed duplicate flexbox layout rules - using page-layout.css implementation */
+
+.footer-footer {
+    background-image: linear-gradient(310deg,#141727,#3a416f);
+    padding: 2rem 0;
+    position: relative;
+}
+
+.footer-footer .footer-container1 {
+    color: var(--dl-color-gray-white);
+    width: 100%;
+    display: flex;
+    padding: var(--dl-layout-space-tripleunit);
+    z-index: 1;
+    max-width: 1320px;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+
+.footer-image {
+    top: 0;
+    left: auto;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.7;
+    position: absolute;
+    object-fit: cover;
+    background-image: url('/public/waves-white.svg');
+    background-repeat: repeat-x;
+    background-position: bottom;
+}
+
+@media(max-width: 767px) {
+    .footer-container1 {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    
+    .footer-container5,
+    .footer-container6 {
+        margin-left: 0;
+        margin-top: var(--dl-layout-space-unit);
+    }
 }
 
 /* Common wrapper for the main content area of SOAP pages (e.g., .transcript1-container10) */

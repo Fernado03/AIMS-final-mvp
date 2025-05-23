@@ -3,19 +3,15 @@
 def get_assessment_prompt(subjective_text: str, objective_text: str, rag_context: str) -> str:
     """Generate the assessment prompt with clinical context."""
     assessment_template = (
-        """
-        ASSESSMENT
-
-        Diagnosis / Impression:
-        - {Summarize the patient's condition(s) as concluded from the subjective and objective data}
-        - Include both primary and secondary diagnoses using bullet points
-        - Keep each diagnosis concise (1-2 lines maximum)
-
-        Differential Diagnosis (DDx):
-        1. If no definitive diagnosis, list possible diagnoses in order of likelihood
-        2. Include brief rationale for each (1 sentence)
-        3. Limit to 3-5 most likely diagnoses
-        """
+        "ASSESSMENT\n\n"
+        "Diagnosis / Impression:\n"
+        "- {Summarize the patient's condition(s) as concluded from the subjective and objective data}\n"
+        "- Include both primary and secondary diagnoses using bullet points\n"
+        "- Keep each diagnosis concise (1-2 lines maximum)\n\n"
+        "Differential Diagnosis (DDx):\n"
+        "1. If no definitive diagnosis, list possible diagnoses in order of likelihood\n"
+        "2. Include brief rationale for each (1 sentence)\n"
+        "3. Limit to 3-5 most likely diagnoses"
     )
 
     return (
@@ -35,33 +31,26 @@ def get_assessment_prompt(subjective_text: str, objective_text: str, rag_context
 def get_plan_prompt(subjective_text: str, objective_text: str, assessment_text: str, rag_context: str) -> str:
     """Generate the plan prompt with clinical context."""
     plan_template = (
-        """
-        PLAN
-
-        Diagnostics / Tests Ordered:
-        1. [List each test on a new numbered line]
-        2. Include brief rationale for each test (1 sentence)
-        3. Group related tests together
-
-        Medications / Therapy:
-        - [List each medication/therapy on a new bullet point]
-        - Include: name, dose, frequency, duration
-        - Highlight any changes to existing medications
-
-        Referrals / Consults:
-        - [List each referral on a new bullet point]
-        - Include: specialty, urgency, reason
-
-        Patient Education and Counseling:
-        - [List key education points as bullet points]
-        - Keep each point concise (1 sentence)
-        - Focus on actionable items
-
-        Follow-Up Instructions:
-        1. Specify exact timing for follow-up
-        2. Include clear return instructions if symptoms worsen
-        3. Provide contact method for questions
-        """
+        "PLAN\n\n"
+        "Diagnostics / Tests Ordered:\n"
+        "1. [List each test on a new numbered line]\n"
+        "2. Include brief rationale for each test (1 sentence)\n"
+        "3. Group related tests together\n\n"
+        "Medications / Therapy:\n"
+        "- [List each medication/therapy on a new bullet point]\n"
+        "- Include: name, dose, frequency, duration\n"
+        "- Highlight any changes to existing medications\n\n"
+        "Referrals / Consults:\n"
+        "- [List each referral on a new bullet point]\n"
+        "- Include: specialty, urgency, reason\n\n"
+        "Patient Education and Counseling:\n"
+        "- [List key education points as bullet points]\n"
+        "- Keep each point concise (1 sentence)\n"
+        "- Focus on actionable items\n\n"
+        "Follow-Up Instructions:\n"
+        "1. Specify exact timing for follow-up\n"
+        "2. Include clear return instructions if symptoms worsen\n"
+        "3. Provide contact method for questions"
     )
 
     return (
@@ -83,20 +72,15 @@ def get_plan_prompt(subjective_text: str, objective_text: str, assessment_text: 
 def get_summary_prompt(subjective_text: str, objective_text: str, assessment_text: str, plan_text: str, rag_context: str) -> str:
     """Generate the summary prompt with clinical context."""
     summary_template = (
-        """
-        SUMMARY
-        
-        Key Findings:
-        - [List 2-3 most important subjective/objective findings]
-        
-        Clinical Assessment:
-        - [State primary diagnosis or working diagnosis]
-        - [Note any critical differentials if applicable]
-        
-        Management Plan:
-        - [Highlight 2-3 most important plan items]
-        - [Note any urgent actions needed]
-        """
+        "SUMMARY\n\n"
+        "Key Findings:\n"
+        "- [List 2-3 most important subjective/objective findings]\n\n"
+        "Clinical Assessment:\n"
+        "- [State primary diagnosis or working diagnosis]\n"
+        "- [Note any critical differentials if applicable]\n\n"
+        "Management Plan:\n"
+        "- [Highlight 2-3 most important plan items]\n"
+        "- [Note any urgent actions needed]"
     )
     
     return (

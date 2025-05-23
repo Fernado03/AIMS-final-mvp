@@ -77,16 +77,31 @@
   margin-bottom: var(--dl-layout-space-unit);
 }
 
-#summaryDisplayArea { 
-    white-space: pre-wrap; 
-    background-color: #f8f9fa; 
-    border: 1px solid #ced4da; 
-    padding: 15px; 
-    border-radius: 6px; 
+#summaryDisplayArea {
+    white-space: pre-wrap;
+    background-color: #f8f9fa;
+    border: 1px solid #ced4da;
+    padding: 15px;
+    border-radius: 6px;
     min-height: 200px;
-    width: 100%; 
+    width: 100%;
     margin-top: 10px;
-    text-align: left; 
+    text-align: left;
+}
+
+/* Remove indentation from summary content */
+#summaryDisplayArea p,
+#summaryDisplayArea ul,
+#summaryDisplayArea ol,
+#summaryDisplayArea li {
+  margin-left: 0;
+  padding-left: 0;
+  text-indent: 0;
+}
+
+#summaryDisplayArea ul,
+#summaryDisplayArea ol {
+  padding-left: 1em; /* Minimal indentation for list markers */
 }
 
 .transcript3-container10 {
