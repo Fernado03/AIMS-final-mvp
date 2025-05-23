@@ -1,12 +1,12 @@
-# AIMS Medical Scribe
+# AIMS Medical Scribe - AI-Powered Clinical Documentation
 
-AIMS (AI Medical Scribe) is a clinical documentation assistant that helps healthcare professionals generate structured SOAP (Subjective, Objective, Assessment, Plan) notes. The application combines voice transcription with AI-assisted content generation to streamline clinical documentation.
+AIMS (AI Medical Scribe) is an advanced clinical documentation assistant leveraging large language models (LLMs) to help healthcare professionals generate accurate, structured SOAP notes. The application combines real-time voice transcription with AI-assisted content generation powered by Google Vertex AI (Gemini model), providing intelligent suggestions throughout the documentation workflow.
 
 ## Table of Contents
 - [System Components](#system-components)
-  - [RAG CPG Pipeline](#rag-cpg-pipeline)
   - [Backend](#backend)
   - [Frontend](#frontend)
+  - [RAG CPG Pipeline](#rag-cpg-pipeline)
 - [Features](#features)
 - [Technology Stack](#technology-stack)
 - [Setup Instructions](#setup-instructions)
@@ -19,22 +19,31 @@ AIMS (AI Medical Scribe) is a clinical documentation assistant that helps health
 
 ## System Components
 
-### RAG CPG Pipeline
-The RAG (Retrieval-Augmented Generation) CPG (Clinical Practice Guidelines) pipeline processes and structures medical guidelines for use in the AI-assisted documentation system.
-
 ### Backend
-Located in `backend/` directory, provides API endpoints and core services.
+Located in `backend/` directory, provides the AI/LLM processing core including:
+- Voice-to-text transcription (Google Cloud Speech-to-Text)
+- LLM-powered clinical note generation (Google Vertex AI Gemini)
+- API endpoints for frontend integration
+- Database operations for clinical data
 
-### Frontend 
-Located in `frontend/` directory, contains clinical documentation interface.
+### Frontend
+Located in `frontend/` directory, contains the clinical documentation interface with:
+- Real-time AI suggestions
+- Interactive SOAP note workflow
+- Voice recording integration
+
+### RAG CPG Pipeline (Optional)
+The RAG (Retrieval-Augmented Generation) CPG (Clinical Practice Guidelines) pipeline enhances the AI system by providing structured medical guideline knowledge for reference during documentation.
 
 ## Features
 
-### Core Functionality
-- **Voice Transcription:** Capture patient narratives through audio recording
-- **SOAP Note Structure:** Organized workflow for each note section
-- **AI-Assisted Generation:** Context-aware suggestions for Assessment and Plan sections
-- **Clinical Summary:** Automated generation of concise patient summaries
+### AI-Powered Documentation
+- **Voice Transcription:** Real-time speech-to-text powered by Google Cloud Speech-to-Text API
+- **AI-Assisted Generation:** Context-aware clinical suggestions using Google Vertex AI (Gemini model) for:
+  - Differential diagnoses
+  - Treatment plan recommendations
+  - Clinical documentation refinement
+- **Clinical Summary:** Automated generation of structured patient summaries with LLM post-processing
 
 ### Backend Services
 - Voice transcription service
@@ -55,43 +64,35 @@ Located in `frontend/` directory, contains clinical documentation interface.
 
 ## Technology Stack
 
-### RAG CPG Pipeline
-**Core Technologies:**
-- Python
-- PyMuPDF (fitz)
-- Tesseract OCR (pytesseract)
-- spaCy (en_core_web_sm, en_core_web_md)
-- Sentence Transformers (`basilisk78/nomic-v2-tuned-1`)
-- PyTorch
-
-**Data Processing:**
-- JSON/JSONL
-- UUID
-- Regular expressions
-- Pillow (PIL)
-
-**Vector Database:**
-- Vertex AI Vector Search (Google Cloud)
-
-**Pipeline Stages:**
-- Text extraction
-- Cleaning
-- Chunking
-- Embedding generation
-- Vector storage/retrieval
-
-**Supporting Libraries:**
-- jsonlines
-- google-auth
-- einops
-- nomic-ai/megablocks
+### Core AI Components
+- **Large Language Model:** Google Vertex AI (Gemini model) for clinical text generation
+- **Speech Recognition:** Google Cloud Speech-to-Text API for voice transcription
+- **Natural Language Processing:** Custom prompt engineering for medical contexts
 
 ### Backend
 - Python 3.9+
 - Flask web framework
 - SQLite database
-- Google Cloud Speech-to-Text API
-- Google Vertex AI (Gemini model)
+- Integration with Google Cloud AI services
+
+### Frontend
+- HTML5, CSS3, JavaScript
+- Responsive design components
+- Client-side form validation
+
+### RAG CPG Pipeline (Optional Enhancement)
+**Core Technologies:**
+- Python
+- PyMuPDF (fitz)
+- Tesseract OCR (pytesseract)
+- spaCy NLP pipelines
+- Sentence Transformers
+- Vertex AI Vector Search
+
+**Pipeline Stages:**
+- Text extraction and cleaning
+- Chunking and embedding generation
+- Vector storage/retrieval
 
 ### Frontend
 - HTML5, CSS3, JavaScript
