@@ -57,9 +57,11 @@ html, body {
 }
 
 .transcript3-form1 { /* Left side form area */
-  flex: 5; /* Takes more space */
+  flex: 3;
+  max-width: 55%;
+  min-width: 45%;
   display: flex;
-  align-items: flex-start; /* Align content to the start */
+  align-items: flex-start;
   padding-top: var(--dl-layout-space-fourunits);
   padding-left: var(--dl-layout-space-doubleunit);
   padding-right: var(--dl-layout-space-doubleunit);
@@ -68,14 +70,16 @@ html, body {
 }
 
 .transcript3-info { /* Right side info panel */
-  flex: 4; /* Takes less space than form1, but more than soap-styles.css's original flex:1 */
+  flex: 2.5;
+  min-width: 25%;
+  max-width: 50%;
   color: var(--dl-color-gray-white);
   display: flex;
   overflow: hidden;
   position: relative;
   align-items: center; /* Vertically center content */
-  padding-left: var(--dl-layout-space-sixunits); /* Original padding */
-  border-radius: 0px; /* Original */
+  padding-left: var(--dl-layout-space-sixunits);
+  border-radius: 0px;
   flex-direction: column; /* Stack content vertically */
   background-size: cover;
   justify-content: center; /* Horizontally center content */
@@ -189,10 +193,14 @@ html, body {
   .transcript3-container11 { /* Stack form and info panel on smaller screens */
     flex-direction: column;
   }
+  .transcript3-form1 {
+    max-width: 100%;
+  }
   .transcript3-info {
-    padding-left: var(--dl-layout-space-doubleunit); /* Adjust padding for stacked view */
+    min-width: 100%;
+    padding-left: var(--dl-layout-space-doubleunit);
     padding-right: var(--dl-layout-space-doubleunit);
-    border-top-right-radius: 0; 
+    border-top-right-radius: 0;
     border-bottom-left-radius: var(--dl-layout-radius-radius1);
   }
   .transcript3-image { 

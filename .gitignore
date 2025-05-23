@@ -1,0 +1,11 @@
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+
+# Environment variables
+.env
+
+# Google Cloud service account key (or any sensitive JSON)
+stately-moon-460403-h6-e38859466e2d.json

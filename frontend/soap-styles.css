@@ -1,3 +1,50 @@
+/* Body Background for SOAP Pages */
+body {
+  background-image: url('/public/background.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+/* Main content container styling */
+.transcript3-container10 {
+  min-height: calc(100vh - 120px); /* Full viewport minus header/footer */
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  background-color: transparent !important;
+}
+
+.transcript3-contact {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  background-color: transparent !important;
+}
+
+.transcript3-form1 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  background-color: transparent !important;
+}
+
+@media (max-height: 800px) {
+  .transcript3-container10 {
+    min-height: calc(100vh - 100px);
+  }
+}
+
+@media (max-height: 600px) {
+  .transcript3-container10 {
+    min-height: calc(100vh - 80px);
+  }
+}
+
 /*Navigation Section*/
 .header-container1 {
   display: flex;
@@ -255,9 +302,18 @@
 /*End of Container for SOAP Input*/
 
 /* Textarea styles for SOAP note pages */
+.transcript-container {
+    width: 100%;
+    max-width: 100%;
+    min-width: auto;
+    box-sizing: border-box;
+    padding: 15px;
+}
+
 .transcript-container textarea {
     width: 100%;
     max-width: 100%;
+    min-width: auto;
     min-height: 200px;
     padding: 15px;
     border-radius: 6px;
@@ -270,6 +326,22 @@
     background-color: #f8f9fa;
     transition: border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
     box-shadow: inset 0 1px 2px rgba(0,0,0,0.075);
+    box-sizing: border-box;
+}
+
+@media (max-width: 992px) {
+    .transcript-container {
+        min-width: auto;
+    }
+}
+
+@media (max-width: 768px) {
+    .transcript-container {
+        min-width: 100%;
+    }
+    .transcript-container textarea {
+        min-width: 100%;
+    }
 }
 
 .transcript-container textarea:focus {

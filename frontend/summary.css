@@ -1,38 +1,34 @@
-.summary-container1 { 
+.summary-container1 {
   width: 100%;
-  height: auto; 
-  min-height: 100vh; 
+  height: auto;
   display: flex;
-  align-items: center;
   flex-direction: column;
-  justify-content: flex-start; 
-
+  flex-grow: 1;
+  min-height: 0; /* Allows proper flex behavior */
 }
 
-/* This is the main content area below the header for summary */
+/* Main content area with proper spacing */
 .summary-container2 {
   width: 100%;
   display: flex;
-  overflow: hidden; 
-  align-items: center;
   flex-direction: column;
-  padding-top: var(--dl-layout-space-sixunits); /* Space for fixed header */
-  padding-bottom: var(--dl-layout-space-sixunits); /* Space for footer */
-  flex-grow: 1; /* Allow this container to grow and push footer down */
+  flex-grow: 1;
+  padding: var(--dl-layout-space-sixunits) 0;
+  min-height: 0; /* Allows content to shrink properly */
+  justify-content: center; /* Center vertically */
+  align-items: center; /* Center horizontally */
 }
- 
+  
 .summary-card {
-  width: 709px; /* Original width */
-  max-width: 90%; /* Ensure it's responsive on smaller screens */
- /* height: 769px; Removed fixed height */
+  width: 709px;
+  max-width: 90%;
   display: flex;
   padding: var(--dl-layout-space-tripleunit);
   z-index: 1;
   box-shadow: 0 8px 26px -4px hsla(0,0%,8%,.15),0 8px 9px -5px hsla(0,0%,8%,.06)!important;
-  /* margin-top: 125px; Will be handled by padding in summary-container2 */
-  align-items: flex-start; /* Align content to start */
+  align-items: flex-start;
   border-radius: var(--dl-layout-radius-radius1);
-  animation-name: bounce; /* Consider if this animation is still desired */
+  animation-name: bounce;
   flex-direction: column;
   animation-delay: 0s;
   backdrop-filter: saturate(200%) blur(30px);
@@ -41,17 +37,19 @@
   animation-direction: normal;
   animation-iteration-count: 1;
   animation-timing-function: ease;
+  margin: 0 auto; /* Center horizontally */
 }
  
 .summary-main {
-  flex: 0 0 auto;
-  width: 100%;/* height: 100%; Let content dictate height */
+  flex: 1 0 auto;
+  width: 100%;
   display: flex;
-  z-index: 0; 
-  position: relative; 
-  max-width: 1320px; 
-  align-items: flex-start; 
-  justify-content: center; 
+  z-index: 0;
+  position: relative;
+  max-width: 1320px;
+  align-items: center;
+  justify-content: center;
+  min-height: 0; /* Allows proper flex behavior */
 }
 
 /* This holds the actual summary text and button */ 
@@ -84,9 +82,13 @@
     padding: 15px;
     border-radius: 6px;
     min-height: 200px;
+    max-height: calc(100vh - 400px); /* Adjusted for better spacing */
     width: 100%;
-    margin-top: 10px;
+    margin: 10px 0;
     text-align: left;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    flex: 1 1 auto; /* Allows proper flex behavior */
 }
 
 /* Remove indentation from summary content */
@@ -107,15 +109,18 @@
 .transcript3-container10 {
   width: 100%;
   height: auto;
-  min-height: 100vh;
   display: flex;
   position: relative;
   flex-direction: column;
+  flex-grow: 1;
+  min-height: 100%;
   background-image: url('public/summary-background.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
+  justify-content: center; /* Center content vertically */
+  align-items: center; /* Center content horizontally */
 }
  
 @media(max-width: 991px) {
