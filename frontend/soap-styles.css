@@ -421,8 +421,12 @@ body {
 .transcript3-form-objective h1.HeadingOne,
 .transcript3-form-assessment h1.HeadingOne,
 .transcript3-form-plan h1.HeadingOne,
+.summary-page .summary-container3 {
+    position: relative;
+}
+
 .summary-container3 h1.summary-text10 { /* from summary.html - kept as is for summary page */
-    color: #2c3e50; 
+    color: #2c3e50;
     font-size: 1.75rem;
     font-weight: 600;
     margin-bottom: 1.5rem;
@@ -661,4 +665,104 @@ body {
     margin-top: 1.5rem;
     justify-content: flex-end;
     width: 100%;
+}
+
+/* Export dropdown styles */
+.export-dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.export-options {
+    display: none;
+    position: absolute;
+    right: 0;
+    background-color: #fff;
+    min-width: 100px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border-radius: 4px;
+    z-index: 1;
+    margin-top: 5px;
+}
+
+.export-option {
+    color: #333;
+    padding: 8px 16px;
+    text-decoration: none;
+    display: block;
+    border: none;
+    background: none;
+    width: 100%;
+    text-align: left;
+    cursor: pointer;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.875rem;
+}
+
+.export-option:hover {
+    background-color: #f1f1f1;
+}
+
+.generate-button-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+    position: relative;
+}
+/* Export container styles - positioned bottom-left */
+.export-container {
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+    margin: 0;
+    padding: 0;
+    z-index: 10;
+    background-color: transparent;
+    border: none;
+}
+
+/* Adjust export dropdown position */
+.export-dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.export-options {
+    display: none;
+    position: absolute;
+    right: 0;
+    background-color: #fff;
+    min-width: 100px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border-radius: 4px;
+    z-index: 1;
+    margin-top: 5px;
+}
+
+.export-option {
+    color: #333;
+    padding: 8px 16px;
+    text-decoration: none;
+    display: block;
+    border: none;
+    background: none;
+    width: 100%;
+    text-align: left;
+    cursor: pointer;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.875rem;
+}
+
+.export-option:hover {
+    background-color: #f1f1f1;
+}
+/* Export button positioning consolidated - already handled by .export-container rules */
+
+.export-dropdown {
+    margin: 0;
+}
+
+.export-dropdown button {
+    margin: 0;
 }

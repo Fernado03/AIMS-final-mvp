@@ -148,6 +148,60 @@
     padding: var(--dl-layout-space-unitandahalfunit); /* Further adjust padding */
   }
    .summary-text10 {
-    font-size: 1.5rem; 
+    font-size: 1.5rem;
   }
+}
+
+/* Export button container */
+.export-container {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 20px;
+}
+
+/* Export button styles */
+.generate-button {
+  background-color: var(--dl-color-primary-500);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: var(--dl-layout-radius-radius5);
+  cursor: pointer;
+  font-weight: 600;
+  transition: background-color 0.3s ease;
+}
+
+.generate-button:hover {
+  background-color: var(--dl-color-primary-700);
+}
+
+/* Export dropdown options */
+.export-options {
+  display: none;
+  position: absolute;
+  right: 0;
+  bottom: 100%;
+  background-color: white;
+  border-radius: var(--dl-layout-radius-radius5);
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  z-index: 10;
+}
+
+.export-dropdown:hover .export-options {
+  display: block;
+}
+
+.export-option {
+  display: block;
+  width: 100%;
+  padding: 8px 16px;
+  background: none;
+  border: none;
+  text-align: left;
+  cursor: pointer;
+}
+
+.export-option:hover {
+  background-color: var(--dl-color-gray-900);
 }

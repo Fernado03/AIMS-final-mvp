@@ -820,3 +820,82 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
 });
+
+// Export functionality for summary page
+document.addEventListener('DOMContentLoaded', function() {
+    const exportButton = document.getElementById('exportButton');
+    const exportOptions = document.getElementById('exportOptions');
+    const summaryDisplayArea = document.getElementById('summaryDisplayArea');
+
+    if (exportButton && exportOptions && summaryDisplayArea) {
+        // Toggle export options dropdown
+        exportButton.addEventListener('click', function(e) {
+            e.stopPropagation();
+            exportOptions.style.display = exportOptions.style.display === 'block' ? 'none' : 'block';
+        });
+
+        // Close dropdown when clicking elsewhere
+        document.addEventListener('click', function() {
+            exportOptions.style.display = 'none';
+        });
+
+        // Handle export option clicks
+        exportOptions.addEventListener('click', function(e) {
+            e.stopPropagation();
+            const format = e.target.getAttribute('data-format');
+            if (!format) return;
+
+            const content = summaryDisplayArea.textContent;
+            if (!content || content.trim() === '') {
+                alert('No content to export. Please generate a summary first.');
+                return;
+            }
+
+            if (format === 'txt') {
+                exportAsTxt(content);
+            } else if (format === 'pdf') {
+                exportAsPdf(content);
+            }
+        });
+    }
+
+    function exportAsTxt(content) {
+        const blob = new Blob([content], { type: 'text/plain' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = 'summary.txt';
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+    }
+
+    function exportAsPdf(content) {
+        // Use browser's print functionality for simple PDF export
+        const printWindow = window.open('', '_blank');
+        printWindow.document.write(`
+            <html>
+                <head>
+                    <title>Summary</title>
+                    <style>
+                        body { font-family: Arial, sans-serif; padding: 20px; }
+                        pre { white-space: pre-wrap; font-family: inherit; }
+                    </style>
+                </head>
+                <body>
+                    <pre>${content}</pre>
+                    <script>
+                        window.onload = function() {
+                            setTimeout(function() {
+                                window.print();
+                                window.close();
+                            }, 200);
+                        };
+                    </script>
+                </body>
+            </html>
+        `);
+        printWindow.document.close();
+    }
+});

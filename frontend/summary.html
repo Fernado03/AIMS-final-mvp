@@ -65,7 +65,7 @@
         }
     </style>
 </head>
-<body>
+<body class="summary-page">
     <header-wrapper class="header-wrapper" rootclassname="headerundefined">
         <div data-role="Header" class="header-header headerroot-class-name3">
                     <nav class="header-nav">
@@ -105,16 +105,25 @@
 
     <div class="transcript3-container10">
         <div class="transcript3-contact">
-                <div class="summary-container2"> 
+                <div class="summary-container2">
                     <div class="summary-card">
                         <div class="summary-main">
-                            <div class="summary-container3">
-                                <h1 class="summary-text10 HeadingOne" style="text-align: center; margin-bottom: 1rem;">Summary of Generated SOAP</h1> <!-- Added HeadingOne for consistency if soap-styles targets it -->
+                            <div class="summary-container3" style="position: relative;">
+                                <h1 class="summary-text10 HeadingOne" style="text-align: center; margin-bottom: 1rem;">Summary of Generated SOAP</h1>
                                 <div class="generate-button-container">
                                     <button type="button" id="generateSummaryButton" class="generate-button">Generate Summary</button>
                                     <div id="summaryLoadingIndicator" class="loading-indicator">Generating summary...</div>
                                 </div>
-                                <div id="summaryDisplayArea" class="transcript-container" style="white-space: pre-wrap; background-color: #f8f9fa; border: 1px solid #ced4da; padding: 15px; border-radius: 6px; min-height: 200px;"></div>
+                                <div id="summaryDisplayArea" class="transcript-container" contenteditable="true" style="white-space: pre-wrap; background-color: #f8f9fa; border: 1px solid #ced4da; padding: 15px; border-radius: 6px; min-height: 200px; margin-bottom: 50px;"></div>
+                                <div class="export-container">
+                                    <div class="export-dropdown">
+                                        <button type="button" id="exportButton" class="generate-button">Export</button>
+                                        <div id="exportOptions" class="export-options">
+                                            <button type="button" class="export-option" data-format="txt">TXT</button>
+                                            <button type="button" class="export-option" data-format="pdf">PDF</button>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
