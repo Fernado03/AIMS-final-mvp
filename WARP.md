@@ -121,7 +121,7 @@ python scripts/step_04_embed_chunks.py
 - `app.py`: Flask application entry point with route definitions
 - `database.py`: SQLite operations and schema management
 - `routes/`: API endpoint definitions grouped by functionality
-- `services/`: External service integrations (AI, speech, storage)
+- `services/`: External service integrations (Whisper STT, Vertex AI LLM)
 - `rag/`: Knowledge base and prompt management for clinical context
 
 ### Frontend Structure

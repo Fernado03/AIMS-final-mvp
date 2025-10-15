@@ -3,7 +3,7 @@ import os
 # Vertex AI and Gemini Model (for LLM generation)
 VERTEX_AI_PROJECT_ID = os.environ.get("VERTEX_AI_PROJECT_ID", "")
 VERTEX_AI_LOCATION = os.environ.get("VERTEX_AI_LOCATION", "us-central1")
-VERTEX_AI_MODEL_NAME = os.environ.get("VERTEX_AI_MODEL_NAME", "gemini-2.5-flash-preview-05-20")
+VERTEX_AI_MODEL_NAME = os.environ.get("VERTEX_AI_MODEL_NAME", "gemini-2.5-flash-lite")
 
 # Whisper Speech-to-Text Configuration (Local processing)
 WHISPER_MODEL = os.environ.get("WHISPER_MODEL", "medium")  # Options: tiny, base, small, medium, large
