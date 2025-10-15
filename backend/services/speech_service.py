@@ -1,80 +1,92 @@
 # services/speech_service.py
+# OpenAI Whisper implementation for local speech-to-text transcription
 
-from google.cloud.speech_v2 import SpeechClient, BatchRecognizeRequest, BatchRecognizeFileMetadata
-from google.cloud.speech_v2.types import RecognitionConfig, RecognizeRequest, RecognitionFeatures, RecognitionOutputConfig, InlineOutputConfig
-from google.cloud import storage
-import uuid
+import whisper
+import tempfile
+import os
 import traceback
-from backend.config import (
-    GCS_BUCKET_NAME,
-    VERTEX_AI_PROJECT_ID,
-    SPEECH_LANGUAGE_CODE,
-    SPEECH_MODEL,
-    SPEECH_ENABLE_AUTOMATIC_PUNCTUATION
-) # Import from config
+from pathlib import Path
+from backend.config import WHISPER_MODEL, WHISPER_LANGUAGE
 
-speech_client = SpeechClient()
-storage_client = storage.Client()
+# Lazy load Whisper model to avoid loading it on import
+_whisper_model = None
+_model_name = WHISPER_MODEL  # Get from config
+
+def get_whisper_model(model_name=None):
+    """Lazy load Whisper model to save memory and startup time"""
+    global _whisper_model, _model_name
+    
+    if model_name is None:
+        model_name = WHISPER_MODEL
+    
+    if _whisper_model is None or _model_name != model_name:
+        print(f"🎤 Loading Whisper '{model_name}' model... (this may take a moment on first run)")
+        _whisper_model = whisper.load_model(model_name)
+        _model_name = model_name
+        print(f"✅ Whisper '{model_name}' model loaded successfully")
+    
+    return _whisper_model
+
 
 def transcribe_audio_from_gcs(file_stream, original_filename):
-    gcs_uri = None
-    blob_name = None
+    """
+    Transcribe audio using OpenAI Whisper (local processing)
+    
+    Note: Function name kept for backward compatibility with existing routes.
+    Now processes locally without Google Cloud Storage.
+    
+    Args:
+        file_stream: File-like object containing audio data
+        original_filename: Original filename (used to determine extension)
+    
+    Returns:
+        str: Transcribed text
+    """
+    temp_file_path = None
+    
     try:
-        blob_name = f"audio_uploads/{uuid.uuid4()}-{original_filename}"
-        bucket = storage_client.bucket(GCS_BUCKET_NAME)
-        blob = bucket.blob(blob_name)
-
-        file_stream.seek(0)
-        blob.upload_from_file(file_stream)
-
-        gcs_uri = f"gs://{GCS_BUCKET_NAME}/{blob_name}"
-        print(f"Uploaded audio to GCS: {gcs_uri}")
-
-        project_id = VERTEX_AI_PROJECT_ID
-        recognizer_path = f"projects/{project_id}/locations/global/recognizers/_" # Using '_' for default recognizer
-
-        speech_features = RecognitionFeatures(enable_automatic_punctuation=SPEECH_ENABLE_AUTOMATIC_PUNCTUATION)
-        speech_config = RecognitionConfig(
-            features=speech_features,
-            language_codes=[SPEECH_LANGUAGE_CODE],
-            model=SPEECH_MODEL, # Ensure this model name is correct for v2 and your project
-            auto_decoding_config={}
+        # Get file extension from original filename
+        file_ext = Path(original_filename).suffix
+        if not file_ext:
+            file_ext = '.webm'  # Default to webm if no extension
+        
+        # Create temporary file with proper extension
+        with tempfile.NamedTemporaryFile(delete=False, suffix=file_ext) as temp_file:
+            temp_file_path = temp_file.name
+            
+            # Write uploaded file to temporary file
+            file_stream.seek(0)
+            temp_file.write(file_stream.read())
+            temp_file.flush()
+            
+            print(f"📝 Saved audio to temporary file: {temp_file_path}")
+        
+        # Load Whisper model (uses config value)
+        model = get_whisper_model()
+        
+        # Transcribe audio
+        print(f"🎙️ Transcribing audio with Whisper...")
+        result = model.transcribe(
+            temp_file_path,
+            language=WHISPER_LANGUAGE,  # From config
+            task="transcribe",  # 'transcribe' or 'translate'
+            fp16=False  # Use FP32 for better compatibility on all systems
         )
-
-        inline_cfg = InlineOutputConfig()
-        output_config = RecognitionOutputConfig(inline_response_config=inline_cfg)
-
-        request_payload = BatchRecognizeRequest(
-            recognizer=recognizer_path,
-            config=speech_config,
-            files=[BatchRecognizeFileMetadata(uri=gcs_uri)],
-            recognition_output_config=output_config
-        )
-
-        operation = speech_client.batch_recognize(request=request_payload)
-        response = operation.result(timeout=600)
-
-        full_transcript = []
-        for file_result in response.results.values():
-            inline = file_result.inline_result
-            for segment in inline.transcript.results:
-                if segment.alternatives:
-                    alt = segment.alternatives[0]
-                    full_transcript.append(alt.transcript)
-
-        transcript_text = " ".join(full_transcript).strip()
-        print(f"📝 Google STT transcript: {transcript_text}")
+        
+        transcript_text = result["text"].strip()
+        print(f"✅ Whisper transcript: {transcript_text[:100]}..." if len(transcript_text) > 100 else f"✅ Whisper transcript: {transcript_text}")
+        
         return transcript_text
-
+    
     except Exception as e:
-        print(f"Error during transcription: {e}\n{traceback.format_exc()}")
-        raise # Re-raise to be caught by the route handler
+        print(f"❌ Error during Whisper transcription: {e}\n{traceback.format_exc()}")
+        raise  # Re-raise to be caught by the route handler
+    
     finally:
-        if gcs_uri and blob_name:
+        # Clean up temporary file
+        if temp_file_path and os.path.exists(temp_file_path):
             try:
-                bucket = storage_client.bucket(GCS_BUCKET_NAME)
-                blob = bucket.blob(blob_name)
-                blob.delete()
-                print(f"Deleted GCS file: {gcs_uri}")
+                os.unlink(temp_file_path)
+                print(f"🗑️ Deleted temporary audio file: {temp_file_path}")
             except Exception as e_del:
-                print(f"Error deleting GCS file {gcs_uri}: {e_del}\n{traceback.format_exc()}")
+                print(f"⚠️ Warning: Could not delete temporary file {temp_file_path}: {e_del}")

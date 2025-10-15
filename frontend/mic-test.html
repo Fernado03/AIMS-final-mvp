@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Microphone Test</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
+        button { padding: 10px 20px; margin: 10px; font-size: 16px; }
+        #status { margin: 20px 0; font-weight: bold; }
+        .success { color: green; }
+        .error { color: red; }
+    </style>
+</head>
+<body>
+    <h1>Microphone Permission Test</h1>
+    <button id="testMic">Test Microphone Access</button>
+    <button id="startRec" disabled>Start Recording</button>
+    <button id="stopRec" disabled>Stop Recording</button>
+    <div id="status">Click "Test Microphone Access" to start</div>
+    
+    <script>
+        let mediaRecorder;
+        let audioChunks = [];
+        const status = document.getElementById('status');
+        const testMic = document.getElementById('testMic');
+        const startRec = document.getElementById('startRec');
+        const stopRec = document.getElementById('stopRec');
+        
+        testMic.onclick = async function() {
+            status.innerHTML = 'Requesting microphone permission...';
+            
+            try {
+                const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+                status.innerHTML = '<span class="success">✅ Microphone access granted!</span>';
+                testMic.disabled = true;
+                startRec.disabled = false;
+                
+                // Stop the test stream
+                stream.getTracks().forEach(track => track.stop());
+            } catch (error) {
+                status.innerHTML = '<span class="error">❌ Microphone access denied: ' + error.message + '</span>';
+                console.error('Microphone error:', error);
+            }
+        };
+        
+        startRec.onclick = async function() {
+            try {
+                const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+                mediaRecorder = new MediaRecorder(stream);
+                audioChunks = [];
+                
+                mediaRecorder.ondataavailable = event => audioChunks.push(event.data);
+                mediaRecorder.onstop = () => {
+                    const audioBlob = new Blob(audioChunks, { type: 'audio/webm' });
+                    status.innerHTML = '<span class="success">✅ Recording complete! Blob size: ' + audioBlob.size + ' bytes</span>';
+                    startRec.disabled = false;
+                    stopRec.disabled = true;
+                    
+                    // Stop all tracks
+                    stream.getTracks().forEach(track => track.stop());
+                };
+                
+                mediaRecorder.start();
+                status.innerHTML = '<span class="success">🎤 Recording... Speak now, then click Stop</span>';
+                startRec.disabled = true;
+                stopRec.disabled = false;
+                
+            } catch (error) {
+                status.innerHTML = '<span class="error">❌ Recording failed: ' + error.message + '</span>';
+                console.error('Recording error:', error);
+            }
+        };
+        
+        stopRec.onclick = function() {
+            if (mediaRecorder && mediaRecorder.state === 'recording') {
+                mediaRecorder.stop();
+                status.innerHTML = 'Processing recording...';
+            }
+        };
+    </script>
+</body>
+</html>

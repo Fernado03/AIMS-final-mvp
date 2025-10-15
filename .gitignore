@@ -1,11 +1,100 @@
 # Python virtual environment
 venv/
+env/
+.venv/
 
-# Python cache files
+# Python cache and compiled files
 __pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+PIPFILE.lock
 
 # Environment variables
 .env
+.env.local
+.env.development
+.env.test
+.env.production
 
-# Google Cloud service account key (or any sensitive JSON)
-stately-moon-460403-h6-e38859466e2d.json
+# Google Cloud credentials and service account keys
+*.json
+!package.json
+!frontend/package.json
+!frontend/locales/*.json
+!rag_cpg_pipeline/output_data/**/*.json
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+notes_main.db
+
+# Logs
+*.log
+logs/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# OS generated files
+.DS_Store?
+ehthumbs.db
+Icon?
+
+# Audio files (temporary transcription files)
+*.wav
+*.mp3
+*.m4a
+*.ogg
+*.webm
+
+# RAG pipeline large files
+rag_cpg_pipeline/input_pdfs/
+rag_cpg_pipeline/output_data/01_raw_text/
+rag_cpg_pipeline/output_data/02_cleaned_text/
+rag_cpg_pipeline/output_data/03_chunks/
+rag_cpg_pipeline/output_data/04_chunks_with_embeddings/
+
+# Node modules (if any frontend tooling is added)
+node_modules/
+
+# Flask session files
+flask_session/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version

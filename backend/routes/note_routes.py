@@ -12,15 +12,24 @@ note_bp = Blueprint('note_routes', __name__)
 
 @note_bp.route('/transcribe', methods=['POST'])
 def transcribe_route():
+    print("\n" + "="*50)
+    print("🎤 TRANSCRIBE ROUTE CALLED")
+    print("="*50)
     try:
         if 'file' not in request.files:
+            print("❌ No file in request")
             return jsonify({"error": "No file provided."}), 400
 
         file = request.files['file']
+        print(f"✅ File received: {file.filename}")
+        
         if file.filename == '':
+            print("❌ Empty filename")
             return jsonify({"error": "Empty filename."}), 400
 
+        print(f"📝 Starting transcription for: {file.filename}")
         transcript_text = transcribe_audio_from_gcs(file, file.filename)
+        print(f"✅ Transcription complete: {transcript_text[:100]}...")
         return jsonify({"text": transcript_text})
 
     except Exception as e:

@@ -1,18 +1,14 @@
 import os
 
-# Google Cloud Storage
-GCS_BUCKET_NAME = os.environ["GCS_BUCKET_NAME"]
+# Vertex AI and Gemini Model (for LLM generation)
+VERTEX_AI_PROJECT_ID = os.environ.get("VERTEX_AI_PROJECT_ID", "")
+VERTEX_AI_LOCATION = os.environ.get("VERTEX_AI_LOCATION", "us-central1")
+VERTEX_AI_MODEL_NAME = os.environ.get("VERTEX_AI_MODEL_NAME", "gemini-2.5-flash-preview-05-20")
 
-# Vertex AI and Gemini Model
-VERTEX_AI_PROJECT_ID = os.environ["VERTEX_AI_PROJECT_ID"]
-VERTEX_AI_LOCATION = os.environ["VERTEX_AI_LOCATION"]
-VERTEX_AI_MODEL_NAME = os.environ["VERTEX_AI_MODEL_NAME"]
-
-# Speech Service
-SPEECH_LANGUAGE_CODE = os.environ["SPEECH_LANGUAGE_CODE"]
-SPEECH_MODEL = os.environ["SPEECH_MODEL"]
-SPEECH_ENABLE_AUTOMATIC_PUNCTUATION = os.environ["SPEECH_ENABLE_AUTOMATIC_PUNCTUATION"].lower() in ('true', '1', 't', 'y', 'yes')
+# Whisper Speech-to-Text Configuration (Local processing)
+WHISPER_MODEL = os.environ.get("WHISPER_MODEL", "medium")  # Options: tiny, base, small, medium, large
+WHISPER_LANGUAGE = os.environ.get("WHISPER_LANGUAGE", "en")  # Language code for transcription
 
 # Database
-DATABASE_NAME = os.environ["DATABASE_NAME"]
+DATABASE_NAME = os.environ.get("DATABASE_NAME", "notes_main.db")
 DATABASE_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), DATABASE_NAME)

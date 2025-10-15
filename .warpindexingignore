@@ -1,0 +1,79 @@
+# Warp Indexing Ignore
+# Files and directories that should be excluded from Warp's codebase indexing
+
+# Virtual environments and dependencies
+venv/
+env/
+.venv/
+node_modules/
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+build/
+dist/
+*.egg-info/
+
+# Database files (contain data, not code)
+*.db
+*.sqlite
+*.sqlite3
+notes_main.db
+
+# Large binary and media files
+*.pdf
+*.wav
+*.mp3
+*.m4a
+*.ogg
+*.webm
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.svg
+
+# RAG pipeline processed data (very large, low code value)
+rag_cpg_pipeline/input_pdfs/
+rag_cpg_pipeline/output_data/
+
+# Environment and configuration files with secrets
+.env
+.env.*
+*.json
+!package.json
+!frontend/package.json
+!frontend/locales/*.json
+
+# Log files
+*.log
+logs/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Test coverage and reports
+htmlcov/
+.coverage
+coverage.xml
+.pytest_cache/
+
+# Git directory
+.git/
+
+# Documentation that's not code-related
+*.md
+!WARP.md
+!README.md

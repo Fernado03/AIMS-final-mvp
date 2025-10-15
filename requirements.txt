@@ -1,10 +1,16 @@
+# Web Framework
 Flask
 Flask-Cors
-google-cloud-speech
-google-cloud-storage
+
+# Speech-to-Text (OpenAI Whisper)
+openai-whisper
+
+# AI/ML for LLM and RAG
 google-cloud-aiplatform
 vertexai
-python-dotenv
 numpy
 sentence-transformers
 einops
+
+# Configuration and utilities
+python-dotenv
