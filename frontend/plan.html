@@ -68,6 +68,73 @@
         input::placeholder { 
             color: #d2d6da;
         }
+        
+        /* Loading Overlay */
+        .transcription-overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.7);
+            z-index: 9999;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .transcription-overlay.active {
+            display: flex;
+        }
+        
+        .transcription-loader {
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            text-align: center;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+            max-width: 90%;
+            animation: slideIn 0.3s ease-out;
+        }
+        
+        @keyframes slideIn {
+            from { transform: translateY(-20px); opacity: 0; }
+            to { transform: translateY(0); opacity: 1; }
+        }
+        
+        .transcription-spinner {
+            width: 60px;
+            height: 60px;
+            margin: 0 auto 20px;
+            border: 5px solid #f3f3f3;
+            border-top: 5px solid #2152ff;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        .transcription-loader h3 {
+            margin: 0 0 10px 0;
+            font-size: 1.25rem;
+            color: #333;
+        }
+        
+        .transcription-loader p {
+            margin: 0;
+            color: #666;
+            font-size: 0.95rem;
+        }
+        
+        .transcription-loader .progress-text {
+            margin-top: 15px;
+            font-size: 0.85rem;
+            color: #888;
+            font-style: italic;
+        }
     </style>
 </head>
 <body>
@@ -91,7 +158,7 @@
             </nav>
             <div data-role="MobileMenu" class="header-mobile-menu">
                 <div class="header-top">
-                    <a href="index.html" class="header-navlink6 Large">Soft UI Design System</a>
+                    <a href="index.html" class="header-navlink6 Large">AI Medical Scribe</a>
                     <div data-role="CloseMobileMenu" class="header-close-menu">
                         <svg viewBox="0 0 1024 1024" class="header-icon3">
                             <path d="M810 274l-238 238 238 238-60 60-238-238-238 238-60-60 238-238-238-238 60-60 238 238 238-238z"></path>
@@ -113,13 +180,13 @@
                     <div class="transcript3-container11">
                         <div class="transcript3-form1">
                             <form class="transcript3-form-plan">
-                                <h1 class="transcript3-text3 HeadingOne" style="text-align: center; margin-bottom: 1rem;">4. Plan</h1>
+                                <h1 class="transcript3-text3 HeadingOne" style="text-align: center; margin-bottom: 1rem;">Plan</h1>
                                 <div class="transcript-container"> <!-- Re-using class for consistent styling -->
-                                    <h3>Plan</h3>
-                                    <div class="generate-button-container">
-                                        <button type="button" id="generatePlanButton" class="generate-button">Generate Plan</button>
-                                        <div id="planLoadingIndicator" class="loading-indicator">
-                                            Generating plan...
+                                    <div class="section-header">
+                                        <h3>Plan</h3>
+                                        <div class="actions">
+                                            <button type="button" id="generatePlanButton" class="generate-button">Generate Plan</button>
+                                            <div id="planLoadingIndicator" class="loading-indicator">Generating plan...</div>
                                         </div>
                                     </div>
                                     <textarea
@@ -175,7 +242,7 @@
                                         ></path>
                                     </svg>
                                     <a
-                                        href="mailto:kinavis@iluv.ums..edu.my?subject="
+                                        href="mailto:kinavis@iluv.ums.edu.my?subject="
                                         class="transcript3-link2"
                                         >kinavis@iluv.ums.edu.my
                                     </a>
@@ -186,7 +253,7 @@
                                             d="M512 490q44 0 75-31t31-75-31-75-75-31-75 31-31 75 31 75 75 31zM512 86q124 0 211 87t87 211q0 62-31 142t-75 150-87 131-73 97l-32 34q-12-14-32-37t-72-92-91-134-71-147-32-144q0-124 87-211t211-87z"
                                         ></path>
                                     </svg>
-                                    <span class="transcript3-text7 Small">Universiti Malaysia Saah</span>
+                                    <span class="transcript3-text7 Small">Universiti Malaysia Sabah</span>
                                 </div>
                             </div>
                             <div class="transcript3-container19">
@@ -282,6 +349,17 @@
         </div>
     </div>
     <script src="/script.js"></script>
+    
+    <!-- Loading Overlay -->
+    <div id="transcriptionOverlay" class="transcription-overlay">
+        <div class="transcription-loader">
+            <div class="transcription-spinner"></div>
+            <h3>📋 Generating Plan...</h3>
+            <p id="transcriptionMessage">AI is creating your treatment plan</p>
+            <p class="progress-text">Please wait, this may take a moment</p>
+        </div>
+    </div>
+    
     <script
         defer=""
         src="https://unpkg.com/@teleporthq/teleport-custom-scripts"

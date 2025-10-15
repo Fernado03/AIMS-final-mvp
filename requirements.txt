@@ -4,10 +4,10 @@ Flask-Cors
 
 # Speech-to-Text (OpenAI Whisper)
 openai-whisper
+librosa  # For audio duration detection
 
 # AI/ML for LLM and RAG
-google-cloud-aiplatform
-vertexai
+google-generativeai
 numpy
 sentence-transformers
 einops

@@ -59,6 +59,8 @@
         rel="stylesheet"
         href="https://unpkg.com/@teleporthq/teleport-custom-scripts/dist/style.css"
     />
+    <link rel="stylesheet" href="/style.css" />
+    <link rel="stylesheet" href="/components.css" />
     <style>
         html * {
             -webkit-font-smoothing: antialiased;
@@ -66,9 +68,58 @@
         input::placeholder, textarea::placeholder {
             color: #d2d6da;
         }
+        .not-found-container1 {
+            text-align: center;
+            padding: 50px 20px;
+        }
+        .not-found-container1 h3 {
+            color: #67748e;
+            font-size: 1rem;
+            margin-bottom: 20px;
+        }
+        .not-found-text2 {
+            font-size: 8rem;
+            font-weight: 700;
+            color: #344767;
+            margin: 20px 0;
+        }
+        .not-found-text3 {
+            color: #67748e;
+            font-size: 1.25rem;
+            margin-bottom: 30px;
+        }
+        .home-button {
+            display: inline-block;
+            padding: 12px 30px;
+            background: linear-gradient(310deg,#2152ff,#21d4fd);
+            color: white;
+            text-decoration: none;
+            border-radius: 1.875rem;
+            font-weight: 700;
+            font-size: 0.875rem;
+            text-transform: uppercase;
+            transition: all 0.15s ease-in-out;
+            box-shadow: 0 4px 7px -1px rgb(0 0 0 / 11%), 0 2px 4px -1px rgb(0 0 0 / 7%);
+        }
+        .home-button:hover {
+            transform: scale(1.02);
+        }
     </style>
 </head>
 <body>
+    <header-wrapper class="header-wrapper">
+        <div data-role="Header" class="header-header">
+            <nav class="header-nav">
+                <div class="header-container1">
+                    <a href="index.html" class="header-navlink1 Large">AI Medical Scribe</a>
+                    <div class="header-menu1">
+                        <a href="index.html" class="header-navlink2 Large">Home</a>
+                        <a href="subjective.html" class="header-navlink3 Large">New SOAP Note</a>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </header-wrapper>
     <div>
         <link href="./404.css" rel="stylesheet" />
         <div class="not-found-container1">
@@ -79,6 +130,7 @@
             <div class="not-found-container3">
                 <h2 class="not-found-text3">WE ARE SORRY, BUT THE PAGE YOU REQUESTED WAS NOT FOUND</h2>
             </div>
+            <a href="index.html" class="home-button">Go Home</a>
         </div>
     </div>
     <script

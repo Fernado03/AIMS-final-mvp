@@ -177,17 +177,18 @@
 
 .header-header {
   top: 0px;
-  left: auto;
-  right: auto;
+  left: 0;
+  right: 0;
   width: 100%;
   bottom: auto;
   display: flex;
   z-index: 3;
   position: fixed;
-  max-width: 1320px;
+  max-width: 100%; /* Full width for fixed positioning */
   padding-left: var(--dl-layout-space-unitandahalfunit);
   padding-right: var(--dl-layout-space-unitandahalfunit);
   justify-content: center;
+  background: transparent; /* Background is on nav element */
 }
 
 /* Ensure this class is specific enough if other .header-header instances exist with different root class names */

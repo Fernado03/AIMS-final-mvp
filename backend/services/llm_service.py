@@ -1,11 +1,10 @@
 # services/llm_service.py
 
-import vertexai
-from vertexai.generative_models import GenerativeModel, Part
+import google.generativeai as genai
 import os
 import traceback
 import numpy as np
-from backend.config import VERTEX_AI_PROJECT_ID, VERTEX_AI_LOCATION, VERTEX_AI_MODEL_NAME
+from backend.config import GOOGLE_API_KEY, GEMINI_MODEL_NAME
 from backend.rag.knowledge_base_service import KnowledgeBaseService
 from backend.rag.prompt_service import get_assessment_prompt, get_plan_prompt, get_summary_prompt
 
@@ -13,11 +12,11 @@ gemini_model = None
 kb_service = KnowledgeBaseService()
 
 try:
-    vertexai.init(project=VERTEX_AI_PROJECT_ID, location=VERTEX_AI_LOCATION)
-    gemini_model = GenerativeModel(VERTEX_AI_MODEL_NAME)
-    print(f"Vertex AI initialized and Gemini model '{gemini_model._model_name}' loaded successfully in project '{VERTEX_AI_PROJECT_ID}' location '{VERTEX_AI_LOCATION}'.")
+    genai.configure(api_key=GOOGLE_API_KEY)
+    gemini_model = genai.GenerativeModel(GEMINI_MODEL_NAME)
+    print(f"✅ Google Generative AI initialized successfully with model '{GEMINI_MODEL_NAME}'")
 except Exception as e:
-    print(f"⚠️ Error initializing Vertex AI or Gemini model: {e}\n{traceback.format_exc()}")
+    print(f"⚠️ Error initializing Google Generative AI: {e}\n{traceback.format_exc()}")
     gemini_model = None
 
 def generate_assessment_from_notes(subjective_text, objective_text):

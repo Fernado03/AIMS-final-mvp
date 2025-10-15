@@ -1,48 +1,23 @@
-/* Body Background for SOAP Pages */
+/* Body Background for SOAP Pages - preserve flex from page-layout.css */
 body {
   background-image: url('/public/background.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
-  min-height: 100vh;
-  margin: 0;
-  padding: 0;
 }
 
-/* Main content container styling */
+/* Override container backgrounds to be transparent for SOAP pages */
 .transcript3-container10 {
-  min-height: calc(100vh - 120px); /* Full viewport minus header/footer */
-  height: auto;
-  display: flex;
-  flex-direction: column;
   background-color: transparent !important;
 }
 
 .transcript3-contact {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
   background-color: transparent !important;
 }
 
 .transcript3-form1 {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
   background-color: transparent !important;
-}
-
-@media (max-height: 800px) {
-  .transcript3-container10 {
-    min-height: calc(100vh - 100px);
-  }
-}
-
-@media (max-height: 600px) {
-  .transcript3-container10 {
-    min-height: calc(100vh - 80px);
-  }
 }
 
 /*Navigation Section*/
@@ -64,10 +39,21 @@ body {
 }
 
 .header-nav {
-  width: 95%; 
+  width: 100%;
   margin: var(--dl-layout-space-unit) auto 0;
   border-radius: var(--dl-layout-radius-radius40);
   box-shadow: 0 .25rem .375rem -.0625rem hsla(0,0%,8%,.12), 0 .125rem .25rem -.0625rem hsla(0,0%,8%,.07);
+}
+
+/* Keep navbar padded from viewport edges on medium screens */
+@media (max-width: 1200px) {
+  .header-header { padding-left: 12px; padding-right: 12px; }
+  .header-nav { width: 100%; margin-top: 8px; }
+}
+
+/* Compact navbar on tablet widths */
+@media (max-width: 991px) {
+  .header-nav { border-radius: 20px; }
 }
 /*End of Navigation Section*/
 
@@ -272,9 +258,40 @@ body {
     margin-right: 0; 
 }
 
+/* Stack buttons and inputs nicely on smaller screens */
+@media (max-width: 991px) {
+  .button-navigation-controls { flex-direction: column; align-items: stretch; gap: 10px; }
+  .file-upload-container > div { flex-direction: column !important; align-items: stretch !important; }
+  #audioFile { width: 100%; }
+  #transcribeFileButton { width: 100%; }
+}
+
 /*=====================================================
                      SOAP Style End                      
 ======================================================*/
+
+/* Inline section header with action button */
+.section-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+.section-header h3 {
+  margin: 0;
+}
+.section-header .actions {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+.loading-indicator { display: none; color: #667085; font-size: 0.9rem; }
+
+@media (max-width: 767px) {
+  .section-header { flex-direction: column; align-items: stretch; gap: 8px; }
+  .section-header .actions { justify-content: flex-start; }
+}
 
 /*Container for SOAP Input*/
 .audio-recorder-container, .transcript-container {
@@ -504,23 +521,42 @@ body {
     vertical-align: middle;
 }
 
+/* Make the Transcribe File button highly visible */
+#transcribeFileButton {
+  color: #fff;
+  background: linear-gradient(310deg,#2152ff,#21d4fd);
+  box-shadow: 0 4px 7px -1px rgb(0 0 0 / 11%), 0 2px 4px -1px rgb(0 0 0 / 7%);
+  border: none;
+  border-radius: 1.875rem;
+  padding: 0.6rem 1.25rem;
+}
+#transcribeFileButton:hover:not([disabled]) {
+  transform: translateY(-1px);
+  filter: brightness(0.98);
+}
+#transcribeFileButton:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
 /* Primary Action Buttons (NEXT, Summarize, Generate) */
 .primary-blue-button-button, /* Existing class for NEXT/Summarize */
 #generateAssessmentButton,
 #generatePlanButton,
-#generateSummaryButton {
+#generateSummaryButton,
+.generate-button {
     color: #fff;
-    background-color: #0d6efd; /* Standard professional blue */
-    border-color: #0d6efd;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    background: linear-gradient(310deg,#2152ff,#21d4fd);
+    border-color: transparent;
+    box-shadow: 0 4px 7px -1px rgb(0 0 0 / 11%), 0 2px 4px -1px rgb(0 0 0 / 7%);
 }
 
 .primary-blue-button-button:hover,
 #generateAssessmentButton:hover,
 #generatePlanButton:hover,
-#generateSummaryButton:hover {
-    background-color: #0b5ed7; /* Darker blue on hover */
-    border-color: #0a58ca;
+#generateSummaryButton:hover,
+.generate-button:hover {
+    filter: brightness(0.98);
     transform: translateY(-1px); /* Subtle lift */
 }
     
@@ -535,18 +571,21 @@ body {
     transform: none; /* No lift when disabled */
 }
 
-/* Secondary/Back Buttons */
+/* Secondary/Back Buttons - unified with theme */
 .page-back-button { /* This is an <a> tag styled as a button */
-    color: #495057; /* Dark gray text */
-    background-color: #e9ecef; /* Light gray background */
-    border-color: #ced4da; /* Slightly darker gray border */
-    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    background: linear-gradient(310deg,#2152ff,#21d4fd);
+    border: none;
+    border-radius: 1.875rem;
+    box-shadow: 0 4px 7px -1px rgb(0 0 0 / 11%), 0 2px 4px -1px rgb(0 0 0 / 7%);
+    padding: 0.65rem 1.25rem;
 }
 
 .page-back-button:hover {
-    color: #212529;
-    background-color: #d3d9df;
-    border-color: #b9bfc6;
+    filter: brightness(0.98);
     transform: translateY(-1px); /* Subtle lift */
 }
     
@@ -554,10 +593,10 @@ body {
 .page-back-button .button { /* If .page-back-button contains a child with class .button */
     background-color: transparent !important;
     border: none !important;
-    color: inherit !important;
+    color: #fff !important;
     padding: 0 !important;
     box-shadow: none !important;
-    font-weight: inherit !important; 
+    font-weight: 700 !important; 
     line-height: inherit !important; 
 }
 
@@ -570,32 +609,38 @@ body {
 }
 
 .generate-button {
-    padding: 0.65rem 1.25rem;
+    padding: 0.7rem 1.8rem;
     font-family: 'Open Sans', sans-serif;
-    font-size: 0.875rem;
-    font-weight: 600;
-    color: #fff;
-    background-color: #0d6efd;
-    border: 1px solid #0d6efd;
-    border-radius: 0.375rem;
+    font-size: 0.9rem;
+    font-weight: 700;
+    border: none;
+    border-radius: 1.875rem;
     cursor: pointer;
-    transition: all 0.15s ease-in-out;
+    transition: all 0.2s ease;
     white-space: nowrap;
+    display: inline-flex;
+    align-items: center;
+    min-width: 140px;
+    justify-content: center;
 }
 
+/* Remove decorative icon */
+.generate-button::before { content: none; }
+
 .generate-button:hover {
-    background-color: #0b5ed7;
-    border-color: #0a58ca;
+    filter: brightness(0.98);
     transform: translateY(-1px);
 }
 
 .generate-button:disabled {
-    opacity: 0.65;
+    opacity: 0.6;
     cursor: not-allowed;
     transform: none;
+    box-shadow: none;
 }
 
-.loading-indicator {
+/* Inline loading indicator only for section headers (Generate buttons) */
+.section-header .loading-indicator {
     display: none;
     color: transparent;
     background-color: transparent;
@@ -608,7 +653,7 @@ body {
     height: 16px;
 }
 
-.loading-indicator::after {
+.section-header .loading-indicator::after {
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
@@ -710,16 +755,13 @@ body {
     margin-bottom: 10px;
     position: relative;
 }
-/* Export container styles - positioned bottom-left */
+/* Export container styles - positioned below summary */
 .export-container {
-    position: absolute;
-    bottom: 15px;
-    left: 15px;
-    margin: 0;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 15px;
     padding: 0;
-    z-index: 10;
-    background-color: transparent;
-    border: none;
+    width: 100%;
 }
 
 /* Adjust export dropdown position */
@@ -765,4 +807,131 @@ body {
 
 .export-dropdown button {
     margin: 0;
+}
+
+/* Summary Page Specific Styles */
+/* Fixed height scrollable content area */
+.summary-content-area {
+    max-height: 400px !important;
+    overflow-y: auto !important;
+    overflow-x: hidden;
+    scrollbar-width: thin;
+    scrollbar-color: #cbd5e0 #f1f5f9;
+}
+
+.summary-content-area::-webkit-scrollbar {
+    width: 8px;
+}
+
+.summary-content-area::-webkit-scrollbar-track {
+    background: #f1f5f9;
+    border-radius: 4px;
+}
+
+.summary-content-area::-webkit-scrollbar-thumb {
+    background: #cbd5e0;
+    border-radius: 4px;
+}
+
+.summary-content-area::-webkit-scrollbar-thumb:hover {
+    background: #a0aec0;
+}
+
+/* Unified Summary Action Buttons (Export & Back to Plan) */
+.summary-action-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.7rem 1.8rem;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: #fff;
+    background: linear-gradient(310deg, #2152ff, #21d4fd);
+    border: none;
+    border-radius: 1.875rem;
+    cursor: pointer;
+    box-shadow: 0 4px 7px -1px rgba(0, 0, 0, 0.11), 0 2px 4px -1px rgba(0, 0, 0, 0.07);
+    transition: all 0.15s ease-in-out;
+    white-space: nowrap;
+    text-decoration: none;
+    outline: none;
+    height: 42px;
+    line-height: 1;
+    min-width: 140px;
+}
+
+.summary-action-button:hover {
+    filter: brightness(0.95);
+    transform: translateY(-1px);
+    box-shadow: 0 6px 10px -1px rgba(0, 0, 0, 0.15), 0 3px 5px -1px rgba(0, 0, 0, 0.1);
+}
+
+.summary-action-button:active {
+    transform: translateY(0);
+    box-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.1);
+}
+
+/* Summary button container - proper alignment */
+.summary-button-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 12px;
+    width: 100%;
+}
+
+/* Ensure export dropdown aligns properly */
+.summary-button-container .export-dropdown {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+}
+
+/* Keep old button navigation controls for other pages */
+.button-navigation-controls {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.export-container {
+    display: inline-flex;
+    align-items: center;
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 768px) {
+    .summary-content-area {
+        max-height: 300px !important;
+    }
+    
+    .summary-button-container {
+        flex-direction: column;
+        gap: 10px;
+        width: 100%;
+    }
+    
+    .button-navigation-controls {
+        flex-direction: column;
+        gap: 10px;
+        width: 100%;
+    }
+    
+    .summary-action-button {
+        width: 100%;
+        height: 44px;
+    }
+    
+    .export-container {
+        width: 100%;
+    }
+    
+    .summary-button-container .export-dropdown {
+        width: 100%;
+    }
+    
+    .summary-button-container .export-dropdown .summary-action-button {
+        width: 100%;
+    }
 }

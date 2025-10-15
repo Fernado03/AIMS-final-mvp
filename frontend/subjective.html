@@ -50,7 +50,6 @@
     <link rel="stylesheet" href="/style.css" />
     <link rel="stylesheet" href="/components.css" />
     <link rel="stylesheet" href="/page-layout.css" />
-    <link rel="stylesheet" href="/subjective.css" />
     <link rel="stylesheet" href="/soap-styles.css" />
     <link rel="stylesheet" href="/dialog.css" />
     <style>
@@ -162,9 +161,140 @@
             height: 100%;
             width: 110px;
         }
+        
+        /* Keyboard shortcut styling */
+        kbd {
+            background-color: #f4f4f4;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            box-shadow: 0 1px 0 rgba(0,0,0,0.2);
+            color: #333;
+            display: inline-block;
+            font-family: 'Courier New', monospace;
+            font-size: 11px;
+            line-height: 1.4;
+            margin: 0 2px;
+            padding: 2px 6px;
+            white-space: nowrap;
+        }
+        
+        /* Transcription Loading Indicator */
+        .transcription-overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.7);
+            z-index: 9999;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .transcription-overlay.active {
+            display: flex;
+        }
+        
+        .transcription-loader {
+            background: white;
+            padding: 40px;
+            border-radius: 12px;
+            text-align: center;
+            box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+            max-width: 90%;
+            animation: slideIn 0.3s ease-out;
+        }
+        
+        @keyframes slideIn {
+            from { transform: translateY(-20px); opacity: 0; }
+            to { transform: translateY(0); opacity: 1; }
+        }
+        
+        .transcription-spinner {
+            width: 60px;
+            height: 60px;
+            margin: 0 auto 20px;
+            border: 5px solid #f3f3f3;
+            border-top: 5px solid #2152ff;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        .transcription-loader h3 {
+            margin: 0 0 10px 0;
+            font-size: 1.25rem;
+            color: #333;
+        }
+        
+        .transcription-loader p {
+            margin: 0;
+            color: #666;
+            font-size: 0.95rem;
+        }
+        
+        .transcription-loader .progress-text {
+            margin-top: 15px;
+            font-size: 0.85rem;
+            color: #888;
+            font-style: italic;
+        }
     </style>
 </head>
 <body>
+    <header-wrapper class="header-wrapper" rootclassname="headerundefined">
+        <div
+            data-role="Header"
+            class="header-header headerroot-class-name2"
+        >
+            <nav class="header-nav">
+                <div class="header-container1">
+                    <a href="index.html" class="header-navlink1 Large">AI Medical Scribe</a>
+                    <div class="header-menu1">
+                        <a href="index.html" class="header-navlink2 Large">Home</a>
+                        <a href="subjective.html" class="header-navlink3 Large">New SOAP Note</a>
+                        <a href="index.html#about" class="header-navlink4 Large">About</a>
+                        <a href="index.html#team" class="header-navlink4 Large">Team</a>
+                    </div>
+                    <div class="header-container2">
+                        <div data-role="BurgerMenu" class="header-burger-menu">
+                            <svg viewBox="0 0 1024 1024" class="header-icon1">
+                                <path
+                                    d="M128 256h768v86h-768v-86zM128 554v-84h768v84h-768zM128 768v-86h768v86h-768z"
+                                ></path>
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+            <div data-role="MobileMenu" class="header-mobile-menu">
+                <div class="header-top">
+                    <a href="index.html" class="header-navlink6 Large">AI Medical Scribe</a>
+                    <div data-role="CloseMobileMenu" class="header-close-menu">
+                        <svg viewBox="0 0 1024 1024" class="header-icon3">
+                            <path
+                                d="M810 274l-238 238 238 238-60 60-238-238-238 238-60-60 238-238-238-238 60-60 238 238 238-238z"
+                            ></path>
+                        </svg>
+                    </div>
+                </div>
+                <div class="header-mid">
+                    <div class="header-menu2">
+                        <a href="index.html" class="header-navlink7 Large">Home</a>
+                        <a href="subjective.html" class="header-navlink8 Large">New SOAP Note</a>
+                        <a href="index.html#about" class="header-navlink9 Large">About</a>
+                        <a href="index.html#team" class="header-navlink9 Large">Team</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header-wrapper>
+    
     <div>
         <div>
             <div class="transcript3-container10">
@@ -172,32 +302,34 @@
                     <div class="transcript3-container11">
                         <div class="transcript3-form1">
                             <form class="transcript3-form2">
-                                <h1 class="transcript3-text3 HeadingOne">1. Subjective</h1>
+                                <h1 class="transcript3-text3 HeadingOne" style="text-align: center; margin-bottom: 1rem;">Subjective</h1>
                                 
                                 <!-- Audio Recorder Component with integrated transcript -->
                                 <div class="audio-recorder-container">
                                   <div class="recording-controls">
-                                    <button id="startButton" class="recording-button record" type="button">
-                                      <svg viewBox="0 0 24 24" width="24" height="24" class="recording-icon">
-                                        <circle cx="12" cy="12" r="6" fill="red"></circle>
-                                      </svg>
-                                      Start Recording
-                                    </button>
-                                    <button id="stopButton" class="recording-button stop" type="button" disabled>
-                                      <svg viewBox="0 0 24 24" width="24" height="24" class="recording-icon">
-                                        <rect x="8" y="8" width="8" height="8" fill="black"></rect>
-                                      </svg>
-                                      Stop Recording
-                                    </button>
+                                    <button id="startButton" class="recording-button record" type="button">Start Recording</button>
+                                    <button id="stopButton" class="recording-button stop" type="button" disabled>Stop Recording</button>
                                   </div>
                                   <div id="recordingStatus" class="recording-status"></div>
+                                  <details style="margin-top: 8px;">
+                                    <summary style="font-size: 11px; color: #999; cursor: pointer; user-select: none;">⌨️ Keyboard shortcuts</summary>
+                                    <div style="font-size: 11px; color: #999; margin-top: 5px; padding-left: 10px;">
+                                      <kbd>Ctrl+R</kbd> Start • <kbd>Ctrl+S</kbd> Stop
+                                    </div>
+                                  </details>
                                   
-                                  <!-- Transcript textarea inside the audio recorder container -->
-<div class="file-upload-container" style="margin-top: 15px; margin-bottom: 15px; display: flex; flex-direction: column; gap: 10px;">
-                                    <label for="audioFile" style="font-weight: 600;">Or Upload Audio File:</label>
-                                    <input type="file" id="audioFile" name="audioFile" accept=".mp3,.wav,.m4a,.webm,.ogg" style="padding: 8px; border: 1px solid #ccc; border-radius: 4px;">
-                                    <span id="selectedFileName" style="font-style: italic; font-size: 0.9em; color: #555; margin-top: 5px;"></span>
-                                    <button id="transcribeFileButton" class="recording-button" type="button" style="align-self: flex-start; margin-top: 5px;">Transcribe File</button>
+                                  <!-- Visual Divider -->
+                                  <div style="margin: 20px 0; border-top: 2px solid #e0e0e0; position: relative;">
+                                    <span style="position: absolute; top: -12px; left: 50%; transform: translateX(-50%); background: white; padding: 0 10px; color: #999; font-size: 12px; font-weight: 500;">OR</span>
+                                  </div>
+                                  
+                                  <!-- File upload section with inline button -->
+                                  <div class="file-upload-container" style="margin-bottom: 15px;">
+                                    <label for="audioFile" style="font-weight: 600; margin-bottom: 8px; display: block;">Upload Audio File:</label>
+                                    <div style="display: flex; gap: 10px; align-items: center;">
+                                      <input type="file" id="audioFile" name="audioFile" accept=".mp3,.wav,.m4a,.webm,.ogg" style="flex: 1; padding: 8px; border: 1px solid #ccc; border-radius: 4px;">
+                                      <button id="transcribeFileButton" class="recording-button" type="button" style="display: none; white-space: nowrap;">Transcribe File</button>
+                                    </div>
                                   </div>
                                   <div class="transcript-container">
                                     <h3>Audio Transcript</h3>
@@ -205,7 +337,8 @@
                                         id="transcript"
                                         name="transcript"
                                         placeholder="Transcription will appear here after recording..."
-                                    ></textarea> <!-- readonly removed -->
+                                        rows="10"
+                                    ></textarea>
                                   </div>
                                   <!-- Removed separate save button div -->
                                 </div>
@@ -353,51 +486,8 @@
                         src="/public/waves-white.svg"
                         class="footer-image"
                     />
-                </footer>
+            </footer>
             </footer-wrapper>
-            <header-wrapper class="header-wrapper" rootclassname="headerundefined">
-                <div
-                    data-role="Header"
-                    class="header-header headerroot-class-name2"
-                >
-                    <nav class="header-nav">
-                        <div class="header-container1">
-                            <a href="index.html" class="header-navlink1 Large">AI Medical Scribe</a>
-                            <div class="header-menu1">
-                                <a href="index.html" class="header-navlink2 Large">Home</a>
-                                <a href="subjective.html" class="header-navlink3 Large">New SOAP Note</a>
-                            </div>
-                            <div class="header-container2">
-                                <div data-role="BurgerMenu" class="header-burger-menu">
-                                    <svg viewBox="0 0 1024 1024" class="header-icon1">
-                                        <path
-                                            d="M128 256h768v86h-768v-86zM128 554v-84h768v84h-768zM128 768v-86h768v86h-768z"
-                                        ></path>
-                                    </svg>
-                                </div>
-                            </div>
-                        </div>
-                    </nav>
-                    <div data-role="MobileMenu" class="header-mobile-menu">
-                        <div class="header-top">
-                            <a href="index.html" class="header-navlink6 Large">Soft UI Design System</a>
-                            <div data-role="CloseMobileMenu" class="header-close-menu">
-                                <svg viewBox="0 0 1024 1024" class="header-icon3">
-                                    <path
-                                        d="M810 274l-238 238 238 238-60 60-238-238-238 238-60-60 238-238-238-238 60-60 238 238 238-238z"
-                                    ></path>
-                                </svg>
-                            </div>
-                        </div>
-                        <div class="header-mid">
-                            <div class="header-menu2">
-                                <a href="index.html" class="header-navlink7 Large">Home</a>
-                                <a href="subjective.html" class="header-navlink8 Large">New SOAP Note</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </header-wrapper>
         </div>
     </div>
     
@@ -581,6 +671,16 @@
         }
     });
     </script>
+    
+    <!-- Transcription Loading Overlay - Positioned at body level for full-screen coverage -->
+    <div id="transcriptionOverlay" class="transcription-overlay">
+        <div class="transcription-loader">
+            <div class="transcription-spinner"></div>
+            <h3>Transcribing Audio...</h3>
+            <p id="transcriptionMessage">Processing your audio file</p>
+            <p class="progress-text">Please wait, this may take a moment</p>
+        </div>
+    </div>
     
     <script
         defer=""

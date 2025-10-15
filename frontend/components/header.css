@@ -95,7 +95,7 @@
   justify-content: space-between;
   background-color: hsla(0,0%,100%,.8)!important;
 }
- 
+
 .header-container1 {
   color: var(--dl-color-gray-black);
   width: 100%;
@@ -104,7 +104,7 @@
   flex-direction: row;
   justify-content: space-between;
 }
- 
+
 .header-navlink1 {
   color: var(--dl-color-secondary-700);
   font-weight: 600;
@@ -112,13 +112,27 @@
   margin-right: var(--dl-layout-space-unit);
   text-decoration: none;
 }
- 
+
 .header-menu1 {
   flex: 0 0 auto;
   display: flex;
   align-items: flex-start;
   margin-right: 109px;
   flex-direction: row;
+}
+
+/* Responsive header adjustments */
+@media (max-width: 1200px) {
+  /* Switch to burger menu around half-screen widths */
+  .header-menu1 { display: none; margin-right: 0; }
+  .header-burger-menu { display: flex; }
+  .header-nav { height: auto; padding-top: 8px; padding-bottom: 8px; }
+  .header-container1 { flex-wrap: nowrap; }
+}
+
+@media (max-width: 991px) {
+  /* Further compact styling for smaller tablets/phones */
+  .header-nav { border-radius: 20px; }
 }
  
 .header-navlink2 {

@@ -63,6 +63,30 @@
         input::placeholder, textarea::placeholder {
             color: #d2d6da;
         }
+        
+        /* Loading Spinner */
+        .summary-loading {
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .transcription-spinner {
+            width: 60px;
+            height: 60px;
+            border: 5px solid #e0e7ff;
+            border-top: 5px solid #2152ff;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            display: block;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
     </style>
 </head>
 <body class="summary-page">
@@ -86,7 +110,7 @@
                     </nav>
                     <div data-role="MobileMenu" class="header-mobile-menu">
                         <div class="header-top">
-                            <a href="index.html" class="header-navlink6 Large">Soft UI Design System</a>
+                            <a href="index.html" class="header-navlink6 Large">AI Medical Scribe</a>
                             <div data-role="CloseMobileMenu" class="header-close-menu">
                                 <svg viewBox="0 0 1024 1024" class="header-icon3">
                                     <path d="M810 274l-238 238 238 238-60 60-238-238-238 238-60-60 238-238-238-238 60-60 238 238 238-238z"></path>
@@ -105,31 +129,87 @@
 
     <div class="transcript3-container10">
         <div class="transcript3-contact">
-                <div class="summary-container2">
-                    <div class="summary-card">
-                        <div class="summary-main">
-                            <div class="summary-container3" style="position: relative;">
-                                <h1 class="summary-text10 HeadingOne" style="text-align: center; margin-bottom: 1rem;">Summary of Generated SOAP</h1>
-                                <div class="generate-button-container">
-                                    <button type="button" id="generateSummaryButton" class="generate-button">Generate Summary</button>
-                                    <div id="summaryLoadingIndicator" class="loading-indicator">Generating summary...</div>
+            <div class="transcript3-container11">
+                <div class="transcript3-form1">
+                    <h1 class="transcript3-text3 HeadingOne" style="text-align: center; margin-bottom: 1rem;">Summary of Generated SOAP</h1>
+                    
+                    <!-- Auto-generation status -->
+                    <div id="summaryLoadingIndicator" class="summary-loading" style="display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 40px 20px; width: 100%;">
+                        <div class="transcription-spinner" style="margin-bottom: 20px;"></div>
+                        <p style="color: #666; font-size: 0.95rem; margin: 0; text-align: center;">Generating your SOAP summary...</p>
+                    </div>
+                    
+                    <!-- Summary display area -->
+                    <div id="summaryDisplayArea" class="transcript-container summary-content-area" contenteditable="true" style="display: none; white-space: pre-wrap; background-color: #f8f9fa; border: 1px solid #ced4da; padding: 15px; border-radius: 6px; min-height: 200px; max-height: 400px; overflow-y: auto;"></div>
+                    
+                    <!-- Export + Back inline controls -->
+                    <div class="transcript3-container12" style="margin-top: 20px;">
+                        <div class="summary-button-container">
+                            <div class="export-dropdown" id="exportContainer" style="display: none;">
+                                <button type="button" id="exportButton" class="summary-action-button">Export</button>
+                                <div id="exportOptions" class="export-options">
+                                    <button type="button" class="export-option" data-format="txt">TXT</button>
+                                    <button type="button" class="export-option" data-format="pdf">PDF</button>
                                 </div>
-                                <div id="summaryDisplayArea" class="transcript-container" contenteditable="true" style="white-space: pre-wrap; background-color: #f8f9fa; border: 1px solid #ced4da; padding: 15px; border-radius: 6px; min-height: 200px; margin-bottom: 50px;"></div>
-                                <div class="export-container">
-                                    <div class="export-dropdown">
-                                        <button type="button" id="exportButton" class="generate-button">Export</button>
-                                        <div id="exportOptions" class="export-options">
-                                            <button type="button" class="export-option" data-format="txt">TXT</button>
-                                            <button type="button" class="export-option" data-format="pdf">PDF</button>
-                                        </div>
-                                    </div>
-                                </div>
+                            </div>
+                            <button type="button" onclick="window.location.href='plan.html'" class="summary-action-button">Back to Plan</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="transcript3-info">
+                    <img
+                        alt="image"
+                        src="/public/wave-1.svg"
+                        class="transcript3-image"
+                    />
+                    <div class="transcript3-container20"></div>
+                    <div class="transcript3-container14">
+                        <h3 class="HeadingTwo">Kinavis Medical Scribe</h3>
+                        <span class="transcript3-text6">
+                            Your complete SOAP note is ready for review and export.
+                        </span>
+                        <div class="transcript3-container15">
+                            <div class="transcript3-container16">
+                                <svg viewBox="0 0 1024 1024" class="transcript3-icon10">
+                                    <path
+                                        d="M742 460l-94-94q-18-18-10-44 24-72 24-152 0-18 12-30t30-12h150q18 0 30 12t12 30q0 300-213 513t-513 213q-18 0-30-12t-12-30v-150q0-18 12-30t30-12q80 0 152-24 24-10 44 10l94 94q186-96 282-282z"
+                                    ></path>
+                                </svg>
+                                <a
+                                    href="tel:+40 772 100 200"
+                                    class="transcript3-link1 Small"
+                                >
+                                    (+40) 772 100 200
+                                </a>
+                            </div>
+                            <div class="transcript3-container17">
+                                <svg viewBox="0 0 1024 1024" class="transcript3-icon12">
+                                    <path
+                                        d="M854 342v-86l-342 214-342-214v86l342 212zM854 170q34 0 59 26t25 60v512q0 34-25 60t-59 26h-684q-34 0-59-26t-25-60v-512q0-34 25-60t59-26h684z"
+                                    ></path>
+                                </svg>
+                                <a
+                                    href="mailto:kinavis@iluv.ums.edu.my?subject="
+                                    class="transcript3-link2"
+                                >
+                                    kinavis@iluv.ums.edu.my
+                                </a>
+                            </div>
+                            <div class="transcript3-container18">
+                                <svg viewBox="0 0 1024 1024" class="transcript3-icon14">
+                                    <path
+                                        d="M512 490q44 0 75-31t31-75-31-75-75-31-75 31-31 75 31 75 75 31zM512 86q124 0 211 87t87 211q0 62-31 142t-75 150-87 131-73 97l-32 34q-12-14-32-37t-72-92-91-134-71-147-32-144q0-124 87-211t211-87z"
+                                    ></path>
+                                </svg>
+                                <span class="transcript3-text7 Small">
+                                    Universiti Malaysia Sabah
+                                </span>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-
+        </div>
     </div>
 
     <footer-wrapper class="footer-wrapper">
@@ -160,6 +240,22 @@
             <img alt="image" src="/public/waves-white.svg" class="footer-image" />
         </footer>
     </footer-wrapper>
+
+    <!-- Custom Dialog Box -->
+    <div id="customDialog" class="custom-dialog-overlay">
+        <div class="custom-dialog">
+            <div class="custom-dialog-header">
+                <h3 id="dialogTitle">Confirmation</h3>
+            </div>
+            <div class="custom-dialog-content">
+                <p id="dialogMessage">Are you sure?</p>
+            </div>
+            <div class="custom-dialog-footer">
+                <button id="dialogCancelBtn" class="dialog-button cancel-button">Cancel</button>
+                <button id="dialogOkBtn" class="dialog-button confirm-button">OK</button>
+            </div>
+        </div>
+    </div>
 
     <script defer="" src="https://unpkg.com/@teleporthq/teleport-custom-scripts"></script>
     <script src="/script.js"></script>

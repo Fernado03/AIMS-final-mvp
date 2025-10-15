@@ -246,72 +246,137 @@ document.addEventListener('DOMContentLoaded', function() {
         const startButton = document.getElementById('startButton');
         const stopButton = document.getElementById('stopButton');
         const transcriptTextarea = document.getElementById('transcript');
-        const audioFileInput = document.getElementById('audioFile'); // Existing
-        const transcribeFileButton = document.getElementById('transcribeFileButton'); // Existing
-        const selectedFileNameElement = document.getElementById('selectedFileName'); // **A. Get new element**
+        const audioFileInput = document.getElementById('audioFile');
+        const transcribeFileButton = document.getElementById('transcribeFileButton');
         let mediaRecorder;
         let audioChunks = [];
-
-        // **B. Initialize transcribeFileButton state**
-        if (transcribeFileButton) {
-            transcribeFileButton.disabled = true;
+        
+        // Auto-hide status message after delay
+        let statusTimeout;
+        function setStatus(message, autoHide = false) {
+            if (!statusElement) return;
+            statusElement.textContent = message;
+            
+            // Clear any existing timeout
+            if (statusTimeout) clearTimeout(statusTimeout);
+            
+            // Auto-hide after 3 seconds if requested
+            if (autoHide && message) {
+                statusTimeout = setTimeout(() => {
+                    statusElement.textContent = '';
+                }, 3000);
+            }
         }
 
-        // **C. Add Event Listener to audioFileInput**
-        if (audioFileInput && transcribeFileButton && selectedFileNameElement && statusElement) {
+        // Initialize transcribeFileButton state
+        if (transcribeFileButton) {
+            transcribeFileButton.style.display = 'none'; // Hidden initially
+        }
+
+        // Add Event Listener to audioFileInput
+        if (audioFileInput && transcribeFileButton) {
             audioFileInput.addEventListener('change', function() {
                 if (audioFileInput.files.length > 0) {
-                    transcribeFileButton.disabled = false;
-                    selectedFileNameElement.textContent = `Selected: ${audioFileInput.files[0].name}`;
-                    statusElement.textContent = 'File selected. Click "Transcribe File" to proceed.';
+                    transcribeFileButton.style.display = 'inline-flex';
+                    transcribeFileButton.disabled = false; // ensure enabled and visible
+                    setStatus && setStatus('File selected. Click "Transcribe File" to proceed.', true);
                 } else {
+                    transcribeFileButton.style.display = 'none';
                     transcribeFileButton.disabled = true;
-                    selectedFileNameElement.textContent = '';
-                    statusElement.textContent = '';
+                    setStatus && setStatus('');
                 }
             });
         }
 
         // **D. Refactor Transcription Logic: New function handleAudioTranscription**
         async function handleAudioTranscription(audioData, fileNameForFormData) {
-            console.log('Audio data size being processed:', audioData.size, 'bytes; Name:', fileNameForFormData); // Log audio data size
+            console.log('🎙️ [TRANSCRIPTION START] Audio data size:', audioData.size, 'bytes; Name:', fileNameForFormData);
             const formData = new FormData();
             formData.append('file', audioData, fileNameForFormData);
+            
+            // Get overlay elements
+            const overlay = document.getElementById('transcriptionOverlay');
+            const overlayMessage = document.getElementById('transcriptionMessage');
+            
+            console.log('💻 [DEBUG] Overlay element found:', !!overlay);
+            console.log('💻 [DEBUG] Overlay message element found:', !!overlayMessage);
 
-            if(statusElement) statusElement.textContent = 'Processing audio...';
-            if(transcriptTextarea) transcriptTextarea.value = ''; // Clear previous transcript
+            setStatus('Processing audio...');
+            
+            // Show loading overlay
+            if(overlay) {
+                console.log('✅ [OVERLAY] Showing loading overlay...');
+                overlay.classList.add('active');
+                const fileSizeMB = audioData.size / (1024 * 1024);
+                console.log('📁 [FILE SIZE]', fileSizeMB.toFixed(2), 'MB');
+                if(overlayMessage) {
+                    if(fileSizeMB > 3) {
+                        const msg = `Processing large file (${fileSizeMB.toFixed(1)}MB) - This may take up to a minute`;
+                        overlayMessage.textContent = msg;
+                        console.log('📢 [MESSAGE]', msg);
+                    } else {
+                        overlayMessage.textContent = 'Processing your audio file';
+                        console.log('📢 [MESSAGE] Processing your audio file');
+                    }
+                }
+            } else {
+                console.error('❌ [ERROR] Overlay element not found!');
+            }
 
             try {
+                console.log('🚀 [FETCH] Sending request to /transcribe endpoint...');
+                const startTime = Date.now();
+                
                 const response = await fetch('http://127.0.0.1:5000/transcribe', {
                     method: 'POST',
                     body: formData
                 });
+                
+                const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
+                console.log(`⏱️ [TIMING] Request completed in ${elapsed} seconds`);
 
                 if (!response.ok) {
                     const errorText = await response.text();
+                    console.error('❌ [ERROR] HTTP error:', response.status, errorText);
                     throw new Error(`HTTP error! ${response.status} ${errorText}`);
                 }
 
                 const data = await response.json();
+                console.log('📝 [RESPONSE] Transcription data:', data);
 
                 if (transcriptTextarea) {
                     if (data && data.text) {
-                        transcriptTextarea.value = data.text;
-                        if(statusElement) statusElement.textContent = 'Transcription complete. You can edit.';
+                        // Append new transcript with space separator
+                        const existingText = transcriptTextarea.value.trim();
+                        transcriptTextarea.value = existingText ? existingText + ' ' + data.text : data.text;
+                        setStatus('Transcription complete. You can edit.', true);
                     } else {
                         transcriptTextarea.value = `[Transcription error: ${data.error || 'No text'}]`;
-                        if(statusElement) statusElement.textContent = 'Transcription failed. You can type manually.';
+                        setStatus('Transcription failed. You can type manually.', true);
                     }
                 }
             } catch (error) {
                 console.error("Error during transcription:", error);
                 if (transcriptTextarea) transcriptTextarea.value = "[Transcription fetch error. Check console or type manually.]";
-                if(statusElement) statusElement.textContent = 'Transcription error.';
+                setStatus('Transcription error.', true);
             } finally {
+                // Hide loading overlay
+                console.log('🚫 [OVERLAY] Hiding loading overlay...');
+                if(overlay) {
+                    overlay.classList.remove('active');
+                    console.log('✅ [OVERLAY] Hidden successfully');
+                } else {
+                    console.error('❌ [ERROR] Overlay element not found when trying to hide!');
+                }
+                
                 // Re-enable buttons
                 if(startButton) startButton.disabled = false;
                 if(stopButton) stopButton.disabled = true; // Stop should be disabled after processing
-                if(transcribeFileButton) transcribeFileButton.disabled = (audioFileInput && audioFileInput.files.length === 0); // Re-enable if a file is still selected
+                if(transcribeFileButton && audioFileInput) {
+                    const hasFile = audioFileInput.files.length > 0;
+                    transcribeFileButton.style.display = hasFile ? 'inline-flex' : 'none';
+                    transcribeFileButton.disabled = !hasFile; // re-enable when done
+                }
                 if(audioFileInput) audioFileInput.disabled = false; // Re-enable file input
             }
         }
@@ -320,11 +385,11 @@ document.addEventListener('DOMContentLoaded', function() {
         function coreStartRecording() {
             if (!navigator.mediaDevices || !navigator.mediaDevices.getUserMedia) {
                 console.error("getUserMedia not supported!");
-                if(statusElement) statusElement.textContent = 'getUserMedia not supported.';
-                if(startButton) startButton.disabled = false;
-                if(stopButton) stopButton.disabled = true;
-                if(audioFileInput) audioFileInput.disabled = false; // Ensure file input enabled if start fails
-                if(transcribeFileButton) transcribeFileButton.disabled = (audioFileInput && audioFileInput.files.length === 0);
+                    setStatus('getUserMedia not supported.');
+                    if(startButton) startButton.disabled = false;
+                    if(stopButton) stopButton.disabled = true;
+                    if(audioFileInput) audioFileInput.disabled = false; // Ensure file input enabled if start fails
+                    if(transcribeFileButton && audioFileInput) transcribeFileButton.style.display = (audioFileInput.files.length > 0) ? 'block' : 'none';
                 return;
             }
             navigator.mediaDevices.getUserMedia({ audio: true })
@@ -344,11 +409,11 @@ document.addEventListener('DOMContentLoaded', function() {
                 })
                 .catch(err => {
                     console.error("Error setting up recording:", err);
-                    if(statusElement) statusElement.textContent = 'Mic permission error. Please allow microphone access.';
+                    setStatus('Mic permission error. Please allow microphone access.');
                     if(startButton) startButton.disabled = false;
                     if(stopButton) stopButton.disabled = true;
                     if(audioFileInput) audioFileInput.disabled = false; // Re-enable file input on error
-                    if(transcribeFileButton) transcribeFileButton.disabled = (audioFileInput && audioFileInput.files.length === 0);
+                    if(transcribeFileButton && audioFileInput) transcribeFileButton.style.display = (audioFileInput.files.length > 0) ? 'block' : 'none';
                 });
         }
 
@@ -363,16 +428,15 @@ document.addEventListener('DOMContentLoaded', function() {
             startButton.onclick = function() {
                 startButton.disabled = true;
                 if(stopButton) stopButton.disabled = false;
-                if(statusElement) statusElement.textContent = 'Recording...';
-                if(transcriptTextarea) transcriptTextarea.value = ''; // Clear transcript
+                setStatus('Recording...');
+                // Don't clear transcript - append mode
 
                 // Disable file upload elements
                 if(audioFileInput) {
                     audioFileInput.value = ''; // Clear selected file
                     audioFileInput.disabled = true;
                 }
-                if(selectedFileNameElement) selectedFileNameElement.textContent = '';
-                if(transcribeFileButton) transcribeFileButton.disabled = true;
+                if(transcribeFileButton) transcribeFileButton.style.display = 'none'; // Hide button
 
                 coreStartRecording();
             };
@@ -387,35 +451,84 @@ document.addEventListener('DOMContentLoaded', function() {
             };
         }
 
+        // **H. Add Keyboard Shortcuts**
+        document.addEventListener('keydown', function(event) {
+            // Ctrl+R or Cmd+R to start recording
+            if ((event.ctrlKey || event.metaKey) && event.key === 'r') {
+                event.preventDefault(); // Prevent browser reload
+                if (startButton && !startButton.disabled) {
+                    startButton.click();
+                    console.log('🎤 Keyboard shortcut: Started recording (Ctrl+R)');
+                }
+            }
+            // Ctrl+S or Cmd+S to stop recording
+            if ((event.ctrlKey || event.metaKey) && event.key === 's') {
+                event.preventDefault(); // Prevent browser save dialog
+                if (stopButton && !stopButton.disabled) {
+                    stopButton.click();
+                    console.log('⏹️ Keyboard shortcut: Stopped recording (Ctrl+S)');
+                }
+            }
+        });
+
         // **F. Add Click Handler for transcribeFileButton**
-        if (transcribeFileButton && audioFileInput && statusElement && transcriptTextarea && startButton && stopButton) {
-            transcribeFileButton.onclick = function() {
+        console.log('💻 [DEBUG] Checking transcribe button elements:', {
+            transcribeFileButton: !!transcribeFileButton,
+            audioFileInput: !!audioFileInput,
+            statusElement: !!statusElement,
+            transcriptTextarea: !!transcriptTextarea,
+            startButton: !!startButton,
+            stopButton: !!stopButton
+        });
+        
+        if (transcribeFileButton && audioFileInput) {
+            console.log('✅ [SETUP] Attaching click handler to Transcribe File button');
+                transcribeFileButton.onclick = async function() {
+                    transcribeFileButton.disabled = true; // immediately disable to prevent double clicks
+                console.log('👆 [CLICK] Transcribe File button clicked!');
+                console.log('📁 [FILES] Files selected:', audioFileInput.files.length);
                 if (!audioFileInput.files || audioFileInput.files.length === 0) {
                     alert('Please select an audio file first.');
-                    if(statusElement) statusElement.textContent = 'Please select an audio file first.';
+                    setStatus('Please select an audio file first.', true);
                     return;
                 }
 
                 const file = audioFileInput.files[0];
-                // Basic type check (can be enhanced)
-                // const acceptedTypes = ['audio/mpeg', 'audio/wav', 'audio/wave', 'audio/x-wav', 'audio/m4a', 'audio/x-m4a', 'audio/mp4', 'audio/webm', 'audio/ogg'];
-                // if (!acceptedTypes.includes(file.type)) {
-                //     alert('Invalid file type. Please upload a common audio file (MP3, WAV, M4A, WebM, OGG).');
-                //     if(statusElement) statusElement.textContent = 'Invalid file type.';
-                //     audioFileInput.value = ''; // Clear the input
-                //     if(selectedFileNameElement) selectedFileNameElement.textContent = '';
-                //     transcribeFileButton.disabled = true;
-                //     return;
-                // }
+                
+                // Check file size and warn user about processing time
+                const fileSizeMB = file.size / (1024 * 1024);
+                console.log(`📁 File size: ${fileSizeMB.toFixed(2)} MB`);
+                
+                if (fileSizeMB > 3) {
+                    transcribeFileButton.disabled = false; // allow interaction during confirm
+                    // Estimate duration (rough: 1MB ≈ 1 minute for compressed audio)
+                    const estimatedMinutes = Math.ceil(fileSizeMB);
+                    const warningMsg = `This is a large file (${fileSizeMB.toFixed(1)}MB, ~${estimatedMinutes} min audio).\n\nTranscription may take 30-60 seconds.\n\nContinue?`;
+                    const confirmed = await window.dialogManager.confirm(warningMsg, "Large File Warning");
+                    if (!confirmed) {
+                        return; // User cancelled
+                    }
+                }
 
                 transcribeFileButton.disabled = true;
                 if(startButton) startButton.disabled = true;
                 if(stopButton) stopButton.disabled = true;
-                if(transcriptTextarea) transcriptTextarea.value = ''; // Clear previous transcript
-                if(statusElement) statusElement.textContent = "Uploading and transcribing file...";
+                // Don't clear transcript - keep previous content
+                
+                // Show different message for large vs small files
+                const statusMsg = fileSizeMB > 3 
+                    ? `Transcribing large file... This may take up to a minute. Please wait.`
+                    : "Uploading and transcribing file...";
+                if(statusElement) statusElement.textContent = statusMsg;
 
+                console.log('🚀 [ACTION] Calling handleAudioTranscription...');
                 handleAudioTranscription(file, file.name);
             };
+        } else {
+            console.error('❌ [ERROR] Could not attach click handler! Missing elements:', {
+                transcribeFileButton: !!transcribeFileButton,
+                audioFileInput: !!audioFileInput
+            });
         }
         
         // **G. UI State Management for File Input Change (complementary to start recording)**
@@ -553,14 +666,47 @@ document.addEventListener('DOMContentLoaded', function() {
         const generateAssessmentButton = document.getElementById('generateAssessmentButton');
         const assessmentPageLoadingIndicator = document.getElementById('assessmentPageLoadingIndicator'); // Renamed/confirmed ID
 
-        if (generateAssessmentButton && assessmentPageLoadingIndicator && assessmentTextarea) {
+        if (generateAssessmentButton && assessmentTextarea) {
             generateAssessmentButton.onclick = async function() {
                 if (!currentNoteId) {
                     alert("Error: Note ID missing. Please refresh or navigate from the start.");
                     return;
                 }
 
-                assessmentPageLoadingIndicator.style.display = 'block';
+                // First, check if we have the required S/O data
+                try {
+                    const checkResponse = await fetch(`http://127.0.0.1:5000/get_note_data/${currentNoteId}`);
+                    if (checkResponse.ok) {
+                        const noteData = await checkResponse.json();
+                        const hasSubjective = noteData.subjective_text && noteData.subjective_text.trim().length > 0;
+                        const hasObjective = noteData.objective_text && noteData.objective_text.trim().length > 0;
+                        
+                        if (!hasSubjective || !hasObjective) {
+                            let missingSteps = [];
+                            if (!hasSubjective) missingSteps.push('Subjective');
+                            if (!hasObjective) missingSteps.push('Objective');
+                            
+                            const message = `Cannot generate Assessment. Missing required data:\n\n${missingSteps.join(' and ')} section(s) need to be completed first.\n\nWould you like to go back and complete them?`;
+                            
+                            if (await window.dialogManager.confirm(message, "Missing Data")) {
+                                // Navigate to the first missing section
+                                if (!hasSubjective) {
+                                    window.location.href = `subjective.html?note_id=${currentNoteId}`;
+                                } else if (!hasObjective) {
+                                    window.location.href = `objective.html?note_id=${currentNoteId}`;
+                                }
+                            }
+                            return;
+                        }
+                    }
+                } catch (error) {
+                    console.error("Error checking note data:", error);
+                    // Continue anyway, let the backend handle it
+                }
+
+                // Show inline loading state on the button (no spinner next to it)
+                const originalTextGA = generateAssessmentButton.textContent;
+                generateAssessmentButton.textContent = 'Generating...';
                 generateAssessmentButton.disabled = true;
 
                 try {
@@ -577,17 +723,17 @@ document.addEventListener('DOMContentLoaded', function() {
                     
                     if (response_data.assessment_text) {
                         assessmentTextarea.value = response_data.assessment_text;
-                        // alert("Assessment generated successfully and populated."); // Optional: user feedback
+                        await window.dialogManager.alert("Assessment generated successfully!", "Success");
                     } else if (response_data.error) {
-                        alert(`Error generating assessment: ${response_data.error}`);
+                        await window.dialogManager.alert(`Error: ${response_data.error}`, "Generation Failed");
                     } else {
-                        alert("Received an unexpected response from the server.");
+                        await window.dialogManager.alert("Received an unexpected response from the server.", "Error");
                     }
                 } catch (error) {
                     console.error("Error generating assessment:", error);
-                    alert(`Failed to generate assessment. Please try again. Error: ${error.message}`);
+                    await window.dialogManager.alert(`Failed to generate assessment.\n\nError: ${error.message}`, "Generation Failed");
                 } finally {
-                    assessmentPageLoadingIndicator.style.display = 'none';
+                    generateAssessmentButton.textContent = originalTextGA;
                     generateAssessmentButton.disabled = false;
                 }
             };
@@ -647,14 +793,51 @@ document.addEventListener('DOMContentLoaded', function() {
         const planLoadingIndicator = document.getElementById('planLoadingIndicator');
         const generatePlanButton = document.getElementById('generatePlanButton'); // New button
 
-        if (generatePlanButton && planTextarea && planLoadingIndicator) {
+        if (generatePlanButton && planTextarea) {
             generatePlanButton.onclick = async function() {
                 if (!currentNoteId) {
                     alert("Error: Note ID missing. Please refresh or navigate from the start.");
                     return;
                 }
 
-                planLoadingIndicator.style.display = 'block';
+                // First, check if we have the required S/O/A data
+                try {
+                    const checkResponse = await fetch(`http://127.0.0.1:5000/get_note_data/${currentNoteId}`);
+                    if (checkResponse.ok) {
+                        const noteData = await checkResponse.json();
+                        const hasSubjective = noteData.subjective_text && noteData.subjective_text.trim().length > 0;
+                        const hasObjective = noteData.objective_text && noteData.objective_text.trim().length > 0;
+                        const hasAssessment = noteData.assessment_text && noteData.assessment_text.trim().length > 0;
+                        
+                        if (!hasSubjective || !hasObjective || !hasAssessment) {
+                            let missingSteps = [];
+                            if (!hasSubjective) missingSteps.push('Subjective');
+                            if (!hasObjective) missingSteps.push('Objective');
+                            if (!hasAssessment) missingSteps.push('Assessment');
+                            
+                            const message = `Cannot generate Plan. Missing required data:\n\n${missingSteps.join(', ')} section(s) need to be completed first.\n\nWould you like to go back and complete them?`;
+                            
+                            if (await window.dialogManager.confirm(message, "Missing Data")) {
+                                // Navigate to the first missing section
+                                if (!hasSubjective) {
+                                    window.location.href = `subjective.html?note_id=${currentNoteId}`;
+                                } else if (!hasObjective) {
+                                    window.location.href = `objective.html?note_id=${currentNoteId}`;
+                                } else if (!hasAssessment) {
+                                    window.location.href = `assessment.html?note_id=${currentNoteId}`;
+                                }
+                            }
+                            return;
+                        }
+                    }
+                } catch (error) {
+                    console.error("Error checking note data:", error);
+                    // Continue anyway, let the backend handle it
+                }
+
+                // Show inline loading state on the button (no spinner next to it)
+                const originalTextGP = generatePlanButton.textContent;
+                generatePlanButton.textContent = 'Generating...';
                 generatePlanButton.disabled = true;
                 if (summarizeButtonPlan) summarizeButtonPlan.disabled = true; // Disable next button too
 
@@ -672,17 +855,17 @@ document.addEventListener('DOMContentLoaded', function() {
                     
                     if (response_data.plan_text) {
                         planTextarea.value = response_data.plan_text;
-                        // alert("Plan generated successfully and populated."); // Optional
+                        await window.dialogManager.alert("Plan generated successfully!", "Success");
                     } else if (response_data.error) {
-                        alert(`Error generating plan: ${response_data.error}`);
+                        await window.dialogManager.alert(`Error: ${response_data.error}`, "Generation Failed");
                     } else {
-                        alert("Received an unexpected response from the server when generating plan.");
+                        await window.dialogManager.alert("Received an unexpected response from the server.", "Error");
                     }
                 } catch (error) {
                     console.error("Error generating plan:", error);
-                    alert(`Failed to generate plan. Please try again. Error: ${error.message}`);
+                    await window.dialogManager.alert(`Failed to generate plan.\n\nError: ${error.message}`, "Generation Failed");
                 } finally {
-                    planLoadingIndicator.style.display = 'none';
+                    generatePlanButton.textContent = originalTextGP;
                     generatePlanButton.disabled = false;
                     if (summarizeButtonPlan) summarizeButtonPlan.disabled = false;
                 }
@@ -750,75 +933,118 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // --- Summary Page Specific Logic ---
     if (pathname.includes('summary.html')) {
-        const generateSummaryButton = document.getElementById('generateSummaryButton');
         const summaryLoadingIndicator = document.getElementById('summaryLoadingIndicator');
         const summaryDisplayArea = document.getElementById('summaryDisplayArea');
+        const exportContainer = document.getElementById('exportContainer');
 
-        // initializeNote() is already called globally and will trigger fetchNoteData.
-        // fetchNoteData has been updated to populate the summaryDisplayArea on page load if data exists.
-        console.log("On Summary page, note data should be fetched and displayed by initializeNote/fetchNoteData.");
+        console.log('Summary page loaded. Checking for note ID...');
 
-            console.log('Attempting to get Summary page elements...');
-            console.log('Summary Button Elements Check:', { generateSummaryButton, summaryLoadingIndicator, summaryDisplayArea, currentNoteId });
-        if (generateSummaryButton && summaryLoadingIndicator && summaryDisplayArea) {
-            generateSummaryButton.addEventListener('click', async function() {
-                console.log('Generate Summary button clicked. Current Note ID for Summary:', currentNoteId);
-                if (!currentNoteId) {
-                    alert("Error: Note ID is not available. Please ensure you have navigated correctly or refresh the page.");
-                    return;
-                }
+        // Auto-generate summary function
+        async function autoGenerateSummary() {
+            if (!summaryLoadingIndicator || !summaryDisplayArea) {
+                console.error('Summary page elements not found');
+                return;
+            }
 
-                summaryLoadingIndicator.style.display = 'block';
-                generateSummaryButton.disabled = true;
-                summaryDisplayArea.textContent = ''; // Clear previous summary
+            // Wait for currentNoteId to be set by initializeNote()
+            let attempts = 0;
+            while (!currentNoteId && attempts < 10) {
+                await new Promise(resolve => setTimeout(resolve, 100));
+                attempts++;
+            }
+            
+            if (!currentNoteId) {
+                console.log('Auto-generating summary for note ID:', currentNoteId);
+                await window.dialogManager.alert("Note ID is not available. Please navigate from the Plan page.", "Error");
+                window.location.href = 'plan.html';
+                return;
+            }
 
-                try {
-                    console.log(`Fetching summary from: http://127.0.0.1:5000/api/generate_summary/${currentNoteId}`);
-                    const response = await fetch(`http://127.0.0.1:5000/api/generate_summary/${currentNoteId}`, {
-                        method: 'GET',
-                        headers: {
-                            'Content-Type': 'application/json'
+            // First, check if we have ALL required SOAP data
+            try {
+                const checkResponse = await fetch(`http://127.0.0.1:5000/get_note_data/${currentNoteId}`);
+                if (checkResponse.ok) {
+                    const noteData = await checkResponse.json();
+                    const hasSubjective = noteData.subjective_text && noteData.subjective_text.trim().length > 0;
+                    const hasObjective = noteData.objective_text && noteData.objective_text.trim().length > 0;
+                    const hasAssessment = noteData.assessment_text && noteData.assessment_text.trim().length > 0;
+                    const hasPlan = noteData.plan_text && noteData.plan_text.trim().length > 0;
+                    
+                    if (!hasSubjective || !hasObjective || !hasAssessment || !hasPlan) {
+                        let missingSteps = [];
+                        if (!hasSubjective) missingSteps.push('Subjective');
+                        if (!hasObjective) missingSteps.push('Objective');
+                        if (!hasAssessment) missingSteps.push('Assessment');
+                        if (!hasPlan) missingSteps.push('Plan');
+                        
+                        const message = `Cannot generate Summary. Missing required data:\n\n${missingSteps.join(', ')} section(s) need to be completed first.\n\nWould you like to go back and complete them?`;
+                        
+                        summaryLoadingIndicator.style.display = 'none';
+                        if (await window.dialogManager.confirm(message, "Missing Data")) {
+                            // Navigate to the first missing section
+                            if (!hasSubjective) {
+                                window.location.href = `subjective.html?note_id=${currentNoteId}`;
+                            } else if (!hasObjective) {
+                                window.location.href = `objective.html?note_id=${currentNoteId}`;
+                            } else if (!hasAssessment) {
+                                window.location.href = `assessment.html?note_id=${currentNoteId}`;
+                            } else if (!hasPlan) {
+                                window.location.href = `plan.html?note_id=${currentNoteId}`;
+                            }
                         }
-                    });
-
-                    const response_data = await response.json();
-                    console.log('Response from /api/generate_summary:', response_data);
-
-                    if (!response.ok) {
-                        throw new Error(response_data.error || `Failed to generate summary. Status: ${response.status}`);
+                        return;
                     }
-
-                    if (response_data.summary_text) {
-                        summaryDisplayArea.textContent = response_data.summary_text;
-                    } else {
-                        summaryDisplayArea.textContent = "Failed to generate summary. No text returned.";
-                    }
-                } catch (error) {
-                    console.error("Error in Generate Summary fetch operation:", error, error.message, error.stack);
-                    summaryDisplayArea.textContent = `Error generating summary: ${error.message}`;
-                    alert(`Error generating summary: ${error.message}`);
-                } finally {
-                    summaryLoadingIndicator.style.display = 'none';
-                    generateSummaryButton.disabled = false;
                 }
-            });
+            } catch (error) {
+                console.error("Error checking note data:", error);
+                // Continue anyway, let the backend handle it
+            }
+
+            summaryLoadingIndicator.style.display = 'flex';
+            summaryDisplayArea.style.display = 'none';
+
+            try {
+                console.log(`Auto-fetching summary from: http://127.0.0.1:5000/api/generate_summary/${currentNoteId}`);
+                const response = await fetch(`http://127.0.0.1:5000/api/generate_summary/${currentNoteId}`, {
+                    method: 'GET',
+                    headers: { 'Content-Type': 'application/json' }
+                });
+
+                const response_data = await response.json();
+                console.log('Response from /api/generate_summary:', response_data);
+
+                if (!response.ok) {
+                    throw new Error(response_data.error || `Failed to generate summary. Status: ${response.status}`);
+                }
+
+                if (response_data.summary_text) {
+                    summaryDisplayArea.textContent = response_data.summary_text;
+                    summaryDisplayArea.style.display = 'block';
+                    if (exportContainer) exportContainer.style.display = 'flex';
+                } else {
+                    summaryDisplayArea.textContent = "Failed to generate summary. No text returned.";
+                    summaryDisplayArea.style.display = 'block';
+                }
+            } catch (error) {
+                console.error("Error in auto-generate summary:", error);
+                summaryDisplayArea.textContent = `Error generating summary: ${error.message}`;
+                summaryDisplayArea.style.display = 'block';
+                await window.dialogManager.alert(`Error generating summary: ${error.message}`, "Generation Failed");
+            } finally {
+                summaryLoadingIndicator.style.display = 'none';
+            }
         }
+
+        // Trigger auto-generation
+        autoGenerateSummary();
+    }
 
         // Back button for summary page (if one exists and needs dynamic note_id)
-        const backButtonSummary = document.querySelector('a.page-back-button[href^="plan.html"]'); // Example selector
-        if (backButtonSummary && currentNoteId) { // Check currentNoteId before setting
-            backButtonSummary.href = `plan.html?note_id=${currentNoteId}`;
-        } else if (backButtonSummary && !currentNoteId) {
-            // Fallback if currentNoteId isn't set yet, try to get from URL again or set a default
-             const noteIdFromUrl = getNoteIdFromUrl();
-             if (noteIdFromUrl) {
-                 backButtonSummary.href = `plan.html?note_id=${noteIdFromUrl}`;
-             } else {
-                 // console.warn("Could not set back button URL for summary page: currentNoteId is null and not in URL.");
-                 // backButtonSummary.href = 'plan.html'; // Or some other default
-             }
+        const backButtonSummary = document.querySelector('a.page-back-button[href^="plan.html"]');
+        if (backButtonSummary) {
+            const noteId = getNoteIdFromUrl() || currentNoteId;
+            if (noteId) backButtonSummary.href = `plan.html?note_id=${noteId}`;
         }
-    }
 });
 
 // Export functionality for summary page

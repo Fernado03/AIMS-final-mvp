@@ -56,13 +56,36 @@ def transcribe_audio_from_gcs(file_stream, original_filename):
             
             # Write uploaded file to temporary file
             file_stream.seek(0)
-            temp_file.write(file_stream.read())
+            file_data = file_stream.read()
+            temp_file.write(file_data)
             temp_file.flush()
             
-            print(f"📝 Saved audio to temporary file: {temp_file_path}")
+            file_size_mb = len(file_data) / (1024 * 1024)
+            print(f"📝 Saved audio to temporary file: {temp_file_path} ({file_size_mb:.2f} MB)")
         
-        # Load Whisper model (uses config value)
-        model = get_whisper_model()
+        # Auto-detect audio duration and choose model accordingly
+        try:
+            import librosa
+            duration = librosa.get_duration(path=temp_file_path)
+            print(f"⏱️ Audio duration: {duration:.1f} seconds ({duration/60:.1f} minutes)")
+            
+            # Use faster model for long files
+            if duration > 120:  # More than 2 minutes
+                print(f"⚡ File is long ({duration:.1f}s), using 'base' model for faster processing")
+                model = get_whisper_model('base')
+            else:
+                model = get_whisper_model()  # Use config model for short files
+        except ImportError:
+            print("ℹ️ librosa not installed, using file size as proxy for duration")
+            # Fallback: Use file size as proxy (rough estimate: 1MB ≈ 1 minute for compressed audio)
+            if file_size_mb > 3:  # Likely > 2 minutes
+                print(f"⚡ Large file ({file_size_mb:.1f}MB), using 'base' model for faster processing")
+                model = get_whisper_model('base')
+            else:
+                model = get_whisper_model()  # Use config model
+        except Exception as e:
+            print(f"⚠️ Could not detect duration: {e}, using default model")
+            model = get_whisper_model()
         
         # Transcribe audio
         print(f"🎙️ Transcribing audio with Whisper...")
@@ -70,7 +93,8 @@ def transcribe_audio_from_gcs(file_stream, original_filename):
             temp_file_path,
             language=WHISPER_LANGUAGE,  # From config
             task="transcribe",  # 'transcribe' or 'translate'
-            fp16=False  # Use FP32 for better compatibility on all systems
+            fp16=False,  # Use FP32 for better compatibility on all systems
+            verbose=False  # Reduce console spam for long files
         )
         
         transcript_text = result["text"].strip()

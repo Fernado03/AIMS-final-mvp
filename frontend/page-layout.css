@@ -8,15 +8,22 @@ html, body {
   padding: 0;
 }
 
+/* Add top padding to account for fixed header */
+body {
+  padding-top: 80px; /* Height of fixed header + margin */
+}
+
 .transcript3-container10 {
   width: 100%;
   height: auto;
   display: flex;
   flex-grow: 1;
-  min-height: 100%;
-  align-items: center;
+  min-height: calc(100vh - 80px); /* Account for header padding, footer pushed below */
+  align-items: center; /* Center horizontally */
   flex-direction: column;
+  justify-content: center; /* Center vertically */
   background-color: var(--dl-color-gray-900); /* This is #f8f9fa */
+  padding: 2rem 1rem; /* Consistent padding for centering */
 }
 
 .footer-wrapper {
@@ -28,21 +35,19 @@ html, body {
 .transcript3-contact { /* This acts as the main content wrapper within transcript3-container10 */
   width: 100%;
   max-width: 1320px; /* Max width for the content area */
-  padding-top: var(--dl-layout-space-sixunits); /* Adjust as needed, consider header height */
-  padding-left: var(--dl-layout-space-tripleunit);
-  padding-right: var(--dl-layout-space-tripleunit);
-  padding-bottom: var(--dl-layout-space-sixunits);
+  padding: 0 1rem; /* Simplified padding for better centering */
   display: flex;
   flex-direction: column;
-  flex-grow: 1;
   margin: 0 auto;
 }
 
-/* New rule to center the main content */
-.transcript3-container10 > *:not(.footer-wrapper) {
+/* Center the main content card */
+.transcript3-container10 > .transcript3-contact {
   width: 100%;
   max-width: 1320px;
   margin: 0 auto;
+  flex-shrink: 0; /* Prevent shrinking */
+  flex-grow: 0; /* Don't grow to fill space */
 }
 
 .transcript3-container11 { /* This is the flex container for form and info panel */
@@ -54,12 +59,14 @@ html, body {
   border-radius: var(--dl-layout-radius-radius1);
   flex-direction: row;
   background-color: var(--dl-color-gray-white);
+  min-height: 500px; /* Ensure card has substantial height */
 }
 
 .transcript3-form1 { /* Left side form area */
   flex: 3;
   max-width: 55%;
   min-width: 45%;
+  min-height: 500px;
   display: flex;
   align-items: flex-start;
   padding-top: var(--dl-layout-space-fourunits);
@@ -192,12 +199,15 @@ html, body {
 @media(max-width: 991px) {
   .transcript3-container11 { /* Stack form and info panel on smaller screens */
     flex-direction: column;
+    min-height: auto; /* Allow natural height on mobile */
   }
   .transcript3-form1 {
     max-width: 100%;
+    min-height: 400px; /* Smaller min-height on tablet */
   }
   .transcript3-info {
     min-width: 100%;
+    min-height: 300px; /* Ensure info panel has height */
     padding-left: var(--dl-layout-space-doubleunit);
     padding-right: var(--dl-layout-space-doubleunit);
     border-top-right-radius: 0;
@@ -209,6 +219,9 @@ html, body {
 }
 
 @media(max-width: 767px) {
+  .transcript3-container10 {
+    min-height: calc(100vh - 80px); /* Ensure full viewport on mobile */
+  }
   .transcript3-contact {
     padding-top: var(--dl-layout-space-doubleunit);
     padding-left: var(--dl-layout-space-doubleunit);
@@ -217,9 +230,11 @@ html, body {
   }
   .transcript3-form1 {
     padding-top: var(--dl-layout-space-doubleunit);
+    min-height: 350px; /* Ensure minimum height on mobile */
   }
    .transcript3-info {
     padding-left: var(--dl-layout-space-unitandahalfunit);
     padding-right: var(--dl-layout-space-unitandahalfunit);
+    min-height: 250px; /* Smaller but still substantial */
   }
 }
