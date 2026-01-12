@@ -105,6 +105,200 @@ document.addEventListener('DOMContentLoaded', function () {
     const statusElement = document.getElementById('recordingStatus'); // Primarily for transcript1
     let currentNoteId = null;
 
+    // --- Dark Mode Logic ---
+    // 1. Inject CSS
+    if (!document.querySelector('link[href="dark-mode.css"]')) {
+        const link = document.createElement('link');
+        link.rel = 'stylesheet';
+        link.href = 'dark-mode.css';
+        document.head.appendChild(link);
+    }
+
+    // 2. Theme Management
+    function initTheme() {
+        const savedTheme = localStorage.getItem('theme');
+        if (savedTheme === 'dark') {
+            document.documentElement.setAttribute('data-theme', 'dark');
+        } else if (!savedTheme && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+            document.documentElement.setAttribute('data-theme', 'dark');
+        }
+    }
+    initTheme();
+
+    // 3. Inject Toggle Button
+    const headerNav = document.querySelector('nav.header-nav') || document.querySelector('header nav') || document.querySelector('.navbar-container'); // Adjust selector based on actual DOM
+    if (headerNav) {
+        const toggleBtn = document.createElement('button');
+        toggleBtn.className = 'theme-toggle-btn';
+        toggleBtn.innerHTML = '🌙'; // Default moon
+        toggleBtn.title = "Toggle Dark Mode";
+        toggleBtn.onclick = function () {
+            const currentTheme = document.documentElement.getAttribute('data-theme');
+            const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+            document.documentElement.setAttribute('data-theme', newTheme);
+            localStorage.setItem('theme', newTheme);
+            updateToggleButton(toggleBtn);
+        };
+        headerNav.appendChild(toggleBtn);
+        updateToggleButton(toggleBtn);
+    }
+
+    function updateToggleButton(btn) {
+        const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+        btn.innerHTML = isDark ? '☀️' : '🌙';
+    }
+
+    // --- Phase 2: Interactions & Autocomplete ---
+
+    // 1. Inject CSS
+    if (!document.querySelector('link[href="interactions.css"]')) {
+        const link = document.createElement('link');
+        link.rel = 'stylesheet';
+        link.href = 'interactions.css';
+        document.head.appendChild(link);
+    }
+
+    // 2. Clinical Autocomplete Dictionary
+    const medicalAbbreviations = {
+        "pt": "patient",
+        "hx": "history",
+        "dx": "diagnosis",
+        "rx": "prescription",
+        "tx": "treatment",
+        "sx": "symptoms",
+        "c/o": "complains of",
+        "sob": "shortness of breath",
+        "cp": "chest pain",
+        "bp": "blood pressure",
+        "hr": "heart rate",
+        "htn": "hypertension",
+        "dm": "diabetes mellitus",
+        "y/o": "year old",
+        "f/u": "follow-up",
+        "abx": "antibiotics",
+        "nkda": "no known drug allergies",
+        "wnl": "within normal limits",
+        "doe": "dyspnea on exertion",
+        "prn": "as needed"
+    };
+
+    function setupAutocomplete(textareaId) {
+        const textarea = document.getElementById(textareaId);
+        if (!textarea) return;
+
+        let suggestionBox = document.createElement('div');
+        suggestionBox.className = 'autocomplete-suggestions';
+        suggestionBox.style.display = 'none';
+        document.body.appendChild(suggestionBox);
+
+        function getCaretCoordinates(element, position) {
+            const div = document.createElement('div');
+            const style = window.getComputedStyle(element);
+            Array.from(style).forEach(prop => {
+                div.style[prop] = style.getPropertyValue(prop);
+            });
+            div.style.position = 'absolute';
+            div.style.visibility = 'hidden';
+            div.style.whiteSpace = 'pre-wrap';
+            div.style.top = '0';
+            div.style.left = '0';
+            div.textContent = element.value.substring(0, position);
+            const span = document.createElement('span');
+            span.textContent = element.value.substring(position) || '.';
+            div.appendChild(span);
+            document.body.appendChild(div);
+            const coordinates = {
+                top: span.offsetTop,
+                left: span.offsetLeft
+            };
+            document.body.removeChild(div);
+            return coordinates;
+        }
+
+        const inputHandler = function (e) {
+            const cursorPosition = this.selectionStart;
+            const text = this.value;
+            const leftPart = text.substring(0, cursorPosition);
+            const wordMatch = leftPart.match(/(\S+)$/);
+            const currentWord = wordMatch ? wordMatch[0].toLowerCase() : "";
+
+            if (!currentWord || !medicalAbbreviations[currentWord]) {
+                suggestionBox.style.display = 'none';
+                return;
+            }
+
+            const match = medicalAbbreviations[currentWord];
+            const coords = getCaretCoordinates(this, cursorPosition);
+            const rect = this.getBoundingClientRect();
+
+            // Adjust for scrolling
+            const topPos = rect.top + coords.top - this.scrollTop + 24 + window.scrollY;
+            const leftPos = rect.left + coords.left - this.scrollLeft + window.scrollX;
+
+            suggestionBox.innerHTML = `
+                <div class="autocomplete-suggestion active">
+                    <span class="autocomplete-abbr">${currentWord}</span>
+                    <span class="autocomplete-full">→ ${match}</span>
+                </div>
+            `;
+            suggestionBox.style.display = 'block';
+            suggestionBox.style.left = leftPos + 'px';
+            suggestionBox.style.top = topPos + 'px';
+        };
+
+        const keyHandler = function (e) {
+            if (suggestionBox.style.display === 'block') {
+                if (e.key === 'Tab' || e.key === 'Enter') {
+                    e.preventDefault();
+
+                    const cursorPosition = this.selectionStart;
+                    const text = this.value;
+                    const leftPart = text.substring(0, cursorPosition);
+                    const wordMatch = leftPart.match(/(\S+)$/);
+
+                    if (wordMatch) {
+                        const currentWord = wordMatch[0];
+                        const match = medicalAbbreviations[currentWord.toLowerCase()];
+                        if (match) {
+                            const before = text.substring(0, wordMatch.index);
+                            const after = text.substring(cursorPosition);
+                            this.value = before + match + " " + after;
+                            this.selectionStart = this.selectionEnd = (before + match + " ").length;
+                            suggestionBox.style.display = 'none';
+                        }
+                    }
+                } else if (e.key === 'Escape') {
+                    suggestionBox.style.display = 'none';
+                }
+            }
+        };
+
+        textarea.addEventListener('input', inputHandler);
+        textarea.addEventListener('keydown', keyHandler);
+
+        document.addEventListener('click', (e) => {
+            if (e.target !== textarea && e.target !== suggestionBox && !suggestionBox.contains(e.target)) {
+                suggestionBox.style.display = 'none';
+            }
+        });
+    }
+
+    // 3. Page Transitions
+    document.addEventListener('click', function (e) {
+        const link = e.target.closest('a');
+        if (link && link.href && link.href.startsWith(window.location.origin) && !link.hash && !link.target && !link.getAttribute('download')) {
+            e.preventDefault();
+            document.body.classList.add('fade-out');
+            setTimeout(() => {
+                window.location.href = link.href;
+            }, 300);
+        }
+    });
+
+    if (document.getElementById('transcript')) setupAutocomplete('transcript');
+    if (document.getElementById('assessmentText')) setupAutocomplete('assessmentText');
+    if (document.getElementById('planText')) setupAutocomplete('planText');
+
     // --- Page Specific Elements & Logic ---
     const pathname = window.location.pathname;
     const API_BASE_URL = window.APP_CONFIG ? window.APP_CONFIG.API_BASE_URL : "http://127.0.0.1:5000";
@@ -661,12 +855,51 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     }
 
+    // --- Streaming Utility Function ---
+    async function streamText(url, targetElement, loadingElement = null) {
+        if (!targetElement) return;
+
+        // Clear previous content if needed, key is we are appending chunks
+        targetElement.value = "";
+        const originalPlaceholder = targetElement.placeholder;
+        targetElement.placeholder = "AI is writing...";
+
+        try {
+            const response = await fetch(url);
+            if (!response.ok) {
+                const errText = await response.text();
+                throw new Error(errText || response.statusText);
+            }
+
+            const reader = response.body.getReader();
+            const decoder = new TextDecoder();
+
+            while (true) {
+                const { done, value } = await reader.read();
+                if (done) break;
+
+                const chunk = decoder.decode(value, { stream: true });
+                targetElement.value += chunk;
+                // Auto-scroll to bottom
+                targetElement.scrollTop = targetElement.scrollHeight;
+            }
+
+            targetElement.placeholder = originalPlaceholder;
+            return true;
+
+        } catch (error) {
+            console.error("Streaming error:", error);
+            targetElement.value += `\n[Error generating text: ${error.message}]`;
+            alert(`Error generating text: ${error.message}`);
+            return false;
+        }
+    }
+
     // --- Assessment Page Specific Logic ---
     if (pathname.includes('assessment.html')) {
         const assessmentTextarea = document.getElementById('assessmentText');
         const nextButtonAssessment = document.getElementById('nextButtonAssessment');
         const generateAssessmentButton = document.getElementById('generateAssessmentButton');
-        const assessmentPageLoadingIndicator = document.getElementById('assessmentPageLoadingIndicator'); // Renamed/confirmed ID
 
         if (generateAssessmentButton && assessmentTextarea) {
             generateAssessmentButton.onclick = async function () {
@@ -675,69 +908,29 @@ document.addEventListener('DOMContentLoaded', function () {
                     return;
                 }
 
-                // First, check if we have the required S/O data
+                // Check S/O data existence (Simplified check)
                 try {
-                    const checkResponse = await fetch(`http://127.0.0.1:5000/get_note_data/${currentNoteId}`);
+                    const checkResponse = await fetch(`${API_BASE_URL}/get_note_data/${currentNoteId}`);
                     if (checkResponse.ok) {
                         const noteData = await checkResponse.json();
-                        const hasSubjective = noteData.subjective_text && noteData.subjective_text.trim().length > 0;
-                        const hasObjective = noteData.objective_text && noteData.objective_text.trim().length > 0;
-
-                        if (!hasSubjective || !hasObjective) {
-                            let missingSteps = [];
-                            if (!hasSubjective) missingSteps.push('Subjective');
-                            if (!hasObjective) missingSteps.push('Objective');
-
-                            const message = `Cannot generate Assessment. Missing required data:\n\n${missingSteps.join(' and ')} section(s) need to be completed first.\n\nWould you like to go back and complete them?`;
-
-                            if (await window.dialogManager.confirm(message, "Missing Data")) {
-                                // Navigate to the first missing section
-                                if (!hasSubjective) {
-                                    window.location.href = `subjective.html?note_id=${currentNoteId}`;
-                                } else if (!hasObjective) {
-                                    window.location.href = `objective.html?note_id=${currentNoteId}`;
-                                }
-                            }
+                        if (!noteData.subjective_text?.trim() || !noteData.objective_text?.trim()) {
+                            alert("Cannot generate Assessment. Missing Subjective or Objective data.");
                             return;
                         }
                     }
-                } catch (error) {
-                    console.error("Error checking note data:", error);
-                    // Continue anyway, let the backend handle it
-                }
+                } catch (e) { console.error("Error checking note data:", e); }
 
-                // Show inline loading state on the button (no spinner next to it)
-                const originalTextGA = generateAssessmentButton.textContent;
-                generateAssessmentButton.textContent = 'Generating...';
-                generateAssessmentButton.disabled = true;
+                // UI State
+                const originalText = generateAssessmentButton.textContent;
+                generateAssessmentButton.innerHTML = '<div class="heartbeat-loader" style="width: 24px; height: 24px; transform: scale(0.4); display: inline-block; vertical-align: middle; margin-right: 5px;"><div></div></div> Gener...',
+                    generateAssessmentButton.disabled = true;
 
-                try {
-                    const response = await fetch(`${API_BASE_URL}/api/generate_assessment/${currentNoteId}`, {
-                        method: 'GET',
-                        headers: { 'Content-Type': 'application/json' }
-                    });
+                // Call Streaming Endpoint
+                await streamText(`${API_BASE_URL}/api/stream_assessment/${currentNoteId}`, assessmentTextarea);
 
-                    const response_data = await response.json(); // Try to parse JSON regardless of response.ok for error messages
-
-                    if (!response.ok) {
-                        throw new Error(response_data.error || `Failed to generate assessment. Status: ${response.status}`);
-                    }
-
-                    if (response_data.assessment_text) {
-                        assessmentTextarea.value = response_data.assessment_text;
-                        await window.dialogManager.alert("Assessment generated successfully!", "Success");
-                    } else if (response_data.error) {
-                        await window.dialogManager.alert(`Error: ${response_data.error}`, "Generation Failed");
-                    } else {
-                        await window.dialogManager.alert("Received an unexpected response from the server.", "Error");
-                    }
-                } catch (error) {
-                    console.error("Error generating assessment:", error);
-                    await window.dialogManager.alert(`Failed to generate assessment.\n\nError: ${error.message}`, "Generation Failed");
-                } finally {
-                    generateAssessmentButton.textContent = originalTextGA;
-                    generateAssessmentButton.disabled = false;
-                }
+                // Reset UI
+                generateAssessmentButton.textContent = originalText;
+                generateAssessmentButton.disabled = false;
             };
         }
 
@@ -756,9 +949,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
                 const confirmed = await window.dialogManager.confirm("Save Assessment data and proceed to Plan page?", "Save and Continue");
                 if (confirmed) {
-                    // Removed loading indicator display for this button as per instructions
-                    nextButtonAssessment.disabled = true; // Disable button
-
+                    nextButtonAssessment.disabled = true;
                     try {
                         const response = await fetch(`${API_BASE_URL}/update_note_assessment`, {
                             method: 'POST', headers: { 'Content-Type': 'application/json' },
@@ -767,22 +958,13 @@ document.addEventListener('DOMContentLoaded', function () {
                                 assessment_text: assessmentText
                             })
                         });
-                        if (!response.ok) {
-                            const errText = await response.text();
-                            try { const err = JSON.parse(errText); throw new Error(err.error || `Save failed: ${response.status}`); }
-                            catch (e) { throw new Error(`Save failed: ${response.status} - ${errText}`); }
-                        }
-                        window.location.href = `plan.html?note_id=${currentNoteId}`; // Navigate to plan
+                        if (!response.ok) throw new Error("Save failed");
+                        window.location.href = `plan.html?note_id=${currentNoteId}`;
                     } catch (error) {
-                        console.error("Error saving assessment data:", error);
+                        console.error("Error saving assessment:", error);
                         alert(`Error saving Assessment data: ${error.message}`);
-                        // Removed loading indicator hide on error
-                        nextButtonAssessment.disabled = false; // Re-enable on error
+                        nextButtonAssessment.disabled = false;
                     }
-                } else {
-                    // User cancelled confirm
-                    // Removed loading indicator hide
-                    nextButtonAssessment.disabled = false; // Re-enable button
                 }
             };
         }
@@ -792,85 +974,26 @@ document.addEventListener('DOMContentLoaded', function () {
     if (pathname.includes('plan.html')) {
         const planTextarea = document.getElementById('planText');
         const summarizeButtonPlan = document.getElementById('summarizeButtonPlan');
-        const planLoadingIndicator = document.getElementById('planLoadingIndicator');
-        const generatePlanButton = document.getElementById('generatePlanButton'); // New button
+        const generatePlanButton = document.getElementById('generatePlanButton');
 
         if (generatePlanButton && planTextarea) {
             generatePlanButton.onclick = async function () {
                 if (!currentNoteId) {
-                    alert("Error: Note ID missing. Please refresh or navigate from the start.");
+                    alert("Error: Note ID missing.");
                     return;
                 }
 
-                // First, check if we have the required S/O/A data
-                try {
-                    const checkResponse = await fetch(`${API_BASE_URL}/get_note_data/${currentNoteId}`);
-                    if (checkResponse.ok) {
-                        const noteData = await checkResponse.json();
-                        const hasSubjective = noteData.subjective_text && noteData.subjective_text.trim().length > 0;
-                        const hasObjective = noteData.objective_text && noteData.objective_text.trim().length > 0;
-                        const hasAssessment = noteData.assessment_text && noteData.assessment_text.trim().length > 0;
+                // UI State
+                const originalText = generatePlanButton.textContent;
+                generatePlanButton.innerHTML = '<div class="heartbeat-loader" style="width: 24px; height: 24px; transform: scale(0.4); display: inline-block; vertical-align: middle; margin-right: 5px;"><div></div></div> Gener...',
+                    generatePlanButton.disabled = true;
 
-                        if (!hasSubjective || !hasObjective || !hasAssessment) {
-                            let missingSteps = [];
-                            if (!hasSubjective) missingSteps.push('Subjective');
-                            if (!hasObjective) missingSteps.push('Objective');
-                            if (!hasAssessment) missingSteps.push('Assessment');
+                // Call Streaming Endpoint
+                await streamText(`${API_BASE_URL}/api/stream_plan/${currentNoteId}`, planTextarea);
 
-                            const message = `Cannot generate Plan. Missing required data:\n\n${missingSteps.join(', ')} section(s) need to be completed first.\n\nWould you like to go back and complete them?`;
-
-                            if (await window.dialogManager.confirm(message, "Missing Data")) {
-                                // Navigate to the first missing section
-                                if (!hasSubjective) {
-                                    window.location.href = `subjective.html?note_id=${currentNoteId}`;
-                                } else if (!hasObjective) {
-                                    window.location.href = `objective.html?note_id=${currentNoteId}`;
-                                } else if (!hasAssessment) {
-                                    window.location.href = `assessment.html?note_id=${currentNoteId}`;
-                                }
-                            }
-                            return;
-                        }
-                    }
-                } catch (error) {
-                    console.error("Error checking note data:", error);
-                    // Continue anyway, let the backend handle it
-                }
-
-                // Show inline loading state on the button (no spinner next to it)
-                const originalTextGP = generatePlanButton.textContent;
-                generatePlanButton.textContent = 'Generating...';
-                generatePlanButton.disabled = true;
-                if (summarizeButtonPlan) summarizeButtonPlan.disabled = true; // Disable next button too
-
-                try {
-                    const response = await fetch(`${API_BASE_URL}/api/generate_plan/${currentNoteId}`, {
-                        method: 'GET',
-                        headers: { 'Content-Type': 'application/json' }
-                    });
-
-                    const response_data = await response.json();
-
-                    if (!response.ok) {
-                        throw new Error(response_data.error || `Failed to generate plan. Status: ${response.status}`);
-                    }
-
-                    if (response_data.plan_text) {
-                        planTextarea.value = response_data.plan_text;
-                        await window.dialogManager.alert("Plan generated successfully!", "Success");
-                    } else if (response_data.error) {
-                        await window.dialogManager.alert(`Error: ${response_data.error}`, "Generation Failed");
-                    } else {
-                        await window.dialogManager.alert("Received an unexpected response from the server.", "Error");
-                    }
-                } catch (error) {
-                    console.error("Error generating plan:", error);
-                    await window.dialogManager.alert(`Failed to generate plan.\n\nError: ${error.message}`, "Generation Failed");
-                } finally {
-                    generatePlanButton.textContent = originalTextGP;
-                    generatePlanButton.disabled = false;
-                    if (summarizeButtonPlan) summarizeButtonPlan.disabled = false;
-                }
+                // Reset UI
+                generatePlanButton.textContent = originalText;
+                generatePlanButton.disabled = false;
             };
         }
 
@@ -887,13 +1010,10 @@ document.addEventListener('DOMContentLoaded', function () {
                 }
                 const planText = planTextarea ? planTextarea.value : "";
 
-                // Confirmation message changed slightly as plan generation is now separate
                 const confirmed = await window.dialogManager.confirm("Save this Plan and proceed to Summary?", "Save and Continue");
                 if (confirmed) {
-                    // No loading indicator display here for THIS button as per instructions
-                    // (it was for summary generation, which is now implicitly on the backend after plan save)
                     summarizeButtonPlan.disabled = true;
-                    if (generatePlanButton) generatePlanButton.disabled = true; // Disable generate button too
+                    if (generatePlanButton) generatePlanButton.disabled = true;
 
                     try {
                         const response = await fetch(`${API_BASE_URL}/update_note_plan`, {
@@ -905,29 +1025,16 @@ document.addEventListener('DOMContentLoaded', function () {
                         });
                         if (!response.ok) {
                             const errText = await response.text();
-                            let errorMsg;
-                            try {
-                                const err = JSON.parse(errText);
-                                errorMsg = err.error || `Save failed: ${response.status}`;
-                            } catch (e) {
-                                errorMsg = `Save failed: ${response.status} - ${errText}`;
-                            }
-                            throw new Error(errorMsg);
+                            throw new Error(`Save failed: ${response.status} - ${errText}`);
                         }
                         console.log("Plan saved. Backend will attempt summary generation if applicable.");
                         window.location.href = `summary.html?note_id=${currentNoteId}`;
                     } catch (error) {
                         console.error("Error saving plan data:", error);
                         alert(`Error saving Plan data: ${error.message}`);
-                        // No loading indicator to hide here for this button
                         summarizeButtonPlan.disabled = false;
                         if (generatePlanButton) generatePlanButton.disabled = false;
                     }
-                } else {
-                    // User cancelled confirm
-                    // No loading indicator to hide
-                    summarizeButtonPlan.disabled = false;
-                    if (generatePlanButton) generatePlanButton.disabled = false;
                 }
             };
         }

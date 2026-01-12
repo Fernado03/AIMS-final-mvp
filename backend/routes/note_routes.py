@@ -64,25 +64,14 @@ def update_objective_route():
     if objective_text_to_save is None:
         return jsonify({"error": "Missing objective_text."}), 400
 
-    conn = None # Initialize conn to None
     try:
-        conn = get_db_connection()
-        cursor = conn.cursor()
-        cursor.execute("UPDATE notes SET objective_text = ?, updated_at = CURRENT_TIMESTAMP WHERE id = ?", (objective_text_to_save, note_id))
-        conn.commit()
-        if cursor.rowcount == 0:
-            print(f"⚠️ Objective update failed: Note ID {note_id} not found or no update made.")
-            return jsonify({"error": "Note not found or no update made for objective text."}), 404
-        print(f"💾 Objective text for Note ID {note_id} updated successfully.")
-        return jsonify({"message": f"Objective text for Note ID {note_id} updated successfully."}), 200
+        response, status_code = update_note_field(note_id, {"objective_text": objective_text_to_save}, {"objective_text": "objective_text"})
+        return jsonify(response), status_code
     except Exception as e:
-        print(f"🚨 Database error during objective update for Note ID {note_id}: {e}\n{traceback.format_exc()}")
-        return jsonify({"error": f"Database error: {e}"}), 500
-    finally:
-        if conn:
-            conn.close()
+        print(f"🚨 Error in /update_note_objective: {e}\n{traceback.format_exc()}")
+        return jsonify({"error": f"Server error: {e}"}), 500
 
-@note_bp.route('/api/generate_assessment/<int:note_id>', methods=['GET'])
+@note_bp.route('/api/generate_assessment/<note_id>', methods=['GET'])
 def generate_assessment_api_route(note_id):
     try:
         note_data = get_note_by_id(note_id)
@@ -121,26 +110,14 @@ def update_assessment_route():
     if assessment_text_to_save is None:
         return jsonify({"error": "Missing assessment_text."}), 400
 
-    conn = None # Initialize conn to None
     try:
-        conn = get_db_connection()
-        cursor = conn.cursor()
-        cursor.execute("UPDATE notes SET assessment_text = ?, updated_at = CURRENT_TIMESTAMP WHERE id = ?", (assessment_text_to_save, note_id))
-        conn.commit()
-        if cursor.rowcount == 0:
-            print(f"⚠️ Assessment update failed: Note ID {note_id} not found or no update made.")
-            return jsonify({"error": "Note not found or no update made for assessment text."}), 404
-        print(f"💾 Assessment text for Note ID {note_id} updated successfully.")
-        return jsonify({"message": f"Assessment text for Note ID {note_id} updated successfully."}), 200
-
+        response, status_code = update_note_field(note_id, {"assessment_text": assessment_text_to_save}, {"assessment_text": "assessment_text"})
+        return jsonify(response), status_code
     except Exception as e:
-        print(f"🚨 Database error during assessment update for Note ID {note_id}: {e}\n{traceback.format_exc()}")
-        return jsonify({"error": f"Database error: {e}"}), 500
-    finally:
-        if conn:
-            conn.close()
+        print(f"🚨 Error in /update_note_assessment: {e}\n{traceback.format_exc()}")
+        return jsonify({"error": f"Server error: {e}"}), 500
 
-@note_bp.route('/api/generate_plan/<int:note_id>', methods=['GET'])
+@note_bp.route('/api/generate_plan/<note_id>', methods=['GET'])
 def generate_plan_api_route(note_id):
     try:
         note_data = get_note_by_id(note_id)
@@ -184,26 +161,14 @@ def update_plan_route():
     if plan_text_to_save is None:
         return jsonify({"error": "Missing plan_text."}), 400
 
-    conn = None # Initialize conn to None
     try:
-        conn = get_db_connection()
-        cursor = conn.cursor()
-        cursor.execute("UPDATE notes SET plan_text = ?, updated_at = CURRENT_TIMESTAMP WHERE id = ?", (plan_text_to_save, note_id))
-        conn.commit()
-        if cursor.rowcount == 0:
-            print(f"⚠️ Plan update failed: Note ID {note_id} not found or no update made.")
-            return jsonify({"error": "Note not found or no update made for plan text."}), 404
-        print(f"💾 Plan text for Note ID {note_id} updated successfully.")
-        return jsonify({"message": f"Plan text for Note ID {note_id} updated successfully."}), 200
-
+        response, status_code = update_note_field(note_id, {"plan_text": plan_text_to_save}, {"plan_text": "plan_text"})
+        return jsonify(response), status_code
     except Exception as e:
-        print(f"🚨 Database error during plan update for Note ID {note_id}: {e}\n{traceback.format_exc()}")
-        return jsonify({"error": f"Database error: {e}"}), 500
-    finally:
-        if conn:
-            conn.close()
+        print(f"🚨 Error in /update_note_plan: {e}\n{traceback.format_exc()}")
+        return jsonify({"error": f"Server error: {e}"}), 500
 
-@note_bp.route('/api/generate_summary/<int:note_id>', methods=['GET'])
+@note_bp.route('/api/generate_summary/<note_id>', methods=['GET'])
 def generate_summary_api_route(note_id):
     try:
         note_data = get_note_by_id(note_id)
@@ -238,7 +203,7 @@ def generate_summary_api_route(note_id):
         print(f"🚨 Error in /api/generate_summary/{note_id}: {e}\n{traceback.format_exc()}")
         return jsonify({"error": f"Server error: {e}"}), 500
 
-@note_bp.route('/get_note_data/<int:note_id>', methods=['GET'])
+@note_bp.route('/get_note_data/<note_id>', methods=['GET'])
 def get_note_route(note_id):
     try:
         note = get_note_by_id(note_id)
@@ -248,3 +213,65 @@ def get_note_route(note_id):
             return jsonify({"error": "Note not found"}), 404
     except Exception as e:
         return jsonify({"error": f"Failed to fetch note: {e}\n{traceback.format_exc()}"}), 500
+
+# --- Streaming Endpoints ---
+
+from flask import Response, stream_with_context
+from backend.services.llm_service import stream_assessment_from_notes, stream_plan_from_soap_notes, stream_summary_from_soap_note
+
+@note_bp.route('/api/stream_assessment/<note_id>', methods=['GET'])
+def stream_assessment_route(note_id):
+    note_data = get_note_by_id(note_id)
+    if not note_data:
+        return jsonify({"error": "Note not found."}), 404
+
+    subjective = note_data.get('subjective_text', '')
+    objective = note_data.get('objective_text', '')
+
+    if not subjective.strip() or not objective.strip():
+        return jsonify({"error": "Missing Subjective or Objective data."}), 400
+
+    def generate():
+        for chunk in stream_assessment_from_notes(subjective, objective):
+            yield chunk
+
+    return Response(stream_with_context(generate()), mimetype='text/event-stream')
+
+@note_bp.route('/api/stream_plan/<note_id>', methods=['GET'])
+def stream_plan_route(note_id):
+    note_data = get_note_by_id(note_id)
+    if not note_data:
+        return jsonify({"error": "Note not found."}), 404
+
+    subjective = note_data.get('subjective_text', '')
+    objective = note_data.get('objective_text', '')
+    assessment = note_data.get('assessment_text', '')
+
+    if not all([subjective.strip(), objective.strip(), assessment.strip()]):
+        return jsonify({"error": "Missing S/O/A data."}), 400
+
+    def generate():
+        for chunk in stream_plan_from_soap_notes(subjective, objective, assessment):
+            yield chunk
+
+    return Response(stream_with_context(generate()), mimetype='text/event-stream')
+
+@note_bp.route('/api/stream_summary/<note_id>', methods=['GET'])
+def stream_summary_route(note_id):
+    note_data = get_note_by_id(note_id)
+    if not note_data:
+        return jsonify({"error": "Note not found."}), 404
+
+    s = note_data.get('subjective_text', '')
+    o = note_data.get('objective_text', '')
+    a = note_data.get('assessment_text', '')
+    p = note_data.get('plan_text', '')
+
+    if not all([s.strip(), o.strip(), a.strip(), p.strip()]):
+        return jsonify({"error": "Missing S/O/A/P data."}), 400
+
+    def generate():
+        for chunk in stream_summary_from_soap_note(s, o, a, p):
+            yield chunk
+
+    return Response(stream_with_context(generate()), mimetype='text/event-stream')
