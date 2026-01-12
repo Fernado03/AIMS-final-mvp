@@ -6,11 +6,17 @@ Flask-Cors
 openai-whisper
 librosa  # For audio duration detection
 
+
 # AI/ML for LLM and RAG
 google-generativeai
 numpy
 sentence-transformers
 einops
 
+# Database
+pymongo
+dnspython
+
 # Configuration and utilities
 python-dotenv
+gunicorn

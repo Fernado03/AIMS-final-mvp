@@ -5,7 +5,8 @@ from typing import List, Dict, Optional
 import numpy as np
 from numpy.linalg import norm
 from sentence_transformers import SentenceTransformer, CrossEncoder
-from vertexai.preview.generative_models import GenerativeModel  # Only needed for generative model
+import google.generativeai as genai
+from backend.config import GOOGLE_API_KEY, GEMINI_MODEL_NAME
 
 # Matryoshka embedding truncation dimension for nomic-ai/nomic-embed-text-v2-moe
 TRUNCATE_DIMENSION = 256
@@ -21,19 +22,22 @@ class RAGService:
         self.embedding_model = None
         self.generative_model = None
         self.reranker = None
+        
+        # Initialize Google Generative AI
+        try:
+            genai.configure(api_key=GOOGLE_API_KEY)
+            self.generative_model = genai.GenerativeModel(GEMINI_MODEL_NAME)
+            logging.info(f"Successfully initialized generative model: {GEMINI_MODEL_NAME}")
+        except Exception as e:
+            logging.error(f"Failed to initialize generative model: {e}")
+            raise RuntimeError(f"Failed to initialize generative model: {e}")
+
         try:
             self.embedding_model = SentenceTransformer('basilisk78/nomic-v2-tuned-1', trust_remote_code=True)
             logging.info("Successfully initialized tuned Nomic embedding model: basilisk78/nomic-v2-tuned-1")
         except Exception as e:
             logging.error(f"Failed to initialize Nomic AI embedding model: {e}")
             raise RuntimeError(f"Failed to initialize embedding model: {e}")
-            
-        try:
-            self.generative_model = GenerativeModel("publishers/google/models/gemini-2.5-flash-preview-05-20")
-            logging.info("Successfully initialized generative model: publishers/google/models/gemini-2.5-flash-preview-05-20")
-        except Exception as e:
-            logging.error(f"Failed to initialize generative model: {e}")
-            raise RuntimeError(f"Failed to initialize generative model: {e}")
             
         try:
             self.reranker = CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2')
@@ -49,6 +53,10 @@ class RAGService:
         self.documents = []
         self.embeddings = []
         
+        if not os.path.exists(self.corpus_dir):
+            logging.warning(f"Corpus directory not found: {self.corpus_dir}. Starting with empty knowledge base.")
+            return
+
         try:
             for filename in os.listdir(self.corpus_dir):
                 if filename.endswith('.jsonl'):
@@ -64,7 +72,8 @@ class RAGService:
             logging.info(f"Successfully loaded {len(self.documents)} documents from {self.corpus_dir}")
         except Exception as e:
             logging.error(f"Failed to load documents from {self.corpus_dir}: {e}")
-            raise RuntimeError(f"Failed to load documents: {str(e)}")
+            # Don't raise, just log error and continue with what we have or empty
+            # raise RuntimeError(f"Failed to load documents: {str(e)}")
 
     def cosine_similarity(self, a: np.ndarray, b: np.ndarray) -> float:
         """Compute cosine similarity between two vectors."""
@@ -94,13 +103,24 @@ class RAGService:
             raise RuntimeError(f"Failed to generate query embedding: {e}")
 
         if not self.documents or not self.embeddings:
-            raise ValueError("Documents not loaded. Call load_documents() first.")
+            logging.warning("No documents loaded in knowledge base.")
+            return []
             
         if len(self.embeddings) > 0 and len(self.embeddings[0]) > TRUNCATE_DIMENSION:
             # Truncate document embeddings if they're larger than our target dimension
-            truncated_embeddings = [embedding[:TRUNCATE_DIMENSION] for embedding in self.embeddings]
-            self.embeddings = truncated_embeddings
+            # Ideally this should be done at load time, but doing here for safety
+            # Note: This is inefficient if done every query, but load_documents should handle it if adapted
+            # For now, let's assume they might be raw.
+            pass # We'll just slice in the loop or assume they match. 
+            # Actually, let's slice them on the fly if needed
             
+        # Check potential dimension mismatch on first item
+        if len(self.embeddings) > 0 and len(self.embeddings[0]) != TRUNCATE_DIMENSION and len(self.embeddings[0]) != query_embedding.shape[0]:
+             # If doc embedding is bigger, we can slice it.
+             if len(self.embeddings[0]) > TRUNCATE_DIMENSION:
+                 # Slice all embeddings once (optimization: should be done in load, but okay here for now)
+                 self.embeddings = [emb[:TRUNCATE_DIMENSION] for emb in self.embeddings]
+        
         if len(self.embeddings) > 0 and query_embedding.shape[0] != len(self.embeddings[0]):
             logging.error(f"Query embedding dimension ({query_embedding.shape[0]}) does not match document embeddings dimension ({len(self.embeddings[0])})")
             raise ValueError("Query embedding dimension doesn't match document embeddings")
@@ -111,7 +131,9 @@ class RAGService:
         ]
         
         # Get indices of initial_top_k most similar documents (larger pool for re-ranking)
-        initial_top_k = top_k * 2
+        initial_top_k = min(top_k * 2, len(self.documents))
+        if initial_top_k == 0: return []
+        
         top_indices = np.argsort(similarities)[-initial_top_k:][::-1]
         
         results = []
@@ -132,38 +154,30 @@ class RAGService:
                 continue
                 
         # Apply re-ranking if reranker is available
-        if self.reranker:
+        if self.reranker and len(results) > 0:
             try:
                 # Create (query, document) pairs for re-ranking
-                pairs = [(query_text, self.documents[int(idx.item() if hasattr(idx, 'item') else idx)]['text'])
-                        for idx in top_indices]
+                pairs = [(query_text, res['text']) for res in results]
                 
                 # Get re-ranking scores
                 rerank_scores = self.reranker.predict(pairs)
                 
                 # Combine with original scores (weighted average)
-                combined_scores = [
-                    0.7 * rerank_scores[i] + 0.3 * similarities[int(top_indices[i].item() if hasattr(top_indices[i], 'item') else top_indices[i])]
-                    for i in range(len(top_indices))
-                ]
+                # Need to match the indices correctly. results[i] corresponds to rerank_scores[i]
+                for i in range(len(results)):
+                   results[i]['combined_score'] = 0.7 * rerank_scores[i] + 0.3 * results[i]['similarity_score']
+
+                # Sort by combined score
+                results.sort(key=lambda x: x['combined_score'], reverse=True)
                 
-                # Re-sort based on combined scores
-                reranked_indices = np.argsort(combined_scores)[-top_k:][::-1]
-                top_indices = [top_indices[i] for i in reranked_indices]
+                # Trim to top_k
+                results = results[:top_k]
                 
-                # Rebuild results with new order
-                results = []
-                for idx in top_indices:
-                    doc_idx = int(idx.item() if hasattr(idx, 'item') else idx)
-                    if 0 <= doc_idx < len(self.documents):
-                        results.append({
-                            **self.documents[doc_idx],
-                            'similarity_score': float(combined_scores[reranked_indices[top_indices.index(idx)]])
-                        })
             except Exception as e:
                 logging.error(f"Re-ranking failed, falling back to original results: {e}")
-                # Return original top_k results if re-ranking fails
                 results = results[:top_k]
+        else:
+             results = results[:top_k]
                 
         return results
 

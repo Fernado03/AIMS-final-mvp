@@ -6,76 +6,76 @@ const dialogManager = {
     okBtn: document.getElementById('dialogOkBtn'),
     cancelBtn: document.getElementById('dialogCancelBtn'),
     isOpen: false,
-    
+
     // Show a confirmation dialog
-    confirm: function(message, title = "Confirmation") {
+    confirm: function (message, title = "Confirmation") {
         return new Promise((resolve) => {
             this.title.textContent = title;
             this.message.textContent = message;
-            
+
             // Show cancel button
             this.cancelBtn.style.display = 'block';
-            
+
             // Set up button handlers
             const handleOk = () => {
                 this.close();
                 this.okBtn.removeEventListener('click', handleOk);
                 resolve(true);
             };
-            
+
             const handleCancel = () => {
                 this.close();
                 this.cancelBtn.removeEventListener('click', handleCancel);
                 resolve(false);
             };
-            
+
             // Remove existing listeners and add new ones
             this.okBtn.replaceWith(this.okBtn.cloneNode(true));
             this.cancelBtn.replaceWith(this.cancelBtn.cloneNode(true));
-            
+
             this.okBtn = document.getElementById('dialogOkBtn');
             this.cancelBtn = document.getElementById('dialogCancelBtn');
-            
+
             this.okBtn.addEventListener('click', handleOk);
             this.cancelBtn.addEventListener('click', handleCancel);
-            
+
             this.open();
         });
     },
-    
+
     // Show an alert dialog
-    alert: function(message, title = "Alert") {
+    alert: function (message, title = "Alert") {
         return new Promise((resolve) => {
             this.title.textContent = title;
             this.message.textContent = message;
-            
+
             // Hide cancel button for alerts
             this.cancelBtn.style.display = 'none';
-            
+
             // Set up button handler
             const handleOk = () => {
                 this.close();
                 this.okBtn.removeEventListener('click', handleOk);
                 resolve(true);
             };
-            
+
             // Remove existing listener and add new one
             this.okBtn.replaceWith(this.okBtn.cloneNode(true));
             this.okBtn = document.getElementById('dialogOkBtn');
             this.okBtn.addEventListener('click', handleOk);
-            
+
             this.open();
         });
     },
-    
+
     // Open the dialog
-    open: function() {
+    open: function () {
         this.overlay.style.display = 'flex';
         this.isOpen = true;
     },
-    
+
     // Close the dialog
-    close: function() {
+    close: function () {
         this.overlay.style.display = 'none';
         this.isOpen = false;
     }
@@ -83,7 +83,7 @@ const dialogManager = {
 
 // Close dialog when clicking outside
 if (dialogManager.overlay) {
-    dialogManager.overlay.addEventListener('click', function(e) {
+    dialogManager.overlay.addEventListener('click', function (e) {
         if (e.target === dialogManager.overlay) {
             dialogManager.close();
         }
@@ -91,7 +91,7 @@ if (dialogManager.overlay) {
 }
 
 // Close dialog with Escape key
-document.addEventListener('keydown', function(e) {
+document.addEventListener('keydown', function (e) {
     if (e.key === 'Escape' && dialogManager.isOpen) {
         dialogManager.close();
     }
@@ -100,14 +100,16 @@ document.addEventListener('keydown', function(e) {
 // Make dialog accessible globally
 window.dialogManager = dialogManager;
 
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function () {
     // UI Elements - General
     const statusElement = document.getElementById('recordingStatus'); // Primarily for transcript1
     let currentNoteId = null;
 
     // --- Page Specific Elements & Logic ---
     const pathname = window.location.pathname;
+    const API_BASE_URL = window.APP_CONFIG ? window.APP_CONFIG.API_BASE_URL : "http://127.0.0.1:5000";
     console.log('Current window.location.pathname:', pathname);
+    console.log('Using API Base URL:', API_BASE_URL);
 
     // Function to get note_id from URL
     function getNoteIdFromUrl() {
@@ -122,7 +124,7 @@ document.addEventListener('DOMContentLoaded', function() {
             return;
         }
         try {
-            const response = await fetch(`http://127.0.0.1:5000/get_note_data/${noteId}`);
+            const response = await fetch(`${API_BASE_URL}/get_note_data/${noteId}`);
             if (!response.ok) {
                 // If note not found (404), it might be a new note flow starting not from subjective.html
                 // or an invalid ID. For now, just log and let specific page handlers decide.
@@ -130,8 +132,8 @@ document.addEventListener('DOMContentLoaded', function() {
                     console.warn(`Note ID ${noteId} not found in DB.`);
                     // If on objective, assessment, or plan page and note doesn't exist, redirect to subjective.html
                     if (!pathname.includes('subjective.html')) {
-                         console.log("Redirecting to subjective.html as note was not found.");
-                         window.location.href = 'subjective.html';
+                        console.log("Redirecting to subjective.html as note was not found.");
+                        window.location.href = 'subjective.html';
                     }
                     return null;
                 }
@@ -139,7 +141,7 @@ document.addEventListener('DOMContentLoaded', function() {
             }
             const data = await response.json();
             console.log("Fetched note data:", data);
-            
+
             // Populate fields based on current page
             if (pathname.includes('subjective.html')) {
                 const transcriptTextarea = document.getElementById('transcript');
@@ -170,7 +172,7 @@ document.addEventListener('DOMContentLoaded', function() {
         } catch (error) {
             console.error("Error fetching note data:", error);
             alert("Error loading existing note data. Please check console.");
-             if (!pathname.includes('subjective.html') && getNoteIdFromUrl()) { // If expecting a note and it fails to load
+            if (!pathname.includes('subjective.html') && getNoteIdFromUrl()) { // If expecting a note and it fails to load
                 console.log("Failed to load note, redirecting to subjective.html");
                 window.location.href = 'subjective.html'; // Start fresh
             }
@@ -187,7 +189,7 @@ document.addEventListener('DOMContentLoaded', function() {
         } else {
             if (pathname.includes('subjective.html')) {
                 try {
-                    const response = await fetch('http://127.0.0.1:5000/create_note_session', { method: 'POST' });
+                    const response = await fetch(`${API_BASE_URL}/create_note_session`, { method: 'POST' });
                     if (!response.ok) {
                         const errData = await response.json();
                         throw new Error(errData.error || 'Failed to create note session');
@@ -213,19 +215,19 @@ document.addEventListener('DOMContentLoaded', function() {
             updateBackButtonLinks(); // Ensure back buttons are updated after ID is confirmed/set
         }
     }
-    
+
     function updateBackButtonLinks() {
         if (!currentNoteId) return; // Don't update if no ID
 
         // For subjective.html, back button is static to index.html, no note_id needed.
         // const backButtonSubjective = document.querySelector('a.page-back-button[href="index.html"]');
-        
+
         // For objective.html
         const backButtonObjective = document.querySelector('a.page-back-button[href^="subjective.html"]'); // Selects if href starts with subjective.html
         if (backButtonObjective && pathname.includes('objective.html')) {
             backButtonObjective.href = `subjective.html?note_id=${currentNoteId}`;
         }
-        
+
         // For assessment.html
         const backButtonAssessment = document.querySelector('a.page-back-button[href^="objective.html"]');
         if (backButtonAssessment && pathname.includes('assessment.html')) {
@@ -250,16 +252,16 @@ document.addEventListener('DOMContentLoaded', function() {
         const transcribeFileButton = document.getElementById('transcribeFileButton');
         let mediaRecorder;
         let audioChunks = [];
-        
+
         // Auto-hide status message after delay
         let statusTimeout;
         function setStatus(message, autoHide = false) {
             if (!statusElement) return;
             statusElement.textContent = message;
-            
+
             // Clear any existing timeout
             if (statusTimeout) clearTimeout(statusTimeout);
-            
+
             // Auto-hide after 3 seconds if requested
             if (autoHide && message) {
                 statusTimeout = setTimeout(() => {
@@ -275,7 +277,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         // Add Event Listener to audioFileInput
         if (audioFileInput && transcribeFileButton) {
-            audioFileInput.addEventListener('change', function() {
+            audioFileInput.addEventListener('change', function () {
                 if (audioFileInput.files.length > 0) {
                     transcribeFileButton.style.display = 'inline-flex';
                     transcribeFileButton.disabled = false; // ensure enabled and visible
@@ -293,24 +295,24 @@ document.addEventListener('DOMContentLoaded', function() {
             console.log('🎙️ [TRANSCRIPTION START] Audio data size:', audioData.size, 'bytes; Name:', fileNameForFormData);
             const formData = new FormData();
             formData.append('file', audioData, fileNameForFormData);
-            
+
             // Get overlay elements
             const overlay = document.getElementById('transcriptionOverlay');
             const overlayMessage = document.getElementById('transcriptionMessage');
-            
+
             console.log('💻 [DEBUG] Overlay element found:', !!overlay);
             console.log('💻 [DEBUG] Overlay message element found:', !!overlayMessage);
 
             setStatus('Processing audio...');
-            
+
             // Show loading overlay
-            if(overlay) {
+            if (overlay) {
                 console.log('✅ [OVERLAY] Showing loading overlay...');
                 overlay.classList.add('active');
                 const fileSizeMB = audioData.size / (1024 * 1024);
                 console.log('📁 [FILE SIZE]', fileSizeMB.toFixed(2), 'MB');
-                if(overlayMessage) {
-                    if(fileSizeMB > 3) {
+                if (overlayMessage) {
+                    if (fileSizeMB > 3) {
                         const msg = `Processing large file (${fileSizeMB.toFixed(1)}MB) - This may take up to a minute`;
                         overlayMessage.textContent = msg;
                         console.log('📢 [MESSAGE]', msg);
@@ -326,12 +328,12 @@ document.addEventListener('DOMContentLoaded', function() {
             try {
                 console.log('🚀 [FETCH] Sending request to /transcribe endpoint...');
                 const startTime = Date.now();
-                
-                const response = await fetch('http://127.0.0.1:5000/transcribe', {
+
+                const response = await fetch(`${API_BASE_URL}/transcribe`, {
                     method: 'POST',
                     body: formData
                 });
-                
+
                 const elapsed = ((Date.now() - startTime) / 1000).toFixed(1);
                 console.log(`⏱️ [TIMING] Request completed in ${elapsed} seconds`);
 
@@ -362,22 +364,22 @@ document.addEventListener('DOMContentLoaded', function() {
             } finally {
                 // Hide loading overlay
                 console.log('🚫 [OVERLAY] Hiding loading overlay...');
-                if(overlay) {
+                if (overlay) {
                     overlay.classList.remove('active');
                     console.log('✅ [OVERLAY] Hidden successfully');
                 } else {
                     console.error('❌ [ERROR] Overlay element not found when trying to hide!');
                 }
-                
+
                 // Re-enable buttons
-                if(startButton) startButton.disabled = false;
-                if(stopButton) stopButton.disabled = true; // Stop should be disabled after processing
-                if(transcribeFileButton && audioFileInput) {
+                if (startButton) startButton.disabled = false;
+                if (stopButton) stopButton.disabled = true; // Stop should be disabled after processing
+                if (transcribeFileButton && audioFileInput) {
                     const hasFile = audioFileInput.files.length > 0;
                     transcribeFileButton.style.display = hasFile ? 'inline-flex' : 'none';
                     transcribeFileButton.disabled = !hasFile; // re-enable when done
                 }
-                if(audioFileInput) audioFileInput.disabled = false; // Re-enable file input
+                if (audioFileInput) audioFileInput.disabled = false; // Re-enable file input
             }
         }
 
@@ -385,11 +387,11 @@ document.addEventListener('DOMContentLoaded', function() {
         function coreStartRecording() {
             if (!navigator.mediaDevices || !navigator.mediaDevices.getUserMedia) {
                 console.error("getUserMedia not supported!");
-                    setStatus('getUserMedia not supported.');
-                    if(startButton) startButton.disabled = false;
-                    if(stopButton) stopButton.disabled = true;
-                    if(audioFileInput) audioFileInput.disabled = false; // Ensure file input enabled if start fails
-                    if(transcribeFileButton && audioFileInput) transcribeFileButton.style.display = (audioFileInput.files.length > 0) ? 'block' : 'none';
+                setStatus('getUserMedia not supported.');
+                if (startButton) startButton.disabled = false;
+                if (stopButton) stopButton.disabled = true;
+                if (audioFileInput) audioFileInput.disabled = false; // Ensure file input enabled if start fails
+                if (transcribeFileButton && audioFileInput) transcribeFileButton.style.display = (audioFileInput.files.length > 0) ? 'block' : 'none';
                 return;
             }
             navigator.mediaDevices.getUserMedia({ audio: true })
@@ -398,7 +400,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     mediaRecorder.start();
                     audioChunks = [];
                     mediaRecorder.ondataavailable = event => { audioChunks.push(event.data); };
-                    
+
                     // **E. Update mediaRecorder.onstop**
                     mediaRecorder.onstop = () => {
                         const audioBlob = new Blob(audioChunks, { type: 'audio/webm' });
@@ -410,10 +412,10 @@ document.addEventListener('DOMContentLoaded', function() {
                 .catch(err => {
                     console.error("Error setting up recording:", err);
                     setStatus('Mic permission error. Please allow microphone access.');
-                    if(startButton) startButton.disabled = false;
-                    if(stopButton) stopButton.disabled = true;
-                    if(audioFileInput) audioFileInput.disabled = false; // Re-enable file input on error
-                    if(transcribeFileButton && audioFileInput) transcribeFileButton.style.display = (audioFileInput.files.length > 0) ? 'block' : 'none';
+                    if (startButton) startButton.disabled = false;
+                    if (stopButton) stopButton.disabled = true;
+                    if (audioFileInput) audioFileInput.disabled = false; // Re-enable file input on error
+                    if (transcribeFileButton && audioFileInput) transcribeFileButton.style.display = (audioFileInput.files.length > 0) ? 'block' : 'none';
                 });
         }
 
@@ -425,25 +427,25 @@ document.addEventListener('DOMContentLoaded', function() {
 
         // **G. UI State Management for Start Recording Button**
         if (startButton) {
-            startButton.onclick = function() {
+            startButton.onclick = function () {
                 startButton.disabled = true;
-                if(stopButton) stopButton.disabled = false;
+                if (stopButton) stopButton.disabled = false;
                 setStatus('Recording...');
                 // Don't clear transcript - append mode
 
                 // Disable file upload elements
-                if(audioFileInput) {
+                if (audioFileInput) {
                     audioFileInput.value = ''; // Clear selected file
                     audioFileInput.disabled = true;
                 }
-                if(transcribeFileButton) transcribeFileButton.style.display = 'none'; // Hide button
+                if (transcribeFileButton) transcribeFileButton.style.display = 'none'; // Hide button
 
                 coreStartRecording();
             };
         }
 
         if (stopButton) {
-            stopButton.onclick = function() {
+            stopButton.onclick = function () {
                 // startButton will be re-enabled in handleAudioTranscription's finally block
                 // stopButton will be re-enabled in handleAudioTranscription's finally block
                 // File inputs will be re-enabled in handleAudioTranscription's finally block
@@ -452,7 +454,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
 
         // **H. Add Keyboard Shortcuts**
-        document.addEventListener('keydown', function(event) {
+        document.addEventListener('keydown', function (event) {
             // Ctrl+R or Cmd+R to start recording
             if ((event.ctrlKey || event.metaKey) && event.key === 'r') {
                 event.preventDefault(); // Prevent browser reload
@@ -480,11 +482,11 @@ document.addEventListener('DOMContentLoaded', function() {
             startButton: !!startButton,
             stopButton: !!stopButton
         });
-        
+
         if (transcribeFileButton && audioFileInput) {
             console.log('✅ [SETUP] Attaching click handler to Transcribe File button');
-                transcribeFileButton.onclick = async function() {
-                    transcribeFileButton.disabled = true; // immediately disable to prevent double clicks
+            transcribeFileButton.onclick = async function () {
+                transcribeFileButton.disabled = true; // immediately disable to prevent double clicks
                 console.log('👆 [CLICK] Transcribe File button clicked!');
                 console.log('📁 [FILES] Files selected:', audioFileInput.files.length);
                 if (!audioFileInput.files || audioFileInput.files.length === 0) {
@@ -494,11 +496,11 @@ document.addEventListener('DOMContentLoaded', function() {
                 }
 
                 const file = audioFileInput.files[0];
-                
+
                 // Check file size and warn user about processing time
                 const fileSizeMB = file.size / (1024 * 1024);
                 console.log(`📁 File size: ${fileSizeMB.toFixed(2)} MB`);
-                
+
                 if (fileSizeMB > 3) {
                     transcribeFileButton.disabled = false; // allow interaction during confirm
                     // Estimate duration (rough: 1MB ≈ 1 minute for compressed audio)
@@ -511,15 +513,15 @@ document.addEventListener('DOMContentLoaded', function() {
                 }
 
                 transcribeFileButton.disabled = true;
-                if(startButton) startButton.disabled = true;
-                if(stopButton) stopButton.disabled = true;
+                if (startButton) startButton.disabled = true;
+                if (stopButton) stopButton.disabled = true;
                 // Don't clear transcript - keep previous content
-                
+
                 // Show different message for large vs small files
-                const statusMsg = fileSizeMB > 3 
+                const statusMsg = fileSizeMB > 3
                     ? `Transcribing large file... This may take up to a minute. Please wait.`
                     : "Uploading and transcribing file...";
-                if(statusElement) statusElement.textContent = statusMsg;
+                if (statusElement) statusElement.textContent = statusMsg;
 
                 console.log('🚀 [ACTION] Calling handleAudioTranscription...');
                 handleAudioTranscription(file, file.name);
@@ -530,10 +532,10 @@ document.addEventListener('DOMContentLoaded', function() {
                 audioFileInput: !!audioFileInput
             });
         }
-        
+
         // **G. UI State Management for File Input Change (complementary to start recording)**
         if (audioFileInput) {
-            audioFileInput.addEventListener('change', function() {
+            audioFileInput.addEventListener('change', function () {
                 if (audioFileInput.files.length > 0) {
                     // If a file is selected, we might want to disable recording buttons
                     // or ensure recording is stopped if it was active.
@@ -547,11 +549,11 @@ document.addEventListener('DOMContentLoaded', function() {
                         // Or alert the user:
                         // alert("Selecting a file will stop the current recording if active.");
                     }
-                    if(startButton) startButton.disabled = true; // Disable start if a file is chosen
-                    if(stopButton) stopButton.disabled = true; // Disable stop as well
+                    if (startButton) startButton.disabled = true; // Disable start if a file is chosen
+                    if (stopButton) stopButton.disabled = true; // Disable stop as well
                 } else {
                     // No file selected, re-enable recording buttons if not already managed elsewhere
-                    if(startButton) startButton.disabled = false;
+                    if (startButton) startButton.disabled = false;
                 }
             });
         }
@@ -567,11 +569,11 @@ document.addEventListener('DOMContentLoaded', function() {
         if (nextButtonSubjective) {
             // If the button is inside an <a> tag, prevent default navigation
             if (nextButtonSubjective.closest('a')) {
-                nextButtonSubjective.closest('a').addEventListener('click', function(event) {
+                nextButtonSubjective.closest('a').addEventListener('click', function (event) {
                     event.preventDefault();
                 });
             }
-            nextButtonSubjective.onclick = async function() { // Removed event param as it's not used if not preventing default on <a>
+            nextButtonSubjective.onclick = async function () { // Removed event param as it's not used if not preventing default on <a>
                 if (!currentNoteId) {
                     alert("Error: Note session not initialized. Please refresh the page.");
                     return;
@@ -580,7 +582,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 const confirmed = await window.dialogManager.confirm("Save Subjective data and proceed to Objective page?", "Save and Continue");
                 if (confirmed) {
                     try {
-                        const response = await fetch('http://127.0.0.1:5000/update_note_subjective', {
+                        const response = await fetch(`${API_BASE_URL}/update_note_subjective`, {
                             method: 'POST', headers: { 'Content-Type': 'application/json' },
                             body: JSON.stringify({ note_id: currentNoteId, subjective_text: subjectiveText })
                         });
@@ -613,11 +615,11 @@ document.addEventListener('DOMContentLoaded', function() {
 
         if (nextButtonObjective) {
             if (nextButtonObjective.closest('a')) {
-                nextButtonObjective.closest('a').addEventListener('click', function(event) {
+                nextButtonObjective.closest('a').addEventListener('click', function (event) {
                     event.preventDefault();
                 });
             }
-            nextButtonObjective.onclick = async function() {
+            nextButtonObjective.onclick = async function () {
                 const objectiveLoadingIndicator = document.getElementById('objectiveLoadingIndicator'); // Get ref
 
                 if (!currentNoteId) { alert("Error: Note ID missing. Please navigate from the start."); return; }
@@ -629,7 +631,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     nextButtonObjective.disabled = true; // Disable button
 
                     try {
-                        const response = await fetch('http://127.0.0.1:5000/update_note_objective', { // Changed endpoint
+                        const response = await fetch(`${API_BASE_URL}/update_note_objective`, { // Changed endpoint
                             method: 'POST', headers: { 'Content-Type': 'application/json' },
                             body: JSON.stringify({
                                 note_id: currentNoteId,
@@ -640,7 +642,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         if (!response.ok) {
                             const errText = await response.text();
                             try { const err = JSON.parse(errText); throw new Error(err.error || `Save failed: ${response.status}`); }
-                            catch (e) { throw new Error(`Save failed: ${response.status} - ${errText}`);}
+                            catch (e) { throw new Error(`Save failed: ${response.status} - ${errText}`); }
                         }
                         // await response.json();
                         window.location.href = `assessment.html?note_id=${currentNoteId}`; // Navigate to assessment
@@ -667,7 +669,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const assessmentPageLoadingIndicator = document.getElementById('assessmentPageLoadingIndicator'); // Renamed/confirmed ID
 
         if (generateAssessmentButton && assessmentTextarea) {
-            generateAssessmentButton.onclick = async function() {
+            generateAssessmentButton.onclick = async function () {
                 if (!currentNoteId) {
                     alert("Error: Note ID missing. Please refresh or navigate from the start.");
                     return;
@@ -680,14 +682,14 @@ document.addEventListener('DOMContentLoaded', function() {
                         const noteData = await checkResponse.json();
                         const hasSubjective = noteData.subjective_text && noteData.subjective_text.trim().length > 0;
                         const hasObjective = noteData.objective_text && noteData.objective_text.trim().length > 0;
-                        
+
                         if (!hasSubjective || !hasObjective) {
                             let missingSteps = [];
                             if (!hasSubjective) missingSteps.push('Subjective');
                             if (!hasObjective) missingSteps.push('Objective');
-                            
+
                             const message = `Cannot generate Assessment. Missing required data:\n\n${missingSteps.join(' and ')} section(s) need to be completed first.\n\nWould you like to go back and complete them?`;
-                            
+
                             if (await window.dialogManager.confirm(message, "Missing Data")) {
                                 // Navigate to the first missing section
                                 if (!hasSubjective) {
@@ -710,7 +712,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 generateAssessmentButton.disabled = true;
 
                 try {
-                    const response = await fetch(`http://127.0.0.1:5000/api/generate_assessment/${currentNoteId}`, {
+                    const response = await fetch(`${API_BASE_URL}/api/generate_assessment/${currentNoteId}`, {
                         method: 'GET',
                         headers: { 'Content-Type': 'application/json' }
                     });
@@ -720,7 +722,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     if (!response.ok) {
                         throw new Error(response_data.error || `Failed to generate assessment. Status: ${response.status}`);
                     }
-                    
+
                     if (response_data.assessment_text) {
                         assessmentTextarea.value = response_data.assessment_text;
                         await window.dialogManager.alert("Assessment generated successfully!", "Success");
@@ -740,12 +742,12 @@ document.addEventListener('DOMContentLoaded', function() {
         }
 
         if (nextButtonAssessment) {
-             if (nextButtonAssessment.closest('a')) {
-                nextButtonAssessment.closest('a').addEventListener('click', function(event) {
+            if (nextButtonAssessment.closest('a')) {
+                nextButtonAssessment.closest('a').addEventListener('click', function (event) {
                     event.preventDefault();
                 });
             }
-            nextButtonAssessment.onclick = async function() {
+            nextButtonAssessment.onclick = async function () {
                 if (!currentNoteId) {
                     alert("Error: Note ID missing. Please navigate from the start.");
                     return;
@@ -758,7 +760,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     nextButtonAssessment.disabled = true; // Disable button
 
                     try {
-                        const response = await fetch('http://127.0.0.1:5000/update_note_assessment', {
+                        const response = await fetch(`${API_BASE_URL}/update_note_assessment`, {
                             method: 'POST', headers: { 'Content-Type': 'application/json' },
                             body: JSON.stringify({
                                 note_id: currentNoteId,
@@ -768,7 +770,7 @@ document.addEventListener('DOMContentLoaded', function() {
                         if (!response.ok) {
                             const errText = await response.text();
                             try { const err = JSON.parse(errText); throw new Error(err.error || `Save failed: ${response.status}`); }
-                            catch (e) { throw new Error(`Save failed: ${response.status} - ${errText}`);}
+                            catch (e) { throw new Error(`Save failed: ${response.status} - ${errText}`); }
                         }
                         window.location.href = `plan.html?note_id=${currentNoteId}`; // Navigate to plan
                     } catch (error) {
@@ -785,7 +787,7 @@ document.addEventListener('DOMContentLoaded', function() {
             };
         }
     }
-    
+
     // --- Plan Page Specific Logic ---
     if (pathname.includes('plan.html')) {
         const planTextarea = document.getElementById('planText');
@@ -794,7 +796,7 @@ document.addEventListener('DOMContentLoaded', function() {
         const generatePlanButton = document.getElementById('generatePlanButton'); // New button
 
         if (generatePlanButton && planTextarea) {
-            generatePlanButton.onclick = async function() {
+            generatePlanButton.onclick = async function () {
                 if (!currentNoteId) {
                     alert("Error: Note ID missing. Please refresh or navigate from the start.");
                     return;
@@ -802,21 +804,21 @@ document.addEventListener('DOMContentLoaded', function() {
 
                 // First, check if we have the required S/O/A data
                 try {
-                    const checkResponse = await fetch(`http://127.0.0.1:5000/get_note_data/${currentNoteId}`);
+                    const checkResponse = await fetch(`${API_BASE_URL}/get_note_data/${currentNoteId}`);
                     if (checkResponse.ok) {
                         const noteData = await checkResponse.json();
                         const hasSubjective = noteData.subjective_text && noteData.subjective_text.trim().length > 0;
                         const hasObjective = noteData.objective_text && noteData.objective_text.trim().length > 0;
                         const hasAssessment = noteData.assessment_text && noteData.assessment_text.trim().length > 0;
-                        
+
                         if (!hasSubjective || !hasObjective || !hasAssessment) {
                             let missingSteps = [];
                             if (!hasSubjective) missingSteps.push('Subjective');
                             if (!hasObjective) missingSteps.push('Objective');
                             if (!hasAssessment) missingSteps.push('Assessment');
-                            
+
                             const message = `Cannot generate Plan. Missing required data:\n\n${missingSteps.join(', ')} section(s) need to be completed first.\n\nWould you like to go back and complete them?`;
-                            
+
                             if (await window.dialogManager.confirm(message, "Missing Data")) {
                                 // Navigate to the first missing section
                                 if (!hasSubjective) {
@@ -842,7 +844,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 if (summarizeButtonPlan) summarizeButtonPlan.disabled = true; // Disable next button too
 
                 try {
-                    const response = await fetch(`http://127.0.0.1:5000/api/generate_plan/${currentNoteId}`, {
+                    const response = await fetch(`${API_BASE_URL}/api/generate_plan/${currentNoteId}`, {
                         method: 'GET',
                         headers: { 'Content-Type': 'application/json' }
                     });
@@ -852,7 +854,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     if (!response.ok) {
                         throw new Error(response_data.error || `Failed to generate plan. Status: ${response.status}`);
                     }
-                    
+
                     if (response_data.plan_text) {
                         planTextarea.value = response_data.plan_text;
                         await window.dialogManager.alert("Plan generated successfully!", "Success");
@@ -873,12 +875,12 @@ document.addEventListener('DOMContentLoaded', function() {
         }
 
         if (summarizeButtonPlan) {
-             if (summarizeButtonPlan.closest('a')) {
-                summarizeButtonPlan.closest('a').addEventListener('click', function(event) {
+            if (summarizeButtonPlan.closest('a')) {
+                summarizeButtonPlan.closest('a').addEventListener('click', function (event) {
                     event.preventDefault();
                 });
             }
-            summarizeButtonPlan.onclick = async function() {
+            summarizeButtonPlan.onclick = async function () {
                 if (!currentNoteId) {
                     alert("Error: Note ID missing. Please navigate from the start.");
                     return;
@@ -892,16 +894,16 @@ document.addEventListener('DOMContentLoaded', function() {
                     // (it was for summary generation, which is now implicitly on the backend after plan save)
                     summarizeButtonPlan.disabled = true;
                     if (generatePlanButton) generatePlanButton.disabled = true; // Disable generate button too
-                    
+
                     try {
-                        const response = await fetch('http://127.0.0.1:5000/update_note_plan', {
+                        const response = await fetch(`${API_BASE_URL}/update_note_plan`, {
                             method: 'POST', headers: { 'Content-Type': 'application/json' },
                             body: JSON.stringify({
                                 note_id: currentNoteId,
                                 plan_text: planText
                             })
                         });
-                       if (!response.ok) {
+                        if (!response.ok) {
                             const errText = await response.text();
                             let errorMsg;
                             try {
@@ -930,7 +932,7 @@ document.addEventListener('DOMContentLoaded', function() {
             };
         }
     }
-    
+
     // --- Summary Page Specific Logic ---
     if (pathname.includes('summary.html')) {
         const summaryLoadingIndicator = document.getElementById('summaryLoadingIndicator');
@@ -952,7 +954,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 await new Promise(resolve => setTimeout(resolve, 100));
                 attempts++;
             }
-            
+
             if (!currentNoteId) {
                 console.log('Auto-generating summary for note ID:', currentNoteId);
                 await window.dialogManager.alert("Note ID is not available. Please navigate from the Plan page.", "Error");
@@ -962,23 +964,23 @@ document.addEventListener('DOMContentLoaded', function() {
 
             // First, check if we have ALL required SOAP data
             try {
-                const checkResponse = await fetch(`http://127.0.0.1:5000/get_note_data/${currentNoteId}`);
+                const checkResponse = await fetch(`${API_BASE_URL}/get_note_data/${currentNoteId}`);
                 if (checkResponse.ok) {
                     const noteData = await checkResponse.json();
                     const hasSubjective = noteData.subjective_text && noteData.subjective_text.trim().length > 0;
                     const hasObjective = noteData.objective_text && noteData.objective_text.trim().length > 0;
                     const hasAssessment = noteData.assessment_text && noteData.assessment_text.trim().length > 0;
                     const hasPlan = noteData.plan_text && noteData.plan_text.trim().length > 0;
-                    
+
                     if (!hasSubjective || !hasObjective || !hasAssessment || !hasPlan) {
                         let missingSteps = [];
                         if (!hasSubjective) missingSteps.push('Subjective');
                         if (!hasObjective) missingSteps.push('Objective');
                         if (!hasAssessment) missingSteps.push('Assessment');
                         if (!hasPlan) missingSteps.push('Plan');
-                        
+
                         const message = `Cannot generate Summary. Missing required data:\n\n${missingSteps.join(', ')} section(s) need to be completed first.\n\nWould you like to go back and complete them?`;
-                        
+
                         summaryLoadingIndicator.style.display = 'none';
                         if (await window.dialogManager.confirm(message, "Missing Data")) {
                             // Navigate to the first missing section
@@ -1005,7 +1007,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
             try {
                 console.log(`Auto-fetching summary from: http://127.0.0.1:5000/api/generate_summary/${currentNoteId}`);
-                const response = await fetch(`http://127.0.0.1:5000/api/generate_summary/${currentNoteId}`, {
+                const response = await fetch(`${API_BASE_URL}/api/generate_summary/${currentNoteId}`, {
                     method: 'GET',
                     headers: { 'Content-Type': 'application/json' }
                 });
@@ -1039,34 +1041,34 @@ document.addEventListener('DOMContentLoaded', function() {
         autoGenerateSummary();
     }
 
-        // Back button for summary page (if one exists and needs dynamic note_id)
-        const backButtonSummary = document.querySelector('a.page-back-button[href^="plan.html"]');
-        if (backButtonSummary) {
-            const noteId = getNoteIdFromUrl() || currentNoteId;
-            if (noteId) backButtonSummary.href = `plan.html?note_id=${noteId}`;
-        }
+    // Back button for summary page (if one exists and needs dynamic note_id)
+    const backButtonSummary = document.querySelector('a.page-back-button[href^="plan.html"]');
+    if (backButtonSummary) {
+        const noteId = getNoteIdFromUrl() || currentNoteId;
+        if (noteId) backButtonSummary.href = `plan.html?note_id=${noteId}`;
+    }
 });
 
 // Export functionality for summary page
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function () {
     const exportButton = document.getElementById('exportButton');
     const exportOptions = document.getElementById('exportOptions');
     const summaryDisplayArea = document.getElementById('summaryDisplayArea');
 
     if (exportButton && exportOptions && summaryDisplayArea) {
         // Toggle export options dropdown
-        exportButton.addEventListener('click', function(e) {
+        exportButton.addEventListener('click', function (e) {
             e.stopPropagation();
             exportOptions.style.display = exportOptions.style.display === 'block' ? 'none' : 'block';
         });
 
         // Close dropdown when clicking elsewhere
-        document.addEventListener('click', function() {
+        document.addEventListener('click', function () {
             exportOptions.style.display = 'none';
         });
 
         // Handle export option clicks
-        exportOptions.addEventListener('click', function(e) {
+        exportOptions.addEventListener('click', function (e) {
             e.stopPropagation();
             const format = e.target.getAttribute('data-format');
             if (!format) return;

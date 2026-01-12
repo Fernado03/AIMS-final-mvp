@@ -1,115 +1,122 @@
 # database.py
 
-import sqlite3
 import os
 import traceback
-from backend.config import DATABASE_NAME, DATABASE_PATH
+from datetime import datetime
+from pymongo import MongoClient
+from bson.objectid import ObjectId
+from backend.config import MONGO_URI, DATABASE_NAME
+
+_path = os.path.dirname(os.path.abspath(__file__))
 
 def get_db_connection():
-    conn = sqlite3.connect(DATABASE_PATH)
-    conn.row_factory = sqlite3.Row # To access columns by name
-    return conn
+    """Returns a MongoDB database object."""
+    try:
+        client = MongoClient(MONGO_URI)
+        db = client[DATABASE_NAME]
+        return db
+    except Exception as e:
+        print(f"Error connecting to MongoDB: {e}")
+        return None
 
 def init_db():
-    conn = None # Initialize conn
+    """
+    Initializes the database. 
+    For MongoDB, collections are created lazily, so we just check connectivity.
+    """
     try:
-        conn = get_db_connection()
-        cursor = conn.cursor()
-        cursor.execute('''
-            CREATE TABLE IF NOT EXISTS notes (
-                id INTEGER PRIMARY KEY AUTOINCREMENT,
-                subjective_text TEXT,
-                objective_text TEXT,
-                assessment_text TEXT,
-                plan_text TEXT,
-                summary_text TEXT,
-                created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
-                updated_at DATETIME DEFAULT CURRENT_TIMESTAMP
-            )
-        ''')
-        # Check if updated_at trigger exists, if not, create it
-        cursor.execute('''
-            SELECT name FROM sqlite_master WHERE type='trigger' AND name='update_notes_updated_at';
-        ''')
-        if cursor.fetchone() is None:
-            cursor.execute('''
-                CREATE TRIGGER update_notes_updated_at
-                AFTER UPDATE ON notes
-                FOR EACH ROW
-                BEGIN
-                    UPDATE notes SET updated_at = CURRENT_TIMESTAMP WHERE id = OLD.id;
-                END;
-            ''')
-        conn.commit()
-        print(f"Database '{DATABASE_NAME}' initialized successfully at {DATABASE_PATH}")
+        db = get_db_connection()
+        # Verify connection
+        db.command('ping')
+        print(f"✅ MongoDB '{DATABASE_NAME}' connected successfully.")
     except Exception as e:
-        print(f"Error initializing database: {e}\n{traceback.format_exc()}")
-    finally:
-        if conn:
-            conn.close()
+        print(f"⚠️ Error initializing MongoDB connection: {e}\n{traceback.format_exc()}")
+        print(f"Please check your MONGO_URI in .env")
 
 def update_note_field(note_id, data_dict, field_map):
-    conn = get_db_connection()
-    cursor = conn.cursor()
-    fields_to_update = []
-    values_to_update = []
-    for key, column_name in field_map.items():
-        if key in data_dict:
-            fields_to_update.append(f"{column_name} = ?")
-            values_to_update.append(data_dict[key])
-
-    if not fields_to_update:
-        conn.close()
-        return {"error": "No valid fields provided for update."}, 400 # Return dict and status
-
-    values_to_update.append(note_id)
-    sql = f"UPDATE notes SET {', '.join(fields_to_update)}, updated_at = CURRENT_TIMESTAMP WHERE id = ?"
-
+    """
+    Updates specific fields in a note document.
+    """
     try:
-        cursor.execute(sql, tuple(values_to_update))
-        conn.commit()
-        if cursor.rowcount == 0:
-            print(f"⚠️ Note ID {note_id} not found or no update made.")
-            return {"error": "Note not found or no update made."}, 404
+        db = get_db_connection()
+        collection = db.notes
+        
+        update_fields = {}
+        for key, column_name in field_map.items():
+            if key in data_dict:
+                update_fields[column_name] = data_dict[key]
+
+        if not update_fields:
+            return {"error": "No valid fields provided for update."}, 400
+
+        update_fields["updated_at"] = datetime.utcnow()
+
+        result = collection.update_one(
+            {"_id": ObjectId(note_id)},
+            {"$set": update_fields}
+        )
+
+        if result.matched_count == 0:
+            print(f"⚠️ Note ID {note_id} not found.")
+            return {"error": "Note not found."}, 404
+        
         print(f"💾 Note ID {note_id} updated. Fields: {', '.join(field_map.values())}")
         return {"message": f"Note ID {note_id} updated successfully."}, 200
+
     except Exception as e:
         print(f"🚨 Database error updating note: {e}\n{traceback.format_exc()}")
-        return {"error": f"Database error updating note: {e}\n{traceback.format_exc()}"}, 500
-    finally:
-        if conn:
-            conn.close()
+        return {"error": f"Database error: {str(e)}"}, 500
 
-# You might move create_note_session and get_note_data here as well
 def create_note_session_db():
-    conn = None
+    """
+    Creates a new note document with empty fields.
+    """
     try:
-        conn = get_db_connection()
-        cursor = conn.cursor()
-        cursor.execute("INSERT INTO notes (subjective_text, objective_text, assessment_text, plan_text, summary_text) VALUES (?, ?, ?, ?, ?)",
-                         ("", "", "", "", ""))
-        conn.commit()
-        new_note_id = cursor.lastrowid
+        db = get_db_connection()
+        collection = db.notes
+        
+        new_note = {
+            "subjective_text": "",
+            "objective_text": "",
+            "assessment_text": "",
+            "plan_text": "",
+            "summary_text": "",
+            "created_at": datetime.utcnow(),
+            "updated_at": datetime.utcnow()
+        }
+        
+        result = collection.insert_one(new_note)
+        new_note_id = str(result.inserted_id)
+        
         print(f"✨ New note session created with ID: {new_note_id}")
-        return {"note_id": new_note_id} # Return dict
+        return {"note_id": new_note_id}
+
     except Exception as e:
         print(f"Failed to create note session: {e}\n{traceback.format_exc()}")
-        raise # Re-raise to be caught by route
+        raise
 
 def get_note_by_id(note_id):
-    conn = None
+    """
+    Retrieves a note document by ID.
+    """
     try:
-        conn = get_db_connection()
-        cursor = conn.cursor()
-        cursor.execute("SELECT * FROM notes WHERE id = ?", (note_id,))
-        note = cursor.fetchone()
+        db = get_db_connection()
+        collection = db.notes
+        
+        note = collection.find_one({"_id": ObjectId(note_id)})
+        
         if note:
-            return dict(note)
+            # Convert ObjectId and datetime to string/isoformat for JSON serialization
+            note["id"] = str(note["_id"])
+            del note["_id"]
+            if "created_at" in note:
+                note["created_at"] = note["created_at"].isoformat()
+            if "updated_at" in note:
+                note["updated_at"] = note["updated_at"].isoformat()
+            return note
         else:
-            return None # Return None if not found
+            return None
+
     except Exception as e:
         print(f"Failed to fetch note: {e}\n{traceback.format_exc()}")
-        raise # Re-raise to be caught by route
-    finally:
-        if conn:
-            conn.close()
+        raise

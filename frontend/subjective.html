@@ -508,6 +508,7 @@
     </div>
     
     <!-- Link to your script.js file -->
+    <script src="/config.js"></script>
     <script src="/script.js"></script>
     
     <!-- Custom Dialog JavaScript -->
@@ -632,6 +633,7 @@
                 const urlParams = new URLSearchParams(window.location.search);
                 const currentNoteId = urlParams.get('note_id');
                 const transcriptTextarea = document.getElementById('transcript');
+                const API_BASE_URL = window.APP_CONFIG ? window.APP_CONFIG.API_BASE_URL : "http://127.0.0.1:5000";
                 
                 if (!currentNoteId) {
                     await window.dialogManager.alert("Error: Note session not initialized. Please refresh the page.", "Error");
@@ -645,7 +647,7 @@
                 
                 if (confirmed) {
                     try {
-                        const response = await fetch('http://127.0.0.1:5000/update_note_subjective', {
+                        const response = await fetch(`${API_BASE_URL}/update_note_subjective`, {
                             method: 'POST',
                             headers: { 'Content-Type': 'application/json' },
                             body: JSON.stringify({ note_id: currentNoteId, subjective_text: subjectiveText })
