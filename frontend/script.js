@@ -100,53 +100,14 @@ document.addEventListener('keydown', function (e) {
 // Make dialog accessible globally
 window.dialogManager = dialogManager;
 
+// Global state - MUST use window for cross-scope access
+window.currentNoteId = null;
+console.log("🆕 [INIT] window.currentNoteId initialized to null");
+
 document.addEventListener('DOMContentLoaded', function () {
     // UI Elements - General
     const statusElement = document.getElementById('recordingStatus'); // Primarily for transcript1
-    let currentNoteId = null;
-
-    // --- Dark Mode Logic ---
-    // 1. Inject CSS
-    if (!document.querySelector('link[href="dark-mode.css"]')) {
-        const link = document.createElement('link');
-        link.rel = 'stylesheet';
-        link.href = 'dark-mode.css';
-        document.head.appendChild(link);
-    }
-
-    // 2. Theme Management
-    function initTheme() {
-        const savedTheme = localStorage.getItem('theme');
-        if (savedTheme === 'dark') {
-            document.documentElement.setAttribute('data-theme', 'dark');
-        } else if (!savedTheme && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-            document.documentElement.setAttribute('data-theme', 'dark');
-        }
-    }
-    initTheme();
-
-    // 3. Inject Toggle Button
-    const headerNav = document.querySelector('nav.header-nav') || document.querySelector('header nav') || document.querySelector('.navbar-container'); // Adjust selector based on actual DOM
-    if (headerNav) {
-        const toggleBtn = document.createElement('button');
-        toggleBtn.className = 'theme-toggle-btn';
-        toggleBtn.innerHTML = '🌙'; // Default moon
-        toggleBtn.title = "Toggle Dark Mode";
-        toggleBtn.onclick = function () {
-            const currentTheme = document.documentElement.getAttribute('data-theme');
-            const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
-            document.documentElement.setAttribute('data-theme', newTheme);
-            localStorage.setItem('theme', newTheme);
-            updateToggleButton(toggleBtn);
-        };
-        headerNav.appendChild(toggleBtn);
-        updateToggleButton(toggleBtn);
-    }
-
-    function updateToggleButton(btn) {
-        const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
-        btn.innerHTML = isDark ? '☀️' : '🌙';
-    }
+    // NOTE: window.currentNoteId is declared GLOBALLY above (line ~103), do NOT redeclare here.
 
     // --- Phase 2: Interactions & Autocomplete ---
 
@@ -299,6 +260,79 @@ document.addEventListener('DOMContentLoaded', function () {
     if (document.getElementById('assessmentText')) setupAutocomplete('assessmentText');
     if (document.getElementById('planText')) setupAutocomplete('planText');
 
+    // --- Phase 3: Interactive Body Map ---
+    const bodyMapContainer = document.getElementById('bodyMapContainer');
+    if (bodyMapContainer) {
+        fetch('assets/body-map.svg')
+            .then(response => response.text())
+            .then(svgContent => {
+                bodyMapContainer.innerHTML = svgContent;
+                initBodyMapInteractions();
+            })
+            .catch(err => {
+                console.error("Error loading Body Map SVG:", err);
+                bodyMapContainer.innerHTML = '<div style="color:red; text-align:center; padding:20px;">Error loading map</div>';
+            });
+    }
+
+    function initBodyMapInteractions() {
+        const bodyParts = document.querySelectorAll('.body-part');
+        const transcriptTextarea = document.getElementById('transcript');
+
+        bodyParts.forEach(part => {
+            part.addEventListener('click', function (e) {
+                // Prevent default browser selection
+                e.preventDefault();
+
+                // Toggle selection
+                this.classList.toggle('selected');
+                const isSelected = this.classList.contains('selected');
+                const partName = this.getAttribute('data-name') || this.id;
+
+                if (transcriptTextarea) {
+                    const timestamp = new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+                    const noteText = `Patient reports pain in the ${partName}.`;
+
+                    if (isSelected) {
+                        // Add note
+                        const note = `\n[${timestamp}] ${noteText}`;
+                        transcriptTextarea.value += note;
+
+                        // Flash effect (Add)
+                        transcriptTextarea.style.transition = 'background-color 0.2s';
+                        transcriptTextarea.style.backgroundColor = '#f0f9ff'; // Light blue
+                        setTimeout(() => transcriptTextarea.style.backgroundColor = '', 300);
+                    } else {
+                        // Remove note (Smart Delete) - Line-based approach
+                        const lines = transcriptTextarea.value.split('\n');
+                        let foundIndex = -1;
+
+                        // Search backwards to find the most recent entry for this body part
+                        for (let i = lines.length - 1; i >= 0; i--) {
+                            if (lines[i].includes(noteText)) {
+                                foundIndex = i;
+                                break;
+                            }
+                        }
+
+                        if (foundIndex !== -1) {
+                            // Remove the line
+                            lines.splice(foundIndex, 1);
+                            transcriptTextarea.value = lines.join('\n');
+
+                            // Flash effect (Remove)
+                            transcriptTextarea.style.transition = 'background-color 0.2s';
+                            transcriptTextarea.style.backgroundColor = '#fff1f2'; // Light red
+                            setTimeout(() => transcriptTextarea.style.backgroundColor = '', 300);
+                        }
+                    }
+                    // Auto-scroll to bottom
+                    transcriptTextarea.scrollTop = transcriptTextarea.scrollHeight;
+                }
+            });
+        });
+    }
+
     // --- Page Specific Elements & Logic ---
     const pathname = window.location.pathname;
     const API_BASE_URL = window.APP_CONFIG ? window.APP_CONFIG.API_BASE_URL : "http://127.0.0.1:5000";
@@ -362,6 +396,53 @@ document.addEventListener('DOMContentLoaded', function () {
                     }
                 }
             }
+
+            // --- Dynamic Back Button Handling ---
+            // Ensure this runs after DOM is ready and page is identified
+            setTimeout(() => {
+                function handleBackNavigation(event, targetPage) {
+                    event.preventDefault();
+                    if (window.currentNoteId) {
+                        window.location.href = `${targetPage}?note_id=${window.currentNoteId}`;
+                    } else {
+                        window.location.href = targetPage;
+                    }
+                }
+
+                // Objective Page -> Back to Subjective
+                const backButtonObjective = document.querySelector('a[href="subjective.html"].page-back-button') || document.querySelector('.page-back-button');
+                if (pathname.includes('objective.html') && backButtonObjective) {
+                    backButtonObjective.onclick = null;
+                    backButtonObjective.addEventListener('click', (e) => handleBackNavigation(e, 'subjective.html'));
+                }
+
+                // Assessment Page -> Back to Objective
+                const backButtonAssessment = document.querySelector('a[href="objective.html"].page-back-button') || (pathname.includes('assessment.html') ? document.querySelector('.page-back-button') : null);
+                if (pathname.includes('assessment.html') && backButtonAssessment) {
+                    backButtonAssessment.onclick = null;
+                    backButtonAssessment.addEventListener('click', (e) => handleBackNavigation(e, 'objective.html'));
+                }
+
+                // Plan Page -> Back to Assessment
+                if (pathname.includes('plan.html')) {
+                    const planBackBtn = document.querySelector('.page-back-button');
+                    if (planBackBtn) {
+                        planBackBtn.onclick = null;
+                        planBackBtn.addEventListener('click', (e) => handleBackNavigation(e, 'assessment.html'));
+                    }
+                }
+
+                // Summary Page -> Back to Plan
+                if (pathname.includes('summary.html')) {
+                    const summaryBackBtns = document.querySelectorAll('button');
+                    summaryBackBtns.forEach(btn => {
+                        if (btn.textContent.includes('Back to Plan')) {
+                            btn.onclick = null;
+                            btn.addEventListener('click', (e) => handleBackNavigation(e, 'plan.html'));
+                        }
+                    });
+                }
+            }, 100);
             return data;
         } catch (error) {
             console.error("Error fetching note data:", error);
@@ -377,9 +458,9 @@ document.addEventListener('DOMContentLoaded', function () {
     async function initializeNote() {
         let noteIdFromUrl = getNoteIdFromUrl();
         if (noteIdFromUrl) {
-            currentNoteId = noteIdFromUrl;
-            console.log("Existing note_id from URL:", currentNoteId);
-            await fetchNoteData(currentNoteId);
+            window.currentNoteId = noteIdFromUrl;
+            console.log("Existing note_id from URL:", window.currentNoteId);
+            await fetchNoteData(window.currentNoteId);
         } else {
             if (pathname.includes('subjective.html')) {
                 try {
@@ -389,14 +470,21 @@ document.addEventListener('DOMContentLoaded', function () {
                         throw new Error(errData.error || 'Failed to create note session');
                     }
                     const data = await response.json();
-                    currentNoteId = data.note_id;
-                    console.log("New note session created, ID:", currentNoteId);
-                    const newUrl = `${window.location.pathname}?note_id=${currentNoteId}`;
-                    window.history.replaceState({ path: newUrl }, '', newUrl);
-                    // After creating a new session, data might be empty, so no explicit fetchNoteData here unless needed.
+                    window.currentNoteId = data.note_id;
+                    console.log("New note session created, ID:", window.currentNoteId);
+
+                    // Update URL with the new note_id without reloading
+                    const newUrl = `${window.location.pathname}?note_id=${window.currentNoteId}`;
+                    window.history.pushState({ path: newUrl }, '', newUrl);
+                    console.log("URL updated to:", newUrl);
+
+                    // Enable buttons immediately after successful creation
+                    enableNavigationButtons();
+                    console.log("✅ [INIT] Buttons enabled.");
                 } catch (error) {
                     console.error("Error creating note session:", error);
                     alert(`Could not start a new note session: ${error.message}. Please try again or refresh.`);
+                    // Optionally disable buttons explicitly if init fails, though they start disabled.
                 }
             } else {
                 // For objective, assessment, plan pages, if no note_id, redirect to subjective.
@@ -405,13 +493,22 @@ document.addEventListener('DOMContentLoaded', function () {
                 return;
             }
         }
-        if (currentNoteId) {
+        if (window.currentNoteId) {
             updateBackButtonLinks(); // Ensure back buttons are updated after ID is confirmed/set
+            enableNavigationButtons(); // Enable buttons now that session is ready
         }
     }
 
+    function enableNavigationButtons() {
+        const ids = ['nextButtonSubjective', 'nextButtonObjective', 'nextButtonAssessment', 'summarizeButtonPlan'];
+        ids.forEach(id => {
+            const btn = document.getElementById(id);
+            if (btn) btn.disabled = false;
+        });
+    }
+
     function updateBackButtonLinks() {
-        if (!currentNoteId) return; // Don't update if no ID
+        if (!window.currentNoteId) return; // Don't update if no ID
 
         // For subjective.html, back button is static to index.html, no note_id needed.
         // const backButtonSubjective = document.querySelector('a.page-back-button[href="index.html"]');
@@ -419,19 +516,19 @@ document.addEventListener('DOMContentLoaded', function () {
         // For objective.html
         const backButtonObjective = document.querySelector('a.page-back-button[href^="subjective.html"]'); // Selects if href starts with subjective.html
         if (backButtonObjective && pathname.includes('objective.html')) {
-            backButtonObjective.href = `subjective.html?note_id=${currentNoteId}`;
+            backButtonObjective.href = `subjective.html?note_id=${window.currentNoteId}`;
         }
 
         // For assessment.html
         const backButtonAssessment = document.querySelector('a.page-back-button[href^="objective.html"]');
         if (backButtonAssessment && pathname.includes('assessment.html')) {
-            backButtonAssessment.href = `objective.html?note_id=${currentNoteId}`;
+            backButtonAssessment.href = `objective.html?note_id=${window.currentNoteId}`;
         }
 
         // For plan.html
         const backButtonPlan = document.querySelector('a.page-back-button[href^="assessment.html"]');
         if (backButtonPlan && pathname.includes('plan.html')) {
-            backButtonPlan.href = `assessment.html?note_id=${currentNoteId}`;
+            backButtonPlan.href = `assessment.html?note_id=${window.currentNoteId}`;
         }
     }
 
@@ -767,18 +864,26 @@ document.addEventListener('DOMContentLoaded', function () {
                     event.preventDefault();
                 });
             }
-            nextButtonSubjective.onclick = async function () { // Removed event param as it's not used if not preventing default on <a>
-                if (!currentNoteId) {
+            nextButtonSubjective.onclick = async function () {
+                console.log("🖱️ [CLICK] Next Button clicked. window.currentNoteId:", window.currentNoteId);
+                if (!window.currentNoteId) {
+                    console.error("❌ [ERROR] window.currentNoteId is missing/null inside click handler!");
+                    console.log("Status of nextButtonSubjective (disabled?):", nextButtonSubjective.disabled);
                     alert("Error: Note session not initialized. Please refresh the page.");
                     return;
                 }
+                const transcriptTextarea = document.getElementById('transcript');
                 const subjectiveText = transcriptTextarea ? transcriptTextarea.value : "";
                 const confirmed = await window.dialogManager.confirm("Save Subjective data and proceed to Objective page?", "Save and Continue");
                 if (confirmed) {
+                    const originalText = nextButtonSubjective.textContent;
+                    nextButtonSubjective.innerHTML = '<span>Saving...</span>';
+                    nextButtonSubjective.disabled = true;
+
                     try {
                         const response = await fetch(`${API_BASE_URL}/update_note_subjective`, {
                             method: 'POST', headers: { 'Content-Type': 'application/json' },
-                            body: JSON.stringify({ note_id: currentNoteId, subjective_text: subjectiveText })
+                            body: JSON.stringify({ note_id: window.currentNoteId, subjective_text: subjectiveText })
                         });
                         if (!response.ok) {
                             const errText = await response.text();
@@ -789,12 +894,12 @@ document.addEventListener('DOMContentLoaded', function () {
                                 throw new Error(`Save failed: ${response.status} - ${errText}`);
                             }
                         }
-                        // const result = await response.json(); // Assuming success returns some JSON
-                        // console.log("Subjective save result:", result);
-                        window.location.href = `objective.html?note_id=${currentNoteId}`;
+                        window.location.href = `objective.html?note_id=${window.currentNoteId}`;
                     } catch (error) {
                         console.error("Error saving subjective data:", error);
                         alert(`Error saving subjective data: ${error.message}`);
+                        nextButtonSubjective.innerHTML = originalText;
+                        nextButtonSubjective.disabled = false;
                     }
                 }
             };
@@ -816,10 +921,22 @@ document.addEventListener('DOMContentLoaded', function () {
             nextButtonObjective.onclick = async function () {
                 const objectiveLoadingIndicator = document.getElementById('objectiveLoadingIndicator'); // Get ref
 
-                if (!currentNoteId) { alert("Error: Note ID missing. Please navigate from the start."); return; }
+                const noteId = window.currentNoteId;
+                if (!noteId) {
+                    const msg = "Error: Note ID missing. Please navigate from the start.";
+                    if (window.dialogManager) await window.dialogManager.alert(msg, "Error");
+                    else alert(msg);
+                    return;
+                }
                 const objectiveText = objectiveTextarea ? objectiveTextarea.value : "";
 
-                const confirmed = await window.dialogManager.confirm("Save Objective data and proceed to Assessment page?", "Save and Continue");
+                let confirmed = false;
+                if (window.dialogManager) {
+                    confirmed = await window.dialogManager.confirm("Save Objective data and proceed to Assessment page?", "Save and Continue");
+                } else {
+                    confirmed = confirm("Save Objective data and proceed to Assessment page?");
+                }
+
                 if (confirmed) {
                     if (objectiveLoadingIndicator) objectiveLoadingIndicator.style.display = 'block'; // Show indicator
                     nextButtonObjective.disabled = true; // Disable button
@@ -828,7 +945,7 @@ document.addEventListener('DOMContentLoaded', function () {
                         const response = await fetch(`${API_BASE_URL}/update_note_objective`, { // Changed endpoint
                             method: 'POST', headers: { 'Content-Type': 'application/json' },
                             body: JSON.stringify({
-                                note_id: currentNoteId,
+                                note_id: noteId,
                                 objective_text: objectiveText
                                 // assessment_text: assessmentText // Removed, will be separate
                             })
@@ -839,10 +956,12 @@ document.addEventListener('DOMContentLoaded', function () {
                             catch (e) { throw new Error(`Save failed: ${response.status} - ${errText}`); }
                         }
                         // await response.json();
-                        window.location.href = `assessment.html?note_id=${currentNoteId}`; // Navigate to assessment
+                        window.location.href = `assessment.html?note_id=${noteId}`; // Navigate to assessment
                     } catch (error) {
                         console.error("Error saving objective data:", error);
-                        alert(`Error saving Objective data: ${error.message}`);
+                        if (window.dialogManager) await window.dialogManager.alert(`Error saving Objective data: ${error.message}`, "Error");
+                        else alert(`Error saving Objective data: ${error.message}`);
+
                         if (objectiveLoadingIndicator) objectiveLoadingIndicator.style.display = 'none'; // Hide on error
                         nextButtonObjective.disabled = false; // Re-enable on error
                     }
@@ -903,14 +1022,14 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (generateAssessmentButton && assessmentTextarea) {
             generateAssessmentButton.onclick = async function () {
-                if (!currentNoteId) {
+                if (!window.currentNoteId) {
                     alert("Error: Note ID missing. Please refresh or navigate from the start.");
                     return;
                 }
 
                 // Check S/O data existence (Simplified check)
                 try {
-                    const checkResponse = await fetch(`${API_BASE_URL}/get_note_data/${currentNoteId}`);
+                    const checkResponse = await fetch(`${API_BASE_URL}/get_note_data/${window.currentNoteId}`);
                     if (checkResponse.ok) {
                         const noteData = await checkResponse.json();
                         if (!noteData.subjective_text?.trim() || !noteData.objective_text?.trim()) {
@@ -922,13 +1041,34 @@ document.addEventListener('DOMContentLoaded', function () {
 
                 // UI State
                 const originalText = generateAssessmentButton.textContent;
-                generateAssessmentButton.innerHTML = '<div class="heartbeat-loader" style="width: 24px; height: 24px; transform: scale(0.4); display: inline-block; vertical-align: middle; margin-right: 5px;"><div></div></div> Gener...',
+                generateAssessmentButton.innerHTML = '<div class="button-spinner"></div> Generating...',
                     generateAssessmentButton.disabled = true;
 
                 // Call Streaming Endpoint
-                await streamText(`${API_BASE_URL}/api/stream_assessment/${currentNoteId}`, assessmentTextarea);
+                await streamText(`${API_BASE_URL}/api/stream_assessment/${window.currentNoteId}`, assessmentTextarea);
 
-                // Reset UI
+                // Auto-Save Assessment
+                try {
+                    const saveResponse = await fetch(`${API_BASE_URL}/update_note_assessment`, {
+                        method: 'POST', headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({
+                            note_id: window.currentNoteId,
+                            assessment_text: assessmentTextarea.value
+                        })
+                    });
+                    if (saveResponse.ok) {
+                        generateAssessmentButton.innerHTML = '<span>Saved!</span>';
+                        setTimeout(() => {
+                            generateAssessmentButton.textContent = originalText;
+                            generateAssessmentButton.disabled = false;
+                        }, 2000);
+                        return; // Exit early to avoid immediate reset
+                    }
+                } catch (e) {
+                    console.error("Auto-save failed:", e);
+                }
+
+                // Reset UI (fallback)
                 generateAssessmentButton.textContent = originalText;
                 generateAssessmentButton.disabled = false;
             };
@@ -941,28 +1081,38 @@ document.addEventListener('DOMContentLoaded', function () {
                 });
             }
             nextButtonAssessment.onclick = async function () {
-                if (!currentNoteId) {
-                    alert("Error: Note ID missing. Please navigate from the start.");
+                const noteId = window.currentNoteId;
+                if (!noteId) {
+                    const msg = "Error: Note ID missing. Please navigate from the start.";
+                    if (window.dialogManager) await window.dialogManager.alert(msg, "Error");
+                    else alert(msg);
                     return;
                 }
                 const assessmentText = assessmentTextarea ? assessmentTextarea.value : "";
 
-                const confirmed = await window.dialogManager.confirm("Save Assessment data and proceed to Plan page?", "Save and Continue");
+                let confirmed = false;
+                if (window.dialogManager) {
+                    confirmed = await window.dialogManager.confirm("Save Assessment data and proceed to Plan page?", "Save and Continue");
+                } else {
+                    confirmed = confirm("Save Assessment data and proceed to Plan page?");
+                }
+
                 if (confirmed) {
                     nextButtonAssessment.disabled = true;
                     try {
                         const response = await fetch(`${API_BASE_URL}/update_note_assessment`, {
                             method: 'POST', headers: { 'Content-Type': 'application/json' },
                             body: JSON.stringify({
-                                note_id: currentNoteId,
+                                note_id: noteId,
                                 assessment_text: assessmentText
                             })
                         });
                         if (!response.ok) throw new Error("Save failed");
-                        window.location.href = `plan.html?note_id=${currentNoteId}`;
+                        window.location.href = `plan.html?note_id=${noteId}`;
                     } catch (error) {
                         console.error("Error saving assessment:", error);
-                        alert(`Error saving Assessment data: ${error.message}`);
+                        if (window.dialogManager) await window.dialogManager.alert(`Error saving Assessment data: ${error.message}`, "Error");
+                        else alert(`Error saving Assessment data: ${error.message}`);
                         nextButtonAssessment.disabled = false;
                     }
                 }
@@ -978,18 +1128,39 @@ document.addEventListener('DOMContentLoaded', function () {
 
         if (generatePlanButton && planTextarea) {
             generatePlanButton.onclick = async function () {
-                if (!currentNoteId) {
+                if (!window.currentNoteId) {
                     alert("Error: Note ID missing.");
                     return;
                 }
 
                 // UI State
                 const originalText = generatePlanButton.textContent;
-                generatePlanButton.innerHTML = '<div class="heartbeat-loader" style="width: 24px; height: 24px; transform: scale(0.4); display: inline-block; vertical-align: middle; margin-right: 5px;"><div></div></div> Gener...',
+                generatePlanButton.innerHTML = '<div class="button-spinner"></div> Generating...',
                     generatePlanButton.disabled = true;
 
                 // Call Streaming Endpoint
-                await streamText(`${API_BASE_URL}/api/stream_plan/${currentNoteId}`, planTextarea);
+                await streamText(`${API_BASE_URL}/api/stream_plan/${window.currentNoteId}`, planTextarea);
+
+                // Auto-Save Plan
+                try {
+                    const saveResponse = await fetch(`${API_BASE_URL}/update_note_plan`, {
+                        method: 'POST', headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({
+                            note_id: window.currentNoteId,
+                            plan_text: planTextarea.value
+                        })
+                    });
+                    if (saveResponse.ok) {
+                        generatePlanButton.innerHTML = '<span>Saved!</span>';
+                        setTimeout(() => {
+                            generatePlanButton.textContent = originalText;
+                            generatePlanButton.disabled = false;
+                        }, 2000);
+                        return;
+                    }
+                } catch (e) {
+                    console.error("Auto-save failed:", e);
+                }
 
                 // Reset UI
                 generatePlanButton.textContent = originalText;
@@ -1004,13 +1175,22 @@ document.addEventListener('DOMContentLoaded', function () {
                 });
             }
             summarizeButtonPlan.onclick = async function () {
-                if (!currentNoteId) {
-                    alert("Error: Note ID missing. Please navigate from the start.");
+                const noteId = window.currentNoteId;
+                if (!noteId) {
+                    const msg = "Error: Note ID missing. Please navigate from the start.";
+                    if (window.dialogManager) await window.dialogManager.alert(msg, "Error");
+                    else alert(msg);
                     return;
                 }
                 const planText = planTextarea ? planTextarea.value : "";
 
-                const confirmed = await window.dialogManager.confirm("Save this Plan and proceed to Summary?", "Save and Continue");
+                let confirmed = false;
+                if (window.dialogManager) {
+                    confirmed = await window.dialogManager.confirm("Save this Plan and proceed to Summary?", "Save and Continue");
+                } else {
+                    confirmed = confirm("Save this Plan and proceed to Summary?");
+                }
+
                 if (confirmed) {
                     summarizeButtonPlan.disabled = true;
                     if (generatePlanButton) generatePlanButton.disabled = true;
@@ -1019,7 +1199,7 @@ document.addEventListener('DOMContentLoaded', function () {
                         const response = await fetch(`${API_BASE_URL}/update_note_plan`, {
                             method: 'POST', headers: { 'Content-Type': 'application/json' },
                             body: JSON.stringify({
-                                note_id: currentNoteId,
+                                note_id: noteId,
                                 plan_text: planText
                             })
                         });
@@ -1028,10 +1208,11 @@ document.addEventListener('DOMContentLoaded', function () {
                             throw new Error(`Save failed: ${response.status} - ${errText}`);
                         }
                         console.log("Plan saved. Backend will attempt summary generation if applicable.");
-                        window.location.href = `summary.html?note_id=${currentNoteId}`;
+                        window.location.href = `summary.html?note_id=${noteId}`;
                     } catch (error) {
                         console.error("Error saving plan data:", error);
-                        alert(`Error saving Plan data: ${error.message}`);
+                        if (window.dialogManager) await window.dialogManager.alert(`Error saving Plan data: ${error.message}`, "Error");
+                        else alert(`Error saving Plan data: ${error.message}`);
                         summarizeButtonPlan.disabled = false;
                         if (generatePlanButton) generatePlanButton.disabled = false;
                     }
@@ -1055,15 +1236,15 @@ document.addEventListener('DOMContentLoaded', function () {
                 return;
             }
 
-            // Wait for currentNoteId to be set by initializeNote()
+            // Wait for window.currentNoteId to be set by initializeNote()
             let attempts = 0;
-            while (!currentNoteId && attempts < 10) {
+            while (!window.currentNoteId && attempts < 10) {
                 await new Promise(resolve => setTimeout(resolve, 100));
                 attempts++;
             }
 
-            if (!currentNoteId) {
-                console.log('Auto-generating summary for note ID:', currentNoteId);
+            if (!window.currentNoteId) {
+                console.log('Auto-generating summary for note ID:', window.currentNoteId);
                 await window.dialogManager.alert("Note ID is not available. Please navigate from the Plan page.", "Error");
                 window.location.href = 'plan.html';
                 return;
@@ -1071,7 +1252,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
             // First, check if we have ALL required SOAP data
             try {
-                const checkResponse = await fetch(`${API_BASE_URL}/get_note_data/${currentNoteId}`);
+                const checkResponse = await fetch(`${API_BASE_URL}/get_note_data/${window.currentNoteId}`);
                 if (checkResponse.ok) {
                     const noteData = await checkResponse.json();
                     const hasSubjective = noteData.subjective_text && noteData.subjective_text.trim().length > 0;
@@ -1092,13 +1273,13 @@ document.addEventListener('DOMContentLoaded', function () {
                         if (await window.dialogManager.confirm(message, "Missing Data")) {
                             // Navigate to the first missing section
                             if (!hasSubjective) {
-                                window.location.href = `subjective.html?note_id=${currentNoteId}`;
+                                window.location.href = `subjective.html?note_id=${window.currentNoteId}`;
                             } else if (!hasObjective) {
-                                window.location.href = `objective.html?note_id=${currentNoteId}`;
+                                window.location.href = `objective.html?note_id=${window.currentNoteId}`;
                             } else if (!hasAssessment) {
-                                window.location.href = `assessment.html?note_id=${currentNoteId}`;
+                                window.location.href = `assessment.html?note_id=${window.currentNoteId}`;
                             } else if (!hasPlan) {
-                                window.location.href = `plan.html?note_id=${currentNoteId}`;
+                                window.location.href = `plan.html?note_id=${window.currentNoteId}`;
                             }
                         }
                         return;
@@ -1113,8 +1294,8 @@ document.addEventListener('DOMContentLoaded', function () {
             summaryDisplayArea.style.display = 'none';
 
             try {
-                console.log(`Auto-fetching summary from: http://127.0.0.1:5000/api/generate_summary/${currentNoteId}`);
-                const response = await fetch(`${API_BASE_URL}/api/generate_summary/${currentNoteId}`, {
+                console.log(`Auto-fetching summary from: ${API_BASE_URL}/api/generate_summary/${window.currentNoteId}`);
+                const response = await fetch(`${API_BASE_URL}/api/generate_summary/${window.currentNoteId}`, {
                     method: 'GET',
                     headers: { 'Content-Type': 'application/json' }
                 });
@@ -1151,7 +1332,7 @@ document.addEventListener('DOMContentLoaded', function () {
     // Back button for summary page (if one exists and needs dynamic note_id)
     const backButtonSummary = document.querySelector('a.page-back-button[href^="plan.html"]');
     if (backButtonSummary) {
-        const noteId = getNoteIdFromUrl() || currentNoteId;
+        const noteId = getNoteIdFromUrl() || window.currentNoteId;
         if (noteId) backButtonSummary.href = `plan.html?note_id=${noteId}`;
     }
 });

@@ -4,7 +4,8 @@
   display: flex;
   flex-direction: column;
   flex-grow: 1;
-  min-height: 0; /* Allows proper flex behavior */
+  min-height: 0;
+  /* Allows proper flex behavior */
 }
 
 /* Main content area with proper spacing */
@@ -14,32 +15,36 @@
   flex-direction: column;
   flex-grow: 1;
   padding: var(--dl-layout-space-sixunits) 0;
-  min-height: 0; /* Let parent control height, avoids footer/header overlap */
-  justify-content: center; /* Center vertically */
-  align-items: center; /* Center horizontally */
+  min-height: 0;
+  /* Let parent control height, avoids footer/header overlap */
+  justify-content: center;
+  /* Center vertically */
+  align-items: center;
+  /* Center horizontally */
 }
-  
+
 .summary-card {
   width: 709px;
   max-width: 90%;
   display: flex;
   padding: var(--dl-layout-space-tripleunit);
   z-index: 1;
-  box-shadow: 0 8px 26px -4px hsla(0,0%,8%,.15),0 8px 9px -5px hsla(0,0%,8%,.06)!important;
+  box-shadow: 0 8px 26px -4px hsla(0, 0%, 8%, .15), 0 8px 9px -5px hsla(0, 0%, 8%, .06) !important;
   align-items: flex-start;
   border-radius: var(--dl-layout-radius-radius1);
   animation-name: bounce;
   flex-direction: column;
   animation-delay: 0s;
   backdrop-filter: saturate(200%) blur(30px);
-  background-color: hsla(0,0%,100%,.8);
+  background-color: hsla(0, 0%, 100%, .8);
   animation-duration: 300ms;
   animation-direction: normal;
   animation-iteration-count: 1;
   animation-timing-function: ease;
-  margin: 0 auto; /* Center horizontally */
+  margin: 0 auto;
+  /* Center horizontally */
 }
- 
+
 .summary-main {
   flex: 1 0 auto;
   width: 100%;
@@ -49,20 +54,21 @@
   max-width: 1320px;
   align-items: center;
   justify-content: center;
-  min-height: 0; /* Allows proper flex behavior */
+  min-height: 0;
+  /* Allows proper flex behavior */
 }
 
-/* This holds the actual summary text and button */ 
-.summary-container3 { 
-  width: 100%; 
+/* This holds the actual summary text and button */
+.summary-container3 {
+  width: 100%;
   display: flex;
-  z-index: 2; 
-  align-items: center; 
+  z-index: 2;
+  align-items: center;
   flex-direction: column;
 }
 
-.summary-text10 { 
-  font-size: 2rem; 
+.summary-text10 {
+  font-size: 2rem;
   line-height: 1.2;
   margin-bottom: var(--dl-layout-space-unitandahalfunit);
   background-image: linear-gradient(310deg, rgb(121, 40, 202), rgb(255, 0, 128));
@@ -71,24 +77,26 @@
   text-align: center;
 }
 
-.summary-text11 { 
+.summary-text11 {
   margin-bottom: var(--dl-layout-space-unit);
 }
 
 #summaryDisplayArea {
-    white-space: pre-wrap;
-    background-color: #f8f9fa;
-    border: 1px solid #ced4da;
-    padding: 15px;
-    border-radius: 6px;
-    min-height: 200px;
-    max-height: calc(100vh - 400px); /* Balanced with header/footer */
-    width: 100%;
-    margin: 10px 0;
-    text-align: left;
-    overflow-y: auto;
-    overscroll-behavior: contain;
-    flex: 1 1 auto; /* Allows proper flex behavior */
+  white-space: pre-wrap;
+  background-color: #f8f9fa;
+  border: 1px solid #ced4da;
+  padding: 15px;
+  border-radius: 6px;
+  min-height: 200px;
+  max-height: calc(100vh - 400px);
+  /* Balanced with header/footer */
+  width: 100%;
+  margin: 10px 0;
+  text-align: left;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  flex: 1 1 auto;
+  /* Allows proper flex behavior */
 }
 
 /* Remove indentation from summary content */
@@ -103,7 +111,8 @@
 
 #summaryDisplayArea ul,
 #summaryDisplayArea ol {
-  padding-left: 1em; /* Minimal indentation for list markers */
+  padding-left: 1em;
+  /* Minimal indentation for list markers */
 }
 
 .transcript3-container10 {
@@ -119,89 +128,119 @@
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  justify-content: center; /* Center content vertically */
-  align-items: center; /* Center content horizontally */
+  justify-content: center;
+  /* Center content vertically */
+  align-items: center;
+  /* Center content horizontally */
 }
- 
+
 @media(max-width: 991px) {
   .summary-card {
     width: 90%;
   }
 
   .summary-container3 {
-    width: 100%; 
+    width: 100%;
   }
 }
- 
+
 @media(max-width: 767px) {
   .summary-card {
-    padding: var(--dl-layout-space-doubleunit); 
+    padding: var(--dl-layout-space-doubleunit);
   }
 
   .summary-text10 {
-    font-size: 1.75rem; 
+    font-size: 1.75rem;
   }
 }
- 
+
 @media(max-width: 479px) {
   .summary-card {
-    padding: var(--dl-layout-space-unitandahalfunit); /* Further adjust padding */
+    padding: var(--dl-layout-space-unitandahalfunit);
+    /* Further adjust padding */
   }
-   .summary-text10 {
+
+  .summary-text10 {
     font-size: 1.5rem;
   }
 }
 
 /* Export button container */
-.export-container {
+.summary-button-container {
   width: 100%;
   display: flex;
-  justify-content: flex-end;
-  margin-top: 20px;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  margin-top: 30px;
 }
 
 /* Export button styles */
-.generate-button {
-  background-color: var(--dl-color-primary-500);
+.summary-action-button {
+  background: linear-gradient(90deg, #2152ff 0%, #21d4fd 100%);
   color: white;
   border: none;
-  padding: 10px 20px;
-  border-radius: var(--dl-layout-radius-radius5);
+  padding: 12px 30px;
+  border-radius: 50px;
   cursor: pointer;
   font-weight: 600;
-  transition: background-color 0.3s ease;
+  font-size: 1rem;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 15px rgba(33, 82, 255, 0.3);
 }
 
-.generate-button:hover {
-  background-color: var(--dl-color-primary-700);
+.summary-action-button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(33, 82, 255, 0.4);
+}
+
+.summary-action-button:active {
+  transform: translateY(1px);
+}
+
+/* Export dropdown container */
+.export-dropdown {
+  position: relative;
 }
 
 /* Export dropdown options */
 .export-options {
   display: none;
   position: absolute;
-  right: 0;
   bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
   background-color: white;
-  border-radius: var(--dl-layout-radius-radius5);
-  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-  z-index: 10;
+  min-width: 120px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  z-index: 100;
+  overflow: hidden;
+  margin-bottom: 10px;
+  padding: 5px 0;
 }
 
 .export-dropdown:hover .export-options {
   display: block;
+  animation: fadeIn 0.2s ease-out;
 }
 
 .export-option {
   display: block;
   width: 100%;
-  padding: 8px 16px;
+  padding: 10px 16px;
   background: none;
   border: none;
-  text-align: left;
+  text-align: center;
   cursor: pointer;
+  color: #333;
+  font-weight: 500;
+  transition: background-color 0.2s;
 }
 
 .export-option:hover {
-  background-color: var(--dl-color-gray-900);
+  background-color: #f0f4ff;
+  color: #2152ff;
 }

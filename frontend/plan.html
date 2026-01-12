@@ -155,12 +155,12 @@
         href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap"
         data-tag="font" />
     <link rel="stylesheet" href="https://unpkg.com/@teleporthq/teleport-custom-scripts/dist/style.css" />
-    <link rel="stylesheet" href="/style.css" />
-    <link rel="stylesheet" href="/components.css" />
-    <link rel="stylesheet" href="/page-layout.css" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="components.css" />
+    <link rel="stylesheet" href="page-layout.css" />
     <link rel="stylesheet" href="./plan.css" />
-    <link rel="stylesheet" href="/soap-styles.css" />
-    <link rel="stylesheet" href="/dialog.css" />
+    <link rel="stylesheet" href="soap-styles.css" />
+    <link rel="stylesheet" href="dialog.css" />
     <style>
         html * {
             -webkit-font-smoothing: antialiased;
@@ -316,20 +316,20 @@
                     </form>
                     <div class="transcript3-container12">
                         <div class="transcript3-container13 button-navigation-controls">
-                            <a href="assessment.html" class="page-back-button">
-                                <button class="button ButtonSmall">
-                                    <span>Back</span>
-                                </button>
-                            </a><a href="summary.html" class="plan-summarize-link">
+                            <button class="button ButtonSmall page-back-button"
+                                onclick="window.location.href='assessment.html'">
+                                <span>Back</span>
+                            </button>
+                            <div class="plan-summarize-link"> <!-- Use div instead of a -->
                                 <primary-blue-button-wrapper class="transcript3-component1">
                                     <div class="primary-blue-button-container primary-blue-button">
                                         <button id="summarizeButtonPlan"
-                                            class="primary-blue-button-button button ButtonSmall">
+                                            class="primary-blue-button-button button ButtonSmall" disabled>
                                             <span>Summarize</span>
                                         </button>
                                     </div>
                                 </primary-blue-button-wrapper>
-                            </a>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -389,7 +389,7 @@
                             </svg>
                         </div>
                     </div>
-                    <img alt="image" src="/public/wave-1.svg" class="transcript3-image" />
+                    <img alt="image" src="public/wave-1.svg" class="transcript3-image" />
                     <div class="transcript3-container20">
                     </div>
                 </div>
@@ -423,7 +423,7 @@
                     </div>
                 </div>
             </div>
-            <img alt="image" src="/public/waves-white.svg" class="footer-image" />
+            <img alt="image" src="public/waves-white.svg" class="footer-image" />
         </footer>
     </footer-wrapper>
 
@@ -441,8 +441,8 @@
             </div>
         </div>
     </div>
-    <script src="/config.js"></script>
-    <script src="/script.js"></script>
+    <script src="config.js"></script>
+    <script src="script.js"></script>
 
     <!-- Loading Overlay -->
     <div id="transcriptionOverlay" class="transcription-overlay">

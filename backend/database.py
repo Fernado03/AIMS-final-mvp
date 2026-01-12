@@ -9,11 +9,21 @@ from backend.config import MONGO_URI, DATABASE_NAME
 
 _path = os.path.dirname(os.path.abspath(__file__))
 
+# Global client instance
+_mongo_client = None
+
 def get_db_connection():
-    """Returns a MongoDB database object."""
+    """Returns a MongoDB database object, reusing the client instance."""
+    global _mongo_client
     try:
-        client = MongoClient(MONGO_URI)
-        db = client[DATABASE_NAME]
+        if _mongo_client is None:
+            print("🔌 Establishing new MongoDB connection...")
+            _mongo_client = MongoClient(MONGO_URI)
+        
+        # Check if client is still active (optional: simple check)
+        # In production with meaningful traffic, just returning the client is usually fine.
+        
+        db = _mongo_client[DATABASE_NAME]
         return db
     except Exception as e:
         print(f"Error connecting to MongoDB: {e}")
