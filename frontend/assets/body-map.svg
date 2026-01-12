@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 400" class="body-map-svg">
+  <defs>
+    <style>
+      .body-part { fill: #e5e7eb; stroke: #9ca3af; stroke-width: 1; transition: fill 0.2s; cursor: pointer; }
+      .body-part:hover { fill: #94a3b8; }
+      .body-part.selected { fill: #ef4444; stroke: #b91c1c; }
+    </style>
+  </defs>
+  <!-- Head -->
+  <path id="head" class="body-part" d="M100 20 a20 20 0 0 1 0 40 a20 20 0 0 1 0 -40" data-name="Head"/>
+  
+  <!-- Neck -->
+  <path id="neck" class="body-part" d="M90 60 h20 v10 h-20 z" data-name="Neck"/>
+  
+  <!-- Torso Upper (Chest) -->
+  <path id="chest" class="body-part" d="M70 70 h60 l-10 60 h-40 z" data-name="Chest"/>
+  
+  <!-- Torso Lower (Abdomen) -->
+  <path id="abdomen" class="body-part" d="M80 130 h40 l-5 50 h-30 z" data-name="Abdomen"/>
+  
+  <!-- Arms -->
+  <path id="arm-left" class="body-part" d="M70 70 l-20 10 l-10 60 l10 5 l15 -60 z" data-name="Left Arm"/>
+  <path id="arm-right" class="body-part" d="M130 70 l20 10 l10 60 l-10 5 l-15 -60 z" data-name="Right Arm"/>
+  
+  <!-- Legs -->
+  <path id="leg-left" class="body-part" d="M80 180 h15 l-5 100 h-15 z" data-name="Left Leg"/>
+  <path id="leg-right" class="body-part" d="M105 180 h15 l5 100 h-15 z" data-name="Right Leg"/>
+</svg>

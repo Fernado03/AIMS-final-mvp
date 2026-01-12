@@ -304,43 +304,62 @@
                             <form class="transcript3-form2">
                                 <h1 class="transcript3-text3 HeadingOne" style="text-align: center; margin-bottom: 1rem;">Subjective</h1>
                                 
-                                <!-- Audio Recorder Component with integrated transcript -->
-                                <div class="audio-recorder-container">
-                                  <div class="recording-controls">
-                                    <button id="startButton" class="recording-button record" type="button">Start Recording</button>
-                                    <button id="stopButton" class="recording-button stop" type="button" disabled>Stop Recording</button>
-                                  </div>
-                                  <div id="recordingStatus" class="recording-status"></div>
-                                  <details style="margin-top: 8px;">
-                                    <summary style="font-size: 11px; color: #999; cursor: pointer; user-select: none;">⌨️ Keyboard shortcuts</summary>
-                                    <div style="font-size: 11px; color: #999; margin-top: 5px; padding-left: 10px;">
-                                      <kbd>Ctrl+R</kbd> Start • <kbd>Ctrl+S</kbd> Stop
+                                <!-- Layout: Left (Recorder/Transcript) | Right (Body Map) -->
+                                <div class="subjective-layout" style="display: flex; gap: 30px; flex-wrap: wrap; justify-content: center;">
+                                    
+                                    <!-- Left Column -->
+                                    <div class="subjective-left" style="flex: 1; min-width: 300px; max-width: 600px;">
+                                        <div class="audio-recorder-container">
+                                          <div class="recording-controls">
+                                            <button id="startButton" class="recording-button record" type="button">Start Recording</button>
+                                            <button id="stopButton" class="recording-button stop" type="button" disabled>Stop Recording</button>
+                                          </div>
+                                          <div id="recordingStatus" class="recording-status"></div>
+                                          <details style="margin-top: 8px;">
+                                            <summary style="font-size: 11px; color: #999; cursor: pointer; user-select: none;">⌨️ Keyboard shortcuts</summary>
+                                            <div style="font-size: 11px; color: #999; margin-top: 5px; padding-left: 10px;">
+                                              <kbd>Ctrl+R</kbd> Start • <kbd>Ctrl+S</kbd> Stop
+                                            </div>
+                                          </details>
+                                          
+                                          <div style="margin: 20px 0; border-top: 2px solid #e0e0e0; position: relative;">
+                                            <span style="position: absolute; top: -12px; left: 50%; transform: translateX(-50%); background: white; padding: 0 10px; color: #999; font-size: 12px; font-weight: 500;">OR</span>
+                                          </div>
+                                          
+                                          <div class="file-upload-container" style="margin-bottom: 15px;">
+                                            <label for="audioFile" style="font-weight: 600; margin-bottom: 8px; display: block;">Upload Audio File:</label>
+                                            <div style="display: flex; gap: 10px; align-items: center;">
+                                              <input type="file" id="audioFile" name="audioFile" accept=".mp3,.wav,.m4a,.webm,.ogg" style="flex: 1; padding: 8px; border: 1px solid #ccc; border-radius: 4px;">
+                                              <button id="transcribeFileButton" class="recording-button" type="button" style="display: none; white-space: nowrap;">Transcribe File</button>
+                                            </div>
+                                          </div>
+                                          <div class="transcript-container">
+                                            <h3>Audio Transcript</h3>
+                                            <textarea
+                                                id="transcript"
+                                                name="transcript"
+                                                placeholder="Transcription will appear here after recording..."
+                                                rows="10"
+                                            ></textarea>
+                                          </div>
+                                        </div>
                                     </div>
-                                  </details>
-                                  
-                                  <!-- Visual Divider -->
-                                  <div style="margin: 20px 0; border-top: 2px solid #e0e0e0; position: relative;">
-                                    <span style="position: absolute; top: -12px; left: 50%; transform: translateX(-50%); background: white; padding: 0 10px; color: #999; font-size: 12px; font-weight: 500;">OR</span>
-                                  </div>
-                                  
-                                  <!-- File upload section with inline button -->
-                                  <div class="file-upload-container" style="margin-bottom: 15px;">
-                                    <label for="audioFile" style="font-weight: 600; margin-bottom: 8px; display: block;">Upload Audio File:</label>
-                                    <div style="display: flex; gap: 10px; align-items: center;">
-                                      <input type="file" id="audioFile" name="audioFile" accept=".mp3,.wav,.m4a,.webm,.ogg" style="flex: 1; padding: 8px; border: 1px solid #ccc; border-radius: 4px;">
-                                      <button id="transcribeFileButton" class="recording-button" type="button" style="display: none; white-space: nowrap;">Transcribe File</button>
+
+                                    <!-- Right Column: Body Map -->
+                                    <div class="subjective-right" style="flex: 0 0 220px; display: flex; flex-direction: column; align-items: center;">
+                                        <div class="body-map-panel" style="position: sticky; top: 20px; background: white; padding: 15px; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); border: 1px solid #f0f0f0;">
+                                            <h3 style="margin-bottom: 5px; font-weight: 600; font-size: 1rem; color: #334155;">Interactive Body Map</h3>
+                                            <p style="font-size: 0.75rem; color: #64748b; margin-bottom: 15px; text-align: center;">Click to log pain location</p>
+                                            
+                                            <div id="bodyMapContainer" style="width: 200px; height: 380px; position: relative;">
+                                                <!-- SVG will be injected here by script.js -->
+                                                <div style="display: flex; align-items: center; justify-content: center; height: 100%; color: #cbd5e1;">
+                                                    Loading Map...
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
-                                  </div>
-                                  <div class="transcript-container">
-                                    <h3>Audio Transcript</h3>
-                                    <textarea
-                                        id="transcript"
-                                        name="transcript"
-                                        placeholder="Transcription will appear here after recording..."
-                                        rows="10"
-                                    ></textarea>
-                                  </div>
-                                  <!-- Removed separate save button div -->
+                                    
                                 </div>
                             </form>
                             <div class="transcript3-container12">
