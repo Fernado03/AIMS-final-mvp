@@ -1,22 +1,7 @@
-# Web Framework
 Flask
-Flask-Cors
-
-# Speech-to-Text (OpenAI Whisper)
 openai-whisper
-librosa  # For audio duration detection
-
-
-# AI/ML for LLM and RAG
 openai
 numpy
 sentence-transformers
-einops
-
-# Database
 pymongo
-dnspython
-
-# Configuration and utilities
 python-dotenv
-gunicorn

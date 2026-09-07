@@ -1,51 +1,18 @@
-# app.py
-
-from flask import Flask, request, jsonify, send_from_directory, render_template
-from flask_cors import CORS
+from flask import Flask, send_from_directory
 import os
-import sys
-import traceback
-from dotenv import load_dotenv
-
-# Import your database and route modules
-load_dotenv()
 from backend.database import init_db
 from backend.routes.note_routes import note_bp
 
-app = Flask(__name__,
-    static_folder=os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'frontend')),
-    static_url_path='/',
-    template_folder=os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'frontend')))
-CORS(app) # Enable CORS for your Flask app
-
-# Register blueprints
+_front = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "frontend"))
+app = Flask(__name__, static_folder=_front, static_url_path="/")
 app.register_blueprint(note_bp)
 
-@app.route('/')
+
+@app.route("/")
 def index():
-    return render_template('index.html')
-
-@app.route('/subjective')
-def subjective():
-    return render_template('subjective.html')
-
-@app.route('/objective')
-def objective():
-    return render_template('objective.html')
-
-@app.route('/assessment')
-def assessment():
-    return render_template('assessment.html')
-
-@app.route('/plan')
-def plan():
-    return render_template('plan.html')
-
-@app.route('/summary')
-def summary():
-    return render_template('summary.html')
+    return send_from_directory(_front, "index.html")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     init_db()
-    app.run(debug=True, use_reloader=False, host='0.0.0.0', port=5000)
+    app.run(debug=True, use_reloader=False, host="0.0.0.0", port=5000)

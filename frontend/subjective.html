@@ -144,17 +144,14 @@
             fill: var(--dl-color-secondary-400);
         }
     </style>
-    <link rel="stylesheet" href="https://unpkg.com/animate.css@4.1.1/animate.css" />
-    <link rel="stylesheet"
+<link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap"
         data-tag="font" />
-    <link rel="stylesheet" href="https://unpkg.com/@teleporthq/teleport-custom-scripts/dist/style.css" />
-    <link rel="stylesheet" href="style.css" />
+<link rel="stylesheet" href="style.css" />
     <link rel="stylesheet" href="components.css" />
     <link rel="stylesheet" href="page-layout.css" />
     <link rel="stylesheet" href="soap-styles.css" />
-    <link rel="stylesheet" href="dialog.css" />
-    <style>
+<style>
         html * {
             -webkit-font-smoothing: antialiased;
         }
@@ -606,207 +603,9 @@
             </footer-wrapper>
         </div>
     </div>
-
-    <!-- Custom Dialog Box -->
-    <div id="customDialog" class="custom-dialog-overlay">
-        <div class="custom-dialog">
-            <div class="custom-dialog-header">
-                <h3 id="dialogTitle">Confirmation</h3>
-            </div>
-            <div class="custom-dialog-content">
-                <p id="dialogMessage">Are you sure?</p>
-            </div>
-            <div class="custom-dialog-footer">
-                <button id="dialogCancelBtn" class="dialog-button cancel-button">Cancel</button>
-                <button id="dialogOkBtn" class="dialog-button confirm-button">OK</button>
-            </div>
-        </div>
-    </div>
-
-    <!-- Link to your script.js file -->
-    <script src="config.js"></script>
-    <script src="script.js"></script>
-
-    <!-- Custom Dialog JavaScript -->
-    <script>
-        // Initialize the dialog functionality after the page is loaded
-        document.addEventListener('DOMContentLoaded', function () {
-            // Create dialog manager object
-            const dialogManager = {
-                overlay: document.getElementById('customDialog'),
-                title: document.getElementById('dialogTitle'),
-                message: document.getElementById('dialogMessage'),
-                okBtn: document.getElementById('dialogOkBtn'),
-                cancelBtn: document.getElementById('dialogCancelBtn'),
-                isOpen: false,
-
-                // Show a confirmation dialog
-                confirm: function (message, title = "Confirmation") {
-                    return new Promise((resolve) => {
-                        this.title.textContent = title;
-                        this.message.textContent = message;
-
-                        // Show cancel button
-                        this.cancelBtn.style.display = 'block';
-
-                        // Set up button handlers
-                        const handleOk = () => {
-                            this.close();
-                            this.okBtn.removeEventListener('click', handleOk);
-                            resolve(true);
-                        };
-
-                        const handleCancel = () => {
-                            this.close();
-                            this.cancelBtn.removeEventListener('click', handleCancel);
-                            resolve(false);
-                        };
-
-                        // Remove existing listeners and add new ones
-                        this.okBtn.replaceWith(this.okBtn.cloneNode(true));
-                        this.cancelBtn.replaceWith(this.cancelBtn.cloneNode(true));
-
-                        this.okBtn = document.getElementById('dialogOkBtn');
-                        this.cancelBtn = document.getElementById('dialogCancelBtn');
-
-                        this.okBtn.addEventListener('click', handleOk);
-                        this.cancelBtn.addEventListener('click', handleCancel);
-
-                        this.open();
-                    });
-                },
-
-                // Show an alert dialog
-                alert: function (message, title = "Alert") {
-                    return new Promise((resolve) => {
-                        this.title.textContent = title;
-                        this.message.textContent = message;
-
-                        // Hide cancel button for alerts
-                        this.cancelBtn.style.display = 'none';
-
-                        // Set up button handler
-                        const handleOk = () => {
-                            this.close();
-                            this.okBtn.removeEventListener('click', handleOk);
-                            resolve(true);
-                        };
-
-                        // Remove existing listener and add new one
-                        this.okBtn.replaceWith(this.okBtn.cloneNode(true));
-                        this.okBtn = document.getElementById('dialogOkBtn');
-                        this.okBtn.addEventListener('click', handleOk);
-
-                        this.open();
-                    });
-                },
-
-                // Open the dialog
-                open: function () {
-                    this.overlay.style.display = 'flex';
-                    this.isOpen = true;
-                },
-
-                // Close the dialog
-                close: function () {
-                    this.overlay.style.display = 'none';
-                    this.isOpen = false;
-                }
-            };
-
-            // Close dialog when clicking outside
-            dialogManager.overlay.addEventListener('click', function (e) {
-                if (e.target === dialogManager.overlay) {
-                    dialogManager.close();
-                }
-            });
-
-            // Close dialog with Escape key
-            document.addEventListener('keydown', function (e) {
-                if (e.key === 'Escape' && dialogManager.isOpen) {
-                    dialogManager.close();
-                }
-            });
-
-            // Make dialog accessible globally
-            window.dialogManager = dialogManager;
-
-            // Update the Next button to use the custom dialog
-            const nextButtonSubjective = null; // DISABLED: Logic moved to script.js
-            if (nextButtonSubjective) {
-                // Remove any existing click event listeners
-                const newBtn = nextButtonSubjective.cloneNode(true);
-                nextButtonSubjective.parentNode.replaceChild(newBtn, nextButtonSubjective);
-
-                // Add the new click event with custom dialog
-                newBtn.addEventListener('click', async function (event) {
-                    // If button is inside an <a> tag, prevent default navigation
-                    if (newBtn.closest('a')) {
-                        event.preventDefault();
-                    }
-
-                    // Get the note ID from URL or global state
-                    const urlParams = new URLSearchParams(window.location.search);
-                    const currentNoteId = urlParams.get('note_id') || window.currentNoteId;
-
-                    const transcriptTextarea = document.getElementById('transcript');
-                    const API_BASE_URL = window.APP_CONFIG ? window.APP_CONFIG.API_BASE_URL : "http://127.0.0.1:5000";
-
-                    if (!currentNoteId) {
-                        const msg = "Error: Note session not initialized. Please refresh the page.";
-                        if (window.dialogManager) {
-                            await window.dialogManager.alert(msg, "Error");
-                        } else {
-                            alert(msg);
-                        }
-                        return;
-                    }
-
-                    const subjectiveText = transcriptTextarea ? transcriptTextarea.value : "";
-
-                    // Use custom confirm instead of window.confirm
-                    let confirmed = false;
-                    if (window.dialogManager) {
-                        confirmed = await window.dialogManager.confirm("Save Subjective data and proceed to Objective page?", "Save and Continue");
-                    } else {
-                        confirmed = confirm("Save Subjective data and proceed to Objective page?");
-                    }
-
-                    if (confirmed) {
-                        try {
-                            const response = await fetch(`${API_BASE_URL}/update_note_subjective`, {
-                                method: 'POST',
-                                headers: { 'Content-Type': 'application/json' },
-                                body: JSON.stringify({ note_id: currentNoteId, subjective_text: subjectiveText })
-                            });
-
-                            if (!response.ok) {
-                                const errText = await response.text();
-                                try {
-                                    const err = JSON.parse(errText);
-                                    throw new Error(err.error || `Save failed: ${response.status}`);
-                                } catch (e) {
-                                    throw new Error(`Save failed: ${response.status} - ${errText}`);
-                                }
-                            }
-
-                            window.location.href = `objective.html?note_id=${currentNoteId}`;
-                        } catch (error) {
-                            console.error("Error saving subjective data:", error);
-                            const errMsg = `Error saving subjective data: ${error.message}`;
-                            if (window.dialogManager) {
-                                await window.dialogManager.alert(errMsg, "Error");
-                            } else {
-                                alert(errMsg);
-                            }
-                        }
-                    }
-                });
-            }
-        });
-    </script>
-
-    <!-- Transcription Loading Overlay - Positioned at body level for full-screen coverage -->
+<!-- Link to your script.js file -->
+<script src="script.js"></script>
+<!-- Transcription Loading Overlay - Positioned at body level for full-screen coverage -->
     <div id="transcriptionOverlay" class="transcription-overlay">
         <div class="transcription-loader">
             <div class="transcription-spinner"></div>
@@ -815,8 +614,6 @@
             <p class="progress-text">Please wait, this may take a moment</p>
         </div>
     </div>
-
-    <script defer="" src="https://unpkg.com/@teleporthq/teleport-custom-scripts"></script>
 </body>
 
 </html>

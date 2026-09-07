@@ -1,12 +1,17 @@
 import json
 import os
 import logging
-from typing import List, Dict, Optional
+import traceback
+from typing import List, Dict
 import numpy as np
 from sentence_transformers import SentenceTransformer, CrossEncoder
 
 EMBED_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 CACHE_NAME = "minilm_l6_v2_embeddings.npz"
+CORPUS_PATH = "backend/rag/corpus/clinical_practical_guide/"
+
+_rag = None
+_tried = False
 
 
 class RAGService:
@@ -29,9 +34,7 @@ class RAGService:
         return os.path.join(self.corpus_dir, CACHE_NAME)
 
     def load_documents(self) -> None:
-        texts: List[str] = []
-        sources: List[str] = []
-        titles: List[str] = []
+        texts, sources, titles = [], [], []
         if not os.path.exists(self.corpus_dir):
             logging.warning(f"Corpus directory not found: {self.corpus_dir}")
             return
@@ -78,8 +81,37 @@ class RAGService:
             results.sort(key=lambda x: x["rerank_score"], reverse=True)
         return results[:top_k]
 
-    def get_document_by_text(self, text: str) -> Optional[Dict]:
-        for doc in self.documents:
-            if doc.get("text") == text:
-                return doc
-        return None
+    def get_clinical_guidelines_context(self, query_text: str, top_k: int = 3):
+        if not query_text:
+            return "", []
+        try:
+            docs = self.retrieve_relevant_documents(query_text, top_k)
+            if not docs:
+                return "", []
+            context = "\n\nRelevant Clinical Guidelines:\n---\n" + "\n".join(
+                f"- {doc['text'][:400]} (Source: {doc.get('title') or doc['source']}, Score: {doc['similarity_score']:.2f})"
+                for doc in docs
+            )
+            cites = list(dict.fromkeys(
+                (doc.get("title") or doc.get("source") or "CPG").replace(" cleaned ultra minimal", "").strip()
+                for doc in docs
+            ))
+            return context + "\n\n", cites
+        except Exception as e:
+            print(f"⚠️ Error retrieving clinical guidelines: {e}\n{traceback.format_exc()}")
+            return "", []
+
+
+def get_clinical_guidelines_context(query_text: str, top_k: int = 3):
+    global _rag, _tried
+    if not _tried:
+        _tried = True
+        try:
+            _rag = RAGService(CORPUS_PATH)
+            print("✅ Knowledge Base service initialized successfully")
+        except Exception as e:
+            print(f"⚠️ Failed to initialize Knowledge Base service: {e}\n{traceback.format_exc()}")
+            _rag = None
+    if not _rag:
+        return "", []
+    return _rag.get_clinical_guidelines_context(query_text, top_k)

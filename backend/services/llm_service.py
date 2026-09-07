@@ -1,20 +1,110 @@
-# services/llm_service.py
-
 import traceback
 from openai import OpenAI
 from backend.config import LLM_API_KEY, LLM_BASE_URL, LLM_MODEL
-from backend.rag.knowledge_base_service import KnowledgeBaseService
-from backend.rag.prompt_service import get_assessment_prompt, get_plan_prompt, get_summary_prompt
+from backend.rag.rag_service import get_clinical_guidelines_context
 
 llm_client = None
-kb_service = KnowledgeBaseService()
-
 try:
     llm_client = OpenAI(api_key=LLM_API_KEY, base_url=LLM_BASE_URL, timeout=120)
     print(f"✅ LLM initialized: {LLM_MODEL} @ {LLM_BASE_URL}")
 except Exception as e:
     print(f"⚠️ Error initializing LLM: {e}\n{traceback.format_exc()}")
-    llm_client = None
+
+
+def _cite_block(cites):
+    if not cites:
+        return ""
+    return "\n\nSources:\n" + "\n".join(f"- {c}" for c in cites)
+
+
+def _cite(text, cites):
+    extra = _cite_block(cites)
+    return (text.rstrip() + extra) if text and extra else text
+
+
+def _assessment_prompt(s, o, rag):
+    return (
+        "You are an AI medical assistant. Your task is to generate the ASSESSMENT section of a medical SOAP note.\n"
+        f"{rag}\n"
+        "Use the provided Subjective and Objective information to create a concise and clinically relevant Assessment.\n"
+        "The Assessment section must follow this format exactly: \n"
+        "ASSESSMENT\n\n"
+        "Diagnosis / Impression:\n"
+        "- {Summarize the patient's condition(s) as concluded from the subjective and objective data}\n"
+        "- Include both primary and secondary diagnoses using bullet points\n"
+        "- Keep each diagnosis concise (1-2 lines maximum)\n\n"
+        "Differential Diagnosis (DDx):\n"
+        "1. If no definitive diagnosis, list possible diagnoses in order of likelihood\n"
+        "2. Include brief rationale for each (1 sentence)\n"
+        "3. Limit to 3-5 most likely diagnoses\n"
+        "SUBJECTIVE:\n"
+        f"{s}\n"
+        "OBJECTIVE:\n"
+        f"{o}\n"
+        "Generate only the Assessment section. Do not include any additional headings or text before 'Diagnosis / Impression:'."
+    )
+
+
+def _plan_prompt(s, o, a, rag):
+    return (
+        "You are an AI medical assistant. Based on the provided Subjective, Objective, and Assessment sections of a SOAP note, generate the PLAN section.\n"
+        f"{rag}\n"
+        "The Plan section must include the following items in order: Diagnostics / Tests Ordered; Medications / Therapy; Referrals / Consults; Patient Education and Counseling; Follow-Up Instructions.\n"
+        "Use this exact format: \n"
+        "PLAN\n\n"
+        "Diagnostics / Tests Ordered:\n"
+        "1. [List each test on a new numbered line]\n"
+        "2. Include brief rationale for each test (1 sentence)\n"
+        "3. Group related tests together\n\n"
+        "Medications / Therapy:\n"
+        "- [List each medication/therapy on a new bullet point]\n"
+        "- Include: name, dose, frequency, duration\n"
+        "- Highlight any changes to existing medications\n\n"
+        "Referrals / Consults:\n"
+        "- [List each referral on a new bullet point]\n"
+        "- Include: specialty, urgency, reason\n\n"
+        "Patient Education and Counseling:\n"
+        "- [List key education points as bullet points]\n"
+        "- Keep each point concise (1 sentence)\n"
+        "- Focus on actionable items\n\n"
+        "Follow-Up Instructions:\n"
+        "1. Specify exact timing for follow-up\n"
+        "2. Include clear return instructions if symptoms worsen\n"
+        "3. Provide contact method for questions\n"
+        "SUBJECTIVE:\n"
+        f"{s}\n"
+        "OBJECTIVE:\n"
+        f"{o}\n"
+        "ASSESSMENT:\n"
+        f"{a}\n"
+        "Generate only the Plan section. Do not include any other headings or notes."
+    )
+
+
+def _summary_prompt(s, o, a, p, rag):
+    return (
+        "You are an AI medical assistant. Based on the complete SOAP note below (Subjective, Objective, Assessment, and Plan), generate a structured clinical summary.\n"
+        f"{rag}\n"
+        "Use this exact format with bullet points for clarity:\n"
+        "SUMMARY\n\n"
+        "Key Findings:\n"
+        "- [List 2-3 most important subjective/objective findings]\n\n"
+        "Clinical Assessment:\n"
+        "- [State primary diagnosis or working diagnosis]\n"
+        "- [Note any critical differentials if applicable]\n\n"
+        "Management Plan:\n"
+        "- [Highlight 2-3 most important plan items]\n"
+        "- [Note any urgent actions needed]\n"
+        "SUBJECTIVE:\n"
+        f"{s}\n"
+        "OBJECTIVE:\n"
+        f"{o}\n"
+        "ASSESSMENT:\n"
+        f"{a}\n"
+        "PLAN:\n"
+        f"{p}\n"
+        "Generate only the clinical summary. Do not repeat headings or templates."
+    )
 
 
 def _complete(prompt):
@@ -37,125 +127,45 @@ def _stream(prompt):
             yield delta
 
 
-def _cite(text, cites):
-    if not text or not cites:
-        return text
-    return text.rstrip() + "\n\nSources:\n" + "\n".join(f"- {c}" for c in cites)
-
-
-def _cite_block(cites):
-    if not cites:
-        return ""
-    return "\n\nSources:\n" + "\n".join(f"- {c}" for c in cites)
-
-def generate_assessment_from_notes(subjective_text, objective_text):
+def _stream_with_cites(prompt, cites, label):
     if not llm_client:
-        print("⚠️ LLM not available. Skipping assessment generation.")
-        return None
-
-    rag_context, cites = kb_service.get_clinical_guidelines_context(f"Subjective: {subjective_text}\nObjective: {objective_text}")
-    prompt = get_assessment_prompt(subjective_text, objective_text, rag_context)
+        yield "Error: LLM not available."
+        return
     try:
-        print(f"🧠 Generating assessment for S: '{subjective_text[:100]}...', O: '{objective_text[:100]}...'")
-        generated_text = _complete(prompt)
-        print(f"✅ LLM generated assessment: {generated_text[:200]}...")
-        if "Diagnosis / Impression:" in generated_text or "Differential Diagnosis (DDx):" in generated_text:
-            return _cite(generated_text, cites)
-        print(f"⚠️ LLM response did not seem to contain a valid assessment structure: {generated_text[:200]}...")
-        return None
+        print(f"🧠 STREAMING {label}...")
+        yield from _stream(prompt)
+        extra = _cite_block(cites)
+        if extra:
+            yield extra
     except Exception as e:
-        print(f"🚨 Error calling LLM or processing response: {e}\n{traceback.format_exc()}")
-        return None
+        print(f"🚨 Error streaming {label}: {e}")
+        yield f"Error generating {label}: {str(e)}"
 
 
-def generate_plan_from_soap_notes(subjective_text, objective_text, assessment_text):
-    if not llm_client:
-        print("⚠️ LLM not available for plan generation.")
-        return None
+def stream_assessment_from_notes(subjective_text, objective_text):
+    rag, cites = get_clinical_guidelines_context(f"Subjective: {subjective_text}\nObjective: {objective_text}")
+    yield from _stream_with_cites(_assessment_prompt(subjective_text, objective_text, rag), cites, "assessment")
 
-    rag_context, cites = kb_service.get_clinical_guidelines_context(f"Subjective: {subjective_text}\nObjective: {objective_text}\nAssessment: {assessment_text}")
-    full_prompt = get_plan_prompt(subjective_text, objective_text, assessment_text, rag_context)
-    try:
-        print("🤖 Sending prompt to LLM for PLAN generation...")
-        generated_plan = _complete(full_prompt)
-        if "PLAN" not in generated_plan.upper() and not any(
-            kw in generated_plan.upper()
-            for kw in ["DIAGNOSTICS", "MEDICATIONS", "THERAPY", "REFERRALS", "EDUCATION", "FOLLOW-UP"]
-        ):
-            print(f"⚠️ LLM response might not be a valid plan: {generated_plan[:200]}...")
-        print(f"✅ LLM generated plan: {generated_plan[:200]}...")
-        return _cite(generated_plan, cites)
-    except Exception as e:
-        print(f"Error calling LLM for plan generation: {e}\n{traceback.format_exc()}")
-        return None
+
+def stream_plan_from_soap_notes(subjective_text, objective_text, assessment_text):
+    rag, cites = get_clinical_guidelines_context(
+        f"Subjective: {subjective_text}\nObjective: {objective_text}\nAssessment: {assessment_text}"
+    )
+    yield from _stream_with_cites(_plan_prompt(subjective_text, objective_text, assessment_text, rag), cites, "plan")
 
 
 def generate_summary_from_soap_note(subjective_text, objective_text, assessment_text, plan_text):
     if not llm_client:
         print("LLM not available for summary generation.")
         return None
-
-    rag_context, cites = kb_service.get_clinical_guidelines_context(f"Subjective: {subjective_text}\nObjective: {objective_text}\nAssessment: {assessment_text}\nPlan: {plan_text}")
-    prompt = get_summary_prompt(subjective_text, objective_text, assessment_text, plan_text, rag_context)
+    rag, cites = get_clinical_guidelines_context(
+        f"Subjective: {subjective_text}\nObjective: {objective_text}\nAssessment: {assessment_text}\nPlan: {plan_text}"
+    )
     try:
         print("🤖 Sending prompt to LLM for SUMMARY generation...")
-        generated_summary = _complete(prompt)
-        print(f"✅ LLM generated summary: {generated_summary[:200]}...")
-        return _cite(generated_summary, cites)
+        text = _complete(_summary_prompt(subjective_text, objective_text, assessment_text, plan_text, rag))
+        print(f"✅ LLM generated summary: {text[:200]}...")
+        return _cite(text, cites)
     except Exception as e:
         print(f"Error calling LLM for summary generation: {e}\n{traceback.format_exc()}")
         return None
-
-
-def stream_assessment_from_notes(subjective_text, objective_text):
-    if not llm_client:
-        yield "Error: LLM not available."
-        return
-
-    rag_context, cites = kb_service.get_clinical_guidelines_context(f"Subjective: {subjective_text}\nObjective: {objective_text}")
-    prompt = get_assessment_prompt(subjective_text, objective_text, rag_context)
-    try:
-        print("🧠 STREAMING assessment...")
-        yield from _stream(prompt)
-        extra = _cite_block(cites)
-        if extra:
-            yield extra
-    except Exception as e:
-        print(f"🚨 Error streaming assessment: {e}")
-        yield f"Error generating assessment: {str(e)}"
-
-
-def stream_plan_from_soap_notes(subjective_text, objective_text, assessment_text):
-    if not llm_client:
-        yield "Error: LLM not available."
-        return
-
-    rag_context, cites = kb_service.get_clinical_guidelines_context(f"Subjective: {subjective_text}\nObjective: {objective_text}\nAssessment: {assessment_text}")
-    full_prompt = get_plan_prompt(subjective_text, objective_text, assessment_text, rag_context)
-    try:
-        print("🤖 STREAMING plan...")
-        yield from _stream(full_prompt)
-        extra = _cite_block(cites)
-        if extra:
-            yield extra
-    except Exception as e:
-        print(f"🚨 Error streaming plan: {e}")
-        yield f"Error generating plan: {str(e)}"
-
-
-def stream_summary_from_soap_note(subjective_text, objective_text, assessment_text, plan_text):
-    if not llm_client:
-        yield "Error: LLM not available."
-        return
-
-    rag_context, cites = kb_service.get_clinical_guidelines_context(f"Subjective: {subjective_text}\nObjective: {objective_text}\nAssessment: {assessment_text}\nPlan: {plan_text}")
-    prompt = get_summary_prompt(subjective_text, objective_text, assessment_text, plan_text, rag_context)
-    try:
-        print("🤖 STREAMING summary...")
-        yield from _stream(prompt)
-        extra = _cite_block(cites)
-        if extra:
-            yield extra
-    except Exception as e:
-        print(f"🚨 Error streaming summary: {e}")
-        yield f"Error generating summary: {str(e)}"

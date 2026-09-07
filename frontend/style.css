@@ -43,11 +43,6 @@
   --dl-layout-space-triplequarterunit: 0.75rem;
 }
  
-.teleport-show {
-  display: flex !important;
-  transform: none !important;
-}
- 
 .button {
   color: var(--dl-color-secondary-400);
   display: inline-block;

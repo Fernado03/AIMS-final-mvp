@@ -1,104 +1,5 @@
-// Dialog Manager - Global for all pages
-const dialogManager = {
-    overlay: document.getElementById('customDialog'),
-    title: document.getElementById('dialogTitle'),
-    message: document.getElementById('dialogMessage'),
-    okBtn: document.getElementById('dialogOkBtn'),
-    cancelBtn: document.getElementById('dialogCancelBtn'),
-    isOpen: false,
+const API_BASE_URL = "";
 
-    // Show a confirmation dialog
-    confirm: function (message, title = "Confirmation") {
-        return new Promise((resolve) => {
-            this.title.textContent = title;
-            this.message.textContent = message;
-
-            // Show cancel button
-            this.cancelBtn.style.display = 'block';
-
-            // Set up button handlers
-            const handleOk = () => {
-                this.close();
-                this.okBtn.removeEventListener('click', handleOk);
-                resolve(true);
-            };
-
-            const handleCancel = () => {
-                this.close();
-                this.cancelBtn.removeEventListener('click', handleCancel);
-                resolve(false);
-            };
-
-            // Remove existing listeners and add new ones
-            this.okBtn.replaceWith(this.okBtn.cloneNode(true));
-            this.cancelBtn.replaceWith(this.cancelBtn.cloneNode(true));
-
-            this.okBtn = document.getElementById('dialogOkBtn');
-            this.cancelBtn = document.getElementById('dialogCancelBtn');
-
-            this.okBtn.addEventListener('click', handleOk);
-            this.cancelBtn.addEventListener('click', handleCancel);
-
-            this.open();
-        });
-    },
-
-    // Show an alert dialog
-    alert: function (message, title = "Alert") {
-        return new Promise((resolve) => {
-            this.title.textContent = title;
-            this.message.textContent = message;
-
-            // Hide cancel button for alerts
-            this.cancelBtn.style.display = 'none';
-
-            // Set up button handler
-            const handleOk = () => {
-                this.close();
-                this.okBtn.removeEventListener('click', handleOk);
-                resolve(true);
-            };
-
-            // Remove existing listener and add new one
-            this.okBtn.replaceWith(this.okBtn.cloneNode(true));
-            this.okBtn = document.getElementById('dialogOkBtn');
-            this.okBtn.addEventListener('click', handleOk);
-
-            this.open();
-        });
-    },
-
-    // Open the dialog
-    open: function () {
-        this.overlay.style.display = 'flex';
-        this.isOpen = true;
-    },
-
-    // Close the dialog
-    close: function () {
-        this.overlay.style.display = 'none';
-        this.isOpen = false;
-    }
-};
-
-// Close dialog when clicking outside
-if (dialogManager.overlay) {
-    dialogManager.overlay.addEventListener('click', function (e) {
-        if (e.target === dialogManager.overlay) {
-            dialogManager.close();
-        }
-    });
-}
-
-// Close dialog with Escape key
-document.addEventListener('keydown', function (e) {
-    if (e.key === 'Escape' && dialogManager.isOpen) {
-        dialogManager.close();
-    }
-});
-
-// Make dialog accessible globally
-window.dialogManager = dialogManager;
 
 // Global state - MUST use window for cross-scope access
 window.currentNoteId = null;
@@ -335,9 +236,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // --- Page Specific Elements & Logic ---
     const pathname = window.location.pathname;
-    const API_BASE_URL = window.APP_CONFIG ? window.APP_CONFIG.API_BASE_URL : "http://127.0.0.1:5000";
     console.log('Current window.location.pathname:', pathname);
-    console.log('Using API Base URL:', API_BASE_URL);
+    console.log('Using API Base URL:', API_BASE_URL || '(same origin)');
 
     // Function to get note_id from URL
     function getNoteIdFromUrl() {
@@ -797,7 +697,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     // Estimate duration (rough: 1MB ≈ 1 minute for compressed audio)
                     const estimatedMinutes = Math.ceil(fileSizeMB);
                     const warningMsg = `This is a large file (${fileSizeMB.toFixed(1)}MB, ~${estimatedMinutes} min audio).\n\nTranscription may take 30-60 seconds.\n\nContinue?`;
-                    const confirmed = await window.dialogManager.confirm(warningMsg, "Large File Warning");
+                    const confirmed = confirm(warningMsg);
                     if (!confirmed) {
                         return; // User cancelled
                     }
@@ -874,7 +774,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 }
                 const transcriptTextarea = document.getElementById('transcript');
                 const subjectiveText = transcriptTextarea ? transcriptTextarea.value : "";
-                const confirmed = await window.dialogManager.confirm("Save Subjective data and proceed to Objective page?", "Save and Continue");
+                const confirmed = confirm("Save Subjective data and proceed to Objective page?");
                 if (confirmed) {
                     const originalText = nextButtonSubjective.textContent;
                     nextButtonSubjective.innerHTML = '<span>Saving...</span>';
@@ -924,18 +824,12 @@ document.addEventListener('DOMContentLoaded', function () {
                 const noteId = window.currentNoteId;
                 if (!noteId) {
                     const msg = "Error: Note ID missing. Please navigate from the start.";
-                    if (window.dialogManager) await window.dialogManager.alert(msg, "Error");
-                    else alert(msg);
+                    alert(msg);
                     return;
                 }
                 const objectiveText = objectiveTextarea ? objectiveTextarea.value : "";
 
-                let confirmed = false;
-                if (window.dialogManager) {
-                    confirmed = await window.dialogManager.confirm("Save Objective data and proceed to Assessment page?", "Save and Continue");
-                } else {
-                    confirmed = confirm("Save Objective data and proceed to Assessment page?");
-                }
+                const confirmed = confirm("Save Objective data and proceed to Assessment page?");
 
                 if (confirmed) {
                     if (objectiveLoadingIndicator) objectiveLoadingIndicator.style.display = 'block'; // Show indicator
@@ -959,8 +853,7 @@ document.addEventListener('DOMContentLoaded', function () {
                         window.location.href = `assessment.html?note_id=${noteId}`; // Navigate to assessment
                     } catch (error) {
                         console.error("Error saving objective data:", error);
-                        if (window.dialogManager) await window.dialogManager.alert(`Error saving Objective data: ${error.message}`, "Error");
-                        else alert(`Error saving Objective data: ${error.message}`);
+                        alert(`Error saving Objective data: ${error.message}`);
 
                         if (objectiveLoadingIndicator) objectiveLoadingIndicator.style.display = 'none'; // Hide on error
                         nextButtonObjective.disabled = false; // Re-enable on error
@@ -1084,18 +977,12 @@ document.addEventListener('DOMContentLoaded', function () {
                 const noteId = window.currentNoteId;
                 if (!noteId) {
                     const msg = "Error: Note ID missing. Please navigate from the start.";
-                    if (window.dialogManager) await window.dialogManager.alert(msg, "Error");
-                    else alert(msg);
+                    alert(msg);
                     return;
                 }
                 const assessmentText = assessmentTextarea ? assessmentTextarea.value : "";
 
-                let confirmed = false;
-                if (window.dialogManager) {
-                    confirmed = await window.dialogManager.confirm("Save Assessment data and proceed to Plan page?", "Save and Continue");
-                } else {
-                    confirmed = confirm("Save Assessment data and proceed to Plan page?");
-                }
+                const confirmed = confirm("Save Assessment data and proceed to Plan page?");
 
                 if (confirmed) {
                     nextButtonAssessment.disabled = true;
@@ -1111,8 +998,7 @@ document.addEventListener('DOMContentLoaded', function () {
                         window.location.href = `plan.html?note_id=${noteId}`;
                     } catch (error) {
                         console.error("Error saving assessment:", error);
-                        if (window.dialogManager) await window.dialogManager.alert(`Error saving Assessment data: ${error.message}`, "Error");
-                        else alert(`Error saving Assessment data: ${error.message}`);
+                        alert(`Error saving Assessment data: ${error.message}`);
                         nextButtonAssessment.disabled = false;
                     }
                 }
@@ -1178,18 +1064,12 @@ document.addEventListener('DOMContentLoaded', function () {
                 const noteId = window.currentNoteId;
                 if (!noteId) {
                     const msg = "Error: Note ID missing. Please navigate from the start.";
-                    if (window.dialogManager) await window.dialogManager.alert(msg, "Error");
-                    else alert(msg);
+                    alert(msg);
                     return;
                 }
                 const planText = planTextarea ? planTextarea.value : "";
 
-                let confirmed = false;
-                if (window.dialogManager) {
-                    confirmed = await window.dialogManager.confirm("Save this Plan and proceed to Summary?", "Save and Continue");
-                } else {
-                    confirmed = confirm("Save this Plan and proceed to Summary?");
-                }
+                const confirmed = confirm("Save this Plan and proceed to Summary?");
 
                 if (confirmed) {
                     summarizeButtonPlan.disabled = true;
@@ -1211,8 +1091,7 @@ document.addEventListener('DOMContentLoaded', function () {
                         window.location.href = `summary.html?note_id=${noteId}`;
                     } catch (error) {
                         console.error("Error saving plan data:", error);
-                        if (window.dialogManager) await window.dialogManager.alert(`Error saving Plan data: ${error.message}`, "Error");
-                        else alert(`Error saving Plan data: ${error.message}`);
+                        alert(`Error saving Plan data: ${error.message}`);
                         summarizeButtonPlan.disabled = false;
                         if (generatePlanButton) generatePlanButton.disabled = false;
                     }
@@ -1245,7 +1124,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
             if (!window.currentNoteId) {
                 console.log('Auto-generating summary for note ID:', window.currentNoteId);
-                await window.dialogManager.alert("Note ID is not available. Please navigate from the Plan page.", "Error");
+                alert("Note ID is not available. Please navigate from the Plan page.");
                 window.location.href = 'plan.html';
                 return;
             }
@@ -1270,7 +1149,7 @@ document.addEventListener('DOMContentLoaded', function () {
                         const message = `Cannot generate Summary. Missing required data:\n\n${missingSteps.join(', ')} section(s) need to be completed first.\n\nWould you like to go back and complete them?`;
 
                         summaryLoadingIndicator.style.display = 'none';
-                        if (await window.dialogManager.confirm(message, "Missing Data")) {
+                        if (confirm(message)) {
                             // Navigate to the first missing section
                             if (!hasSubjective) {
                                 window.location.href = `subjective.html?note_id=${window.currentNoteId}`;
@@ -1319,7 +1198,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 console.error("Error in auto-generate summary:", error);
                 summaryDisplayArea.textContent = `Error generating summary: ${error.message}`;
                 summaryDisplayArea.style.display = 'block';
-                await window.dialogManager.alert(`Error generating summary: ${error.message}`, "Generation Failed");
+                alert(`Error generating summary: ${error.message}`);
             } finally {
                 summaryLoadingIndicator.style.display = 'none';
             }

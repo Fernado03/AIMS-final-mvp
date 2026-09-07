@@ -4,7 +4,7 @@ import json
 import re
 import sys
 import uuid # For generating unique chunk IDs
-import spacy
+# ponytail: regex sentence split; spaCy NER only if chunk quality is bad
 
 # Add the base directory to the Python path
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -122,27 +122,8 @@ def create_chunks_from_text(cleaned_text, source_filename, source_title_approx, 
 def main():
     print("Starting Step 3: Text Chunking...")
     
-    # Load spaCy model with fallback to download if not found
+    # ULTRA_MINIMAL_MODE: skip spaCy NER, split on punctuation
     nlp = None
-    try:
-        try:
-            nlp = spacy.load("en_core_web_md")
-            print("Loaded spaCy model 'en_core_web_md'")
-        except OSError:
-            print("spaCy model 'en_core_web_md' not found. Attempting download...")
-            try:
-                import spacy.cli
-                spacy.cli.download("en_core_web_md")
-                nlp = spacy.load("en_core_web_md")
-                print("Successfully downloaded and loaded spaCy model 'en_core_web_md'")
-            except Exception as download_error:
-                print(f"Failed to download spaCy model: {download_error}")
-                print("  You can manually install it by running:")
-                print("  python -m spacy download en_core_web_md")
-                print("Falling back to basic sentence splitting")
-    except Exception as e:
-        print(f"Unexpected error loading spaCy: {e}")
-        print("Falling back to basic sentence splitting")
 
     try:
         cleaned_text_files = [f for f in os.listdir(config.CLEANED_TEXT_DIR) if f.endswith("_cleaned_ultra_minimal.txt")]
