@@ -65,7 +65,7 @@ pip install -r requirements.txt
 python -m backend.app         # use the venv python
 ```
 
-Windows: `start.bat` / `start.ps1` starts Mongo if Docker is up.
+Windows: `start.bat` starts Mongo if Docker is up.
 
 Open [http://localhost:5000](http://localhost:5000). Do not start a second `python -m backend.app` — port 5000 is already bound.
 

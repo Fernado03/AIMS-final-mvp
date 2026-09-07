@@ -112,7 +112,7 @@ python scripts/step_04_embed_chunks.py
 
 ### RAG Knowledge Base
 - Clinical Practice Guidelines (CPGs) retrieved with MiniLM cosine + CrossEncoder rerank
-- Integration with LLM prompts via `backend/rag/knowledge_base_service.py`
+- Integration with LLM prompts via `backend/rag/rag_service.py`
 - Cache: `backend/rag/corpus/clinical_practical_guide/minilm_l6_v2_embeddings.npz`
 
 ## File Organization Patterns
@@ -126,9 +126,8 @@ python scripts/step_04_embed_chunks.py
 
 ### Frontend Structure
 - Root HTML files: Each SOAP section has dedicated page
-- `components/`: Reusable UI elements
 - `public/`: Static assets (images, backgrounds)
-- JavaScript embedded in HTML files for page-specific functionality
+- JavaScript in `script.js` for SOAP workflow
 
 ### Data Processing
 - `rag_cpg_pipeline/`: Standalone processing for clinical guidelines
@@ -139,12 +138,12 @@ python scripts/step_04_embed_chunks.py
 
 ### API Patterns
 - RESTful endpoints for CRUD operations on notes
-- Separate endpoints for AI generation (`/api/generate_{section}/{note_id}`)
+- Streaming endpoints for Assessment / Plan (`/api/stream_{section}/{note_id}`); Summary is `/api/generate_summary/{note_id}`
 - Error handling with structured JSON responses
 - Database connection management with proper cleanup
 
 ### AI Integration
-- Prompt engineering for medical contexts in `rag/prompt_service.py`
+- Prompt templates live in `backend/services/llm_service.py`
 - RAG context injection for clinically relevant responses
 - Graceful degradation when AI services unavailable
 - Response validation for medical content structure

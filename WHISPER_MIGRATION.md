@@ -30,10 +30,7 @@ This document explains the migration from Google Cloud Speech-to-Text to OpenAI 
 | `.env.example` | Updated configuration template |
 | `.env` | Updated with new configuration |
 
-### 2. **Files Backed Up**
-
-- `backend/services/speech_service_google_backup.py` - Original Google Cloud implementation (for reference)
-
+Google Cloud STT/GCS backups were removed from the repo. STT is local Whisper only.
 ### 3. **Removed Dependencies**
 
 ```
@@ -191,27 +188,6 @@ Tested with clinical scenarios:
 | **`medium`** | **95%** ⭐ |
 | `large` | 97% |
 
-## 🔄 Reverting to Google Cloud (If Needed)
-
-If you need to revert to Google Cloud Speech-to-Text:
-
-1. Restore backup:
-   ```bash
-   Copy-Item backend\services\speech_service_google_backup.py backend\services\speech_service.py -Force
-   ```
-
-2. Restore dependencies in `requirements.txt`:
-   ```
-   google-cloud-speech
-   google-cloud-storage
-   ```
-
-3. Restore `.env` configuration with Google Cloud settings
-
-4. Reinstall dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## ✅ Testing Checklist
 
