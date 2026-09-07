@@ -91,13 +91,13 @@
 → "They don't have to! The doctor is always in control. AI suggests, doctor decides. Every note is reviewed and approved by the clinician before saving. We're an assistant, not a replacement."
 
 ### "What about data security?"
-→ "Phase 2 includes end-to-end encryption, PDPA compliance, and Google Cloud's enterprise security. For MVP, we're focused on functionality, but security is our top priority for production."
+→ "Phase 2 includes end-to-end encryption and PDPA compliance. STT is already local (Whisper). For MVP, we're focused on functionality, but security is our top priority for production."
 
 ### "Can you make money from this?"
 → "Yes! If we save 1.5 hours/day, that's worth RM4,500-9,000/month to a doctor. Our price is RM500/month - clear ROI. With just 50 clinics, that's RM300K annual revenue."
 
-### "What if Google shuts down your API?"
-→ "Multi-cloud strategy. We can switch to AWS or Azure. Also exploring open-source alternatives like Whisper and Llama. We're not locked into one provider."
+### "What if the LLM vendor shuts down your API?"
+→ "The client is OpenAI-compatible. Swap `LLM_BASE_URL` / `LLM_MODEL`. STT is already local Whisper — we are not locked into one cloud STT or LLM vendor."
 
 ---
 

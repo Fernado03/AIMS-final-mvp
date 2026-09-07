@@ -1,173 +1,113 @@
-# AIMS Medical Scribe - AI-Powered Clinical Documentation
+# AIMS Medical Scribe
 
-AIMS (AI Medical Scribe) is an advanced clinical documentation assistant leveraging large language models (LLMs) to help healthcare professionals generate accurate, structured SOAP notes. The application combines real-time voice transcription with AI-assisted content generation powered by Google Vertex AI (Gemini model), providing intelligent suggestions throughout the documentation workflow.
+Clinical SOAP notes from consult audio. Local Whisper transcribes. An OpenAI-compatible LLM drafts Assessment / Plan / Summary, grounded in Malaysian CPG chunks (MiniLM retrieve + CrossEncoder rerank). Clinician reviews before save.
 
-## Table of Contents
-- [System Components](#system-components)
-  - [Backend](#backend)
-  - [Frontend](#frontend)
-  - [RAG CPG Pipeline](#rag-cpg-pipeline)
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Setup Instructions](#setup-instructions)
-- [Usage Workflow](#usage-workflow)
-- [Project Structure](#project-structure)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
-- [Support](#support)
+**Demo:** [http://localhost:5000](http://localhost:5000)
 
-## System Components
+## Preview
 
-### Backend
-Located in `backend/` directory, provides the AI/LLM processing core including:
-- Voice-to-text transcription (Google Cloud Speech-to-Text)
-- LLM-powered clinical note generation (Google Vertex AI Gemini)
-- API endpoints for frontend integration
-- Database operations for clinical data
+Landing page:
 
-### Frontend
-Located in `frontend/` directory, contains the clinical documentation interface with:
-- Real-time AI suggestions
-- Interactive SOAP note workflow
-- Voice recording integration
+![AIMS landing page](docs/preview/home.png)
 
-### RAG CPG Pipeline (Optional)
-The RAG (Retrieval-Augmented Generation) CPG (Clinical Practice Guidelines) pipeline enhances the AI system by providing structured medical guideline knowledge for reference during documentation.
+SOAP workflow (Subjective → Assessment → Plan → Summary):
 
-## Features
+| Subjective | Assessment |
+|---|---|
+| ![Subjective](docs/preview/subjective.png) | ![Assessment](docs/preview/assessment.png) |
+| **Plan** | **Summary** |
+| ![Plan](docs/preview/plan.png) | ![Summary](docs/preview/summary.png) |
 
-### AI-Powered Documentation
-- **Voice Transcription:** Real-time speech-to-text powered by Google Cloud Speech-to-Text API
-- **AI-Assisted Generation:** Context-aware clinical suggestions using Google Vertex AI (Gemini model) for:
-  - Differential diagnoses
-  - Treatment plan recommendations
-  - Clinical documentation refinement
-- **Clinical Summary:** Automated generation of structured patient summaries with LLM post-processing
+## Architecture
 
-### Backend Services
-- Voice transcription service
-- AI generation service
-- Database operations
-- API endpoints for frontend integration
+```mermaid
+flowchart LR
+  UI["Browser<br/>HTML / CSS / JS"] -->|REST + SSE| Flask["Flask :5000"]
+  Flask --> Whisper["Local Whisper STT"]
+  Flask --> Mongo[(MongoDB)]
+  Flask --> LLM["OpenAI-compatible LLM<br/>LLM_BASE_URL / LLM_MODEL"]
+  Flask --> RAG["RAGService"]
+  RAG --> MiniLM["all-MiniLM-L6-v2<br/>cosine over CPG chunks"]
+  MiniLM --> CE["CrossEncoder rerank<br/>ms-marco-MiniLM-L-6-v2"]
+  CE --> LLM
+  LLM -->|Sources: CPG titles| UI
+```
 
-### Frontend Components
-- SOAP note workflow components
-- Voice recording interface
-- Clinical documentation forms
-- AI suggestion display components
+1. Browser records or uploads audio → Flask → Whisper (local, no cloud STT).
+2. Transcript + vitals land in Mongo (`aims_medical_scribe`).
+3. Generate Assessment / Plan / Summary streams from the LLM.
+4. RAG injects the top 3 CPG snippets (400 chars each) and appends a `Sources:` footer of retrieved titles — not LLM-invented `[1]` markers.
 
-### Technical Features
-- **Web-Based Interface:** Responsive design for desktop use
-- **Data Persistence:** Patient notes stored securely in local database
-- **Real-Time Processing:** Immediate feedback during note creation
+## Stack
 
-## Technology Stack
+| Layer | What runs |
+|---|---|
+| UI | Vanilla HTML / CSS / JS, served by Flask |
+| API | Python 3.11, Flask, `python -m backend.app` |
+| STT | Local OpenAI Whisper (`WHISPER_MODEL`, default `medium`) |
+| LLM | OpenAI SDK against `LLM_BASE_URL` (default `https://api.hcnsec.cn/v1`), model `LLM_MODEL` (default `glm-5.3-flash`) |
+| RAG | `sentence-transformers/all-MiniLM-L6-v2` + `cross-encoder/ms-marco-MiniLM-L-6-v2` over `backend/rag/corpus/clinical_practical_guide/*.jsonl` |
+| DB | MongoDB (`MONGO_URI`, default `mongodb://127.0.0.1:27017`) |
 
-### Core AI Components
-- **Large Language Model:** Google Vertex AI (Gemini model) for clinical text generation
-- **Speech Recognition:** Google Cloud Speech-to-Text API for voice transcription
-- **Natural Language Processing:** Custom prompt engineering for medical contexts
+Not used at runtime: Google Gemini / Vertex, Google Cloud STT, SQLite, Ollama.
 
-### Backend
-- Python 3.9+
-- Flask web framework
-- SQLite database
-- Integration with Google Cloud AI services
+## Setup
 
-### Frontend
-- HTML5, CSS3, JavaScript
-- Responsive design components
-- Client-side form validation
+Prerequisites: Python 3.9+, FFmpeg, Docker Desktop (local Mongo), an OpenAI-compatible API key.
 
-### RAG CPG Pipeline (Optional Enhancement)
-**Core Technologies:**
-- Python
-- PyMuPDF (fitz)
-- Tesseract OCR (pytesseract)
-- spaCy NLP pipelines
-- Sentence Transformers
-- Vertex AI Vector Search
+```bash
+cp .env.example .env          # set LLM_API_KEY
+docker start aims-mongo || docker run -d --name aims-mongo -p 27017:27017 mongo:7
+python -m venv venv
+# Windows: .\venv\Scripts\activate
+# Linux/Mac: source venv/bin/activate
+pip install -r requirements.txt
+python -m backend.app         # use the venv python
+```
 
-**Pipeline Stages:**
-- Text extraction and cleaning
-- Chunking and embedding generation
-- Vector storage/retrieval
+Windows: `start.bat` / `start.ps1` starts Mongo if Docker is up.
 
-### Frontend
-- HTML5, CSS3, JavaScript
-- Responsive design components
-- Client-side form validation
+Open [http://localhost:5000](http://localhost:5000). Do not start a second `python -m backend.app` — port 5000 is already bound.
 
-## Setup Instructions
+`.env` is gitignored. Do not commit the live key or `backend/rag/corpus/**/*.npz` (MiniLM cache; rebuilds on first generate if missing).
 
-### Prerequisites
-- Python 3.9 or later
-- Google Cloud account with:
-  - Speech-to-Text API enabled
-  - Vertex AI API enabled
-  - Service account credentials
+## Workflow
 
-### Installation
-1. Clone the repository
-2. Create and activate virtual environment:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # Linux/Mac
-   .\venv\Scripts\activate  # Windows
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Configure environment variables in `.env` file
+1. **Subjective** — record / upload consult audio, edit transcript, mark pain on the body map.
+2. **Objective** — vitals and findings.
+3. **Assessment** — Generate; review streamed text + `Sources:` CPG titles.
+4. **Plan** — Generate treatment / follow-up the same way.
+5. **Summary** — combined SOAP, export TXT/PDF.
 
-1. Start backend server:
-   ```bash
-   python -m backend.app
-   ```
-2. Access application at:
-   ```
-   http://localhost:5000/frontend/index.html
-   ```
-
-## Usage Workflow
-
-1. **Subjective:** Record or type patient history
-2. **Objective:** Enter examination findings
-3. **Assessment:** Generate and review AI suggestions
-4. **Plan:** Create treatment plan with AI assistance
-5. **Summary:** Generate final clinical summary
-
-## Project Structure
+## Layout
 
 ```
-AIMS-website/
-├── backend/           # Core application logic
-│   ├── app.py         # Main application entry
-│   ├── database.py    # Secure data storage
-│   ├── services/      # Integration services
-│   ├── routes/        # API endpoints
-│   └── rag/           # Optional RAG components
-├── frontend/          # Clinical interface
-│   ├── components/    # Reusable UI elements
-│   ├── *.html         # Clinical workflow pages
-│   └── *.css          # Clinical styling
-├── rag_cpg_pipeline/  # Supporting RAG processing
-└── requirements.txt   # Dependency management
+AIMS-final-mvp/
+├── backend/
+│   ├── app.py                 # Flask entry (reloader off)
+│   ├── config.py              # load_dotenv + LLM / Whisper / Mongo
+│   ├── database.py            # Mongo
+│   ├── routes/                # notes, speech, …
+│   ├── services/              # whisper STT, OpenAI-compatible LLM
+│   └── rag/                   # MiniLM retrieve + CrossEncoder
+├── frontend/                  # SOAP pages + static assets
+├── rag_cpg_pipeline/          # offline CPG PDF → JSONL (optional)
+├── docs/preview/              # UI screenshots
+├── .env.example
+└── requirements.txt
 ```
 
 ## Troubleshooting
 
-### Common Issues
-- **Database Errors:** Delete `notes_main.db` to reset
-- **API Connection Issues:** Verify service account credentials
+| Symptom | Fix |
+|---|---|
+| Mongo errors | `docker start aims-mongo` |
+| LLM 401 / empty generate | `LLM_API_KEY` / `LLM_BASE_URL` in `.env`. Reasoning models need a real `max_tokens` (do not cap at 8). |
+| First Generate is slow / RAM ~600MB | MiniLM + CrossEncoder lazy-load on first Assessment. Use the **venv** python; system Python on :5000 will skip the venv models. |
+| Whisper missing / slow | First run downloads the model. `WHISPER_MODEL=small` if RAM is tight. FFmpeg required. |
+| `Failed to fetch` on Generate | Something killed Flask (often OOM from a huge embedder). Confirm one listener on :5000. |
+| Stale CPG ranking | Delete `backend/rag/corpus/clinical_practical_guide/minilm_l6_v2_embeddings.npz` and generate once to re-embed. |
 
-## Contributing
-We welcome contributions from the medical and technical communities. Please contact the development team for contribution guidelines and code of conduct.
+## License / support
 
-## License
-This project is currently under development. Licensing information will be provided upon public release.
-
-## Support
-For clinical implementation support or technical issues, please contact the development team.
+In development; licensing TBD. Contact the KinaVis team for clinical or technical questions.

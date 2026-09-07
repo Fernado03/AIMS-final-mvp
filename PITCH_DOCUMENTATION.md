@@ -23,7 +23,7 @@
 ## 🎯 Executive Summary
 
 **What is AIMS?**
-AIMS (AI Medical Scribe) is an LLM-powered clinical documentation assistant that transforms patient consultation audio into structured, accurate SOAP notes using advanced speech recognition and Google's Gemini AI.
+AIMS (AI Medical Scribe) is an LLM-powered clinical documentation assistant that transforms patient consultation audio into structured, accurate SOAP notes using local Whisper speech recognition and an OpenAI-compatible LLM.
 
 **The Opportunity**
 - Clinicians spend **2 hours on documentation for every 1 hour** with patients
@@ -91,12 +91,12 @@ AIMS (AI Medical Scribe) is an LLM-powered clinical documentation assistant that
 
 #### 1️⃣ **Instant Audio Transcription**
 - Upload consultation recording or record live
-- Speech-to-Text powered by Google Cloud
+- Speech-to-Text powered by local Whisper
 - Supports Malay & English (bilingual)
 - 95%+ accuracy rate
 
 #### 2️⃣ **AI-Generated SOAP Notes**
-- Google Gemini AI understands medical context
+- OpenAI-compatible LLM understands medical context
 - Generates structured clinical notes:
   - **S**ubjective: Patient's reported symptoms
   - **O**bjective: Clinical findings
@@ -180,16 +180,16 @@ AIMS (AI Medical Scribe) is an LLM-powered clinical documentation assistant that
        │
        ↓
 ┌─────────────┐
-│ Flask API   │  ← Python Backend (Flask + SQLite)
+│ Flask API   │  ← Python Backend (Flask + MongoDB)
 └──────┬──────┘
        │
-       ├──→ Google Cloud Speech-to-Text API
+       ├──→ Local Whisper
        │    (Audio Transcription)
        │
-       ├──→ Google Vertex AI (Gemini)
-       │    (Clinical Text Generation)
+       ├──→ OpenAI-compatible LLM
+       │    (Clinical Text Generation + CPG RAG)
        │
-       └──→ SQLite Database
+       └──→ MongoDB
             (Session & Note Storage)
 \\\
 
@@ -203,28 +203,28 @@ AIMS (AI Medical Scribe) is an LLM-powered clinical documentation assistant that
 
 #### **Backend**
 - Python 3.11 + Flask
-- SQLite database
+- MongoDB
 - Blueprint architecture (modular routes)
 - CORS-enabled API
 
 #### **AI/ML Services**
-- **Google Cloud Speech-to-Text**
-  - Streaming & batch transcription
-  - Medical vocabulary optimization
-  - Multi-language support
-  
-- **Google Vertex AI (Gemini Pro)**
-  - Medical context understanding
+- **Local Whisper**
+  - On-device transcription (no cloud STT)
+  - Medical vocabulary
+  - Works offline after first model download
+
+- **OpenAI-compatible LLM + CPG RAG**
+  - Medical context understanding (MiniLM retrieve, CrossEncoder rerank)
   - Structured output generation
   - Prompt engineering for clinical accuracy
 
 #### **Data Flow**
 1. Audio captured via browser MediaRecorder API
 2. Sent to Flask backend via multipart/form-data
-3. Backend forwards to Google Speech-to-Text
-4. Transcript stored in SQLite with note_id
+3. Backend transcribes locally with Whisper
+4. Transcript stored in MongoDB with note_id
 5. User proceeds through SOAP workflow
-6. Gemini AI generates Assessment/Plan based on S+O
+6. LLM generates Assessment/Plan from S+O, citing retrieved CPGs
 7. Final summary combines all sections
 8. Export to TXT/PDF
 
@@ -420,13 +420,13 @@ AIMS (AI Medical Scribe) is an LLM-powered clinical documentation assistant that
 ### Cost Structure
 
 **Fixed Costs (Monthly):**
-- Google Cloud services: ~RM 500
+- LLM API + hosting: ~RM 500
 - Server hosting: ~RM 200
 - Development tools: ~RM 150
 - **Total:** ~RM 850/month
 
 **Variable Costs (Per User):**
-- API calls (Speech-to-Text + Gemini): ~RM 50/user/month
+- API calls (LLM): ~RM 50/user/month
 - Storage: ~RM 5/user/month
 - Support: ~RM 20/user/month
 - **Total:** ~RM 75/user/month
@@ -441,7 +441,7 @@ AIMS (AI Medical Scribe) is an LLM-powered clinical documentation assistant that
 
 ### ✅ **Phase 1: MVP (Current - Q4 2024)**
 - [x] Core SOAP workflow
-- [x] Google Cloud integration
+- [x] Local Whisper STT + OpenAI-compatible LLM
 - [x] Basic UI/UX
 - [x] Session management
 - [x] Export functionality
@@ -490,7 +490,7 @@ AIMS (AI Medical Scribe) is an LLM-powered clinical documentation assistant that
 **Iyzman Daniel** - AI Developer
 - Email: danieliyzman@gmail.com
 - Role: LLM integration, prompt engineering, AI optimization
-- Skills: Machine Learning, NLP, Gemini AI
+- Skills: Machine Learning, NLP, LLM integration
 
 **Asyiqin Nazirah** - AI Developer
 - Email: norasyiqinnazirah03@gmail.com
@@ -545,13 +545,13 @@ AIMS (AI Medical Scribe) is an LLM-powered clinical documentation assistant that
 ### Technical Questions
 
 #### **Q: How accurate is the speech transcription?**
-**A:** Our current accuracy is 90-95% using Google Cloud Speech-to-Text. For medical terminology, we're implementing custom vocabulary models to boost accuracy to 98%+. The key is that doctors always review and can edit transcriptions before proceeding.
+**A:** Our current accuracy is 90-95% using local Whisper. Doctors always review and can edit transcriptions before proceeding.
 
 #### **Q: Can it handle different accents and languages?**
-**A:** Yes! Google Speech-to-Text supports Malaysian English and Malay. We're also fine-tuning for local accents common in Sabah. The system can handle code-switching between English and Malay.
+**A:** Whisper supports English and Malay. We're also fine-tuning for local accents common in Sabah. The system can handle code-switching between English and Malay.
 
 #### **Q: How does the AI generate clinical notes? Is it accurate?**
-**A:** We use Google's Gemini Pro model with specialized medical prompts. The AI analyzes the subjective symptoms and objective findings to suggest diagnoses and treatments based on medical literature patterns. However, the AI is an assistant - final decisions and approval always rest with the licensed clinician.
+**A:** We use an OpenAI-compatible LLM with specialized medical prompts and retrieved Malaysian CPG snippets. The AI analyzes the subjective symptoms and objective findings to suggest diagnoses and treatments. However, the AI is an assistant - final decisions and approval always rest with the licensed clinician.
 
 #### **Q: What if the AI makes a mistake?**
 **A:** That's why we maintain "clinician-in-control" design:
@@ -566,7 +566,6 @@ AIMS (AI Medical Scribe) is an LLM-powered clinical documentation assistant that
 Production roadmap includes:
 - End-to-end encryption
 - HTTPS/TLS for all transfers
-- Google Cloud's secure infrastructure
 - PDPA compliance (Malaysia)
 - Regular security audits
 - Data retention policies
@@ -584,13 +583,12 @@ Current export (TXT/PDF) allows manual import to any system.
 - Auto-save drafts locally
 - Sync when connection restored
 
-#### **Q: Why Google Cloud instead of AWS or Azure?**
-**A:** 
-- Superior medical speech recognition
-- Gemini AI specifically strong at structured text generation
-- Better pricing for our use case
-- Google Cloud has Malaysian data centers (low latency)
-- Academic credits available
+#### **Q: Why this LLM instead of a locked-in cloud vendor?**
+**A:**
+- OpenAI-compatible endpoint — swap `LLM_BASE_URL` / `LLM_MODEL` without rewriting the app
+- Local Whisper for STT (privacy, no per-minute cloud STT bill)
+- CPG RAG is on-disk MiniLM, not a hosted vector DB
+- Academic / demo keys available for the current gateway
 
 ### Business Questions
 
@@ -933,7 +931,7 @@ We're not just building software. We're:
 - AMA Physician Burnout Statistics 2023
 - WHO Malaysia Healthcare Report
 - Malaysian Medical Association Guidelines
-- Google Cloud Healthcare Solutions
+- Malaysian CPG corpus (MiniLM RAG)
 
 ### Additional Materials
 - Technical architecture diagram
