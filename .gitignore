@@ -15,3 +15,6 @@ notes_main.db
 
 # Logs
 *.log
+
+# Generated MiniLM RAG cache
+backend/rag/corpus/**/*.npz

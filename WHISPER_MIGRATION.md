@@ -74,13 +74,13 @@ WHISPER_LANGUAGE=en
 ### Step 3: Remove Old Google Cloud Settings
 
 You **no longer need** these in `.env`:
-- `GOOGLE_APPLICATION_CREDENTIALS` (only for Vertex AI now)
+- `GOOGLE_APPLICATION_CREDENTIALS`
 - `GCS_BUCKET_NAME` (removed entirely)
 - `SPEECH_LANGUAGE_CODE` (replaced by WHISPER_LANGUAGE)
 - `SPEECH_MODEL` (replaced by WHISPER_MODEL)
 - `SPEECH_ENABLE_AUTOMATIC_PUNCTUATION` (Whisper does this automatically)
 
-**Note:** You still need Google Cloud credentials for **Vertex AI** (LLM generation), but not for speech-to-text.
+**Note:** Speech-to-text is fully local. LLM generation uses an OpenAI-compatible API (`LLM_API_KEY`), not Google Cloud.
 
 ## 🎤 Model Selection Guide
 

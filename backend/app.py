@@ -11,7 +11,6 @@ from dotenv import load_dotenv
 load_dotenv()
 from backend.database import init_db
 from backend.routes.note_routes import note_bp
-from backend.services.llm_service import gemini_model # To check if model loaded
 
 app = Flask(__name__,
     static_folder=os.path.abspath(os.path.join(os.path.dirname(__file__), '..', 'frontend')),
@@ -49,6 +48,4 @@ def summary():
 
 if __name__ == '__main__':
     init_db()
-    if not os.environ.get("GOOGLE_APPLICATION_CREDENTIALS"):
-        print("⚠️ WARNING: GOOGLE_APPLICATION_CREDENTIALS environment variable not set.")
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    app.run(debug=True, use_reloader=False, host='0.0.0.0', port=5000)

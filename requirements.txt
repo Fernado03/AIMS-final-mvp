@@ -8,7 +8,7 @@ librosa  # For audio duration detection
 
 
 # AI/ML for LLM and RAG
-google-generativeai
+openai
 numpy
 sentence-transformers
 einops

@@ -18,10 +18,13 @@ os.makedirs(CHUNKS_DIR, exist_ok=True)
 os.makedirs(EMBEDDED_CHUNKS_DIR, exist_ok=True)
 
 # --- Embedding Model Configuration ---
+# Offline PDF→JSONL pipeline default. Runtime retrieve in
+# backend/rag/architecture/rag_service.py uses MiniLM
+# (sentence-transformers/all-MiniLM-L6-v2), not this nomic model.
 EMBEDDING_MODEL_NAME = 'basilisk78/nomic-v2-tuned-1'
 
-# --- Vector DB Configuration (Vertex AI Vector Search) ---
-# These will be used when you set up your Vector Search index for all CPGs
+# --- Vector DB Configuration ---
+# Unused at runtime (in-process numpy cache, not a hosted index).
 VECTOR_DB_INDEX_NAME = "medical_cpgs_index"
 VECTOR_DB_INDEX_ENDPOINT_NAME = "medical_cpgs_index_endpoint"
 VECTOR_DB_DIMENSIONS = 768

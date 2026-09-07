@@ -1,6 +1,6 @@
 # AIMS Deployment Guide
 
-Follow these steps to deploy your AI Medical Scribe to the cloud.
+Follow these steps to deploy your AI Medical Scribe to the cloud. Local demo uses Docker Mongo (`docker start aims-mongo`); Atlas is only for production.
 
 ## Phase 1: MongoDB Atlas (Database)
 1.  **Create Cluster**: Go to [MongoDB Atlas](https://www.mongodb.com/cloud/atlas), sign up, and create a free "Shared" cluster.
@@ -29,7 +29,9 @@ Your local changes (including the new deployment config) have been committed.
     -   **Build Command**: `pip install -r requirements.txt`
     -   **Start Command**: `gunicorn backend.app:app`
 4.  **Environment Variables**: Scroll down to "Environment Variables" and add:
-    -   `GOOGLE_API_KEY`: (Your Gemini API Key)
+    -   `LLM_API_KEY`: (Your hcnsec / OpenAI-compatible API key)
+    -   `LLM_BASE_URL`: `https://api.hcnsec.cn/v1`
+    -   `LLM_MODEL`: `glm-5.3-flash`
     -   `MONGO_URI`: (The MongoDB connection string from Phase 1)
 5.  **Deploy**: Click "Create Web Service". Wait for it to go live.
 6.  **Copy URL**: Once deployed, copy the service URL (e.g., `https://aims-backend.onrender.com`).
