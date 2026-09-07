@@ -18,7 +18,7 @@ def get_db_connection():
     try:
         if _mongo_client is None:
             print("🔌 Establishing new MongoDB connection...")
-            _mongo_client = MongoClient(MONGO_URI)
+            _mongo_client = MongoClient(MONGO_URI, serverSelectionTimeoutMS=5000)
         
         # Check if client is still active (optional: simple check)
         # In production with meaningful traffic, just returning the client is usually fine.

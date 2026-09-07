@@ -28,6 +28,14 @@ if errorlevel 1 (
     echo Installing dependencies...
     pip install -r requirements.txt
 )
+echo Starting local MongoDB...
+docker start aims-mongo >nul 2>&1
+if errorlevel 1 (
+    docker run -d --name aims-mongo -p 27017:27017 mongo:7 >nul 2>&1
+    if errorlevel 1 (
+        echo [WARNING] Could not start Docker Mongo. Open Docker Desktop, then: docker start aims-mongo
+    )
+)
 
 echo.
 echo === Starting AIMS Backend Server ===

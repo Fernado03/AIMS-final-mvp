@@ -88,11 +88,23 @@ def check_dependencies(pip_path):
     print_status('OK', 'Dependencies installed')
 
 
-def check_database():
-    """Check if database exists"""
-    db_path = Path('backend') / 'notes_main.db'
-    if not db_path.exists():
-        print_status('INFO', 'Database will be created on first run')
+def ensure_mongo():
+    """Start local Docker Mongo if available."""
+    try:
+        started = subprocess.run(['docker', 'start', 'aims-mongo'], capture_output=True, text=True)
+        if started.returncode == 0:
+            print_status('OK', 'MongoDB container aims-mongo running')
+            return
+        created = subprocess.run(
+            ['docker', 'run', '-d', '--name', 'aims-mongo', '-p', '27017:27017', 'mongo:7'],
+            capture_output=True, text=True,
+        )
+        if created.returncode == 0:
+            print_status('OK', 'MongoDB container aims-mongo created')
+            return
+        print_status('WARNING', 'Could not start Docker Mongo. Open Docker Desktop, then: docker start aims-mongo')
+    except FileNotFoundError:
+        print_status('WARNING', 'Docker not found. Start Mongo yourself or set MONGO_URI.')
 
 
 def open_browser(url, delay=3):
@@ -116,7 +128,7 @@ def main():
     
     # Check dependencies
     check_dependencies(pip_exe)
-    check_database()
+    ensure_mongo()
     
     # Start server
     print_header('=== Starting AIMS Backend Server ===', 'cyan')

@@ -50,10 +50,14 @@ if (-not ($pipList -match "Flask")) {
 }
 Write-Host "[OK] Dependencies installed" -ForegroundColor Green
 
-# Check if database exists, if not it will be created by init_db()
-if (-not (Test-Path "backend\notes_main.db")) {
-    Write-Host "
-[INFO] Database will be created on first run" -ForegroundColor Cyan
+# Start local Docker Mongo (aims-mongo)
+Write-Host "Starting local MongoDB..." -ForegroundColor Yellow
+docker start aims-mongo 2>$null | Out-Null
+if ($LASTEXITCODE -ne 0) {
+    docker run -d --name aims-mongo -p 27017:27017 mongo:7 2>$null | Out-Null
+    if ($LASTEXITCODE -ne 0) {
+        Write-Host "[WARNING] Could not start Docker Mongo. Open Docker Desktop, then: docker start aims-mongo" -ForegroundColor Yellow
+    }
 }
 
 Write-Host "
